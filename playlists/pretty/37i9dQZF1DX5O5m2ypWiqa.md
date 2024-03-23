@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 
 > ¡Y qué retumbe la bandona, pariente! Joan Sebastian en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,837,014 likes - 150 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,837,594 likes - 150 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 38 | [Quién Es Usted](https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 3:33 |
 | 39 | [Me Sobrabas Tú](https://open.spotify.com/track/33XISWpHJRbAvFSMW1y44A) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 3:01 |
 | 40 | [Dámaso](https://open.spotify.com/track/7yAwyQ2np0KRjeXsGwirez) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 2:39 |
-| 41 | [Una Noche Más Contigo](https://open.spotify.com/track/3hyZDNRrpnUo2ScK2J6fe7) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Exitos De Mariano Barba](https://open.spotify.com/album/3Y1feJXQVxyZGhwA3IC4uR) | 4:10 |
-| 42 | [Tu Eterno Enamorado](https://open.spotify.com/track/0S3fsClMI9T26hpfwBdRqA) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS) | 3:40 |
+| 41 | [Tu Eterno Enamorado](https://open.spotify.com/track/0S3fsClMI9T26hpfwBdRqA) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS) | 3:40 |
+| 42 | [Una Noche Más Contigo](https://open.spotify.com/track/3hyZDNRrpnUo2ScK2J6fe7) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Exitos De Mariano Barba](https://open.spotify.com/album/3Y1feJXQVxyZGhwA3IC4uR) | 4:10 |
 | 43 | [Solo Un Dia \(Ahora Te Amo\)](https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Solo Un Dia…](https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0) | 3:23 |
 | 44 | [Te Presumo](https://open.spotify.com/track/3EjuEvxoNgHV6urIdPA4cl) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:12 |
 | 45 | [Nadie Como Tú](https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 3:35 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 100 | [Muchas Gracias](https://open.spotify.com/track/0hMrhXemQsyYON48v8k21H) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [Las Más Perronas de Banda](https://open.spotify.com/album/5YaunEHdo66ZySyG3kGhNu) | 3:03 |
 | 101 | [Un Rinconcito en el Cielo](https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Homenaje A Ramon Ayala](https://open.spotify.com/album/3Duc8M0fBz1UT53deyiec4) | 3:35 |
 | 102 | [Amantes Escondidos](https://open.spotify.com/track/4PbrxFKJg5rLkZ77vKhhY9) | [Germán Montero](https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak) | [Pensando En Ti](https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u) | 2:53 |
-| 103 | [Frio De Ausencia](https://open.spotify.com/track/18pyEi1Lu4421p3WqRoevn) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Ultimo Trago](https://open.spotify.com/album/5it3AmjHepFq7wf1jfCJxb) | 3:09 |
-| 104 | [Te Soñé](https://open.spotify.com/track/0hZgBAj7W0EkRH16feKmUu) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 3:45 |
+| 103 | [Te Soñé](https://open.spotify.com/track/0hZgBAj7W0EkRH16feKmUu) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 3:45 |
+| 104 | [Frio De Ausencia](https://open.spotify.com/track/18pyEi1Lu4421p3WqRoevn) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Ultimo Trago](https://open.spotify.com/album/5it3AmjHepFq7wf1jfCJxb) | 3:09 |
 | 105 | [La Noche Perfecta](https://open.spotify.com/track/25p1jEwtuplwNIbZkoW5Kv) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Historia](https://open.spotify.com/album/1wOiaOlSa4ynjXA3NXT4Wf) | 3:07 |
 | 106 | [Indeleble](https://open.spotify.com/track/6r6g6eNSA6CNXo423wJ6gV) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Indeleble](https://open.spotify.com/album/6AxSh2VYkdZUSZmwpLKsyk) | 3:07 |
 | 107 | [Soltero Disponible](https://open.spotify.com/track/4jgKVF6yT6dZJrHQtw5GZe) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Senzu\-Rah](https://open.spotify.com/album/5j4Jj0DflPXIWwrJa3W5hS) | 2:43 |
@@ -136,9 +136,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 126 | [La Luna](https://open.spotify.com/track/435MKCIggV4jMouMwEuBC8) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Sólo Contigo](https://open.spotify.com/album/5RlcPIc7Q2hmuVXaGTM6St) | 3:48 |
 | 127 | [Te He Prometido](https://open.spotify.com/track/2vdVI9ya3CLLXKCRr4rryJ) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL) | 3:12 |
 | 128 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/2EjxmOw1V5MZ40S7rCiHeP) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Tesoros De Coleccion \- \-Victor Cordero A Traves De Sus Mas Bellas Canciones Y Sus Mejores Interpretes](https://open.spotify.com/album/2wx0qAtALUWK0IfGfpCJdJ) | 3:04 |
-| 129 | [Un Pinchi Beso](https://open.spotify.com/track/4hazVM2fmzBmcJ4JUW8R5x) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS) | 2:41 |
+| 129 | [El Que Se Enamora Pierde](https://open.spotify.com/track/24Yw6Hoi0sPaJKb16uQZGI) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 2:20 |
 | 130 | [En la Sierra y la Ciudad \(La China\)](https://open.spotify.com/track/4d87IagHd2tUKqPup408jJ) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 3:24 |
-| 131 | [El Que Se Enamora Pierde](https://open.spotify.com/track/24Yw6Hoi0sPaJKb16uQZGI) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 2:20 |
+| 131 | [Un Pinchi Beso](https://open.spotify.com/track/4hazVM2fmzBmcJ4JUW8R5x) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS) | 2:41 |
 | 132 | [Relación Clandestina](https://open.spotify.com/track/7jmc6mYF2HGjXNCoHx9KbF) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Hombre De Rancho](https://open.spotify.com/album/37vmImrA5Kbl0kPbCN68y1) | 3:36 |
 | 133 | [Se Va Muriendo Mi Alma](https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Tirando Party](https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC) | 3:56 |
 | 134 | [Derecho De Antigüedad](https://open.spotify.com/track/37MzlcXgRH5rzTJYcSX2RD) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Romances](https://open.spotify.com/album/3yf7ChHaHsfVTnq7b9c0Xt) | 3:06 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 149 | [Y Tú \- Ranchera](https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:51 |
 | 150 | [Mi Mayor Anhelo](https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 3:29 |
 
-Snapshot ID: `MCxhZGJhYTVmNTA2M2EwMzBjNmJmMTdkMzI5NzAyMzAzYmFjYTFiODM2`
+Snapshot ID: `MCxlMmE1ODllNDYyNzg3MGFmNGQ5NjI5NjFmMTU1NWQwMTAyMTU2ZWZj`

@@ -4,7 +4,7 @@
 
 > Latin tunes to get your beast mode on!
 
-498 songs - 1 day 3 hr 56 min
+499 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Bar](https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Bar](https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf) | 2:40 | 2021-12-21 | 2023-05-09 |
 | [Barras y Berettas \(B.B.\)](https://open.spotify.com/track/3ipqtvM4cUoNCjmLeBnaEx) | [Shootter Ledo](https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Barras y Berettas \(B.B.\)](https://open.spotify.com/album/0BinHl5QNz4NornmuxQm2m) | 3:11 | 2022-09-23 | 2022-12-02 |
 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2023-12-28 |  |
-| [Bellakita](https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ) | [C Dobleta](https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE) | [Bellakita](https://open.spotify.com/album/0xnUNAewtVl83rVHz9b8RS) | 3:02 | 2024-03-17 |  |
+| [Bellakita](https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ) | [C Dobleta](https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE) | [Bellakita](https://open.spotify.com/album/0xnUNAewtVl83rVHz9b8RS) | 3:02 | 2024-03-17 | 2024-03-23 |
+| [Bellakita](https://open.spotify.com/track/5pdaMvOqvNPxEOgyKnej38) | [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [Bellakita](https://open.spotify.com/album/6TQTbHsOuOqUW5CVlFhvPk) | 3:02 | 2024-03-17 |  |
 | [Bendecido](https://open.spotify.com/track/3ZV60LVhqQ2uHXG6LL6F0V) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:22 | 2024-03-17 |  |
 | [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 | 2023-05-08 | 2024-03-18 |
 | [Besandome NYC](https://open.spotify.com/track/2fjKirTBTsimc7oJ9SS5Yz) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Besandome NYC](https://open.spotify.com/album/3qD5p8tx10MiJJ7peAecGM) | 3:53 | 2023-12-28 | 2024-03-18 |

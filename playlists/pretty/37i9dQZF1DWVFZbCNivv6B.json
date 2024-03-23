@@ -1,13 +1,29 @@
 {
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Santa Fe Klan, Peso Pluma y Duki en la casa. ",
-  "num_followers": 820254,
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Tornillo en la casa. ",
+  "num_followers": 820574,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2U4MTFiNzc4MmQ2MjFkMzI4NDdkNzU2YWZhMmVjYTM2OWRhYWE4",
+  "snapshot_id": "MCxhMWM0MWNlYTkxYTM5NjE3NDQ1MDUwNzU5MTRlY2MyNGI0M2Y0YTRi",
   "tracks": [
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Fluya",
+      "url": "https://open.spotify.com/track/6hTHHepHMcVg75N301UI2O"
+    },
     {
       "added_at": "2024-03-15 20:12:09",
       "album": {
@@ -253,6 +269,26 @@
       "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
     },
     {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/7u1DEKqn7WLabDAteCjPjH"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Scoop Deville",
+          "url": "https://open.spotify.com/artist/0LJri3xvwsHWKErcNKnZxg"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/6vODt4E4hZNCsJ3hFe5Ve2"
+    },
+    {
       "added_at": "2024-03-15 20:12:09",
       "album": {
         "name": "Cuatro 44",
@@ -287,6 +323,26 @@
       "duration_ms": 199556,
       "name": "Listos para Accionar",
       "url": "https://open.spotify.com/track/3IdRC8FCnQeUNrvPTxRL5x"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Estaba Sola",
+        "url": "https://open.spotify.com/album/4rQshVMKnGssLCs88Akj9i"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 212700,
+      "name": "Estaba Sola",
+      "url": "https://open.spotify.com/track/7aIThRKpe9ZpsEbLqE2GMg"
     },
     {
       "added_at": "2024-03-15 20:12:09",

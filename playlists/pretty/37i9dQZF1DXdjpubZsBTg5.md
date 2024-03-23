@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjpubZsBTg5.md) - [plain]
 
 > Revive a la generación que transformó el rock en español para siempre\. En portada: Soda Stereo
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,057 likes - 60 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,155 likes - 60 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjpubZsBTg5.md) - [plain]
 | 59 | [Vistete](https://open.spotify.com/track/5ZrtHP3Kzdgw8tzELrmKqA) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [El Momento](https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR) | 3:57 |
 | 60 | [Bienvenidos \- Live](https://open.spotify.com/track/4ckZyAOFKfMti3H8aI60f5) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ) | [Rock & Rios](https://open.spotify.com/album/5KvWPBtUDsGhQJ2f3tgLrY) | 4:00 |
 
-Snapshot ID: `MCw0ZWY5MTY1YzQwNTkyYzUyOGVkYTdhNTU1ZTQ2NWEyYzBhZDJhOTll`
+Snapshot ID: `MCw3MjU2ZTM4ODUwZWRkOTc0MTcxZmUxNjViMDMyYWVjYjNiODVhNDBm`

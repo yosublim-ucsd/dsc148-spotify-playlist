@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 200294,
+  "2024-03-23": 200339,
   "date_first_scraped": "2021-12-21",
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
   "name": "Nordic Folk",
@@ -2833,7 +2833,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 168556,
       "name": "Mornings and Afternoons",
       "url": "https://open.spotify.com/track/4YlmenydUtibsOpCxzrwEf"
@@ -3393,6 +3393,24 @@
       "duration_ms": 189697,
       "name": "Skuggor av oss",
       "url": "https://open.spotify.com/track/7mLnXV14Oqu0H4Svh1DWvG"
+    },
+    {
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa"
+      },
+      "artists": [
+        {
+          "name": "Red Langur",
+          "url": "https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172007,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,200 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,215 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 38 | [Told Ya](https://open.spotify.com/track/1edvYQ0aAfKBNE2ogtgwa8) | [MONA](https://open.spotify.com/artist/4AKwIU9B31J3L41DuJfFym) | [Told Ya](https://open.spotify.com/album/5ipesO0wdHcSqG6LlMFUvQ) | 3:20 |
 | 39 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 |
 | 40 | [Golden](https://open.spotify.com/track/5149LIHpBivPrcQsX5HZO6) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL) | 3:27 |
-| 41 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |
-| 42 | [Leader of the Pack](https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:03 |
+| 41 | [Leader of the Pack](https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:03 |
+| 42 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |
 | 43 | [Out of My Head](https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino](https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D) | 3:33 |
 | 44 | [These Are The Days](https://open.spotify.com/track/7iqQK2bzlcVePuTbfw7zEd) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:45 |
 | 45 | [We're All Gonna Die \(with Noah Kahan\)](https://open.spotify.com/track/5hqTZiZ6Kj3QOvhhr27W3L) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 2:59 |
@@ -65,24 +65,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 55 | [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 |
 | 56 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 |
 | 57 | [Survivor](https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:01 |
-| 58 | [Evicted](https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 3:29 |
-| 59 | [Body](https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Body](https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3) | 3:20 |
+| 58 | [Body](https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Body](https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3) | 3:20 |
+| 59 | [Evicted](https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 3:29 |
 | 60 | [Spit Of You](https://open.spotify.com/track/2SGkIE5YRgm8znklaCArE4) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spit Of You](https://open.spotify.com/album/75FuYiKpmPLtgruoGpEQWZ) | 4:33 |
 | 61 | [The Bandit](https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [The Bandit / 100,000 People](https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr) | 4:10 |
 | 62 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
 | 63 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
-| 64 | [Day by Day](https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Motivational Speaking](https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl) | 3:12 |
-| 65 | [Easy Now](https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 3:53 |
-| 66 | [Shotgun](https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 4:10 |
-| 67 | [Oregon](https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Oregon / Harvard](https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I) | 3:18 |
+| 64 | [Oregon](https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Oregon / Harvard](https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I) | 3:18 |
+| 65 | [Day by Day](https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Motivational Speaking](https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl) | 3:12 |
+| 66 | [Easy Now](https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 3:53 |
+| 67 | [Shotgun](https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 4:10 |
 | 68 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 |
 | 69 | [Virginia \(Wind In The Night\)](https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Virginia \(Wind In The Night\)](https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx) | 3:25 |
 | 70 | [Cannonballers](https://open.spotify.com/track/2f0uekb8fxtGo8eRGFVM2B) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [The Cannonballers](https://open.spotify.com/album/12T59Aqwe8DMlcmZrOHpQW) | 2:52 |
 | 71 | [Crutch](https://open.spotify.com/track/1Ft5ivAGXYDmNoKmys13sX) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Things Are Great](https://open.spotify.com/album/6oDxFhDxCrSxiPgy6Xlact) | 3:43 |
 | 72 | [The Woodpile](https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:27 |
 | 73 | [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 |
-| 74 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 |
-| 75 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 |
+| 74 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 |
+| 75 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 |
 | 76 | [Speeding 72](https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:58 |
 | 77 | [When We Were Close](https://open.spotify.com/track/4QsXlCYFMNpVUzSR9UwWup) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 3:57 |
 | 78 | [Empty Nest](https://open.spotify.com/track/47t8l6TmVhY1QZBveAEcWR) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Physical Thrills](https://open.spotify.com/album/2NqgOQKY5RB7UPmnhcyWEb) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 99 | [Hollow](https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Hollow](https://open.spotify.com/album/5xR0eMPlArJWzoLcJzpTf7) | 3:38 |
 | 100 | [Faithless](https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Faithless](https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh) | 4:10 |
 
-Snapshot ID: `MCxjOTlmNGYzOTc5ZjNiNWQxNWM3MmIzZWRhOGRmYjlmYWZmOTc2NjUz`
+Snapshot ID: `MCxhYWNkMTU5OGE0OGFlNjNlNWMzMDcwY2VhZWViYzQyY2QxMjVlOGZm`

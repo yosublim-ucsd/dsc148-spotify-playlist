@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,721 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,757 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 49 | [Oh Yeah](https://open.spotify.com/track/0Cwx3l6mqlXQFvrIGcjNeP) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Greatest Hits](https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ) | 3:14 |
 | 50 | [TP Treat](https://open.spotify.com/track/6zADOuqB5dhSWk3YRZLDVo) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The King](https://open.spotify.com/album/7xgkOmB7syD8a5Srn3Z5va) | 3:57 |
 
-Snapshot ID: `MCxkOWZjMWFkNmQwMzBjOTMxN2I0MGU1OGE5NjFkOGExM2Y1MWI2Yzg4`
+Snapshot ID: `MCxkNTNjOTlmNWEzOGUyNWI2N2IyZWNkOTJjNzY2ZmU1MTY3ZDJkNTI2`

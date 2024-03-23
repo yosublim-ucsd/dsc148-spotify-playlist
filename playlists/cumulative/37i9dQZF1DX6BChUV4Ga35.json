@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "ChuChu TV Endangered Animals",
+        "url": "https://open.spotify.com/album/4pVBwDxNqF8kVYILOmI8iJ"
+      },
+      "artists": [
+        {
+          "name": "ChuChu TV",
+          "url": "https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81735,
+      "name": "Asian Elephant",
+      "url": "https://open.spotify.com/track/5nF2GOCZ73TWio4Jk5SyJL"
+    },
+    {
+      "album": {
         "name": "Bubble Guppies Bubble Bops!",
         "url": "https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V"
       },

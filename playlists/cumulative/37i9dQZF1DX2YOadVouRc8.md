@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-393 songs - 19 hr 26 min
+394 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Confess](https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [MASTA](https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw) | 2:40 | 2023-11-17 | 2023-11-24 |
 | [Confession](https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [What Have We Done](https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n) | 3:00 | 2022-06-09 | 2023-07-01 |
 | [Confident](https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Confident](https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23) | 3:05 | 2022-06-09 | 2024-03-21 |
+| [Confident](https://open.spotify.com/track/2JyILhFSK1yopuDDxWVMFM) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Buju](https://open.spotify.com/artist/52m72UOOSfJmiCC8UkrNZw) | [Utopia](https://open.spotify.com/album/08uN83YmgRrO8MOAgApw8H) | 3:05 | 2024-03-22 |  |
 | [Contour \(Acoustic\)](https://open.spotify.com/track/26jU3i6046awcW6NAtqnqz) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour \(Acoustic\)](https://open.spotify.com/album/472q1Xw1TjH1tTZUOMzkTF) | 2:36 | 2022-11-04 | 2023-05-12 |
 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 | 2022-08-12 | 2023-04-15 |
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2022-06-09 | 2023-12-02 |
@@ -327,7 +328,7 @@
 | [Suma](https://open.spotify.com/track/5qlgg0Av4R0jd8KV7Uc0HM) | [Samuel G](https://open.spotify.com/artist/0AioSVgKfEMoGOqYYYE4zF) | [Suma](https://open.spotify.com/album/78R2R0naBOdOkgGPu8SHz8) | 3:01 | 2023-04-21 | 2023-05-30 |
 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2023-06-09 |  |
 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 | 2022-06-09 | 2023-03-04 |
-| [Sundress](https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Deyon Agoi](https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Sundress](https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK) | 2:12 | 2023-08-10 |  |
+| [Sundress](https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Deyon Agoi](https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Sundress](https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK) | 2:12 | 2023-08-10 | 2024-03-23 |
 | [SUPARO \- Remix](https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS) | [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [SUPARO \(Remix\)](https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx) | 2:41 | 2023-12-08 |  |
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-10 | 2023-09-10 |
 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 | 2023-11-03 |  |

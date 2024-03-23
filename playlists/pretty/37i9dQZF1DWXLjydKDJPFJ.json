@@ -1,12 +1,12 @@
 {
   "description": "Compare, prenda el carb\u00f3n y saque la bocina que ya se arm\u00f3 la carnita.",
-  "num_followers": 366412,
+  "num_followers": 366626,
   "original_name": "Carnita Asada Estilo Norte\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjIwOWFiMTUyMGViMTU5NmU4MzEyNzNlNWJmYjZjZDFhODk4MTQx",
+  "snapshot_id": "MCwzMmI1ZjE2NDhjN2VkOTIwNzVkY2RhMWRkMzYxZTE2ZDY4NWExNjAz",
   "tracks": [
     {
       "added_at": "2023-12-20 19:43:27",
@@ -47,26 +47,6 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 209415,
-      "name": "TULUM",
-      "url": "https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 224920,
       "name": "Fin de Semana",
       "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 209415,
+      "name": "TULUM",
+      "url": "https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "No Es Mentira (Version Norte\u00f1a)",
-        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 200061,
-      "name": "No Es Mentira (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
         "name": "Me Gusta Vivir De Noche",
         "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 164466,
       "name": "El Amor So\u00f1ado",
       "url": "https://open.spotify.com/track/587p8shYuTXUhThG3t9x60"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
+        "name": "No Es Mentira (Version Norte\u00f1a)",
+        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 200061,
+      "name": "No Es Mentira (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
+      },
+      "artists": [
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/5GkeaIeCEfB0LOqk7sIVHQ"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
         "name": "Borrachera Con Los Honorables (En Vivo)",
         "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 188429,
       "name": "La Boda del Huitlacoche - En Vivo",
       "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
-      },
-      "artists": [
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/5GkeaIeCEfB0LOqk7sIVHQ"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
         "name": "Bodas De Enga\u00f1o",
         "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 212360,
       "name": "Viernes Sin Tu Amor",
       "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
+        "name": "A Ellas",
+        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Ni Que Valieras Tanto",
+      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
         "name": "Te Perdonar\u00eda",
         "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "A Ellas",
-        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
-      },
-      "artists": [
-        {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Ni Que Valieras Tanto",
-      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 188778,
       "name": "365",
       "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
+        "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
+        "url": "https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        }
+      ],
+      "duration_ms": 172018,
+      "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
+      "url": "https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -1287,22 +1303,6 @@
       "duration_ms": 208966,
       "name": "Solitario - En Vivo",
       "url": "https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
-        "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
-        "url": "https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
-        }
-      ],
-      "duration_ms": 172018,
-      "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
-      "url": "https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "20 Memorias Norte\u00f1as",
-        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "El Rey De Mil Coronas",
-      "url": "https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
         "name": "A Todo Galope",
         "url": "https://open.spotify.com/album/6ACxvZ4en9mhTSxTeKWGaJ"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 176533,
       "name": "Que No Quede Huella",
       "url": "https://open.spotify.com/track/0vqs9bIFJgk6X9LvlatKfp"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
+        "name": "20 Memorias Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "El Rey De Mil Coronas",
+      "url": "https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 167370,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
         "name": "A Chillar a otra parte",
         "url": "https://open.spotify.com/album/4ph9RG0taaHcR6LlXbtHYW"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 213066,
       "name": "A Chillar a otra parte",
       "url": "https://open.spotify.com/track/6dAYjYfWJvETKJOCm36jGH"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 167370,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
     },
     {
       "added_at": "2023-12-20 19:43:27",

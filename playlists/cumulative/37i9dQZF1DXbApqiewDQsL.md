@@ -2,12 +2,13 @@
 
 ### [Internacional Mexicano](https://open.spotify.com/playlist/37i9dQZF1DXbApqiewDQsL)
 
-> The songs and collaborations pushing the Mexican sound to a global level\. Cover: Carin Leon and Kane Brown
+> The songs and collaborations pushing the Mexican sound to a global level\. Cover: Shakira & Grupo Frontera
 
-128 songs - 7 hr 2 min
+130 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Entre Paréntesis\)](https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:48 | 2024-03-22 |  |
 | [100 Años \- Con Calibre 50](https://open.spotify.com/track/5CxyOGC6zPaZ190hXuH5FO) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [100 Años \(Con Calibre 50\)](https://open.spotify.com/album/0EHD1gdUFjhkeQkJVuLZQa) | 3:35 | 2022-05-13 |  |
 | [200 COPAS](https://open.spotify.com/track/5IiyU0TCHJXuD8GDOfh5ST) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [200 COPAS \(Short Version\)](https://open.spotify.com/album/0BkCyY7jYD6pCfbMMyIdci) | 3:18 | 2022-05-13 |  |
 | [3 de la Mañana](https://open.spotify.com/track/24cS53gOoCh9grgAj8Cfig) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [3 de la Mañana](https://open.spotify.com/album/1LxvD7UdloYCTIamKIPlNm) | 3:02 | 2023-11-24 |  |
@@ -29,6 +30,7 @@
 | [Como el Viento](https://open.spotify.com/track/5LyqFuRn4AaYlkpMFi1W0s) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Como el Viento](https://open.spotify.com/album/6UKDsAVlMkqKqWJgsnCYAK) | 3:18 | 2023-03-24 |  |
 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 | 2022-05-13 |  |
 | [Conozco La Calle](https://open.spotify.com/track/5ImiC67NzaBXSUXZjN1CSX) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Conozco La Calle](https://open.spotify.com/album/4iciGlmDQeaior7njVNFwH) | 2:20 | 2022-05-13 |  |
+| [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 | 2024-03-22 |  |
 | [Corrido Espacial](https://open.spotify.com/track/2kArNwB6naa7LrKBlEe65P) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Rockport Espacial 2](https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6) | 3:42 | 2022-05-13 |  |
 | [Corrido Tumbero](https://open.spotify.com/track/56Mx6yWQj6UWk37LHMHqI4) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Corrido Tumbero](https://open.spotify.com/album/0sfDrji2Qr5KJPAvVzMVT8) | 3:32 | 2022-05-13 |  |
 | [Crónicas de un Gallo](https://open.spotify.com/track/6YPczk6I8RRCjIcJ9I7p8y) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Las 3 Torres](https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI) | 3:22 | 2022-05-13 |  |

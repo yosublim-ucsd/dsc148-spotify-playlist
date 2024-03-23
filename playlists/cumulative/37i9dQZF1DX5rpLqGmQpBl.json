@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "dear tomorrow",
+        "url": "https://open.spotify.com/album/4Jlv2dBZTqjY0Evtnb00aW"
+      },
+      "artists": [
+        {
+          "name": "Jang Soo Bin",
+          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "dear tomorrow",
+      "url": "https://open.spotify.com/track/3GOBW6QvqkOf8BnOVwUypj"
+    },
+    {
+      "album": {
         "name": "Doctor Slump (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1VvNlrYT750NlpdfJerQRV"
       },
@@ -1506,24 +1524,6 @@
       "duration_ms": 161786,
       "name": "You\u2019re The Reason I Can Hold Out",
       "url": "https://open.spotify.com/track/5xl8wrcm1dXz7t9bLvZCz4"
-    },
-    {
-      "album": {
-        "name": "\ub0b4\uc77c\uc5d0\uac8c dear tomorrow",
-        "url": "https://open.spotify.com/album/4Jlv2dBZTqjY0Evtnb00aW"
-      },
-      "artists": [
-        {
-          "name": "Jang Soo Bin",
-          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
-        }
-      ],
-      "date_added": "2024-02-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 156160,
-      "name": "\ub0b4\uc77c\uc5d0\uac8c dear tomorrow",
-      "url": "https://open.spotify.com/track/3GOBW6QvqkOf8BnOVwUypj"
     },
     {
       "album": {

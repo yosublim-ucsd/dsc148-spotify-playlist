@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,894 likes - 55 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,892 likes - 55 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 13 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 4:43 |
 | 14 | [Money Makes You Ugly](https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:36 |
 | 15 | [Kill Or Be Kind](https://open.spotify.com/track/4V8Bx1b1B5XcslWAAOph89) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 3:45 |
-| 16 | [Singing the Blues](https://open.spotify.com/track/6IevgQPwNyD73SMi8nLWb1) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Promise of a Brand New Day](https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q) | 3:45 |
+| 16 | [Things Have Changed](https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/4WrWD47QXsRA5IUZAyZmue) | 6:56 |
 | 17 | [Savior](https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:43 |
-| 18 | [Things Have Changed](https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/4WrWD47QXsRA5IUZAyZmue) | 6:56 |
+| 18 | [Singing the Blues](https://open.spotify.com/track/6IevgQPwNyD73SMi8nLWb1) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Promise of a Brand New Day](https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q) | 3:45 |
 | 19 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 |
 | 20 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 |
 | 21 | [She's A Self Made Man](https://open.spotify.com/track/688EzbJ3fiB8zKwArQdZkK) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:01 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 48 | [You Ain't My Dog No More](https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq) | [Eliza Neals](https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb) | [10,000 Feet Below](https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5) | 4:24 |
 | 49 | [Unintended Consequence Of Love](https://open.spotify.com/track/0DSob5ze3sstCI5FFpCRwj) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:49 |
 | 50 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 |
-| 51 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
-| 52 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 |
+| 51 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 |
+| 52 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
 | 53 | [Handle Me with Care](https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x) | 7:15 |
-| 54 | [Call on God](https://open.spotify.com/track/3dBH5NxeEfR7t2kh6jdcCC) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv) | 3:37 |
-| 55 | [It Hurts Me Too](https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Sky Is Crying](https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU) | 5:06 |
+| 54 | [It Hurts Me Too](https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Sky Is Crying](https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU) | 5:06 |
+| 55 | [Call on God](https://open.spotify.com/track/3dBH5NxeEfR7t2kh6jdcCC) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv) | 3:37 |
 
-Snapshot ID: `MCw5NDkwYWFiZGVjMWM0ZTZmZjFjOGViYjI2MmQwMWM1MmQ5OTUxMjk1`
+Snapshot ID: `MCwwODBkNjllNDk0ODZmZTFmMzM2NTc4YjRjMTY1MDYyNWZmMjhhZGE0`

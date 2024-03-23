@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating 10 years of Dierks Bentley's hit album \"Riser\" here on Country Gold! ",
-  "num_followers": 2162368,
+  "num_followers": 2162484,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzE0ZGE1NzY2Zjg0ZTY3ZTQ2ZjNlODdiY2Y2NDZlODUzNjkxMWRj",
+  "snapshot_id": "MCw4NDliM2E1NWIxZTFhMTJmNTdkMTBiZmEwNjk4MzJjYWEyOTI0NjIx",
   "tracks": [
     {
       "added_at": "2024-02-22 20:59:23",
@@ -991,18 +991,22 @@
     {
       "added_at": "2024-02-22 20:59:23",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk"
       },
       "artists": [
         {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        },
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
         }
       ],
-      "duration_ms": 231920,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
+      "duration_ms": 193880,
+      "name": "Just the Way",
+      "url": "https://open.spotify.com/track/4h5OVQQbeqw3lNaFIbmlzG"
     },
     {
       "added_at": "2024-02-22 20:59:23",
@@ -1023,22 +1027,18 @@
     {
       "added_at": "2024-02-22 20:59:23",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk"
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
       },
       "artists": [
         {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        },
-        {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
         }
       ],
-      "duration_ms": 193880,
-      "name": "Just the Way",
-      "url": "https://open.spotify.com/track/4h5OVQQbeqw3lNaFIbmlzG"
+      "duration_ms": 231920,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
     },
     {
       "added_at": "2024-02-22 20:59:23",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-02-22 20:59:23",
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
+        "name": "Blake Shelton",
+        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 172106,
-      "name": "I'm Not For Everyone",
-      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
+      "duration_ms": 230333,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
     },
     {
       "added_at": "2024-02-22 20:59:23",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-02-22 20:59:23",
       "album": {
-        "name": "Blake Shelton",
-        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 230333,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
     },
     {
       "added_at": "2024-02-22 20:59:23",

@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8444198,
+  "num_followers": 8446636,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGU2OWE4YTE1ZjhiOGQyYTZkZjhhZThlZjUwYTI5NWQ2OWEwMTc4",
+  "snapshot_id": "MCwwNTM4MTBlNTExOGNkY2YyNDA5NDU4ZGM1YTk2MTk5YzQ3YjllNjJi",
   "tracks": [
     {
       "added_at": "2024-03-07 12:06:08",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
-        "name": "Black On Both Sides",
-        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
-      },
-      "artists": [
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Ms. Fat Booty",
-      "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
-    },
-    {
-      "added_at": "2024-03-07 12:06:08",
-      "album": {
         "name": "Blackout!",
         "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 136093,
       "name": "Da Rockwilder",
       "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
+    },
+    {
+      "added_at": "2024-03-07 12:06:08",
+      "album": {
+        "name": "Black On Both Sides",
+        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Ms. Fat Booty",
+      "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
-        "name": "19NaughtyIII",
-        "url": "https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA"
+        "name": "Capital Punishment",
+        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
       "artists": [
         {
-          "name": "Naughty By Nature",
-          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
         }
       ],
-      "duration_ms": 267266,
-      "name": "Hip Hop Hooray",
-      "url": "https://open.spotify.com/track/1SyQ6t9RdRBK0QUCS6a797"
+      "duration_ms": 228173,
+      "name": "Twinz (feat. Fat Joe)",
+      "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -1091,22 +1095,18 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
-        "name": "Capital Punishment",
-        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
+        "name": "19NaughtyIII",
+        "url": "https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA"
       },
       "artists": [
         {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        },
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
         }
       ],
-      "duration_ms": 228173,
-      "name": "Twinz (feat. Fat Joe)",
-      "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
+      "duration_ms": 267266,
+      "name": "Hip Hop Hooray",
+      "url": "https://open.spotify.com/track/1SyQ6t9RdRBK0QUCS6a797"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 319360,
-      "name": "Who Shot Ya? - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN"
-    },
-    {
-      "added_at": "2024-03-07 12:06:08",
-      "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 291053,
       "name": "Fuck Wit Dre Day (And Everybody's Celebratin')",
       "url": "https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4"
+    },
+    {
+      "added_at": "2024-03-07 12:06:08",
+      "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 319360,
+      "name": "Who Shot Ya? - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
-        "name": "Return of the Boom Bap",
-        "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
       },
       "artists": [
         {
-          "name": "KRS-One",
-          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 258506,
-      "name": "Sound of da Police",
-      "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
+      "duration_ms": 268706,
+      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
+      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
     },
     {
       "added_at": "2024-03-07 12:06:08",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-03-07 12:06:08",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+        "name": "Return of the Boom Bap",
+        "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          "name": "KRS-One",
+          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
         }
       ],
-      "duration_ms": 268706,
-      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
-      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
+      "duration_ms": 258506,
+      "name": "Sound of da Police",
+      "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
     },
     {
       "added_at": "2024-03-07 12:06:08",

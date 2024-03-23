@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-576 songs - 2 day 6 hr 13 min
+577 songs - 2 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Alberto Balsalm](https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:10 | 2022-04-13 | 2023-02-02 |
 | [Alberto Balsalm](https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 5:10 | 2022-04-13 |  |
 | [All Is Full of Love \(Secondotted\)](https://open.spotify.com/track/7ICMCUEZG6wOMjr263QEd0) | [Björk Mit Funkstorung](https://open.spotify.com/artist/629LeaUSUKLfzbsBHX021V) | [Across Uneven Terrain](https://open.spotify.com/album/1kldzA5EECxo319li3GN5N) | 4:39 | 2022-04-13 | 2024-03-17 |
+| [All Is Full Of Love \- Funkstörung Exclusive mix](https://open.spotify.com/track/2Xzxe2nZNnGeGha1TrJ4O2) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Funkstörung](https://open.spotify.com/artist/4K9tGGFyw0Rab8akZVBMQR) | [All Is Full Of Love](https://open.spotify.com/album/2fTUSHDr3v0WSXhcixiDgS) | 4:38 | 2022-04-13 |  |
 | [Analogue Bubblebath](https://open.spotify.com/track/3EhTOTAvNAUgY6AIurVxT1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Classics](https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG) | 4:46 | 2022-04-13 | 2022-07-25 |
 | [Anex](https://open.spotify.com/track/2gBIPZBOGbOOBiaqxjGyYN) | [Adam Johnson](https://open.spotify.com/artist/1mpZvM3DHU6o5DC1lJmw5Y) | [Chigliak](https://open.spotify.com/album/3qKpwSHUazGWmxLm0WWdGS) | 5:43 | 2022-04-13 |  |
 | [Angel](https://open.spotify.com/track/5ErXilg6f26YH2FSu44HHZ) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Persona](https://open.spotify.com/album/08Qox0oVipyl9qf9mnrjJi) | 6:44 | 2022-04-13 | 2024-03-08 |
@@ -520,7 +521,7 @@
 | [Tropical Metal](https://open.spotify.com/track/309EUbySvUaKi1TucdGCOk) | [Jackson And His Computer Band](https://open.spotify.com/artist/7Jdjjb3kJWyPmV5MbdVdTv) | [Smash](https://open.spotify.com/album/4eqfKz9wOPGKS7hMXCmac3) | 3:36 | 2022-04-13 | 2022-07-27 |
 | [Turquoise Hexagon Sun](https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:07 | 2022-04-13 | 2023-01-01 |
 | [Turquoise Hexagon Sun](https://open.spotify.com/track/7F3MjS1b1xHeaeXyBTvCE0) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 5:07 | 2022-04-13 | 2023-12-30 |
-| [Twelve Miles High](https://open.spotify.com/track/4JwWAIOm101bfAs8BndOKX) | [burger/ink](https://open.spotify.com/artist/3x3wGSv3Xm8xtgXNe6hq99) | [\[las vegas\]](https://open.spotify.com/album/2L350q8rF8zwpCnaz42dI5) | 11:22 | 2022-04-13 |  |
+| [Twelve Miles High](https://open.spotify.com/track/4JwWAIOm101bfAs8BndOKX) | [burger/ink](https://open.spotify.com/artist/3x3wGSv3Xm8xtgXNe6hq99) | [\[las vegas\]](https://open.spotify.com/album/2L350q8rF8zwpCnaz42dI5) | 11:22 | 2022-04-13 | 2024-03-23 |
 | [Twelve Miles High](https://open.spotify.com/track/0hyYhGMrqMJBzuwRZAvELk) | [burger/ink](https://open.spotify.com/artist/3x3wGSv3Xm8xtgXNe6hq99) | [Las Vegas](https://open.spotify.com/album/2e9288yxNdFTCKO6MitcDy) | 11:22 | 2022-04-13 | 2022-07-29 |
 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 | 2022-04-13 |  |
 | [U.F.Orb](https://open.spotify.com/track/7FSFWlgDvExyvuVfjzhc9B) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/2Kn0WVtKYv7bcE3EYk3wRA) | 6:08 | 2022-04-13 |  |

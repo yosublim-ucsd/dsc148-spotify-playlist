@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Candy Bleakz
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,340 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,421 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 59 | [Cash App](https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Lincoln](https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu) | [Cash App](https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT) | 3:56 |
 | 60 | [Feel Better](https://open.spotify.com/track/2d3hsKUez4aoqs5E0uPyS0) | [Anonymous Music](https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Better](https://open.spotify.com/album/6PXWungbDlNlNvfZJe42GD) | 2:23 |
 
-Snapshot ID: `MCwyY2NmNDNhYWZhZTdkOTg1NDRiNTk5OTkxOGFhNGYyMzNiOGYxMjU2`
+Snapshot ID: `MCwyYTg5YzI4ZDM1YWU1M2ViZjg5NDA4MzMyM2NjZDE2ODZkZGRjNzA2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,423 likes - 75 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,543 likes - 75 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 71 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
 | 72 | [Good Morning Vietnam](https://open.spotify.com/track/61XDPnhHACR7xypgbp8bG8) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Good Morning Vietnam](https://open.spotify.com/album/0GwpHZ7HAeJ1XsQzJTjESf) | 2:19 |
 | 73 | [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 |
-| 74 | [distance](https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [distance](https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G) | 1:53 |
-| 75 | [MK Plus Ultra](https://open.spotify.com/track/00cEH1g73uoXOeZk04HX7r) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [MK Plus Ultra](https://open.spotify.com/album/6uWl5ITWhAI6KM1WyOQWRM) | 2:10 |
+| 74 | [MK Plus Ultra](https://open.spotify.com/track/00cEH1g73uoXOeZk04HX7r) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [MK Plus Ultra](https://open.spotify.com/album/6uWl5ITWhAI6KM1WyOQWRM) | 2:10 |
+| 75 | [Led](https://open.spotify.com/track/2tewsqBBUALqKedOrnU1AT) | [GOTOU寄生獣](https://open.spotify.com/artist/3lBMiwsMDQZItXes0VxBsJ), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Led](https://open.spotify.com/album/2RIYeR7qaek1c8BNIBsq0a) | 2:14 |
 
-Snapshot ID: `MCwzODc2OTA5NjQxY2MxNjA3YTJlMjVhMzM3ZGY0ZjE1NmRiNDNkMWYy`
+Snapshot ID: `MCxlMDRhOWYwNTZiODQ4OWRhNDJkNzRmZjgyNjA2N2FkOGJkMDJhODQ0`

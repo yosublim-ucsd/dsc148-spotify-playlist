@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Flo Milli & SZA
 
-504 songs - 1 day 0 hr 26 min
+505 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [BABYDOLL](https://open.spotify.com/track/0rdhOCfkQkOoxgShrMh7gJ) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL](https://open.spotify.com/album/1f7TBi6D38CzFbaXUPmgvY) | 3:16 | 2022-06-28 | 2022-07-29 |
 | [BABYDOLL](https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL](https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u) | 3:16 | 2022-07-01 | 2022-09-24 |
 | [Back That Up To The Beat \- demo version](https://open.spotify.com/track/5ZQ2slXNqImBi0SdomcjYN) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Back That Up To The Beat](https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt) | 3:31 | 2023-01-04 | 2023-07-13 |
-| [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 | 2021-10-15 |  |
+| [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 | 2021-10-15 | 2024-03-23 |
 | [Bad Idea](https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Bad Idea](https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo) | 2:35 | 2022-10-28 | 2022-12-17 |
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-18 | 2023-09-12 |
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-09-08 | 2023-09-30 |
@@ -211,6 +211,7 @@
 | [Glamorous](https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:06 | 2022-07-01 | 2022-09-15 |
 | [Glamorous](https://open.spotify.com/track/6vVfNqiMSku4FrqsqhurBK) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/5jMAEt7ZLjqi5tSlf7EBQg) | 4:06 | 2022-05-13 | 2022-07-29 |
 | [Golosa](https://open.spotify.com/track/1uzlm6uA89AY1FYJ5dZRfp) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Golosa](https://open.spotify.com/album/64S31vTCp48dMWxOTwtB3R) | 2:39 | 2022-07-22 | 2022-09-10 |
+| [Good Look](https://open.spotify.com/track/6c098Yt8Mr2UN7EwTG8w5F) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Good Look](https://open.spotify.com/album/0ZCidOeCHqEjLxtetrELo1) | 1:54 | 2024-03-22 |  |
 | [Good Love \(feat\. Usher\)](https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Good Love \(feat\. Usher\)](https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf) | 3:52 | 2022-07-06 | 2022-07-23 |
 | [Gravity](https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Gravity](https://open.spotify.com/album/2C5UwRPN346EZUaChnKmYu) | 2:14 | 2022-04-15 | 2022-05-28 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-15 |  |
@@ -288,7 +289,7 @@
 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 | 2023-02-03 | 2023-03-04 |
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-09 |  |
 | [Luxurious](https://open.spotify.com/track/2X33pKDgf7TTTGHIfze8OD) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Luxurious Girl](https://open.spotify.com/album/69q2fihRk67AoBWplswkov) | 4:24 | 2022-10-14 | 2022-11-14 |
-| [Luxurious](https://open.spotify.com/track/3UQmoVQJqBYauTZLVPs3uo) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 4:24 | 2022-07-01 |  |
+| [Luxurious](https://open.spotify.com/track/3UQmoVQJqBYauTZLVPs3uo) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 4:24 | 2022-07-01 | 2024-03-23 |
 | [Luxurious](https://open.spotify.com/track/69xZrRwScYMhlCMcxrF958) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 4:24 | 2021-10-15 | 2022-07-29 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-03-08 |  |
 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 | 2021-10-15 | 2023-06-17 |
@@ -438,7 +439,7 @@
 | [Talk To Me Nice](https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Talk To Me Nice](https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn) | 3:49 | 2023-09-08 | 2023-11-18 |
 | [Taste](https://open.spotify.com/track/1ghqDkglrXPcxgRobBmLVW) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Taste](https://open.spotify.com/album/5OLmG74MrpjwnlWLffN35A) | 3:06 | 2022-06-28 | 2022-07-30 |
 | [Telfy](https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Telfy](https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo) | 3:07 | 2022-11-28 | 2022-12-10 |
-| [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 | 2024-03-08 |  |
+| [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 | 2024-03-08 | 2024-03-23 |
 | [THANK GODDESS](https://open.spotify.com/track/27IubiEgQJczAE6OC7PgmQ) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [THE MUSE](https://open.spotify.com/album/3hYMqcuXd0HlcE8N0SgU4P) | 2:47 | 2023-02-17 | 2023-04-22 |
 | [The Assignment](https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [The Assignment](https://open.spotify.com/album/2lnn72jnHA6corVKMzibS5) | 1:53 | 2021-10-15 | 2022-04-16 |
 | [The P\*ssy Song](https://open.spotify.com/track/6WN4iIsMU0BK3irBvKCAIi) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [The P\*ssy Song](https://open.spotify.com/album/7hut1MKOSHcWIXdN6jSmQf) | 2:57 | 2024-03-01 | 2024-03-09 |

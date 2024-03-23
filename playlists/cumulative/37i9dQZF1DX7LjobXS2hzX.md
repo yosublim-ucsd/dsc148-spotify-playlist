@@ -2,9 +2,9 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment\. Photo: Fredz
+> Voici les hits du moment\. Photo: Kygo, Ava Max
 
-365 songs - 19 hr 17 min
+366 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-07-09 | 2022-10-01 |
 | [Astray](https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Astray](https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz) | 3:53 | 2023-08-18 | 2023-09-09 |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-30 | 2023-07-08 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-22 |  |
 | [Avant Elle](https://open.spotify.com/track/5ECN3yzsBiExzh5VLabINw) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Avant Elle](https://open.spotify.com/album/37HLuNvMsD3ibgohJHropW) | 3:20 | 2023-06-23 | 2023-07-02 |
 | [Avant que le ciel ne tombe](https://open.spotify.com/track/3MUhg6FHlv4IqDFJRFrcfn) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k), [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [Avant que le ciel ne tombe](https://open.spotify.com/album/7e0Mmke0NiDGbDgBjTQtzF) | 2:21 | 2023-03-24 | 2023-05-05 |
 | [Avant que le ciel ne tombe](https://open.spotify.com/track/4UqnizPMBeASbRCQgEgPV0) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k), [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [Dans la lune](https://open.spotify.com/album/4yF9UgTFxwMbb4EzS3CDND) | 2:21 | 2023-05-02 | 2023-06-24 |
@@ -205,7 +206,7 @@
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-09-08 |  |
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-03-10 | 2023-03-25 |
 | [Love Me Once More](https://open.spotify.com/track/37XUx3fug7C1T1jK2VWX06) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Spotify Singles](https://open.spotify.com/album/0kzBeKrnyzKrDC5JaVCrJW) | 2:49 | 2022-10-29 | 2022-11-07 |
-| [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-23 |  |
+| [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-23 | 2024-03-23 |
 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw) | 2:30 | 2022-07-09 | 2022-09-03 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-24 |  |
 | [Lullaby](https://open.spotify.com/track/1J2Lndxqp2Xlp6OShqaZpH) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:42 | 2022-07-09 | 2023-04-22 |

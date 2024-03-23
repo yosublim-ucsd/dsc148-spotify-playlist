@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 189524,
       "name": "Caserio",
       "url": "https://open.spotify.com/track/5mFPPKfPrFOuArc4ePJEyG"
@@ -1970,6 +1970,28 @@
       "duration_ms": 232222,
       "name": "Diablo, Qu\u00e9 Chimba",
       "url": "https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3"
+    },
+    {
+      "album": {
+        "name": "Partyson",
+        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Diab\u00f3lica",
+      "url": "https://open.spotify.com/track/4IJWhehNLXru5WfS71EWSx"
     },
     {
       "album": {
@@ -4472,7 +4494,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 216424,
       "name": "Mamasota",
       "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
@@ -8370,6 +8392,28 @@
       "duration_ms": 192477,
       "name": "X \u00daLTIMA VEZ",
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+    },
+    {
+      "album": {
+        "name": "Xinga",
+        "url": "https://open.spotify.com/album/3d49Hxy3EFMewUUIVBInOj"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Xinga",
+      "url": "https://open.spotify.com/track/17LoyD06c7hSZAGfj3Mybp"
     },
     {
       "album": {

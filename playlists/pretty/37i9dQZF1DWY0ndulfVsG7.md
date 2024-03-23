@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Geisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,202 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,242 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 41 | [Sampai Menutup Mata](https://open.spotify.com/track/6RbOugGEsbxhOmNCHJGqLu) | [Acha Septriasa](https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:48 |
 | 42 | [Sekali Ini Saja](https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx) | 3:55 |
 | 43 | [Panah Asmara](https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:34 |
-| 44 | [Yang Terdalam](https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Taman Langit](https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC) | 3:19 |
+| 44 | [Seluruh Cinta](https://open.spotify.com/track/2FKvy1aWWazofWPRD9nNnP) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps), [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Seluruh Cinta](https://open.spotify.com/album/0aAj6CHe9yPHglz0e0H2sW) | 4:10 |
 | 45 | [Seperti Yang Kau Minta](https://open.spotify.com/track/0mkeFWinFvxpfZ9tr0RQ7k) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Dekade](https://open.spotify.com/album/68LQj1aPjWAkP6BplJNhq3) | 4:48 |
-| 46 | [Dealova](https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Once](https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI) | 4:24 |
+| 46 | [Yang Terdalam](https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Taman Langit](https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC) | 3:19 |
 | 47 | [Berdua Lebih Baik](https://open.spotify.com/track/1QjAmxYS652vXrSy3BhZ9D) | [Acha Septriasa](https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:41 |
-| 48 | [Seluruh Cinta](https://open.spotify.com/track/2FKvy1aWWazofWPRD9nNnP) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps), [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Seluruh Cinta](https://open.spotify.com/album/0aAj6CHe9yPHglz0e0H2sW) | 4:10 |
+| 48 | [Dealova](https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Once](https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI) | 4:24 |
 | 49 | [Kamu Yang Kutunggu](https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Love, Life & Music](https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp) | 4:14 |
 | 50 | [Cinta Sejati \- From "Habibie & Ainun"](https://open.spotify.com/track/7zPiwqd1uxBkiHuk2OoBWJ) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Cinta Sejati \(From "Habibie & Ainun"\)](https://open.spotify.com/album/3cMuELN6TQ1pF5fkOcdhpv) | 5:00 |
 
-Snapshot ID: `MCwzNjg1NjM3Y2IwYzk0N2RiNDFkNjJhYWFjYWI5NzliOWM5ZjdmN2Y1`
+Snapshot ID: `MCxhNGQ2NjAyYzExYjBlZDJiNzJhNjMzNTM3NDVkYmVjYjQ4YjA3ZDNl`

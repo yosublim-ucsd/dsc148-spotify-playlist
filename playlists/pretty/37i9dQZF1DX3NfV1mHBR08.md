@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,972 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,975 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 13 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 |
 | 14 | [I will listen never alone](https://open.spotify.com/track/5Ny8dTK7mUgpL04RV07gee) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Who Are You : School 2015 \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/5rbk6PfoQk7m9KB6iaC6eG) | 3:14 |
 | 15 | [Complex \(Feat\. G\-DRAGON\)](https://open.spotify.com/track/3v7M2SwKHQZ8domnAQV2DJ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [OO](https://open.spotify.com/album/20WQSlujuTbzd9d5V46mkc) | 3:27 |
-| 16 | [To You My Light \(feat\. LEE RAON\)](https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Red Moon: To You My Light](https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO) | 4:25 |
-| 17 | [Take You Home](https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Take You Home \- SM STATION](https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK) | 3:54 |
+| 16 | [Take You Home](https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Take You Home \- SM STATION](https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK) | 3:54 |
+| 17 | [To You My Light \(feat\. LEE RAON\)](https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Red Moon: To You My Light](https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO) | 4:25 |
 | 18 | [Slow](https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Slow](https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r) | 4:01 |
 | 19 | [Today's Mood](https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:45 |
 | 20 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 49 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
 | 50 | [Brave](https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Extraordinary Attorney Woo \(Original Television SoundTrack\) Pt\. 1](https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK) | 4:22 |
 
-Snapshot ID: `MCw3NTllMjhjYjI2MzY3OGZjMTJjYTUzMjRjYjI3NWFlM2RiNWJmMDg5`
+Snapshot ID: `MCxhN2JiODU3ODYzN2UzMzVlZTcwNDVmNmNmOTBmNjA3ZDNlZjAzNzdj`

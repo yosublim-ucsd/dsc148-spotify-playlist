@@ -1,13 +1,201 @@
 {
-  "description": "Your go-to playlist for this week's hottest music featuring Vampire Weekend, Beyonc\u00e9, Harry Styles &amp; more! Cover: Vampire Weekend",
-  "num_followers": 8233,
+  "description": "Your go-to playlist for this week's hottest music featuring  girl in red and Sabrina Carpenter, Beyonc\u00e9, Harry Styles &amp; more! Cover: girl in red and Sabrina Carpenter",
+  "num_followers": 8234,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NjgzMiwwZmVlZmQ3YTI4YzAxMzk1NzA4YTBlNGM3ZTA5YTQ0YjM0YzQwNjQ5",
+  "snapshot_id": "Njg0NSxiZmUwMTViY2FhMDE4YzBhMWViZjg0ZjczNDExODg2ODdjZGE1NmIx",
   "tracks": [
+    {
+      "added_at": "2024-03-22 04:23:00",
+      "album": {
+        "name": "You Need Me Now? (feat. Sabrina Carpenter)",
+        "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186377,
+      "name": "You Need Me Now? (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
+    },
+    {
+      "added_at": "2024-03-22 04:23:00",
+      "album": {
+        "name": "28th of June",
+        "url": "https://open.spotify.com/album/0inH63xl0GHnMm9cYmiGWX"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 225363,
+      "name": "28th of June",
+      "url": "https://open.spotify.com/track/0ZQdCsqlVRqqImNqkRz9ct"
+    },
+    {
+      "added_at": "2024-03-22 04:23:00",
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
+      "added_at": "2024-03-22 04:23:00",
+      "album": {
+        "name": "Cry at the Moon",
+        "url": "https://open.spotify.com/album/0FUlMafsW5YS0OPPAra5IB"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Cry at the Moon",
+      "url": "https://open.spotify.com/track/0TY9m3iHAO4I0VflhnuFJI"
+    },
+    {
+      "added_at": "2024-03-22 04:24:17",
+      "album": {
+        "name": "nicotine",
+        "url": "https://open.spotify.com/album/2v0JLejYwSc81UPDU1cI4v"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "nicotine",
+      "url": "https://open.spotify.com/track/0fKAYdwDXbyhHnveCLxHxR"
+    },
+    {
+      "added_at": "2024-03-22 04:23:00",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3OvQIzuh1gb6NiTMkkMAas"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Sterling",
+          "url": "https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9"
+        }
+      ],
+      "duration_ms": 178640,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/2tmzXjrJMBrbDfZJ8g9mcF"
+    },
+    {
+      "added_at": "2024-03-22 04:25:36",
+      "album": {
+        "name": "Ten Total",
+        "url": "https://open.spotify.com/album/1EQ4JquFxRPX36J3MmxOIg"
+      },
+      "artists": [
+        {
+          "name": "1010benja",
+          "url": "https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK"
+        }
+      ],
+      "duration_ms": 183225,
+      "name": "Twin",
+      "url": "https://open.spotify.com/track/1Baclns5t6diyC7UfWsGJp"
+    },
+    {
+      "added_at": "2024-03-22 04:25:54",
+      "album": {
+        "name": "Tu C\u00e1rcel",
+        "url": "https://open.spotify.com/album/7y91LphJdXnffzem6Gh6Wk"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6nGFs4LS1OAFisgl8TnoRP"
+    },
+    {
+      "added_at": "2024-03-22 04:26:06",
+      "album": {
+        "name": "It Ain't Austin",
+        "url": "https://open.spotify.com/album/6G5V9cVY38NOL9JwcMdNaY"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "It Ain't Austin",
+      "url": "https://open.spotify.com/track/3lSS8lGZEXH8zd2p6wUUil"
+    },
+    {
+      "added_at": "2024-03-22 04:26:23",
+      "album": {
+        "name": "Lovers In A Past Life (Westend Remix)",
+        "url": "https://open.spotify.com/album/4iIX8tATPedKUMG0dmsKMJ"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "Lovers In A Past Life (with Rag'n'Bone Man) - Westend Remix",
+      "url": "https://open.spotify.com/track/1mEsNYnNvLyG7enKUZ6l83"
+    },
+    {
+      "added_at": "2024-03-22 04:27:03",
+      "album": {
+        "name": "Ni\u00f1a Bonita",
+        "url": "https://open.spotify.com/album/0L7eKbKPmzFTUQeTrqXsBR"
+      },
+      "artists": [
+        {
+          "name": "Angel Arevalo",
+          "url": "https://open.spotify.com/artist/5M89S2BaLeDuU8URGIdDWV"
+        }
+      ],
+      "duration_ms": 205055,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/4Cw14ICQ0gkTVm3nZYiBaS"
+    },
     {
       "added_at": "2024-03-15 21:56:28",
       "album": {

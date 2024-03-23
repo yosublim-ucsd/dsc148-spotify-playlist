@@ -4,7 +4,7 @@
 
 > soundtrack those long, dark days with warm indie favourites
 
-118 songs - 7 hr 21 min
+120 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Changing Winds](https://open.spotify.com/track/436awEpc0xnabbR0z4i0Qw) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [INSCAPE](https://open.spotify.com/album/577kOd8iZvVpgpTIeW4UpO) | 3:13 | 2024-01-12 |  |
 | [Consolation Prize](https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Cerulean](https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW) | 4:00 | 2024-01-12 |  |
 | [Constellations \- Piano Version](https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations \(Piano Version\)](https://open.spotify.com/album/4hv9qLSPvzL09HaIlL8JnP) | 3:50 | 2024-01-12 |  |
+| [Consume](https://open.spotify.com/track/1xfDL6kiwXdsbHyDCBImBr) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR), [Julles](https://open.spotify.com/artist/59RKDymdV7jSSYMk7kLdko) | [Consume](https://open.spotify.com/album/1kKjsmADxnPEjoY75Ye4lk) | 2:49 | 2024-03-22 |  |
 | [Crowded Places](https://open.spotify.com/track/6kNMg11e0ApnTmExdayfA1) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Crowded Places](https://open.spotify.com/album/5kBfpqZQEERHLnFCDGoX9D) | 4:22 | 2024-01-26 |  |
 | [Crush \- Stripped](https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA) | 3:49 | 2024-01-12 |  |
 | [damn](https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 4:21 | 2024-01-12 |  |
@@ -65,7 +66,7 @@
 | [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 | 2024-01-12 |  |
 | [Lost In The Light](https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd) | 3:56 | 2024-01-12 |  |
 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 | 2024-01-12 |  |
-| [LOVE IN THE DARK](https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:59 | 2024-02-09 |  |
+| [LOVE IN THE DARK](https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:59 | 2024-02-09 | 2024-03-23 |
 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 | 2024-01-12 | 2024-01-20 |
 | [Lover's Spit](https://open.spotify.com/track/3Cl35xMXJUEhpPaYBeNUQR) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 6:22 | 2024-02-02 |  |
 | [Manitoba](https://open.spotify.com/track/1iUJz7uPzc6XCexBg8pEZr) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Lover, or Whatever](https://open.spotify.com/album/7zLulhRz6oSw5CLvXHB3J7) | 1:58 | 2024-01-12 |  |
@@ -84,6 +85,7 @@
 | [Please Notice](https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Hope](https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc) | 1:56 | 2024-01-12 | 2024-02-10 |
 | [pourquoi la mort te fait peur](https://open.spotify.com/track/5lHMVaQfDiEY6k4qZgEfFH) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 3:36 | 2024-01-12 |  |
 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 | 2024-01-12 |  |
+| [Rootin' For Ya](https://open.spotify.com/track/17R7bnER0h4sYvtyowGSz4) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Rootin' For Ya](https://open.spotify.com/album/5aHN9wega3DaTuxEpFJ4n9) | 3:10 | 2024-03-22 |  |
 | [Ruined](https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Ruined](https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA) | 4:32 | 2024-01-12 |  |
 | [Salt In The Wound](https://open.spotify.com/track/7blNhlXimy77PduXyWtmcI) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 4:11 | 2024-01-12 |  |
 | [Save Us](https://open.spotify.com/track/45KIvymezcVSStboODBQWX) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 3:01 | 2024-01-12 |  |
@@ -106,7 +108,7 @@
 | [The Good Side](https://open.spotify.com/track/4qAHuJq5T4Q97EQZG47H0P) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 4:28 | 2024-01-12 |  |
 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 | 2024-01-12 |  |
 | [The Magician](https://open.spotify.com/track/3dsd09qrt34YuS6NPbQtYq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:51 | 2024-01-12 |  |
-| [The Make Believe](https://open.spotify.com/track/0JpcQdQnDvAIhShz61N9jm) | [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [The Make Believe](https://open.spotify.com/album/12LEJQjLucN7zD2Uhx3EJq) | 3:17 | 2024-03-15 |  |
+| [The Make Believe](https://open.spotify.com/track/0JpcQdQnDvAIhShz61N9jm) | [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [The Make Believe](https://open.spotify.com/album/12LEJQjLucN7zD2Uhx3EJq) | 3:17 | 2024-03-15 | 2024-03-23 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2024-01-12 |  |
 | [The Parting Glass](https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [The Parting Glass](https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO) | 4:11 | 2024-01-12 |  |
 | [this is how you fall in love](https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 2:54 | 2024-01-12 |  |

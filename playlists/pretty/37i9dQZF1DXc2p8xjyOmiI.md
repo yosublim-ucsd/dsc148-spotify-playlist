@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 
 > Puros corridones pa' quemarle las patas al Diablo 😈 Chino Pacas & Fuerza Regida en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,547 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,048 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 | 25 | [Haganse A Un Lado](https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Haganse A Un Lado](https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B) | 2:36 |
 | 26 | [JGL](https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [JGL](https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW) | 2:38 |
 | 27 | [Proyecto X](https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Proyecto X](https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs) | 2:38 |
-| 28 | [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 |
+| 28 | [Porte de Scarface](https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX) | 2:52 |
 | 29 | [Mi Religión](https://open.spotify.com/track/33MU3TnkqOle5HjXefemdx) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 3:14 |
 | 30 | [Diamantes](https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:31 |
 | 31 | [El Cigarrito Banado](https://open.spotify.com/track/0HeTasu9tMyqTFP7Exu6E7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 | 74 | [De Periódico Un Gallito](https://open.spotify.com/track/5teILTGkJkSJXI03XeMIj2) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 3:17 |
 | 75 | [Alacrana Lavada](https://open.spotify.com/track/4WxVEef5lYtPZLocEDAkMc) | [El Compa Chuy](https://open.spotify.com/artist/513OnOSWOhVTh12V1eEJtt) | [Alacrana Lavada](https://open.spotify.com/album/45XsUfnTe5wTuBAU7KwuUx) | 3:16 |
 
-Snapshot ID: `MCw4MjdhYTEwYjRiMjc0YzY1ODdiODI1MWE0NjMxMDU0NmEzMWZkNDFh`
+Snapshot ID: `MCwyOGY1NTZkNDM1OGFmNzQ1ZDBhOWVkNTM4OGYzMWY1ZTZjZmQyYmVm`

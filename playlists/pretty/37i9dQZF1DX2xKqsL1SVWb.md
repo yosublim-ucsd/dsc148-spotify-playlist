@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. Sebastián Romero en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,306 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,314 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 12 | [Volverás](https://open.spotify.com/track/2X4xsgZLE8Q1AlHgSzOYaS) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Volverás](https://open.spotify.com/album/0svz0zAFjvUJx9JEpIi12a) | 3:39 |
 | 13 | [tu fan](https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [tu fan](https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx) | 4:00 |
 | 14 | [Corazón Herido](https://open.spotify.com/track/5yABypq4vGBgk84LC7FUco) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [Pablo Eduardo](https://open.spotify.com/artist/18E3Tdz1YYdEyMlOm1YaVB) | [Corazón Herido](https://open.spotify.com/album/2YV6BsLMN5EP4BROla7taX) | 1:24 |
-| 15 | [El lugar correcto](https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:51 |
+| 15 | [Algo contigo](https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 4:57 |
 | 16 | [De Diseñador](https://open.spotify.com/track/3KrmfOUi4f6IE6JizbVMhs) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [De Diseñador](https://open.spotify.com/album/6QTrGFiAh0VzvqnfO4cOxf) | 2:42 |
 | 17 | [Vámonos a Marte](https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 2:59 |
-| 18 | [Algo contigo](https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 4:57 |
+| 18 | [El lugar correcto](https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:51 |
 | 19 | [Viernes 13](https://open.spotify.com/track/3oZ1k0maDv6kIcFMy03OdW) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Cada Vez Más < :\-\)](https://open.spotify.com/album/2dfDDOR5HeFYzCY63IyYBx) | 3:01 |
 | 20 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 |
 | 21 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 |
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 65 | [Sobre el Mar](https://open.spotify.com/track/3T9jOyviuZ0JoX3dfBKE0m) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Sobre el Mar](https://open.spotify.com/album/4ss0ZG3vjtuYtvbM1fgab0) | 3:47 |
 | 66 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 |
 | 67 | [Vuelvo Pronto](https://open.spotify.com/track/2HECQdPQtR1K9DfEdCBAoa) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Canciones Secretas](https://open.spotify.com/album/6CrUSUaGNBRz8MNYTkvNm1) | 2:32 |
-| 68 | [Que no me encuentre](https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:06 |
-| 69 | [Pasado y Olvido](https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Pasado y Olvido](https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs) | 4:15 |
-| 70 | [mejor me voy](https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [mejor me voy](https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld) | 3:17 |
-| 71 | [Hubo Algo \- Versión Acústica](https://open.spotify.com/track/02GG5euwvDieKZXXAG2pYJ) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [The Anchor Song](https://open.spotify.com/album/0hSPcdiX7kedJv63czzmXW) | 4:03 |
+| 68 | [Hubo Algo \- Versión Acústica](https://open.spotify.com/track/02GG5euwvDieKZXXAG2pYJ) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [The Anchor Song](https://open.spotify.com/album/0hSPcdiX7kedJv63czzmXW) | 4:03 |
+| 69 | [Que no me encuentre](https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:06 |
+| 70 | [Pasado y Olvido](https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Pasado y Olvido](https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs) | 4:15 |
+| 71 | [mejor me voy](https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [mejor me voy](https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld) | 3:17 |
 | 72 | [Juntos](https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:40 |
 | 73 | [Dejar Ir](https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6) | [Carope](https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs) | [Dejar Ir](https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA) | 4:49 |
 | 74 | [Tu Despedida](https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Tu Despedida](https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX) | 3:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 79 | [Dime](https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd) | [Nicoletta Spinelli](https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj) | [Al Amor](https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB) | 3:28 |
 | 80 | [Herido](https://open.spotify.com/track/1us2vhoPSbi3DHuH4yXmZy) | [SHAO](https://open.spotify.com/artist/6rGxc2bEuNfj8aNtGh7TQS) | [Terciopelo](https://open.spotify.com/album/26CTjq6zUJsDvERTifLjeZ) | 3:43 |
 
-Snapshot ID: `MCwyODJiZjJhNGMwZDQ3YmZkY2QwYTBkOTVkYmNmNTRiMzFmMDQ0YjZk`
+Snapshot ID: `MCw1MGFiMjg2YzU1ZDBlYjZlZjFjNDgwODc5NTUwODZkNjJmNDE5MGRk`

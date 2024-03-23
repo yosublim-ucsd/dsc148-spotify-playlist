@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 146430,
+  "2024-03-23": 146449,
   "date_first_scraped": "2023-06-18",
   "description": "A bit of then, a bit of now and everything in-between. Pop you can rely on. Cover: Amy Shark",
   "name": "GO-TO Pop",
@@ -721,10 +721,28 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 203666,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
+    },
+    {
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Genie In a Bottle",
+      "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,827 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,879 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 11 | [Rock 'n' Roll](https://open.spotify.com/track/738MwM1wbo84IO5DaQma1e) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rock N' Roll \(Expanded Edition\)](https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU) | 3:47 |
 | 12 | [Damage Case](https://open.spotify.com/track/3EkLYcqCD35q1Ws4rwY1Wk) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 3:02 |
 | 13 | [Bomber](https://open.spotify.com/track/5YxehSAZjBMcCIUlxGPit9) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber](https://open.spotify.com/album/0WVRXw04iy4QN2EnmXx11I) | 3:40 |
-| 14 | [Heroes](https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 4:20 |
-| 15 | [Motörhead](https://open.spotify.com/track/2iZYdnXBFW4r54HhQKanlg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Motorhead](https://open.spotify.com/album/5vYvX7jM5TAg7fzK1oKySe) | 3:10 |
+| 14 | [Motörhead](https://open.spotify.com/track/2iZYdnXBFW4r54HhQKanlg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Motorhead](https://open.spotify.com/album/5vYvX7jM5TAg7fzK1oKySe) | 3:10 |
+| 15 | [Heroes](https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 4:20 |
 | 16 | [Sympathy For The Devil](https://open.spotify.com/track/5Yql4ooghbDqwXIvCGXsdx) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 5:24 |
 | 17 | [Love Me Like a Reptile](https://open.spotify.com/track/6X072JM07roPKz9TJnYfWw) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 3:21 |
 | 18 | [Ramones](https://open.spotify.com/track/2Q0Tw6meB6xfZ4ONeIL35j) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 1:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 49 | [Greedy Bastards](https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Greedy Bastards](https://open.spotify.com/album/320YsD7ccYfPwARI17GgMw) | 4:12 |
 | 50 | [God Save The Queen](https://open.spotify.com/track/0ZuyXUQM2yAFIbmTOTXAbi) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:19 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBhY2ZjMzY3ODg2NDkyYTA3OGQ1MmQxYTlmNzlhNzNiMA==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA2MTM5MTQwNGI2ODNlZDQ3YzhkMDZhYjRmMjIzNDUyNQ==`

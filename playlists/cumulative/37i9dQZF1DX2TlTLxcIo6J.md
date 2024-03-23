@@ -4,7 +4,7 @@
 
 > New songwriters on the horizon from around the world\. Cover: Em Walcott 💕
 
-84 songs - 4 hr 20 min
+85 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Headphones](https://open.spotify.com/track/04B64zIf89qyXyEoxFS3pH) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Gela](https://open.spotify.com/album/6U4EyQWAc1wCohtIV3wBqz) | 2:46 | 2022-07-22 |  |
 | [Hell N Back](https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 3:33 | 2023-10-05 |  |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2023-02-24 | 2023-10-05 |
-| [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 | 2022-05-27 |  |
+| [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 | 2022-05-27 | 2024-03-23 |
 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 | 2023-04-02 |  |
 | [I Like Me](https://open.spotify.com/track/1Z8d3f6vuedyPzrfPuA5Yl) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8) | 2:30 | 2022-05-27 | 2022-12-01 |
 | [I Like Me](https://open.spotify.com/track/03e6kd5Gye4OAK0ANM0neZ) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9) | 2:30 | 2022-05-27 | 2024-03-22 |
@@ -58,6 +58,7 @@
 | [No Romeo](https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3) | 3:11 | 2022-05-27 |  |
 | [Nuez](https://open.spotify.com/track/4xNsLmMkJW8dq9b8NMDAm5) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3) | 3:32 | 2023-11-06 |  |
 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 | 2022-05-27 |  |
+| [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 | 2024-03-22 |  |
 | [Paid In Pleasure](https://open.spotify.com/track/0wkYibs7oR46Tq1k7sIQLu) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 1:46 | 2024-03-21 |  |
 | [patience interlude](https://open.spotify.com/track/24xpL4l70GDGIVFIxLbW8s) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 2:21 | 2023-10-05 |  |
 | [Perfect on Me](https://open.spotify.com/track/3aABZMfYArSNlD1muV1wsK) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Perfect on Me](https://open.spotify.com/album/6y79bH31Bg9wxSeNRTl5WL) | 2:44 | 2024-02-26 |  |

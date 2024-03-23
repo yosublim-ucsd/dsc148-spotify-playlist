@@ -2,9 +2,9 @@
 
 ### [Folk Pop](https://open.spotify.com/playlist/37i9dQZF1DWXJyjYpHunCf)
 
-> The best of folk\-infused pop and singer\-songwriter\. Cover: Myles Smith
+> The best of folk\-infused pop and singer\-songwriter\. Cover: Benson Boone
 
-370 songs - 21 hr 8 min
+371 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [I Don't Really Care for You](https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead](https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw) | 4:04 | 2022-03-12 | 2022-10-13 |
 | [I Got You on My Mind](https://open.spotify.com/track/2yDmtELC2x3qNbJRfnFmga) | [BEEBE](https://open.spotify.com/artist/0oAtSSMTWJahNLnc0OMxiq) | [Beebe](https://open.spotify.com/album/1t3vArpUecsBVn9Maanu53) | 3:09 | 2021-11-12 | 2022-07-29 |
 | [I Hate That Part](https://open.spotify.com/track/2vKUa0RyA8xIzFteB7mikF) | [Caroline Glaser](https://open.spotify.com/artist/4qiAhwxeFLSbkNq6tFEWpJ) | [Caroline Glaser](https://open.spotify.com/album/4zd3piahMJULe7zBWeZcxJ) | 3:54 | 2021-11-12 | 2022-03-01 |
-| [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 | 2022-03-12 |  |
+| [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 | 2022-03-12 | 2024-03-23 |
 | [I Keep Ticking On](https://open.spotify.com/track/7BgN5iMlbla6J4LpEDrFMn) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/3xFx5kmywwhfFtTlbX5u2U) | 2:36 | 2022-03-12 | 2022-04-25 |
 | [I Know the Way Home](https://open.spotify.com/track/2TkbdIwr5UmOMqUcQmD5sE) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/7uoGfhhJZZgeEGL22VfipY) | 3:21 | 2021-11-12 | 2022-07-29 |
 | [I Know the Way Home](https://open.spotify.com/track/4uTnmU2jXpoI87haPWMqTi) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/3xyzbwzDORDLA6QgQRASvj) | 3:21 | 2022-03-12 | 2022-10-11 |
@@ -291,6 +291,7 @@
 | [Signal Sender](https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Signal Sender](https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy) | 3:20 | 2023-09-29 |  |
 | [Silicone Heart](https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Silicone Heart](https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR) | 3:13 | 2024-02-16 |  |
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-01-19 |  |
+| [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-03-22 |  |
 | [Some Kind Of Love](https://open.spotify.com/track/4UkpYAxwW1ccMWAhNiyeaW) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Some Kind Of Love](https://open.spotify.com/album/1bH8H3VIEETtPH1pPzIysT) | 3:48 | 2022-03-12 | 2022-12-28 |
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-11-12 | 2023-09-16 |
 | [something to remember](https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [something to remember](https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo) | 2:42 | 2023-11-22 |  |

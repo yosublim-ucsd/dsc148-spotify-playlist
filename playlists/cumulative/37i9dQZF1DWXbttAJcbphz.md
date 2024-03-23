@@ -2,7 +2,7 @@
 
 ### [I Love My '10s R&B](https://open.spotify.com/playlist/37i9dQZF1DWXbttAJcbphz)
 
-> Celebrating 5 years of "When I Get Home"\. Cover: Solange
+> The most essential R&B songs from the '10s\. Cover: Solange
 
 160 songs - 9 hr 56 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Holden
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,677 likes - 54 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,685 likes - 54 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 53 | [MERCOLEDÌ MAI](https://open.spotify.com/track/6QxdN1k7aMhkFiTmuFRUPs) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [MERCOLEDÌ MAI](https://open.spotify.com/album/7Ib2YfkSm802GqCNw5RNnk) | 2:54 |
 | 54 | [Vabbe' ciao](https://open.spotify.com/track/3UMayUk8vyZ76MAkKmxiYG) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Non so chi ha creato il mondo ma so che era innamorato](https://open.spotify.com/album/5I60YSIaGjXDuR7TOIiHgl) | 2:40 |
 
-Snapshot ID: `MCxjM2VkN2NmMWY2NjYyOGQwYzRmNDU1ZDlkYWI5NTlkNTM4OWU5NGVh`
+Snapshot ID: `MCxiZjZmNjM0NGQzNWM1ZWMzNjMzMTYxNTUzMTY2MjljNTQ5ODcwMWM4`

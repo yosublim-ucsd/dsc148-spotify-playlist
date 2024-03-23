@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ponte a jalar sin miedo al \u00e9xito!",
-  "num_followers": 123774,
+  "num_followers": 123777,
   "original_name": "Ponte Chulet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDAxM2E0MjBhNjE0YWIyOTc5MGY1Njk4YjNkNGE2NGI1NGQ3N2I4",
+  "snapshot_id": "MCxlNjUyMWM1YzlkZjNiNTZjNGJkYTNkY2Y0MWZkNTE1NDQxOGMzNzM1",
   "tracks": [
     {
       "added_at": "2023-07-04 19:35:29",
@@ -431,22 +431,22 @@
     {
       "added_at": "2023-07-04 19:35:29",
       "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+        "name": "Los Collares",
+        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
         }
       ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+      "duration_ms": 148793,
+      "name": "Los Collares",
+      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
     },
     {
       "added_at": "2023-07-04 19:35:29",
@@ -471,22 +471,22 @@
     {
       "added_at": "2023-07-04 19:35:29",
       "album": {
-        "name": "Los Collares",
-        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 148793,
-      "name": "Los Collares",
-      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
       "added_at": "2023-07-04 19:35:29",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-07-04 19:35:29",
       "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 205299,
-      "name": "As\u00ed Lo Quiso Dios",
-      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
-    },
-    {
-      "added_at": "2023-07-04 19:35:29",
-      "album": {
         "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
         "url": "https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 254920,
       "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
       "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
+    },
+    {
+      "added_at": "2023-07-04 19:35:29",
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 205299,
+      "name": "As\u00ed Lo Quiso Dios",
+      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
     },
     {
       "added_at": "2023-07-04 19:35:29",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2023-07-04 19:35:29",
       "album": {
-        "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
-        "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
-      "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
-    },
-    {
-      "added_at": "2023-07-04 19:35:29",
-      "album": {
         "name": "As\u00ed Soy Yo",
         "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 289013,
       "name": "\u00c9xtasis",
       "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
+    },
+    {
+      "added_at": "2023-07-04 19:35:29",
+      "album": {
+        "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
+        "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
+      "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
     },
     {
       "added_at": "2023-07-04 19:35:29",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2023-07-04 19:35:29",
       "album": {
-        "name": "El G\u00fcero (Feat. Marca MP)",
-        "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 213254,
-      "name": "El G\u00fcero (Feat. Marca MP)",
-      "url": "https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw"
-    },
-    {
-      "added_at": "2023-07-04 19:35:29",
-      "album": {
         "name": "M.L.P",
         "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 211961,
       "name": "M.L.P",
       "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
+    },
+    {
+      "added_at": "2023-07-04 19:35:29",
+      "album": {
+        "name": "El G\u00fcero (Feat. Marca MP)",
+        "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 213254,
+      "name": "El G\u00fcero (Feat. Marca MP)",
+      "url": "https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw"
     },
     {
       "added_at": "2023-07-04 19:35:29",
@@ -1703,6 +1703,26 @@
     {
       "added_at": "2023-07-04 19:35:29",
       "album": {
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 197781,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP"
+    },
+    {
+      "added_at": "2023-07-04 19:35:29",
+      "album": {
         "name": "Belico El Asunto (En Vivo)",
         "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
       },
@@ -1719,22 +1739,6 @@
       "duration_ms": 208680,
       "name": "Belico El Asunto (En Vivo)",
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
-    },
-    {
-      "added_at": "2023-07-04 19:35:29",
-      "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 158918,
-      "name": "Punto y Aparte",
-      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
     },
     {
       "added_at": "2023-07-04 19:35:29",
@@ -1759,22 +1763,18 @@
     {
       "added_at": "2023-07-04 19:35:29",
       "album": {
-        "name": "Cada Quien",
-        "url": "https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p"
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 197781,
-      "name": "Cada Quien",
-      "url": "https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP"
+      "duration_ms": 158918,
+      "name": "Punto y Aparte",
+      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
     },
     {
       "added_at": "2023-07-04 19:35:29",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2023-07-04 19:35:29",
       "album": {
-        "name": "En Blindadas",
-        "url": "https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY"
-      },
-      "artists": [
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 190154,
-      "name": "En Blindadas",
-      "url": "https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo"
-    },
-    {
-      "added_at": "2023-07-04 19:35:29",
-      "album": {
         "name": "Hablando Claro (En Vivo)",
         "url": "https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 190671,
       "name": "Hablando Claro (En Vivo)",
       "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
+    },
+    {
+      "added_at": "2023-07-04 19:35:29",
+      "album": {
+        "name": "En Blindadas",
+        "url": "https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 190154,
+      "name": "En Blindadas",
+      "url": "https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo"
     }
   ],
   "unique_name": "Ponte Chulet\u00f3n",

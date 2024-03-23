@@ -1,12 +1,12 @@
 {
   "description": "driving in a convertible to Remi's new song / pulling over for a cry to Adrianne's ",
-  "num_followers": 1140922,
+  "num_followers": 1141075,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTBjNTE5NjczMDU4Yjc5YjY2MDYwNzM1MDNlMmM5NDRjNGY3NWIz",
+  "snapshot_id": "MCw2M2UxMjY0YWY2ZjgyYWI4N2JkNWJlMWI2NTQ2YWZlNmMwNDlhMjA4",
   "tracks": [
     {
       "added_at": "2024-03-21 17:07:38",
@@ -27,8 +27,8 @@
     {
       "added_at": "2024-03-21 17:07:38",
       "album": {
-        "name": "Free Treasure",
-        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
       },
       "artists": [
         {
@@ -38,7 +38,7 @@
       ],
       "duration_ms": 215514,
       "name": "Free Treasure",
-      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
+      "url": "https://open.spotify.com/track/3zGhR60NOVSgtzNEQNcHav"
     },
     {
       "added_at": "2024-03-21 17:07:38",
@@ -167,6 +167,30 @@
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "The von dutch remix with addison rae and a.g. cook",
+        "url": "https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 157328,
+      "name": "The von dutch remix with addison rae and a.g. cook",
+      "url": "https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo"
     },
     {
       "added_at": "2024-03-13 21:00:13",
@@ -479,22 +503,6 @@
       "duration_ms": 132737,
       "name": "Eyes on my baby",
       "url": "https://open.spotify.com/track/7cM6obAwlMkP6nDTwNPEl2"
-    },
-    {
-      "added_at": "2024-02-29 17:19:06",
-      "album": {
-        "name": "Von dutch",
-        "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 164284,
-      "name": "Von dutch",
-      "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
     },
     {
       "added_at": "2024-02-08 17:37:34",

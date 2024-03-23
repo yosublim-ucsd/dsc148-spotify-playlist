@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 
 > This is Humbe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,991 likes - 42 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,241 likes - 42 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 |
-| 2 | [Patadas de Ahogado / LATIN MAFIA \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATIN MAFIA \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
+| 2 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
 | 3 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 |
 | 4 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
 | 5 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 |
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 21 | [si mañana comienza sin mí](https://open.spotify.com/track/76cA70PWNqcNmyHt1IZeuM) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 2:05 |
 | 22 | [ESENCIA](https://open.spotify.com/track/3r0eidnhTQ0a33kdfjzFoJ) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 5:05 |
 | 23 | [Amor a Primera](https://open.spotify.com/track/2filNZQPKju4OSbRKQvI2V) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Amor a Primera](https://open.spotify.com/album/050xwu2KqU1mned3kh65Nw) | 3:06 |
-| 24 | [roma](https://open.spotify.com/track/5eIL2PBVtangYd7tepcTIs) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 2:55 |
+| 24 | [Himno](https://open.spotify.com/track/0qKwMEPwaEs4CuVGrGFYFR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:27 |
 | 25 | [MANIFIESTO](https://open.spotify.com/track/3dCaq6gk0XBCSfnlupKJ5r) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:05 |
 | 26 | [mamá](https://open.spotify.com/track/2JW4s3HaqPerHX3R644sIG) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:29 |
 | 27 | [Todo Mal](https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Todo Mal](https://open.spotify.com/album/2tOo8QwuEz1bYxLBc9X4aa) | 3:05 |
-| 28 | [Himno](https://open.spotify.com/track/0qKwMEPwaEs4CuVGrGFYFR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:27 |
+| 28 | [roma](https://open.spotify.com/track/5eIL2PBVtangYd7tepcTIs) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 2:55 |
 | 29 | [QUÍTAME LAS ALAS](https://open.spotify.com/track/4gdIIRAalPd15Ox3JEq9Kc) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 3:29 |
 | 30 | [Te Quiero Aquí Ya](https://open.spotify.com/track/05C6RqtazHO47QZpZY04zX) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Te Quiero Aquí Ya](https://open.spotify.com/album/6SLHSOEXgE52YBulVLJZp0) | 3:05 |
 | 31 | [yo x3](https://open.spotify.com/track/4RGpNXCSbRSKjvctTXmppw) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [yo x3](https://open.spotify.com/album/4sVjp0ucdVB0H7mGex3J4A) | 3:42 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 41 | [Encerrados](https://open.spotify.com/track/3bLEc8iw4wZqMFb6MFB7Bg) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Sonámbulo](https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M) | 3:36 |
 | 42 | [Nunca Dijiste Adiós](https://open.spotify.com/track/0lTHLJ03jTiaGnhVBTY2vc) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Sonámbulo](https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M) | 3:39 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDAxOTY3MTZlNGVhM2ZkZGZhZDY2NjM1OWZmODQ0OGIxYw==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA1YzNjM2YxZTg3NGMzMmZhMTEyNmMwYmQ2MTIzOTg0OA==`

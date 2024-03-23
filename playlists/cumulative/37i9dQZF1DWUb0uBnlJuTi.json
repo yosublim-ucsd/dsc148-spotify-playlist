@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Jazz. But funky. Cover: Takuya Kuroda",
+  "description": "Jazz. But funky. Cover: Sly5thAve",
   "name": "Jazz-Funk",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 361482,
       "name": "Big Brother",
       "url": "https://open.spotify.com/track/706lD4ZY9A3uWNLjPYSpaV"
@@ -3378,6 +3378,24 @@
       "duration_ms": 391640,
       "name": "Lazy Days - Bluey Remix",
       "url": "https://open.spotify.com/track/4YbHhDPvq21gjwd05tDIke"
+    },
+    {
+      "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/4FV6Mo4LSbN4YX6TSi8shV"
+      },
+      "artists": [
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314481,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/5SzCMMK5oo6PoiCSiii328"
     },
     {
       "album": {

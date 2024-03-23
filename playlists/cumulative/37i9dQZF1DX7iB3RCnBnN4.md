@@ -4,7 +4,7 @@
 
 > All the songs with more than 1 BILLION streams on Spotify\. Cover: Lost Frequencies
 
-655 songs - 1 day 15 hr 54 min
+656 songs - 1 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 | 2021-07-21 |  |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2021-07-21 |  |
 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 | 2022-09-05 |  |
+| [Only Girl \(In The World\)](https://open.spotify.com/track/6jAsmDJI8iPhGWtS27kZ67) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/35dJsQDEr549O5DTFUy3uM) | 3:55 | 2024-03-22 |  |
 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 | 2023-06-05 |  |
 | [Outside \(feat\. Ellie Goulding\)](https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:47 | 2024-01-19 |  |
 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 | 2023-10-19 |  |

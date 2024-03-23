@@ -4,12 +4,12 @@
 
 > La banda sonora para tus cenas en casa.
 
-221 songs - 14 hr 14 min
+222 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Getting Some\) Fun out of Life](https://open.spotify.com/track/1WWVlkmJSdLBSiqF2m8Ex2) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Dreamland](https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB) | 3:12 | 2021-01-19 | 2022-07-27 |
-| [\(Poor Mi\) Israelites](https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:36 | 2024-02-05 |  |
+| [\(Poor Mi\) Israelites](https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:36 | 2024-02-05 | 2024-03-23 |
 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 4:33 | 2021-01-19 | 2022-07-29 |
 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV) | 4:36 | 2021-01-19 |  |
 | [6000 Miles](https://open.spotify.com/track/3UvcBuqivTJkZgRoLZ09JC) | [Sara Pi](https://open.spotify.com/artist/0laMFy7P4AzMlSDFHf6CuE) | [6000 Miles](https://open.spotify.com/album/3RKr1pYPqHZaAsh6w8SCxk) | 2:58 | 2021-01-19 | 2022-07-25 |
@@ -96,6 +96,7 @@
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 | 2023-05-11 |  |
 | [I Am a Rock](https://open.spotify.com/track/0byOqNZN9ailhoORv5Ps0Z) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:49 | 2021-01-19 | 2023-05-07 |
 | [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 | 2021-01-19 |  |
+| [I Like It Like That](https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like It Like That](https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB) | 4:25 | 2024-02-05 |  |
 | [I Say A Little Prayer](https://open.spotify.com/track/6bBwFPgVdWxuc4uWEyALCa) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Definitive Soul: Aretha Franklin](https://open.spotify.com/album/2TQwwjsqs7dsHWkzcTa36n) | 3:34 | 2021-01-19 | 2022-07-29 |
 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 | 2021-01-19 |  |
 | [I'm In The Mood For Love](https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:29 | 2023-05-11 |  |

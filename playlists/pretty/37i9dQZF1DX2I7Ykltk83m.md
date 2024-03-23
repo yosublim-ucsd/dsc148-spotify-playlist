@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,836 likes - 125 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,864 likes - 125 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 45 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 |
 | 46 | [Not](https://open.spotify.com/track/7lrhugjSbiImrNSLIFIq0c) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 6:07 |
 | 47 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
-| 48 | [Like I Used To](https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra) | 4:23 |
-| 49 | [Lovesick](https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 4:13 |
+| 48 | [Lovesick](https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 4:13 |
+| 49 | [Like I Used To](https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra) | 4:23 |
 | 50 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 |
 | 51 | [Savage Good Boy](https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 2:26 |
 | 52 | [Interstate Vision](https://open.spotify.com/track/4LGCqrllsDT8SI8xmmE6OL) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Thx](https://open.spotify.com/album/15nul3qLPn2FopI5zjdEg7) | 2:42 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 74 | [Be Careful With Yourself](https://open.spotify.com/track/0c8dhGhpolT4ByZ28RgIti) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 3:47 |
 | 75 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 |
 | 76 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
-| 77 | [Growing Up](https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 3:06 |
-| 78 | [Polly](https://open.spotify.com/track/0AaJgZIw1lJjc4QejCEpAu) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Digital Meadow](https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ) | 2:42 |
+| 77 | [Polly](https://open.spotify.com/track/0AaJgZIw1lJjc4QejCEpAu) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Digital Meadow](https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ) | 2:42 |
+| 78 | [Growing Up](https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 3:06 |
 | 79 | [When You Know You Know](https://open.spotify.com/track/5LgpO5RdeHPEDSww4XP0WO) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 4:08 |
 | 80 | [Go Outside](https://open.spotify.com/track/2OnKQdktx8Ri0Fhto8lYTk) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Happy Birthday, Ratboy](https://open.spotify.com/album/2MJKg2QIVQtkOSUAme4hjO) | 2:49 |
 | 81 | [Shadows](https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shadows](https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd) | 2:37 |
@@ -114,14 +114,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 104 | [Soak Up The Sun](https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Soak Up The Sun](https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD) | 5:04 |
 | 105 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 |
 | 106 | [Coming to Get You Nowhere](https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:20 |
-| 107 | [American Beauty](https://open.spotify.com/track/5sd5iSdc2bRXGirMiBcMDb) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 2:52 |
-| 108 | [Hospital \(One Man Down\) \(feat\. Remi Wolf\)](https://open.spotify.com/track/3viGqgmswIMRcmGat5WYYq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Hospital \(One Man Down\)](https://open.spotify.com/album/25iq2f67q6Je815D44cXPu) | 3:27 |
-| 109 | [Making It Through](https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Making It Through](https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8) | 4:42 |
-| 110 | [Make Out](https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 2:23 |
+| 107 | [Hospital \(One Man Down\) \(feat\. Remi Wolf\)](https://open.spotify.com/track/3viGqgmswIMRcmGat5WYYq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Hospital \(One Man Down\)](https://open.spotify.com/album/25iq2f67q6Je815D44cXPu) | 3:27 |
+| 108 | [American Beauty](https://open.spotify.com/track/5sd5iSdc2bRXGirMiBcMDb) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 2:52 |
+| 109 | [Make Out](https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 2:23 |
+| 110 | [Making It Through](https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Making It Through](https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8) | 4:42 |
 | 111 | [Freak Like Me](https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:42 |
 | 112 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 |
-| 113 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 |
-| 114 | [It Hurts Until It Doesn't](https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5) | [Mothers](https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv) | [When You Walk A Long Distance You Are Tired](https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe) | 5:33 |
+| 113 | [It Hurts Until It Doesn't](https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5) | [Mothers](https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv) | [When You Walk A Long Distance You Are Tired](https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe) | 5:33 |
+| 114 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 |
 | 115 | [Rabbit Hole](https://open.spotify.com/track/0BFGclich9JXVCAS79P793) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Rabbit Hole](https://open.spotify.com/album/7dx74V0ACulX7f5cjbsdSx) | 2:59 |
 | 116 | [Watching Cartoons](https://open.spotify.com/track/3Gb1M4i5UlDauEnaLJF2HT) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [La Luz](https://open.spotify.com/album/17WOu1wHd6KdSO2Z0HRz6w) | 3:28 |
 | 117 | [Don't Go Puttin Wishes in My Head](https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Thirstier](https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu) | 4:21 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 120 | [Slowly](https://open.spotify.com/track/5r6qy0ZGZemcKbh7FktPu2) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:05 |
 | 121 | [Sword](https://open.spotify.com/track/1EQ08xDU7g9brPXEVNeWnE) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Show Me How You Disappear](https://open.spotify.com/album/3byic3J5R5PQCm62tdTimO) | 3:02 |
 | 122 | [Come Apart](https://open.spotify.com/track/3yJqlmzdenTmQeb3bdRJfO) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3E6nSXNMIVy4wofjSstjka) | 3:04 |
-| 123 | [Tick Tock](https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:39 |
-| 124 | [Moderation](https://open.spotify.com/track/4K7wxxMOlSRWodONmW8ceG) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/4EucMR080SkRlViV1nbDK9) | 4:04 |
+| 123 | [Moderation](https://open.spotify.com/track/4K7wxxMOlSRWodONmW8ceG) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/4EucMR080SkRlViV1nbDK9) | 4:04 |
+| 124 | [Tick Tock](https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:39 |
 | 125 | [New Speedway Boogie](https://open.spotify.com/track/7rlH5IVzRc5eCMiURVoUrI) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Day of the Dead](https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz) | 5:20 |
 
-Snapshot ID: `MCw5OWI0ZTc5YWMwYjVhNzIzODMzMTk4YmU5ZDQ3YzJlMDRmYWUwMGE5`
+Snapshot ID: `MCwyNTExZWRmZGNlN2ZmZGIwMTU3M2U0Mzc0MmQxMWM5MTVkMmMyNTY0`

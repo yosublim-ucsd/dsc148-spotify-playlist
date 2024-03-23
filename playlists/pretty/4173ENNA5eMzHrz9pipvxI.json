@@ -1,15 +1,55 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: David Guetta &amp; MORTEN",
-  "num_followers": 120887,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Nitefreak x Laureano x Bambo Cissokho",
+  "num_followers": 120891,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NzQ0NSw1NmM1M2Q3ODg2ZGUyNzE3MGEwODYzMTg4ZTNiYzJlZWIyNzM4YzE2",
+  "snapshot_id": "NzQ1OCwxMzNkYTBmNTM2YTYyYWQ2MzcxYTQ3ODYzZGZmZWFlMDA2YmJmMGVk",
   "tracks": [
     {
-      "added_at": "2024-03-15 13:12:45",
+      "added_at": "2024-03-22 07:22:53",
+      "album": {
+        "name": "Asara (feat. Bambo Cissokho)",
+        "url": "https://open.spotify.com/album/39YxZgJhoL9YQfc4lmKwhN"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Laureano",
+          "url": "https://open.spotify.com/artist/4Hu88bgyAjHvZZpfBK9ncX"
+        },
+        {
+          "name": "Bambo Cissokho",
+          "url": "https://open.spotify.com/artist/2qjWUEZjsTxLUYI6MNk3Yq"
+        }
+      ],
+      "duration_ms": 162295,
+      "name": "Asara (feat. Bambo Cissokho)",
+      "url": "https://open.spotify.com/track/7jZXymh2SwJUGD4juPNVVH"
+    },
+    {
+      "added_at": "2024-03-22 07:22:53",
+      "album": {
+        "name": "So H\u00ef",
+        "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 212139,
+      "name": "So H\u00ef",
+      "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
+    },
+    {
+      "added_at": "2024-03-22 07:22:53",
       "album": {
         "name": "The Future Is Now - The Truth",
         "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
@@ -29,27 +69,7 @@
       "url": "https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx"
     },
     {
-      "added_at": "2024-03-15 13:12:45",
-      "album": {
-        "name": "Boombox (feat. Madam Parker)",
-        "url": "https://open.spotify.com/album/2yTX8OjdtAq2LFkqhi4284"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "Madam Parker",
-          "url": "https://open.spotify.com/artist/29rTk5W3QE63AAQVsk9o8K"
-        }
-      ],
-      "duration_ms": 165942,
-      "name": "Boombox (feat. Madam Parker)",
-      "url": "https://open.spotify.com/track/76Ha6CD61eRztnKUbiUXbf"
-    },
-    {
-      "added_at": "2024-03-08 10:25:04",
+      "added_at": "2024-03-22 07:22:53",
       "album": {
         "name": "Liquor By The Litre (feat. P Money & Laurena Volant\u00e9)",
         "url": "https://open.spotify.com/album/5GjPpUvdeZzPxFw8eAueIn"
@@ -73,244 +93,216 @@
       "url": "https://open.spotify.com/track/2UXmF5eo4HeqMTERZyceQN"
     },
     {
-      "added_at": "2024-03-08 10:25:04",
+      "added_at": "2024-03-22 07:22:53",
       "album": {
-        "name": "Speed Of Light",
-        "url": "https://open.spotify.com/album/46pqFSU1F51DWPgiAzP5YX"
+        "name": "Boombox (feat. Madam Parker)",
+        "url": "https://open.spotify.com/album/2yTX8OjdtAq2LFkqhi4284"
       },
       "artists": [
         {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Madam Parker",
+          "url": "https://open.spotify.com/artist/29rTk5W3QE63AAQVsk9o8K"
         }
       ],
-      "duration_ms": 130000,
-      "name": "Speed Of Light",
-      "url": "https://open.spotify.com/track/1msiK1xlTS55AcuhE644Lx"
+      "duration_ms": 165942,
+      "name": "Boombox (feat. Madam Parker)",
+      "url": "https://open.spotify.com/track/76Ha6CD61eRztnKUbiUXbf"
     },
     {
-      "added_at": "2024-03-08 10:25:04",
+      "added_at": "2024-03-22 07:22:53",
       "album": {
-        "name": "Happy (feat. Tiina)",
-        "url": "https://open.spotify.com/album/7JbXWrz529d0L25gU7yju5"
+        "name": "Ori Tali Ma (BLR remix)",
+        "url": "https://open.spotify.com/album/3VSchKmXXV1R7qPYa9Vm6w"
       },
       "artists": [
         {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
         },
         {
-          "name": "Tiina",
-          "url": "https://open.spotify.com/artist/6GVBNOQURiHG9apNXi9fE8"
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
         }
       ],
-      "duration_ms": 210666,
-      "name": "Happy (feat. Tiina)",
-      "url": "https://open.spotify.com/track/3CjdXar5vfq39M06YNwCE0"
+      "duration_ms": 172500,
+      "name": "Ori Tali Ma (BLR remix)",
+      "url": "https://open.spotify.com/track/0mN3xC0ve5pt9Sss53COSV"
     },
     {
-      "added_at": "2024-03-20 09:23:59",
+      "added_at": "2024-03-22 07:22:53",
       "album": {
-        "name": "The Future Is Now - The Truth",
-        "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
+        "name": "Do It For Myself",
+        "url": "https://open.spotify.com/album/2Ark73yV8CHbYh4ETAf0WD"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+          "name": "KAIN",
+          "url": "https://open.spotify.com/artist/3hUzmwo4uCNNY5XS1h3GP0"
         }
       ],
-      "duration_ms": 150000,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4gcErKcWZzQTeILJzIeXDS"
+      "duration_ms": 144030,
+      "name": "Do It For Myself",
+      "url": "https://open.spotify.com/track/4SXZdkt0vQl9Rxsj7yfICY"
     },
     {
-      "added_at": "2024-03-15 13:13:00",
+      "added_at": "2024-03-22 07:22:53",
       "album": {
-        "name": "If You Don't Like To Party (feat. HVRR) [CARCA Remix]",
-        "url": "https://open.spotify.com/album/68Uq2aKDR5DHvkF1jveQ8v"
+        "name": "I Belong (feat. Franky)",
+        "url": "https://open.spotify.com/album/2LDi0EnyqChVbaLIhMMegN"
       },
       "artists": [
         {
-          "name": "Supafly",
-          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
+          "name": "Gold 88",
+          "url": "https://open.spotify.com/artist/72NGBfqlYIr2o92HJh76bD"
         },
         {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
-        },
-        {
-          "name": "CARCA",
-          "url": "https://open.spotify.com/artist/1QcwVTCcpg2B9moBRefV1h"
-        },
-        {
-          "name": "HVRR",
-          "url": "https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde"
+          "name": "Franky",
+          "url": "https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW"
         }
       ],
-      "duration_ms": 154261,
-      "name": "If You Don't Like To Party (feat. HVRR) - CARCA Remix",
-      "url": "https://open.spotify.com/track/0W8zhXYgJ6I672qikM3Gzk"
+      "duration_ms": 188764,
+      "name": "I Belong (feat. Franky)",
+      "url": "https://open.spotify.com/track/2oCHwhWjCzwZqN45hhFQno"
     },
     {
-      "added_at": "2024-03-15 13:13:00",
+      "added_at": "2024-03-22 07:22:53",
       "album": {
-        "name": "Circa '95",
-        "url": "https://open.spotify.com/album/5lJrhpn5v22pjrcNZSZiQb"
+        "name": "Face Your Future",
+        "url": "https://open.spotify.com/album/1r2ja8pzpUfcEvhizdi750"
       },
       "artists": [
         {
-          "name": "Kokiri",
-          "url": "https://open.spotify.com/artist/1owCC0eLSdPUND3qAAFEmv"
-        }
-      ],
-      "duration_ms": 179496,
-      "name": "Circa '95",
-      "url": "https://open.spotify.com/track/3oLgY8E3LlXtodaoee7bml"
-    },
-    {
-      "added_at": "2024-03-15 13:13:00",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/7gbU6g4RhAx9At2EEPu1RE"
-      },
-      "artists": [
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+          "name": "Cuebrick",
+          "url": "https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM"
         },
         {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+          "name": "Dinar Candy",
+          "url": "https://open.spotify.com/artist/62lpkbOrumcoX8nQzepHnB"
+        },
+        {
+          "name": "Skytek",
+          "url": "https://open.spotify.com/artist/5XDaKyPKZSMBGIdDrKUzQb"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/7IWa199kHt5w9DhHXvd0gY"
+      "duration_ms": 162985,
+      "name": "Face Your Future",
+      "url": "https://open.spotify.com/track/2YwIcOiRFP7vdcQy4fX9R7"
     },
     {
-      "added_at": "2024-03-15 13:13:00",
+      "added_at": "2024-03-22 07:22:53",
       "album": {
-        "name": "Rabbit Hole (feat. CERES)",
-        "url": "https://open.spotify.com/album/6fEOREmaj2cYmr8j2jeRSO"
+        "name": "Stumblin' In (Arno Cost & Norman Doray Remix)",
+        "url": "https://open.spotify.com/album/38NwLG2G4FxORCxLkdn46w"
       },
       "artists": [
         {
-          "name": "NOME.",
-          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         },
         {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+          "name": "Arno Cost",
+          "url": "https://open.spotify.com/artist/0BMhfbeiOrNMBzjELzbyNg"
+        },
+        {
+          "name": "Norman Doray",
+          "url": "https://open.spotify.com/artist/1UmLUPNgy8HS6oI05zdGjD"
         }
       ],
-      "duration_ms": 132444,
-      "name": "Rabbit Hole (feat. CERES)",
-      "url": "https://open.spotify.com/track/6MBHVQwX7GJnLfsU6iyWay"
+      "duration_ms": 200124,
+      "name": "Stumblin' In (Arno Cost & Norman Doray Remix)",
+      "url": "https://open.spotify.com/track/0vMPd6BvjGcQ9sqwmeOYtA"
     },
     {
-      "added_at": "2024-03-15 13:13:00",
+      "added_at": "2024-03-22 07:22:53",
       "album": {
-        "name": "Drip N Drop",
-        "url": "https://open.spotify.com/album/6o3w06lM3T7xwaNHg9jByY"
+        "name": "Liquor By The Litre (feat. P Money & Laurena Volant\u00e9) [Murder He Wrote Remix]",
+        "url": "https://open.spotify.com/album/3KEZEvcyPrKBj423pUPLYl"
       },
       "artists": [
         {
-          "name": "Fraxy",
-          "url": "https://open.spotify.com/artist/2AiK07wBzpRw0r1uvJZboa"
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Murder He Wrote",
+          "url": "https://open.spotify.com/artist/4n11sJzNp7JjBQw9sDze9Z"
+        },
+        {
+          "name": "Laurena Volant\u00e9",
+          "url": "https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu"
         }
       ],
-      "duration_ms": 140624,
-      "name": "Drip N Drop",
-      "url": "https://open.spotify.com/track/7yZdhvfPmYX8FqFSrek5As"
+      "duration_ms": 206111,
+      "name": "Liquor By The Litre (feat. P Money & Laurena Volant\u00e9) [Murder He Wrote Remix]",
+      "url": "https://open.spotify.com/track/5ljicPY5xrI5f80r9MEWXM"
     },
     {
-      "added_at": "2024-03-15 13:13:00",
+      "added_at": "2024-03-22 07:22:53",
       "album": {
-        "name": "Holy Wood (Eran Hersh Remix)",
-        "url": "https://open.spotify.com/album/2Fx89iYzxQc6hmH8TymJOK"
+        "name": "O Vento (feat. Jessica Cipriano & LETUS et)",
+        "url": "https://open.spotify.com/album/7q3pNqHfPPHwClbOWKqFDV"
       },
       "artists": [
         {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
         },
         {
-          "name": "FREY",
-          "url": "https://open.spotify.com/artist/5F96KjVVl5nnGRkXs8E8Za"
+          "name": "Jessica Cipriano",
+          "url": "https://open.spotify.com/artist/6hdq4tRtjgxkTxtSybLfxP"
         },
         {
-          "name": "Eran Hersh",
-          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+          "name": "LETUS et",
+          "url": "https://open.spotify.com/artist/7gEgwoISJGOD1Y9gFWw6Sg"
         }
       ],
-      "duration_ms": 157354,
-      "name": "Holy Wood (Eran Hersh Edit)",
-      "url": "https://open.spotify.com/track/03u80h8euHwLC8sYB9poIr"
+      "duration_ms": 175973,
+      "name": "O Vento (feat. Jessica Cipriano & LETUS et)",
+      "url": "https://open.spotify.com/track/0ayyMoWhVtsY2FuoyWBNWE"
     },
     {
-      "added_at": "2024-03-15 13:13:00",
+      "added_at": "2024-03-22 07:22:53",
       "album": {
-        "name": "Baby I'm a Boss",
-        "url": "https://open.spotify.com/album/6cCcvpFUeb68LPZxGIcvAr"
+        "name": "Lie 2 You (Would I)",
+        "url": "https://open.spotify.com/album/3X5vA9eVwAOxHNxOnYYBtN"
       },
       "artists": [
         {
-          "name": "Wave Wave",
-          "url": "https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9"
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
         },
         {
-          "name": "FlexB",
-          "url": "https://open.spotify.com/artist/1BkGeGrbRHYd8Wg2lQqJqR"
+          "name": "Janieck",
+          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
         }
       ],
-      "duration_ms": 162187,
-      "name": "Baby I'm a Boss",
-      "url": "https://open.spotify.com/track/1uiDcSpUCJvAZuRtjkS9b4"
+      "duration_ms": 140571,
+      "name": "Lie 2 You (Would I)",
+      "url": "https://open.spotify.com/track/1fIHp98xrfi7sib5mfc6oF"
     },
     {
-      "added_at": "2024-03-15 13:13:00",
+      "added_at": "2024-03-22 07:29:11",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/4fQQ9C0tUXfNKV87cUpUbx"
+        "name": "Get Back",
+        "url": "https://open.spotify.com/album/07V1UaiXDhGiz2NswDxzOx"
       },
       "artists": [
         {
-          "name": "SAYMYNITTI",
-          "url": "https://open.spotify.com/artist/79B3JMeI43ZRJeDvrCtf8d"
-        },
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
         }
       ],
-      "duration_ms": 149142,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/7ywsIOIodw6YeI3yB27UfG"
-    },
-    {
-      "added_at": "2024-03-15 13:13:00",
-      "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/1442OqCb0NO5ojhFiynDYN"
-      },
-      "artists": [
-        {
-          "name": "Steff da Campo",
-          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
-        },
-        {
-          "name": "Ilkay Sencan",
-          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "KINTSUGI",
-      "url": "https://open.spotify.com/track/3gsTJKE0ltx5FPAw5RFa4A"
+      "duration_ms": 124500,
+      "name": "Get Back",
+      "url": "https://open.spotify.com/track/1Nn3HZUQsvfMyjecb6aNwT"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

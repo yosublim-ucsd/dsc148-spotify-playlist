@@ -192,7 +192,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
@@ -262,6 +262,28 @@
       "duration_ms": 195586,
       "name": "CLASSY 101",
       "url": "https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb"
+    },
+    {
+      "album": {
+        "name": "Coa Xorete",
+        "url": "https://open.spotify.com/album/4kvob3aRi9V0922yqUXZ2B"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Big Cvyu",
+          "url": "https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130384,
+      "name": "Coa Xorete",
+      "url": "https://open.spotify.com/track/1M8WdBbJ5lRS06RBlINv1G"
     },
     {
       "album": {
@@ -1617,6 +1639,44 @@
     },
     {
       "album": {
+        "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) [Remix]",
+        "url": "https://open.spotify.com/album/3g16kvv1kgZIfqvo6u4Evb"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 555071,
+      "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) - Remix",
+      "url": "https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -1694,7 +1754,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 187172,
       "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
       "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"

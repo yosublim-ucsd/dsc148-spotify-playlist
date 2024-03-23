@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,298 likes - 33 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,874 likes - 33 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 10 | [un x100to](https://open.spotify.com/track/2yzshFeBIwH8tWIqHEFLeD) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:14 |
 | 11 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 |
 | 12 | [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 |
-| 13 | [Di Que Sí](https://open.spotify.com/track/0pliiCOWPN0IId8sXAqNJr) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Don't Stop The Magic](https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj) | 3:10 |
+| 13 | [Vete](https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW) | 2:55 |
 | 14 | [DE LUNES A LUNES](https://open.spotify.com/track/49Zc3sEJHADPoVDM4jNKgs) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:08 |
-| 15 | [Vete](https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW) | 2:55 |
+| 15 | [Di Que Sí](https://open.spotify.com/track/0pliiCOWPN0IId8sXAqNJr) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Don't Stop The Magic](https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj) | 3:10 |
 | 16 | [Ya Me Entere \- En Vivo](https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya Me Entere \(En Vivo\)](https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe) | 3:42 |
 | 17 | [Quedate Conmigo](https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:40 |
 | 18 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:13 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 32 | [El Ultimo Beso \- En Vivo](https://open.spotify.com/track/1ExVxkQdW1Wb5Z8JEIz5FB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:36 |
 | 33 | [Estos Celos \- En Vivo](https://open.spotify.com/track/01VmJGbwBz19j21aYqR6Ju) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:41 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA3OGYzZjI2ZGEzYTJhMjliZDg4NjZhZDgwYzQwZGIwYQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBlMTU0MzZiZjM4NGQyNDRkN2ZhNjE2YTE5OTEzNmJiNA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 
 > The best easy rock from the 1990s\. Cover: Bryan Adams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,778 likes - 80 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,959 likes - 80 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 | 79 | [Laugh 'n' a 1/2 \- 2009 \- Remaster](https://open.spotify.com/track/1mLiW0DfcGvUZqaNZo4jPd) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Riskin' It All \(2009 \- Remastered\)](https://open.spotify.com/album/2Qrw5hEkU1Nl9QU15bPaHs) | 3:32 |
 | 80 | [You And Me](https://open.spotify.com/track/6jEcFhllWB0clBHFylomJZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:35 |
 
-Snapshot ID: `MCw5MWFiOGVkYjAxMjkyNTVhNjVkOTUxNjE3YTk5NDNmZjg2OTUwMDY3`
+Snapshot ID: `MCwzNzdjODZmYzU5MWU5OTc2MTJlM2MyNDAzNjg5N2QxYTkwMzllNGQz`

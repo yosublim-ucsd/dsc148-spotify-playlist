@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 27915,
+  "2024-03-23": 27934,
   "date_first_scraped": "2023-02-01",
   "description": "TikTok\u3068Spotify\u304c\u5171\u540c\u3067\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u5fdc\u63f4\u3059\u308b\u30d7\u30ed\u30b0\u30e9\u30e0\u300cBuzz Tracker\u300d\uff01\u4e16\u754c\u4e2d\u306e\u97f3\u697d\u30b7\u30fc\u30f3\u306eBuzz\u3092\u3069\u3053\u3088\u308a\u3082\u65e9\u304fTrack(=\u8ffd\u8de1)\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: PSYCHIC FEVER from EXILE TRIBE",
   "name": "Buzz Tracker #\u30d0\u30ba\u30c8\u30e9",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 161366,
       "name": "24/7 YOU...",
       "url": "https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD"
@@ -1171,6 +1171,24 @@
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
+        "name": "19.5",
+        "url": "https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151483,
+      "name": "For bbys",
+      "url": "https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC"
     },
     {
       "album": {
@@ -2675,6 +2693,24 @@
       "duration_ms": 163772,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/49Ea2kgsKwfTPlr1QNXflY"
+    },
+    {
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/3drg6tbDTAYqmpjejScu3f"
+      },
+      "artists": [
+        {
+          "name": "Sasuke Haraguchi",
+          "url": "https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120352,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/6oQd9KEbRMERESY1pftFyn"
     },
     {
       "album": {
@@ -6305,7 +6341,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 230249,
       "name": "\u6700\u9ad8\u901f\u5ea6",
       "url": "https://open.spotify.com/track/22PDXKDnBNEejFZkWzETQE"

@@ -882,7 +882,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 226286,
       "name": "Avenida Maru\u00edpe",
       "url": "https://open.spotify.com/track/5oV6CZy572puAUE31ic6cI"
@@ -2302,6 +2302,24 @@
       "duration_ms": 203000,
       "name": "Diz pra Mim / Sem Voc\u00ea",
       "url": "https://open.spotify.com/track/6vb5PT52GJKWh1OppKogUY"
+    },
+    {
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/0mbJ9qSUKPm6jJ0jZli2F0"
+      },
+      "artists": [
+        {
+          "name": "Odair Jose",
+          "url": "https://open.spotify.com/artist/3kUC3a0wTkjsdkJiytULkN"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/6nQyfaj3FG6cCTbT9Rk8b1"
     },
     {
       "album": {

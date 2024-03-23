@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-517 songs - 1 day 2 hr 29 min
+518 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Faster](https://open.spotify.com/track/1jw3vByyGzHaeKkhl6W5vo) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [Faster](https://open.spotify.com/album/49W9j2gUsprNUqp3r6hmft) | 2:06 | 2022-07-01 | 2023-08-10 |
 | [Fata Morgana](https://open.spotify.com/track/6n6g8x3L94VKeaTwXdERjG) | [Lennart Schroot](https://open.spotify.com/artist/2X0ndI9nIkbMvJE9YlLQr4) | [Fata Morgana](https://open.spotify.com/album/4qoActIgfsN38oC0qCL1x5) | 2:14 | 2022-12-20 | 2023-04-28 |
 | [FAVHELLA](https://open.spotify.com/track/1ID0QGxyQawriHiwXXXVOG) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo), [Mc Guidanny](https://open.spotify.com/artist/10pnQsUxlu3UeI2ehjeMps), [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF) | [FAVHELLA](https://open.spotify.com/album/5radygLIGNBVXKju3PnnKI) | 1:56 | 2023-12-29 |  |
-| [Fearless](https://open.spotify.com/track/7xkCeK3qzCyf43cF8yN7Xt) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Fearless](https://open.spotify.com/album/4Ddt6Mk8IHycY0h8K2J3iv) | 3:14 | 2023-08-08 |  |
+| [Fearless](https://open.spotify.com/track/7xkCeK3qzCyf43cF8yN7Xt) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Fearless](https://open.spotify.com/album/4Ddt6Mk8IHycY0h8K2J3iv) | 3:14 | 2023-08-08 | 2024-03-23 |
 | [Fearless Pt\. II](https://open.spotify.com/track/4y1nvncvBhdoelqPMyXxis) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Fearless Pt\. II](https://open.spotify.com/album/47iQRvTe8uiasjN9jIS1nr) | 3:14 | 2023-08-08 | 2024-03-01 |
 | [feel](https://open.spotify.com/track/1YWRkdve95UlDNmUIj67Z4) | [JB Hain](https://open.spotify.com/artist/7iJUjgKf5EfgLRlczakDtA) | [feel](https://open.spotify.com/album/6lYnCqxUSRXwLHpfMNeTu1) | 3:01 | 2023-03-08 | 2023-08-10 |
 | [Feel](https://open.spotify.com/track/1whGAh2hFEr9CQeEmhouJq) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Feel](https://open.spotify.com/album/6fvg92JFSGmu8WbC3xLtDU) | 2:36 | 2022-06-07 | 2023-04-28 |
@@ -386,6 +386,7 @@
 | [Ride or Die \(ft\. Indy Skies\)](https://open.spotify.com/track/0xXaabBmxaTsxxNcf1a0Yn) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe), [Indy Skies](https://open.spotify.com/artist/4Rb9X7RfZMiHcJF6xo9pzH) | [Ride or Die](https://open.spotify.com/album/0AGE7tbV3lT8eWdSggbHkE) | 2:59 | 2023-04-22 | 2024-01-04 |
 | [Rift](https://open.spotify.com/track/2GjmMAFA3EFMThAfDmtB7u) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [Miss Lina](https://open.spotify.com/artist/1YWIbcvuqzWzPyxyrVTMJv) | [Rift](https://open.spotify.com/album/6TkCdwfbCgi9m4YRbcvzbt) | 3:26 | 2022-12-28 | 2023-04-28 |
 | [Romeo and Juliet](https://open.spotify.com/track/2W9h6WvwD97C2DR8gbgwtu) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [Manno](https://open.spotify.com/artist/2SxgKTZK8e3ZREG1OuzIf2) | [Romeo and Juliet](https://open.spotify.com/album/1plkjTkXuOTRBX3tIiL5TW) | 3:12 | 2024-02-22 |  |
+| [Round n' Round](https://open.spotify.com/track/3hWiZ3HbvygE8GSjVZklhw) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Round n' Round](https://open.spotify.com/album/5TYEdOgG9hs13w8x7tPjab) | 2:58 | 2024-03-22 |  |
 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 | 2022-03-03 |  |
 | [Royalty](https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x) | 3:43 | 2023-12-13 |  |
 | [Royalty \- Don Diablo Remix](https://open.spotify.com/track/78zKViVRByb2f2TowJKNEI) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Royalty \(Don Diablo Remix\)](https://open.spotify.com/album/5yZ1s1YJX1MABbvVbZ4VCG) | 2:58 | 2023-12-13 |  |

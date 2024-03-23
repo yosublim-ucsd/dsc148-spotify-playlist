@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Chase Matthew
 
-442 songs - 22 hr 3 min
+443 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [Us Someday](https://open.spotify.com/track/5QcjrDZhf8zvP6XV6EGOkE) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Us Someday](https://open.spotify.com/album/1tvoTjB0E2KJiy41J6owIr) | 2:23 | 2022-02-11 | 2023-01-04 |
 | [USA](https://open.spotify.com/track/1Od5RPOmHmDoZ2HYct1IDg) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [USA](https://open.spotify.com/album/3c4FhI6rs61ojVXezxTrRn) | 2:55 | 2022-07-01 | 2023-01-04 |
 | [Used To](https://open.spotify.com/track/3Hsym5x2F9hQ5ZJF6VXBN4) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [Used To](https://open.spotify.com/album/2TTr0h1ALBNdpTIfbqK7Mk) | 3:03 | 2021-12-10 | 2022-01-01 |
+| [Vegas](https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Vegas](https://open.spotify.com/album/2RUdZVnTQeSGB0QVffPJ7m) | 3:00 | 2024-03-22 |  |
 | [W+W](https://open.spotify.com/track/57Feadv9wz81gOtQFVsdH3) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [A.J.](https://open.spotify.com/artist/7qaAY5NJfS75zs9Z4XG0Dx) | [Boots x Beats](https://open.spotify.com/album/6yTa2jxGNCiQsdsLAu3888) | 2:47 | 2021-12-10 | 2023-02-02 |
 | [Waste of Time](https://open.spotify.com/track/5vsgUdQ1FdeAf0id2TAb1U) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Mama Tried](https://open.spotify.com/album/1vnNgfzYhevdcQyGDkcmqb) | 2:19 | 2023-11-17 |  |
 | [Water Under The Bridge](https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Water Under The Bridge](https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA) | 2:49 | 2022-06-24 | 2023-07-01 |

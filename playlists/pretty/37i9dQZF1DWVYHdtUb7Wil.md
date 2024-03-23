@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 
 > Kick back to these chilled out essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,445 likes - 84 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,521 likes - 84 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
 | 2 | [Lessons](https://open.spotify.com/track/5vCSjHa6tOvfr02DoBFwx9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 3:01 |
-| 3 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 |
+| 3 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 |
 | 4 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 |
 | 5 | [Memories](https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Memories](https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09) | 2:59 |
 | 6 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
 | 7 | [What I Am](https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [What I Am](https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0) | 3:31 |
-| 8 | [All Life Long](https://open.spotify.com/track/3WEN5hlpjc09yo0J6IuQBE) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0unji0xUcEGgNFyokzF5p5) | 3:19 |
+| 8 | [All Life Long](https://open.spotify.com/track/2R2fEymz4psIZb2Ic3lBIy) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0ISpTOqbSEzzY0Kt4JsTTq) | 3:19 |
 | 9 | [Antidote \(feat\. Sam Fischer\)](https://open.spotify.com/track/2xjWiL4bvoU8HuQKCPc74M) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Antidote \(feat\. Sam Fischer\)](https://open.spotify.com/album/5RNKvbH8ofonEcdkXcReyA) | 4:40 |
 | 10 | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN) | 3:30 |
 | 11 | [The Letter](https://open.spotify.com/track/70zp2wd8vwOOZSdNM1iyIu) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [The Letter](https://open.spotify.com/album/1IwrJi9iWeD1E3J7aWzpxP) | 2:57 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 | 83 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 |
 | 84 | [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 |
 
-Snapshot ID: `MCwwZGY3NTA1NjhiZDY4ODA5NTQyYTQwZjRiODE2ZGZiM2ZiZGEyY2Ew`
+Snapshot ID: `MCwzY2MzYTNkYjhjZTY2OTQzNmRhZDQ5N2RiZGVhMjFkMDY4MjFiNTUw`

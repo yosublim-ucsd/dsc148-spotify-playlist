@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Lukas Agustinho, Gabriela Rocha
 
-241 songs - 23 hr 14 min
+242 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Glorificamos \- Ao Vivo](https://open.spotify.com/track/7MxHxlNl5F2KHaihS92CJ7) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Preto No Branco Vertical \(Ao Vivo\)](https://open.spotify.com/album/0u5htebXaNt7pw6TtQHZ5X) | 6:20 | 2023-04-15 | 2023-05-13 |
 | [Indesistível](https://open.spotify.com/track/2Q2NossOaJnATbkgTIoQdq) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Indesistível](https://open.spotify.com/album/7rCZtIFiKi3GBa61uvCTEp) | 3:47 | 2023-08-18 | 2023-09-02 |
 | [Inflama \- Ao Vivo](https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Inflama \(Ao Vivo\)](https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8) | 6:51 | 2023-07-07 |  |
+| [Isaias 53](https://open.spotify.com/track/1Ar5adUxUwxmwkW7LgNOd4) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Tudo por Causa de um Grande Amor](https://open.spotify.com/album/7Cf3DMZZ741h4SqMvQSoN4) | 2:51 | 2024-03-22 |  |
 | [Jeová \- Live](https://open.spotify.com/track/65vz0dGp7fzWp9nXN1COS5) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Único \(Live\)](https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh) | 6:19 | 2023-04-15 | 2023-06-03 |
 | [Jeová Jireh](https://open.spotify.com/track/0cEUrAqLYJafXksIpIBov4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jeová Jireh](https://open.spotify.com/album/2wfiFaBmVcK8aJ4BHYQHse) | 6:30 | 2022-09-09 |  |
 | [Jesus Cristo Basta \(Jesucristo Basta\) \- Ao Vivo](https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jesus Cristo Basta \(Jesucristo Basta\) \[Ao Vivo\]](https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw) | 4:47 | 2023-09-25 | 2023-12-23 |
@@ -151,7 +152,7 @@
 | [O Medo Não Vai Me Parar \- Ao Vivo](https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Medo Não Vai Me Parar \(Ao Vivo\)](https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY) | 5:03 | 2022-11-25 |  |
 | [O Melhor De Deus](https://open.spotify.com/track/2YyQIxL1U8zyN09bxZnL5t) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta, Vol\. 3](https://open.spotify.com/album/3xcT1zeUCojtJgbIMczyU7) | 3:25 | 2023-12-15 |  |
 | [O Melhor Pra Ti \(Ao Vivo\)](https://open.spotify.com/track/2lTQLOsw92uCoVVG5knixC) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS) | [O Melhor Pra Ti \(Ao Vivo\)](https://open.spotify.com/album/1wd6c2RtTOCEfbZMooYl2w) | 4:05 | 2023-10-06 | 2023-11-25 |
-| [O Nazareno](https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Generación Gracia Música](https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich) | [O Nazareno](https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6) | 5:39 | 2023-12-18 |  |
+| [O Nazareno](https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Generación Gracia Música](https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich) | [O Nazareno](https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6) | 5:39 | 2023-12-18 | 2024-03-23 |
 | [O Nome de Jesus \- Ao Vivo](https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Nome de Jesus \(Ao Vivo\)](https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI) | 8:48 | 2023-08-18 |  |
 | [O Não de Deus](https://open.spotify.com/track/6xK9RHuRnNwcnajKUxK1fY) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Pontes, Pt\. 1](https://open.spotify.com/album/55PR3Vpat1axzzvZQ3JzjC) | 3:59 | 2022-11-25 | 2023-01-21 |
 | [O Que Meu Deus Vai Fazer](https://open.spotify.com/track/0NHPfnQMzg0GiwbC4SF2yR) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [O Que Meu Deus Vai Fazer](https://open.spotify.com/album/4ehTfzNv75xtNa7t080T8I) | 4:29 | 2022-09-09 | 2023-04-29 |

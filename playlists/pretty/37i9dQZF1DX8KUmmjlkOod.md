@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 
 > Aquí no hay nostalgia, ¡se vino la pachanga!, y el <a href="spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM">Rock Sónico</a> también!
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,033 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,095 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 75 | [Sin documentos](https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Donde estabas tu..\. en el 93?](https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI) | 4:45 |
 | 76 | [Tráeme la Noche \(Bring on the Night\) \(with Andy Summers\)](https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Andy Summers](https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr) | [Tráeme la Noche \(Bring on the Night\) \(with Andy Summers\)](https://open.spotify.com/album/01hyoIUPxigjnhfreQOecH) | 4:43 |
 | 77 | [Jennifer Del Estero](https://open.spotify.com/track/3aJBJ4DAfTknfkzbd0G9Um) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Leche](https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU) | 4:55 |
-| 78 | [Por primera vez](https://open.spotify.com/track/4T5F6QmjDC5I4w0Rqu0yCf) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Irremplazables](https://open.spotify.com/album/6LE66jIaVUHBNtiH0hXDAv) | 4:00 |
-| 79 | [Muévelo](https://open.spotify.com/track/4xkQxDPC6RBV1Yfx6vkLsO) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 4:21 |
+| 78 | [Muévelo](https://open.spotify.com/track/4xkQxDPC6RBV1Yfx6vkLsO) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 4:21 |
+| 79 | [Por primera vez](https://open.spotify.com/track/4T5F6QmjDC5I4w0Rqu0yCf) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Irremplazables](https://open.spotify.com/album/6LE66jIaVUHBNtiH0hXDAv) | 4:00 |
 | 80 | [Espadas y Serpientes](https://open.spotify.com/track/6DcmC2JG5bvJ0x2VvhUcKx) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [El Cielo Puede Esperar](https://open.spotify.com/album/2Hq8YjDCJfynzmTgLGVkxJ) | 4:27 |
 
-Snapshot ID: `MCw0ZDYwM2VmMTQwNzZlNjg0MDIxYmU2ODU5YjljOTE0NDMxZTc0YThm`
+Snapshot ID: `MCw0NjZkOGE3NDFiMjYyMmZiZjZmNjM0MzkzYjNjODUzZmVhZDgyYzkx`

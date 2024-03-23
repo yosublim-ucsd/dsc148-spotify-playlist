@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Xam\u00e3",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Ananda",
   "name": "Palco POP",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 128850,
       "name": "30 Dias",
       "url": "https://open.spotify.com/track/73wzSdHPS39JQeAal4Ka5x"
@@ -292,6 +292,24 @@
       "duration_ms": 208027,
       "name": "A + DE 100",
       "url": "https://open.spotify.com/track/0gEmbs7Enyqe9Fi8E8ZXhE"
+    },
+    {
+      "album": {
+        "name": "A Gente S\u00f3 Conhece Quando Termina",
+        "url": "https://open.spotify.com/album/57G8gYnOCrQnBPWTdsCKYT"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156774,
+      "name": "A Gente S\u00f3 Conhece Quando Termina",
+      "url": "https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH"
     },
     {
       "album": {
@@ -571,6 +589,24 @@
     },
     {
       "album": {
+        "name": "AGRIDOCE (PARTE 1)",
+        "url": "https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "AGRIDOCE",
+      "url": "https://open.spotify.com/track/5paz7s1c2X4P3sYAotEiPW"
+    },
+    {
+      "album": {
         "name": "Ai, Que Calor",
         "url": "https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ"
       },
@@ -840,6 +876,28 @@
       "duration_ms": 128771,
       "name": "AL\u00d4",
       "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
+    },
+    {
+      "album": {
+        "name": "Amanh\u00e3",
+        "url": "https://open.spotify.com/album/4fAOx1ZdilrOoeOl0D0d0l"
+      },
+      "artists": [
+        {
+          "name": "Ralk",
+          "url": "https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC"
+        },
+        {
+          "name": "MC Bruninho",
+          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129166,
+      "name": "Amanh\u00e3",
+      "url": "https://open.spotify.com/track/5NymnW8GUo8rbcpjnATBM1"
     },
     {
       "album": {
@@ -1147,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "COSMOS",
+        "url": "https://open.spotify.com/album/6e9wu0uLU3dIBYz7GOh8Dv"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254781,
+      "name": "Arder de Amor (Sol)",
+      "url": "https://open.spotify.com/track/5e0fW6tGj8vFlwRdW3isaW"
+    },
+    {
+      "album": {
         "name": "Assanhadinha",
         "url": "https://open.spotify.com/album/4OCxpsJAeY4CjEovKLJXms"
       },
@@ -1236,7 +1312,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 121031,
       "name": "Atlanta - Spotify Singles",
       "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
@@ -1662,7 +1738,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 147549,
       "name": "Bandida N\u00e3o, Solteira",
       "url": "https://open.spotify.com/track/28ejkyhOfL3SaBg7MrkIFJ"
@@ -1740,7 +1816,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 136615,
       "name": "BANDIDONA",
       "url": "https://open.spotify.com/track/70t5xVFE5WJcg80wklPbcX"
@@ -2456,7 +2532,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 133636,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/2TrAxb7dg65ZFHoMzrGhcN"
@@ -2738,6 +2814,28 @@
       "duration_ms": 140196,
       "name": "Carnificina",
       "url": "https://open.spotify.com/track/6V6fcreiDPSsxTlVKveaiI"
+    },
+    {
+      "album": {
+        "name": "Carolina / Levemente",
+        "url": "https://open.spotify.com/album/2LUEj94O0nQX7sHm2bSJm1"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166615,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/10f31lUtjFtbbOH01HT3ja"
     },
     {
       "album": {
@@ -4153,6 +4251,32 @@
     },
     {
       "album": {
+        "name": "Double Team",
+        "url": "https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231628,
+      "name": "Double Team",
+      "url": "https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx"
+    },
+    {
+      "album": {
         "name": "e se for pra ser sincera:",
         "url": "https://open.spotify.com/album/3T8pak58PgFxme2Iu3mHet"
       },
@@ -4354,7 +4478,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 218709,
       "name": "Equalize",
       "url": "https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0"
@@ -4538,7 +4662,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 214157,
       "name": "Eu N\u00e3o Sei",
       "url": "https://open.spotify.com/track/7eeJgq9MhDnycYbd0oM2EZ"
@@ -4758,7 +4882,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 150142,
       "name": "Falta De Aten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4KPZyTXOMkBxCo2e4KXbDf"
@@ -6758,7 +6882,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 161160,
       "name": "LADIES NIGHT",
       "url": "https://open.spotify.com/track/56GSv9UWfx2ydvuwBNi318"
@@ -7268,7 +7392,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 127068,
       "name": "Mais Uma",
       "url": "https://open.spotify.com/track/1ttR4WB57ZZQqVBGiUZVis"
@@ -8006,6 +8130,24 @@
       "duration_ms": 133806,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
+    },
+    {
+      "album": {
+        "name": "Meu Mel",
+        "url": "https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v"
+      },
+      "artists": [
+        {
+          "name": "Bella Angel",
+          "url": "https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124615,
+      "name": "Meu Mel",
+      "url": "https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina"
     },
     {
       "album": {
@@ -9672,7 +9814,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 138064,
       "name": "Oops!\u2026I Did It Again",
       "url": "https://open.spotify.com/track/2kepUX44klRnnfcaYGqF0C"
@@ -10908,7 +11050,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 143990,
       "name": "PREPARADA",
       "url": "https://open.spotify.com/track/1KRRVMgrqrwlAp4loIRPfE"
@@ -11004,7 +11146,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 147850,
       "name": "Princesinha",
       "url": "https://open.spotify.com/track/0tMkiGINaYI9C4cxvD6LTc"
@@ -11590,7 +11732,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 130729,
       "name": "QUER DAN\u00c7AR",
       "url": "https://open.spotify.com/track/1g1elRYAuQ7BHMpeejvvKH"
@@ -12396,7 +12538,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 199811,
       "name": "se for pra ser",
       "url": "https://open.spotify.com/track/125V81LGC3wVXjRhnb6mXr"
@@ -12484,6 +12626,28 @@
       "duration_ms": 144640,
       "name": "Sei L\u00e1",
       "url": "https://open.spotify.com/track/2vNRlI7vSMa3D4rJ11aAVx"
+    },
+    {
+      "album": {
+        "name": "Caio em Ti",
+        "url": "https://open.spotify.com/album/6CjknY8eSPQA7ByDbzzyag"
+      },
+      "artists": [
+        {
+          "name": "Caio Prado",
+          "url": "https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203625,
+      "name": "Sem Demandas",
+      "url": "https://open.spotify.com/track/73PJMlUkA6WyeEZtEYweq7"
     },
     {
       "album": {
@@ -13465,6 +13629,24 @@
     },
     {
       "album": {
+        "name": "Te Procurei",
+        "url": "https://open.spotify.com/album/4OOoEFmG410X2Ww1YyX9IN"
+      },
+      "artists": [
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161903,
+      "name": "Te Procurei",
+      "url": "https://open.spotify.com/track/2RZzQJKn6byIPL1ldj8nca"
+    },
+    {
+      "album": {
         "name": "KARUMA",
         "url": "https://open.spotify.com/album/5UBuUGbxBmntnQLvkJNg1i"
       },
@@ -14243,6 +14425,28 @@
     },
     {
       "album": {
+        "name": "Tudo Meu",
+        "url": "https://open.spotify.com/album/0JdAzfGhlWWcF3za66uSLK"
+      },
+      "artists": [
+        {
+          "name": "RUBY",
+          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145653,
+      "name": "Tudo Meu",
+      "url": "https://open.spotify.com/track/4R7e0VeGP4ouYYd3fJIsH9"
+    },
+    {
+      "album": {
         "name": "ARRISCA",
         "url": "https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc"
       },
@@ -14664,7 +14868,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 171433,
       "name": "Vai Tomando",
       "url": "https://open.spotify.com/track/37EuvKYWkLeFEMbE4SLs2u"

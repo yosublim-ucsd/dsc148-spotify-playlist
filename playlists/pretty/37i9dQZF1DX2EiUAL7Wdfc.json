@@ -1,12 +1,12 @@
 {
   "description": "Los temas que se convertir\u00e1n en himnos.",
-  "num_followers": 456027,
+  "num_followers": 456401,
   "original_name": "m\u00edticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2FiMDg1MWE5NTdlNTNjMGI4MTkyNWViOTcyZjJmYjU4YzdkNTE2",
+  "snapshot_id": "MCw1NzA0NjFlMDhkNDFmOTQ5MTMwMjg0ZWQwNzhiNjlmMDIyYTQ2MWVh",
   "tracks": [
     {
       "added_at": "2024-03-11 11:34:50",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-03-11 11:34:50",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 207626,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
-    },
-    {
-      "added_at": "2024-03-11 11:34:50",
-      "album": {
         "name": "VAGABUNDO",
         "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 215600,
       "name": "VAGABUNDO",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
+    },
+    {
+      "added_at": "2024-03-11 11:34:50",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 207626,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
     },
     {
       "added_at": "2024-03-11 11:34:50",
@@ -491,18 +491,22 @@
     {
       "added_at": "2024-03-11 11:34:50",
       "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
     },
     {
       "added_at": "2024-03-11 11:34:50",
@@ -547,22 +551,18 @@
     {
       "added_at": "2024-03-11 11:34:50",
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
     },
     {
       "added_at": "2024-03-11 11:34:50",
@@ -599,18 +599,22 @@
     {
       "added_at": "2024-03-11 11:34:50",
       "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+        "name": "Te Pintaron Pajaritos",
+        "url": "https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Yandar & Yostin",
+          "url": "https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
         }
       ],
-      "duration_ms": 151324,
-      "name": "PUNTO G",
-      "url": "https://open.spotify.com/track/4WiQA1AGWHFvaxBU6bHghs"
+      "duration_ms": 172558,
+      "name": "Te Pintaron Pajaritos",
+      "url": "https://open.spotify.com/track/4jY5SnGbpH6FdGCqVbhOD4"
     },
     {
       "added_at": "2024-03-11 11:34:50",
@@ -667,22 +671,18 @@
     {
       "added_at": "2024-03-11 11:34:50",
       "album": {
-        "name": "Te Pintaron Pajaritos",
-        "url": "https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E"
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
       },
       "artists": [
         {
-          "name": "Yandar & Yostin",
-          "url": "https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl"
-        },
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 172558,
-      "name": "Te Pintaron Pajaritos",
-      "url": "https://open.spotify.com/track/4jY5SnGbpH6FdGCqVbhOD4"
+      "duration_ms": 151324,
+      "name": "PUNTO G",
+      "url": "https://open.spotify.com/track/4WiQA1AGWHFvaxBU6bHghs"
     },
     {
       "added_at": "2024-03-11 11:34:50",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-03-11 11:34:50",
       "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
-    },
-    {
-      "added_at": "2024-03-11 11:34:50",
-      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 164705,
       "name": "C\u00farame",
       "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
+    },
+    {
+      "added_at": "2024-03-11 11:34:50",
+      "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2024-03-11 11:34:50",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-03-11 11:34:50",
       "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
+    },
+    {
+      "added_at": "2024-03-11 11:34:50",
+      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 208236,
       "name": "3 Am",
       "url": "https://open.spotify.com/track/1F205Nl2feOSYSztLNOJAL"
-    },
-    {
-      "added_at": "2024-03-11 11:34:50",
-      "album": {
-        "name": "Prestige",
-        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
     },
     {
       "added_at": "2024-03-11 11:34:50",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2024-03-11 11:34:50",
       "album": {
-        "name": "Motivan2",
-        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Otra vez (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
-    },
-    {
-      "added_at": "2024-03-11 11:34:50",
-      "album": {
         "name": "Fast Five (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 153960,
       "name": "Demasiadas Mujeres",
       "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
+    },
+    {
+      "added_at": "2024-03-11 11:34:50",
+      "album": {
+        "name": "Motivan2",
+        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Otra vez (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
     },
     {
       "added_at": "2024-03-11 11:34:50",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2024-03-11 11:34:50",
       "album": {
+        "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 199994,
+      "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
+    },
+    {
+      "added_at": "2024-03-11 11:34:50",
+      "album": {
         "name": "Ahora Dice",
         "url": "https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 270493,
       "name": "Ahora Dice",
       "url": "https://open.spotify.com/track/5lhcHMDQpNwhM62lSOrvLf"
-    },
-    {
-      "added_at": "2024-03-11 11:34:50",
-      "album": {
-        "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
-        "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 199994,
-      "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
     },
     {
       "added_at": "2024-03-11 11:34:50",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2024-03-11 11:34:50",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/6ebo7CQn4ILLGvXRmXHhQz"
-    },
-    {
-      "added_at": "2024-03-11 11:34:50",
-      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -1735,22 +1715,22 @@
     {
       "added_at": "2024-03-11 11:34:50",
       "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         },
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/6ebo7CQn4ILLGvXRmXHhQz"
     },
     {
       "added_at": "2024-03-11 11:34:50",
@@ -1787,6 +1767,22 @@
     {
       "added_at": "2024-03-11 11:34:50",
       "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "Hasta el Amanecer",
+      "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
+    },
+    {
+      "added_at": "2024-03-11 11:34:50",
+      "album": {
         "name": "F.A.M.E.",
         "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
@@ -1803,18 +1799,22 @@
     {
       "added_at": "2024-03-11 11:34:50",
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 198706,
-      "name": "Hasta el Amanecer",
-      "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2024-03-11 11:34:50",

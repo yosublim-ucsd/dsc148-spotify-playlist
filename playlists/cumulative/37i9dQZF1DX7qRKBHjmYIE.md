@@ -2,9 +2,9 @@
 
 ### [Mixto](https://open.spotify.com/playlist/37i9dQZF1DX7qRKBHjmYIE)
 
-> De aquí y de allá \~ un poquito de todo ✨ en un vibe con The Marías.
+> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Chita.
 
-685 songs - 1 day 13 hr 7 min
+687 songs - 1 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-02-02 | 2023-04-14 |
 | [Dolce](https://open.spotify.com/track/3FxMqWgtSPKuuUlJt3D2k9) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i), [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [:\( EP](https://open.spotify.com/album/5acfrPOtHQxBSS7WUGl2hV) | 4:22 | 2021-12-02 | 2022-01-25 |
 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 | 2022-06-03 | 2023-02-17 |
+| [Domingo](https://open.spotify.com/track/2xH2NbJUNxdFwW3QE1NzIw) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Domingo](https://open.spotify.com/album/0Xu5KczP14lEIGIDWqQkr1) | 3:18 | 2024-03-22 |  |
 | [Don't Stare Too Long](https://open.spotify.com/track/5MZ46M8kBTyY6BMYFKDVpo) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [Don't Stare Too Long](https://open.spotify.com/album/1rZ9hqFJSznZlQNMOyPZpP) | 3:08 | 2023-08-04 | 2023-08-26 |
 | [Donde Estás](https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Donde Estás](https://open.spotify.com/album/3P1vHJYr9mrJYvIEWNm8yb) | 4:09 | 2023-10-13 | 2023-12-09 |
 | [Donde Estás \- Live from Spotify Green Screen](https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Donde Estás \- Live from Spotify Green Screen](https://open.spotify.com/album/7ldQ6NFWnHHiuxsbNYZWbS) | 3:12 | 2023-12-08 | 2024-01-27 |
@@ -318,6 +319,7 @@
 | [La Dosis](https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [La Dosis](https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq) | 2:55 | 2023-12-01 |  |
 | [LA DROGA ES MIA \(Yuca\_Ab\_120BPM\)](https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MAKIA](https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv) | 3:15 | 2023-06-16 | 2023-08-26 |
 | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/album/39LyZrNGkbc2IUeVOhwmGU) | 3:08 | 2022-01-24 | 2022-05-26 |
+| [LA NIEBLA](https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:31 | 2024-03-22 |  |
 | [La Selva Se Lo Llevo](https://open.spotify.com/track/7HbliIqpMum8pNhGTB9hz0) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT), [Shary Rose](https://open.spotify.com/artist/0Fy1mYuGtX0RBAraYKsJId) | [Lost Tribes](https://open.spotify.com/album/4x6FWqKuw1ruzP8IcdiuFm) | 5:54 | 2023-02-17 | 2023-03-29 |
 | [La Tierra](https://open.spotify.com/track/0faPSJoLV0n8rGzHGlS6G3) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [La Tierra](https://open.spotify.com/album/1zDGrMi2tyMqeVh7IVpY0p) | 4:46 | 2021-12-02 | 2022-01-25 |
 | [La Tortura \- Spotify Singles](https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Spotify Singles](https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli) | 2:31 | 2023-08-25 | 2023-09-30 |
@@ -440,7 +442,7 @@
 | [No Jaló](https://open.spotify.com/track/7FEsK4duqNeeL6AL1mSKRy) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [No Jaló](https://open.spotify.com/album/51J7uD0c8jhBXKOHdpKqGi) | 2:06 | 2021-12-02 | 2022-01-25 |
 | [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 | 2024-02-23 |  |
 | [No me quiere sentir](https://open.spotify.com/track/04BBFsO6u05eEW0mJwclRm) | [Mejiias](https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL), [Joel<3](https://open.spotify.com/artist/0OjILpAOOz1CJHl7AejD26) | [New Religion](https://open.spotify.com/album/26T8MSvy1QqxoXgQxuIxTH) | 1:43 | 2023-08-04 | 2023-08-26 |
-| [NO ME QUIERO PEGAR](https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [NO ME QUIERO PEGAR](https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0) | 2:22 | 2024-01-12 |  |
+| [NO ME QUIERO PEGAR](https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [NO ME QUIERO PEGAR](https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0) | 2:22 | 2024-01-12 | 2024-03-23 |
 | [No Necesito](https://open.spotify.com/track/2xyyyQRwvw8oVo5nKiBNh4) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [No Necesito](https://open.spotify.com/album/2vJrccNi8aJxBdwHVmpNQw) | 3:04 | 2021-12-02 | 2022-01-25 |
 | [No Puedo Olvidarte](https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [No Puedo Olvidarte](https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y) | 3:27 | 2023-03-01 | 2023-08-26 |
 | [No Quiero Llegar](https://open.spotify.com/track/6f3jXPScNHBPi2MdaXSAbD) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [No Quiero Llegar](https://open.spotify.com/album/0sDILyPpj276t7sl9FaezS) | 3:43 | 2023-05-05 | 2023-06-07 |
@@ -642,7 +644,7 @@
 | [Un Día](https://open.spotify.com/track/2g2VPxPZTKVr7Vzbi9KSF9) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Un Día](https://open.spotify.com/album/0PW9vbpQvymPkiXvz8RycK) | 2:44 | 2023-03-08 | 2023-05-13 |
 | [Un Llavero](https://open.spotify.com/track/3DrXPknIBDtEdPchAuRYD5) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Un Llavero](https://open.spotify.com/album/3ZrNXXbBefilXHWqhlO0I0) | 3:10 | 2024-03-01 |  |
 | [Un Momento](https://open.spotify.com/track/5xtBpogt0Id3kcnj7fP1nK) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:09 | 2022-10-24 | 2023-02-17 |
-| [Una Vida](https://open.spotify.com/track/1Q4kVMA8OnbVVuq0kQMYRv) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Una Vida](https://open.spotify.com/album/3adxFEMsq25Adf8bHWX4rL) | 4:04 | 2024-01-05 |  |
+| [Una Vida](https://open.spotify.com/track/1Q4kVMA8OnbVVuq0kQMYRv) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Una Vida](https://open.spotify.com/album/3adxFEMsq25Adf8bHWX4rL) | 4:04 | 2024-01-05 | 2024-03-23 |
 | [Unbothered](https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU) | 2:04 | 2023-02-17 | 2023-03-09 |
 | [Uno Dos](https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:50 | 2022-02-09 | 2023-02-17 |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-08 | 2023-02-03 |

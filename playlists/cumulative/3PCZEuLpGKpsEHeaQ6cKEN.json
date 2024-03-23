@@ -8555,6 +8555,32 @@
     },
     {
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1Qto7lizycldyzI0jvi0qE"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189318,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/68CdFrdUAV9PssCcdw8osM"
+    },
+    {
+      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/0O24SqzRbDIS8W4xqwHrG4"
       },

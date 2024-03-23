@@ -4,7 +4,7 @@
 
 > essa é pros apaixonados
 
-134 songs - 8 hr 6 min
+135 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Desandei \- Ao Vivo](https://open.spotify.com/track/6dtQM0CXRFJgD7ifUNosZj) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Desandei \(Ao Vivo\)](https://open.spotify.com/album/4WbP3dFudueQsKivG5QUI3) | 2:23 | 2023-06-09 | 2023-12-12 |
 | [Deusa do Amor](https://open.spotify.com/track/5AT2d6phw8bTwJYT9HgOUx) | [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Moreno Veloso Solo in Tokyo](https://open.spotify.com/album/6opVCvfeVOBzV7a8xR4QBl) | 5:09 | 2023-05-31 |  |
 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 | 2021-09-03 |  |
+| [Efeito Você](https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Efeito Você](https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp) | 2:48 | 2024-03-22 |  |
 | [Entrelaços](https://open.spotify.com/track/7G8g5eNiXRtM96YAQ09Nsl) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Entrelaços/Inércia](https://open.spotify.com/album/0IiOAGrdsbhSZfxaHtFXgi) | 3:17 | 2021-09-03 | 2023-06-10 |
 | [Equalize](https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:52 | 2021-09-03 |  |
 | [Espatódea](https://open.spotify.com/track/2TnJd3aCJcRcLylI44ms9f) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Sim E Não](https://open.spotify.com/album/5acqAo1oKQOAgVQG2sMYxu) | 3:46 | 2023-10-23 |  |
@@ -123,7 +124,7 @@
 | [Tenho Você](https://open.spotify.com/track/2FJrDD1ZvsUg9klCy4LjCj) | [Davi Sabbag](https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8) | [Tenho Você](https://open.spotify.com/album/29PFiWp9zAiwoiIx4gyApm) | 3:05 | 2021-09-03 | 2023-06-10 |
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2023-06-09 |  |
 | [Toda Forma de Amor](https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor](https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ) | 3:45 | 2023-06-09 |  |
-| [Todo Amor Que Houver Nessa Vida \- Ao Vivo](https://open.spotify.com/track/31RNX9vTwybIGVhteTpfT3) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 3:41 | 2023-05-31 |  |
+| [Todo Amor Que Houver Nessa Vida \- Ao Vivo](https://open.spotify.com/track/31RNX9vTwybIGVhteTpfT3) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 3:41 | 2023-05-31 | 2024-03-23 |
 | [Totalmente Seu](https://open.spotify.com/track/2WxFuSpORAwJ1XNDeBMSg9) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A) | 2:12 | 2021-09-03 |  |
 | [Trevo \(Tu\)](https://open.spotify.com/track/5q4JsfI9AB24MvocER0uOF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [Trevo \(Tu\)](https://open.spotify.com/album/3aiwd8AMyeYlkhhbfRwkJ4) | 3:26 | 2021-09-03 | 2023-06-10 |
 | [Tudo Que Eu Quero](https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Tudo Que Eu Quero](https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig) | 2:02 | 2023-10-23 | 2024-02-24 |

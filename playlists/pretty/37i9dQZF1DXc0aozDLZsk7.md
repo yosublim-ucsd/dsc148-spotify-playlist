@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,750 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,761 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 36 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 |
 | 37 | [Decimal](https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:58 |
 | 38 | [Sink](https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:45 |
-| 39 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 |
-| 40 | [Feeling You](https://open.spotify.com/track/7xghXOM3CaIK6wmR0xW1XS) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Feeling You](https://open.spotify.com/album/7yVC3GjeYYefCwfsKS3u2H) | 3:21 |
+| 39 | [Feeling You](https://open.spotify.com/track/7xghXOM3CaIK6wmR0xW1XS) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Feeling You](https://open.spotify.com/album/7yVC3GjeYYefCwfsKS3u2H) | 3:21 |
+| 40 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 |
 | 41 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 |
 | 42 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
 | 43 | [All I Know So Far](https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [All I Know So Far](https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH) | 4:37 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 63 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 |
 | 64 | [Just You and I \- Acoustic](https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:18 |
 | 65 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 |
-| 66 | [Mood Ring](https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:45 |
-| 67 | [justified](https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:00 |
+| 66 | [justified](https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:00 |
+| 67 | [Mood Ring](https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:45 |
 | 68 | [Girl \- Acoustic](https://open.spotify.com/track/4BrGYhbT975hwXXPBUqXNY) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Girl](https://open.spotify.com/album/1rKpOJytpITLf7mbE7lrkY) | 3:31 |
 | 69 | [Ain't Nobody \(Loves Me Better\) \- Acoustic](https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\) \[Acoustic\] \[Acoustic Version\]](https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m) | 2:58 |
 | 70 | [Love Me Like You Used To](https://open.spotify.com/track/0JfpIwZfcRwDzD6GRYzfKN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 3:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 79 | [Slow](https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Slow](https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6) | 2:43 |
 | 80 | [Fresh Roses](https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Fresh Roses](https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp) | 3:21 |
 
-Snapshot ID: `MCxhYmE5NDVlNTI0M2YwZTU5MDdkNWUxM2IxYTU2ZWE1ZWY1N2ExNzZi`
+Snapshot ID: `MCw4ZWRlZjEyMzU3M2Y2ODE0ZDY0ZjZjNGM4MzBlNDc1YmI5NWE5YTY1`

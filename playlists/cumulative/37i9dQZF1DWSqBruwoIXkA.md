@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this Cover: Laufey
 
-683 songs - 1 day 13 hr 39 min
+684 songs - 1 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Always Love](https://open.spotify.com/track/02TtDZcUvEJGFJSJ6fTMfn) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Always Love](https://open.spotify.com/album/6jvytXvGQ8DWZYXcL1rYba) | 3:20 | 2022-10-28 | 2023-02-04 |
 | [amnesia](https://open.spotify.com/track/33EPuIJQwfcm82vhTGJXyj) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [amnesia](https://open.spotify.com/album/6N7m2bKMX2KklL0ELXoGCH) | 2:52 | 2022-10-28 | 2023-09-26 |
 | [anatomy](https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [anatomy](https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg) | 3:02 | 2023-07-21 |  |
-| [Andrew](https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Andrew](https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv) | 4:00 | 2024-03-15 |  |
+| [Andrew](https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Andrew](https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv) | 4:00 | 2024-03-15 | 2024-03-23 |
 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 | 2023-01-18 |  |
 | [Angry](https://open.spotify.com/track/46yC5Rfbg3x7AfrZb03c6N) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Angry](https://open.spotify.com/album/2L8qlmvnwChGR7OCNPTqY5) | 2:50 | 2022-10-14 | 2022-12-17 |
 | [Anymore Anyway](https://open.spotify.com/track/20FQ09T8gLYKCFqB4PzFJa) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Anymore Anyway](https://open.spotify.com/album/7uvNGOWyy7nR40Ovi5UinP) | 2:42 | 2022-04-15 | 2022-04-23 |
@@ -549,6 +549,7 @@
 | [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-17 | 2024-02-14 |
 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-01-12 |  |
 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2023-09-15 |  |
+| [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 | 2024-03-22 |  |
 | [Someone Better](https://open.spotify.com/track/6g7vmvWmMqAJCdIU38J4pC) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [Someone Better](https://open.spotify.com/album/4YZhf1VSWJ52JtT4vwhrNI) | 2:49 | 2023-03-24 | 2023-04-15 |
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-12-17 |  |
 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 | 2022-04-22 | 2023-09-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: bludnymph
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,038 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,039 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Pigeons](https://open.spotify.com/track/1M75A3TMxBDylvdDaVcOxB) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [Pigeons](https://open.spotify.com/album/49iqGoYEjX33snub1aSOEr) | 1:52 |
 | 50 | [Madone](https://open.spotify.com/track/3FqxuAQ0rNFjMyOehcyvz8) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Madone](https://open.spotify.com/album/4mkI10pJ3T1dj3hsw4T1WO) | 2:55 |
 
-Snapshot ID: `MCwyMmJiMWNmZTMyNTY4ODRmNjczYTk3ZjhmYmY1YzgyY2QwYTc2MWQx`
+Snapshot ID: `MCwwNjgzM2VhZTg5ZmExZTAzZjQzZDc3ODk5MmJkZGM5ZTgyYjAyZGFi`

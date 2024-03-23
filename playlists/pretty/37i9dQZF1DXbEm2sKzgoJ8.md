@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,919,553 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,920,349 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 41 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 |
 | 42 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 |
 | 43 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 3:29 |
-| 44 | [Superpowers](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:54 |
-| 45 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
+| 44 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
+| 45 | [Superpowers](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:54 |
 | 46 | [After The Storm \(feat\. Tyler, The Creator & Bootsy Collins\)](https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:27 |
-| 47 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
+| 47 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
 | 48 | [Kiss It Better](https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 4:13 |
 | 49 | [Work Song](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:49 |
 | 50 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 61 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 |
 | 62 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 |
 | 63 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 |
-| 64 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 |
-| 65 | [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 |
+| 64 | [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 |
+| 65 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 |
 | 66 | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 |
 | 67 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 |
 | 68 | [Stargirl Interlude](https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 1:51 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 91 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 |
 | 92 | [Daddy Issues \(Remix\) feat\. Syd](https://open.spotify.com/track/5Q6fh8OEhBYepJaORz9lxe) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Daddy Issues \(Remix\) feat\. Syd](https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS) | 3:01 |
 | 93 | [Hit Different](https://open.spotify.com/track/7Bar1kLTmsRmH6FCKKMEyU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hit Different](https://open.spotify.com/album/4xmJCh7ct63QvQ5wRc44db) | 3:22 |
-| 94 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 |
-| 95 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
+| 94 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
+| 95 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 |
 | 96 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 |
 | 97 | [She](https://open.spotify.com/track/6SQLk9HSNketfgs2AyIiMs) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:02 |
 | 98 | [BIRTHDAY DANCE](https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO \(SCRATCHED UP\)](https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3) | 2:24 |
 | 99 | [Blue Butterflies](https://open.spotify.com/track/1FpQ2EPJarW7rpjFGGd8Jd) | [JHIN](https://open.spotify.com/artist/1zbZa82fOkxnWd44o2uV6c) | [Blue Butterflies](https://open.spotify.com/album/2cJJcQCoQRfQe3inKIQa3K) | 2:17 |
 | 100 | [Body](https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:13 |
 
-Snapshot ID: `MCw1Mjc0OWY0OTRjMmQ5YzZjZjk4ODBmM2NlZDQzYTQ0OGRmMzc1NDAy`
+Snapshot ID: `MCw5MWJlZWJiOWVlZTgzNmE3Mjc3YzQzMDNlYTdiZTQ5MTU1MWIyMTU5`

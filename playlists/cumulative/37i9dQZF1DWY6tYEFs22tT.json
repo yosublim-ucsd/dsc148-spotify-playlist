@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Sexyy Red, Cardi B, Gunna and Offset.",
+  "description": "Today's Hip-Hop with Future & Metro Boomin, Big Sean and Nemzzz.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -5060,7 +5060,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 163190,
       "name": "Drift",
       "url": "https://open.spotify.com/track/0ydoqpTVhaDzjDg7WVcg4m"
@@ -5140,7 +5140,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 297290,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/4kPQ9NQTg6rqZNJ0t3lDaI"
@@ -5450,7 +5450,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 160000,
       "name": "ETA (feat. Luciano)",
       "url": "https://open.spotify.com/track/422qTU33m36TliSm27uONY"
@@ -9439,6 +9439,28 @@
     },
     {
       "album": {
+        "name": "DO NOT DISTURB (DELUXE)",
+        "url": "https://open.spotify.com/album/2rIbOVBLitHcUD2g9UCz1P"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "IT'S US (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/7LwCqIMsKebFSsGX1eIqoS"
+    },
+    {
+      "album": {
         "name": "3860",
         "url": "https://open.spotify.com/album/43cDHyzNftlde27nFt8rhV"
       },
@@ -9950,6 +9972,28 @@
       "duration_ms": 201168,
       "name": "Khabib",
       "url": "https://open.spotify.com/track/194U52vElkbmFe8QTefrgw"
+    },
+    {
+      "album": {
+        "name": "Khutti",
+        "url": "https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132771,
+      "name": "Khutti",
+      "url": "https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj"
     },
     {
       "album": {
@@ -10578,6 +10622,28 @@
       "duration_ms": 290844,
       "name": "Lightsabers (feat. C Dot Castro)",
       "url": "https://open.spotify.com/track/67w6FFEfUw7rYNPgKAJCRQ"
+    },
+    {
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267706,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
     },
     {
       "album": {
@@ -14425,6 +14491,24 @@
     },
     {
       "album": {
+        "name": "Precision",
+        "url": "https://open.spotify.com/album/1DNvuu85Qyu95qxWCY8jTO"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167477,
+      "name": "Precision",
+      "url": "https://open.spotify.com/track/0jYYthUDGsJrYMCrtdHYtJ"
+    },
+    {
+      "album": {
         "name": "Presha",
         "url": "https://open.spotify.com/album/2tnjYrSajrt2nlv2Acf1DP"
       },
@@ -16226,7 +16310,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 140463,
       "name": "She Don't Play",
       "url": "https://open.spotify.com/track/07DzN4K6A7nP9ObnBRQAcO"
@@ -19415,6 +19499,28 @@
     },
     {
       "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Type Shit",
+      "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
+    },
+    {
+      "album": {
         "name": "U-Digg (feat. 42 Dugg & Veeze)",
         "url": "https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ"
       },
@@ -20310,7 +20416,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 199547,
       "name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
       "url": "https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck"

@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: FLETCHER
 
-5,042 songs - 10 day 10 hr 51 min
+5,046 songs - 10 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,8 @@
 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 | 2022-09-23 | 2022-10-15 |
 | [All I Want Is You \(from the Netflix Film "Choose Love"\)](https://open.spotify.com/track/0pbhucVCyHxBvzJohabrgu) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [All I Want Is You \(from the Netflix Film "Choose Love"\)](https://open.spotify.com/album/6qaeCcMJhiKMkL71RcGN22) | 2:24 | 2023-09-01 | 2023-09-16 |
 | [All Is Well](https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [All Is Well](https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo) | 2:30 | 2022-02-04 | 2022-02-19 |
-| [All Life Long](https://open.spotify.com/track/3WEN5hlpjc09yo0J6IuQBE) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0unji0xUcEGgNFyokzF5p5) | 3:19 | 2024-03-22 |  |
+| [All Life Long](https://open.spotify.com/track/2R2fEymz4psIZb2Ic3lBIy) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0ISpTOqbSEzzY0Kt4JsTTq) | 3:19 | 2024-03-22 |  |
+| [All Life Long](https://open.spotify.com/track/3WEN5hlpjc09yo0J6IuQBE) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0unji0xUcEGgNFyokzF5p5) | 3:19 | 2024-03-22 | 2024-03-23 |
 | [All Loved Out](https://open.spotify.com/track/2OfE3gVO974f6Vm9wqltl9) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [All Loved Out](https://open.spotify.com/album/4oIPuDWO9l0MhjZKQJfeEm) | 3:36 | 2022-03-11 | 2022-03-18 |
 | [All Mine](https://open.spotify.com/track/5giRA9spF21RKZwWU0IQVK) | [Maddy Hicks](https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ) | [All Mine](https://open.spotify.com/album/3nLds8PrG7OctU5NDjdn4t) | 2:44 | 2023-03-10 | 2023-03-25 |
 | [All Mine](https://open.spotify.com/track/29mRyRVbVkFPRGm3v5RkrV) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [All Mine](https://open.spotify.com/album/4m2CF3sLoCP9IJeh0oW0m0) | 2:46 | 2023-05-12 | 2023-05-20 |
@@ -2674,6 +2675,7 @@
 | [Lie To Me \(feat\. KIDDO\)](https://open.spotify.com/track/3J09uhKXKITm0roetB1cL0) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Lie To Me \(feat\. KIDDO\)](https://open.spotify.com/album/3G8b5QeeM4r9YwsPy6UahO) | 2:37 | 2024-01-19 | 2024-02-10 |
 | [Life \(Everybody Dies\)](https://open.spotify.com/track/2OwCnw9joefxgTSjkjQOz8) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [five](https://open.spotify.com/album/1B5hRGI7s2H131LBsF8Job) | 3:12 | 2023-02-17 | 2023-03-04 |
 | [life after life](https://open.spotify.com/track/6KkSvREHsN9bFe1zrH3jVB) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [life after life](https://open.spotify.com/album/3bqjD4b2hNJb5d7fP1kFBy) | 2:27 | 2023-01-27 | 2023-02-11 |
+| [Life Goes On](https://open.spotify.com/track/1mXtEf59XtQ8mQtHL3Had6) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Life Goes On](https://open.spotify.com/album/63a9YKa0yTquyvq3O1Ce5W) | 2:46 | 2024-03-22 |  |
 | [Life Must Be Beautiful \(Original Song From a Movie “Life Must Be Beautiful”\)](https://open.spotify.com/track/6BMTuV9Qz5FFls0VMWiSoQ) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Life Must Be Beautiful \(Original Song From a Movie “Life Must Be Beautiful”\)](https://open.spotify.com/album/5p54QrPxijXEAgCpV3RCpV) | 2:52 | 2024-03-15 |  |
 | [Life Sux](https://open.spotify.com/track/7GZ9fGAJn84kNEhNVSSQuU) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Life Sux](https://open.spotify.com/album/0PLBxxxm3JBEGoUCkTUVBJ) | 2:54 | 2022-07-29 | 2022-08-20 |
 | [life you lead](https://open.spotify.com/track/2WYxFmuGz6Wj2vXlgLuHke) | [niceboy ed](https://open.spotify.com/artist/72IB1qSk51wyeLceXNypqR) | [life you lead](https://open.spotify.com/album/4lqDk4LT58Tbp7CCFuN8OD) | 3:19 | 2022-09-17 | 2022-10-08 |
@@ -4544,7 +4546,8 @@
 | [Too Much Too Little](https://open.spotify.com/track/6uB9IlAd8cad9y7yDCeALb) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Too Much Too Little](https://open.spotify.com/album/3v8ICDGTwpe8Sneh0Pkgdl) | 2:57 | 2024-02-16 | 2024-02-24 |
 | [Too Precious](https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Too Precious](https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk) | 2:49 | 2022-05-20 | 2022-06-11 |
 | [Too Strange for the Circus](https://open.spotify.com/track/3EraWxocoFkg6PTjxII85U) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Too Strange for the Circus](https://open.spotify.com/album/2xVPAd6OHyGna11gtdo8S4) | 3:11 | 2023-10-27 | 2023-11-18 |
-| [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-03-22 |  |
+| [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-03-22 | 2024-03-23 |
+| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-22 |  |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2022-11-11 | 2022-12-03 |
 | [Touch](https://open.spotify.com/track/6DRw88eEBMavfagVkLqXro) | [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [Touch](https://open.spotify.com/album/4hygQIpFeW3n3FwrYK5epb) | 3:14 | 2022-11-25 | 2022-12-17 |
 | [TOUCH](https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [TOUCH](https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7) | 3:25 | 2022-02-04 | 2022-02-12 |
@@ -4968,6 +4971,7 @@
 | [Yes We Can](https://open.spotify.com/track/4mY4eTuEvnWNNNlS3QXLkg) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Yes We Can](https://open.spotify.com/album/6EmU5AYldF504VZZMIGfra) | 3:26 | 2023-09-01 | 2023-09-16 |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-12 | 2024-01-20 |
 | [yes, and? \(with Mariah Carey\)](https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [yes, and?](https://open.spotify.com/album/7cE0lgNHmBxutHd5g4D3q8) | 3:34 | 2024-02-16 | 2024-02-24 |
+| [Yesterday](https://open.spotify.com/track/2KU6NNHXLbXPDgzwzuc4d9) | [Kenya Vaun](https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk) | [The Honeymoon Phase](https://open.spotify.com/album/4WfYXkR5ufqGEyZteQHzkT) | 3:27 | 2024-03-22 |  |
 | [Yesterday](https://open.spotify.com/track/53ATHsuT0gcejL7QvnDmWi) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Yesterday](https://open.spotify.com/album/4JiS0YEEcnxDITajHXvtBS) | 2:53 | 2022-11-18 | 2022-12-10 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-10 | 2022-06-25 |
 | [Yo Yo](https://open.spotify.com/track/1iLizzooWyhDEF3OgiVEoS) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Yo Yo](https://open.spotify.com/album/5tvFiSuT4HkniYgffE1Gir) | 3:32 | 2022-05-13 | 2022-05-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 
 > 🧊
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,375 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,432 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 | 99 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
 | 100 | [Gusto Ko Nang Bumitaw \- R&B Version](https://open.spotify.com/track/5A0iwwO0qsBL1xNejV3F0q) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1) | [Gusto Ko Nang Bumitaw \(R&B Version\)](https://open.spotify.com/album/31hgf1HCoTGPJroYu2VMcb) | 6:13 |
 
-Snapshot ID: `MCxiZDY3YzgwNDZiMGI3YWZlZjAxZTkxODQ2YzRkNjE1NDdkOGMyOGRj`
+Snapshot ID: `MCxjNGQxNzM3YTFkNGEwM2I0NGE3MjZiMGU3ZWVmNzVhNDJjMmY3YTY1`

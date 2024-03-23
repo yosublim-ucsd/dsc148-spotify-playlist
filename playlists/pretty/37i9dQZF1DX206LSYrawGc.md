@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 
 > 80s rock to fuel your ride\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,576 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,852 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 | 43 | [Gypsy Road](https://open.spotify.com/track/2F8Glc7r4mHHSCEegD4Ju1) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2) | 3:55 |
 | 44 | [We Care a Lot](https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Introduce Yourself](https://open.spotify.com/album/0kBy2KA6BuCWveFo88VmMX) | 4:03 |
 | 45 | [Jump](https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Best of Volume 1](https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St) | 3:59 |
-| 46 | [Every Rose Has Its Thorn](https://open.spotify.com/track/5qaSekPPKHIEA1Yn0qkCaC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say \. \. \. Ahh!](https://open.spotify.com/album/1XKDdHnYVcbcguSX2pXoP8) | 4:20 |
-| 47 | [Seventeen](https://open.spotify.com/track/4ENa9MbktJjV3HiTnlsg2b) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/3frtDYyTU6jUALyj5umV1F) | 4:05 |
-| 48 | [I Surrender](https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex) | 4:01 |
-| 49 | [Modern Day Cowboy](https://open.spotify.com/track/5ZIU2kT1wNjQNclQeVCz5O) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Mechanical Resonance](https://open.spotify.com/album/1VctZj1UuAgfqtnDcTlzGI) | 5:18 |
+| 46 | [Seventeen](https://open.spotify.com/track/4ENa9MbktJjV3HiTnlsg2b) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/3frtDYyTU6jUALyj5umV1F) | 4:05 |
+| 47 | [Every Rose Has Its Thorn](https://open.spotify.com/track/5qaSekPPKHIEA1Yn0qkCaC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say \. \. \. Ahh!](https://open.spotify.com/album/1XKDdHnYVcbcguSX2pXoP8) | 4:20 |
+| 48 | [Cult of Personality \(2023 Remaster\)](https://open.spotify.com/track/4WG7Z3bNM3iE4vCYcXsxNx) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Vivid \(2023 Remaster\)](https://open.spotify.com/album/0Itv01cUzRusmyNcEgEmOA) | 4:54 |
+| 49 | [I Surrender](https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex) | 4:01 |
 | 50 | [Shake Me](https://open.spotify.com/track/1Qjpl8Kav6rrO92ZuG0OK8) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 3:42 |
 
-Snapshot ID: `MCw1MWE4OTUzY2Y0ODBkOTY5Y2E2NDk4MGY4NWYzNWI4NzQ0NjUxYWE0`
+Snapshot ID: `MCw0M2RhOGQ1YmUxMmJkN2E1YTJhNjBmNDJjZjUwNjExZGMyZDBhOTkx`

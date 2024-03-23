@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,058 songs - 6 day 11 hr 6 min
+4,059 songs - 6 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1895,7 +1895,7 @@
 | [Lazy Swell](https://open.spotify.com/track/6jkC6iIoQZC79DP6fZiKTD) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Lazy Swell](https://open.spotify.com/album/0WbbGBJFVOgRMPgRq3AmXD) | 2:14 | 2021-03-14 | 2021-10-08 |
 | [Lazywarp](https://open.spotify.com/track/7vEk6R4eRnh4XXXQB7S1DM) | [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz), [The Golden Cobra](https://open.spotify.com/artist/3osyMYsuGQMcWxmmHJGiLw) | [Gemini](https://open.spotify.com/album/7eV8mTK0ahRLgjiwP5yBPq) | 3:24 | 2021-07-02 | 2021-09-10 |
 | [Le Palais Rouge](https://open.spotify.com/track/0FHjzDRgVDCVfoVqLdN3bb) | [Just Steezy Things](https://open.spotify.com/artist/1WGInLKTtABkRppFt2637E) | [Le Palais Rouge](https://open.spotify.com/album/2MnITSySVFKJ5AixBOa1Fm) | 3:03 | 2021-10-29 | 2022-06-03 |
-| [Le Prince De Paname](https://open.spotify.com/track/6weGcJuZQa1diJnTbjjMmV) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum), [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve) | [Le Prince De Paname](https://open.spotify.com/album/2gDLTF3mSQIx12JqttghRr) | 2:56 | 2024-03-07 |  |
+| [Le Prince De Paname](https://open.spotify.com/track/6weGcJuZQa1diJnTbjjMmV) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum), [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve) | [Le Prince De Paname](https://open.spotify.com/album/2gDLTF3mSQIx12JqttghRr) | 2:56 | 2024-03-07 | 2024-03-23 |
 | [Le Soir](https://open.spotify.com/track/3yjtOKoiKZXJHhIu9FthFz) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Traffic](https://open.spotify.com/album/7reas5sNVOnudBgBQLgWVq) | 1:48 | 2020-06-29 | 2020-10-16 |
 | [Leaf in Locker](https://open.spotify.com/track/7tSkT4Al8iFU47pkYIj63k) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Leaf in Locker // Tangerine Brick](https://open.spotify.com/album/7Fv5yaUzmw3ib1WKc0w48l) | 2:00 | 2021-09-07 | 2021-10-22 |
 | [Leaks](https://open.spotify.com/track/4N5UMM70a59dnXsbpU9lyQ) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Leaks](https://open.spotify.com/album/7q2nFKFQ2Qs3ZYiaN4tOgN) | 2:36 | 2021-02-14 | 2021-07-02 |
@@ -3297,6 +3297,7 @@
 | [Still Life](https://open.spotify.com/track/2JIQeiEOroT883u4OkkXDc) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Still Life](https://open.spotify.com/album/68vGOz1cQMxxdkHFfSaZ1q) | 2:48 | 2019-05-26\* | 2019-08-13 |
 | [Still There](https://open.spotify.com/track/0LR3GB28ZNdBVdWWTXMiDE) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Still There](https://open.spotify.com/album/09kBZ5qEGV7bRXa7S8yyjx) | 2:13 | 2020-04-10 | 2020-06-12 |
 | [stndrt.](https://open.spotify.com/track/706KbaSs79fa1Qb0VIqsMx) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [stndrt\. / kieth.](https://open.spotify.com/album/28kjk5I81ABsApf8Iq5Qbg) | 1:22 | 2019-05-26\* | 2019-06-15 |
+| [Stolen Moments](https://open.spotify.com/track/7izzQ1H8WnpyFWFVoMbbtK) | [Jazzberriez](https://open.spotify.com/artist/20ESscnVMQSejTLASItf47), [MZERA](https://open.spotify.com/artist/7xJs9lbHChKSJ9cHvW95tK), [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [Stolen Moments](https://open.spotify.com/album/3s56P772S3ys6ocEJ41f7x) | 2:15 | 2024-03-21 |  |
 | [Stone](https://open.spotify.com/track/4VZUTzIfBt9GCi8UeOETvb) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [Stone](https://open.spotify.com/album/2dVDinEF9jGW2cRwkevqOy) | 1:58 | 2022-11-17 | 2023-01-20 |
 | [Stone](https://open.spotify.com/track/6E5MDo4QQ6KWSYSirONLMv) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [Stone](https://open.spotify.com/album/3QnO4b06aa8aew0w40NwqC) | 1:58 | 2022-09-15 | 2022-11-20 |
 | [Stones](https://open.spotify.com/track/2f6nAGCq7u1dLobstbROyT) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Stones](https://open.spotify.com/album/0vcU2FMg5Tfrj2roeVdWJH) | 2:16 | 2021-03-19 | 2021-10-01 |

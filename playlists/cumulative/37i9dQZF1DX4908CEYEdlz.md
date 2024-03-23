@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Kings of Leon
 
-326 songs - 19 hr 54 min
+328 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,10 +163,11 @@
 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 | 2023-08-11 | 2023-11-11 |
 | [Knives](https://open.spotify.com/track/7zgIdPmFuTRPj7MsAKV0lH) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Knives](https://open.spotify.com/album/46fenR6yH4MASF1fkHgcWq) | 4:16 | 2022-01-14 | 2022-03-26 |
 | [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-10-13 | 2023-11-05 |
-| [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2023-11-03 |  |
+| [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2023-11-03 | 2024-03-23 |
 | [Landslide](https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [ÅNOMÅLY](https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv) | 2:58 | 2022-01-14 |  |
 | [Leeches](https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [Leeches](https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7) | 3:32 | 2022-07-01 | 2023-04-22 |
 | [Left For Dead](https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Left For Dead](https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf) | 3:05 | 2022-01-14 | 2022-02-05 |
+| [LIES WE TELL OURSELVES](https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [LIES WE TELL OURSELVES](https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4) | 3:27 | 2024-03-22 |  |
 | [Life Is Beautiful](https://open.spotify.com/track/5QrIzPcWxuCD6v5TPue6PX) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Life Is Beautiful](https://open.spotify.com/album/2fnf4Gc7k5iUp8dbQuhLIo) | 3:19 | 2023-06-09 | 2023-09-16 |
 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 | 2022-01-14 |  |
 | [Looking Tragic](https://open.spotify.com/track/3Sacn9UUjr7ksQaTAoYIKg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Looking Tragic / Begging For Trouble](https://open.spotify.com/album/1hKjd2OnD0fXSWVsl80M74) | 2:37 | 2022-01-14 | 2023-02-25 |
@@ -213,7 +214,7 @@
 | [Painkiller](https://open.spotify.com/track/6OMO6WdRhSfjMPAiPT94wH) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Human](https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W) | 2:59 | 2022-08-01 | 2022-11-26 |
 | [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 | 2023-06-23 | 2023-09-16 |
 | [Paper Machete](https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Paper Machete](https://open.spotify.com/album/2ec7VED8zxmb93zpjdFYBM) | 3:22 | 2023-06-16 | 2023-07-01 |
-| [PARE\(SER\)](https://open.spotify.com/track/2x8iWbXOkSS3iOavdOa4M0) | [Bayside Kings](https://open.spotify.com/artist/1ixRGSR7pOSWqLTtbjL62p) | [DUALIDADE \#LIVREPARATODOS](https://open.spotify.com/album/5cYJymh4Af0dTazxomJdpg) | 1:54 | 2023-11-10 |  |
+| [PARE\(SER\)](https://open.spotify.com/track/2x8iWbXOkSS3iOavdOa4M0) | [Bayside Kings](https://open.spotify.com/artist/1ixRGSR7pOSWqLTtbjL62p) | [DUALIDADE \#LIVREPARATODOS](https://open.spotify.com/album/5cYJymh4Af0dTazxomJdpg) | 1:54 | 2023-11-10 | 2024-03-23 |
 | [Pass The Nirvana](https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Pass The Nirvana](https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs) | 3:17 | 2022-09-02 | 2022-10-29 |
 | [Peach](https://open.spotify.com/track/1OWNwD4n5bGm8CcH3uuQ3C) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Peach](https://open.spotify.com/album/33LMoG1vTsoNnUy9vvy8t3) | 4:16 | 2022-01-14 | 2023-01-21 |
 | [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 | 2023-08-18 | 2023-09-23 |
@@ -229,6 +230,7 @@
 | [ROCKOPHOBIA](https://open.spotify.com/track/09RlKT4zUZHNJ6WJPGHJdp) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/0JPpXj9R4dOgYbSERMAnRM) | 4:24 | 2023-02-01 | 2023-03-25 |
 | [Roses For You](https://open.spotify.com/track/0NRiFKtoYgflCzuCI8OG6t) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Roses For You](https://open.spotify.com/album/7qkjcLooZU0VyhhnbrxFUa) | 3:20 | 2022-09-02 | 2022-10-01 |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-06-24 | 2022-08-13 |
+| [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 | 2024-03-22 |  |
 | [Sacred The Thread](https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Sacred The Thread](https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN) | 5:21 | 2023-05-19 |  |
 | [Sad Song](https://open.spotify.com/track/4hOC8bCq6Zz90K5kXEQvyv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Sad Song](https://open.spotify.com/album/71PTt2kbw3q1lb6YeMqyiF) | 3:23 | 2023-09-01 | 2023-09-23 |
 | [Salvation](https://open.spotify.com/track/54VRGCpS5jUI4PXa5jAZFL) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Salvation](https://open.spotify.com/album/0Zjqgl37E3nYM9No5UA1Zm) | 3:35 | 2023-03-31 | 2023-11-05 |

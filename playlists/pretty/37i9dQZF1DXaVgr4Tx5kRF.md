@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,147 likes - 65 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,202 likes - 65 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 64 | [Road Rage](https://open.spotify.com/track/439IqYqbfvhbioXkvaeg20) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [International Velvet](https://open.spotify.com/album/5JKgetvj4148279DoZG7XE) | 5:08 |
 | 65 | [The Riverboat Song](https://open.spotify.com/track/29cKAB63SRhL2GZdMHmQON) | [Ocean Colour Scene](https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U) | [Moseley Shoals](https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W) | 4:52 |
 
-Snapshot ID: `MCw1OThkNTYzNzM4YTlhYTNlNDhiM2VkNzE2NGRlZmYzZDkwY2VkYzA4`
+Snapshot ID: `MCw0NDQ0NDFlNGQ2OGI0ZjQ1ZDRlYTI3MTdkNzExYWIxMGYxMDUyZWVj`

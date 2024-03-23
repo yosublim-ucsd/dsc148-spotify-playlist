@@ -1,12 +1,12 @@
 {
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
-  "num_followers": 444403,
+  "num_followers": 444485,
   "original_name": "Lou\u00e7a Infinita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmExNDMyOWNiOTM4ZmIxOWI3NmU4ODMzNmMzNWIyYmQyN2E3ZTM4",
+  "snapshot_id": "MCxhMzVhMjcyMzY5MjgyOTRjZmVkY2Q4OWJhM2IyZmNiZTAwNDFjNjI2",
   "tracks": [
     {
       "added_at": "2022-02-10 18:18:16",
@@ -303,26 +303,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Por Inteiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 172766,
-      "name": "Atrasadinha - Live",
-      "url": "https://open.spotify.com/track/4DfPhCFm0Cx6VXr5Rxkx6D"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Gaiola \u00c9 o Troco",
         "url": "https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 187245,
       "name": "Gaiola \u00c9 o Troco",
       "url": "https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Por Inteiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 172766,
+      "name": "Atrasadinha - Live",
+      "url": "https://open.spotify.com/track/4DfPhCFm0Cx6VXr5Rxkx6D"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -435,6 +435,26 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
+        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Bruno Cardoso",
+          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
+      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Vai Embrazando",
         "url": "https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 166060,
       "name": "Vai Embrazando",
       "url": "https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
-        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Bruno Cardoso",
-          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
-      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -555,26 +555,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Agora \u00e9 Tudo Meu",
-        "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 171998,
-      "name": "Agora \u00e9 Tudo Meu",
-      "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
       },
@@ -595,22 +575,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Contatinho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA"
+        "name": "Agora \u00e9 Tudo Meu",
+        "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
       },
       "artists": [
         {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
         }
       ],
-      "duration_ms": 173229,
-      "name": "Contatinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT"
+      "duration_ms": 171998,
+      "name": "Agora \u00e9 Tudo Meu",
+      "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -627,6 +607,26 @@
       "duration_ms": 240426,
       "name": "Farol Das Estrelas",
       "url": "https://open.spotify.com/track/4aWvRjHweMAoB1RzUcXUUu"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Adrenalizou",
+        "url": "https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "duration_ms": 164560,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/5UOBna7TimaJuyxB8Dg2jI"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -655,22 +655,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Adrenalizou",
-        "url": "https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi"
+        "name": "Contatinho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
         },
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 164560,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/5UOBna7TimaJuyxB8Dg2jI"
+      "duration_ms": 173229,
+      "name": "Contatinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -747,38 +747,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Som No Talo",
-        "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 175046,
-      "name": "Tap\u00e3o Na Raba",
-      "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "O Mundo D\u00e1 Voltas",
-        "url": "https://open.spotify.com/album/6vsf2KnzQqYCk3ZooylJ7o"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 176642,
-      "name": "O Mundo D\u00e1 Voltas",
-      "url": "https://open.spotify.com/track/72Dd1GTMVp8EaJof85xICq"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
       },
@@ -791,6 +759,22 @@
       "duration_ms": 190280,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Som No Talo",
+        "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 175046,
+      "name": "Tap\u00e3o Na Raba",
+      "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -811,6 +795,22 @@
       "duration_ms": 187461,
       "name": "Bumbum granada",
       "url": "https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "O Mundo D\u00e1 Voltas",
+        "url": "https://open.spotify.com/album/6vsf2KnzQqYCk3ZooylJ7o"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 176642,
+      "name": "O Mundo D\u00e1 Voltas",
+      "url": "https://open.spotify.com/track/72Dd1GTMVp8EaJof85xICq"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Sinto Muito",
-        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 205945,
-      "name": "Bixinho",
-      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Na Raba Toma Tap\u00e3o",
         "url": "https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP"
       },
@@ -1011,22 +995,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Nem V\u00e1",
-        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
+        "name": "Sinto Muito",
+        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
       },
       "artists": [
         {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 159639,
-      "name": "Nem V\u00e1",
-      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
+      "duration_ms": 205945,
+      "name": "Bixinho",
+      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1051,6 +1031,26 @@
       "duration_ms": 152783,
       "name": "Surtada - Remix Brega Funk",
       "url": "https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Nem V\u00e1",
+        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 159639,
+      "name": "Nem V\u00e1",
+      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Maxximum - S\u00f3 Pra Contrariar",
-        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3 Pra Contrariar",
-          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
-        }
-      ],
-      "duration_ms": 240533,
-      "name": "Que Se Chama Amor",
-      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Mc Jo\u00e3o",
         "url": "https://open.spotify.com/album/7xnSIDNUcEJAXtoTWQSoIo"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 170400,
       "name": "Baile de Favela",
       "url": "https://open.spotify.com/track/6MDu0AZX00nSST9qyXFsOB"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Maxximum - S\u00f3 Pra Contrariar",
+        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3 Pra Contrariar",
+          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
+        }
+      ],
+      "duration_ms": 240533,
+      "name": "Que Se Chama Amor",
+      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Toda Toda",
+        "url": "https://open.spotify.com/album/2VgCgg09h9v3GwoLQzpEt0"
+      },
+      "artists": [
+        {
+          "name": "Pikeno & Menor",
+          "url": "https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Toda Toda",
+      "url": "https://open.spotify.com/track/2gywMK0AQvj8QZJFcEO4R3"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Pa\u00eds do Futebol",
         "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 149002,
       "name": "Pa\u00eds do Futebol",
       "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Toda Toda",
-        "url": "https://open.spotify.com/album/2VgCgg09h9v3GwoLQzpEt0"
-      },
-      "artists": [
-        {
-          "name": "Pikeno & Menor",
-          "url": "https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Toda Toda",
-      "url": "https://open.spotify.com/track/2gywMK0AQvj8QZJFcEO4R3"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "As Quatro Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS"
+      },
+      "artists": [
+        {
+          "name": "Sandy e Junior",
+          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Olha O Que O Amor Me Faz / Cita\u00e7\u00e3o: All By Myself - Medley",
+      "url": "https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Quem Me Dera",
         "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 147990,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "As Quatro Esta\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS"
-      },
-      "artists": [
-        {
-          "name": "Sandy e Junior",
-          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Olha O Que O Amor Me Faz / Cita\u00e7\u00e3o: All By Myself - Medley",
-      "url": "https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Camarote",
-        "url": "https://open.spotify.com/album/5Mm5Cza05FHgoBsB2sIz2k"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 183994,
-      "name": "Camarote",
-      "url": "https://open.spotify.com/track/5Kk43IykGmtOxZ5CDzOlEU"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Devagarinho",
         "url": "https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 137045,
       "name": "Devagarinho",
       "url": "https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Camarote",
+        "url": "https://open.spotify.com/album/5Mm5Cza05FHgoBsB2sIz2k"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 183994,
+      "name": "Camarote",
+      "url": "https://open.spotify.com/track/5Kk43IykGmtOxZ5CDzOlEU"
     }
   ],
   "unique_name": "Lou\u00e7a Infinita",

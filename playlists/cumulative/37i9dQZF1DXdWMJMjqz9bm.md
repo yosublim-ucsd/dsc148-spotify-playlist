@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Arden Jones
 
-631 songs - 1 day 4 hr 50 min
+632 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [a letter from Anxiety](https://open.spotify.com/track/53pDouQQTGlSr4xYXoly6b) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [a letter from Anxiety](https://open.spotify.com/album/2aERHl2AJm4ODYswrJ9KR1) | 2:41 | 2022-10-21 | 2022-12-24 |
 | [act right](https://open.spotify.com/track/1Xwhdmv9VnPjYL4hAwLQjn) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [act right](https://open.spotify.com/album/66kLoEXcmlSRFkyEwjjpZW) | 3:26 | 2022-07-22 | 2023-04-05 |
 | [AdaLINE](https://open.spotify.com/track/2As91j4G5GKRbx4In7ClyV) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [AdaLINE](https://open.spotify.com/album/6cEOgTZp3T7lxaUSNCCeN1) | 2:45 | 2022-12-16 | 2023-04-09 |
+| [Addiction/Prescription](https://open.spotify.com/track/15vsrW1wCOsUC3rTHrEjv2) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Addiction/Prescription](https://open.spotify.com/album/3f2N0XuzYKvT4sqgi0K1Jd) | 2:42 | 2024-03-22 |  |
 | [Adeline](https://open.spotify.com/track/4jb639rOE1s5Ov8bTEUiiT) | [Brennan](https://open.spotify.com/artist/7oHCZXKjXXta7qCFc0BAIX) | [Adeline](https://open.spotify.com/album/35YQgaw6o5f2tjJH7GoIRk) | 2:48 | 2023-04-07 | 2023-07-01 |
 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-09-16 | 2024-02-03 |
 | [After Hours](https://open.spotify.com/track/7jWW25q41F2P7Opfn3boIF) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [After Hours](https://open.spotify.com/album/1Afc7X2x5kxfkbDz2KXjlv) | 2:37 | 2022-01-05 | 2022-07-16 |
@@ -618,7 +619,7 @@
 | [When I Get Lonely](https://open.spotify.com/track/1d4c9HSOY8hy5krzdKxEyh) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [When I Get Lonely](https://open.spotify.com/album/13FMlTKRNL5akAlum5tc5O) | 2:21 | 2022-09-30 | 2023-06-10 |
 | [When You’re Sober](https://open.spotify.com/track/0aJcuvNNJh9ncKBqqfLiIG) | [MILES](https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH) | [When You’re Sober](https://open.spotify.com/album/1mcGX0oGxfYzIWINPFKytq) | 2:22 | 2022-06-17 | 2022-11-30 |
 | [where did u go?](https://open.spotify.com/track/0feoAoDhBeSuBLAHuyWGq9) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [where did u go?](https://open.spotify.com/album/2IpxLRYidbeYmaonFzEU9y) | 3:46 | 2022-06-10 | 2022-10-15 |
-| [WHERE U FROM](https://open.spotify.com/track/6h1jJrMiUkWgAVRRWuGBRg) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [WHERE U FROM](https://open.spotify.com/album/3yb0cOpKZcCcCetFN4oCk6) | 2:46 | 2024-01-22 |  |
+| [WHERE U FROM](https://open.spotify.com/track/6h1jJrMiUkWgAVRRWuGBRg) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [WHERE U FROM](https://open.spotify.com/album/3yb0cOpKZcCcCetFN4oCk6) | 2:46 | 2024-01-22 | 2024-03-23 |
 | [white dress](https://open.spotify.com/track/2qbp0Z79WhS5myTcZGHPeH) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Love,](https://open.spotify.com/album/0TU2tFRFVm3RzdUJtnm7o4) | 3:40 | 2023-02-17 | 2023-09-09 |
 | [white dress](https://open.spotify.com/track/52RuHnL5Syin3kHLoBvUxK) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [white dress](https://open.spotify.com/album/3atwTksgz29JYwgxuVUbsK) | 3:40 | 2023-02-17 | 2023-02-21 |
 | [Who's Taking You Home](https://open.spotify.com/track/0eezrc1XfAfhceVFRXdiY4) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Who's Taking You Home](https://open.spotify.com/album/6du4ktHaeE4Ot5dpDh57ya) | 2:42 | 2023-04-17 |  |

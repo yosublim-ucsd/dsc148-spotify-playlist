@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,312 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,468 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 34 | [Too Good \- Unknown Mortal Orchestra Remix](https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Too Good \(Unknown Mortal Orchestra Remix\)](https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN) | 3:55 |
 | 35 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 |
 | 36 | [Hold U](https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 4:16 |
-| 37 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
-| 38 | [Own Your Own](https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5Blcv1aeBSSVLkOcpR280c) | 3:56 |
+| 37 | [Own Your Own](https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5Blcv1aeBSSVLkOcpR280c) | 3:56 |
+| 38 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
 | 39 | [Bliss](https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 |
 | 40 | [interested](https://open.spotify.com/track/55SbTToiQ8JTe524EeIn8b) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [interested](https://open.spotify.com/album/0Yvd8AciWmZXa2KQXQDl2V) | 3:13 |
-| 41 | [Loveher](https://open.spotify.com/track/75PNzduM0yViwNeye50xdP) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Loveher](https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX) | 3:49 |
+| 41 | [Blue Hour](https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:31 |
 | 42 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 |
-| 43 | [Blue Hour](https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:31 |
+| 43 | [Loveher](https://open.spotify.com/track/75PNzduM0yViwNeye50xdP) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Loveher](https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX) | 3:49 |
 | 44 | [Signs](https://open.spotify.com/track/0pPpkAXqt8UDVXBvSYI5pn) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Origin \(Deluxe Edition\)](https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE) | 2:59 |
 | 45 | [Red Room](https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Red Room](https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj) | 3:52 |
 | 46 | [The Loop](https://open.spotify.com/track/4E8SsodyGGLgv7HPeSisw5) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 4:01 |
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 64 | [Run A Red Light](https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Fuse](https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx) | 3:39 |
 | 65 | [Don’t Let Get You Down](https://open.spotify.com/track/0XvzfXYGaGTYH2LbVAD4G0) | [Wajatta](https://open.spotify.com/artist/0Yh5vHNrVsgQ9UEcj8Rqss), [John Tejada](https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [Don’t Let Get You Down](https://open.spotify.com/album/4JZjID5JmCUCvR8pu8RGUw) | 4:36 |
 | 66 | [SULA \(Paperback\)](https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA](https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K) | 4:15 |
-| 67 | [Skylight](https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Phosphorescent](https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE) | 4:00 |
-| 68 | [Spotlight \- Single Edit](https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Spotlight](https://open.spotify.com/album/54MjolrMY91tFXa2h1CB1u) | 4:12 |
-| 69 | [So Pacific](https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF) | [Memory Of Jane](https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM) | [So Pacific](https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh) | 3:33 |
-| 70 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 |
-| 71 | [Rain](https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:48 |
-| 72 | [CooCool](https://open.spotify.com/track/77v3whD60OC0g4RePlHDhT) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/26QAdfI4TGJ3eyOoDfs4sS) | 4:31 |
+| 67 | [CooCool](https://open.spotify.com/track/77v3whD60OC0g4RePlHDhT) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/26QAdfI4TGJ3eyOoDfs4sS) | 4:31 |
+| 68 | [Skylight](https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Phosphorescent](https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE) | 4:00 |
+| 69 | [Spotlight \- Single Edit](https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Spotlight](https://open.spotify.com/album/54MjolrMY91tFXa2h1CB1u) | 4:12 |
+| 70 | [So Pacific](https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF) | [Memory Of Jane](https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM) | [So Pacific](https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh) | 3:33 |
+| 71 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 |
+| 72 | [Rain](https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:48 |
 | 73 | [Bayou](https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 2:13 |
 | 74 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 |
 | 75 | [Unconditional](https://open.spotify.com/track/2gjrOwSGTDKpzoDdMCLr5s) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World \(Deluxe\)](https://open.spotify.com/album/01d2Rn2VtB6THtOb9nwM9p) | 3:09 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 88 | [Wonder](https://open.spotify.com/track/7vMyUJeWiiF9CwMedCGCxF) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 6:32 |
 | 89 | [Baby No More](https://open.spotify.com/track/50YFf2wxdUPioeqahWKCl1) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Giver Taker](https://open.spotify.com/album/5UWRaW0ui40kohTv4PyBEc) | 2:44 |
 | 90 | [Drifting Out](https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Drifting Out EP](https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh) | 3:39 |
-| 91 | [If You Could See Me Now](https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [If You Could See Me Now](https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0) | 2:41 |
-| 92 | [Thought 8](https://open.spotify.com/track/7M02C2rl10InLDWaopNJcO) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Thoughts](https://open.spotify.com/album/31uhQtHGICVuHM7etgIi7O) | 3:24 |
+| 91 | [Thought 8](https://open.spotify.com/track/7M02C2rl10InLDWaopNJcO) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Thoughts](https://open.spotify.com/album/31uhQtHGICVuHM7etgIi7O) | 3:24 |
+| 92 | [If You Could See Me Now](https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [If You Could See Me Now](https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0) | 2:41 |
 | 93 | [Satellite](https://open.spotify.com/track/38N4yGHfwByW1BjKBp6FMk) | [Midnight Sister](https://open.spotify.com/artist/79CshY6jZ3VzduOOSCRhm4) | [Painting the Roses](https://open.spotify.com/album/08QA8Et6U6Gv6oq94Bq9co) | 4:06 |
 | 94 | [Sweet Lie](https://open.spotify.com/track/47AS3xyNXDjP5SrgpG3cmL) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Modern World](https://open.spotify.com/album/5lLgEhk1YTVF7mg3MyN28p) | 4:42 |
 | 95 | [Sounds Of Blue](https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Sounds Of Blue](https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 99 | [Tru Love](https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Tru Love](https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8) | 3:18 |
 | 100 | [Ocean](https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 4:21 |
 
-Snapshot ID: `MCw0ZmQ1NTZiMDZjY2VlMTQ4MjJkNTQwY2U2YjkwOGYyZDNlYmM4OTEx`
+Snapshot ID: `MCxlMTI1YmYzYmQ5ZjNiNGUxZTdiZTczOWQ4YjIyYzU1YmEyMDVlNTU1`

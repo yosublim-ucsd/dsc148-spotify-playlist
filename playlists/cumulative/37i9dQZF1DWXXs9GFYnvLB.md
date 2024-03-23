@@ -4,7 +4,7 @@
 
 > The hottest tracks with the freshest hits! Cover: CYRIL
 
-170 songs - 9 hr 13 min
+171 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-10-04 | 2023-12-15 |
 | [Needle \(feat\. Drake\)](https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:55 | 2023-12-15 | 2024-02-02 |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-06-15 | 2023-07-22 |
-| [Nostalgia](https://open.spotify.com/track/0hhvzMnYVZuCt0pwsAgxyp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/4BAVhpH8KMzD5cqlGmS3Db) | 2:44 | 2024-03-21 |  |
+| [Nostalgia](https://open.spotify.com/track/3AgHs7svu3fb2d5NguwfXY) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt) | 2:44 | 2024-03-21 |  |
+| [Nostalgia](https://open.spotify.com/track/0hhvzMnYVZuCt0pwsAgxyp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/4BAVhpH8KMzD5cqlGmS3Db) | 2:44 | 2024-03-21 | 2024-03-23 |
 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-03-21 |  |
 | [One Bad Day](https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [One Bad Day](https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M) | 3:20 | 2024-02-01 | 2024-03-08 |
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2024-02-15 |  |

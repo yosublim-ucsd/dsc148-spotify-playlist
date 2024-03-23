@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 89088,
+  "2024-03-23": 89126,
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : Young Miko",
+  "description": "Tous les hits latino du moment sont ici. Photo : Becky G",
   "name": "Caliente",
   "tracks": [
     {
@@ -350,6 +350,24 @@
     },
     {
       "album": {
+        "name": "Cero condiciones",
+        "url": "https://open.spotify.com/album/5ibayOsl6yLK6WNIGNP7e1"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210533,
+      "name": "Cero condiciones",
+      "url": "https://open.spotify.com/track/7IUYqO7R6U71VIcaFdTs5m"
+    },
+    {
+      "album": {
         "name": "CLASSY 101",
         "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
       },
@@ -628,6 +646,24 @@
     },
     {
       "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "DILUVIO",
+      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
+    },
+    {
+      "album": {
         "name": "Dolce Vita",
         "url": "https://open.spotify.com/album/4FM5JpQ5epSYAbkwxIEyUD"
       },
@@ -683,10 +719,36 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 214041,
       "name": "DOSiS",
       "url": "https://open.spotify.com/track/45hMdaPF4b47baFQHgI5Mj"
+    },
+    {
+      "album": {
+        "name": "Double Team",
+        "url": "https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231628,
+      "name": "Double Team",
+      "url": "https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx"
     },
     {
       "album": {
@@ -948,6 +1010,28 @@
     },
     {
       "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
         "name": "Gyal You a Party Animal (Remix)",
         "url": "https://open.spotify.com/album/1drLzJJL0Voqt9GfD4cAly"
       },
@@ -963,7 +1047,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 223366,
       "name": "Gyal You a Party Animal - Remix",
       "url": "https://open.spotify.com/track/3rK30dzS17JWgft6PIvEjt"
@@ -1073,7 +1157,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 125108,
       "name": "Joga Pra Lua",
       "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
@@ -1153,6 +1237,24 @@
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    {
+      "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174229,
+      "name": "LA FALDA",
+      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
     },
     {
       "album": {
@@ -1589,7 +1691,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 194000,
       "name": "No Son Horas",
       "url": "https://open.spotify.com/track/4KbZnnwOk8rK6XGftJXyTI"
@@ -2017,7 +2119,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 182769,
       "name": "SIN TI",
       "url": "https://open.spotify.com/track/5AcyixjIMjWfLUphthR46B"

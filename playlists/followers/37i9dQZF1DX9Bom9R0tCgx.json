@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 369307,
+  "2024-03-23": 369518,
   "date_first_scraped": "2023-09-07",
   "description": "All the stuff that will blow your speakers!",
   "name": "Bass Explosion",
@@ -539,7 +539,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 155165,
       "name": "Baby When The Light",
       "url": "https://open.spotify.com/track/147hiQi8wu8SimEk0FAfzD"
@@ -1067,6 +1067,28 @@
       "duration_ms": 133593,
       "name": "Chasing Highs - LIZOT Remix",
       "url": "https://open.spotify.com/track/5uISqR4lyfgJ0snckYmQpJ"
+    },
+    {
+      "album": {
+        "name": "Classical Music",
+        "url": "https://open.spotify.com/album/4dxaPGViPXY0eAYiraYq57"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157875,
+      "name": "Classical Music",
+      "url": "https://open.spotify.com/track/5ZsnPZX0aPg5xIxhlkkoOt"
     },
     {
       "album": {
@@ -1761,7 +1783,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 115257,
       "name": "Eyes Don't Lie",
       "url": "https://open.spotify.com/track/0MrSQNNYfK7LuBlP8uqizl"
@@ -1941,6 +1963,28 @@
       "duration_ms": 171904,
       "name": "For You",
       "url": "https://open.spotify.com/track/1K3yNNl8YK3XPYGfl0cU3b"
+    },
+    {
+      "album": {
+        "name": "Frikitona (Slowboy Remix)",
+        "url": "https://open.spotify.com/album/7AoJKxer9fWPnOonk3DtMA"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Frikitona - Slowboy Remix",
+      "url": "https://open.spotify.com/track/07Ts6jLwH9HjpfPPADlCEg"
     },
     {
       "album": {
@@ -2643,7 +2687,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 153469,
       "name": "It's That Time - Edit",
       "url": "https://open.spotify.com/track/72qcP3hwdqa8NkVxSCpYjm"
@@ -3117,7 +3161,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 153585,
       "name": "Live Until I Die",
       "url": "https://open.spotify.com/track/4JjHBHKIBCuojHrL5wyMow"
@@ -3261,6 +3305,28 @@
       "duration_ms": 172563,
       "name": "Love Is Free",
       "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
+    },
+    {
+      "album": {
+        "name": "Love Lies Bleeding",
+        "url": "https://open.spotify.com/album/7Lqe0H6QhR9WEUOsCh2J3Z"
+      },
+      "artists": [
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        },
+        {
+          "name": "Kazhi",
+          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140526,
+      "name": "Love Lies Bleeding",
+      "url": "https://open.spotify.com/track/6MdCSpePTLagrBkUIkIxJ7"
     },
     {
       "album": {
@@ -3842,6 +3908,32 @@
     },
     {
       "album": {
+        "name": "One By One (feat. Oaks) [Andromedik Remix]",
+        "url": "https://open.spotify.com/album/16dGc8axqZ3AwFDfS6PmPQ"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        },
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181173,
+      "name": "One By One (feat. Oaks) - Andromedik Remix",
+      "url": "https://open.spotify.com/track/4tnQ6L9YvwkTjjiDuiCJjX"
+    },
+    {
+      "album": {
         "name": "One Day Left",
         "url": "https://open.spotify.com/album/6Gcq9YBTwpOsZxKXtZosrG"
       },
@@ -4059,7 +4151,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 144004,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/441rdYPewU5Ky9FsMJkZQH"
@@ -4690,7 +4782,7 @@
     },
     {
       "album": {
-        "name": "Run, Pt. 1",
+        "name": "Run (Part 1)",
         "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
       },
       "artists": [
@@ -4707,7 +4799,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 135085,
-      "name": "Run, Pt. 1",
+      "name": "Run (Part 1)",
       "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
     },
     {
@@ -5270,6 +5362,28 @@
     },
     {
       "album": {
+        "name": "Stumblin' In (LUNAX Remix)",
+        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Stumblin' In (LUNAX Remix)",
+      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
+    },
+    {
+      "album": {
         "name": "Stumblin' In (Sonny Wern Remix)",
         "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
       },
@@ -5635,7 +5749,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 124867,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7"
@@ -6265,6 +6379,24 @@
       "duration_ms": 195537,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
+    },
+    {
+      "album": {
+        "name": "What I Want",
+        "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
+      },
+      "artists": [
+        {
+          "name": "Gregor McMurray",
+          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
     },
     {
       "album": {

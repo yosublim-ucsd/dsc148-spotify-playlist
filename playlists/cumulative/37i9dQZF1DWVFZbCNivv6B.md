@@ -2,9 +2,9 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Aquí vive el hip\-hop mexicano\. Santa Fe Klan, Peso Pluma y Duki en la casa.
+> Aquí vive el hip\-hop mexicano\. Tornillo en la casa.
 
-499 songs - 1 day 6 hr 4 min
+502 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Es Otra Noche](https://open.spotify.com/track/3TwzKRjw2GeMDExPL62Wkc) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Es Otra Noche](https://open.spotify.com/album/3gfyjz5T6Mj0wlO4rkCHHp) | 3:12 | 2022-07-22 | 2023-04-09 |
 | [Especies](https://open.spotify.com/track/0wfvhjv5cqqSuwJD84WYZ8) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [Especies](https://open.spotify.com/album/38MDL6mhsLPxRBd4nGN1Gk) | 3:38 | 2023-04-28 | 2023-05-06 |
 | [Esta Vez Está Bien](https://open.spotify.com/track/7dJi7U6wWSILrecj3Zu3Wy) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Esta Vez Está Bien](https://open.spotify.com/album/3SWSiKlS8CCkAlSBMgRPx1) | 2:18 | 2023-02-17 | 2024-01-06 |
+| [Estaba Sola](https://open.spotify.com/track/7aIThRKpe9ZpsEbLqE2GMg) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Estaba Sola](https://open.spotify.com/album/4rQshVMKnGssLCs88Akj9i) | 3:32 | 2024-03-22 |  |
 | [Estilolibre](https://open.spotify.com/track/5urWBmqFpzyWrG4OEuUhNp) | [Adan Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Estilolibre](https://open.spotify.com/album/6Y21IpEoxevroZJDc1y60N) | 2:27 | 2022-04-01 | 2022-05-20 |
 | [Estoy Bien Loco](https://open.spotify.com/track/5u4XgdTpI3KAymxn9LZQxn) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Estoy Bien Loco](https://open.spotify.com/album/63uaLug81UDXYtuHTJk77O) | 5:07 | 2023-07-28 | 2023-09-02 |
 | [Eternamente](https://open.spotify.com/track/71tUVS9wwekoX9qg494zq9) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Eternamente](https://open.spotify.com/album/6eHJ3AnPmuxpS519h43UCG) | 4:03 | 2023-06-09 | 2024-01-06 |
@@ -179,6 +180,7 @@
 | [Flama](https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Mayki Graff](https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5) | [Flama](https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV) | 2:22 | 2023-03-10 | 2023-05-06 |
 | [Flight 0006](https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Flight 0006](https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb) | 3:17 | 2022-01-28 | 2022-02-12 |
 | [Flight 0010](https://open.spotify.com/track/4JiJIHGtiXypG2yw804UvJ) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Dave Garsía](https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM) | [Flight 0010](https://open.spotify.com/album/2HPB8zuGyuVdJfKeRhqYhZ) | 2:10 | 2023-09-22 | 2024-01-06 |
+| [Fluya](https://open.spotify.com/track/6hTHHepHMcVg75N301UI2O) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Estilo Fino](https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh) | 3:02 | 2024-03-22 |  |
 | [Forty 7](https://open.spotify.com/track/5fcpj00RK5VDr1IxsLOJvh) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Forty 7](https://open.spotify.com/album/2DzXW0E5vbmrU5daYXiALc) | 4:08 | 2022-07-19 | 2023-03-11 |
 | [Frikitona](https://open.spotify.com/track/2kY8eaR1Y5T69uMhXw3h1s) | [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA) | [Frikitona](https://open.spotify.com/album/0NAoesvR4n07viJtdUBqDE) | 2:58 | 2023-09-29 | 2023-10-21 |
 | [Fuck Police](https://open.spotify.com/track/0ymK0x29pOFOhNSqbMAHRQ) | [Perro Zw](https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv) | [Fuck Police](https://open.spotify.com/album/7Jv2a7OFNO6V1suGbGpYVc) | 2:17 | 2022-04-15 | 2022-06-15 |
@@ -233,6 +235,7 @@
 | [La Pelicula](https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT) | [Anthony Sanchez](https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [La Pelicula](https://open.spotify.com/album/1s8hOQjbODn7oVYR9z34eK) | 2:49 | 2024-01-26 |  |
 | [LA PIPA DE LA PAZ](https://open.spotify.com/track/35k8oH1X7gfCyw2Bp3c1Yy) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [LA PIPA DE LA PAZ](https://open.spotify.com/album/6Y7QL2YRsVOkFB2gxpnBEZ) | 2:30 | 2023-04-21 | 2023-06-01 |
 | [La Plata](https://open.spotify.com/track/4J5tVP18No1PCLSmmFPYji) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Plata](https://open.spotify.com/album/4Xu3pbXJU8bhrfMDEhN3lI) | 4:07 | 2023-09-01 | 2023-10-21 |
+| [La Playa](https://open.spotify.com/track/6vODt4E4hZNCsJ3hFe5Ve2) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Scoop Deville](https://open.spotify.com/artist/0LJri3xvwsHWKErcNKnZxg) | [La Playa](https://open.spotify.com/album/7u1DEKqn7WLabDAteCjPjH) | 3:24 | 2024-03-22 |  |
 | [La última Y No Nos Vamos](https://open.spotify.com/track/6ZsL4COu7tM4m9inHPxAdH) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [La Última Y No Nos Vamos \(Episodio 4\)](https://open.spotify.com/album/1sAhYHPWUiUkW6Lhr0q5M9) | 2:54 | 2023-03-31 | 2023-06-24 |
 | [Laayli' kuxa'ano'one](https://open.spotify.com/track/02dF3qjpgTpmPCBKo72C06) | [Adn Maya Colectivo](https://open.spotify.com/artist/3jADYwTI7Ae1cGiix32d3o), [Pat Boy](https://open.spotify.com/artist/7w2LEbH35jdB5RamMTuf40), [Yaalen K'uj](https://open.spotify.com/artist/3otlAvVRLjmlSjCNDA8SBu), [All Mayan Winik](https://open.spotify.com/artist/0gkJGL3WK17uE96aWRVDFd) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:44 | 2022-11-15 | 2022-12-17 |
 | [Laayli' kuxa'ano'one](https://open.spotify.com/track/6qBYHKN99lH5cZBHbfju1q) | [Adn Maya Colectivo](https://open.spotify.com/artist/3jADYwTI7Ae1cGiix32d3o), [Pat Boy](https://open.spotify.com/artist/7w2LEbH35jdB5RamMTuf40), [Yaalen K'uj](https://open.spotify.com/artist/3otlAvVRLjmlSjCNDA8SBu), [All Mayan Winik](https://open.spotify.com/artist/0gkJGL3WK17uE96aWRVDFd) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:44 | 2022-11-15 | 2022-11-21 |

@@ -4,13 +4,14 @@
 
 > Live by your own rules\. Listen to the official playlist inspired by Bel\-Air, streaming now exclusively on  <a href="https://www.peacocktv.com/stream\-tv/bel\-air">Peacock</a>.
 
-58 songs - 3 hr 9 min
+59 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [505](https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Apt\. 505](https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf) | 3:07 | 2023-02-23 |  |
 | [A Few Tears](https://open.spotify.com/track/67QsHCEaJp9g73Y9lQURoR) | [Aaron Alexander](https://open.spotify.com/artist/3aY5vFyTSP6wnIkddlb7lC), [Leonard Dstroy](https://open.spotify.com/artist/31YOBd0gftAsAQb02B1ZiD) | [Diamonds In Space](https://open.spotify.com/album/72D6z73c6GgtFHHesqKQdb) | 4:10 | 2023-02-23 |  |
-| [Bag \(with Lucky Daye\)](https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Bag \(with Lucky Daye\)](https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY) | 3:31 | 2023-02-23 |  |
+| [Bag \(with Lucky Daye\)](https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Bag \(with Lucky Daye\)](https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY) | 3:31 | 2023-02-23 | 2024-03-23 |
+| [Bag \(with Lucky Daye\)](https://open.spotify.com/track/5snvaaFZTahc1OGkBvhgrn) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Lush Life](https://open.spotify.com/album/4Z3clJrBFpORXTaP6D5t2v) | 3:31 | 2023-02-23 |  |
 | [Big Splendid](https://open.spotify.com/track/0XBjp1FThdpZdBNT9FRvLx) | [Aaron Alexander](https://open.spotify.com/artist/3aY5vFyTSP6wnIkddlb7lC), [Leonard Dstroy](https://open.spotify.com/artist/31YOBd0gftAsAQb02B1ZiD) | [Diamonds In Space](https://open.spotify.com/album/72D6z73c6GgtFHHesqKQdb) | 2:36 | 2023-02-23 |  |
 | [Black 2](https://open.spotify.com/track/5Ry83hJBcoQpVI9IF7kaL0) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Black 2](https://open.spotify.com/album/10su5UQW4dY8zd9qG4fxrK) | 2:38 | 2023-02-23 |  |
 | [Candlelight](https://open.spotify.com/track/4RK7tE3Ro6NUcDJfW7Z4Zn) | [SHERIE](https://open.spotify.com/artist/22QPHxxyb3RvIFvct9EAbu), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Candlelight](https://open.spotify.com/album/5ujyjNivHF765vciSmLnxb) | 3:37 | 2023-02-23 |  |

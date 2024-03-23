@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,185 likes - 40 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,304 likes - 40 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 8 | [Part\-Time Lover](https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [In Square Circle](https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt) | 4:12 |
 | 9 | [Get Down On It \- Single Version](https://open.spotify.com/track/2je56j0xuoTi1gYkLLMlJU) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:31 |
 | 10 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 |
-| 11 | [Give It To Me Baby](https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 4:08 |
-| 12 | [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 |
+| 11 | [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 |
+| 12 | [Give It To Me Baby](https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 4:08 |
 | 13 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
 | 14 | [On My Own](https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Winner In You](https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN) | 4:50 |
 | 15 | [Love T.K.O.](https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:59 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 39 | [Never Knew Love Like This Before](https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Pride Classics](https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc) | 5:26 |
 | 40 | [Funkin' for Jamaica](https://open.spotify.com/track/0xbkxTqSaW5blsYgRXpB5I) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Funkin' For Jamaica](https://open.spotify.com/album/3QEAp1Cp3DQq6QcQD90arq) | 4:40 |
 
-Snapshot ID: `MCxkNjljZTc3YWNkODQwYWE2ZDcyZTk1Yzc1Mjk3YjgyZmQ3ZDNlZjZj`
+Snapshot ID: `MCw0ZDA5ZjE4ZmU0ZmQwZWNkMDJjZDlhMmM3NjE2ZGZmZDBlMTIyNGVk`

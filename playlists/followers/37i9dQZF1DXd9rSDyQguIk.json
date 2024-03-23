@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 1240328,
+  "2024-03-23": 1240790,
   "date_first_scraped": "2022-05-26",
-  "description": "Nothing but classic blues tracks",
+  "description": "Nothing but classic blues. Cover: B.B. King",
   "name": "Blues Classics",
   "tracks": [
     {
@@ -374,6 +374,24 @@
     },
     {
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156866,
+      "name": "Bring It On Home",
+      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
+    },
+    {
+      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -536,6 +554,24 @@
     },
     {
       "album": {
+        "name": "John Lee Hooker - On Vee-Jay 1955-1958",
+        "url": "https://open.spotify.com/album/4S0rQVJxEMLQHZ8JGl9tXx"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133618,
+      "name": "Dimples",
+      "url": "https://open.spotify.com/track/0zVx5Ao0pMlrZti8WVsbOx"
+    },
+    {
+      "album": {
         "name": "Heart & Soul: A Retrospective",
         "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
@@ -641,7 +677,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 215800,
       "name": "Give Me Back My Wig",
       "url": "https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb"
@@ -936,6 +972,24 @@
     },
     {
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
+    },
+    {
+      "album": {
         "name": "Getting Ready... (World)",
         "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
       },
@@ -951,6 +1005,24 @@
       "duration_ms": 253333,
       "name": "I'm Tore Down",
       "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
+    },
+    {
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
       "album": {
@@ -1041,7 +1113,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 167226,
       "name": "Let The Good Times Roll",
       "url": "https://open.spotify.com/track/50y6y3iwBlKKev2U4a6GK5"
@@ -1149,7 +1221,7 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 232453,
       "name": "Mean Mistreater",
       "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
@@ -1171,6 +1243,24 @@
       "duration_ms": 247373,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
+    },
+    {
+      "album": {
+        "name": "Mojo Hand",
+        "url": "https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179733,
+      "name": "Mojo Hand",
+      "url": "https://open.spotify.com/track/41s9iG3fTuu32yBnmDLCcZ"
     },
     {
       "album": {
@@ -1275,7 +1365,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 189133,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi"
@@ -1401,7 +1491,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 304600,
       "name": "Should I Wait",
       "url": "https://open.spotify.com/track/44s75M70lhq25s3CiW0pxq"
@@ -1570,6 +1660,24 @@
     },
     {
       "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228626,
+      "name": "T-Bone Blues",
+      "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
+    },
+    {
+      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
       },
@@ -1588,6 +1696,24 @@
     },
     {
       "album": {
+        "name": "Rockin' With Reed",
+        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143331,
+      "name": "Take Out Some Insurance",
+      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
+    },
+    {
+      "album": {
         "name": "The Best Of Duke-Peacock Blues",
         "url": "https://open.spotify.com/album/5h1La90cicQpR7bSjnbq3Q"
       },
@@ -1599,7 +1725,7 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 163373,
       "name": "Texas Flood",
       "url": "https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9"
@@ -1635,7 +1761,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 180453,
       "name": "The Things That I Used To Do",
       "url": "https://open.spotify.com/track/3NWDb3bbMBTArBblzG4jMX"

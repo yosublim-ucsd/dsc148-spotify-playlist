@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,575 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,577 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 27 | [Supersoaker](https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:50 |
 | 28 | [Help Is On The Way](https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:57 |
 | 29 | [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
-| 30 | [Slither](https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB) | 4:08 |
-| 31 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 |
+| 30 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 |
+| 31 | [Slither](https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB) | 4:08 |
 | 32 | [Don't Stay](https://open.spotify.com/track/27gUeiai56GKF6TxvmPJut) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 3:07 |
 | 33 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
 | 34 | [Jars](https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Sci\-Fi Crimes](https://open.spotify.com/album/4yo38BbmUi80kZOqHlRhNH) | 3:19 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 66 | [Room to Breathe](https://open.spotify.com/track/0wsxTNqJPuw4DaR9vLKif1) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Cavalier Youth \(Bonus Track Version\)](https://open.spotify.com/album/0Jc8iit7R0U4lHflud7pdA) | 3:59 |
 | 67 | ["45"](https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten](https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR) | 3:22 |
 | 68 | [Avon](https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp) | 3:25 |
-| 69 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 |
+| 69 | [Head Up](https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Head Up](https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc) | 2:49 |
 | 70 | [But Here We Are](https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:43 |
-| 71 | [Head Up](https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Head Up](https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc) | 2:49 |
+| 71 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 |
 | 72 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 |
 | 73 | [Ce n'est Rien](https://open.spotify.com/track/6KeX6s6Q2FzInw2qvnqyOh) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic \(The Complete Edition\)](https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF) | 3:00 |
 | 74 | [Next To Nothing](https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:04 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 93 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
 | 94 | [Out of the Dark and Into the Light](https://open.spotify.com/track/0Pcy2EWMH4LoP06L7yI5uY) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [From Hell to Here](https://open.spotify.com/album/0fESCRLAS064Q9a5blaLQ6) | 2:59 |
 | 95 | [Extract](https://open.spotify.com/track/481bSrhRx2fNpBrjOBMv3k) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Extract](https://open.spotify.com/album/4gpLVpRbhG0DjC7370KSlI) | 3:00 |
-| 96 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 |
-| 97 | [Uzumaki](https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Snake](https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE) | 3:31 |
+| 96 | [Uzumaki](https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Snake](https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE) | 3:31 |
+| 97 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 |
 | 98 | [Got It Bad](https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Got It Bad](https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz) | 2:58 |
 | 99 | [What’s It Take To Be Happy?](https://open.spotify.com/track/0wFr2Uk87dQY3AYKfGPZqg) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/1ZSM06t6wMNeIaNMXxCuL6) | 3:20 |
 | 100 | [Still Love](https://open.spotify.com/track/5bUNcdF18WBwCdkRNO4y5C) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:44 |
 
-Snapshot ID: `MCwxYzQwNDc1MGU3ZTRkMzc0NTQ0MGFkOTZiMGEzYzk1OTFiY2Y2MDIy`
+Snapshot ID: `MCw1NGFlMDY4NTc4ZmM1MDFiMWExYmY0YzgxNGY4MThhYTNlMTVlYzI2`

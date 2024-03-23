@@ -4,7 +4,7 @@
 
 > Sapphic songs that defined your music taste as "yearning."
 
-375 songs - 22 hr 31 min
+376 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [Never Mind](https://open.spotify.com/track/6ADGQGUtC7AVCBSS0HpaOv) | [Ry Ecko](https://open.spotify.com/artist/7D8N8A9SLE64hLNWmwJ6sY) | [Never Mind](https://open.spotify.com/album/5J1yXw01Mfmr30yMYPXiXU) | 3:51 | 2022-04-14 | 2022-05-04 |
 | [New Romance](https://open.spotify.com/track/4hv2QgIi9X2sCCw4LsjPBb) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/4TXjlsgAAdeiIZl63oMpW4) | 4:12 | 2022-01-06 | 2022-07-01 |
 | [New Romance](https://open.spotify.com/track/5ZhBx7W9rigl2vuRdT27rq) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/4uGklcCyzOko2IOYtMzUNg) | 4:12 | 2021-12-15 | 2022-01-01 |
-| [No Face](https://open.spotify.com/track/0uLlFekr8nKMj960xHKPYx) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 1:56 | 2022-02-11 |  |
+| [No Face](https://open.spotify.com/track/0uLlFekr8nKMj960xHKPYx) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 1:56 | 2022-02-11 | 2024-03-23 |
 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2021-12-15 |  |
 | [Northern Downpour](https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:07 | 2022-01-08 | 2022-05-15 |
 | [not a lot, just forever](https://open.spotify.com/track/11hEwcy9LMEvzAlOYAFhkK) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 4:10 | 2022-03-03 | 2022-04-07 |
@@ -278,6 +278,7 @@
 | [Rodeo Clown](https://open.spotify.com/track/1km9AsmFeKZpeR4VvPYsJh) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:23 | 2022-02-11 | 2022-02-25 |
 | [Ronnie's Song](https://open.spotify.com/track/6JlpXkpYISoirRTPbXUtdY) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Ronnie's Song](https://open.spotify.com/album/762wgpEIMum1F8bXrmSJWW) | 2:32 | 2022-04-06 | 2023-06-24 |
 | [Ruined](https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Ruined](https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA) | 4:32 | 2023-12-05 | 2024-03-04 |
+| [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 | 2024-03-22 |  |
 | [San Francisco](https://open.spotify.com/track/34bHZtb2hS3m4hWM3GukXW) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [San Francisco](https://open.spotify.com/album/0e03p5hyHj39m29ZPFmAsE) | 3:07 | 2022-01-06 | 2022-07-20 |
 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 | 2022-04-29 | 2024-02-13 |
 | [Sarah](https://open.spotify.com/track/0Xmz2shisTG8peoqnFj5tu) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:56 | 2021-12-15 | 2023-04-30 |

@@ -7639,6 +7639,24 @@
     },
     {
       "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/35dJsQDEr549O5DTFUy3uM"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235520,
+      "name": "Only Girl (In The World)",
+      "url": "https://open.spotify.com/track/6jAsmDJI8iPhGWtS27kZ67"
+    },
+    {
+      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },

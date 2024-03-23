@@ -2021,6 +2021,28 @@
     },
     {
       "album": {
+        "name": "Rich Rappers",
+        "url": "https://open.spotify.com/album/2SoYdGUSBOlc2tBLBW9G84"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193764,
+      "name": "Rich Rappers",
+      "url": "https://open.spotify.com/track/3AqBgjuLAErzEWVnDWxNCS"
+    },
+    {
+      "album": {
         "name": "DE CAMINO A HERMES (Deluxe)",
         "url": "https://open.spotify.com/album/4EwN5HXrC6QXxgDqLgdS1m"
       },

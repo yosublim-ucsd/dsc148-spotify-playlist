@@ -2,9 +2,9 @@
 
 ### [mint argentina](https://open.spotify.com/playlist/37i9dQZF1DXdM3ZcJzlarB)
 
-> Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Hernan Cattaneo
+> Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Mariano Mellino
 
-150 songs - 15 hr 48 min
+151 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Narita](https://open.spotify.com/track/3kkBObalFK4ZYbpK1V1aNb) | [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Resilience](https://open.spotify.com/album/0LOdLAhSPFpwUXF19fkJf6) | 8:40 | 2020-09-04 | 2023-11-18 |
 | [Nebular](https://open.spotify.com/track/05nEbg3N4biefeiuId2rRp) | [Lucas Rossi](https://open.spotify.com/artist/75eXDT5WblPtDKGRL8E1cq) | [Nebular, Pt\. 2](https://open.spotify.com/album/79nnBKVydX1ltc3Tbz2Cae) | 8:32 | 2020-09-04 | 2023-11-18 |
 | [Nebular](https://open.spotify.com/track/3U73eYzHzimwCEJ0bTlJ8U) | [Lucas Rossi](https://open.spotify.com/artist/75eXDT5WblPtDKGRL8E1cq) | [Nebular, Pt\. 2](https://open.spotify.com/album/7tjm1KoQMe0xnz2DC6ZAry) | 8:32 | 2020-09-04 | 2022-07-29 |
+| [Never Enough](https://open.spotify.com/track/6SGldTrSqWGFXiRCHJBDZZ) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6), [Gio Santi](https://open.spotify.com/artist/7F57JJSLjR39pwgOF0RFAA) | [Never Enough](https://open.spotify.com/album/7cwSDn7XGORRgGgJSHHV8q) | 6:38 | 2024-03-22 |  |
 | [Nico Valdi produciendo a Ruggero y Bernardita](https://open.spotify.com/track/08S5L7YbAGwNxDJJ9yU9ZK) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Bernardita Sonzini](https://open.spotify.com/artist/1Sdd0GHzVVAXY9nZOuvsrL) | [Nico Valdi produciendo a Ruggero y Bernardita](https://open.spotify.com/album/33ekTyVf1xcrbvEof3WClm) | 2:43 | 2024-02-02 |  |
 | [Not Need It](https://open.spotify.com/track/3JpR5yPvDNApZeLojtnDR8) | [Josefina Muñoz](https://open.spotify.com/artist/4Sgool8oQXvdpcjQIrS0RO) | [Parasol Palm](https://open.spotify.com/album/1sotqkFkgrgXkspn2Xqrzi) | 7:15 | 2024-01-05 |  |
 | [Oceans](https://open.spotify.com/track/1tRY7bFvl7nNBTKe3Yusia) | [Santiago Garcia](https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS) | [Came to Reality EP](https://open.spotify.com/album/4mq11SIe9O3SCwMuEIFMcc) | 6:31 | 2020-09-04 | 2023-11-18 |
@@ -156,7 +157,7 @@
 | [You Don't Know](https://open.spotify.com/track/1PaVczlSkOZ4e2Hp5ox0ll) | [Anita Hagen](https://open.spotify.com/artist/2G8ZkBX7u7S04hK7XzeRuv), [Sampled Wax](https://open.spotify.com/artist/7aznMld6jkOEc7PSVN5kHf) | [Who Taught You?](https://open.spotify.com/album/1aPN381EwCm9lXRa8nNB4y) | 5:56 | 2024-03-01 |  |
 | [Yourself](https://open.spotify.com/track/0gqRo4CEhOelcTli6HrzN5) | [Agus Zack](https://open.spotify.com/artist/5lgGTdDt54gaRQqbbOsnwK), [Toni Costanzi](https://open.spotify.com/artist/4aBVngE7ykpEkvJaHJbywT), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Yourself](https://open.spotify.com/album/6e016qtkfE5gDDEPD7SzN5) | 2:07 | 2024-01-05 |  |
 | [Z9000](https://open.spotify.com/track/6CDk75qbkpKJTeCiGh0Bbu) | [BRYCHTTA](https://open.spotify.com/artist/11d0mQkJbUfW6S0g0Ka3KS), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [Jose Bonetto](https://open.spotify.com/artist/4S7xNOFAEJGGEuiF2C6AIY) | [Z9000](https://open.spotify.com/album/7wBShNPnT8Tp8Lth4WXfZc) | 5:30 | 2024-03-01 |  |
-| [¿De Qué Sirve?](https://open.spotify.com/track/0nj6RDxpCQOBawgxFzYLEm) | [Amelia](https://open.spotify.com/artist/54DOvUaX10WtpRddMhbI4P), [Lnt\. Noire](https://open.spotify.com/artist/6iQaNTW8QA5orel0VJRkGt) | [ONÍRIKA](https://open.spotify.com/album/6QLEJbuQAJnC8u62fMpr0b) | 4:40 | 2023-11-17 |  |
+| [¿De Qué Sirve?](https://open.spotify.com/track/0nj6RDxpCQOBawgxFzYLEm) | [Amelia](https://open.spotify.com/artist/54DOvUaX10WtpRddMhbI4P), [Lnt\. Noire](https://open.spotify.com/artist/6iQaNTW8QA5orel0VJRkGt) | [ONÍRIKA](https://open.spotify.com/album/6QLEJbuQAJnC8u62fMpr0b) | 4:40 | 2023-11-17 | 2024-03-23 |
 | [Óxido](https://open.spotify.com/track/0EL6TLGSGVInCuTlFQesWD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Óxido](https://open.spotify.com/album/5WqBhwKHsjcQyImgRtHt59) | 2:54 | 2023-12-07 |  |
 
 \*This playlist was first scraped on 2022-06-15. Prior content cannot be recovered.

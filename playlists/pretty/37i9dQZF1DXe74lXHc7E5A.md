@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Luciano and Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,415 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,424 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 38 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 |
 | 39 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 |
 | 40 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 |
-| 41 | [Pressure](https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX) | [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J) | [Pressure](https://open.spotify.com/album/2WNtJ2E9Y7BRSYmXtiZ5F1) | 2:44 |
-| 42 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 |
+| 41 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 |
+| 42 | [Pressure](https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX) | [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J) | [Pressure](https://open.spotify.com/album/2WNtJ2E9Y7BRSYmXtiZ5F1) | 2:44 |
 | 43 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 |
 | 44 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 |
 | 45 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 52 | [Ambition For Cash](https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Ambition For Cash](https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9) | 2:23 |
 | 53 | [Big 7](https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:23 |
 | 54 | [Trojan Horse](https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 4:08 |
-| 55 | [Thang For You \(feat\. NoCap\)](https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 4:19 |
-| 56 | [bread & butter](https://open.spotify.com/track/7IqsNN0EMckx9YqddgXlwg) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:46 |
+| 55 | [bread & butter](https://open.spotify.com/track/7IqsNN0EMckx9YqddgXlwg) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:46 |
+| 56 | [Thang For You \(feat\. NoCap\)](https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 4:19 |
 | 57 | [Home Alone \(with J\. Cole\)](https://open.spotify.com/track/0Fg88OWOdERXLMDcTWYwjf) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [We Only Talk About Real Shit When We're Fucked Up](https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk) | 3:29 |
 | 58 | [Greatness](https://open.spotify.com/track/2eN0rxTtgxKkmVCNgizayr) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Greatness](https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p) | 3:05 |
 | 59 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 |
 | 60 | [DOG EAT DOG II \(feat\. Cruel Santino and Bella Shmurda\)](https://open.spotify.com/track/3EfMWIEGQB24dQv5x4Hwvx) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 4:00 |
 
-Snapshot ID: `MCxjNjE4ZWQwMWQ3MDUwNDdjZjhhYzRhNTI5YWI3YTU4YTE0MjIyYzg5`
+Snapshot ID: `MCw1MDJiMDU4Y2E3ZTRiMjM2NmI3MzQ1YWExZmY5OTlhY2E2NDY2ZDc0`

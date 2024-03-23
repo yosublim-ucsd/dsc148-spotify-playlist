@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,934 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,224 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 19 | [내 맘을 볼 수 있나요](https://open.spotify.com/track/2oVHb8wyg6oC2iNpGBNvx1) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hotel del Luna \(Original Television Soundtrack\) Pt.5](https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5) | 3:45 |
 | 20 | [Day & Night](https://open.spotify.com/track/0JlYPewyE0Cs5rkUCsWqgy) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [START\-UP \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/2syAapNLqkGguLZr8PZubk) | 4:20 |
 | 21 | [미래](https://open.spotify.com/track/1HZR7A1UE9vBu24j9bZNN7) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0Cp4RcGMELipXIAye8AxFN) | 3:35 |
-| 22 | [Running](https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6S327htVJnBi9GGZjUInui) | 3:29 |
-| 23 | [Sunset](https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I) | 3:36 |
+| 22 | [Sunset](https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I) | 3:36 |
+| 23 | [Running](https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6S327htVJnBi9GGZjUInui) | 3:29 |
 | 24 | [Flower](https://open.spotify.com/track/2m5Ex34NOwIWOwHthEqLco) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3RJg3rTiDi2r9HJTkARqy4) | 4:12 |
 | 25 | [Here Always](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [Hometown Cha\-Cha\-Cha, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc) | 4:14 |
 | 26 | [If It Is You](https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Another Miss Oh, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr) | 4:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 49 | [Stardust love song](https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 |
 | 50 | [Who Are You](https://open.spotify.com/track/7Jo5oEViT27zCkdRI5hEuG) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Guardian \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/6O4EixqImEZRPjS96H5ppp) | 4:15 |
 
-Snapshot ID: `MCxlOTk2YmRiYTg1MzA0MjVhZGQ4ODcwMjUyY2FmZDIxMDZlZDhlNzY1`
+Snapshot ID: `MCxhNGI3YWRhMDU4ODJhMGFjZTJhOTNlNjNkYjY4MWE5M2JjOWM1Njg0`

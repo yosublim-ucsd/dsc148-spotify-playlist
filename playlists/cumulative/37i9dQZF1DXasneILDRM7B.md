@@ -2,7 +2,7 @@
 
 ### [Pure Pop Punk](https://open.spotify.com/playlist/37i9dQZF1DXasneILDRM7B)
 
-> Please stand for your personal anthems\. Cover: blink\-182
+> Please stand for your personal anthems\. Cover: My Chemical Romance
 
 374 songs - 20 hr 36 min
 
@@ -17,7 +17,7 @@
 | [A New Way Home](https://open.spotify.com/track/4bIZ9j4SHomHdcTjh2rfhc) | [Sleep On It](https://open.spotify.com/artist/5FmgqLlJ8MJ9A8zmOPFxK2) | [Overexposed](https://open.spotify.com/album/6p6S6vJY9V2Rd22BO9VZFn) | 3:19 | 2022-04-08 | 2022-04-20 |
 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 | 2022-04-08 | 2022-11-13 |
 | [Above Me](https://open.spotify.com/track/45ZjRrEFgHJhCQ72qKDeem) | [Rufio](https://open.spotify.com/artist/0HjoyITAvSVktTCjXUa40Q) | [Perhaps, I Suppose](https://open.spotify.com/album/0mKXj9hXclmhvassTP0LCw) | 3:11 | 2022-04-08 | 2022-04-19 |
-| [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:11 | 2021-09-02 |  |
+| [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:11 | 2021-09-02 | 2024-03-23 |
 | [Addicted](https://open.spotify.com/track/1B8MHa0NveCF1ViBEOZWO5) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:52 | 2023-02-10 |  |
 | [Adrenaline](https://open.spotify.com/track/5vxX2POnp7NBbaCAIVQix7) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L) | 3:21 | 2021-09-02 | 2022-07-26 |
 | [Afloat](https://open.spotify.com/track/3eI3DS4MyOBMwJ40NmccM7) | [The Gospel Youth](https://open.spotify.com/artist/5EWAtvRDy8I6sSYlMjD6g0) | [Thoughtless](https://open.spotify.com/album/1Xix18mrxKexVrOhEyfsU5) | 4:02 | 2022-04-08 | 2022-04-21 |
@@ -136,7 +136,7 @@
 | [Girl](https://open.spotify.com/track/0Mk38pvAxRIUCwGZkysjyP) | [Brand New Friend](https://open.spotify.com/artist/7iWAQPQTaX1BV0IYFbxKoU) | [Girl](https://open.spotify.com/album/6qeuWLyw1PqjQCzFC7yotB) | 1:59 | 2022-04-08 | 2022-04-21 |
 | [Girl All the Bad Guys Want](https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 3:17 | 2021-09-02 |  |
 | [Girl's Not Grey](https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:10 | 2022-04-08 |  |
-| [Girls & Boys](https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 3:03 | 2022-04-08 | 2024-03-19 |
+| [Girls & Boys](https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 3:03 | 2022-04-08 |  |
 | [Give It Up](https://open.spotify.com/track/15VojnPQuAQleWQCBkcS5i) | [Midtown](https://open.spotify.com/artist/5dePEjHD5QEEKixOHXuRRA) | [Forget What You Know](https://open.spotify.com/album/0kzHDUWg9XKx5ianlRedvu) | 3:39 | 2022-04-08 | 2022-04-21 |
 | [Give It Up](https://open.spotify.com/track/0FRUhNCLnUdGcJaGVFemLE) | [Midtown](https://open.spotify.com/artist/5dePEjHD5QEEKixOHXuRRA) | [Spider\-Man 2 \- Music From And Inspired By](https://open.spotify.com/album/0Cm6TwWq8MNDdGlbp6UVm9) | 3:41 | 2022-04-08 | 2022-04-13 |
 | [Give Me What I Want](https://open.spotify.com/track/2kzh7e2hub4zy27uXizWJU) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [Smart Casual](https://open.spotify.com/album/4OywRjQqYTKzJP7SHQLxqx) | 3:19 | 2022-04-08 | 2022-04-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 
 > A blend of the best from years past—from indie folk and pop grass to roots rock and Americana\. Cover: The Lumineers
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,736 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,779 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 45 | [Blood Bank](https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 4:45 |
 | 46 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 |
 | 47 | [Call Me](https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 2:51 |
-| 48 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
+| 48 | [Turtles All the Way Down](https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 3:08 |
 | 49 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 |
-| 50 | [Turtles All the Way Down](https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 3:08 |
+| 50 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
 | 51 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
 | 52 | [Song for Zula](https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 6:10 |
 | 53 | [The Only Thing](https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:44 |
@@ -69,15 +69,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 59 | [Stronger Than That](https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 2:37 |
 | 60 | [Lost in My Mind](https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:19 |
 | 61 | [Without a Light](https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Without a Light](https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR) | 2:22 |
-| 62 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
-| 63 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
+| 62 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
+| 63 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
 | 64 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
 | 65 | [Not Dead Yet](https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 2:57 |
 | 66 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
 | 67 | [1957](https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w) | [Milo Greene](https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF) | [Milo Greene](https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w) | 3:24 |
 | 68 | [Your Rocky Spine](https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Ongiara](https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI) | 3:36 |
-| 69 | [Love is All](https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco) | 4:15 |
-| 70 | [When U Love Somebody](https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Mouthfuls](https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2) | 4:31 |
+| 69 | [When U Love Somebody](https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Mouthfuls](https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2) | 4:31 |
+| 70 | [Love is All](https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco) | 4:15 |
 | 71 | [Colder Heavens](https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens \- EP](https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA) | 4:33 |
 | 72 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 |
 | 73 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 82 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 |
 | 83 | [All Is Well](https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [You and Me for Now](https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4) | 4:16 |
 | 84 | [Stolen Love](https://open.spotify.com/track/30EGaJNnfgjUuw8kj8fuem) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Motel Mayday](https://open.spotify.com/album/6pD4TWDrwVvOeC9FxUfRpS) | 3:43 |
-| 85 | [A Trick of the Light](https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Art Of Pretending To Swim](https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU) | 4:08 |
-| 86 | [House of Stone](https://open.spotify.com/track/7cpYEWqP3ayUzP8VNdMhtm) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [This Side of Jordan](https://open.spotify.com/album/7qvtiRY9SJJaLhAOsghPhr) | 3:16 |
+| 85 | [House of Stone](https://open.spotify.com/track/7cpYEWqP3ayUzP8VNdMhtm) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [This Side of Jordan](https://open.spotify.com/album/7qvtiRY9SJJaLhAOsghPhr) | 3:16 |
+| 86 | [A Trick of the Light](https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Art Of Pretending To Swim](https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU) | 4:08 |
 | 87 | [After Rain](https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [After Rain](https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA) | 4:54 |
 | 88 | [Thirteen Sad Farewells](https://open.spotify.com/track/4hcEsAXv3vAcUsRT4Tgd1H) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Vagabond](https://open.spotify.com/album/3uphRkVItHVdeK9EVStwiM) | 2:45 |
 | 89 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 99 | [Emmylou](https://open.spotify.com/track/2bU3gg0M8GGBs7ItBKsJX9) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Lion's Roar](https://open.spotify.com/album/2ClpsMzeeVVoevHkK2N1vs) | 4:18 |
 | 100 | [Louise](https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Dark Holler Pop](https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm) | 4:24 |
 
-Snapshot ID: `MCwzYTNiZjQ1M2RmZTIyMjMxZjNiZDFmY2JkYTMwNzNmN2Q5NTRlNWIx`
+Snapshot ID: `MCw3OTY5Njk5ZDY0NGNmZTEwNzRlOWZlYzZjYzFjZGQ0NmI4ZmM4ZDk2`

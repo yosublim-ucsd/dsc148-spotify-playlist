@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Indie jams that sound like lounging under the sun with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,694 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,745 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 81 | [My Body ft Your Lips](https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:53 |
 | 82 | [peppermint](https://open.spotify.com/track/7EBungIZdfO2SgFxqFtGfE) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/00xJmSdJgpfCZ3MFz4sZQQ) | 2:12 |
 | 83 | [Trouble On Central](https://open.spotify.com/track/3tsFWhe45D6CGFSMA77T3B) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Harlan & Alondra](https://open.spotify.com/album/5djciKtjqkY9ZQ1OhKICXN) | 3:07 |
-| 84 | [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 |
-| 85 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 |
+| 84 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 |
+| 85 | [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 |
 | 86 | [Something For Your M.I.N.D.](https://open.spotify.com/track/47wq2z7KMHDRnoSMdZODUA) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Something For Your M.I.N.D.](https://open.spotify.com/album/2FlD0ta44kkFbIvwa4uDeP) | 2:45 |
 | 87 | [I'm Just Snacking](https://open.spotify.com/track/12jmugLskEWmYRLKYfMNSk) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm Just Snacking](https://open.spotify.com/album/1OxhOd3oy8xQJ818M3mQS2) | 3:18 |
 | 88 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 99 | [Who Am I But Someone](https://open.spotify.com/track/2aIMQ8exqALB45htgOenLF) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:42 |
 | 100 | [Luvaroq](https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 3:40 |
 
-Snapshot ID: `MCxiOTlhYmI3YjhmMzEwNDljMWFjYTUyODNhYzY0YmUwZDhhNTFkNWEw`
+Snapshot ID: `MCxiMDE3OTM3M2RhMThjYTljNjE5OTEwNzJkNWY1M2QwODVmMTFlZTg2`

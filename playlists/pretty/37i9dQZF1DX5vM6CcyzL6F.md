@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 
 > Si la salsa se cruza con la chamba..\. ¡súbele a la bocina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 144 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 277 likes - 144 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 28 | [Amores Como el Nuestro](https://open.spotify.com/track/3WLXf7K7mIGEBtFq41afce) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [10 De Coleccion](https://open.spotify.com/album/4l7BTfiKsjv1DoReRxxySR) | 5:02 |
 | 29 | [Fabricando Fantasías \- Salsa Version](https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Fabricando Fantasías](https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8) | 4:32 |
 | 30 | [No Quería Engañarte](https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Que Suenen los Tambores](https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH) | 4:32 |
-| 31 | [Mi Media Mitad](https://open.spotify.com/track/0vffx55ffXHq2bz0yKlZiM) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [20th Anniversary](https://open.spotify.com/album/02IhbBURLOQ1PiaDODuHfW) | 4:52 |
-| 32 | [Que Alguien Me Diga](https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Expresion](https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3) | 4:50 |
+| 31 | [Que Alguien Me Diga](https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Expresion](https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3) | 4:50 |
+| 32 | [Mi Media Mitad](https://open.spotify.com/track/0vffx55ffXHq2bz0yKlZiM) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [20th Anniversary](https://open.spotify.com/album/02IhbBURLOQ1PiaDODuHfW) | 4:52 |
 | 33 | [Caricias Prohibidas](https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/4xyafxVu1q9xRQ5qtMlBkb) | 5:21 |
 | 34 | [Cali Pachanguero](https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 5:10 |
 | 35 | [Si Volvieras A Mi](https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo De Amor](https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl) | 4:50 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 59 | [Que Bueno Baila Usted](https://open.spotify.com/track/1R8upiSmv7U1rRv0qqvIbS) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Llego La Salsa](https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI) | 3:36 |
 | 60 | [De Punta a Punta](https://open.spotify.com/track/21SlXIY6FZw7RcMqLRm901) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Grandes Éxitos Grupo Caneo, Vol\. 1](https://open.spotify.com/album/3j4M5k6i3DA7fxfHXasvSp) | 4:21 |
 | 61 | [Un Monton De Estrellas](https://open.spotify.com/track/6aRaqc6pTMrm530rf7uL0S) | [Polo Montañez](https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz) | [Memoria](https://open.spotify.com/album/1GoscVGngfCuRuqRtv1hZP) | 6:04 |
-| 62 | [Maria Teresa y Danilo](https://open.spotify.com/track/5D1P4P7IxymGprWdbaq8N4) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Siempre Charanga](https://open.spotify.com/album/5LRCh0vhclTfXIwnPaU7Az) | 4:47 |
-| 63 | [Sombra Loca](https://open.spotify.com/track/7hqI73OXybfZ6FV9O4WrNs) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Auténtico](https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov) | 4:49 |
+| 62 | [Sombra Loca](https://open.spotify.com/track/7hqI73OXybfZ6FV9O4WrNs) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Auténtico](https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov) | 4:49 |
+| 63 | [Maria Teresa y Danilo](https://open.spotify.com/track/5D1P4P7IxymGprWdbaq8N4) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Siempre Charanga](https://open.spotify.com/album/5LRCh0vhclTfXIwnPaU7Az) | 4:47 |
 | 64 | [Si Supiera](https://open.spotify.com/track/6edMEekESIWsXZrs8GRoOb) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 4:12 |
 | 65 | [Por Qué Será?](https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z) | [Alvaro Ricardo](https://open.spotify.com/artist/0fbbEqifegSE79DPPgeg8f) | [Mi Razón de Ser](https://open.spotify.com/album/0CdhFwicPfGBbNQx7qdCx7) | 4:21 |
 | 66 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 |
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 116 | [Cuenta Conmigo](https://open.spotify.com/track/7o47d8KqRqxbL7NloJvjwd) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Amores Como El Nuestro...Los Exitos](https://open.spotify.com/album/3AOCGCilv8dBhnxWqraZA9) | 3:50 |
 | 117 | [Tu Cariñito](https://open.spotify.com/track/7cl1jhPW0kwvvrI0YwOkEC) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Hot Latin Tracks](https://open.spotify.com/album/1EjKhZdCc1bZNeyza5tlV5) | 4:11 |
 | 118 | [Ven Devórame Otra Vez](https://open.spotify.com/track/7yM4UpoZQfOHcBSiUNSoIt) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Rumba y Salsa](https://open.spotify.com/album/78WM88T2XCWUKhmeyqIOdF) | 5:14 |
-| 119 | [Quien Entiende Este Amor](https://open.spotify.com/track/5vKDFddvHFxGEPFo2ndV86) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Lo Esencial](https://open.spotify.com/album/1CrXMKjnYIicPAJCdSiZaD) | 5:04 |
-| 120 | [Apiádate de Mi](https://open.spotify.com/track/6bRCaBDdiooh14QUiuWjfb) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Sonero de la Juventud..\. Salsero Original](https://open.spotify.com/album/2SIh1G5RFQKYWhRfGXXpnA) | 5:04 |
+| 119 | [Apiádate de Mi](https://open.spotify.com/track/6bRCaBDdiooh14QUiuWjfb) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Sonero de la Juventud..\. Salsero Original](https://open.spotify.com/album/2SIh1G5RFQKYWhRfGXXpnA) | 5:04 |
+| 120 | [Quien Entiende Este Amor](https://open.spotify.com/track/5vKDFddvHFxGEPFo2ndV86) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Lo Esencial](https://open.spotify.com/album/1CrXMKjnYIicPAJCdSiZaD) | 5:04 |
 | 121 | [Como Te Hago Entender](https://open.spotify.com/track/6b4PztUwQkjHN1vhOSQyof) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/0N21jvVbGBjUhoflksOfsK) | 5:44 |
 | 122 | [Hazme Olvidarla](https://open.spotify.com/track/7GGDV8k7D99gNbFkEQo89s) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [La Hora De La Salsa](https://open.spotify.com/album/1znjPKdL13lrzu9odiTKyx) | 5:34 |
 | 123 | [Ese](https://open.spotify.com/track/6IYAUfaukZUjEP1zi2gjdn) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Evolución](https://open.spotify.com/album/0amJBy02Venc60GFjt7ytH) | 3:32 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 132 | [Casi un Hechizo](https://open.spotify.com/track/702rGTYoMhRSHStEI9loje) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Amores Como El Nuestro...Los Exitos](https://open.spotify.com/album/3AOCGCilv8dBhnxWqraZA9) | 3:45 |
 | 133 | [Se Acabó el Amor](https://open.spotify.com/track/7nxoTSiir8y3vF8HPhFmQ9) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Búscame](https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj) | 4:01 |
 | 134 | [Se Pareció Tanto a Ti](https://open.spotify.com/track/36CmpO4k6RCa410JCgn3Er) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:28 |
-| 135 | [El Gran Varon](https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Legal Alien \- Top Secrets](https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ) | 6:54 |
-| 136 | [Ahora Entregate](https://open.spotify.com/track/1PX148jfoix6o4reLZbplc) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Entregate](https://open.spotify.com/album/4E6qUXYKMpabevZvHDYYxS) | 4:30 |
+| 135 | [Ahora Entregate](https://open.spotify.com/track/1PX148jfoix6o4reLZbplc) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Entregate](https://open.spotify.com/album/4E6qUXYKMpabevZvHDYYxS) | 4:30 |
+| 136 | [El Gran Varon](https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Legal Alien \- Top Secrets](https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ) | 6:54 |
 | 137 | [Tú Me Haces Falta](https://open.spotify.com/track/7zYbsxjRlZgJO2H6HJzgvC) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Salsa Buenaza](https://open.spotify.com/album/0JHeYGXv7slRTTRcBr6jl6) | 4:39 |
 | 138 | [Me Fallaste](https://open.spotify.com/track/6irnHSTORkdgw13lwscY9d) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie 32 : Eddie Santiago](https://open.spotify.com/album/0bmXT2b5Rl5mddzk182Aoj) | 5:04 |
 | 139 | [Será Qué SÍ](https://open.spotify.com/track/7G5X7EyoPEEfH3QGnVNhaB) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Maelo Ruiz… The Romantic Salsa Idol](https://open.spotify.com/album/4hMO3pqX1IXsVKrX1e60W6) | 4:35 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 143 | [Este Amor](https://open.spotify.com/track/6R2wZgxaYxCzOezBqJbi1g) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:40 |
 | 144 | [Borinquen](https://open.spotify.com/track/3LT2EX3RJEJzq1fBSqu67p) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Esencia De La Fania](https://open.spotify.com/album/2Nd7MbIshLGbKOy4RKApeo) | 3:15 |
 
-Snapshot ID: `MCw3MDA3YmQ0MDRkMjFmNzAzYjUwYTg3ODJmYWZlMmQ4ZjVhOTFhOGE4`
+Snapshot ID: `MCw5MzRmZGY2ODYwODEyMTAwMmZjNmY0ZTM1NGYxMGFiOGRkZTJhMzFj`

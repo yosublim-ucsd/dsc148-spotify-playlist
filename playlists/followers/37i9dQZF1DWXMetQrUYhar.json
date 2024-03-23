@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 106193,
+  "2024-03-23": 106202,
   "date_first_scraped": "2022-01-25",
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
   "name": "Spotify Singles: Indie & Alternative",
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 181828,
       "name": "f*ck everything! - Spotify Singles (feat. The Drums)",
       "url": "https://open.spotify.com/track/3oE4zL430c18NuiRWDHRLY"
@@ -2821,7 +2821,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 158048,
       "name": "Nothing Scares Me - Spotify Singles",
       "url": "https://open.spotify.com/track/1s2MMnIR3TYcujFBpNwVQ6"

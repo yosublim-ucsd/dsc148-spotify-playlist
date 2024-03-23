@@ -141,6 +141,24 @@
     },
     {
       "album": {
+        "name": "Amor Na Praia",
+        "url": "https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156150,
+      "name": "Amor Na Praia",
+      "url": "https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF"
+    },
+    {
+      "album": {
         "name": "Anestesiado (Ao Vivo)",
         "url": "https://open.spotify.com/album/1SzYchODhkUqPcSNR2HKh0"
       },
@@ -502,7 +520,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 199827,
       "name": "DEJA VU",
       "url": "https://open.spotify.com/track/2IDf0IZ9dfw0uDYV2n1bJc"
@@ -652,6 +670,24 @@
       "duration_ms": 173370,
       "name": "Dois Fugitivos - Ao Vivo",
       "url": "https://open.spotify.com/track/4YKujFSyakVjLdH1sDllVc"
+    },
+    {
+      "album": {
+        "name": "Cantando Sua Hist\u00f3ria (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Dois Tristes - Ao Vivo",
+      "url": "https://open.spotify.com/track/4kQbzdZLAeqlrw3y7o4k3i"
     },
     {
       "album": {
@@ -932,7 +968,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 125592,
       "name": "Lembra Aquele Cara",
       "url": "https://open.spotify.com/track/4O4zPFoJ5HWnqbGYlCA2qc"
@@ -1164,7 +1200,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 167786,
       "name": "Macetando",
       "url": "https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO"
@@ -1364,10 +1400,44 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 163671,
       "name": "Morena - Ao Vivo",
       "url": "https://open.spotify.com/track/0KqVaOxvmYJMz10w3SbiaV"
+    },
+    {
+      "album": {
+        "name": "Mtg Quero Te Encontrar",
+        "url": "https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh"
+      },
+      "artists": [
+        {
+          "name": "DJ JZ",
+          "url": "https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB"
+        },
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        },
+        {
+          "name": "Mc Mininin",
+          "url": "https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE"
+        },
+        {
+          "name": "DJ LG PROD",
+          "url": "https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA"
+        },
+        {
+          "name": "Silvanno Salles",
+          "url": "https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Mtg Quero Te Encontrar",
+      "url": "https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c"
     },
     {
       "album": {
@@ -2136,6 +2206,28 @@
       "duration_ms": 177327,
       "name": "T\u00f4 Voltando - Ao Vivo",
       "url": "https://open.spotify.com/track/2cpVTiwTPN1FTUeQkVoxTS"
+    },
+    {
+      "album": {
+        "name": "Hist\u00f3rico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1fA0yfbQI2jqxhhSwUWUeH"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Henrique & Gabriel",
+          "url": "https://open.spotify.com/artist/5Dyg6H3QJHQV5c7ojyKWyv"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Um Louco - Ao Vivo",
+      "url": "https://open.spotify.com/track/4q6ceiG7CrOVppLHGGjonv"
     },
     {
       "album": {

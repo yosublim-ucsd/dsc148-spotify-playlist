@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 47225,
+  "num_followers": 47241,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTQxZGU2NDdmZTNjMDkxODZmNTY4NTFkMWM0YjcyMjlmZGNlOGIz",
+  "snapshot_id": "MCxkNTVhNTRkZGUwNDExODIzOTU0YTlmNDZkNGU3YmQ3ZDVmNDY5MmZk",
   "tracks": [
     {
       "added_at": "2022-11-04 13:17:00",
@@ -603,6 +603,30 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann.: Lied Edition, Vol. 5: Frauenliebe Und -Leben, Op. 42 - Gedichte Der Konigin Maria Stuart, Op. 135 - 7 Lieder, Op. 104",
+        "url": "https://open.spotify.com/album/58cWPG3vuU5tWsuNBHjJCz"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sibylla Rubens",
+          "url": "https://open.spotify.com/artist/7DimmxPVE900gITx8gLiu8"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "duration_ms": 108253,
+      "name": "7 Lieder, Op. 104: No. 6, Die letzten Blumen starben",
+      "url": "https://open.spotify.com/track/0yo0vw091q0O4zQZm7PhaR"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schumann",
         "url": "https://open.spotify.com/album/3ckSyqB9V7Po09OD2jYLf5"
       },
@@ -631,54 +655,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann.: Lied Edition, Vol. 5: Frauenliebe Und -Leben, Op. 42 - Gedichte Der Konigin Maria Stuart, Op. 135 - 7 Lieder, Op. 104",
-        "url": "https://open.spotify.com/album/58cWPG3vuU5tWsuNBHjJCz"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Sibylla Rubens",
-          "url": "https://open.spotify.com/artist/7DimmxPVE900gITx8gLiu8"
-        },
-        {
-          "name": "Uta Hielscher",
-          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
-        }
-      ],
-      "duration_ms": 108253,
-      "name": "7 Lieder, Op. 104: No. 6, Die letzten Blumen starben",
-      "url": "https://open.spotify.com/track/0yo0vw091q0O4zQZm7PhaR"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann: Piano Quintet - String Quartets 1-3",
-        "url": "https://open.spotify.com/album/0QXuIPV4wTatxg7ZmAvYBc"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Christian Zacharias",
-          "url": "https://open.spotify.com/artist/7euAAWjiEIEo1a2XkkR7wZ"
-        },
-        {
-          "name": "Cherubini-Quartett",
-          "url": "https://open.spotify.com/artist/6EPNMsR0Cs0DXIvwHWXyq3"
-        }
-      ],
-      "duration_ms": 460960,
-      "name": "Schumann: Piano Quintet in E-Flat Major, Op. 44: IV. Allegro, ma non troppo",
-      "url": "https://open.spotify.com/track/3bhbdUcr5UeEDYdzqjRLwi"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: The Symphonies",
         "url": "https://open.spotify.com/album/0mPFNFmftItN3rF566s1nM"
       },
@@ -699,6 +675,30 @@
       "duration_ms": 709466,
       "name": "Symphony No. 4 in D Minor, Op. 120: I. Ziemlich langsam - Lebhaft",
       "url": "https://open.spotify.com/track/5MgPesNBFwhIy5iVRbknLO"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Symphony No.4 In D Minor, Op.120 / Dvorak: Symphony No. 8 In G Major, Op. 88",
+        "url": "https://open.spotify.com/album/7jYg0obdjvMG4JcF6ptMWm"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "duration_ms": 289400,
+      "name": "Symphony No. 4 In D Minor, Op. 120: 2. Romanze (Ziemlich langsam)",
+      "url": "https://open.spotify.com/track/3c2yscx4AaNQtgW24uF3Yg"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -731,8 +731,8 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Symphony No.4 In D Minor, Op.120 / Dvorak: Symphony No. 8 In G Major, Op. 88",
-        "url": "https://open.spotify.com/album/7jYg0obdjvMG4JcF6ptMWm"
+        "name": "Schumann: Piano Quintet - String Quartets 1-3",
+        "url": "https://open.spotify.com/album/0QXuIPV4wTatxg7ZmAvYBc"
       },
       "artists": [
         {
@@ -740,17 +740,17 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+          "name": "Christian Zacharias",
+          "url": "https://open.spotify.com/artist/7euAAWjiEIEo1a2XkkR7wZ"
         },
         {
-          "name": "Herbert von Karajan",
-          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+          "name": "Cherubini-Quartett",
+          "url": "https://open.spotify.com/artist/6EPNMsR0Cs0DXIvwHWXyq3"
         }
       ],
-      "duration_ms": 289400,
-      "name": "Symphony No. 4 In D Minor, Op. 120: 2. Romanze (Ziemlich langsam)",
-      "url": "https://open.spotify.com/track/3c2yscx4AaNQtgW24uF3Yg"
+      "duration_ms": 460960,
+      "name": "Schumann: Piano Quintet in E-Flat Major, Op. 44: IV. Allegro, ma non troppo",
+      "url": "https://open.spotify.com/track/3bhbdUcr5UeEDYdzqjRLwi"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
-        "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 332160,
-      "name": "Arabeske in C Major, Op. 18",
-      "url": "https://open.spotify.com/track/15BPdDo1pKfq4nyxIcMpdC"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann, R.: Piano Sonata No. 2 / Nachtstucke / Arabeske",
         "url": "https://open.spotify.com/album/23V6eDmrJMIgryHYYJQ0Kb"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 374533,
       "name": "Presto passionato",
       "url": "https://open.spotify.com/track/4UpIfrd4UaEw94BDwjD516"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
+        "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 332160,
+      "name": "Arabeske in C Major, Op. 18",
+      "url": "https://open.spotify.com/track/15BPdDo1pKfq4nyxIcMpdC"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Piano Recital: Kotaro Fukuma",
-        "url": "https://open.spotify.com/album/67NnX49VmU1rb1oQeJJPiH"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Kotaro Fukuma",
-          "url": "https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK"
-        }
-      ],
-      "duration_ms": 417866,
-      "name": "Theme and Variations on the name Abegg, Op. 1: Abegg Variations, Op. 1",
-      "url": "https://open.spotify.com/track/10MXyf1e2wktLfzvHRHVGD"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann, R.: Dichterliebe, Op. 48 / Liederkreis, Op. 39",
         "url": "https://open.spotify.com/album/5En6DGCjjYAZqLZ39egU8A"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 116200,
       "name": "Liederkreis, Op. 39: In der Fremde",
       "url": "https://open.spotify.com/track/4kStvokm1k1PFT5mTuoU1B"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Piano Recital: Kotaro Fukuma",
+        "url": "https://open.spotify.com/album/67NnX49VmU1rb1oQeJJPiH"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Kotaro Fukuma",
+          "url": "https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK"
+        }
+      ],
+      "duration_ms": 417866,
+      "name": "Theme and Variations on the name Abegg, Op. 1: Abegg Variations, Op. 1",
+      "url": "https://open.spotify.com/track/10MXyf1e2wktLfzvHRHVGD"
     },
     {
       "added_at": "2022-11-04 13:17:00",

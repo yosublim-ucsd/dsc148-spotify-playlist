@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Nathan Galante en portada.
 
-387 songs - 20 hr 28 min
+388 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Dejalo Ir](https://open.spotify.com/track/0IWbhl9q9HISium2adh6h2) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 2:57 | 2022-07-12 |  |
 | [Dejalo Ir](https://open.spotify.com/track/2f1u0yTIYN95nmScvQmZiQ) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed](https://open.spotify.com/album/1r0GC7OLM12sPncbIMWiUC) | 2:57 | 2022-07-01 | 2022-07-29 |
 | [Desconocidos](https://open.spotify.com/track/6vqxgzdGmImW9hrx2IN7VP) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Desconocidos](https://open.spotify.com/album/6hx48VB6skQ8sDAy6hyVSi) | 2:18 | 2023-08-25 | 2023-09-19 |
+| [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/2VhYFNgH2oNn4N92YGwLnu) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/4YT0dtOM9IDdAfFONKmazN) | 1:53 | 2024-03-19 |  |
 | [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 | 2023-03-17 | 2024-03-22 |
 | [Dime](https://open.spotify.com/track/232eCrpYvra59HVubildeC) | [Rodolfo Villanueva](https://open.spotify.com/artist/6tXFn2NW89rBis7wanStos) | [Dime](https://open.spotify.com/album/5eoP3RrNZBaVEQRkACCXfT) | 4:03 | 2022-04-15 | 2022-07-29 |
 | [Dinero, Fama y Poder](https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Dinero, Fama y Poder](https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL) | 2:34 | 2022-09-23 | 2023-02-14 |
@@ -236,7 +237,7 @@
 | [Modo Cherry](https://open.spotify.com/track/2NFeRpqiuM24sqMCSCvbDK) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Modo Cherry](https://open.spotify.com/album/1HtYRBV05f66fx89bQbSaO) | 2:51 | 2024-02-24 |  |
 | [Modo DND](https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Modo DND](https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC) | 3:40 | 2023-12-01 |  |
 | [Morenita](https://open.spotify.com/track/3tTUbrrAzoEOG97kdl39xY) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Morenita](https://open.spotify.com/album/5lDdmVYHmrLvzgItErGvKE) | 3:17 | 2024-02-24 |  |
-| [Morro Cabrón](https://open.spotify.com/track/2iLtkxW5ewRhBStbEGM1nB) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Morro Cabrón](https://open.spotify.com/album/2q25A7GOB0fuv9e9ZPDlEt) | 2:25 | 2024-01-26 |  |
+| [Morro Cabrón](https://open.spotify.com/track/2iLtkxW5ewRhBStbEGM1nB) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Morro Cabrón](https://open.spotify.com/album/2q25A7GOB0fuv9e9ZPDlEt) | 2:25 | 2024-01-26 | 2024-03-23 |
 | [Más Allá Que Pa' Acá](https://open.spotify.com/track/3d8oynfpYEfBfHQbUFvmKu) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Más Allá Que Pa' Acá](https://open.spotify.com/album/6LK3iuVgcvD7hcZwjHY1uf) | 2:22 | 2024-03-19 |  |
 | [Mía Un Año](https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mía Un Año](https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT) | 2:54 | 2022-10-24 | 2023-08-05 |
 | [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:49 | 2023-10-27 | 2024-01-13 |

@@ -4,7 +4,7 @@
 
 > natural wine vibes, because wine not? \| Photo: Stir Crazy LA
 
-113 songs - 7 hr 0 min
+114 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Love Song \- Helado Negro Remix](https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Love Song \(Helado Negro Remix\)](https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF) | 4:19 | 2024-01-08 | 2024-02-15 |
 | [Loverboy](https://open.spotify.com/track/3XCpEFU4uXsBq5WmVQQKC9) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 1:13 | 2024-01-08 |  |
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2024-01-08 |  |
+| [Low Sun](https://open.spotify.com/track/4TwFXylgQheM8AUgY00G7C) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Low Sun](https://open.spotify.com/album/7nC5WtMQ8DJcfQzhFy2oqa) | 3:08 | 2024-03-22 |  |
 | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0) | 4:05 | 2024-01-08 |  |
 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 | 2024-01-08 |  |
 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 | 2024-01-08 |  |
@@ -97,7 +98,7 @@
 | [Rose Pink Cadillac](https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/2VaOn32haUapQOYnerK32W) | 4:21 | 2024-01-08 |  |
 | [Rose Rouge](https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Rose Rouge](https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s) | 5:57 | 2024-01-08 |  |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-08 |  |
-| [Sacatela](https://open.spotify.com/track/0ZH2Ve6Ns1kzEMWunJoAek) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Teatro Lúcido](https://open.spotify.com/album/6x8QhgzstEOQZl50dvArzI) | 2:52 | 2024-01-08 |  |
+| [Sacatela](https://open.spotify.com/track/0ZH2Ve6Ns1kzEMWunJoAek) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Teatro Lúcido](https://open.spotify.com/album/6x8QhgzstEOQZl50dvArzI) | 2:52 | 2024-01-08 | 2024-03-23 |
 | [Savanne](https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:16 | 2024-01-08 |  |
 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 | 2024-01-08 |  |
 | [Selfish](https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Detroit Deli \(A Taste Of Detroit\)](https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB) | 3:45 | 2024-01-08 |  |

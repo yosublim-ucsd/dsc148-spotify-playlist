@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 
 > 
 
-[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 15 likes - 400 songs - 1 day 1 hr 55 min
+[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 15 likes - 401 songs - 1 day 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -391,22 +391,23 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 | 381 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 |
 | 382 | [Ride](https://open.spotify.com/track/3l2S2RkGG4lbh7WqmCV3NB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:49 |
 | 383 | [Angel of Small Death and the Codeine Scene](https://open.spotify.com/track/6JmSfynzr6E0QllQZNEXEb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:39 |
-| 384 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 |
-| 385 | [Daddy Lessons](https://open.spotify.com/track/7tTElNyvXsfFcxDXIiH5cm) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Daddy Lessons](https://open.spotify.com/album/7vmngE1EExuJ0wpdRescsX) | 6:25 |
-| 386 | [Read your Mind](https://open.spotify.com/track/4Wos0h9ECU2Z3oJMTQxpbc) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:27 |
-| 387 | [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 |
-| 388 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 |
-| 389 | [Ghost of Chicago](https://open.spotify.com/track/1p67QqNBGvikWt0CZmkpDu) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [NOAH](https://open.spotify.com/album/4BIysF8o9wr5FArNPzak2t) | 3:07 |
-| 390 | [Green Flash Sunset](https://open.spotify.com/track/16ihWPgvFtnWjn4s38CRXp) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Green Flash Sunset](https://open.spotify.com/album/49TAkMy0qJzz1UrZqFfg10) | 2:55 |
-| 391 | [Highroad](https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Highroad](https://open.spotify.com/album/70gYt9g5sdmG00ArLq5eIY) | 3:50 |
-| 392 | [Thieves](https://open.spotify.com/track/6lADdOFLdgO8aIGeFsOtcc) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Thieves](https://open.spotify.com/album/31RduMkBFIzZCUhLuM3jeE) | 3:29 |
-| 393 | [Crazy Bird](https://open.spotify.com/track/4va1JykAJeulnYV0uYkWhF) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [The Runaround](https://open.spotify.com/album/29n2e4SBSxtMmRkPOKElF7) | 3:58 |
-| 394 | [Making Love](https://open.spotify.com/track/5r8SYg3CHqMHlCNSgnCvBo) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Making Love](https://open.spotify.com/album/765mbVGahmLC5VCaE2mzR6) | 3:21 |
-| 395 | [Party City](https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:24 |
-| 396 | [Get What You Want](https://open.spotify.com/track/2WhPJ77KAF4TkeyBn8qmEW) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:31 |
-| 397 | [She Want](https://open.spotify.com/track/1Ra4MS4TAzOSE2x1ZBgyYp) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:34 |
-| 398 | [I Know Better](https://open.spotify.com/track/2nzzNKvjQaD85bOGwRsNg0) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [I Know Better](https://open.spotify.com/album/67PM09778AoAOxAEeIvJbp) | 4:17 |
-| 399 | [Ur So Gay](https://open.spotify.com/track/0Z7UP4q84AwVcKlliEAiO5) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 3:37 |
-| 400 | [Unknown Phantom](https://open.spotify.com/track/2AQLOunAb0C3HPSs8SoWG3) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Unknown Phantom](https://open.spotify.com/album/7gBm5D06xjz6kqx4v4M1JB) | 4:12 |
+| 384 | [Daddy Lessons](https://open.spotify.com/track/7tTElNyvXsfFcxDXIiH5cm) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Daddy Lessons](https://open.spotify.com/album/7vmngE1EExuJ0wpdRescsX) | 6:25 |
+| 385 | [Read your Mind](https://open.spotify.com/track/4Wos0h9ECU2Z3oJMTQxpbc) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:27 |
+| 386 | [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 |
+| 387 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 |
+| 388 | [Ghost of Chicago](https://open.spotify.com/track/1p67QqNBGvikWt0CZmkpDu) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [NOAH](https://open.spotify.com/album/4BIysF8o9wr5FArNPzak2t) | 3:07 |
+| 389 | [Green Flash Sunset](https://open.spotify.com/track/16ihWPgvFtnWjn4s38CRXp) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Green Flash Sunset](https://open.spotify.com/album/49TAkMy0qJzz1UrZqFfg10) | 2:55 |
+| 390 | [Highroad](https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Highroad](https://open.spotify.com/album/70gYt9g5sdmG00ArLq5eIY) | 3:50 |
+| 391 | [Thieves](https://open.spotify.com/track/6lADdOFLdgO8aIGeFsOtcc) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Thieves](https://open.spotify.com/album/31RduMkBFIzZCUhLuM3jeE) | 3:29 |
+| 392 | [Crazy Bird](https://open.spotify.com/track/4va1JykAJeulnYV0uYkWhF) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [The Runaround](https://open.spotify.com/album/29n2e4SBSxtMmRkPOKElF7) | 3:58 |
+| 393 | [Making Love](https://open.spotify.com/track/5r8SYg3CHqMHlCNSgnCvBo) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Making Love](https://open.spotify.com/album/765mbVGahmLC5VCaE2mzR6) | 3:21 |
+| 394 | [Party City](https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:24 |
+| 395 | [Get What You Want](https://open.spotify.com/track/2WhPJ77KAF4TkeyBn8qmEW) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:31 |
+| 396 | [She Want](https://open.spotify.com/track/1Ra4MS4TAzOSE2x1ZBgyYp) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:34 |
+| 397 | [I Know Better](https://open.spotify.com/track/2nzzNKvjQaD85bOGwRsNg0) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [I Know Better](https://open.spotify.com/album/67PM09778AoAOxAEeIvJbp) | 4:17 |
+| 398 | [Ur So Gay](https://open.spotify.com/track/0Z7UP4q84AwVcKlliEAiO5) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 3:37 |
+| 399 | [Unknown Phantom](https://open.spotify.com/track/2AQLOunAb0C3HPSs8SoWG3) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Unknown Phantom](https://open.spotify.com/album/7gBm5D06xjz6kqx4v4M1JB) | 4:12 |
+| 400 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 |
+| 401 | [girl i’ve always been](https://open.spotify.com/track/0bJAmhSAeMSfsyazOEUVFf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:01 |
 
-Snapshot ID: `MTEwMywwOWNjMGNhYjE0OTJkMDQwMmRlM2VhNDU4YTAwZTQ2ZWQ4YTA4ZDg4`
+Snapshot ID: `MTEwNixjOTEzZmI4Y2E3ZGZlYmFkNDIwMDIzMjY1MmIwNTRkYTQ2OGRkZDAw`

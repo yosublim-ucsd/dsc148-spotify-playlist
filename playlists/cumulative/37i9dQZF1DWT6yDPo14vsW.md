@@ -4,7 +4,7 @@
 
 > ¿Qué es lo que está pasando? ¿Amor o Desamor?
 
-234 songs - 15 hr 12 min
+235 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 | 2021-03-26 |  |
 | [Alguien](https://open.spotify.com/track/5Yf9nkFp0JoR6V048LfnbG) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Kany García](https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO) | 3:03 | 2021-03-26 |  |
 | [Amame](https://open.spotify.com/track/3ZHRiFQZaJXRvnhUt43pqO) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [Estrella Guia](https://open.spotify.com/album/0bJDginBxFe7sM7Vz8gAAQ) | 4:05 | 2021-03-26 |  |
+| [Amarte Así \- En Vivo](https://open.spotify.com/track/1n7gk83L4L4P58Zynk08a8) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J) | [Amarte Así \(En vivo\)](https://open.spotify.com/album/06POrhViIkhGFmQeX5b2nD) | 3:22 | 2024-03-22 |  |
 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 | 2021-03-26 |  |
 | [Amor Loco](https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 3:46 | 2024-02-09 | 2024-03-01 |
 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 | 2022-07-04 | 2024-02-10 |
@@ -195,7 +196,7 @@
 | [Si No Te Hubieras Ido](https://open.spotify.com/track/62qI8m0sXpzlSjYYx0nZ83) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn) | 4:47 | 2021-03-26 | 2022-07-29 |
 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 | 2021-03-26 |  |
 | [Sin Ti](https://open.spotify.com/track/2lU0jHMTVm4zT7sxue8q6o) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye) | [Inevitable](https://open.spotify.com/album/3n0pcXQ9C7l4tg8naDOxBF) | 4:27 | 2021-03-26 | 2022-07-29 |
-| [Solamente tú](https://open.spotify.com/track/7vd2YXwqxAG2BGuEUoMzGl) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Tanto \(Nueva edición\)](https://open.spotify.com/album/6mRiYnPpz8qdoY91s1c4H4) | 4:07 | 2021-03-26 |  |
+| [Solamente tú](https://open.spotify.com/track/7vd2YXwqxAG2BGuEUoMzGl) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Tanto \(Nueva edición\)](https://open.spotify.com/album/6mRiYnPpz8qdoY91s1c4H4) | 4:07 | 2021-03-26 | 2024-03-23 |
 | [Solo Importas Tu](https://open.spotify.com/track/7mu0o0LnLZQxsl9x3ZuOyX) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Fantasia](https://open.spotify.com/album/1fhwcQfIUv8yeKny1kx2bn) | 3:36 | 2021-03-26 |  |
 | [Soltar](https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Puñal](https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI) | 3:38 | 2024-02-09 | 2024-03-01 |
 | [Son de Amores](https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44) | [Andy & Lucas](https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L) | [Andy Y Lucas](https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm) | 3:51 | 2021-03-26 |  |

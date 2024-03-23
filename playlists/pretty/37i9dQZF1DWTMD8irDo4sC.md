@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,358 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,385 likes - 70 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 17 | [بدي احكيك](https://open.spotify.com/track/4LcxmnNWYr9EUeEJWwKT5e) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [بدي احكيك](https://open.spotify.com/album/24l1EZQGlN4iiE8qnowy0Q) | 2:51 |
 | 18 | [Ssendu \(Voie Lactée\)](https://open.spotify.com/track/2dnfmMMcTNgvzrX1EPd2yz) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc) | [A Vava Inouva](https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1) | 3:10 |
 | 19 | [يا حسرة عليك يا دنيا](https://open.spotify.com/track/3GLGbZdxErd1d46wEQMELb) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk), [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [يا حسرة عليك يا دنيا](https://open.spotify.com/album/7EzzK8xvtwDahUXA7vub1h) | 4:14 |
-| 20 | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8) | 2:53 |
+| 20 | [My Mother](https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Promises of the Storm](https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk) | 9:17 |
 | 21 | [Bekitini](https://open.spotify.com/track/17M4JHQru8pJmTNiBxDTEn) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe) | 3:40 |
-| 22 | [My Mother](https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Promises of the Storm](https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk) | 9:17 |
+| 22 | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8) | 2:53 |
 | 23 | [آه يا سلطاني](https://open.spotify.com/track/1ZrtmwKkF7LEl8fgOn4h0d) | [Nabyla Maan](https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW) | [آه يا سلطاني](https://open.spotify.com/album/3YVwJwSUGOnWiDgIirPjoN) | 4:28 |
 | 24 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 |
 | 25 | [Manakir](https://open.spotify.com/track/3q1rNrHQoxvzbC0okaKt7C) | [Haya Zaatry](https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB) | [Manakir](https://open.spotify.com/album/2IaWV2qILK8ac0SZcpLaAY) | 3:04 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 51 | [Baby Baby \- Acoustic Version](https://open.spotify.com/track/3s7QTPgwtWfrOXraMAF3cO) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Baby Baby \(Acoustic Version\)](https://open.spotify.com/album/0LriuhHAoi1kknfbUrAq82) | 2:40 |
 | 52 | [The Taste of Love](https://open.spotify.com/track/0RFU7SHpffAeG65QzNvy18) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Revelation of Ecstasy and Rebellion](https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr) | 5:54 |
 | 53 | [Sahar El Layali \(Kan Enna Tahoun\)](https://open.spotify.com/track/1T3Awxy8awy2c75OeSsPyL) | [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Henning Sieverts](https://open.spotify.com/artist/4NPI4lNYQw86uzyS1SqZXP), [Tamer Pinarbaşi](https://open.spotify.com/artist/56qCAXOnxTC7VPlUGwrBqA), [Burcu Karadağ](https://open.spotify.com/artist/6sm7wuehySIzhD2QyCT26q), [Itamar Doari](https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc) | [El Nour](https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF) | 3:19 |
-| 54 | [Konna Sghar](https://open.spotify.com/track/1I0wn8z1DRR0JA9YWLVah4) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Konna Sghar](https://open.spotify.com/album/10qHkq9kvK4PbUenAbHX0p) | 2:16 |
-| 55 | [كيف الحب بنقاس](https://open.spotify.com/track/1ZHa9mMDqVYlkmsOwT17jq) | [Mahasneh](https://open.spotify.com/artist/09mTDBIJQrOEw78vALpnPX) | [كيف الحب بنقاس](https://open.spotify.com/album/2lA87mLUDO7DSKEjOwW5Fk) | 2:44 |
+| 54 | [كيف الحب بنقاس](https://open.spotify.com/track/1ZHa9mMDqVYlkmsOwT17jq) | [Mahasneh](https://open.spotify.com/artist/09mTDBIJQrOEw78vALpnPX) | [كيف الحب بنقاس](https://open.spotify.com/album/2lA87mLUDO7DSKEjOwW5Fk) | 2:44 |
+| 55 | [Konna Sghar](https://open.spotify.com/track/1I0wn8z1DRR0JA9YWLVah4) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Konna Sghar](https://open.spotify.com/album/10qHkq9kvK4PbUenAbHX0p) | 2:16 |
 | 56 | [تعال معي](https://open.spotify.com/track/4tqYr6yRevzOSDNkihfSFZ) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30), [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Junction 48 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/50dtagok37BBMMJDU9fh5o) | 2:40 |
 | 57 | [Memories Of A Palestinian Wound](https://open.spotify.com/track/7EuovX8mMPgIuDjAPECG02) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Checkpoint Rock: Canciones Desde Palestina](https://open.spotify.com/album/5elgS21gSfVxSjz2y22iP8) | 3:09 |
 | 58 | [Salam](https://open.spotify.com/track/2NHbmvLriduIB96qXrO3yr) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:24 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 67 | [Keber Al Alb](https://open.spotify.com/track/2gM94Dic9ifye4kt6Kvu5U) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Fattah Al Ward](https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g) | 2:53 |
 | 68 | [Ombre de mon amant](https://open.spotify.com/track/7FhNnHOK7kdwAYtnXRFzsE) | [Michel Lambert](https://open.spotify.com/artist/6DIgXovySNbDB3K5lTtUKT), [Rima Khcheich](https://open.spotify.com/artist/7FF1EHOrIunUaaW3a79n9y), [Maarten Ornstein](https://open.spotify.com/artist/4MCO3NSa8mKwFCbxHxabJl), [Mike Fentross](https://open.spotify.com/artist/5qX8j53VqHUuxBZE5KB2qH) | [Ombre de mon amant](https://open.spotify.com/album/3yYrA1GcNIHSkMjLqyKge1) | 6:29 |
 | 69 | [Estihala \- Live Acoustic](https://open.spotify.com/track/65FeLB4ilmJRzMBzSzKJXJ) | [Sherif Abdelmeged](https://open.spotify.com/artist/6jjt4meb4Y0U7MbzYDjMrQ) | [Estihala \(Live Acoustic\)](https://open.spotify.com/album/2al5I60LV1UgE4lZUSm9WY) | 3:18 |
-| 70 | [Wakfa](https://open.spotify.com/track/39u6elNoM6r2ZwjHJ2q5rx) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:50 |
+| 70 | [Keda Bardou \- Acoustic Version](https://open.spotify.com/track/56KfdI2w6CaIeriQ77VeYL) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Keda Bardou \(Acoustic Version\)](https://open.spotify.com/album/2WIyTkJIJdxe5nrYXcfXk4) | 2:43 |
 
-Snapshot ID: `MCw1NGIzNzY3MWZlMTFlY2FiZWI2Y2VkODAxOGM0ZjU4N2Q0MmM2MDRj`
+Snapshot ID: `MCwyNTEyZTZhNjRlMTMzMDgwNzA2Mjk1NDk5YmZiYTdkMzM3NDljNTcy`

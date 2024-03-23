@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > These early pioneers brought the underground to the foreground\. Cover: The Smiths
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231,508 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231,598 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 27 | [Do You Really Want To Hurt Me](https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Kissing To Be Clever](https://open.spotify.com/album/4y1hBzoffx9DaGXbObeC2w) | 4:22 |
 | 28 | [Hey](https://open.spotify.com/track/0p5eZCY0R7uNCZS1YDtIYI) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 3:30 |
 | 29 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 |
-| 30 | [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 |
-| 31 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
+| 30 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
+| 31 | [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 |
 | 32 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 |
 | 33 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 |
 | 34 | [Age of Consent \- 2015 Remaster](https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Power Corruption and Lies](https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ) | 5:15 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 37 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
 | 38 | [Girls on Film \- 2010 Remaster](https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran \(Deluxe Edition\)](https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB) | 3:32 |
 | 39 | [Waiting Room](https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:53 |
-| 40 | [Ashes to Ashes \- 2017 Remaster](https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 4:26 |
-| 41 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 |
+| 40 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 |
+| 41 | [Ashes to Ashes \- 2017 Remaster](https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 4:26 |
 | 42 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/1Hnv9uDIokwi4nkcVUyS0X) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's a Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/4Q8DyYRZ8qbDoTUDJBgE3A) | 3:44 |
 | 43 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 |
 | 44 | [Teen Age Riot \(Album Version\)](https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Daydream Nation \(Deluxe Edition\)](https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI) | 6:57 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 68 | [Love Will Tear Us Apart \- 2010 Remaster](https://open.spotify.com/track/1r8oPEXqnhUVgkUkJNqEuF) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Substance](https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ) | 3:24 |
 | 69 | [Autumn Sweater](https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:18 |
 | 70 | [Dear God \- Remastered 2001](https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:39 |
-| 71 | [Sweet Jane \- Full Length Version; 2015 Remaster](https://open.spotify.com/track/3cw3Z7mS55gd3NUjh4k0bL) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs) | 4:06 |
+| 71 | [Rock & Roll \- Full Length Version; 2015 Remaster](https://open.spotify.com/track/1o6DclZHw0HomxXEQR1ijX) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs) | 4:43 |
 | 72 | [Just Like Honey](https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru) | 3:01 |
 | 73 | [Watching The Detectives \- Single Version](https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:46 |
 | 74 | [Ooh La La \- 2004 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 |
 | 75 | [Because the Night](https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Outside Society](https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv) | 3:22 |
 
-Snapshot ID: `MCw4Zjg4MTQ4ODhiOTU5MTVmZWQzMzNkNDMyNzZjZTEzYzVjYWVhODE2`
+Snapshot ID: `MCxlMzkxOTE3NzU0YzY3YWM2MDdiN2M1NGQ4MjAzMGVjZmQzMmVkNTE3`

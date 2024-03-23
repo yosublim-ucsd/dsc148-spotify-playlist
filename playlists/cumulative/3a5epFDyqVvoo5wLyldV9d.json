@@ -11197,6 +11197,24 @@
     },
     {
       "album": {
+        "name": "Felicit\u00e0",
+        "url": "https://open.spotify.com/album/6rYKh2EVXdWs5Pe8MugvSM"
+      },
+      "artists": [
+        {
+          "name": "Al Bano And Romina Power",
+          "url": "https://open.spotify.com/artist/1c0wBsDBu0NqpvxBqjYjZS"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264800,
+      "name": "Sharazan",
+      "url": "https://open.spotify.com/track/3QykjIsOz7tAH4G1OrRDT7"
+    },
+    {
+      "album": {
         "name": "African Disco Juice",
         "url": "https://open.spotify.com/album/1T36tgCcRLC7p5U0hlMDti"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,315 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,307 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 47 | [Merry Christmas Darling](https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3) | [James Lanman](https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36), [Alanna Vicente](https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK) | [Merry Christmas Darling](https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF) | 2:35 |
 | 48 | [Silent Night](https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG) | [Silvio Thompson Band](https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C) | ['Tis The Season](https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ) | 3:20 |
 | 49 | [Christmas Morning](https://open.spotify.com/track/1F1hIbXmFT3cb6oDv3hoal) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:58 |
-| 50 | [Christmas Memories](https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Vivian Buczek](https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 4:58 |
-| 51 | [O Come All Ye Faithful](https://open.spotify.com/track/7blQL8x8MJNBVrN6x7Jcjb) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:14 |
+| 50 | [O Come All Ye Faithful](https://open.spotify.com/track/7blQL8x8MJNBVrN6x7Jcjb) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:14 |
+| 51 | [Christmas Memories](https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Vivian Buczek](https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 4:58 |
 | 52 | [Jingle Bells](https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb) | [Luca Francis](https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a) | [It's Christmas Time](https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO) | 2:39 |
 | 53 | [Rest in Peace](https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am), [Canterbury Cathedral Girls' Choir](https://open.spotify.com/artist/0PvYJwsHYAaKLNBadoQwC4) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 4:08 |
 | 54 | [Seasons](https://open.spotify.com/track/3XxHSA1xUFKRyRiquB8oQI) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z), [Jonathan Michel](https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Seasons](https://open.spotify.com/album/5d13Zb4bfDGuahpFTRLuu7) | 2:46 |
 | 55 | [Frosty The Snowman](https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0) | [Silvio Thompson Band](https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C) | ['Tis The Season](https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ) | 2:38 |
 
-Snapshot ID: `MCwxNjkzNDc0ZDRkYWVhMzk5OTEyN2M0MjVmZWJjZDZjYTNlMTI0Mjc3`
+Snapshot ID: `MCw2ZGM0MTI5MjFhMGI4ZDMxODk3YTRkYTVlMWEzZTg5ZTNhYWUyMDFk`

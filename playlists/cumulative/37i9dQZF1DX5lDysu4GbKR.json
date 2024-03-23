@@ -3039,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "No More Lonely Nights",
+        "url": "https://open.spotify.com/album/6oghy5BL3k36IYHUI3VHV4"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "Rent Free - Acoustic",
+      "url": "https://open.spotify.com/track/79lnq17i7L4AeFNfJO9Jaq"
+    },
+    {
+      "album": {
         "name": "Acoustic",
         "url": "https://open.spotify.com/album/3p79KkShcFlvO27bMljNfT"
       },

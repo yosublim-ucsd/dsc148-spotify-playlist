@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 
 > This is Junior H\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,748 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,468 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 16 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 |
 | 17 | [El Tsurito](https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Tsurito](https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA) | 3:14 |
 | 18 | [EN ALTAVOZ](https://open.spotify.com/track/1EKZmfqveHKe78Isfk07w4) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:46 |
-| 19 | [En Paris](https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5) | [El Chachito](https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [En Paris](https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR) | 2:42 |
-| 20 | [A TU NOMBRE](https://open.spotify.com/track/0ItgotO5txriRAp6lXMHJ7) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 4:07 |
+| 19 | [A TU NOMBRE](https://open.spotify.com/track/0ItgotO5txriRAp6lXMHJ7) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 4:07 |
+| 20 | [En Paris](https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5) | [El Chachito](https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [En Paris](https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR) | 2:42 |
 | 21 | [Eres](https://open.spotify.com/track/3FUVgc4ULS0t7X7sUBZ1UO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:52 |
 | 22 | [Mafiosa](https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mafiosa](https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5) | 2:50 |
-| 23 | [Ella](https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 4:19 |
-| 24 | [$AD BOYZ II](https://open.spotify.com/track/68cUJFq7aAbgeurngTmngL) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:28 |
+| 23 | [$AD BOYZ II](https://open.spotify.com/track/68cUJFq7aAbgeurngTmngL) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:28 |
+| 24 | [Ella](https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 4:19 |
 | 25 | [Vamos Para Arriba](https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vamos Para Arriba](https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37) | 2:52 |
 | 26 | [COLOGNE](https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:45 |
 | 27 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 49 | [Whiskey Con Agua](https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:06 |
 | 50 | [Atrapado en un Sueño](https://open.spotify.com/track/4FJHSPdhQqxovmYP9YpcHN) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 3:30 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBiYzQ5YTRhNTNjMzdlY2E0OTg5MTZlY2I2MTUxZTM1YQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBiNTg3YWE3YjNlZjIwNGUxMmMzYWRkYTY2MDViNjQ0ZA==`

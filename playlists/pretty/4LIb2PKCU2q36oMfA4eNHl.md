@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 42,222 likes - 40 songs - 2 hr 31 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 42,220 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 39 | [Hold On To You \- Ryan Davis Revisit](https://open.spotify.com/track/1qgnqE3a6314MTYyiq2hLr) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Ryan Davis](https://open.spotify.com/artist/0AHClmU8AZuj9naaENhVrP) | [Hold On To You \(Ryan Davis Revisit\)](https://open.spotify.com/album/1b0ZUmsLKfYcgEyNOVbxof) | 4:40 |
 | 40 | [HER \- Jody Wisternoff & James Grant Edit](https://open.spotify.com/track/0kLgf6MpUKwYkZQAOAe8QZ) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [HER](https://open.spotify.com/album/2c6FQDsHgiRNzXlN3dc71D) | 3:11 |
 
-Snapshot ID: `MjUyNSxmZWQwMTI1NTY5NzlhNWIxMDk5M2IxMDI2Mzg0YWYyOGNkYzY0OWQ3`
+Snapshot ID: `MjUyNyxmMDFhOGEzYTU2NTI2MTZjMjA4YmY4MzhmNDljMjdmM2NhMDBjNTYy`

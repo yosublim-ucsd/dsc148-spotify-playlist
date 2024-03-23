@@ -2,9 +2,9 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Baile do Bruxo e os funks mais 🔑 do Brasil\. Foto: MC IG
+> Aquariano Nato e os funks mais 🔑 do Brasil\. Foto: MC Saci
 
-243 songs - 13 hr 24 min
+244 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Voltei Pra Cachorrada](https://open.spotify.com/track/3fRvT5duPFMwQ6MiXVIA36) | [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [DJ Cyclone](https://open.spotify.com/artist/4o2hAURyVlQ8suw1KDz6gi) | [Voltei Pra Cachorrada](https://open.spotify.com/album/4yH4u8yBTw52klnu7mhALX) | 3:26 | 2022-07-29 | 2022-08-13 |
 | [Vou de Lala](https://open.spotify.com/track/6MQrN9fclpvR4nf0uJrG1x) | [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [DJ 900](https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Mc Kelvinho](https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB), [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V) | [Vou de Lala](https://open.spotify.com/album/0gHO5D4JdxNHZIpyGtQm1I) | 5:00 | 2021-12-31 | 2022-05-21 |
 | [Zero Amor \(feat\. MC Tuto, DJ Glenner\)](https://open.spotify.com/track/1lDyYAzt18bbDVbhAmd7US) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z) | [Zero Amor \(feat\. MC Tuto, DJ Glenner\)](https://open.spotify.com/album/6GTiXru2Ol2oKab0AZ96us) | 4:58 | 2023-03-03 | 2023-03-25 |
+| [É Isso Bebê, Tá Certa!](https://open.spotify.com/track/6xW61JP2f3hcsbOwn7dzi5) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Todo Mundo Odeia o IG](https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4) | 4:31 | 2024-03-22 |  |
 | [É OS D](https://open.spotify.com/track/0FqqR9vFwoJoBKhTUfJl6q) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [É OS D](https://open.spotify.com/album/7duVEHhFXXNS4GF0OFYBIN) | 2:56 | 2023-12-22 | 2024-01-20 |
 | [É Piru nas Meninas \- Medley das Antigas](https://open.spotify.com/track/0TdK5nwfcmX9smiLXJEeFp) | [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [É Piru nas Meninas \- Medley das Antigas](https://open.spotify.com/album/1P3dEPUXXt25WxJF55T3DD) | 2:05 | 2023-01-27 | 2023-07-22 |
 | [É Só Blusão da Ecko e Boné da Lacoste Vs Putaria \(feat\. Mc Denny\)](https://open.spotify.com/track/2IsusePMD32LQKNU7vZiAH) | [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN), [Mc Denny](https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi) | [É Só Blusão da Ecko e Boné da Lacoste Vs Putaria \(feat\. Mc Denny\)](https://open.spotify.com/album/1hZBg3LJIEeqQf3WqcbCQf) | 2:13 | 2022-02-25 | 2022-06-23 |

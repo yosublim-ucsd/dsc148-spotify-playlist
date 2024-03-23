@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 109839,
+  "2024-03-23": 109879,
   "date_first_scraped": "2022-05-26",
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
   "name": "Vivo de Rock",
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 268960,
       "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
       "url": "https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX"
@@ -1593,6 +1593,24 @@
       "duration_ms": 250204,
       "name": "Desde Lejos No Se Ve - En Vivo en River 2018",
       "url": "https://open.spotify.com/track/55O0ykD2QyWj5TZwG2VJuT"
+    },
+    {
+      "album": {
+        "name": "Dif\u00edcil De Entender (En Vivo)",
+        "url": "https://open.spotify.com/album/4vNwIgcdszi9DH3IOjsoD8"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338500,
+      "name": "Dif\u00edcil De Entender - En Vivo",
+      "url": "https://open.spotify.com/track/6j213IFF8ae9gA8lQb6s8o"
     },
     {
       "album": {

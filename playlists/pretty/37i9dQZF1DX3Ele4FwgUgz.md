@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,951 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,972 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 36 | [Dream Land!Dream World!](https://open.spotify.com/track/7qpVKG6LJb1OORejlgkN9b) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Dream Land!Dream World!](https://open.spotify.com/album/6OqZjoN8TM3WSbwHRfRZfN) | 3:51 |
 | 37 | [MONSTER GIRLS](https://open.spotify.com/track/6ZGnmaySGGk2pcprMoBX73) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 3:56 |
 | 38 | [LIKE IT!LOVE IT!](https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:21 |
-| 39 | [哀温ノ詩](https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:17 |
-| 40 | [ドキピポ☆エモーション](https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:30 |
+| 39 | [ドキピポ☆エモーション](https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:30 |
+| 40 | [哀温ノ詩](https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:17 |
 | 41 | [恋するMagic!!](https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 3:48 |
 | 42 | [Starlight](https://open.spotify.com/track/2H8qziW7IGOPO3yXAhk9o4) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:44 |
 | 43 | [翠いカナリア](https://open.spotify.com/track/3LDPZE2mrrsvHGJOTwm2i3) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 49 | [めっちゃGoing!!](https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:48 |
 | 50 | [Fire Bird](https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:57 |
 
-Snapshot ID: `MCxjZDEzYjViNmQ0Y2IxOGE2ODdhNjljYWQ1MTQwYmNjNDlmMWMzN2I4`
+Snapshot ID: `MCwyNjdjMmVjNGJlMzhlOGFkNjk2ZjQyNmY3YzIxYTk2MzJhZTIxODY1`

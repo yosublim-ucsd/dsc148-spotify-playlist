@@ -4,7 +4,7 @@
 
 > Kick back to these chilled out essentials.
 
-168 songs - 9 hr 31 min
+170 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [A World Without You](https://open.spotify.com/track/4lB4o2KbTxfE5wNMkw6vKR) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Self Portrait Of A Woman Unravelling](https://open.spotify.com/album/1xceHSQfXpgXPFsKraHiYZ) | 3:32 | 2023-07-07 |  |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2023-06-15 | 2024-03-01 |
 | [All For You](https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:45 | 2023-06-15 | 2023-08-18 |
-| [All Life Long](https://open.spotify.com/track/3WEN5hlpjc09yo0J6IuQBE) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0unji0xUcEGgNFyokzF5p5) | 3:19 | 2024-03-21 |  |
+| [All Life Long](https://open.spotify.com/track/2R2fEymz4psIZb2Ic3lBIy) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0ISpTOqbSEzzY0Kt4JsTTq) | 3:19 | 2024-03-21 |  |
+| [All Life Long](https://open.spotify.com/track/3WEN5hlpjc09yo0J6IuQBE) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0unji0xUcEGgNFyokzF5p5) | 3:19 | 2024-03-21 | 2024-03-23 |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-06-15 | 2024-03-15 |
 | [Always](https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:45 | 2023-06-15 | 2023-09-15 |
 | [Always Beside You \(feat\. SIX60\)](https://open.spotify.com/track/4NOrUYcyrIdzPfDkKdVKYd) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY), [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [COTERIE](https://open.spotify.com/album/3cPGB2HwcV2E8SBvNt3DO6) | 3:01 | 2023-06-15 | 2023-07-28 |
@@ -163,7 +164,8 @@
 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 | 2023-11-09 | 2024-03-01 |
 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-14 |  |
 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 | 2024-03-21 |
-| [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-03-21 |  |
+| [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-03-21 | 2024-03-23 |
+| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-21 |  |
 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-09-28 |  |
 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-17 |  |
 | [Unlearn You](https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Phases](https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3) | 2:48 | 2023-08-17 | 2024-03-01 |

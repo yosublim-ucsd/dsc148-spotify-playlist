@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vH2ylOhtch.md) - [plain]
 
 > uh\-oh?
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,169 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,195 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vH2ylOhtch.md) - [plain]
 | 56 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 |
 | 57 | [No Me Sueltes Más](https://open.spotify.com/track/5wWfs4E9RBXMQRpeNWRlXj) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sensaciones](https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9) | 3:27 |
 | 58 | [Quererte Bonito](https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 4:31 |
-| 59 | [Hasta Ese Día](https://open.spotify.com/track/6WBkUQoNie4RIY1cFaqUnP) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Hasta Ese Día](https://open.spotify.com/album/6cO7pYatv2CewTgj1ejYPw) | 3:23 |
-| 60 | [A Veces](https://open.spotify.com/track/2SGqPctdqs0xkFexK0cAOC) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 3:33 |
+| 59 | [A Veces](https://open.spotify.com/track/2SGqPctdqs0xkFexK0cAOC) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 3:33 |
+| 60 | [Hasta Ese Día](https://open.spotify.com/track/6WBkUQoNie4RIY1cFaqUnP) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Hasta Ese Día](https://open.spotify.com/album/6cO7pYatv2CewTgj1ejYPw) | 3:23 |
 
-Snapshot ID: `MCwxZWJmMmZhMmE2YzFlOGVhZThhNjM0ZjdjNmIyMzljZTFlYzhlMjkw`
+Snapshot ID: `MCw4Mzk0MGNiMWVjYTM1YzIzMWIyMjQyN2E0N2YwMDllOWMxY2JlOGQ2`

@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 65601,
+  "num_followers": 65625,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTNlOTkxMDkzMjlmZWM5YjU1Y2ZhNjg3MGRjNDBiY2E1ZjYyZTZi",
+  "snapshot_id": "MCwzNjNlOGQ0ZjQ3NWVlYzYxMjIwOGZjZGM1MWY5MzhhYjhhYjAwYjY1",
   "tracks": [
     {
       "added_at": "2024-02-09 12:36:46",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Never Ending Sorry",
-        "url": "https://open.spotify.com/album/0bEC0mpfwhZPD89ZS87LVe"
+        "name": "Zakryj (Deluxe)",
+        "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
       },
       "artists": [
         {
-          "name": "Agnieszka Chyli\u0144ska",
-          "url": "https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO"
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
         }
       ],
-      "duration_ms": 229880,
-      "name": "Kiedy\u015b do Ciebie wr\u00f3c\u0119",
-      "url": "https://open.spotify.com/track/04QPWwQIxA8kLpcKM1ZWzL"
+      "duration_ms": 215266,
+      "name": "T\u0119skno Mi",
+      "url": "https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Zakryj (Deluxe)",
-        "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
+        "name": "Never Ending Sorry",
+        "url": "https://open.spotify.com/album/0bEC0mpfwhZPD89ZS87LVe"
       },
       "artists": [
         {
-          "name": "Sarsa",
-          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+          "name": "Agnieszka Chyli\u0144ska",
+          "url": "https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO"
         }
       ],
-      "duration_ms": 215266,
-      "name": "T\u0119skno Mi",
-      "url": "https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf"
+      "duration_ms": 229880,
+      "name": "Kiedy\u015b do Ciebie wr\u00f3c\u0119",
+      "url": "https://open.spotify.com/track/04QPWwQIxA8kLpcKM1ZWzL"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -811,22 +811,18 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Nie k\u0142am \u017ce mnie kochasz",
-        "url": "https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0"
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8"
       },
       "artists": [
         {
-          "name": "Ewelina Flinta",
-          "url": "https://open.spotify.com/artist/3gd9XZQnyJXTVfLZh1BF6v"
-        },
-        {
-          "name": "\u0141ukasz Zagrobelny",
-          "url": "https://open.spotify.com/artist/1AnN7D0tGyWS5d3l38oqR0"
+          "name": "Perfect",
+          "url": "https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ"
         }
       ],
-      "duration_ms": 186026,
-      "name": "Nie k\u0142am \u017ce mnie kochasz",
-      "url": "https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP"
+      "duration_ms": 223200,
+      "name": "Niewiele Ci Mog\u0119 Da\u0107",
+      "url": "https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -863,18 +859,22 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8"
+        "name": "Nie k\u0142am \u017ce mnie kochasz",
+        "url": "https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0"
       },
       "artists": [
         {
-          "name": "Perfect",
-          "url": "https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ"
+          "name": "Ewelina Flinta",
+          "url": "https://open.spotify.com/artist/3gd9XZQnyJXTVfLZh1BF6v"
+        },
+        {
+          "name": "\u0141ukasz Zagrobelny",
+          "url": "https://open.spotify.com/artist/1AnN7D0tGyWS5d3l38oqR0"
         }
       ],
-      "duration_ms": 223200,
-      "name": "Niewiele Ci Mog\u0119 Da\u0107",
-      "url": "https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1"
+      "duration_ms": 186026,
+      "name": "Nie k\u0142am \u017ce mnie kochasz",
+      "url": "https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Ania Karwan",
-        "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
-      },
-      "artists": [
-        {
-          "name": "Ania Karwan",
-          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
-        }
-      ],
-      "duration_ms": 197764,
-      "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
-      "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
         "name": "Bu\u0142garskie centrum",
         "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 374093,
       "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
       "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
+        "name": "Ania Karwan",
+        "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
+      },
+      "artists": [
+        {
+          "name": "Ania Karwan",
+          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
+        }
+      ],
+      "duration_ms": 197764,
+      "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
+      "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Dla Naiwnych Marzycieli",
-        "url": "https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR"
-      },
-      "artists": [
-        {
-          "name": "Ania D\u0105browska",
-          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "W Glowie",
-      "url": "https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
         "name": "Nasz Film (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 202127,
       "name": "Pomimo Burz",
       "url": "https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
+        "name": "Dla Naiwnych Marzycieli",
+        "url": "https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR"
+      },
+      "artists": [
+        {
+          "name": "Ania D\u0105browska",
+          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "W Glowie",
+      "url": "https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
-        "name": "Po prostu Krawczyk. Antologia przeboj\u00f3w",
-        "url": "https://open.spotify.com/album/0ugZB6bS4YDKSXr51CxHNu"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Krawczyk",
-          "url": "https://open.spotify.com/artist/1SKeSGQ3LMHYCEgqFGvJbE"
-        }
-      ],
-      "duration_ms": 192333,
-      "name": "Bo Jeste\u015b Ty",
-      "url": "https://open.spotify.com/track/4YvQ9fgBWflsCa0hQWPSY0"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
         "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
         "url": "https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 157837,
       "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
       "url": "https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
+        "name": "Po prostu Krawczyk. Antologia przeboj\u00f3w",
+        "url": "https://open.spotify.com/album/0ugZB6bS4YDKSXr51CxHNu"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Krawczyk",
+          "url": "https://open.spotify.com/artist/1SKeSGQ3LMHYCEgqFGvJbE"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "Bo Jeste\u015b Ty",
+      "url": "https://open.spotify.com/track/4YvQ9fgBWflsCa0hQWPSY0"
     },
     {
       "added_at": "2024-02-09 12:36:46",

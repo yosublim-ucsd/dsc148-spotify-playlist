@@ -3970,10 +3970,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 182474,
       "name": "Bellakita",
       "url": "https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ"
+    },
+    {
+      "album": {
+        "name": "Bellakita",
+        "url": "https://open.spotify.com/album/6TQTbHsOuOqUW5CVlFhvPk"
+      },
+      "artists": [
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Bellakita",
+      "url": "https://open.spotify.com/track/5pdaMvOqvNPxEOgyKnej38"
     },
     {
       "album": {

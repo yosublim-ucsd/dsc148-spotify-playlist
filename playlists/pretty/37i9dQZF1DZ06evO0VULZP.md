@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,554 likes - 42 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,565 likes - 42 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 13 | [I Wanna Be a Bear](https://open.spotify.com/track/2VSiXZhIe5sikKG233RQZE) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 0:42 |
 | 14 | [Feel This](https://open.spotify.com/track/2xYTsFE2JcJEZFBYfV2x56) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 1:14 |
 | 15 | [When I Get Old](https://open.spotify.com/track/40AFXpAe4CDeT8DQ8jSDag) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 2:29 |
-| 16 | [Talking](https://open.spotify.com/track/5MbtRgGNhwK2KdJFt39a8L) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:27 |
+| 16 | [I Don't Want to Grow Up](https://open.spotify.com/track/5agRly96hAJywJYZlZRiuA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:21 |
 | 17 | [I'm Not a Loser](https://open.spotify.com/track/1XFG00rEeHaDIPOQv9LTYs) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 1:28 |
 | 18 | [On Paper](https://open.spotify.com/track/7FSV9tYkmQ8VmWSKWKFtHw) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 1:45 |
 | 19 | [Sick\-O\-Me](https://open.spotify.com/track/1fiN0tMqkUXr5rTmw109Qo) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 1:46 |
-| 20 | [I Don't Want to Grow Up](https://open.spotify.com/track/5agRly96hAJywJYZlZRiuA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:21 |
+| 20 | [Talking](https://open.spotify.com/track/5MbtRgGNhwK2KdJFt39a8L) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:27 |
 | 21 | [Myage](https://open.spotify.com/track/1PcPuR2vNpqNr88Cc2Lw8m) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 2:00 |
 | 22 | [Without Love](https://open.spotify.com/track/7JlcIAeVDKykP56emtGiHb) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 3:19 |
 | 23 | [Rotting Out](https://open.spotify.com/track/4N22k5sUjgC4rTymY5ilpq) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 1:57 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 41 | [Like the Way I Know](https://open.spotify.com/track/7sAvo8h2WuM87WeVrQxMLA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 |
 | 42 | [Sailor's Choice](https://open.spotify.com/track/0HfSlRenXUSBpouR8DNQ8V) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:14 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDAyZGNkMDQzYmEzMTQ3Zjc0MWRjMDZlNzU5YTQzMDYxNg==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA1NzY0MTFjNGU0ODNmYTJjOWYzMWI5ODIxZDIyOTllMw==`

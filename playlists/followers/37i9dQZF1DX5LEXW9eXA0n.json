@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 359944,
+  "2024-03-23": 359967,
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover:\bIsaac Hong(\ud64d\uc774\uc0ad)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover:\bKim Jong Kook(\uae40\uc885\uad6d)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -15723,6 +15723,28 @@
       "duration_ms": 239853,
       "name": "Spring Days",
       "url": "https://open.spotify.com/track/2htbpZkpsuD80TDw5nfNZo"
+    },
+    {
+      "album": {
+        "name": "Spring has come (with Yang Da-Il)",
+        "url": "https://open.spotify.com/album/4MrFofkylk5sPpDUoO8IMl"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Kook",
+          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
+        },
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198146,
+      "name": "Spring has come (with Yang Da-Il)",
+      "url": "https://open.spotify.com/track/6nAvfX95tDniO0CvctHnIf"
     },
     {
       "album": {

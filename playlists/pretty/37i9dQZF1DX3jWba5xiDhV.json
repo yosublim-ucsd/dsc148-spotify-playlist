@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 199283,
+  "num_followers": 199520,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTUzMGI4ODhhOWQ1ODhmODQ3ZTdhODU2ZDU5YTk5ZTBiN2VkNWQ0",
+  "snapshot_id": "MCxkZmNhYWUwMTdjOGNjZTI0Nzk0OWU3YzYzNDk2YmVmZjRiMWU0NjZm",
   "tracks": [
     {
       "added_at": "2024-03-07 23:01:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Ryan Paris",
-        "url": "https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t"
-      },
-      "artists": [
-        {
-          "name": "Ryan Paris",
-          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Dolce Vita",
-      "url": "https://open.spotify.com/track/2fv6Qeb7Z3uaqBeYINvJ0f"
-    },
-    {
-      "added_at": "2024-03-07 23:01:00",
-      "album": {
         "name": "Tutto va bene quando facciamo l'amore (Remixes)",
         "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 205592,
       "name": "Tutto va bene quando facciamo l'amore",
       "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Ryan Paris",
+        "url": "https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t"
+      },
+      "artists": [
+        {
+          "name": "Ryan Paris",
+          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Dolce Vita",
+      "url": "https://open.spotify.com/track/2fv6Qeb7Z3uaqBeYINvJ0f"
     },
     {
       "added_at": "2024-03-07 23:01:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
+        "name": "Caf\u00e8",
+        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
+      },
+      "artists": [
+        {
+          "name": "Dd Sound",
+          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
+        }
+      ],
+      "duration_ms": 393773,
+      "name": "Caf\u00e8 - Original 1979 Version",
+      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
         "name": "It's a War (Purple Disco Machine & Lorenz Rhode Remix)",
         "url": "https://open.spotify.com/album/5qbgEZzMrc15CmURgLIAWZ"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 401773,
       "name": "It's a War - Purple Disco Machine & Lorenz Rhode Instrumental",
       "url": "https://open.spotify.com/track/0ntbNSYXSiSpgrH1NLWHkN"
-    },
-    {
-      "added_at": "2024-03-07 23:01:00",
-      "album": {
-        "name": "Caf\u00e8",
-        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
-      },
-      "artists": [
-        {
-          "name": "Dd Sound",
-          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
-        }
-      ],
-      "duration_ms": 393773,
-      "name": "Caf\u00e8 - Original 1979 Version",
-      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
     },
     {
       "added_at": "2024-03-07 23:01:00",

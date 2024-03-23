@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,150 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,156 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 29 | [Where Will You Go](https://open.spotify.com/track/1kjNj5vBOG5v0VHYGErbO9) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:09 |
 | 30 | [Simple \(with Coco Jones\)](https://open.spotify.com/track/7uCtRKlnqNET1ohX7xzU7j) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 2:31 |
 | 31 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
-| 32 | [Fire](https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [HAV PLENTY Music From The Motion Picture](https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc) | 4:45 |
-| 33 | [Sorry For The Stupid Things \- Main](https://open.spotify.com/track/4T26YGUHTE5LLbb8xnTHPL) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:13 |
+| 32 | [Sorry For The Stupid Things \- Main](https://open.spotify.com/track/4T26YGUHTE5LLbb8xnTHPL) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:13 |
+| 33 | [Fire](https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [HAV PLENTY Music From The Motion Picture](https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc) | 4:45 |
 | 34 | [Girls Night Out \(with Doechii\)](https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:21 |
 | 35 | [No Stoppin' Us](https://open.spotify.com/track/4THDqloteA7XDcUicyhcvm) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [K\-Ci Hailey](https://open.spotify.com/artist/53M8YqZnU51ZjTFiXAFpIo) | [No Stoppin' Us](https://open.spotify.com/album/5jB7iZh1HNrQzgWajInSJm) | 2:59 |
 | 36 | [Reason for Breathing \- Album Edit](https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Reason For Breathing](https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q) | 5:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 49 | [Two Occasions \(Live\) \- Live Version](https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [A Closer Look](https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT) | 5:52 |
 | 50 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBkNDlkZmYyMTE0NDViOWEyMWZlZmMzYjAwYzNiN2UyYw==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA2YjE2ZDI2ODEwM2E1NDc0OGE5OTA5Njk3YWJhNmVjMw==`

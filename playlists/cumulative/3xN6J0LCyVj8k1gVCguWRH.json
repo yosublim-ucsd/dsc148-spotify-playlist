@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "!Darling",
+        "url": "https://open.spotify.com/album/4FrCwSik4hS42TxY8x2drq"
+      },
+      "artists": [
+        {
+          "name": "Kalden Berg",
+          "url": "https://open.spotify.com/artist/1Sh4FKSlVLcy3jPRxbzE0j"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226460,
+      "name": "!Darling",
+      "url": "https://open.spotify.com/track/2PrNgFm86ze4Fzg4Kqh4Pi"
+    },
+    {
+      "album": {
         "name": "I Love You Say It Back / \"party\"",
         "url": "https://open.spotify.com/album/4XwXUOmHZeJ2W1s5pn6NzM"
       },
@@ -8343,6 +8361,24 @@
     },
     {
       "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/03dKZ8RvGoLxOz6H3UhWIc"
+      },
+      "artists": [
+        {
+          "name": "S\u00f4ra",
+          "url": "https://open.spotify.com/artist/0Bx4jpot6hc7oUbu2SbtJ1"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7nQhFbKfO3hxfAw15uA034"
+    },
+    {
+      "album": {
         "name": "Call Me (Jam Version)",
         "url": "https://open.spotify.com/album/7aCO5xglVMZUwTjRMRaypk"
       },
@@ -9568,6 +9604,42 @@
       "duration_ms": 226135,
       "name": "Change my mind",
       "url": "https://open.spotify.com/track/6nvIN8ZnnLEPZGrmkoGy2q"
+    },
+    {
+      "album": {
+        "name": "CHANGE THE PAST",
+        "url": "https://open.spotify.com/album/0zxiXbU6hwXpeYLBWyhfLj"
+      },
+      "artists": [
+        {
+          "name": "Will Soma",
+          "url": "https://open.spotify.com/artist/2z0PvtLWAesi5Ym85uOGBW"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222688,
+      "name": "CHANGE THE PAST",
+      "url": "https://open.spotify.com/track/150VUiblwm4A4rbD1RNSFw"
+    },
+    {
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/3KlCanvNYfdD5bct0PLVHH"
+      },
+      "artists": [
+        {
+          "name": "Mcclendon",
+          "url": "https://open.spotify.com/artist/6ZZrclkv0EliJYU6MlRkzD"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219574,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/3rzF8mz5I8Umt1guWnBfwK"
     },
     {
       "album": {
@@ -15736,7 +15808,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 184411,
       "name": "El Efectivo",
       "url": "https://open.spotify.com/track/2GvMgNyf7dTKvs82xLRzsm"
@@ -28545,6 +28617,28 @@
     },
     {
       "album": {
+        "name": "L'Anse D'Argent",
+        "url": "https://open.spotify.com/album/1Rl59fG7ssncIeSQ9lDTGd"
+      },
+      "artists": [
+        {
+          "name": "Gold Lounge",
+          "url": "https://open.spotify.com/artist/7F8pI89hM1a5tVQBLwZPVJ"
+        },
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/5R1ovoPm5UcRJXRdyacN13"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245598,
+      "name": "L'Anse D'Argent",
+      "url": "https://open.spotify.com/track/2rIm4k3zVS3dVzhINPxYtw"
+    },
+    {
+      "album": {
         "name": "LA",
         "url": "https://open.spotify.com/album/5g9PJlDFxPG6sn3IgRZ9pw"
       },
@@ -31103,6 +31197,24 @@
     },
     {
       "album": {
+        "name": "Lose Your Cool",
+        "url": "https://open.spotify.com/album/6ds77NB4MHXhZtNMvrEXUC"
+      },
+      "artists": [
+        {
+          "name": "KOCHAM",
+          "url": "https://open.spotify.com/artist/07gJZgbJwBIKN2DmCn7Dqu"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151177,
+      "name": "Lose Your Cool",
+      "url": "https://open.spotify.com/track/7oMEgEbDe9bEgYIgxh829R"
+    },
+    {
+      "album": {
         "name": "Curtain Call: The Hits (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
       },
@@ -32941,6 +33053,24 @@
     },
     {
       "album": {
+        "name": "Maybe She Knows",
+        "url": "https://open.spotify.com/album/11MKyHO8n5nw6OsqOpobKg"
+      },
+      "artists": [
+        {
+          "name": "Tom R Rider",
+          "url": "https://open.spotify.com/artist/2mUPa152Sru67ghhbeADat"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149931,
+      "name": "Maybe She Knows",
+      "url": "https://open.spotify.com/track/1JEkio51J9H2gXtf91hfeL"
+    },
+    {
+      "album": {
         "name": "Maze",
         "url": "https://open.spotify.com/album/3mD25KhmdgRF6gHwwLKM0Q"
       },
@@ -34638,6 +34768,24 @@
       "duration_ms": 211714,
       "name": "Moon",
       "url": "https://open.spotify.com/track/7JqYZpCyvI6Knn0y8eMeBY"
+    },
+    {
+      "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/7q31344xJVGygupgXUWVFQ"
+      },
+      "artists": [
+        {
+          "name": "Matt McKnzi",
+          "url": "https://open.spotify.com/artist/4orx8N4oR4sQ782cyxNwwq"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173105,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/0zqeElCo5HCsX7jHVCdAdf"
     },
     {
       "album": {
@@ -38992,6 +39140,24 @@
       "duration_ms": 198125,
       "name": "OURS",
       "url": "https://open.spotify.com/track/0k1umUayu5jjkTSucRkkNT"
+    },
+    {
+      "album": {
+        "name": "Out of Here",
+        "url": "https://open.spotify.com/album/4fWdXA9mj6insaItRojSjm"
+      },
+      "artists": [
+        {
+          "name": "KaEl",
+          "url": "https://open.spotify.com/artist/2fNT8err493GqBbn4eyhB3"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Out of Here",
+      "url": "https://open.spotify.com/track/5xAOEHUj8WABO95u3A3eh4"
     },
     {
       "album": {
@@ -55699,6 +55865,24 @@
     },
     {
       "album": {
+        "name": "The Color Within",
+        "url": "https://open.spotify.com/album/2wmxfFoWEw6KUCBR9pcuf3"
+      },
+      "artists": [
+        {
+          "name": "The Intemperate Sons",
+          "url": "https://open.spotify.com/artist/5LwJGC0Cr6YQBAMmvoQqEY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194370,
+      "name": "Wading in the Gray",
+      "url": "https://open.spotify.com/track/44TybF34nhuyxCB3Q5g5E7"
+    },
+    {
+      "album": {
         "name": "WAGMI",
         "url": "https://open.spotify.com/album/2eq1IdDsUQy6QU7RpbnsMx"
       },
@@ -56864,6 +57048,24 @@
       "duration_ms": 156250,
       "name": "We Won't Forget",
       "url": "https://open.spotify.com/track/0GdQJXcJO0Akn5YBdqQYaD"
+    },
+    {
+      "album": {
+        "name": "We'll Never Be This Young Again",
+        "url": "https://open.spotify.com/album/1kEHqAnzTdlVEUyfOiHN7X"
+      },
+      "artists": [
+        {
+          "name": "AJ Smith",
+          "url": "https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164182,
+      "name": "We'll Never Be This Young Again",
+      "url": "https://open.spotify.com/track/44c8vaeSnZb5Tvy7KL3tju"
     },
     {
       "album": {

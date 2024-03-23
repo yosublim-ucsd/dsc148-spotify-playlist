@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Muni Long
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,257 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,259 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 20 | [Love In Me](https://open.spotify.com/track/6uT0CYISZil3WQorOCZrfl) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Love In Me](https://open.spotify.com/album/5ZVTS7eOqgLP5CX9GpGclp) | 2:52 |
 | 21 | [Breaking Point \(feat\. Victoria Monét\) \[Remix\]](https://open.spotify.com/track/6thKLyOEc4LXkfWTRLmyq6) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Breaking Point \(feat\. Victoria Monét\) \[Remix\]](https://open.spotify.com/album/6iHkadl6ouedA4nFKffFjz) | 5:10 |
 | 22 | [LOML](https://open.spotify.com/track/5bgkZPaNYQOZaG02hTSU0R) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter](https://open.spotify.com/album/2WCUgddua4H6GiwTBK6Zom) | 3:00 |
-| 23 | [Karma](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Karma](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 |
+| 23 | [KARMA](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [KARMA](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 |
 | 24 | [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 |
 | 25 | [Someday](https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX) | 2:41 |
 | 26 | [Certainty Of Life](https://open.spotify.com/track/0Gnz3IUlxu1JC0RRfKlXLL) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Certainty Of Life](https://open.spotify.com/album/0B1fNP1D29XkjFIyr5c1xB) | 2:39 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 48 | [best thing for me](https://open.spotify.com/track/7cPYni8RIhjePdNSNxkVOZ) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [best thing for me](https://open.spotify.com/album/5u2VPya6pROsJYlXa3v0pm) | 2:26 |
 | 49 | [Your Body](https://open.spotify.com/track/7hieuAetWnTNSWctpbsRqn) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [BeMyFiasco](https://open.spotify.com/artist/2WDSk4ZbwCw2E99XV6gkRk), [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS) | [Your Body](https://open.spotify.com/album/08z8sSLaf8O4mFyCtGzULu) | 3:15 |
 
-Snapshot ID: `MCw3YmZkZjE0MmI0NDM2OTU1MjQ2OWMzZjg5Mzg1OGZhOGQ0NGE3OGYy`
+Snapshot ID: `MCxkODc5NGE5NTIyYzc4YzgwZTllNDQyZDI3NTI4YzAxN2U0MmI2MDU4`

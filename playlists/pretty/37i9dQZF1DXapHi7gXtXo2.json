@@ -1,12 +1,12 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 84616,
+  "num_followers": 84636,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjRmZWE3YmNkOTc3ZmFlOGYyZWZhN2Y1OGE5YTVmNTk0MjZiNTFl",
+  "snapshot_id": "MCw5NThmMmIzYWU5ZmM4NTE0ZWY4N2Q5NzgzOTFhN2Q0OWU3NjUwMTI5",
   "tracks": [
     {
       "added_at": "2024-02-29 22:13:03",
@@ -583,22 +583,18 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+        "name": "Ojitos de Md",
+        "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
       },
       "artists": [
         {
           "name": "Axel Fiks",
           "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
         }
       ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
+      "duration_ms": 137052,
+      "name": "Ojitos de Md",
+      "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -731,38 +727,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "La isla del sol",
-        "url": "https://open.spotify.com/album/4uYpWUBe8DcmOsDhdwPIfr"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 131333,
-      "name": "La isla del sol",
-      "url": "https://open.spotify.com/track/0HBn23L8dzvkSnyeLhlsCD"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
-        "name": "Ojitos de Md",
-        "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 137052,
-      "name": "Ojitos de Md",
-      "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
       },
@@ -783,18 +747,38 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Algo Tiene Que Cambiar",
-        "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
       },
       "artists": [
         {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
         }
       ],
-      "duration_ms": 265473,
-      "name": "M\u00e1s Sencillo",
-      "url": "https://open.spotify.com/track/7K5x3ONjTT1uJCR431ElKF"
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "La isla del sol",
+        "url": "https://open.spotify.com/album/4uYpWUBe8DcmOsDhdwPIfr"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 131333,
+      "name": "La isla del sol",
+      "url": "https://open.spotify.com/track/0HBn23L8dzvkSnyeLhlsCD"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -815,6 +799,22 @@
       "duration_ms": 188222,
       "name": "Todo Estaba Bien",
       "url": "https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "Algo Tiene Que Cambiar",
+        "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 265473,
+      "name": "M\u00e1s Sencillo",
+      "url": "https://open.spotify.com/track/7K5x3ONjTT1uJCR431ElKF"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 153139,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
         "name": "Otro Lado",
         "url": "https://open.spotify.com/album/4lZqShlTketzCTHWnUMX1K"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Ser De Ti",
-      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "Ganas",
         "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 254135,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Ser De Ti",
+      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "Verano en Invierno",
         "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 228437,
       "name": "Amor de Verano",
       "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1203,22 +1219,6 @@
       "duration_ms": 170192,
       "name": "Ojitos de Md - Remix",
       "url": "https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 153139,
-      "name": "Silvia",
-      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Mundo de Cristal",
-        "url": "https://open.spotify.com/album/6cl4uIrqDSu297ApS84ZBj"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 251996,
-      "name": "Mundo de Cristal",
-      "url": "https://open.spotify.com/track/6vV1TLBRd8IeOpQMZNw1ZH"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "Todo el Universo",
         "url": "https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 183296,
       "name": "Todo el Universo",
       "url": "https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "Mundo de Cristal",
+        "url": "https://open.spotify.com/album/6cl4uIrqDSu297ApS84ZBj"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 251996,
+      "name": "Mundo de Cristal",
+      "url": "https://open.spotify.com/track/6vV1TLBRd8IeOpQMZNw1ZH"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW"
+        "name": "Madre Padre Marte",
+        "url": "https://open.spotify.com/album/7jio1zy0Bp4PiUXKdwfDMk"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
         }
       ],
-      "duration_ms": 196034,
-      "name": "Hace rato",
-      "url": "https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR"
+      "duration_ms": 212574,
+      "name": "Aparato",
+      "url": "https://open.spotify.com/track/4wl4H1WNxfxJveag7dGkQU"
     }
   ],
   "unique_name": "Radio Indie",

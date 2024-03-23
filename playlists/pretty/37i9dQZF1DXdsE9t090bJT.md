@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,772 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,789 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 75 | [Enamorado](https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Del Corazon](https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C) | 4:05 |
 | 76 | [Mil Maneras De Morir](https://open.spotify.com/track/1iQMF9XEicKaETg4whnTY5) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs) | [Mil Maneras De Morir](https://open.spotify.com/album/3Dkya3iIixR12RhWy8KnY5) | 3:09 |
 | 77 | [Antes y Después De Ti](https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Good Vibes Buenas Vibras](https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee) | 3:14 |
-| 78 | [Lo Tienes Todo](https://open.spotify.com/track/3XlgnHlzPia0v8szVKgSQI) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Lo Raro de Mi Libreta](https://open.spotify.com/album/5AKCPbBW4kSmJVfyQ5LjCN) | 2:57 |
+| 78 | [24/7](https://open.spotify.com/track/3JNUs18dkIO6sNRSdCaMKd) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:05 |
 | 79 | [Junto A Ti](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Ti](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 |
-| 80 | [24/7](https://open.spotify.com/track/3JNUs18dkIO6sNRSdCaMKd) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:05 |
+| 80 | [Lo Tienes Todo](https://open.spotify.com/track/3XlgnHlzPia0v8szVKgSQI) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Lo Raro de Mi Libreta](https://open.spotify.com/album/5AKCPbBW4kSmJVfyQ5LjCN) | 2:57 |
 
-Snapshot ID: `MCwzZTZhZjFjMmIxZDNlM2FiYjM3NDhlNTEyNjQwMzQ2NTc4ZWMxMzcy`
+Snapshot ID: `MCwxYjE4ZDljNjY2OGM0YzEyMzg5OTMzZGYxZGNkMGJmNGVhMzgyNjgz`

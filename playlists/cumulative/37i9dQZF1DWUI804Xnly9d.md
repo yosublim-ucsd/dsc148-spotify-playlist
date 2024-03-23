@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-299 songs - 17 hr 1 min
+300 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Gulaab Tum](https://open.spotify.com/track/1yFYVPFQZfRPPvPlVFF71s) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Gulaab Tum](https://open.spotify.com/album/2iya1ghZ9OpUACDggqRBaf) | 4:22 | 2024-03-13 |  |
 | [Ha Bas Tu](https://open.spotify.com/track/2xissAdak6viTlc3dUxKVS) | [Naman Goswami](https://open.spotify.com/artist/07HSVaNPl7nncH7T2yjKNi) | [Ha Bas Tu](https://open.spotify.com/album/7dAis6NusWiJzXuRWUviXS) | 4:22 | 2023-10-09 | 2023-11-30 |
 | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/track/2pcKIrfRJKtjndtEK0danK) | [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj), [Swasti Nagar](https://open.spotify.com/artist/3IXozjWpOcyeWvfzndjwA4) | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/album/677qn7ZPFnweVzenu7lboo) | 2:37 | 2023-05-17 | 2023-06-03 |
+| [Haq Hai Tujhe](https://open.spotify.com/track/0QeX9QuEdqUlC767B1DPul) | [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6), [Prabhjee Kaur](https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt) | [Haq Hai Tujhe](https://open.spotify.com/album/1GlOG03Zy4icRF2rxMA0GK) | 3:50 | 2024-03-22 |  |
 | [Haseen Zindagi](https://open.spotify.com/track/0SJRKLymM7ElckDuzZyMq9) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Haseen Zindagi](https://open.spotify.com/album/6QMhD0MzyqQgaYPXEsnGBB) | 2:39 | 2023-11-15 | 2024-02-20 |
 | [Haule Se](https://open.spotify.com/track/0cwluZ190b1ZPXG8jMBhwn) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Haule Se](https://open.spotify.com/album/3z3m2MnZZxweHa53fr9pT8) | 2:52 | 2023-12-18 |  |
 | [Heer Ranjha \(Reprise\)](https://open.spotify.com/track/1bqUw1KWD8e9SiZx9vXTNh) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Heer Ranjha \(Reprise\)](https://open.spotify.com/album/3SgxfvjAmlXnHYm7Ej3ix7) | 3:55 | 2023-05-17 | 2024-03-19 |
@@ -137,7 +138,7 @@
 | [Kajal](https://open.spotify.com/track/0YVpNFgaEt2NFBAcUBiZU0) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl) | [Madari](https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8) | 2:41 | 2023-06-09 | 2023-08-04 |
 | [Karen Kya](https://open.spotify.com/track/0ufrMgjMiBMuu7TnAnJSdZ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Dr Akhtar Shumaar](https://open.spotify.com/artist/4ojgUUCvN7XHnSfWfwhjKe) | [Karen Kya](https://open.spotify.com/album/6HFLQ3jFCkbqPkM2XanILd) | 3:26 | 2023-05-17 | 2024-01-19 |
 | [Kasam Se](https://open.spotify.com/track/53XRfIgocnwDCIkpCEyqbU) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Kasam Se](https://open.spotify.com/album/6HnM6hiRAbIahYlLkguthy) | 3:05 | 2023-09-01 | 2023-10-18 |
-| [Kashtiyaan](https://open.spotify.com/track/54xTcmfvjb1qzQgcIJRHVp) | [Chirag](https://open.spotify.com/artist/2MPyD5qsOPAr2t6FDjPgIq), [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc) | [Kashtiyaan](https://open.spotify.com/album/0YZFayv6b8bsJov07LjkVf) | 3:14 | 2024-02-13 |  |
+| [Kashtiyaan](https://open.spotify.com/track/54xTcmfvjb1qzQgcIJRHVp) | [Chirag](https://open.spotify.com/artist/2MPyD5qsOPAr2t6FDjPgIq), [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc) | [Kashtiyaan](https://open.spotify.com/album/0YZFayv6b8bsJov07LjkVf) | 3:14 | 2024-02-13 | 2024-03-23 |
 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 | 2023-05-17 |  |
 | [Kehedo Sanam](https://open.spotify.com/track/5oJgaEPgb8n6oG6E7rlL5T) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Kehedo Sanam](https://open.spotify.com/album/36vvhudUd2zaFouRIIaltH) | 4:49 | 2023-07-24 | 2023-08-31 |
 | [Kehna Hai](https://open.spotify.com/track/4TJyhWQVAMIgFc7nVwQ9sa) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Kehna Hai](https://open.spotify.com/album/1NgK5XjpuciKO1OPh0BTwM) | 2:31 | 2024-02-09 |  |

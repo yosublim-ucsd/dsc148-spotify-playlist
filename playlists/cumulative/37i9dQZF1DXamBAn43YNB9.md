@@ -4,7 +4,7 @@
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-120 songs - 7 hr 4 min
+121 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [For A Day](https://open.spotify.com/track/29LtoylY7DDpmY2hMdEVkx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini) | 2:47 | 2023-10-27 |  |
 | [For A Day](https://open.spotify.com/track/3ImUotYT19T3vXDVOWAXAm) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i) | 2:48 | 2023-06-15 | 2023-11-03 |
 | [For The Both of Us](https://open.spotify.com/track/0QIiiAoUQru2NQtRBrihII) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [For The Both of Us](https://open.spotify.com/album/0fxF1wmYvHSPbche9nHviN) | 2:45 | 2023-09-07 |  |
+| [Forget Me](https://open.spotify.com/track/4YLO83LbtAuI7kwSe9mMjQ) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Forget Me](https://open.spotify.com/album/0l5oFlpX6trx8fiIY4Zczz) | 3:09 | 2024-03-21 |  |
 | [Freight Man](https://open.spotify.com/track/7nUmTjJSeR9rpNu9yDZEbO) | [Josie](https://open.spotify.com/artist/0lkn1fc0HZVVtrl8otRdT1) | [Freight Man](https://open.spotify.com/album/3khIXfE6StiZSkmsfGEw6k) | 3:11 | 2023-09-14 |  |
 | [Ghost](https://open.spotify.com/track/0cqeoWk0PP2UDTYVfii9fB) | [Hunter & Jordan](https://open.spotify.com/artist/1jXNRIUmYp5nKQ96Szehou) | [Ghost](https://open.spotify.com/album/7aCQ8ykn17ablkh4ys2xTJ) | 2:52 | 2023-06-15 |  |
 | [Ghosts](https://open.spotify.com/track/6TjzdRCPdXruPXte8J9zPD) | [Jeremy Edwards](https://open.spotify.com/artist/6jvroIfVd4uDH2i1aBQmaF), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Ghosts](https://open.spotify.com/album/2kyZSVnyyYzdUuYUFNagtW) | 4:36 | 2023-07-07 |  |

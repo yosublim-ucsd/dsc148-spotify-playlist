@@ -1,15 +1,15 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 32445,
+  "num_followers": 32455,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MTcwNzUsMDAwMDAwMDA1NzNmN2ExOTdhN2ViNWIxN2FmNGM2MGZiZjExOWY2OQ==",
+  "snapshot_id": "Mjg1MTg1NjEsMDAwMDAwMDA4YTIwMzRlYzY5MWVkM2JhOGZlM2UxNWRkYWZmZjYwMA==",
   "tracks": [
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Feels Like Rain",
         "url": "https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Damn Right, I've Got The Blues",
         "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Bring 'Em In",
         "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/1amH1FjaNDAaZVpHWzcztW"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "I Was Walking Through The Woods (Expanded Edition)",
         "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "The Essential Jimmie Vaughan",
         "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/0C7mriFxQZ24xpDXgSfIc8"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Damn Right, I've Got The Blues",
         "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/1TkliUZNnCeTjZMWPuUoPK"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
@@ -165,23 +165,7 @@
       "url": "https://open.spotify.com/track/37mWDk2nTyx0eon0AkdOKQ"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
-      "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 138506,
-      "name": "First Time I Met The Blues - Single Version",
-      "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
-    },
-    {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "The Blues Don't Lie",
         "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
@@ -201,7 +185,7 @@
       "url": "https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Bring 'Em In",
         "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
@@ -217,7 +201,23 @@
       "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "Rememberin' Stevie",
+      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
+    },
+    {
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
@@ -237,23 +237,7 @@
       "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
-      "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 418880,
-      "name": "Rememberin' Stevie",
-      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
-    },
-    {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
@@ -273,7 +257,7 @@
       "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
@@ -289,7 +273,7 @@
       "url": "https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "The Blues Is Alive And Well",
         "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
@@ -313,7 +297,7 @@
       "url": "https://open.spotify.com/track/3BkMv30DKcUEOsRbDSAyIq"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
@@ -333,7 +317,7 @@
       "url": "https://open.spotify.com/track/3aa9lEOjZOn2Om2vdMCR1E"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
@@ -349,7 +333,7 @@
       "url": "https://open.spotify.com/track/3Ug51eYATZ487NwOaTbpAJ"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
@@ -365,7 +349,7 @@
       "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Buddy Guy & Junior Wells Play The Blues",
         "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
@@ -385,7 +369,7 @@
       "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
@@ -405,7 +389,7 @@
       "url": "https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "The Blues Is Alive And Well",
         "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
@@ -421,7 +405,7 @@
       "url": "https://open.spotify.com/track/0TuPaGnVZ9wwv0qAjCLEin"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
@@ -437,7 +421,7 @@
       "url": "https://open.spotify.com/track/6TNNss0QAjTi14I5CVfMpJ"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Real Gone",
         "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
@@ -457,7 +441,7 @@
       "url": "https://open.spotify.com/track/3Wed8ynhMSTPj9ErweJIVl"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
@@ -477,39 +461,7 @@
       "url": "https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
-      "album": {
-        "name": "Born To Play Guitar",
-        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 296520,
-      "name": "Born To Play Guitar",
-      "url": "https://open.spotify.com/track/7yXuquZiCxTyLXzPnwlqJv"
-    },
-    {
-      "added_at": "2024-03-21 12:35:06",
-      "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Jam On A Monday Morning",
-      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
-    },
-    {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
@@ -529,7 +481,39 @@
       "url": "https://open.spotify.com/track/15e3leRc1c26oStnjjiex6"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Jam On A Monday Morning",
+      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
+    },
+    {
+      "added_at": "2024-03-22 13:21:36",
+      "album": {
+        "name": "Born To Play Guitar",
+        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 296520,
+      "name": "Born To Play Guitar",
+      "url": "https://open.spotify.com/track/7yXuquZiCxTyLXzPnwlqJv"
+    },
+    {
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "The Blues Is Alive And Well",
         "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
@@ -545,27 +529,7 @@
       "url": "https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
-      "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 126933,
-      "name": "Hoodoo Man Blues",
-      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
-    },
-    {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "I'm A Woman",
         "url": "https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm"
@@ -593,7 +557,27 @@
       "url": "https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
+      "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 126933,
+      "name": "Hoodoo Man Blues",
+      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
+    },
+    {
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Skin Deep",
         "url": "https://open.spotify.com/album/0ROkOFhb4cqlys1e8e3m2W"
@@ -613,7 +597,7 @@
       "url": "https://open.spotify.com/track/2hqFZeakNfYmO0h4ZFmDyg"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "The Blues Don't Lie",
         "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
@@ -633,7 +617,7 @@
       "url": "https://open.spotify.com/track/5fqugbggilsnWCohZhTSdA"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Damn Right, I've Got The Blues",
         "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
@@ -649,7 +633,7 @@
       "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "The Blues Is Alive And Well",
         "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
@@ -669,7 +653,7 @@
       "url": "https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Bring 'Em In",
         "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
@@ -689,7 +673,7 @@
       "url": "https://open.spotify.com/track/34JrJDLnQSCdcvX54bRYys"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
@@ -705,39 +689,7 @@
       "url": "https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
-      "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 139626,
-      "name": "I Got My Eyes On You",
-      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
-    },
-    {
-      "added_at": "2024-03-21 12:35:06",
-      "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 242600,
-      "name": "Whiskey For Sale",
-      "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
-    },
-    {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
@@ -757,27 +709,23 @@
       "url": "https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
-        "name": "Bring 'Em In",
-        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 296280,
-      "name": "I've Got Dreams To Remember",
-      "url": "https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH"
+      "duration_ms": 242600,
+      "name": "Whiskey For Sale",
+      "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Heavy Love",
         "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
@@ -797,7 +745,27 @@
       "url": "https://open.spotify.com/track/3zhWfTjCmrfcYTZy7C4OaD"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
+      "album": {
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 296280,
+      "name": "I've Got Dreams To Remember",
+      "url": "https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH"
+    },
+    {
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
@@ -817,7 +785,7 @@
       "url": "https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Feels Like Rain",
         "url": "https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd"
@@ -833,23 +801,7 @@
       "url": "https://open.spotify.com/track/6aENAvyxfR6LU8KPg5jnUV"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
-      "album": {
-        "name": "DJ Play My Blues",
-        "url": "https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 282493,
-      "name": "Just Teasin'",
-      "url": "https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH"
-    },
-    {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
@@ -865,7 +817,23 @@
       "url": "https://open.spotify.com/track/7odv5siIsQdOEUmsk7Mjsv"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
+      "album": {
+        "name": "DJ Play My Blues",
+        "url": "https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 282493,
+      "name": "Just Teasin'",
+      "url": "https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH"
+    },
+    {
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Slippin' In",
         "url": "https://open.spotify.com/album/4vPx0GEomsLo0KStLprAZ2"
@@ -881,7 +849,7 @@
       "url": "https://open.spotify.com/track/4sVhMHu4CkQ8G9HKitmWfU"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "70s Blues",
         "url": "https://open.spotify.com/album/6glPjbgakqems9vEZFqlVJ"
@@ -897,7 +865,7 @@
       "url": "https://open.spotify.com/track/5GC65lioZ3LQbbvMM4dwPi"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Damn Right, I've Got The Blues",
         "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
@@ -917,7 +885,23 @@
       "url": "https://open.spotify.com/track/2yJPlXbIlR9rQEFp7hB4by"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4LiDDE58UkFKQf5YRgzWJi"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2YVulRd4wOa98zDQKsQbBh"
+    },
+    {
+      "added_at": "2024-03-22 13:21:36",
       "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
@@ -937,20 +921,40 @@
       "url": "https://open.spotify.com/track/48z2rCxqFdlMejXthnbCkX"
     },
     {
-      "added_at": "2024-03-21 12:35:06",
+      "added_at": "2024-03-22 13:21:36",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/4LiDDE58UkFKQf5YRgzWJi"
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
       },
       "artists": [
         {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
         }
       ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/2YVulRd4wOa98zDQKsQbBh"
+      "duration_ms": 244373,
+      "name": "I Put a Spell On You (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/3e1vsLS7W9LNOofXgGccH3"
+    },
+    {
+      "added_at": "2024-03-22 13:21:36",
+      "album": {
+        "name": "Can't Quit The Blues",
+        "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 384280,
+      "name": "Miss Ida B",
+      "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
     }
   ],
   "unique_name": "This Is Buddy Guy",

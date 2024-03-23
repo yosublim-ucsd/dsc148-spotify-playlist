@@ -4,7 +4,7 @@
 
 > Novidades do indie mundial\. Foto: Mitski
 
-100 songs - 5 hr 52 min
+102 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [butterfly \(so free\)](https://open.spotify.com/track/5IyJ1x5qq8HShuyK41jAba) | [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [butterfly \(so free\)](https://open.spotify.com/album/5Q38YvTGu832sX1ZDKK2sO) | 3:06 | 2023-09-22 |  |
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-09-22 |  |
 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-16 |  |
+| [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-22 |  |
 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 | 2023-09-22 |  |
 | [Controllah \(feat\. MC Bin Laden\)](https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 2:30 | 2023-09-22 |  |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-09-22 |  |
@@ -92,6 +93,7 @@
 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 | 2023-09-22 |  |
 | [The Only One](https://open.spotify.com/track/102SBZ2snfZMZhWkgrTIWV) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The Only One](https://open.spotify.com/album/2T7w6O7kQMd0VcbHqC6hW1) | 3:31 | 2023-09-22 |  |
 | [THREAT](https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [THREAT](https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO) | 2:50 | 2023-09-22 |  |
+| [Time :: Fate :: Karma :: God](https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City \(Deluxe\)](https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS) | 3:03 | 2024-03-22 |  |
 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 | 2023-09-22 |  |
 | [Troubled Man](https://open.spotify.com/track/0GM071OWnLj7XbblrwSlo0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Troubled Man](https://open.spotify.com/album/0aMbtIWaYgBdtU77zOQN4N) | 2:35 | 2023-09-22 |  |
 | [Try My Best](https://open.spotify.com/track/6AvFwZ0chMEYCVbrPvBiMW) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Try My Best](https://open.spotify.com/album/3MnZrTUyF9cffY6uqzWRdb) | 3:46 | 2023-09-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,632 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,640 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 10 | [A Running Start](https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:21 |
 | 11 | [maybe](https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [maybe](https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF) | 3:41 |
 | 12 | [Your Favorite Things](https://open.spotify.com/track/1BChLfdJmv6rPKnZyTNOQ2) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Your Favorite Things](https://open.spotify.com/album/45w2uu1ElL5z9NCTJ9Sf8e) | 3:20 |
-| 13 | [メルヘンを捨てないで](https://open.spotify.com/track/3O1ojkYeGIfbsHwoPnNYVy) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [メルヘンを捨てないで \- Single](https://open.spotify.com/album/5QTY7exTo7bUbckd9HAolP) | 4:52 |
+| 13 | [メルヘンを捨てないで](https://open.spotify.com/track/1GsZsgGcyDpE4MnGBgN6uo) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 4:51 |
 | 14 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 |
 | 15 | [嘘つきの君が好き](https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [嘘つきの君が好き](https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs) | 3:14 |
 | 16 | [iris](https://open.spotify.com/track/63mR8YjEoMajP2hlQMgCUu) | [Ami Kusakari](https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [iris / pray for peace](https://open.spotify.com/album/4SxRwAlnfZVpPF7DEVrvtZ) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 49 | [Sweet Lemon](https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON) | [Newdums](https://open.spotify.com/artist/0TnbcGo1i35F3JYLa530hB) | [Left Behind](https://open.spotify.com/album/1AX8uGsbYTniPe3GpGJX3D) | 3:42 |
 | 50 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 |
 
-Snapshot ID: `MCwyYWE5YWU1MGYzMWE4ZmUzYTNmMTAxMWFkNjdlN2NiNTFiMDM3NThi`
+Snapshot ID: `MCxjYzA2NGM4ZTFhYzc5MWIzYjU3MTZiMTI4ZTJjMmYxZGE4ZTdhN2Zj`

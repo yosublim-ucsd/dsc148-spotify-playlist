@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:61SFRZAmfyJhcffwR2Ijuq">Jason Crabb</a>
 
-370 songs - 22 hr 58 min
+371 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Clear The Air](https://open.spotify.com/track/7mN6Y61Xo7k7aoxkuqzXlz) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9), [McKenna Johns](https://open.spotify.com/artist/6zflBJE0PSTfK8BzFpRWNB) | [Though None Go](https://open.spotify.com/album/6AARjaQ2hd1WfU3S0JfImo) | 3:32 | 2022-08-26 | 2022-10-02 |
 | [Come What May](https://open.spotify.com/track/5zpuYdCR4Tmm7zv6wYgqMK) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Come What May](https://open.spotify.com/album/3skjNvlGvAQwauNzv217yy) | 3:21 | 2022-02-25 | 2022-04-29 |
 | [Cornerstone \(feat\. Zach Williams\)](https://open.spotify.com/track/6wCVcqWX20n8kAtIK9PoeG) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Life After Death](https://open.spotify.com/album/0r9SK42XWsd4BOu4IGi1c3) | 3:39 | 2022-08-26 | 2022-10-02 |
+| [Crimson Dust \- Live](https://open.spotify.com/track/1mE0BS6BvuoOgSpHEcx1QI) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worthy is the Lamb \(Live\)](https://open.spotify.com/album/6rAbB8RMxupIRZXUIs8sOs) | 4:12 | 2024-03-20 |  |
 | [Deeper Waters](https://open.spotify.com/track/3TyXxUT1D3EiATkn4g5vJ6) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB) | 2:36 | 2024-03-20 |  |
 | [Desert Road](https://open.spotify.com/track/5fomExVZhfTmfwPQCBG5GQ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer](https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw) | 3:38 | 2022-02-25 | 2022-08-27 |
 | [Digital Death](https://open.spotify.com/track/66Y2qVIDNRfNypqUSlX57Q) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Onward & Upward](https://open.spotify.com/album/6bPc9nUVS4Hk4M2RCGtjFi) | 4:50 | 2022-02-25 | 2022-03-06 |
@@ -176,7 +177,7 @@
 | [If The Lord Builds The House](https://open.spotify.com/track/1gHEMTscQ1XBevcJsmcMNV) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/3DnbvxLXCsgPs4nUl2mxs9) | 3:55 | 2022-06-10 | 2022-07-29 |
 | [If The Lord Builds The House](https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9) | 3:55 | 2022-10-01 | 2023-10-07 |
 | [If The Lord Builds The House](https://open.spotify.com/track/7baAHpv91hJA3UEAv7qfLH) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/6V9WshsSiYxovVnq1MPuTQ) | 3:55 | 2022-07-08 | 2022-11-07 |
-| [In Christ Alone](https://open.spotify.com/track/3nEQk6WLLLjcFkGNKYDylL) | [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep), [Fallon Graham](https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg) | [In Christ Alone](https://open.spotify.com/album/3f09hTkQJplZaTQ0r6XJRj) | 3:42 | 2023-10-06 |  |
+| [In Christ Alone](https://open.spotify.com/track/3nEQk6WLLLjcFkGNKYDylL) | [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep), [Fallon Graham](https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg) | [In Christ Alone](https://open.spotify.com/album/3f09hTkQJplZaTQ0r6XJRj) | 3:42 | 2023-10-06 | 2024-03-23 |
 | [In Jesus Name \(God Of Possible\) \- Piano Version](https://open.spotify.com/track/1H4n9Bm5Xrv8OTrJgLpyb5) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [In Jesus Name \(God Of Possible\) \[Piano Version\]](https://open.spotify.com/album/7JIK7T3f1r89w0MNhSPB9r) | 3:40 | 2022-02-25 | 2022-06-11 |
 | [In The House](https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 2:59 | 2022-02-25 | 2022-05-14 |
 | [Invited](https://open.spotify.com/track/7y5x9ZsfnVZKd5nyL7ekqp) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Invited](https://open.spotify.com/album/1wj7dPYIb0ECjKmgZ50fZ0) | 3:43 | 2024-03-20 |  |

@@ -4,7 +4,7 @@
 
 > This is the best of ska, new and classic\. Cover: Madness
 
-272 songs - 14 hr 25 min
+273 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Baby](https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Baby](https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc) | 2:53 | 2024-01-19 |  |
 | [Barely Kids](https://open.spotify.com/track/1E6Au8m7FNG3eAriuL0CZ9) | [The Inevitables](https://open.spotify.com/artist/5qr4DCKr3oAxSslg7e3tdK) | [The Inevitables](https://open.spotify.com/album/7I68xaGkCBpmjAHTBOpisF) | 3:09 | 2022-04-14 | 2022-06-06 |
 | [Be Skappy](https://open.spotify.com/track/3rtjyvXNqhuNwNmyPOXoI8) | [9teez](https://open.spotify.com/artist/2kPEyISiF9UNFGL0D6Gxf1) | [Be Skappy](https://open.spotify.com/album/4wbfPnK6ALcVbDch7TTUtS) | 3:27 | 2022-04-14 | 2022-04-21 |
-| [Beatdown Generation](https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Beatdown Generation](https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud) | 3:14 | 2021-09-02 |  |
+| [Beatdown Generation](https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Beatdown Generation](https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud) | 3:14 | 2021-09-02 | 2024-03-23 |
 | [Beer](https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Everything Sucks](https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF) | 3:40 | 2021-09-02 |  |
 | [Blessed with a Melody](https://open.spotify.com/track/2VOPWmLCCfSKDtxiQBxKsx) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [Blessed with a Melody](https://open.spotify.com/album/06rxIyt9gHCan4NA9puzRL) | 4:27 | 2023-10-13 |  |
 | [Bodycams Off](https://open.spotify.com/track/7GeAKKIpnMG0Io4Yrln39Q) | [Corrupt Vision](https://open.spotify.com/artist/44j7MhDPFjIWudduCD2Rcv) | [These Hands of Mine](https://open.spotify.com/album/3EC5JRbeCFfWLMa7x14eCS) | 1:36 | 2022-04-14 | 2022-04-21 |
@@ -150,6 +150,7 @@
 | [No One Said It Was Easy](https://open.spotify.com/track/6Vfu17e3R2xoKP1aXmMxlS) | [\[spunge\]](https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT) | [No One Said It Was Easy](https://open.spotify.com/album/3UKUSqQYspQheeMi6wDXbS) | 3:20 | 2021-09-02 | 2022-07-29 |
 | [No Place Like \(Not Being\) Home](https://open.spotify.com/track/2b8JJGU8BxKcxuk7HUHXqa) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [No Place Like \(Not Being\) Home](https://open.spotify.com/album/1cMJEOgIrHokq4zkORuHBw) | 4:00 | 2021-09-02 | 2022-07-29 |
 | [No Place Like \(Not Being\) Home](https://open.spotify.com/track/4EJXrKHEbQp63JiMHUN4I3) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Hypochondriac](https://open.spotify.com/album/6uDqold3P9I1IKn2XuwZem) | 4:00 | 2022-04-14 | 2023-10-24 |
+| [No Worries](https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:39 | 2024-02-23 |  |
 | [Not Now](https://open.spotify.com/track/5lZKUzlFHgzLwvS4ySRYZ4) | [The Meddlers](https://open.spotify.com/artist/6M7aTHb7afp7EWmpUkJLDH) | [Not Now](https://open.spotify.com/album/3P7lyRYnaaJ8kTkchgYRjg) | 2:57 | 2022-04-14 | 2022-04-21 |
 | [OHMYGOD](https://open.spotify.com/track/64ZeezjENTfCvCARerp0JN) | [Eichlers](https://open.spotify.com/artist/4BbaA8tRBEZ81exJ8Ll2Fo) | [OHMYGOD](https://open.spotify.com/album/3YT8DM1Ss3V7gHSC6Z6jtU) | 1:52 | 2022-04-14 | 2022-04-19 |
 | [On & On & On](https://open.spotify.com/track/4zypNnJbJcGY7ccnJpAUA8) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/3qr6t93uRL9vO4VSIEziCF) | 3:14 | 2021-09-02 | 2022-07-29 |

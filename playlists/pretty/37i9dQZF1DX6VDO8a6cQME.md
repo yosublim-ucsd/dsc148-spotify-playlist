@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 > The most essential R&B songs from the '90s\. Cover: TLC
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,550,491 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,551,244 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 58 | [Pony](https://open.spotify.com/track/5FR54UnizyI8pE5E9Zb0Dt) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Ginuwine..\. The Bachelor](https://open.spotify.com/album/4cEX2rhss4PBg5EU5Vs0Uj) | 5:24 |
 | 59 | [Breakin' My Heart \(Pretty Brown Eyes\)](https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [Meant To Be Mint](https://open.spotify.com/album/3ZBXtcukYi3AdNtf7rtpGr) | 5:56 |
 | 60 | [Cherish the Day](https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 5:32 |
-| 61 | [Sweet Lady](https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:50 |
+| 61 | [Don't Walk Away](https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x) | [Jade](https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB) | [Jade To The Max](https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc) | 3:36 |
 | 62 | [To Zion \(feat\. Carlos Santana\)](https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 6:09 |
 | 63 | [I Can Love You](https://open.spotify.com/track/4MTHIKGWNTBoubzDMkXFfa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Share My World](https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW) | 4:46 |
-| 64 | [Don't Walk Away](https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x) | [Jade](https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB) | [Jade To The Max](https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc) | 3:36 |
+| 64 | [Sweet Lady](https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:50 |
 | 65 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 |
 | 66 | [Back & Forth](https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 3:51 |
 | 67 | [Have You Ever](https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 74 | [Faded Pictures](https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 3:49 |
 | 75 | [If Your Girl Only Knew](https://open.spotify.com/track/1WKz2dJbsK0S56zvpnhFWU) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [One In A Million](https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG) | 4:50 |
 
-Snapshot ID: `MCxkNTE2YWIxMDIxYzRjODY3YzBiY2VhYTdjM2U0NWM5NGJiMGNmZDQ2`
+Snapshot ID: `MCxiODk2MmViZGMwMTdjMTZkZmY5YWIwYjkwZDEyNTI2MzhiZDQxZjc3`

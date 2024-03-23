@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,868 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,042 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 60 | [El Rezado](https://open.spotify.com/track/2pqi3MdJJ1FhkAv5QfKdfJ) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:39 |
 | 61 | [Chinelo Carnavalero](https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy), [Salvador Yañez](https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e) | [Puras Carnavaleras, Vol\. 2](https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G) | 3:46 |
 | 62 | [Y Claro Que Se Puede \- Sones para Jaripeo](https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf) | [Banda los Chirimoyos](https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb) | [Aquel Amor \(Desde Tingambato Michoacan\)](https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr) | 4:06 |
-| 63 | [Las Huiliotas](https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Olvídala](https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh) | 4:01 |
-| 64 | [El Tecolotito](https://open.spotify.com/track/2qwttvkZlaWPM1siV1CHlc) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Cortinas Guindas](https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF) | 3:36 |
-| 65 | [El Sinaloense](https://open.spotify.com/track/3zZLLl6h70ggta49LwrYdd) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 2:33 |
+| 63 | [El Tecolotito](https://open.spotify.com/track/2qwttvkZlaWPM1siV1CHlc) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Cortinas Guindas](https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF) | 3:36 |
+| 64 | [El Sinaloense](https://open.spotify.com/track/3zZLLl6h70ggta49LwrYdd) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 2:33 |
+| 65 | [Las Huiliotas](https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Olvídala](https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh) | 4:01 |
 | 66 | [Los Mayeles \- Sones para Jaripeo](https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [De Puro Gusto! \(18 Años de Trayectoria\)](https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx) | 3:12 |
 | 67 | [Rumbo A La Canada](https://open.spotify.com/track/6VZzJ19D47BGoZua2Ht7yD) | [Tamborazo Caliente](https://open.spotify.com/artist/1YzJJDforMoBGJeBLPAhRi) | [Pal Rancho 100% Chicoteadas](https://open.spotify.com/album/5i7b3QzBMm0veTlnB1gwik) | 3:31 |
 | 68 | [Popurri Sones: Maria Chuchena / Ya Llegué ya Estoy Aquí / Era de Madrugada / Juan Colorado](https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Una Vez Más](https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe) | 4:20 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 81 | [El Tecolotito](https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [Arriba Mi Rancho](https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ) | 3:45 |
 | 82 | [El Toro Requeson](https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD) | [Banda la Fascinante del Merito Zirahuen](https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W) | [Que Chulo Es el Jaripeo](https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F) | 3:31 |
 | 83 | [Popurrí: Bésame Morenita / La Loba del Mal / Las Guilotas](https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV) | [Banda Cruz De La Candelaria](https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr) | [Y de Aquí Pal Real \- La Herencia del Rey](https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR) | 4:34 |
-| 84 | [El Son Del Toro](https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Mis Raíces](https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5) | 2:42 |
-| 85 | [El Olotito \- En Vivo](https://open.spotify.com/track/3LL8k9l7vtZ7fWNakS3vwJ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/26dmrrDSwkLnpEGxhgewDt) | 2:47 |
+| 84 | [El Olotito \- En Vivo](https://open.spotify.com/track/3LL8k9l7vtZ7fWNakS3vwJ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/26dmrrDSwkLnpEGxhgewDt) | 2:47 |
+| 85 | [El Son Del Toro](https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Mis Raíces](https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5) | 2:42 |
 | 86 | [La Vaquilla](https://open.spotify.com/track/42zeCHx9BC59y2oRG6DBxf) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Como Loco Alucino](https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k) | 3:12 |
 | 87 | [La Diana Ranchera](https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [La Reyna de los Sones](https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3) | 3:22 |
 | 88 | [El Chavo del Ocho \(The Elephant Never Forgets\)](https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02) | [Banda Perla De Michoacán](https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84) | [El Chavo del Ocho \(The Elephant Never Forgets\)](https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 99 | [Los Enanitos](https://open.spotify.com/track/4ZLhxHhBhApFccTNllmxMK) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Raíces](https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl) | 1:47 |
 | 100 | [Los Viejitos](https://open.spotify.com/track/5vPs4SzqY50SpASVQ8Ez9s) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Con La No\. 1: Del Pueblo...y Para El Pueblo](https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw) | 2:25 |
 
-Snapshot ID: `MCw3MTE4ZTg5NWM1MTY1OWNjOWI1ZWE4ZWM3MzQ2ZDNjZjQ3OTRiNWEy`
+Snapshot ID: `MCw0ZWNjYjQ3ZjMwOTA2MGVjYzgxNzU4ZWI4NWE2YzhkNTYxYjIyMmQw`

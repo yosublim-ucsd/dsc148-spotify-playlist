@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Stealing A Kiss",
+        "url": "https://open.spotify.com/album/5i9nk8WvKRe0d78UaCba9u"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295696,
+      "name": "Stealing A Kiss",
+      "url": "https://open.spotify.com/track/5kdZiJ0KIPEyQ42xLj61Gt"
+    },
+    {
+      "album": {
         "name": "Singing for My Supper",
         "url": "https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw"
       },

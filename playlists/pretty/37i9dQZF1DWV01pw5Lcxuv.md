@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 
 > Disfruta con mamá la era dorada de los 80's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,541 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,618 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 |
 | 2 | [Sweet Dreams \(Are Made of This\) \- Remastered](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 |
-| 3 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 |
-| 4 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 |
+| 3 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 |
+| 4 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 |
 | 5 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 |
 | 6 | [Careless Whisper](https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:00 |
 | 7 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 | 26 | [Gloria](https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Branigan](https://open.spotify.com/album/7tDrvcJnNTSIaFmRJVhagA) | 4:49 |
 | 27 | [Vamos a Darnos Tiempo](https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Gracias](https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D) | 4:08 |
 | 28 | [Up Where We Belong \- From "An Officer And A Gentleman"](https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Anthology](https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8) | 3:52 |
-| 29 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
-| 30 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
+| 29 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
+| 30 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
 | 31 | [Sola Con Mi Soledad](https://open.spotify.com/track/0GU3ULktdxtWMIPXXc1NNS) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Completamente Tuya](https://open.spotify.com/album/5vN1tVAL4qBWurY8UHah7g) | 3:45 |
 | 32 | [Él Me Mintió](https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 3:41 |
 | 33 | [Down Under](https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 3:40 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 | 55 | [Castillos](https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 2](https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO) | 4:21 |
 | 56 | [Maquillaje](https://open.spotify.com/track/3EvQORwO3na9m9nPKK403y) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ana, José, Nacho](https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO) | 2:33 |
 | 57 | [Este Terco Corazon](https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Diez Años Cantandole Al Amor](https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8) | 3:42 |
-| 58 | [Karma Chameleon](https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [At Worst...The Best Of Boy George And Culture Club](https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3) | 4:01 |
-| 59 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
+| 58 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
+| 59 | [Karma Chameleon](https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [At Worst...The Best Of Boy George And Culture Club](https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3) | 4:01 |
 | 60 | [Manic Monday](https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:04 |
 | 61 | [Hagamos Un Trato](https://open.spotify.com/track/7sj71Y12St8KlvMpBt4K27) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 2:46 |
 | 62 | [Mudanzas](https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Mudanzas](https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54) | 3:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 | 74 | [Fotografia](https://open.spotify.com/track/2ZZNEhPfLbc4sxhDwUwyk3) | [Oscar Athie](https://open.spotify.com/artist/5wk7LFJizWvjj1m7ybEA3J) | [Fotografia](https://open.spotify.com/album/0psZmb1gOGoFm1iCFhOM3T) | 3:45 |
 | 75 | [Barco a Venus](https://open.spotify.com/track/11glwadtd8zwDamSDOX5cJ) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [¿Dónde Está el Pais de las Hadas? \(Bonus Tracks Edition\)](https://open.spotify.com/album/395Ts8cMrWtmDHxrlYcTxz) | 3:21 |
 
-Snapshot ID: `MCw2ZjhmOTEzZWMzOTI2YTlhMjRmZGQ3MDFkYjNjM2E1YTU3NTZmZGI2`
+Snapshot ID: `MCw4YmE1MDk0ZGZiOTdjOTk5YTY2ZmUxYmZjYmIzNzJkNzdlYzQzNmRk`

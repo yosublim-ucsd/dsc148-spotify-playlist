@@ -4,7 +4,7 @@
 
 > Pop hits to keep your workout fresh
 
-528 songs - 1 day 2 hr 53 min
+530 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-01 | 2022-04-18 |
 | [Attention](https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS) | 3:00 | 2022-03-25 | 2022-04-20 |
 | [Attitude](https://open.spotify.com/track/35znXCAamuckhzFB4t7W9h) | [DYLN](https://open.spotify.com/artist/4qf6u9kjZdqQ1VI09mV1Q5) | [Attitude](https://open.spotify.com/album/1kJJYGF5Ecigk6C9iTmVb0) | 1:31 | 2022-03-25 | 2022-04-20 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-22 |  |
 | [Baby](https://open.spotify.com/track/4KNk5VS4bR4nUVvnJwVmUE) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Baby](https://open.spotify.com/album/7guVedOngStKyoYMzMdWzj) | 2:39 | 2022-03-04 | 2022-03-06 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-04-14 |  |
 | [Baby, I'm Jealous \(feat\. Doja Cat\)](https://open.spotify.com/track/2fTdRdN73RgIgcUZN33dvt) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Baby, I'm Jealous \(feat\. Doja Cat\)](https://open.spotify.com/album/2N367tN1eIXrHNVe86aVy4) | 2:55 | 2022-03-25 | 2022-04-21 |
@@ -278,7 +279,7 @@
 | [Love Songs](https://open.spotify.com/track/0Fs0pr0lq3408wD1cemNll) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Songs](https://open.spotify.com/album/4Nflv5XvC1phnt8ZwFs1Ta) | 3:11 | 2022-03-25 | 2022-04-20 |
 | [Love Turns Lonely](https://open.spotify.com/track/0HB4qYEELiwPoSzcG5kQj2) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Love Turns Lonely](https://open.spotify.com/album/73gPLcREEBeTaX81GEup7e) | 2:47 | 2022-01-14 | 2022-06-20 |
 | [Malibu](https://open.spotify.com/track/5XPo15e5ICs6NvSMn44pTF) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Malibu](https://open.spotify.com/album/4l4ahZ5gAr9b0uowo6am33) | 2:28 | 2021-12-17 | 2022-07-29 |
-| [Mamasota](https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mamasota](https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel) | 3:36 | 2024-03-01 |  |
+| [Mamasota](https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mamasota](https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel) | 3:36 | 2024-03-01 | 2024-03-23 |
 | [Man I Used To Be](https://open.spotify.com/track/6xRy0ENY1cZnkcU1EqaTsg) | [Coleman Hell](https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c) | [Man I Used To Be](https://open.spotify.com/album/5MObgMcXj9f7Q7mfVrOfm3) | 2:31 | 2022-03-25 | 2022-04-15 |
 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 | 2021-12-31 | 2023-10-17 |
 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 | 2022-04-01 |  |
@@ -502,7 +503,8 @@
 | [Walk Me Home](https://open.spotify.com/track/2N9bw4i7YitdN2LDDhMmpe) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) | 2:57 | 2022-03-25 | 2022-04-21 |
 | [Wasted](https://open.spotify.com/track/5Q2lulGI9ZQbwf18skmtqw) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [WAV3POP](https://open.spotify.com/artist/4xdLHkMBGSEsQq2VVftnWa) | [Wasted](https://open.spotify.com/album/3dg8q2ZoNMzTXVigUqkZql) | 3:03 | 2022-02-04 | 2022-07-28 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-10-17 |  |
-| [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-03-08 |  |
+| [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-03-08 | 2024-03-23 |
+| [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-03-22 |  |
 | [Weekend Vibe](https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Weekend Vibe](https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR) | 2:46 | 2021-12-17 | 2022-07-24 |
 | [West Coast](https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [West Coast](https://open.spotify.com/album/1EM2RddQo9GGjrCsE1bk7a) | 3:12 | 2022-03-04 | 2022-05-14 |
 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2021-12-24 |  |

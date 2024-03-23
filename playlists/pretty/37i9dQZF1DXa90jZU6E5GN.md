@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 
 > make the whole place shimmer ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,427 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,557 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 16 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:41 |
 | 17 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
 | 18 | [We R Who We R](https://open.spotify.com/track/3LUWWox8YYykohBbHUrrxd) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:24 |
-| 19 | [All I Wanna Do](https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 4:32 |
-| 20 | [I'm Not Pretty](https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:01 |
+| 19 | [I'm Not Pretty](https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:01 |
+| 20 | [All I Wanna Do](https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 4:32 |
 | 21 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 22 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
 | 23 | [You should be sad](https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 49 | [Somethin' Bad \(with Carrie Underwood\) \- Duet with Carrie Underwood \[Album\]](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 |
 | 50 | [Neon Moon \- with Kacey Musgraves](https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 4:38 |
 
-Snapshot ID: `MCwzYTNlZWI3MjNiYzFmZmY4ZWQ4ZTJiMWEyNDNiNmFiOGNmZDNlZTcy`
+Snapshot ID: `MCwyY2RhNGU5ZDMxZTFjZTMxYTdhNWI1MzU2NWEzZDRjM2Q0MmE3M2Q1`

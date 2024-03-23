@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 290884,
+  "2024-03-23": 290972,
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Aya Nakamura x Ayra Starr",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Shakira",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -167,7 +167,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 161977,
       "name": "Aucune attache",
       "url": "https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr"
@@ -824,6 +824,24 @@
     },
     {
       "album": {
+        "name": "Bottega",
+        "url": "https://open.spotify.com/album/05qqIxEnOp2C3jSKLKN5Xv"
+      },
+      "artists": [
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178373,
+      "name": "Bottega",
+      "url": "https://open.spotify.com/track/5oc1MmKFXsjoGrhfa6WHsx"
+    },
+    {
+      "album": {
         "name": "Boyz In Paris (with VINAI)",
         "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
       },
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 186599,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd"
@@ -1760,6 +1778,24 @@
     },
     {
       "album": {
+        "name": "Faut que tu m'aimes",
+        "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192998,
+      "name": "Faut que tu m'aimes",
+      "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
+    },
+    {
+      "album": {
         "name": "Fio Maravilha",
         "url": "https://open.spotify.com/album/5mZM6qQfT8347Sn0WngPK4"
       },
@@ -1845,7 +1881,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 176901,
       "name": "Friendly Fire",
       "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
@@ -2231,7 +2267,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 157402,
       "name": "Hyp\u00e9 (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
@@ -3157,7 +3193,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 172727,
       "name": "Madrid City",
       "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
@@ -3631,6 +3667,24 @@
       "duration_ms": 183267,
       "name": "Nobody (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/7rsF6JHMItNOu6qwupYA2a"
+    },
+    {
+      "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182623,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk"
     },
     {
       "album": {
@@ -5228,6 +5282,24 @@
     },
     {
       "album": {
+        "name": "Toko dombi",
+        "url": "https://open.spotify.com/album/75HvvhWytuljxPOc6Asj2i"
+      },
+      "artists": [
+        {
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160336,
+      "name": "Toko dombi",
+      "url": "https://open.spotify.com/track/4Hj36H5c7liPVqpDrGxTgJ"
+    },
+    {
+      "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
@@ -5313,7 +5385,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 221250,
       "name": "T\u2019\u00e9tais o\u00f9 ?",
       "url": "https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4"
@@ -5513,6 +5585,32 @@
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
+        "name": "Wanna Be Loved (feat. PollyAnna)",
+        "url": "https://open.spotify.com/album/1yzDhFOZhvCL0Bah2G2Ge9"
+      },
+      "artists": [
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        },
+        {
+          "name": "FDVM",
+          "url": "https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl"
+        },
+        {
+          "name": "PollyAnna",
+          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150476,
+      "name": "Wanna Be Loved (feat. PollyAnna)",
+      "url": "https://open.spotify.com/track/4JQQF7uU5LEc5aubbkvA2K"
     },
     {
       "album": {
@@ -5751,7 +5849,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 193760,
       "name": "You Made Me Pray",
       "url": "https://open.spotify.com/track/0Xbn76gXJuD8vB5ZPEGG2k"

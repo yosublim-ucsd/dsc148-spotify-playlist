@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 
 > The most beautiful love songs of the 2000s
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,360 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,644 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 26 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 |
 | 27 | [No One](https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:13 |
 | 28 | [When You Say Nothing At All](https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9) | 4:16 |
-| 29 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
-| 30 | [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 |
+| 29 | [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 |
+| 30 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
 | 31 | [Shape of My Heart](https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:50 |
 | 32 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 | 33 | [You Belong With Me](https://open.spotify.com/track/1GEBsLDvJGw7kviySRI6GX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Big Machine Radio Release Special\)](https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi) | 3:52 |
@@ -51,16 +51,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 41 | [Breathless](https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [In Blue](https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY) | 3:27 |
 | 42 | [Goodbye My Lover](https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 4:18 |
 | 43 | [My Love](https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:51 |
-| 44 | [Apologize](https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:28 |
+| 44 | [Let Me Love You](https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Turning Point](https://open.spotify.com/album/4qqrq2LYJYvKOV5Xrcajvp) | 4:09 |
 | 45 | [Unfaithful](https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:46 |
-| 46 | [Let Me Love You](https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Turning Point](https://open.spotify.com/album/4qqrq2LYJYvKOV5Xrcajvp) | 4:09 |
+| 46 | [Apologize](https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:28 |
 | 47 | [Because of You](https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:39 |
 | 48 | [Halo](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:21 |
 | 49 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 |
 | 50 | [Out Of Reach](https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX) | 3:16 |
 | 51 | [Somethin' Stupid](https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Nicole Kidman](https://open.spotify.com/artist/0ExYzTb7raTAfsXPtiI5vq) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:50 |
-| 52 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 |
-| 53 | [This I Promise You](https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 4:44 |
+| 52 | [This I Promise You](https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 4:44 |
+| 53 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 |
 | 54 | [Big Girls Don't Cry \(Personal\)](https://open.spotify.com/track/4AniPkv5vgdE1n6VKreiyI) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:28 |
 | 55 | [Crush](https://open.spotify.com/track/4wCD0qOFNRu1Q6O3N6ycm4) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [David Archuleta](https://open.spotify.com/album/4aZ3Mf9Tza576UhJ9kjYd7) | 3:33 |
 | 56 | [Better in Time](https://open.spotify.com/track/2iXBZ32Fz5VDCLeE0JIdX5) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 74 | [If You're Not The One](https://open.spotify.com/track/4gJoAvFpDvaeqm2EKYGmhb) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Gotta Get Thru This](https://open.spotify.com/album/2EdZjwEgBXjtdkwkZ73fFA) | 4:17 |
 | 75 | [Thinking Of You](https://open.spotify.com/track/3c9LVPh3MpeFoaAL5DBDK5) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 4:06 |
 
-Snapshot ID: `MCxkN2Y4NTBiZjY2MWVhMGE3YzRkZjVmZWY5ZTY4Yjk1OGQ1MWYwNGJh`
+Snapshot ID: `MCwxZDk3NTU2MzNlZWUyZGMyNDU0YmJmMjg2MWU0OTY4NjY0YTEyMDYz`

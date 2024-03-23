@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 
 > Aqui o verão dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,057 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,062 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 34 | [Youngblood](https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood](https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy) | 3:23 |
 | 35 | [Qué Más Pues?](https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Qué Más Pues?](https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK) | 3:37 |
 | 36 | [Hawái \- Remix](https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hawái \(Remix\)](https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v) | 3:20 |
-| 37 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 |
-| 38 | [X \(feat\. Maluma & Ozuna\) \- Remix](https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [X \(feat\. Maluma & Ozuna\) \[Remix\]](https://open.spotify.com/album/5VQfOfiYcDLGZo9HFW1IJM) | 3:55 |
+| 37 | [X \(feat\. Maluma & Ozuna\) \- Remix](https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [X \(feat\. Maluma & Ozuna\) \[Remix\]](https://open.spotify.com/album/5VQfOfiYcDLGZo9HFW1IJM) | 3:55 |
+| 38 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 |
 | 39 | [TODO O NADA](https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:28 |
 | 40 | [Mood \(Remix\) feat\. Justin Bieber, J Balvin & iann dior](https://open.spotify.com/track/6FuGJB290AQMAHTfjOYVaK) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Mood \(Remix\) feat\. Justin Bieber, J Balvin & iann dior](https://open.spotify.com/album/4PTxbJPI4jj0Kx8hwr1v0T) | 3:12 |
 | 41 | [Amarillo](https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 99 | [Make It Hot](https://open.spotify.com/track/0QopfywHKJZH8bnt8Cj9qr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Make It Hot](https://open.spotify.com/album/5lVFS3eenpf4H7u26eiyng) | 2:48 |
 | 100 | [La Playita](https://open.spotify.com/track/21nc7VSDCHaYFqi8XlMEJL) | [Lo Blanquito](https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp) | [La Playita](https://open.spotify.com/album/4HiePCPHt08pm1c1qOUqiN) | 2:45 |
 
-Snapshot ID: `MCwzYTBmZjk2OWUwYTdmYTcxZDg0ZTc3ZWQzZjQzMDk4YzA1OTMyMjRj`
+Snapshot ID: `MCxlMWMxMzYzZjAzYWJlMmFmY2Q4YjFkODZhNTg3ODEwMTU3NWQ3ODcy`

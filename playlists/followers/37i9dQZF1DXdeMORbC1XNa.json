@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 302252,
+  "2024-03-23": 302271,
   "date_first_scraped": "2021-12-29",
   "description": "The African & West Indian diaspora united. Cover: YG Marley",
   "name": "African Caribbean Society",
@@ -2815,6 +2815,24 @@
     {
       "album": {
         "name": "Ex Convict",
+        "url": "https://open.spotify.com/album/0j4TScmifAmAFxOYpzCVCH"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202605,
+      "name": "Ex Convict",
+      "url": "https://open.spotify.com/track/5O7fTE396BVFRTkQv5ENSo"
+    },
+    {
+      "album": {
+        "name": "Ex Convict",
         "url": "https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh"
       },
       "artists": [
@@ -2825,7 +2843,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 202605,
       "name": "Ex Convict",
       "url": "https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6"

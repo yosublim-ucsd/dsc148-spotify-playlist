@@ -134,7 +134,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 228186,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt"
@@ -210,7 +210,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 257683,
       "name": "CONDENADO AL EXITO II",
       "url": "https://open.spotify.com/track/4RbCdwPPk5XUpTrxAvntGM"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 187294,
       "name": "Descodificame",
       "url": "https://open.spotify.com/track/31AdzAj2D6dvcwFHwfpvGP"
@@ -372,6 +372,32 @@
       "duration_ms": 190322,
       "name": "EMPELOTICA",
       "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
+    },
+    {
+      "album": {
+        "name": "EN BAJITA / SWAGGY",
+        "url": "https://open.spotify.com/album/0MSgzttPRl9UtjVs8Tcvf0"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "ElMalaFama",
+          "url": "https://open.spotify.com/artist/4jyb6tiyWziOp0Gu1Gre49"
+        },
+        {
+          "name": "Neeus",
+          "url": "https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175937,
+      "name": "EN BAJITA",
+      "url": "https://open.spotify.com/track/1FjTb3UQkKkXYahI27MxqJ"
     },
     {
       "album": {
@@ -488,7 +514,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 193200,
       "name": "Gangsters En La Disco",
       "url": "https://open.spotify.com/track/7Iai1m3Y4ZQBPaj1cwpSzy"
@@ -514,6 +540,36 @@
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
+        "name": "GODIVA",
+        "url": "https://open.spotify.com/album/7vc6473A7yNq5PtNh6Zor9"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219358,
+      "name": "GODIVA",
+      "url": "https://open.spotify.com/track/3DY25d8SrkLEI6Xugzf6tT"
     },
     {
       "album": {
@@ -682,7 +738,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -930,7 +986,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
@@ -1006,10 +1062,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 181685,
       "name": "Mi Palabra Contra la de Ellos - En Vivo",
       "url": "https://open.spotify.com/track/0sBVn4NN8VlR9WMmyZ1Cek"
+    },
+    {
+      "album": {
+        "name": "Mi Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3iile2EGSgnKX5sWiMKRUj"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "Mi Versi\u00f3n",
+      "url": "https://open.spotify.com/track/7BkUWGC6AACZxHzTul75SH"
     },
     {
       "album": {
@@ -1328,7 +1402,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 207626,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
@@ -1581,6 +1655,62 @@
     },
     {
       "album": {
+        "name": "VVS Switch",
+        "url": "https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168178,
+      "name": "VVS Switch",
+      "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
+    },
+    {
+      "album": {
+        "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) [Remix]",
+        "url": "https://open.spotify.com/album/3g16kvv1kgZIfqvo6u4Evb"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 555071,
+      "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) - Remix",
+      "url": "https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -1614,7 +1744,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,351 songs - 3 day 2 hr 18 min
+1,352 songs - 3 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -899,6 +899,7 @@
 | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/track/0XnvKbl68rDvXAI4uOU8rk) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/album/48OejE1iLW3oJeoA1g8xDI) | 2:52 | 2021-08-19 | 2021-09-15 |
 | [Oh Lala](https://open.spotify.com/track/4V5qvtNQTLz6vZQS6dsCsj) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc), [Aiman JR](https://open.spotify.com/artist/4BwfloY1F2zHUPcYlYnDnz) | [Oh Lala](https://open.spotify.com/album/4u06bfWnPb7Ne4GjVMXGOG) | 4:15 | 2021-08-09 | 2021-08-31 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-11-21 | 2021-11-25 |
+| [Oh qu'elle est belle](https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:40 | 2024-03-22 |  |
 | [Oh Shit](https://open.spotify.com/track/7ksi95dIQlLlKheb8HpNG2) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [CW9](https://open.spotify.com/album/4x0djSdatBql4VCNOaXCTb) | 2:25 | 2022-03-26 | 2022-03-28 |
 | [Ojos Sin Ver](https://open.spotify.com/track/3l7ixTpHmRxjjH05OnWY6f) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:11 | 2023-05-13 |  |
 | [Ok Ok](https://open.spotify.com/track/4VYEnxm7lmtG5sEEbcmORB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-09-01 | 2021-09-02 |
@@ -1155,7 +1156,7 @@
 | [Take My Breath](https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 5:39 | 2022-01-08 | 2022-01-10 |
 | [Take My Breath](https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 5:39 | 2022-01-09 | 2022-01-14 |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-10 | 2023-06-16 |
-| [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 | 2022-11-27 |  |
+| [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 | 2022-11-27 | 2024-03-23 |
 | [Taline](https://open.spotify.com/track/0tfrAZsEOELEAcjCs46TJ5) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Taline](https://open.spotify.com/album/01ayDcY70kcoS3HYBH1jvm) | 2:56 | 2022-02-20 | 2023-04-01 |
 | [Taline](https://open.spotify.com/track/5z6UUvFwwyJn0k0vGp2anB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Taline](https://open.spotify.com/album/575AzM9dZ3RdvhlVvurHOX) | 2:56 | 2023-03-31 | 2023-06-17 |
 | [Tango](https://open.spotify.com/track/1ktSlQqcgod7b4amYARarW) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 2:52 | 2021-03-27\* | 2021-08-15 |

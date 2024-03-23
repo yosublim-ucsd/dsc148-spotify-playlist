@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckE9NhZZgv4.md) - [plain]
 
 > Let's make this a day and night to remember.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,890 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,916 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckE9NhZZgv4.md) - [plain]
 | 40 | [Wild Ones \(feat\. Sia\)](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:52 |
 | 41 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 |
 | 42 | [Work](https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:39 |
-| 43 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
-| 44 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
+| 43 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
+| 44 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
 | 45 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 |
 | 46 | [Beer Never Broke My Heart](https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:06 |
 | 47 | [Die Young](https://open.spotify.com/track/7EQGXaVSyEDsCWKmUcfpLk) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:31 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckE9NhZZgv4.md) - [plain]
 | 74 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
 | 75 | [Mo Money Mo Problems \(feat\. Puff Daddy & Mase\) \- 2014 Remaster](https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 4:17 |
 | 76 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/2mqaYmF0XmV8egZB6jQOtN) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:53 |
-| 77 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) | 3:21 |
-| 78 | [Call Me Maybe](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:13 |
+| 77 | [Call Me Maybe](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:13 |
+| 78 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) | 3:21 |
 | 79 | [All About That Bass](https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:07 |
 | 80 | [California Gurls](https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:54 |
 | 81 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckE9NhZZgv4.md) - [plain]
 | 99 | [Fergalicious](https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:52 |
 | 100 | [Lady Marmalade \- Single Edit](https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Lady Marmalade](https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ) | 4:27 |
 
-Snapshot ID: `MCw4YWQxNjRkOTRhNmY0OGJkNjVmMWMyODU3OWU3NWYwYzRlYmUwYTc2`
+Snapshot ID: `MCw3NjVmYzE2ZDRkMjM2ZWJmMTQzYmJjMDM1YWM2YWEyOWE1MGNkNzAz`

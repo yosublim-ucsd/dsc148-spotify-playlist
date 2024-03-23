@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 12046,
+  "2024-03-23": 12051,
   "date_first_scraped": "2022-05-26",
   "description": "Music for Imaginary Films",
   "name": "Nocturna Cinematica",
@@ -119,7 +119,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 231219,
       "name": "A Mountain is an Ancestor",
       "url": "https://open.spotify.com/track/76ibv2JcIKrKWgMs1vHo1f"
@@ -1654,6 +1654,28 @@
     },
     {
       "album": {
+        "name": "For You, Please",
+        "url": "https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL"
+      },
+      "artists": [
+        {
+          "name": "Arhkota",
+          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
+        },
+        {
+          "name": "Lubna Maher",
+          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205205,
+      "name": "For You, Please",
+      "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
+    },
+    {
+      "album": {
         "name": "Origen",
         "url": "https://open.spotify.com/album/4qbGp9cj61TMzAeFAtEUj8"
       },
@@ -2077,7 +2099,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 376306,
       "name": "III",
       "url": "https://open.spotify.com/track/53t36WpigyJBFRFy3jrygw"
@@ -3221,7 +3243,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 384386,
       "name": "Ossicles",
       "url": "https://open.spotify.com/track/0eL6WnAXZf7q8HOAwcrJEI"
@@ -3293,7 +3315,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 156201,
       "name": "Passing Lights - Cinematic Version",
       "url": "https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr"
@@ -3589,7 +3611,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 324080,
       "name": "Satellite Fades",
       "url": "https://open.spotify.com/track/2NFNEPPA4yc3yVcpVVJeir"

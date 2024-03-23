@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: CUBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,572 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,580 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 33 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 |
 | 34 | [Always](https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:45 |
 | 35 | [Peak \(Fed Up\)](https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/0bXAy3LZaokYu7txrbmScK) | 3:08 |
-| 36 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
-| 37 | [Too Deep](https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 3:20 |
+| 36 | [Too Deep](https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 3:20 |
+| 37 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
 | 38 | [Start Over](https://open.spotify.com/track/7DvlNrYFvmZieL8GdhJuoy) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 2:10 |
 | 39 | [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 |
 | 40 | [Over Here \(feat\. Drake\)](https://open.spotify.com/track/43xzI2dp9CTUsmZXjm1voH) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 2:57 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 63 | [be cool](https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:23 |
 | 64 | [Irrational](https://open.spotify.com/track/3x0l10FNuvRcdudE36y6XK) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Solaris](https://open.spotify.com/album/2iahJWQ2C6dwPj2oXG37FP) | 2:49 |
 | 65 | [Potent](https://open.spotify.com/track/4WjD33BNF24KCZkMWlLvlV) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Memory Springs](https://open.spotify.com/album/1u8cMnEdxcystiFOb8DRWN) | 2:07 |
-| 66 | [Chill Pad Deluxe](https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People / Afterhours](https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4) | 2:51 |
+| 66 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 |
 | 67 | [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 |
-| 68 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 |
+| 68 | [Chill Pad Deluxe](https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People / Afterhours](https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4) | 2:51 |
 | 69 | [Looping](https://open.spotify.com/track/4HwuBZ2IqMpGpPyvmoB9b4) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:13 |
 | 70 | [Live Inside](https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Live Inside](https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi) | 3:27 |
 | 71 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9) | 1:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 74 | [Talk Luv](https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Talk Luv](https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX) | 2:44 |
 | 75 | [in ur motion](https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter +](https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n) | 3:28 |
 
-Snapshot ID: `MCwyNmFlMTcyYThlZjA1ZmQ2NzgxNmQ0MGFiMjEwNWU5NWRkMThmZjQw`
+Snapshot ID: `MCw0OGQ3ODBiMjNjYzc2NzQ4ZDBkNTkzNTk2ZWRiMDZlM2Q3NzUwNDkw`

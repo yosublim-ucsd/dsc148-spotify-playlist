@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 121852,
+  "num_followers": 121886,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGM3ZjJkZTVjZmU0MmFlYjJjM2YxZDRjMGMxMjIzMDM1Y2FjZWUz",
+  "snapshot_id": "MCwzOTRiMDVlOWM2YjViNzg3ZmExYjE0MzBkYWM5ZTYyMTgwZWYxYzlj",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -335,26 +335,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Water Music",
-        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Akademie f\u00fcr Alte Musik Berlin",
-          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
-        }
-      ],
-      "duration_ms": 128599,
-      "name": "Water Music, Suite No. 1, HWV 348: No. 2, Adagio e staccato",
-      "url": "https://open.spotify.com/track/6H8kRwXYJhmz6y1AkbCwvD"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Keyboard Suites, Vol. 1",
         "url": "https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 181626,
       "name": "Keyboard Suite No. 2 (Set I) in F Major, HWV 427: I. Adagio",
       "url": "https://open.spotify.com/track/30HCgiGH4R8rgUMdF7njJK"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water Music",
+        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "duration_ms": 128599,
+      "name": "Water Music, Suite No. 1, HWV 348: No. 2, Adagio e staccato",
+      "url": "https://open.spotify.com/track/6H8kRwXYJhmz6y1AkbCwvD"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -948,29 +948,9 @@
           "url": "https://open.spotify.com/artist/1ZRTbgZMGs9HTI6SpMkySa"
         }
       ],
-      "duration_ms": 314066,
-      "name": "Handel: Music for the Royal Fireworks, HWV 351: II. Allegro - Lentement - Allegro",
-      "url": "https://open.spotify.com/track/67zxswDwXGu5LG5rJoFaA4"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Dixit Dominus / Salve Regina / Nisi Dominus",
-        "url": "https://open.spotify.com/album/1MBPFCji7GQORO2bXUlUwS"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "The Scholars Baroque Ensemble",
-          "url": "https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ"
-        }
-      ],
-      "duration_ms": 334466,
-      "name": "Dixit Dominus Domino meo",
-      "url": "https://open.spotify.com/track/2m8EwexHkPVQCNpSTidgPf"
+      "duration_ms": 133106,
+      "name": "Handel: Music for the Royal Fireworks, HWV 351: I. Overture (Adagio)",
+      "url": "https://open.spotify.com/track/3rUZoFYbTiFJc4gxQDz3Hg"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -996,9 +976,29 @@
           "url": "https://open.spotify.com/artist/1ZRTbgZMGs9HTI6SpMkySa"
         }
       ],
-      "duration_ms": 133106,
-      "name": "Handel: Music for the Royal Fireworks, HWV 351: I. Overture (Adagio)",
-      "url": "https://open.spotify.com/track/3rUZoFYbTiFJc4gxQDz3Hg"
+      "duration_ms": 314066,
+      "name": "Handel: Music for the Royal Fireworks, HWV 351: II. Allegro - Lentement - Allegro",
+      "url": "https://open.spotify.com/track/67zxswDwXGu5LG5rJoFaA4"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Dixit Dominus / Salve Regina / Nisi Dominus",
+        "url": "https://open.spotify.com/album/1MBPFCji7GQORO2bXUlUwS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "The Scholars Baroque Ensemble",
+          "url": "https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ"
+        }
+      ],
+      "duration_ms": 334466,
+      "name": "Dixit Dominus Domino meo",
+      "url": "https://open.spotify.com/track/2m8EwexHkPVQCNpSTidgPf"
     },
     {
       "added_at": "2022-06-28 08:56:25",

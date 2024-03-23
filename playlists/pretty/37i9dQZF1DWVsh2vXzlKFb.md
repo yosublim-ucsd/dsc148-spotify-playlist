@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 
 > The t\-shirt weather essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,874 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,860 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 3 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 4 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 |
 | 5 | [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 |
-| 6 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
+| 6 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 |
 | 7 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
-| 8 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 |
+| 8 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 9 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 |
 | 10 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 |
 | 11 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 34 | [Remember When](https://open.spotify.com/track/5naar7XewEOAjOywIp6Jjq) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:35 |
 | 35 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
 | 36 | [Love$ick \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Mura Masa](https://open.spotify.com/album/0NBTBo1qrg554sAj79nEqD) | 3:12 |
-| 37 | [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
-| 38 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 |
+| 37 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 |
+| 38 | [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
 | 39 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 |
-| 40 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 |
+| 40 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 |
 | 41 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
 | 42 | [Hot Rod](https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 3:24 |
 | 43 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 52 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
 | 53 | [Houdini](https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:22 |
 | 54 | [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 |
-| 55 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
-| 56 | [apart of me](https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [apart of me](https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2) | 1:16 |
+| 55 | [apart of me](https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [apart of me](https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2) | 1:16 |
+| 56 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
 | 57 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 |
 | 58 | [space girl](https://open.spotify.com/track/7FjIYiD53wxlQmzTT6Wdpf) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [space girl](https://open.spotify.com/album/2kTyJsKMpVKd3dv87ePucD) | 3:51 |
 | 59 | [Rose Pink Cadillac](https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/2VaOn32haUapQOYnerK32W) | 4:21 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 77 | [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 |
 | 78 | [Miss Summer](https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Miss Summer](https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco) | 2:42 |
 | 79 | [Cold Cold Man](https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:50 |
-| 80 | [Canopée](https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:36 |
-| 81 | [Disco Man](https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj) | 3:12 |
+| 80 | [Disco Man](https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj) | 3:12 |
+| 81 | [Canopée](https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:36 |
 | 82 | [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 |
 | 83 | [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 |
 | 84 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 99 | [GOOD TIMES](https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te) | 3:01 |
 | 100 | [Getting Started](https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:09 |
 
-Snapshot ID: `MCwxMDdhZmYwMzhkYjc4Nzc1NzQ1MzIxOTk3ZTZiYjEyNDkzY2M0Y2I5`
+Snapshot ID: `MCwzZjU1MDMyMjA2ZTc2MGZiOTVmZjI5MTI5OGM0MzU3NjljYjAxZDA0`

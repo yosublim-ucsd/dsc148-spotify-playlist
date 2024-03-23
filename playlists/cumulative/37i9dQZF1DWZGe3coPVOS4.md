@@ -4,7 +4,7 @@
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-76 songs - 3 hr 41 min
+77 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,5 +84,6 @@
 | [Vampire](https://open.spotify.com/track/7yYNyX64fVUrRDm9B8CwGP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Vampire](https://open.spotify.com/album/7f6qgMKsVgZZVnyndvvjHG) | 3:40 | 2023-10-13 |  |
 | [Waffle House](https://open.spotify.com/track/2jbqu1LouRhRLaLupH9U8a) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:15 | 2024-01-22 |  |
 | [We're Taking Over](https://open.spotify.com/track/45GlxNVf17LUYfHjQeuqvC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:54 | 2024-01-22 |  |
+| [yes, and?](https://open.spotify.com/track/2ExRKRMFnX4rsGxZSeJ4sD) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [yes, and?](https://open.spotify.com/album/1Tu30xev5rUpBZnFuKV4rR) | 3:14 | 2024-03-22 |  |
 
 \*This playlist was first scraped on 2023-06-10. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 
 > This is Violent Soho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,072 likes - 32 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,076 likes - 32 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 23 | [No Shade](https://open.spotify.com/track/0KveCmWIH6u2VQ5MpgeobH) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:13 |
 | 24 | [Canada](https://open.spotify.com/track/7eqpBCYDhTfqDCluyE6Ssd) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 3:29 |
 | 25 | [Eat Your Parents](https://open.spotify.com/track/5Z0GVyH0RjhgjVcLYwf1cH) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:02 |
-| 26 | [Love Is A Heavy Word](https://open.spotify.com/track/2iWQrd8LABqESP9gC4jfYW) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:05 |
+| 26 | [Son Of Sam](https://open.spotify.com/track/3JJm5nPQDNItljLtyIrtGv) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:00 |
 | 27 | [Follow Me Here \- Demo](https://open.spotify.com/track/1ukz3bcQKDvEpsrd9ioWKL) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost \(10th Anniversary Edition\)](https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ) | 3:44 |
 | 28 | [Vacation Forever](https://open.spotify.com/track/0PlcJd4OgydtKD775w0y6J) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 4:28 |
 | 29 | [Paper Plane](https://open.spotify.com/track/3j0rJCwtLGdK136n7d92p7) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:01 |
-| 30 | [Son Of Sam](https://open.spotify.com/track/3JJm5nPQDNItljLtyIrtGv) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:00 |
+| 30 | [Love Is A Heavy Word](https://open.spotify.com/track/2iWQrd8LABqESP9gC4jfYW) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:05 |
 | 31 | [A\-OK](https://open.spotify.com/track/7fRmDecaHguRLdKIlccebL) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 2:43 |
 | 32 | [Here Be Dragons](https://open.spotify.com/track/5VeV8aExj7SSgNDXr5bdJK) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:14 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDAzZjA0ODQxMmI3ZWM4NjkzM2QxNTZjMjlhNDBmMWZjMA==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA3MmU4OTE3OGI1Njk5MmZmNTgxM2ZiN2E5NWRhNzllOQ==`

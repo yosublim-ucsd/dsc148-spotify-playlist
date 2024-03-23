@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those with a taste for both the new and the classic. Cover: Teddy Swims",
+  "description": "For those with a taste for both the new and the classic. Cover: Mark Ambor",
   "name": "Contemporary Blend",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 233388,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 136959,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/6sJONCa13pEDfik2GvGWhN"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
@@ -2101,6 +2101,28 @@
     },
     {
       "album": {
+        "name": "Big Ocean",
+        "url": "https://open.spotify.com/album/3guDklkjSj121v6gDeRPub"
+      },
+      "artists": [
+        {
+          "name": "Neon Dreams",
+          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
+        },
+        {
+          "name": "Frank Kadillac",
+          "url": "https://open.spotify.com/artist/6gFjPuQkV3lwb1fy3Oh1hE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182379,
+      "name": "Big Ocean",
+      "url": "https://open.spotify.com/track/4xFfAmMUUNl1Aj1VsNymaQ"
+    },
+    {
+      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
       },
@@ -2346,7 +2368,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 175057,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
@@ -3531,6 +3553,24 @@
     },
     {
       "album": {
+        "name": "could've been",
+        "url": "https://open.spotify.com/album/3uId5HMCuBeTFFweJiRC3J"
+      },
+      "artists": [
+        {
+          "name": "NIA NADURATA",
+          "url": "https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225397,
+      "name": "could've been",
+      "url": "https://open.spotify.com/track/24SvABnwS15OMaEm1PuUYH"
+    },
+    {
+      "album": {
         "name": "Counterfeit Love",
         "url": "https://open.spotify.com/album/6EjWmcLTiMjVa57CxfyIBa"
       },
@@ -3834,6 +3874,24 @@
       "duration_ms": 192857,
       "name": "Cry to Me",
       "url": "https://open.spotify.com/track/6I3c7dNXtPrt0xucHpYtCS"
+    },
+    {
+      "album": {
+        "name": "Knock, Knock (Extended Version)",
+        "url": "https://open.spotify.com/album/1OyYinHCauMPSic0CuCBeE"
+      },
+      "artists": [
+        {
+          "name": "Heather Russell",
+          "url": "https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209751,
+      "name": "Curtain Call",
+      "url": "https://open.spotify.com/track/1McaBph49HIifhnGMg4a1f"
     },
     {
       "album": {
@@ -6515,6 +6573,24 @@
     },
     {
       "album": {
+        "name": "Crashing Into Your Living Room, Vol. 1",
+        "url": "https://open.spotify.com/album/2J0j78yYjUb4R62LgnqL31"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156233,
+      "name": "Good & Bad",
+      "url": "https://open.spotify.com/track/48aOK7d3ILprSttYWNWKJh"
+    },
+    {
+      "album": {
         "name": "Good Enough",
         "url": "https://open.spotify.com/album/5a79iYbVq5Gpor4febLhQP"
       },
@@ -9180,7 +9256,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 181493,
       "name": "Invulnerable",
       "url": "https://open.spotify.com/track/1EiTjeKV7MTqI077jLu6pn"
@@ -11993,6 +12069,24 @@
     },
     {
       "album": {
+        "name": "My body",
+        "url": "https://open.spotify.com/album/2PLIgpQ1t2gewOOdclFqJM"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Gray",
+          "url": "https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240099,
+      "name": "My body",
+      "url": "https://open.spotify.com/track/60A57vL1irk15sQs18l4KC"
+    },
+    {
+      "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
@@ -13159,6 +13253,24 @@
     },
     {
       "album": {
+        "name": "Only Love",
+        "url": "https://open.spotify.com/album/6pORDm4X0mHO5dZiEcYRLd"
+      },
+      "artists": [
+        {
+          "name": "Eric Punzo",
+          "url": "https://open.spotify.com/artist/5ovr8bErhT7iHJVZL18osS"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195224,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/41JEZVG1mTYdwUSKoJHjNb"
+    },
+    {
+      "album": {
         "name": "ONLY ONE",
         "url": "https://open.spotify.com/album/6wDeULI9weCchekIbT3FKO"
       },
@@ -14220,7 +14332,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 219280,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/1uni8la2ZuN5oGlkAFBn9R"
@@ -15169,6 +15281,24 @@
     },
     {
       "album": {
+        "name": "Slow It Down",
+        "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161831,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
+    },
+    {
+      "album": {
         "name": "Small",
         "url": "https://open.spotify.com/album/627Ug5h6ID5c2WUJZV5tqg"
       },
@@ -15714,7 +15844,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 162224,
       "name": "something to remember",
       "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
@@ -16306,7 +16436,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 270264,
       "name": "Take Me To Church - Spotify Singles",
       "url": "https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm"
@@ -16977,6 +17107,24 @@
     },
     {
       "album": {
+        "name": "selfcare",
+        "url": "https://open.spotify.com/album/2NXmQJoHa21xDPxtbrdu5b"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "the sun is shining somewhere",
+      "url": "https://open.spotify.com/track/0MIO8GZ6qHBWqzIWVXp7RN"
+    },
+    {
+      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -17396,6 +17544,24 @@
       "duration_ms": 191048,
       "name": "Too Strange for the Circus",
       "url": "https://open.spotify.com/track/3EraWxocoFkg6PTjxII85U"
+    },
+    {
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
     },
     {
       "album": {
@@ -17894,7 +18060,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 172066,
       "name": "Want You More",
       "url": "https://open.spotify.com/track/3a17amQhKZxeQi3SDkAvtU"
@@ -18316,6 +18482,24 @@
       "duration_ms": 181000,
       "name": "What Does Sorry Mean",
       "url": "https://open.spotify.com/track/0hRCg9wtCKF0NhTrogZ6qF"
+    },
+    {
+      "album": {
+        "name": "What I Am",
+        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211280,
+      "name": "What I Am",
+      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
     },
     {
       "album": {
@@ -18760,7 +18944,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 255456,
       "name": "Who Am I Now",
       "url": "https://open.spotify.com/track/1F7CC5pGuWSedU7Fh792OK"

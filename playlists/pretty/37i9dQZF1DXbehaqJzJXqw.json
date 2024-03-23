@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 393160,
+  "num_followers": 393390,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzA1MTFiYWZjZGY4NDY3MjI5OTBlZTIzZjdlZjAzZjZhMWU2ZTJm",
+  "snapshot_id": "MCwxMTA4ZjIxM2M0NDE1ZmI4YzVhYTY0NTQ3MTBmMWQ5MmMxZTU4MDM2",
   "tracks": [
     {
       "added_at": "2024-03-20 07:39:51",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "Bossa Nova",
         "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
       },
@@ -131,18 +115,18 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
       },
       "artists": [
         {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 233960,
-      "name": "Samba de mon c\u0153ur qui bat",
-      "url": "https://open.spotify.com/track/4zXKbHN9FKRTIirYQdMRqI"
+      "duration_ms": 201200,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -159,6 +143,22 @@
       "duration_ms": 229226,
       "name": "J'attendrai",
       "url": "https://open.spotify.com/track/1MllJS2dPDoVBuWVMoLujP"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 233960,
+      "name": "Samba de mon c\u0153ur qui bat",
+      "url": "https://open.spotify.com/track/4zXKbHN9FKRTIirYQdMRqI"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Ilo Veyou",
-        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
       "artists": [
         {
-          "name": "Camille",
-          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
         }
       ],
-      "duration_ms": 223880,
-      "name": "Que je t'aime",
-      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
+      "duration_ms": 248373,
+      "name": "L'ombre et la lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+        "name": "Ilo Veyou",
+        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
       },
       "artists": [
         {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
         }
       ],
-      "duration_ms": 248373,
-      "name": "L'ombre et la lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
+      "duration_ms": 223880,
+      "name": "Que je t'aime",
+      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "French Classics",
-        "url": "https://open.spotify.com/album/6MX0ecULYGJ20DgKvpLiyp"
-      },
-      "artists": [
-        {
-          "name": "Livia Blanc",
-          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "La Mer",
-      "url": "https://open.spotify.com/track/7GuH04Wu7lD2LOUOOMyO7W"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "Rose",
         "url": "https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 272733,
       "name": "Je m'ennuie",
       "url": "https://open.spotify.com/track/4Qw9NyyIYkgGzcmRnrZPrT"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "French Classics",
+        "url": "https://open.spotify.com/album/6MX0ecULYGJ20DgKvpLiyp"
+      },
+      "artists": [
+        {
+          "name": "Livia Blanc",
+          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
+        }
+      ],
+      "duration_ms": 190850,
+      "name": "La Mer",
+      "url": "https://open.spotify.com/track/7GuH04Wu7lD2LOUOOMyO7W"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Les Souvenirs Sous Ma Frange",
-        "url": "https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau"
-      },
-      "artists": [
-        {
-          "name": "Rose",
-          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "J'ai 18 Ans",
-      "url": "https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "La javanaise",
         "url": "https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 121599,
       "name": "La javanaise",
       "url": "https://open.spotify.com/track/4RiomsjTG30IR5V72paigO"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Les Souvenirs Sous Ma Frange",
+        "url": "https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau"
+      },
+      "artists": [
+        {
+          "name": "Rose",
+          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "J'ai 18 Ans",
+      "url": "https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM"
     },
     {
       "added_at": "2024-03-20 07:39:51",

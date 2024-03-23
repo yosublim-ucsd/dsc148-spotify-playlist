@@ -786,7 +786,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 393813,
       "name": "Galvanize",
       "url": "https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs"
@@ -1384,6 +1384,24 @@
       "duration_ms": 249533,
       "name": "Missing - Todd Terry Club Mix",
       "url": "https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ"
+    },
+    {
+      "album": {
+        "name": "D-D-Don't Don't Stop the Beat",
+        "url": "https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7"
+      },
+      "artists": [
+        {
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6"
     },
     {
       "album": {

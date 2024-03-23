@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 ### [Jazz\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWUb0uBnlJuTi)
 
-> Jazz\. But funky\. Cover: Takuya Kuroda
+> Jazz\. But funky\. Cover: Sly5thAve
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,094 likes - 200 songs - 15 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,246 likes - 200 songs - 15 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rare Groove](https://open.spotify.com/track/4Cc9CxBFDRIbzRhp2mldMz) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Grant Schroff](https://open.spotify.com/artist/5uxQLRiqpsaOO2WYT85Fii), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md), [Delvon Lamarr](https://open.spotify.com/artist/02eerWTQGpKteeEReGfGXR) | [Rare Groove](https://open.spotify.com/album/2KenMRteWWP6tr3nVS6BS0) | 4:07 |
-| 2 | [Tunnel](https://open.spotify.com/track/7CrwpvLYTTJW9eA6qmFKyh) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Tunnel](https://open.spotify.com/album/5Xbz11RXFIeibXkdtkwx5d) | 5:44 |
-| 3 | [Big Brother](https://open.spotify.com/track/706lD4ZY9A3uWNLjPYSpaV) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Daniel Wytanis](https://open.spotify.com/artist/59FNzYPBlL9ILle4RZE1ln) | [Big Brother](https://open.spotify.com/album/3wDuX7ZXEZZycoU5XVTg5n) | 6:01 |
+| 1 | [Liberation](https://open.spotify.com/track/5SzCMMK5oo6PoiCSiii328) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [Liberation](https://open.spotify.com/album/4FV6Mo4LSbN4YX6TSi8shV) | 5:14 |
+| 2 | [Rare Groove](https://open.spotify.com/track/4Cc9CxBFDRIbzRhp2mldMz) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Grant Schroff](https://open.spotify.com/artist/5uxQLRiqpsaOO2WYT85Fii), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md), [Delvon Lamarr](https://open.spotify.com/artist/02eerWTQGpKteeEReGfGXR) | [Rare Groove](https://open.spotify.com/album/2KenMRteWWP6tr3nVS6BS0) | 4:07 |
+| 3 | [Tunnel](https://open.spotify.com/track/7CrwpvLYTTJW9eA6qmFKyh) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Tunnel](https://open.spotify.com/album/5Xbz11RXFIeibXkdtkwx5d) | 5:44 |
 | 4 | [Where’s Danny?](https://open.spotify.com/track/2WyPy28diXETSlcNSIc6At) | [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV) | [Where’s Danny?](https://open.spotify.com/album/0dao4XjiVYGQmNBn0omY4S) | 3:04 |
 | 5 | [Local Reptile Convention](https://open.spotify.com/track/5mcq01EGzFTFvuHMUpn3Fj) | [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU), [Sam.ro.chelle](https://open.spotify.com/artist/7cGnvFkneRjpP65YbPvmDw) | [Local Reptile Convention](https://open.spotify.com/album/1JVRkKMuPNn4YkXiC2YZ55) | 3:01 |
 | 6 | [The Warrior Code](https://open.spotify.com/track/1otrWVcbCxemNnn7eiKW1P) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [I Too Am A Stranger](https://open.spotify.com/album/1wF6WneR7NyifTyXhhPQaP) | 4:04 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 
-Snapshot ID: `MCwwYWRjNjNlOGQ5ZjEwNGI4YTYwMjk4ZDc0NDJiNDczMmY4NzI3MjM5`
+Snapshot ID: `MCw1NTBjZjY2ZDI3NzgyNmY0YTBkMTc2ZTYwZWJjODhlNjQ0ZDg1MDIz`

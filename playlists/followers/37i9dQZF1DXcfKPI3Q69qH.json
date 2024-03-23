@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 8317,
+  "2024-03-23": 8330,
   "date_first_scraped": "2022-11-30",
   "description": "Music from and inspired by Blood & Water, now streaming on Netflix.",
   "name": "Blood & Water",
@@ -1611,7 +1611,7 @@
     {
       "album": {
         "name": "Surviva",
-        "url": "https://open.spotify.com/album/6VSQVB5MtiInxFsAtW9raF"
+        "url": "https://open.spotify.com/album/6yQTItJX2MNuSvbPZRDWbA"
       },
       "artists": [
         {
@@ -1622,6 +1622,24 @@
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 221076,
+      "name": "Surviva",
+      "url": "https://open.spotify.com/track/21EXSaTkJ52OCzkgFVw9iy"
+    },
+    {
+      "album": {
+        "name": "Surviva",
+        "url": "https://open.spotify.com/album/6VSQVB5MtiInxFsAtW9raF"
+      },
+      "artists": [
+        {
+          "name": "Skye Wanda",
+          "url": "https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-22",
       "duration_ms": 221076,
       "name": "Surviva",
       "url": "https://open.spotify.com/track/66136dLlJa5kY68quXMYsG"

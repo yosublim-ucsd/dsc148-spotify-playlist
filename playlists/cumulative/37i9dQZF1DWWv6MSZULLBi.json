@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Medium Build",
+  "description": "A laid-back trip in the folk scene. Cover: Adrianne Lenker",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 261165,
       "name": "A Running Start",
       "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
@@ -550,6 +550,24 @@
       "duration_ms": 224128,
       "name": "American Band",
       "url": "https://open.spotify.com/track/6Jko7ujfOIdrICLC3po34e"
+    },
+    {
+      "album": {
+        "name": "American Dreaming",
+        "url": "https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237691,
+      "name": "American Dreaming - Single Edit",
+      "url": "https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh"
     },
     {
       "album": {
@@ -1231,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Birdwatcher",
+        "url": "https://open.spotify.com/album/5jdRIHmKzjrDjvfK6Zf9rZ"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192317,
+      "name": "Birdwatcher",
+      "url": "https://open.spotify.com/track/2poBY9AIHsO7O6MjY4350M"
+    },
+    {
+      "album": {
         "name": "At the Roadhouse",
         "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
       },
@@ -1829,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "Cave",
+        "url": "https://open.spotify.com/album/6hqZcWgXfp1uCyox7uejb3"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178533,
+      "name": "Cave",
+      "url": "https://open.spotify.com/track/1uUNOES90ZLLPEF0knHE8q"
+    },
+    {
+      "album": {
         "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
       },
@@ -1970,7 +2024,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 216217,
       "name": "Choices",
       "url": "https://open.spotify.com/track/1SRghmJyPmnJiJidDZx4lu"
@@ -2367,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "Tigers Blood",
+        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Crimes of the Heart",
+      "url": "https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F"
+    },
+    {
+      "album": {
         "name": "Thank You for Trying: ACT I & II",
         "url": "https://open.spotify.com/album/41RfKM7fvvt57gQcZKe60q"
       },
@@ -2508,6 +2580,24 @@
       "duration_ms": 204223,
       "name": "Cut and Dry",
       "url": "https://open.spotify.com/track/57QCpNCSAWW8XxZeETOXKd"
+    },
+    {
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193573,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
     },
     {
       "album": {
@@ -3660,7 +3750,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 176533,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/0QrzN1zybGPr27X6NAkUH6"
@@ -3812,6 +3902,24 @@
       "duration_ms": 251574,
       "name": "Fake Happy",
       "url": "https://open.spotify.com/track/1u4UtokxGyLmPuzGFpaSst"
+    },
+    {
+      "album": {
+        "name": "Falling Behind",
+        "url": "https://open.spotify.com/album/5QbV8yxuEjHmJ5BKdNR5pG"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168373,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/0lLzWgOlPhpqBPhW6d7YYP"
     },
     {
       "album": {
@@ -4140,7 +4248,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 240133,
       "name": "Float On Now",
       "url": "https://open.spotify.com/track/3fQzuzwkf0U4kJnXt3OYYn"
@@ -4270,7 +4378,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 174539,
       "name": "Fool",
       "url": "https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto"
@@ -4400,6 +4508,24 @@
       "duration_ms": 193182,
       "name": "Free",
       "url": "https://open.spotify.com/track/6I3Ns61Hy5xBwlakoVodA8"
+    },
+    {
+      "album": {
+        "name": "Free Treasure",
+        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
     },
     {
       "album": {
@@ -9822,7 +9948,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
@@ -9952,7 +10078,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 230677,
       "name": "Rotting Fruit",
       "url": "https://open.spotify.com/track/0deJ2a71D181hZ6g0x0Rsq"
@@ -10172,7 +10298,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 167016,
       "name": "Saturn Returning",
       "url": "https://open.spotify.com/track/0y6DngD7Bw9BMnAHAksK3K"
@@ -10230,6 +10356,24 @@
       "duration_ms": 291241,
       "name": "Say You Will",
       "url": "https://open.spotify.com/track/01vJRC33O3RZS1dU5dUUJ6"
+    },
+    {
+      "album": {
+        "name": "Goodnight Summerland",
+        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256199,
+      "name": "Saying Something",
+      "url": "https://open.spotify.com/track/2lnDQ3UhWyiW74IW8IPB4Q"
     },
     {
       "album": {
@@ -10356,6 +10500,24 @@
       "duration_ms": 216966,
       "name": "Should've Drowned",
       "url": "https://open.spotify.com/track/68WkQbTM7Fs1Wj0hPT7iZV"
+    },
+    {
+      "album": {
+        "name": "I Need to Stay Here",
+        "url": "https://open.spotify.com/album/6ViPAxxhRt4On7JSILjIhp"
+      },
+      "artists": [
+        {
+          "name": "Elliot Maginot",
+          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243653,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/0WQpEXZGwvdt91WB1VSKXF"
     },
     {
       "album": {
@@ -10666,6 +10828,24 @@
       "duration_ms": 322362,
       "name": "Somebody's son",
       "url": "https://open.spotify.com/track/3eq1spumrhz17arEFg3nwb"
+    },
+    {
+      "album": {
+        "name": "someday i'll get it",
+        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
+      },
+      "artists": [
+        {
+          "name": "Alek Olsen",
+          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94750,
+      "name": "someday i'll get it",
+      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
     },
     {
       "album": {
@@ -11088,7 +11268,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 184221,
       "name": "styrofoam",
       "url": "https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9"
@@ -11576,7 +11756,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 196150,
       "name": "The Animals",
       "url": "https://open.spotify.com/track/751PUtzjp2nrpSsp3sAvgL"

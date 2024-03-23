@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 42434,
+  "num_followers": 42458,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWQ4MTE2NzgzZTQzM2MwM2FkMzkwZmFmZWQwYTgxMmJmZmJkOTZm",
+  "snapshot_id": "MCw4MWRjYmYxYTY4MThlYWJhZGZhNzZlMmI5YWE2MDYxNjhjMGNlZTgx",
   "tracks": [
     {
       "added_at": "2023-02-13 22:55:50",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
         "name": "Amor Y Control",
         "url": "https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 352440,
       "name": "Amor y Control",
       "url": "https://open.spotify.com/track/303cDwi274kSEH0NSR73AX"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -159,22 +159,18 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj"
+        "name": "Por el Buen Camino",
+        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
       },
       "artists": [
         {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        },
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
         }
       ],
-      "duration_ms": 197888,
-      "name": "Tiene Sabor (feat. Omara Portuondo)",
-      "url": "https://open.spotify.com/track/4DFbRXlTdH9JdqCBeX6NOG"
+      "duration_ms": 311733,
+      "name": "Caretas",
+      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -195,18 +191,18 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Por el Buen Camino",
-        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
+        "name": "Que Gente Averigu\u00e1",
+        "url": "https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY"
       },
       "artists": [
         {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+          "name": "Mon Rivera",
+          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
         }
       ],
-      "duration_ms": 311733,
-      "name": "Caretas",
-      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
+      "duration_ms": 177680,
+      "name": "Lluvia con Nieve",
+      "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -247,18 +243,22 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Que Gente Averigu\u00e1",
-        "url": "https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY"
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj"
       },
       "artists": [
         {
-          "name": "Mon Rivera",
-          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 177680,
-      "name": "Lluvia con Nieve",
-      "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
+      "duration_ms": 197888,
+      "name": "Tiene Sabor (feat. Omara Portuondo)",
+      "url": "https://open.spotify.com/track/4DFbRXlTdH9JdqCBeX6NOG"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "El Agua de la Vida",
-        "url": "https://open.spotify.com/album/6qn0EfY7hr2skTfoRFXHR6"
-      },
-      "artists": [
-        {
-          "name": "Salsa Celtica",
-          "url": "https://open.spotify.com/artist/1L4dh63UjFVKTCBZTmbPSZ"
-        }
-      ],
-      "duration_ms": 354466,
-      "name": "El Sol de la Noche",
-      "url": "https://open.spotify.com/track/0PAf4n8jN2Jo6QXcqirRVq"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
         "name": "Salsa De La Mata, Vol. 2",
         "url": "https://open.spotify.com/album/4szcF2VzqktkY6LMSVuMbk"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 291970,
       "name": "Alo Alo",
       "url": "https://open.spotify.com/track/5X67X7Nfl8V9EigDe1p4cE"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "El Agua de la Vida",
+        "url": "https://open.spotify.com/album/6qn0EfY7hr2skTfoRFXHR6"
+      },
+      "artists": [
+        {
+          "name": "Salsa Celtica",
+          "url": "https://open.spotify.com/artist/1L4dh63UjFVKTCBZTmbPSZ"
+        }
+      ],
+      "duration_ms": 354466,
+      "name": "El Sol de la Noche",
+      "url": "https://open.spotify.com/track/0PAf4n8jN2Jo6QXcqirRVq"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
+        "name": "Apollo Sound 9",
+        "url": "https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+        }
+      ],
+      "duration_ms": 442622,
+      "name": "Marejada Feliz",
+      "url": "https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/15w229yWe9GblGtWjJC753"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 246720,
       "name": "La Esencia Del Guaguanc\u00f3",
       "url": "https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
-        "name": "Apollo Sound 9",
-        "url": "https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
-        }
-      ],
-      "duration_ms": 442622,
-      "name": "Marejada Feliz",
-      "url": "https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "El Maestro",
-        "url": "https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH"
+        "name": "Apollo Sound 5",
+        "url": "https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
         }
       ],
-      "duration_ms": 502920,
-      "name": "El Fais\u00e1n",
-      "url": "https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG"
+      "duration_ms": 287586,
+      "name": "Cui Cui",
+      "url": "https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N"
     },
     {
       "added_at": "2023-02-13 22:55:50",

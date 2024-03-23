@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Mizzy Miles com Bispo e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,482 likes - 81 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,511 likes - 81 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,31 +63,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 53 | [À Tua Porta](https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [À Tua Porta](https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8) | 3:31 |
 | 54 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
 | 55 | [Filme](https://open.spotify.com/track/4Hd0HVZtJpxCMGOkCClCZd) | [Don Plako](https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB), [MIKELPOTTER](https://open.spotify.com/artist/3m7RZ1FQOykuToY5e5G8yJ) | [Filme](https://open.spotify.com/album/2bDwKIpew8gQhIi2BzeAEV) | 3:18 |
-| 56 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
+| 56 | [Juro](https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6) | [Neko’Rs](https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee) | [Juro](https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP) | 3:31 |
 | 57 | [love fora de stock](https://open.spotify.com/track/6Z1kJFolqUG6pVksvXl8jc) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [love fora de stock](https://open.spotify.com/album/3NW26Phdu93L9Jo4oWeClv) | 3:00 |
-| 58 | [Juro](https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6) | [Neko’Rs](https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee) | [Juro](https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP) | 3:31 |
+| 58 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
 | 59 | [Não Dá](https://open.spotify.com/track/6cALPWqrwYbbR9GEVM8Xg3) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi) | [Não Dá](https://open.spotify.com/album/2f4ma3ztAuZEGTZABZ4pqW) | 2:40 |
 | 60 | [Feitiço](https://open.spotify.com/track/1dGSNINnssx5BA35whIPzC) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Feitiço](https://open.spotify.com/album/1Zy5zUNTMhqXTQw0cKEDxf) | 2:41 |
 | 61 | [Neblina](https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Neblina](https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw) | 3:23 |
 | 62 | [Herança](https://open.spotify.com/track/59Emm4uPCpHLJLVhQ4LtNg) | [Silly](https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx) | [Herança](https://open.spotify.com/album/7Dd0Z2LMADxho6oXPFpK1n) | 3:00 |
 | 63 | [Se Tu Não Falasses](https://open.spotify.com/track/2G5Nq9rzDyEU85ByIbN9c9) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Se Tu Não Falasses](https://open.spotify.com/album/05ew2ZZN66Z60FItm4lnbb) | 3:00 |
-| 64 | [Volta](https://open.spotify.com/track/2SLW9thnVkyx4V3fjTEGTl) | [SHINY](https://open.spotify.com/artist/3PLznxCPat6iY9LWA8177i) | [Volta](https://open.spotify.com/album/3A83wpbeuo3SDWWu6lQmH1) | 3:56 |
-| 65 | [Me perdoa](https://open.spotify.com/track/27uSwzP75h8QwjSKDonTw4) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Me perdoa](https://open.spotify.com/album/22P8PHro2NFIN8E8ZpoBKs) | 2:57 |
+| 64 | [Me perdoa](https://open.spotify.com/track/27uSwzP75h8QwjSKDonTw4) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Me perdoa](https://open.spotify.com/album/22P8PHro2NFIN8E8ZpoBKs) | 2:57 |
+| 65 | [Volta](https://open.spotify.com/track/2SLW9thnVkyx4V3fjTEGTl) | [SHINY](https://open.spotify.com/artist/3PLznxCPat6iY9LWA8177i) | [Volta](https://open.spotify.com/album/3A83wpbeuo3SDWWu6lQmH1) | 3:56 |
 | 66 | [Quero Encontrar](https://open.spotify.com/track/13JbJ8nKqkuBg2uQG5BQHT) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Quero Encontrar](https://open.spotify.com/album/3egfgENT37TGdFDnzOROqh) | 3:00 |
 | 67 | [O Que Nós Fomos](https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [O Que Nós Fomos](https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ) | 2:38 |
-| 68 | [Pocoloco Freestyle](https://open.spotify.com/track/0Fo2Y1v3u1PzYxQbx1EidG) | [G.P.S.](https://open.spotify.com/artist/6arAno8kS3fW0dIPQjQrIa) | [Pocoloco Freestyle](https://open.spotify.com/album/5bkJId6IQBVJxeLoPa7oCB) | 2:18 |
-| 69 | [Mon Amour](https://open.spotify.com/track/4TNOliJJl5bBOSTZsw4w2l) | [DEL POZO](https://open.spotify.com/artist/1zHygLBAuxN05NZ2B2M1SQ) | [Mon Amour](https://open.spotify.com/album/2biPFtGNm3uQMsGzOFa4MZ) | 2:48 |
+| 68 | [Mon Amour](https://open.spotify.com/track/4TNOliJJl5bBOSTZsw4w2l) | [DEL POZO](https://open.spotify.com/artist/1zHygLBAuxN05NZ2B2M1SQ) | [Mon Amour](https://open.spotify.com/album/2biPFtGNm3uQMsGzOFa4MZ) | 2:48 |
+| 69 | [Pocoloco Freestyle](https://open.spotify.com/track/0Fo2Y1v3u1PzYxQbx1EidG) | [G.P.S.](https://open.spotify.com/artist/6arAno8kS3fW0dIPQjQrIa) | [Pocoloco Freestyle](https://open.spotify.com/album/5bkJId6IQBVJxeLoPa7oCB) | 2:18 |
 | 70 | [PRADA](https://open.spotify.com/track/2NlZ0iCKnLrZLxN6nTqxiI) | [Lonny B](https://open.spotify.com/artist/3xlBiTJH6m8cHyOl8gpE4m) | [PRADA](https://open.spotify.com/album/2HH3mTK5tiXuHlmwg9qtUx) | 3:29 |
 | 71 | [Cores](https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr) | [CHEWIE](https://open.spotify.com/artist/5BLBxwhH9IhY42OAnGrIIR) | [louCura](https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev) | 3:26 |
 | 72 | [Party All Night](https://open.spotify.com/track/3L3zc4oIMB1iSj0xS2kLq0) | [Vinagre](https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5) | [Party All Night](https://open.spotify.com/album/7kptxnxfhnvZH5X6ViSxqS) | 3:12 |
 | 73 | [Tou Leve](https://open.spotify.com/track/3vIj4m5xmi6y5LOb9Obq3s) | [Patrox](https://open.spotify.com/artist/4nUg6x87RtYrsbsiHOhBgy) | [Tou Leve](https://open.spotify.com/album/7ADO9SCOdrefjh2EB2f8od) | 3:02 |
-| 74 | [Hubris](https://open.spotify.com/track/1Ol1SZBJ0xnZH1SZ4Ua6W3) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l) | [Hubris](https://open.spotify.com/album/0ZF8f1SLDIObSCU98tfgJB) | 3:16 |
-| 75 | [batom rosa](https://open.spotify.com/track/2i5tZzooStnLGv5lL3DLpy) | [YANKEMA](https://open.spotify.com/artist/1KpBnKdAUaXpGoHvvSXUaJ) | [batom rosa](https://open.spotify.com/album/3jiCnCWy1K80ufnrRIyboo) | 2:24 |
-| 76 | [A MINHA VIDA DEPOIS DE TI](https://open.spotify.com/track/65k5sXY8UHFxNqHj0W3Hj3) | [mizx999](https://open.spotify.com/artist/6EzFjRl6oNQYmyK0ulUbZc) | [AUSENTE DE LUZ](https://open.spotify.com/album/0HWWvwNtjJvlLziHiN6Jge) | 2:36 |
-| 77 | [Encandeia](https://open.spotify.com/track/5QXceEFUvXtjPiUDTudvii) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv) | [Encandeia](https://open.spotify.com/album/07OqndgTNxflsvwnZFoPV8) | 3:46 |
+| 74 | [batom rosa](https://open.spotify.com/track/2i5tZzooStnLGv5lL3DLpy) | [YANKEMA](https://open.spotify.com/artist/1KpBnKdAUaXpGoHvvSXUaJ) | [batom rosa](https://open.spotify.com/album/3jiCnCWy1K80ufnrRIyboo) | 2:24 |
+| 75 | [Encandeia](https://open.spotify.com/track/5QXceEFUvXtjPiUDTudvii) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv) | [Encandeia](https://open.spotify.com/album/07OqndgTNxflsvwnZFoPV8) | 3:46 |
+| 76 | [Hubris](https://open.spotify.com/track/1Ol1SZBJ0xnZH1SZ4Ua6W3) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l) | [Hubris](https://open.spotify.com/album/0ZF8f1SLDIObSCU98tfgJB) | 3:16 |
+| 77 | [A MINHA VIDA DEPOIS DE TI](https://open.spotify.com/track/65k5sXY8UHFxNqHj0W3Hj3) | [mizx999](https://open.spotify.com/artist/6EzFjRl6oNQYmyK0ulUbZc) | [AUSENTE DE LUZ](https://open.spotify.com/album/0HWWvwNtjJvlLziHiN6Jge) | 2:36 |
 | 78 | [Drive Slow](https://open.spotify.com/track/1ZyWOoBhKX46OToNwBWJUt) | [Nadav](https://open.spotify.com/artist/4nBPR1hXXGzBB2u4HsR4X9) | [Drive Slow](https://open.spotify.com/album/7E7BtoNbkrRFvOB6cWs7JV) | 2:52 |
 | 79 | [CINTIA](https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV) | [Cozzy 2x](https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM) | [CINTIA](https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl) | 2:49 |
 | 80 | [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 |
 | 81 | [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 |
 
-Snapshot ID: `MCwzZDQzYzdkMTFkMDg1ZjMzNjNiNjYxOGE1N2ZiNTYxNTYyMWYwNDRh`
+Snapshot ID: `MCxlNDQwMTlkOWM2YTVhYmQ3MjYyMzg0NjM3MTI0NmU5NjgwMzA2MDIy`

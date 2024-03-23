@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover: Derek & The Cats, Frizzell D'souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,595 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,598 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 33 | [Cool Kids](https://open.spotify.com/track/0pnEDzL1zut4qdMYikDix7) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/5YBeCgnlCf92RpY7ux9Xmu) | 2:52 |
 | 34 | [EYE\(S\)](https://open.spotify.com/track/4Ah02v3e8R2rt8gQzdlCTH) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [EYE\(S\)](https://open.spotify.com/album/3aOtCz84mZL8Nn9xfg9W8B) | 3:59 |
 | 35 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 |
-| 36 | [Nobody Else But You](https://open.spotify.com/track/17BN6uaGdmPuc9HhCRTNlB) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Nobody Else But You](https://open.spotify.com/album/1sgoRiWtrycgeZ0iN7rRFa) | 3:19 |
-| 37 | [Catwalk](https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Chalawan Sound](https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go) | 4:11 |
+| 36 | [Catwalk](https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Chalawan Sound](https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go) | 4:11 |
+| 37 | [Nobody Else But You](https://open.spotify.com/track/17BN6uaGdmPuc9HhCRTNlB) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Nobody Else But You](https://open.spotify.com/album/1sgoRiWtrycgeZ0iN7rRFa) | 3:19 |
 | 38 | [Pause](https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Pause](https://open.spotify.com/album/3vKSAwLbfwXygEiGH1vpvs) | 2:51 |
 | 39 | [Love Drunk](https://open.spotify.com/track/5mgGKIjsmxlRpEm7DQoMga) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/6Wh4Dyti49RAcSLupRiZHG) | 2:30 |
 | 40 | [Vanilla](https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7) | 2:31 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 49 | [Sober Song](https://open.spotify.com/track/6QiE9xVHfGT1s3ilFo2lVu) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [Cái Đầu Tiên](https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5) | 2:09 |
 | 50 | [afterglow](https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [hewantscoffeebutiamtea](https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U) | 3:24 |
 | 51 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 |
-| 52 | [I'll Get By](https://open.spotify.com/track/1ZHOSFoGjqE7k0Mpr1ofKx) | [Megumi Acorda](https://open.spotify.com/artist/2lZ43U1GZxkqqyoLg5YDu4) | [Unexpectedly](https://open.spotify.com/album/5L6mPVF4I314n4XrcVNyNq) | 4:19 |
-| 53 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
+| 52 | [I’m Just Like That](https://open.spotify.com/track/1CPnlfYU1dAQSLb6w5jt7I) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Lingering Gloaming](https://open.spotify.com/album/2ruuvwYiR8ju0dCY38UbS9) | 3:28 |
+| 53 | [I'll Get By](https://open.spotify.com/track/1ZHOSFoGjqE7k0Mpr1ofKx) | [Megumi Acorda](https://open.spotify.com/artist/2lZ43U1GZxkqqyoLg5YDu4) | [Unexpectedly](https://open.spotify.com/album/5L6mPVF4I314n4XrcVNyNq) | 4:19 |
 | 54 | [Just A Word](https://open.spotify.com/track/3XWRc74od1pT7MUkGiJmoW) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:00 |
-| 55 | [I’m Just Like That](https://open.spotify.com/track/1CPnlfYU1dAQSLb6w5jt7I) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Lingering Gloaming](https://open.spotify.com/album/2ruuvwYiR8ju0dCY38UbS9) | 3:28 |
+| 55 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
 | 56 | [TATTOO](https://open.spotify.com/track/1LAUJwiUaYOQnwx1u8Q8fQ) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [We Were So Young](https://open.spotify.com/album/6GYty2L58da7ERYD04QGLc) | 3:01 |
 | 57 | [So Good](https://open.spotify.com/track/76m6sl66prgKWBHlLcWioe) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/58x2uGJPK8o3yumSC8C2TR) | 2:59 |
 | 58 | [Semi Automatic Butane](https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Semi Automatic Butane](https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 74 | [One Day I Might Have A Say](https://open.spotify.com/track/1HlT3pKWWPPWriV2E44oEB) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [One Day I Might Have A Say](https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI) | 3:40 |
 | 75 | [Take Me Home](https://open.spotify.com/track/2ydZssU4KmqfnJrSrXfSMi) | [Farhan](https://open.spotify.com/artist/5uVot7nr1ZYEKmGiA2Pe4t), [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Take Me Home](https://open.spotify.com/album/0YCFRmzGYSjzUHQh51pA3l) | 2:58 |
 
-Snapshot ID: `MCw3NTY4ZTAxZGJiNzQ5M2Q3ZDg2MjMwN2U1ZmM0ZmVmZWI3MzVkM2Q3`
+Snapshot ID: `MCwyNjZkM2NmNzYzYWNhNjVmZTFmZTA2ZTcwY2M1YmI4Nzk0ZTE5NWIx`

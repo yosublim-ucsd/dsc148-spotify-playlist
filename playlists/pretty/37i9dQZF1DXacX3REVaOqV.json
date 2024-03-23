@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 498905,
+  "num_followers": 498919,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODUxYWFkMDQwMzNmZmM5MDQ0MTRmZGY1NmMxMGJkNjRiMjgyMTgy",
+  "snapshot_id": "MCw3M2E0OTMxODQ0YmJhMWQ3NTczNWVhMWYxNTk3MTZiMDNkNDhkZjVl",
   "tracks": [
     {
       "added_at": "2024-03-14 23:00:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Keep It Simple",
-        "url": "https://open.spotify.com/album/3FETrBitCgpS9AgqEktISJ"
-      },
-      "artists": [
-        {
-          "name": "Prunk",
-          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
-        },
-        {
-          "name": "Rona Ray",
-          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
-        }
-      ],
-      "duration_ms": 184781,
-      "name": "Keep It Simple",
-      "url": "https://open.spotify.com/track/4Fp3p14zeLSGF3MLAjSBUH"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Une Nuit \u00c0 La Cour EP",
         "url": "https://open.spotify.com/album/67q0iSaE7ylm1OFudYVWA6"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 241889,
       "name": "Une Nuit \u00c0 La Cour - Edit",
       "url": "https://open.spotify.com/track/7jbPFpeOuZ9UA0H8Aq6XUh"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Keep It Simple",
+        "url": "https://open.spotify.com/album/3FETrBitCgpS9AgqEktISJ"
+      },
+      "artists": [
+        {
+          "name": "Prunk",
+          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "duration_ms": 184781,
+      "name": "Keep It Simple",
+      "url": "https://open.spotify.com/track/4Fp3p14zeLSGF3MLAjSBUH"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -919,26 +919,22 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Change Your Mind (feat. Stevie Appleton)",
-        "url": "https://open.spotify.com/album/5qthXGfK0aszoaa3c3wOt7"
+        "name": "Jiggy Jerry",
+        "url": "https://open.spotify.com/album/2WQsBsF44O6NhdZ8exZOK2"
       },
       "artists": [
         {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
         },
         {
-          "name": "Millean.",
-          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+          "name": "Tagmann",
+          "url": "https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7"
         }
       ],
-      "duration_ms": 125982,
-      "name": "Change Your Mind (feat. Stevie Appleton)",
-      "url": "https://open.spotify.com/track/4zzk9QpZXsGby0TLrFGe0V"
+      "duration_ms": 185586,
+      "name": "Jiggy Jerry",
+      "url": "https://open.spotify.com/track/20RftxXUx2ZyE02sdGmgOp"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -963,22 +959,26 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Jiggy Jerry",
-        "url": "https://open.spotify.com/album/2WQsBsF44O6NhdZ8exZOK2"
+        "name": "Change Your Mind (feat. Stevie Appleton)",
+        "url": "https://open.spotify.com/album/5qthXGfK0aszoaa3c3wOt7"
       },
       "artists": [
         {
-          "name": "Sem Jacobs",
-          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
         },
         {
-          "name": "Tagmann",
-          "url": "https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7"
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
         }
       ],
-      "duration_ms": 185586,
-      "name": "Jiggy Jerry",
-      "url": "https://open.spotify.com/track/20RftxXUx2ZyE02sdGmgOp"
+      "duration_ms": 125982,
+      "name": "Change Your Mind (feat. Stevie Appleton)",
+      "url": "https://open.spotify.com/track/4zzk9QpZXsGby0TLrFGe0V"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Tighten Up",
-        "url": "https://open.spotify.com/album/7B0HytuKozCrtOQ9PxSTsp"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 158639,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Tighten Up",
+        "url": "https://open.spotify.com/album/7B0HytuKozCrtOQ9PxSTsp"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "She Likes To Dance",
-        "url": "https://open.spotify.com/album/3Wf7BuQrd5hzLn6cuczXIN"
-      },
-      "artists": [
-        {
-          "name": "Jizz",
-          "url": "https://open.spotify.com/artist/74VBh3o2WAWbQjsQrle0Ab"
-        }
-      ],
-      "duration_ms": 336385,
-      "name": "She Likes To Dance",
-      "url": "https://open.spotify.com/track/1Cq3QIdsUlTbRkmrMVqbHv"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Tell Me EP",
         "url": "https://open.spotify.com/album/0CcIISxMUzNAGCnCWOwSQI"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 233346,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1LiQJVCQ78nWOMRAGIlHgB"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "She Likes To Dance",
+        "url": "https://open.spotify.com/album/3Wf7BuQrd5hzLn6cuczXIN"
+      },
+      "artists": [
+        {
+          "name": "Jizz",
+          "url": "https://open.spotify.com/artist/74VBh3o2WAWbQjsQrle0Ab"
+        }
+      ],
+      "duration_ms": 336385,
+      "name": "She Likes To Dance",
+      "url": "https://open.spotify.com/track/1Cq3QIdsUlTbRkmrMVqbHv"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1655,30 +1655,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Now Or Never (Gregor Salto Remixes)",
-        "url": "https://open.spotify.com/album/3Gx4XYnvDECJEMRfEi0n2p"
-      },
-      "artists": [
-        {
-          "name": "Boddhi Satva",
-          "url": "https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn"
-        },
-        {
-          "name": "Erin Kimberly",
-          "url": "https://open.spotify.com/artist/2ramOs79MnYC9oLFy3e3oe"
-        },
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        }
-      ],
-      "duration_ms": 265365,
-      "name": "Now Or Never - Gregor Salto Radio Edit",
-      "url": "https://open.spotify.com/track/6SKfEQtJtub7opGLeMSd0m"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Higher (feat. your friend polly)",
         "url": "https://open.spotify.com/album/0dJWyX1g56b5myZiUDp58o"
       },
@@ -1719,6 +1695,30 @@
       "duration_ms": 140190,
       "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
       "url": "https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Now Or Never (Gregor Salto Remixes)",
+        "url": "https://open.spotify.com/album/3Gx4XYnvDECJEMRfEi0n2p"
+      },
+      "artists": [
+        {
+          "name": "Boddhi Satva",
+          "url": "https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn"
+        },
+        {
+          "name": "Erin Kimberly",
+          "url": "https://open.spotify.com/artist/2ramOs79MnYC9oLFy3e3oe"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        }
+      ],
+      "duration_ms": 265365,
+      "name": "Now Or Never - Gregor Salto Radio Edit",
+      "url": "https://open.spotify.com/track/6SKfEQtJtub7opGLeMSd0m"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Da Bump",
-        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Das Cabrio",
-          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
-        }
-      ],
-      "duration_ms": 205679,
-      "name": "Da Bump",
-      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Back To Love",
         "url": "https://open.spotify.com/album/4oeALA3Duci3OwWivbVNAN"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 165833,
       "name": "Back To Love",
       "url": "https://open.spotify.com/track/7bgg6TYXN8OCHDli94lOKe"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Da Bump",
+        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
+        }
+      ],
+      "duration_ms": 205679,
+      "name": "Da Bump",
+      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Stand By Me",
-        "url": "https://open.spotify.com/album/2TJaZYw5lPHhXwQsV3kCLu"
-      },
-      "artists": [
-        {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        }
-      ],
-      "duration_ms": 174435,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/1WIn9N73chZCDGJ0PxthIj"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Amor Essencial EP",
         "url": "https://open.spotify.com/album/1wBROVXVwgjVHIlhPzaefd"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 168931,
       "name": "Supposed To Do",
       "url": "https://open.spotify.com/track/53QOuE2ZA8b4DTfKE0Pljd"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/2TJaZYw5lPHhXwQsV3kCLu"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        }
+      ],
+      "duration_ms": 174435,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/1WIn9N73chZCDGJ0PxthIj"
     },
     {
       "added_at": "2024-03-14 23:00:00",

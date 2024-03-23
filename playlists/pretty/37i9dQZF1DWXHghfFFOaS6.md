@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,372 likes - 90 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,471 likes - 90 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 72 | [Stomp And Buck Dance](https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [Southern Comfort](https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD) | 5:48 |
 | 73 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG) | [Nuyorican Soul](https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Nuyorican Soul](https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L) | 5:19 |
 | 74 | [Changin'](https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Brass Construction](https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV) | 8:14 |
-| 75 | [Ocean Beach](https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4) | [Black Mighty Orchestra](https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI) | [To The Sky \(Remastered\)](https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj) | 3:16 |
-| 76 | [Apparently Nothin' \- Edit](https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt) | [Young Disciples](https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4) | [urban lounge](https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr) | 4:00 |
-| 77 | [No Use \- Funkhaus Sessions](https://open.spotify.com/track/6QwMs7pvzxGhriqoy3ofHc) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T) | [Funkhaus Studio Sessions](https://open.spotify.com/album/5LOoEv25jD7VHMcoaEcnbg) | 5:00 |
-| 78 | [Homecoming](https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 4:16 |
+| 75 | [Apparently Nothin' \- Edit](https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt) | [Young Disciples](https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4) | [urban lounge](https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr) | 4:00 |
+| 76 | [Ocean Beach](https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4) | [Black Mighty Orchestra](https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI) | [To The Sky \(Remastered\)](https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj) | 3:16 |
+| 77 | [Homecoming](https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 4:16 |
+| 78 | [No Use \- Funkhaus Sessions](https://open.spotify.com/track/6QwMs7pvzxGhriqoy3ofHc) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T) | [Funkhaus Studio Sessions](https://open.spotify.com/album/5LOoEv25jD7VHMcoaEcnbg) | 5:00 |
 | 79 | [Give Me](https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG) | [iLEVEL](https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE) | [I\-Level](https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8) | 4:01 |
 | 80 | [Nothing Has Changed](https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [In Pursuit Of The 13th Note](https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S) | 4:46 |
 | 81 | [Dear Limmertz](https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Azymuth: Outubro](https://open.spotify.com/album/6baaqatjoaHoivfzexDedw) | 4:34 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Pizza Pie](https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm) | [Let Your Hair Down](https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE) | [Pizza Pie](https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF) | 3:06 |
 | 90 | [C'était un rendez\-vous](https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [C'était un rendez\-vous](https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W) | 5:20 |
 
-Snapshot ID: `MCxhYTE3ZGRjYmNjMWM5NDFiMDg1MTRkMmUzNDhlM2QxY2U1YzMwNzgx`
+Snapshot ID: `MCxkN2U4OTgyY2JkODNmZGQ3NzVmOTJiYmI1ZjI5YmY3OWI4NDgxNTk1`

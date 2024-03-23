@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/keithpowers/">Keith Powers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,733 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,823 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 | 49 | [THINGS & SUCH](https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:57 |
 | 50 | [Wat U Sed \(feat\. Doechii & Kal Banx\)](https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 2:56 |
 
-Snapshot ID: `MCxkYmYwMjA4NDY4NWZjN2QwYjNlMTQ3MDY4OTJjMWQ0MjIyNWM4ZmUz`
+Snapshot ID: `MCw2NDM1ZWJiMzhhNGEzOWY3ZDk2NzZlZjVkNTcxNGU2ZGY5MmQ1MzU2`

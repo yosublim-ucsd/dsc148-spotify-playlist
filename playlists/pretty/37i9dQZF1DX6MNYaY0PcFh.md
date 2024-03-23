@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,502 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,520 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,21 +52,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 42 | [Free Ur Mind](https://open.spotify.com/track/5pIwVJad2bBODwo9wTP37U) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Mixtape 2: \#Vibes](https://open.spotify.com/album/2T7Xk2YrswY4ZrcBvQPYJc) | 2:45 |
 | 43 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
 | 44 | [Rain](https://open.spotify.com/track/6JZj90z1LqUkSyhdT6PEKm) | [Froman](https://open.spotify.com/artist/2XmYUy3NJHRuT3hBb8IS76) | [Rain](https://open.spotify.com/album/1rWGsnrgkXJ8hc3DDGZL5l) | 4:16 |
-| 45 | [Big & Bad Riddim](https://open.spotify.com/track/1MiQKWnyI47pXvW5wWf9ts) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Big & Bad Riddim](https://open.spotify.com/album/48MB8hbQNRWWy5C1DHa4WG) | 2:55 |
-| 46 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 |
+| 45 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 |
+| 46 | [Big & Bad Riddim](https://open.spotify.com/track/1MiQKWnyI47pXvW5wWf9ts) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Big & Bad Riddim](https://open.spotify.com/album/48MB8hbQNRWWy5C1DHa4WG) | 2:55 |
 | 47 | [Friday Nights](https://open.spotify.com/track/4QQsSlu26MlInYyO9jXusj) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Friday Nights](https://open.spotify.com/album/0NhGRpBH1IEt6BQ69QSFDZ) | 3:25 |
 | 48 | [Baby Sweet](https://open.spotify.com/track/5jgD38CwcAkTzJOqvQYH42) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Baby Sweet](https://open.spotify.com/album/6qb0k3YKuLker2JeKL7iZG) | 2:53 |
-| 49 | [Henney & Coke](https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi) | [Deadly Habitz](https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy) | [Lost City Archives, Vol\. 7](https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp) | 4:05 |
-| 50 | [Doubt](https://open.spotify.com/track/7uQJer8Iyw9DxpwexyeCLV) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [132.00FM](https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL) | 3:24 |
-| 51 | [Dream Theme](https://open.spotify.com/track/2rJDMsj2932cAAQsMFa3uB) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Dream Theme / How We Feelin' \(In The Party\)](https://open.spotify.com/album/22cv1K8eWKAdgXYOp1tVva) | 3:34 |
+| 49 | [Dream Theme](https://open.spotify.com/track/2rJDMsj2932cAAQsMFa3uB) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Dream Theme / How We Feelin' \(In The Party\)](https://open.spotify.com/album/22cv1K8eWKAdgXYOp1tVva) | 3:34 |
+| 50 | [Henney & Coke](https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi) | [Deadly Habitz](https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy) | [Lost City Archives, Vol\. 7](https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp) | 4:05 |
+| 51 | [Doubt](https://open.spotify.com/track/7uQJer8Iyw9DxpwexyeCLV) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [132.00FM](https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL) | 3:24 |
 | 52 | [Microdosing \(Conducta Remix\) \- Edit](https://open.spotify.com/track/7FYvSHYySIXK9hCwBgnOea) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Microdosing \(Conducta Remix\)](https://open.spotify.com/album/52r0BbElKJLiF59usacC0A) | 2:57 |
 | 53 | [Near U](https://open.spotify.com/track/4HiM09OpjomBVXjdcWpejJ) | [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Near U](https://open.spotify.com/album/7CxbINauBVpiZ0TpmKui7a) | 4:32 |
-| 54 | [REPLAY](https://open.spotify.com/track/78bKo5cD6JUPHfsY7sxSKj) | [ŚWIĘTY BASS](https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP), [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [MoreNight](https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N) | [REPLAY](https://open.spotify.com/album/4rNLK6g8hfpXK5wkpHAZ6n) | 2:54 |
-| 55 | [I Could \- Open Up Mix](https://open.spotify.com/track/4BDfygrHURRAI5EK3RxDqu) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [One Night, One Time](https://open.spotify.com/album/50dOkOrN2iLEaWBdGR0Osc) | 4:34 |
-| 56 | [Ricardo](https://open.spotify.com/track/5NKqifwgTbMOAZavYnrGcm) | [Arka](https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx) | [Ricardo](https://open.spotify.com/album/63qn7uIE3pQWjYwm0zAcxz) | 2:12 |
-| 57 | [lovergirl \- Tommy Villiers VIP Mix](https://open.spotify.com/track/2DwCBAxLXCx9DBFTNYnL2R) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [lovergirl \(Tommy Villiers VIP Mix\)](https://open.spotify.com/album/4WLHi3wJB7Kb7Av8xftYKN) | 3:36 |
-| 58 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 |
+| 54 | [I Could \- Open Up Mix](https://open.spotify.com/track/4BDfygrHURRAI5EK3RxDqu) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [One Night, One Time](https://open.spotify.com/album/50dOkOrN2iLEaWBdGR0Osc) | 4:34 |
+| 55 | [REPLAY](https://open.spotify.com/track/78bKo5cD6JUPHfsY7sxSKj) | [ŚWIĘTY BASS](https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP), [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [MoreNight](https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N) | [REPLAY](https://open.spotify.com/album/4rNLK6g8hfpXK5wkpHAZ6n) | 2:54 |
+| 56 | [lovergirl \- Tommy Villiers VIP Mix](https://open.spotify.com/track/2DwCBAxLXCx9DBFTNYnL2R) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [lovergirl \(Tommy Villiers VIP Mix\)](https://open.spotify.com/album/4WLHi3wJB7Kb7Av8xftYKN) | 3:36 |
+| 57 | [Ricardo](https://open.spotify.com/track/5NKqifwgTbMOAZavYnrGcm) | [Arka](https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx) | [Ricardo](https://open.spotify.com/album/63qn7uIE3pQWjYwm0zAcxz) | 2:12 |
+| 58 | [Love Me, Leave Me Alone](https://open.spotify.com/track/55MckToyWVSitUdMySgApN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Love Me, Leave Me Alone](https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM) | 3:13 |
 | 59 | [Like Home](https://open.spotify.com/track/2NhpheC54QQ8Vacjpmz1TH) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Like Home](https://open.spotify.com/album/0WkRktzRMPYCe77vWwsrB3) | 5:00 |
-| 60 | [Love Me, Leave Me Alone](https://open.spotify.com/track/55MckToyWVSitUdMySgApN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Love Me, Leave Me Alone](https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM) | 3:13 |
+| 60 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 |
 
-Snapshot ID: `MCwzMTJhYjljNTRkMDQwNDk4OWU4MTExMzFhNGE0OTI3MDRjM2U5Zjk1`
+Snapshot ID: `MCwyNDE5Nzc5NTBjNTIxMTcyMzRiZWVjYTczMGFmODA5ZTM0MjUyMGU2`

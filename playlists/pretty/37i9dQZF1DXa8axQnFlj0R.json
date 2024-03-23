@@ -1,12 +1,12 @@
 {
   "description": "The playlist version of a warm hug",
-  "num_followers": 83085,
+  "num_followers": 83066,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTg1ZjRmNmVkYTVlNjlmYmE3N2RhMTUyZjk3ZDdlM2ZhYzI3YzVk",
+  "snapshot_id": "MCxmZjhlYjRkMmQ1NzEzMDAyNGRlODJmZGI0YWEyY2RjYTJmM2RhYWNi",
   "tracks": [
     {
       "added_at": "2023-12-01 16:37:09",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "The Recordings of the Middle East",
-        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
-      },
-      "artists": [
-        {
-          "name": "The Middle East",
-          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
-        }
-      ],
-      "duration_ms": 326920,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Oh Wonder",
         "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 196465,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "The Recordings of the Middle East",
+        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
+      },
+      "artists": [
+        {
+          "name": "The Middle East",
+          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
+        }
+      ],
+      "duration_ms": 326920,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Look Mom I Made It",
-        "url": "https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns"
-      },
-      "artists": [
-        {
-          "name": "Annika Kilkenny",
-          "url": "https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx"
-        }
-      ],
-      "duration_ms": 179213,
-      "name": "Look Mom I Made It",
-      "url": "https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/2ZazqwsVLTRPltQMgje6Mc"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 227698,
       "name": "Still",
       "url": "https://open.spotify.com/track/7lKmIkQzOyJuW9ZIbmIOog"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Look Mom I Made It",
+        "url": "https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns"
+      },
+      "artists": [
+        {
+          "name": "Annika Kilkenny",
+          "url": "https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx"
+        }
+      ],
+      "duration_ms": 179213,
+      "name": "Look Mom I Made It",
+      "url": "https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Devon or Las Vegas",
-        "url": "https://open.spotify.com/album/2iBH65jlLWmkzAAkqu0Ade"
+        "name": "Folding",
+        "url": "https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL"
       },
       "artists": [
         {
-          "name": "Richard Walters",
-          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
+          "name": "Abimaro",
+          "url": "https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P"
+      "duration_ms": 227651,
+      "name": "Folding",
+      "url": "https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1"
     }
   ],
   "unique_name": "Sweater Weather",

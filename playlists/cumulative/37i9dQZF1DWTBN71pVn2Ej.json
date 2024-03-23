@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 181771,
       "name": "Amanita",
       "url": "https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei"
@@ -3487,6 +3487,24 @@
     },
     {
       "album": {
+        "name": "Giant's Despair",
+        "url": "https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "Giant's Despair",
+      "url": "https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e"
+    },
+    {
+      "album": {
         "name": "GIMME",
         "url": "https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi"
       },
@@ -4128,7 +4146,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 226153,
       "name": "High In The Clouds",
       "url": "https://open.spotify.com/track/2wfU1QHCNHng11dGKDiOph"
@@ -4921,6 +4939,24 @@
     },
     {
       "album": {
+        "name": "Ceremonia",
+        "url": "https://open.spotify.com/album/3OfFo9Ufl8u7fMKb29Ru75"
+      },
+      "artists": [
+        {
+          "name": "Blanket",
+          "url": "https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241608,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/7cEYiQ8uOjIN9I6Za7U1qT"
+    },
+    {
+      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/1Mkw4WVQayaOJUOQDnhv8T"
       },
@@ -5224,7 +5260,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 159333,
       "name": "Leap Years",
       "url": "https://open.spotify.com/track/5VaWu5KxCmOdp7RDLodofW"
@@ -6420,7 +6456,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 249440,
       "name": "Nothing Like",
       "url": "https://open.spotify.com/track/7sWKIQsoW2dlKMNobxXoXp"
@@ -8119,6 +8155,24 @@
     },
     {
       "album": {
+        "name": "Spiralling Out",
+        "url": "https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224444,
+      "name": "Spiralling Out",
+      "url": "https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd"
+    },
+    {
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/57wIEJkgUzg17Qyns6JvXz"
       },
@@ -9490,6 +9544,24 @@
       "duration_ms": 176072,
       "name": "Under The Knife",
       "url": "https://open.spotify.com/track/3XtlCUDgBJaPbK0S4LKPbA"
+    },
+    {
+      "album": {
+        "name": "Under Your Wing",
+        "url": "https://open.spotify.com/album/25hQeJwnw537NONFAWuPsT"
+      },
+      "artists": [
+        {
+          "name": "New Age Thief",
+          "url": "https://open.spotify.com/artist/5wPi7eY4GvQnUzrkvkgVpM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164829,
+      "name": "Under Your Wing",
+      "url": "https://open.spotify.com/track/1pBKpzy2FDH0l5Q6Hq3VcW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>我不在乎 別人怎麼看 怎麼猜測 我只在乎 你今天是否 笑過哭過。
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,484 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,485 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 3 | [你，好不好？ \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛，教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 |
 | 4 | [嘉宾](https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉宾](https://open.spotify.com/album/1orkuJNHCx51s1B0lWh3Ta) | 5:33 |
 | 5 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 |
-| 6 | [演員](https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 4:21 |
-| 7 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 |
+| 6 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 |
+| 7 | [演員](https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 4:21 |
 | 8 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |
 | 9 | [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 |
 | 10 | [泡沫](https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Xposed](https://open.spotify.com/album/5EUhTGmsSlrrt2w3IZd1IG) | 4:18 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 23 | [淘汰](https://open.spotify.com/track/3aawXLnJpcDVXCl1UUksAW) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [認了吧](https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk) | 4:45 |
 | 24 | [說好的幸福呢](https://open.spotify.com/track/4OoExItZJ0jePoCZDbHx4t) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [魔杰座](https://open.spotify.com/album/5akBJuVQvCggD0hCzjfeR3) | 4:16 |
 | 25 | [猜不透](https://open.spotify.com/track/5FGzM47D9MUa0y7qb2D0Ix) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [我愛上的](https://open.spotify.com/album/4s6z6tx4tMRKjjtyhtPQzb) | 3:53 |
-| 26 | [剛剛好](https://open.spotify.com/track/3urogUGoBidulMDDoucJBB) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 4:10 |
-| 27 | [獨家記憶](https://open.spotify.com/track/3cSHn8YDBsq4Tlc4RXKSUe) | [Jordan Chan](https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U) | [獨家記憶](https://open.spotify.com/album/4q9kSxmIeeJgRMhZC6AE0J) | 5:07 |
+| 26 | [獨家記憶](https://open.spotify.com/track/3cSHn8YDBsq4Tlc4RXKSUe) | [Jordan Chan](https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U) | [獨家記憶](https://open.spotify.com/album/4q9kSxmIeeJgRMhZC6AE0J) | 5:07 |
+| 27 | [剛剛好](https://open.spotify.com/track/3urogUGoBidulMDDoucJBB) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 4:10 |
 | 28 | [阿拉斯加海湾](https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ) | [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [阿拉斯加海湾](https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR) | 3:57 |
 | 29 | [失落沙洲](https://open.spotify.com/track/4vBoopG4WzohMju1GUmwoi) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [徐佳瑩LaLa首張創作專輯](https://open.spotify.com/album/5j3PCRtHQABiQLCgiRIsAk) | 4:59 |
 | 30 | [我們 \- 《後來的我們》電影主題曲](https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [我們 \(《後來的我們》電影主題曲\)](https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 49 | [匿名的好友](https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [雨愛](https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8) | 4:21 |
 | 50 | [我以為](https://open.spotify.com/track/6odiUPjUgSSdqTJEcF9uEs) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [愛到無可救藥](https://open.spotify.com/album/6dE7rz16SWXc6FU5C5pI5m) | 4:58 |
 
-Snapshot ID: `MCwzNDI3MmE4YzkzMzVkNTJjOTNhOWQ2NmNkYWZmYmM5ZGZiMTJjNjk3`
+Snapshot ID: `MCxhMTdjOTRkOTE1YjE5MjdjZmMzNDEyM2M2YWY4ZjY5MjM2MzBjM2Mx`

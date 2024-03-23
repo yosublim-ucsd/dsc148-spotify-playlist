@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 65 | [Flex Like Ouu](https://open.spotify.com/track/2hJWZvTw4QVBwC14ZNs1Ib) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [Lil Pump](https://open.spotify.com/album/2VVvm4zJlUQm9XmBCvGN6z) | 1:48 |
 | 66 | [Oh My Dis Side \(feat\. Quavo\)](https://open.spotify.com/track/2rMFawCg4BW65jzbwztXAV) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:51 |
 | 67 | [Go Gina](https://open.spotify.com/track/6Vmow8PuUaU7W1T2WWLZk2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 2:41 |
-| 68 | [All These Years](https://open.spotify.com/track/4XLu3tTSZiPFVC9mmuR6Zp) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:44 |
-| 69 | [It’s Nice To Have A Friend](https://open.spotify.com/track/1SmiQ65iSAbPto6gPFlBYm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:30 |
+| 68 | [It’s Nice To Have A Friend](https://open.spotify.com/track/1SmiQ65iSAbPto6gPFlBYm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:30 |
+| 69 | [All These Years](https://open.spotify.com/track/4XLu3tTSZiPFVC9mmuR6Zp) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:44 |
 | 70 | [Stay](https://open.spotify.com/track/4brX8MJs5hxErgq48f9REO) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:26 |
 | 71 | [Motorcycle Patches](https://open.spotify.com/track/7g7raxdQpiLZT7aOlib4S1) | [Huncho Jack](https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Huncho Jack, Jack Huncho](https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1) | 3:11 |
 | 72 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 |
@@ -236,4 +236,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 226 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 227 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `Mjg1MTc4ODAsMDAwMDAwMDBmNmU2ZTM2OGM5NWE3OTczOWJmZmY1ZDc4NmZjZjFjYQ==`
+Snapshot ID: `Mjg1MTkzMjAsMDAwMDAwMDAzMzE0ZDRjNmM4YmU0NDNmMzQ1N2RhYjYzNGU0Y2FmZg==`

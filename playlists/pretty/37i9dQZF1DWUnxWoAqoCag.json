@@ -1,12 +1,12 @@
 {
   "description": "\u6b4c\u8a5e\u3092\u898b\u306a\u304c\u3089\u3001\u30d2\u30c3\u30c8\u66f2\u3092\u6b4c\u3044\u5c3d\u304f\u305d\u3046 \uff01",
-  "num_followers": 188781,
+  "num_followers": 188838,
   "original_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGEzZWU1YzY0YTE4MzlkZDZiYjJjNjRlZDg0ZTM0YmQ1NGRjMDZm",
+  "snapshot_id": "MCw1ZGM3Yzk3MTE2MTg3OWQzZjdhZWRkYjMwYWZlZDAxOWMxOTQ5YzUw",
   "tracks": [
     {
       "added_at": "2024-03-19 10:22:56",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-03-19 10:22:56",
       "album": {
-        "name": "GOAT",
-        "url": "https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO"
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
       "artists": [
         {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 157200,
-      "name": "GOAT",
-      "url": "https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ"
+      "duration_ms": 198053,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
     },
     {
       "added_at": "2024-03-19 10:22:56",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-03-19 10:22:56",
       "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
         }
       ],
-      "duration_ms": 198053,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
+      "duration_ms": 157200,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ"
     },
     {
       "added_at": "2024-03-19 10:22:56",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-03-19 10:22:56",
       "album": {
-        "name": "\u6700\u9ad8\u5230\u9054\u70b9",
-        "url": "https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN"
-      },
-      "artists": [
-        {
-          "name": "SEKAI NO OWARI",
-          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
-        }
-      ],
-      "duration_ms": 227469,
-      "name": "\u6700\u9ad8\u5230\u9054\u70b9",
-      "url": "https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN"
-    },
-    {
-      "added_at": "2024-03-19 10:22:56",
-      "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },
@@ -1055,6 +1039,38 @@
     {
       "added_at": "2024-03-19 10:22:56",
       "album": {
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Talk that Talk",
+      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
+    },
+    {
+      "added_at": "2024-03-19 10:22:56",
+      "album": {
+        "name": "\u6700\u9ad8\u5230\u9054\u70b9",
+        "url": "https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN"
+      },
+      "artists": [
+        {
+          "name": "SEKAI NO OWARI",
+          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+        }
+      ],
+      "duration_ms": 227469,
+      "name": "\u6700\u9ad8\u5230\u9054\u70b9",
+      "url": "https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN"
+    },
+    {
+      "added_at": "2024-03-19 10:22:56",
+      "album": {
         "name": "NIGHT DANCER",
         "url": "https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 210948,
       "name": "NIGHT DANCER",
       "url": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
-    },
-    {
-      "added_at": "2024-03-19 10:22:56",
-      "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
     },
     {
       "added_at": "2024-03-19 10:22:56",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-03-19 10:22:56",
       "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Talk that Talk",
-      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
-    },
-    {
-      "added_at": "2024-03-19 10:22:56",
-      "album": {
         "name": "THE BOOK",
         "url": "https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 248026,
       "name": "\u7fa4\u9752",
       "url": "https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk"
+    },
+    {
+      "added_at": "2024-03-19 10:22:56",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
     },
     {
       "added_at": "2024-03-19 10:22:56",
@@ -1299,8 +1299,8 @@
     {
       "added_at": "2024-03-19 10:22:56",
       "album": {
-        "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
-        "url": "https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z"
+        "name": "\u4e00\u9014",
+        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
       },
       "artists": [
         {
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 193990,
-      "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
+      "duration_ms": 190606,
+      "name": "\u4e00\u9014",
+      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
     },
     {
       "added_at": "2024-03-19 10:22:56",
@@ -1427,8 +1427,8 @@
     {
       "added_at": "2024-03-19 10:22:56",
       "album": {
-        "name": "\u4e00\u9014",
-        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
+        "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z"
       },
       "artists": [
         {
@@ -1436,9 +1436,9 @@
           "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 190606,
-      "name": "\u4e00\u9014",
-      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
+      "duration_ms": 193990,
+      "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
     },
     {
       "added_at": "2024-03-19 10:22:56",

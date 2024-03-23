@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. Novità rock, indie e punk dall'Italia! sleap\-e in cover.
 
-833 songs - 1 day 22 hr 10 min
+834 songs - 1 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Malinconica movida](https://open.spotify.com/track/4M5NGsrP3FBE59KlEwv7KV) | [Cassandra](https://open.spotify.com/artist/6V7y0aibviefBa86uY6KuL) | [Un glorioso disastro](https://open.spotify.com/album/6xtMwAvJOmf1Fryi6r1wfa) | 2:24 | 2023-11-30 | 2023-12-15 |
 | [MALÈSSERE](https://open.spotify.com/track/7uK7WsMJAiw1qTyTWFervQ) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [MALÈSSERE](https://open.spotify.com/album/7nMR7KTnz9DRtAdX5M2YWV) | 2:27 | 2023-07-06 | 2023-10-06 |
 | [Mamma e papà](https://open.spotify.com/track/0uCQY7Psi0dql2N0zAEiTl) | [Marco Fracasia](https://open.spotify.com/artist/5cBxKy6si4GgCAJKaoYBrb) | [Mamma e papà](https://open.spotify.com/album/2aPx75NgtEtTVbZvAzaLoZ) | 4:31 | 2023-09-21 | 2023-10-27 |
+| [Mani E Calcolatrici \(Elderly In A Hurry\)](https://open.spotify.com/track/55CHtuKxC6ksrKxVDOCjpi) | [I Finnegans](https://open.spotify.com/artist/2rrjc6ARdFy4OigHtVsL7X) | [FASTEDELICA](https://open.spotify.com/album/2MGkpR1vN8Hi4ygbMVdMPX) | 1:57 | 2024-03-22 |  |
 | [Manichini](https://open.spotify.com/track/3jFISbW5Ok8RoS3XeDZLfe) | [Mondo Caos](https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP) | [Manichini](https://open.spotify.com/album/5zXmDgtt8EP1bzghLq7Ipc) | 3:25 | 2023-04-20 | 2023-05-12 |
 | [MANTRA](https://open.spotify.com/track/5OeXR8t6XNBJHabaybzknU) | [Isoladellerose](https://open.spotify.com/artist/0kLYaTmvi8RPAmOEgS2oRb) | [MANTRA](https://open.spotify.com/album/7LaUP7iIURuc6QPGSOPY2B) | 2:24 | 2023-10-19 | 2023-11-17 |
 | [Mare Forza 9oi](https://open.spotify.com/track/268q0mDTAs7O9ssY6KE1ZG) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Mare Forza 9oi](https://open.spotify.com/album/6wHu0paIJx1aiN3w3NyExG) | 2:43 | 2023-12-05 | 2024-03-08 |

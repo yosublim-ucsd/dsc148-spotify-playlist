@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Slash
 
-273 songs - 17 hr 17 min
+274 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Love & Peace](https://open.spotify.com/track/7qqRahwHKrtbNSLgu6Wtg9) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Love & Peace](https://open.spotify.com/album/7IWzUoiQj0lYIiq97ChEzo) | 5:59 | 2020-10-16 | 2023-06-03 |
 | [Love and Devotion](https://open.spotify.com/track/1BvKwd2VSY9sVBPSDLSlbt) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss) | [A Deeper Cut](https://open.spotify.com/album/2e7bq5SqrPdfcT5tPl6luP) | 3:23 | 2020-10-16 |  |
 | [Love and Devotion](https://open.spotify.com/track/4VhujOlgo1NtVfXQkxwPaP) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss) | [A Deeper Cut](https://open.spotify.com/album/081mWFWjZU1Dyl2RspScxV) | 3:23 | 2020-10-16 | 2023-06-04 |
-| [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 | 2020-10-16 |  |
+| [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 | 2020-10-16 | 2024-03-23 |
 | [Lucky](https://open.spotify.com/track/4bmA9Hd5F2u9MvnewudhjB) | [Jane Lee Hooker](https://open.spotify.com/artist/1fFEQ9r3l2ApZ1EOEcwreH) | [Rollin'](https://open.spotify.com/album/3zv68B02yNlKFqlIbRDY0o) | 4:54 | 2022-04-29 |  |
 | [Make It Shake](https://open.spotify.com/track/57uYXpzoI7dOxdrOPWxZGT) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Make It Shake](https://open.spotify.com/album/165D6axZ9zq76cV1ip2qpo) | 3:14 | 2023-05-05 | 2023-05-20 |
 | [Make Your Move](https://open.spotify.com/track/5uXlBb9vZ3ltzVpbVXAH5N) | [Beyond the Badlands](https://open.spotify.com/artist/5Od4vhwUDRjIKGCu7OrFsP) | [Make Your Move](https://open.spotify.com/album/5upDTjsYYm1tAU1CWHruPz) | 3:21 | 2021-04-16 |  |
@@ -186,6 +186,7 @@
 | [Pick Your Poison](https://open.spotify.com/track/2oXl8o2g4iPAEZL1YbmYVH) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Pick Your Poison](https://open.spotify.com/album/7DVKYtrPILCQxbUgP7EJ0a) | 3:45 | 2020-10-16 | 2022-07-27 |
 | [Poison the Water](https://open.spotify.com/track/4FZTgKUSqTsZ2oSNpHl0O4) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [Poison the Water](https://open.spotify.com/album/0Hl9xfHPd8mm0JTBBf7T9H) | 3:51 | 2022-09-16 | 2022-10-15 |
 | [Prosecution Blues](https://open.spotify.com/track/6DdX7BH2VJzfcjIAlyyPzk) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Prosecution Blues](https://open.spotify.com/album/3GvnjHR6Vm28smZDaxS0Ww) | 3:53 | 2021-07-16 | 2022-07-29 |
+| [Put Your Money On Me](https://open.spotify.com/track/3nFZSnjeCfNLVFPK1nnXZF) | [The Answer](https://open.spotify.com/artist/3STTKsLP1gSzGvOVCtNlWS) | [Put Your Money On Me](https://open.spotify.com/album/7MyvRRf3JcTp4R4J3iXC0B) | 3:07 | 2024-03-22 |  |
 | [Ready for More](https://open.spotify.com/track/3qCcj7VVDZtiCo8LASZQyG) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [III](https://open.spotify.com/album/7wOCyDQqR7yUb4JvEgBnrd) | 2:24 | 2023-06-16 |  |
 | [Renegade Season](https://open.spotify.com/track/4YcPEgiT0kbnidJYw7OyUb) | [Jax Hollow](https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB) | [Only The Wild Ones](https://open.spotify.com/album/23987SO39NcnKh9gtceZKf) | 4:36 | 2023-05-05 |  |
 | [Ride](https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 3:26 | 2020-10-16 | 2023-03-04 |

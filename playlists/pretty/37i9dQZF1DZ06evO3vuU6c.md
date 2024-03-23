@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,382,952 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,383,121 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 49 | [Heaven Can Wait \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:15 |
 | 50 | [Rainbow](https://open.spotify.com/track/2xie0OhRzMjWE1Be82sC0k) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [My Little Pony: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5L7cZeMTVwaJUt1NHJSuEm) | 3:17 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA1MjhjNjViODc4OGY2NzllYTNkZmY2M2FmODBkZTdjNA==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBmODUwMjBmMjg1MTc0ZmIzMWZkNDMxYzA0OGE3YTY4NQ==`

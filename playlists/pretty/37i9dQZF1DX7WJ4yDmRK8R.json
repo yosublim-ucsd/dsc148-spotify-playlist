@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 373184,
+  "num_followers": 373267,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDJmYzVhMjQwYzVlMTJmNjBhNmZiMDhkM2M0YjBhZjdlZTlkM2Ex",
+  "snapshot_id": "MCwxZmEwN2I2MjE0NzZjNzgzYzQ4YWM5OGJhZWY2Y2UzODI2MmZiZDI0",
   "tracks": [
     {
       "added_at": "2024-02-23 18:26:51",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "I Just Can't Stop It (Remastered)",
-        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
-      },
-      "artists": [
-        {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Mirror In the Bathroom",
-      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
         "name": "The Restoration Of Chaos & Order",
         "url": "https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 226333,
       "name": "Silence Is Golden But Duct Tape Is Silver",
       "url": "https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
+        "name": "I Just Can't Stop It (Remastered)",
+        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
+      },
+      "artists": [
+        {
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Mirror In the Bathroom",
+      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
+        "name": "The Toasters: 30th Anniversary",
+        "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
+      },
+      "artists": [
+        {
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Don't Let the Bastards Grind You Down",
+      "url": "https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 218240,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
-        "name": "The Toasters: 30th Anniversary",
-        "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
-      },
-      "artists": [
-        {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Don't Let the Bastards Grind You Down",
-      "url": "https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
+        "name": "The Essential Fishbone",
+        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
+      },
+      "artists": [
+        {
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Ma and Pa",
+      "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
         "name": "A Good Day for the Damned",
         "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
       },
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "The Essential Fishbone",
-        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
       },
       "artists": [
         {
-          "name": "Fishbone",
-          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
+          "name": "Hepcat",
+          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
         }
       ],
-      "duration_ms": 199626,
-      "name": "Ma and Pa",
-      "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
+      "duration_ms": 202106,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
         "name": "Life Won't Wait",
         "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 228040,
       "name": "Life Won't Wait",
       "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
-      },
-      "artists": [
-        {
-          "name": "Hepcat",
-          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
         "name": "A Live Injection: Anthology 1968-1979",
         "url": "https://open.spotify.com/album/2So48zf14on4O5uQRsa0QR"
       },
@@ -1495,22 +1495,6 @@
       "duration_ms": 159400,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/4jcvkqhSGBvqVgPmvZsLiQ"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
-        "name": "Life Sucks... Let's Dance!",
-        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 164552,
-      "name": "You Can't Have All of Me",
-      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1543,6 +1527,22 @@
       "duration_ms": 95500,
       "name": "Future Version",
       "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
+        "name": "Life Sucks... Let's Dance!",
+        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 164552,
+      "name": "You Can't Have All of Me",
+      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "Beatdown Generation",
-        "url": "https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud"
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
       },
       "artists": [
         {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+          "name": "Hepcat",
+          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
         }
       ],
-      "duration_ms": 194825,
-      "name": "Beatdown Generation",
-      "url": "https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc"
+      "duration_ms": 219706,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
     }
   ],
   "unique_name": "The Essential Ska",

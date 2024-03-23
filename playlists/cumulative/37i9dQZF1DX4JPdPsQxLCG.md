@@ -4,7 +4,7 @@
 
 > Classic tunes for the open road.
 
-362 songs - 23 hr 48 min
+363 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,11 +122,12 @@
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(Expanded Edition\)](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) | 2:40 | 2022-09-10 | 2022-09-15 |
 | [Hayloft](https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA) | 3:01 | 2023-12-22 |  |
 | [Hayloft](https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 3:01 | 2023-07-14 | 2023-12-23 |
-| [Heart of Gold](https://open.spotify.com/track/2PtznJ8G7F1fsOABk9pXIr) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Greatest Hits](https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao) | 3:07 | 2024-03-15 | 2024-03-20 |
-| [Heart of Gold \- 2009 Remaster](https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(2009 Remaster\)](https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0) | 3:07 | 2022-05-02 |  |
+| [Heart of Gold](https://open.spotify.com/track/2PtznJ8G7F1fsOABk9pXIr) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Greatest Hits](https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao) | 3:07 | 2024-03-15 |  |
+| [Heart of Gold \- 2009 Remaster](https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(2009 Remaster\)](https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0) | 3:07 | 2022-05-02 | 2024-03-23 |
 | [Heaven Coming Down](https://open.spotify.com/track/6lOvhkSYAU6xde5BvtWNbB) | [The Tea Party](https://open.spotify.com/artist/6O5Xi2xT3bICu1ZLXqLYRE) | [TRIPtych](https://open.spotify.com/album/1q1DoRb0McqviO1JCwJ7mQ) | 4:01 | 2022-05-02 |  |
 | [Hello Time Bomb](https://open.spotify.com/track/60VbLbx7B1ST4zYJBatjne) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Beautiful Midnight](https://open.spotify.com/album/5ISNKUHRn9zX5vM7Z6Khka) | 3:58 | 2022-05-02 | 2022-11-13 |
 | [Hello, I'm In Delaware](https://open.spotify.com/track/1PUh1GENlvlgu0dW28I6tY) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Sometimes](https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn) | 5:45 | 2022-05-02 | 2023-05-19 |
+| [Helpless](https://open.spotify.com/track/2y3Ek8naO0FJgNaddG12TU) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Greatest Hits](https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao) | 3:38 | 2024-03-22 |  |
 | [High Road Easy](https://open.spotify.com/track/42KjSGC2rITrf3aPGPvdmm) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Rats](https://open.spotify.com/album/6fRQotr4bCJNFScYyIHkCP) | 4:01 | 2022-05-02 | 2022-07-25 |
 | [High School Confidential](https://open.spotify.com/track/4kuxRQnF3wEm2BkM1XvRkD) | [Rough Trade](https://open.spotify.com/artist/4fd8mrtRK863BrE37LgITd) | [Avoid Freud](https://open.spotify.com/album/7quqMG6qpJpYnMYK8XU12F) | 3:26 | 2022-05-02 | 2022-07-29 |
 | [Highway of Heroes](https://open.spotify.com/track/6pYeDjLJwp3OvlkMhKR3HI) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [Highway of Heroes](https://open.spotify.com/album/3im21dpoYXLW2K41cLuviM) | 3:52 | 2022-05-02 | 2022-07-29 |
@@ -190,7 +191,7 @@
 | [Mercy Mercy](https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Mercy Mercy](https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB) | 2:58 | 2023-08-04 | 2023-10-05 |
 | [Midnight Rain](https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [Wide Mouth Mason](https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E) | 3:47 | 2022-05-02 | 2022-07-28 |
 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy) | 3:55 | 2022-09-10 | 2022-09-15 |
-| [Money City Maniacs](https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Navy Blues](https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6) | 3:53 | 2022-05-02 |  |
+| [Money City Maniacs](https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Navy Blues](https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6) | 3:53 | 2022-05-02 | 2024-03-23 |
 | [Monkey Bars](https://open.spotify.com/track/3hkXBT0vqoXzxmLRzBYAZl) | [Coney Hatch](https://open.spotify.com/artist/7gvIFmjP5KZ9ifQt599A6B) | [Best Of Three](https://open.spotify.com/album/5kbhLIHfnbBP4cZDGfNJ32) | 4:16 | 2022-05-02 | 2022-07-28 |
 | [Monster Hospital](https://open.spotify.com/track/3cFumR9mKXUyQutmdLELqb) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Live It Out](https://open.spotify.com/album/5HxOvmgzLJJfN3B6ecuYSi) | 3:30 | 2023-05-18 | 2023-06-29 |
 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 | 2022-09-10 | 2022-09-15 |

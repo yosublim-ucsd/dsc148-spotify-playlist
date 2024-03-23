@@ -2158,7 +2158,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 158961,
       "name": "amends",
       "url": "https://open.spotify.com/track/2zeyfLYqiAp0dkvaKY93HI"
@@ -3038,7 +3038,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 199366,
       "name": "babytooth",
       "url": "https://open.spotify.com/track/5efEKdV6428nEodNHEM7oT"
@@ -8116,7 +8116,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 152428,
       "name": "CUT MY HEART OUT",
       "url": "https://open.spotify.com/track/087UWFehhhqmHr79g9H1kn"
@@ -17391,6 +17391,24 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
         "name": "I like u (Dorian Electra Remix)",
         "url": "https://open.spotify.com/album/6VgUL8abMlwrLw53rSTc9F"
       },
@@ -17558,6 +17576,24 @@
       "duration_ms": 191920,
       "name": "I Think...",
       "url": "https://open.spotify.com/track/4LMQDGYCDmCdOMVhIG2S8D"
+    },
+    {
+      "album": {
+        "name": "I Took A Pill In Ibiza",
+        "url": "https://open.spotify.com/album/3BoY30AhgyTrduarCSErOZ"
+      },
+      "artists": [
+        {
+          "name": "FREE JIMI",
+          "url": "https://open.spotify.com/artist/0S3uHVwh6XhFE69pO20yJf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "I Took A Pill In Ibiza",
+      "url": "https://open.spotify.com/track/5E12S5He8S89IdbNli2YiV"
     },
     {
       "album": {
@@ -19441,6 +19477,24 @@
     },
     {
       "album": {
+        "name": "BLOODMOON",
+        "url": "https://open.spotify.com/album/570Dv2BkqT7E8ZStfpNi1Y"
+      },
+      "artists": [
+        {
+          "name": "KROY",
+          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256023,
+      "name": "JOLIGENTIL",
+      "url": "https://open.spotify.com/track/622aeJLMWkE4lkkmoWNUFC"
+    },
+    {
+      "album": {
         "name": "rave (nc)",
         "url": "https://open.spotify.com/album/0ALMEZvu4E26GuMykkZ2PV"
       },
@@ -19644,6 +19698,24 @@
       "duration_ms": 111500,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/5FDBgeJawQYrnnpkBa5aI6"
+    },
+    {
+      "album": {
+        "name": "Kanekalon",
+        "url": "https://open.spotify.com/album/3T2GrYHzc9Z2UNO3HQSHDX"
+      },
+      "artists": [
+        {
+          "name": "Samantha Hudson",
+          "url": "https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127363,
+      "name": "Kanekalon",
+      "url": "https://open.spotify.com/track/72FOS2i2LW9z1kG2WLapwp"
     },
     {
       "album": {
@@ -22306,7 +22378,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 151000,
       "name": "Mantis",
       "url": "https://open.spotify.com/track/7hWuZeWZjSclI6TO6tcQmN"
@@ -23982,10 +24054,28 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 204000,
       "name": "Myspace",
       "url": "https://open.spotify.com/track/5cXr56savehemj8ria2cxD"
+    },
+    {
+      "album": {
+        "name": "n'est-ce pas",
+        "url": "https://open.spotify.com/album/0vwsH9udcnsCY0W7J1hCEQ"
+      },
+      "artists": [
+        {
+          "name": "k0d4m4",
+          "url": "https://open.spotify.com/artist/3tIjal5JTGCQpN7wEpbIz7"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "n'est-ce pas",
+      "url": "https://open.spotify.com/track/7izUG1EE2B2XqMDWANyIFG"
     },
     {
       "album": {
@@ -24475,6 +24565,24 @@
     },
     {
       "album": {
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/1cpyOrnxDFaIBQfbt2ipyD"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153910,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/1h4DGomolQ2UwJFFUWJzjP"
+    },
+    {
+      "album": {
         "name": "No Getting over U",
         "url": "https://open.spotify.com/album/0uFFnk89aYGXmASQeSbv20"
       },
@@ -24610,7 +24718,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 74071,
       "name": "NO SOY BLADEE",
       "url": "https://open.spotify.com/track/1X5p1jbnc7GJcz5pUGbWSH"
@@ -25228,6 +25336,24 @@
       "duration_ms": 298519,
       "name": "Oh Yeah - Caroline Polachek Remix",
       "url": "https://open.spotify.com/track/2tPN4TxN7ZYlSggqU7IENd"
+    },
+    {
+      "album": {
+        "name": "SuperKiss: A",
+        "url": "https://open.spotify.com/album/6AS9T4GWYPrK8BnhFkBLzw"
+      },
+      "artists": [
+        {
+          "name": "Shelhiel",
+          "url": "https://open.spotify.com/artist/1YiJh4CyYHF215ak2CmoaE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199873,
+      "name": "oh, Mr DJ!!!",
+      "url": "https://open.spotify.com/track/2E8LllpSU2FmTFbo9EKfQz"
     },
     {
       "album": {
@@ -27382,7 +27508,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 223506,
       "name": "Poster Girl",
       "url": "https://open.spotify.com/track/0uMuqJ8C94se50maCXGS1q"
@@ -28458,7 +28584,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 199906,
       "name": "Rave Angel",
       "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
@@ -29518,7 +29644,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 128256,
       "name": "ROTTEN",
       "url": "https://open.spotify.com/track/6se5Ti2TLMi7wO7AolPF1B"
@@ -29794,6 +29920,24 @@
       "duration_ms": 145326,
       "name": "Ryan Atwood",
       "url": "https://open.spotify.com/track/7iX7QTVcACBjHmnjsgsyKD"
+    },
+    {
+      "album": {
+        "name": "RYL0VE Song",
+        "url": "https://open.spotify.com/album/6HBRUgWffKMaS8pWYfzKEN"
+      },
+      "artists": [
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "RYL0VE Song",
+      "url": "https://open.spotify.com/track/09Sksb6alLvHMiHsa200n6"
     },
     {
       "album": {
@@ -30550,6 +30694,28 @@
       "duration_ms": 212557,
       "name": "Seeing Stars (feat. Frost Children)",
       "url": "https://open.spotify.com/track/4B4Sekpstoom4VdqDLatY1"
+    },
+    {
+      "album": {
+        "name": "Sefirot",
+        "url": "https://open.spotify.com/album/7dYlNgFh5Z31syVgrABpU6"
+      },
+      "artists": [
+        {
+          "name": "MYKKA",
+          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
+        },
+        {
+          "name": "Said",
+          "url": "https://open.spotify.com/artist/4IXpKvMb4jsNyMKlXBtWSR"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167865,
+      "name": "Sefirot",
+      "url": "https://open.spotify.com/track/503P8jeXzfhYrEldXNLkrE"
     },
     {
       "album": {
@@ -33764,7 +33930,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 153962,
       "name": "summer lungs",
       "url": "https://open.spotify.com/track/6X17PwmGkjJH717hEm9Ea3"
@@ -34408,6 +34574,28 @@
       "duration_ms": 133837,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/2ld0ET6mqwiVNPiLLJtxP4"
+    },
+    {
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198437,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX"
     },
     {
       "album": {
@@ -35166,6 +35354,32 @@
       "duration_ms": 169957,
       "name": "the scientific method",
       "url": "https://open.spotify.com/track/4AnAUtt0YB4ZP33mew7Z3L"
+    },
+    {
+      "album": {
+        "name": "The von dutch remix with addison rae and a.g. cook",
+        "url": "https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157328,
+      "name": "The von dutch remix with addison rae and a.g. cook",
+      "url": "https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo"
     },
     {
       "album": {
@@ -37632,7 +37846,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 164284,
       "name": "Von dutch",
       "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"

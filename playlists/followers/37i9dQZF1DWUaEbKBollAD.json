@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 43612,
+  "2024-03-23": 43640,
   "date_first_scraped": "2023-08-20",
   "description": "<a href=\"spotify:artist:4iHnLagnnmgiIwMSm1wuTq\">Giorgia Angiuli</a>'s favorite tracks. Updated regularly. Curated by Giorgia Angiuli. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Giorgia Angiuli's track IDs",
@@ -68,6 +68,28 @@
     },
     {
       "album": {
+        "name": "Aleluya feat. Mireia Clua",
+        "url": "https://open.spotify.com/album/0w2i8JB5THzHPRQR0BhU1r"
+      },
+      "artists": [
+        {
+          "name": "Lara Klart",
+          "url": "https://open.spotify.com/artist/1Rhon5PriofaAjjCEGNrQ2"
+        },
+        {
+          "name": "Mireia Clua",
+          "url": "https://open.spotify.com/artist/5mo4wph6i4YMt24jsH9yFj"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211862,
+      "name": "Aleluya feat. Mireia Clua",
+      "url": "https://open.spotify.com/track/14NAojx9aX2o5bhQolJWJK"
+    },
+    {
+      "album": {
         "name": "All I Got",
         "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
       },
@@ -79,7 +101,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 304390,
       "name": "All I Got",
       "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
@@ -376,6 +398,24 @@
     },
     {
       "album": {
+        "name": "Ego Is The Enemy",
+        "url": "https://open.spotify.com/album/7FrQOPp4y98Cvf6NXQfggr"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "Ego Is The Enemy",
+      "url": "https://open.spotify.com/track/2omtwYPfscqQc2XjOSmJOy"
+    },
+    {
+      "album": {
         "name": "Embrace Me Now",
         "url": "https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70"
       },
@@ -503,7 +543,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 509090,
       "name": "Future Dust",
       "url": "https://open.spotify.com/track/7BbdmhlX1kVgFrn1YlKJG2"
@@ -629,7 +669,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 378767,
       "name": "Himalaya",
       "url": "https://open.spotify.com/track/1xDo7ZRJGusfMXSrbkPA9N"
@@ -819,7 +859,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 203738,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks"
@@ -1017,7 +1057,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 394491,
       "name": "Mitsno Stoyaty",
       "url": "https://open.spotify.com/track/40gYiwafL92KAXN0Jv1t29"
@@ -1236,6 +1276,24 @@
     },
     {
       "album": {
+        "name": "Psychedelic Awakening",
+        "url": "https://open.spotify.com/album/6SZ4525Ke0Eu3ZmJLEFeJY"
+      },
+      "artists": [
+        {
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528000,
+      "name": "Sahara - Original mix",
+      "url": "https://open.spotify.com/track/7m0xP08bcvcHFVnlEzOhBG"
+    },
+    {
+      "album": {
         "name": "Port Am\u00ec - Remixes",
         "url": "https://open.spotify.com/album/1KJqX4TozQJVHNTokuFXII"
       },
@@ -1403,6 +1461,32 @@
       "duration_ms": 231428,
       "name": "Soulstice",
       "url": "https://open.spotify.com/track/4ODwlv8IZ0PQrqgM8iVOb8"
+    },
+    {
+      "album": {
+        "name": "Spiritum",
+        "url": "https://open.spotify.com/album/3DLisv8F3tPRnqRgAwPmxn"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Shibui",
+          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193528,
+      "name": "Spiritum",
+      "url": "https://open.spotify.com/track/1Ck2WX9Gw7zIFlhc6kZRu9"
     },
     {
       "album": {
@@ -1679,6 +1763,28 @@
       "duration_ms": 335000,
       "name": "Warp Drive",
       "url": "https://open.spotify.com/track/6zdJnikLSW14nk8lrHcde5"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/1nbX5SpbInsusz0qYRcrr2"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170645,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/4mwYnQIIIQMZ2fv1bA1v9E"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUaEbKBollAD"

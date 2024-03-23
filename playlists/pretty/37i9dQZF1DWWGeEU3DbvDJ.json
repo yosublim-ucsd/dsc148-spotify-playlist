@@ -1,12 +1,12 @@
 {
   "description": "The BBMAs return with a fresh award show format and performances from the artists who dominated the year in music. Watch the 2023 Billboard Music Awards on November 19! Cover: KAROL G\n\n",
-  "num_followers": 74935,
+  "num_followers": 74964,
   "original_name": "2023 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTRlYTJlMGZhZTdlYzAxYmQzMzkyN2I3ZmIzMGYyYzhjMjM5ZjQy",
+  "snapshot_id": "MCw2YTMzMzRiZTQ4ZGM2N2UxYTA5OTdhNzQ2OGVkYmVmMzM5NTJiZWVm",
   "tracks": [
     {
       "added_at": "2023-11-13 18:20:27",
@@ -475,22 +475,26 @@
     {
       "added_at": "2023-11-13 18:20:27",
       "album": {
-        "name": "Seven (feat. Latto)",
-        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 184400,
-      "name": "Seven (feat. Latto)",
-      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
       "added_at": "2023-11-13 18:20:27",
@@ -515,26 +519,22 @@
     {
       "added_at": "2023-11-13 18:20:27",
       "album": {
-        "name": "Baby Don't Hurt Me",
-        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
         },
         {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 140017,
-      "name": "Baby Don't Hurt Me",
-      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
       "added_at": "2023-11-13 18:20:27",

@@ -480,7 +480,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 138386,
       "name": "Blackbird - Remastered 2009",
       "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 197994,
       "name": "can you see me?",
       "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 229960,
       "name": "No Right To Love You - Acoustic",
       "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
@@ -2710,6 +2710,24 @@
       "duration_ms": 185274,
       "name": "Place We Were Made",
       "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
+    },
+    {
+      "album": {
+        "name": "Pon P\u00f3n",
+        "url": "https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178436,
+      "name": "Pon P\u00f3n",
+      "url": "https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC"
     },
     {
       "album": {
@@ -3554,7 +3572,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 234352,
       "name": "tu fan (with salem ilese)",
       "url": "https://open.spotify.com/track/1xW2DTaGSxrLCiequZitXQ"
@@ -3626,7 +3644,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 208843,
       "name": "Una De Vaqueros",
       "url": "https://open.spotify.com/track/20yAkyj81iGMv2T8ho0eCy"

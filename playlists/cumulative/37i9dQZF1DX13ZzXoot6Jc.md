@@ -2,9 +2,9 @@
 
 ### [Country Favourites](https://open.spotify.com/playlist/37i9dQZF1DX13ZzXoot6Jc)
 
-> Country hits that will have you singing every word\. Cover: Nate Smith
+> Country hits that will have you singing every word\. Cover: The Reklaws
 
-306 songs - 16 hr 37 min
+309 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [But I Got A Beer In My Hand](https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [But I Got A Beer In My Hand](https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3) | 2:56 | 2023-08-25 |  |
 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 | 2022-07-21 | 2023-08-26 |
 | [C'est La Vie](https://open.spotify.com/track/32DspJXRL1U3c9RwOhRJZE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Pacifico \(Deluxe\)](https://open.spotify.com/album/29srkzNK3ixAW0NLVlR59A) | 2:55 | 2022-11-15 | 2022-12-30 |
+| [Came The Closest](https://open.spotify.com/track/2fRqb3yoCI9cbRASkEMo3m) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Came The Closest](https://open.spotify.com/album/6iRu1ih4G0bpKX8fPpOlhm) | 3:14 | 2024-03-22 |  |
 | [Can't Break Up Now](https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Can't Break Up Now](https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8) | 3:20 | 2023-11-17 |  |
 | [Can't Help Myself](https://open.spotify.com/track/3DpYNk8DsTwZ8rtTTTrKyf) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak), [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Boys](https://open.spotify.com/album/6H0eKPDymJDEshAdu9OW7C) | 2:38 | 2022-11-15 | 2023-11-11 |
 | [Catch](https://open.spotify.com/track/53cGGBxGPaRjP0HVUESyW5) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Ticket To L.A.](https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik) | 3:16 | 2022-07-21 | 2022-09-03 |
@@ -120,6 +121,7 @@
 | [I Don't Know About You](https://open.spotify.com/track/3yOs8FffuG6hPbzQG9lIqV) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Laps Around The Sun](https://open.spotify.com/album/5gzfsecJfxWOdWwnFT7LsR) | 3:27 | 2022-07-21 | 2022-11-16 |
 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 | 2022-07-21 | 2023-08-05 |
 | [I Hope You’re Happy Now](https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:18 | 2022-07-21 | 2023-08-05 |
+| [I Know \(feat\. Tenille Townes & Bryce Vine\)](https://open.spotify.com/track/5DU3wahsCBJ6kkyDBYpIRN) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [I Know \(feat\. Tenille Townes & Bryce Vine\)](https://open.spotify.com/album/67YRdAiqz6kybb31VrYo58) | 3:03 | 2024-03-22 |  |
 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 | 2022-07-21 | 2023-08-19 |
 | [I Should Have Married You](https://open.spotify.com/track/3XhhXPBUI2BKs8FTOOdHfR) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [I Should Have Married You](https://open.spotify.com/album/3HSreInK13c45aTK0Sqemr) | 2:43 | 2023-06-23 | 2023-11-18 |
 | [I Was On a Boat That Day](https://open.spotify.com/track/7u6kAP26NFU2rwNKjFUpI8) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 2:58 | 2022-12-29 | 2023-04-28 |
@@ -281,6 +283,7 @@
 | [Water Under The Bridge](https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Water Under The Bridge](https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA) | 2:49 | 2022-11-25 | 2023-11-11 |
 | [Waves](https://open.spotify.com/track/027269uzraETHuoG6aMs6a) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here \(Deluxe Edition\)](https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6) | 3:48 | 2022-07-21 | 2022-11-15 |
 | [We Didn't Have Much](https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Straight Outta The Country](https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP) | 2:54 | 2022-07-21 | 2022-11-16 |
+| [we don't fight anymore](https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [we don't fight anymore](https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m) | 3:40 | 2024-03-22 |  |
 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 | 2024-02-08 |  |
 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 | 2022-07-21 | 2023-10-21 |
 | [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 | 2022-11-11 | 2023-11-11 |

@@ -1,12 +1,12 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 339855,
+  "num_followers": 339843,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODU5MmZiNmJhMmYwZjM5NzRlMmU5MWY0NTZkYzM0OWE1YTAxNWY2",
+  "snapshot_id": "MCw5N2ExOGY4MDNlOTE0YzQ2ZWY2NTZiMWQwNTlkZmM3Yjk3N2Q5M2Fk",
   "tracks": [
     {
       "added_at": "2023-01-17 01:33:36",
@@ -291,6 +291,26 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
+        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Bruno Cardoso",
+          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
+      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Vai Embrazando",
         "url": "https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 166060,
       "name": "Vai Embrazando",
       "url": "https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
-        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Bruno Cardoso",
-          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
-      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -511,26 +511,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        }
-      ],
-      "duration_ms": 161444,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
         "url": "https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 206270,
       "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
       "url": "https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 161444,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -603,22 +603,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
+        "name": "Acordando o Pr\u00e9dio",
+        "url": "https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS"
       },
       "artists": [
         {
-          "name": "Ra\u00e7a Negra",
-          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 277125,
-      "name": "Cheia de Manias - Ao Vivo",
-      "url": "https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr"
+      "duration_ms": 218467,
+      "name": "Acordando o Pr\u00e9dio",
+      "url": "https://open.spotify.com/track/40bK2uosUmAS92c17n98xd"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -635,22 +631,6 @@
       "duration_ms": 184149,
       "name": "\u00c9 Problema",
       "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Acordando o Pr\u00e9dio",
-        "url": "https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 218467,
-      "name": "Acordando o Pr\u00e9dio",
-      "url": "https://open.spotify.com/track/40bK2uosUmAS92c17n98xd"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -675,6 +655,26 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00e7a Negra",
+          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 277125,
+      "name": "Cheia de Manias - Ao Vivo",
+      "url": "https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Dona Maria",
         "url": "https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur"
       },
@@ -695,22 +695,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Isso Que \u00e9 Vida",
-        "url": "https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm"
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/7q0BEiH1SJeiPDW8xQ0v8i"
       },
       "artists": [
         {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "Cantini",
-          "url": "https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3"
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
         }
       ],
-      "duration_ms": 159458,
-      "name": "Isso Que \u00e9 Vida",
-      "url": "https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn"
+      "duration_ms": 146276,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/7G2XZhDNHo7SSDWSVxC0UT"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -735,22 +735,42 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/7q0BEiH1SJeiPDW8xQ0v8i"
+        "name": "Isso Que \u00e9 Vida",
+        "url": "https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
         },
         {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+          "name": "Cantini",
+          "url": "https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3"
         }
       ],
-      "duration_ms": 146276,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/7G2XZhDNHo7SSDWSVxC0UT"
+      "duration_ms": 159458,
+      "name": "Isso Que \u00e9 Vida",
+      "url": "https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Live-M\u00f3vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 187378,
+      "name": "Sofazinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -815,26 +835,6 @@
       "duration_ms": 181013,
       "name": "E Essa Boca A\u00ed? - Ao Vivo",
       "url": "https://open.spotify.com/track/6vve9WKW5I7fQzkU8dNsUE"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Live-M\u00f3vel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 187378,
-      "name": "Sofazinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in"
     },
     {
       "added_at": "2023-01-17 01:33:36",

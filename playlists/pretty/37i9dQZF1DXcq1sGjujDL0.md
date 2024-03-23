@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 
 > Só pra quem usa a colher de pau como microfone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,992 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,028 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 | 26 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 |
 | 27 | [It's Not Unusual](https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Along Came Jones](https://open.spotify.com/album/15rjWnMzpMTz2wJ67NzJRR) | 1:59 |
 | 28 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
-| 29 | [Feeling Good](https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:54 |
+| 29 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
 | 30 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
-| 31 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
+| 31 | [Feeling Good](https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:54 |
 | 32 | [Can't Take My Eyes off You](https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Solo](https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb) | 3:23 |
 | 33 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
 | 34 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 | 50 | [I Will Survive \- Single Version](https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor](https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx) | 3:18 |
 | 51 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 |
 | 52 | [My Baby Just Cares for Me \(2013 \- Remaster\)](https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:35 |
-| 53 | [Fuck You](https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Lady Killer](https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY) | 3:42 |
+| 53 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
 | 54 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 |
-| 55 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
+| 55 | [Fuck You](https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Lady Killer](https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY) | 3:42 |
 | 56 | [Me and Mrs\. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:44 |
 | 57 | [Little L](https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 4:55 |
 | 58 | [September](https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd) | 3:35 |
 | 59 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
 | 60 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
 
-Snapshot ID: `MCw3YzVmZDFmMjBmYzRiZjEyZTE0NzZhNGFhODJmYjM4ZjI2Y2EzZWQx`
+Snapshot ID: `MCxhYmJkZTBlNGI1NjIzNmI0ZWZmYmU0MDU2YjJlZjYwYjIwNDc2YjUx`

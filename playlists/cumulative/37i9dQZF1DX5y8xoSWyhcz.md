@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,181 songs - 2 day 12 hr 38 min
+1,182 songs - 2 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,7 +429,7 @@
 | [Haunt You Forever](https://open.spotify.com/track/0MNQOjeUl39sqTsARbOODk) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Haunt You Forever](https://open.spotify.com/album/0UXp6gUppekbrL4zN2uvoW) | 2:19 | 2023-10-13 |  |
 | [Have A Good Summer \(Without Me\)](https://open.spotify.com/track/4A1GjAsAWjxBV4rzgOAOxR) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Have A Good Summer \(Without Me\)](https://open.spotify.com/album/6mYoXbJuW8w6wSQ5f6GMHs) | 3:30 | 2023-06-02 | 2023-06-24 |
 | [have fun at ur party \(but don't\)](https://open.spotify.com/track/6DKlvwFRcQxWcR2HLcIzhl) | [Marina Lin](https://open.spotify.com/artist/56z9WF9quDfA4U6kcQrfQh) | [have fun at ur party \(but don't\)](https://open.spotify.com/album/1n0xn2hiiWur3aelVZnL9i) | 3:14 | 2021-09-18 | 2021-10-09 |
-| [Have It In You](https://open.spotify.com/track/0sHou6HBAx8c7ipaOnab6r) | [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [Have It In You](https://open.spotify.com/album/3Xe1osfRtpz1aIlyxv8Zq4) | 3:22 | 2022-10-07 |  |
+| [Have It In You](https://open.spotify.com/track/0sHou6HBAx8c7ipaOnab6r) | [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [Have It In You](https://open.spotify.com/album/3Xe1osfRtpz1aIlyxv8Zq4) | 3:22 | 2022-10-07 | 2024-03-23 |
 | [HEAD OVER HEELS](https://open.spotify.com/track/2KFulyrLZkXBpThxLCtxxY) | [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [LOOK AT THIS MESS IVE MADE EP](https://open.spotify.com/album/1jW5MaPi18cDWKmlwA2ICk) | 2:36 | 2020-10-29\* | 2021-01-27 |
 | [HEADCASE](https://open.spotify.com/track/2QMnichNFAhM0f4gi01Az1) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HEADCASE](https://open.spotify.com/album/5t4tKq5VpoVRF9KKZU3TwA) | 2:54 | 2021-08-19 | 2021-10-16 |
 | [HEADSTART](https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 3:10 | 2021-10-23 | 2022-03-12 |
@@ -477,6 +477,7 @@
 | [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 | 2022-02-25 | 2022-06-25 |
 | [Hurdles](https://open.spotify.com/track/09U6OMOn9ALQ7wX1Ly6VqV) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Hurdles](https://open.spotify.com/album/2XCte5k29fj1O7MDlwqwVH) | 3:24 | 2022-09-09 | 2024-01-04 |
 | [Hurricane](https://open.spotify.com/track/5ipnKWzT9dxir2vQre0Y77) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Hurricane](https://open.spotify.com/album/5ktsvvarrUwWYE33hgPWw9) | 3:13 | 2022-07-08 | 2023-01-21 |
+| [hurt like it should](https://open.spotify.com/track/1GeQUUhVdGjPZTSONOhkmr) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [hurt like it should](https://open.spotify.com/album/2z9tnFVrBzgvj1NR98ccBY) | 3:23 | 2024-03-22 |  |
 | [Hurt Like That](https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Hurt Like That](https://open.spotify.com/album/1YixmyGKRqTOBdBrwb0Xvh) | 3:16 | 2021-10-23 | 2021-11-13 |
 | [hurts 2 hate somebody](https://open.spotify.com/track/4kogvO1p1DILtlDNyQtIYN) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [hurts 2 hate somebody](https://open.spotify.com/album/1qRPUP3VBOSdZcHfR6VfN8) | 3:03 | 2020-11-07 | 2021-01-23 |
 | [Hurts To Be Young](https://open.spotify.com/track/59DVeWN5Y6PFuMtcUNO8pC) | [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [Hurts To Be Young](https://open.spotify.com/album/3uXIGMV8pW0SlsL4Dwn0aJ) | 3:12 | 2021-05-29 | 2021-06-05 |

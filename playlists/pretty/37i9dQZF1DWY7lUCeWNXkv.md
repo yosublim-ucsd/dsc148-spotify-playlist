@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7lUCeWNXkv.md) - [plain]
 
 > Featuring Jhayco, Saiko, Mora & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,442 likes - 25 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,445 likes - 25 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7lUCeWNXkv.md) - [plain]
 | 24 | [COSITAS](https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:15 |
 | 25 | [Pa Que Pichea](https://open.spotify.com/track/2Ul7codMpIxUYt9JQee6PZ) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [Sorry, Estoy en Mi Darkera](https://open.spotify.com/album/6NK4S0ZPUudBrWThVBz8c3) | 2:42 |
 
-Snapshot ID: `MCw3MjYxOTIwMjZlMGZmOGZmOTM1ODlkYjU2ODk4ZTk3NzU3YzRkYWJi`
+Snapshot ID: `MCxjNTc0ODZmNjVlZDU0YWJlYzk4MTZmNDE5Mjk2YzljOTZhODNhNzIw`

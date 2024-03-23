@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,999 likes - 41 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,005 likes - 41 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 22 | [Anhelo](https://open.spotify.com/track/16Ghnlp54Vfk8T3EVlYOGp) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 2:51 |
 | 23 | [Podiosero De Amor \- Live](https://open.spotify.com/track/4k6hwuu0agWO2RaMCJ94wM) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos Del Norte En Vivo \(Live\)](https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj) | 4:03 |
 | 24 | [Ausencia](https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Exitos de Oro, vol\. 2](https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU) | 3:30 |
-| 25 | [Veinte Novias](https://open.spotify.com/track/77nPWfw1XzVOSV1LQDM7yi) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Cornelio Reyna Con Ramón Ayala y los Relámpagos del Norte](https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS) | 2:05 |
-| 26 | [Mis 20 Novias](https://open.spotify.com/track/2n8kDwTy72xop89bdx6ZUf) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [De Qué Es Tu Corazón](https://open.spotify.com/album/4CetYEaGlo2tI9kqySSQuj) | 2:17 |
+| 25 | [Mis 20 Novias](https://open.spotify.com/track/2n8kDwTy72xop89bdx6ZUf) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [De Qué Es Tu Corazón](https://open.spotify.com/album/4CetYEaGlo2tI9kqySSQuj) | 2:17 |
+| 26 | [Veinte Novias](https://open.spotify.com/track/77nPWfw1XzVOSV1LQDM7yi) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Cornelio Reyna Con Ramón Ayala y los Relámpagos del Norte](https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS) | 2:05 |
 | 27 | [Prieta Mojina \- Live](https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos Del Norte En Vivo \(Live\)](https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj) | 2:38 |
 | 28 | [Hay Ojitos](https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Doble 2 En 1](https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy) | 2:42 |
 | 29 | [Tengo Miedo](https://open.spotify.com/track/48LVuD73hB6XGGS04tn3a8) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos Llorar por Amor](https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO) | 2:49 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 40 | [Ven a Decirme](https://open.spotify.com/track/5JPYHivczvHw5bjav4COLC) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:12 |
 | 41 | [Me Moriria](https://open.spotify.com/track/1WPO1NLdInUUPChlLUkOu0) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos](https://open.spotify.com/album/3R2YtOfQnRScWMilGDVz0H) | 3:20 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDAyM2Y1Mjg0YmI0Mzk0ZTIwOGU1NGJmODg5NTc1MGMwMA==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDAzMDRhZGRhM2I4NThhYWRkZjU0MjY0ZjE1MThiYzE2OA==`

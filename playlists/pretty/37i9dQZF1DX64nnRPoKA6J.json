@@ -1,12 +1,12 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 90s",
-  "num_followers": 168704,
+  "num_followers": 168758,
   "original_name": "Good Feeling 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjVlNDM2NjE2MTFiMjEwNWFkOTZiZjZlN2JkZWRmYmJiMDU1OWY1",
+  "snapshot_id": "MCxlN2E5MjYyNDY4Y2M2OGI4MjA1Y2I1YTc1NDNmNGI5MTIyN2I5MzY4",
   "tracks": [
     {
       "added_at": "2020-11-24 03:55:51",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-11-24 03:55:51",
       "album": {
-        "name": "Bigger, Better, Faster, More !",
-        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
-      },
-      "artists": [
-        {
-          "name": "4 Non Blondes",
-          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "What's Up?",
-      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
-    },
-    {
-      "added_at": "2020-11-24 03:55:51",
-      "album": {
         "name": "Astro Lounge",
         "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 200373,
       "name": "All Star",
       "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+    },
+    {
+      "added_at": "2020-11-24 03:55:51",
+      "album": {
+        "name": "Bigger, Better, Faster, More !",
+        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
+      },
+      "artists": [
+        {
+          "name": "4 Non Blondes",
+          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
     },
     {
       "added_at": "2020-11-24 03:55:51",
@@ -303,22 +303,6 @@
     {
       "added_at": "2020-11-24 03:55:51",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
-    },
-    {
-      "added_at": "2020-11-24 03:55:51",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 243493,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
+    },
+    {
+      "added_at": "2020-11-24 03:55:51",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
     },
     {
       "added_at": "2020-11-24 03:55:51",
@@ -407,22 +407,6 @@
     {
       "added_at": "2020-11-24 03:55:51",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
-    },
-    {
-      "added_at": "2020-11-24 03:55:51",
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 260026,
       "name": "My Hero",
       "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
+    },
+    {
+      "added_at": "2020-11-24 03:55:51",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
     },
     {
       "added_at": "2020-11-24 03:55:51",
@@ -527,6 +527,22 @@
     {
       "added_at": "2020-11-24 03:55:51",
       "album": {
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Semi-Charmed Life",
+      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+    },
+    {
+      "added_at": "2020-11-24 03:55:51",
+      "album": {
         "name": "Human Clay",
         "url": "https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 316733,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT"
-    },
-    {
-      "added_at": "2020-11-24 03:55:51",
-      "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Learn to Fly",
-      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
     },
     {
       "added_at": "2020-11-24 03:55:51",
@@ -575,18 +575,18 @@
     {
       "added_at": "2020-11-24 03:55:51",
       "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
       "artists": [
         {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 268360,
-      "name": "Semi-Charmed Life",
-      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+      "duration_ms": 235293,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
     },
     {
       "added_at": "2020-11-24 03:55:51",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2020-11-24 03:55:51",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
-      },
-      "artists": [
-        {
-          "name": "Deep Blue Something",
-          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
-        }
-      ],
-      "duration_ms": 257373,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
-    },
-    {
-      "added_at": "2020-11-24 03:55:51",
-      "album": {
         "name": "Mr. Vain",
         "url": "https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 257466,
       "name": "Mr. Vain - Original Radio Edit",
       "url": "https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI"
+    },
+    {
+      "added_at": "2020-11-24 03:55:51",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
+      },
+      "artists": [
+        {
+          "name": "Deep Blue Something",
+          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
     },
     {
       "added_at": "2020-11-24 03:55:51",

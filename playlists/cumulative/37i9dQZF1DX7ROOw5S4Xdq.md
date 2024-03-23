@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: fhop music, Nívea Soares
 
-890 songs - 3 day 0 hr 8 min
+891 songs - 3 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -776,6 +776,7 @@
 | [Tempo Novo](https://open.spotify.com/track/0IvQFmJgLHW9beiu5mTMvy) | [DJ Alan Nunes](https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo), [Cristo Alegria](https://open.spotify.com/artist/4qsj59g2x0oYzuOuXagY3J) | [Tempo Novo](https://open.spotify.com/album/5sdUuhHJoS9RyRfYkGWzYJ) | 3:37 | 2023-09-08 | 2023-09-16 |
 | [Temporal](https://open.spotify.com/track/5fQJKvIagiiavkmvl3a44y) | [Nathan Asafe](https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA) | [Temporal](https://open.spotify.com/album/6cUH9yqKfz2pdeHczOHRUa) | 4:08 | 2023-10-06 | 2023-10-14 |
 | [Tesouro](https://open.spotify.com/track/6mHgRaolvfL4myzQOEi5FU) | [Doze Project](https://open.spotify.com/artist/5SeJmolJVjYD3OvwBjU5ez), [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [SevenRxni](https://open.spotify.com/artist/62CjcyuCDE2VvpKPS0z9ps) | [Tesouro](https://open.spotify.com/album/3iy6RkWquXFeUGiKjwejpT) | 1:55 | 2023-07-28 | 2023-08-05 |
+| [Tetelestai \(feat\. Carol Tauber\) \- Ao Vivo](https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK) | [Tetelestai \(feat\. Carol Tauber\) \[Ao Vivo\]](https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q) | 8:38 | 2024-03-22 |  |
 | [Teu Amor](https://open.spotify.com/track/3AbDKvjqnNQIph2HtbHPhZ) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [Teu Amor](https://open.spotify.com/album/2Xc9hJsZGqo70af62TgXRO) | 3:39 | 2023-07-21 | 2023-07-29 |
 | [Teu Falar \- Extended](https://open.spotify.com/track/6qeAn0R9OMtwjkP5zLhPWL) | [Gislaine Rodrigues](https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM), [Coral Voz intencional](https://open.spotify.com/artist/77DxMXoFFv1XKk7mk9vxXc) | [Teu Falar \(Extended\)](https://open.spotify.com/album/4BLHUy2IQB6NT1Zzdf4VMF) | 5:40 | 2023-08-04 | 2023-08-19 |
 | [Teu Lar](https://open.spotify.com/track/3wWQShsaVgcx9o7BXABK83) | [Daniel Berg](https://open.spotify.com/artist/6f6c5Sgxd8tgjl7Rm94gT3), [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Teu Lar](https://open.spotify.com/album/2dm8PYBWdxzgsTqIypK3xE) | 9:50 | 2023-07-14 | 2023-07-22 |

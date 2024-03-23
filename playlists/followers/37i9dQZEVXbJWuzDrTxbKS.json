@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 14745,
+  "2024-03-23": 14778,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Latvia.",
   "name": "Top 50 - Latvia",
@@ -10003,7 +10003,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 237506,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
@@ -13505,7 +13505,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -27727,7 +27727,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -29229,7 +29229,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -30907,7 +30907,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 156000,
       "name": "TJZ",
       "url": "https://open.spotify.com/track/2qYx6RdyYtNl17g652mjhw"
@@ -35657,6 +35657,28 @@
       "duration_ms": 102115,
       "name": "\u041a\u041e\u041c\u0423 \u042d\u0422\u041e \u041d\u0410\u0414\u041e?",
       "url": "https://open.spotify.com/track/7zDT00UVHuzrHorboTTOq6"
+    },
+    {
+      "album": {
+        "name": "Romantic Collection",
+        "url": "https://open.spotify.com/album/2SA64aeWdpp284Qh7ceo8z"
+      },
+      "artists": [
+        {
+          "name": "Skryptonite",
+          "url": "https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn"
+        },
+        {
+          "name": "Charusha",
+          "url": "https://open.spotify.com/artist/627HZCegoU6UXOzppQhua7"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227691,
+      "name": "\u041a\u043e\u0441\u043c\u043e\u0441",
+      "url": "https://open.spotify.com/track/4s3aziytzzf7gBafKcYcLX"
     },
     {
       "album": {

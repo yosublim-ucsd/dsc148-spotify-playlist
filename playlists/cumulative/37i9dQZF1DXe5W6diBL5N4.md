@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: SUPER JUNIOR\-D&E\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-8,183 songs - 19 day 15 hr 31 min
+8,187 songs - 19 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,6 +606,7 @@
 | [BBI\-YO](https://open.spotify.com/track/0BiompCTb9kPFJBHvnbIBH) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [BBI\-YO](https://open.spotify.com/album/2D44Gpm4wCcwR1YLDSDxtR) | 3:37 | 2022-05-27 | 2022-06-10 |
 | [BDBD](https://open.spotify.com/track/5AwvsmuS2LmC3uWQtoqtcD) | [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [BDBD](https://open.spotify.com/album/5hCgzSIivIC75DP06pfvC6) | 2:38 | 2023-07-18 | 2023-08-10 |
 | [Be a soldier](https://open.spotify.com/track/6rsZ0nlLcVqlmbaj7qijRb) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [BUTTON GAME \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/7I5Bx1NfabBYdHoMiXSg07) | 2:46 | 2022-11-11 | 2022-12-22 |
+| [Be a Star](https://open.spotify.com/track/1cAAL3N1jNH1HeC8mD2pC4) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [Be a Star](https://open.spotify.com/album/6s6OR4vDrcFq7ejgMiP88U) | 5:06 | 2024-03-22 |  |
 | [Be all right](https://open.spotify.com/track/1zSmvGarFPe75rmTGbJdUy) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [The Heavenly Idol \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/4ECjBYA9PnfEqpbcTc7cvc) | 3:26 | 2023-03-09 | 2023-03-28 |
 | [be around me](https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [be around me](https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG) | 2:56 | 2022-12-08 | 2022-12-22 |
 | [Be back](https://open.spotify.com/track/7G9fagN8L0d8c0u3tXh19f) | [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [Divorce Attorney Shin \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/03Cbhg5ronqDnD6kd3keQp) | 3:38 | 2023-03-04 | 2023-03-28 |
@@ -2430,6 +2431,7 @@
 | [Geumcheon\-gu Doksan\-ro](https://open.spotify.com/track/16qzKZD89ivXfqnIn5wgsD) | [Yumewanaii](https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8) | [Geumcheon\-gu Doksan\-ro](https://open.spotify.com/album/4ELet5GG8jzYer3Q3Ujb3R) | 2:34 | 2024-01-22 |  |
 | [GGBB](https://open.spotify.com/track/04qiPs2ScJrI7hgQ8mz4im) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [ACT 1, SCENE 1](https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH) | 3:05 | 2023-03-29 | 2023-05-03 |
 | [Ghost](https://open.spotify.com/track/0Ie0xHSknYi5760kyc3P2n) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Persona](https://open.spotify.com/album/6Q8rxwOU0tV62EGO6r0yPe) | 3:10 | 2023-07-10 | 2023-08-10 |
+| [Ghost](https://open.spotify.com/track/1RomIFRvHC7GI484Mwpusl) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Ghost](https://open.spotify.com/album/2S26DTyEtqysktNNYLKZCb) | 3:08 | 2024-03-22 |  |
 | [Ghost](https://open.spotify.com/track/0qzqb9nibxhCxICYlRoqBK) | [Lim Ha Ram](https://open.spotify.com/artist/5p6Mh4sfmGYFGE4BwNVBrO) | [Ghost](https://open.spotify.com/album/4AmYveZNBWWuQzfHTafJCW) | 3:25 | 2023-11-10 | 2023-12-14 |
 | [Ghost Buster](https://open.spotify.com/track/71nySQ4RntwCMUFZu29m1d) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Minamdang \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/6KSJrdypDxR06zSkhTEK1i) | 3:00 | 2022-07-04 | 2022-07-12 |
 | [Ghost Theatre](https://open.spotify.com/track/40iWsP5PYbpJB7uC4eE5pU) | [Moskva Surfing Club](https://open.spotify.com/artist/72RQExfl8kYY207YfKV5Nl) | [Ghost Theatre](https://open.spotify.com/album/4eN3Dzm5FEaPly9th3vjeQ) | 5:34 | 2023-10-10 | 2023-11-11 |
@@ -4888,6 +4890,7 @@
 | [On My Way](https://open.spotify.com/track/5Q9aFVpPOYbN5EavyKr3yh) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [On My Way](https://open.spotify.com/album/26POvIjMcsJWQrtOt8ia18) | 3:54 | 2023-02-28 | 2023-03-28 |
 | [ON MY WAY](https://open.spotify.com/track/3iqD8HKXjnWIbWrixS1OiQ) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [ON MY WAY](https://open.spotify.com/album/7KQZhjiFBn5a2l2a1qJn4l) | 3:18 | 2023-03-13 | 2023-03-28 |
 | [On My Way](https://open.spotify.com/track/3cVX33dhtE55B21yWWYiLJ) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/5FDxf9I2I6CpEYbp4hyfZn) | 2:48 | 2022-11-06 | 2022-12-22 |
+| [On My Way To Meet You](https://open.spotify.com/track/1KMK1bjMQw7iB6742o7rLW) | [J.Fla](https://open.spotify.com/artist/2GbvMs4GBhcjd9d4N9sGUV) | [On My Way To Meet You](https://open.spotify.com/album/5RGMegcr1KpYYqnTZmNfWw) | 2:22 | 2024-03-22 |  |
 | [On such a wonderful night](https://open.spotify.com/track/3Ueh9WSlKB9pKgNhsmMcRM) | [dawon you](https://open.spotify.com/artist/3sorJaK11BPQosaTaZkuhk) | [On such a wonderful night](https://open.spotify.com/album/5HpaXffkKOfi78iGPG656S) | 3:16 | 2022-12-26 | 2023-01-12 |
 | [On The Bus \(Feat\. Claire Hau\)](https://open.spotify.com/track/7djzHqof2rpXg1ni3AO08j) | [FDR](https://open.spotify.com/artist/1q8zOqGfkhVphMiQbhczJh), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [F.D.R 3](https://open.spotify.com/album/5xI2FIUEUIUpPLkNGVoBrT) | 3:02 | 2022-04-19 | 2022-04-23 |
 | [On the Deck](https://open.spotify.com/track/1yYPMGdW8hwZ0l2ETUTV9V) | [We are okay](https://open.spotify.com/artist/6clcQgDXSMj5BK4lH2c6AC) | [On the Deck](https://open.spotify.com/album/1Q6MANkQf8qOOUoFoLiqTn) | 5:10 | 2022-11-07 | 2022-12-22 |
@@ -7631,6 +7634,7 @@
 | [You and I](https://open.spotify.com/track/2YainWN6brhIOvlSAFHlor) | [DARU](https://open.spotify.com/artist/1afLn1oD9z4DoWJ5PlGBUe) | [You and I](https://open.spotify.com/album/2fZgbEuJgGM1rBIPcmcEpa) | 3:29 | 2022-06-13 | 2022-06-19 |
 | [YOU AND I](https://open.spotify.com/track/1B82Lto0ciRfVwtTG3scSl) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [YOU AND I](https://open.spotify.com/album/5YK3qLjNjkCNx3OzQf5oIV) | 2:41 | 2022-05-11 | 2022-05-28 |
 | [YOU AND I](https://open.spotify.com/track/0t1MauhY0fE0dV1M7V9tnd) | [GRAM](https://open.spotify.com/artist/2qKhaMe5cOdQinPWBXyCHF) | [LOVE](https://open.spotify.com/album/7f3n6Mk3cgGHLtKbveKgE8) | 3:46 | 2023-01-02 | 2023-01-12 |
+| [You and I](https://open.spotify.com/track/5O5VwPoOqC4lV3Ffc8eRx3) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [My Sibling's Romance \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/7xKL7L439LwQxFw9XEojEl) | 2:27 | 2024-03-22 |  |
 | [YOU AND I](https://open.spotify.com/track/5CkEK4GgOYz2FfcMt4iycq) | [WSG WANNABE TOP 15 \(Daecheongbong\)](https://open.spotify.com/artist/2PDJW3uvx1CSRH8eSMhX3N) | [WSG WANNABE Group Competition \- Part 1.](https://open.spotify.com/album/454jbgTPU2ehuyT70P1eJp) | 3:53 | 2022-05-22 | 2022-06-10 |
 | [You and i](https://open.spotify.com/track/7rOGjhj8euLDZh2W450yQT) | [YOUNGKUT](https://open.spotify.com/artist/05fLlwoWHQZ9xrNei978uD) | [You and i](https://open.spotify.com/album/0TMe1mVjq19NLEcZB3t8E1) | 2:59 | 2022-07-18 | 2022-08-10 |
 | [You and I \(feat\. mim\)](https://open.spotify.com/track/0xgRkmsLjVwNjVmueozY3F) | [Espresso](https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ), [mim](https://open.spotify.com/artist/3TESIy6ohhkYeoyT6od4us) | [You and I](https://open.spotify.com/album/4ANnofgM2nEwB87GCbkWMS) | 3:03 | 2022-08-19 | 2022-09-01 |

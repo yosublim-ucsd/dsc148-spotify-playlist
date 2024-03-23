@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Mengenang Ade Paloh \(1976 \- 2024\) melalui rangkaian karya dan suaranya
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,950 likes - 34 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,633 likes - 34 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 33 | [Etalase](https://open.spotify.com/track/5TmBVcWadjsHGgAqxYZDwn) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Centralismo](https://open.spotify.com/album/4cgfCWFWpaUsbNouFsKdsr) | 6:55 |
 | 34 | [Curtains](https://open.spotify.com/track/2yC8xYKZl6QcuI18QHnd79) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Quo Vadis, SORE?](https://open.spotify.com/album/53TkUEJhzjqYY6ljR3XoKS) | 5:08 |
 
-Snapshot ID: `MCxjMzMwNDQ0Mzc0NjcyZTVkMDRjOTdjMmQyZTA4YjI3YmE3M2M1NDk3`
+Snapshot ID: `MCw2ZTk4NTAxYzViNTM1MWRjOWY3OTQyZGEwODcwNDM1MGYxOWM2Mjlh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,811 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,881 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 40 | [Não Sei o Que Lá](https://open.spotify.com/track/28m65cMH7QXHzFnZSTtNHY) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 2:49 |
 | 41 | [Solteiro Não Trai \- Ao Vivo](https://open.spotify.com/track/7oEr56KG6odStlQH0nvdyr) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Solteiro Não Trai \(Ao Vivo\)](https://open.spotify.com/album/4c3skW6UyBf6V3pTvpJKhq) | 3:07 |
 | 42 | [A Fila Anda \- Ao Vivo](https://open.spotify.com/track/4pl0csAczZemDLdyNYOmxT) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [VIBE \(Ao Vivo\)](https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3) | 2:57 |
-| 43 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 |
-| 44 | [Meia Noite \(Você tem meu Whatsapp\)](https://open.spotify.com/track/5fuK5An5rQcx0OVIzsscOK) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Diferente dos Iguais](https://open.spotify.com/album/5PHmIs0BTQUdTwZOh7LwST) | 3:57 |
+| 43 | [Meia Noite \(Você tem meu Whatsapp\)](https://open.spotify.com/track/5fuK5An5rQcx0OVIzsscOK) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Diferente dos Iguais](https://open.spotify.com/album/5PHmIs0BTQUdTwZOh7LwST) | 3:57 |
+| 44 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 |
 | 45 | [Não, Não Vou](https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl) | 2:53 |
 | 46 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 |
 | 47 | [Me Apaixonei Pela Pessoa Errada](https://open.spotify.com/track/0lskTzcFFTmCCgLKRpGJdQ) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Cartão Postal](https://open.spotify.com/album/2eIiUtlaanaoVXdxY35pFK) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 99 | [Cansar Você](https://open.spotify.com/track/5N1usnMTqmMtmRJTfgn1kJ) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Cansar Você](https://open.spotify.com/album/5rYR4E0SwxglAChee36uVK) | 2:56 |
 | 100 | [Tô de Boa \- Ao vivo](https://open.spotify.com/track/19u7ucz8tazDZL1daf5y23) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Vou pro Sereno](https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 2:52 |
 
-Snapshot ID: `MCxkOGY5YWIwYzM4NjViNzZjZGVkMGY1ZTY0ZmY0MTQwZjZjNTFjODk4`
+Snapshot ID: `MCw0ODNjNTEwNDcyZjVlNjkxYmY0Y2IyOWJhNzZiMTliMmJhNzcwYWE1`

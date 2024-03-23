@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,137 likes - 50 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,191 likes - 50 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 36 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 |
 | 37 | [COUNT 'EM](https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Count 'Em](https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd) | 3:47 |
 | 38 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 |
-| 39 | [He Who Is To Come](https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [He Who Is To Come](https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or) | 6:50 |
+| 39 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 |
 | 40 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
-| 41 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 |
+| 41 | [He Who Is To Come](https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [He Who Is To Come](https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or) | 6:50 |
 | 42 | [I Need You Now](https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Need You Now](https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF) | 4:11 |
 | 43 | [Ungukuphila](https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:56 |
 | 44 | [YET \(feat\. Ashley Hess & the King will come\)](https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Ashley Hess](https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N), [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8) | [YET \(feat\. Ashley Hess & the King will come\)](https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb) | 5:50 |
 | 45 | [Good Plans / Doxology \- Live](https://open.spotify.com/track/10Akq9wk9NP2IyiwiaDHWU) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Good Plans / Doxology \(Live\)](https://open.spotify.com/album/7dAjZUwVmP9kzsyvpBbHMH) | 8:15 |
-| 46 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 |
-| 47 | [Joy in Chaos](https://open.spotify.com/track/1HDMh5q6NQAYlos9fFLmOB) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Joy in Chaos](https://open.spotify.com/album/7x1iXdhcoN8Aw9pE15Ajvp) | 1:10 |
+| 46 | [Joy in Chaos](https://open.spotify.com/track/1HDMh5q6NQAYlos9fFLmOB) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Joy in Chaos](https://open.spotify.com/album/7x1iXdhcoN8Aw9pE15Ajvp) | 1:10 |
+| 47 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 |
 | 48 | [Can't Give Up Now](https://open.spotify.com/track/5xxnE0Nm5v3L9tekNEWpCg) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Thankful](https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP) | 4:57 |
 | 49 | [In Christ Alone](https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Seasons](https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe) | 4:08 |
 | 50 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
 
-Snapshot ID: `MCxkYzllYTdmMWNkNDg0ZTM0OGQ2MWU1ZjRmNzVhM2MyMTdhNGUyZTdh`
+Snapshot ID: `MCwyYjg1YWYxZGM5YjMzYzQyOWNjN2RhN2I0ODk3NmRjZThiMTk1Nzkw`

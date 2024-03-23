@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 
 > A selection of the greatest funk & soul records ever made.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,701,357 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,701,770 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 79 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 |
 | 80 | [Stomp! \- Single Version](https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Strawberry Letter 23: The Very Best Of The Brothers Johnson](https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX) | 4:07 |
 
-Snapshot ID: `MCw5NDEzMzc5NGU3NjEwODRkYzkwMTkyMjdjYTU1NjM5ZmE3ZmU2MzA0`
+Snapshot ID: `MCw5YzMxNDJmZTkwNTQ0YzNmMzBkMzgwN2IwZTY2YzU3OGI0OTBhMjY5`

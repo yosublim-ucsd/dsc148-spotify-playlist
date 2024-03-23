@@ -2,9 +2,9 @@
 
 ### [el nuevo indie](https://open.spotify.com/playlist/37i9dQZF1DWU6aakG7fctq)
 
-> Fresh Latin Indie\. Cover: Pj Sin Suela
+> Fresh Latin Indie\. Cover: Conociendo Rusia
 
-583 songs - 1 day 8 hr 21 min
+584 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 | 2023-05-12 | 2024-02-17 |
 | [Acapulco](https://open.spotify.com/track/3FvQlLlke7bl8phCe1LJgy) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Acapulco](https://open.spotify.com/album/66TzEKIam5WkxScrvzgYBm) | 3:57 | 2023-08-04 | 2024-03-02 |
 | [Acto de Fe](https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Acto de Fe](https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0) | 2:49 | 2024-02-23 |  |
-| [Acá](https://open.spotify.com/track/1Y1ZjDVV24xDdnK2WiVsjc) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Acá](https://open.spotify.com/album/3qUG8qKETKEmmZqhcRbGcX) | 4:10 | 2023-09-22 |  |
+| [Acá](https://open.spotify.com/track/1Y1ZjDVV24xDdnK2WiVsjc) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Acá](https://open.spotify.com/album/3qUG8qKETKEmmZqhcRbGcX) | 4:10 | 2023-09-22 | 2024-03-23 |
 | [Aeroplanos](https://open.spotify.com/track/2uTOK71u7nWtvDQky4wyEx) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Aeroplanos](https://open.spotify.com/album/2V5rVAdsjlL4fiwHzbQ1OG) | 3:59 | 2021-11-18 | 2022-11-25 |
 | [Agosto](https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Agosto](https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5) | 3:39 | 2023-08-04 | 2024-02-10 |
 | [Agua al dolor](https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Agua al dolor](https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh) | 3:28 | 2023-01-13 | 2023-08-05 |
@@ -500,6 +500,7 @@
 | [te alejas](https://open.spotify.com/track/3ZUNkZgE697qrnRCBZZOBz) | [andremustdie](https://open.spotify.com/artist/6J3J7gELfiEqZIiW7gVNrw), [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [te alejas](https://open.spotify.com/album/2QBBsysSCOI2tmHqvNBG7j) | 4:58 | 2022-01-10 | 2022-07-26 |
 | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/track/6OSN2N61BWdYlozr5cywFK) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/album/5nq42mfjwHfY2tFGWhn6mP) | 3:49 | 2023-04-21 | 2023-06-17 |
 | [Te había contao](https://open.spotify.com/track/0KjmacdqLiXABYlCSZgLxu) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb), [Pororó](https://open.spotify.com/artist/37rFJ6EXmC8mPSiLUS3sW3) | [Te había contao](https://open.spotify.com/album/0fsdJqVYDcHFmz8hFp17xT) | 3:38 | 2023-05-05 | 2023-05-26 |
+| [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 | 2024-03-22 |  |
 | [Te necesito everywhere](https://open.spotify.com/track/4cLZmzNCVnjROyOD8JbqKO) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Te necesito everywhere](https://open.spotify.com/album/3ehqz79yp50mzuawG3lqmG) | 2:46 | 2023-03-31 | 2023-04-15 |
 | [Te odio](https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Te Odio](https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw) | 3:33 | 2023-08-18 | 2023-11-11 |
 | [Te Olvidaste](https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Te Olvidaste](https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ) | 3:02 | 2023-02-17 | 2023-07-30 |

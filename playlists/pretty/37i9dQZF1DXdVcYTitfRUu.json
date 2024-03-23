@@ -1,12 +1,12 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 9497,
+  "num_followers": 9503,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MThiMzAzYTQxYzBiN2QwZjVhMDNlNDc1NzExM2U5NzBiZTVjMmFm",
+  "snapshot_id": "MCxlZjBhNWNjODkwYjRhNWVlODYxNGExMjA5OThmNWQ5ZGI5NmQ4MjU0",
   "tracks": [
     {
       "added_at": "2024-03-20 03:55:56",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF"
+      },
+      "artists": [
+        {
+          "name": "BSS",
+          "url": "https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "The Reasons of My Smiles",
+      "url": "https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "Expectation - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 220309,
       "name": "Grain of Sand",
       "url": "https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
-        "name": "Queen of Tears (Original Television Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF"
-      },
-      "artists": [
-        {
-          "name": "BSS",
-          "url": "https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t"
-        }
-      ],
-      "duration_ms": 213773,
-      "name": "The Reasons of My Smiles",
-      "url": "https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "WINTER of aespa X MY DEMON",
-        "url": "https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y"
-      },
-      "artists": [
-        {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
-        }
-      ],
-      "duration_ms": 254960,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/4yZAAPTLlEb60Ny7bhepqx"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO"
       },
@@ -303,18 +287,18 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "IM HERO",
-        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+        "name": "WINTER of aespa X MY DEMON",
+        "url": "https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y"
       },
       "artists": [
         {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
         }
       ],
-      "duration_ms": 274386,
-      "name": "If We Ever Meet Again",
-      "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
+      "duration_ms": 254960,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4yZAAPTLlEb60Ny7bhepqx"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -367,6 +351,38 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.3",
+        "url": "https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/69Bx1c9Hzv7IZGkLyFCeMw"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 274386,
+      "name": "If We Ever Meet Again",
+      "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "Hongdae R&B",
         "url": "https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Romantic Doctor 3 OST Part.4",
-        "url": "https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 229714,
-      "name": "Still You",
-      "url": "https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
       },
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "Romantic Doctor 3 OST Part.4",
+        "url": "https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 229714,
+      "name": "Still You",
+      "url": "https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "Alchemy of Souls, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5suBD7aDfNiIkbUvYaHtfR"
       },
@@ -451,6 +467,22 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Tell Me It's Not a Dream",
+      "url": "https://open.spotify.com/track/7nxoUuqcsDfv3PsPGeciWy"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "Alchemy of Souls: Light and Shadow, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/72zxKpd3QFTf5X2JvXqtpP"
       },
@@ -463,22 +495,6 @@
       "duration_ms": 228293,
       "name": "Blue Flower",
       "url": "https://open.spotify.com/track/4Xjw06dhxAVtsnug1ZpN76"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
-        "name": "Queen of Tears (Original Television Soundtrack), Pt.3",
-        "url": "https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "Hold Me Back",
-      "url": "https://open.spotify.com/track/69Bx1c9Hzv7IZGkLyFCeMw"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -535,6 +551,22 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "Stroll",
+        "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Forest",
+      "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
@@ -555,38 +587,6 @@
       "duration_ms": 228226,
       "name": "Rock With You - Spotify Singles",
       "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
-        "name": "Queen of Tears (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Tell Me It's Not a Dream",
-      "url": "https://open.spotify.com/track/7nxoUuqcsDfv3PsPGeciWy"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
-        "name": "Stroll",
-        "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Forest",
-      "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
+      },
+      "artists": [
+        {
+          "name": "PARK WON",
+          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
+        }
+      ],
+      "duration_ms": 203746,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 223214,
       "name": "Love Is Ugly (Feat. Hwa Sa)",
       "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
-      },
-      "artists": [
-        {
-          "name": "PARK WON",
-          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
-        }
-      ],
-      "duration_ms": 203746,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Tell Me That You Love Me, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3c6lzwgHhaIDSjPRz9zjCq"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "The Moment You Arrive",
-      "url": "https://open.spotify.com/track/74jC2OHiPnRCCCSdBGXHVo"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Alchemy of Souls, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 251000,
       "name": "Aching",
       "url": "https://open.spotify.com/track/017eGASA1dbhQOb942TuQx"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "Tell Me That You Love Me, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3c6lzwgHhaIDSjPRz9zjCq"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "The Moment You Arrive",
+      "url": "https://open.spotify.com/track/74jC2OHiPnRCCCSdBGXHVo"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "IN the mood",
-        "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 168800,
-      "name": "In The Mood",
-      "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "her",
         "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
       },
@@ -887,22 +871,18 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "When it snows(Feat.Heize)",
-        "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
+        "name": "IN the mood",
+        "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
       },
       "artists": [
         {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        },
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
         }
       ],
-      "duration_ms": 232026,
-      "name": "When it snows(Feat.Heize)",
-      "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
+      "duration_ms": 168800,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -939,6 +919,26 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "When it snows(Feat.Heize)",
+        "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "When it snows(Feat.Heize)",
+      "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "Why (Feat. Hoody)",
         "url": "https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s"
       },
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "18 again, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/46SLMiMiXNfPLoeatJo9wY"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "duration_ms": 244213,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0avJy0NC4btzu7PQ7TtG0n"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "Hopeless Romantic",
         "url": "https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 235920,
       "name": "Hopeless Romantic (Feat. LEE SUHYUN)",
       "url": "https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
-        "name": "18 again, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/46SLMiMiXNfPLoeatJo9wY"
-      },
-      "artists": [
-        {
-          "name": "Sohyang",
-          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
-        }
-      ],
-      "duration_ms": 244213,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0avJy0NC4btzu7PQ7TtG0n"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "25 - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5qi1T2mLicHngZ0rHxeNsC"
-      },
-      "artists": [
-        {
-          "name": "oceanfromtheblue",
-          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
-        }
-      ],
-      "duration_ms": 166974,
-      "name": "25 - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Weird",
         "url": "https://open.spotify.com/album/09nEHFRgp3gWym7gvqlu2y"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 248390,
       "name": "Weird",
       "url": "https://open.spotify.com/track/0MUJdif0DqzHsJCpBnD3PN"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "25 - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5qi1T2mLicHngZ0rHxeNsC"
+      },
+      "artists": [
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "25 - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/7LbNOe1dTRHpP9hh48Merc"
+      },
+      "artists": [
+        {
+          "name": "HWANG MIN HYUN",
+          "url": "https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5btyWod77lGbqKjEGRBvGw"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
         "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 260668,
       "name": "Nights Into Days (Prod. by Naul)",
       "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/7LbNOe1dTRHpP9hh48Merc"
-      },
-      "artists": [
-        {
-          "name": "HWANG MIN HYUN",
-          "url": "https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/5btyWod77lGbqKjEGRBvGw"
     },
     {
       "added_at": "2024-03-20 03:55:56",

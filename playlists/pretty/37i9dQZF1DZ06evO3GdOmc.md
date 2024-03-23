@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 
 > This is Casting Crowns\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,597 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,618 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 22 | [Even When You're Running](https://open.spotify.com/track/1A1JXSMsVOrPe2UV3PNhHl) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 4:49 |
 | 23 | [Jesus, Friend Of Sinners](https://open.spotify.com/track/2ex0hGTbxQBBmKEpPwzxOt) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 5:38 |
 | 24 | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/track/68QjFdBRwqWSgfxRnEu9SZ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Glorious Day: Hymns of Faith](https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo) | 3:16 |
-| 25 | [Jesus at a Distance](https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer \(Deluxe\)](https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4) | 3:49 |
-| 26 | [Healer](https://open.spotify.com/track/6rt4pxatKBWEK34ElopOmw) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer](https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw) | 3:11 |
+| 25 | [Healer](https://open.spotify.com/track/6rt4pxatKBWEK34ElopOmw) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer](https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw) | 3:11 |
+| 26 | [Jesus at a Distance](https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer \(Deluxe\)](https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4) | 3:49 |
 | 27 | [Already There](https://open.spotify.com/track/1d0uIYuNGbAfgNX0Bm1wKm) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 4:31 |
 | 28 | [All Because of Mercy \- Radio Version](https://open.spotify.com/track/1YrKO5etuAXHFcHQvI8JgW) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesongs: A Celebration of the First 20 Years](https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8) | 3:47 |
 | 29 | [Loving My Jesus](https://open.spotify.com/track/0qZXAGI1FPTn0IM7tvyqrJ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 49 | [Song That the Angels Can't Sing](https://open.spotify.com/track/3EWv66RNUPkc1NT5lVSLqF) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 3:20 |
 | 50 | [What If His People Prayed](https://open.spotify.com/track/2qRnTIbCkw5YZG9hk8VfP6) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Casting Crowns](https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc) | 3:28 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA3NjNjZWRhZmUyZmRkZDQ3NTE5NDc1MjRmODc1YmEwZg==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBmZTM2NzJiNzRlMTI1MDBhMDM5ZGQxOTE2YzE1YjQ1Yg==`

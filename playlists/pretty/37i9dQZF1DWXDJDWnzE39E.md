@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women opening up the pit\. Cover: Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,575 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,039 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 44 | [Opening Night](https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy) | 2:07 |
 | 45 | [Tsunami \(11:11\)](https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Tsunami \(11:11\)](https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE) | 3:08 |
 | 46 | [weapon](https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [weapon](https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7) | 3:17 |
-| 47 | [See You In Hell](https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter I \- Monarchy](https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX) | 3:49 |
-| 48 | [The Game Is Over](https://open.spotify.com/track/1IjNTBTAFtqRZHvrezeG1n) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:22 |
+| 47 | [The Game Is Over](https://open.spotify.com/track/1IjNTBTAFtqRZHvrezeG1n) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:22 |
+| 48 | [See You In Hell](https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter I \- Monarchy](https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX) | 3:49 |
 | 49 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
 | 50 | [Parasite](https://open.spotify.com/track/0LIKFnTpKGhbxZUIRzsZ5G) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 1:56 |
 | 51 | [Ultraviolet](https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 79 | [Burning Bridges](https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Apocalypse & Chill](https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG) | 4:16 |
 | 80 | [Ghost Myself](https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Ghost Myself](https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F) | 3:12 |
 
-Snapshot ID: `MCw5MmZjYjMzYjI3ZTljMzBjMDAwMTkxYzFiYWRmMmU0MDM2YTljNWQ3`
+Snapshot ID: `MCw3NTc1ZGYyNTNjMDRhNjU3Y2RhMmQ5NzQyNTk5NmIxNDRlZTU3MzQ3`

@@ -1,12 +1,12 @@
 {
   "description": "La belleza nunca pasa de moda.",
-  "num_followers": 299563,
+  "num_followers": 299672,
   "original_name": "Las Canciones M\u00e1s Bonitas Del Mundo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmFjMDZjNjY1M2RjMGE1MDNjODYxYjRiYzdhMjJkYTNiOWI2NjU4",
+  "snapshot_id": "MCwxMGEzMzA1YWE4YjQ2MzkzNjYzOGVhYmI3ZDY1ZDU1NDAwYjJkNzJi",
   "tracks": [
     {
       "added_at": "2023-11-10 00:45:26",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-11-10 00:45:26",
       "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
-    },
-    {
-      "added_at": "2023-11-10 00:45:26",
-      "album": {
         "name": "Point Of Know Return (Expanded Edition)",
         "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2023-11-10 00:45:26",
       "album": {
-        "name": "Just Once In My Life",
-        "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
       },
       "artists": [
         {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
+      "duration_ms": 200560,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
     },
     {
       "added_at": "2023-11-10 00:45:26",
@@ -399,6 +383,22 @@
       "duration_ms": 339000,
       "name": "Piano Man",
       "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
+    },
+    {
+      "added_at": "2023-11-10 00:45:26",
+      "album": {
+        "name": "Just Once In My Life",
+        "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
     },
     {
       "added_at": "2023-11-10 00:45:26",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-11-10 00:45:26",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252346,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
-    },
-    {
-      "added_at": "2023-11-10 00:45:26",
-      "album": {
         "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2023-11-10 00:45:26",
       "album": {
-        "name": "L-O-V-E",
-        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 155306,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
+      "duration_ms": 252346,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
     },
     {
       "added_at": "2023-11-10 00:45:26",
@@ -591,6 +575,22 @@
       "duration_ms": 238160,
       "name": "T\u00fa de Qu\u00e9 Vas",
       "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
+    },
+    {
+      "added_at": "2023-11-10 00:45:26",
+      "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 155306,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
     },
     {
       "added_at": "2023-11-10 00:45:26",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-11-10 00:45:26",
       "album": {
-        "name": "Seal",
-        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
-    },
-    {
-      "added_at": "2023-11-10 00:45:26",
-      "album": {
         "name": "\"Heroes\" (2017 Remaster)",
         "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 371413,
       "name": "Heroes - 2017 Remaster",
       "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+    },
+    {
+      "added_at": "2023-11-10 00:45:26",
+      "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
       "added_at": "2023-11-10 00:45:26",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-11-10 00:45:26",
       "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 409466,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
-    },
-    {
-      "added_at": "2023-11-10 00:45:26",
-      "album": {
         "name": "Par\u00eds",
         "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 237026,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
+    },
+    {
+      "added_at": "2023-11-10 00:45:26",
+      "album": {
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 409466,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
     },
     {
       "added_at": "2023-11-10 00:45:26",

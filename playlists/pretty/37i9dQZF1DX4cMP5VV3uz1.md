@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,687 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,761 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 63 | [Loca](https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Loca](https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8) | 2:14 |
 | 64 | [Blinded By The Lights 23](https://open.spotify.com/track/7qSeLqSb07k8qtL8LfMokD) | [Mixtress](https://open.spotify.com/artist/1Eviv9wjS232W0w0Sqy7Il), [Pete Cannon](https://open.spotify.com/artist/61S6bNsMZYtmojqjL43MkA) | [Blinded By The Lights 23](https://open.spotify.com/album/4RKZ3J38GOtJ76Br91HkwZ) | 3:14 |
 | 65 | [Hot In Here](https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Hot In Here](https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W) | 3:11 |
-| 66 | [Getting Started \- Chase & Status Remix](https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Getting Started \(Chase & Status Remix\)](https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1) | 3:10 |
-| 67 | [Downers \- Rework](https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers \(Rework\)](https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk) | 3:01 |
-| 68 | [Bittersweet Goodbye \- Lens Remix](https://open.spotify.com/track/3wkuynG4GwBd8LLNDeKTE5) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Bittersweet Goodbye \(Lens Remix\)](https://open.spotify.com/album/6tp5KT9JEffGYt5iXzqOnY) | 3:21 |
-| 69 | [Breathe](https://open.spotify.com/track/69RnaDZLYLZq8ZFBExlvAl) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Breathe](https://open.spotify.com/album/3itZ3OkLhQwzwxvSwKBtOw) | 3:02 |
+| 66 | [Breathe](https://open.spotify.com/track/69RnaDZLYLZq8ZFBExlvAl) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Breathe](https://open.spotify.com/album/3itZ3OkLhQwzwxvSwKBtOw) | 3:02 |
+| 67 | [Getting Started \- Chase & Status Remix](https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Getting Started \(Chase & Status Remix\)](https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1) | 3:10 |
+| 68 | [Downers \- Rework](https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers \(Rework\)](https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk) | 3:01 |
+| 69 | [Bittersweet Goodbye \- Lens Remix](https://open.spotify.com/track/3wkuynG4GwBd8LLNDeKTE5) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Bittersweet Goodbye \(Lens Remix\)](https://open.spotify.com/album/6tp5KT9JEffGYt5iXzqOnY) | 3:21 |
 | 70 | [When It Rains, It Pours \(feat\. Coco, Mr Traumatik & Songer\) \- Shapes Remix](https://open.spotify.com/track/5XDS88WPZRekqrBBfawjI5) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw) | [When It Rains, It Pours \(Shapes Remix\) \(feat\. Coco, Mr Traumatik & Songer\)](https://open.spotify.com/album/3lxi18DxYCsn3fMv2F4Y9L) | 4:14 |
 | 71 | [Sirens](https://open.spotify.com/track/3HeOOjms1LHV4U91lKcbwd) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Sirens](https://open.spotify.com/album/3L4Meb0nRGrUulc4Xp9esu) | 2:50 |
 | 72 | [Take You Higher \- VIP](https://open.spotify.com/track/23j0RW9sGbxoU6VOhERe0t) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Take You Higher \(VIP\)](https://open.spotify.com/album/1lrE7AKDDM0Co1GPObbp26) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [Party President](https://open.spotify.com/track/0rEUglmFNvBAtg0w3mo3CS) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Party President](https://open.spotify.com/album/0VLlG23D8mtxGHuctstrO8) | 3:07 |
 | 75 | [Cluster](https://open.spotify.com/track/47sojOFHCWJuDCDj3MFGnc) | [Tantrum Desire](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS) | [Cluster](https://open.spotify.com/album/5X9rtUQlk7f04F9dsra2el) | 4:09 |
 
-Snapshot ID: `MCxmOGQyY2U0NjA4NmU3MzE5Y2RiZTE5OGVhOWVmN2RmY2I0YjExOWRi`
+Snapshot ID: `MCw1Y2YwNGUwMGE0ZDdiOTkzMGVkNWRjZjE0ZDU2NzU2NzkwN2ZjMTk1`

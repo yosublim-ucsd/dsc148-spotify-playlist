@@ -369,6 +369,28 @@
     },
     {
       "album": {
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Infierno",
+      "url": "https://open.spotify.com/track/3frBPrmiJfJ8Oowb4kbRIb"
+    },
+    {
+      "album": {
         "name": "Inhala",
         "url": "https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always.",
-  "num_followers": 603389,
+  "num_followers": 603473,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmIzNzlhYmYwMDA3YmMwZjRjMDBiYzdmMzk1NDJjNjk3NDUzODhj",
+  "snapshot_id": "MCw1OGUwMjMxOGViYzk3NGExYTljMDMzOTNhYzBkNmRjZjczOTAyNTdi",
   "tracks": [
     {
       "added_at": "2023-02-18 03:29:19",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "All The People Said Amen",
-        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "Lord, I Need You",
-      "url": "https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 305426,
       "name": "How Great Is Our God",
       "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "Lord, I Need You",
+      "url": "https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 276186,
+      "name": "Redeemed",
+      "url": "https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Raise a Hallelujah (Studio Version)",
         "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 244040,
       "name": "Raise a Hallelujah (Studio Version)",
       "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Love Come To Life",
-        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "Redeemed",
-      "url": "https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Trial & Triumph",
-        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "My Feet Are on the Rock",
-      "url": "https://open.spotify.com/track/33q4ENIRByGmdKeRWoIfSm"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Everything And Nothing Less (Live)",
         "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 326613,
       "name": "God Of Miracles - Live",
       "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Trial & Triumph",
+        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "My Feet Are on the Rock",
+      "url": "https://open.spotify.com/track/33q4ENIRByGmdKeRWoIfSm"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 278320,
+      "name": "My Story",
+      "url": "https://open.spotify.com/track/6Dkou08rjWrgGijVmoAVZp"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Into The Deep (Live)",
         "url": "https://open.spotify.com/album/0VvN0tftREbwUMOBpyOOHB"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 388133,
       "name": "Into The Deep - Live",
       "url": "https://open.spotify.com/track/5wkUfhKdCzHRGK7XwpMksC"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Beautiful Offerings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 278320,
-      "name": "My Story",
-      "url": "https://open.spotify.com/track/6Dkou08rjWrgGijVmoAVZp"
     }
   ],
   "unique_name": "Everyday Inspiration",

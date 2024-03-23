@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 
 > The soundtrack to lazing around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,925 likes - 65 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,022 likes - 65 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 31 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
 | 32 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
 | 33 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 |
-| 34 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 |
-| 35 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
-| 36 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
+| 34 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
+| 35 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 |
+| 36 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
 | 37 | [Holy Roller \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/3itgPtXSu4I9mr2QD6yrzP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:36 |
 | 38 | [Little Bit More](https://open.spotify.com/track/6rG1DdPCTzGibgHliYJ4ws) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Little Bit More](https://open.spotify.com/album/0Fb8tXgVncpgZgUeuOiDlF) | 3:00 |
 | 39 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
@@ -63,15 +63,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 53 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 |
 | 54 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 |
 | 55 | [Island](https://open.spotify.com/track/4LRxmh62YHxSHL4hGLq0ln) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:59 |
-| 56 | [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 |
-| 57 | [Thinking 'Bout Love](https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Thinking 'Bout Love](https://open.spotify.com/album/1L11rcXButW0xA46an3fRP) | 3:04 |
+| 56 | [Thinking 'Bout Love](https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Thinking 'Bout Love](https://open.spotify.com/album/1L11rcXButW0xA46an3fRP) | 3:04 |
+| 57 | [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 |
 | 58 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
 | 59 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
 | 60 | [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 |
 | 61 | [Highs & Lows](https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Highs & Lows](https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8) | 3:29 |
 | 62 | [sunny day](https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [summer camp](https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi) | 2:52 |
-| 63 | [Mon Soleil \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Mon Soleil \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu) | 3:28 |
-| 64 | [Quietly Yours](https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv) | 3:54 |
+| 63 | [Quietly Yours](https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv) | 3:54 |
+| 64 | [Mon Soleil \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Mon Soleil \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu) | 3:28 |
 | 65 | [Say My Name \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE) | 4:27 |
 
-Snapshot ID: `MCw3YzA4OGIyNDU0NWJlZjc5M2VhMzM4NTdmZWVmNTNhNWIxNTkyYzRk`
+Snapshot ID: `MCxiOGYwMzdmODRjM2E2ODAxMmUzNmQ3YzQ1M2FkOTA5NTVjMjI5MDZl`

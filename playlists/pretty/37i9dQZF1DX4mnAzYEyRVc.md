@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Mad Caddies
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,707 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,747 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 14 | [Manuel Santillán, el León \(Versión Reggae\) \- Remasterizado 2008](https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 3:57 |
 | 15 | [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 |
 | 16 | [Time Bomb](https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:24 |
-| 17 | [Spiderwebs](https://open.spotify.com/track/4ZD6SiaJi75smnel0d7jl3) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:26 |
-| 18 | [La Carencia](https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:33 |
+| 17 | [La Carencia](https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:33 |
+| 18 | [Spiderwebs](https://open.spotify.com/track/4ZD6SiaJi75smnel0d7jl3) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:26 |
 | 19 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 |
 | 20 | [A Message to You Rudy \- 2015 Remaster](https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:52 |
 | 21 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 99 | [Sally Brown](https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Story So Far...](https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg) | 4:29 |
 | 100 | [Call Your Bluff](https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP) | [Nice One](https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3) | 2:32 |
 
-Snapshot ID: `MCxmMTNlZjY3YTZkNjk2OTNhYTliMmY2ZDhhMTBiNjMxYjYzM2UwZTVi`
+Snapshot ID: `MCwxNDQ4YTljNDAyMTgyZjVlOGNmYzAxM2I2ZTExMzI3YzE0NzcxODVl`

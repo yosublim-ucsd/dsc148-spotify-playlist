@@ -4,7 +4,7 @@
 
 > Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Mustafa
 
-120 songs - 7 hr 22 min
+122 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku) | 4:38 | 2023-11-03 | 2023-12-09 |
 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-16 |  |
 | [carSick \(feat\. Seago\)](https://open.spotify.com/track/684n2I12xPPSTv47wOqD1t) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr), [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [carSick \(feat\. Seago\)](https://open.spotify.com/album/3YVmLYyeNaBz0OlO6NrYzf) | 1:59 | 2023-11-03 | 2023-12-09 |
+| [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 | 2024-03-22 |  |
 | [Cold Tea](https://open.spotify.com/track/597KzBs4KvD6HavNl0yiG1) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Cold Tea](https://open.spotify.com/album/7ouNonvlK1rcZey6noEvxg) | 3:55 | 2023-11-03 |  |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-11-03 |  |
 | [Cool Water \- Single Mix](https://open.spotify.com/track/7Ki9OmvTAsczQSJO1h99WM) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Back to Moon Beach](https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ) | 4:31 | 2023-11-17 | 2024-02-03 |
@@ -74,7 +75,7 @@
 | [Hotel](https://open.spotify.com/track/2LtCEKs68u3RpNh4wybCF8) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:17 | 2023-11-03 |  |
 | [i don't really feel it anymore](https://open.spotify.com/track/49vbTCy6HYvy67dLe8ZQ5K) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i don't really feel it anymore](https://open.spotify.com/album/2TfTE74h6Tiadsm2Dj0Jbn) | 2:00 | 2024-02-16 |  |
 | [Imaan](https://open.spotify.com/track/1prJ8ZRyFjd60AYJOa9gbP) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/0DB3121n8MTCyE0LfhxIEX) | 3:34 | 2024-03-08 |  |
-| [In Emerald](https://open.spotify.com/track/2FsIZpptwaAwU8vOBinIvy) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [In Emerald](https://open.spotify.com/album/1Ug1eaDyeJVPVDw2AlA7tI) | 3:30 | 2024-01-12 |  |
+| [In Emerald](https://open.spotify.com/track/2FsIZpptwaAwU8vOBinIvy) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [In Emerald](https://open.spotify.com/album/1Ug1eaDyeJVPVDw2AlA7tI) | 3:30 | 2024-01-12 | 2024-03-23 |
 | [In My Room](https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Room](https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L) | 2:42 | 2023-12-08 | 2024-02-24 |
 | [Into The Unknown](https://open.spotify.com/track/2CsTLX6go5L9CGnaoLmB2a) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK) | 2:48 | 2023-11-03 |  |
 | [IYKYK](https://open.spotify.com/track/1wkze3nOLQkWG9uHjHaKjc) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [IYKYK](https://open.spotify.com/album/7DtIpa0EWgU79yWXKnAx4t) | 3:28 | 2023-11-03 |  |
@@ -109,6 +110,7 @@
 | [Quiet Storm](https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Sidharth](https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM) | 5:40 | 2023-11-03 | 2024-02-10 |
 | [Roadkill](https://open.spotify.com/track/409Wu3XqnCwqgXV3JM175Y) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Roadkill](https://open.spotify.com/album/07MbK4v2mIQz0rYBBGUzMs) | 2:15 | 2023-12-15 | 2024-01-20 |
 | [Running](https://open.spotify.com/track/2yg33GUVcKi3b6A8SxtCU3) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Running](https://open.spotify.com/album/2Z9njMZGVcXYxjmKDEujzW) | 3:09 | 2024-02-23 |  |
+| [Saturnine](https://open.spotify.com/track/2oEzHtai43VJ8KMrWjb8ft) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Saturnine](https://open.spotify.com/album/5KACYEEsH7cZAaBOr2eiKo) | 3:21 | 2024-03-22 |  |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-11-03 |  |
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-11-03 | 2023-11-11 |
 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 | 2023-11-03 |  |
@@ -121,7 +123,7 @@
 | [Stupid 4 U](https://open.spotify.com/track/0XudTjuk5umhu2Q8KYEZDU) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/18B8EjYaDsWbukaC6dXyvc) | 3:56 | 2023-11-03 | 2024-03-09 |
 | [Take What’s Given](https://open.spotify.com/track/5ai9YGfkYzJ6WHtFIPiIdD) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Take What’s Given](https://open.spotify.com/album/68Ty6HjRWh9np1sfwnXyTB) | 2:57 | 2024-02-02 |  |
 | [The Tower](https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Tower](https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD) | 3:36 | 2023-11-03 | 2024-01-20 |
-| [tired](https://open.spotify.com/track/2wXNt7dpcMNhDnEyWxtHI6) | [shy kids](https://open.spotify.com/artist/1ttJm0dfyxCPbCJCRDzjAv) | [tired](https://open.spotify.com/album/117vSo7CTEOxKsUeFk1vwl) | 3:22 | 2023-11-03 |  |
+| [tired](https://open.spotify.com/track/2wXNt7dpcMNhDnEyWxtHI6) | [shy kids](https://open.spotify.com/artist/1ttJm0dfyxCPbCJCRDzjAv) | [tired](https://open.spotify.com/album/117vSo7CTEOxKsUeFk1vwl) | 3:22 | 2023-11-03 | 2024-03-23 |
 | [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 | 2023-11-03 | 2024-02-17 |
 | [Wandering Lies](https://open.spotify.com/track/31FzcFpBHhmOAXCCrfsO9t) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Wandering Lies](https://open.spotify.com/album/5ypRKrHR9cPkfsw1NxOlD4) | 5:00 | 2023-11-03 | 2023-11-18 |
 | [What Now](https://open.spotify.com/track/1g8becOwXRFEkYukY94L99) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/34hq1FBvredIMga6KyZnF2) | 3:46 | 2023-11-03 |  |

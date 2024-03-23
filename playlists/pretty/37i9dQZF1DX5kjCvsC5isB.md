@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > Women who rock our world\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,559 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,629 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 13 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 |
 | 14 | [A Dozen Roses](https://open.spotify.com/track/5zfSxKmqBSKTaZjVkvPkmA) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [A Dozen Roses](https://open.spotify.com/album/1NjGLb0DCKNn086xUgQtCd) | 2:37 |
 | 15 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 |
-| 16 | [Salad](https://open.spotify.com/track/4wHo9RDSY0elxbeiMpYNLN) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 4:34 |
-| 17 | [hostage](https://open.spotify.com/track/5iQrF3TEjpz2tBZed7Qy9N) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [HEADSPLIT](https://open.spotify.com/album/460fhxEztqiD7DkxTAETRL) | 2:43 |
+| 16 | [hostage](https://open.spotify.com/track/5iQrF3TEjpz2tBZed7Qy9N) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [HEADSPLIT](https://open.spotify.com/album/460fhxEztqiD7DkxTAETRL) | 2:43 |
+| 17 | [Salad](https://open.spotify.com/track/4wHo9RDSY0elxbeiMpYNLN) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 4:34 |
 | 18 | [run away girl](https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [run away girl](https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2) | 3:50 |
 | 19 | [<maybe> it's my fault](https://open.spotify.com/track/5qMq8ITRVuTwqd2pDL0gff) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:39 |
 | 20 | ["good guy"](https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | ["good guy"](https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4) | 3:28 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 64 | [Norwegian Wood](https://open.spotify.com/track/50Wusuhe7GBuOr5xGZlyGe) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/4vXzCKpcnI930OU3QNCOLW) | 3:34 |
 | 65 | [HTIS \(Feat\. Luna Shadows & Carmen Vandenberg\)](https://open.spotify.com/track/49bgDubnZxg7dxhRkD3Et6) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ), [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ), [Carmen Vandenberg](https://open.spotify.com/artist/2Zc5QLd6oXX67boj5GGfdS) | [TZIA](https://open.spotify.com/album/0e3aT00OxC10TrP3HSEhtF) | 3:15 |
 | 66 | [And They All Fall Down](https://open.spotify.com/track/4kfPFH4eobdyzyqEJd6sMo) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [And They All Fall Down](https://open.spotify.com/album/47ZajOVfTx4ybpStTat8mm) | 2:20 |
-| 67 | [Soft Like a Flower](https://open.spotify.com/track/2hj7KCZ38HJWlEfQDs4IQH) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [I Don't Want You Anymore](https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb) | 3:18 |
-| 68 | [Trying](https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Trying](https://open.spotify.com/album/2apgxM7pfYfejgrPg4N6cB) | 3:46 |
+| 67 | [Trying](https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Trying](https://open.spotify.com/album/2apgxM7pfYfejgrPg4N6cB) | 3:46 |
+| 68 | [Soft Like a Flower](https://open.spotify.com/track/2hj7KCZ38HJWlEfQDs4IQH) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [I Don't Want You Anymore](https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb) | 3:18 |
 | 69 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 |
 | 70 | [Coma](https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Coma](https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx) | 3:28 |
 | 71 | [100 Little Deaths](https://open.spotify.com/track/1iK6objrHYqNj6TjFhbEKJ) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/3wrOixk8SLnjk4siR58e8q) | 3:33 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 80 | [SILYMI](https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [SILYMI](https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg) | 2:29 |
 | 81 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
 | 82 | [Don't Need You](https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Don't Need You](https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC) | 3:26 |
-| 83 | [Moonstruck](https://open.spotify.com/track/1kM0YPEPUmZfV7WAl6HH0i) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Moonstruck](https://open.spotify.com/album/03TpK5HO3kLKg7jSTsKjoD) | 3:05 |
-| 84 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 |
+| 83 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 |
+| 84 | [Moonstruck](https://open.spotify.com/track/1kM0YPEPUmZfV7WAl6HH0i) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Moonstruck](https://open.spotify.com/album/03TpK5HO3kLKg7jSTsKjoD) | 3:05 |
 | 85 | [Over The Threshold](https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Over The Threshold](https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU) | 4:09 |
 | 86 | [What's The Point In Life](https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:18 |
 | 87 | [February](https://open.spotify.com/track/1qrUGw2NFIJinugQpN4Csk) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [February](https://open.spotify.com/album/2PZ6t16zWlyKvQDp1SBAZq) | 3:52 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 91 | [Hand Grenade](https://open.spotify.com/track/4iPw0nNFPiYKY02oQhGTEz) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Mommy](https://open.spotify.com/album/4eibRhcgxtRIytvG87I8Ay) | 2:57 |
 | 92 | [Baggage](https://open.spotify.com/track/2ikmBwZKZr0ahGcX4x8qtj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [When Everything Went Dark](https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v) | 3:03 |
 | 93 | [Tornillo](https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Tornillo](https://open.spotify.com/album/6MSMis63C7wWLVSSmSl92b) | 1:33 |
-| 94 | [Flood Into](https://open.spotify.com/track/19meO0ADnoTjRuBMXZCdbs) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/5wBZdQtJp4ad73MspHd7DG) | 2:55 |
-| 95 | [Love & War](https://open.spotify.com/track/2MxErftY5S07dFtIdxQOSF) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [God's Favorite](https://open.spotify.com/album/5Nt5QeIInvUuWahaoCB9Li) | 3:40 |
+| 94 | [Love & War](https://open.spotify.com/track/2MxErftY5S07dFtIdxQOSF) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [God's Favorite](https://open.spotify.com/album/5Nt5QeIInvUuWahaoCB9Li) | 3:40 |
+| 95 | [Flood Into](https://open.spotify.com/track/19meO0ADnoTjRuBMXZCdbs) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/5wBZdQtJp4ad73MspHd7DG) | 2:55 |
 | 96 | [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 |
 | 97 | [CULT CLASSIC](https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [Cult Classic](https://open.spotify.com/album/3vw9IZ3YV2T5bqYTYG0IXr) | 3:18 |
 | 98 | [Love Goes On](https://open.spotify.com/track/3xeyZGEEVW8SZPmteR9Fw6) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Love Goes On](https://open.spotify.com/album/30eJbXVjjtYtYtwkt337Sr) | 3:15 |
 | 99 | [BACKSTABBER](https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [BACKSTABBER](https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM) | 3:08 |
 | 100 | [Big Bite](https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite](https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI) | 3:21 |
 
-Snapshot ID: `MCw2MjkyYzcyMjc5ZWRiNDYyYTY3NThlNTU1YmQwZThhNzYzNTg3MmE1`
+Snapshot ID: `MCw3ZDY0ZDQ4MmQ2YjQzYzUzN2ZiZTk2NDZjNjMzNTIxNDU0OGMxNzY5`

@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 544681,
+  "num_followers": 545083,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDNjOWI3NGY4OWVhZDlmYjJlYWIwZGY2Y2QwNmE1YjkzYmNkYjdk",
+  "snapshot_id": "MCwwNWQ5NDBjOWFiN2U5NTkwYTlmNjNjNzAyNTI0MGFjMTk0ZDYxNmUz",
   "tracks": [
     {
       "added_at": "2023-08-11 10:02:57",
@@ -735,18 +735,22 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Trance Top 1000 - The Best Of",
-        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
+        "name": "Seven Cities",
+        "url": "https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY"
       },
       "artists": [
         {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+          "name": "Solarstone",
+          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
+        },
+        {
+          "name": "Andy Bury",
+          "url": "https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU"
         }
       ],
-      "duration_ms": 225841,
-      "name": "Universal Nation",
-      "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
+      "duration_ms": 211333,
+      "name": "Seven Cities - Solarstone's Atlantis Mix",
+      "url": "https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -767,6 +771,22 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "Trance Top 1000 - The Best Of",
+        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        }
+      ],
+      "duration_ms": 225841,
+      "name": "Universal Nation",
+      "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "Greece 2000",
         "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 219000,
       "name": "Greece 2000 - Edit",
       "url": "https://open.spotify.com/track/3JxBHvOkVvgZTtQ9shl4fI"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Seven Cities",
-        "url": "https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY"
-      },
-      "artists": [
-        {
-          "name": "Solarstone",
-          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
-        },
-        {
-          "name": "Andy Bury",
-          "url": "https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU"
-        }
-      ],
-      "duration_ms": 211333,
-      "name": "Seven Cities - Solarstone's Atlantis Mix",
-      "url": "https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu"
     },
     {
       "added_at": "2023-08-11 10:02:57",

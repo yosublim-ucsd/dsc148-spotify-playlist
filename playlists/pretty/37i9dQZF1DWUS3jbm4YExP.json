@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 709303,
+  "num_followers": 709639,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmIyN2ExZDc3M2I0Njg3ZTU2ZTk5ZWQxZGU2ZWUzZTRkYjA5YmZk",
+  "snapshot_id": "MCxmNGE0NWU1OTkxYjZlNDE4OTA1ZmY1OGE1OTk5OWEzMzY1MjVkYjg3",
   "tracks": [
     {
       "added_at": "2024-03-21 14:37:58",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
+        "name": "Objectif perfection",
+        "url": "https://open.spotify.com/album/6K7NZTRRjzo8gNCMUoZKT4"
+      },
+      "artists": [
+        {
+          "name": "Balla Et Ses Balladins",
+          "url": "https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO"
+        }
+      ],
+      "duration_ms": 462000,
+      "name": "Paulette",
+      "url": "https://open.spotify.com/track/70gworYN6uq7jd4qfl3QU7"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
         "name": "Isle Of Magic",
         "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 246799,
       "name": "Kamakumba",
       "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 298533,
-      "name": "Age Of Ascent",
-      "url": "https://open.spotify.com/track/5BOkALb3jw3m6SONNtBYRR"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 298533,
+      "name": "Age Of Ascent",
+      "url": "https://open.spotify.com/track/5BOkALb3jw3m6SONNtBYRR"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
         "name": "Psych\u00e9",
         "url": "https://open.spotify.com/album/2reVfEaxKuDfrvMx5HwtZT"
       },
@@ -687,38 +703,6 @@
       "duration_ms": 221582,
       "name": "Cumbia Mah\u00e0re",
       "url": "https://open.spotify.com/track/6TPlBBLFOCQ8hPwIntQvKG"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
-        "name": "Objectif perfection",
-        "url": "https://open.spotify.com/album/6K7NZTRRjzo8gNCMUoZKT4"
-      },
-      "artists": [
-        {
-          "name": "Balla Et Ses Balladins",
-          "url": "https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO"
-        }
-      ],
-      "duration_ms": 462000,
-      "name": "Paulette",
-      "url": "https://open.spotify.com/track/70gworYN6uq7jd4qfl3QU7"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
-        "name": "Me Chama De Gato Que Eu Sou Sua",
-        "url": "https://open.spotify.com/album/6UZpK4jB5MYVYJpwwi2mbP"
-      },
-      "artists": [
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 252959,
-      "name": "Electric Fish",
-      "url": "https://open.spotify.com/track/2i90BhQ6Mfvrd8yHRTHyZx"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -751,6 +735,22 @@
       "duration_ms": 386893,
       "name": "Kenke Corner",
       "url": "https://open.spotify.com/track/7DSe9aWkpnbDQTTRikkpYp"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
+        "name": "Me Chama De Gato Que Eu Sou Sua",
+        "url": "https://open.spotify.com/album/6UZpK4jB5MYVYJpwwi2mbP"
+      },
+      "artists": [
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 252959,
+      "name": "Electric Fish",
+      "url": "https://open.spotify.com/track/2i90BhQ6Mfvrd8yHRTHyZx"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "Dos Uvas",
-        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Dos Uvas",
-      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
         "name": "Badala Zamana (Habibi Funk 015)",
         "url": "https://open.spotify.com/album/04Ok581SPH7eTevAKZUeQB"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 190124,
       "name": "Badala Zamana (Habibi Funk 015)",
       "url": "https://open.spotify.com/track/0x267yS2OeozYaFzCyqnx6"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
+        "name": "Dos Uvas",
+        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Dos Uvas",
+      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "Midnight Voyage",
-        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
-      },
-      "artists": [
-        {
-          "name": "Tunnelvisions",
-          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
-        }
-      ],
-      "duration_ms": 357500,
-      "name": "Gobi",
-      "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
         "name": "Anouk",
         "url": "https://open.spotify.com/album/3e9Ix0XPK8q7MjeA38Z5E0"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 209000,
       "name": "Anouk",
       "url": "https://open.spotify.com/track/6cwG0qIHsLaVdLfLwFNIz6"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
+        "name": "Midnight Voyage",
+        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
+      },
+      "artists": [
+        {
+          "name": "Tunnelvisions",
+          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
+        }
+      ],
+      "duration_ms": 357500,
+      "name": "Gobi",
+      "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "Los Santos y Pecadores",
-        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
-      },
-      "artists": [
-        {
-          "name": "Battle of Santiago",
-          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
-        }
-      ],
-      "duration_ms": 198767,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
         "name": "Theme from Selva",
         "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
       },
@@ -1331,26 +1315,6 @@
       "duration_ms": 340720,
       "name": "Nineteen Hundred and Eighty Five",
       "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
-        "name": "Dreaming In Four Dimensions",
-        "url": "https://open.spotify.com/album/5YU3RcCFC9zjsK4cmvxNIj"
-      },
-      "artists": [
-        {
-          "name": "Pure Colors",
-          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
-        },
-        {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
-        }
-      ],
-      "duration_ms": 202638,
-      "name": "Ascensi\u00f3n",
-      "url": "https://open.spotify.com/track/35o92ikbXQApq9xBjLgbnV"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -1371,6 +1335,22 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
+        "name": "Los Santos y Pecadores",
+        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "duration_ms": 198767,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
         "name": "On te l'avait dit",
         "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 384383,
       "name": "On te l'avait dit",
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
+        "name": "Dreaming In Four Dimensions",
+        "url": "https://open.spotify.com/album/5YU3RcCFC9zjsK4cmvxNIj"
+      },
+      "artists": [
+        {
+          "name": "Pure Colors",
+          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        }
+      ],
+      "duration_ms": 202638,
+      "name": "Ascensi\u00f3n",
+      "url": "https://open.spotify.com/track/35o92ikbXQApq9xBjLgbnV"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 318058,
-      "name": "Esta canci\u00f3n",
-      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
         "name": "Expansions",
         "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "The Return of\u2026",
-        "url": "https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA"
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
       },
       "artists": [
         {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
         }
       ],
-      "duration_ms": 204790,
-      "name": "Destroy The Empire",
-      "url": "https://open.spotify.com/track/6BvgJ5rz1awa1zL2ySnVfk"
+      "duration_ms": 318058,
+      "name": "Esta canci\u00f3n",
+      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -1543,6 +1527,42 @@
       "duration_ms": 181914,
       "name": "Porque Yo",
       "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
+        "name": "The Return of\u2026",
+        "url": "https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 204790,
+      "name": "Destroy The Empire",
+      "url": "https://open.spotify.com/track/6BvgJ5rz1awa1zL2ySnVfk"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
+        "name": "Unconditional (feat. Rationale)",
+        "url": "https://open.spotify.com/album/14vupgjqKCmYJ0eqMUr9px"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Rationale",
+          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
+        }
+      ],
+      "duration_ms": 195020,
+      "name": "Unconditional (feat. Rationale)",
+      "url": "https://open.spotify.com/track/3Lgb0uFGQ8SJVoqpq6bSif"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -1595,26 +1615,6 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "Unconditional (feat. Rationale)",
-        "url": "https://open.spotify.com/album/14vupgjqKCmYJ0eqMUr9px"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Rationale",
-          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
-        }
-      ],
-      "duration_ms": 195020,
-      "name": "Unconditional (feat. Rationale)",
-      "url": "https://open.spotify.com/track/3Lgb0uFGQ8SJVoqpq6bSif"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
         "name": "Earthology",
         "url": "https://open.spotify.com/album/4FXD1pVdJ5G690V7mRAFEL"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "The Father of Libyan Reggae (Habibi Funk 024)",
-        "url": "https://open.spotify.com/album/0SmSMo59rx6TuI0B8lsQuZ"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Hesnawi",
-          "url": "https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F"
-        }
-      ],
-      "duration_ms": 344339,
-      "name": "Watany Al Kabir",
-      "url": "https://open.spotify.com/track/4Uompvio1rSmz6geQU9Pkl"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
         "name": "Padremontes",
         "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
       },
@@ -1691,22 +1675,6 @@
       "duration_ms": 203778,
       "name": "Sondiram\u00e1",
       "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "satsuma",
-      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -1731,22 +1699,18 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "Mal\u00eca",
-        "url": "https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu"
+        "name": "The Father of Libyan Reggae (Habibi Funk 024)",
+        "url": "https://open.spotify.com/album/0SmSMo59rx6TuI0B8lsQuZ"
       },
       "artists": [
         {
-          "name": "Pellegrino",
-          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
-        },
-        {
-          "name": "Zodyaco",
-          "url": "https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1"
+          "name": "Ibrahim Hesnawi",
+          "url": "https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Mal\u00eca",
-      "url": "https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK"
+      "duration_ms": 344339,
+      "name": "Watany Al Kabir",
+      "url": "https://open.spotify.com/track/4Uompvio1rSmz6geQU9Pkl"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -1787,6 +1751,42 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
+        "name": "Mal\u00eca",
+        "url": "https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu"
+      },
+      "artists": [
+        {
+          "name": "Pellegrino",
+          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
+        },
+        {
+          "name": "Zodyaco",
+          "url": "https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Mal\u00eca",
+      "url": "https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "satsuma",
+      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
         "name": "The Botanist",
         "url": "https://open.spotify.com/album/2LcWpuh7nN5yb3csgRCTFk"
       },
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
+        "name": "Eastern Flowers",
+        "url": "https://open.spotify.com/album/3MzZNd1GFSCkb40EBv326G"
+      },
+      "artists": [
+        {
+          "name": "Sven Wunder",
+          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/4Lgp39erLhFmODQ2AnPl2r"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2KgYOIJ18OiPAMH9KRf1Ff"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 242657,
       "name": "The Ocean",
       "url": "https://open.spotify.com/track/11ZEPoLOymnDqXoc1e98FO"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
-        "name": "Eastern Flowers",
-        "url": "https://open.spotify.com/album/3MzZNd1GFSCkb40EBv326G"
-      },
-      "artists": [
-        {
-          "name": "Sven Wunder",
-          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/4Lgp39erLhFmODQ2AnPl2r"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
+        "name": "Late Night Tales: Khruangbin",
+        "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Udoh",
+          "url": "https://open.spotify.com/artist/7sBObaY7xVN3bDVU9AW8O9"
+        }
+      ],
+      "duration_ms": 390121,
+      "name": "I Like It (Don't Stop)",
+      "url": "https://open.spotify.com/track/5f3Pu9oUnc4URLrViyqxj9"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
         "name": "Je k'abere",
         "url": "https://open.spotify.com/album/76qKWyy9uXq3Brpg3kp6c6"
       },
@@ -1915,18 +1931,38 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "Late Night Tales: Khruangbin",
-        "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
+        "name": "Existe Uma Voz",
+        "url": "https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer"
       },
       "artists": [
         {
-          "name": "Maxwell Udoh",
-          "url": "https://open.spotify.com/artist/7sBObaY7xVN3bDVU9AW8O9"
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
         }
       ],
-      "duration_ms": 390121,
-      "name": "I Like It (Don't Stop)",
-      "url": "https://open.spotify.com/track/5f3Pu9oUnc4URLrViyqxj9"
+      "duration_ms": 225826,
+      "name": "Existe Uma Voz",
+      "url": "https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
+        "name": "No Me Quieres (feat. Fabi Reyna)",
+        "url": "https://open.spotify.com/album/0XwtNqA59iplkPTxi4Qoam"
+      },
+      "artists": [
+        {
+          "name": "Sumohair",
+          "url": "https://open.spotify.com/artist/5lDU6YOrMGStD7lnzHvDk5"
+        },
+        {
+          "name": "Fabi Reyna",
+          "url": "https://open.spotify.com/artist/58G2Hb81kZxBJ4MOvZBAID"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "No Me Quieres (feat. Fabi Reyna)",
+      "url": "https://open.spotify.com/track/2LCtUA1vEQKH1YoLGMX5Rv"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -1951,22 +1987,6 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "Existe Uma Voz",
-        "url": "https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer"
-      },
-      "artists": [
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Existe Uma Voz",
-      "url": "https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
         "name": "Afro Golden Line",
         "url": "https://open.spotify.com/album/6OxiSffhQKRAgVQbzJhRyj"
       },
@@ -1979,26 +1999,6 @@
       "duration_ms": 239397,
       "name": "Afro Golden Line",
       "url": "https://open.spotify.com/track/5GkhEe5eRuOS1AyJmNLZyH"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
-        "name": "No Me Quieres (feat. Fabi Reyna)",
-        "url": "https://open.spotify.com/album/0XwtNqA59iplkPTxi4Qoam"
-      },
-      "artists": [
-        {
-          "name": "Sumohair",
-          "url": "https://open.spotify.com/artist/5lDU6YOrMGStD7lnzHvDk5"
-        },
-        {
-          "name": "Fabi Reyna",
-          "url": "https://open.spotify.com/artist/58G2Hb81kZxBJ4MOvZBAID"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "No Me Quieres (feat. Fabi Reyna)",
-      "url": "https://open.spotify.com/track/2LCtUA1vEQKH1YoLGMX5Rv"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "Chaos Theories",
-        "url": "https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA"
-      },
-      "artists": [
-        {
-          "name": "The Souljazz Orchestra",
-          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
-        }
-      ],
-      "duration_ms": 261838,
-      "name": "Sky High",
-      "url": "https://open.spotify.com/track/0nxsB1Yg2nTscclsyNhy3M"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
         "name": "Samba em Kigali",
         "url": "https://open.spotify.com/album/6AtxVhkA8ZYP2wSlNxGPmf"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 226416,
       "name": "Terra Preta",
       "url": "https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
+        "name": "Chaos Theories",
+        "url": "https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA"
+      },
+      "artists": [
+        {
+          "name": "The Souljazz Orchestra",
+          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
+        }
+      ],
+      "duration_ms": 261838,
+      "name": "Sky High",
+      "url": "https://open.spotify.com/track/0nxsB1Yg2nTscclsyNhy3M"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "Sump Dub",
-        "url": "https://open.spotify.com/album/6Poajaq4bdrjbi8Y1OT3Tn"
-      },
-      "artists": [
-        {
-          "name": "Calibre",
-          "url": "https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH"
-        }
-      ],
-      "duration_ms": 392000,
-      "name": "Sump Dub",
-      "url": "https://open.spotify.com/track/6H7pnDXdquzbzH8c0UTyXy"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
         "name": "Visceras",
         "url": "https://open.spotify.com/album/7gklIEvQSc5xeaSWVNlH3j"
       },
@@ -2271,22 +2255,18 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
-        "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
+        "name": "Sump Dub",
+        "url": "https://open.spotify.com/album/6Poajaq4bdrjbi8Y1OT3Tn"
       },
       "artists": [
         {
-          "name": "Lass",
-          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
-        },
-        {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+          "name": "Calibre",
+          "url": "https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH"
         }
       ],
-      "duration_ms": 267316,
-      "name": "Bumay\u00e9 - Voilaaa Disco Remix",
-      "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
+      "duration_ms": 392000,
+      "name": "Sump Dub",
+      "url": "https://open.spotify.com/track/6H7pnDXdquzbzH8c0UTyXy"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -2311,18 +2291,22 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "The Return of\u2026",
-        "url": "https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA"
+        "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
+        "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
       },
       "artists": [
         {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+          "name": "Lass",
+          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
+        },
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
         }
       ],
-      "duration_ms": 224882,
-      "name": "Sunset Sound",
-      "url": "https://open.spotify.com/track/7c1pACjA4ahceDSuGEJspA"
+      "duration_ms": 267316,
+      "name": "Bumay\u00e9 - Voilaaa Disco Remix",
+      "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -2343,22 +2327,18 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "\u015eatellites",
-        "url": "https://open.spotify.com/album/7olTOjGQOUzJxugpToyPMK"
+        "name": "The Return of\u2026",
+        "url": "https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA"
       },
       "artists": [
         {
-          "name": "\u015eatellites",
-          "url": "https://open.spotify.com/artist/5i2aeGMxTOr8ox7IIqJoxi"
-        },
-        {
-          "name": "Vicky Ashkenazy",
-          "url": "https://open.spotify.com/artist/6uph1YdZp0xZ4zR5BZ2SZJ"
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
         }
       ],
-      "duration_ms": 222250,
-      "name": "Olurmu Dersin",
-      "url": "https://open.spotify.com/track/68qlHuj9jmAzXUAI4glkA0"
+      "duration_ms": 224882,
+      "name": "Sunset Sound",
+      "url": "https://open.spotify.com/track/7c1pACjA4ahceDSuGEJspA"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -2379,6 +2359,26 @@
       "duration_ms": 348662,
       "name": "Dubby Sunday",
       "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
+        "name": "\u015eatellites",
+        "url": "https://open.spotify.com/album/7olTOjGQOUzJxugpToyPMK"
+      },
+      "artists": [
+        {
+          "name": "\u015eatellites",
+          "url": "https://open.spotify.com/artist/5i2aeGMxTOr8ox7IIqJoxi"
+        },
+        {
+          "name": "Vicky Ashkenazy",
+          "url": "https://open.spotify.com/artist/6uph1YdZp0xZ4zR5BZ2SZJ"
+        }
+      ],
+      "duration_ms": 222250,
+      "name": "Olurmu Dersin",
+      "url": "https://open.spotify.com/track/68qlHuj9jmAzXUAI4glkA0"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "Hagata",
-        "url": "https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp"
-      },
-      "artists": [
-        {
-          "name": "TEKE::TEKE",
-          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
-        }
-      ],
-      "duration_ms": 228813,
-      "name": "Gotoku Lemon",
-      "url": "https://open.spotify.com/track/77b6MAvDeH0NILyuFgcQw7"
-    },
-    {
-      "added_at": "2024-03-21 14:37:58",
-      "album": {
         "name": "Black Times",
         "url": "https://open.spotify.com/album/3drgm5Lvz5tS3d0paKXY8w"
       },
@@ -2543,6 +2527,22 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
+        "name": "Hagata",
+        "url": "https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp"
+      },
+      "artists": [
+        {
+          "name": "TEKE::TEKE",
+          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
+        }
+      ],
+      "duration_ms": 228813,
+      "name": "Gotoku Lemon",
+      "url": "https://open.spotify.com/track/77b6MAvDeH0NILyuFgcQw7"
+    },
+    {
+      "added_at": "2024-03-21 14:37:58",
+      "album": {
         "name": "Resonate",
         "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
       },
@@ -2559,18 +2559,18 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "The Age of Aquarius",
-        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
       },
       "artists": [
         {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
         }
       ],
-      "duration_ms": 368108,
-      "name": "Sh\u0113nzhou V.",
-      "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
+      "duration_ms": 202104,
+      "name": "Verde",
+      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
     },
     {
       "added_at": "2024-03-21 14:37:58",
@@ -2591,18 +2591,18 @@
     {
       "added_at": "2024-03-21 14:37:58",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+        "name": "The Age of Aquarius",
+        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
       },
       "artists": [
         {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
         }
       ],
-      "duration_ms": 202104,
-      "name": "Verde",
-      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
+      "duration_ms": 368108,
+      "name": "Sh\u0113nzhou V.",
+      "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
     },
     {
       "added_at": "2024-03-21 14:37:58",

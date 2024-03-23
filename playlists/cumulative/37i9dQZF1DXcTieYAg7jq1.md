@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Emmy Meli
 
-386 songs - 22 hr 12 min
+387 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Grow](https://open.spotify.com/track/2EP9mL8wwfq1RJ7oYkndCe) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/2FILCanKdwXZQh4yz9Zvw1) | 3:00 | 2021-12-03 | 2022-10-22 |
 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 | 2021-12-03 | 2023-01-28 |
 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 | 2021-12-03 | 2022-10-13 |
-| [Growing Old With You](https://open.spotify.com/track/3ot60Verr4b8U0NOJYg5r7) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Growing Old With You](https://open.spotify.com/album/6N98frZADil2cpwn8H0tVs) | 2:42 | 2024-03-01 |  |
+| [Growing Old With You](https://open.spotify.com/track/3ot60Verr4b8U0NOJYg5r7) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Growing Old With You](https://open.spotify.com/album/6N98frZADil2cpwn8H0tVs) | 2:42 | 2024-03-01 | 2024-03-23 |
 | [HAPPY FOR YOU](https://open.spotify.com/track/77LUIy19BGRJWjVsXnX7ee) | [RIVER](https://open.spotify.com/artist/4RVtMjhWZC6B9k6PvqorqV) | [HAPPY FOR YOU](https://open.spotify.com/album/1xcp0GpRqjGpgnjRVFjeKW) | 3:06 | 2023-03-03 | 2023-09-02 |
 | [Hard Days Love](https://open.spotify.com/track/4OHWSZO1Y2tfE1i1jkQRcO) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Hard Days Love](https://open.spotify.com/album/7cnKO4UgV9NnJz098ZlG4X) | 3:43 | 2023-01-20 | 2023-09-02 |
 | [Hear Me Now](https://open.spotify.com/track/5cXcykFgbrLw1nwpSYjVJF) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Lucky](https://open.spotify.com/album/7BXf5VfNpYVYHMc4bz0tzo) | 3:44 | 2023-09-01 | 2023-10-07 |
@@ -338,6 +338,7 @@
 | [Sugarcane](https://open.spotify.com/track/7pzoOz4tiF2KA76FNM70ms) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Sugarcane](https://open.spotify.com/album/0NRpX7UAG0LJVkqtx3jFze) | 3:54 | 2021-12-03 | 2022-07-23 |
 | [Summertime](https://open.spotify.com/track/1DEHkieaXEuXm2SumbWQG1) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Summertime](https://open.spotify.com/album/3bzu8rRotavOgVPrQFPmwT) | 4:17 | 2022-04-29 | 2023-02-16 |
 | [Sunblind](https://open.spotify.com/track/1Kpt4G3LsCeKYLqTnRYBio) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/5tXJchExPrWfcj1JwoDeZy) | 4:13 | 2021-12-03 | 2022-09-03 |
+| [Supersonic](https://open.spotify.com/track/1TL8oEjxJqsB6nojBkBUgE) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Scary As Hell But I Love The Thrill](https://open.spotify.com/album/0RALiw4duBKgD7PXZBqzJd) | 2:55 | 2024-03-22 |  |
 | [Supply & Demand](https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 3:16 | 2021-12-03 | 2023-01-28 |
 | [Sweet \- Single Edit](https://open.spotify.com/track/7uYpvX8Gb7CUubdJcRt8E0) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [Sweet](https://open.spotify.com/album/0qDkNJ0azvJj9glUVIku8P) | 2:38 | 2022-07-22 | 2023-02-16 |
 | [Sweet Chamomile](https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Moments in Between](https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S) | 3:28 | 2021-12-03 | 2022-10-01 |

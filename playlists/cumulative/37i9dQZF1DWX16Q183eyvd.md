@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-130 songs - 6 hr 18 min
+132 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Shine Bright](https://open.spotify.com/track/0vky4YTaxSuGlnSPjpWHt1) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P) | [Shine Bright](https://open.spotify.com/album/7xpTudRq1jnZtbsJKaVxsK) | 1:47 | 2024-01-30 |  |
 | [Sloth Song](https://open.spotify.com/track/4sub7oxrLD24rxycmqH3c6) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Sloth Song](https://open.spotify.com/album/1CRGwitVzCfM6ruhkkCUjY) | 2:40 | 2024-03-01 |  |
 | [SUBS](https://open.spotify.com/track/6pwCquNMHo4z4gFJDSPgMd) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [Straight Outta Recess](https://open.spotify.com/album/4Hjyjf2kPHQRQ0GtMaunye) | 2:09 | 2024-02-02 |  |
+| [Syzygy](https://open.spotify.com/track/1LBKOcvDxeoPzsP1hgQB5o) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Eclipse: The Musical](https://open.spotify.com/album/4bLwHgjmfLPcT1jl3zno2L) | 3:16 | 2024-03-22 |  |
 | [Take Me to Jamaica](https://open.spotify.com/track/6iRe9TNNsqheEko10IJGCN) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 3:18 | 2022-02-04 | 2023-11-09 |
 | [Take Me to Jamaica](https://open.spotify.com/track/7cvnmohDKpVp825bUOehLr) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT) | 3:18 | 2022-02-04 | 2022-10-13 |
 | [Take Me To Jamaica \(feat\. Toots Hibbert\)](https://open.spotify.com/track/5AEyhmFToITN1n2Wa2zLHI) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/1OreWX3yJbrIozwosO1ELn) | 3:18 | 2021-11-19 | 2022-07-29 |
@@ -137,6 +138,7 @@
 | [Wonderful People \(feat\. Judah Marley, Gideon Marley & Abraham Marley\)](https://open.spotify.com/track/3xDiCJdE8eRRgx0qUOQphX) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Judah Marley](https://open.spotify.com/artist/5n4DiYhGBepDhn9AJymujP), [Gideon Marley](https://open.spotify.com/artist/7MSRaC4JvsSDJvVxh58N1z), [Abraham Marley](https://open.spotify.com/artist/2RLqd2qmR4DFJvCRaqmQFG) | [More Family Time](https://open.spotify.com/album/4X4l0Ez8pj5bjmFisNs2m1) | 3:47 | 2021-11-19 | 2022-07-29 |
 | [You Are Not Alone](https://open.spotify.com/track/2KgDN89wIbocdgIBXrCi0b) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [You Are Not Alone](https://open.spotify.com/album/6gWplVbzEU4t7v1lEEnJRo) | 3:24 | 2024-01-30 |  |
 | [You Did It](https://open.spotify.com/track/2VXZxXzmjSDCys1rZc0Ri1) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [You Did It](https://open.spotify.com/album/1TRng1CBebIq5Iu8dUNVgp) | 2:26 | 2024-01-30 |  |
+| [Young Dylan Theme Song \- Season 4](https://open.spotify.com/track/6Tn86pGJaJr5kFn9XooZmw) | [Tyler Perry's Young Dylan](https://open.spotify.com/artist/0kvZqeOHqGNMGKFlFAKTbZ) | [Young Dylan Theme Song \(Season 4\)](https://open.spotify.com/album/1HFUHzZNS8a5xQJ9jTjWF6) | 0:31 | 2024-03-22 |  |
 | [You’re It](https://open.spotify.com/track/6NJE6RXJrAI6AqThyrNSul) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [The Perfect Quirk](https://open.spotify.com/album/5swOluAxNHMNIyW95TjSTF) | 2:34 | 2024-01-30 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 
 > 2017 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,599 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,669 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 85 | [Found What I've Been Looking For](https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lighting Matches \(Deluxe\)](https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI) | 3:11 |
 | 86 | [I Dare You](https://open.spotify.com/track/3pAw0BXL8acShtjUwLosw8) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:53 |
 | 87 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 |
-| 88 | [Idle Town](https://open.spotify.com/track/0cXRafInOlc1QH519RXltN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:57 |
-| 89 | [Mythological Beauty](https://open.spotify.com/track/1UGpePwP16ZRiGaVuTVo2O) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 5:06 |
+| 88 | [Mythological Beauty](https://open.spotify.com/track/1UGpePwP16ZRiGaVuTVo2O) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 5:06 |
+| 89 | [Idle Town](https://open.spotify.com/track/0cXRafInOlc1QH519RXltN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:57 |
 | 90 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 |
 | 91 | [anemone](https://open.spotify.com/track/1MD2yGSeBRALkMui1fZ05P) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [fabulist](https://open.spotify.com/album/1vaFEGAj0JSQSM2SlK0B3X) | 3:48 |
 | 92 | [High](https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:51 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 94 | [Oh Devil](https://open.spotify.com/track/1kcfGBb6kSrGqNIMW7rAlB) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Plural](https://open.spotify.com/album/4ncZdrGiO459vrUU1yYCCA) | 3:37 |
 | 95 | [Dreams](https://open.spotify.com/track/14zhqtMI5xHrfCFCLhFcsn) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 5:14 |
 | 96 | [Boyish](https://open.spotify.com/track/4ETQzZdnRJwaoFIPQy3GJv) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 3:33 |
-| 97 | [Shark Smile](https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 3:57 |
-| 98 | [Fangs](https://open.spotify.com/track/6T7xC3rDjOCkMkvcFVdu6Z) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Fangs](https://open.spotify.com/album/1DRoEmmMAuv4AfKFydvUqv) | 3:54 |
+| 97 | [Fangs](https://open.spotify.com/track/6T7xC3rDjOCkMkvcFVdu6Z) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Fangs](https://open.spotify.com/album/1DRoEmmMAuv4AfKFydvUqv) | 3:54 |
+| 98 | [Shark Smile](https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 3:57 |
 | 99 | [Star Roving](https://open.spotify.com/track/7nq6qpHhCJ3pNOa3KHi8fe) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 5:38 |
 | 100 | [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 |
 
-Snapshot ID: `MCw5MWM0ZDk1ZjEzNzhkZTI1ODEyYWZlYTYxNTIxZTRjZjJjYWVjOTMx`
+Snapshot ID: `MCwwNmQ2ZDIwOGVhOGEyZGNjZDU3NmFiNTA0NDgzYWZiYmNiNTNmN2Y0`

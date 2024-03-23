@@ -1,12 +1,12 @@
 {
   "description": "Mientras no dejes de cantar, la playlist no deja de sonar. Peso Pluma y Christian Nodal en portada.",
-  "num_followers": 187317,
+  "num_followers": 187358,
   "original_name": "Karaoke M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTM0NTEwNzc4MmVmNGI2MGJmYzM0MDAwMTRjOWRjODRlMjk2N2Qw",
+  "snapshot_id": "MCxjNGZkMjM3ZGE3ODI1MjM4OTkzODkwOWQ1Yjc0MGQwOWRiMzk1NmMy",
   "tracks": [
     {
       "added_at": "2024-02-12 20:07:40",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-02-12 20:07:40",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+      "duration_ms": 263133,
+      "name": "Por Mujeres Como T\u00fa",
+      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
     },
     {
       "added_at": "2024-02-12 20:07:40",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-02-12 20:07:40",
       "album": {
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2024-02-12 20:07:40",
+      "album": {
         "name": "Afortunado",
         "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 167514,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
-    },
-    {
-      "added_at": "2024-02-12 20:07:40",
-      "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "Por Mujeres Como T\u00fa",
-      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
     },
     {
       "added_at": "2024-02-12 20:07:40",
@@ -2163,26 +2163,6 @@
     {
       "added_at": "2024-02-12 20:07:40",
       "album": {
-        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 185038,
-      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
-    },
-    {
-      "added_at": "2024-02-12 20:07:40",
-      "album": {
         "name": "Se Acabo (En Vivo)",
         "url": "https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR"
       },
@@ -2203,6 +2183,26 @@
       "duration_ms": 230000,
       "name": "Se Acabo - En Vivo",
       "url": "https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd"
+    },
+    {
+      "added_at": "2024-02-12 20:07:40",
+      "album": {
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
       "added_at": "2024-02-12 20:07:40",

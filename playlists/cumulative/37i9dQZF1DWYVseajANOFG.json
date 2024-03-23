@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: JEYSON",
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: BARBEL",
   "name": "Flow Panam\u00e1",
   "tracks": [
     {
@@ -824,7 +824,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 208460,
       "name": "Cero Amigos",
       "url": "https://open.spotify.com/track/015wbdT4JqNRwM49uwT6XF"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 167787,
       "name": "Diablito Perfecto",
       "url": "https://open.spotify.com/track/6s8c53fOWzm49T1FsA7Ipj"
@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 188480,
       "name": "Jamaica",
       "url": "https://open.spotify.com/track/4H7p2aGtZLMlZRKZxBlKN7"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 364000,
       "name": "Jiggiri",
       "url": "https://open.spotify.com/track/0ibWzro5NbGXh8QClXy4da"
@@ -2512,6 +2512,24 @@
       "duration_ms": 198139,
       "name": "La Maco",
       "url": "https://open.spotify.com/track/6vIAesoAJNm0g3mPN8EXpB"
+    },
+    {
+      "album": {
+        "name": "La Mexicana",
+        "url": "https://open.spotify.com/album/25XyXkqIW4W1coLxOTn1k3"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240600,
+      "name": "La Mexicana",
+      "url": "https://open.spotify.com/track/5itg5kaqEcsjzZYzbFs8X5"
     },
     {
       "album": {
@@ -2977,6 +2995,28 @@
     },
     {
       "album": {
+        "name": "Maldita Envidia",
+        "url": "https://open.spotify.com/album/0sE5OR1i9JpxJTr0gqOTtR"
+      },
+      "artists": [
+        {
+          "name": "Armani G",
+          "url": "https://open.spotify.com/artist/4KEqWCkkut3IlKYlQeyVti"
+        },
+        {
+          "name": "VLA Music Entertainment",
+          "url": "https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "Maldita Envidia",
+      "url": "https://open.spotify.com/track/64clTCIU6JkDpu4OaxP5w1"
+    },
+    {
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/7auB5a1OjnQrFgln8Oyzjf"
       },
@@ -3239,6 +3279,32 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2z2HtCAPZfA2saOtyjGe5x"
+      },
+      "artists": [
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        },
+        {
+          "name": "Andiex",
+          "url": "https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY"
+        },
+        {
+          "name": "Tobe Love",
+          "url": "https://open.spotify.com/artist/0ly0DLYQGEwWTIvWwU6Jxs"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353076,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/7d2S9tPnC724PwrDObgEP1"
+    },
+    {
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/7auB5a1OjnQrFgln8Oyzjf"
       },
@@ -3446,7 +3512,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 266788,
       "name": "No Love",
       "url": "https://open.spotify.com/track/4E5hI2hDq4hLFg7m9fCHcJ"
@@ -3542,7 +3608,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 202600,
       "name": "Noche de Teteo",
       "url": "https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN"
@@ -4027,6 +4093,28 @@
     },
     {
       "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/2gbu0bCGsWAB17pK661XJb"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "CRBRO",
+          "url": "https://open.spotify.com/artist/6guLWnvW76oTo4AdSIMBFe"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144466,
+      "name": "PLAY",
+      "url": "https://open.spotify.com/track/6SvstSpXKqUTQ8aVjoVxjx"
+    },
+    {
+      "album": {
         "name": "Polvo Sano",
         "url": "https://open.spotify.com/album/6PglDLsz2x1oOmD9xNMPuS"
       },
@@ -4412,6 +4500,28 @@
       "duration_ms": 170633,
       "name": "Ronaldo Naz\u00e1rio",
       "url": "https://open.spotify.com/track/4EMTyrQGUFpsjiQSEw5NuZ"
+    },
+    {
+      "album": {
+        "name": "ROTO",
+        "url": "https://open.spotify.com/album/3ameNWRglFr0H8QctZrhSZ"
+      },
+      "artists": [
+        {
+          "name": "Los Rakas",
+          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
+        },
+        {
+          "name": "Brooklyn",
+          "url": "https://open.spotify.com/artist/5vW3Qrk5NG9B26zSYnDjSQ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167703,
+      "name": "ROTO",
+      "url": "https://open.spotify.com/track/4qX6wVJJpIOhAoW1HwZuBB"
     },
     {
       "album": {
@@ -4940,6 +5050,28 @@
       "duration_ms": 168149,
       "name": "Talism\u00e1n",
       "url": "https://open.spotify.com/track/2ELUxG0k6Gr6dr5IF1StWY"
+    },
+    {
+      "album": {
+        "name": "Te Quem\u00e9",
+        "url": "https://open.spotify.com/album/6KnQYheOniuhIInRKXedSq"
+      },
+      "artists": [
+        {
+          "name": "Nomad",
+          "url": "https://open.spotify.com/artist/04SfRkZuVH053pkLLcP64q"
+        },
+        {
+          "name": "T.O.T",
+          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161946,
+      "name": "Te Quem\u00e9",
+      "url": "https://open.spotify.com/track/6nAsRFdMzehYZqkLkXPeCH"
     },
     {
       "album": {

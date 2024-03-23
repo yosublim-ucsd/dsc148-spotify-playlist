@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Monsieur MÂLÂ
 
-502 songs - 1 day 12 hr 11 min
+503 songs - 1 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,8 @@
 | [Legacy](https://open.spotify.com/track/06PsxVo9cUtgP97EjxFUs7) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7), [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC), [Antoine Berjeaut](https://open.spotify.com/artist/0xkHhnHO6QHTFUUrJpHM2G) | [Legacy](https://open.spotify.com/album/4hYJP6VSDvVktdcZRq2mtx) | 4:29 | 2023-01-05 | 2023-04-07 |
 | [Les Invisibles Part 2](https://open.spotify.com/track/7AlhYT03kRkweZINvY8hQ8) | [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Leonardo Montana](https://open.spotify.com/artist/3gDlpPLEXHWNlCZ3CO0Sx7) | [Les Invisibles Part 2](https://open.spotify.com/album/206p3aNz4hcQPHgyBuUxCi) | 3:29 | 2024-03-21 |  |
 | [Let It Ride \(with Robert Glasper\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/1Aflfm3OTl13XvFjvclJtR) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Let It Ride \(with Robert Glasper\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/4C3DMnehzEcys0OYqOuH1G) | 5:55 | 2023-04-13 | 2023-05-26 |
-| [Liberation](https://open.spotify.com/track/1gZe7qEONCZdRFn2A7UhdJ) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [Liberation](https://open.spotify.com/album/0VzsYDmj3gbUrc9u0BYsRo) | 5:14 | 2024-03-21 |  |
+| [Liberation](https://open.spotify.com/track/1gZe7qEONCZdRFn2A7UhdJ) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [Liberation](https://open.spotify.com/album/0VzsYDmj3gbUrc9u0BYsRo) | 5:14 | 2024-03-21 | 2024-03-23 |
+| [Liberation](https://open.spotify.com/track/5SzCMMK5oo6PoiCSiii328) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [Liberation](https://open.spotify.com/album/4FV6Mo4LSbN4YX6TSi8shV) | 5:14 | 2024-03-21 |  |
 | [Lights Away from Home](https://open.spotify.com/track/1MddW2SVQk0AklDHArtN3v) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [Lights Away from Home](https://open.spotify.com/album/3kGTTuz6VveX3AibqUxsHJ) | 4:51 | 2023-03-23 | 2023-07-14 |
 | [Lights Out](https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Lights Out](https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf) | 4:01 | 2024-02-08 |  |
 | [Lil Birdie](https://open.spotify.com/track/3ZlM3jTgrfTYp7AlASBJm4) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Shades of Yesterday](https://open.spotify.com/album/1IcqyDz4QNFHVipsoYcArU) | 3:55 | 2024-03-07 |  |

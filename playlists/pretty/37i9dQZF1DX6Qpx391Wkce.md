@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,406 likes - 66 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,437 likes - 66 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 19 | [Universal Nation \- Charlotte de Witte Rework](https://open.spotify.com/track/4OrY514bfwTTtykP7s049a) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 7:32 |
 | 20 | [Body Ride](https://open.spotify.com/track/2uCf8ZlSMQhMAzwYedTaMK) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Body Ride / Demon](https://open.spotify.com/album/26TXuVlmcTZRN1qcuFZTsV) | 5:38 |
 | 21 | [Ascesis](https://open.spotify.com/track/6ww44Zlk1tfrcVGgS7Rafm) | [K.A.L.I.L.](https://open.spotify.com/artist/6im40CIcqEb9GVJ7Mg4nbT) | [Systolic](https://open.spotify.com/album/6IPZXA2MK2AaoYRuQR45I6) | 3:42 |
-| 22 | [Heavy Mental](https://open.spotify.com/track/7xC3QWFXihruSUAGg0yV2p) | [Balthazar & JackRock](https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA) | [Heavy Mental](https://open.spotify.com/album/5iRDtxcELPkiRILjzO2wJz) | 6:15 |
+| 22 | [Heavy Mental](https://open.spotify.com/track/5WVBKX7vgFzJBGJL0OynIs) | [Balthazar & JackRock](https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA) | [Heavy Mental](https://open.spotify.com/album/0RYoOBzv9RPVv6PW5YlKuG) | 6:15 |
 | 23 | [Mirazh](https://open.spotify.com/track/2lIifZIxqYF0lOuBnqJ5qH) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Mirazh](https://open.spotify.com/album/1VYbRdW8QFMRuaLsmf0H1A) | 3:25 |
 | 24 | [Love Is Not Infinite](https://open.spotify.com/track/0rZhv9cHSqobOyLpEa2czn) | [Ignacio Arfeli](https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp) | [Salvation](https://open.spotify.com/album/2Q2Ht874IgNK0pyxgoU5Wr) | 4:35 |
 | 25 | [Goliath](https://open.spotify.com/track/4APrFO2JX1Rs1UAFeScbKQ) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC) | [Quiet Distortion](https://open.spotify.com/album/2DDFVyjV6IE1EjLjiQaJnz) | 7:26 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 65 | [Space Cowboys \- Deetron Remix](https://open.spotify.com/track/4wWAcfa5LCyz9YXlOnJLrq) | [Fabio Vanore](https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs), [Bellville](https://open.spotify.com/artist/3R70yaBEmHf0VbsxY3uVih), [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Incroyable Music \- Cabin in the Woods \(Remixes\)](https://open.spotify.com/album/2OTRW5teR3iq6DMMbnj0O5) | 9:03 |
 | 66 | [Changes of Perception](https://open.spotify.com/track/6yPT4MX0RPW1dPD902Qmh7) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Changes of Perception](https://open.spotify.com/album/4qK1ZMi8iC96BK60iIEPiY) | 7:25 |
 
-Snapshot ID: `MCxjYzBmYTU0YTZhNTlmNDhmOTc3NmFkZjAzODRkYWNiMTYzMGQwNmM2`
+Snapshot ID: `MCxkMGNhNDk5ZmYyOTIzOTcyZDViM2IzY2I3ZDYyZjI3ZjgwM2Y2NDll`

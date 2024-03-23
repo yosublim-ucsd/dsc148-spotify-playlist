@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Moment Like This](https://open.spotify.com/track/4kvdX9zzsix7jYHsRVkVUH) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Thankful](https://open.spotify.com/album/5ErgI599IvfYniy0UWVGBN) | 3:48 | 2021-02-10 | 2024-02-15 |
+| [A Moment Like This](https://open.spotify.com/track/4kvdX9zzsix7jYHsRVkVUH) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Thankful](https://open.spotify.com/album/5ErgI599IvfYniy0UWVGBN) | 3:48 | 2021-02-10 |  |
 | [Again](https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Again](https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs) | 3:51 | 2021-02-10 |  |
 | [All or Nothing](https://open.spotify.com/track/1TBIHWmr1r34J2s0eSfA7U) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town](https://open.spotify.com/album/2yWrBg2LjW4oPnCRQrJJLV) | 4:41 | 2021-02-10 | 2022-11-13 |
 | [All You Wanted](https://open.spotify.com/track/0kr6d8wHDQPlzuET33NVn6) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 3:37 | 2021-02-10 |  |
@@ -51,7 +51,7 @@
 | [Footprints in the Sand](https://open.spotify.com/track/4QOJF00kfJNF5qqM4U669Z) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:07 | 2021-02-10 | 2023-05-04 |
 | [Gone](https://open.spotify.com/track/4CCUjYJPbSXLL23BFeBVbI) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg) | 4:52 | 2021-02-10 |  |
 | [Gone](https://open.spotify.com/track/5efcmnfzIROJ5Aj7EGSDm8) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7gfXFkA259SkaFeJxSFtKE) | 4:52 | 2021-02-10 | 2022-07-29 |
-| [Goodbye to You](https://open.spotify.com/track/6NSJOIyKYcRZh28Kf0URTw) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 4:11 | 2021-02-10 |  |
+| [Goodbye to You](https://open.spotify.com/track/6NSJOIyKYcRZh28Kf0URTw) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 4:11 | 2021-02-10 | 2024-03-23 |
 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 | 2021-02-10 |  |
 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 | 2021-02-10 |  |
 | [Halo](https://open.spotify.com/track/3CXZukNyVJUjLUYGA88F0a) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/1mLK9n3KBlgsRgPX3nlSwf) | 4:21 | 2021-02-10 | 2022-07-29 |

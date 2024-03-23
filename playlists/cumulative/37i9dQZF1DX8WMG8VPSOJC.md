@@ -4,7 +4,7 @@
 
 > Nothing but beautiful country love songs.
 
-199 songs - 11 hr 11 min
+200 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Get Away With It](https://open.spotify.com/track/04MGLTCteglQCoDmopDqtv) | [Lacy Cavalier](https://open.spotify.com/artist/0JoKhMFAxTx3WeYAJaYvAa) | [Get Away With It](https://open.spotify.com/album/1KS3miRPc1wyQegMYvSrDJ) | 2:47 | 2021-07-20 | 2022-01-24 |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-07-20 |  |
 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 | 2024-01-08 |  |
+| [Gonna Love You](https://open.spotify.com/track/4k8ozY5BjfGGvICHka5DfI) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You 2](https://open.spotify.com/album/2A35FaFPGRANYw0vh0ctRk) | 2:58 | 2024-03-22 |  |
 | [Got What I Got](https://open.spotify.com/track/4TCc369aRPRubv1m8R1TBG) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [9](https://open.spotify.com/album/2f0DzdU6QbWtZqSlN7s1s5) | 2:58 | 2021-07-20 | 2023-01-28 |
 | [Greatest Love Story](https://open.spotify.com/track/2yQZwi1P8AkkxxFhQ8rMEK) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Hallelujah Nights](https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90) | 3:42 | 2021-07-20 |  |
 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-02-18 |  |
@@ -100,7 +101,7 @@
 | [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 | 2022-06-17 |  |
 | [Love Is Real](https://open.spotify.com/track/3QHoAWfAasn6X4AFzkppRF) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Love Is Real](https://open.spotify.com/album/2quOjTl1RX60hfzcG3NACN) | 2:42 | 2021-07-22 | 2022-07-29 |
 | [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 | 2023-02-10 |  |
-| [Love You Like I Used To](https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Love You Like I Used To](https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq) | 3:06 | 2021-07-20 |  |
+| [Love You Like I Used To](https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Love You Like I Used To](https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq) | 3:06 | 2021-07-20 | 2024-03-23 |
 | [Love, Me](https://open.spotify.com/track/3aKAdHDxhYu2gpbQMYSEkv) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [Love Songs](https://open.spotify.com/album/51cpglyLFyspqTWeCGa38u) | 3:51 | 2021-07-20 | 2022-07-29 |
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2021-07-20 |  |
 | [Make Me Want To](https://open.spotify.com/track/0AYbVoeF03NYhM0fvKjAuU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 2:52 | 2022-06-17 | 2023-11-04 |

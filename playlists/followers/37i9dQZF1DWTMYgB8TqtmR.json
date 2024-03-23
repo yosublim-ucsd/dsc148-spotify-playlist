@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 880347,
+  "2024-03-23": 880474,
   "date_first_scraped": "2021-12-21",
   "description": "It's Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
   "name": "It's Hits Sweden",
@@ -395,7 +395,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 231338,
       "name": "act ii: date @ 8 (feat. Drake) - remix",
       "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
@@ -3302,6 +3302,24 @@
     },
     {
       "album": {
+        "name": "In Memory Of Some Stand Up Guys (Private Collection)",
+        "url": "https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135172,
+      "name": "D\u00f6r F\u00f6r Dig - Acoustic",
+      "url": "https://open.spotify.com/track/7kfiCNYua949ue8oF997cA"
+    },
+    {
+      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
       },
@@ -3371,6 +3389,24 @@
       "duration_ms": 179460,
       "name": "Eld & l\u00e5gor",
       "url": "https://open.spotify.com/track/3cWGxWprivxBEEDLzi28rP"
+    },
+    {
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/0p1JV81BhYbX8dQWuQVmvE"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172536,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/2T0dh7hiBM73mEFwUGSqMQ"
     },
     {
       "album": {
@@ -4371,7 +4407,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 186449,
       "name": "Genom Eld & Vatten - Spotify Singles",
       "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
@@ -4787,7 +4823,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 142448,
       "name": "G\u00c5RDSB\u00d6G",
       "url": "https://open.spotify.com/track/15bpfAQPFdJqu13tPruMTI"
@@ -5023,6 +5059,24 @@
       "duration_ms": 214071,
       "name": "Heaven Takes You Home (feat. Connie Constance)",
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
+    },
+    {
+      "album": {
+        "name": "hejhejd\u00e5",
+        "url": "https://open.spotify.com/album/33VuLAoQ9pfnD9zAKiqpd0"
+      },
+      "artists": [
+        {
+          "name": "TUVA",
+          "url": "https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172915,
+      "name": "hejhejd\u00e5",
+      "url": "https://open.spotify.com/track/7bE0VqZMz2Z2GolmkYP2Fp"
     },
     {
       "album": {
@@ -5460,6 +5514,24 @@
     },
     {
       "album": {
+        "name": "H\u00e5lla mig",
+        "url": "https://open.spotify.com/album/5Dv5FqFIMGsPaRwGuLhgQa"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186162,
+      "name": "H\u00e5lla mig",
+      "url": "https://open.spotify.com/track/2FImFbdIGJEnlftYDmwU6f"
+    },
+    {
+      "album": {
         "name": "H\u00e5ller In H\u00e5ller Ut",
         "url": "https://open.spotify.com/album/5NrmgPRZrDB6UsLvPoVysJ"
       },
@@ -5594,6 +5666,24 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -5649,7 +5739,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -7179,7 +7269,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 192631,
       "name": "L\u00e5nga V\u00e4gen Hem",
       "url": "https://open.spotify.com/track/5LGG9YM4YPhmVvuom6T5QY"
@@ -8217,6 +8307,24 @@
       "duration_ms": 213473,
       "name": "N\u00e5t i vattnet",
       "url": "https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa"
+    },
+    {
+      "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170541,
+      "name": "obsessed",
+      "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
     },
     {
       "album": {
@@ -9635,7 +9743,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 230000,
       "name": "Samurai Swords",
       "url": "https://open.spotify.com/track/02Ixue9YkjgvPD3TAQFvP1"
@@ -10272,6 +10380,24 @@
     },
     {
       "album": {
+        "name": "Slow It Down",
+        "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161831,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
+    },
+    {
+      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
       },
@@ -10621,7 +10747,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 203520,
       "name": "SOVA",
       "url": "https://open.spotify.com/track/3p0WsdmgVU2ZNIufdYFBDt"
@@ -12492,6 +12618,28 @@
     },
     {
       "album": {
+        "name": "VEM FAN E DU?",
+        "url": "https://open.spotify.com/album/0BWAxu1c9xgq4z4BvhsXUT"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        },
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "VEM FAN E DU?",
+      "url": "https://open.spotify.com/track/4BliCq54T5TbxmaLdXJGEK"
+    },
+    {
+      "album": {
         "name": "Vet Hon Om?",
         "url": "https://open.spotify.com/album/0a4tSc39xsFYlKIY1XBB9K"
       },
@@ -13307,7 +13455,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"

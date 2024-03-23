@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,004 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,037 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 34 | [Herida de Guerra](https://open.spotify.com/track/5KoHwSm2KNjjm1O26hIjby) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora Que Se Ha Ido el Sol](https://open.spotify.com/album/1oh9N9kZ3JeJXdyJ8iCVFb) | 4:00 |
 | 35 | [Las Drogas](https://open.spotify.com/track/5FEew7u4cqGOYK4jGhKd73) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Un, Dos, Tres, Fuego](https://open.spotify.com/album/0r9tLzqnnPw9CcK9pb6056) | 2:22 |
 | 36 | [Bad Religión](https://open.spotify.com/track/0jBZw8EyAsqnt5o4jHExRG) | [The Kagas](https://open.spotify.com/artist/25TQ86q5TLjD8MR099s51q), [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Nuevos Héroes del Rock](https://open.spotify.com/album/6pTO78gcvYctJTIBU2pvZ4) | 2:59 |
-| 37 | [Loko Kuerdo](https://open.spotify.com/track/5NWWzmogzsKzCqtCSKO0cL) | [Txapelpunk](https://open.spotify.com/artist/1zOX25BGYZ4nt7XcACV3jG) | [¡Vaya Full!](https://open.spotify.com/album/0Jy2KdVM6PIaMtl9tLYCVw) | 2:14 |
-| 38 | [Por Lo Visto](https://open.spotify.com/track/0UDHol0olHHNPJVOtPs9rT) | [Envidia Kotxina](https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU) | [Cuando las Bocas Comen Silencio](https://open.spotify.com/album/501pjNhzQYeXfVJfkdRnL9) | 3:14 |
+| 37 | [Por Lo Visto](https://open.spotify.com/track/0UDHol0olHHNPJVOtPs9rT) | [Envidia Kotxina](https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU) | [Cuando las Bocas Comen Silencio](https://open.spotify.com/album/501pjNhzQYeXfVJfkdRnL9) | 3:14 |
+| 38 | [Loko Kuerdo](https://open.spotify.com/track/5NWWzmogzsKzCqtCSKO0cL) | [Txapelpunk](https://open.spotify.com/artist/1zOX25BGYZ4nt7XcACV3jG) | [¡Vaya Full!](https://open.spotify.com/album/0Jy2KdVM6PIaMtl9tLYCVw) | 2:14 |
 | 39 | [Preso 2023](https://open.spotify.com/track/6gnqolg2ERx8i5GAGlYb0w) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Raska Y Pierde](https://open.spotify.com/album/3hYROJXYVEmFZrDJEYAqmH) | 3:30 |
 | 40 | [Ante la Muerte](https://open.spotify.com/track/05bsH5Fb8aCb5gOdDLwj3b) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Suburbiales](https://open.spotify.com/album/6Iujfr9lJkl5hj9yk8XT4A) | 3:20 |
 | 41 | [La Última Patada](https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Siglo XXI](https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy) | 3:12 |
 | 42 | [Criatura](https://open.spotify.com/track/4lpFfUzN3Tss3XrtCj3Gc9) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 2:39 |
 | 43 | [Enamorado de la Muerte](https://open.spotify.com/track/4o4Za92dG4itin0vLzLgyc) | [RIP](https://open.spotify.com/artist/4P40mhKEotTwKd3cFNtwG4) | [No Te Muevas y Zona Especial Norte](https://open.spotify.com/album/3E9M7ZsG1OePw7cN6KT9ZB) | 3:49 |
-| 44 | [Pablo Echenique](https://open.spotify.com/track/2gl4Y3raioEWKhXUDALSZP) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Mucho Asco \(Casi\) Todo](https://open.spotify.com/album/3xnkw4YKqJzJpTnPPoP7Af) | 1:34 |
-| 45 | [Lola](https://open.spotify.com/track/150HpH0TzhcVwKASywBPs5) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [4 Años, 2 Meses y 1 Día](https://open.spotify.com/album/5MbsgT9tlRbyZEMZzFS2y1) | 3:40 |
+| 44 | [Lola](https://open.spotify.com/track/150HpH0TzhcVwKASywBPs5) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [4 Años, 2 Meses y 1 Día](https://open.spotify.com/album/5MbsgT9tlRbyZEMZzFS2y1) | 3:40 |
+| 45 | [Pablo Echenique](https://open.spotify.com/track/2gl4Y3raioEWKhXUDALSZP) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Mucho Asco \(Casi\) Todo](https://open.spotify.com/album/3xnkw4YKqJzJpTnPPoP7Af) | 1:34 |
 | 46 | [Historia triste](https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Impuesto Revolucionario](https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm) | 3:07 |
 | 47 | [Nunca Pasa Nada](https://open.spotify.com/track/2OxMzKMrwoaEJvK70oFLgj) | [Porco Bravo](https://open.spotify.com/artist/7lVNBntG3I8zoUlzYCGFBc) | [Porco Bravo](https://open.spotify.com/album/18fU6efhpawi8Egj1pNB9P) | 2:57 |
 | 48 | [Don Vito y la Revuelta en el Frenopático](https://open.spotify.com/track/4EBFU2ujZgudwRUsi588jo) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 1:52 |
@@ -72,14 +72,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 62 | [Mucha Policía, Poca Diversión](https://open.spotify.com/track/75sT5MajoXIj5uviuKaAmF) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Eskizofrenia](https://open.spotify.com/album/1ASN9C5KKT8pbqH7KxVH2l) | 1:33 |
 | 63 | [Tenemos a la Pasma](https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Cicatriz en la Matrix](https://open.spotify.com/album/51o67b23wyqqkYGN738zMG) | 1:58 |
 | 64 | [Somos Revolución](https://open.spotify.com/track/0B9vyHN45CnhRShpNOx5Bq) | [AlaDeMoska](https://open.spotify.com/artist/1ekttoTgjC4AhaG3r4eaMT) | [Revolución](https://open.spotify.com/album/4puu04REkxY8b9E3OXfNyo) | 4:07 |
-| 65 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 |
-| 66 | [Amanece](https://open.spotify.com/track/1i42C3sUtHwILtTleKkZVt) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2yFrNo9J8Gzp2RVefAP67B) | 3:32 |
+| 65 | [Amanece](https://open.spotify.com/track/1i42C3sUtHwILtTleKkZVt) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2yFrNo9J8Gzp2RVefAP67B) | 3:32 |
+| 66 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 |
 | 67 | [La Bandera de la Libertad](https://open.spotify.com/track/2CIt4yfEZhOdPszvm2DjpW) | [Banda Jachís](https://open.spotify.com/artist/4SmWLsvGKAetIfP8PgKrPc) | [Intereses Creados](https://open.spotify.com/album/3BLJYjL2IK4xCrvdHS1rsY) | 2:22 |
 | 68 | [La Historia se Repite](https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [La Historia se Repite](https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg) | 2:10 |
 | 69 | [Gernika](https://open.spotify.com/track/5lYKFpHNu0myBwgbmilIfY) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1Z9cvtUbSrXQUuJDO4AglG) | 3:47 |
 | 70 | [Escupe](https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:27 |
-| 71 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
-| 72 | [Prefiero Caminar](https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B) | [Disidencia](https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht) | [Bienvenidos a Occidente](https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY) | 4:14 |
+| 71 | [Prefiero Caminar](https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B) | [Disidencia](https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht) | [Bienvenidos a Occidente](https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY) | 4:14 |
+| 72 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
 | 73 | [Nos Engañan](https://open.spotify.com/track/0l55TBWYpX12SZ0hWS0Vch) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [No Hay Opción](https://open.spotify.com/album/7ndpOGCY0VD7psI6RWg47M) | 3:06 |
 | 74 | [Ja, Ja, Ja](https://open.spotify.com/track/0QVrkmPehChchi52biyo8w) | [The Meas](https://open.spotify.com/artist/3r5PC1XHrMZP8h4thSBP3c) | [Buscándose la Vida](https://open.spotify.com/album/50X2yfnVjoqHP9jpj5Hztj) | 2:48 |
 | 75 | [Anda y Que Te Den](https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Anda y Que Te Den](https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2) | 3:44 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 89 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 |
 | 90 | [Reino Sin Futuro](https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Reino Sin Futuro](https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ) | 3:12 |
 
-Snapshot ID: `MCxhNWFlNzg0NWIwODgzNmYwYWFlNzJhOGUyMWNlNmFjMmU4OTYxNDgw`
+Snapshot ID: `MCwyOGIxYjA1MTBiZWUzOGM1YTJkNzkxZTRhMTA1NzlkYTY3Mzk3YjQw`

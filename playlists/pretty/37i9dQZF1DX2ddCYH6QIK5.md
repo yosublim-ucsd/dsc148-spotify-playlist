@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: BILLOTIN, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,553 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,562 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 53 | [Spiegel](https://open.spotify.com/track/3fBtHpo38El3GynEYL9XTZ) | [KALI](https://open.spotify.com/artist/5PlFhS4NdGRt9h54pA3tww) | [Spiegel](https://open.spotify.com/album/1M9NUGVfRXJoZKlRv1KpZ6) | 2:39 |
 | 54 | [Bass](https://open.spotify.com/track/0kYjqTPwPzAnKXNagghtk0) | [amyn](https://open.spotify.com/artist/53TQQsw44qtbZvBDIiHwVG) | [Bass](https://open.spotify.com/album/2n4NiwDWFO7lv2xvxr6MCN) | 1:30 |
 | 55 | [Another Dirtbag](https://open.spotify.com/track/1byYnG0KoBJI5FvU7EHdVd) | [Bonheur](https://open.spotify.com/artist/7sotWiVs7bcM5YHhlvulNL) | [Another Dirtbag](https://open.spotify.com/album/00EhwE0OE8zEs43Oo5HkOS) | 3:55 |
-| 56 | [Still Waiting For My Name In The Credits](https://open.spotify.com/track/4NZb3JixjqNx1dg2JqioMO) | [Jenobi](https://open.spotify.com/artist/0UC1sYxlc37tOJ8pKo9P4i) | [Still Waiting For My Name In The Credits](https://open.spotify.com/album/70CLDBQb0Z4DnNePn9VQHM) | 3:14 |
+| 56 | [Still Waiting for My Name in the Credits](https://open.spotify.com/track/4NZb3JixjqNx1dg2JqioMO) | [Jenobi](https://open.spotify.com/artist/0UC1sYxlc37tOJ8pKo9P4i) | [Still Waiting for My Name in the Credits](https://open.spotify.com/album/70CLDBQb0Z4DnNePn9VQHM) | 3:14 |
 | 57 | [Traveller](https://open.spotify.com/track/4EW7dVVnUTiC4Xkebko4ko) | [mamari](https://open.spotify.com/artist/6XakLqegVbnu9xeY7vz7NM) | [Traveller](https://open.spotify.com/album/60lNNwEj7Y4vytTNHQsezm) | 4:47 |
 | 58 | [Crush](https://open.spotify.com/track/7gY3CDLjByjqUpHYZnbVVB) | [SUZé](https://open.spotify.com/artist/0gqgQYlI6dpyIVmOLDemGQ) | [Crush](https://open.spotify.com/album/6U7GsO6rUA6WMIzTuEnV2x) | 7:03 |
 | 59 | [Brenn Mich Aus](https://open.spotify.com/track/01bV2KkMJZw5MzAP0QDTy5) | [WOHINN](https://open.spotify.com/artist/7BW1zR1tn0viUXcb8hsQk6) | [Brenn Mich Aus](https://open.spotify.com/album/57RzGLeYSgPjHaINGjctlQ) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Break Out](https://open.spotify.com/track/29ETQvPyGSeizcUdE26cx0) | [Joanna Gemma Auguri](https://open.spotify.com/artist/04qhW1IJs6oYxo9kHxBPnP) | [Break Out](https://open.spotify.com/album/09m15y9GoYY3R2cPizcZJ5) | 4:16 |
 | 80 | [Weit weg](https://open.spotify.com/track/45GQBrjltJYKPUC3MVJBf0) | [Ludwig](https://open.spotify.com/artist/7gFR5bwKA6nfOTHSDAmMkI) | [Weit weg](https://open.spotify.com/album/0pO9Zg29MigzuwVyX7fV1a) | 2:23 |
 
-Snapshot ID: `MCw2OThiNzZkMzg3YjFmNmMwODRhYmY0NzA5NzA2NTM3NzA0YTc1MDkw`
+Snapshot ID: `MCw3MDE2ZjRkOGVkOTg0NmE5MzU0ZjY1ZWQ2ZjVhNTZmYmI1NDkyYmRm`

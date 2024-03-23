@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,323 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,366 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 65 | [Flores Negras \- Fichas Negras](https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A) | [La Billo](https://open.spotify.com/artist/19ctQy7OHWSuGAko9eMUTR), [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Las 2 Grandes Orquestas de Venezuela](https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0) | 4:07 |
 | 66 | [Contigo](https://open.spotify.com/track/0qfpxZwicnDx86tuuWxyNX) | [Los Embajadores](https://open.spotify.com/artist/2EaQjDG7awZDbOx79mN35a) | [Los 100 Mejores Boleros, Vol\. 3](https://open.spotify.com/album/77nPejHN04qkgkISjyX8Nf) | 2:47 |
 | 67 | [Somos Novios](https://open.spotify.com/track/58Q3mAOtrZdSbwAu9i92j2) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Serie 20 Exitos](https://open.spotify.com/album/2gwE57HQYUocdi8JvqYiIO) | 2:35 |
-| 68 | [Cancionero](https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [La Coleccion Del Siglo](https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT) | 2:06 |
-| 69 | [Soy Lo Prohibido](https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [16 Exitos De Oro](https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk) | 3:06 |
+| 68 | [Soy Lo Prohibido](https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [16 Exitos De Oro](https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk) | 3:06 |
+| 69 | [Cancionero](https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [La Coleccion Del Siglo](https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT) | 2:06 |
 | 70 | [Mira Que Eres Linda](https://open.spotify.com/track/3QMnlOZnTJtoJwyizN832A) | [Roberto Ledesma](https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY) | [El Estilo de Roberto Ledesma](https://open.spotify.com/album/2cW8xEyy96yugn4JzlSsBM) | 2:54 |
 | 71 | [En Mi Viejo San Juan](https://open.spotify.com/track/60fBitJmPKw266klMQ9hvm) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record Vol\. 2](https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf) | 3:08 |
 | 72 | [El Reloj](https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Dos Leyendas del Bolero](https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk) | 2:57 |
 | 73 | [Donde Encontraras](https://open.spotify.com/track/1dMK5yoypaN0cr3aW5xJqz) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [La Serenata de los Enamorados](https://open.spotify.com/album/0ccaSPcFOccacjj9EVgJNx) | 3:22 |
-| 74 | [Siempre en Mi Corazón \(2019 \- Remaster\)](https://open.spotify.com/track/1kFRo0Pi2hPaxCxBme55Sl) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\) \(2019 Remaster\)](https://open.spotify.com/album/2u9pOUyXvLInVwya0I4hcJ) | 3:39 |
-| 75 | [Cuando Ya No Me Quieras](https://open.spotify.com/track/1RfB1vZYB2mi6RSSwgMU6c) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS), [La Rondalla Venezolano](https://open.spotify.com/artist/11GKNHRvLhiNRKFGf8Rvk9) | [Eternamente](https://open.spotify.com/album/5DyJdvitTIEd4ncxUL0XHQ) | 3:03 |
+| 74 | [Cuando Ya No Me Quieras](https://open.spotify.com/track/1RfB1vZYB2mi6RSSwgMU6c) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS), [La Rondalla Venezolano](https://open.spotify.com/artist/11GKNHRvLhiNRKFGf8Rvk9) | [Eternamente](https://open.spotify.com/album/5DyJdvitTIEd4ncxUL0XHQ) | 3:03 |
+| 75 | [Amor Mío / Sabrá Dios / Sabor a Mi](https://open.spotify.com/track/1lS7wZgXsADesTLXgWfm3b) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [Los Exitos de Alvaro Carrillo](https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y) | 4:40 |
 
-Snapshot ID: `MCxkZmM5ZDZkYTA3Y2U2ZTk3ODkxZDhiMzgyOGI0MTY4NDBmOWYwYThi`
+Snapshot ID: `MCwxNzQyNWZlZjBiZTYwOWNkYzM0NGZkNmZiNDY1YzI3YTk4MDU4MTEz`

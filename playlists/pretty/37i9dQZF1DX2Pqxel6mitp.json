@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 82451,
+  "num_followers": 82495,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGY0MTA2Nzc1YjdhY2QyMzdhMGEyNjBmNTY1Yzg1N2QzNmE0YWRi",
+  "snapshot_id": "MCw1YzkzYWQwNGJkYzQwY2MwYmVlNzcxOGJmNjEyMDE5YjU2MGUzMDFi",
   "tracks": [
     {
       "added_at": "2023-11-24 19:23:20",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "The Devil Dancing",
-        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226324,
-      "name": "Danger and Dread",
-      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 226373,
       "name": "Hey Hey - Acoustic Live",
       "url": "https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "The Devil Dancing",
+        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Danger and Dread",
+      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Presenting Arthur \"Big Boy\" Crudup",
-        "url": "https://open.spotify.com/album/5XXzD0S8cAExlk8AQkBERQ"
-      },
-      "artists": [
-        {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
-        }
-      ],
-      "duration_ms": 144613,
-      "name": "That's All Right",
-      "url": "https://open.spotify.com/track/4ejf5eNPwEMjmN92vgArBz"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Brownie McGhee and Sonny Terry Sing",
         "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 184000,
       "name": "Better Day",
       "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Presenting Arthur \"Big Boy\" Crudup",
+        "url": "https://open.spotify.com/album/5XXzD0S8cAExlk8AQkBERQ"
+      },
+      "artists": [
+        {
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+        }
+      ],
+      "duration_ms": 144613,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/4ejf5eNPwEMjmN92vgArBz"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Blues & Gospel (Rare & Unreleased Recordings)",
+        "url": "https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi"
+      },
+      "artists": [
+        {
+          "name": "Jo Ann Kelly",
+          "url": "https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG"
+        }
+      ],
+      "duration_ms": 216186,
+      "name": "Someday Baby Blues",
+      "url": "https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "The Future Ain't What It Used to Be",
         "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 181546,
       "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
       "url": "https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Blues & Gospel (Rare & Unreleased Recordings)",
-        "url": "https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi"
-      },
-      "artists": [
-        {
-          "name": "Jo Ann Kelly",
-          "url": "https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG"
-        }
-      ],
-      "duration_ms": 216186,
-      "name": "Someday Baby Blues",
-      "url": "https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Otis Spann Is The Blues (Remastered)",
-        "url": "https://open.spotify.com/album/5C85Qbmifxkrb5aPfAMZq2"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "Take A Little Walk With Me - Remastered",
-      "url": "https://open.spotify.com/track/6BW7rDbeWvsz7v6kVFvEay"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Devil Got My Woman",
         "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 315000,
       "name": "Devil Got My Woman",
       "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Otis Spann Is The Blues (Remastered)",
+        "url": "https://open.spotify.com/album/5C85Qbmifxkrb5aPfAMZq2"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "Take A Little Walk With Me - Remastered",
+      "url": "https://open.spotify.com/track/6BW7rDbeWvsz7v6kVFvEay"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "Tough Times",
-      "url": "https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "In Too Deep",
         "url": "https://open.spotify.com/album/4UsUWtLQqW0QyGFBKgddue"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 183896,
       "name": "Please Take My Hand",
       "url": "https://open.spotify.com/track/4b5MhQ12ztQKOIPoyESfR3"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "Tough Times",
+      "url": "https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1755,18 +1755,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Mystery Man",
-        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
       "artists": [
         {
-          "name": "Leon Redbone",
-          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        },
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
         }
       ],
-      "duration_ms": 291295,
-      "name": "T.B. Blues",
-      "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"
+      "duration_ms": 188306,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1807,6 +1811,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Mystery Man",
+        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
+      },
+      "artists": [
+        {
+          "name": "Leon Redbone",
+          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
+        }
+      ],
+      "duration_ms": 291295,
+      "name": "T.B. Blues",
+      "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "High Flying Bird",
         "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
       },
@@ -1819,26 +1839,6 @@
       "duration_ms": 159360,
       "name": "Blues Chase up a Rabbit",
       "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        },
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 188306,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK"
     },
     {
       "added_at": "2023-11-24 19:23:20",

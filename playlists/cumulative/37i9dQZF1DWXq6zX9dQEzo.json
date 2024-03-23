@@ -2747,7 +2747,7 @@
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 166191,
+      "duration_ms": 166190,
       "name": "Every Step",
       "url": "https://open.spotify.com/track/6lvJQigKOiGa8uAC4Ek6qd"
     },
@@ -4342,6 +4342,40 @@
       "duration_ms": 178357,
       "name": "Her Song",
       "url": "https://open.spotify.com/track/6ffgPcFHGLuccB1yKcCmMV"
+    },
+    {
+      "album": {
+        "name": "HI-C",
+        "url": "https://open.spotify.com/album/42eKaKWWjei5ViAUQ4XY1J"
+      },
+      "artists": [
+        {
+          "name": "HOLY GIRLXHLY GRL",
+          "url": "https://open.spotify.com/artist/0w28kuI223Uywzaf68lL40"
+        },
+        {
+          "name": "Porsha Love",
+          "url": "https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG"
+        },
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        },
+        {
+          "name": "Queen Lee",
+          "url": "https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS"
+        },
+        {
+          "name": "Tk Lee",
+          "url": "https://open.spotify.com/artist/05B3lggRvyTqRwEV9YDwQz"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183201,
+      "name": "HI-C",
+      "url": "https://open.spotify.com/track/6DmLU5yyCcwCS5MgHbZq78"
     },
     {
       "album": {
@@ -6310,7 +6344,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 178285,
       "name": "Loud",
       "url": "https://open.spotify.com/track/6WO3KK8I7ym148Lsh8KHPG"

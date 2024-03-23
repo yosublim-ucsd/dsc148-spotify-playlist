@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 
 > All your girl crushes\(걸크러쉬\) in one place\. \(Cover: PURPLE KISS\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,004 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,050 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 | 39 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 |
 | 40 | [DDU\-DU DDU\-DU](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:31 |
 
-Snapshot ID: `MCw0NjI1MGNlYmI5NjcwZDM5MGJlMTcwYTdjMDFkYjY5ZTRkODNhODVj`
+Snapshot ID: `MCxhNmMzODFiNTUxMTE0YTVhMTBmZTkwZmI5NmNmZjE0YmEyMDViNTU2`

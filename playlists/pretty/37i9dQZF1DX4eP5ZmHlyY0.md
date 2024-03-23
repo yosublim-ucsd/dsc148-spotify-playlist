@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 29 | [マルチバース・アドベンチャー](https://open.spotify.com/track/73bwO8YNQzVwEld8c0yr1U) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [マルチバース・アドベンチャー](https://open.spotify.com/album/27EpiaJQCaaayXxo4ZLfIP) | 3:16 |
 | 30 | [Daydream](https://open.spotify.com/track/06QuQaDv68bvr8oaNXoSSY) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [OCTAVE / Daydream](https://open.spotify.com/album/5xFM0bU4tuO8e67eOgtaPA) | 3:31 |
 | 31 | [DEEP WAVE](https://open.spotify.com/track/4pRYvi4ybMifd2LPnzOVHp) | [龍宮城](https://open.spotify.com/artist/0xOawbTJb7VLKsaJGjpeCK) | [DEEP WAVE](https://open.spotify.com/album/5MAfHAjQkTUUpbuJwuHmfV) | 3:26 |
-| 32 | [Frozen Butterfly](https://open.spotify.com/track/3JcUsgmUOruUTr7VRnqMa6) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Frozen Butterfly](https://open.spotify.com/album/1TUoTEQc8g6masfIq5XR9R) | 3:04 |
-| 33 | [Midnight City](https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 3:54 |
+| 32 | [Midnight City](https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 3:54 |
+| 33 | [Frozen Butterfly](https://open.spotify.com/track/3JcUsgmUOruUTr7VRnqMa6) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Frozen Butterfly](https://open.spotify.com/album/1TUoTEQc8g6masfIq5XR9R) | 3:04 |
 | 34 | [Purple Dawn](https://open.spotify.com/track/0okC5ms3JHc4Gywlc1LGop) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5qNH1s1LqjukHAapYmvlMF) | 3:04 |
 | 35 | [Miracle](https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Miracle](https://open.spotify.com/album/2pYKmfCQONAyN8CV0EXyuI) | 3:20 |
 | 36 | [Add Love Song](https://open.spotify.com/track/3Zux43tmJ0IhNonmOGsxqO) | [CUBERS](https://open.spotify.com/artist/5b0vNm8SlsmAMchGD7akjQ) | [Add Love Song](https://open.spotify.com/album/02aaaAxq4hIMsoOJb2V4e2) | 5:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 49 | [Parade](https://open.spotify.com/track/1DCISG31avGG9oQK3gnDxh) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Parade](https://open.spotify.com/album/4mRG6P1L3qX4kR2TFXlFP0) | 3:11 |
 | 50 | [Okie Dokie!](https://open.spotify.com/track/58LIpK5Tj6lX9L6e3dOev1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Road to A](https://open.spotify.com/album/4j5ZiAKLouJYnyLOAzyBRo) | 3:33 |
 
-Snapshot ID: `MCwwMDUxN2MxNDhjOTVkNzg0OTc5YmNkMmQ1ZDgxYjBiMTg2MTMxMTE4`
+Snapshot ID: `MCxlM2Y0YWFiZmIxZjc3ZTJkYWMwZjVhNzkzY2ZmNGIzZjBhM2FiNGMz`

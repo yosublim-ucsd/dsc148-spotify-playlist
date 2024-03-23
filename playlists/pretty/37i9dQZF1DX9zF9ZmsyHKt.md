@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,156 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,171 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 37 | [Envolvimento](https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs) | [MC Loma e As Gêmeas Lacração](https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u) | [Envolvimento](https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv) | 2:26 |
 | 38 | [Para Pensa e Volta \(feat\. Marília Mendonça\) \- Ao Vivo](https://open.spotify.com/track/2rRA0VNb8RcaUMAmgWFoCL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Yasmin Santos Ao Vivo em São Paulo](https://open.spotify.com/album/4Izu6KXDCXGOjSEFUjBvYq) | 2:54 |
 | 39 | [Seja Gentil](https://open.spotify.com/track/1hCT4zWcdBRv7SxOA970bF) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [O Velho E Bom Novo \(Lado A\)](https://open.spotify.com/album/1vTGhqdzYWiN1NBhM0ypoV) | 3:50 |
-| 40 | [Uma Noite E 1/2](https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol), [Renato Rocketh](https://open.spotify.com/artist/6sw8STlzeeHvYQEeZueg63) | [Virgem](https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco) | 4:44 |
-| 41 | [Diaba](https://open.spotify.com/track/4Zhxtm6x56wEiRtSMAl28n) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Diaba](https://open.spotify.com/album/01o2odeolV6Ke76Q2QTVyS) | 2:45 |
+| 40 | [Diaba](https://open.spotify.com/track/4Zhxtm6x56wEiRtSMAl28n) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Diaba](https://open.spotify.com/album/01o2odeolV6Ke76Q2QTVyS) | 2:45 |
+| 41 | [Uma Noite E 1/2](https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol), [Renato Rocketh](https://open.spotify.com/artist/6sw8STlzeeHvYQEeZueg63) | [Virgem](https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco) | 4:44 |
 | 42 | [Asa Morena](https://open.spotify.com/track/7K5rZnp7C07SVotXqMaKFp) | [Zizi Possi](https://open.spotify.com/artist/65yVjvbkC6m9DzQFihrSvL) | [Asa Morena](https://open.spotify.com/album/0jP4j74A5rX2B9Ump7jH4e) | 4:04 |
 | 43 | [Andarilho](https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Andarilho](https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0) | 3:50 |
 | 44 | [Te Faço um Cafuné](https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Te Faço um Cafuné](https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0) | 3:47 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 60 | [Você Não Presta](https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e) | 3:55 |
 | 61 | [Dona de mim](https://open.spotify.com/track/6yMbAjgCa3xK8SUnKWG72p) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6dRMC5s12rIApNIHmbnZfH) | 3:28 |
 | 62 | [Clichê](https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Day](https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF) | 2:41 |
-| 63 | [Lisboa](https://open.spotify.com/track/49eJct0XAKWtl0Cicj64Xg) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Lisboa](https://open.spotify.com/album/5ZXXSnMtfw98MZDlpZfzzz) | 3:01 |
-| 64 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 |
+| 63 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 |
+| 64 | [Lisboa](https://open.spotify.com/track/49eJct0XAKWtl0Cicj64Xg) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Lisboa](https://open.spotify.com/album/5ZXXSnMtfw98MZDlpZfzzz) | 3:01 |
 | 65 | [Água na Boca](https://open.spotify.com/track/2xTaOIpC4sKmk9iusmRIFV) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm) | [Água na Boca](https://open.spotify.com/album/1XVbxdgj9y6Hl2G1Y4pdHg) | 3:05 |
 | 66 | [Boladona](https://open.spotify.com/track/19ETbp46uzm9GEoyE12toT) | [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts), [DJ Marlboro](https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY) | [Boladona](https://open.spotify.com/album/4xhz8Ge90YWgmDzxUtr5oB) | 2:06 |
 | 67 | [Falei de você pra minha mãe](https://open.spotify.com/track/33b5dsChMBIwsSwMqYm0wZ) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Falei de você pra minha mãe](https://open.spotify.com/album/1n9846xOm1ExjM92ZL4RL8) | 2:42 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 83 | [Solo Seduzente](https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea) | [Dani Russo](https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r) | [Solo Seduzente](https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC) | 2:05 |
 | 84 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 |
 | 85 | [Meu São Jorge](https://open.spotify.com/track/7ERR92JTk2VsswMquOvOD5) | [Lia de Itamaracá](https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo) | [Ciranda Sem Fim](https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs) | 3:20 |
-| 86 | [Baldin de Gelo](https://open.spotify.com/track/2sv7wfMG7h8EJl3j2KxTGZ) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Baldin de Gelo](https://open.spotify.com/album/2u554H05WIo4j2nMB7IRc9) | 2:47 |
-| 87 | [Suave Veneno](https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn) | [Os Maiores Sucessos De Novela De Nana Caymmi](https://open.spotify.com/album/5nvNEdnPjIRY2feHGlpYU8) | 2:58 |
+| 86 | [Suave Veneno](https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn) | [Os Maiores Sucessos De Novela De Nana Caymmi](https://open.spotify.com/album/5nvNEdnPjIRY2feHGlpYU8) | 2:58 |
+| 87 | [Baldin de Gelo](https://open.spotify.com/track/2sv7wfMG7h8EJl3j2KxTGZ) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Baldin de Gelo](https://open.spotify.com/album/2u554H05WIo4j2nMB7IRc9) | 2:47 |
 | 88 | [Oração](https://open.spotify.com/track/2OuCkfX39Geg49wLwjsQ9z) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Urias](https://open.spotify.com/artist/1bxOepRISGRGZoYUZdaJlq), [Alice Guél](https://open.spotify.com/artist/64voDtcB8UgIPjcHeR37xN), [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf), [Danna Lisboa](https://open.spotify.com/artist/4eAT912SEh1ne4GB6j6R4b), [Ventura Profana](https://open.spotify.com/artist/5OtKmdYx2SsAzr6RjrwAip), [Verónica Decide Morrer](https://open.spotify.com/artist/2j7BDoavQE8LmMPxZsLcvF) | [Oração](https://open.spotify.com/album/1w6qsdlglZBK5wYxTH6Ndb) | 3:59 |
 | 89 | [Garota Ligeira](https://open.spotify.com/track/1ceOQ6Xoy2Pt08CF88G4ef) | [Luísa e os Alquimistas](https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Jaguatirica Print](https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl) | 2:58 |
 | 90 | [Você Pra Mim](https://open.spotify.com/track/2vqdtqRq1EY4cMwX9FkDCz) | [Fernanda Abreu](https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh) | [Sla Radical Dance Disco Club](https://open.spotify.com/album/0HHFfVAOIzKegm7pCAjHAh) | 4:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 99 | [Menina, Amanhã de Manhã](https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Iaiá](https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA) | 5:29 |
 | 100 | [Sussu](https://open.spotify.com/track/0dzMJ2pEdM7LfSZtJaQTyN) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [LEXA](https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi) | 2:06 |
 
-Snapshot ID: `MCw3YWFmMzFiM2EyODRiMTU3YWE3ZGVkMjkzZGU4NmZjZWJmZDlkODM0`
+Snapshot ID: `MCw0ZDU1ZmQ5NDcwY2JlYzkzMjA5YzMyNTZkZGU3N2U3NjgwNDVhMjlh`

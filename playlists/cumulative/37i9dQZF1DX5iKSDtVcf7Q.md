@@ -4,7 +4,7 @@
 
 > Music paying tribute to the Heartland of America.
 
-200 songs - 11 hr 50 min
+201 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [American Flag on the Moon](https://open.spotify.com/track/6OoqZAWnNYcyzc2wd1ZCgj) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Moonshine in the Trunk](https://open.spotify.com/album/5jz1XHH4z5CegCDlAe9ujP) | 3:48 | 2020-10-23 | 2022-03-01 |
 | [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 | 2020-10-23 |  |
 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 | 2021-06-23 |  |
-| [American Nights](https://open.spotify.com/track/6B4LAyly39cv8Cat9nHObl) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [American Nights](https://open.spotify.com/album/2KymbriwFACll2ruFpeTqr) | 3:22 | 2020-10-23 |  |
+| [American Nights](https://open.spotify.com/track/6B4LAyly39cv8Cat9nHObl) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [American Nights](https://open.spotify.com/album/2KymbriwFACll2ruFpeTqr) | 3:22 | 2020-10-23 | 2024-03-23 |
 | [American Ride](https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV) | 2:45 | 2022-07-08 |  |
 | [American Ride](https://open.spotify.com/track/1vD4DN56ued7pQklJBDesw) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/4bTpO7buGrpu5Vx6K8cKDc) | 2:45 | 2020-10-23 | 2022-07-27 |
 | [American Rust](https://open.spotify.com/track/2XkT5kbEEWPBJ99y7AadzM) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [American Rust](https://open.spotify.com/album/66XAhQha2NZG3oP7jQTtjR) | 3:16 | 2021-06-25 | 2022-11-05 |
@@ -120,6 +120,7 @@
 | [Looking at Stars](https://open.spotify.com/track/6EuM2QAaZnJ3IeQkhx6TsU) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:18 | 2022-11-25 | 2023-07-01 |
 | [Made in America](https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:13 | 2022-07-08 |  |
 | [Made In America](https://open.spotify.com/track/0sl8awl4hoj9cjU2AJqBjl) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Made In America](https://open.spotify.com/album/29pwejcqjXjK2KAeJsgm4R) | 3:16 | 2020-10-23 | 2022-07-29 |
+| [Mamaw's House](https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Mamaw's House](https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa) | 3:07 | 2024-03-22 |  |
 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 | 2020-10-23 |  |
 | [Mayberry](https://open.spotify.com/track/04rZkq3ihHmGNfKPgBiTX1) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Melt](https://open.spotify.com/album/6kGMwYN1ChjX0yyhN7tDs2) | 4:32 | 2022-02-27 | 2022-11-13 |
 | [Meanwhile Back At Mama's](https://open.spotify.com/track/2rO28hRLDbsenVjeWvwqQz) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Sundown Heaven Town \(Deluxe Edition\)](https://open.spotify.com/album/5d1gd7lRLgljr3YPnkfU7k) | 3:48 | 2021-04-22 |  |

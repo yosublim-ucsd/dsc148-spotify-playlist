@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-212 songs - 21 hr 8 min
+215 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Brumcrysle](https://open.spotify.com/track/2VgfEbuQG1Tx3yRuIWRu4V) | [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Brumcrysle EP](https://open.spotify.com/album/30R3q0gVguoIzMUResWBbn) | 6:02 | 2024-01-26 |  |
 | [Bumblebee](https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 02](https://open.spotify.com/album/2wdfP8ZepuYBjNC3mDBb73) | 7:50 | 2022-09-16 | 2022-10-28 |
 | [Captain Nemo \- Edit](https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Captain Nemo](https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu) | 4:03 | 2022-12-02 | 2023-05-03 |
+| [Captivate](https://open.spotify.com/track/27ZKMnicAlGrQDOwERJzk8) | [Co\-Fusion](https://open.spotify.com/artist/54lOUDySWQlDC4tb81wjDT) | [Captivate EP](https://open.spotify.com/album/10cLkQhmprr2d0c0PZQIts) | 5:30 | 2024-03-22 |  |
 | [Casa Loca](https://open.spotify.com/track/1IwNAEgSyAz5oGVgU5gMxs) | [Yasin](https://open.spotify.com/artist/2CwH3CBtHNsiPYOp5X6xrj), [Tonio Barrientos](https://open.spotify.com/artist/6cAYKNgOgxeidrYARoVttL) | [Casa Loca](https://open.spotify.com/album/47d33oQLiKE5Nj6EgSsr91) | 6:06 | 2023-10-06 | 2023-10-28 |
 | [Castamaer](https://open.spotify.com/track/5nqtCmVai6flScoNJ5GnJf) | [SOURCE+RUMITZ](https://open.spotify.com/artist/07naaE7QfabZrVoPqsa0Lh) | [Dance with the Robots](https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC) | 8:00 | 2023-03-03 | 2023-05-06 |
 | [Cedes](https://open.spotify.com/track/3gCqPq2W4Soe7v8QTor0mN) | [Rico Puestel](https://open.spotify.com/artist/6onCOduLbP6KH26LqSRV69) | [Cedes](https://open.spotify.com/album/7vqjuCQYlcv1LRMqNmXJxl) | 6:36 | 2022-09-16 | 2023-10-28 |
@@ -179,10 +180,12 @@
 | [Six For Gold](https://open.spotify.com/track/5x7FKrpE3JBVbOSQ9O7cSn) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Six For Gold](https://open.spotify.com/album/3CbIAm371uRIjuo9pfeSYd) | 5:01 | 2022-09-23 | 2022-11-19 |
 | [Sleepless Mind \- Edit](https://open.spotify.com/track/3z737qBlgokgOqHUG4KSDW) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Sleepless Mind \(Edit\)](https://open.spotify.com/album/2JH4rOU73W6ZxUU4NHKm4G) | 3:05 | 2023-05-26 | 2023-07-29 |
 | [So Cold](https://open.spotify.com/track/3wxiYRkslAAy8XtjvZTIxy) | [Emmanuel Top](https://open.spotify.com/artist/5y8522WHbYqJVt1jSwNSfA) | [So Cold](https://open.spotify.com/album/2OG9njNHJha0rvltAhAX4N) | 7:21 | 2022-09-16 |  |
+| [So Sweet](https://open.spotify.com/track/7DyqZMCkblbJU6dqlQrnd2) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [So Sweet](https://open.spotify.com/album/5xW1GTPUQjzEW4qfMXBLMG) | 4:18 | 2024-03-22 |  |
 | [Solarius](https://open.spotify.com/track/1sEPac7uCsJZRtKKR1f1YB) | [Rico Puestel](https://open.spotify.com/artist/6onCOduLbP6KH26LqSRV69) | [My Truth](https://open.spotify.com/album/4eRmSQhzAi7HOyCt0nSrrL) | 9:05 | 2023-09-01 | 2024-03-20 |
 | [Something Half Way \(feat\. Ralf Hildenbeutel\)](https://open.spotify.com/track/1ALwn074NZpQ7LbEknYgJh) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Something Half Way \(feat\. Ralf Hildenbeutel\)](https://open.spotify.com/album/6ArJtCbmaktBNpkHsIeAw5) | 5:15 | 2022-11-11 | 2022-11-13 |
 | [Something Half Way \(feat\. Ralf Hildenbeutel\)](https://open.spotify.com/track/4SKkLIyC381iLFbjt0dIWM) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Another Day](https://open.spotify.com/album/0vrJ2GjVQ9lavv0u74PHJn) | 5:15 | 2022-09-16 |  |
 | [Soopertrack](https://open.spotify.com/track/0tZFL2LU8XSThRttMJif6Q) | [Extrawelt](https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB) | [Extra Welt Hits](https://open.spotify.com/album/3XKvUkeeuxTcKAKBrzR4lE) | 8:02 | 2022-09-16 | 2024-01-27 |
+| [Sounds Of The Riff](https://open.spotify.com/track/3vcgv2BSEg2OFAtwg0dZGf) | [Moritz Sachse](https://open.spotify.com/artist/2yPFNVTKTqKeIn3leJpeq3), [NEPØ](https://open.spotify.com/artist/4C4Kdk8ScpbmRRLkM7MIrK) | [Sounds Of The Riff](https://open.spotify.com/album/6uFfxiKt07cOABrOS4HkKI) | 6:29 | 2024-03-22 |  |
 | [Space X \- Edit](https://open.spotify.com/track/7y2fFvQyCuEqhGbLaAEAIN) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Space X \(Edit\)](https://open.spotify.com/album/0isHRGzyIFvSKDeSdlem8j) | 3:36 | 2023-06-23 | 2023-10-21 |
 | [Spinicular](https://open.spotify.com/track/1GBvv1GMhhr89x99Fv1KDU) | [DJ Lion](https://open.spotify.com/artist/0ZwTI7HIWqX7mz1KwdZSoq), [AlBird](https://open.spotify.com/artist/1Prnl3WpJztMLBodIfJKu6) | [Dance with the Robots](https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC) | 6:44 | 2023-03-03 | 2023-10-28 |
 | [Stardust and Glitter](https://open.spotify.com/track/6TEAfm3Hh7JYNDHHj6MKHn) | [Jürgen Kaisr](https://open.spotify.com/artist/6hzeX2ERTNIeQ3QolZk8sW) | [Elektronenschwungdynamik](https://open.spotify.com/album/7DLN31hXu37rDh3EuksFME) | 6:42 | 2022-09-16 |  |

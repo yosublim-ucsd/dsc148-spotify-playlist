@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: Kevin Kaarl
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,901 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,915 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 47 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
 | 48 | [La Ola](https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 3:23 |
 | 49 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 |
-| 50 | [Las Vacas](https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh) | [Paulino Monroy](https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC) | [Larga Duración](https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a) | 3:18 |
-| 51 | [Peregrino](https://open.spotify.com/track/1TsBj3J4sVPO5KeydxbhD1) | [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Peregrino](https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ) | 4:54 |
+| 50 | [Peregrino](https://open.spotify.com/track/1TsBj3J4sVPO5KeydxbhD1) | [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Peregrino](https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ) | 4:54 |
+| 51 | [Las Vacas](https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh) | [Paulino Monroy](https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC) | [Larga Duración](https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a) | 3:18 |
 | 52 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 |
-| 53 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 |
-| 54 | [Nunca](https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Lucha](https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib) | 4:22 |
+| 53 | [Nunca](https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Lucha](https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib) | 4:22 |
+| 54 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 |
 | 55 | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW), [Oscar Isaac](https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy) | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE) | 3:18 |
 | 56 | [My Best Self](https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [My Best Self](https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl) | 3:05 |
 | 57 | [Otros Colores](https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Aroma A Nostalgia \(Deluxe Edition\)](https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ) | 5:51 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 70 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 |
 | 71 | [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 |
 | 72 | [Extraños](https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq) | [Ayzak Ewan](https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl) | [Extraños](https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn) | 3:51 |
-| 73 | [¿Qué Será De Mí?](https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:26 |
-| 74 | [Hace rato](https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:16 |
+| 73 | [Hace rato](https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:16 |
+| 74 | [¿Qué Será De Mí?](https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:26 |
 | 75 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
 
-Snapshot ID: `MCxlZjcxNmRkYTk4NGYzYWE3YzIwODQxYTM2YThhMzZkZjg2ZDlkODZh`
+Snapshot ID: `MCw5MWI0MjA0YTAyNzg1ZTM1MDU4MDVmY2ZiOWE5ZjMzNTgwZjY3NzRi`

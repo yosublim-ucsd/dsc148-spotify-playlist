@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > All 70s, all women in \#SpotifyTBT this week\. Cover: Carole King
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,276,839 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,277,026 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [The Morning After \- Single Version](https://open.spotify.com/track/62QRbVm7DqR3eoqgT7pEfs) | [Maureen McGovern](https://open.spotify.com/artist/3bnf5pPVQFWv762IiavilV) | [Best Of/20th Century](https://open.spotify.com/album/2QbEB4aXdvMfrWH6o4NBvo) | 2:21 |
 | 50 | [At Seventeen \- Remastered](https://open.spotify.com/track/7wJpqjqk8QbHpCakY1ZacY) | [Janis Ian](https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp) | [Between the Lines \(Remastered\)](https://open.spotify.com/album/6RjDm4cjV3MFndKrpLUxpO) | 4:43 |
 
-Snapshot ID: `MCxlODkxNmYxOWFhZWZlMDMxMTk0YjA0YzM5NjAwYWVkZDhiNjFjMjQ3`
+Snapshot ID: `MCw4YjQwNTE3NGZjZWRlZDI1ZjZiNTlmMzI1ZGYzNjYyY2JmMWI5ODY5`

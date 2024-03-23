@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Glass Beams  Artwork: Elsy Wameyo.
 
-3,169 songs - 7 day 5 hr 54 min
+3,170 songs - 7 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [Arena](https://open.spotify.com/track/7a6D80mLXIWgmA3nbqNVRr) | [Kuda](https://open.spotify.com/artist/7yNCLwxAiLcfv77VpBCzab), [Boy Ace](https://open.spotify.com/artist/5tfYneqaKo1KSNXT8KyyCy), [Ater](https://open.spotify.com/artist/01Sb4N03rk5VJXqQm1bmoG) | [Arena](https://open.spotify.com/album/6zEO41MVd6EPqDZnW38Gg0) | 3:02 | 2023-02-15 | 2023-03-02 |
 | [Around the Globe](https://open.spotify.com/track/5XemH9zGT0P5mSnFPKB8BL) | [Freeds](https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi), [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [Around the Globe](https://open.spotify.com/album/6vxceLqGjVFHRtExRx4Azq) | 3:33 | 2022-08-31 | 2022-09-22 |
 | [Arrow](https://open.spotify.com/track/7oCoSMovt6hD62FYKkNxsr) | [Savagery](https://open.spotify.com/artist/4YwTBYZnp107pGgOv3So3e) | [Arrow](https://open.spotify.com/album/4KXz0UKvLhfRtoWojUcjIc) | 3:17 | 2023-02-15 | 2023-03-08 |
-| [As The Dogs Were Playing](https://open.spotify.com/track/2gSp1FsyOfrCYM4Xe3KVak) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/1BqjZpIGkCIsDrxEhpv5a2) | 2:12 | 2024-03-22 |  |
+| [As The Dogs Were Playing](https://open.spotify.com/track/2gSp1FsyOfrCYM4Xe3KVak) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/1BqjZpIGkCIsDrxEhpv5a2) | 2:12 | 2024-03-22 | 2024-03-23 |
+| [As The Dogs Were Playing](https://open.spotify.com/track/3G3mzsZRaLMOuNH2cT0IG2) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 2:12 | 2024-03-22 |  |
 | [As Time Goes By](https://open.spotify.com/track/47RX1LPonw1VQhreVJI4Dy) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i) | [Giving Up Air](https://open.spotify.com/album/69xg7EyoIwwyks0i390g5D) | 3:43 | 2022-08-24 | 2022-09-15 |
 | [ASL Remix](https://open.spotify.com/track/4XlcIVXEZxIbzIsMN5kHQ2) | [Duan](https://open.spotify.com/artist/60VxrI9Qe585ltVvuBHPKB), [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [ASL Remix](https://open.spotify.com/album/48897mVkwya19zpv3OjLSL) | 1:52 | 2022-08-10 | 2022-08-17 |
 | [Asleep Standing](https://open.spotify.com/track/0ZdJmXQEDhejCYemhlxB0h) | [Masochist](https://open.spotify.com/artist/4Vv9TFgIBLVBnaAeezwtNm) | [Bloom](https://open.spotify.com/album/2wQPmY6etLb71qgYfqSM46) | 1:52 | 2022-01-25 | 2022-02-03 |

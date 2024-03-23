@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,107 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,129 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 26 | [Cuando](https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Cuando](https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D) | 2:50 |
 | 27 | [Fly Sound](https://open.spotify.com/track/1S97PagCTc4uorToNepM7r) | [David Lopez](https://open.spotify.com/artist/293KGMp3aKVQ5JmyVt8VIb) | [Fly Sound](https://open.spotify.com/album/1Ts18Ne9bWETR7ZG5C7XH5) | 5:48 |
 | 28 | [Vivir la Vida](https://open.spotify.com/track/47ZIcfa03szbSmg0IPqDfn) | [Marco Bode](https://open.spotify.com/artist/3L6ywBQrLuQtoIkyaBWeKr) | [Vivir la Vida](https://open.spotify.com/album/5BO9UdI76R8khcE7H0U5ME) | 1:54 |
-| 29 | [Lo Malo Se Fue](https://open.spotify.com/track/6VNLV0e3C9ygvKHmIvKVyU) | [Marcela Reyes](https://open.spotify.com/artist/2a3lL5m6feAyGUR1PI2osJ) | [Lo Malo Se Fue](https://open.spotify.com/album/5GQiolbnTXFHmBUEA0trro) | 3:40 |
-| 30 | [Aqui Llego Tu Tiburon Huapango \(Tribal MIX\)](https://open.spotify.com/track/0766dWnKeukIIjBIOzlt1U) | [Dj Moys](https://open.spotify.com/artist/0Fj0ovIqmQntVci9RoTxHa) | [Aqui Llego Tu Tiburon Huapango \(Tribal MIX\)](https://open.spotify.com/album/5lWHBNxc6TJE5SXS3Y1N4C) | 1:30 |
+| 29 | [Aqui Llego Tu Tiburon Huapango \(Tribal MIX\)](https://open.spotify.com/track/0766dWnKeukIIjBIOzlt1U) | [Dj Moys](https://open.spotify.com/artist/0Fj0ovIqmQntVci9RoTxHa) | [Aqui Llego Tu Tiburon Huapango \(Tribal MIX\)](https://open.spotify.com/album/5lWHBNxc6TJE5SXS3Y1N4C) | 1:30 |
+| 30 | [Lo Malo Se Fue](https://open.spotify.com/track/6VNLV0e3C9ygvKHmIvKVyU) | [Marcela Reyes](https://open.spotify.com/artist/2a3lL5m6feAyGUR1PI2osJ) | [Lo Malo Se Fue](https://open.spotify.com/album/5GQiolbnTXFHmBUEA0trro) | 3:40 |
 | 31 | [Si Quema Cuh](https://open.spotify.com/track/3hLc8XjpvAX7i4HXl9f6SG) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Si Quema Cuh](https://open.spotify.com/album/09G5l8kon7sPnJkWhKgK7x) | 2:44 |
 | 32 | [Toco el Cielo \(Dayvi Remix\)](https://open.spotify.com/track/52YR2Gi2z7uCiSTb0zq36a) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Manco the Sound](https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI) | [Toco el Cielo \(Dayvi Remix\)](https://open.spotify.com/album/6Bf9OGh6wWNdshA4xDHneQ) | 5:58 |
 | 33 | [Quiero Bailar \(All Through the Night\) \[feat\. Becky G\]](https://open.spotify.com/track/2P3KclKBmd2oHYuTcXAcD4) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 49 | [Conga Sound Machine](https://open.spotify.com/track/1b9fjZC3K4MmP3hUwYxrj0) | [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 4:45 |
 | 50 | [Sheeqo, Get Loose](https://open.spotify.com/track/0kAQ4h2COEfGZCTu5KYOaK) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 3:04 |
 
-Snapshot ID: `MCwxYmU5ZGJjYWNlNGI3NzExMzBjM2MxOWRjOTMyNTA0ODI2MTUzZTM0`
+Snapshot ID: `MCw4MDc2MzU4MzM3ZTQwNTYwYjE0MTU2ZDc4MjhiOWY0NjI5NTI2OGJh`

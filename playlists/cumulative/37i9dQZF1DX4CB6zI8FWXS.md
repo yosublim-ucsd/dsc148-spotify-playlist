@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: SiR
 
-380 songs - 20 hr 24 min
+381 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,8 @@
 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 | 2023-03-16 | 2023-06-16 |
 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:31 | 2023-10-19 | 2023-11-10 |
 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/5h5fI8fZG0BGiUqyuR3BYZ) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/album/0XBN8hQFaFIVmTJCj6Yix5) | 3:31 | 2023-10-19 | 2023-10-21 |
-| [Too Late](https://open.spotify.com/track/2Y0XwI9C0nj1XukpB8R8wu) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Too Late](https://open.spotify.com/album/7iq6ENSH2FvyhQKzC7IJiN) | 3:20 | 2024-03-21 |  |
+| [Too Late](https://open.spotify.com/track/2Y0XwI9C0nj1XukpB8R8wu) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Too Late](https://open.spotify.com/album/7iq6ENSH2FvyhQKzC7IJiN) | 3:20 | 2024-03-21 | 2024-03-23 |
+| [Too Late](https://open.spotify.com/track/7oaygvulLcf2J4YRpIDj0c) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [18](https://open.spotify.com/album/2EvwcriSqDisp3sZbJYaNp) | 3:21 | 2024-03-21 |  |
 | [TOO LATE](https://open.spotify.com/track/4Zs8jWeCujpyHVYdYMSTty) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [APORIE VIVANT](https://open.spotify.com/album/0gtvEjBBN5QTvB3lkyruNI) | 2:32 | 2024-03-21 |  |
 | [Touch Me Back](https://open.spotify.com/track/1FSetWBm1rFLb9sFgrCatD) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Touch Me Back](https://open.spotify.com/album/5exQ4AzoytKiIsgWuiNPTL) | 2:44 | 2023-11-09 | 2023-11-17 |
 | [Toxic](https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM) | [Liyah Katana](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [Toxic](https://open.spotify.com/album/2ZibN1oYDxhohvvdKuhb93) | 2:33 | 2023-06-15 | 2023-07-07 |

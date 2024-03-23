@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,432 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,450 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 81 | [Angie \- Remastered 2009](https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Remastered 2009\)](https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9) | 4:32 |
 | 82 | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL) | 2:51 |
 | 83 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:14 |
-| 84 | [Back for Good \- Radio Mix](https://open.spotify.com/track/6vcdzohhBSbNdsZBh5IRpQ) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Nobody Else \(Expanded Edition\)](https://open.spotify.com/album/5SjK8QSqZEHMkzlq2LgM8e) | 4:02 |
-| 85 | [Don't Look Back In Anger \- Remastered](https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:49 |
+| 84 | [Don't Look Back In Anger \- Remastered](https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:49 |
+| 85 | [Back for Good \- Radio Mix](https://open.spotify.com/track/6vcdzohhBSbNdsZBh5IRpQ) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Nobody Else \(Expanded Edition\)](https://open.spotify.com/album/5SjK8QSqZEHMkzlq2LgM8e) | 4:02 |
 | 86 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
 | 87 | [These Days \(feat\. Jess Glynne, Macklemore & Dan Caplen\)](https://open.spotify.com/track/5CLGzJsGqhCEECcpnFQA8x) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [These Days \(feat\. Jess Glynne, Macklemore & Dan Caplen\)](https://open.spotify.com/album/2sjjFDjZSCYD5eBCsi0fDW) | 3:30 |
 | 88 | [Leave a Light On](https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Leave a Light On](https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 99 | [1973](https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 4:40 |
 | 100 | [Love Is All Around \- From "Four Weddings And A Funeral"](https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Picture This \(20th Anniversary Edition\)](https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY) | 4:06 |
 
-Snapshot ID: `MCw0NGFkNjAyMGQ1YWM5NjRhODM2ZTU4ODE5MjRhZGEwZjQyOGUwMmFl`
+Snapshot ID: `MCxmZjA1ZTgxNmI3YmUwZmUzNDcyN2RiMWQ3MTI4NjcwY2EwMmFhYzk4`

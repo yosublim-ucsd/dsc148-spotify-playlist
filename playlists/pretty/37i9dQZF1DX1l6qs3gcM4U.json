@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Black Spygo, C4 Pedro & Bruna Amado.  ",
-  "num_followers": 197321,
+  "num_followers": 197405,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWVlNmUwOTkxMGM4YTJkZjlkMDExYjNhM2E2N2ZhODJiYTcxNWNm",
+  "snapshot_id": "MCxiYzU0ZjBmYzg1NGEzZTU5MGMyMTJjOWNmM2EzMDRmY2ZlNzdmMWI0",
   "tracks": [
     {
       "added_at": "2024-03-15 00:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Caixa Azul",
-        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Arrepios",
-      "url": "https://open.spotify.com/track/2T4d9glIWZ0hieegaHFU84"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
         "name": "Mininu Di Oru",
         "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
       },
@@ -735,34 +719,18 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Sem Limite",
-        "url": "https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB"
+        "name": "Caixa Azul",
+        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
       },
       "artists": [
         {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
         }
       ],
-      "duration_ms": 237400,
-      "name": "Magico",
-      "url": "https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
-        "name": "Batom",
-        "url": "https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 212147,
-      "name": "Batom",
-      "url": "https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2"
+      "duration_ms": 202758,
+      "name": "Arrepios",
+      "url": "https://open.spotify.com/track/2T4d9glIWZ0hieegaHFU84"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -783,18 +751,18 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Nha Mos",
-        "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
+        "name": "Batom",
+        "url": "https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7"
       },
       "artists": [
         {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
         }
       ],
-      "duration_ms": 196923,
-      "name": "Nha Mos",
-      "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
+      "duration_ms": 212147,
+      "name": "Batom",
+      "url": "https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -823,6 +791,38 @@
       "duration_ms": 237341,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
+        "name": "Sem Limite",
+        "url": "https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "Magico",
+      "url": "https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
+        "name": "Nha Mos",
+        "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Nha Mos",
+      "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -919,8 +919,8 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Nha Love",
-        "url": "https://open.spotify.com/album/1inJQsJMoKg8QOzG5Ff02T"
+        "name": "Bela",
+        "url": "https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 194526,
-      "name": "Nha Love",
-      "url": "https://open.spotify.com/track/6VlC9B6pTO5BNZozsm2j7w"
+      "duration_ms": 238790,
+      "name": "Bela",
+      "url": "https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Sabi",
-        "url": "https://open.spotify.com/album/564bR2hcA8FjpFBfn71Nlj"
-      },
-      "artists": [
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        },
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 200983,
-      "name": "Sabi",
-      "url": "https://open.spotify.com/track/2tHfQoIrExSbV4KoFcgac7"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B"
       },
@@ -1183,6 +1163,26 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
+        "name": "Sabi",
+        "url": "https://open.spotify.com/album/564bR2hcA8FjpFBfn71Nlj"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        },
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 200983,
+      "name": "Sabi",
+      "url": "https://open.spotify.com/track/2tHfQoIrExSbV4KoFcgac7"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
         "name": "Mais Nada",
         "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
       },
@@ -1195,22 +1195,6 @@
       "duration_ms": 176770,
       "name": "Mais Nada",
       "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
-        "name": "Puro",
-        "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
-      },
-      "artists": [
-        {
-          "name": "Anna Joyce",
-          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "Puro",
-      "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1231,6 +1215,22 @@
       "duration_ms": 182173,
       "name": "Dando Love",
       "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
+        "name": "Puro",
+        "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
+      },
+      "artists": [
+        {
+          "name": "Anna Joyce",
+          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Puro",
+      "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        }
+      ],
+      "duration_ms": 192641,
+      "name": "Mad Love",
+      "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
         "name": "Jaj\u00e3o (feat. Eddy Flow)",
         "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 248913,
       "name": "Jaj\u00e3o (feat. Eddy Flow)",
       "url": "https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ"
-      },
-      "artists": [
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        }
-      ],
-      "duration_ms": 192641,
-      "name": "Mad Love",
-      "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1559,22 +1559,22 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Pak\u00e9",
-        "url": "https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA"
+        "name": "Si Ki Min Kr\u00e8",
+        "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
       },
       "artists": [
         {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
         },
         {
           "name": "Djodje",
           "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 220645,
-      "name": "Pak\u00e9",
-      "url": "https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF"
+      "duration_ms": 159157,
+      "name": "Si Ki Min Kr\u00e8",
+      "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1599,22 +1599,22 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Si Ki Min Kr\u00e8",
-        "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
+        "name": "Pak\u00e9",
+        "url": "https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA"
       },
       "artists": [
         {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
         },
         {
           "name": "Djodje",
           "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 159157,
-      "name": "Si Ki Min Kr\u00e8",
-      "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
+      "duration_ms": 220645,
+      "name": "Pak\u00e9",
+      "url": "https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Mais de Mim",
-        "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
-        },
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Fica Parado (feat. C4 Pedro)",
-      "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
         "name": "Novinha",
         "url": "https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs"
       },
@@ -1699,6 +1679,26 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
+        "name": "Mais de Mim",
+        "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        },
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Fica Parado (feat. C4 Pedro)",
+      "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
         "name": "Apaxonado",
         "url": "https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb"
       },
@@ -1711,22 +1711,6 @@
       "duration_ms": 291960,
       "name": "Belissima",
       "url": "https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
-        "name": "Au revoir",
-        "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 234226,
-      "name": "Au revoir",
-      "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1747,6 +1731,22 @@
       "duration_ms": 227685,
       "name": "J\u00e1 Deu",
       "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
+        "name": "Au revoir",
+        "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 234226,
+      "name": "Au revoir",
+      "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
+        "name": "Homem Que \u00c9 Homem",
+        "url": "https://open.spotify.com/album/0zs00lhtRYNtvzWDaC3NeQ"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 216868,
+      "name": "Homem Que \u00c9 Homem",
+      "url": "https://open.spotify.com/track/5HEow9A4pAs7dle5zDXnfb"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
         "name": "INFINITO",
         "url": "https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 199500,
       "name": "Infinito",
       "url": "https://open.spotify.com/track/2e3KTRfz4appswSpkawQid"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
-        "name": "Cara Trancada",
-        "url": "https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI"
-      },
-      "artists": [
-        {
-          "name": "KONSTANTINO",
-          "url": "https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Cara Trancada",
-      "url": "https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ"
     }
   ],
   "unique_name": "Dancing Kizomba",

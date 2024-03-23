@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 理想混蛋 \(Bestards\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,233 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,339 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [愛了傷過份](https://open.spotify.com/track/0a6lKugYNRbNfkGAV40WyU) | [阿跨面](https://open.spotify.com/artist/26QeJhwzQ5vwSNX8wH1t0D) | [心](https://open.spotify.com/album/0VdmAQ7JTd0cO0AlQtgX6v) | 4:14 |
 | 50 | [11](https://open.spotify.com/track/1SddmZXeZONbnkBeRT95hx) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [T.I.M.E.](https://open.spotify.com/album/425fsE4f3cdMheqvOFM9g4) | 3:48 |
 
-Snapshot ID: `MCxmZGYzMTg3MmE0YmU3YmQyZjkyY2UzNTg1M2E1YzhkOGMwZmI2NmNm`
+Snapshot ID: `MCwxNTFlYTNkYjJiN2UwZWE3NWEzMDNmZjY4NzQyY2Y1NTVjODY0YTY0`

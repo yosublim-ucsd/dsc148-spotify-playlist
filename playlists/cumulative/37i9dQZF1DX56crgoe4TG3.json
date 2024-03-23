@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: Town Mountain",
+  "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: Wyatt Flores",
   "name": "Bluegrass Covers",
   "tracks": [
     {
@@ -1239,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/2EF09Y1t1UWXgnH0XFF0QN"
+      },
+      "artists": [
+        {
+          "name": "Craig Duncan",
+          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223005,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/3Ai4dzcqxJi7tZInKN5SbR"
+    },
+    {
+      "album": {
         "name": "Drain The Blood",
         "url": "https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI"
       },
@@ -1723,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "Go Your Own Way",
+        "url": "https://open.spotify.com/album/3USoKckUZmdxDJsOoUZipo"
+      },
+      "artists": [
+        {
+          "name": "SloCoast",
+          "url": "https://open.spotify.com/artist/1pqfEZcU2ZglurzGnEkaNd"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247534,
+      "name": "Go Your Own Way",
+      "url": "https://open.spotify.com/track/50M460tbcGAaJuX0HQJygx"
+    },
+    {
+      "album": {
         "name": "good 4 u / Dooley's Farm (Spotify Singles)",
         "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
       },
@@ -1984,6 +2020,24 @@
       "duration_ms": 256120,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/6EmwBRFDI25uukoQ9jCU6J"
+    },
+    {
+      "album": {
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/4OAL0ZF8bxJ9wcIys3oEdU"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205194,
+      "name": "How To Save A Life",
+      "url": "https://open.spotify.com/track/60Zsmy6gLKf8Esy9GiW0Re"
     },
     {
       "album": {

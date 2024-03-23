@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag\. Cover: Muthoni Drummer Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,327 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,332 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,15 +14,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 4 | [Milele](https://open.spotify.com/track/0GRikCkCDjo6KZflphU4J6) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Milele](https://open.spotify.com/album/19bugQdphaPV2owzpESgWb) | 3:37 |
 | 5 | [Ntaawa](https://open.spotify.com/track/0gwOZ0bsxcHkXjdewTVC4I) | [JOWY LANDA](https://open.spotify.com/artist/2SynZgOgEzrqmPhtkr6q9X) | [Ntaawa](https://open.spotify.com/album/5uKZ39gh0m85av50uFH7vE) | 2:22 |
 | 6 | [Haya](https://open.spotify.com/track/42hRf2eAhvWnGqAUGnLHh1) | [Moraa](https://open.spotify.com/artist/3KXgIveLaCqHIvZPex0HE8) | [Feelings Station](https://open.spotify.com/album/6JQB8PzILyZHsYEMLejthu) | 2:16 |
-| 7 | [Tattoo](https://open.spotify.com/track/2pV5l0fHPD4tb2z5QDJjYn) | [Crystal Asige](https://open.spotify.com/artist/0I7ji8NGTX35KNbnCi2IoQ) | [Tattoo](https://open.spotify.com/album/5By0YmA84p9qNjutfiVKEx) | 3:41 |
-| 8 | [Falling](https://open.spotify.com/track/2hyUzNsKT454MY5Ro0nnD7) | [Narah Elba](https://open.spotify.com/artist/49xus9KjnESiLPl9EQuvU4) | [Falling](https://open.spotify.com/album/6gXbJ7vbb4mQWAqOjv6eon) | 2:39 |
-| 9 | [Zamani](https://open.spotify.com/track/60bfNCQoQ668j2CbTfzqZA) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Zamani](https://open.spotify.com/album/38KjNLFKtwaHr8Vxzmviwn) | 3:38 |
-| 10 | [Yule](https://open.spotify.com/track/5cBeuaV4kPJEvu4AuIZt1B) | [Liboi](https://open.spotify.com/artist/6HOD1hSjJf0TNjnWmt4nAp) | [Yule](https://open.spotify.com/album/5LHtoRzSsA6IQWF32z7ByY) | 5:09 |
-| 11 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 |
-| 12 | [Patience](https://open.spotify.com/track/5mFzG8awzpPxFnIKT43Xuf) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [DECSTER](https://open.spotify.com/artist/77QeAg7dSdGhSgT5QiHZL7), [Ari](https://open.spotify.com/artist/0iYPHQ3aoLCNYcw2khOy8M) | [Patience](https://open.spotify.com/album/2r3ahud5u7iTnFvUx4lPPm) | 3:03 |
-| 13 | [OTD](https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [OTD](https://open.spotify.com/album/5dnPXb293B0hQDZoXGPsBh) | 2:27 |
-| 14 | [Matozo](https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:21 |
-| 15 | [Inawezekana](https://open.spotify.com/track/5LFqAvooQPm0XFZ63WawzM) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Inawezekana](https://open.spotify.com/album/3335lkgj003Ei3L0JFAtZQ) | 4:14 |
+| 7 | [Falling](https://open.spotify.com/track/2hyUzNsKT454MY5Ro0nnD7) | [Narah Elba](https://open.spotify.com/artist/49xus9KjnESiLPl9EQuvU4) | [Falling](https://open.spotify.com/album/6gXbJ7vbb4mQWAqOjv6eon) | 2:39 |
+| 8 | [Zamani](https://open.spotify.com/track/60bfNCQoQ668j2CbTfzqZA) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Zamani](https://open.spotify.com/album/38KjNLFKtwaHr8Vxzmviwn) | 3:38 |
+| 9 | [Yule](https://open.spotify.com/track/5cBeuaV4kPJEvu4AuIZt1B) | [Liboi](https://open.spotify.com/artist/6HOD1hSjJf0TNjnWmt4nAp) | [Yule](https://open.spotify.com/album/5LHtoRzSsA6IQWF32z7ByY) | 5:09 |
+| 10 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 |
+| 11 | [Patience](https://open.spotify.com/track/5mFzG8awzpPxFnIKT43Xuf) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [DECSTER](https://open.spotify.com/artist/77QeAg7dSdGhSgT5QiHZL7), [Ari](https://open.spotify.com/artist/0iYPHQ3aoLCNYcw2khOy8M) | [Patience](https://open.spotify.com/album/2r3ahud5u7iTnFvUx4lPPm) | 3:03 |
+| 12 | [OTD](https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [OTD](https://open.spotify.com/album/5dnPXb293B0hQDZoXGPsBh) | 2:27 |
+| 13 | [Matozo](https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:21 |
+| 14 | [Inawezekana](https://open.spotify.com/track/5LFqAvooQPm0XFZ63WawzM) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Inawezekana](https://open.spotify.com/album/3335lkgj003Ei3L0JFAtZQ) | 4:14 |
+| 15 | [Ungwana](https://open.spotify.com/track/33VeVtw389nnxyXapuhZnk) | [Nina Ogot](https://open.spotify.com/artist/70vJ4IvBtlCutfLNkxqoSu) | [Ungwana](https://open.spotify.com/album/3SQzdcSMRPaK3hSjf1K8mF) | 5:09 |
 | 16 | [Feel Alive](https://open.spotify.com/track/07xjo4p0md0cPMTUXPhrwF) | [TheOnlyRosa](https://open.spotify.com/artist/3RL8Hb8tQ9aFuCWGikXNwx), [Fena Gitu](https://open.spotify.com/artist/3zJd3CVxAQx3gB7fPH9P2V) | [Feel Alive](https://open.spotify.com/album/0OjBP78TRit3ZBviOQj8qb) | 3:30 |
 | 17 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 |
 | 18 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 59 | [Omutima](https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Omutima](https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY) | 2:43 |
 | 60 | [Unanimaliza](https://open.spotify.com/track/67F4XuZS8JXs8t5UZBjEFg) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 2:55 |
 
-Snapshot ID: `MCwyZTAyOTFlYTIzMzk4NGUwMWMxZTc2NTllZjdhNGExMzZjOWFkMWYy`
+Snapshot ID: `MCw1MWZkZWIyNmI3YWE5MzI4OGE1YTJhZGVhMDc1YjhhYWUyZjdiZWQ0`

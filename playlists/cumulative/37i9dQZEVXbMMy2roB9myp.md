@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-740 songs - 1 day 15 hr 56 min
+741 songs - 1 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Ahi Ahi](https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [Ahi Ahi](https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3) | 2:56 | 2023-10-02 | 2024-03-13 |
 | [AL BORDE](https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [511](https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X) | 2:28 | 2023-04-23 | 2023-08-20 |
 | [ALMAS GEMELAS](https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ALMAS GEMELAS](https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT) | 3:55 | 2021-07-26 | 2021-10-19 |
-| [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 | 2024-03-05 |  |
+| [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 | 2024-03-05 | 2024-03-23 |
 | [ALUMBRE](https://open.spotify.com/track/2hdpglljEzt98X6zJkfW7k) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 4:16 | 2023-12-02 | 2023-12-10 |
 | [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 | 2021-04-04 | 2021-07-09 |
 | [AM Remix](https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [AM Remix](https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV) | 4:21 | 2021-06-27 | 2021-10-29 |
@@ -548,6 +548,7 @@
 | [QUE ME FALTE TODO](https://open.spotify.com/track/1NMbORRsowjN8q000xlJ8l) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [QUE ME FALTE TODO](https://open.spotify.com/album/10O0BuUEtx9Rs3S9pgUBKd) | 2:45 | 2023-11-04 | 2024-02-04 |
 | [QUE ME FALTE TODO](https://open.spotify.com/track/1TyBUtMxdmRfXhW3MmbxtQ) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [QUE NOS FALTE TODO](https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G) | 2:45 | 2024-02-03 |  |
 | [Que Te Vaya Bien](https://open.spotify.com/track/3sfgK7baHGsEAiZjTOtWrz) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Que Te Vaya Bien](https://open.spotify.com/album/06ZB9JOKRH3lwvjVLZBtZD) | 2:05 | 2023-02-10 | 2023-04-05 |
+| [QUEMARÁS](https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [QUEMARÁS](https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo) | 4:23 | 2024-03-22 |  |
 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 | 2022-06-18 | 2022-07-04 |
 | [Question...?](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:30 | 2022-10-22 | 2022-10-24 |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-07-08 | 2023-05-20 |

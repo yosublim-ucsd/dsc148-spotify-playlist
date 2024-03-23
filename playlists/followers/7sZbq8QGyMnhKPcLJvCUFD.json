@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 742139,
+  "2024-03-23": 742147,
   "date_first_scraped": "2022-10-06",
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
   "name": "NCS Releases",
@@ -171,6 +171,24 @@
       "duration_ms": 154000,
       "name": "About Me",
       "url": "https://open.spotify.com/track/3OgRWuUOktuBGTING1oPld"
+    },
+    {
+      "album": {
+        "name": "AI",
+        "url": "https://open.spotify.com/album/10YXQqv5CYLQqkPlCvXgLQ"
+      },
+      "artists": [
+        {
+          "name": "Max Brhon",
+          "url": "https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189357,
+      "name": "AI",
+      "url": "https://open.spotify.com/track/72URNFUYBZg3JHf6J6rD2l"
     },
     {
       "album": {
@@ -3523,7 +3541,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 152571,
       "name": "Fighting Inside",
       "url": "https://open.spotify.com/track/5CMckaGgXeAK21PO1GbXFs"

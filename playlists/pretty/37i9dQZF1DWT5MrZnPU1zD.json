@@ -1,12 +1,12 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1675605,
+  "num_followers": 1675688,
   "original_name": "Hip-Hop Controller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGU0MWJjMDQyYTJmNDg4NjEyMGY0YTkzYzUwZDMzMTQ4OWI4MTYz",
+  "snapshot_id": "MCw4NWNjZDQ4NjViOWMxYjA0MTk2ODBkOWVjNzZmMzAxZjU0MzExZjI3",
   "tracks": [
     {
       "added_at": "2024-02-16 20:24:15",
@@ -329,6 +329,26 @@
       "url": "https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf"
     },
     {
+      "added_at": "2024-03-15 17:11:58",
+      "album": {
+        "name": "Prada Dem (feat. Offset)",
+        "url": "https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 165373,
+      "name": "Prada Dem (feat. Offset)",
+      "url": "https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Bent",
@@ -359,22 +379,6 @@
     {
       "added_at": "2024-01-31 15:42:08",
       "album": {
-        "name": "Mmhmm",
-        "url": "https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 119015,
-      "name": "Mmhmm",
-      "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
-    },
-    {
-      "added_at": "2024-01-31 15:42:08",
-      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -387,6 +391,22 @@
       "duration_ms": 198292,
       "name": "all of me",
       "url": "https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3"
+    },
+    {
+      "added_at": "2024-01-31 15:42:08",
+      "album": {
+        "name": "Mmhmm",
+        "url": "https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 119015,
+      "name": "Mmhmm",
+      "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -411,26 +431,6 @@
     {
       "added_at": "2024-03-15 17:11:58",
       "album": {
-        "name": "Prada Dem (feat. Offset)",
-        "url": "https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 165373,
-      "name": "Prada Dem (feat. Offset)",
-      "url": "https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7"
-    },
-    {
-      "added_at": "2024-03-15 17:11:58",
-      "album": {
         "name": "Deep in the Water",
         "url": "https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF"
       },
@@ -445,10 +445,10 @@
       "url": "https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2024-03-15 17:11:58",
       "album": {
-        "name": "Never Lose Me (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/1W5CMjNWdlKdfOqLMuHV2w"
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
       },
       "artists": [
         {
@@ -456,13 +456,17 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         },
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 165245,
-      "name": "Never Lose Me (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/2lXQX3uhFHRYGBE6xR3tic"
+      "duration_ms": 165754,
+      "name": "Never Lose Me (feat. SZA & Cardi B)",
+      "url": "https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy"
     },
     {
       "added_at": "2024-01-31 15:42:08",
@@ -605,10 +609,10 @@
       "url": "https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x"
     },
     {
-      "added_at": "2024-03-15 17:11:58",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+        "name": "Never Lose Me (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/1W5CMjNWdlKdfOqLMuHV2w"
       },
       "artists": [
         {
@@ -616,17 +620,29 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         },
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "Never Lose Me (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/2lXQX3uhFHRYGBE6xR3tic"
+    },
+    {
+      "added_at": "2024-03-15 17:11:58",
+      "album": {
+        "name": "Enough (Miami)",
+        "url": "https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g"
+      },
+      "artists": [
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 165754,
-      "name": "Never Lose Me (feat. SZA & Cardi B)",
-      "url": "https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy"
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc"
     },
     {
       "added_at": "2024-02-23 17:24:58",
@@ -673,22 +689,6 @@
       "url": "https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc"
     },
     {
-      "added_at": "2024-03-15 17:11:58",
-      "album": {
-        "name": "Enough (Miami)",
-        "url": "https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 158727,
-      "name": "Enough (Miami)",
-      "url": "https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc"
-    },
-    {
       "added_at": "2024-02-16 20:24:15",
       "album": {
         "name": "Bittersweet",
@@ -729,6 +729,22 @@
       "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
     },
     {
+      "added_at": "2024-02-16 20:24:15",
+      "album": {
+        "name": "Cupid's Guidance",
+        "url": "https://open.spotify.com/album/6HoW3xE09yZYMAt4v9UJD5"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Cupid's Guidance",
+      "url": "https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "On The Radar Freestyle",
@@ -749,20 +765,20 @@
       "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
     },
     {
-      "added_at": "2024-02-16 20:24:15",
+      "added_at": "2024-03-15 17:11:58",
       "album": {
-        "name": "Cupid's Guidance",
-        "url": "https://open.spotify.com/album/6HoW3xE09yZYMAt4v9UJD5"
+        "name": "Get It Sexyy",
+        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
       },
       "artists": [
         {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 157866,
-      "name": "Cupid's Guidance",
-      "url": "https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT"
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -839,22 +855,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "bigger th\u00ebn everything",
-        "url": "https://open.spotify.com/album/5bVIz2j5nOioetMjM0T4F9"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 218264,
-      "name": "bigger th\u00ebn everything",
-      "url": "https://open.spotify.com/track/11B7WTuoInwUvuP1BnnGWW"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Johnny Dang (with Paul Wall & DRODi)",
         "url": "https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U"
       },
@@ -877,20 +877,20 @@
       "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
     },
     {
-      "added_at": "2024-03-15 17:11:58",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Get It Sexyy",
-        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+        "name": "bigger th\u00ebn everything",
+        "url": "https://open.spotify.com/album/5bVIz2j5nOioetMjM0T4F9"
       },
       "artists": [
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         }
       ],
-      "duration_ms": 148551,
-      "name": "Get It Sexyy",
-      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
+      "duration_ms": 218264,
+      "name": "bigger th\u00ebn everything",
+      "url": "https://open.spotify.com/track/11B7WTuoInwUvuP1BnnGWW"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/2RWlRSi9TthgUka2yrLnrD"
     },
     {
+      "added_at": "2024-03-15 17:11:58",
+      "album": {
+        "name": "LWRW",
+        "url": "https://open.spotify.com/album/17UWTQHJpEBuW8cWFGbYlN"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "LWRW",
+      "url": "https://open.spotify.com/track/00KKtPfUBjO1k8Yn8dmJKZ"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "JEALOUSY (feat. Cardi B)",
@@ -1071,22 +1087,6 @@
       "duration_ms": 174466,
       "name": "JEALOUSY (feat. Cardi B)",
       "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
-    },
-    {
-      "added_at": "2024-03-15 17:11:58",
-      "album": {
-        "name": "LWRW",
-        "url": "https://open.spotify.com/album/17UWTQHJpEBuW8cWFGbYlN"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "LWRW",
-      "url": "https://open.spotify.com/track/00KKtPfUBjO1k8Yn8dmJKZ"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Glizock & Wizop (feat. Key Glock)",
-        "url": "https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 192508,
-      "name": "Glizock & Wizop (feat. Key Glock)",
-      "url": "https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
         "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 217213,
       "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Glizock & Wizop (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 192508,
+      "name": "Glizock & Wizop (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0"
     },
     {
       "added_at": "2024-01-31 15:42:08",
@@ -1219,6 +1219,22 @@
       "duration_ms": 208838,
       "name": "24 hours to live",
       "url": "https://open.spotify.com/track/5ia8VbDkfzWBjC6f3bOTt1"
+    },
+    {
+      "added_at": "2024-03-15 17:11:58",
+      "album": {
+        "name": "WONDER WOMAN",
+        "url": "https://open.spotify.com/album/4M2l5LrqtLdfMZPtgTyr9X"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 113121,
+      "name": "WONDER WOMAN",
+      "url": "https://open.spotify.com/track/0MCHjl3LM30HHru55EupsD"
     },
     {
       "added_at": "2024-01-31 15:42:08",
@@ -1295,22 +1311,6 @@
       "duration_ms": 179612,
       "name": "Get Lucki",
       "url": "https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6"
-    },
-    {
-      "added_at": "2024-03-15 17:11:58",
-      "album": {
-        "name": "WONDER WOMAN",
-        "url": "https://open.spotify.com/album/4M2l5LrqtLdfMZPtgTyr9X"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 113121,
-      "name": "WONDER WOMAN",
-      "url": "https://open.spotify.com/track/0MCHjl3LM30HHru55EupsD"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1445,6 +1445,22 @@
       "url": "https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX"
     },
     {
+      "added_at": "2024-03-15 17:11:58",
+      "album": {
+        "name": "Wock N Red",
+        "url": "https://open.spotify.com/album/2pBaG0rquEzCXDXyF56S6f"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 198416,
+      "name": "Wock N Red",
+      "url": "https://open.spotify.com/track/1aTqmtFNinvLcosIriC8lA"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Running Late",
@@ -1517,22 +1533,6 @@
       "url": "https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy"
     },
     {
-      "added_at": "2024-03-15 17:11:58",
-      "album": {
-        "name": "Wock N Red",
-        "url": "https://open.spotify.com/album/2pBaG0rquEzCXDXyF56S6f"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        }
-      ],
-      "duration_ms": 198416,
-      "name": "Wock N Red",
-      "url": "https://open.spotify.com/track/1aTqmtFNinvLcosIriC8lA"
-    },
-    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "FAN",
@@ -1583,6 +1583,30 @@
       "duration_ms": 208421,
       "name": "Taylor Port Junkie (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/0bHfRPMnqoMmSpzZywlCmq"
+    },
+    {
+      "added_at": "2024-03-15 17:11:58",
+      "album": {
+        "name": "DIRTY NACHOS",
+        "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 183439,
+      "name": "PULL UP GHOST-CLAN (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/4iIP8R7F5UUthE6M0JnHFx"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1639,30 +1663,6 @@
       "duration_ms": 165092,
       "name": "Turnt",
       "url": "https://open.spotify.com/track/3FYxg905coMBsZgKfOzz5R"
-    },
-    {
-      "added_at": "2024-03-15 17:11:58",
-      "album": {
-        "name": "DIRTY NACHOS",
-        "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 183439,
-      "name": "PULL UP GHOST-CLAN (feat. 2 Chainz)",
-      "url": "https://open.spotify.com/track/4iIP8R7F5UUthE6M0JnHFx"
     },
     {
       "added_at": "2023-12-01 05:00:00",

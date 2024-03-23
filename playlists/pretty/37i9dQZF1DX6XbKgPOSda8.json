@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Oi nom\u00e1s ese cumbi\u00f3n! ",
-  "num_followers": 195292,
+  "num_followers": 195425,
   "original_name": "Cumbias Para Bailar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTkwMzhkYTYxNGIwY2EzZTM5NTIwYzcwNGYyZGRmZDcwNGM0NmY1",
+  "snapshot_id": "MCw3NmEwZjBiYjEwNjE4YWZhNDllMmQ5MmU1NjZiNjg0OGQ4N2YzNjM0",
   "tracks": [
     {
       "added_at": "2022-08-02 23:23:30",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Guarachando",
-        "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        }
-      ],
-      "duration_ms": 244413,
-      "name": "Coraz\u00f3n Solitario",
-      "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Felicidad",
         "url": "https://open.spotify.com/album/62sFaXABrQ6potGL10NAtl"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 197640,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/5BAbezIjIvHR4VOMECrIv9"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Guarachando",
+        "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "duration_ms": 244413,
+      "name": "Coraz\u00f3n Solitario",
+      "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Amor De 3",
-        "url": "https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF"
-      },
-      "artists": [
-        {
-          "name": "Aroma",
-          "url": "https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX"
-        }
-      ],
-      "duration_ms": 188440,
-      "name": "Amor De Tres",
-      "url": "https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Agua De Vida",
         "url": "https://open.spotify.com/album/7I9KOeQ3uj3CMRcRg5Sf2l"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 214826,
       "name": "Agua De Vida",
       "url": "https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Amor De 3",
+        "url": "https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF"
+      },
+      "artists": [
+        {
+          "name": "Aroma",
+          "url": "https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX"
+        }
+      ],
+      "duration_ms": 188440,
+      "name": "Amor De Tres",
+      "url": "https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Antologia",
-        "url": "https://open.spotify.com/album/22gKrOfQu54UShnskCA7Fr"
+        "name": "A Bailar Tropical",
+        "url": "https://open.spotify.com/album/4jsWeqoxStBEjucGK7Quuv"
       },
       "artists": [
         {
-          "name": "Alberto Pedraza Con Su Ritmo Y Sabor",
-          "url": "https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl"
+          "name": "Rodolfo Su Tipica",
+          "url": "https://open.spotify.com/artist/5qBFpNp9zx5aihCltUNxAJ"
         }
       ],
-      "duration_ms": 280853,
-      "name": "Corazon Enamorado",
-      "url": "https://open.spotify.com/track/51KykeJrnWtNyDoNcJelcZ"
+      "duration_ms": 173490,
+      "name": "Carola",
+      "url": "https://open.spotify.com/track/5ruhUADQWwKmsaFBZH4yFO"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1611,34 +1611,18 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "A Bailar Tropical",
-        "url": "https://open.spotify.com/album/4jsWeqoxStBEjucGK7Quuv"
+        "name": "Antologia",
+        "url": "https://open.spotify.com/album/22gKrOfQu54UShnskCA7Fr"
       },
       "artists": [
         {
-          "name": "Rodolfo Su Tipica",
-          "url": "https://open.spotify.com/artist/5qBFpNp9zx5aihCltUNxAJ"
+          "name": "Alberto Pedraza Con Su Ritmo Y Sabor",
+          "url": "https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl"
         }
       ],
-      "duration_ms": 173490,
-      "name": "Carola",
-      "url": "https://open.spotify.com/track/5ruhUADQWwKmsaFBZH4yFO"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
-        "name": "Lo Nuevo y Lo Mejor",
-        "url": "https://open.spotify.com/album/7IOXamyEMVDDWuF37WM1gH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maravilla",
-          "url": "https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Vuela Mariposa",
-      "url": "https://open.spotify.com/track/0Bug1bbPyzpXmS0o0X878J"
+      "duration_ms": 280853,
+      "name": "Corazon Enamorado",
+      "url": "https://open.spotify.com/track/51KykeJrnWtNyDoNcJelcZ"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1655,6 +1639,22 @@
       "duration_ms": 167746,
       "name": "Cumbia del cuervo",
       "url": "https://open.spotify.com/track/5KluSQOD7MMDVVfTwnjaAo"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Lo Nuevo y Lo Mejor",
+        "url": "https://open.spotify.com/album/7IOXamyEMVDDWuF37WM1gH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maravilla",
+          "url": "https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "Vuela Mariposa",
+      "url": "https://open.spotify.com/track/0Bug1bbPyzpXmS0o0X878J"
     },
     {
       "added_at": "2022-08-02 23:23:30",

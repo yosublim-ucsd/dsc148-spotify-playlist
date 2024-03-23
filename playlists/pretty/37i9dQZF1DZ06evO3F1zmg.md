@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,191 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,197 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 49 | [Seesaw \(feat\. Saweetie\)](https://open.spotify.com/track/1rlASnWYQsgGz9g2YVCl6I) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Seesaw](https://open.spotify.com/album/0fR9mr0fEAvAlLl0Ks5E0B) | 3:44 |
 | 50 | [Emotional \(feat\. Quavo\)](https://open.spotify.com/track/4rrFGOdnreypzg6ux5mdPh) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 3:10 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA1ZGQ0MDY1NDZlYTcxOGUwYjE0NzEyNDhiYjAwOTg5NQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA1YWU4NzRkNDNhODc5MWRmZDgwMWEwODk4Yzg5MGY1ZQ==`

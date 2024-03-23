@@ -4,7 +4,7 @@
 
 > Bluesy blips and blops
 
-81 songs - 5 hr 36 min
+82 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [The Fire](https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:42 | 2020-12-01 |  |
 | [The Killing Ground](https://open.spotify.com/track/4TO703ZoI5BBF9VwLoatq7) | [Recoil](https://open.spotify.com/artist/2FsVA4kCeWeuzhll2D8HtT) | [Subhuman](https://open.spotify.com/album/3TplwghFmTTDSfDMQ1gFzG) | 9:55 | 2020-12-01 |  |
 | [This Is For Everyone \- Original Mix](https://open.spotify.com/track/1uGvKTjvBCN1NYzS2DIjCr) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Paul Naylor](https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5) | [This Is For Everyone](https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7) | 3:49 | 2020-12-01 |  |
+| [Troubled \- Whiskey and a Saddle Part One](https://open.spotify.com/track/61k4urgjSdyLegkf0yBlwT) | [Charlie Beale](https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o) | [Troubled \(Whiskey and a Saddle Part One\)](https://open.spotify.com/album/55uUuquxQLTgp4xHPahzDp) | 2:53 | 2024-03-22 |  |
 | [Victim](https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD) | [Mblue](https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ) | [Victim](https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9) | 2:52 | 2022-09-30 |  |
 | [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/track/3AbawelgHpuAm3VTz7vAgF) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/album/0itpRa7RxoZXXhuOYJALqS) | 3:11 | 2023-02-03 | 2024-02-08 |
 | [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/track/3fxmPJD9uAhBmQLPqxsW3g) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [We'r Gonna Have \(A Good Time\)](https://open.spotify.com/album/5ppQwO8UwO15NrEpDlVg88) | 3:11 | 2023-03-17 |  |

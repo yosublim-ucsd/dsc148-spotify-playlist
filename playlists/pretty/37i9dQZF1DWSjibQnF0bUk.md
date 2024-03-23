@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,055 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,277 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 49 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 |
 | 50 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 |
 | 51 | [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 |
-| 52 | [Gaza](https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:14 |
-| 53 | [WO WO \(Remix\)](https://open.spotify.com/track/7v6HbQggLsB2UUCqABkJoX) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [WO WO \(Remix\)](https://open.spotify.com/album/3wwREZUMLVKc33adNjlAhi) | 3:45 |
+| 52 | [WO WO \(Remix\)](https://open.spotify.com/track/7v6HbQggLsB2UUCqABkJoX) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [WO WO \(Remix\)](https://open.spotify.com/album/3wwREZUMLVKc33adNjlAhi) | 3:45 |
+| 53 | [Gaza](https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:14 |
 | 54 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
 | 55 | [Won Da Mo](https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Won Da Mo](https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC) | 4:07 |
 | 56 | [Single Again](https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Single Again](https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI) | 3:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 59 | [Sharpiru](https://open.spotify.com/track/3UnV8C3DyIns9oEQRt0UnZ) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Sharpiru](https://open.spotify.com/album/3G8ivhEbQ9MREc8PZrROgr) | 3:28 |
 | 60 | [In Love](https://open.spotify.com/track/78LJK1nCgnYprkhLK0JriD) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Bad Boy Etiquette 101](https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp) | 3:20 |
 
-Snapshot ID: `MCxmZGY1ODc3Y2FkMzZmZGZjOWMyNzhmYzRhNWQ2NjM4NTgxZmYxNmZj`
+Snapshot ID: `MCw3ZDUxNDc1MmViZmNiYjkyMTI4NWUzNjlmOWQ1ODU5YTc0YjEyMGFj`

@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=QOxAEPw5SfeFdIYUaljgEA">Christina Shusho</a>
 
-148 songs - 13 hr 50 min
+149 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Mema](https://open.spotify.com/track/0oOQmt04tGucSnvij5jfbW) | [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq) | [Mema](https://open.spotify.com/album/3Hqy9SSDsYpFNHOG5EOuyD) | 2:48 | 2023-09-08 |  |
 | [Mifupani](https://open.spotify.com/track/4Ls6DToql6xu7jkEnCnuod) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Trust](https://open.spotify.com/album/7GX4V7LPwYaDJ1XXTXL1e4) | 4:13 | 2022-06-24 |  |
 | [Mifupani](https://open.spotify.com/track/0C2cGCNAmY64HF7qI4Km1r) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Trust \- EP](https://open.spotify.com/album/7n7K6yc1AkF1aX7ONFSbBC) | 4:13 | 2022-06-24 | 2023-03-26 |
+| [MILELE](https://open.spotify.com/track/2a72cpPspJ8Hy4llluef0T) | [Jemmimah Thiong'o](https://open.spotify.com/artist/5qSYakkSOUagBtuyQE7CDC) | [IMANI](https://open.spotify.com/album/3vpJvWOSfBfloAFUCKc83W) | 4:33 | 2024-03-22 |  |
 | [Mimi Ni Wa Juu](https://open.spotify.com/track/13uQrjPPEOv9pVfTJm14LU) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Mimi Ni Wa Juu](https://open.spotify.com/album/6OYWPLTZstNkzi8de2fRdB) | 3:50 | 2022-06-24 |  |
 | [Mimi Ni Wa Juu](https://open.spotify.com/track/1LaX0UP4cGeNNTO97BfVdW) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Mimi Ni Wa Juu](https://open.spotify.com/album/0tGxET5L3eT9Sd8JzEmTma) | 3:51 | 2022-06-24 | 2022-07-29 |
 | [MIPANGO YA MUNGU \- LIVE](https://open.spotify.com/track/4WtjItEj1oDmzoGnMww63A) | [Jemmimah Thiong'o](https://open.spotify.com/artist/5qSYakkSOUagBtuyQE7CDC) | [BY FAITH ALL THE WAY \(LIVE\)](https://open.spotify.com/album/0BYK7CQapZgEasptDNl9Gr) | 5:32 | 2023-07-07 |  |

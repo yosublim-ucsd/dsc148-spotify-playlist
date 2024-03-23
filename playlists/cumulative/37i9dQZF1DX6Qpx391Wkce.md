@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-236 songs - 22 hr 18 min
+237 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Goliath](https://open.spotify.com/track/4APrFO2JX1Rs1UAFeScbKQ) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC) | [Quiet Distortion](https://open.spotify.com/album/2DDFVyjV6IE1EjLjiQaJnz) | 7:26 | 2024-01-26 |  |
 | [Grindhouse \- Dubfire Terror Planet Remix](https://open.spotify.com/track/6cWyenLjfkdA6a7cXkikD8) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3), [Danton Eeprom](https://open.spotify.com/artist/48LKDIKwlzamLpe4WTfgYz), [Dubfire](https://open.spotify.com/artist/6OR1sJZO6npNmGEFu3R1et) | [Grindhouse](https://open.spotify.com/album/0PlC0qZQh5qwedMapu16Ug) | 10:53 | 2024-01-12 | 2024-02-10 |
 | [Hand In Hand \- Rebūke Remix](https://open.spotify.com/track/4z5TeX7iJyiBU0J0CbzToz) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Hand In Hand \(Rebūke Remix\)](https://open.spotify.com/album/5wIL4TEUoXGtAaKWektbnc) | 2:45 | 2023-12-01 | 2024-01-13 |
-| [Heavy Mental](https://open.spotify.com/track/7xC3QWFXihruSUAGg0yV2p) | [Balthazar & JackRock](https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA) | [Heavy Mental](https://open.spotify.com/album/5iRDtxcELPkiRILjzO2wJz) | 6:15 | 2024-02-09 |  |
+| [Heavy Mental](https://open.spotify.com/track/5WVBKX7vgFzJBGJL0OynIs) | [Balthazar & JackRock](https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA) | [Heavy Mental](https://open.spotify.com/album/0RYoOBzv9RPVv6PW5YlKuG) | 6:15 | 2024-03-01 |  |
+| [Heavy Mental](https://open.spotify.com/track/7xC3QWFXihruSUAGg0yV2p) | [Balthazar & JackRock](https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA) | [Heavy Mental](https://open.spotify.com/album/5iRDtxcELPkiRILjzO2wJz) | 6:15 | 2024-02-09 | 2024-03-23 |
 | [Hemera](https://open.spotify.com/track/5tOYSYhbf8pEcMLpx93qrG) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [In Memoro](https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm) | 5:39 | 2023-07-14 | 2023-11-10 |
 | [HEY DJ](https://open.spotify.com/track/7qFvhLqCeIn0DzuaSOiesv) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [HEY DJ](https://open.spotify.com/album/1aISciPEedMIeuaLiarVIL) | 6:51 | 2023-07-14 | 2023-08-26 |
 | [Hick \- Pan\-Pot Remix](https://open.spotify.com/track/5sGtHaUKoaGlp68uEp7oz6) | [Namito](https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ), [Rainer Weichhold](https://open.spotify.com/artist/5ZZEDlsQsxJqj2svh4GqZD), [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [Hick \(Pan\-Pot Remix\)](https://open.spotify.com/album/6fthnKNuVFdWZOhFFlRJEK) | 6:40 | 2023-07-14 | 2024-01-06 |

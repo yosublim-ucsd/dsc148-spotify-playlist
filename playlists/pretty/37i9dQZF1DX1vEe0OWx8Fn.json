@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 84204,
+  "num_followers": 84227,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2VjODAwNWUyNWNjYWZlZTZhMDZhY2VlODhjMDczN2ZiZThlMDFi",
+  "snapshot_id": "MCwxZDAyNTIwMTNkMTZlNDdiZTc1OGFjNDhiNDU2YWM5YzI3NDQyNmVj",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/6af3Z9vEogmAowqE0JOIFj"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 122998,
+      "name": "Knife Under My Pillow",
+      "url": "https://open.spotify.com/track/3sFW3Wru7nPZkhf4BDTXUf"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
         "name": "I Left You In Minnesota",
         "url": "https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 128983,
       "name": "Her",
       "url": "https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "PARANOIA",
-        "url": "https://open.spotify.com/album/6af3Z9vEogmAowqE0JOIFj"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 122998,
-      "name": "Knife Under My Pillow",
-      "url": "https://open.spotify.com/track/3sFW3Wru7nPZkhf4BDTXUf"
     },
     {
       "added_at": "2022-08-16 22:06:35",

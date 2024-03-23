@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Ege Can Sal.
 
-1,273 songs - 2 day 22 hr 16 min
+1,274 songs - 2 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [Hielo](https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Hielo](https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g) | 3:04 | 2024-01-19 |  |
 | [Higa](https://open.spotify.com/track/63qA4ydokzNOFpsaNlsYsC) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/3H8htbv4nP3HIjpOCbxm67) | 4:05 | 2022-02-03 | 2022-07-29 |
 | [Higa](https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF) | 4:05 | 2022-06-29 | 2022-12-15 |
+| [Highways](https://open.spotify.com/track/6SGkkODfeLLZu3NI0BdFh6) | [Sophia Veraz](https://open.spotify.com/artist/5MCKCM0EPBoVHTJCGOcybJ) | [Sorry To Tell You But You Felt Like Hell](https://open.spotify.com/album/2TEt6tkhFpIAijAehHj1tl) | 3:03 | 2024-03-17 |  |
 | [Himala](https://open.spotify.com/track/3v8EvCxPcfwlStnCKtlzfi) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Himala](https://open.spotify.com/album/11Fm9RQJskICPrsWdIcNaL) | 4:21 | 2022-02-03 | 2022-03-18 |
 | [HINATA](https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:55 | 2023-10-27 |  |
 | [Historia Sin Fin](https://open.spotify.com/track/08SsEIpat1aDufEsRIQQwd) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Historia Sin Fin](https://open.spotify.com/album/6HWYOv6cSlYvLCBYD1HuGP) | 2:00 | 2022-03-24 | 2022-04-16 |
@@ -819,7 +820,7 @@
 | [PPT \(Patita Pa Tra\)](https://open.spotify.com/track/4LLPvnckbEITdIaF2hc28W) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [PPT \(Patita Pa Tra\)](https://open.spotify.com/album/7cjIuMyS3K0HwvdWSzOWZg) | 2:45 | 2022-03-24 | 2022-04-20 |
 | [pressure & release](https://open.spotify.com/track/6BzTik1v9IdQpXMxsBXAsY) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [pressure & release](https://open.spotify.com/album/2aCwGrHZVzuNtjUlxZY9JU) | 3:20 | 2023-02-03 | 2023-10-06 |
 | [Pretendientes](https://open.spotify.com/track/5vvug4pdPnLO0d0pxpy8dT) | [Lo Blanquito](https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp) | [B.Y.E.](https://open.spotify.com/album/6hJJxkEe36NL2jmE15K9C2) | 2:44 | 2022-03-24 | 2022-04-20 |
-| [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-12-07 |  |
+| [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-12-07 | 2024-03-23 |
 | [procrastinating](https://open.spotify.com/track/15iHiRaaYkXvpN5b8iGqDE) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [homebody](https://open.spotify.com/album/5iUZfXOCka0QcPl5KEwdKp) | 2:20 | 2023-10-27 |  |
 | [Promise](https://open.spotify.com/track/5UOvuk2PlJcSYOtRcGgWLn) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Promise](https://open.spotify.com/album/73LceCGDR2PwTzCp4jPpS5) | 3:33 | 2022-02-03 | 2022-08-02 |
 | [Promise](https://open.spotify.com/track/7f8J4YRGkwAJdPGFB6JWSk) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Promise](https://open.spotify.com/album/3HEh0OCDDBE5ECmzIgPuPD) | 4:17 | 2022-03-24 | 2023-01-28 |

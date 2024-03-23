@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Moglii
 
-688 songs - 1 day 23 hr 47 min
+689 songs - 1 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [Fader \- Edit](https://open.spotify.com/track/4oR9onkuU2xWQL3E5apApP) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Fader](https://open.spotify.com/album/2WKucBnirwfJwNMtcxxD1U) | 2:24 | 2023-06-22 | 2023-07-14 |
 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 | 2023-05-04 | 2023-11-03 |
 | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92) | 3:32 | 2024-02-15 |  |
-| [Fantasy \- Sofia Kourtesis Remix](https://open.spotify.com/track/3ETFK4bJe6LOJRuTnoR4Nl) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Fantasy Remixes](https://open.spotify.com/album/7KSknfmHoGrBd4pXYLxziO) | 4:08 | 2024-03-21 |  |
+| [Fantasy \- Sofia Kourtesis Remix](https://open.spotify.com/track/0rm385SIdp7KV248WA3yI4) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Fantasy Remixes](https://open.spotify.com/album/2RwQ0yrsnvl3YRx1FfkKsH) | 4:08 | 2024-03-21 |  |
+| [Fantasy \- Sofia Kourtesis Remix](https://open.spotify.com/track/3ETFK4bJe6LOJRuTnoR4Nl) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Fantasy Remixes](https://open.spotify.com/album/7KSknfmHoGrBd4pXYLxziO) | 4:08 | 2024-03-21 | 2024-03-23 |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 | 2023-08-17 | 2024-01-12 |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-06 | 2023-08-21 |
 | [Feel The Same](https://open.spotify.com/track/2VpoQq4skMUOJNumZWIR2F) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Feel The Same](https://open.spotify.com/album/7BkQXxFdJJwaPB37QvrxQs) | 3:43 | 2023-05-18 | 2023-09-29 |

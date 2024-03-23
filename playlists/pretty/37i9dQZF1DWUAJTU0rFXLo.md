@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 
 > Músicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Dafé
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,000 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,011 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,16 +80,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 70 | [A Banda do Zé Pretinho](https://open.spotify.com/track/4jSiAZQpsA1mAS3RE0UHCo) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Banda do Zé Pretinho](https://open.spotify.com/album/2C94EAIFBPnTcq7z8Xj7oe) | 3:59 |
 | 71 | [Check My Machine \- Edit / Remastered 2011](https://open.spotify.com/track/6dtZuW3qCqBvY7oeKCzQF7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 5:50 |
 | 72 | [Got My Mojo Workin'](https://open.spotify.com/track/7i8YfqTfMuGrADrOQTigrb) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Got My Mojo Workin'](https://open.spotify.com/album/7M0FL4rB8lWBzMQXzyhuiO) | 8:02 |
-| 73 | [Congênito](https://open.spotify.com/track/7Kiw2eWnLpXmnKXKxpCcq0) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Maravilhas Contemporâneas](https://open.spotify.com/album/5xPNrY6HwxlqlLvpx0S9EA) | 3:32 |
+| 73 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Funk Classics The 80's](https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q) | 3:54 |
 | 74 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 |
-| 75 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Funk Classics The 80's](https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q) | 3:54 |
+| 75 | [Congênito](https://open.spotify.com/track/7Kiw2eWnLpXmnKXKxpCcq0) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Maravilhas Contemporâneas](https://open.spotify.com/album/5xPNrY6HwxlqlLvpx0S9EA) | 3:32 |
 | 76 | [Vidigal](https://open.spotify.com/track/4y2Va0sLjrmSb0iAovAkmP) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Gafieira Universal](https://open.spotify.com/album/38pRkmDsvQHMvkqIgvJyo3) | 3:37 |
 | 77 | [Betcha Wouldn't Hurt Me \- Extended Version](https://open.spotify.com/track/4WvU1mDTPDRJ349kqLK9OH) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 3:46 |
 | 78 | [Manhã](https://open.spotify.com/track/6Pr8fOfppj8C6qpkAYDDzE) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Azimüth](https://open.spotify.com/album/1q5loxqHL3JmsQ9zxBTw6f) | 3:45 |
 | 79 | [I'm In Love](https://open.spotify.com/track/5IhBjmG7k7z9HVkvPl17N5) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [I'm In Love \(Expanded Edition\)](https://open.spotify.com/album/5SZVTXdGx4zFBQqTxVXUcE) | 5:05 |
 | 80 | [Somebody's Else's Guy](https://open.spotify.com/track/30cx30IqPRCZCFwObudwYb) | [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Classics Funky Music, Vol\. 2](https://open.spotify.com/album/79GSZ1xDApKaw6BHNW5yly) | 6:29 |
-| 81 | [Mentira \(Chega De Mentira\)](https://open.spotify.com/track/2F79mAPt1qPENDvq0njWoP) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Bis Bossa Nova \- Marcos Valle](https://open.spotify.com/album/354iFS0exBrdnRxQis9SN0) | 3:42 |
-| 82 | [O Ganso](https://open.spotify.com/track/7jIIAt8UbkGoqIaIl5SZDY) | [Ed Lincoln](https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU) | [Ed Lincoln](https://open.spotify.com/album/2XY7GAKG42EYKezC8SKuon) | 2:40 |
+| 81 | [O Ganso](https://open.spotify.com/track/7jIIAt8UbkGoqIaIl5SZDY) | [Ed Lincoln](https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU) | [Ed Lincoln](https://open.spotify.com/album/2XY7GAKG42EYKezC8SKuon) | 2:40 |
+| 82 | [Mentira \(Chega De Mentira\)](https://open.spotify.com/track/2F79mAPt1qPENDvq0njWoP) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Bis Bossa Nova \- Marcos Valle](https://open.spotify.com/album/354iFS0exBrdnRxQis9SN0) | 3:42 |
 | 83 | [Jacaranda](https://open.spotify.com/track/1kZ1Zm6zFYxypwn4GVQz4S) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jacaranda](https://open.spotify.com/album/574GqifDRYz5907qCC7TgU) | 4:09 |
 | 84 | [BR\-3](https://open.spotify.com/track/46K2Fg0qmy9wOzozHWSV2Q) | [Toni Tornado](https://open.spotify.com/artist/6HnFUvKuOXAxQBT7GI99yZ) | [B.R.3](https://open.spotify.com/album/2emB3ekuPrMS6pxhIPv9ij) | 3:02 |
 | 85 | [Homem Pássaro](https://open.spotify.com/track/1Uqv00LUu1Tcc88ODusHbH) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Deus, A Natureza E A Música](https://open.spotify.com/album/0bDXy2W26ogvTl4tWPwWqm) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 99 | [Ngiculela\-Es Una Historia\-I Am Singing](https://open.spotify.com/track/49jWPMEvoGPNRYSd4vEXSo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:48 |
 | 100 | [Jhony](https://open.spotify.com/track/2w6y4oJAWTzoLuG7GnIlyb) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Disco Club](https://open.spotify.com/album/5D5OGW1c4enqcI9fqs1XWt) | 2:19 |
 
-Snapshot ID: `MCxkNTBkZTZhOWRkNmQxYzc5OGNhZjIzOTA2MzI0OWEyMzA2MDVhZmE1`
+Snapshot ID: `MCxmNTNmOTRhNTI1Yjg1ODNjNTNmNzNkMzkzNzdjY2EzOGQyZmU0Yjdm`

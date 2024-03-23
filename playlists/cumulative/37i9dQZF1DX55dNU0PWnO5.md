@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops
 
-400 songs - 1 day 0 hr 22 min
+401 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Existential Being](https://open.spotify.com/track/0GSc04FDZiOY7DVJ3Ya1z8) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Virtual Essence](https://open.spotify.com/album/6lTeR0g2ksvePonTWXQ0U8) | 2:38 | 2022-01-28 | 2022-07-29 |
 | [Expedition](https://open.spotify.com/track/5xCeDshnYgGftDALYye1EQ) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Expedition](https://open.spotify.com/album/42rnoZ9GP4PYb31JO4vvd4) | 2:50 | 2023-05-12 |  |
 | [Figures](https://open.spotify.com/track/6Rh95LODQfId7hlJcheddl) | [Blossum](https://open.spotify.com/artist/5n57oRR8VeYTcFnpz6svA4) | [Figures](https://open.spotify.com/album/6zoX5kJVZ6EaPtuUuyVpJc) | 2:32 | 2023-07-14 |  |
+| [First Lemonade](https://open.spotify.com/track/6qhHMnTIFQ5ZJbzXTP36tP) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [First Lemonade](https://open.spotify.com/album/54FufUN5eZagqdaM3Zc9xs) | 2:41 | 2024-03-22 |  |
 | [Firstness Of Thirdness](https://open.spotify.com/track/0H2wXPNBzwhQZ2dl29oREL) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Alex Miller](https://open.spotify.com/artist/5xGIs7mygfi7WHhMGV5Y6B), [John Polace](https://open.spotify.com/artist/4r6OedFsNy518CrCkPIoHl), [Gino West](https://open.spotify.com/artist/3EBzXSPpNX3D2n1MtTF2WG), [Tommy Lehman](https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h), [Xavier Dimoff](https://open.spotify.com/artist/4Nkc9wQNgoI2iuVLazb38Y), [Francesco Corrado](https://open.spotify.com/artist/4wUPQqWxUO6YJnFkdcaREW), [Nicholas Frank](https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Nathan Negro](https://open.spotify.com/artist/5MkP1dcgXSH7fXnjfHbIgR), [Kevin Maxwell Smith](https://open.spotify.com/artist/7MvzsmpRPdCA7QD4YkVXoF), [John James Martin](https://open.spotify.com/artist/1Wp0Zg0DAgl82ATjGAvfn7) | [Firstness Of Thirdness](https://open.spotify.com/album/1lXZBTh7s2ihX7z0Mky5H6) | 3:15 | 2021-03-05 | 2022-07-29 |
 | [Flight](https://open.spotify.com/track/7cT65ZTOYYCFCQ2Ry4coL7) | [Mansur Brown](https://open.spotify.com/artist/1ky3oGuE5XOsOzqiFEGwqR) | [Flight](https://open.spotify.com/album/4mK9y9yi06GxXeeLEwNmlQ) | 4:59 | 2021-07-23 |  |
 | [Flipside](https://open.spotify.com/track/0gK9406OcLfxwjnkQt8HDv) | [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM) | [Flipside](https://open.spotify.com/album/3Hr8D92qlwJkFague8VGKg) | 2:42 | 2021-07-19 | 2023-09-16 |
@@ -275,7 +276,7 @@
 | [Pulse](https://open.spotify.com/track/0L23Lh4ALOAJSUVBxHWLMt) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Matt Zara](https://open.spotify.com/artist/7esr72Ko5ghnnhZZSAxqHL) | [Pulse](https://open.spotify.com/album/47fhitalFxOfp647SOyW6y) | 3:32 | 2021-12-03 |  |
 | [r&r](https://open.spotify.com/track/3h1sX3o4ZqOQpVtxL3U1mE) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/4WGxcr3aYMv1Dm6Xl1bwRN) | 3:27 | 2023-06-23 |  |
 | [Raz](https://open.spotify.com/track/1IHqcR48RW48H7S6sbiRC6) | [Studnitzky](https://open.spotify.com/artist/3B74gpltsxmayfY8oLTyc6) | [Nocturnal](https://open.spotify.com/album/0CMehAXs4eKAafMc7Ghy5X) | 5:12 | 2022-04-29 |  |
-| [re:pass \- Edit](https://open.spotify.com/track/5ZcGOKLKg1y5IKxpcqezv1) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA) | [re:pass \(Edit\)](https://open.spotify.com/album/5QzgrQW4W6gIYoSmXyELtR) | 2:44 | 2022-06-03 |  |
+| [re:pass \- Edit](https://open.spotify.com/track/5ZcGOKLKg1y5IKxpcqezv1) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA) | [re:pass \(Edit\)](https://open.spotify.com/album/5QzgrQW4W6gIYoSmXyELtR) | 2:44 | 2022-06-03 | 2024-03-23 |
 | [RED PILL](https://open.spotify.com/track/2XFuWi1l0V7tTQsfXWPotg) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG) | [RED PILL](https://open.spotify.com/album/1aqoGWInaXRSQrc9Daxrtm) | 2:41 | 2022-07-08 | 2024-01-13 |
 | [Regular Groove \- Remix](https://open.spotify.com/track/5v83Hcu9AS6YO2qtwWPVBY) | [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr), [Ayjay Nils](https://open.spotify.com/artist/5KQNqrksTsuOyxQjp00Pe4) | [Regular Groove \(Remix\)](https://open.spotify.com/album/6LPk4HK9Z2Jyr6avSUczQZ) | 4:34 | 2024-02-16 |  |
 | [Requez](https://open.spotify.com/track/7ddzYGkufjhFNKuSnQ2HLc) | [The Lasso](https://open.spotify.com/artist/65aMEDDhSsuHYCKhdmQj5N), [Jordan Hamilton](https://open.spotify.com/artist/0td9fO3GtOdkV4qoHPBo6H), [The Saxsquatch](https://open.spotify.com/artist/0JUIcVe77tU9YanYIX6fwY) | [Requez](https://open.spotify.com/album/22sqixfPAzKpFeFEHBJaOO) | 2:10 | 2021-06-25 | 2022-07-29 |

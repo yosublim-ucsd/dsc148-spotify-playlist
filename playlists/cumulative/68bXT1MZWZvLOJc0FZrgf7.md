@@ -2,9 +2,9 @@
 
 ### [Dance For Days 🪩🕺 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Cash Cash &amp; Bryce Vine
+> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Mahmut Orhan
 
-563 songs - 1 day 5 hr 17 min
+564 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [Overdue \(feat\. DJ Lag & Kooldrink\)](https://open.spotify.com/track/1Nx3wKSjqj51Vslhc7CAhy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Overdue \(feat\. DJ Lag & Kooldrink\)](https://open.spotify.com/album/6Uq5Pk9aQB5hM4hiFOvdOq) | 3:46 | 2022-06-03 | 2022-10-29 |
 | [Oye](https://open.spotify.com/track/1hfdlVMaj6oqYLugViIIjt) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Poncho De Nigris](https://open.spotify.com/artist/64uKFTM2qQ8J49bWPydbJO) | [Oye](https://open.spotify.com/album/1Ag8cRk4gHjVZmiI6rzrm8) | 4:07 | 2023-03-17 | 2023-07-29 |
 | [Pain Relief](https://open.spotify.com/track/6IaMN44JseCkhXVI7REbjf) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Pain Relief](https://open.spotify.com/album/6TClEn1MzrbuxS6CzT0rdf) | 2:31 | 2023-05-19 | 2023-12-14 |
+| [Pangea \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Pangea](https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o) | 4:01 | 2024-03-22 |  |
 | [Paper Aeroplanes](https://open.spotify.com/track/6AKGTDgdHJgSIt8YKIeoyn) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Paper Aeroplanes](https://open.spotify.com/album/0GYAW8iNgRZAZVi88CRFaX) | 3:05 | 2023-06-16 |  |
 | [Paperweight](https://open.spotify.com/track/0SKXLGt0C1AtgJmjFd9P1u) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Paperweight](https://open.spotify.com/album/6NM22zbUwJhq2Zf8DKhmcP) | 3:10 | 2022-09-02 | 2022-11-19 |
 | [Paradise](https://open.spotify.com/track/60STJ5y9RdFsbFBVwsLpEP) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Paradise](https://open.spotify.com/album/6R6Q9qbwHVHTtS7J3jQSa6) | 3:04 | 2022-06-03 | 2022-11-05 |

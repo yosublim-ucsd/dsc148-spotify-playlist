@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Nonpalidece",
-  "num_followers": 1220401,
+  "num_followers": 1220472,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2ZlYTM1NDYzMjkzNmM1ZDFjN2VhMDI3ODk1OWMyYmE1YTc2MTkw",
+  "snapshot_id": "MCw4ZjZmZjU4ZTA1NGZhYzA5ZTQ2YzlhZjVkMWI4ODg1NDBkODc2N2Jj",
   "tracks": [
     {
       "added_at": "2024-01-26 04:59:00",
@@ -1423,22 +1423,18 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
-        "name": "Pupilas Lejanas",
-        "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
+        "name": "Kultura Babylon",
+        "url": "https://open.spotify.com/album/4xisbZxOFYpVoxqJumZiTZ"
       },
       "artists": [
         {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "Laguna Pai",
+          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Pupilas Lejanas",
-      "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
+      "duration_ms": 238040,
+      "name": "Kultura Babylon",
+      "url": "https://open.spotify.com/track/3FEHIGm7Ox5HSZsTI1W1RP"
     },
     {
       "added_at": "2024-01-26 04:59:00",
@@ -1459,18 +1455,22 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
-        "name": "Kultura Babylon",
-        "url": "https://open.spotify.com/album/4xisbZxOFYpVoxqJumZiTZ"
+        "name": "Pupilas Lejanas",
+        "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
       },
       "artists": [
         {
-          "name": "Laguna Pai",
-          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 238040,
-      "name": "Kultura Babylon",
-      "url": "https://open.spotify.com/track/3FEHIGm7Ox5HSZsTI1W1RP"
+      "duration_ms": 226000,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
     },
     {
       "added_at": "2024-01-26 04:59:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
-        "name": "Worrrrssss!!!!",
-        "url": "https://open.spotify.com/album/1PAXVnVivLuG9O6fJA3EXu"
-      },
-      "artists": [
-        {
-          "name": "Resistencia Suburbana",
-          "url": "https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ"
-        }
-      ],
-      "duration_ms": 309259,
-      "name": "Por Cultivar Marihuana",
-      "url": "https://open.spotify.com/track/74ELoGdDLdfAq0zeA0AL8x"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
         "name": "CAHUITA",
         "url": "https://open.spotify.com/album/6wZlcqCJd3bX4gDQjloUtQ"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 215908,
       "name": "CAHUITA",
       "url": "https://open.spotify.com/track/732CZbCmAqOO7OkSTCyiNt"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
+        "name": "Worrrrssss!!!!",
+        "url": "https://open.spotify.com/album/1PAXVnVivLuG9O6fJA3EXu"
+      },
+      "artists": [
+        {
+          "name": "Resistencia Suburbana",
+          "url": "https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ"
+        }
+      ],
+      "duration_ms": 309259,
+      "name": "Por Cultivar Marihuana",
+      "url": "https://open.spotify.com/track/74ELoGdDLdfAq0zeA0AL8x"
     },
     {
       "added_at": "2024-01-26 04:59:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
-        "name": "15 Aniversario en el Luna Park",
-        "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 316440,
-      "name": "Ilegal - En Vivo",
-      "url": "https://open.spotify.com/track/2GOSQgWXYsy0rc1GbiWst0"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 220565,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
+        "name": "15 Aniversario en el Luna Park",
+        "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 316440,
+      "name": "Ilegal - En Vivo",
+      "url": "https://open.spotify.com/track/2GOSQgWXYsy0rc1GbiWst0"
     },
     {
       "added_at": "2024-01-26 04:59:00",

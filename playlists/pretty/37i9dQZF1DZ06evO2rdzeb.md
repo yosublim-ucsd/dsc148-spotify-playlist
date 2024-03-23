@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 
 > This is Adrianne Lenker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,292 likes - 36 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,360 likes - 36 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 | 5 | [not a lot, just forever](https://open.spotify.com/track/11hEwcy9LMEvzAlOYAFhkK) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 4:10 |
 | 6 | [Steamboat](https://open.spotify.com/track/6LSkjULcHSSfzVe7NY5iZJ) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 2:41 |
 | 7 | [Indiana](https://open.spotify.com/track/4yVrfsUNtc5RS7nbOv8hHA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides](https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1) | 2:37 |
-| 8 | [symbol](https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:49 |
+| 8 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
 | 9 | [half return](https://open.spotify.com/track/1i8dJGpKO0xQiKGCVslJqB) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:08 |
-| 10 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
+| 10 | [symbol](https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:49 |
 | 11 | [Kerina](https://open.spotify.com/track/57qpL2xmsydc04uBmiH2DC) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides](https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1) | 2:51 |
 | 12 | [A Love of Some Kind](https://open.spotify.com/track/0Lix58xJgTxJyrHuSM7Jny) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 2:53 |
 | 13 | [ingydar](https://open.spotify.com/track/5CpH0bwau1sW8vtTBQ8Erc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 4:08 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 | 35 | [Ringing Bells](https://open.spotify.com/track/5xjqIJjjrLgTD2GBHkDQtJ) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [b\-sides](https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK) | 3:49 |
 | 36 | [blue and red horses](https://open.spotify.com/track/4N2LdRzYxtWKTkHH3G9d1L) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:17 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBjY2QyMjc2ZTNlYmQ5ZWE2ZGExZGI1MWFlMjllODIxOQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBkNzM1ZjU3NmQwZGRlYmZmMjc0NmY2ZjU1Mjk2MDc4NQ==`

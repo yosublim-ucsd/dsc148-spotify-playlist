@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 188247,
+  "num_followers": 188239,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTRlNDJjNzAxYjVkMzA5Y2FiYmFhZmEwMjJkODE2Nzc4YTQxMDU0",
+  "snapshot_id": "MCxhZjQyNDVjMjRhMmZmMDJlYmQ4NjIyMDZkNjQ1ZmEyNjRkZGQ4MmM1",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -509,6 +509,26 @@
       "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
     },
     {
+      "added_at": "2022-12-12 18:18:20",
+      "album": {
+        "name": "Home For The Holidays Vol. 2",
+        "url": "https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 237393,
+      "name": "Might As Well Have Coal (with Baby Tate)",
+      "url": "https://open.spotify.com/track/3HD11WPsqMPGsIIHVRC28u"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "This Christmas",
@@ -545,26 +565,6 @@
       "url": "https://open.spotify.com/track/0xBnJDbPobgPwj7SUKfNbS"
     },
     {
-      "added_at": "2022-12-12 18:18:20",
-      "album": {
-        "name": "Home For The Holidays Vol. 2",
-        "url": "https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 237393,
-      "name": "Might As Well Have Coal (with Baby Tate)",
-      "url": "https://open.spotify.com/track/3HD11WPsqMPGsIIHVRC28u"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Home For Christmas",
@@ -597,6 +597,22 @@
       "url": "https://open.spotify.com/track/73NEyO0Hx5WumrR7TYQWxu"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 181720,
+      "name": "Somebody's Waiting",
+      "url": "https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Joyful, Joyful",
@@ -617,22 +633,6 @@
       "url": "https://open.spotify.com/track/671bbzZZlT7tjVUR8CQ5p8"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Somebody's Waiting",
-      "url": "https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "First Christmas",
@@ -647,6 +647,46 @@
       "duration_ms": 263866,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Another Kind Of Christmas",
+        "url": "https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 202007,
+      "name": "Just Ain't Christmas",
+      "url": "https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Home For The Holidays",
+        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Ghetto Christmas (with 6LACK & Summer Walker)",
+      "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -685,22 +725,6 @@
       "url": "https://open.spotify.com/track/1MV2OvYpxJgSZA9jAHp1Qy"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Another Kind Of Christmas",
-        "url": "https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 202007,
-      "name": "Just Ain't Christmas",
-      "url": "https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
@@ -717,6 +741,22 @@
       "url": "https://open.spotify.com/track/6fjsIxSPXnOjQleb11AYNU"
     },
     {
+      "added_at": "2023-11-18 05:00:00",
+      "album": {
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/4bWvqIdV6KOfrWVjr1AwY0"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 145925,
+      "name": "The Greatest Gift",
+      "url": "https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Home For The Holidays",
@@ -728,17 +768,13 @@
           "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
         },
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 155933,
-      "name": "Ghetto Christmas (with 6LACK & Summer Walker)",
-      "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
+      "duration_ms": 140140,
+      "name": "Santa Baby (with Summer Walker)",
+      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -755,22 +791,6 @@
       "duration_ms": 117520,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
-    },
-    {
-      "added_at": "2023-11-18 05:00:00",
-      "album": {
-        "name": "The Greatest Gift",
-        "url": "https://open.spotify.com/album/4bWvqIdV6KOfrWVjr1AwY0"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 145925,
-      "name": "The Greatest Gift",
-      "url": "https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -827,26 +847,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Home For The Holidays",
-        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 140140,
-      "name": "Santa Baby (with Summer Walker)",
-      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Christmas With Babyface",
         "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
       },
@@ -897,6 +897,26 @@
       "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Home For The Holidays Vol. 2",
+        "url": "https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 259500,
+      "name": "Let It Snow (with dvsn)",
+      "url": "https://open.spotify.com/track/04DnzsJNa4fAkCqAC7CMNo"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "A Mary Christmas",
@@ -933,6 +953,22 @@
       "url": "https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ"
     },
     {
+      "added_at": "2023-12-08 05:22:39",
+      "album": {
+        "name": "Eazy Christmas",
+        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 179435,
+      "name": "Kisses On Christmas",
+      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
+    },
+    {
       "added_at": "2023-11-03 05:45:27",
       "album": {
         "name": "Christmas Kisses",
@@ -953,20 +989,20 @@
       "url": "https://open.spotify.com/track/6kkS5mv7VCMBFjMYRP6iJu"
     },
     {
-      "added_at": "2023-12-08 05:22:39",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Eazy Christmas",
-        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
       },
       "artists": [
         {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
         }
       ],
-      "duration_ms": 179435,
-      "name": "Kisses On Christmas",
-      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
+      "duration_ms": 212755,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -989,74 +1025,6 @@
       "url": "https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 212755,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Home For The Holidays Vol. 2",
-        "url": "https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 259500,
-      "name": "Let It Snow (with dvsn)",
-      "url": "https://open.spotify.com/track/04DnzsJNa4fAkCqAC7CMNo"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "A Special Christmas",
-        "url": "https://open.spotify.com/album/2TEbtyEoKR7pwouo6q2ppC"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/43nFa4io3pDfeWEc1NBPel"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "It's Christmas",
-        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
-    },
-    {
       "added_at": "2022-12-16 05:50:43",
       "album": {
         "name": "Here (For Christmas)",
@@ -1075,6 +1043,38 @@
       "duration_ms": 253046,
       "name": "Here (For Christmas)",
       "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "A Special Christmas",
+        "url": "https://open.spotify.com/album/2TEbtyEoKR7pwouo6q2ppC"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/43nFa4io3pDfeWEc1NBPel"
     },
     {
       "added_at": "2022-11-25 20:23:30",

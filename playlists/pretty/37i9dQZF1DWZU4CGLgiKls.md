@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4CGLgiKls.md) - [plain]
 
 > Se viene el partido, la previa es con música!
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,970 likes - 65 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,974 likes - 65 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4CGLgiKls.md) - [plain]
 | 13 | [Una Noche en Medellín](https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw) | 2:33 |
 | 14 | [Ella Me Levanto](https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cartel: The Big Boss](https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN) | 3:29 |
 | 15 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 |
-| 16 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 |
-| 17 | [Ojitos Chiquitos](https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 3:49 |
+| 16 | [Ojitos Chiquitos](https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 3:49 |
+| 17 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 |
 | 18 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 |
 | 19 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 |
 | 20 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4CGLgiKls.md) - [plain]
 | 37 | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb) | 2:44 |
 | 38 | [Segundos Platos](https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 3:04 |
 | 39 | [Crimen](https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:52 |
-| 40 | [pa quererte](https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [pa quererte](https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3) | 2:47 |
-| 41 | [Por Mil Noches](https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN) | 4:43 |
+| 40 | [Por Mil Noches](https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN) | 4:43 |
+| 41 | [pa quererte](https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [pa quererte](https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3) | 2:47 |
 | 42 | [ULTRA SOLO REMIX](https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [ULTRA SOLO REMIX](https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm) | 5:22 |
 | 43 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
 | 44 | [La Pregunta](https://open.spotify.com/track/2Ob4mHihtOGbx6jnCredFX) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Timeless](https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU) | 4:29 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4CGLgiKls.md) - [plain]
 | 61 | [Malbec](https://open.spotify.com/track/6KEb17S00Inf0v1qYDgUAj) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 2:55 |
 | 62 | [Salgo Pa' la Calle](https://open.spotify.com/track/5hpwyyJJ2JyozFVVRJsfLp) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Talento de Barrio](https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6) | 4:27 |
 | 63 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 |
-| 64 | [Siguiendo la Luna \- Remasterizado 2008](https://open.spotify.com/track/1orgfjGJoycODSItcGVatE) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 4:51 |
-| 65 | [Zun Da Da](https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [The Perfect Melody](https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v) | 5:04 |
+| 64 | [Zun Da Da](https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [The Perfect Melody](https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v) | 5:04 |
+| 65 | [Siguiendo la Luna \- Remasterizado 2008](https://open.spotify.com/track/1orgfjGJoycODSItcGVatE) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 4:51 |
 
-Snapshot ID: `MCwyNGI4MTI1ODc1ZWEwMGE5NmE2NmM4OGRkNmMzMGVmM2FjNzMyYmNi`
+Snapshot ID: `MCxjNWE1ZTJiMzk3MDMyZjE0ZWM1OTg3ODdhMzI1OTZiYzUyNGQwYTQx`

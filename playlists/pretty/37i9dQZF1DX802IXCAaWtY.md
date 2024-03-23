@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,179,685 likes - 70 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,319 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 24 | [Bla Bla Bla](https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV) | 4:15 |
 | 25 | [Push The Feeling On \- Mk Dub Revisited Edit](https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag) | [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Push The Feeling On](https://open.spotify.com/album/5JVyNX3e2hGoOttoe7B8QL) | 4:03 |
 | 26 | [Where Do You Go](https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:32 |
-| 27 | [I Like To Move It \(feat\. The Mad Stuntman\) \( Erick "More" Album Mix\)](https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7) | [Reel 2 Real](https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta), [The Mad Stuntman](https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5), [Erick Morillo](https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb) | [Move It!](https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff) | 3:50 |
-| 28 | [2 Times \- Original](https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH) | [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC) | [2 Times \(Full Package\)](https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv) | 3:50 |
+| 27 | [2 Times \- Original](https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH) | [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC) | [2 Times \(Full Package\)](https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv) | 3:50 |
+| 28 | [I Like To Move It \(feat\. The Mad Stuntman\) \( Erick "More" Album Mix\)](https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7) | [Reel 2 Real](https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta), [The Mad Stuntman](https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5), [Erick Morillo](https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb) | [Move It!](https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff) | 3:50 |
 | 29 | [No Limit](https://open.spotify.com/track/7voHUmPNDuYZ1SW1mwRu26) | [2 Unlimited](https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC) | [No Limits](https://open.spotify.com/album/22s9JNTNHLw9e5wwxKdcF0) | 3:44 |
 | 30 | [Dreams \(Will Come Alive\)](https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm) | [Dreams](https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG) | 4:24 |
 | 31 | [9Pm \(Till I Come\)](https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9) | [Movin' Melodies](https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk) | 3:13 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 48 | [Everybody Everybody](https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:07 |
 | 49 | [Hardcore Vibes](https://open.spotify.com/track/0yx5eBLk3AGOH5EruCqLDx) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r) | [Dune](https://open.spotify.com/album/5hAcH6CTDKGj43pMhp4iwR) | 3:33 |
 | 50 | [Feel the heat of the night \- Radio Edit](https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc) | [Masterboy](https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E) | [Feel the heat of the night](https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY) | 3:41 |
-| 51 | [It's a Rainy Day](https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:15 |
-| 52 | [The Rhythm of the Night](https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS) | 4:24 |
+| 51 | [The Rhythm of the Night](https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS) | 4:24 |
+| 52 | [It's a Rainy Day](https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:15 |
 | 53 | [Sandstorm \- Radio Edit](https://open.spotify.com/track/2kWB9IV8EHDOU9EjgxWFrF) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Sandstorm](https://open.spotify.com/album/0SHWgw0LPDs37Go6oPdaqp) | 3:46 |
 | 54 | [Sexy](https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k) | [French Affair](https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E) | [Belle Epoque](https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr) | 3:51 |
 | 55 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 64 | [Right in the Night \(Fall in Love with Music\)](https://open.spotify.com/track/6x6G0shZs4Qg4YLfLbhR7z) | [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7), [Plavka](https://open.spotify.com/artist/6ALuTGOzgoIUnuiyvqvMW2) | [Tripomatic Fairytales 2001 \(Deluxe Edition\)](https://open.spotify.com/album/24srMCTo4eOojmFVk9iLdt) | 6:04 |
 | 65 | [Flying High \- Radio Mix](https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Flying High](https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a) | 3:46 |
 | 66 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
-| 67 | [I Give You My Heart](https://open.spotify.com/track/5PTWlk21hqWnFu841NOp7k) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:35 |
-| 68 | [Hyper Hyper](https://open.spotify.com/track/2HTkjyB61A90e1sOziRJQc) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Rough And Tough And Dangerous \- The Singles 1994 \- 1998](https://open.spotify.com/album/0FXzH47HIVo1JoPHVT5i2N) | 3:35 |
-| 69 | [Freedom](https://open.spotify.com/track/0pXhsuk0u7vzOtBYdFkaAs) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [Freedom](https://open.spotify.com/album/0Nt7LlU91CFX0yrtXL5DUM) | 3:56 |
-| 70 | [United \- Short Mix](https://open.spotify.com/track/79yxhRPydB5Zs0fWh3QICm) | [Mark 'Oh](https://open.spotify.com/artist/4PTTDM08OI9jnPTOZ7QRn1) | [United](https://open.spotify.com/album/61NPV53hdl13ljABTLGIfF) | 3:41 |
+| 67 | [Hyper Hyper](https://open.spotify.com/track/2HTkjyB61A90e1sOziRJQc) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Rough And Tough And Dangerous \- The Singles 1994 \- 1998](https://open.spotify.com/album/0FXzH47HIVo1JoPHVT5i2N) | 3:35 |
+| 68 | [I Give You My Heart](https://open.spotify.com/track/5PTWlk21hqWnFu841NOp7k) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:35 |
+| 69 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Europop](https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV) | 4:43 |
+| 70 | [Freedom](https://open.spotify.com/track/0pXhsuk0u7vzOtBYdFkaAs) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [Freedom](https://open.spotify.com/album/0Nt7LlU91CFX0yrtXL5DUM) | 3:56 |
 
-Snapshot ID: `MCw2NTEwODljNzk2Yzk0NzlhMTMwYzBlOGY3YzJjNzdkZmEwZWU3M2Mz`
+Snapshot ID: `MCxjODQzODk2YTFmZWQwOGJiZjU2N2Q2NmU2MTkxMWIzMzkyYjhlMmJh`

@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-630 songs - 1 day 2 hr 46 min
+632 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Infatuation](https://open.spotify.com/track/3EOylKjaenyKmwO4R9IDBz) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Infatuation](https://open.spotify.com/album/3JpxCOI4NZtKKIiGjJcPCC) | 2:35 | 2022-06-07 | 2022-09-24 |
 | [Ingénue](https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Ingénue](https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b) | 2:27 | 2023-08-15 |  |
 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 | 2023-06-20 |  |
-| [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 | 2022-06-07 |  |
+| [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 | 2022-06-07 | 2024-03-23 |
 | [Insignia](https://open.spotify.com/track/17moSSyt9oOxVHyewjXLav) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Insignia](https://open.spotify.com/album/6KljnSEKSgk32JLRN4Vd9H) | 2:58 | 2023-10-17 |  |
 | [Interim](https://open.spotify.com/track/60CfZTCT1iHQdnjNrnvpZP) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Interim](https://open.spotify.com/album/1P6PbFhwgTaXXjsl9H6Nh0) | 2:19 | 2023-11-08 |  |
 | [Intermedanos](https://open.spotify.com/track/4XR0XV2Quru1vEYZvTyWEP) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Intermedanos](https://open.spotify.com/album/39KxecFN1USX9DDlAU8ITO) | 2:35 | 2022-06-07 | 2022-12-06 |
@@ -444,7 +444,7 @@
 | [schneller als der Wind](https://open.spotify.com/track/4zUEpKgqktHnXBsVraFPK8) | [Jaz Limon](https://open.spotify.com/artist/6xjq4OBddBYJ6OUaEOIyr6) | [schneller als der Wind](https://open.spotify.com/album/7G8SAjdXikta00iYT0unTf) | 2:58 | 2022-06-07 |  |
 | [Sea Change](https://open.spotify.com/track/3pJnfyKoVePwVmljB6Wun1) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Sea Change](https://open.spotify.com/album/1jqlahQiSw1r4Leg6IQp3S) | 2:51 | 2022-06-07 | 2022-09-15 |
 | [Sea Of Revival](https://open.spotify.com/track/2uiKpgfOX9OHiE6UuYAkU8) | [Martha Sines](https://open.spotify.com/artist/6nAvfA2VeuvrAm6HWNR1ID) | [Sea Of Revival](https://open.spotify.com/album/1thtdvev81NypFN6ZSrbgw) | 2:30 | 2022-06-07 | 2022-09-24 |
-| [Searching](https://open.spotify.com/track/0GZkEa0jm8l2lVvPpkE0fO) | [Matthew Avery](https://open.spotify.com/artist/3dAAhnH2R2Dd2bgZiqSlkR) | [Searching](https://open.spotify.com/album/4ZlIyEvfcba4GQCGb3G1uJ) | 2:02 | 2022-06-07 |  |
+| [Searching](https://open.spotify.com/track/0GZkEa0jm8l2lVvPpkE0fO) | [Matthew Avery](https://open.spotify.com/artist/3dAAhnH2R2Dd2bgZiqSlkR) | [Searching](https://open.spotify.com/album/4ZlIyEvfcba4GQCGb3G1uJ) | 2:02 | 2022-06-07 | 2024-03-23 |
 | [Seconda parte](https://open.spotify.com/track/7mHt21QVehLVUZxDAJC9qJ) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [Seconda parte](https://open.spotify.com/album/0N2JoDGgvu9YfhwHbj9n3x) | 3:21 | 2022-06-07 | 2022-09-24 |
 | [Seeds Of Life](https://open.spotify.com/track/5SGDHySVUTpk4fdjRvYGqB) | [Aestivum](https://open.spotify.com/artist/3QHuI31fQbzUBIVq3uxYF8) | [Seeds Of Life](https://open.spotify.com/album/0bT0nOgO2hMsa4smAlxdIu) | 2:07 | 2022-06-07 |  |
 | [Sehnsucht](https://open.spotify.com/track/3EhtUTpX6miXbO7dzrQDgg) | [Claude Pascalli](https://open.spotify.com/artist/2sqhWN2ZRzjFdYJ6f60yZq) | [tea on a rainy day](https://open.spotify.com/album/5RWO4WBPYvUpFp4mAafWPs) | 2:17 | 2022-06-07 | 2022-09-24 |
@@ -513,6 +513,7 @@
 | [Symposium](https://open.spotify.com/track/2FJiWb3xZQmuZhNYZRK2bJ) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Symposium](https://open.spotify.com/album/7HvhDxhYGGmKftOxbLDcum) | 2:22 | 2022-06-07 | 2023-08-16 |
 | [Tagesanbruch](https://open.spotify.com/track/1aDHl6cO56wwlqKb4hS41w) | [Johann Willmann](https://open.spotify.com/artist/2uwJWkbNwk5L4tq24kZDzB) | [Tagesanbruch](https://open.spotify.com/album/4uXGLJcC65F5HIvKc40TPN) | 2:35 | 2022-06-07 | 2022-09-24 |
 | [Tagtraum](https://open.spotify.com/track/5bNtJUg1EE3XP1dMM79Xvl) | [Lev Monticelli](https://open.spotify.com/artist/2PzaZCyLzfSqZN0Zy01Ys0) | [Im Lärchenwald](https://open.spotify.com/album/6gzewSzvAZpe24mTDvmiNy) | 2:47 | 2022-06-07 |  |
+| [Tales of This](https://open.spotify.com/track/75jwRyL9mbp1kMoYiCWoS2) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Tales of This](https://open.spotify.com/album/3cbLSK4KRqfOYi918vET66) | 2:16 | 2024-03-19 |  |
 | [Tana](https://open.spotify.com/track/0pVxjmRJvXGSZnDp2Wi9WP) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Tana](https://open.spotify.com/album/19M53ox1gdUcimYMaEeeDG) | 2:58 | 2022-06-07 | 2022-12-24 |
 | [Tendrement](https://open.spotify.com/track/4WFF3LgLuK0qGqY1YUdzD6) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [Tendrement](https://open.spotify.com/album/599xVWUaHJbNMwGYfKMnSz) | 2:09 | 2022-06-07 |  |
 | [Terrain libre](https://open.spotify.com/track/2U98faYK9ltVgZix2ZxZKC) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Terrain libre](https://open.spotify.com/album/4P1QMnaWN8yGfujJHayQ6U) | 2:39 | 2022-06-07 | 2023-09-16 |
@@ -589,6 +590,7 @@
 | [Vanishing](https://open.spotify.com/track/0EFseo68EYQE7wptYPTuMG) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Vanishing](https://open.spotify.com/album/7wzFXVYTTkez9YZSRPQBnm) | 3:31 | 2022-06-07 | 2023-10-18 |
 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 | 2022-07-19 | 2023-07-25 |
 | [Veleta](https://open.spotify.com/track/6S7OE2VPyGAEMVotv5jEz1) | [Torsten Hugo](https://open.spotify.com/artist/0tbvvo4GnJ1klnn3H4Mk9g) | [Veleta](https://open.spotify.com/album/5D0Nm6ZKoiVphuMUyuzyiA) | 3:51 | 2022-06-07 | 2022-09-15 |
+| [Velvet Veil](https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Velvet Veil](https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI) | 2:03 | 2024-03-19 |  |
 | [Verlorene Liebe](https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL) | [Jillian Wasser](https://open.spotify.com/artist/5eI8E7aI0efbASULeju84q) | [Verlorene Liebe](https://open.spotify.com/album/36MOUe0F7DpMC0MHG0h777) | 3:02 | 2022-06-07 |  |
 | [View from the Train](https://open.spotify.com/track/5vA4phoFUnQ5hqpKbDmDVt) | [Riley Houser](https://open.spotify.com/artist/2PxJ8BAthpoiOo3XgIJnS2) | [View from the Train](https://open.spotify.com/album/1OgG1AP0mLif0vjZ6CEf2D) | 2:54 | 2022-06-07 | 2023-04-09 |
 | [Vitality](https://open.spotify.com/track/10tC4GQIfS6saBeCfXda1h) | [Jamie Troy](https://open.spotify.com/artist/6NJWSp0xcJQQPzR375b8B3) | [Vitality](https://open.spotify.com/album/5FciHHdDCIuNUnI1jt24nr) | 2:06 | 2022-06-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,544 likes - 206 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,824 likes - 206 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 9 | [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 |
 | 10 | [Hey Now](https://open.spotify.com/track/1tiUDs0Hikbz6MvwNog3A8) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Hey Now](https://open.spotify.com/album/6ihpVK6WmziExuIg8xLAwM) | 2:31 |
 | 11 | [SET ME FREE](https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [SET ME FREE](https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW) | 2:58 |
-| 12 | [Patadas de Ahogado / LATIN MAFIA \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATIN MAFIA \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
+| 12 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
 | 13 | [Echo \- Millean\. Remix](https://open.spotify.com/track/0mh8xXvTYeiLauxVqrzDnI) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz) | [Echo \(Millean\. Remix\)](https://open.spotify.com/album/24FUKfbH3zk2Q6hO5xJO8I) | 2:27 |
 | 14 | [snowfall](https://open.spotify.com/track/2e3KEsdhY5S2RDl593dbOE) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT) | [snowfall](https://open.spotify.com/album/77vLEdWiuJQt9oyPG84csK) | 2:21 |
 | 15 | [Focus](https://open.spotify.com/track/5BqoenxBDt7GS31nB7ONfi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Focus](https://open.spotify.com/album/2hx11bniHH12W8UZihSMov) | 3:46 |
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 205 | [RUN INTO MY ARMS](https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BLEACH \[Hi\-Fi\]](https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l) | 3:00 |
 | 206 | [Confused 133](https://open.spotify.com/track/2L5FCkyzwgpPMsgoTuB7qr) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [Confused 133](https://open.spotify.com/album/318k5epPI1tchtYBglX5kM) | 2:42 |
 
-Snapshot ID: `MCwxOTc3NzNmMmFkNDJlNmI3MTY4OTRiZjM3ODkwMzE0NTNlZWVhNWEx`
+Snapshot ID: `MCxjOWY1NmZhNmQ3NDQ4ZDg5MGNmMGNkNzI1N2QyNzk4NmUxYTYxNjYy`

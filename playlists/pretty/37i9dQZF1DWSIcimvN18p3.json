@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Hurray For The Riff Raff",
-  "num_followers": 283434,
+  "num_followers": 283417,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDg3NDE3NTQ2MTQxMTljOWE0YmIxMTdjYjMxM2RlN2RmMTUxZmYx",
+  "snapshot_id": "MCw1NDczY2QyMjgzYzAxNWEwNTMxMTZlNjdkYjRjZTVkMjViMzkzYzEw",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Pharmakon",
-        "url": "https://open.spotify.com/album/3sMj2Pt7MnyhkUPxZtuguI"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 155352,
-      "name": "Pharmakon",
-      "url": "https://open.spotify.com/track/4gbWcPHqTZHoq5PrS0iBHq"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "The Past Is Still Alive",
         "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 168705,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/3d2oXlbjVmk9Zb37m1Y5t4"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Pharmakon",
+        "url": "https://open.spotify.com/album/3sMj2Pt7MnyhkUPxZtuguI"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 155352,
+      "name": "Pharmakon",
+      "url": "https://open.spotify.com/track/4gbWcPHqTZHoq5PrS0iBHq"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "The Mother",
-      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "At Swim",
         "url": "https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 179826,
       "name": "Fall",
       "url": "https://open.spotify.com/track/0HFqPzJYCZgQYuqNX0HDJm"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "The Mother",
+      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Hunt You Down",
+        "url": "https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -1163,34 +1179,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Polaroid Lovers",
-        "url": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+        "name": "Fox Confessor Brings The Flood (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
         }
       ],
-      "duration_ms": 180524,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Hunt You Down",
-        "url": "https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Hunt You Down",
-      "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
+      "duration_ms": 316506,
+      "name": "Star Witness",
+      "url": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Fox Confessor Brings The Flood (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ"
+        "name": "Polaroid Lovers",
+        "url": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
       },
       "artists": [
         {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 316506,
-      "name": "Star Witness",
-      "url": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap"
+      "duration_ms": 180524,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Last Of The True Believers",
-        "url": "https://open.spotify.com/album/35HzQJGNwaNXWUInoJNz1t"
-      },
-      "artists": [
-        {
-          "name": "Nanci Griffith",
-          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Love At The Five & Dime",
-      "url": "https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Because I Wanted You to Know",
         "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 184301,
       "name": "As It Is",
       "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "The Last Of The True Believers",
+        "url": "https://open.spotify.com/album/35HzQJGNwaNXWUInoJNz1t"
+      },
+      "artists": [
+        {
+          "name": "Nanci Griffith",
+          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Love At The Five & Dime",
+      "url": "https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Honey Ain\u2019t No Sweeter",
-        "url": "https://open.spotify.com/album/4xnJf5yUfiE1SK736QTcQS"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 222817,
-      "name": "Honey Ain\u2019t No Sweeter",
-      "url": "https://open.spotify.com/track/5JS7aI8VQVsLd8nxrbn9Yx"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Quiet the Room",
         "url": "https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 225154,
       "name": "Whatever Fits Together",
       "url": "https://open.spotify.com/track/3Ya357rg6humSfjzHxpdJ2"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Honey Ain\u2019t No Sweeter",
+        "url": "https://open.spotify.com/album/4xnJf5yUfiE1SK736QTcQS"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 222817,
+      "name": "Honey Ain\u2019t No Sweeter",
+      "url": "https://open.spotify.com/track/5JS7aI8VQVsLd8nxrbn9Yx"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "World On The Ground",
-        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Old Flowers",
         "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 298013,
       "name": "If I Told",
       "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "World On The Ground",
+        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "duration_ms": 119372,
+      "name": "Optimism",
+      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "American Siren",
         "url": "https://open.spotify.com/album/5ZGhlw7RozA6DfbDeV68Bn"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 199146,
       "name": "Bloomsday",
       "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
-      },
-      "artists": [
-        {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
-        }
-      ],
-      "duration_ms": 119372,
-      "name": "Optimism",
-      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2015,26 +2015,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Country Curious",
-        "url": "https://open.spotify.com/album/5U47NIIeJLYign4v4Jltxr"
-      },
-      "artists": [
-        {
-          "name": "Lola Kirke",
-          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
-        },
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        }
-      ],
-      "duration_ms": 226028,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/7nZljN38fxwFPhgQk8mLoO"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Mortal City",
         "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
       },
@@ -2063,6 +2043,26 @@
       "duration_ms": 194560,
       "name": "Occasionally",
       "url": "https://open.spotify.com/track/1FSCRLJPXEbBCyxLNkKBdP"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Country Curious",
+        "url": "https://open.spotify.com/album/5U47NIIeJLYign4v4Jltxr"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        },
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 226028,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/7nZljN38fxwFPhgQk8mLoO"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "Sit Here And Love Me",
-      "url": "https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Jeremiah / Why\u2019d Ya Do It",
         "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 184558,
       "name": "Jeremiah",
       "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Sit Here And Love Me",
+      "url": "https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Workin' Woman Blues",
-      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "A Southern Gothic",
         "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 209546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Workin' Woman Blues",
+      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "I've Got That Old Feeling",
-        "url": "https://open.spotify.com/album/1ETt1sfe0PREZLQqsIOAU7"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "I've Got That Old Feeling",
-      "url": "https://open.spotify.com/track/3W8299AD4n4LAgIr5VGY3X"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Wax & Wane",
         "url": "https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd"
       },
@@ -2343,18 +2327,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Close to You",
-        "url": "https://open.spotify.com/album/3IgFoFzOaVkdyfIgPs7h7h"
+        "name": "I've Got That Old Feeling",
+        "url": "https://open.spotify.com/album/1ETt1sfe0PREZLQqsIOAU7"
       },
       "artists": [
         {
-          "name": "Kate Wolf",
-          "url": "https://open.spotify.com/artist/0WisBVzWAcOpZtdUf23TiC"
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
         }
       ],
-      "duration_ms": 259092,
-      "name": "Across the Great Divide",
-      "url": "https://open.spotify.com/track/1MHrK1oP9qM9dNE7m0A64M"
+      "duration_ms": 176400,
+      "name": "I've Got That Old Feeling",
+      "url": "https://open.spotify.com/track/3W8299AD4n4LAgIr5VGY3X"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2375,6 +2359,22 @@
       "duration_ms": 202720,
       "name": "Thousand - Acoustic",
       "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Close to You",
+        "url": "https://open.spotify.com/album/3IgFoFzOaVkdyfIgPs7h7h"
+      },
+      "artists": [
+        {
+          "name": "Kate Wolf",
+          "url": "https://open.spotify.com/artist/0WisBVzWAcOpZtdUf23TiC"
+        }
+      ],
+      "duration_ms": 259092,
+      "name": "Across the Great Divide",
+      "url": "https://open.spotify.com/track/1MHrK1oP9qM9dNE7m0A64M"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2463,6 +2463,54 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Broken Harvest",
+        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 287439,
+      "name": "Broken Harvest",
+      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Little May",
+        "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
+      },
+      "artists": [
+        {
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
+        }
+      ],
+      "duration_ms": 195735,
+      "name": "Boardwalks",
+      "url": "https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Daughters",
         "url": "https://open.spotify.com/album/0HhS4ER9CGu2ghdbiAUjkb"
       },
@@ -2487,54 +2535,6 @@
       "duration_ms": 260545,
       "name": "Daughters",
       "url": "https://open.spotify.com/track/4a3pOOcBy3m0Wm5QWUcg7k"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Little May",
-        "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
-      },
-      "artists": [
-        {
-          "name": "Little May",
-          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
-        }
-      ],
-      "duration_ms": 195735,
-      "name": "Boardwalks",
-      "url": "https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Broken Harvest",
-        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 287439,
-      "name": "Broken Harvest",
-      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
     }
   ],
   "unique_name": "Women of Folk",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-505 songs - 1 day 6 hr 17 min
+506 songs - 1 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Don't Ask Why](https://open.spotify.com/track/0TvFXLF4vmhqkDmHMK0UPW) | [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE) | [Identified](https://open.spotify.com/album/7wUps5X7zrLQdysd2DW4mT) | 3:10 | 2024-01-29 |  |
 | [Don't Go Knockin' on My Door](https://open.spotify.com/track/3HTkB9Nk04MJHkG0X6cL2R) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:43 | 2024-01-29 |  |
 | [Don't Need Nobody](https://open.spotify.com/track/0PaemlGLiH2O6nAxRCzmee) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:33 | 2024-01-29 |  |
+| [don't wanna break up again](https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:54 | 2024-03-22 |  |
 | [Don't Wanna Lose You Now](https://open.spotify.com/track/6gPVAM9CNj1uQQtGK0eYzZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:55 | 2024-01-29 |  |
 | [DON'T WANNA SLEEP](https://open.spotify.com/track/6ab8aFARxn63vq6KiTGnSz) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:36 | 2024-01-29 |  |
 | [Don't Want You Back](https://open.spotify.com/track/2EgIkNeq1Tsx1JamvF6JWg) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:26 | 2024-01-29 |  |

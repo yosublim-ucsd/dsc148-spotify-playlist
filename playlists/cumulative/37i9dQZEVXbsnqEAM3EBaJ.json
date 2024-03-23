@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Armada",
+        "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Armada",
+      "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
+    },
+    {
+      "album": {
         "name": "La voz del pueblo (Extended)",
         "url": "https://open.spotify.com/album/3E7vyyUPAduuhPDIksgtS5"
       },
@@ -2993,6 +3011,28 @@
     },
     {
       "album": {
+        "name": "Akoma",
+        "url": "https://open.spotify.com/album/4N8CfMDL60vLQamW30qZAE"
+      },
+      "artists": [
+        {
+          "name": "Jlin",
+          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246053,
+      "name": "Borealis",
+      "url": "https://open.spotify.com/track/5wOWgKdRSuqdR1UshYDw4q"
+    },
+    {
+      "album": {
         "name": "The Live Series: Songs of New Jersey",
         "url": "https://open.spotify.com/album/6udFcTroKsujHZ8abvReOd"
       },
@@ -3755,6 +3795,28 @@
     },
     {
       "album": {
+        "name": "Children's Album, Op. 39, No. 1, Morning Prayer",
+        "url": "https://open.spotify.com/album/4FyfySKhMrb9C3wCLWTf1u"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "German Kitkin",
+          "url": "https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90333,
+      "name": "Children's Album, Op. 39, No. 1, Morning Prayer",
+      "url": "https://open.spotify.com/track/1rYrMOkieLQvOfZNUNta1h"
+    },
+    {
+      "album": {
         "name": "Children's Album, Op. 39, TH 141 - No. 21, Sweet Dreams",
         "url": "https://open.spotify.com/album/2xPl9ZLcerc2gsaMdKT66r"
       },
@@ -3792,7 +3854,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 56513,
       "name": "Children's Album, Op. 39: No. 14, Polka",
       "url": "https://open.spotify.com/track/2wpo4Rr0uAGhTn2EA8r7UB"
@@ -4388,6 +4450,32 @@
       "duration_ms": 193557,
       "name": "Countdown To Shutdown",
       "url": "https://open.spotify.com/track/1bw8MQNG3NOQCfJQD1Auxt"
+    },
+    {
+      "album": {
+        "name": "Crack Cocaine",
+        "url": "https://open.spotify.com/album/4u9d35U27Iy0lK5Z0zxeXF"
+      },
+      "artists": [
+        {
+          "name": "Billy Morrison",
+          "url": "https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Steve Stevens",
+          "url": "https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241426,
+      "name": "Crack Cocaine",
+      "url": "https://open.spotify.com/track/6t1WBBQsSDjYuZL2TglrEN"
     },
     {
       "album": {
@@ -6364,7 +6452,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 198425,
       "name": "Empty",
       "url": "https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49"
@@ -6390,7 +6478,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 198425,
       "name": "Empty",
       "url": "https://open.spotify.com/track/6QbOZhXbqmxnmqzfVTUWxY"
@@ -6721,6 +6809,28 @@
     },
     {
       "album": {
+        "name": "Estandarte",
+        "url": "https://open.spotify.com/album/3nykHgG8D3e2Eum1STSzzh"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Reno871",
+          "url": "https://open.spotify.com/artist/50nNZIMfSVOSOoZNPfgFCU"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202142,
+      "name": "Estandarte",
+      "url": "https://open.spotify.com/track/4Yw3jtrOKEXOkzIusWyDaa"
+    },
+    {
+      "album": {
         "name": "Estranged Fruit",
         "url": "https://open.spotify.com/album/5rrfqGMrmebvdA4YdYAn2N"
       },
@@ -7005,6 +7115,24 @@
     },
     {
       "album": {
+        "name": "Faster Than the Speed of Night (Live in Berlin)",
+        "url": "https://open.spotify.com/album/3dUdYL5bZQNo8caR8UmQwR"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365737,
+      "name": "Faster Than the Speed of Night - Single Edit [Live]",
+      "url": "https://open.spotify.com/track/2kNTF2pFrtu3ooyL0vF3R4"
+    },
+    {
+      "album": {
         "name": "Fathomless Maw",
         "url": "https://open.spotify.com/album/6RdK7lIglSnuA9xLqwTyMM"
       },
@@ -7167,12 +7295,12 @@
         },
         {
           "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/0VP103S1fTqI5breuKOGy5"
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
         }
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 560573,
       "name": "Finsterwacht",
       "url": "https://open.spotify.com/track/0Ktmk5jp4r6ym9hT2bWlQM"
@@ -7546,6 +7674,24 @@
       "duration_ms": 309026,
       "name": "Free To Decide - Paris Demo",
       "url": "https://open.spotify.com/track/3Z4lCM5i4f6yJVwoqgSlIa"
+    },
+    {
+      "album": {
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/1KvZxJl5SCOf7Yqc2qo7c7"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255558,
+      "name": "Freefall - M-Project Remix (Remodel)",
+      "url": "https://open.spotify.com/track/0ztkf2w6bmtzzpSs9luuOs"
     },
     {
       "album": {
@@ -8461,6 +8607,24 @@
     },
     {
       "album": {
+        "name": "Myths of Fate",
+        "url": "https://open.spotify.com/album/7BJ121ekSfZ0vPECFGPV7G"
+      },
+      "artists": [
+        {
+          "name": "Leaves' Eyes",
+          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274994,
+      "name": "Hammer of the Gods",
+      "url": "https://open.spotify.com/track/78qlA1fC79giLrL0Luzttd"
+    },
+    {
+      "album": {
         "name": "Hammer on Hammer",
         "url": "https://open.spotify.com/album/4Ml3Ryzd78FHBNw96a1R83"
       },
@@ -8606,6 +8770,24 @@
       "duration_ms": 203546,
       "name": "Hare Hare",
       "url": "https://open.spotify.com/track/3QcJghvqRS17RoPPP0C2sp"
+    },
+    {
+      "album": {
+        "name": "Headless Cross / Anno Mundi",
+        "url": "https://open.spotify.com/album/7yyoUmD7s0iR4jQbYfjnno"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389226,
+      "name": "Headless Cross (2024 Remaster)",
+      "url": "https://open.spotify.com/track/0dDDO3bLsl4Tbh5TkvQjDk"
     },
     {
       "album": {
@@ -10392,7 +10574,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 219532,
       "name": "In Eternity",
       "url": "https://open.spotify.com/track/5UtdnAmaj0ouJmW1k2VbWi"
@@ -12416,6 +12598,24 @@
       "duration_ms": 319146,
       "name": "Leyendas del Mic, Vol. III",
       "url": "https://open.spotify.com/track/1el4PB6DPL3DGhxpKPg8Sh"
+    },
+    {
+      "album": {
+        "name": "LIES WE TELL OURSELVES",
+        "url": "https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207931,
+      "name": "LIES WE TELL OURSELVES",
+      "url": "https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP"
     },
     {
       "album": {
@@ -16309,6 +16509,28 @@
     },
     {
       "album": {
+        "name": "Pertenezco Aqu\u00ed",
+        "url": "https://open.spotify.com/album/0Me6t0xF5TSIaPG3ayJdkW"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244333,
+      "name": "Pertenezco Aqu\u00ed",
+      "url": "https://open.spotify.com/track/314VxfuhEvi859ShK1nK6z"
+    },
+    {
+      "album": {
         "name": "Barcarolle. Piano Evocations from the Golden Age",
         "url": "https://open.spotify.com/album/73EHQJ9YvvxTkF9oRnv0QF"
       },
@@ -16500,6 +16722,50 @@
       "duration_ms": 264152,
       "name": "Plein D'Amour",
       "url": "https://open.spotify.com/track/4ZoAWoO0n96v8mekipLgDx"
+    },
+    {
+      "album": {
+        "name": "PODER (Bribb\u014d Remix)",
+        "url": "https://open.spotify.com/album/0mYcMzIpeNYtm2lOcADnvH"
+      },
+      "artists": [
+        {
+          "name": "quediostesalve",
+          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
+        },
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        },
+        {
+          "name": "Bribb\u014d",
+          "url": "https://open.spotify.com/artist/0I4Jwenu9U3vqvMywzWz4L"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260890,
+      "name": "PODER - Bribb\u014d Remix",
+      "url": "https://open.spotify.com/track/6yW8LNNbmfSHWtVsy53FIC"
+    },
+    {
+      "album": {
+        "name": "El Poder Divino",
+        "url": "https://open.spotify.com/album/2PoyCS87WqwOGnfHKad6F3"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244293,
+      "name": "Poder de Ganesha",
+      "url": "https://open.spotify.com/track/0vXPr4oJbp8a8gsF4rHVqD"
     },
     {
       "album": {
@@ -18055,6 +18321,24 @@
     },
     {
       "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139432,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1"
+    },
+    {
+      "album": {
         "name": "Ruska (Live In Helsinki St. John's Church)",
         "url": "https://open.spotify.com/album/652egKdpXVS1zSHcE31scB"
       },
@@ -19047,6 +19331,28 @@
     },
     {
       "album": {
+        "name": "La Negra (Tribute to Mercedes Sosa - The voice of latin america)",
+        "url": "https://open.spotify.com/album/5cXTO2Pbk9mkW1KAM7fnm7"
+      },
+      "artists": [
+        {
+          "name": "Claudia Meyer",
+          "url": "https://open.spotify.com/artist/6vDldMkL80CcmJbTg3hUgx"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "Siempre en ti",
+      "url": "https://open.spotify.com/track/08Tjx8mxlQ6ct7htkCFgBg"
+    },
+    {
+      "album": {
         "name": "Siempre en ti",
         "url": "https://open.spotify.com/album/0fd5nBpcWly2CwJTUU1RAs"
       },
@@ -19062,7 +19368,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 171080,
       "name": "Siempre en ti",
       "url": "https://open.spotify.com/track/3vZGFGVYyXfgUTnxOWaWGR"
@@ -19092,7 +19398,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 253722,
       "name": "Simp\u00e1tico Holgaz\u00e1n",
       "url": "https://open.spotify.com/track/2WEdUIU7vXymKEVMXFFR54"
@@ -19690,7 +19996,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 261336,
       "name": "Soy Todo",
       "url": "https://open.spotify.com/track/57f2X9Am4tNzizcxVIcPy8"
@@ -21282,7 +21588,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 359635,
       "name": "The Dead",
       "url": "https://open.spotify.com/track/626nluE7sOdqH3reuWS8v0"
@@ -22126,7 +22432,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 323627,
       "name": "The Pumpkins",
       "url": "https://open.spotify.com/track/3Rkjoq1XGP9kJQXW6n2KWK"
@@ -23609,6 +23915,28 @@
     },
     {
       "album": {
+        "name": "No Se Vende Este \u00c1lbum",
+        "url": "https://open.spotify.com/album/4gRU0Nhf2f4sYl8hFyKvq2"
+      },
+      "artists": [
+        {
+          "name": "Laura Dsk",
+          "url": "https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB"
+        },
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213481,
+      "name": "Un Mundo Roto",
+      "url": "https://open.spotify.com/track/5bufeKl3PAMGbpleSEi3IY"
+    },
+    {
+      "album": {
         "name": "Los Instrumentales",
         "url": "https://open.spotify.com/album/4YarnJqzLnjCURMZedM2KQ"
       },
@@ -23922,7 +24250,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 295295,
       "name": "Vengan Todos",
       "url": "https://open.spotify.com/track/6OZYStpWCgqEl9IG1ARLaB"
@@ -24184,6 +24512,24 @@
       "duration_ms": 187629,
       "name": "Wake The Dead",
       "url": "https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3"
+    },
+    {
+      "album": {
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/5T4RqzpT6zoWoBA34EowdS"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222956,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/3X0Rp5nzDFawTmw1FlwWAP"
     },
     {
       "album": {
@@ -24638,6 +24984,28 @@
       "duration_ms": 222231,
       "name": "What a Time To Be Alive",
       "url": "https://open.spotify.com/track/14qLydrp6Uxy2kzfmv73TZ"
+    },
+    {
+      "album": {
+        "name": "What About The Children",
+        "url": "https://open.spotify.com/album/3GRDspM8YHRS8P5ci5n2nx"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279359,
+      "name": "What About The Children",
+      "url": "https://open.spotify.com/track/1H3ZNotB3Z6kQBcMovZwPX"
     },
     {
       "album": {

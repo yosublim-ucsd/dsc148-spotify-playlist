@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 
 > Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,130 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,139 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 51 | [In The Middle](https://open.spotify.com/track/7n2tqj3L3fflT1ApcOWWgw) | [Mad3 for M3](https://open.spotify.com/artist/6gkVmcX3QAvhKaS481fpzV), [Cris Cab](https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK) | [In The Middle](https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW) | 3:41 |
 | 52 | [Long Run \(feat\. Nina Nesbitt\)](https://open.spotify.com/track/71xLha47XAePi0EbzHAbEW) | [Deacon](https://open.spotify.com/artist/4rK6HLvoZhLFUTcUhG9WfC), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Long Run \(feat\. Nina Nesbitt\)](https://open.spotify.com/album/5D3DPkdMjst8RNJi9LmWm7) | 2:54 |
 | 53 | [Need You Tonight](https://open.spotify.com/track/4HLuopIC1sQIgTAcDwkkqR) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Need You Tonight](https://open.spotify.com/album/2vVY1FESWAdXJLyF7vd7w8) | 3:18 |
-| 54 | [I Don't Care](https://open.spotify.com/track/2PFhevKRsRROz9DjQWBcYV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [I Don't Care](https://open.spotify.com/album/7Fy6WDol97Dr74xDgZxqu1) | 3:45 |
+| 54 | [Me, Myself & I](https://open.spotify.com/track/5Up89wdeUunZgEqD8VqOTx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Me, Myself & I](https://open.spotify.com/album/7kH8gHFaH8GMjaybGYAPC8) | 2:53 |
 | 55 | [hunger](https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [hunger](https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg) | 3:11 |
-| 56 | [Me, Myself & I](https://open.spotify.com/track/5Up89wdeUunZgEqD8VqOTx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Me, Myself & I](https://open.spotify.com/album/7kH8gHFaH8GMjaybGYAPC8) | 2:53 |
+| 56 | [I Don't Care](https://open.spotify.com/track/2PFhevKRsRROz9DjQWBcYV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [I Don't Care](https://open.spotify.com/album/7Fy6WDol97Dr74xDgZxqu1) | 3:45 |
 | 57 | [Trippin](https://open.spotify.com/track/2VTV2S3TThrY5fGjWHZ6yu) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/5czzOP2xMdJJybVvju91DF) | 3:10 |
 | 58 | [I'm Not Going Anywhere](https://open.spotify.com/track/7f59sM8HM55lTngAUMTfMU) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [I'm Not Going Anywhere](https://open.spotify.com/album/3Z7B2LaqVhGrl8Rzk1N2AC) | 2:59 |
 | 59 | [Love You've Lost](https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Honeymoon Phase](https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi) | 3:39 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 65 | [I Know](https://open.spotify.com/track/7xMtHMEyRCktv2UmDYG8kP) | [Micah & Julia](https://open.spotify.com/artist/5ky4yhXKn4OZw7KtZmfJKE) | [I Know](https://open.spotify.com/album/0cI7LukQT1A8d3orxjBUwR) | 3:19 |
 | 66 | [Midnight](https://open.spotify.com/track/2HEudAZWEH9NsygtkWXs5s) | [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Midnight](https://open.spotify.com/album/453z5Es9h6XsvPCZWKzYdf) | 3:22 |
 | 67 | [Room for Another](https://open.spotify.com/track/0dcJ754zhmVd3qCwv7oW5g) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Room for Another](https://open.spotify.com/album/43Msz3c7nU5vKAsXPdRekM) | 3:05 |
-| 68 | [Butterfly Wings](https://open.spotify.com/track/6ztyTVTG3R8PPHLaFSA3VR) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Butterfly Wings](https://open.spotify.com/album/6yiwj0mGVdZzzzytu5OUiP) | 3:32 |
-| 69 | [Rest of My Life](https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [When The Light Hits The Room](https://open.spotify.com/album/06kphLH7OC3vCT8cyiniep) | 2:57 |
+| 68 | [Rest of My Life](https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [When The Light Hits The Room](https://open.spotify.com/album/06kphLH7OC3vCT8cyiniep) | 2:57 |
+| 69 | [Butterfly Wings](https://open.spotify.com/track/6ztyTVTG3R8PPHLaFSA3VR) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Butterfly Wings](https://open.spotify.com/album/6yiwj0mGVdZzzzytu5OUiP) | 3:32 |
 | 70 | [good](https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:28 |
 
-Snapshot ID: `MCxiZmQyM2Y2Yzg5MTgyZjg1MTc0MTQ2ZWU2ZmQzYzA0ZGEwYTcxM2Y1`
+Snapshot ID: `MCw3MWEyNGYwNDRjNWM4ZTRkNGI5ZmJjNWQ0ZTU4MzU0MWYyMzY4Y2M2`

@@ -4,7 +4,7 @@
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-163 songs - 10 hr 22 min
+164 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Los Chicos Tristes](https://open.spotify.com/track/1ty2x08emLE57NrhHIw1gS) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:49 | 2024-02-02 |  |
 | [Los Chicos Tristes](https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Chicos Tristes](https://open.spotify.com/album/6upoRZFXdq7bMsdDcqQ1Oa) | 3:49 | 2022-09-16 | 2024-03-01 |
 | [Love Can Find You Anywhere](https://open.spotify.com/track/7fxxqxe5EAp0dQ674C6g2b) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Love Can Find You Anywhere](https://open.spotify.com/album/2nDKXMbt6lOU460Yi30M24) | 3:39 | 2021-12-15 | 2024-02-01 |
+| [Low Sun](https://open.spotify.com/track/4TwFXylgQheM8AUgY00G7C) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Low Sun](https://open.spotify.com/album/7nC5WtMQ8DJcfQzhFy2oqa) | 3:08 | 2024-03-22 |  |
 | [Luck of the Draw](https://open.spotify.com/track/37WNhzp7wOKMuMsByEsUF2) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Luck of the Draw](https://open.spotify.com/album/0N7kbieW6rfTyVPxtshZ7N) | 2:47 | 2021-12-15 | 2022-07-26 |
 | [Make My Mind Up](https://open.spotify.com/track/1xCLVikxgsHqwKjGCrqAyB) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 3:31 | 2021-12-15 | 2022-07-23 |
 | [Mendocino \(feat\. Duane Eddy\)](https://open.spotify.com/track/5gAt45dCnLedFHWRzHqi3X) | [Jeremy Fetzer](https://open.spotify.com/artist/5Lp7RZsXfgf2qjIqCqnQ4r) | [Mendocino \(feat\. Duane Eddy\)](https://open.spotify.com/album/5QN1GDtbO2Mp3G358g84HX) | 3:58 | 2021-12-15 | 2023-10-12 |
@@ -98,7 +99,7 @@
 | [Rather Low](https://open.spotify.com/track/2KL27kJnwxkC3AnZWTVyvq) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Okay, Crawdad.](https://open.spotify.com/album/5YCvJeJXIaoGDXxRWMSrL9) | 3:00 | 2021-12-15 | 2022-10-31 |
 | [Rather Low](https://open.spotify.com/track/3XZo49fN68s54wUsSVy21H) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Okay, Crawdad](https://open.spotify.com/album/4Be8F6J5qKXiGz6PuEBXYp) | 3:00 | 2023-03-28 |  |
 | [Rather Low](https://open.spotify.com/track/4wgJslCrAghGakRdVwyiBr) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Okay, Crawdad](https://open.spotify.com/album/1H2cJ2DDfG9WnCkEQoS1oH) | 3:00 | 2021-12-15 | 2023-04-30 |
-| [Rendezvous USA](https://open.spotify.com/track/0WDNetEwAsjiavw67F33Mi) | [Terry Allen](https://open.spotify.com/artist/4QonkOS6ybWrJVYFWEHMZY) | [Lubbock \(on everything\)](https://open.spotify.com/album/31gOu9Ke5o3wgx1GyIDNYU) | 2:45 | 2021-12-15 |  |
+| [Rendezvous USA](https://open.spotify.com/track/0WDNetEwAsjiavw67F33Mi) | [Terry Allen](https://open.spotify.com/artist/4QonkOS6ybWrJVYFWEHMZY) | [Lubbock \(on everything\)](https://open.spotify.com/album/31gOu9Ke5o3wgx1GyIDNYU) | 2:45 | 2021-12-15 | 2024-03-23 |
 | [Rendezvous USA](https://open.spotify.com/track/2QYVddrs3CcYAOS7awh8JG) | [Terry Allen](https://open.spotify.com/artist/4QonkOS6ybWrJVYFWEHMZY) | [Lubbock \(on everything\)](https://open.spotify.com/album/2wdTYHE5vqKXOXPoknq9A3) | 2:45 | 2021-12-15 | 2022-07-29 |
 | [Ride Out In The Country](https://open.spotify.com/track/4FCIOhpTSqt1hjYDdLFScX) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:15 | 2021-12-15 |  |
 | [Ride Out In The Country](https://open.spotify.com/track/5qsODsNTX1zQ9KqvnU7DXR) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire](https://open.spotify.com/album/3YkPGNQ0ATRPcigTb74F5A) | 3:15 | 2021-12-15 | 2022-07-29 |

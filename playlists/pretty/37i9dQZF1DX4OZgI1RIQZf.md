@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,023 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,080 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 5 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
 | 6 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
 | 7 | [Pretty Girls Make Graves \- 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:43 |
-| 8 | [Halloween](https://open.spotify.com/track/7AkPusgKsrTqbOcTTbRnFr) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:34 |
-| 9 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 |
+| 8 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 |
+| 9 | [Halloween](https://open.spotify.com/track/7AkPusgKsrTqbOcTTbRnFr) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:34 |
 | 10 | [haunt me \(x 3\)](https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt) | 2:45 |
 | 11 | [Evil](https://open.spotify.com/track/4absiGHMelB8eH976ytjBj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz) | 3:35 |
 | 12 | [Limerence](https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 5:29 |
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 47 | [Right On, Frankenstein!](https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:05 |
 | 48 | [Dead Man's Bones](https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 3:00 |
 | 49 | [Skeleton Song](https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY) | 5:07 |
-| 50 | [MORBID FASCINATION](https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [GHOSTS ON TAPE](https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08) | 3:46 |
-| 51 | [Halloween](https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Plastic Surgery Disasters/In God We Trust, Inc.](https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug) | 3:35 |
+| 50 | [Halloween](https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Plastic Surgery Disasters/In God We Trust, Inc.](https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug) | 3:35 |
+| 51 | [MORBID FASCINATION](https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [GHOSTS ON TAPE](https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08) | 3:46 |
 | 52 | [Blood Gets Thin](https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF) | [Pete And The Pirates](https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ) | [One Thousand Pictures](https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h) | 3:08 |
 | 53 | [Skeleton Boy](https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU) | 3:33 |
-| 54 | [Halloween Parade](https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:33 |
-| 55 | [Scarecrow](https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:15 |
+| 54 | [Scarecrow](https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:15 |
+| 55 | [Halloween Parade](https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:33 |
 | 56 | [Frankenstein](https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Frankenstein](https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB) | 4:28 |
 | 57 | [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 |
 | 58 | [Ghost Town](https://open.spotify.com/track/347OA86TbdeTydHhy90blH) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Come Of Age](https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4) | 2:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 79 | [Dark and Stormy](https://open.spotify.com/track/5o45wuK2lhBcwR3fSnakXL) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Dark and Stormy](https://open.spotify.com/album/7beMB0mRNOgPfrCyNlhXmk) | 4:55 |
 | 80 | [Halloween on the Barbary Coast](https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Hit to Death in the Future Head](https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ) | 5:42 |
 
-Snapshot ID: `MCxkOTgxYjI0OWY0NjI1ZmNhOWQ1YjVlNGNlOTRiYjE0YTYwMmZiNzhj`
+Snapshot ID: `MCw0NmNmYjQxNzczYzEwYjMzMTgwNGI4NTkxMzAxYjhmY2Q4ZTZkOTYx`

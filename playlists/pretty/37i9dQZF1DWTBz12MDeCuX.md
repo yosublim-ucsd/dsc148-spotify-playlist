@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: 01099
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,689 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,825 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 14 | [Fuß baumeln](https://open.spotify.com/track/7dIi6DS9RA6PDTU90CcNoV) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9) | [Fuß baumeln](https://open.spotify.com/album/2BukPk8h55bGp9vildXq57) | 2:27 |
 | 15 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
 | 16 | [Ode an den Bass](https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Ode an den Bass](https://open.spotify.com/album/1gAnk5qZJAA3T01vufMMDD) | 3:20 |
-| 17 | [Wegen Dir](https://open.spotify.com/track/6e8jTJ7CE1Kt4M2mlooZ5J) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT), [Frio](https://open.spotify.com/artist/410kbii3NPFQpSL1G7wPM5) | [Wegen Dir](https://open.spotify.com/album/5R1Nffl5bcDFWDwIKbJctl) | 3:10 |
+| 17 | [Wegen Dir](https://open.spotify.com/track/6e8jTJ7CE1Kt4M2mlooZ5J) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT), [FRIO](https://open.spotify.com/artist/2Z7cjLnzuXsFlU4D5Pz05c) | [Wegen Dir](https://open.spotify.com/album/5R1Nffl5bcDFWDwIKbJctl) | 3:10 |
 | 18 | [I Wouldn't Mind](https://open.spotify.com/track/3XB10votaPOcmrFS1dM59j) | [Eure Jungs](https://open.spotify.com/artist/1uvjKQHpHj5BiEHBOlU97U) | [I Wouldn't Mind](https://open.spotify.com/album/1YvMESin0KV0FsTinzdhz3) | 1:59 |
 | 19 | [eBay](https://open.spotify.com/track/3k7g0xHFCX2ezCVCHaikIf) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [eBay](https://open.spotify.com/album/5cCcOdexGrZGWzmcsC3lkU) | 2:22 |
 | 20 | [du denkst an mich](https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2) | [3LNA](https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP) | [HERZ BRICHT](https://open.spotify.com/album/61VcdTb8nw5mlYGs8mpNYT) | 2:44 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 89 | [Unterwegs](https://open.spotify.com/track/2IXYCofJeVgh5r2y0JXOMN) | [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x), [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [Unterwegs](https://open.spotify.com/album/0YLHd9ODNz4Ym6s0puZhZm) | 3:00 |
 | 90 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 |
 | 91 | [Set Me Free](https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv), [sebo](https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW) | [Set Me Free](https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7) | 2:11 |
-| 92 | [Verliebt](https://open.spotify.com/track/0k0LF4jnMrZKIVdnmduOei) | [Arkan45](https://open.spotify.com/artist/6CinPTkdtHGlOJvP4MzGT9) | [Verliebt](https://open.spotify.com/album/6u6IUF74zUEDbyuLV23jn4) | 1:56 |
+| 92 | [Verliebt](https://open.spotify.com/track/0k0LF4jnMrZKIVdnmduOei) | [Arkan](https://open.spotify.com/artist/2cr1yLhEpDBjgc7o4dn2vH) | [Verliebt](https://open.spotify.com/album/6u6IUF74zUEDbyuLV23jn4) | 1:56 |
 | 93 | [Mein Herz](https://open.spotify.com/track/5k77C1MvcmyvZeNViBJkji) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Mein Herz](https://open.spotify.com/album/1OVBKljWDrQrzgaDNaajXm) | 2:34 |
 | 94 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
 | 95 | [3:15 \(Breathe\)](https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [3:15 \(Breathe\)](https://open.spotify.com/album/6QYK9rRB1nJ1ZnhEiOKT1J) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
 | 100 | [Cigarette](https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Eulogize](https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE) | 3:38 |
 
-Snapshot ID: `MCwyM2I1Y2FiYmU1MDQ1NGY4OWYwNWRjZjgwNTI1MTg2YzNlMzc5MjI5`
+Snapshot ID: `MCw3ZjgxYzE2NzE2YjEzMWM0NDEzYmYxNGY5OTRlZjNhN2Y1Mzc5Zjk0`

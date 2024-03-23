@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Lali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,264 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,262 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 31 | [Breaking Bad](https://open.spotify.com/track/51lUwiop70vQfBtif5sFsW) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 1:51 |
 | 32 | [NOVIOS IMAGINARIOS](https://open.spotify.com/track/3cJZrt65UKu0QUK0k6P0mb) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [NOVIOS IMAGINARIOS](https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00) | 4:44 |
 | 33 | [PLUSH](https://open.spotify.com/track/0KrWAcgyNe8ZqxmkAiJUhJ) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [ESFERA DE AMOR](https://open.spotify.com/album/2MxR4pWsCM8n0Bp8RhYcu9) | 3:00 |
-| 34 | [Amor Libre](https://open.spotify.com/track/6fFG7bHilanpAAbEu9jF95) | [Rocio Igarzabal](https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ), [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Amor Libre](https://open.spotify.com/album/0FCNWttcDi6rF5pRuwppVx) | 3:05 |
-| 35 | [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:41 |
+| 34 | [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:41 |
+| 35 | [Amor Libre](https://open.spotify.com/track/6fFG7bHilanpAAbEu9jF95) | [Rocio Igarzabal](https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ), [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Amor Libre](https://open.spotify.com/album/0FCNWttcDi6rF5pRuwppVx) | 3:05 |
 | 36 | [CARNAVALITO DEL DUENDE](https://open.spotify.com/track/6fsMd6rAjKzdLazlBvzfIR) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [LXS INFERNALES \(Del Valle Encantado\)](https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE) | 2:51 |
 | 37 | [Huir](https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Huir](https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s) | 4:16 |
 | 38 | [Luna En Venus](https://open.spotify.com/track/50QAlu1w0VfErjyQjDEgBC) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:36 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 50 | [tribu urbana](https://open.spotify.com/track/2Ch6Q8JCBEguf4HCOpfCBj) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [tribu urbana](https://open.spotify.com/album/5WaHflJ1zw8Camclfo8E2s) | 2:53 |
 | 51 | [Ay, Mala Mia](https://open.spotify.com/track/2uqwY40y5eaRd2sJIzGq4L) | [Chulimane](https://open.spotify.com/artist/3oogb5aH7871QFPtE14bO6), [Ramiro VCA](https://open.spotify.com/artist/1rSWEMnmi7dQuTdtGrFyXU) | [Mas Kara Ke Nunka](https://open.spotify.com/album/5rqvOpyUzASDjY4luh1P2l) | 2:26 |
 
-Snapshot ID: `MCxiMTE2ZTg0YTc2MTU3OGU0ZDk2ZDNjYzlmMDk2MDEwY2ViNDFhNDcy`
+Snapshot ID: `MCw4MDE2ZWYwYWFlNTE0ZTZkMGExYjYwM2Y2MjJlOTI2Yzc1MThkYzk3`

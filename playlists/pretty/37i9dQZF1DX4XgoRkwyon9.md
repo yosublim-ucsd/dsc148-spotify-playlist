@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XgoRkwyon9.md) - [plain]
 
 > Eres de los clásicos, y lo sabes\. Las viejitas de moda en 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,525 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,608 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XgoRkwyon9.md) - [plain]
 | 14 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:05 |
 | 15 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 |
 | 16 | [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) | 3:38 |
-| 17 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
-| 18 | [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 |
+| 17 | [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 |
+| 18 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
 | 19 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 |
 | 20 | [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 |
 | 21 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 |
 | 22 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
-| 23 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 |
-| 24 | [Sweet Dreams \(Are Made of This\) \- Remastered](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 |
+| 23 | [Sweet Dreams \(Are Made of This\) \- Remastered](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 |
+| 24 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 |
 | 25 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 |
 | 26 | [Bad Romance](https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 4:54 |
 | 27 | [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XgoRkwyon9.md) - [plain]
 | 41 | [El Precio De La Soledad](https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:06 |
 | 42 | [Dia de Enero](https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 2:53 |
 | 43 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 |
-| 44 | [Dile al Amor](https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:49 |
+| 44 | [El Perdedor](https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:35 |
 | 45 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 46 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
 | 47 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 |
 | 48 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 |
-| 49 | [El Perdedor](https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:35 |
+| 49 | [Dile al Amor](https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:49 |
 | 50 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 
-Snapshot ID: `MCw3M2EzNmI5Y2ZkM2QzZmJhMzMxNjdkNTllOWJjMjhkNmVhZjUxYmZm`
+Snapshot ID: `MCw2OGI0MzIxYTY4NjcwZGIyNjIzZTdkMTE5ZWI1YTAwZWRiZjhmMDdl`

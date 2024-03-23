@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,972 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,981 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [you won't be there for me](https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa) | 3:02 |
 | 2 | [Don't ever say love me \(feat\. RM of BTS\)](https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S) | 3:34 |
 | 3 | [Love Scene](https://open.spotify.com/track/1WWskMa6hvLgHuNhc6suE2) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:37 |
-| 4 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
-| 5 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
+| 4 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
+| 5 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
 | 6 | [Cigarette \(Feat\. Tablo, MISO\)](https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 4:01 |
 | 7 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
 | 8 | [want YOU](https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [want YOU](https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 49 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |
 | 50 | [Poker \(Feat\. Dvwn\)](https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:32 |
 
-Snapshot ID: `MCwyZmVhNDFkNjY4NGM0YzlkZmZkYTdlNmI4MzUxZDNjYThhMTBiNDgy`
+Snapshot ID: `MCwyOGNmYTcxOWM4NWVkZGZhMmNiZDhkOWZiNTFiZDY4OGJjYzNhNGZi`

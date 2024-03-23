@@ -4,10 +4,12 @@
 
 > Discover the unforgettable melodies of Chopin, including moving ballades, relaxing nocturnes and vibrant concertos.
 
-122 songs - 11 hr 48 min
+124 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [12 Études, Op\. 10: No\. 12 in C Minor "Revolutionary"](https://open.spotify.com/track/4tjdcmSvwN4tcNXybibSh9) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Yunchan Lim](https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz) | [Chopin: 12 Études, Op\. 10: No\. 12 in C Minor "Revolutionary"](https://open.spotify.com/album/74Ad4ipzFmpLUMhQI0JOZ5) | 2:34 | 2024-03-22 |  |
+| [12 Études, Op\. 25: No\. 11 in A Minor "Winter Wind"](https://open.spotify.com/track/3AUs6a50ndE0LqZWkNWrga) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [Chopin: 12 Études, Op\. 25: No\. 11 in A Minor "Winter Wind"](https://open.spotify.com/album/6N22adsrbRjMRYPi0wMNN6) | 3:29 | 2024-03-22 |  |
 | [24 Preludes, Op\. 28: No\. 15 in D Flat Major\. Sostenuto "Raindrop"](https://open.spotify.com/track/16lscXk0JZ078EVRAIN7Bs) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Chopin: 24 Preludes, Op\. 28: No\. 15 in D Flat Major\. Sostenuto "Raindrop"](https://open.spotify.com/album/3G7TjRq0pIrJrbX81U6zem) | 6:19 | 2021-10-29 |  |
 | [24 Preludes, Op\. 28: No\. 19 in E\-Flat Major](https://open.spotify.com/track/2bUKoGuunYtQ9yNve2eSo2) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Paris Tsenikoglou](https://open.spotify.com/artist/7CVoOouwpHPOcSNAQ86Muz) | [Debussy: Images \- Chopin: Préludes](https://open.spotify.com/album/3GbYSaDG9sFLDF5MNb1izr) | 1:27 | 2022-07-01 |  |
 | [24 Preludes, Op\. 28: No\. 9 in E Major](https://open.spotify.com/track/6rjemuZ8zBQIz36tbqrPd7) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Preludes](https://open.spotify.com/album/4iYwCjvCuY590kRhaBAHbW) | 1:28 | 2021-10-29 | 2022-07-29 |

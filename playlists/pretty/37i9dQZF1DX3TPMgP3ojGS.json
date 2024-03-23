@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 410332,
+  "num_followers": 410443,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDExYWJhNzUxOTdiN2FhNzE5NmZlM2E2Y2M0ZjJhNTU2MDU5OGFk",
+  "snapshot_id": "MCw1Y2Y0MDRmM2QxOGExMDdiY2RhYmEyNTQwMzQ2MDhjNWQyMGRjYmU0",
   "tracks": [
     {
       "added_at": "2024-02-22 05:36:01",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Elegie",
-        "url": "https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu"
-      },
-      "artists": [
-        {
-          "name": "Kiara Leonard",
-          "url": "https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P"
-        }
-      ],
-      "duration_ms": 169349,
-      "name": "Elegie",
-      "url": "https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Schutter",
         "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 150000,
       "name": "Schutter",
       "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Elegie",
+        "url": "https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu"
+      },
+      "artists": [
+        {
+          "name": "Kiara Leonard",
+          "url": "https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P"
+        }
+      ],
+      "duration_ms": 169349,
+      "name": "Elegie",
+      "url": "https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "The Proposal",
-        "url": "https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW"
+        "name": "Ode to Vivian (Rework)",
+        "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
       },
       "artists": [
         {
-          "name": "Henriette Fleich",
-          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         }
       ],
-      "duration_ms": 162062,
-      "name": "The Proposal",
-      "url": "https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl"
+      "duration_ms": 96624,
+      "name": "Ode to Vivian - Rework",
+      "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -303,34 +303,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Ode to Vivian (Rework)",
-        "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
+        "name": "The Proposal",
+        "url": "https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+          "name": "Henriette Fleich",
+          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
         }
       ],
-      "duration_ms": 96624,
-      "name": "Ode to Vivian - Rework",
-      "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
-        "name": "Forevermore",
-        "url": "https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW"
-      },
-      "artists": [
-        {
-          "name": "Ambrosiae",
-          "url": "https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm"
-        }
-      ],
-      "duration_ms": 154311,
-      "name": "Forevermore",
-      "url": "https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo"
+      "duration_ms": 162062,
+      "name": "The Proposal",
+      "url": "https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -347,6 +331,22 @@
       "duration_ms": 200250,
       "name": "Afterlight",
       "url": "https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Forevermore",
+        "url": "https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW"
+      },
+      "artists": [
+        {
+          "name": "Ambrosiae",
+          "url": "https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm"
+        }
+      ],
+      "duration_ms": 154311,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Autumn Sky",
-        "url": "https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT"
-      },
-      "artists": [
-        {
-          "name": "Vincent Fanguro",
-          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
-        }
-      ],
-      "duration_ms": 158723,
-      "name": "Autumn Sky",
-      "url": "https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Before You",
         "url": "https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Astray",
-        "url": "https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2"
+        "name": "Autumn Sky",
+        "url": "https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT"
       },
       "artists": [
         {
-          "name": "Simon Vouet",
-          "url": "https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b"
+          "name": "Vincent Fanguro",
+          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
         }
       ],
-      "duration_ms": 120941,
-      "name": "Astray",
-      "url": "https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK"
+      "duration_ms": 158723,
+      "name": "Autumn Sky",
+      "url": "https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -475,6 +459,22 @@
       "duration_ms": 199166,
       "name": "The Tree",
       "url": "https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Astray",
+        "url": "https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2"
+      },
+      "artists": [
+        {
+          "name": "Simon Vouet",
+          "url": "https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b"
+        }
+      ],
+      "duration_ms": 120941,
+      "name": "Astray",
+      "url": "https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Calm Wind",
-        "url": "https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K"
-      },
-      "artists": [
-        {
-          "name": "Elfrieda",
-          "url": "https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t"
-        }
-      ],
-      "duration_ms": 140102,
-      "name": "Calm Wind",
-      "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "The Blue Notebooks (15 Years)",
         "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 78546,
       "name": "Vladimir's Blues",
       "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Calm Wind",
+        "url": "https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K"
+      },
+      "artists": [
+        {
+          "name": "Elfrieda",
+          "url": "https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t"
+        }
+      ],
+      "duration_ms": 140102,
+      "name": "Calm Wind",
+      "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Aspres",
-        "url": "https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao"
-      },
-      "artists": [
-        {
-          "name": "Ren Lockhart",
-          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
-        }
-      ],
-      "duration_ms": 199119,
-      "name": "Aspres",
-      "url": "https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Luce",
         "url": "https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 130403,
       "name": "Luce",
       "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Aspres",
+        "url": "https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "duration_ms": 199119,
+      "name": "Aspres",
+      "url": "https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
+        "name": "A Safe Space",
+        "url": "https://open.spotify.com/album/5IcBkn9y7e0jDlKtf9NhwU"
+      },
+      "artists": [
+        {
+          "name": "Aramis Morel",
+          "url": "https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4"
+        }
+      ],
+      "duration_ms": 148299,
+      "name": "A Safe Space",
+      "url": "https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
         "name": "Brume Matinale",
         "url": "https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 151750,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
-        "name": "A Safe Space",
-        "url": "https://open.spotify.com/album/5IcBkn9y7e0jDlKtf9NhwU"
-      },
-      "artists": [
-        {
-          "name": "Aramis Morel",
-          "url": "https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4"
-        }
-      ],
-      "duration_ms": 148299,
-      "name": "A Safe Space",
-      "url": "https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
-      },
-      "artists": [
-        {
-          "name": "Floyd Nova",
-          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Window Seat",
         "url": "https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 137692,
       "name": "Peace flow",
       "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Bridge Across the Ocean",
-        "url": "https://open.spotify.com/album/2njPpnXxSX53OX35rEiEuG"
-      },
-      "artists": [
-        {
-          "name": "Ren Lockhart",
-          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
-        }
-      ],
-      "duration_ms": 186711,
-      "name": "Bridge Across the Ocean",
-      "url": "https://open.spotify.com/track/47Dbe09uprsTUFezKfy594"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Nordanvind",
         "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 127000,
       "name": "Nordanvind",
       "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Bridge Across the Ocean",
+        "url": "https://open.spotify.com/album/2njPpnXxSX53OX35rEiEuG"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "duration_ms": 186711,
+      "name": "Bridge Across the Ocean",
+      "url": "https://open.spotify.com/track/47Dbe09uprsTUFezKfy594"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "When It\u00b4s Love",
-        "url": "https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz"
-      },
-      "artists": [
-        {
-          "name": "Junie Oakes",
-          "url": "https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS"
-        }
-      ],
-      "duration_ms": 162047,
-      "name": "When It\u00b4s Love",
-      "url": "https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Valse Naturelle",
         "url": "https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 139624,
       "name": "Valse Naturelle",
       "url": "https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "When It\u00b4s Love",
+        "url": "https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz"
+      },
+      "artists": [
+        {
+          "name": "Junie Oakes",
+          "url": "https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS"
+        }
+      ],
+      "duration_ms": 162047,
+      "name": "When It\u00b4s Love",
+      "url": "https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Whispering Oaks",
-        "url": "https://open.spotify.com/album/1jg0lKpBFgPpgww85JzDNz"
-      },
-      "artists": [
-        {
-          "name": "Olivier DeGrasse",
-          "url": "https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb"
-        }
-      ],
-      "duration_ms": 151288,
-      "name": "Whispering Oaks",
-      "url": "https://open.spotify.com/track/5jJodZ6zXjMdAgumEyVKb1"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 163916,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Whispering Oaks",
+        "url": "https://open.spotify.com/album/1jg0lKpBFgPpgww85JzDNz"
+      },
+      "artists": [
+        {
+          "name": "Olivier DeGrasse",
+          "url": "https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb"
+        }
+      ],
+      "duration_ms": 151288,
+      "name": "Whispering Oaks",
+      "url": "https://open.spotify.com/track/5jJodZ6zXjMdAgumEyVKb1"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Nokt\u00farna Variations",
-        "url": "https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Nokt\u00farna - Upright Piano",
-      "url": "https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Act Of Reconciling",
         "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 143400,
       "name": "Act Of Reconciling",
       "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Nokt\u00farna Variations",
+        "url": "https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Nokt\u00farna - Upright Piano",
+      "url": "https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY"
     },
     {
       "added_at": "2024-02-22 05:36:01",

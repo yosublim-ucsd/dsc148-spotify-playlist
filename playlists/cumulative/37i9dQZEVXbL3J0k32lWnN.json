@@ -18971,6 +18971,24 @@
     },
     {
       "album": {
+        "name": "Noahs Ark",
+        "url": "https://open.spotify.com/album/1pfe880QkNYlvrJCzIbios"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163482,
+      "name": "Noahs Ark",
+      "url": "https://open.spotify.com/track/5kO3T7ISHwuQwn5BXTtCbp"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -28000,7 +28018,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

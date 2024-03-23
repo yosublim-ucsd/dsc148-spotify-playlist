@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/thealiyajanell/">Aliya Janell Brinson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,923 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,988 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 | 7 | [Trophies](https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Rise Of An Empire \(Deluxe Edition\)](https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF) | 3:08 |
 | 8 | [Hit Different](https://open.spotify.com/track/7Bar1kLTmsRmH6FCKKMEyU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hit Different](https://open.spotify.com/album/4xmJCh7ct63QvQ5wRc44db) | 3:22 |
 | 9 | [Rock The Boat](https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:34 |
-| 10 | [Too Close](https://open.spotify.com/track/5IFCyWplye09HytIP80RCF) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:19 |
-| 11 | [Chun\-Li](https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:11 |
+| 10 | [Chun\-Li](https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:11 |
+| 11 | [Too Close](https://open.spotify.com/track/5IFCyWplye09HytIP80RCF) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:19 |
 | 12 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
 | 13 | [So Anxious](https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [100% Ginuwine](https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY) | 4:36 |
 | 14 | [I'm Real \(feat\. Ja Rule\) \- Murder Remix](https://open.spotify.com/track/6MLsahMK3VvH9NUwXOktdS) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [J.Lo](https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT) | 4:22 |
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 | 19 | [Yikes](https://open.spotify.com/track/75dLEqanQTupF3dtP9exT5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Yikes](https://open.spotify.com/album/2IvvAdx63KEfVHPAvYdQ1O) | 2:36 |
 | 20 | [If You Had My Love](https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:26 |
 | 21 | [ALREADY](https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:42 |
-| 22 | [Privacy](https://open.spotify.com/track/5kyd6oKvKmj6mWCaAaHoN4) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 3:40 |
+| 22 | [Heat \(feat\. Gunna\)](https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:52 |
 | 23 | [Do It](https://open.spotify.com/track/35Dh5MnCUPLN3XyAVtQff3) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 2:56 |
 | 24 | [The Real Her](https://open.spotify.com/track/74atKkOasLOVzvqB6mYgga) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:21 |
 | 25 | [Good Form](https://open.spotify.com/track/19Fcrc0nJiwMKom00gS9SW) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:19 |
 | 26 | [Soldier \(feat\. T.I\. & Lil' Wayne\)](https://open.spotify.com/track/4FTOpNYcGxnQdGNWSxIcio) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 5:25 |
 | 27 | [What’s New](https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:35 |
-| 28 | [Heat \(feat\. Gunna\)](https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:52 |
+| 28 | [Privacy](https://open.spotify.com/track/5kyd6oKvKmj6mWCaAaHoN4) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 3:40 |
 | 29 | [Are You That Somebody](https://open.spotify.com/track/1sSuFkO3m3Cr6YN24NYol5) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Are You That Somebody](https://open.spotify.com/album/3leLClL6IJTf7Pez7yJKJD) | 4:25 |
 | 30 | [Livin' It Up](https://open.spotify.com/track/4ToZV7r72wSbVrljaLSp13) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Pain Is Love](https://open.spotify.com/album/2iIIgsaTEtVjDhrV7HKDJC) | 4:17 |
 | 31 | [Faded Pictures](https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 | 49 | [Still Your Best](https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 2:57 |
 | 50 | [U Already Know](https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Pleasure & Pain](https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72) | 3:18 |
 
-Snapshot ID: `MCw1ZjNmYmNiMjE0OWMyOTllMzhmNWUxZWMyZWE5ZWY0MTI2NmQ5Yjlm`
+Snapshot ID: `MCwyZjNiYzFhMTBlMjRmNzRjZDJiOTE4ZjJkYmZkNDhiY2ZiNGRjZWU3`

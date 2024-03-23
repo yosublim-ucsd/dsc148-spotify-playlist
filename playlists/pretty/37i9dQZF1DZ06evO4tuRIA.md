@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,279 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,299 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 30 | [El Doble M](https://open.spotify.com/track/41NPmOc9fdROE5o1BpCn2w) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Doble M](https://open.spotify.com/album/63LuzfHyA0yV3RH4ZvEHL9) | 2:26 |
 | 31 | [Pancho Conos](https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:54 |
 | 32 | [El Jeffrey](https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [L.A\. Lumbre](https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb) | 2:33 |
-| 33 | [La Pantera \(En Vivo\)](https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Legado 7 En Vivo Desde OK Corral](https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP) | 3:11 |
-| 34 | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/album/6dWQ03bpI9ODThTAlqKWbP) | 4:00 |
+| 33 | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/album/6dWQ03bpI9ODThTAlqKWbP) | 4:00 |
+| 34 | [La Pantera \(En Vivo\)](https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Legado 7 En Vivo Desde OK Corral](https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP) | 3:11 |
 | 35 | [Barrios Bajos](https://open.spotify.com/track/7J0m55VDv0mSLAtVB8IoQ6) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 2:25 |
 | 36 | [Pateando Latas](https://open.spotify.com/track/3yQXmNacfHANLuaK5qomxz) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [The Magic, Vol.1](https://open.spotify.com/album/4q02YCUCtiUpDcUZ75D561) | 3:11 |
 | 37 | [El Popeye](https://open.spotify.com/track/64gzvtnbBAQVJslAmzxL2V) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 3:36 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 50 | [Bienvenidos a Mazatlán](https://open.spotify.com/track/0OudDZ8yAnA3jVpqidvQfM) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Bienvenidos a Mazatlán](https://open.spotify.com/album/6mhhkzqhbG4jOBZQxARqOH) | 3:07 |
 | 51 | [Yoni El Maldito](https://open.spotify.com/track/5e8HhHGg48DqrQfjzDPchq) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 3:01 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBlNjE4MGIyZmNhNzE3MGNlNWEyY2I3ZjU5OTEzOTJmNA==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA2MDU5NGRjN2JlZTk3YzhkYjVkNjlmNDA2ODhlODJlNQ==`

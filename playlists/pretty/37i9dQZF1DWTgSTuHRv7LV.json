@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Nanpa B\u00e1sico & Pj Sin Suela",
-  "num_followers": 494787,
+  "num_followers": 494822,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2UwZWIwNDIxYjQ5YTdiY2IyNTNiNjZlMjQ0ODgwMzdmYTJiMTlk",
+  "snapshot_id": "MCwxNWJlMDIyNzUzODg1ZGEyZTYwMTdhZTMxNDYzZjE1MmY3Njg0ZTZj",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Ron En El Piso",
-        "url": "https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z"
-      },
-      "artists": [
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        }
-      ],
-      "duration_ms": 335111,
-      "name": "Ron En El Piso",
-      "url": "https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "No Me Pregunten",
         "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
       },
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Ron En El Piso",
+        "url": "https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "duration_ms": 335111,
+      "name": "Ron En El Piso",
+      "url": "https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "MAMA",
         "url": "https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO"
       },
@@ -1135,26 +1135,6 @@
       "duration_ms": 265116,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "VICE",
-        "url": "https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        }
-      ],
-      "duration_ms": 161086,
-      "name": "VICE",
-      "url": "https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1175,6 +1155,26 @@
       "duration_ms": 158823,
       "name": "Belico",
       "url": "https://open.spotify.com/track/43OaRjkDxlWBVxamvz7BTA"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "VICE",
+        "url": "https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "duration_ms": 161086,
+      "name": "VICE",
+      "url": "https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1255,6 +1255,26 @@
       "duration_ms": 149300,
       "name": "Joder",
       "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Morena 420",
+        "url": "https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 236712,
+      "name": "Morena 420",
+      "url": "https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1347,26 +1367,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Morena 420",
-        "url": "https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 236712,
-      "name": "Morena 420",
-      "url": "https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "PA' LA VUELTA",
         "url": "https://open.spotify.com/album/7qxd9lTnTTARbkPrfsVdHL"
       },
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "NOVATO",
+      "url": "https://open.spotify.com/track/2bcBQUFjbrsS8rq0u5PK6O"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 108266,
       "name": "Tocando Tierra",
       "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "NOVATO",
-      "url": "https://open.spotify.com/track/2bcBQUFjbrsS8rq0u5PK6O"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Haci\u00e9ndolo Fino",
-        "url": "https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl"
+        "name": "Puerto Rican Mami",
+        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 166708,
-      "name": "Erick Serm\u00f3n",
-      "url": "https://open.spotify.com/track/6Vtf1lKeDHjYoUzj53wQFk"
+      "duration_ms": 199627,
+      "name": "Puerto Rican Mami",
+      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Puerto Rican Mami",
-        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
+        "name": "Haci\u00e9ndolo Fino",
+        "url": "https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl"
       },
       "artists": [
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 199627,
-      "name": "Puerto Rican Mami",
-      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
+      "duration_ms": 166708,
+      "name": "Erick Serm\u00f3n",
+      "url": "https://open.spotify.com/track/6Vtf1lKeDHjYoUzj53wQFk"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Haci\u00e9ndolo Fino",
-        "url": "https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl"
+        "name": "Kame Hame",
+        "url": "https://open.spotify.com/album/5mAMMqiX0sebEb7npoeBV8"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 213134,
-      "name": "Maradona",
-      "url": "https://open.spotify.com/track/42HcEeL1pumhrTRF62ssz8"
+      "duration_ms": 167733,
+      "name": "Kame Hame",
+      "url": "https://open.spotify.com/track/7xh93gqqo5VBD6tGRp77qv"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1675,22 +1675,6 @@
       "duration_ms": 243000,
       "name": "Socios",
       "url": "https://open.spotify.com/track/5XEKaGX5bEvZE79KneoLic"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Kame Hame",
-        "url": "https://open.spotify.com/album/5mAMMqiX0sebEb7npoeBV8"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Kame Hame",
-      "url": "https://open.spotify.com/track/7xh93gqqo5VBD6tGRp77qv"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1799,6 +1783,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Haci\u00e9ndolo Fino",
+        "url": "https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 213134,
+      "name": "Maradona",
+      "url": "https://open.spotify.com/track/42HcEeL1pumhrTRF62ssz8"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Pablito y el Pelon",
         "url": "https://open.spotify.com/album/6qh2XoiQJTS2MlD70WxR90"
       },
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 206645,
+      "name": "7",
+      "url": "https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Holy Shit (Remix)",
         "url": "https://open.spotify.com/album/0IzxukhRLKI3fU3HIaSIC1"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 207887,
       "name": "Holy Shit - Remix",
       "url": "https://open.spotify.com/track/1OzhsvZSKTMUZRjo4al9cA"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 206645,
-      "name": "7",
-      "url": "https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a"
     },
     {
       "added_at": "2024-02-09 05:00:00",

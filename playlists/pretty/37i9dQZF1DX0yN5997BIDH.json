@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 579848,
+  "num_followers": 579827,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2M1OWI0MzE5YjBiODA3YWI1N2NiNzA2MDRiMWJkNGNhZWZiMWU4",
+  "snapshot_id": "MCwyYjkzMzM0ZmQzNTY0ZWMzNjgwOTAzNWM4NGEwNGQyNWNiNThmZDQ5",
   "tracks": [
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "Lonely (with benny blanco)",
-        "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
+        "name": "Diamonds & Dancefloors",
+        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 149297,
-      "name": "Lonely (with benny blanco)",
-      "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
+      "duration_ms": 190290,
+      "name": "Maybe You\u2019re The Problem",
+      "url": "https://open.spotify.com/track/6WDG2ybdV3SBXV0lwBGu4D"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1119,18 +1115,22 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "Diamonds & Dancefloors",
-        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
+        "name": "Lonely (with benny blanco)",
+        "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
         }
       ],
-      "duration_ms": 190290,
-      "name": "Maybe You\u2019re The Problem",
-      "url": "https://open.spotify.com/track/6WDG2ybdV3SBXV0lwBGu4D"
+      "duration_ms": 149297,
+      "name": "Lonely (with benny blanco)",
+      "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
     },
     {
       "added_at": "2023-01-13 21:02:37",

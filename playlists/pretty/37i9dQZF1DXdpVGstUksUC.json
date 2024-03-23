@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 539535,
+  "num_followers": 539574,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDNlMGVhNjc0Njg2NDU0YjFkZTZkNDAyZjliYWFlZGE0NTk1M2Ji",
+  "snapshot_id": "MCxmNmZlNjc5YWEzMTc2YjU1NmM2MzEwNjFhZGMyYmUzNzhjMTA5YWY5",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Sunrise On The Sufferbus",
-        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
-      },
-      "artists": [
-        {
-          "name": "Masters Of Reality",
-          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Rabbit One",
-      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Seven Thunders Roar",
         "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 961942,
       "name": "I'm the Mountain",
       "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Sunrise On The Sufferbus",
+        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
+      },
+      "artists": [
+        {
+          "name": "Masters Of Reality",
+          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Rabbit One",
+      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Agents Of Ahriman",
-        "url": "https://open.spotify.com/album/1gHn0PVCJR5joKontf6iSw"
-      },
-      "artists": [
-        {
-          "name": "Greenleaf",
-          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Stray Bullit Woman",
-      "url": "https://open.spotify.com/track/2oBdRxAKkKn1S8MzwVuNwh"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Dopes To Infinity",
         "url": "https://open.spotify.com/album/6Dh8ASautDuCAtsWebqyGS"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 301840,
       "name": "I'll Cut You Down",
       "url": "https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Agents Of Ahriman",
+        "url": "https://open.spotify.com/album/1gHn0PVCJR5joKontf6iSw"
+      },
+      "artists": [
+        {
+          "name": "Greenleaf",
+          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Stray Bullit Woman",
+      "url": "https://open.spotify.com/track/2oBdRxAKkKn1S8MzwVuNwh"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 435213,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "No Comfort",
         "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 230653,
       "name": "Leftovers",
       "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 435213,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Thornwyck Hymn",
-        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
-      },
-      "artists": [
-        {
-          "name": "My Dying Bride",
-          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
-        }
-      ],
-      "duration_ms": 407783,
-      "name": "Thornwyck Hymn",
-      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Elephant Tree",
         "url": "https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 367879,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Thornwyck Hymn",
+        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
+      },
+      "artists": [
+        {
+          "name": "My Dying Bride",
+          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+        }
+      ],
+      "duration_ms": 407783,
+      "name": "Thornwyck Hymn",
+      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Trance States in Tongues",
-        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
-      },
-      "artists": [
-        {
-          "name": "Zen Guerrilla",
-          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
-        }
-      ],
-      "duration_ms": 301973,
-      "name": "Moonage Daydream",
-      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Acid Roulette",
         "url": "https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 349466,
       "name": "Acid Roulette",
       "url": "https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Trance States in Tongues",
+        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
+      },
+      "artists": [
+        {
+          "name": "Zen Guerrilla",
+          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
+        }
+      ],
+      "duration_ms": 301973,
+      "name": "Moonage Daydream",
+      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
     },
     {
       "added_at": "2024-02-09 05:00:00",

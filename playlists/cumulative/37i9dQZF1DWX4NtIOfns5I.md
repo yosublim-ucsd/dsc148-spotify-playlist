@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> are you just watching and waiting for spring? 🕊️ Kacey Musgraves
+> bright future by adrianne lenker has arrived ☀️
 
-213 songs - 12 hr 29 min
+216 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Dream Dating](https://open.spotify.com/track/0ikubwVXWkOeYH3HFhXMfK) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Infinite Spring](https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC) | 3:47 | 2023-10-06 |  |
 | [Dream Song](https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Dream Song](https://open.spotify.com/album/6NlSEYD0tosjRfVAUqBSLb) | 2:43 | 2023-10-06 |  |
 | [Eidolon](https://open.spotify.com/track/5ttu0jY3rOQuaW3D2AN6OU) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Act 2 \(Their God\)](https://open.spotify.com/album/20tEagJfooo80QqJND3FMR) | 3:30 | 2023-10-06 |  |
+| [Either Way](https://open.spotify.com/track/1B6EfeMzx4lgAFHSdlg3qf) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Either Way](https://open.spotify.com/album/6xCFqOoJGxMDOQR0JEx8ly) | 4:12 | 2024-03-22 |  |
 | [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 | 2023-12-08 |  |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-10-27 |  |
 | [Euphor](https://open.spotify.com/track/4CiqKccFFYGmFPz7HVTjfW) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 4:03 | 2023-10-17 | 2024-03-13 |
@@ -64,7 +65,7 @@
 | [Everything We Need](https://open.spotify.com/track/6lmJ5Nn7CrAmZkuMejx8YZ) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [Everything We Need](https://open.spotify.com/album/5gDSgkqX0dEzmOyVKANv7M) | 3:33 | 2023-10-06 |  |
 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 | 2023-12-01 |  |
 | [First Date Conversations \(For the Healthy Young Professional\)](https://open.spotify.com/track/7E3gvkRgBkjsGQr2N4bjIq) | [Jake Bardin](https://open.spotify.com/artist/6au2CHviUD4hfqI9UAPLgo) | [First Date Conversations \(For the Healthy Young Professional\)](https://open.spotify.com/album/4v1cJPYanw5ODSVbsC9Oum) | 3:09 | 2023-10-06 | 2024-03-16 |
-| [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 | 2023-10-06 |  |
+| [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 | 2023-10-06 | 2024-03-23 |
 | [For Emma](https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:40 | 2023-12-15 |  |
 | [For Months Now](https://open.spotify.com/track/0BrfibWFnLKn4toGD3gRE9) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [For Months Now](https://open.spotify.com/album/5P9kkhUR5UDki1BIXo4ciT) | 4:06 | 2024-02-09 | 2024-02-17 |
 | [For Months Now](https://open.spotify.com/track/3Qoru0cFoXjTAgUAi9zinE) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 4:06 | 2024-02-16 | 2024-03-16 |
@@ -101,7 +102,7 @@
 | [I'd Have to Think About It](https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/13NV9whHhEz1qhD2XqiawI) | 2:30 | 2023-11-10 |  |
 | [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 | 2023-10-06 | 2023-11-25 |
 | [I'm Not Like Alice](https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [I'm Not Like Alice](https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL) | 2:16 | 2023-10-06 | 2024-03-02 |
-| [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 | 2023-10-06 |  |
+| [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 | 2023-10-06 | 2024-03-23 |
 | [In Dreams \- Alternative Version](https://open.spotify.com/track/0xJDTRuEuSlP95wHnrLnLx) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [In Dreams \(Alternative Version\)](https://open.spotify.com/album/0CvZulEryG0ohlt1QFVHhM) | 2:43 | 2023-10-06 |  |
 | [In My Room](https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Room](https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L) | 2:42 | 2023-12-08 | 2024-02-14 |
 | [in the rain](https://open.spotify.com/track/1gicn1usnZflJaszZtfm2n) | [frances mistry](https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG) | [let them eat grass](https://open.spotify.com/album/1WUyJfZ7pAXimyTJg0aoca) | 3:25 | 2023-10-06 |  |
@@ -152,7 +153,8 @@
 | [Pressing Down](https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 3:59 | 2023-10-06 | 2023-12-09 |
 | [Pup](https://open.spotify.com/track/7vxSL2veuTRQBhslhM7ENS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Pup](https://open.spotify.com/album/5aTyRZw08z72j3xy0bEJfz) | 4:17 | 2023-11-10 | 2023-12-16 |
 | [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 | 2024-01-14 | 2024-03-21 |
-| [Rattlesnake](https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:56 | 2023-10-06 |  |
+| [Rattlesnake](https://open.spotify.com/track/2YhLF7zIxcitEkobaGAMmU) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/69Dt5SjS6dSCmlPfqMhWwv) | 4:56 | 2024-02-16 |  |
+| [Rattlesnake](https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:56 | 2023-10-06 | 2024-03-23 |
 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2023-12-01 |  |
 | [Rearview](https://open.spotify.com/track/3RyPOX98HHEYQholV0RBYF) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD) | 3:51 | 2023-10-06 |  |
 | [resentme2](https://open.spotify.com/track/6ubGK2bazBd5iOCvRAmudE) | [Brett Seper](https://open.spotify.com/artist/0ha3FIe7oUSx86k9krBSKE) | [toxic ties & troubled minds](https://open.spotify.com/album/5x6eyMAnZ3fUu26mgqE9kP) | 2:48 | 2023-10-06 |  |
@@ -204,6 +206,7 @@
 | [True Blue](https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:56 | 2023-12-15 |  |
 | [Uncovered](https://open.spotify.com/track/0u3Ck6jifvedbQL0ZjBP1l) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Uncovered](https://open.spotify.com/album/7A8zAcXTRDKJdt7HpRmwAT) | 3:44 | 2023-10-06 | 2024-01-27 |
 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 | 2023-10-06 |  |
+| [Vampire Empire](https://open.spotify.com/track/2DSxUFEL5v1YT8CwYzhWyf) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 3:55 | 2024-03-22 |  |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-10-06 |  |
 | [very overdue goodbye](https://open.spotify.com/track/2OVZqrdQ6QgaYPvm7L4EYD) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [very overdue goodbye](https://open.spotify.com/album/0wuatDVylahYnftpjrD1Gy) | 3:36 | 2023-10-06 | 2023-11-30 |
 | [very overdue goodbye](https://open.spotify.com/track/6onEf8upjTGmqve2G6dm3h) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [earlier from '20](https://open.spotify.com/album/2AekUERWbAA27Eyux7Gj9Z) | 3:36 | 2023-11-10 |  |

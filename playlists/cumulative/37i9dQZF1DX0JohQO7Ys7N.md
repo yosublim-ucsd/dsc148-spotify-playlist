@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Bridget Blue
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Karun
 
-166 songs - 9 hr 17 min
+167 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,8 +111,9 @@
 | [Nimetii](https://open.spotify.com/track/2lyMgRJfJ26k4ib4exYO10) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nimetii](https://open.spotify.com/album/1KvLQ3dEjgP89oIbZfp4bx) | 2:55 | 2021-12-28 | 2022-09-29 |
 | [Nimetii](https://open.spotify.com/track/6FrFrkBIvOW6nZo6pheljP) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nimetii](https://open.spotify.com/album/2abzq9AqCgqpDB8YPh557R) | 2:55 | 2021-12-28 | 2023-07-28 |
 | [Nipende](https://open.spotify.com/track/6DgMQzle107AN4oBX5Uhcz) | [Zaituni Wambui](https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me) | [Nipende](https://open.spotify.com/album/06DbgiBmUM7eSQiAk2cx55) | 5:15 | 2023-11-30 |  |
+| [NIRVANA LOVE](https://open.spotify.com/track/5pppSeKzMPgA7EvdmK50XA) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Darklorde](https://open.spotify.com/artist/2Bv5o0cYa1CQKrf2E72omo), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [NIRVANA LOVE](https://open.spotify.com/album/7ijkHEy1BOqjt7i0jBFjiG) | 3:21 | 2024-03-22 |  |
 | [Nitangoja](https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Nitangoja](https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex) | 2:38 | 2022-11-10 |  |
-| [Nyumbani](https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [NYUMBANI](https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s) | 2:00 | 2022-09-01 |  |
+| [Nyumbani](https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [NYUMBANI](https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s) | 2:00 | 2022-09-01 | 2024-03-23 |
 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 | 2022-10-13 | 2022-11-11 |
 | [Only You \- A COLORS SHOW](https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Only You \- A COLORS SHOW](https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk) | 2:46 | 2023-11-02 |  |
 | [Paths](https://open.spotify.com/track/6rOF2rxWh0zxN6lRgSMOTn) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN) | [Catch A Vibe](https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs) | 3:22 | 2021-12-28 | 2022-08-19 |

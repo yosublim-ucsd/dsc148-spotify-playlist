@@ -1,12 +1,12 @@
 {
   "description": "Temitas chulos para acompa\u00f1arte cuando vas de un sitio a otro.",
-  "num_followers": 711712,
+  "num_followers": 711701,
   "original_name": "Voy pall\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmI5MzAyYjBiY2E5MDU4NjJiOWJkNzljNjI3NDEyZmJiNThjY2M2",
+  "snapshot_id": "MCw3MGM5Y2I3MzAzYjZmYjFkYzMzZWI4MWMzYzhhYmYzMmQzZmFhMzgw",
   "tracks": [
     {
       "added_at": "2023-02-10 12:23:28",
@@ -667,6 +667,26 @@
     {
       "added_at": "2023-02-10 12:23:28",
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+    },
+    {
+      "added_at": "2023-02-10 12:23:28",
+      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
       },
@@ -679,22 +699,6 @@
       "duration_ms": 237720,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
-    },
-    {
-      "added_at": "2023-02-10 12:23:28",
-      "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
     },
     {
       "added_at": "2023-02-10 12:23:28",
@@ -719,22 +723,18 @@
     {
       "added_at": "2023-02-10 12:23:28",
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
     },
     {
       "added_at": "2023-02-10 12:23:28",

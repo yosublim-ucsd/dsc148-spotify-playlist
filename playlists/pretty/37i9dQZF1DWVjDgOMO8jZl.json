@@ -1,17 +1,17 @@
 {
   "description": "Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href=\"spotify:artist:3HRSdDvPAE54ocmaq0JRrJ\">Camilla Magli</a>",
-  "num_followers": 22646,
+  "num_followers": 22650,
   "original_name": "RADAR Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDhjOGY0NjYyNmI1MjNlZmJhM2Y0MGY2NzgyYTM1MGRkODNlYjc2",
+  "snapshot_id": "MCwzNjRmZTIzMzAwMjU2YTYzZjEyMGZkZTNhNzY5ZTJlYzMzNGE4MzA3",
   "tracks": [
     {
       "added_at": "2024-02-19 16:46:16",
       "album": {
-        "name": "MALEDETTO TI AMO",
+        "name": "MALEDETTO TI AMO (feat. Mameli)",
         "url": "https://open.spotify.com/album/35g3bYMHoEfG5VWXfSXjcj"
       },
       "artists": [
@@ -20,16 +20,16 @@
           "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
         },
         {
-          "name": "Mameli",
-          "url": "https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu"
-        },
-        {
           "name": "Gorbaciof",
           "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        },
+        {
+          "name": "Mameli",
+          "url": "https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu"
         }
       ],
       "duration_ms": 168288,
-      "name": "MALEDETTO TI AMO",
+      "name": "MALEDETTO TI AMO (feat. Mameli)",
       "url": "https://open.spotify.com/track/6uIelKqZn0fR7AUL7ixNIt"
     },
     {

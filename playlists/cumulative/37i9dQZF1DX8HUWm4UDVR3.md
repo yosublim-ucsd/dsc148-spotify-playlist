@@ -4,7 +4,7 @@
 
 > La pop française annonce la couleur\. Photo : Lancelot
 
-152 songs - 7 hr 33 min
+153 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Pura Vida](https://open.spotify.com/track/089yceeHO3eLgUBIGpMthu) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Caméo](https://open.spotify.com/album/5QXZkChgcFRZ6cUAehwUfp) | 2:43 | 2023-07-27 | 2023-09-15 |
 | [Puzzle](https://open.spotify.com/track/6sKi2n9ibaCpXt06Dt1XWr) | [Morgan](https://open.spotify.com/artist/7E6PYsPQuOU1r5gPPBRvoS), [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Puzzle](https://open.spotify.com/album/5NGv5Gro2sAJhQuTGRQKX7) | 2:49 | 2023-12-14 |  |
 | [QUAND LA NUIT TOMBE](https://open.spotify.com/track/62FdpcF3fC2IAzQKhJ1saY) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [QUAND LA NUIT TOMBE](https://open.spotify.com/album/769m5Tn6dsfqtV2Kqe611Y) | 3:31 | 2023-12-08 |  |
-| [Que des coeurs](https://open.spotify.com/track/7cfP2PmkCxA2HVBKNgAdOX) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Que des coeurs](https://open.spotify.com/album/3GY4dWvQs60WJMAaNbSJZw) | 2:49 | 2024-03-21 |  |
+| [Que des coeurs](https://open.spotify.com/track/0UFkdHfHFVAguM7egweU0q) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Que des coeurs](https://open.spotify.com/album/7cQ4UlVIDXLPsm6iMyUTF0) | 2:49 | 2024-03-21 |  |
+| [Que des coeurs](https://open.spotify.com/track/7cfP2PmkCxA2HVBKNgAdOX) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Que des coeurs](https://open.spotify.com/album/3GY4dWvQs60WJMAaNbSJZw) | 2:49 | 2024-03-21 | 2024-03-23 |
 | [R+V](https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [R+V](https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja) | 1:29 | 2023-08-24 | 2023-09-15 |
 | [Remia](https://open.spotify.com/track/6YGurDnYXwVgx3v76n9Ddt) | [Tessa B](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Remia](https://open.spotify.com/album/3rvOpnOkVmgqWcSNA6O1so) | 3:14 | 2023-10-05 | 2024-01-12 |
 | [Respire](https://open.spotify.com/track/7n2mcTJtSNgGRrAFEneYRz) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Respire](https://open.spotify.com/album/3troTVEc8IZUyYF6N85BJW) | 2:57 | 2023-07-27 | 2023-11-10 |

@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Babehoven
 
-460 songs - 1 day 4 hr 29 min
+461 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Autumn Fire](https://open.spotify.com/track/5vUe3qj4P2ZjA5pxghdYQn) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC), [Jesse Maranger](https://open.spotify.com/artist/7wbrCaklJessMP9kVk9nIW) | [Autumn Fire](https://open.spotify.com/album/3p5HZYDrL9axAPth0QBhoh) | 4:49 | 2022-04-13 | 2022-07-28 |
 | [Avalanche](https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67) | [Maja Lena](https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0) | [Avalanche](https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP) | 2:59 | 2022-01-21 | 2023-02-08 |
 | [Axis Bent](https://open.spotify.com/track/1udkP1oYCF62JdxJwlx059) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Course In Fable](https://open.spotify.com/album/1gChGzAPyg0F4PoGa2nUdj) | 4:19 | 2022-01-21 | 2022-07-29 |
-| [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 | 2022-04-29 | 2024-03-20 |
+| [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 | 2022-04-29 |  |
 | [Bad girl](https://open.spotify.com/track/7xrFQN1AUhVlvBq68D6S1V) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Bad girl](https://open.spotify.com/album/4A6n6JEaNAUSIUJJLVIQQw) | 4:07 | 2022-01-21 | 2022-07-29 |
 | [Bad Taste](https://open.spotify.com/track/5SmTHQfqmBWbaak0mCyYi4) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Bad Taste](https://open.spotify.com/album/2hxdsShdy5Z7NxXJMHOBna) | 3:31 | 2023-11-10 | 2024-01-29 |
 | [Basil Noodles](https://open.spotify.com/track/183iUHqxHdcj7pQdrP3Zuq) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Basil Noodles](https://open.spotify.com/album/1bN1Bz39AWgYyw8guBJa4K) | 2:16 | 2023-05-19 | 2023-07-23 |
@@ -72,7 +72,7 @@
 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 | 2022-04-13 | 2022-12-17 |
 | [Call Me When You're Pulling Up](https://open.spotify.com/track/7p9RNM31nHhpA3b9zoKi5G) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Call Me When You're Pulling Up](https://open.spotify.com/album/3reTmy3k2QVdPQeL7ebKyl) | 3:34 | 2023-01-13 | 2023-01-28 |
 | [Calling The Shots](https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX) | [Jamie B.](https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ) | [Calling The Shots](https://open.spotify.com/album/2tqxQyefvJhebANvFfyS97) | 3:51 | 2022-01-21 | 2022-11-13 |
-| [Campfire](https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 5:19 | 2022-04-29 |  |
+| [Campfire](https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 5:19 | 2022-04-29 | 2024-03-23 |
 | [Campfire](https://open.spotify.com/track/41ME5dAx2Qe1pfZ0ypuCBu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Campfire](https://open.spotify.com/album/6kXIKI0RpjMBNKT80mc4Ni) | 5:19 | 2022-01-21 | 2022-07-29 |
 | [Carnival Mirror](https://open.spotify.com/track/1ZrtOVdyTQe4LNXtxZwLPv) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [You, Yeah, You](https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY) | 3:24 | 2022-04-13 | 2022-07-29 |
 | [Catch](https://open.spotify.com/track/5hqnjChqF88AELIDAFhrfo) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [Yesterday Is Gone](https://open.spotify.com/album/0bB0tJH93oXBaxdhJswBIp) | 3:56 | 2022-04-13 | 2022-07-29 |
@@ -106,6 +106,7 @@
 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 | 2024-01-26 |  |
 | [Cubic Zirconia](https://open.spotify.com/track/409WM1TeevBE5DuAuCkkeJ) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cubic Zirconia](https://open.spotify.com/album/69ZGp2Lhcx5RbGsvgwP6JT) | 4:04 | 2023-09-01 | 2023-12-05 |
 | [damn](https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 4:21 | 2022-01-21 |  |
+| [Dark](https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Dark](https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1) | 3:13 | 2024-03-22 |  |
 | [Days Go By](https://open.spotify.com/track/1DeYyjLYn23Mf2TB430UAN) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Days Go By](https://open.spotify.com/album/4yRo9mkyjeLQ1vdQAtXIn2) | 3:14 | 2023-04-07 | 2023-06-16 |
 | [Dear Mexico \(Thank You for Joyce\)](https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Rare Feeling](https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt) | 4:05 | 2022-12-16 |  |
 | [Death Is the New Sex](https://open.spotify.com/track/2shp71iOOf5DJVAgqQs58D) | [Tunng](https://open.spotify.com/artist/6k8oBFzievbIn6XJK0pDpa) | [Death Is the New Sex](https://open.spotify.com/album/4wcuAtKqJ2U3ZK6lVteHhX) | 4:14 | 2022-04-13 | 2022-07-29 |
@@ -378,7 +379,7 @@
 | [stoned](https://open.spotify.com/track/2lHLhy71ZIqedHum50FhvF) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [i don’t know who needs to hear this...](https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak) | 4:45 | 2022-04-29 | 2023-03-13 |
 | [Stranger](https://open.spotify.com/track/0JmSm5QqrdHEUDOG1k0D4h) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Stranger](https://open.spotify.com/album/4bqE0GxxSdnrfJMiFB6MAA) | 2:48 | 2022-04-13 | 2023-05-08 |
 | [Strawberry Moon](https://open.spotify.com/track/7uhoXJBlpGvAXNQGpMubNY) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Strawberry Moon](https://open.spotify.com/album/0UXt9viFjPIwAYmPNcikiP) | 3:06 | 2023-02-24 | 2023-06-14 |
-| [Style](https://open.spotify.com/track/0LPGus2Cs9oIDbcAob3GMj) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Style](https://open.spotify.com/album/1fJtEbOyFvVHAo1vuVARRm) | 3:43 | 2024-02-09 |  |
+| [Style](https://open.spotify.com/track/0LPGus2Cs9oIDbcAob3GMj) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Style](https://open.spotify.com/album/1fJtEbOyFvVHAo1vuVARRm) | 3:43 | 2024-02-09 | 2024-03-23 |
 | [Sucker](https://open.spotify.com/track/0KAW820FoYhpDe3lsgMRaC) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker](https://open.spotify.com/album/5LzeVIZgtEHrbLYwsBRalD) | 4:43 | 2022-01-21 | 2022-07-29 |
 | [Sucker](https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker's Lunch](https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ) | 4:43 | 2022-04-29 | 2023-04-30 |
 | [Sucker](https://open.spotify.com/track/5Fj6VahostTvV1J2TMYLyS) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker's Lunch](https://open.spotify.com/album/0ofgTu4mwAvYoLalhMJLKr) | 4:43 | 2023-06-16 | 2023-07-26 |

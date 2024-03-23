@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,310 likes - 94 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,535 likes - 94 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 28 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 |
 | 29 | [Sober](https://open.spotify.com/track/3C57ewlHARCVqeH3KiYkma) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Sober](https://open.spotify.com/album/7BCTfMzue11vOGekGO0xL0) | 4:26 |
 | 30 | [Heart Don't Stand a Chance](https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 5:12 |
-| 31 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
-| 32 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 |
+| 31 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 |
+| 32 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
 | 33 | [Surprise](https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Surprise](https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb) | 2:35 |
 | 34 | [Ur Best Friend \(with Kehlani\)](https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC) | 3:02 |
 | 35 | [Come Home \(feat\. André 3000\)](https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 4:26 |
@@ -86,13 +86,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 76 | [Orbit \- Live from Air Studios](https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Orbit \(Live from Air Studios\)](https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV) | 3:54 |
 | 77 | [Square 1](https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Square 1](https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv) | 3:40 |
 | 78 | [Compromise \(feat\. Sabrina Claudio\)](https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:05 |
-| 79 | [People Come And Go](https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [People Come And Go](https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN) | 2:34 |
-| 80 | [Kool Aid](https://open.spotify.com/track/71ptv206CeeXGutS1TaieZ) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Kool Aid](https://open.spotify.com/album/2FJitnqpghCCsYLaNAxW7C) | 2:35 |
+| 79 | [Kool Aid](https://open.spotify.com/track/71ptv206CeeXGutS1TaieZ) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Kool Aid](https://open.spotify.com/album/2FJitnqpghCCsYLaNAxW7C) | 2:35 |
+| 80 | [People Come And Go](https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [People Come And Go](https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN) | 2:34 |
 | 81 | [21](https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [21](https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf) | 3:15 |
 | 82 | [Roll Some Mo \(feat\. Ty Dolla $ign & Wale\) \- Remix](https://open.spotify.com/track/6G0XqXVBx2PHaOrSuHaWP0) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Roll Some Mo \(feat\. Ty Dolla $ign & Wale\) \[Remix\]](https://open.spotify.com/album/0iRhoLbrny7qdvxdclPcaO) | 3:31 |
 | 83 | [gangster romanse \(feat\. Magdi\)](https://open.spotify.com/track/1wYNkGybIdmnXFtTM7sS9C) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Magdi](https://open.spotify.com/artist/37TkImYSoPGZ9LDo0Frf2J) | [sukkerspinn & hodepine \(Del 2\)](https://open.spotify.com/album/1VMrZTOpnA6v86LaR8YST0) | 2:43 |
-| 84 | [who knew \- from Grown\-ish](https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [who knew \(from Grown\-ish\)](https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0) | 3:22 |
-| 85 | [Tuesday](https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Tuesday](https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo) | 2:52 |
+| 84 | [Tuesday](https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Tuesday](https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo) | 2:52 |
+| 85 | [who knew \- from Grown\-ish](https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [who knew \(from Grown\-ish\)](https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0) | 3:22 |
 | 86 | [Avenue](https://open.spotify.com/track/20nOETKKFsKknFGfxk1iYB) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I) | [Avenue](https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM) | 3:16 |
 | 87 | [Hopeful](https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [How Is Your Soul?](https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X) | 2:46 |
 | 88 | [like you](https://open.spotify.com/track/6MJdkuJ54q02WKe1Bz6oNE) | [Braden Ross](https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic), [Days to Waste](https://open.spotify.com/artist/3atbVRVOuIUxjoxeuNbd26), [fawlin](https://open.spotify.com/artist/1u5hEHvd4fpHDUye3r9lAm) | [like you](https://open.spotify.com/album/3jZELme7kRzqvSqvgrMvYo) | 3:14 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 93 | [Worst Way](https://open.spotify.com/track/4dFd9I7wVuNJuFaU1De0Hn) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF), [themes](https://open.spotify.com/artist/7DLvUg0aKwnnUVY8m233DI), [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [Worst Way](https://open.spotify.com/album/5UFZy1cSlNoyFTvJFaWnQz) | 2:52 |
 | 94 | [Higher](https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Higher](https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l) | 2:39 |
 
-Snapshot ID: `MCxmMThhYTQ2ZmRiYTk5MGE0ZDJmNDRhYmQ2ZGIyZTI1NzE4YzM1Mjk1`
+Snapshot ID: `MCw4YzNiZDRkZWRlZDZmYjk4NzAzOTE5NDNmMjE5ZjlmNDE0OWQ2Mjk2`

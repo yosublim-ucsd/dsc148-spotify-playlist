@@ -4096,7 +4096,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 155923,
       "name": "Inner Axis",
       "url": "https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7"
@@ -7876,7 +7876,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 122000,
       "name": "Searching",
       "url": "https://open.spotify.com/track/0GZkEa0jm8l2lVvPpkE0fO"
@@ -9116,6 +9116,24 @@
       "duration_ms": 167295,
       "name": "Tagtraum",
       "url": "https://open.spotify.com/track/5bNtJUg1EE3XP1dMM79Xvl"
+    },
+    {
+      "album": {
+        "name": "Tales of This",
+        "url": "https://open.spotify.com/album/3cbLSK4KRqfOYi918vET66"
+      },
+      "artists": [
+        {
+          "name": "Andrea Azzola",
+          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136867,
+      "name": "Tales of This",
+      "url": "https://open.spotify.com/track/75jwRyL9mbp1kMoYiCWoS2"
     },
     {
       "album": {
@@ -10484,6 +10502,24 @@
       "duration_ms": 231508,
       "name": "Veleta",
       "url": "https://open.spotify.com/track/6S7OE2VPyGAEMVotv5jEz1"
+    },
+    {
+      "album": {
+        "name": "Velvet Veil",
+        "url": "https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123479,
+      "name": "Velvet Veil",
+      "url": "https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx"
     },
     {
       "album": {

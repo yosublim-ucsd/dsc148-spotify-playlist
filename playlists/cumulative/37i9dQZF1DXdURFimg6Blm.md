@@ -4,7 +4,7 @@
 
 > Dance tracks for a big workout.
 
-479 songs - 23 hr 40 min
+480 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Believe \(feat\. Goodboys\)](https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Believe \(feat\. Goodboys\)](https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx) | 3:08 | 2022-10-28 |  |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-04-29 |  |
 | [BELLYDANCING](https://open.spotify.com/track/74HBdKMibHlpW312HTFReN) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BELLYDANCING](https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n) | 2:02 | 2023-11-10 | 2024-03-16 |
+| [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS) | 2:31 | 2024-03-15 |  |
 | [Black & Blue](https://open.spotify.com/track/4sr6SwiKaIc6z90KEPKmzR) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Black & Blue](https://open.spotify.com/album/4xb0NhEvmO2m5YV1sxzTmH) | 2:39 | 2022-01-28 | 2022-07-29 |
 | [Black Magic](https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Black Magic](https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3) | 2:54 | 2022-01-07 | 2022-04-23 |
 | [Bling Bling](https://open.spotify.com/track/3KMsGaN1xdoOaNQELy8vR8) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Bling Bling](https://open.spotify.com/album/1b3QXIJY3rasdi7fV4gPU2) | 1:59 | 2023-06-03 | 2023-10-01 |
@@ -451,7 +452,7 @@
 | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/track/2MsRkqapim4BgxBRqPAIob) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lars Martin](https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO) | [Annual 2021](https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI) | 2:21 | 2022-01-07 | 2022-07-29 |
 | [Unbreakable](https://open.spotify.com/track/6QGHCildW0p2nnrxE4BHsy) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Nataliya Nikitenko](https://open.spotify.com/artist/26PbdWuDsJPMLPA4vTveNE) | [Unbreakable](https://open.spotify.com/album/0It16o9TunM1CVf22U1Dc5) | 2:45 | 2022-04-08 | 2022-07-29 |
 | [Unbreakable \(with Sam Gray\)](https://open.spotify.com/track/1ymsN94JMOSZncP5WETfSh) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Unbreakable \(with Sam Gray\)](https://open.spotify.com/album/6yD8EL3S9KrIysOAHv08LE) | 3:03 | 2022-01-07 | 2022-03-12 |
-| [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 | 2023-04-21 |  |
+| [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 | 2023-04-21 | 2024-03-23 |
 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 | 2022-01-07 | 2022-04-09 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-09-29 |  |
 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-03-01 |  |

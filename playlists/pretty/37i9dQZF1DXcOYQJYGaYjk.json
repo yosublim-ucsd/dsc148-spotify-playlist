@@ -1,12 +1,12 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 221702,
+  "num_followers": 221700,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTBhZGIzOWI3NTkwNzJjNzUzNTMwZTc1NjZiMTM3YzI0NWE0MGI2",
+  "snapshot_id": "MCw1NGJjYmRmZDQ0Y2VjMTk2ODI1YjMzNmUxMTA5NzQzYWE2NjNhNmE3",
   "tracks": [
     {
       "added_at": "2022-12-15 16:14:29",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Holy Roller",
-      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 172826,
       "name": "When Legends Rise",
       "url": "https://open.spotify.com/track/0zVMR0p7yRbKD6HEg9L2qs"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "The Hollow",
-        "url": "https://open.spotify.com/album/1iB7GXI9gk88JZBmwvOgo2"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 242066,
-      "name": "The Sinner",
-      "url": "https://open.spotify.com/track/6tw3xex5JwBWxEQOn1bxRk"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
         "name": "STILL SUCKS",
         "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 181290,
       "name": "Dirty Rotten Bizkit",
       "url": "https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "The Hollow",
+        "url": "https://open.spotify.com/album/1iB7GXI9gk88JZBmwvOgo2"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 242066,
+      "name": "The Sinner",
+      "url": "https://open.spotify.com/track/6tw3xex5JwBWxEQOn1bxRk"
     },
     {
       "added_at": "2022-12-15 16:14:29",

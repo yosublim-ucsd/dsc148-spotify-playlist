@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Ela Taubert en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,266 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,291 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 36 | [Enséñame](https://open.spotify.com/track/3eo3Dw5OGSWCzJDVHLKE3v) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:41 |
 | 37 | [Año Sabático](https://open.spotify.com/track/1W3TtHJz099SGGq67IOVFL) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:42 |
 | 38 | [Uno los Dos](https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Uno los Dos](https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9) | 3:35 |
-| 39 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 |
-| 40 | [Tu Look](https://open.spotify.com/track/1eeJ8xrZTorbacEPCmharT) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Tu Look](https://open.spotify.com/album/11pMPWJT66aQcb0m6UhnsZ) | 2:49 |
+| 39 | [Tu Look](https://open.spotify.com/track/1eeJ8xrZTorbacEPCmharT) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Tu Look](https://open.spotify.com/album/11pMPWJT66aQcb0m6UhnsZ) | 2:49 |
+| 40 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 |
 | 41 | [Celular](https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Celular](https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd) | 2:56 |
 | 42 | [dEsANiMaO :\(](https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [dEsANiMaO :\(](https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ) | 3:07 |
 | 43 | [Cerquita De Ti](https://open.spotify.com/track/70FJ7VpGX4Luv8GlMGSLRM) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo) | [Cerquita De Ti](https://open.spotify.com/album/5Wg1E8vq9CFjnaBKJClHK2) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 49 | [Mis Impulsos Sobre Ti](https://open.spotify.com/track/1k6Q5x5CkuGOm4TSRHICDP) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Mis Impulsos Sobre Ti](https://open.spotify.com/album/07R6N3nhqDnZpFMUCvaqxu) | 4:02 |
 | 50 | [Para No Verte Más](https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Para No Verte Más](https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG) | 3:17 |
 
-Snapshot ID: `MCwxZGE5Y2Q2YzkwYTZhMmZjZDY5OGFhNTBjOTM2ODViMTYwZTY1ZTc0`
+Snapshot ID: `MCxjNWY5NjIwZWJmYTYwNDFjMGMwYmM0ZGI2NDgxNDE4MDc3NzQ5OTdi`

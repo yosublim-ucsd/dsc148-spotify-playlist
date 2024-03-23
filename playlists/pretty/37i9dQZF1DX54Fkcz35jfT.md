@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: F.HERO x BODYSLAM x BABYMETAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,087 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,101 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 73 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
 | 74 | [me, myself & I.](https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [me, myself & I.](https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj) | 3:08 |
 | 75 | [RISE](https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [RISE](https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH) | 3:21 |
-| 76 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 |
-| 77 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 |
+| 76 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 |
+| 77 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 |
 | 78 | [Love at First Sight](https://open.spotify.com/track/3eXeHEeoFn0Fc9BkHuvQOS) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Dance & Scream](https://open.spotify.com/album/16MNF4dTAOiVhgVtlFM1PP) | 4:12 |
 | 79 | [The Show Must Go On](https://open.spotify.com/track/0mNGukFmeB8xQmuS9jOs8B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Show Must Go On](https://open.spotify.com/album/59JPnXZfiLpJZbs92Y6Fdt) | 2:44 |
 | 80 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 82 | [DO THE DANCE](https://open.spotify.com/track/1dyxnU4Me5DETPSXkNpaDl) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:16 |
 | 83 | [TAKING THEM DOWN](https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [TAKING THEM DOWN](https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU) | 2:52 |
 | 84 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/0jPt8zNHeeCWoPuttIqBqL) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/57na8P5liC3zgZTG72lz2S) | 3:12 |
-| 85 | [Hunter or Prey](https://open.spotify.com/track/1uDADMKPdOgZvthrIqvOyb) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3lVu6JZpO1wk2IBpU4j88Q) | 3:44 |
+| 85 | [ユナイテッドパンケーキ](https://open.spotify.com/track/35wXqoRa5J448Mi4EcRzWM) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [ユナイテッドパンケーキ](https://open.spotify.com/album/0ws17q0T3CgE9l4KBx4sTW) | 2:41 |
 | 86 | [Parasites](https://open.spotify.com/track/2PvPwvinXuMcF82qkR9DqG) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Parasites](https://open.spotify.com/album/02Tb76LOod9iowVjS8r9sF) | 2:10 |
-| 87 | [ユナイテッドパンケーキ](https://open.spotify.com/track/35wXqoRa5J448Mi4EcRzWM) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [ユナイテッドパンケーキ](https://open.spotify.com/album/0ws17q0T3CgE9l4KBx4sTW) | 2:41 |
+| 87 | [Hunter or Prey](https://open.spotify.com/track/1uDADMKPdOgZvthrIqvOyb) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3lVu6JZpO1wk2IBpU4j88Q) | 3:44 |
 | 88 | [ハッピーウェディング前ソング \- 2年以内に別れないver.](https://open.spotify.com/track/4yv1CAi0CXaLGMFnmwrNnq) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [ハッピーウェディング前ソング \(2年以内に別れないver.\)](https://open.spotify.com/album/4oKEQDyW0bVuES2JPlAhjd) | 3:49 |
 | 89 | [I'm ready to die for my friends](https://open.spotify.com/track/7EkAgXr2B29n1Qj90q1O4z) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [PALEHELL](https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V) | 3:50 |
 | 90 | [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 92 | [Inside of Me](https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Inside Of Me](https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE) | 3:13 |
 | 93 | [of course](https://open.spotify.com/track/2FFf4WFv4oj0R8yenXXaNF) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [of course](https://open.spotify.com/album/68hagxENiIaUNAprO75WGC) | 2:55 |
 | 94 | [扉の向こう](https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Catch Up](https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH) | 3:56 |
-| 95 | [ビキニ・スポーツ・ポンチン](https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv) | [コロナナモレモモ](https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr) | [LUST \(Selected Edition\)](https://open.spotify.com/album/5kAkYG1awEWhHuqDP5FjZE) | 3:42 |
-| 96 | [Sad Song](https://open.spotify.com/track/5exqWbhEoSxjx8S6YgVGF1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:23 |
+| 95 | [Sad Song](https://open.spotify.com/track/5exqWbhEoSxjx8S6YgVGF1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:23 |
+| 96 | [ビキニ・スポーツ・ポンチン](https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv) | [コロナナモレモモ](https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr) | [LUST \(Selected Edition\)](https://open.spotify.com/album/5kAkYG1awEWhHuqDP5FjZE) | 3:42 |
 | 97 | [Better Left Unsaid](https://open.spotify.com/track/1q8Gyk65YWMormJV6SuSJZ) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:24 |
 | 98 | [ユエニ](https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [ユエニ](https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84) | 4:00 |
 | 99 | [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 |
 | 100 | [living dead!!](https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [living dead!!](https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI) | 2:27 |
 
-Snapshot ID: `MCw1YTdkN2FmNDRhYzBjODY2MTQxMzBkNGEyMDdhZDJmOWM1MDY2NzQy`
+Snapshot ID: `MCwzNGE0YWQzZmYyZGI0NTRmZjkwN2Y4ZjA5NjEyYWY0ODU1MzkyNmU0`

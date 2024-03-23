@@ -1,12 +1,12 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 447324,
+  "num_followers": 447491,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWIwYjUxZDA3YTJjN2IzNDcxNDYwZWI0YjJkNDE5YzNjN2FhMDQx",
+  "snapshot_id": "MCw0M2RhZGFlZTljNGE1ODg3YWQ1ODk4NTU0NDI0MjY2NzRkNGRkY2Qx",
   "tracks": [
     {
       "added_at": "2024-03-19 14:45:18",
@@ -99,6 +99,22 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 222706,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 274466,
-      "name": "Lay All Your Love On Me",
-      "url": "https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Knee Deep In The Hoopla",
         "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 296080,
       "name": "We Built This City",
       "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 274466,
+      "name": "Lay All Your Love On Me",
+      "url": "https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Colour By Numbers (Remastered / Expanded Edition)",
         "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 252773,
       "name": "Karma Chameleon - Remastered 2002",
       "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 323346,
-      "name": "I'm Coming Out",
-      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Flashdance (Original Soundtrack From The Motion Picture)",
         "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 244706,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 323346,
+      "name": "I'm Coming Out",
+      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
         "name": "Kim Wilde",
         "url": "https://open.spotify.com/album/5vf8cU0vjl22ThptA93DDf"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 259800,
       "name": "Juke Box Hero",
       "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Better Than Heaven",
-        "url": "https://open.spotify.com/album/71st36nPTXAgWnEaNg9AZa"
+        "name": "Word Up",
+        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
       },
       "artists": [
         {
-          "name": "Stacey Q",
-          "url": "https://open.spotify.com/artist/3q8tRS0hCMVCylgKAoA0ya"
+          "name": "Cameo",
+          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
         }
       ],
-      "duration_ms": 239693,
-      "name": "Two of Hearts",
-      "url": "https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1"
+      "duration_ms": 260000,
+      "name": "Word Up",
+      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
     }
   ],
   "unique_name": "80s Workout",

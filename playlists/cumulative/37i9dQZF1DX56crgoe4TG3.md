@@ -2,9 +2,9 @@
 
 ### [Bluegrass Covers](https://open.spotify.com/playlist/37i9dQZF1DX56crgoe4TG3)
 
-> A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Town Mountain
+> A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Wyatt Flores
 
-262 songs - 16 hr 53 min
+265 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Enter Sandman](https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS) | [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [Fade To Bluegrass: The Bluegrass Tribute To Metallica](https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg) | 4:21 | 2021-08-20 |  |
 | [Everybody Wants to Rule the World](https://open.spotify.com/track/7KKGMWe3m5H6A8uvtzZySS) | [Jimbo Scott](https://open.spotify.com/artist/0dLFcTsyzpiPcNdyYM3dms) | [Everybody Wants to Rule the World](https://open.spotify.com/album/0vIF4YDydWHVGXKfFdK08U) | 4:52 | 2022-07-29 |  |
 | [Everybody Wants to Rule the World](https://open.spotify.com/track/6lDTR2JakgO4nyaqASdtIT) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits Vol\. 2](https://open.spotify.com/album/2WcSVdRwyvMHAnZKq0FvdE) | 4:25 | 2021-08-20 | 2024-01-20 |
+| [Everywhere](https://open.spotify.com/track/3Ai4dzcqxJi7tZInKN5SbR) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Everywhere](https://open.spotify.com/album/2EF09Y1t1UWXgnH0XFF0QN) | 3:43 | 2024-03-22 |  |
 | [Eye Of The Tiger](https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood](https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI) | 3:00 | 2022-05-27 |  |
 | [Eye of the Tiger](https://open.spotify.com/track/7bqtShG4VYS372JEtHLXRp) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood b/w Eye Of The Tiger](https://open.spotify.com/album/3ERhhl10nW1ixfxezvCCm7) | 3:00 | 2021-08-20 | 2022-07-29 |
 | [Fake Empire](https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:25 | 2021-08-20 | 2024-01-20 |
@@ -99,6 +100,7 @@
 | [Gin and Juice](https://open.spotify.com/track/6CeszonFOlgp7HiawTSqCu) | [The Gourds](https://open.spotify.com/artist/2gk28RNJaPStV8BnugHYpF) | [Shinebox](https://open.spotify.com/album/2Ril3zeU3IlvS6e4NQLWd2) | 6:23 | 2022-05-27 |  |
 | [Gin and Juice](https://open.spotify.com/track/7v7ytRZIWuZuNxXSGwxIhK) | [The Gourds](https://open.spotify.com/artist/2gk28RNJaPStV8BnugHYpF) | [Shinebox](https://open.spotify.com/album/6tqUpnBCm5rYkmVdHfJjzP) | 6:23 | 2021-08-20 | 2022-07-29 |
 | [Girl From the North Country \(Bob Dylan Cover\)](https://open.spotify.com/track/2wQLflu5Z6WQE5LVEfQTQD) | [Hayde Bluegrass Orchestra](https://open.spotify.com/artist/5L3ac0hlDxpbLBj3oQq3Ly) | [Amerikakoffert](https://open.spotify.com/album/2oi19N452zDFw7zbsnRiac) | 4:18 | 2023-10-27 |  |
+| [Go Your Own Way](https://open.spotify.com/track/50M460tbcGAaJuX0HQJygx) | [SloCoast](https://open.spotify.com/artist/1pqfEZcU2ZglurzGnEkaNd) | [Go Your Own Way](https://open.spotify.com/album/3USoKckUZmdxDJsOoUZipo) | 4:07 | 2024-03-22 |  |
 | [good 4 u \- Spotify Sessions](https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 3:36 | 2023-02-03 |  |
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/3V0vJXkBDGEZsG2mMzm32S) | [Fireside Collective](https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/1XtucozRRB6IZq6m8vj8nm) | 4:29 | 2023-03-10 |  |
 | [Graceland \(Live Session\)](https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4) | [Ramsey Thornton](https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL) | [Graceland \(Live Session\)](https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A) | 3:06 | 2023-09-22 |  |
@@ -113,6 +115,7 @@
 | [Hit 'Em up Style](https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 3:56 | 2021-08-20 |  |
 | [Hot In Herre](https://open.spotify.com/track/5cnPBp42sCF1GrN0GsPhQM) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [The Take Off All Your Clothes EP](https://open.spotify.com/album/2KtIjCHTYOzzmHYscHVZzo) | 4:16 | 2022-05-27 |  |
 | [Hot In Herre](https://open.spotify.com/track/6EmwBRFDI25uukoQ9jCU6J) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [The Take Off All Your Clothes \- EP](https://open.spotify.com/album/1btCWMYWuQSFojQJoGHfHj) | 4:16 | 2021-08-20 | 2022-07-29 |
+| [How To Save A Life](https://open.spotify.com/track/60Zsmy6gLKf8Esy9GiW0Re) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [How To Save A Life](https://open.spotify.com/album/4OAL0ZF8bxJ9wcIys3oEdU) | 3:25 | 2024-03-22 |  |
 | [I Believe in a Thing Called Love](https://open.spotify.com/track/4LlSNQDU5UZgBMlrOrRhxx) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/5I3nXZZSfM5d9SII8aZgIV) | 3:04 | 2024-01-05 |  |
 | [I Believe in a Thing Called Love](https://open.spotify.com/track/6YdSvvnhkppxBNZgdFB301) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm) | 3:04 | 2022-05-27 | 2022-10-13 |
 | [I Believe in a Thing Called Love](https://open.spotify.com/track/6mEeutpoC30B6yALroRlFW) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1YDm5Ooe4VB1QaiynDvJpN) | 3:04 | 2021-08-20 | 2022-07-29 |

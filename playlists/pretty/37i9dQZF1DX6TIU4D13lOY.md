@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 
 > Classic soft rock for a nice and easy drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,492 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,543 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 67 | [Time Passages](https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Time Passages](https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0) | 6:43 |
 | 68 | [Any Day Now](https://open.spotify.com/track/30upl1YT1suEgSDpIopSky) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Inside](https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs) | 3:42 |
 | 69 | [Fool \(If You Think It's Over\)](https://open.spotify.com/track/0UHiH4dy1hXULYl8CgNxRV) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Whatever Happened to Benny Santini](https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL) | 4:44 |
-| 70 | [Moonlight Feels Right](https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK) | [Starbuck](https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl) | [Moonlight Feels Right](https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9) | 3:41 |
-| 71 | [Midnight at the Oasis](https://open.spotify.com/track/5VBcEJ4mtXTmVEJtc7hx2g) | [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Maria Muldaur](https://open.spotify.com/album/63Yg3UQS5VcHutEskCmFPC) | 3:49 |
+| 70 | [Midnight at the Oasis](https://open.spotify.com/track/5VBcEJ4mtXTmVEJtc7hx2g) | [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Maria Muldaur](https://open.spotify.com/album/63Yg3UQS5VcHutEskCmFPC) | 3:49 |
+| 71 | [Moonlight Feels Right](https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK) | [Starbuck](https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl) | [Moonlight Feels Right](https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9) | 3:41 |
 | 72 | [Fountain of Sorrow \- Remastered](https://open.spotify.com/track/2U2EMuFyUk5LYMPlMUpOxM) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Late for the Sky \(Remastered\)](https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP) | 6:52 |
 | 73 | [Shannon](https://open.spotify.com/track/4IYoyOVK9oQyJS1QZt5Vyj) | [Henry Gross](https://open.spotify.com/artist/3u2E9OhKS2vkxi08itc25a) | [Release](https://open.spotify.com/album/5KoWyVRECXH3IYrGuF4oza) | 3:53 |
 | 74 | [Oh Lori](https://open.spotify.com/track/2ySmDfSawPEwvjDOxUQvnq) | [Alessi Brothers](https://open.spotify.com/artist/0JxWz42OKiQ0V3KzA4mDF1) | [The Best Of The Alessi Brothers](https://open.spotify.com/album/1WABgS1g9NMV8cpwDS4aDY) | 3:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 79 | [Shadow Captain](https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 4:34 |
 | 80 | [Ace of Hearts](https://open.spotify.com/track/72wERbZ4yx2cNaoEj5jYnl) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Works](https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn) | 4:30 |
 
-Snapshot ID: `MCw1YzRjOGJhNDIwNmY4YzZlNTBiMzEyNzM2YjQ5MTYzZDZiYTY1NjA3`
+Snapshot ID: `MCwxOGMwMmNlZmU1OWU2YzBhZjE3MjQyZGVlNzFmZjViOWE2YTE0YTdm`

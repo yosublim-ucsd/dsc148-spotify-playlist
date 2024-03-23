@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: Nicky Elisabeth. Artwork by Rewina Beshue.",
-  "num_followers": 170505,
+  "num_followers": 170589,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTQ0ZTFjMjg4Y2MyZGRhNjk4NWM0NGIxZTdlNTkzYzI3MWRmZDQ3",
+  "snapshot_id": "MCxiMDUxY2RiMDg3MTBiOTU4NjU1MTkzZmE2Zjc3N2JmMTgzODkzY2Vm",
   "tracks": [
     {
       "added_at": "2024-03-20 17:46:37",
@@ -127,6 +127,26 @@
       "duration_ms": 245035,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Need To Talk (Kordz Remix)",
+        "url": "https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go"
+      },
+      "artists": [
+        {
+          "name": "Creams",
+          "url": "https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc"
+        },
+        {
+          "name": "kordz",
+          "url": "https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN"
+        }
+      ],
+      "duration_ms": 218431,
+      "name": "Need To Talk - Kordz Remix",
+      "url": "https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz"
     },
     {
       "added_at": "2024-03-15 16:23:10",
@@ -1039,22 +1059,6 @@
       "duration_ms": 143313,
       "name": "skyskysky",
       "url": "https://open.spotify.com/track/74ndPRenu6lTSh0xWRZ0EG"
-    },
-    {
-      "added_at": "2024-02-21 19:42:33",
-      "album": {
-        "name": "CONDESA (Se Compran)",
-        "url": "https://open.spotify.com/album/30QhyYRwzREVdIDSjMzEs3"
-      },
-      "artists": [
-        {
-          "name": "Pat Lok",
-          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
-        }
-      ],
-      "duration_ms": 209661,
-      "name": "CONDESA (Se Compran)",
-      "url": "https://open.spotify.com/track/2q8EVmVuGsw1yIByrvQULe"
     },
     {
       "added_at": "2024-02-21 19:42:33",

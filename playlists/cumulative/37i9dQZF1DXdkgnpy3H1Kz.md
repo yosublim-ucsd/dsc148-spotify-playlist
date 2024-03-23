@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-529 songs - 1 day 21 hr 36 min
+530 songs - 1 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Loose Fit \- Original Mix](https://open.spotify.com/track/3O7TLNP8HVm1TC7ggTx3fV) | [Perc](https://open.spotify.com/artist/4iyqyvWXO734GUNLTTnrPQ) | [Wave Cannon EP](https://open.spotify.com/album/3MxW0snkmoUJNMSbMcyfe0) | 5:23 | 2023-05-25 | 2023-07-01 |
 | [Love Beyond the Sword](https://open.spotify.com/track/2ebIo6g3YZTo6EBA31S2l5) | [UVB](https://open.spotify.com/artist/1LiE3TKOyCds5GgIaBRRRs) | [Assassination Techniques EP](https://open.spotify.com/album/5B9iuRDygQAop1XMLFu3Lj) | 6:55 | 2023-05-25 | 2023-08-05 |
 | [Love Distortion](https://open.spotify.com/track/1Pt6WjGiPeJl3Z5WAinBPC) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Alientronic](https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy) | 7:39 | 2023-05-25 | 2023-07-01 |
+| [Lust](https://open.spotify.com/track/3MCDgpQ2QV0tZf5v1z8f4Z) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Rave Luv](https://open.spotify.com/album/52pIgveH3h0BFRiEn2A78a) | 5:13 | 2024-03-22 |  |
 | [Lux Luces](https://open.spotify.com/track/4C7CfyumniiqeWmm0XVrO0) | [Raär](https://open.spotify.com/artist/4yPF0okVf5WmxwRHZnUyAY) | [SOIN002](https://open.spotify.com/album/34Zif1gO5RRybFwclMn4xq) | 6:13 | 2022-12-03 | 2023-02-11 |
 | [M\-99](https://open.spotify.com/track/1Ew0PZO1rFybZw4c36rhi8) | [Silent Servant](https://open.spotify.com/artist/1QwvlTkLsKbaB3JT1AV245) | [In Memoriam](https://open.spotify.com/album/2Z9jt0U6MqmSIzB5c6Aiwg) | 6:08 | 2024-03-13 |  |
 | [Mahoï](https://open.spotify.com/track/0wiHb5qGrpZaZfb93U8idY) | [UFO95](https://open.spotify.com/artist/6wIaTr9wvAI528u4czB5Pk) | [Use your difference to make the difference](https://open.spotify.com/album/2P4lliNQbNJboEV6Bc2zb4) | 4:46 | 2023-02-10 | 2023-04-15 |

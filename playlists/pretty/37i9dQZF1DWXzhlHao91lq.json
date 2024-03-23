@@ -1,12 +1,12 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 71707,
+  "num_followers": 71726,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDYyMzExMjYwNzAxYzYzNzA2ZDU5NGEzOGRhODA3OGE2YzZkOGFk",
+  "snapshot_id": "MCw2M2QwYzU0ZTU3ZGE4Y2JmMDI3ZDY0ZDU2NjIyN2ZjZTUwN2VlYjMy",
   "tracks": [
     {
       "added_at": "2024-03-18 01:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-03-18 01:00:00",
       "album": {
-        "name": "our generation",
-        "url": "https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 237780,
-      "name": "Soul Mate",
-      "url": "https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO"
-    },
-    {
-      "added_at": "2024-03-18 01:00:00",
-      "album": {
         "name": "rainbow",
         "url": "https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 202835,
       "name": "rainbow",
       "url": "https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI"
+    },
+    {
+      "added_at": "2024-03-18 01:00:00",
+      "album": {
+        "name": "our generation",
+        "url": "https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 237780,
+      "name": "Soul Mate",
+      "url": "https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO"
     },
     {
       "added_at": "2024-03-18 01:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-03-18 01:00:00",
       "album": {
-        "name": "Whiskey Sour",
-        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 209740,
-      "name": "Whiskey Sour",
-      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
-    },
-    {
-      "added_at": "2024-03-18 01:00:00",
-      "album": {
         "name": "I Make Sparks",
         "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2024-03-18 01:00:00",
       "album": {
-        "name": "Hundred Acres",
-        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
+        "name": "Whiskey Sour",
+        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
       },
       "artists": [
         {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 213666,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
+      "duration_ms": 209740,
+      "name": "Whiskey Sour",
+      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
     },
     {
       "added_at": "2024-03-18 01:00:00",
@@ -1063,6 +1047,22 @@
       "duration_ms": 242680,
       "name": "You Can't Make Old Friends - Duet with Dolly Parton",
       "url": "https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5"
+    },
+    {
+      "added_at": "2024-03-18 01:00:00",
+      "album": {
+        "name": "Hundred Acres",
+        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
     },
     {
       "added_at": "2024-03-18 01:00:00",
@@ -1095,26 +1095,6 @@
       "duration_ms": 240426,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro"
-    },
-    {
-      "added_at": "2024-03-18 01:00:00",
-      "album": {
-        "name": "No Fun / Lucky for You",
-        "url": "https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        },
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ"
     },
     {
       "added_at": "2024-03-18 01:00:00",
@@ -1167,6 +1147,46 @@
     {
       "added_at": "2024-03-18 01:00:00",
       "album": {
+        "name": "No Fun / Lucky for You",
+        "url": "https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        },
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ"
+    },
+    {
+      "added_at": "2024-03-18 01:00:00",
+      "album": {
+        "name": "loml",
+        "url": "https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "HOHYUN",
+          "url": "https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu"
+        }
+      ],
+      "duration_ms": 201908,
+      "name": "loml",
+      "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
+    },
+    {
+      "added_at": "2024-03-18 01:00:00",
+      "album": {
         "name": "Before the Bridge",
         "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
       },
@@ -1203,22 +1223,6 @@
     {
       "added_at": "2024-03-18 01:00:00",
       "album": {
-        "name": "Home Tapes",
-        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Don't You Worry",
-      "url": "https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n"
-    },
-    {
-      "added_at": "2024-03-18 01:00:00",
-      "album": {
         "name": "M\u00e9lancolie",
         "url": "https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA"
       },
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2024-03-18 01:00:00",
       "album": {
-        "name": "loml",
-        "url": "https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq"
+        "name": "Home Tapes",
+        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
       },
       "artists": [
         {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "HOHYUN",
-          "url": "https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu"
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
         }
       ],
-      "duration_ms": 201908,
-      "name": "loml",
-      "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
+      "duration_ms": 219880,
+      "name": "Don't You Worry",
+      "url": "https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n"
     },
     {
       "added_at": "2024-03-18 01:00:00",

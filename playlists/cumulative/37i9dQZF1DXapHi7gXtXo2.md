@@ -4,7 +4,7 @@
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-111 songs - 6 hr 9 min
+112 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amor de Verano](https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 3:48 | 2023-12-01 |  |
 | [Andate](https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [NAFTA II](https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It) | 2:58 | 2023-12-01 |  |
 | [ando chiple <\\3](https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [métodos.](https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y) | 3:27 | 2023-12-01 | 2024-02-07 |
+| [Aparato](https://open.spotify.com/track/4wl4H1WNxfxJveag7dGkQU) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Madre Padre Marte](https://open.spotify.com/album/7jio1zy0Bp4PiUXKdwfDMk) | 3:32 | 2024-02-29 |  |
 | [Ay, Amor ♥︎](https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Ay, Amor](https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk) | 3:33 | 2023-12-01 | 2024-03-21 |
 | [Bandido \- En Vivo](https://open.spotify.com/track/2O8uyEmxm1CLMS2FsNETUx) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [En Vivo en el Gran Rex](https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn) | 4:24 | 2023-12-01 |  |
 | [Canción Para Que Vuelvas](https://open.spotify.com/track/5pv3V5KpSLDcbzP9Q9QvlH) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 3:35 | 2023-12-01 |  |
@@ -48,7 +49,7 @@
 | [Ganas](https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Ganas](https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0) | 4:14 | 2023-12-01 |  |
 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 | 2023-12-07 | 2023-12-17 |
 | [GUARACHA](https://open.spotify.com/track/4tuROO3SXDAlA7bbKXB0Vm) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [GUARACHA](https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy) | 2:37 | 2023-12-01 |  |
-| [Hace rato](https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:16 | 2024-02-29 |  |
+| [Hace rato](https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:16 | 2024-02-29 | 2024-03-23 |
 | [Helado de Mango](https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [Helado de Mango](https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub) | 3:28 | 2023-12-01 |  |
 | [Historia de un Amor](https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT) | [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex), [Denas & Miut](https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ) | [Historia de un Amor](https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c) | 2:45 | 2023-12-15 |  |
 | [INFINITO](https://open.spotify.com/track/04tnLrQaFpuV9KMgnxbuCt) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [TE QUIERO](https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo) | 3:05 | 2023-12-01 |  |

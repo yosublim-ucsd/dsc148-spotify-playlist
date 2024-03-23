@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvCktKHpf5G.md) - [plain]
 
 > ¡Puro perreo intenso en la comodidad de tu habitación!
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,902 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,960 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvCktKHpf5G.md) - [plain]
 | 21 | [La Old Skul](https://open.spotify.com/track/4Z8HZSApeddaRM2ovivUj4) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:34 |
 | 22 | [Luces Tenues](https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Luces Tenues](https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM) | 3:10 |
 | 23 | [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 |
-| 24 | [No Hay Ley Parte 2 \(with Rauw Alejandro\)](https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:08 |
-| 25 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
+| 24 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
+| 25 | [No Hay Ley Parte 2 \(with Rauw Alejandro\)](https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:08 |
 | 26 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 |
-| 27 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
-| 28 | [ALMAS GEMELAS](https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ALMAS GEMELAS](https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT) | 3:55 |
+| 27 | [ALMAS GEMELAS](https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ALMAS GEMELAS](https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT) | 3:55 |
+| 28 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 | 29 | [Adan y Eva](https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:16 |
 | 30 | [Fantasias](https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Fantasias](https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL) | 3:19 |
 | 31 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvCktKHpf5G.md) - [plain]
 | 42 | [Ay, DiOs Mío!](https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ay, DiOs Mío!](https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63) | 3:09 |
 | 43 | [Hawái](https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Hawái](https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm) | 3:20 |
 | 44 | [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 |
-| 45 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 |
-| 46 | [Sin Pijama](https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:10 |
+| 45 | [Sin Pijama](https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:10 |
+| 46 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 |
 | 47 | [Traductor](https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 3:42 |
 | 48 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 |
 | 49 | [Miedito o Qué? \(feat\. KAROL G\)](https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Miedito o Qué? \(feat\. KAROL G\)](https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvCktKHpf5G.md) - [plain]
 | 99 | [23 \(With Ape Drums\)](https://open.spotify.com/track/1G7vCwBCxeTe8fB0EGMDdq) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [Romances](https://open.spotify.com/album/3jnnIq9TS7hOasZlEJsaFB) | 2:47 |
 | 100 | [Despues De Las 12](https://open.spotify.com/track/3kYTY4EZu7vJYCL7ojqk5H) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Despues De Las 12](https://open.spotify.com/album/16nZKNqRMKoxn5ukqBoaKW) | 3:14 |
 
-Snapshot ID: `MCw1ZTU4MWJjYjc1MmI3MmY3NDJiYjMzMzdlMTI3OTVlYmE3ZTYwMmM0`
+Snapshot ID: `MCw0OTA4MDk3ZjFmODRhNzRiNzIwMTM5OWFmMGM1MDZiYmUwZTA1ZWM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 752 likes - 104 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 753 likes - 104 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,11 +90,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 80 | [Burnt Letters](https://open.spotify.com/track/43LKbeJBFLXlShCcfvwhOz) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:54 |
 | 81 | [Life On Earth?](https://open.spotify.com/track/5RpEqAXIsRvVwCJdVmufm9) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Two Songs For Now](https://open.spotify.com/album/1heHLpyhV8jv8dprQxJrki) | 2:10 |
 | 82 | [Drink the World Dry](https://open.spotify.com/track/36FjsJeZkpMnzZ92JoQeFw) | [Busby Marou](https://open.spotify.com/artist/4ETXyV9H1p2P1XYgXXTjiO) | [Postcards from the Shell House](https://open.spotify.com/album/7kqk8Kpo0gf5Yzx9fOQuE1) | 3:00 |
-| 83 | [Only Lonely](https://open.spotify.com/track/0zOzQxA9fFCtZ2DP7yPRs9) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:22 |
-| 84 | [Andrew](https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Andrew](https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv) | 4:00 |
+| 83 | [Andrew](https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Andrew](https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv) | 4:00 |
+| 84 | [Only Lonely](https://open.spotify.com/track/0zOzQxA9fFCtZ2DP7yPRs9) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:22 |
 | 85 | [Full Moon](https://open.spotify.com/track/4nes2cElxP6FFb8LMwKI6a) | [Busby Marou](https://open.spotify.com/artist/4ETXyV9H1p2P1XYgXXTjiO) | [Postcards from the Shell House](https://open.spotify.com/album/7kqk8Kpo0gf5Yzx9fOQuE1) | 3:01 |
-| 86 | [Let You Down](https://open.spotify.com/track/3RfCrI6Mmteu7Tp4xGndWd) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:15 |
-| 87 | [Gentleman](https://open.spotify.com/track/7KoLPLKiPCuiJ1lXzOW7v4) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:48 |
+| 86 | [Gentleman](https://open.spotify.com/track/7KoLPLKiPCuiJ1lXzOW7v4) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:48 |
+| 87 | [Let You Down](https://open.spotify.com/track/3RfCrI6Mmteu7Tp4xGndWd) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:15 |
 | 88 | [Positive Spin](https://open.spotify.com/track/6ywWV1XI3mWogQALI07rWB) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin](https://open.spotify.com/album/6MrSPNedgZaHfO4KFzerPj) | 3:22 |
 | 89 | [Alien](https://open.spotify.com/track/7q9fCrPFy5MdQcDPFbDR85) | [TOMI](https://open.spotify.com/artist/4FUg6Smq0DbieQJyg1AwXz) | [Alien](https://open.spotify.com/album/5Z5AlMnCuoVkL5sEfnSpUL) | 3:21 |
 | 90 | [Lanterns](https://open.spotify.com/track/43Zwrtbau8McAXvvxw9Qv2) | [Benny Tipene](https://open.spotify.com/artist/6iGRpCDnRmtqYF0tNjRoKJ) | [Bricks \- Extended Sessions](https://open.spotify.com/album/35StGDg3dq2KgNrpC0LwrK) | 2:50 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 103 | [Lose Myself](https://open.spotify.com/track/5GiQpCHV469WHEbhef3EVB) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:50 |
 | 104 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 
-Snapshot ID: `Mjg1MTc4OTAsMDAwMDAwMDAzMmE3YWRiOTdkMTAyYmU2MDY1ZjU0N2JmMmZiMjAzZA==`
+Snapshot ID: `Mjg1MTkzMzAsMDAwMDAwMDBiMmJiYmNiNjRlMjI5YWRmMWJhN2I0ZWMxZjFmZmZlOA==`

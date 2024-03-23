@@ -1,12 +1,12 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 58783,
+  "num_followers": 58805,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTk3ZDAyZmEyNjI4MDhiOTczY2JhOTdmYTZmYWI1NTM3Mzk2Nzhj",
+  "snapshot_id": "MCw1MzVmN2ZmMTM1YjE3Y2MwYjAzODg0N2JkNzRhNjQwMDRlZWNiOWZi",
   "tracks": [
     {
       "added_at": "2022-06-27 09:54:23",
@@ -707,30 +707,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Saint-Sa\u00ebns: Carnival of the Animals; Bizet: Jeux d'enfants; Ravel: Mother Goose",
-        "url": "https://open.spotify.com/album/4Qx7DzoPlvbA4z7e6JUf9R"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Barry Wordsworth",
-          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Mother Goose: I. Pr\u00e9lude",
-      "url": "https://open.spotify.com/track/5tvyeqj6MRZkL2rprxqpVn"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Daphnis and Chloe",
         "url": "https://open.spotify.com/album/1gnnRmLMjzsvFXs8VMcyjD"
       },
@@ -755,6 +731,30 @@
       "duration_ms": 284853,
       "name": "Daphnis et Chloe: Part III: Bacchanale",
       "url": "https://open.spotify.com/track/3i8BoV0sPzdjagK9HN0CwX"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Saint-Sa\u00ebns: Carnival of the Animals; Bizet: Jeux d'enfants; Ravel: Mother Goose",
+        "url": "https://open.spotify.com/album/4Qx7DzoPlvbA4z7e6JUf9R"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Mother Goose: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/5tvyeqj6MRZkL2rprxqpVn"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -799,6 +799,26 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Ravel: Complete Works for Solo Piano",
+        "url": "https://open.spotify.com/album/21wDzUkqsx7zfU73K33EsQ"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "duration_ms": 106000,
+      "name": "Menuet sur le nom de Haydn",
+      "url": "https://open.spotify.com/track/3Vcpv8QWJ3IPG9RYKFphoS"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
         "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 206640,
       "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: II. Petit Poucet",
       "url": "https://open.spotify.com/track/7EC7BjMxBzVlmQi3WNJpNK"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Ravel: Complete Works for Solo Piano",
-        "url": "https://open.spotify.com/album/21wDzUkqsx7zfU73K33EsQ"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Jean-Yves Thibaudet",
-          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
-        }
-      ],
-      "duration_ms": 106000,
-      "name": "Menuet sur le nom de Haydn",
-      "url": "https://open.spotify.com/track/3Vcpv8QWJ3IPG9RYKFphoS"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -975,6 +975,30 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Ravel: L'enfant et les sortil\u00e8ges, M. 71 & Ma m\u00e8re l'oye, M. 62",
+        "url": "https://open.spotify.com/album/1E0g1RP7XJem98VuCtRo8X"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Leonard Slatkin",
+          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+        }
+      ],
+      "duration_ms": 153200,
+      "name": "Ma m\u00e8re l'oye, M. 62: Tableau II: Pavane de la Belle au bois dormant",
+      "url": "https://open.spotify.com/track/0z1obbeiBwfGYefM1Ce8mG"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Ravel: Orchestral Works, Vol. 5",
         "url": "https://open.spotify.com/album/1YyXhW5uqF7aloforW4aQr"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 239120,
       "name": "Sh\u00e9h\u00e9razade: No. 3. L'Indiff\u00e9rent",
       "url": "https://open.spotify.com/track/6d2XbcMGhW3wT6OQPA8nl3"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Ravel: L'enfant et les sortil\u00e8ges, M. 71 & Ma m\u00e8re l'oye, M. 62",
-        "url": "https://open.spotify.com/album/1E0g1RP7XJem98VuCtRo8X"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Orchestre National De Lyon",
-          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
-        },
-        {
-          "name": "Leonard Slatkin",
-          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
-        }
-      ],
-      "duration_ms": 153200,
-      "name": "Ma m\u00e8re l'oye, M. 62: Tableau II: Pavane de la Belle au bois dormant",
-      "url": "https://open.spotify.com/track/0z1obbeiBwfGYefM1Ce8mG"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Miroirs - Ravel Piano Works",
-        "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexander Krichel",
-          "url": "https://open.spotify.com/artist/05Ur1K4jmfNEsBZwdk20xl"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "Miroirs, M. 43: I. Noctuelles",
-      "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Sh\u00e9h\u00e9razade / Tombeau / Pavane; Debussy: Danses / Ballades de Villon",
         "url": "https://open.spotify.com/album/1eeUo6L1AGl4DBJ7QOcp8b"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 188000,
       "name": "Sh\u00e9h\u00e9razade, M. 41: II. La fl\u00fbte enchant\u00e9e",
       "url": "https://open.spotify.com/track/2frOJsnhsTX5oyDzBjV4uX"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Miroirs - Ravel Piano Works",
+        "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexander Krichel",
+          "url": "https://open.spotify.com/artist/05Ur1K4jmfNEsBZwdk20xl"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Miroirs, M. 43: I. Noctuelles",
+      "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1263,8 +1263,8 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
-        "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
+        "name": "Ravel: Alborada del Gracioso; La Valse; Rhapsodie Espagnole etc.",
+        "url": "https://open.spotify.com/album/2gmiGFUwDKY4aRR7cbfEqN"
       },
       "artists": [
         {
@@ -1272,17 +1272,17 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Chantal Juillet",
-          "url": "https://open.spotify.com/artist/05QS9GX1jM0XQqGZtxDAzR"
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
         },
         {
-          "name": "Pascal Rog\u00e9",
-          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
         }
       ],
-      "duration_ms": 181506,
-      "name": "Berceuse sur le nom de Gabriel Faur\u00e9",
-      "url": "https://open.spotify.com/track/0u4rEVXlbxTpWJ2Ec19Pb9"
+      "duration_ms": 85840,
+      "name": "Valses nobles et sentimentales, M.61: 5. Presque lent - dans un sentiment intime",
+      "url": "https://open.spotify.com/track/26zjWbaWsaFmzKC2pfkgS5"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: Alborada del Gracioso; La Valse; Rhapsodie Espagnole etc.",
-        "url": "https://open.spotify.com/album/2gmiGFUwDKY4aRR7cbfEqN"
+        "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
+        "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
       },
       "artists": [
         {
@@ -1324,17 +1324,17 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+          "name": "Chantal Juillet",
+          "url": "https://open.spotify.com/artist/05QS9GX1jM0XQqGZtxDAzR"
         },
         {
-          "name": "Seiji Ozawa",
-          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+          "name": "Pascal Rog\u00e9",
+          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
         }
       ],
-      "duration_ms": 85840,
-      "name": "Valses nobles et sentimentales, M.61: 5. Presque lent - dans un sentiment intime",
-      "url": "https://open.spotify.com/track/26zjWbaWsaFmzKC2pfkgS5"
+      "duration_ms": 181506,
+      "name": "Berceuse sur le nom de Gabriel Faur\u00e9",
+      "url": "https://open.spotify.com/track/0u4rEVXlbxTpWJ2Ec19Pb9"
     },
     {
       "added_at": "2022-06-27 09:54:23",

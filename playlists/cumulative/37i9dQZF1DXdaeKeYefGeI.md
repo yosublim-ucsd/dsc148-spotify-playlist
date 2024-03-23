@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: 3JS
 
-150 songs - 9 hr 18 min
+151 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Lente '22](https://open.spotify.com/track/2XIp445YfKTy3VuHBpMkaj) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Lente '22](https://open.spotify.com/album/2wcWvAKYo3psSLnnMy78zi) | 4:35 | 2023-04-06 | 2023-09-15 |
 | [Lente Me](https://open.spotify.com/track/1JSrkd77iGJMYwTUBdX5Xs) | [Toon Hermans](https://open.spotify.com/artist/3Uo8Ydn4TQ6Xq3W1oN4z0h) | [One Man Show 1993](https://open.spotify.com/album/0WK6NTWtpvHLBovgYFbdsS) | 4:54 | 2023-02-10 |  |
 | [Lied Van De Zevende Dag](https://open.spotify.com/track/6e50pXxK6eUgcH5wc3Z06W) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Lied Van De Zevende Dag](https://open.spotify.com/album/0qZ53110VSvZHsHSYtk0vn) | 2:59 | 2023-04-20 | 2024-02-09 |
+| [Liefde Van Later](https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 4:12 | 2024-03-22 |  |
 | [Liefde Van Later](https://open.spotify.com/track/2x7ltK4hyYsRUALOqlKFk7) | [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr) | [Liefde Van Later](https://open.spotify.com/album/1vA8Pw95YH4zNCxOPaM1Zm) | 4:43 | 2024-03-14 |  |
 | [Los](https://open.spotify.com/track/35LMuMdS0uonMULXeGfQcV) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW), [Klangstof](https://open.spotify.com/artist/25lIYhqIj0R1AnnmqsTrtO) | [Los](https://open.spotify.com/album/7tzQmiWfCA5vCFaaYMpBog) | 4:02 | 2023-07-20 | 2024-03-05 |
 | [Luie Liefde](https://open.spotify.com/track/4afcjiDL53xe9M7eU4r74E) | [Vreemde Kostgangers](https://open.spotify.com/artist/5uLY3PL1Mrj4kusy2LOXMd) | [Luie Liefde](https://open.spotify.com/album/2zMMiH7rxlW1WbSqT2gsvn) | 3:02 | 2023-02-10 | 2023-04-26 |
@@ -129,7 +130,7 @@
 | [Stap Voor Stap](https://open.spotify.com/track/6x8y52msTAuUrGpXjkrYKG) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Stap Voor Stap](https://open.spotify.com/album/0gDWnkxZ44kcBdizwd12qT) | 3:53 | 2023-02-10 | 2023-10-13 |
 | [Stilte Na De Storm](https://open.spotify.com/track/6wkKgQuU44VWkWD7A4Y2mv) | [The Kik](https://open.spotify.com/artist/5vEW6oifezRitpxbykJSw8) | [Stilte Na De Storm](https://open.spotify.com/album/1edANTaXlVj17VXFPOG04b) | 3:33 | 2023-02-10 | 2023-04-26 |
 | [Straks](https://open.spotify.com/track/7AFTRQtshBcHlTTzuvk2Ig) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Dezelfde Zon](https://open.spotify.com/album/0W4OKFFc9K9IqXpvxUpemx) | 2:16 | 2024-01-11 |  |
-| [Suzanne](https://open.spotify.com/track/1BNp77RjuxC9koWD67CNiL) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 3:59 | 2023-02-10 |  |
+| [Suzanne](https://open.spotify.com/track/1BNp77RjuxC9koWD67CNiL) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 3:59 | 2023-02-10 | 2024-03-23 |
 | [Telkens Weer](https://open.spotify.com/track/45PcTtMMf5qUGhSTj43ZnE) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Liedjes Uit De Film Rooie Sien \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1mejiAFSmPftZbBTq43Bee) | 3:14 | 2023-02-10 | 2024-01-12 |
 | [Testament](https://open.spotify.com/track/6uWWbsGYJT8d4wvQKqkJEG) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [De Vrienden Van Vroeger \(1966\-1973\)](https://open.spotify.com/album/5mTJI3gIyjVfK4UV0Li4AX) | 3:15 | 2023-02-10 |  |
 | [Troostliedje](https://open.spotify.com/track/3wjD0K6q3g81Eo9hT9Pkii) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Troostliedje](https://open.spotify.com/album/5NewFgJdkg0r6rhELb8RHZ) | 3:18 | 2023-02-10 | 2023-11-11 |

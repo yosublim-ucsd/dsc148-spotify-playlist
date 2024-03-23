@@ -4,7 +4,7 @@
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-105 songs - 6 hr 58 min
+106 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Keber Al Alb](https://open.spotify.com/track/2gM94Dic9ifye4kt6Kvu5U) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Fattah Al Ward](https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g) | 2:53 | 2022-05-09 |  |
 | [Keda Bardou \- Acoustic Version](https://open.spotify.com/track/1pfjYmRDZtkza7Z1nAkb32) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Keda Bardou \(Acoustic Version\)](https://open.spotify.com/album/3DRoMceTit2X7pVuxGk0SJ) | 2:43 | 2022-05-09 | 2024-02-24 |
 | [Keda Bardou \- Acoustic Version](https://open.spotify.com/track/20aPXSjhJxTNGq6C8Ep9my) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Bazaar Night](https://open.spotify.com/album/22eTH6qtSEopuQYEQELcC4) | 2:43 | 2022-05-09 | 2022-07-29 |
+| [Keda Bardou \- Acoustic Version](https://open.spotify.com/track/56KfdI2w6CaIeriQ77VeYL) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Keda Bardou \(Acoustic Version\)](https://open.spotify.com/album/2WIyTkJIJdxe5nrYXcfXk4) | 2:43 | 2022-05-09 |  |
 | [Konna Sghar](https://open.spotify.com/track/55ExdRqYPtqMOweJaWqwbX) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Konna Sghar](https://open.spotify.com/album/6wlJNQtXLY3ypYXVsayxnV) | 2:16 | 2022-05-09 | 2022-07-29 |
 | [Konna Sghar](https://open.spotify.com/track/1I0wn8z1DRR0JA9YWLVah4) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Konna Sghar](https://open.spotify.com/album/10qHkq9kvK4PbUenAbHX0p) | 2:16 | 2022-05-09 |  |
 | [La corrida \(with Francis Cabrel\)](https://open.spotify.com/track/1pg1FFCDl0wiDM0FBV6EZM) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc), [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Ici et ailleurs](https://open.spotify.com/album/5pFD8nwMcsalVTJp3fZQcd) | 5:33 | 2022-05-09 |  |
@@ -83,7 +84,7 @@
 | [W3od](https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg) | [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [W3od](https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq) | 2:48 | 2022-05-09 |  |
 | [Wakfa](https://open.spotify.com/track/1mmE3XIwIX0tYjLr6u7zW1) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/4hu42nNoG5DCRahtvY77NP) | 4:50 | 2022-05-09 | 2022-07-29 |
 | [Wakfa](https://open.spotify.com/track/2rFOK6Wat6QKb3uqsXURgq) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK) | 4:50 | 2022-05-09 | 2022-10-14 |
-| [Wakfa](https://open.spotify.com/track/39u6elNoM6r2ZwjHJ2q5rx) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:50 | 2022-05-09 |  |
+| [Wakfa](https://open.spotify.com/track/39u6elNoM6r2ZwjHJ2q5rx) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:50 | 2022-05-09 | 2024-03-23 |
 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 | 2022-05-09 |  |
 | [Walleh](https://open.spotify.com/track/1kgBYAd72ZhwTDWeffZqDL) | [Cameleon](https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9) | [Best of Cameleon](https://open.spotify.com/album/2jEH3fpo2Jv9H8MYWmFU02) | 4:55 | 2022-05-09 |  |
 | [Warda 7amra \- Live](https://open.spotify.com/track/4abds4zgaIK15x9B3PtWLn) | [Amin Kamal](https://open.spotify.com/artist/0vOIeTt1kAxXxomH6N77os) | [Skizosocial Live](https://open.spotify.com/album/4anbKuPvH0XWqUWCbxvGMf) | 6:50 | 2022-05-09 |  |

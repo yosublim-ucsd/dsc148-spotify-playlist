@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Estopa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,589 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,682 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,23 +59,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 49 | [Y volar \(con los Caligaris\)](https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Ahora o nunca](https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD) | 3:09 |
 | 50 | [El roce de tu cuerpo](https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Muy Deficiente](https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1) | 4:10 |
 | 51 | [Sintiéndolo Mucho \(feat\. Leiva\)](https://open.spotify.com/track/4fe2YUvzu5oGWJz3FPyvDE) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Sintiéndolo Mucho \(feat\. Leiva\)](https://open.spotify.com/album/3bZgGd7L26rA44M7ppFSyi) | 4:04 |
-| 52 | [Necesito Respirar](https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:29 |
-| 53 | [Rojitas](https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI) | [Extrechinato y Tu](https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w) | [Poesía Básica](https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV) | 3:52 |
+| 52 | [Luz de las Velas](https://open.spotify.com/track/2tg9I46DCFUQLaihBCYUdF) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopía](https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02) | 4:03 |
+| 53 | [Necesito Respirar](https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:29 |
 | 54 | [La rueca](https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [28.000 puñaladas](https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR) | 3:54 |
-| 55 | [Luz de las Velas](https://open.spotify.com/track/2tg9I46DCFUQLaihBCYUdF) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopía](https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02) | 4:03 |
+| 55 | [Rojitas](https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI) | [Extrechinato y Tu](https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w) | [Poesía Básica](https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV) | 3:52 |
 | 56 | [Veneno en la Piel](https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Veneno En La Piel](https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O) | 3:42 |
 | 57 | [El Limite](https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu) | [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3) | [La Rosa De Los Vientos](https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT) | 4:35 |
 | 58 | [Serenade](https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 3:54 |
-| 59 | [Me Quedo Contigo \(Si Me Das A Elegir\) \- Live Baïonarena](https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Baïonarena \(Live\)](https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj) | 4:48 |
-| 60 | [El ritmo del garaje](https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Heroes De Los 80](https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd) | 4:53 |
+| 59 | [El ritmo del garaje](https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Heroes De Los 80](https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd) | 4:53 |
+| 60 | [Me Quedo Contigo \(Si Me Das A Elegir\) \- Live Baïonarena](https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Baïonarena \(Live\)](https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj) | 4:48 |
 | 61 | [La senda del tiempo](https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Gente Impresentable](https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD) | 4:30 |
-| 62 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/6xnHAQ96sirlw7Gm4ppqxG) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [El Último de la Fila, los Burros & los Rápidos...Historia de una Banda \(Autobiografía Sónica\)](https://open.spotify.com/album/7ah8WaQyfxS1d0NpIwSB3A) | 2:14 |
-| 63 | [Dolores se llamaba Lola](https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Ese día piensa en mí](https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu) | 5:11 |
+| 62 | [Dolores se llamaba Lola](https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Ese día piensa en mí](https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu) | 5:11 |
+| 63 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/6xnHAQ96sirlw7Gm4ppqxG) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [El Último de la Fila, los Burros & los Rápidos...Historia de una Banda \(Autobiografía Sónica\)](https://open.spotify.com/album/7ah8WaQyfxS1d0NpIwSB3A) | 2:14 |
 | 64 | [Miedo](https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sopa fria](https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj) | 4:57 |
 | 65 | [No Hay Tregua](https://open.spotify.com/track/5fuiYDXvDMVqsa3o8B8KLR) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Barricada](https://open.spotify.com/album/0TXXfuJy2zJ50x94VvCuqZ) | 2:55 |
-| 66 | [El Bien](https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [El Bien](https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4) | 3:26 |
-| 67 | [Devil Came to Me](https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 4:36 |
-| 68 | [Cadillac solitario](https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock & Roll Star \- 30 años](https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR) | 3:34 |
+| 66 | [Cadillac solitario](https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock & Roll Star \- 30 años](https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR) | 3:34 |
+| 67 | [El Bien](https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [El Bien](https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4) | 3:26 |
+| 68 | [Devil Came to Me](https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 4:36 |
 | 69 | [Por verte sonreír](https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Mira](https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18) | 6:40 |
 | 70 | [Maneras de Vivir \(Single Estudio\)](https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB) | [Leño](https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ) | [Maneras De Vivir](https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s) | 4:12 |
 | 71 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 99 | [Maneras de vivir \- Rosendo, Barricada y Aurora Beltrán directo 2008](https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R), [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Otra noche sin dormir](https://open.spotify.com/album/753WFdgyz5M1h3ZQnSSQDL) | 4:42 |
 | 100 | [Rock And Roll en la Plaza del Pueblo](https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Matricula De Honor/New Booklet](https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv) | 3:00 |
 
-Snapshot ID: `MCxkMzc1NGFmZjBiNWY3MTBiOTJlM2NhODFjMmFjMWUzMDIxYmUzMmFl`
+Snapshot ID: `MCwwZjRlMGUzMjk3MzkzOWY0ZmMzNWQ2ZWQ2NDMwZDdkZDVmNzRlMDBj`

@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 670441,
+  "2024-03-23": 670489,
   "date_first_scraped": "2022-01-13",
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
   "name": "Vibra Tropical",
@@ -7705,7 +7705,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 160900,
       "name": "Quiero Saber Qui\u00e9n Es Tu Novi@",
       "url": "https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO"
@@ -9373,6 +9373,24 @@
       "duration_ms": 198955,
       "name": "Vibra",
       "url": "https://open.spotify.com/track/4v5V92B2AHjaoJ2DnY6M8j"
+    },
+    {
+      "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/7kLvURv846Zx0ehgCXyyVt"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167186,
+      "name": "Vitamina D",
+      "url": "https://open.spotify.com/track/2XZO0xoygaWnFfpILzaH5X"
     },
     {
       "album": {

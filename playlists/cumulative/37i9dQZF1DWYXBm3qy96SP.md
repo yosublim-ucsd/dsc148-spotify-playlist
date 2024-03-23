@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Olivia Rodrigo
 
-1,172 songs - 2 day 19 hr 19 min
+1,173 songs - 2 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,8 +103,9 @@
 | [Back To You](https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:07 | 2023-05-11 | 2023-05-19 |
 | [BACKSTABBER](https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [BACKSTABBER](https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM) | 3:08 | 2024-01-04 | 2024-01-12 |
 | [Bad Bitch Supreme](https://open.spotify.com/track/6dwFMBSMb7YBnAaZg76IoH) | [Fit For Rivals](https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV), [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [Bad Bitch Supreme](https://open.spotify.com/album/6qgVfNQpi4hKok5r85P7pE) | 3:02 | 2023-09-07 | 2023-09-15 |
-| [bad idea right?](https://open.spotify.com/track/0Aj0pG8cJNjZK8zO2Wtgm8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8) | 3:04 | 2024-03-21 |  |
+| [bad idea right?](https://open.spotify.com/track/0Aj0pG8cJNjZK8zO2Wtgm8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8) | 3:04 | 2024-03-21 | 2024-03-23 |
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-10 | 2023-09-08 |
+| [bad idea right?](https://open.spotify.com/track/7MEj3sZBfizVsLRV9xJAD9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/0AGTYuKIZpklJih6pEmoWp) | 3:04 | 2024-03-21 |  |
 | [BAD INFLUENCE](https://open.spotify.com/track/2Zb0EFTUJPE75ga3EJGaTI) | [Fuller](https://open.spotify.com/artist/6u0sR7YTLPNf5CdyBg3ZE1) | [BAD INFLUENCE](https://open.spotify.com/album/2LFQ1ci8QLwO4EVLqDgrja) | 2:46 | 2024-02-29 |  |
 | [Bad Joke](https://open.spotify.com/track/3aUUiMQGt2WPM38NjodKpj) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [Good Drugs // Bad Joke](https://open.spotify.com/album/4WJJepmUt5zsXqeyF1B2sA) | 2:38 | 2023-06-22 | 2023-06-30 |
 | [Bad Muthafucker](https://open.spotify.com/track/55D6mC3e2u1XK4mAJ7OzHo) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [AMEN](https://open.spotify.com/album/5GcQhWvQf2nEqCylA5dgpc) | 3:48 | 2023-04-20 | 2023-04-28 |
@@ -265,7 +266,7 @@
 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 | 2023-04-27 | 2023-05-19 |
 | [Damage](https://open.spotify.com/track/2P616qpC9myp9XRCGVFuce) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Damage](https://open.spotify.com/album/0KJjON2RBSj9lYukNSSEho) | 2:37 | 2024-02-22 | 2024-03-01 |
 | [Damage Gets Done](https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB) | 4:28 | 2023-08-17 | 2023-08-19 |
-| [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 | 2023-08-17 | 2024-03-22 |
+| [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 | 2023-08-17 |  |
 | [DAMAGED \(feat\. Spencer Charnas\)](https://open.spotify.com/track/4sdt6nAj3tqNzAnddR0meb) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Spencer Charnas](https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe) | [GODMODE](https://open.spotify.com/album/5AmqfOFEafBEzrAkglVioB) | 3:24 | 2023-10-26 | 2023-11-03 |
 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 | 2023-10-05 | 2023-12-10 |
 | [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 | 2023-10-19 | 2024-01-05 |
@@ -1041,7 +1042,7 @@
 | [Time](https://open.spotify.com/track/1HmQba8msCjjirMPh3wOKY) | [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r) | [Time](https://open.spotify.com/album/5U3qCvNQmg8LrERbzUU8zd) | 7:19 | 2023-08-24 | 2023-09-01 |
 | [Time :: Fate :: Karma :: God](https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City \(Deluxe\)](https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS) | 3:03 | 2024-03-14 |  |
 | [Times Like These](https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:29 | 2023-03-16 | 2023-09-01 |
-| [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 | 2024-01-18 |  |
+| [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 | 2024-01-18 | 2024-03-23 |
 | [Tired Of Being Alone](https://open.spotify.com/track/1GTm4UPyy4VsCmGIuWKglS) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Tired Of Being Alone](https://open.spotify.com/album/7qBemiQttOz66ehbUkfM70) | 4:43 | 2023-07-06 | 2023-07-14 |
 | [TK421](https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/7IncAEknANwQthqiwWySBP) | 3:15 | 2023-10-12 | 2023-10-20 |
 | [To My Heart](https://open.spotify.com/track/5lB3jWo6QMwVaLlcxqNEdb) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [To My Heart](https://open.spotify.com/album/7wi6Ppz76KRU5airdpcGCW) | 3:06 | 2023-09-15 | 2023-09-22 |

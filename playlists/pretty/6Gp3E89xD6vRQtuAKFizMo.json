@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44324,
+  "num_followers": 44325,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjQ2Nyw0NmI3OGNhODYwNGUzYjAxMDNmZmE0YWE1NDAwOTNmM2VmZmU1ZTBl",
+  "snapshot_id": "NjQ2OSwyYzIxOGQ5MTZhMTk3YmY0ODNjMjJjZTMwZTYwZDg2ZWM1NjgwZTA2",
   "tracks": [
+    {
+      "added_at": "2024-03-22 15:19:47",
+      "album": {
+        "name": "Chama De Amor / She Calls Me Love",
+        "url": "https://open.spotify.com/album/7xNlHZh0QVYpw5C2gY9u9b"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Banda AL9",
+          "url": "https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "She Calls Me Love - Steve Aoki Remix",
+      "url": "https://open.spotify.com/track/0deDBJXbids6gfrg47mOLX"
+    },
+    {
+      "added_at": "2024-03-22 15:20:15",
+      "album": {
+        "name": "Throw It Back",
+        "url": "https://open.spotify.com/album/3eKEOVPOf9zuTO66tszH9x"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 140142,
+      "name": "Throw It Back",
+      "url": "https://open.spotify.com/track/6mjAMJjMb5FUvRFOyBLeKv"
+    },
     {
       "added_at": "2024-03-15 17:26:09",
       "album": {

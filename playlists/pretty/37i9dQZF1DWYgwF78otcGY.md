@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,837 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,852 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 38 | [Bra vibrationer](https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6) | [Kikki Danielsson](https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i) | [Bra vibrationer](https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU) | 3:06 |
 | 39 | [Håll om mig](https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz) | [Nanne](https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi) | [Alltid på väg](https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy) | 3:02 |
 | 40 | [\(Du är så\) Yeah Yeah, Wow Wow](https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio) | [Martin](https://open.spotify.com/artist/4oOULCfbuFxwC1Bv2PSR7F) | [En helt vanlig Svensson](https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO) | 3:14 |
-| 41 | [Bailá Bailá](https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [Bailá Bailá](https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF) | 2:53 |
-| 42 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
+| 41 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
+| 42 | [Bailá Bailá](https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [Bailá Bailá](https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF) | 2:53 |
 | 43 | [Tusen och en natt](https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y) | 3:02 |
 | 44 | [I Can´t Go On](https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [I Can't Go On](https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3) | 3:03 |
 | 45 | [La Det Swinge](https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [La Det Swinge](https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa) | 2:53 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 51 | [Växeln hallå](https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy) | [Janne Lucas](https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx) | [The Best Of](https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe) | 2:54 |
 | 52 | [Diggiloo Diggiley](https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg) | 3:07 |
 
-Snapshot ID: `MCw5MDM4YTRkY2IzYjYyNjgwNDkzNzkzZjYxOTg0ZTJkZmYwNWM1OTEx`
+Snapshot ID: `MCw0NzVhODU5Mjk5OWRkMmFlMGE5MmM3OWRkZmZkZTZlOTQ4NzMwMTI4`

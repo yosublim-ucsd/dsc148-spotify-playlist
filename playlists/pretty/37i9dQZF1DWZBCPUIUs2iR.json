@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 657648,
+  "num_followers": 658365,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTc2NmFlZGFmMzFhNDYzN2Y1MTNiZDZiYzVlMWM5OGM5NmU2NjA5",
+  "snapshot_id": "MCxmZDg5Mjk5ZTM3NTRmOTNjZjQ5YzA1YjZkN2U1Mzg0NzQ2MmViZjgz",
   "tracks": [
     {
       "added_at": "2024-03-19 00:08:42",
@@ -587,8 +587,8 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "Live Like You Were Dying",
-        "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
+        "name": "Damn Country Music",
+        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 300333,
-      "name": "Live Like You Were Dying",
-      "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
+      "duration_ms": 259266,
+      "name": "Humble And Kind",
+      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "This Kiss",
-      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
-    },
-    {
-      "added_at": "2024-03-19 00:08:42",
-      "album": {
         "name": "#1s ... and then some",
         "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 208106,
       "name": "My Maria",
       "url": "https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT"
+    },
+    {
+      "added_at": "2024-03-19 00:08:42",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "This Kiss",
+      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -731,8 +731,8 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "Damn Country Music",
-        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+        "name": "Live Like You Were Dying",
+        "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 259266,
-      "name": "Humble And Kind",
-      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
+      "duration_ms": 300333,
+      "name": "Live Like You Were Dying",
+      "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "Straight Ahead (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ"
-      },
-      "artists": [
-        {
-          "name": "Larry Gatlin & The Gatlin Brothers",
-          "url": "https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "All the Gold In California",
-      "url": "https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526"
-    },
-    {
-      "added_at": "2024-03-19 00:08:42",
-      "album": {
         "name": "All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/2W0uJ9ehsjiInD1CDvVHHX"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 220200,
       "name": "Lesson In Leavin'",
       "url": "https://open.spotify.com/track/0xo5dRgtkZlR2zNJwSYB37"
+    },
+    {
+      "added_at": "2024-03-19 00:08:42",
+      "album": {
+        "name": "Straight Ahead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ"
+      },
+      "artists": [
+        {
+          "name": "Larry Gatlin & The Gatlin Brothers",
+          "url": "https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "All the Gold In California",
+      "url": "https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526"
     }
   ],
   "unique_name": "Country's Greatest Hits",

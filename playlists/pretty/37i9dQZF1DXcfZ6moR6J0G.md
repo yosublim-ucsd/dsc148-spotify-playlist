@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 > It's just one of those days...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,865,786 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,866,323 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 49 | [Boom](https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:10 |
 | 50 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
 | 51 | [Left Behind](https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:01 |
-| 52 | [The Only](https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 2:51 |
+| 52 | [Bawitdaba](https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Devil Without a Cause](https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm) | 4:25 |
 | 53 | [Here to Stay](https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO) | 4:30 |
-| 54 | [Bawitdaba](https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Devil Without a Cause](https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm) | 4:25 |
+| 54 | [The Only](https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 2:51 |
 | 55 | [Dig](https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 2:42 |
 | 56 | [She Loves Me Not](https://open.spotify.com/track/1eRgyfyizDWISeS99kwLNC) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [lovehatetragedy](https://open.spotify.com/album/2bsemtYlVfVAQODavrDkS4) | 3:29 |
-| 57 | [Bullet With a Name](https://open.spotify.com/track/50OsF8Rbv8VQS0WAP0uB3i) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [To the Pain \(Deluxe Edition\)](https://open.spotify.com/album/2qiWMIdE9TAxRAhPGX7aU7) | 3:26 |
-| 58 | [Blue Monday](https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Candyass](https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A) | 4:27 |
+| 57 | [Blue Monday](https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Candyass](https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A) | 4:27 |
+| 58 | [Bullet With a Name](https://open.spotify.com/track/50OsF8Rbv8VQS0WAP0uB3i) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [To the Pain \(Deluxe Edition\)](https://open.spotify.com/album/2qiWMIdE9TAxRAhPGX7aU7) | 3:26 |
 | 59 | [Out Of Control](https://open.spotify.com/track/166u1Cs46FmXoOaTGxh8aB) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 2:42 |
 | 60 | [Back to School \(Mini Maggit\)](https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 3:57 |
 | 61 | [Downfall](https://open.spotify.com/track/76xddM2irVQCbuBoVbaElZ) | [TRUSTcompany](https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA) | [The Lonely Position Of Neutral](https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh) | 3:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 79 | [Praise](https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Animosity](https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1) | 3:38 |
 | 80 | [A Certain Shade of Green](https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:11 |
 
-Snapshot ID: `MCxjNzU0ZTk3ZDE5Y2RhYTI4NzQ3YzY1ZDIxNTkwMmY3NjUwZDk5ZTdl`
+Snapshot ID: `MCxlNmZlNTRkNDk2YTkyMWMyOTg4OWQzYTg1ZGI5YjAyNDQwMjgyYTUz`

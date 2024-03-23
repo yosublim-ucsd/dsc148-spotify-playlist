@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-406 songs - 1 day 4 hr 48 min
+407 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Prisoner](https://open.spotify.com/track/3YLyBeCT9tgFLvZMpjyf8m) | [The Southern Oracle](https://open.spotify.com/artist/1IV9JLta5jCCN6YmlNoLq7) | [Prisoner](https://open.spotify.com/album/4zv6HmhOHygHHDZVs7qBhF) | 2:21 | 2021-12-17 | 2022-07-07 |
 | [Prospect of Immortality](https://open.spotify.com/track/4011bzR6xClAGZ71YCcHOO) | [Cryptosis](https://open.spotify.com/artist/6wOhrwpLn8mjwUs14xh9nD) | [Prospect of Immortality](https://open.spotify.com/album/5FLNpvpZtonW80c2IOicDn) | 6:21 | 2021-12-17 | 2022-03-03 |
 | [Punish the Punisher](https://open.spotify.com/track/443FxTiQx9GsJucnUTCLM7) | [Tantara](https://open.spotify.com/artist/7mQqEScLIhXEDhVs4gyxZr) | [Sum of Forces](https://open.spotify.com/album/3khbZwNT8as5kIcjnv411x) | 5:00 | 2021-12-17 | 2022-03-05 |
+| [Purified by Fire](https://open.spotify.com/track/5Yj54OcbkQk5hUmtXCSYOx) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Profane Prayer](https://open.spotify.com/album/4PcHDeJv6FmO6WZb6qYGHa) | 4:45 | 2024-03-08 |  |
 | [Purified by Fire](https://open.spotify.com/track/6zhXx6Shn5BgKjPjcvSXDU) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Purified by Fire](https://open.spotify.com/album/3X36qaXZS5brpKUg1LPfBw) | 4:45 | 2024-01-12 | 2024-02-24 |
 | [Pyhä Vitutus](https://open.spotify.com/track/3nn2BBMs1fwcUzvz3SsWBk) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB) | [Pyhä Vitutus](https://open.spotify.com/album/7l48qUCRcUiNUyOD2zzkDT) | 3:21 | 2024-01-12 |  |
 | [Raining Blood](https://open.spotify.com/track/5eF4Kv3HcYJyAtgTmHVzH9) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Soundtrack To The Apocalypse](https://open.spotify.com/album/4i1dW5u1egajFXlgpuVPVe) | 4:12 | 2022-09-09 | 2022-11-13 |
@@ -409,7 +410,7 @@
 | [World in a World](https://open.spotify.com/track/5nJixh1Yoax0OX03cIfUDQ) | [Crisix](https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s) | [Crisix Session \# 1: American Thrash](https://open.spotify.com/album/6kUbRggyg1IbfV8bL6Beaf) | 4:16 | 2021-12-17 | 2022-07-29 |
 | [Wrecking Crew](https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Taking Over](https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N) | 4:32 | 2022-07-13 |  |
 | [WWIII](https://open.spotify.com/track/0XnV89hrJWQxPkddqWtIln) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 4:48 | 2021-12-17 | 2023-09-27 |
-| [Year of the Goat](https://open.spotify.com/track/7D0wXdVm5aMwOgArdzBMcQ) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Year of the Goat](https://open.spotify.com/album/3vcSAW1Y7YNi9isFfRCWyb) | 3:26 | 2024-01-12 |  |
+| [Year of the Goat](https://open.spotify.com/track/7D0wXdVm5aMwOgArdzBMcQ) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Year of the Goat](https://open.spotify.com/album/3vcSAW1Y7YNi9isFfRCWyb) | 3:26 | 2024-01-12 | 2024-03-23 |
 | [Ympyrä sulkeutuu](https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB) | [Myrsky](https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1) | 3:30 | 2024-03-08 |  |
 | [You Can't Bring Me Down](https://open.spotify.com/track/203xxdlledLFnkqrUleD72) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Lights...Camera...Revolution](https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT) | 5:48 | 2022-12-15 |  |
 | [You Weep](https://open.spotify.com/track/6XAlh4yszn9bSt9icRA7o5) | [Prestige](https://open.spotify.com/artist/48SgCx7WBM9A1jgu9KFuxn) | [You Weep](https://open.spotify.com/album/4F4iwuYKgphwmsyTqgVusZ) | 3:53 | 2021-12-17 | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,830 likes - 70 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,853 likes - 70 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 46 | [Baume](https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Baume](https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9) | 4:20 |
 | 47 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
 | 48 | [Vanished](https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Vanished](https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI) | 5:56 |
-| 49 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
-| 50 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 |
+| 49 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 |
+| 50 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
 | 51 | [3AMStillAlive Remix](https://open.spotify.com/track/0GViNWO0W2BzucFjWWJq6p) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [3AMStillAlive Remix](https://open.spotify.com/album/1drcfoixJIeZWHwqJB3g5v) | 3:39 |
 | 52 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
 | 53 | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi) | 4:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [Oh, Lover \- NTO Remix](https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Oh, Lover \(NTO Remix\)](https://open.spotify.com/album/7sCU7QpAGHxxqvekykCm2N) | 5:16 |
 | 70 | [Blissda](https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Blissda](https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9) | 5:43 |
 
-Snapshot ID: `MCw2MjBhYjZlZTljYzVmN2Q0OTI2MjczYmYxNjNlYjI1MjAyMmVlMzVl`
+Snapshot ID: `MCw5OWQ1MDAwNWE2MDZmYjFiMGI4MGZlZTVhNDdkYzA1NWFhNmUxYTY5`

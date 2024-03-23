@@ -4,7 +4,7 @@
 
 > There are some new trolls on the block\. Rock your body to the music from Trolls, including Trolls Band Together.
 
-93 songs - 4 hr 44 min
+94 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 | 2021-11-26 |  |
 | [Mount Rageous](https://open.spotify.com/track/5V4Qp6tNIrqdBP3iAkyKuY) | [Andrew Rannells](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b), [Brianna Mazzola](https://open.spotify.com/artist/5LZ6g1nJq6l1uN39CTjzmG) | [TROLLS Band Together \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH) | 2:57 | 2023-11-17 |  |
 | [Move Ya Body](https://open.spotify.com/track/0rqterIZrtUlnFjyALMSZB) | [Cloud Guy](https://open.spotify.com/artist/1JM04aXQw4BDmYLFNbCiXE) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:42 | 2021-11-26 |  |
-| [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 | 2021-11-26 |  |
+| [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 | 2023-11-17 |  |
+| [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 | 2021-11-26 | 2024-03-23 |
 | [Move Your Feet / D.A.N.C.E\. / It's A Sunshine Day](https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [James Corden](https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P), [Ron Funches](https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP), [Walt Dohrn](https://open.spotify.com/artist/4hWc4epxTdb1KC3jRd1wDd), [Caroline Hjelt](https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME), [Aino Jawo](https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV), [Kunal Nayyar](https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 2:36 | 2021-11-26 |  |
 | [One and Only Love](https://open.spotify.com/track/7LD3xBcHqy0vBewJ9z6fue) | [Bridget](https://open.spotify.com/artist/24hfxVOLTDU7t3b1Ec9OPw), [Gristle](https://open.spotify.com/artist/4KCHgHMlQB3Fy1JbXCUFrC) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:22 | 2021-11-26 |  |
 | [One More Time](https://open.spotify.com/track/5O0aq4KMFEariO9hGQze7M) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 2:42 | 2021-11-26 |  |

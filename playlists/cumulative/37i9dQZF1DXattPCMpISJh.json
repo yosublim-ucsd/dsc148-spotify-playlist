@@ -192,7 +192,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 217299,
       "name": "Another Day Gone",
       "url": "https://open.spotify.com/track/1JZDE8ZhpxlWYy1r09vjDe"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 170034,
       "name": "Broke a Sweat",
       "url": "https://open.spotify.com/track/5taA6pnGkqh9LRvpRpcUgW"
@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 239000,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/0t333Rq2na4uyt29VfXU1s"
@@ -3240,6 +3240,28 @@
       "duration_ms": 211049,
       "name": "Muscle Memory (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl"
+    },
+    {
+      "album": {
+        "name": "My Lovin'",
+        "url": "https://open.spotify.com/album/66CQRrLh4jLEGjJxe16tF6"
+      },
+      "artists": [
+        {
+          "name": "Dr Packer",
+          "url": "https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm"
+        },
+        {
+          "name": "Elektrik Disko",
+          "url": "https://open.spotify.com/artist/4Gi9MmIJNSFVf2TZWnFpeG"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194032,
+      "name": "My Lovin'",
+      "url": "https://open.spotify.com/track/1wo0s1LhR2Hkzkn6cwMzi6"
     },
     {
       "album": {
@@ -4311,6 +4333,28 @@
     },
     {
       "album": {
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/7wAIiKgXJm1ybhi9kIcGGu"
+      },
+      "artists": [
+        {
+          "name": "LOYD",
+          "url": "https://open.spotify.com/artist/4W3LY6UUKv4HYj40P52RE2"
+        },
+        {
+          "name": "Tom Aspaul",
+          "url": "https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Take A Bite",
+      "url": "https://open.spotify.com/track/2gvc8fKa2ELYbAiMfOb8th"
+    },
+    {
+      "album": {
         "name": "CAPYAC FOREVER",
         "url": "https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3"
       },
@@ -4352,6 +4396,28 @@
       "duration_ms": 208613,
       "name": "Take Me To Your Body",
       "url": "https://open.spotify.com/track/4Ct3Oh6BG30FJxerhB8vRT"
+    },
+    {
+      "album": {
+        "name": "Thieves",
+        "url": "https://open.spotify.com/album/2SZMyF0H7a9p8VenQZ3c2S"
+      },
+      "artists": [
+        {
+          "name": "Alex Cherney",
+          "url": "https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd"
+        },
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244823,
+      "name": "Take My Heart Away",
+      "url": "https://open.spotify.com/track/2nSqBcTJ6ObEPHbphXGSCB"
     },
     {
       "album": {

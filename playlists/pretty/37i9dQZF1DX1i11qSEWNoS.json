@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 563373,
+  "num_followers": 563654,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGU1ZDMwMmE3NzlkNjAxODVhZDkxY2VmNDFkMGI4MGY1MWFhMDJj",
+  "snapshot_id": "MCw3MGIxMDcwYTJhYmFmY2Y5YTQzY2I1ZThlMDFmZmRiZDkwMjU1ZjAx",
   "tracks": [
     {
       "added_at": "2024-03-20 13:46:06",
@@ -451,30 +451,6 @@
     {
       "added_at": "2024-03-20 13:46:06",
       "album": {
-        "name": "Home Alone (with Marnik)",
-        "url": "https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Marnik",
-          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
-        }
-      ],
-      "duration_ms": 128031,
-      "name": "Home Alone (with Marnik)",
-      "url": "https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP"
-    },
-    {
-      "added_at": "2024-03-20 13:46:06",
-      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8"
+    },
+    {
+      "added_at": "2024-03-20 13:46:06",
+      "album": {
+        "name": "Home Alone (with Marnik)",
+        "url": "https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        }
+      ],
+      "duration_ms": 128031,
+      "name": "Home Alone (with Marnik)",
+      "url": "https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP"
     },
     {
       "added_at": "2024-03-20 13:46:06",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-03-20 13:46:06",
       "album": {
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
+    },
+    {
+      "added_at": "2024-03-20 13:46:06",
+      "album": {
         "name": "ECHT (Techno Mix)",
         "url": "https://open.spotify.com/album/6EOe0HCjcuiOImjKJ7yAzR"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 124327,
       "name": "ECHT - Techno Mix",
       "url": "https://open.spotify.com/track/2Pyfpd75r3dC3nDgVA4fnX"
-    },
-    {
-      "added_at": "2024-03-20 13:46:06",
-      "album": {
-        "name": "Heute Nacht",
-        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Heute Nacht",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
       "added_at": "2024-03-20 13:46:06",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-03-20 13:46:06",
       "album": {
-        "name": "Alles ist relativ",
-        "url": "https://open.spotify.com/album/0foO3UbcTAdLAk4vYRRRox"
-      },
-      "artists": [
-        {
-          "name": "BIG TIM",
-          "url": "https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF"
-        }
-      ],
-      "duration_ms": 126605,
-      "name": "Alles ist relativ",
-      "url": "https://open.spotify.com/track/3L4pLlkTz0WyZPza8tlAgx"
-    },
-    {
-      "added_at": "2024-03-20 13:46:06",
-      "album": {
         "name": "HERZINFUCKED",
         "url": "https://open.spotify.com/album/4wJVpq8vt31kB9wySZY0WB"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 165476,
       "name": "Auf & Ab",
       "url": "https://open.spotify.com/track/2sFsvaMRe8PKo5AFdBE9qC"
+    },
+    {
+      "added_at": "2024-03-20 13:46:06",
+      "album": {
+        "name": "Alles ist relativ",
+        "url": "https://open.spotify.com/album/0foO3UbcTAdLAk4vYRRRox"
+      },
+      "artists": [
+        {
+          "name": "BIG TIM",
+          "url": "https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF"
+        }
+      ],
+      "duration_ms": 126605,
+      "name": "Alles ist relativ",
+      "url": "https://open.spotify.com/track/3L4pLlkTz0WyZPza8tlAgx"
     },
     {
       "added_at": "2024-03-20 13:46:06",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-03-20 13:46:06",
       "album": {
-        "name": "denk mal dr\u00fcber nach...",
-        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "MAXIMUM RIZZ",
-      "url": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
-    },
-    {
-      "added_at": "2024-03-20 13:46:06",
-      "album": {
         "name": "CHASE THE SUN",
         "url": "https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 211288,
       "name": "CHASE THE SUN",
       "url": "https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt"
+    },
+    {
+      "added_at": "2024-03-20 13:46:06",
+      "album": {
+        "name": "denk mal dr\u00fcber nach...",
+        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "MAXIMUM RIZZ",
+      "url": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
     },
     {
       "added_at": "2024-03-20 13:46:06",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-03-20 13:46:06",
       "album": {
-        "name": "Schnelle Brille",
-        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
-      },
-      "artists": [
-        {
-          "name": "Nancy Franck",
-          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
-        }
-      ],
-      "duration_ms": 137125,
-      "name": "Schnelle Brille",
-      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
-    },
-    {
-      "added_at": "2024-03-20 13:46:06",
-      "album": {
         "name": "Einmal um die Welt 2k23",
         "url": "https://open.spotify.com/album/3a42tIOr7yy7FOBgrXT48a"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 135551,
       "name": "Einmal um die Welt 2k23",
       "url": "https://open.spotify.com/track/5HSZBIy10tdHp6OuNwEEaU"
+    },
+    {
+      "added_at": "2024-03-20 13:46:06",
+      "album": {
+        "name": "Schnelle Brille",
+        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
+      },
+      "artists": [
+        {
+          "name": "Nancy Franck",
+          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
+        }
+      ],
+      "duration_ms": 137125,
+      "name": "Schnelle Brille",
+      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
     },
     {
       "added_at": "2024-03-20 13:46:06",

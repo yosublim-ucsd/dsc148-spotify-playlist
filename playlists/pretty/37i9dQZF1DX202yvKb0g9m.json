@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 114881,
+  "num_followers": 114950,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Nzg1N2RkNDZhN2ZiNDY3MjAzYTE2OTMwNjY1MTUwYWQ1OGVkMzVh",
+  "snapshot_id": "MCwyMTk3YmQ2ZDE4NGJjYjZlYjM0YzhkMDdkYzYzNjE4OGY4MzY0ZGE5",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Probl\u00e8mes D'amour (All Versions)",
-        "url": "https://open.spotify.com/album/3WV1F6sgTj0Dw5UISLb5HB"
-      },
-      "artists": [
-        {
-          "name": "Alexander Robotnick",
-          "url": "https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq"
-        }
-      ],
-      "duration_ms": 420653,
-      "name": "Probl\u00e8mes d'Amour - Original",
-      "url": "https://open.spotify.com/track/4xeQXFdKrNPQcGyze66bIx"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "In Gold",
         "url": "https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 379695,
       "name": "Sumo Acid Crew",
       "url": "https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Probl\u00e8mes D'amour (All Versions)",
+        "url": "https://open.spotify.com/album/3WV1F6sgTj0Dw5UISLb5HB"
+      },
+      "artists": [
+        {
+          "name": "Alexander Robotnick",
+          "url": "https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq"
+        }
+      ],
+      "duration_ms": 420653,
+      "name": "Probl\u00e8mes d'Amour - Original",
+      "url": "https://open.spotify.com/track/4xeQXFdKrNPQcGyze66bIx"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Trax Classix",
-        "url": "https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv"
-      },
-      "artists": [
-        {
-          "name": "Armando",
-          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Land Of Confusion",
-      "url": "https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Qualm",
         "url": "https://open.spotify.com/album/2hYmcjIinZoVCog5sP4k0H"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 491050,
       "name": "The Smell Of Suds And Steel",
       "url": "https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Trax Classix",
+        "url": "https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv"
+      },
+      "artists": [
+        {
+          "name": "Armando",
+          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Land Of Confusion",
+      "url": "https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -727,6 +727,38 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "For Those Who",
+        "url": "https://open.spotify.com/album/2ClfMqAZvuQ8uFH9z5Ac90"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "duration_ms": 386070,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Thank You for Letting Me Be Myself",
+        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
+      },
+      "artists": [
+        {
+          "name": "Omar S",
+          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
+        }
+      ],
+      "duration_ms": 324668,
+      "name": "Ready My Black Asz",
+      "url": "https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Box Energy",
         "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
       },
@@ -747,22 +779,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "For Those Who",
-        "url": "https://open.spotify.com/album/2ClfMqAZvuQ8uFH9z5Ac90"
-      },
-      "artists": [
-        {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
-        }
-      ],
-      "duration_ms": 386070,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Phuture and Other Classics from DJ Pierre",
         "url": "https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 709466,
       "name": "Acid Trax",
       "url": "https://open.spotify.com/track/5j72kVstS2gHKl8zWJDNz0"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Thank You for Letting Me Be Myself",
-        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
-      },
-      "artists": [
-        {
-          "name": "Omar S",
-          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
-        }
-      ],
-      "duration_ms": 324668,
-      "name": "Ready My Black Asz",
-      "url": "https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c"
     },
     {
       "added_at": "2021-10-22 11:07:27",

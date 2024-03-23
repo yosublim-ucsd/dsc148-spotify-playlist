@@ -1,12 +1,12 @@
 {
   "description": "Drive slow homie. cover: Big Tymers",
-  "num_followers": 1055876,
+  "num_followers": 1056060,
   "original_name": "Hip-Hop Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODE5MjJjM2VlY2I0OTk5YzA2ZmUyMjM2YzZhOGU1OWY1M2U4YmQy",
+  "snapshot_id": "MCxjYjkxM2FmZjNkYmE5ZGU2YmQzYjZlNDEwOWRiZjVmNjc5MTVhMjhj",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 257690,
-      "name": "Best I Ever Had",
-      "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 222293,
       "name": "Forgot About Dre",
       "url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 257690,
+      "name": "Best I Ever Had",
+      "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -422,11 +422,15 @@
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 293053,
-      "name": "Don't Matter",
-      "url": "https://open.spotify.com/track/7I6DceMT3utDOHjcYCbrr4"
+      "duration_ms": 247066,
+      "name": "I Wanna Love You",
+      "url": "https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -598,15 +602,11 @@
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 247066,
-      "name": "I Wanna Love You",
-      "url": "https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc"
+      "duration_ms": 293053,
+      "name": "Don't Matter",
+      "url": "https://open.spotify.com/track/7I6DceMT3utDOHjcYCbrr4"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "The Good Times",
-        "url": "https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0"
-      },
-      "artists": [
-        {
-          "name": "Afroman",
-          "url": "https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Because I Got High",
-      "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "The Real Testament",
         "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 188493,
       "name": "Hypnotized (feat. Akon)",
       "url": "https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "The Good Times",
+        "url": "https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0"
+      },
+      "artists": [
+        {
+          "name": "Afroman",
+          "url": "https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Because I Got High",
+      "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Strange Clouds",
-        "url": "https://open.spotify.com/album/7qqCw47pAWFzhwTpVRd0zE"
-      },
-      "artists": [
-        {
-          "name": "B.o.B",
-          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
-        }
-      ],
-      "duration_ms": 213253,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/28GUjBGqZVcAV4PHSYzkj2"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Lupe Fiasco's Food & Liquor",
         "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 234306,
       "name": "Daydreamin' (feat. Jill Scott)",
       "url": "https://open.spotify.com/track/50M2QjfSM82wkJ1d0iV4mh"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Strange Clouds",
+        "url": "https://open.spotify.com/album/7qqCw47pAWFzhwTpVRd0zE"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        }
+      ],
+      "duration_ms": 213253,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/28GUjBGqZVcAV4PHSYzkj2"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1375,18 +1375,26 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Lupe Fiasco's Food & Liquor",
-        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
+        "name": "On Top Of Our Game",
+        "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
       },
       "artists": [
         {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          "name": "Dem Franchize Boyz",
+          "url": "https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq"
+        },
+        {
+          "name": "Peanut",
+          "url": "https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP"
+        },
+        {
+          "name": "Charlay",
+          "url": "https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz"
         }
       ],
-      "duration_ms": 254466,
-      "name": "Kick, Push",
-      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
+      "duration_ms": 229813,
+      "name": "Lean Wit It, Rock Wit It",
+      "url": "https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1419,26 +1427,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "On Top Of Our Game",
-        "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
+        "name": "Lupe Fiasco's Food & Liquor",
+        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
       },
       "artists": [
         {
-          "name": "Dem Franchize Boyz",
-          "url": "https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq"
-        },
-        {
-          "name": "Peanut",
-          "url": "https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP"
-        },
-        {
-          "name": "Charlay",
-          "url": "https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz"
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
         }
       ],
-      "duration_ms": 229813,
-      "name": "Lean Wit It, Rock Wit It",
-      "url": "https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm"
+      "duration_ms": 254466,
+      "name": "Kick, Push",
+      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Doctor's Advocate",
-        "url": "https://open.spotify.com/album/0GKZO3H9pNVgTuhwCJ7TJp"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "Let's Ride",
-      "url": "https://open.spotify.com/track/4JKwW0A2OQeAUpYZd99Lfo"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 288800,
       "name": "Bitches Ain't Shit",
       "url": "https://open.spotify.com/track/22763wCAdRd1wwwCN3CU8u"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Doctor's Advocate",
+        "url": "https://open.spotify.com/album/0GKZO3H9pNVgTuhwCJ7TJp"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "Let's Ride",
+      "url": "https://open.spotify.com/track/4JKwW0A2OQeAUpYZd99Lfo"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -2443,6 +2443,26 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "Let's Get It: Thug Motivation 101",
+        "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Mannie Fresh",
+          "url": "https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1"
+        }
+      ],
+      "duration_ms": 245480,
+      "name": "And Then What",
+      "url": "https://open.spotify.com/track/5EoobjvWYSRwoPnhRojf5c"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "Ghetto Fabolous",
         "url": "https://open.spotify.com/album/6hl66Nlqoeppdm0dRpYA02"
       },
@@ -2459,26 +2479,6 @@
       "duration_ms": 306440,
       "name": "Can't Deny It (feat. Nate Dogg)",
       "url": "https://open.spotify.com/track/7K4Aq4awgYvDKEJdEvvl4j"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Let's Get It: Thug Motivation 101",
-        "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
-      },
-      "artists": [
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 253840,
-      "name": "Go Crazy (Remix)",
-      "url": "https://open.spotify.com/track/3iUnagQlUtjjCNQ3us3lPi"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -2572,13 +2572,13 @@
           "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
         },
         {
-          "name": "Mannie Fresh",
-          "url": "https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 245480,
-      "name": "And Then What",
-      "url": "https://open.spotify.com/track/5EoobjvWYSRwoPnhRojf5c"
+      "duration_ms": 253840,
+      "name": "Go Crazy (Remix)",
+      "url": "https://open.spotify.com/track/3iUnagQlUtjjCNQ3us3lPi"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -2811,22 +2811,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "John P. Kelly",
-        "url": "https://open.spotify.com/album/5gY77QhEAvYAjYBN0WgEv0"
-      },
-      "artists": [
-        {
-          "name": "Mr. Cheeks",
-          "url": "https://open.spotify.com/artist/0UeVxCKyBypjQvDCT889zt"
-        }
-      ],
-      "duration_ms": 261026,
-      "name": "Lights, Camera, Action!",
-      "url": "https://open.spotify.com/track/36gOOIQaBwXZVKL5z2vC3Z"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Let's Get It: Thug Motivation 101",
         "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
       },
@@ -2859,6 +2843,22 @@
       "duration_ms": 257466,
       "name": "Bonnie & Shyne (feat. Barrington Levy)",
       "url": "https://open.spotify.com/track/0UmIdWRGDL5gkXnqG9ZozM"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "John P. Kelly",
+        "url": "https://open.spotify.com/album/5gY77QhEAvYAjYBN0WgEv0"
+      },
+      "artists": [
+        {
+          "name": "Mr. Cheeks",
+          "url": "https://open.spotify.com/artist/0UeVxCKyBypjQvDCT889zt"
+        }
+      ],
+      "duration_ms": 261026,
+      "name": "Lights, Camera, Action!",
+      "url": "https://open.spotify.com/track/36gOOIQaBwXZVKL5z2vC3Z"
     },
     {
       "added_at": "2022-12-09 05:00:00",

@@ -1142,10 +1142,28 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 168026,
       "name": "Gonna Fly Now - From \"Rocky\" Soundtrack / Remastered 2006",
       "url": "https://open.spotify.com/track/5dulYd9AKIprMoF837OTDb"
+    },
+    {
+      "album": {
+        "name": "Rocky (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6GfrOuXqJrJjcldIstEz6A"
+      },
+      "artists": [
+        {
+          "name": "Bill Conti",
+          "url": "https://open.spotify.com/artist/272ygo5fv9cYsiCLcV0HV2"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "Gonna Fly Now - Theme From \"Rocky\"",
+      "url": "https://open.spotify.com/track/7iXYRR70wewzVYzWScm99j"
     },
     {
       "album": {

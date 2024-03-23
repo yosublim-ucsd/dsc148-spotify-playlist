@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 9,568 likes - 52 songs - 2 hr 40 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 9,583 likes - 52 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 21 | [Boombox](https://open.spotify.com/track/09txsNY9Z8Joc5RYItULsx) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [Boombox](https://open.spotify.com/album/5AqTguQFANFZYkCUu4zJD6) | 2:49 |
 | 22 | [Let The Music Play](https://open.spotify.com/track/6fiQRSsYBRrRY8E2aF4OsJ) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [Let The Music Play](https://open.spotify.com/album/49n1eZ66oABQryYB5EM9FU) | 3:04 |
 | 23 | [You Ate That](https://open.spotify.com/track/7yzQDORKaih65753uwmR89) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [You Ate That](https://open.spotify.com/album/56zqI47aElXbKYSaJ6Ebzq) | 3:16 |
-| 24 | [Vai Caralho \- Do togo](https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Vai Caralho \(Do togo\)](https://open.spotify.com/album/4bxHE4s7X3LQwPGVS4CqmN) | 3:08 |
+| 24 | [Vai Caralho \(Do togo\)](https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Vai Caralho \(Do togo\)](https://open.spotify.com/album/4bxHE4s7X3LQwPGVS4CqmN) | 3:08 |
 | 25 | [Addicted \- Radio Edit](https://open.spotify.com/track/0fJiKsn6LJP1TkCc5mrNM2) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [Addicted / Bodylock](https://open.spotify.com/album/1ELHUuqTpnDjXOuknjVkTF) | 4:32 |
 | 26 | [Underwater](https://open.spotify.com/track/6pOSx27uLkZBE75JBEWFiE) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Underwater](https://open.spotify.com/album/4OZkLa9YRSDHvL0jQ8jwyv) | 3:00 |
 | 27 | [You On My Mind A Lot](https://open.spotify.com/track/1J4H1G61STqSy3G6gQ1M0r) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [You On My Mind A Lot](https://open.spotify.com/album/7rW4yWJuSxMAAKAE8VWKNs) | 3:04 |

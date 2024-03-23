@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 29021,
+  "num_followers": 29025,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDE3NGM4OWRjMDA1NTJmNTA0NmZlMDg4NWQyNzQ0YmE1MTg3MWZi",
+  "snapshot_id": "MCwxODU5Y2IyMWIyYjk0YmUxZmMwYTllOWIwZDQ0MWFiNjllZmMzM2Ew",
   "tracks": [
     {
       "added_at": "2024-01-11 23:01:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Save Room - Live from Spotify Milan",
-      "url": "https://open.spotify.com/track/38yNO4vxCC5YDB2orOwGpu"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "MTV Unplugged No. 2.0",
         "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 226666,
       "name": "I Remember - Live",
       "url": "https://open.spotify.com/track/7vXnfKmzcCXJgRei61vmIc"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Save Room - Live from Spotify Milan",
+      "url": "https://open.spotify.com/track/38yNO4vxCC5YDB2orOwGpu"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 180551,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Live At The Jazz Cafe, London",
         "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Life on Planet Groove",
-        "url": "https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA"
       },
       "artists": [
         {
-          "name": "Maceo Parker",
-          "url": "https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 225893,
-      "name": "I Got You (I Feel Good)",
-      "url": "https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO"
+      "duration_ms": 180551,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1127,6 +1111,22 @@
       "duration_ms": 273933,
       "name": "I Keep Forgettin' (Live)",
       "url": "https://open.spotify.com/track/2plDIEBv98sy230M3cnPim"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Life on Planet Groove",
+        "url": "https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7"
+      },
+      "artists": [
+        {
+          "name": "Maceo Parker",
+          "url": "https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC"
+        }
+      ],
+      "duration_ms": 225893,
+      "name": "I Got You (I Feel Good)",
+      "url": "https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 539920,
-      "name": "Lady - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/3r9ImE86a6Fl6O8jCQDxuB"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Curtis Live! (US Release)",
         "url": "https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 227026,
       "name": "People Get Ready - Live at The Bitter End, NYC",
       "url": "https://open.spotify.com/track/5fN60U114jgzi8TfhIDcpK"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 539920,
+      "name": "Lady - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/3r9ImE86a6Fl6O8jCQDxuB"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 645040,
-      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "One Nite Alone... The Aftershow: It Ain't Over! (Up Late with Prince & The NPG) [Live]",
         "url": "https://open.spotify.com/album/4cnxxYwMvBQN4LGEq2nKVq"
       },
@@ -1327,6 +1311,38 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
+        "name": "Grow (Live)",
+        "url": "https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 182117,
+      "name": "Grow - Live",
+      "url": "https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 645040,
+      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
         "name": "Stompin' At The Savoy",
         "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 336440,
       "name": "You Got the Love - Live Version",
       "url": "https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Grow (Live)",
-        "url": "https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 182117,
-      "name": "Grow - Live",
-      "url": "https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Aretha Live at Fillmore West",
-        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Don't Play That Song - Live at Fillmore West, San Francisco, February 5, 1971",
-      "url": "https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Live From San Francisco",
         "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 295306,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Aretha Live at Fillmore West",
+        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Don't Play That Song - Live at Fillmore West, San Francisco, February 5, 1971",
+      "url": "https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "In Performance",
-        "url": "https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 348240,
-      "name": "A Song for You - Live at the Troubador, Los Angeles, CA",
-      "url": "https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Live In Stockholm",
         "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
       },
@@ -1475,18 +1459,34 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
-        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
+        "name": "In Performance",
+        "url": "https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 299938,
-      "name": "You Don't Know My Name (Live From Allianz Parque Sao Paulo Brazil)",
-      "url": "https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8"
+      "duration_ms": 348240,
+      "name": "A Song for You - Live at the Troubador, Los Angeles, CA",
+      "url": "https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "One Night Only (Live At The Royal Albert Hall / 02 April 2018)",
+        "url": "https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 220672,
+      "name": "Hey Laura - Live At The Royal Albert Hall / 02 April 2018",
+      "url": "https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "One Night Only (Live At The Royal Albert Hall / 02 April 2018)",
-        "url": "https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun"
+        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
+        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 220672,
-      "name": "Hey Laura - Live At The Royal Albert Hall / 02 April 2018",
-      "url": "https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s"
+      "duration_ms": 299938,
+      "name": "You Don't Know My Name (Live From Allianz Parque Sao Paulo Brazil)",
+      "url": "https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "Add To Me - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 236026,
       "name": "Feeling Good - Live",
       "url": "https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "Add To Me - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
     },
     {
       "added_at": "2024-01-11 23:01:00",

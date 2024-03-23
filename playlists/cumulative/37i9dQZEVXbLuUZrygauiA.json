@@ -6876,7 +6876,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 192786,
       "name": "CONTIGO (with Ti\u00ebsto)",
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
@@ -10918,7 +10918,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 190322,
       "name": "EMPELOTICA",
       "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
@@ -12071,6 +12071,24 @@
     },
     {
       "album": {
+        "name": "FBI",
+        "url": "https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152773,
+      "name": "FBI",
+      "url": "https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV"
+    },
+    {
+      "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
       },
@@ -12466,7 +12484,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 223186,
       "name": "Flores Amarillas",
       "url": "https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe"
@@ -16300,6 +16318,28 @@
       "duration_ms": 233404,
       "name": "La Octava Maravilla - En Vivo",
       "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
+    },
+    {
+      "album": {
+        "name": "La People 2.0",
+        "url": "https://open.spotify.com/album/1F9BxIeHkDlb6jELwbz5G3"
+      },
+      "artists": [
+        {
+          "name": "Joel Doble P",
+          "url": "https://open.spotify.com/artist/1UD8doomrLZbPy2gVzyj8J"
+        },
+        {
+          "name": "Cuarto 16",
+          "url": "https://open.spotify.com/artist/2DkL9J0niaA4H2v7Qquzyv"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85545,
+      "name": "La People 2.0",
+      "url": "https://open.spotify.com/track/5NlAOhfm49dw2rgniuWIrx"
     },
     {
       "album": {
@@ -23953,7 +23993,7 @@
     },
     {
       "album": {
-        "name": "Patadas de Ahogado / LATIN MAFIA (Rework)",
+        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
         "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
       },
       "artists": [
@@ -23966,7 +24006,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186341,
-      "name": "Patadas de Ahogado / LATIN MAFIA - Rework",
+      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
@@ -24696,7 +24736,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 127689,
       "name": "Poison - Hazbin Hotel Original Soundtrack",
       "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"

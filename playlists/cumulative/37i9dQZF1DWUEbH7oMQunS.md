@@ -4,7 +4,7 @@
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-153 songs - 10 hr 36 min
+154 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Dawn](https://open.spotify.com/track/6Qq9sLJvJhDjwoRMZSLHuP) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes of Wonder](https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV) | 2:31 | 2023-07-28 |  |
 | [Dirty And Left Out](https://open.spotify.com/track/1SLJG1GJq87z1OKOn8YYNX) | [The Almost](https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr) | [Southern Weather](https://open.spotify.com/album/5NtcxePyijMGPbFfmv5LgA) | 3:42 | 2018-02-14 | 2023-07-29 |
 | [Dreams](https://open.spotify.com/track/1LbPuFrhTY3mwrIvOGGWRn) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Dreams](https://open.spotify.com/album/6d9lh8EoMSl1jmucqyoerC) | 4:48 | 2018-07-07 | 2023-07-29 |
-| [dust to dust/lose myself \(undone\)](https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [undone](https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z) | 4:51 | 2023-07-28 |  |
+| [dust to dust/lose myself \(undone\)](https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [undone](https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z) | 4:51 | 2023-07-28 | 2024-03-23 |
 | [Even Here Love Comes \- Acoustic](https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo), [Teresa Bitoy](https://open.spotify.com/artist/7gFgT2PK2y409Y3Im8B8g2) | [Even Here Love Comes](https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc) | 4:27 | 2023-07-28 | 2024-03-13 |
 | [Every Mountain View](https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh) | [Carinthia](https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU) | [Fields](https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s) | 6:51 | 2018-02-14 |  |
 | [Faith Fall \- pensive piano](https://open.spotify.com/track/2WbFoLk3VvAPhh0WZcXYMr) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Faith Fall](https://open.spotify.com/album/1XGzyIA05w1nyRg2MK2qy9) | 4:18 | 2023-07-28 | 2024-02-05 |
@@ -77,6 +77,7 @@
 | [I Go](https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D) | [WILLO](https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N) | [Eternal Jetlag](https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk) | 3:56 | 2023-07-28 |  |
 | [I Will Remember](https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [I Will Remember](https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB) | 5:51 | 2023-07-28 |  |
 | [I Won't Let Go](https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [I Won't Let Go](https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn) | 3:52 | 2023-07-28 | 2024-03-02 |
+| [I Won't Let Go](https://open.spotify.com/track/706slEZ03AMqpvUAAI95zs) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [I Won't Let Go](https://open.spotify.com/album/2VA6K5Fan0mXPpBuZs5ZBv) | 3:52 | 2023-07-28 |  |
 | [Into The Sea](https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn) | [Port Blue](https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY) | [The Albatross EP](https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H) | 2:22 | 2018-02-14 |  |
 | [Jesus Is\_\_\_.](https://open.spotify.com/track/1ilsVjIPYIxPyjunBeDFLP) | [The City Church](https://open.spotify.com/artist/6HWUXnbMgWLWzkQAiTb4MZ) | [Jesus Is\_\_\_\. Music Project](https://open.spotify.com/album/05hvkkM29nIor7aT515II2) | 4:37 | 2018-02-14 |  |
 | [Jesus My Beloved](https://open.spotify.com/track/4EsYYFhkGUz9kxjQzMx1D3) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Kindred Worship](https://open.spotify.com/artist/1oOjYMuuEgcp5h2bawP47T) | [Songs from Home](https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP) | 5:07 | 2023-07-28 |  |

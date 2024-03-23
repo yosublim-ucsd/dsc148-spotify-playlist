@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 25366,
+  "2024-03-23": 25380,
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: southstar",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Jazeek",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -2714,6 +2714,24 @@
     },
     {
       "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/22t6nu9vCexm0YmvteIGp7"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172363,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/2bcmJLy2ulWs3jkfQBTwhl"
+    },
+    {
+      "album": {
         "name": "Lipsticks & Heartbreaks",
         "url": "https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc"
       },
@@ -3633,7 +3651,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 196721,
       "name": "Paula",
       "url": "https://open.spotify.com/track/5WgCx3Lcq48Vj2kJUYmK8I"
@@ -4149,7 +4167,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 150000,
       "name": "sie",
       "url": "https://open.spotify.com/track/6QqeFkSVC1e5sfdfY68mb5"
@@ -4973,6 +4991,24 @@
       "duration_ms": 163026,
       "name": "Utopie",
       "url": "https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm"
+    },
+    {
+      "album": {
+        "name": "viele",
+        "url": "https://open.spotify.com/album/4as6aHBiCwqiaXzxuIGz7A"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219142,
+      "name": "viele",
+      "url": "https://open.spotify.com/track/38zw0z87YOu2zDY2DbgiyV"
     },
     {
       "album": {

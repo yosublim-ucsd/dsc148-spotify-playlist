@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,413 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,417 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 22 | [Nikizipata](https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nikizipata](https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4) | 3:00 |
 | 23 | [Mamu Remix \- Remix](https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Mr Blue](https://open.spotify.com/artist/6LZKOSFfFwfHgZAYXmbfi9) | [Mamu Remix](https://open.spotify.com/album/0BLcM5UfOvQHCmDTHSfdkK) | 6:11 |
 | 24 | [Hainaga Ushemeji](https://open.spotify.com/track/2OoeAMK3VrCOGEgXYGRhCv) | [Man Fongo](https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4) | [Hainaga Ushemeji](https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6) | 4:56 |
-| 25 | [Kama Ujui Utajua](https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Kama Ujui Utajua](https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs) | 3:59 |
-| 26 | [We Nani](https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [We Nani](https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0) | 4:14 |
+| 25 | [We Nani](https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [We Nani](https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0) | 4:14 |
+| 26 | [Kama Ujui Utajua](https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Kama Ujui Utajua](https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs) | 3:59 |
 | 27 | [Naumia](https://open.spotify.com/track/28qsyjBi4t7aD1yGsE030F) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN) | [Naumia](https://open.spotify.com/album/70hchTWlKZnkowXc624R7v) | 3:44 |
 | 28 | [Chawa](https://open.spotify.com/track/5pLhsPqqPdySGA0nOxkHmO) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Chawa](https://open.spotify.com/album/3Lh0ZnfFmi3uaGZ4mVjeo7) | 4:14 |
 | 29 | [Nimegonga](https://open.spotify.com/track/4SeJF14PnQOeCr5OM4Yqwj) | [Kayumba](https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk) | [Sweet Pain](https://open.spotify.com/album/7reN9E16zjBQdFnsUJnpbj) | 3:42 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 43 | [Stress](https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg) | [Balaa MC](https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL) | [Stress](https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD) | 4:12 |
 | 44 | [Status](https://open.spotify.com/track/7qk0HfhXHEYQQzoZ6caYQM) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Status](https://open.spotify.com/album/1mt4GI9A1Msw42jevPqCqk) | 4:08 |
 | 45 | [Siyo Shida Zangu](https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Siyo Shida Zangu](https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI) | 3:59 |
-| 46 | [Shobo](https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Shobo](https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ) | 3:06 |
-| 47 | [Sina](https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Sina](https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu) | 4:58 |
+| 46 | [Sina](https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Sina](https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu) | 4:58 |
+| 47 | [Shobo](https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Shobo](https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ) | 3:06 |
 | 48 | [Nimejipata](https://open.spotify.com/track/2WKTNo9OCQi87dmFs4CJfq) | [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Nimejipata](https://open.spotify.com/album/3llT7bD0ZmJ0GmGJ213gCH) | 4:51 |
 | 49 | [Linga Linga \- feat\. Makaveli](https://open.spotify.com/track/0SdkwQbcTyK99k3jExpWre) | [Bamba Pana, Makaveli](https://open.spotify.com/artist/5pNtipGqlJhqyNscXUwaST) | [Poaa](https://open.spotify.com/album/4SkM8MD6ClaCC3e8ePKehm) | 4:38 |
 | 50 | [Kijumbe](https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Kijumbe](https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 74 | [Kwampalange](https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi) | [MPM Mshamba](https://open.spotify.com/artist/4goaGLkAElWhEltQeiJmKB), [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U) | [Kwampalange](https://open.spotify.com/album/04hyzfw6DPX7ueXed6hxB1) | 3:39 |
 | 75 | [Motoni Kumedamshi](https://open.spotify.com/track/3eCOOpxrRmvg75JbRW3pwG) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Motoni Kumedamshi](https://open.spotify.com/album/17ZjsAclkfC2OGlx5Xt6nc) | 4:10 |
 
-Snapshot ID: `MCwwNTE5ZGE0NGNkMmUzZTRjOWQyNGExYWM3YTIwMmEyYmZlZGY4MTU2`
+Snapshot ID: `MCw4YzYzMjZiNDlkZjRkNzBmMDkxMTAxYjVhZTUzM2M0NjZlZTYyNDI4`

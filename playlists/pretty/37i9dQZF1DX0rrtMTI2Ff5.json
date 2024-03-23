@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos internacionales que no pasan de moda.\nPara novedades, escucha <a href=\"spotify:playlist:37i9dQZF1DX6aTaZa0K6VA\">Pop Up</a>.",
-  "num_followers": 264476,
+  "num_followers": 264571,
   "original_name": "In English: Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTQxMDJjMDcxZTRmMjMzMTU2ZjhkMjIzMTgyYmQzNjc5YjM0NmQy",
+  "snapshot_id": "MCxhMjFkMDQ1MmI1OWIzYTIzODVmYjIxYjRlNzViYTc2OWI1MDg1M2Y2",
   "tracks": [
     {
       "added_at": "2024-02-15 19:51:59",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-02-15 19:51:59",
       "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
-    },
-    {
-      "added_at": "2024-02-15 19:51:59",
-      "album": {
         "name": "lovely (with Khalid)",
         "url": "https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 200185,
       "name": "lovely (with Khalid)",
       "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
+    },
+    {
+      "added_at": "2024-02-15 19:51:59",
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
       "added_at": "2024-02-15 19:51:59",
@@ -247,18 +247,18 @@
     {
       "added_at": "2024-02-15 19:51:59",
       "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 257265,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
+      "duration_ms": 243836,
+      "name": "goosebumps",
+      "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
     },
     {
       "added_at": "2024-02-15 19:51:59",
@@ -295,18 +295,18 @@
     {
       "added_at": "2024-02-15 19:51:59",
       "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+        "name": "Native",
+        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 243836,
-      "name": "goosebumps",
-      "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
+      "duration_ms": 257265,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
     },
     {
       "added_at": "2024-02-15 19:51:59",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-02-15 19:51:59",
       "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+    },
+    {
+      "added_at": "2024-02-15 19:51:59",
+      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 232106,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
-    },
-    {
-      "added_at": "2024-02-15 19:51:59",
-      "album": {
-        "name": "Illuminate",
-        "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Treat You Better",
-      "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
     },
     {
       "added_at": "2024-02-15 19:51:59",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-02-15 19:51:59",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+        "name": "Illuminate",
+        "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 239600,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+      "duration_ms": 187973,
+      "name": "Treat You Better",
+      "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
     },
     {
       "added_at": "2024-02-15 19:51:59",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-02-15 19:51:59",
       "album": {
+        "name": "Silver Side Up",
+        "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 223840,
+      "name": "How You Remind Me",
+      "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
+    },
+    {
+      "added_at": "2024-02-15 19:51:59",
+      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2024-02-15 19:51:59",
       "album": {
-        "name": "Silver Side Up",
-        "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "How You Remind Me",
-      "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
-    },
-    {
-      "added_at": "2024-02-15 19:51:59",
-      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-02-15 19:51:59",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
-    },
-    {
-      "added_at": "2024-02-15 19:51:59",
-      "album": {
         "name": "Midnight Memories (Deluxe)",
         "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 245493,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+    },
+    {
+      "added_at": "2024-02-15 19:51:59",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
     },
     {
       "added_at": "2024-02-15 19:51:59",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-02-15 19:51:59",
       "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
-      "added_at": "2024-02-15 19:51:59",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2024-02-15 19:51:59",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 294573,
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
       "added_at": "2024-02-15 19:51:59",
@@ -1235,18 +1219,34 @@
     {
       "added_at": "2024-02-15 19:51:59",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 200786,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+      "duration_ms": 294573,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
+    },
+    {
+      "added_at": "2024-02-15 19:51:59",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
     },
     {
       "added_at": "2024-02-15 19:51:59",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-02-15 19:51:59",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
+      "duration_ms": 200786,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
     },
     {
       "added_at": "2024-02-15 19:51:59",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-02-15 19:51:59",
       "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
+    },
+    {
+      "added_at": "2024-02-15 19:51:59",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2024-02-15 19:51:59",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+        "name": "everything i wanted",
+        "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 235213,
-      "name": "Hey Ya!",
-      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
+      "duration_ms": 245425,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
     },
     {
       "added_at": "2024-02-15 19:51:59",
@@ -1519,22 +1535,6 @@
       "duration_ms": 237300,
       "name": "7 Years",
       "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
-    },
-    {
-      "added_at": "2024-02-15 19:51:59",
-      "album": {
-        "name": "everything i wanted",
-        "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 245425,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
     },
     {
       "added_at": "2024-02-15 19:51:59",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2024-02-15 19:51:59",
       "album": {
-        "name": "The Blueprint 3",
-        "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Empire State Of Mind",
-      "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"
-    },
-    {
-      "added_at": "2024-02-15 19:51:59",
-      "album": {
         "name": "Mail on Sunday",
         "url": "https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 231400,
       "name": "Low (feat. T-Pain)",
       "url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"
+    },
+    {
+      "added_at": "2024-02-15 19:51:59",
+      "album": {
+        "name": "The Blueprint 3",
+        "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 276920,
+      "name": "Empire State Of Mind",
+      "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"
     },
     {
       "added_at": "2024-02-15 19:51:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: BXKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,430 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,471 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 18 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
 | 19 | [Hunnids](https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Local Mvp](https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN) | 2:46 |
 | 20 | [7:00](https://open.spotify.com/track/7LJZyNjN5U0LdYSBQ9hlLz) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y \(Deluxe\)](https://open.spotify.com/album/272GPDEjWzJtyZfHDWFXBy) | 3:08 |
-| 21 | [Energy](https://open.spotify.com/track/1ubY35d8LtYvMHsgPo8pMc) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Energy](https://open.spotify.com/album/4Mp9Bl0tEW4uvhai8cMhmD) | 2:56 |
-| 22 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 |
+| 21 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 |
+| 22 | [Energy](https://open.spotify.com/track/1ubY35d8LtYvMHsgPo8pMc) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Energy](https://open.spotify.com/album/4Mp9Bl0tEW4uvhai8cMhmD) | 2:56 |
 | 23 | [Point and Kill](https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:05 |
 | 24 | [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 |
-| 25 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
-| 26 | [What's That?](https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [What's That?](https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X) | 3:27 |
+| 25 | [What's That?](https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [What's That?](https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X) | 3:27 |
+| 26 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
 | 27 | [Los Pollos Hermanos](https://open.spotify.com/track/6hlrui656yBRUb3qGkd5lH) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Los Pollos Hermanos](https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM) | 1:35 |
 | 28 | [What's Poppin](https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw) | 3:15 |
 | 29 | [Speed Of Plight](https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:00 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 44 | [Right Hand](https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Right Hand](https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq) | 2:45 |
 | 45 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
 | 46 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
-| 47 | [luvu222](https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [luvu222](https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5) | 1:50 |
-| 48 | [Closed Doors](https://open.spotify.com/track/7HLmj4xIlHt3lIQ6EB87nT) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq) | 2:48 |
+| 47 | [Closed Doors](https://open.spotify.com/track/7HLmj4xIlHt3lIQ6EB87nT) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq) | 2:48 |
+| 48 | [luvu222](https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [luvu222](https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5) | 1:50 |
 | 49 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 |
 | 50 | [Different](https://open.spotify.com/track/0a4s5QRpKF0sDDM2reNq60) | [JayG](https://open.spotify.com/artist/2ZfE7xelFGQyzQupgFGK5a) | [Different](https://open.spotify.com/album/4IpQl9BPbSECXL0Rj62gL2) | 2:33 |
 | 51 | [Leon the Professional](https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Leon the Professional](https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l) | 3:01 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 53 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
 | 54 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 |
 | 55 | [Come To Me](https://open.spotify.com/track/3dWjUncK6qSiFlf5qru1Aq) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Songs That Made Me Feel](https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR) | 3:08 |
-| 56 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 |
-| 57 | [Eye for an Eye](https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk) | [Benny Banks](https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg) | [Eye for an Eye](https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7) | 4:10 |
+| 56 | [Eye for an Eye](https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk) | [Benny Banks](https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg) | [Eye for an Eye](https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7) | 4:10 |
+| 57 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 |
 | 58 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 |
 | 59 | [All Alone](https://open.spotify.com/track/7h4WdSxVKr8uciqXs3zAXw) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Dré Six](https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4) | [48 Hours](https://open.spotify.com/album/7B8hgK92g5E2WnKkKjEzRp) | 2:27 |
 | 60 | [ROBOSHOTTA \(feat\. Burna Boy\)](https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [BLOCKBUSTA](https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN) | 2:05 |
 
-Snapshot ID: `MCxlOGFkOGM2OWVmZjcxNjlhNzFiODRjZTJjMWE1ZjM1ZmU4NWUxZTBk`
+Snapshot ID: `MCxiMmY0YjI3NzI2N2Y4M2Q1MTlkOGJhNTE5MjQxZDRlYjY2NzkwMzk5`

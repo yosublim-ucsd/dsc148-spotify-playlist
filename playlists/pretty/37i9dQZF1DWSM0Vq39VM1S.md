@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > Le rayon de soleil musical de votre matinée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,249 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,300 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 52 | [Summer Days](https://open.spotify.com/track/67P7QngMeXMuA1qi9JqlyG) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Please](https://open.spotify.com/album/4YiQZDTgl11xZyPKnIMhrQ) | 2:39 |
 | 53 | [Cherry](https://open.spotify.com/track/5cENc0N9NpJJB7FggcMjyS) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Troubadour](https://open.spotify.com/album/4GIeoRcpLeLwgxQK8jo183) | 3:21 |
 | 54 | [England Skies](https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [All in Time](https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW) | 3:55 |
-| 55 | [The Sweet Sound of You](https://open.spotify.com/track/09uY5LeSXSPKKH4LxI7byG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:57 |
+| 55 | [Your Heart Is As Black As Night](https://open.spotify.com/track/1EUj3EeDYX5yldkBXkNDJP) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA) | 2:42 |
 | 56 | [To Know Him Is To Love Him \- Live](https://open.spotify.com/track/1Nz1PPjU3ONNEgjg8Pkppg) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:25 |
-| 57 | [Your Heart Is As Black As Night](https://open.spotify.com/track/1EUj3EeDYX5yldkBXkNDJP) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA) | 2:42 |
+| 57 | [The Sweet Sound of You](https://open.spotify.com/track/09uY5LeSXSPKKH4LxI7byG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:57 |
 | 58 | [YaYaYa](https://open.spotify.com/track/4Gc1SJ7eN65EcTvDMPcCzz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/7pBCXayVLX3fkIDWtMAwOp) | 3:49 |
 | 59 | [How Can I Do](https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx) | [Anwar](https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud) | [Beautiful Sunrise](https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV) | 4:55 |
 | 60 | [Slow Running](https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Slow Running](https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF) | 4:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 74 | [I Do](https://open.spotify.com/track/3uDEamEvGTIcuZiwYtCWG1) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/7xUEy3UR5uGEv3JvfrXKdb) | 3:37 |
 | 75 | [bye bye](https://open.spotify.com/track/02q60trEKaNAa9oZbGFBW0) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [September Pack](https://open.spotify.com/album/7J1PKPKHqSQKuT3Q0NIgK5) | 3:18 |
 
-Snapshot ID: `MCw1MWYwOTBjNmJkNGE0NWI4MjM0ZjVhYjE1NGJjZjQ3Njk0NGZlYTg4`
+Snapshot ID: `MCw3NjQzYTc1NDZiZGFkMzQ2MzUwZGQzYTdjMTMxMGE3MDNkYTA1Mzcy`

@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,059 songs - 2 day 9 hr 37 min
+1,060 songs - 2 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Electricity](https://open.spotify.com/track/36SwDeUUDdqF2Wn2jySipw) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y) | [Electricity](https://open.spotify.com/album/3lKvQpxYFgvwrr1AkGu5LB) | 5:54 | 2020-09-21\* | 2020-10-10 |
 | [Element](https://open.spotify.com/track/4fr0TUNlNMjORHGnZX9DQs) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Element](https://open.spotify.com/album/0UA86CES1HFsAwEY5AXlLK) | 2:00 | 2022-10-28 | 2023-01-24 |
 | [Emancipation](https://open.spotify.com/track/4Dosclv6nmoBWiuAqozPLC) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [Emancipation](https://open.spotify.com/album/72TsSpZ4OZrlzL6GesxuVH) | 3:45 | 2020-12-18 | 2021-07-07 |
+| [Empty](https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Empty](https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ) | 3:18 | 2024-03-22 |  |
 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 | 2023-07-14 |  |
 | [ENERGY](https://open.spotify.com/track/6aIu2OsmzRP4PbHbelXgfp) | [EC Twins](https://open.spotify.com/artist/6QACkIioo2Na2EKEwJzCKK) | [Disco's Not Dead](https://open.spotify.com/album/2PvAFZBRCVqnkt5NEPbnBX) | 3:08 | 2020-09-21\* | 2021-02-06 |
 | [Energy](https://open.spotify.com/track/5CWGRrNRxRo0KXhMJuMm1S) | [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Energy](https://open.spotify.com/album/3UB0GAweplve4pzvsGooLf) | 3:28 | 2020-10-10 | 2021-09-11 |
@@ -885,7 +886,7 @@
 | [Take Me High](https://open.spotify.com/track/1EF8Ya2wALJOufB5VQAwtt) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Take Me High](https://open.spotify.com/album/45QHBYLqcIq50K0yCt43J7) | 4:15 | 2022-10-14 | 2023-01-27 |
 | [Take Me High](https://open.spotify.com/track/4gjN40eaGDu02UhcIB0mVi) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Take Me High](https://open.spotify.com/album/7B1o7ADGNrli4kqnxTH4fL) | 4:15 | 2022-09-16 | 2022-10-13 |
 | [Take My Hand](https://open.spotify.com/track/4KFFv2gYbZyltjKZ5hthIs) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Take My Hand](https://open.spotify.com/album/3oKJkuzvGc4z6w5jjchKJD) | 3:08 | 2021-03-11 | 2021-09-18 |
-| [Take Off](https://open.spotify.com/track/1Qew5n9FSPxpiqu0Og4R3J) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Take Off](https://open.spotify.com/album/350F8g1oIRWzdUs8gMfmsc) | 3:57 | 2024-03-04 |  |
+| [Take Off](https://open.spotify.com/track/1Qew5n9FSPxpiqu0Og4R3J) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Take Off](https://open.spotify.com/album/350F8g1oIRWzdUs8gMfmsc) | 3:57 | 2024-03-04 | 2024-03-23 |
 | [Take Your Time](https://open.spotify.com/track/3AygCrAj6TZZ6mGkcvD9To) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Take Your Time](https://open.spotify.com/album/6HBagEXptqThTlMQnxSchh) | 3:06 | 2021-02-06 | 2021-09-11 |
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2021-10-09 | 2022-05-07 |
 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 | 2021-08-21 | 2022-03-12 |

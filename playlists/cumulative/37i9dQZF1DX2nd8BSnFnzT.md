@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Ariah
 
-438 songs - 1 day 0 hr 29 min
+439 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Até Logo](https://open.spotify.com/track/7x4TWQ3JjclapCLi6pWoK8) | [Skarno](https://open.spotify.com/artist/0S5CzwLcxLkVECtBom3VUt) | [Até Logo](https://open.spotify.com/album/2epcjn2UFpoOEXqUXvGJjl) | 3:35 | 2023-07-21 |  |
 | [Até o Fim](https://open.spotify.com/track/7AAuFdDAEhvCXmmebu9mDQ) | [Romulo Carvalho](https://open.spotify.com/artist/2XdI20Vo2AXhYWhBskPGUM) | [Até o Fim](https://open.spotify.com/album/3S02qnCrBAmmF7dv6AQH9l) | 2:47 | 2022-01-14 | 2022-01-22 |
 | [Auto Falantes \- Ao Vivo](https://open.spotify.com/track/0r0kIpCJheafVzsKvVCEDo) | [Zander](https://open.spotify.com/artist/2U9BIqZBwHMRy5KspZpzt9) | [Zander no Estúdio Showlivre \- Brasa 10 Anos \(Ao Vivo\)](https://open.spotify.com/album/46SELteZDVec8Mi1227PBm) | 3:01 | 2022-10-14 | 2023-05-27 |
-| [Avenida Maruípe](https://open.spotify.com/track/5oV6CZy572puAUE31ic6cI) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Labirinto da Memória](https://open.spotify.com/album/3ojbSAA93Lx3Qdluf14is5) | 3:46 | 2024-01-12 |  |
+| [Avenida Maruípe](https://open.spotify.com/track/5oV6CZy572puAUE31ic6cI) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Labirinto da Memória](https://open.spotify.com/album/3ojbSAA93Lx3Qdluf14is5) | 3:46 | 2024-01-12 | 2024-03-23 |
 | [Baby Doll](https://open.spotify.com/track/7qt6r6TLB2UXT5T8yx0lcQ) | [EMERSSON RAMONE](https://open.spotify.com/artist/2A1JVXoWmLbwZektToFz5V) | [Baby Doll](https://open.spotify.com/album/0FbgpvCJvyBdUWfqVHI4Xf) | 2:48 | 2022-01-14 | 2022-01-22 |
 | [Bate Panela](https://open.spotify.com/track/13OJMd3V0nnIbm3R3fTpUd) | [Canto Cego](https://open.spotify.com/artist/6QTbpmAmWmgLk7O1cZlXin), [Marcão Baixada](https://open.spotify.com/artist/02Xp0I7fq1yPQa9980WCYJ) | [Bate Panela](https://open.spotify.com/album/69Nz7QQzQDs1crUYiXMsAs) | 3:00 | 2022-11-11 | 2023-01-21 |
 | [Bem Acompanhada](https://open.spotify.com/track/7FLA5HH8TKp8MIwkJJ6tdg) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts) | [Bem Acompanhada](https://open.spotify.com/album/1BATwZiFwFEX89v1lc7NmA) | 3:08 | 2022-09-17 | 2022-10-29 |
@@ -126,6 +126,7 @@
 | [Diz Pra Mim](https://open.spotify.com/track/2yHsmCovu6tuaq2avIKcz2) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG), [Bruno Faglioni](https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G) | [Ao Vivo Em Paranavaí \- Vol\. 1](https://open.spotify.com/album/4jgS1WLCGvyeCtxQjJB2Ob) | 3:33 | 2023-05-09 | 2023-12-15 |
 | [Diz Pra Mim](https://open.spotify.com/track/5HdSXcnJZXf871r9Om6Ra0) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG), [Bruno Faglioni](https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G) | [Ao Vivo Em Paranavaí](https://open.spotify.com/album/5nkSPHjYCHACWayk7NhYmd) | 3:33 | 2023-12-08 |  |
 | [Diz pra Mim / Sem Você](https://open.spotify.com/track/6vb5PT52GJKWh1OppKogUY) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG), [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Diz pra Mim / Sem Você](https://open.spotify.com/album/4lq1OnjIAJ2H7kqhaYI4wI) | 3:23 | 2023-03-10 | 2024-03-02 |
+| [DNA](https://open.spotify.com/track/6nQyfaj3FG6cCTbT9Rk8b1) | [Odair Jose](https://open.spotify.com/artist/3kUC3a0wTkjsdkJiytULkN) | [DNA](https://open.spotify.com/album/0mbJ9qSUKPm6jJ0jZli2F0) | 2:41 | 2024-03-22 |  |
 | [Do Nada Meu Tudo \(Jazzy Remix\)](https://open.spotify.com/track/5NNfVECIso4FnM0UnTYL5l) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w), [Tócaz](https://open.spotify.com/artist/2FMDbxdZ3FlMXC62BOebiQ) | [Do Nada Meu Tudo \(Jazzy Remix\)](https://open.spotify.com/album/797f5H1drLlLL7UJUG7DSD) | 4:13 | 2022-01-14 | 2022-01-22 |
 | [Dois Estranhos](https://open.spotify.com/track/33mkezmxRV63f3avjUMZyV) | [Lucas Andrade](https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm) | [Dois Estranhos](https://open.spotify.com/album/7al7JLOuUgxxZQ5Cwq5Eyc) | 3:11 | 2023-03-03 | 2023-04-29 |
 | [Duas Vidas Em Jogo](https://open.spotify.com/track/6YB8N8pPrXW84xgJ03Gu9E) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Diorama](https://open.spotify.com/artist/6E6B0NdJdBCZ0hVcFB4yNV) | [Duas Vidas Em Jogo](https://open.spotify.com/album/7nUDW1cWvea6dJyrY6s7Ol) | 3:10 | 2022-12-16 | 2024-01-13 |

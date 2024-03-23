@@ -1,12 +1,12 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. Julio Preciado en portada.",
-  "num_followers": 248502,
+  "num_followers": 248753,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjEzOTc3ZTQ5MTBkODFkYWFhZTEyYTYxMjc1Y2NiNzUxNWEzYTdi",
+  "snapshot_id": "MCw0N2YwMWFiYTI2MWZjZTljMDc2ZDQxYmJhYTI2Mjg0NTVhZTZkYTky",
   "tracks": [
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/2yHKjT0dQOZJQlyIATUXit"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
         "name": "Borracho Morir\u00e9",
         "url": "https://open.spotify.com/album/1Y9UJgmzXcYS2Eq3jOFhJu"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 149346,
       "name": "El An\u00f3nimo",
       "url": "https://open.spotify.com/track/1lHWO3zuDdyi1pXYFGaQmS"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
-        "name": "Mix movidas rom\u00e1nticas (USA)",
-        "url": "https://open.spotify.com/album/6XhzyrKMawpGgrMm32F70e"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 175706,
-      "name": "La cuca",
-      "url": "https://open.spotify.com/track/6fAgsEWreF327VmKHhKQYf"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Los 20 para Coleccionar",
-        "url": "https://open.spotify.com/album/61L7qffqpjWVCTbxjFS9QF"
-      },
-      "artists": [
-        {
-          "name": "Banda El Pueblito",
-          "url": "https://open.spotify.com/artist/15myS3NDS2iwVo2gyCl2rm"
-        }
-      ],
-      "duration_ms": 157520,
-      "name": "El Papalotito",
-      "url": "https://open.spotify.com/track/39TNrfFgNsQlSaVkMCW3Uv"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "Exitos De Banda M-1",
         "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
+        "name": "Los 20 para Coleccionar",
+        "url": "https://open.spotify.com/album/61L7qffqpjWVCTbxjFS9QF"
       },
       "artists": [
         {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+          "name": "Banda El Pueblito",
+          "url": "https://open.spotify.com/artist/15myS3NDS2iwVo2gyCl2rm"
         }
       ],
-      "duration_ms": 205813,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/2yHKjT0dQOZJQlyIATUXit"
+      "duration_ms": 157520,
+      "name": "El Papalotito",
+      "url": "https://open.spotify.com/track/39TNrfFgNsQlSaVkMCW3Uv"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
+        "name": "A Bailar Quebradita Y De Caballito",
+        "url": "https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie"
+      },
+      "artists": [
+        {
+          "name": "Banda Guadalajara Express",
+          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
+        }
+      ],
+      "duration_ms": 158632,
+      "name": "Tri Triki Tri Traka",
+      "url": "https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
         "name": "El Baile de la Cachucha",
         "url": "https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl"
       },
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
+        "name": "Mix movidas rom\u00e1nticas (USA)",
+        "url": "https://open.spotify.com/album/6XhzyrKMawpGgrMm32F70e"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 175706,
+      "name": "La cuca",
+      "url": "https://open.spotify.com/track/6fAgsEWreF327VmKHhKQYf"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
         "name": "Mis 20 Exitos Originales",
         "url": "https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 163186,
       "name": "Creo Estar So\u00f1ando",
       "url": "https://open.spotify.com/track/6LOJGtfyJW14lMEj06qxQZ"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
-        "name": "A Bailar Quebradita Y De Caballito",
-        "url": "https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie"
-      },
-      "artists": [
-        {
-          "name": "Banda Guadalajara Express",
-          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
-        }
-      ],
-      "duration_ms": 158632,
-      "name": "Tri Triki Tri Traka",
-      "url": "https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Lo Dejar\u00eda Todo",
-        "url": "https://open.spotify.com/album/1wCQwyB4zWv8aeKKEmX7RP"
-      },
-      "artists": [
-        {
-          "name": "La Incontenible Banda Astilleros",
-          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
-        }
-      ],
-      "duration_ms": 182439,
-      "name": "No Me Dejes Tan Solo",
-      "url": "https://open.spotify.com/track/0FDCMtJNlmnkR1L3Svh0MI"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "Que Se Mueran los Feos",
         "url": "https://open.spotify.com/album/6RJAp7Ez4quRbgJOpVnsTH"
       },
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Nos Pertenecemos",
-        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
+        "name": "Lo Dejar\u00eda Todo",
+        "url": "https://open.spotify.com/album/1wCQwyB4zWv8aeKKEmX7RP"
       },
       "artists": [
         {
-          "name": "Banda Torera Del Valle",
-          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+          "name": "La Incontenible Banda Astilleros",
+          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
         }
       ],
-      "duration_ms": 235554,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/67CMw3dhM3fsSeNxXgFqcL"
+      "duration_ms": 182439,
+      "name": "No Me Dejes Tan Solo",
+      "url": "https://open.spotify.com/track/0FDCMtJNlmnkR1L3Svh0MI"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1679,6 +1663,22 @@
       "duration_ms": 175995,
       "name": "El Baile Nuevo",
       "url": "https://open.spotify.com/track/7cG8NhUwc1NhxxcmIIiWbJ"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "Nos Pertenecemos",
+        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
+      },
+      "artists": [
+        {
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+        }
+      ],
+      "duration_ms": 235554,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/67CMw3dhM3fsSeNxXgFqcL"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Africanos Al Ataque",
-        "url": "https://open.spotify.com/album/05W649wdes7jKusqma34Gn"
-      },
-      "artists": [
-        {
-          "name": "Banda Torera Del Valle",
-          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "Ll\u00e9vame Rosas Y Olvida",
-      "url": "https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "Cosas De La Vida",
         "url": "https://open.spotify.com/album/1w5pqUdSrGOMgUbVVfb8Ri"
       },
@@ -1799,6 +1783,22 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
+      },
+      "artists": [
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "duration_ms": 227311,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/5yyuwY8ql8iiivBGWhsVow"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
         "name": "Andan Diciendo",
         "url": "https://open.spotify.com/album/6qUKk1LaIxXxEhww3ewPdg"
       },
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
+        "name": "Africanos Al Ataque",
+        "url": "https://open.spotify.com/album/05W649wdes7jKusqma34Gn"
       },
       "artists": [
         {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
         }
       ],
-      "duration_ms": 227311,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/5yyuwY8ql8iiivBGWhsVow"
+      "duration_ms": 205635,
+      "name": "Ll\u00e9vame Rosas Y Olvida",
+      "url": "https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "M\u00fasica Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD"
-      },
-      "artists": [
-        {
-          "name": "Jorge Luis Cabrera con Banda Tierra Blanca",
-          "url": "https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr"
-        }
-      ],
-      "duration_ms": 134186,
-      "name": "Estrellita Marinera",
-      "url": "https://open.spotify.com/track/0NatF9wNvUjWVOVGaYKDuf"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "Al Ataque",
         "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 189022,
       "name": "Hasta La Miel Amarga",
       "url": "https://open.spotify.com/track/0FpI0nJLp0xE9rSf2VE7PD"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "M\u00fasica Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD"
+      },
+      "artists": [
+        {
+          "name": "Jorge Luis Cabrera con Banda Tierra Blanca",
+          "url": "https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr"
+        }
+      ],
+      "duration_ms": 134186,
+      "name": "Estrellita Marinera",
+      "url": "https://open.spotify.com/track/0NatF9wNvUjWVOVGaYKDuf"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "M\u00fasica Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD"
-      },
-      "artists": [
-        {
-          "name": "Jorge Luis Cabrera con Banda Tierra Blanca",
-          "url": "https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr"
-        }
-      ],
-      "duration_ms": 143426,
-      "name": "Tus Desprecios",
-      "url": "https://open.spotify.com/track/1uuGSnwSJOJsNW9iN4uskZ"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "Solo Esta Vez, Con Sabor a Ca\u00f1a Verde",
         "url": "https://open.spotify.com/album/5g8cvuIjvCCR4cryxrhpfr"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 200015,
       "name": "Solo Esta Vez",
       "url": "https://open.spotify.com/track/50PKcjHSvh1oVjig3kC69k"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "M\u00fasica Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD"
+      },
+      "artists": [
+        {
+          "name": "Jorge Luis Cabrera con Banda Tierra Blanca",
+          "url": "https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr"
+        }
+      ],
+      "duration_ms": 143426,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/1uuGSnwSJOJsNW9iN4uskZ"
     },
     {
       "added_at": "2024-02-23 18:59:33",

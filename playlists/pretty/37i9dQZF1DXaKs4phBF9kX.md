@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,144 likes - 70 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,145 likes - 70 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 69 | [Don't Let Him Go](https://open.spotify.com/track/6UxGF7LGJ5qE0LJViSTsA2) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:45 |
 | 70 | [When It's Love](https://open.spotify.com/track/7gG1RvwQRrofiL3tvq8pBI) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [OU812](https://open.spotify.com/album/3KufjKt0L2EVahGfxOYJhg) | 5:37 |
 
-Snapshot ID: `MCw5OTk5MTQyYzZlNmZlZTIzMzg1MWE0MmM5YjA5YTQ3M2YzMmI4ODhh`
+Snapshot ID: `MCw1MzQwY2E2ODIyODM1NmIxOTc1NmY5ZDAzZDc1MTM3N2M1MDVlMjhh`

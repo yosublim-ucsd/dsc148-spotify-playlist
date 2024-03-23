@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : St Graal
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,332 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,351 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 19 | [ON EST LES MÊMES](https://open.spotify.com/track/4yWpqptuVmPra8Ua8Huwg8) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [ON EST LES MÊMES](https://open.spotify.com/album/4R937d2jBEIEij9ANYh7go) | 3:38 |
 | 20 | [KLNX](https://open.spotify.com/track/63cOm5jCSwyRG9szlKdBcC) | [Akira & le Sabbat](https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp) | [KLNX](https://open.spotify.com/album/7kDH9ZPKK5JhmWUUSR1lcj) | 3:30 |
 | 21 | [Paradis](https://open.spotify.com/track/7s5RBWSYciJ7N2zvhSKgOs) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Paradis](https://open.spotify.com/album/22BjV2YN9xoEPqwJKQ3GRU) | 2:51 |
-| 22 | [Z](https://open.spotify.com/track/72ICHo3ZgL8uUieTCdIpfF) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Z](https://open.spotify.com/album/7ndSxLdXc07HwAkQZoApye) | 2:59 |
+| 22 | [Z](https://open.spotify.com/track/2qHnWuRtnBLgumhptqdkLs) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Z](https://open.spotify.com/album/3xE9Bn8qRkX8JKJl0IdQJI) | 2:59 |
 | 23 | [Chromé total](https://open.spotify.com/track/732rPfESdrlQjJoeqtSOgm) | [Scuffles](https://open.spotify.com/artist/2FLeI069itvCLf9YBn6CpQ) | [Chromé total](https://open.spotify.com/album/1ZkKO0IVqwv6kO3M9d8yWK) | 3:12 |
 | 24 | [Pas si grave](https://open.spotify.com/track/5aJD07sT5Fya39NBNoMkEQ) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Pas si grave](https://open.spotify.com/album/6Zkx4Is6rymdYuBJdiuqOu) | 2:22 |
 | 25 | [Boule à facettes](https://open.spotify.com/track/6Q14MRNmR6ojGBpsXl465t) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Boule à facettes](https://open.spotify.com/album/57PMenm8EzPiBoKgCNxRwr) | 2:39 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 36 | [Rôles](https://open.spotify.com/track/2RihAENLznkliKDPEWV5qJ) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Rôles](https://open.spotify.com/album/3Obub0X33yuxKfEVvSAjXi) | 2:44 |
 | 37 | [Dannazione](https://open.spotify.com/track/3bgPcv0jVe1OSPwNe4VLzR) | [MaMaMa](https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw) | [Dannazione](https://open.spotify.com/album/77MBshYT8ncsvdWfOff8uq) | 2:53 |
 | 38 | [Gare à la nuit](https://open.spotify.com/track/4G6dlO9xjCklF062LILK7J) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [Gare à la nuit](https://open.spotify.com/album/2O4SxhHbq8BlWSV5mNyPG2) | 3:58 |
-| 39 | [babyBB](https://open.spotify.com/track/0W701OYHjDCdIs8G3LR5CJ) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [babyBB](https://open.spotify.com/album/3WMUtz1selQxoqGxCHbh7j) | 3:19 |
-| 40 | [My Way \(with Creams\)](https://open.spotify.com/track/5WvApuKcoXZL1FinExKsRq) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [My Way \(with Creams\)](https://open.spotify.com/album/1oWzOh4biDkSnj0ZITjuYo) | 3:14 |
-| 41 | [STUPID CUNT IN THE MALL](https://open.spotify.com/track/2Up0DUfJRoRkA7ynD50Xtl) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [STUPID CUNT IN THE MALL](https://open.spotify.com/album/4tnat0J4elDPH4C144xxxg) | 4:04 |
-| 42 | [Allo docteur](https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Allo docteur](https://open.spotify.com/album/3vGD4O0bt9YgtLZQ1R6JBk) | 2:44 |
-| 43 | [tu t'es laissé aller](https://open.spotify.com/track/14rgdz5CIyBtRaAc0tHN0I) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [trop de choses à prouver](https://open.spotify.com/album/3hzGGpG5isbfTez00TFkcG) | 2:39 |
-| 44 | [GROTSUNAMI](https://open.spotify.com/track/3SphPiIKHwnlCgAtBViaXU) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [GROTSUNAMI](https://open.spotify.com/album/3fMcKhyPKV3Snp09s2BuaB) | 2:03 |
-| 45 | [Mauvais Garçon](https://open.spotify.com/track/0b9cs1WibgvzNh6zIaljzw) | [Allo Christine](https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3) | [Mauvais Garçon](https://open.spotify.com/album/2xRuAm8VKXSMpbAjlqkCbW) | 2:51 |
-| 46 | [MÉTA DEUIL](https://open.spotify.com/track/0NyCKpKgai5U3iU5MazIld) | [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [MÉTA DEUIL](https://open.spotify.com/album/56HYXJHwbjFKk62U9CIZCv) | 2:54 |
-| 47 | [Music on Hold 4 Ever](https://open.spotify.com/track/67aBiXoZS81OmkaQtxXpc5) | [Music On Hold](https://open.spotify.com/artist/4iGtVI2ToIjWlynR8WPzda) | [4 Ever](https://open.spotify.com/album/7bda4KpVL4TQDDJt4qRaZO) | 3:08 |
-| 48 | [Papier cigarette](https://open.spotify.com/track/3mLFOvEDHJHAycMoaNJmVw) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Papier cigarette](https://open.spotify.com/album/6X0woy9fNpjofxlARrsc76) | 3:33 |
+| 39 | [My Way \(with Creams\)](https://open.spotify.com/track/5WvApuKcoXZL1FinExKsRq) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [My Way \(with Creams\)](https://open.spotify.com/album/1oWzOh4biDkSnj0ZITjuYo) | 3:14 |
+| 40 | [STUPID CUNT IN THE MALL](https://open.spotify.com/track/2Up0DUfJRoRkA7ynD50Xtl) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [STUPID CUNT IN THE MALL](https://open.spotify.com/album/4tnat0J4elDPH4C144xxxg) | 4:04 |
+| 41 | [Allo docteur](https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Allo docteur](https://open.spotify.com/album/3vGD4O0bt9YgtLZQ1R6JBk) | 2:44 |
+| 42 | [tu t'es laissé aller](https://open.spotify.com/track/14rgdz5CIyBtRaAc0tHN0I) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [trop de choses à prouver](https://open.spotify.com/album/3hzGGpG5isbfTez00TFkcG) | 2:39 |
+| 43 | [GROTSUNAMI](https://open.spotify.com/track/3SphPiIKHwnlCgAtBViaXU) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [GROTSUNAMI](https://open.spotify.com/album/3fMcKhyPKV3Snp09s2BuaB) | 2:03 |
+| 44 | [Mauvais Garçon](https://open.spotify.com/track/0b9cs1WibgvzNh6zIaljzw) | [Allo Christine](https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3) | [Mauvais Garçon](https://open.spotify.com/album/2xRuAm8VKXSMpbAjlqkCbW) | 2:51 |
+| 45 | [MÉTA DEUIL](https://open.spotify.com/track/0NyCKpKgai5U3iU5MazIld) | [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [MÉTA DEUIL](https://open.spotify.com/album/56HYXJHwbjFKk62U9CIZCv) | 2:54 |
+| 46 | [Music on Hold 4 Ever](https://open.spotify.com/track/67aBiXoZS81OmkaQtxXpc5) | [Music On Hold](https://open.spotify.com/artist/4iGtVI2ToIjWlynR8WPzda) | [4 Ever](https://open.spotify.com/album/7bda4KpVL4TQDDJt4qRaZO) | 3:08 |
+| 47 | [Papier cigarette](https://open.spotify.com/track/3mLFOvEDHJHAycMoaNJmVw) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Papier cigarette](https://open.spotify.com/album/6X0woy9fNpjofxlARrsc76) | 3:33 |
+| 48 | [babyBB](https://open.spotify.com/track/0W701OYHjDCdIs8G3LR5CJ) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [babyBB](https://open.spotify.com/album/3WMUtz1selQxoqGxCHbh7j) | 3:19 |
 | 49 | [Hooligan](https://open.spotify.com/track/5INfcVg4x5o8Qfo8LD0nvY) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Pop Sauvage](https://open.spotify.com/album/1HkAZ5h4jCXuRKa239zPuw) | 3:32 |
 | 50 | [Human](https://open.spotify.com/track/0eud4SBuWHvNdu7FEddykC) | [Nili Hadida](https://open.spotify.com/artist/6WEbJueFZyzOeg2O6oNPE9) | [Human vs Machine](https://open.spotify.com/album/1YjIR9gq3Q6PYnHq1kuKMf) | 3:04 |
 
-Snapshot ID: `MCxmOWQ3ZTlhYjA4ZjU4MjhlNDE3MDE2MjJlMjdlNDA0NDJiZDMwYWE5`
+Snapshot ID: `MCwyN2NiYzAxYzYyMDMyMmI0ZGUwZTI0OThlZmJhZDk2MWE3OGEwZTRl`

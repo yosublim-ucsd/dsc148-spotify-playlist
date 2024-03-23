@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "Dream Baby",
+        "url": "https://open.spotify.com/album/3IwClZfwpNZyHpbaS38D7V"
+      },
+      "artists": [
+        {
+          "name": "Taylor Moss",
+          "url": "https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217356,
+      "name": "Dream Baby",
+      "url": "https://open.spotify.com/track/0yrG3eeWvuj9DJkVPsYWpJ"
+    },
+    {
+      "album": {
         "name": "F-150",
         "url": "https://open.spotify.com/album/09m2n7rJs6daBxySqetJ9R"
       },
@@ -670,6 +688,24 @@
       "duration_ms": 172782,
       "name": "First Taste of Gone",
       "url": "https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48"
+    },
+    {
+      "album": {
+        "name": "Fixer Upper / CRZY",
+        "url": "https://open.spotify.com/album/56AIOeQtl7IA1MjMyFtyZu"
+      },
+      "artists": [
+        {
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187111,
+      "name": "Fixer Upper",
+      "url": "https://open.spotify.com/track/1zsOdeipHnfc4MdzvFpktu"
     },
     {
       "album": {
@@ -872,7 +908,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 172066,
       "name": "Grew up on That",
       "url": "https://open.spotify.com/track/1dwYdVvxMwMllDgwQuXMGs"
@@ -890,7 +926,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 219333,
       "name": "Handle On You",
       "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
@@ -1432,7 +1468,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 250533,
       "name": "Neon Moon",
       "url": "https://open.spotify.com/track/0cje0wIUCjbflvaUst6HPz"
@@ -2266,6 +2302,24 @@
       "duration_ms": 197293,
       "name": "The Bones",
       "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
+    },
+    {
+      "album": {
+        "name": "The Devil I've Seen",
+        "url": "https://open.spotify.com/album/1KAXeCYFOrQwZzQlpf0dnI"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203550,
+      "name": "The Devil I've Seen",
+      "url": "https://open.spotify.com/track/4MLomKQI0oeXO1DeJBiRp2"
     },
     {
       "album": {

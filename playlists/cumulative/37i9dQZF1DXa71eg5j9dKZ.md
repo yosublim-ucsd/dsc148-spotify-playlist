@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Logic1000
 
-942 songs - 2 day 18 hr 8 min
+943 songs - 2 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [Calling \(feat\. Ell Murphy\) \[Vocal Edit\]](https://open.spotify.com/track/7KcE6hhkk2cy2MHdMf8Xya) | [Gemi](https://open.spotify.com/artist/3KUQf69bdptSNDeotadJfm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Calling \(feat\. Ell Murphy\)](https://open.spotify.com/album/0rVL75Z6wCeIjjOh6qeMTa) | 3:30 | 2022-02-25 | 2022-06-24 |
 | [Calling Out](https://open.spotify.com/track/2dpE7B7usqDVM9By5hnHJW) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Calling Out](https://open.spotify.com/album/3xjBSN9UBdB5E1x7CBXUbg) | 4:41 | 2023-02-24 | 2023-03-31 |
 | [Can I See You Tonight \(Young Marco Remix\)](https://open.spotify.com/track/2T1nzOkomRGzHeqhEdtHi4) | [Miljon](https://open.spotify.com/artist/1cQDZ3vvObFtSUrCIxGig7), [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [Can I See You Tonight \(Young Marco Remix\)](https://open.spotify.com/album/4OOzvrWoqfLqGbv6hGO3iO) | 7:18 | 2022-07-14 | 2022-10-21 |
-| [Can't Let Go](https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Let Go](https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS) | 3:59 | 2024-03-22 |  |
+| [Can't Let Go](https://open.spotify.com/track/2WpiqjVC1CP89KVQfxOfol) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Mother](https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I) | 3:59 | 2024-03-22 |  |
+| [Can't Let Go](https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Let Go](https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS) | 3:59 | 2024-03-22 | 2024-03-23 |
 | [Can't Stop Thinking About](https://open.spotify.com/track/1xLQkOUvCKqAlFt974GTfn) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Stop Thinking About](https://open.spotify.com/album/3b3b2mY42N62Gr26cEncx6) | 3:28 | 2022-03-04 | 2022-06-10 |
 | [Can't Stop Thinking About You](https://open.spotify.com/track/4tJpauHivqhPUDrjFHDFMm) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Can’t Stop Thinking About You](https://open.spotify.com/album/75HTnkSTvIf4r4UtOjRLKo) | 3:45 | 2023-01-13 | 2023-05-19 |
 | [Can't we just have fun?](https://open.spotify.com/track/25Si5xf0LQCYVAF4sRKmua) | [Saoirse](https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX) | [Two Bruised Egos EP](https://open.spotify.com/album/2TpxUQw76IzcTDV9xGW7fQ) | 5:44 | 2022-04-29 | 2022-08-27 |

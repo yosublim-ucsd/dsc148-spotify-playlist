@@ -1,13 +1,33 @@
 {
   "description": "Only the hottest Hip Hop from Lucas Raps (pictured), Future & Metro Boomin', Big Sean and more...",
-  "num_followers": 72501,
+  "num_followers": 72534,
   "original_name": "Hip Hop Circle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjQ0N2RhZDQ1YTg2ZjcwMGQ0YzRiZGZkYzJhZWUwODViNTk4Y2Y2",
+  "snapshot_id": "MCxkMmY5YTI3OWQxMWJkMWZhOTc0ZGViNjY0ODgyNzM1MDhiNTFlN2Zi",
   "tracks": [
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Type Shit",
+      "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
+    },
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {

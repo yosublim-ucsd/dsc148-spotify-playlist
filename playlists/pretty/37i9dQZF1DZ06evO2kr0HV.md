@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 
 > This is Esteman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,171 likes - 49 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,185 likes - 49 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 19 | [Si Volviera A Nacer](https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:44 |
 | 20 | [Despertar](https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Despertar](https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L) | 3:15 |
 | 21 | [Baila](https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:42 |
-| 22 | [Todos Quieren Ser Un Gato Jazz](https://open.spotify.com/track/7JFMaCszgik6Ay4WWeG1i3) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Todos Quieren Ser Un Gato Jazz](https://open.spotify.com/album/2p5JOVWwNGDUOFsf6WKDRT) | 4:36 |
+| 22 | [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 |
 | 23 | [Extraños](https://open.spotify.com/track/4ATNybPTNGnSm1L7S1Prhl) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:52 |
-| 24 | [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 |
+| 24 | [Todos Quieren Ser Un Gato Jazz](https://open.spotify.com/track/7JFMaCszgik6Ay4WWeG1i3) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Todos Quieren Ser Un Gato Jazz](https://open.spotify.com/album/2p5JOVWwNGDUOFsf6WKDRT) | 4:36 |
 | 25 | [Para Siempre](https://open.spotify.com/track/7jrVi2QpvDGgmPr72w5xWf) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Para Siempre](https://open.spotify.com/album/4hA1fpxVbsZYw8CsxDEjdI) | 4:00 |
 | 26 | [Como Vez Primera](https://open.spotify.com/track/7akpZSIOBwaSDES0wS6ekC) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:33 |
 | 27 | [Hasta Que Tú Me Quieras](https://open.spotify.com/track/78PMNyj9nQ0GzWCgWLpWUr) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:57 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 48 | [A quién le importa \- Latin Pride Version by Juan Sueiro](https://open.spotify.com/track/1qlUwEvjwotC8lvju3rR3u) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lucrecia](https://open.spotify.com/artist/2lylnjEoxCfNCh8LU6BQ14), [Edith Salazar](https://open.spotify.com/artist/0WJz68BdO4VBwOom3W15EM), [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX), [Amparo Sandino](https://open.spotify.com/artist/3oegWGTjRuLbcou3oSUZ3C), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf), [NAIZA](https://open.spotify.com/artist/64tOF1AuYOTyd0JSDLTyo0), [Luna Manzanares](https://open.spotify.com/artist/6J4O8juzVNrJpZ0PNIGM6E), [Marcos French](https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc), [Sandra Love](https://open.spotify.com/artist/6G5tquDgGxnfOFjJ2ogXqm), [Juan Sueiro](https://open.spotify.com/artist/0zVeeM7NYxVYxb453RXcL8) | [A quién le importa](https://open.spotify.com/album/1iqyCZETxBHb57Mv4JqG1J) | 4:12 |
 | 49 | [Robot](https://open.spotify.com/track/0x5PPEuQpHzfYT9lx6AL9s) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [1er Acto](https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg) | 3:17 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBhN2NhNzhjNjVlYmFhODk5YmJkOTZiNDBhMDg1YTRiYg==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA3N2NkNjU3ZmQ3ZjVlMjlhOTkzOWMyOGYyZDEyODM1Ng==`

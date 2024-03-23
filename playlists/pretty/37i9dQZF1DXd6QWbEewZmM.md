@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,348 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,402 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 10 | [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 |
 | 11 | [Ella](https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 4:19 |
 | 12 | [Jugaste y Sufrí](https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 4:35 |
-| 13 | [Ojitos de Miel](https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 3:59 |
+| 13 | [Amor Fugaz](https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 2:55 |
 | 14 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 |
-| 15 | [Amor Fugaz](https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 2:55 |
+| 15 | [Ojitos de Miel](https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 3:59 |
 | 16 | [Y Cambió Mi Suerte](https://open.spotify.com/track/6O66RxXRZOfQSpgLEo65GO) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Y Cambió Mi Suerte](https://open.spotify.com/album/3CQHB0ViD8q0O385StFTq2) | 3:05 |
 | 17 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 |
 | 18 | [Por Las Noches](https://open.spotify.com/track/6YWME4xCa5Lm6X1exVMQIC) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Por Las Noches](https://open.spotify.com/album/2Pksd4k88XH1QENsu2vqeZ) | 3:58 |
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 25 | [Siempre Te Voy A Querer](https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 3:54 |
 | 26 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 |
 | 27 | [Labios Rojos](https://open.spotify.com/track/1NPk0Y7AkLvirhSg4oI0bM) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [La Empresa Music Presenta: Volando](https://open.spotify.com/album/5M4aigT49Vo7KHyB29dQjF) | 4:01 |
-| 28 | [Por Enamorarme](https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 2:56 |
+| 28 | [Fíjate Que Sí](https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Me Hiciste un Borracho](https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW) | 3:24 |
 | 29 | [Dias Nublados](https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 3:41 |
 | 30 | [SI SUPIERAS](https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:47 |
-| 31 | [Fíjate Que Sí](https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Me Hiciste un Borracho](https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW) | 3:24 |
+| 31 | [Por Enamorarme](https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 2:56 |
 | 32 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 |
 | 33 | [Te Perdonaría](https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Perdonaría](https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz) | 2:36 |
 | 34 | [Adueñarme](https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Adueñarme](https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF) | 3:03 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 88 | [Amor Con Detalle](https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Fases del Amor](https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5) | 3:36 |
 | 89 | [Tiempo](https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Tiempo](https://open.spotify.com/album/0YK6koGYXva8aceQpman6H) | 2:21 |
 | 90 | [Sigues Siendo Tu \- En vivo](https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 3:35 |
-| 91 | [Eres Tu / </3](https://open.spotify.com/track/4dhPazu6qCoo50c7bqq6IT) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Eres Tu / </3](https://open.spotify.com/album/6jnwwwk6qIVOmLRG6aCvDC) | 3:25 |
-| 92 | [Pensando En Ti](https://open.spotify.com/track/6XbfRfhfoAcwpArvTYKvpe) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Pensando En Ti](https://open.spotify.com/album/7fXMAtYUmRHuEK3vFQCMXN) | 3:59 |
+| 91 | [Pensando En Ti](https://open.spotify.com/track/6XbfRfhfoAcwpArvTYKvpe) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Pensando En Ti](https://open.spotify.com/album/7fXMAtYUmRHuEK3vFQCMXN) | 3:59 |
+| 92 | [Eres Tu / </3](https://open.spotify.com/track/4dhPazu6qCoo50c7bqq6IT) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Eres Tu / </3](https://open.spotify.com/album/6jnwwwk6qIVOmLRG6aCvDC) | 3:25 |
 | 93 | [Me Vas A Llorar](https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Vas A Llorar](https://open.spotify.com/album/5UirOXfLgjVDkz6FvuOSNa) | 4:19 |
 | 94 | [Desvelado](https://open.spotify.com/track/2BEVCbf561QZ5I9dWnqXCH) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Desvelado](https://open.spotify.com/album/7zHS91GU59Tlwo4RDkf7qD) | 3:55 |
 | 95 | [Esta noche](https://open.spotify.com/track/1nXvx83hxoYItv0S5ZGeNP) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 99 | [Que Me Fallo](https://open.spotify.com/track/1Np9UBGF8Mjhr6UqdhxMLX) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Que Me Fallo](https://open.spotify.com/album/3mIMczwXK7jgzsCTUhmUi0) | 4:02 |
 | 100 | [Piensa En Mi](https://open.spotify.com/track/2JSmFHR2FpruHXgF5udA1l) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Piensa En Mi](https://open.spotify.com/album/3QvltqphdmNGv93YoM310C) | 3:24 |
 
-Snapshot ID: `MCw4YjdiNGM1MjZmNzNmZTM3ZjkzM2FiNjhiZjQxYmI3N2Y1NmE1NGVj`
+Snapshot ID: `MCxjNTIxZWRhYjE4Mjg2ODhhZDY3ZmI3OTg1MmYxMGNkOGQyMzhjODRj`

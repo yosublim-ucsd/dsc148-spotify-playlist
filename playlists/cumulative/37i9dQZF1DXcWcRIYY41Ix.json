@@ -1987,6 +1987,28 @@
     },
     {
       "album": {
+        "name": "De Mi Pena Nacen Flores",
+        "url": "https://open.spotify.com/album/14AlQbVJZBcPehbS4Ud8Xx"
+      },
+      "artists": [
+        {
+          "name": "Moreira",
+          "url": "https://open.spotify.com/artist/7oprBrcyjELdAALY8hK9pr"
+        },
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241300,
+      "name": "Como la Primavera",
+      "url": "https://open.spotify.com/track/5C2VTZ3VN8xE04UViMEavj"
+    },
+    {
+      "album": {
         "name": "Como Un Amuleto",
         "url": "https://open.spotify.com/album/2qln21nT8RxwJWyJOhSgGU"
       },
@@ -3338,7 +3360,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 171000,
       "name": "El Primer Beso de Verdad",
       "url": "https://open.spotify.com/track/5QmV6BH60x7BLqYLrjCHcm"
@@ -3566,7 +3588,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 241058,
       "name": "es combate?",
       "url": "https://open.spotify.com/track/6DgvIzxw3uOV07RMpTPS1w"
@@ -4434,7 +4456,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 174000,
       "name": "Intensos",
       "url": "https://open.spotify.com/track/19bVAydJuAVGXAF49ddJ3r"
@@ -5334,7 +5356,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 134187,
       "name": "Leche Entera",
       "url": "https://open.spotify.com/track/4Ervs2U0e4QewVwcvLK6S7"
@@ -6901,6 +6923,24 @@
     },
     {
       "album": {
+        "name": "Resalada",
+        "url": "https://open.spotify.com/album/4BiDgfahVGuGbUdMPMxLeY"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda de la Flor",
+          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197442,
+      "name": "No somos extra\u00f1os",
+      "url": "https://open.spotify.com/track/3hDzrdAPXuxZCXBotYK4cu"
+    },
+    {
+      "album": {
         "name": "Acto II: La (Des) Mesura",
         "url": "https://open.spotify.com/album/0UDCnifL25jz7KOpYXfGXu"
       },
@@ -7180,7 +7220,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 221712,
       "name": "Oye mi Voz",
       "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
@@ -9968,6 +10008,28 @@
       "duration_ms": 235866,
       "name": "T\u00edtere o Esclava",
       "url": "https://open.spotify.com/track/6JzQ9nEbVhLgSJalzBttcd"
+    },
+    {
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212019,
+      "name": "T\u00f3came",
+      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
     },
     {
       "album": {

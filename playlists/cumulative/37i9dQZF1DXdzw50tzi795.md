@@ -2,7 +2,7 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: Timethai.
+> เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: NONT TANONT
 
 63 songs - 4 hr 9 min
 

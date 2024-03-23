@@ -4,7 +4,7 @@
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ girl in red + sabrina carpenter in cover.
 
-861 songs - 1 day 15 hr 40 min
+862 songs - 1 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -748,6 +748,7 @@
 | [Stupida scusa](https://open.spotify.com/track/23LV89m2teIc59m3lejM2a) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [Stupida scusa](https://open.spotify.com/album/2NkuJHx1jxMl9CmxR0uNc8) | 3:01 | 2023-01-19 | 2023-04-21 |
 | [Stupida vita \(feat\. 2nd Roof\)](https://open.spotify.com/track/4iRetHGYzDUyKVRyqn4rDb) | [Cali](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Stupida vita \(feat\. 2nd Roof\)](https://open.spotify.com/album/3nxytjfeneppD6nOIDuadB) | 2:54 | 2023-07-13 | 2023-11-17 |
 | [Su Di Te](https://open.spotify.com/track/6eCIYNIasTRya5UYBWjxSE) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [G.bit](https://open.spotify.com/artist/0NmtgATbZcejMnRU5ixeSs), [Mike Lennon](https://open.spotify.com/artist/2g2ukiJJzYdcRJQ12D2bq7), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Su Di Te](https://open.spotify.com/album/7pryBWFxwQZB6nm05G4rM2) | 3:08 | 2022-06-27 | 2022-11-19 |
+| [su//giù \(fuoco\)](https://open.spotify.com/track/2DsfDZz9Omn56haGBha1UQ) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [su//giù \(fuoco\)](https://open.spotify.com/album/3ikPXBTfSbzhgy0AcZCnuf) | 3:19 | 2024-03-21 |  |
 | [SUI MURI](https://open.spotify.com/track/5M3SYjElWjKlD3jgONFw4w) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [SUI MURI](https://open.spotify.com/album/4QH1iXuy56kG7qXjLfefaf) | 3:01 | 2022-05-06 | 2022-06-03 |
 | [SUMMERSAD 3](https://open.spotify.com/track/2sVK7UjS87H83ryrVq8vbY) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze) | [SUMMERSAD 3](https://open.spotify.com/album/7Fzw18wH8fL3ehoyukQRKt) | 2:51 | 2022-06-30 | 2022-10-04 |
 | [SUMMERSAD 3](https://open.spotify.com/track/3ya2HVjnFFV9y52uhj3qch) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze) | [SUMMERSAD 3](https://open.spotify.com/album/6lHH4atRiu0NzfWnn7xiIs) | 2:51 | 2022-10-03 | 2022-10-14 |

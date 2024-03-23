@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98070,
+  "num_followers": 98085,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGYyZWI5MTkyMzUzOTE3NzIzYjM0YWU0NmJiMGY2YTliNDJkMDZj",
+  "snapshot_id": "MCw3ZDUyNTMyMmMyZWQzODI4NzQwMTU5MDExMzkzMjZlYTZkYjcxYTg2",
   "tracks": [
     {
       "added_at": "2024-03-21 19:01:15",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-03-21 19:01:15",
       "album": {
+        "name": "Can't Control",
+        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
+      },
+      "artists": [
+        {
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+        }
+      ],
+      "duration_ms": 177139,
+      "name": "Can't Control",
+      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
+    },
+    {
+      "added_at": "2024-03-21 19:01:15",
+      "album": {
         "name": "Nothing In Common",
         "url": "https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 174624,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1B4OIfL8ovAHujVlHvhnAq"
-    },
-    {
-      "added_at": "2024-03-21 19:01:15",
-      "album": {
-        "name": "Can't Control",
-        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
-      },
-      "artists": [
-        {
-          "name": "LOVRA",
-          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
-        }
-      ],
-      "duration_ms": 177139,
-      "name": "Can't Control",
-      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
     },
     {
       "added_at": "2024-03-21 19:01:15",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2024-03-21 19:01:15",
       "album": {
+        "name": "Nothing Left To Say",
+        "url": "https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP"
+      },
+      "artists": [
+        {
+          "name": "AVIAN GRAYS",
+          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "Nothing Left To Say",
+      "url": "https://open.spotify.com/track/3MxZYK11pAciPApseszdNu"
+    },
+    {
+      "added_at": "2024-03-21 19:01:15",
+      "album": {
         "name": "Every Single Time (I Look At You)",
         "url": "https://open.spotify.com/album/5ew9qVfDbbTLW7edMIx9JS"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 149571,
       "name": "Every Single Time (I Look At You)",
       "url": "https://open.spotify.com/track/4BvdEc7bbkV6b1rTA0JVy5"
-    },
-    {
-      "added_at": "2024-03-21 19:01:15",
-      "album": {
-        "name": "Nothing Left To Say",
-        "url": "https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP"
-      },
-      "artists": [
-        {
-          "name": "AVIAN GRAYS",
-          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "Nothing Left To Say",
-      "url": "https://open.spotify.com/track/3MxZYK11pAciPApseszdNu"
     },
     {
       "added_at": "2024-03-21 19:01:15",

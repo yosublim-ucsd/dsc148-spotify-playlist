@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAZoWydCivZ.md) - [plain]
 
 > Turn that frown upside down with these pop vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,135,037 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,135,325 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAZoWydCivZ.md) - [plain]
 | 49 | [I Like Me Better](https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:17 |
 | 50 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 |
 
-Snapshot ID: `MCw2OTFmZDVkZjU4NWE4NTFiYzdiOGM0NTEyYTJiODUzMDIxMTMzYjY0`
+Snapshot ID: `MCxhMTU2M2M0NzA0OGQ2NjE0NTU1NzVmNjU5MWRlN2Y3NzFkOGMwYzFh`

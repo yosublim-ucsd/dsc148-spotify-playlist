@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: ZEBRA 93",
-  "num_followers": 124274,
+  "num_followers": 124281,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODk0YzhkZjEwNjNlNjE2MjhiMzk3MTA5MzM3NTA1OGUwMGMxZTE3",
+  "snapshot_id": "MCw4MjZjOTU0MWY0MGEyMmQ2ZGI3NzhiYzIyMzFiYjQyYzM0M2Q2NDY0",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -23,26 +23,6 @@
       "duration_ms": 189838,
       "name": "BB",
       "url": "https://open.spotify.com/track/7EK0zxNhtgm9RXt5kGFJ5a"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Confortas Pero Da\u00f1as",
-        "url": "https://open.spotify.com/album/0XnGw8WHcmD8E5PAec44ip"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Resonancia Et\u00e9rea",
-          "url": "https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB"
-        }
-      ],
-      "duration_ms": 249502,
-      "name": "Confortas Pero Da\u00f1as",
-      "url": "https://open.spotify.com/track/1XhoqOuon1mUaZpDSjRiaD"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -79,6 +59,26 @@
       "duration_ms": 236255,
       "name": "Nada Para Ti",
       "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Confortas Pero Da\u00f1as",
+        "url": "https://open.spotify.com/album/0pokgIdya1JBKlYSaF7R3X"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Resonancia Et\u00e9rea",
+          "url": "https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB"
+        }
+      ],
+      "duration_ms": 249502,
+      "name": "Confortas Pero Da\u00f1as",
+      "url": "https://open.spotify.com/track/72PMAMYZYL060JML0S3khc"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/4YL39TFWCRRMd9R7fijYoc"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 261896,
-      "name": "Viaje al Kil\u00f3metro Cero",
-      "url": "https://open.spotify.com/track/2U4LnZ1NRQVrs2omVcpY2M"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Avena",
         "url": "https://open.spotify.com/album/3y2tTCdRWCM3VqKQpKEsVt"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 140428,
       "name": "Piedad",
       "url": "https://open.spotify.com/track/4vYFrN4yxgUF3mzccFYAIs"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/4YL39TFWCRRMd9R7fijYoc"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 261896,
+      "name": "Viaje al Kil\u00f3metro Cero",
+      "url": "https://open.spotify.com/track/2U4LnZ1NRQVrs2omVcpY2M"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -799,22 +799,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "CASI P\u00daRPURA",
-        "url": "https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ"
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
       },
       "artists": [
         {
-          "name": "Makoli",
-          "url": "https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
         }
       ],
-      "duration_ms": 168152,
-      "name": "Magnetismo",
-      "url": "https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I"
+      "duration_ms": 199946,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -835,18 +831,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Volar",
-        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
+        "name": "CASI P\u00daRPURA",
+        "url": "https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ"
       },
       "artists": [
         {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+          "name": "Makoli",
+          "url": "https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
         }
       ],
-      "duration_ms": 199946,
-      "name": "Volar",
-      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
+      "duration_ms": 168152,
+      "name": "Magnetismo",
+      "url": "https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Hace 10 A\u00f1os",
-        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
-      },
-      "artists": [
-        {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Hace 10 A\u00f1os",
-      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 192989,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Hace 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
+      },
+      "artists": [
+        {
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+        }
+      ],
+      "duration_ms": 184250,
+      "name": "Hace 10 A\u00f1os",
+      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "\u00c9pica",
+        "url": "https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Parlante",
+          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
+        }
+      ],
+      "duration_ms": 194756,
+      "name": "Sin Fama ni Fortuna",
+      "url": "https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "GARZA",
         "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 168026,
       "name": "no hace falta saber",
       "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "\u00c9pica",
-        "url": "https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV"
-      },
-      "artists": [
-        {
-          "name": "Triciclo Parlante",
-          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
-        }
-      ],
-      "duration_ms": 194756,
-      "name": "Sin Fama ni Fortuna",
-      "url": "https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Puro Espejo",
+        "url": "https://open.spotify.com/album/42rkkwtIKgnsHVvvUYD8rW"
+      },
+      "artists": [
+        {
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+        }
+      ],
+      "duration_ms": 187124,
+      "name": "G\u00e1rgolas",
+      "url": "https://open.spotify.com/track/5zMc1pCaX0cSsff5sQZV0Q"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Rapapapaum",
         "url": "https://open.spotify.com/album/2rXJTy0So75AGP4XV1mAxw"
       },
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Puro Espejo",
-        "url": "https://open.spotify.com/album/42rkkwtIKgnsHVvvUYD8rW"
-      },
-      "artists": [
-        {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
-        }
-      ],
-      "duration_ms": 187124,
-      "name": "G\u00e1rgolas",
-      "url": "https://open.spotify.com/track/5zMc1pCaX0cSsff5sQZV0Q"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Sobre habitar la depresi\u00f3n intermedia",
         "url": "https://open.spotify.com/album/3jF9U4Zd7HdiRyvYrpJvaC"
       },
@@ -1223,38 +1223,6 @@
       "duration_ms": 222257,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/4p9iPAQ5q3twlJJ0x8HInz"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Peque\u00f1as Esperanzas",
-        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 200238,
-      "name": "Peque\u00f1as Esperanzas",
-      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Abrazo Fantasma",
-        "url": "https://open.spotify.com/album/4c6ZcnNFBHrsTtv3oXKwyn"
-      },
-      "artists": [
-        {
-          "name": "Prehist\u00f6ricos",
-          "url": "https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB"
-        }
-      ],
-      "duration_ms": 124403,
-      "name": "El Efecto",
-      "url": "https://open.spotify.com/track/2arFzyifrmAqgxnmQQ0SyD"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1275,6 +1243,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Peque\u00f1as Esperanzas",
+        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 200238,
+      "name": "Peque\u00f1as Esperanzas",
+      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Antes que el sol nos queme",
         "url": "https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 255268,
       "name": "Antes que el sol nos queme",
       "url": "https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Abrazo Fantasma",
+        "url": "https://open.spotify.com/album/4c6ZcnNFBHrsTtv3oXKwyn"
+      },
+      "artists": [
+        {
+          "name": "Prehist\u00f6ricos",
+          "url": "https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB"
+        }
+      ],
+      "duration_ms": 124403,
+      "name": "El Efecto",
+      "url": "https://open.spotify.com/track/2arFzyifrmAqgxnmQQ0SyD"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/1lWGtQTbxNWC3dSQzcYqZe"
+      },
+      "artists": [
+        {
+          "name": "Dodo",
+          "url": "https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq"
+        }
+      ],
+      "duration_ms": 182692,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/2x12EMxzr5fuPmneswOubB"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "PODER - Lilith: 6",
         "url": "https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 191158,
       "name": "PODER - Lilith: 6",
       "url": "https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/1lWGtQTbxNWC3dSQzcYqZe"
-      },
-      "artists": [
-        {
-          "name": "Dodo",
-          "url": "https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq"
-        }
-      ],
-      "duration_ms": 182692,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/2x12EMxzr5fuPmneswOubB"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Dilema",
+        "url": "https://open.spotify.com/album/6wfLmxoovY4zVbuIEZBoFq"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/5cUSmEvX8UAhepFmStBXc7"
+        },
+        {
+          "name": "Rulo",
+          "url": "https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ"
+        }
+      ],
+      "duration_ms": 171883,
+      "name": "Dilema",
+      "url": "https://open.spotify.com/track/7x9zDbwDr9jHzh5RwBhViJ"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Al Norte",
         "url": "https://open.spotify.com/album/4JujA1bT5q4BGZXqfsbFQ8"
       },
@@ -1443,26 +1463,6 @@
       "duration_ms": 157733,
       "name": "Tormenta",
       "url": "https://open.spotify.com/track/6oTQtxgdzrQFRTbGchCNjn"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Tur Blues",
-        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
-      },
-      "artists": [
-        {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 213112,
-      "name": "Tur Blues",
-      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1483,6 +1483,26 @@
       "duration_ms": 194357,
       "name": "abracadabra",
       "url": "https://open.spotify.com/track/5Kq1WilU4CfoJBJgHwPtJn"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Tur Blues",
+        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
+      },
+      "artists": [
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 213112,
+      "name": "Tur Blues",
+      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1519,22 +1539,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Dilema",
-        "url": "https://open.spotify.com/album/6wfLmxoovY4zVbuIEZBoFq"
+        "name": "Te puedes ir, amor",
+        "url": "https://open.spotify.com/album/3xTDzgJme7JW24tMfS1fUt"
       },
       "artists": [
         {
-          "name": "Eli",
-          "url": "https://open.spotify.com/artist/5cUSmEvX8UAhepFmStBXc7"
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
         },
         {
-          "name": "Rulo",
-          "url": "https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ"
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
         }
       ],
-      "duration_ms": 171883,
-      "name": "Dilema",
-      "url": "https://open.spotify.com/track/7x9zDbwDr9jHzh5RwBhViJ"
+      "duration_ms": 189625,
+      "name": "Te puedes ir, amor",
+      "url": "https://open.spotify.com/track/3e3eeimc7V6oqZbcyDu0Ls"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1555,22 +1575,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Te puedes ir, amor",
-        "url": "https://open.spotify.com/album/3xTDzgJme7JW24tMfS1fUt"
+        "name": "Me Hace Bien Amarte",
+        "url": "https://open.spotify.com/album/7MllTlZeTUSLYWKL6IvYrh"
       },
       "artists": [
         {
-          "name": "Francisco Victoria",
-          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
-        },
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
         }
       ],
-      "duration_ms": 189625,
-      "name": "Te puedes ir, amor",
-      "url": "https://open.spotify.com/track/3e3eeimc7V6oqZbcyDu0Ls"
+      "duration_ms": 168714,
+      "name": "Me Hace Bien Amarte",
+      "url": "https://open.spotify.com/track/3Ef1CBavoZnZ2v6Mjfq6Xg"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1595,38 +1611,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Me Hace Bien Amarte",
-        "url": "https://open.spotify.com/album/7MllTlZeTUSLYWKL6IvYrh"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 168714,
-      "name": "Me Hace Bien Amarte",
-      "url": "https://open.spotify.com/track/3Ef1CBavoZnZ2v6Mjfq6Xg"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Respirar",
-        "url": "https://open.spotify.com/album/261cmtUeDilVWOSlXFCmHr"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 165088,
-      "name": "Respirar",
-      "url": "https://open.spotify.com/track/1MbOQiNa5KQl7OVTHBBje3"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Abducida (Remix)",
         "url": "https://open.spotify.com/album/0Cg2PqBsAUtcMFHKph7TvX"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 174313,
       "name": "Abducida - Remix",
       "url": "https://open.spotify.com/track/3KzUfFElM7qGGC7HP56Yef"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Respirar",
+        "url": "https://open.spotify.com/album/261cmtUeDilVWOSlXFCmHr"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 165088,
+      "name": "Respirar",
+      "url": "https://open.spotify.com/track/1MbOQiNa5KQl7OVTHBBje3"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1683,6 +1683,30 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Tu Demente",
+        "url": "https://open.spotify.com/album/2f2GQUGbHkoc1RH7qTT4t0"
+      },
+      "artists": [
+        {
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+        },
+        {
+          "name": "Ambar Luna",
+          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
+        },
+        {
+          "name": "Franz Mesko",
+          "url": "https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS"
+        }
+      ],
+      "duration_ms": 183845,
+      "name": "Tu Demente",
+      "url": "https://open.spotify.com/track/0FNThAjRDsWq3HP0Yknr4V"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "formas de volver a casa",
         "url": "https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo"
       },
@@ -1699,38 +1723,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Riley (S)",
-        "url": "https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0"
+        "name": "Bailar en la Cuerda Floja",
+        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
       },
       "artists": [
         {
-          "name": "Sunt Dracone",
-          "url": "https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR"
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
         }
       ],
-      "duration_ms": 178040,
-      "name": "Riley",
-      "url": "https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "como antes :(",
-        "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
-      },
-      "artists": [
-        {
-          "name": "Yaima Cat",
-          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 237888,
-      "name": "como antes :(",
-      "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
+      "duration_ms": 221620,
+      "name": "Bailar en la Cuerda Floja",
+      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
     },
     {
       "added_at": "2024-03-08 03:00:00",

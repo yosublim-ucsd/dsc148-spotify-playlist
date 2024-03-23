@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,204 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,227 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 41 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 |
 | 42 | [i want to be by your side](https://open.spotify.com/track/5ZfMb1vgKdvG9Mr2iRXXN2) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [herhexx](https://open.spotify.com/artist/7AI9yB4mqXc2h9fONnHgqA) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:37 |
 | 43 | [CASUALTY](https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN) | 2:38 |
-| 44 | [She Likes My Tattoos](https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I Left You In Minnesota](https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP) | 2:44 |
-| 45 | [Her](https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 2:08 |
-| 46 | [Knife Under My Pillow](https://open.spotify.com/track/3sFW3Wru7nPZkhf4BDTXUf) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/6af3Z9vEogmAowqE0JOIFj) | 2:02 |
+| 44 | [Knife Under My Pillow](https://open.spotify.com/track/3sFW3Wru7nPZkhf4BDTXUf) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/6af3Z9vEogmAowqE0JOIFj) | 2:02 |
+| 45 | [She Likes My Tattoos](https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I Left You In Minnesota](https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP) | 2:44 |
+| 46 | [Her](https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 2:08 |
 | 47 | [Choose Life \(feat\. Travis Barker\)](https://open.spotify.com/track/5jbjAmYTrF6ITa72YW8mFS) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2kKR8sRKNRqlN8axIsAvnB) | 2:09 |
 | 48 | [Pieces of You](https://open.spotify.com/track/7CGz9zQ07qHQbqMemymj1h) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Pieces of You](https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84) | 3:02 |
 | 49 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 2:36 |
 | 50 | [{ The Dreamer's Hotel }](https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 2:53 |
 
-Snapshot ID: `MCxlN2VjODAwNWUyNWNjYWZlZTZhMDZhY2VlODhjMDczN2ZiZThlMDFi`
+Snapshot ID: `MCwxZDAyNTIwMTNkMTZlNDdiZTc1OGFjNDhiNDU2YWM5YzI3NDQyNmVj`

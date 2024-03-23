@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 7909,
+  "2024-03-23": 7925,
   "date_first_scraped": "2022-09-17",
-  "description": "Featuring Bill Maybury & new songwriters on the horizon from around the world. Cover: <a href=\"https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP\">Bill Maybury</a>",
+  "description": "New songwriters on the horizon from around the world. Cover: Em Walcott \ud83d\udc95",
   "name": "RADAR Songwriters",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 215384,
       "name": "All I Ever Asked",
       "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
@@ -57,6 +57,24 @@
       "duration_ms": 182073,
       "name": "anatomy",
       "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
+    },
+    {
+      "album": {
+        "name": "HARD",
+        "url": "https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Another Broken Heart",
+      "url": "https://open.spotify.com/track/7MGEno7KAP4QgcBMGZzusR"
     },
     {
       "album": {
@@ -378,6 +396,24 @@
     },
     {
       "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/1QRMi6OGmvL3PR7uctgSa7"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131918,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/1agzjKir1PVW91rkCbiXks"
+    },
+    {
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3"
       },
@@ -389,7 +425,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 156627,
       "name": "Everyone Who Falls In Love (Has Someone Else They\u2019re Thinking Of)",
       "url": "https://open.spotify.com/track/3BRI2KJHYRJfse5DYmyoxM"
@@ -429,6 +465,24 @@
       "duration_ms": 147021,
       "name": "FOR THE ROAD",
       "url": "https://open.spotify.com/track/0SGea6cYbJWWz0MW1MYWlD"
+    },
+    {
+      "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/7xbIDc3R7zS0yrOOKRSLAX"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151239,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/11TSZcCco9oHmpTv3TRS9M"
     },
     {
       "album": {
@@ -617,7 +671,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 150386,
       "name": "I Like Me",
       "url": "https://open.spotify.com/track/03e6kd5Gye4OAK0ANM0neZ"
@@ -781,7 +835,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 203893,
       "name": "Mala Man\u00eda",
       "url": "https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5"
@@ -985,6 +1039,24 @@
       "duration_ms": 108650,
       "name": "Obsessed With You",
       "url": "https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z"
+    },
+    {
+      "album": {
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106026,
+      "name": "Paid In Pleasure",
+      "url": "https://open.spotify.com/track/0wkYibs7oR46Tq1k7sIQLu"
     },
     {
       "album": {
@@ -1252,6 +1324,24 @@
     },
     {
       "album": {
+        "name": "That Guy",
+        "url": "https://open.spotify.com/album/2DN4X7AWNR01Ih7vU7Eo3z"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154866,
+      "name": "That Guy",
+      "url": "https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f"
+    },
+    {
+      "album": {
         "name": "The Heart Part 5",
         "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
       },
@@ -1299,7 +1389,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 193000,
       "name": "The Way I Do",
       "url": "https://open.spotify.com/track/4apnPdCj3uDuqMjGpqQcuc"

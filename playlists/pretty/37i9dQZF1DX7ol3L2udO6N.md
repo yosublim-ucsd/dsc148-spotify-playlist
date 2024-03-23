@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 95 | [メロディー](https://open.spotify.com/track/3WlNXip1Fm13r2YREQvKMR) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [Cafe Japan](https://open.spotify.com/album/69iMkz0yop4xe0MmptbDzb) | 4:40 |
 | 96 | [誰より好きなのに](https://open.spotify.com/track/7a7RuBVD7ZXW9bFVWLcoTr) | [Toko Furuuchi](https://open.spotify.com/artist/1rIVRqMT3NboIWjG2JN5hZ) | [THE SINGLES SONY MUSIC YEARS 1993〜2002](https://open.spotify.com/album/6L0RnoV3X2PtQoyY203VZJ) | 4:39 |
 
-Snapshot ID: `MCw2NmFmMWRhNGY2YmZlNTZhZWYyMjgwZWEzZjBiZWZmOTMxZDRmNGUx`
+Snapshot ID: `MCw0MGQ3OGRmNjEzYTU3MWExZGY4NWZiZjFkYjUzY2IzYjU1M2Q1NzE1`

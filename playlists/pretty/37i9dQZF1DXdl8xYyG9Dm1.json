@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T?si=OgpcR6CdTI2uGibQDAmtSg\"> Omar Sterling</a>",
-  "num_followers": 148586,
+  "num_followers": 148635,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjRhMTQ3OTQzMDQ1OWIwNzhmYzU1YjZmYWE1OGQ2NTE1Mzk2NGM4",
+  "snapshot_id": "MCxjODBmYjU0Y2ViMDJhNWUzMTM2NTFmOTg4ZWRiNzQ3MTQwN2NmMzMy",
   "tracks": [
     {
       "added_at": "2024-03-07 18:39:59",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-03-07 18:39:59",
       "album": {
-        "name": "We Cut Keys 2",
-        "url": "https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso"
-      },
-      "artists": [
-        {
-          "name": "Blinky Bill",
-          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "Compare",
-      "url": "https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ"
-    },
-    {
-      "added_at": "2024-03-07 18:39:59",
-      "album": {
         "name": "James Bond (With Harley)",
         "url": "https://open.spotify.com/album/0ZjPpZefOqsc9v26PZa4cg"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 161739,
       "name": "James Bond (With Harley)",
       "url": "https://open.spotify.com/track/3BOP1rsMQA0q5QV5obyNG2"
+    },
+    {
+      "added_at": "2024-03-07 18:39:59",
+      "album": {
+        "name": "We Cut Keys 2",
+        "url": "https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso"
+      },
+      "artists": [
+        {
+          "name": "Blinky Bill",
+          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "Compare",
+      "url": "https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ"
     },
     {
       "added_at": "2024-03-07 18:39:59",
@@ -1295,6 +1295,34 @@
     {
       "added_at": "2024-03-07 18:39:59",
       "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/5uXduFpRFnUKAFs0QtXS1q"
+      },
+      "artists": [
+        {
+          "name": "Anweezy",
+          "url": "https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom"
+        },
+        {
+          "name": "Moeazy",
+          "url": "https://open.spotify.com/artist/7JYVVIJHFX48ERG4Wt6HJz"
+        },
+        {
+          "name": "djprodluigi",
+          "url": "https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI"
+        },
+        {
+          "name": "Lil Reamy",
+          "url": "https://open.spotify.com/artist/1nmSigiY3nL3Zx8N9dbMVe"
+        }
+      ],
+      "duration_ms": 131016,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/11JTSUxWm8c8tFywaTEboq"
+    },
+    {
+      "added_at": "2024-03-07 18:39:59",
+      "album": {
         "name": "018",
         "url": "https://open.spotify.com/album/7cc1c9rmxzod99qDf3P5P1"
       },
@@ -1335,34 +1363,6 @@
       "duration_ms": 202886,
       "name": "Bigger (feat. Olamide & Nas)",
       "url": "https://open.spotify.com/track/4z3ccPbq2JBOPMCSVzjvGg"
-    },
-    {
-      "added_at": "2024-03-07 18:39:59",
-      "album": {
-        "name": "Problems",
-        "url": "https://open.spotify.com/album/5uXduFpRFnUKAFs0QtXS1q"
-      },
-      "artists": [
-        {
-          "name": "Anweezy",
-          "url": "https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom"
-        },
-        {
-          "name": "Moeazy",
-          "url": "https://open.spotify.com/artist/7JYVVIJHFX48ERG4Wt6HJz"
-        },
-        {
-          "name": "djprodluigi",
-          "url": "https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI"
-        },
-        {
-          "name": "Lil Reamy",
-          "url": "https://open.spotify.com/artist/1nmSigiY3nL3Zx8N9dbMVe"
-        }
-      ],
-      "duration_ms": 131016,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/11JTSUxWm8c8tFywaTEboq"
     },
     {
       "added_at": "2024-03-07 18:39:59",

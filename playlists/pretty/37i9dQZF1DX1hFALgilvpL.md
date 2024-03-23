@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 
 > Cuddle up and relax with these country tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,142 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,179 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 | 28 | [You Make It Easy](https://open.spotify.com/track/2TXtN9MoV308Y0z1HvyTfV) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rearview Town](https://open.spotify.com/album/0m3ZCK4dSvyq6KUzEWdMhE) | 3:13 |
 | 29 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 |
 | 30 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
-| 31 | [Die From A Broken Heart](https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [The Way It Feels](https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE) | 3:08 |
-| 32 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
+| 31 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
+| 32 | [Die From A Broken Heart](https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [The Way It Feels](https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE) | 3:08 |
 | 33 | [I Could Use a Love Song](https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:16 |
 | 34 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
 | 35 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 | 67 | [Hold On](https://open.spotify.com/track/1fOvzFCRA3Ko0ihc2QTE29) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Hold On](https://open.spotify.com/album/3s7URrr4aax9L0kgMyyE00) | 3:04 |
 | 68 | [Best Shot](https://open.spotify.com/track/3eDNb3ZG3gKgjAAgJBcOL8) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/0GM0DnvOD2WOztAB2WBwzo) | 3:15 |
 | 69 | [Song for Another Time](https://open.spotify.com/track/7px4t7HGiuMUvFkEOpZEwp) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:11 |
-| 70 | [Break Up in the End](https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [All of It](https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm) | 3:19 |
-| 71 | [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 |
+| 70 | [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 |
+| 71 | [Break Up in the End](https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [All of It](https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm) | 3:19 |
 | 72 | [Tequila](https://open.spotify.com/track/7Il2yWQmsqKgSkLQvHTPUI) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Tequila](https://open.spotify.com/album/01w6VtM4EpFWvBNg4g9xZF) | 3:15 |
 | 73 | [All On Me](https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:44 |
 | 74 | [Dance With You](https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You](https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp) | 3:03 |
 | 75 | [You’ll Think Of Me](https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 4:53 |
 
-Snapshot ID: `MCw5Nzc5NTlkYjdmMjU0MGIxM2U4ZWZkZWFlODllNGU0ODlhNjZhODIw`
+Snapshot ID: `MCxmMzI5Yjc2ZGIzMDY0NDAxYTlkZWEwOTJmNWE1YTEyYmU3NTc5YjA4`

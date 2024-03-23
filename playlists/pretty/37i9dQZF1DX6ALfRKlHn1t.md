@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > the soundtrack for your vitamin d fix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,528 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,555 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 50 | [Kool Aid](https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:36 |
 | 51 | [Lying Through Their Teeth](https://open.spotify.com/track/1fUtTyrHCDELiSoUE2zw7h) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [All Out of Good Days](https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S) | 2:37 |
 | 52 | [Insomnia](https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1) | 3:12 |
-| 53 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 |
-| 54 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
-| 55 | [Walking On A Dream](https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/04gYcIojJt78nYnN5oOrKt) | 3:18 |
-| 56 | [Do You Wanna Talk](https://open.spotify.com/track/0fjEEHg3EVDBBbL7Vqy2O6) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:26 |
+| 53 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
+| 54 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 |
+| 55 | [Do You Wanna Talk](https://open.spotify.com/track/0fjEEHg3EVDBBbL7Vqy2O6) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:26 |
+| 56 | [Walking On A Dream](https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/04gYcIojJt78nYnN5oOrKt) | 3:18 |
 | 57 | [Colorado](https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:54 |
 | 58 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
 | 59 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 74 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 |
 | 75 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 |
 
-Snapshot ID: `MCw4NWViYWFhZmMxNzFiMGYwMDQyNjZlMGU3Y2Y4MDJjNjBhZThmNTcx`
+Snapshot ID: `MCxlNWM1YWNkMGY2MmM5Zjk1NzI2MWQ5MWZiOWQ4MjEwOGUxNzQ5MzZi`

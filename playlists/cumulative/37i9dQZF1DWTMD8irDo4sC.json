@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Keda Bardou (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2WIyTkJIJdxe5nrYXcfXk4"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163631,
+      "name": "Keda Bardou - Acoustic Version",
+      "url": "https://open.spotify.com/track/56KfdI2w6CaIeriQ77VeYL"
+    },
+    {
+      "album": {
         "name": "Konna Sghar",
         "url": "https://open.spotify.com/album/6wlJNQtXLY3ypYXVsayxnV"
       },
@@ -1462,7 +1480,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 290733,
       "name": "Wakfa",
       "url": "https://open.spotify.com/track/39u6elNoM6r2ZwjHJ2q5rx"

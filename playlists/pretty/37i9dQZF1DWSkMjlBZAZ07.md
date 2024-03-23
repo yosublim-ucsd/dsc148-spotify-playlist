@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,945,343 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,945,380 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,16 +27,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 17 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 |
 | 18 | [Sedona](https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh) | 3:59 |
 | 19 | [Olalla](https://open.spotify.com/track/1z75CRovSzKUOpYbrV4Fuo) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC) | 4:08 |
-| 20 | [Tomorrow](https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Tomorrow](https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj) | 4:00 |
+| 20 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 |
 | 21 | [Gloria](https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 3:36 |
 | 22 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 |
 | 23 | [Someone New](https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:42 |
 | 24 | [Outnumbered](https://open.spotify.com/track/4Ta3PhWmY50ZLU1uhKFKPE) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 4:05 |
 | 25 | [The Breach](https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR) | 4:13 |
 | 26 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 |
-| 27 | [Going In](https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK), [The Song Confessional](https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E) | [Going In](https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH) | 2:41 |
-| 28 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 |
-| 29 | [Empress](https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [A Little Lift](https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2) | 3:19 |
+| 27 | [Empress](https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [A Little Lift](https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2) | 3:19 |
+| 28 | [Tomorrow](https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Tomorrow](https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj) | 4:00 |
+| 29 | [Going In](https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK), [The Song Confessional](https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E) | [Going In](https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH) | 2:41 |
 | 30 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
 | 31 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 |
 | 32 | [Brazil](https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Brazil](https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4) | 4:12 |
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 47 | [Shake](https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:01 |
 | 48 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 |
 | 49 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 |
-| 50 | [Underground](https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:56 |
-| 51 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
-| 52 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
-| 53 | [Sanctuary](https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 4:26 |
+| 50 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
+| 51 | [Underground](https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:56 |
+| 52 | [Sanctuary](https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 4:26 |
+| 53 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
 | 54 | [Get Down](https://open.spotify.com/track/1uWp3OTBE1pryDJ4igGD1q) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Time in the Sun](https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn) | 2:31 |
 | 55 | [5 Years Time](https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/4bzNinbJcnth182w03fSL2) | 3:34 |
 | 56 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 77 | [Rusty](https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [The Art of Escape](https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn) | 3:18 |
 | 78 | [Skinny Dipping & Mimosas](https://open.spotify.com/track/76AnTndNpHDAuUqjXrqE4c) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Skinny Dipping & Mimosas](https://open.spotify.com/album/4yY92T0NRLnppExi4svTOY) | 2:43 |
 | 79 | [Silver Lining](https://open.spotify.com/track/2fpDrL2Vpee0JnM6AoUFvl) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Silver Lining](https://open.spotify.com/album/3FxWxJXvkNN3peG2iikNh7) | 3:19 |
-| 80 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
-| 81 | [I Will Remain](https://open.spotify.com/track/52VPecMGJQOxyWWWgnUvsI) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [To the North](https://open.spotify.com/album/0cKaHI9t8EnlykFdIRspw3) | 3:26 |
+| 80 | [I Will Remain](https://open.spotify.com/track/52VPecMGJQOxyWWWgnUvsI) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [To the North](https://open.spotify.com/album/0cKaHI9t8EnlykFdIRspw3) | 3:26 |
+| 81 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
 | 82 | [Puppy and a Truck](https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:11 |
 | 83 | [Alive](https://open.spotify.com/track/3VEEWjzviZp6MIWpywkLRq) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [News from Nowhere](https://open.spotify.com/album/5HFjkWLcHmVHIwkMEgBltz) | 4:02 |
 | 84 | [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 99 | [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 |
 | 100 | [Saratoga](https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Saratoga](https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr) | 3:50 |
 
-Snapshot ID: `MCw0MzhkOGU5NDhlZDkzY2Q3OWYzYzE1N2QwOGM1OGJlNGFmZGZiZmZj`
+Snapshot ID: `MCwxNjhkM2IzMDc1MTZiMjZiOWIxYmFlMzU1ZDE3ODcwMDg5YWQxYjIw`

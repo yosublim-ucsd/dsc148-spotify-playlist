@@ -5043,6 +5043,24 @@
     },
     {
       "album": {
+        "name": "Rave Luv",
+        "url": "https://open.spotify.com/album/52pIgveH3h0BFRiEn2A78a"
+      },
+      "artists": [
+        {
+          "name": "Ellen Allien",
+          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313500,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/3MCDgpQ2QV0tZf5v1z8f4Z"
+    },
+    {
+      "album": {
         "name": "SOIN002",
         "url": "https://open.spotify.com/album/34Zif1gO5RRybFwclMn4xq"
       },

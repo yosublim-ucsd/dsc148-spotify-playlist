@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,802 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,832 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 3 | [Perfect \(Exceeder\)](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp) | 2:31 |
 | 4 | [MONEY ON THE DASH](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 2:25 |
 | 5 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 |
-| 6 | [Nostalgia](https://open.spotify.com/track/0hhvzMnYVZuCt0pwsAgxyp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/4BAVhpH8KMzD5cqlGmS3Db) | 2:44 |
+| 6 | [Nostalgia](https://open.spotify.com/track/3AgHs7svu3fb2d5NguwfXY) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt) | 2:44 |
 | 7 | [Got Me Started \- Bag Raiders Remix](https://open.spotify.com/track/3DDLRC6c693OtavNQlFHJg) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Got Me Started \(Bag Raiders Remix\)](https://open.spotify.com/album/3LSSfe6q1TZDAr4fYZt3jX) | 3:41 |
 | 8 | [Saving Up \- Odd Mob Remix](https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Saving Up \(Odd Mob Remix\)](https://open.spotify.com/album/2WfWidStgwclhlTuXxTqMz) | 3:13 |
 | 9 | [Cheerleader](https://open.spotify.com/track/779mhz1mAry946r91qzR1r) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Cheerleader](https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI) | 3:57 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 13 | [Thandaza](https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD) | 6:01 |
 | 14 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
 | 15 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 |
-| 16 | [Can't Let Go](https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Let Go](https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS) | 3:59 |
+| 16 | [Can't Let Go](https://open.spotify.com/track/2WpiqjVC1CP89KVQfxOfol) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Mother](https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I) | 3:59 |
 | 17 | [Incognito](https://open.spotify.com/track/4yjLAjbLSxD8JBuKB4bPlD) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Incognito](https://open.spotify.com/album/0NtHCfmvPFF1usQ8kpaSMF) | 4:01 |
 | 18 | [Anthem](https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Pony](https://open.spotify.com/artist/5YVzHQeLnRkEYK5T5XFQ0q) | [Anthem](https://open.spotify.com/album/6Syz5BAAt7sDWPKUSRVP7T) | 3:26 |
 | 19 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 84 | [Drums \- Tita Lau & James Hype Remix](https://open.spotify.com/track/4eV5TQoPc0CrghBcj6AByW) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Remix Package\)](https://open.spotify.com/album/2df9ySxIlwdbyRlajvjCnP) | 2:38 |
 | 85 | [Tonic \(Edit\)](https://open.spotify.com/track/4b9disSqE7Yvxgpo4W7lB5) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Tonic](https://open.spotify.com/album/4xbLjgXZNRWrMhWcWe7ww1) | 4:39 |
 
-Snapshot ID: `MCw2YjhmZDQyYjVlNzZmNjBmMWZkODhjNGFiMWJiZTAzNTI0NTFhYzdj`
+Snapshot ID: `MCxlYWM3MDUwMzBkZjk0ZDk0OGJmNmIyMWEwNjMwYWVjNDJkYmM0NGU0`

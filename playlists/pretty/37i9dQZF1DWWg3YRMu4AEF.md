@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWg3YRMu4AEF.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,259 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,327 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWg3YRMu4AEF.md) - [plain]
 | 42 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
 | 43 | [My Life](https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 4:44 |
 | 44 | [Rock'n Me](https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 3:07 |
-| 45 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 |
-| 46 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 |
+| 45 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 |
+| 46 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 |
 | 47 | [Hooked On A Feeling](https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd) | [Blue Swede](https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp), [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Hooked On A Feeling](https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze) | 2:52 |
 | 48 | [Born to Run](https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:29 |
 | 49 | [Take The Money And Run](https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 2:50 |
 | 50 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 2:49 |
 
-Snapshot ID: `MCw2N2FlMzc4ZDU0ZjljMzdhYTkxYTJjN2RmYjA0YzBlY2ZjODJjYTc4`
+Snapshot ID: `MCwyOGYyMjlmNDNlZmI5OGJhZTk5YTRjMjY5MWY4YTY5NTAzZDUwOTNk`

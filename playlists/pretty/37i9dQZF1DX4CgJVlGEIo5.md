@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,538 likes - 82 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,581 likes - 82 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 75 | [Transformation](https://open.spotify.com/track/6Be3lUnpeyCZTZZD8axsoM) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Roll With The Punches](https://open.spotify.com/album/7iEgLiepZW1GHTfMuWumBG) | 3:31 |
 | 76 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
 | 77 | [Full Circle](https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:54 |
-| 78 | [It Wasn't Enough](https://open.spotify.com/track/2RbS3JyHde84ytV36H884Q) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [It Wasn't Enough](https://open.spotify.com/album/2uYM8TunmJhRP1U3ULUgXv) | 4:25 |
+| 78 | [Silence \- Acoustic](https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Silence \(Acoustic\)](https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65) | 3:41 |
 | 79 | [Moon in the Morning](https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:14 |
 | 80 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 |
-| 81 | [Silence \- Acoustic](https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Silence \(Acoustic\)](https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65) | 3:41 |
+| 81 | [It Wasn't Enough](https://open.spotify.com/track/2RbS3JyHde84ytV36H884Q) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [It Wasn't Enough](https://open.spotify.com/album/2uYM8TunmJhRP1U3ULUgXv) | 4:25 |
 | 82 | [95](https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Picture This](https://open.spotify.com/album/5RvSeWeeZHU1blLJqcOgnu) | 3:54 |
 
-Snapshot ID: `MCxkODZhYmFhMzlkNjRjOThkNjk4NGRlYjYxM2Y3YTFlYTg5YzgwYjJk`
+Snapshot ID: `MCwwZTg4N2ViNTUyZmIxYmJhZmM5OTU0N2Y2NDM5Mzg4MTdlZTI4N2Zh`

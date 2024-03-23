@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB?si=T\-z6iThfTF2C\-0r8mzFEcw">Zoë Modiga</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,289 likes - 52 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,375 likes - 52 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 51 | [Khuphuka](https://open.spotify.com/track/2woH45Z4imZSyCaqkSC0UX) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 3:43 |
 | 52 | [Thandaza](https://open.spotify.com/track/6vR8F8fp42rA8ecAlimsuw) | [DeeTheGeneral](https://open.spotify.com/artist/6rJUmLA6tYddLv09w8ec6t), [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Thandaza](https://open.spotify.com/album/088OsBlXpMBHglE3f9vUTI) | 6:05 |
 
-Snapshot ID: `MCwzYTFkMDJhZTM2MTc4MjgxYmRhNDA5OTMwYTM5ODk4Njg0ZmE4ZWIx`
+Snapshot ID: `MCw5OGViZWUxN2IyNzcwM2RiNTYyYzYwYzBjZDI0ZDNiNTA5ZmQzOTg3`

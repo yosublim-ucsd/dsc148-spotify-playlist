@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Kim Sawol\(김사월\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,025 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,039 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 24 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 |
 | 25 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
 | 26 | [Today's Mood](https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:45 |
-| 27 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 |
-| 28 | [Hollywood](https://open.spotify.com/track/3XPD2voMhtskeDqtClsbaU) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Hollywood](https://open.spotify.com/album/0MY78gb6h0RWwO43g921z0) | 5:31 |
+| 27 | [Hollywood](https://open.spotify.com/track/3XPD2voMhtskeDqtClsbaU) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Hollywood](https://open.spotify.com/album/0MY78gb6h0RWwO43g921z0) | 5:31 |
+| 28 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 |
 | 29 | [Hey kid, Close your eyes \(with Lee Sun Hee\)](https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:53 |
 | 30 | [When It Snows](https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [FROM : X](https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn) | 2:51 |
 | 31 | [Koh](https://open.spotify.com/track/19Cju67oOjjRqe8KXv0bYZ) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/7N391rPsSbIRYDqrI8xP2H) | 4:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Hate Everything \- Korean Version](https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R) | 3:25 |
 | 50 | [Let's Meet In Spring](https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Again, Spring Days](https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL) | 3:46 |
 
-Snapshot ID: `MCxiMWViNzE0ZjcyMjVmZjE4YmVhODQxZjg3NDczZWM0NTU1NTIyNzUy`
+Snapshot ID: `MCw5NjU0Yzk2MzNmNjMxZjIyN2UzMGQ5MTAzNzVlZDM3NjQyMjk0NTFj`

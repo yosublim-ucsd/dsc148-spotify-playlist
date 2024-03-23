@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 14118,
+  "num_followers": 14152,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmJiOWZhNmEzMjk3MWU0N2ZlOTU3OTA0NTRhZDJkMWMzNjZmNTdi",
+  "snapshot_id": "MCw5NTc5NmQ1OWNlMWE5ZGFjYjg3OTkwNzI0OTg3MDA2YjI0ZTczMDcx",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -809,26 +809,6 @@
       "url": "https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Blessed Year",
-        "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Vin Mokay",
-          "url": "https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz"
-        }
-      ],
-      "duration_ms": 184337,
-      "name": "Blessed Year",
-      "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Halle",
@@ -847,6 +827,26 @@
       "duration_ms": 140198,
       "name": "Halle",
       "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Blessed Year",
+        "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Vin Mokay",
+          "url": "https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz"
+        }
+      ],
+      "duration_ms": 184337,
+      "name": "Blessed Year",
+      "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Mon Dieu",
+        "url": "https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd"
+      },
+      "artists": [
+        {
+          "name": "Emandiong",
+          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Mon Dieu",
+      "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "S. W. A. G (Saved with Amazing Grace)",
         "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 242704,
       "name": "Oluwa E Tobi",
       "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Mon Dieu",
-        "url": "https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd"
-      },
-      "artists": [
-        {
-          "name": "Emandiong",
-          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Mon Dieu",
-      "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
     },
     {
       "added_at": "2023-12-15 00:01:00",

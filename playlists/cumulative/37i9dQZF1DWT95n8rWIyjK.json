@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n de Piedra",
+        "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193568,
+      "name": "Coraz\u00f3n de Piedra",
+      "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Fr\u00edo",
         "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
       },
@@ -1023,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "PANDEMIA",
+        "url": "https://open.spotify.com/album/63T0LpVVcekwfnRrryviWx"
+      },
+      "artists": [
+        {
+          "name": "Pandemia 702",
+          "url": "https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167155,
+      "name": "DIJO MI JEFA",
+      "url": "https://open.spotify.com/track/4oNjD4ZdHfq1g1Gk2BCVP5"
+    },
+    {
+      "album": {
         "name": "Dinero No Tenia (En Vivo)",
         "url": "https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F"
       },
@@ -1176,7 +1212,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 224142,
       "name": "El Blanco",
       "url": "https://open.spotify.com/track/1pfnhw8NpjYYwsisvfSQ6o"
@@ -1666,6 +1702,24 @@
       "duration_ms": 187076,
       "name": "EXCESOS",
       "url": "https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7"
+    },
+    {
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240654,
+      "name": "Extssy Model",
+      "url": "https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r"
     },
     {
       "album": {
@@ -2170,7 +2224,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 225789,
       "name": "KLK",
       "url": "https://open.spotify.com/track/1J2oUHUEhtReLHOuzFIKCO"
@@ -2494,6 +2548,32 @@
       "duration_ms": 153031,
       "name": "LA PEOPLE",
       "url": "https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx"
+    },
+    {
+      "album": {
+        "name": "LA PEOPLE II",
+        "url": "https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141064,
+      "name": "LA PEOPLE II",
+      "url": "https://open.spotify.com/track/7EWtB4NKYY3NqBl31PVip9"
     },
     {
       "album": {
@@ -3008,7 +3088,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 190680,
       "name": "NUEVA VIDA",
       "url": "https://open.spotify.com/track/4Nf5EZ40JenjMUKXOiyRU5"
@@ -3508,7 +3588,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 127866,
       "name": "PUTAS Y MOET",
       "url": "https://open.spotify.com/track/1y8Zz3ES0jCL0F6jOSUSoW"
@@ -3658,7 +3738,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 141739,
       "name": "Ramos Buchones",
       "url": "https://open.spotify.com/track/63b5jw0voIuLoMmCf7yEPR"

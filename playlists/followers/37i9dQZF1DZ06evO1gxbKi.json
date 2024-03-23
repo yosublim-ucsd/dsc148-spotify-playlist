@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 17375,
+  "2024-03-23": 17391,
   "date_first_scraped": "2022-05-26",
   "description": "This is Sister Rosetta Tharpe. The essential tracks, all in one playlist.",
   "name": "This Is Sister Rosetta Tharpe",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 204959,
       "name": "Beams Of Heaven",
       "url": "https://open.spotify.com/track/4NuXIH3TvC2RehKx5SoxYT"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 175226,
       "name": "Bring Back Those Happy Days",
       "url": "https://open.spotify.com/track/6wJlP5q82nxBKwBpGpOD48"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 157652,
       "name": "Didn't It Rain",
       "url": "https://open.spotify.com/track/3MxAT7MRx7V0CL3tVtJby1"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 147701,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/0uqrVU6p1FD04exzZKkLe0"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 174492,
       "name": "How Far From God",
       "url": "https://open.spotify.com/track/3cN5ydsv1f5UVWIognMcRj"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 178560,
       "name": "I Can Hear The Angels",
       "url": "https://open.spotify.com/track/7pqbyssPmrES38X02wTRVz"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 160960,
       "name": "I Want Jesus to Walk Around My Bedside",
       "url": "https://open.spotify.com/track/7KJsNOHD91wsOHPYGgNSDX"
@@ -1429,7 +1429,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 160731,
       "name": "Rock Daniel (VD129)",
       "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
@@ -1509,7 +1509,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 160520,
       "name": "Shout, Sister, Shout!",
       "url": "https://open.spotify.com/track/52ppD2ntvCjr22dP17fuJ7"
@@ -1527,7 +1527,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 200586,
       "name": "Sing and Shout",
       "url": "https://open.spotify.com/track/31ZnDwW7ERlKZRvLrWKgrl"
@@ -1581,7 +1581,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 133160,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/5wEg2hMv0QRDuUoySWRRu6"
@@ -1715,7 +1715,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 214273,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq"

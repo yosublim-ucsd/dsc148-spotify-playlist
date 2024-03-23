@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 128091,
+  "num_followers": 128108,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTlkYTM1NDFlYWNhMWM0ZGViYmUzYTFlMTk1MzNlMjI3NzBkMTdi",
+  "snapshot_id": "MCw4OTU4YmQ5MmIyNzMzOGEwMjc4ZTJiZWE2N2Y4MTA0NjdiNjU4MTJk",
   "tracks": [
     {
       "added_at": "2024-03-19 15:00:00",
@@ -263,8 +263,8 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b - Single",
-        "url": "https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW"
+        "name": "\u96e2\u5a5a\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
         }
       ],
-      "duration_ms": 234288,
+      "duration_ms": 232146,
       "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
-      "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"
+      "url": "https://open.spotify.com/track/0GgTd7vT5PgAmLhNl49i9k"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 229328,
       "name": "\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        }
-      ],
-      "duration_ms": 187972,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "Everything I Thought It Was",
         "url": "https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7"
       },
@@ -1071,18 +1051,42 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "Nagisa",
-        "url": "https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK"
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
         }
       ],
-      "duration_ms": 226489,
-      "name": "Nagisa",
-      "url": "https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW"
+      "duration_ms": 187972,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "Best For Me",
+        "url": "https://open.spotify.com/album/5XhWXulYKeVMBHXLxGZN44"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 238016,
+      "name": "Best For Me",
+      "url": "https://open.spotify.com/track/3rZgLwQOX9N2up8JQhKi61"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1099,6 +1103,22 @@
       "duration_ms": 177520,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "Nagisa",
+        "url": "https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 226489,
+      "name": "Nagisa",
+      "url": "https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1191,26 +1211,6 @@
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
-        "name": "Best For Me",
-        "url": "https://open.spotify.com/album/5XhWXulYKeVMBHXLxGZN44"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 238016,
-      "name": "Best For Me",
-      "url": "https://open.spotify.com/track/3rZgLwQOX9N2up8JQhKi61"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1383,38 +1383,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "One Love (Bob Marley: One Love - Music Inspired By The Film)",
-        "url": "https://open.spotify.com/album/6XN6OMDwUH5O8E04Zhlcv2"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "One Love - Bob Marley: One Love - Music Inspired By The Film",
-      "url": "https://open.spotify.com/track/03gFXOX3TuRERFlYmHDqIX"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
-        "name": "Workin' Hard",
-        "url": "https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 239070,
-      "name": "Workin' Hard",
-      "url": "https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -1439,18 +1407,34 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "COMING HOME",
-        "url": "https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3"
+        "name": "Workin' Hard",
+        "url": "https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 188206,
-      "name": "Kissing Strangers",
-      "url": "https://open.spotify.com/track/1pas3RniY46hElvMSzr0Uv"
+      "duration_ms": 239070,
+      "name": "Workin' Hard",
+      "url": "https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "One Love (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/6XN6OMDwUH5O8E04Zhlcv2"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "One Love - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/03gFXOX3TuRERFlYmHDqIX"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1475,6 +1459,22 @@
       "duration_ms": 193039,
       "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
       "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "COMING HOME",
+        "url": "https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 188206,
+      "name": "Kissing Strangers",
+      "url": "https://open.spotify.com/track/1pas3RniY46hElvMSzr0Uv"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
+        "name": "Softest Touch",
+        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 164282,
+      "name": "Softest Touch",
+      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
         "name": "Mi Coraz\u00f3n (feat. Camilo)",
         "url": "https://open.spotify.com/album/6Lmp3WKfNvIKLJuyED6gqJ"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 185853,
       "name": "Mi Coraz\u00f3n (feat. Camilo)",
       "url": "https://open.spotify.com/track/421IxIwggbLYx9XUSUJpZN"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
-        "name": "Softest Touch",
-        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 164282,
-      "name": "Softest Touch",
-      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
     },
     {
       "added_at": "2024-03-19 15:00:00",

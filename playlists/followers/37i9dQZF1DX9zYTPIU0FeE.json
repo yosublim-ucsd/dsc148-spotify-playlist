@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 6521,
+  "2024-03-23": 6528,
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH?si=Z52XHplwRquA59MW7gc2dA\">Tutu Puoane</a>",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha?si=ThEtLhEJS-C9MyvOxUl4fA\">Kujenga</a>",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -165,6 +165,24 @@
       "duration_ms": 426990,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/60YKaBvjgNvGRVei6rmRQk"
+    },
+    {
+      "album": {
+        "name": "amen",
+        "url": "https://open.spotify.com/album/5SgAAgXyyGhD09bFEq0q5g"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Modiga",
+          "url": "https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186744,
+      "name": "amen",
+      "url": "https://open.spotify.com/track/0pVZIfRcoJdxOOrNfEAV6Z"
     },
     {
       "album": {
@@ -569,6 +587,24 @@
       "duration_ms": 306476,
       "name": "Chosi",
       "url": "https://open.spotify.com/track/0VXVa4Xzf9DUyEjJ9wOx6j"
+    },
+    {
+      "album": {
+        "name": "In The Wake",
+        "url": "https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq"
+      },
+      "artists": [
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418730,
+      "name": "Clarion Call",
+      "url": "https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq"
     },
     {
       "album": {
@@ -1395,7 +1431,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 330173,
       "name": "Imithandazo Yeengelosi",
       "url": "https://open.spotify.com/track/3KFbmQRHOH3YufXvnJ4set"
@@ -2597,7 +2633,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 422406,
       "name": "Ntate Gwangwa's Stroll",
       "url": "https://open.spotify.com/track/7BPHefiIEjHBVRJ9JGzeWh"
@@ -2767,7 +2803,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 535201,
       "name": "Rah (feat. Zo\u00eb Modiga)",
       "url": "https://open.spotify.com/track/3CPcUIvlezozJDzmolebuT"
@@ -3983,7 +4019,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 484551,
       "name": "Wozani Nonke Sizothandaza",
       "url": "https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1"

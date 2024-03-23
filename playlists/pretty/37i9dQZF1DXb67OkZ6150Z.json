@@ -1,12 +1,12 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Arlo Parks",
-  "num_followers": 289399,
+  "num_followers": 289409,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWVhNmU0ODQwYjNiNjVmMzBjYTI5Nzg5ZTJiYzJkNzZlZGZlODVj",
+  "snapshot_id": "MCw1ZGQ1YmU4YzNjODc4ODEwMGFhZjk4MjIzYzE1NzBkZDk0YTQ1NjUx",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
-        "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 274829,
-      "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
-      "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Fix You",
         "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 141160,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
+        "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 274829,
+      "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
+      "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Caves",
+        "url": "https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 179234,
+      "name": "Caves",
+      "url": "https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
         "url": "https://open.spotify.com/album/5iT2I6aOLxLTqpAmXl6hVN"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 249789,
       "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/2SUfpiTVAMqC4HEdTn1PPf"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Caves",
-        "url": "https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 179234,
-      "name": "Caves",
-      "url": "https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Life And Life Only (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1hhJEtyz55rIxT7h4zi5go"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+        }
+      ],
+      "duration_ms": 183588,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/5UChPKbbKFkbuQKicha00m"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "You've Got a Woman",
         "url": "https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 205220,
       "name": "You've Got a Woman",
       "url": "https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Life And Life Only (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1hhJEtyz55rIxT7h4zi5go"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Heavy",
-          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
-        }
-      ],
-      "duration_ms": 183588,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/5UChPKbbKFkbuQKicha00m"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1171,18 +1171,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Soak Up The Sun",
-        "url": "https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD"
+        "name": "Songs That Aren't Mine",
+        "url": "https://open.spotify.com/album/4Hfqnc8K019JtWci0BgXkE"
       },
       "artists": [
         {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        },
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
         }
       ],
-      "duration_ms": 304413,
-      "name": "Soak Up The Sun",
-      "url": "https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI"
+      "duration_ms": 178584,
+      "name": "Cosmic Dancer (with Dora Jar)",
+      "url": "https://open.spotify.com/track/38PETVexY67H0CCj0bNT65"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1203,22 +1207,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Songs That Aren't Mine",
-        "url": "https://open.spotify.com/album/4Hfqnc8K019JtWci0BgXkE"
+        "name": "Soak Up The Sun",
+        "url": "https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD"
       },
       "artists": [
         {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        },
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
         }
       ],
-      "duration_ms": 178584,
-      "name": "Cosmic Dancer (with Dora Jar)",
-      "url": "https://open.spotify.com/track/38PETVexY67H0CCj0bNT65"
+      "duration_ms": 304413,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "I Would Die 4 U",
+        "url": "https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "duration_ms": 199062,
+      "name": "I Would Die 4 U",
+      "url": "https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Charm You (Blondshell Version)",
         "url": "https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7"
       },
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "I Would Die 4 U",
-        "url": "https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA"
+        "name": "Under The Milky Way",
+        "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
       },
       "artists": [
         {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
         }
       ],
-      "duration_ms": 199062,
-      "name": "I Would Die 4 U",
-      "url": "https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz"
+      "duration_ms": 260101,
+      "name": "Under The Milky Way",
+      "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1503,22 +1519,6 @@
       "duration_ms": 206000,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Under The Milky Way",
-        "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 260101,
-      "name": "Under The Milky Way",
-      "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "i wanna be your girlfriend",
-        "url": "https://open.spotify.com/album/1GLJbv53SbSavS2XKqJttz"
+        "name": "Everybody Wants To Rule The World",
+        "url": "https://open.spotify.com/album/2cl1aT8KUor2XmO4WH6vOu"
       },
       "artists": [
         {
-          "name": "gglum",
-          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
         }
       ],
-      "duration_ms": 311844,
-      "name": "i wanna be your girlfriend",
-      "url": "https://open.spotify.com/track/0rpsYTdLM9iNgkUGgFhGB8"
+      "duration_ms": 223060,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Everybody Wants To Rule The World",
-        "url": "https://open.spotify.com/album/2cl1aT8KUor2XmO4WH6vOu"
+        "name": "i wanna be your girlfriend",
+        "url": "https://open.spotify.com/album/1GLJbv53SbSavS2XKqJttz"
       },
       "artists": [
         {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+          "name": "gglum",
+          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
         }
       ],
-      "duration_ms": 223060,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7"
+      "duration_ms": 311844,
+      "name": "i wanna be your girlfriend",
+      "url": "https://open.spotify.com/track/0rpsYTdLM9iNgkUGgFhGB8"
     },
     {
       "added_at": "2024-03-08 05:00:00",

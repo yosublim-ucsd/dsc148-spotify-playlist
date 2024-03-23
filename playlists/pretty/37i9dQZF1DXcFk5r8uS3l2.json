@@ -1,13 +1,61 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Lizz Wright",
-  "num_followers": 443703,
+  "num_followers": 443745,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDcxYmVkYjQyZWJlMTQ3MjBkZDMwODViYmUzOTU3MjU0MjI0MTVi",
+  "snapshot_id": "MCw3ODQzYjhmMjNiMmU4MmFlMzAzYTE3NWNhM2RmYjk2NWVmZjE5NDU5",
   "tracks": [
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Little Heartbreak Girl",
+        "url": "https://open.spotify.com/album/5ubfzzKMnqxjv2Wa3JGe21"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 274520,
+      "name": "Little Heartbreak Girl",
+      "url": "https://open.spotify.com/track/1mbtYYDO3E6kVogF9Mv9iP"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Stealing A Kiss",
+        "url": "https://open.spotify.com/album/5i9nk8WvKRe0d78UaCba9u"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 295696,
+      "name": "Stealing A Kiss",
+      "url": "https://open.spotify.com/track/5kdZiJ0KIPEyQ42xLj61Gt"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "All About the Bones",
+        "url": "https://open.spotify.com/album/5ps4di2LHRX32ZMObGMb2n"
+      },
+      "artists": [
+        {
+          "name": "Chris Smither",
+          "url": "https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22"
+        }
+      ],
+      "duration_ms": 196181,
+      "name": "All About the Bones",
+      "url": "https://open.spotify.com/track/49O8sIbwsZqrm4XTYNjns6"
+    },
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
@@ -23,6 +71,22 @@
       "duration_ms": 214500,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6R8g4UJc2jYda4wmrtz09d"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Take Me To The River",
+        "url": "https://open.spotify.com/album/0gSwm3mTIljhLhvQV5ScNN"
+      },
+      "artists": [
+        {
+          "name": "Seth Walker",
+          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/0Z4Pscp8wATq2NkY7PwLOi"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -63,6 +127,26 @@
       "duration_ms": 150194,
       "name": "Sorry You're Blue",
       "url": "https://open.spotify.com/track/2wjepWIiTprtyqH3yvAAqT"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Run Out of Love (with Lisa Loeb)",
+        "url": "https://open.spotify.com/album/6QKfjajavauKgHu9faeZNJ"
+      },
+      "artists": [
+        {
+          "name": "Pete Muller",
+          "url": "https://open.spotify.com/artist/55BUDwcDLKgwBPOKTrr4sc"
+        },
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        }
+      ],
+      "duration_ms": 277026,
+      "name": "Run Out of Love - with Lisa Loeb",
+      "url": "https://open.spotify.com/track/34JpLfR2gIJtsq93RnbRCu"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -627,22 +711,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Ain't No Harmin' Me",
-        "url": "https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 230680,
-      "name": "Ain't No Harmin' Me",
-      "url": "https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "All The Bad Things (Stripped Back)",
         "url": "https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4"
       },
@@ -1203,22 +1271,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 316360,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Call Me A Fool [Feat. Carla Thomas]",
         "url": "https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl"
       },
@@ -1575,38 +1627,6 @@
       "duration_ms": 188869,
       "name": "Shake! Shake! Shake!",
       "url": "https://open.spotify.com/track/12hFIo6qXSlxyDluikwc73"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "The Angels In Heaven Done Signed My Name",
-        "url": "https://open.spotify.com/album/1NJxrv2i8o2eOuRHS6kRxa"
-      },
-      "artists": [
-        {
-          "name": "Leo \"Bud\" Welch",
-          "url": "https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd"
-        }
-      ],
-      "duration_ms": 165727,
-      "name": "Don't Let The Devil Ride",
-      "url": "https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "POWER",
-        "url": "https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj"
-      },
-      "artists": [
-        {
-          "name": "Seratones",
-          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
-        }
-      ],
-      "duration_ms": 161675,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn"
     },
     {
       "added_at": "2023-10-06 04:00:00",

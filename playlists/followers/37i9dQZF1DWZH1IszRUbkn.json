@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 239,
+  "2024-03-23": 247,
   "date_first_scraped": "2023-09-27",
   "description": "Canta juntos con tus artistas favoritos.",
   "name": "Cantando con tus Favoritos",
@@ -610,6 +610,24 @@
     },
     {
       "album": {
+        "name": "La fiesta de cumplea\u00f1os",
+        "url": "https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "date_added": "2020-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72489,
+      "name": "Las ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/38zrUigO3cpDgezXQWRDzN"
+    },
+    {
+      "album": {
         "name": "Frozen: Una Aventura Congelada (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO"
       },
@@ -825,7 +843,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 50651,
       "name": "Osos de Paseo",
       "url": "https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex"

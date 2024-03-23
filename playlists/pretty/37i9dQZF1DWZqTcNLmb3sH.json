@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57324,
+  "num_followers": 57340,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2E4M2Q5NzVhNzc3MDVmN2ZmMDI3Zjk1ZGMwNDZiMzFhNTdiODY5",
+  "snapshot_id": "MCw1YWE4ZWU0ZTY2ODE5N2I0ZjEyZTc5MGUwOWEzZmYxNWJiNjE1MWJj",
   "tracks": [
     {
       "added_at": "2024-01-30 12:16:19",
@@ -67,6 +67,50 @@
       "duration_ms": 234038,
       "name": "Obbane Shiva Obbane Yuva( From \"Yuva\" )",
       "url": "https://open.spotify.com/track/1DdnaIa2iSUlSl5oXk7sG3"
+    },
+    {
+      "added_at": "2024-03-22 11:00:02",
+      "album": {
+        "name": "Ayomaya (From \"Blink\")",
+        "url": "https://open.spotify.com/album/3q80kqta2k0KiJ7atJPD5R"
+      },
+      "artists": [
+        {
+          "name": "Prasanna Kumar M S",
+          "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
+        },
+        {
+          "name": "Jayanth Kumar",
+          "url": "https://open.spotify.com/artist/6ty4Ss97oWULNkJa18TOY0"
+        },
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "Ayomaya (From \"Blink\")",
+      "url": "https://open.spotify.com/track/2N7HPBLPgi8i8oeAcTH9aj"
+    },
+    {
+      "added_at": "2024-03-22 10:58:40",
+      "album": {
+        "name": "Tilimoda Baanali (From \"Garuda Purana\")",
+        "url": "https://open.spotify.com/album/70K5BK6L8JGah2WUxYhrwC"
+      },
+      "artists": [
+        {
+          "name": "Rakesh Acharya",
+          "url": "https://open.spotify.com/artist/6AueyJq6aqbvnRw0zpTSVD"
+        },
+        {
+          "name": "Vijetha Vishwanath",
+          "url": "https://open.spotify.com/artist/5jjDgsBACoPk9w7w03qbFN"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Tilimoda Baanali (From \"Garuda Purana\")",
+      "url": "https://open.spotify.com/track/4kDCPi3wq2ObWTS8ks6KEP"
     },
     {
       "added_at": "2024-03-20 11:25:36",
@@ -1648,16 +1692,20 @@
       },
       "artists": [
         {
+          "name": "Bruthuva Caleb",
+          "url": "https://open.spotify.com/artist/07ABY32b4waim4zjiFgI0E"
+        },
+        {
+          "name": "Chethan Shetty",
+          "url": "https://open.spotify.com/artist/4qKB79xGsxZ6s3RCfSWgeM"
+        },
+        {
           "name": "Chandan Shetty",
           "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
         },
         {
           "name": "Deepak Doddera",
           "url": "https://open.spotify.com/artist/0SGmikcgmj4djshtt85Nh0"
-        },
-        {
-          "name": "Chethan Shetty",
-          "url": "https://open.spotify.com/artist/4qKB79xGsxZ6s3RCfSWgeM"
         }
       ],
       "duration_ms": 223823,

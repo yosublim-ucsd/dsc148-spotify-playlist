@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 226169,
+  "2024-03-23": 226165,
   "date_first_scraped": "2020-08-14",
   "description": "Concentra\u00e7\u00e3o no m\u00e1ximo, sem distra\u00e7\u00f5es.",
   "name": "Concentra\u00e7\u00e3o Perfeita",
@@ -2793,7 +2793,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 155500,
       "name": "Con el tiempo todo se consigue",
       "url": "https://open.spotify.com/track/7iw3S9vmaQYrdp9fUh4gzC"
@@ -6546,6 +6546,24 @@
     },
     {
       "album": {
+        "name": "In A Darkened Room",
+        "url": "https://open.spotify.com/album/30jOl0PWPzrFJrYnIFC1QC"
+      },
+      "artists": [
+        {
+          "name": "Luiza Schmidt",
+          "url": "https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138389,
+      "name": "In A Darkened Room",
+      "url": "https://open.spotify.com/track/0iVMAdJchuoG3DqPBu1450"
+    },
+    {
+      "album": {
         "name": "In Her Eyes",
         "url": "https://open.spotify.com/album/1gtbwDe43hTwj2aOrGWRMG"
       },
@@ -7475,7 +7493,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 164842,
       "name": "La Storia",
       "url": "https://open.spotify.com/track/3U5RTSxDKkhA6rtHEXpI6H"
@@ -9642,6 +9660,24 @@
     },
     {
       "album": {
+        "name": "Mornings With You",
+        "url": "https://open.spotify.com/album/0XxTFCTiJE90ttX2klGpMf"
+      },
+      "artists": [
+        {
+          "name": "Noella Russo",
+          "url": "https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139949,
+      "name": "Mornings With You",
+      "url": "https://open.spotify.com/track/1eJ4ZttuJo0O4hFTVUbT1t"
+    },
+    {
+      "album": {
         "name": "Mother May I",
         "url": "https://open.spotify.com/album/5nJnrCHJTzd429URLTrfch"
       },
@@ -10881,7 +10917,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 134386,
       "name": "Pedal Chair",
       "url": "https://open.spotify.com/track/7BcH01qQ67ZUStmNC4qhk8"
@@ -14363,6 +14399,24 @@
       "duration_ms": 167295,
       "name": "Tagtraum",
       "url": "https://open.spotify.com/track/5bNtJUg1EE3XP1dMM79Xvl"
+    },
+    {
+      "album": {
+        "name": "Tales of This",
+        "url": "https://open.spotify.com/album/3cbLSK4KRqfOYi918vET66"
+      },
+      "artists": [
+        {
+          "name": "Andrea Azzola",
+          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136867,
+      "name": "Tales of This",
+      "url": "https://open.spotify.com/track/75jwRyL9mbp1kMoYiCWoS2"
     },
     {
       "album": {

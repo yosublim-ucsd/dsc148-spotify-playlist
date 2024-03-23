@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Kany Garc\u00eda & Young Miko",
-  "num_followers": 133641,
+  "num_followers": 133661,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODA2OGMwNmU0MGM3YTQ4YjcwZjIyYzdhZmQyMGYxNDA5ZjU2MGY5",
+  "snapshot_id": "MCw0YjU4OWYxMGJkM2EzZjI2OTY5MjVhOWUzMjc5OTgxM2YwZWQ4MzE4",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Qu\u00edtate La Ropa",
+        "url": "https://open.spotify.com/album/6nqClgObFyHB00dZsQFSKl"
+      },
+      "artists": [
+        {
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "Qu\u00edtate La Ropa",
+      "url": "https://open.spotify.com/track/36akd6DwGe6SbEINnMqx9c"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 267480,
       "name": "jules",
       "url": "https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Ivory (Marfil)",
-        "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/585Vv1qgZ4Brp7J3ARLEIj"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Qu\u00edtate La Ropa",
-        "url": "https://open.spotify.com/album/6nqClgObFyHB00dZsQFSKl"
+        "name": "Ivory (Marfil)",
+        "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
       },
       "artists": [
         {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 139591,
-      "name": "Qu\u00edtate La Ropa",
-      "url": "https://open.spotify.com/track/36akd6DwGe6SbEINnMqx9c"
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/585Vv1qgZ4Brp7J3ARLEIj"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "vivir en los dosmil",
-        "url": "https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 142439,
-      "name": "vivir en los dosmil",
-      "url": "https://open.spotify.com/track/3WUlTT5mSRZNmPfbtkvwAS"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Hawaira",
         "url": "https://open.spotify.com/album/0NRNUADdkxqyM5OBbb9CYB"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 160800,
       "name": "Te Conoc\u00ed Bailando",
       "url": "https://open.spotify.com/track/7h8xlmAY4X54nePqWXILRm"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "vivir en los dosmil",
+        "url": "https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 142439,
+      "name": "vivir en los dosmil",
+      "url": "https://open.spotify.com/track/3WUlTT5mSRZNmPfbtkvwAS"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Bellakosa",
+        "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
+      },
+      "artists": [
+        {
+          "name": "Sailorfag",
+          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Bellakosa",
+      "url": "https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "El diablo en el cuerpo",
         "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 266875,
       "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Bellakosa",
-        "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
-      },
-      "artists": [
-        {
-          "name": "Sailorfag",
-          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Bellakosa",
-      "url": "https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -935,6 +935,26 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Mi vida en llamas (feat. Buscabulla)",
+        "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 288624,
+      "name": "Mi vida en llamas (feat. Buscabulla)",
+      "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/0xSXHBOzeTzGGUhE2TIpS9"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 225000,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/0VBlnEmi1kQXbi1SVumgEE"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Mi vida en llamas (feat. Buscabulla)",
-        "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 288624,
-      "name": "Mi vida en llamas (feat. Buscabulla)",
-      "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Venus & Blue",
-        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 190679,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Crimen",
         "url": "https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 187234,
       "name": "Crimen",
       "url": "https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Venus & Blue",
+        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 190679,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "NO BINARIA",
-        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 131416,
-      "name": "NO BINARIA",
-      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "A La Playa",
         "url": "https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 193870,
       "name": "A La Playa",
       "url": "https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "NO BINARIA",
+        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 131416,
+      "name": "NO BINARIA",
+      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "OJALA",
-        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
-      },
-      "artists": [
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "OJALA",
-      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Uno de nosotros (feat. Javiera Mena)",
         "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 249518,
       "name": "Unx de nosotrxs (feat. Javiera Mena)",
       "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "OJALA",
+        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "OJALA",
+      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Drama Pop",
-        "url": "https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR"
-      },
-      "artists": [
-        {
-          "name": "DANI RIDE",
-          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
-        }
-      ],
-      "duration_ms": 206497,
-      "name": "Sentirme Amante",
-      "url": "https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -1487,22 +1471,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Soy Asi",
-        "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
-      },
-      "artists": [
-        {
-          "name": "Kevin Fret",
-          "url": "https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM"
-        }
-      ],
-      "duration_ms": 232362,
-      "name": "Soy Asi",
-      "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "BELAMOR",
         "url": "https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22"
       },
@@ -1515,6 +1483,38 @@
       "duration_ms": 223493,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Drama Pop",
+        "url": "https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR"
+      },
+      "artists": [
+        {
+          "name": "DANI RIDE",
+          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
+        }
+      ],
+      "duration_ms": 206497,
+      "name": "Sentirme Amante",
+      "url": "https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Soy Asi",
+        "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
+      },
+      "artists": [
+        {
+          "name": "Kevin Fret",
+          "url": "https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM"
+        }
+      ],
+      "duration_ms": 232362,
+      "name": "Soy Asi",
+      "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
     },
     {
       "added_at": "2024-03-15 04:00:00",

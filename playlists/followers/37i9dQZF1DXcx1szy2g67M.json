@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 558689,
+  "2024-03-23": 558874,
   "date_first_scraped": "2023-02-25",
   "description": "Maak je klaar voor de zomer van 2024!",
   "name": "Summer '24",
@@ -135,7 +135,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 162160,
       "name": "17",
       "url": "https://open.spotify.com/track/2jCIZqFN87ZEp8wcLL4g9V"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 210000,
       "name": "Amen",
       "url": "https://open.spotify.com/track/1eSej5TdSVrBXcrkmkplqS"
@@ -525,6 +525,24 @@
       "duration_ms": 198823,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/3dqIIPHyhVVbN1mnShVAhT"
+    },
+    {
+      "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
     },
     {
       "album": {
@@ -902,6 +920,24 @@
     },
     {
       "album": {
+        "name": "boomerang",
+        "url": "https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138984,
+      "name": "boomerang",
+      "url": "https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl"
+    },
+    {
+      "album": {
         "name": "Born To Be Alive",
         "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
       },
@@ -971,6 +1007,24 @@
       "duration_ms": 171226,
       "name": "Bright Eyes",
       "url": "https://open.spotify.com/track/2KitOzLBUFdW4vB2aHeQri"
+    },
+    {
+      "album": {
+        "name": "broken by you",
+        "url": "https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "broken by you",
+      "url": "https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai"
     },
     {
       "album": {
@@ -1229,7 +1283,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 133064,
       "name": "Cara Mia",
       "url": "https://open.spotify.com/track/0lWksohJCovbV8wOSVOT9b"
@@ -1305,7 +1359,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 171441,
       "name": "Cherry Lips",
       "url": "https://open.spotify.com/track/2vfcLK0mU3JhMC6vscawrM"
@@ -2607,7 +2661,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 177921,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
@@ -2713,7 +2767,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 186125,
       "name": "Good People",
       "url": "https://open.spotify.com/track/42YrtW7V1OyF3BXi0ftYQj"
@@ -3395,6 +3449,24 @@
       "duration_ms": 163933,
       "name": "I DON'T WANNA BE LIKE YOU",
       "url": "https://open.spotify.com/track/26FuBmI70i0mXaKTST6Bz4"
+    },
+    {
+      "album": {
+        "name": "I SAID NO SIR",
+        "url": "https://open.spotify.com/album/0RhlRhIryEZPRbyYaLf1lA"
+      },
+      "artists": [
+        {
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183086,
+      "name": "I SAID NO SIR",
+      "url": "https://open.spotify.com/track/4M9dTGcJFaoDJN7Sopqsk2"
     },
     {
       "album": {
@@ -4195,7 +4267,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 181650,
       "name": "Love On",
       "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
@@ -5229,6 +5301,24 @@
       "duration_ms": 156756,
       "name": "Osadebe",
       "url": "https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5"
+    },
+    {
+      "album": {
+        "name": "Outside In",
+        "url": "https://open.spotify.com/album/4fjRR9lgDZ7Xo3V84S25i3"
+      },
+      "artists": [
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161303,
+      "name": "Outside In",
+      "url": "https://open.spotify.com/track/0DTy6hvkVfKBpGtMzBd4Fw"
     },
     {
       "album": {
@@ -6309,7 +6399,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -7212,6 +7302,24 @@
     },
     {
       "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166941,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w"
+    },
+    {
+      "album": {
         "name": "Until I Found You (Em Beihold Version)",
         "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
       },
@@ -7341,6 +7449,32 @@
       "duration_ms": 145440,
       "name": "Waffle House",
       "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
+    },
+    {
+      "album": {
+        "name": "Wanna Be Loved (feat. PollyAnna)",
+        "url": "https://open.spotify.com/album/1yzDhFOZhvCL0Bah2G2Ge9"
+      },
+      "artists": [
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        },
+        {
+          "name": "FDVM",
+          "url": "https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl"
+        },
+        {
+          "name": "PollyAnna",
+          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150476,
+      "name": "Wanna Be Loved (feat. PollyAnna)",
+      "url": "https://open.spotify.com/track/4JQQF7uU5LEc5aubbkvA2K"
     },
     {
       "album": {
@@ -7533,6 +7667,24 @@
       "duration_ms": 239032,
       "name": "What Are You Waiting For?",
       "url": "https://open.spotify.com/track/3hnFEjPOnP7d3eTxPGpNkX"
+    },
+    {
+      "album": {
+        "name": "What I Am",
+        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211280,
+      "name": "What I Am",
+      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
     },
     {
       "album": {

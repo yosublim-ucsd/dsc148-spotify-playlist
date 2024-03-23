@@ -4,7 +4,7 @@
 
 > Shawty lo que necesitas es darle flow\. María Becerra e Ivy Queen en portada.
 
-556 songs - 1 day 6 hr 20 min
+557 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Dos Opciones](https://open.spotify.com/track/3qIpCIYX31M7RWjkIGaX5l) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Dos Opciones](https://open.spotify.com/album/6XgDscV3NB6BbYqUkvVixf) | 3:44 | 2021-12-17 | 2022-07-02 |
 | [Dos Problemas \(feat\. Big Soto\) \- Remix](https://open.spotify.com/track/7bx66Je824Iak8c1CfsMrE) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Dos Problemas \(feat\. Big Soto\) \[Remix\]](https://open.spotify.com/album/6J5v3KTP6mYNd02doPo4mM) | 4:03 | 2021-12-17 | 2022-01-22 |
 | [Dos Tragos](https://open.spotify.com/track/68vJWWz7KPU4JCsgAySVPZ) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Dos Tragos](https://open.spotify.com/album/4K6mnLI4yTZsThzySbkvRQ) | 3:12 | 2021-12-17 | 2022-01-29 |
+| [Double Team](https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Double Team](https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V) | 3:51 | 2024-03-22 |  |
 | [Down](https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Down](https://open.spotify.com/album/4d2O4fr026apliDVapi0j0) | 2:44 | 2023-04-07 | 2023-06-17 |
 | [Doxxis](https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Doxxis](https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p) | 3:06 | 2022-10-21 | 2023-03-04 |
 | [DUBAI](https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [DUBAI](https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd) | 2:26 | 2023-05-26 | 2023-06-17 |

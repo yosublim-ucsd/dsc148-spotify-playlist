@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 13313,
+  "num_followers": 13326,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzRmZGJjNGZkNDJhYzkwM2JkYjU3NmRkNWIyMmQ2MTcxM2U2NWQw",
+  "snapshot_id": "MCxjOWEyOWY3OGUyMjRmNGQwMzlhOWMwYWVlMjBjZjNkYThhMjRhYjkz",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "I Still Need Him",
+        "url": "https://open.spotify.com/album/1RAQZp4SUgNfFoZN3NulUu"
+      },
+      "artists": [
+        {
+          "name": "Mark Bishop",
+          "url": "https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k"
+        }
+      ],
+      "duration_ms": 311013,
+      "name": "My Name Is Jesus",
+      "url": "https://open.spotify.com/track/4YCt6MI1Q2SXgPwd8KytpO"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Godfidence",
         "url": "https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 196500,
       "name": "Godfidence",
       "url": "https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "I Still Need Him",
-        "url": "https://open.spotify.com/album/1RAQZp4SUgNfFoZN3NulUu"
-      },
-      "artists": [
-        {
-          "name": "Mark Bishop",
-          "url": "https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k"
-        }
-      ],
-      "duration_ms": 311013,
-      "name": "My Name Is Jesus",
-      "url": "https://open.spotify.com/track/4YCt6MI1Q2SXgPwd8KytpO"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Love Is the Voice",
-        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
-      },
-      "artists": [
-        {
-          "name": "The Taylors",
-          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
-        }
-      ],
-      "duration_ms": 165613,
-      "name": "God, Do it Again",
-      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Just Sing!",
         "url": "https://open.spotify.com/album/3HEPflkMDvnyoTXpnarPQz"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 457853,
       "name": "Ten Thousand Angels / He Looked Beyond My Fault And Saw My Need",
       "url": "https://open.spotify.com/track/3ZMacOVRytVPDW8PtXQv2x"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Love Is the Voice",
+        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
+      },
+      "artists": [
+        {
+          "name": "The Taylors",
+          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
+        }
+      ],
+      "duration_ms": 165613,
+      "name": "God, Do it Again",
+      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Pray Now",
-        "url": "https://open.spotify.com/album/12uzTrOLpxr3j6zr0PLbC3"
-      },
-      "artists": [
-        {
-          "name": "Karen Peck & New River",
-          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
-        }
-      ],
-      "duration_ms": 267493,
-      "name": "Pray Now",
-      "url": "https://open.spotify.com/track/6BT4eCTe1MiGwAGgf5ezpJ"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Heritage, Vol. 3",
         "url": "https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 154932,
       "name": "Praise Medley",
       "url": "https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Pray Now",
+        "url": "https://open.spotify.com/album/12uzTrOLpxr3j6zr0PLbC3"
+      },
+      "artists": [
+        {
+          "name": "Karen Peck & New River",
+          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
+        }
+      ],
+      "duration_ms": 267493,
+      "name": "Pray Now",
+      "url": "https://open.spotify.com/track/6BT4eCTe1MiGwAGgf5ezpJ"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "How Great Thou Art",
+        "url": "https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU"
+      },
+      "artists": [
+        {
+          "name": "John Berry",
+          "url": "https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6"
+        }
+      ],
+      "duration_ms": 210161,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/51SwrmMlPDLYWsBD62rXb6"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Great Is His Faithfulness",
         "url": "https://open.spotify.com/album/7HfV6ry5U4qHaQlq6lSfzt"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 288546,
       "name": "Great Is His Faithfulness",
       "url": "https://open.spotify.com/track/5DQ1iZR8EKRFezKYiRxYaA"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "How Great Thou Art",
-        "url": "https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU"
-      },
-      "artists": [
-        {
-          "name": "John Berry",
-          "url": "https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6"
-        }
-      ],
-      "duration_ms": 210161,
-      "name": "How Great Thou Art",
-      "url": "https://open.spotify.com/track/51SwrmMlPDLYWsBD62rXb6"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/3jiITw0HxtYaZAOAuEOQ93"
+        "name": "2: 22",
+        "url": "https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7"
       },
       "artists": [
         {
-          "name": "Gaither Vocal Band",
-          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+          "name": "Karen Peck & New River",
+          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
         }
       ],
-      "duration_ms": 316864,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/6LiW0vJVVrycjGFteSG7qm"
+      "duration_ms": 194198,
+      "name": "Future Glory",
+      "url": "https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "2: 22",
-        "url": "https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7"
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/3jiITw0HxtYaZAOAuEOQ93"
       },
       "artists": [
         {
-          "name": "Karen Peck & New River",
-          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
         }
       ],
-      "duration_ms": 194198,
-      "name": "Future Glory",
-      "url": "https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr"
+      "duration_ms": 316864,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/6LiW0vJVVrycjGFteSG7qm"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Front Porch Singin'",
-        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 108145,
-      "name": "Rock My Soul",
-      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Something New",
         "url": "https://open.spotify.com/album/60vvK9ecxcFAaHEr0yqI24"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 199773,
       "name": "Welcome to Your Life",
       "url": "https://open.spotify.com/track/5NiZESfwDHW1gRgrZr1wGY"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Front Porch Singin'",
+        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 108145,
+      "name": "Rock My Soul",
+      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
     },
     {
       "added_at": "2023-04-14 06:27:38",

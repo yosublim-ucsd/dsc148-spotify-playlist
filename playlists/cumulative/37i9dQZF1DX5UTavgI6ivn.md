@@ -4,7 +4,7 @@
 
 > Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia.
 
-281 songs - 15 hr 59 min
+282 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [EL RELOJ \(con Maluma\)](https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [EL RELOJ \(con Maluma\)](https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR) | 3:00 | 2023-08-11 | 2024-02-27 |
 | [Enchule](https://open.spotify.com/track/6NQQJRKTJeCuSnvNZ4J7xA) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Enchule](https://open.spotify.com/album/4yEObSjSnJ1FhFGopfbxnd) | 2:29 | 2023-05-19 | 2023-06-30 |
 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 | 2023-10-30 | 2024-02-27 |
-| [entre las piernas](https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [entre las piernas](https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl) | 3:31 | 2024-03-01 |  |
+| [entre las piernas](https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [entre las piernas](https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl) | 3:31 | 2024-03-01 | 2024-03-23 |
 | [Es Por Ti \- Remastered 2022](https://open.spotify.com/track/3TfuiALDQLKQqqTirOLu4q) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal \(20th Anniversary Remastered\)](https://open.spotify.com/album/1u6LVowYLLPQVSS2o67YyW) | 4:10 | 2022-05-20 | 2022-11-11 |
 | [Espacio](https://open.spotify.com/track/2t4HsrvaJpNOSI1UMnKVxW) | [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Espacio](https://open.spotify.com/album/45O6rWsnsgORCAgGJwfZaR) | 3:23 | 2023-09-08 | 2023-10-31 |
 | [Esperándote](https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Esperándote](https://open.spotify.com/album/1PEgEtk3DMrUxG6Mkco3Zg) | 3:19 | 2022-01-12 | 2024-02-27 |
@@ -209,6 +209,7 @@
 | [Prohibido](https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Prohibido](https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ) | 3:08 | 2022-10-28 | 2023-02-11 |
 | [Prohibidox](https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:46 | 2022-10-11 | 2024-02-27 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-05-28 |  |
+| [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 | 2024-03-22 |  |
 | [QLONA](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:52 | 2023-09-08 | 2024-02-27 |
 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 | 2024-01-19 | 2024-02-27 |
 | [QUEMA](https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [QUEMA](https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry) | 2:30 | 2024-02-26 |  |

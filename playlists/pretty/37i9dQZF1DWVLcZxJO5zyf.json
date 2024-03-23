@@ -1,15 +1,31 @@
 {
-  "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto: Pabllo Vittar",
-  "num_followers": 2417635,
+  "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto: Carol Biazin",
+  "num_followers": 2417723,
   "original_name": "Pop Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTUwMTg4MDYyYTQ3Mjg4MmNlMDIyMmUyZmM3OWMyOWNiNzBlMDdi",
+  "snapshot_id": "MCwwNmZiNWM2ZTdlMjBjNjkxZmZhZWUyNjAxMjQ5OWUxMTY2ZGUwNzNi",
   "tracks": [
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "A Gente S\u00f3 Conhece Quando Termina",
+        "url": "https://open.spotify.com/album/57G8gYnOCrQnBPWTdsCKYT"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "A Gente S\u00f3 Conhece Quando Termina",
+      "url": "https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Ai Ai Ai Mega Pr\u00edncipe",
         "url": "https://open.spotify.com/album/2edjshjBUtVkfILZP3ATDR"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/2n8j7u2yDV1hyIXvh5f85Q"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Quando a gente ama",
         "url": "https://open.spotify.com/album/7dmSRqUYOrnaovRY3q5CFk"
@@ -41,7 +57,31 @@
       "url": "https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Double Team",
+        "url": "https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 231628,
+      "name": "Double Team",
+      "url": "https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "V\u00edcio Inerente",
         "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
@@ -57,7 +97,7 @@
       "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Numanice #3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
@@ -77,7 +117,27 @@
       "url": "https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 204235,
+      "name": "Fiu Fiu",
+      "url": "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "POCPOC",
         "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
@@ -93,7 +153,7 @@
       "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Para De Dizer Que N\u00e3o Me Ama (Ao Vivo)",
         "url": "https://open.spotify.com/album/0dn2jZVWmrGtYfNOQPSvyC"
@@ -117,7 +177,7 @@
       "url": "https://open.spotify.com/track/3s0RLXyjavjaiZdAhqUHIx"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "recadin no espelho",
         "url": "https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT"
@@ -137,7 +197,7 @@
       "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "REVERSA [in]ato",
         "url": "https://open.spotify.com/album/6N8AgBQAGm79BZLojct5J7"
@@ -161,27 +221,7 @@
       "url": "https://open.spotify.com/track/78wYB2vQHXCGW5UwKlFlob"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
-      "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 204235,
-      "name": "Fiu Fiu",
-      "url": "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"
-    },
-    {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Chico (English Version)",
         "url": "https://open.spotify.com/album/6FWg2G8y9IMA2ztAPO6XvA"
@@ -197,7 +237,7 @@
       "url": "https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Olhar HD",
         "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
@@ -221,7 +261,7 @@
       "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Monstr\u00e3o",
         "url": "https://open.spotify.com/album/0i0UyaiLEhUGQQT65177hS"
@@ -241,7 +281,7 @@
       "url": "https://open.spotify.com/track/2LZjtOXWZMSpRbQyd89HyQ"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Numanice #3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
@@ -257,7 +297,7 @@
       "url": "https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Sugar Papi",
         "url": "https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH"
@@ -277,7 +317,7 @@
       "url": "https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "BANDIDONA",
         "url": "https://open.spotify.com/album/3le9u1jM09SXaQY0HyeEpK"
@@ -305,7 +345,7 @@
       "url": "https://open.spotify.com/track/70t5xVFE5WJcg80wklPbcX"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "liga\u00e7\u00f5es de alma",
         "url": "https://open.spotify.com/album/2iPtZn1xs1U1uL5VsNxY2a"
@@ -325,7 +365,23 @@
       "url": "https://open.spotify.com/track/3RZ84nOV92gBOQc1iIdIez"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "AGRIDOCE (PARTE 1)",
+        "url": "https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "AGRIDOCE",
+      "url": "https://open.spotify.com/track/5paz7s1c2X4P3sYAotEiPW"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "SAUDADE DE VOC\u00ca",
         "url": "https://open.spotify.com/album/08lJ5G87tJYD81MOC0jSbo"
@@ -341,7 +397,7 @@
       "url": "https://open.spotify.com/track/35GWqTSabXuqbfVxHeM8Or"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Mil Veces",
         "url": "https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S"
@@ -357,7 +413,7 @@
       "url": "https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "VIL\u00c3",
         "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
@@ -373,7 +429,7 @@
       "url": "https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "SUPER",
         "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
@@ -389,23 +445,7 @@
       "url": "https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
-      "album": {
-        "name": "Sexo, poder e arte",
-        "url": "https://open.spotify.com/album/0YrSJbs6AO5Qj8vKCqsqrt"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        }
-      ],
-      "duration_ms": 272458,
-      "name": "Sexo, poder e arte",
-      "url": "https://open.spotify.com/track/7tgRx0uRO64z0Zppg9BsCy"
-    },
-    {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Assanhadinha",
         "url": "https://open.spotify.com/album/4OCxpsJAeY4CjEovKLJXms"
@@ -425,7 +465,7 @@
       "url": "https://open.spotify.com/track/3akR6DnboLGowHS3Zzk5IR"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "T\u00e1 OK (Remix)",
         "url": "https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf"
@@ -453,7 +493,7 @@
       "url": "https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
@@ -477,7 +517,7 @@
       "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
         "url": "https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL"
@@ -505,27 +545,7 @@
       "url": "https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
-      "album": {
-        "name": "La Muerte",
-        "url": "https://open.spotify.com/album/1ZJGLtqMXz4zETyqQw6qDG"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "La Muerte",
-      "url": "https://open.spotify.com/track/1B7qwIcI3gbPS5Mm4CBLjD"
-    },
-    {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
@@ -541,7 +561,7 @@
       "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "V\u00edcio Inerente",
         "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Baile do Papato",
         "url": "https://open.spotify.com/album/2xReweSuwmZbdogHMILeek"
@@ -593,7 +613,7 @@
       "url": "https://open.spotify.com/track/3Q0LWpLuhEcCCWjpfBRnzH"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
@@ -609,7 +629,7 @@
       "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "PREPARADA",
         "url": "https://open.spotify.com/album/5XveVns4NMlHm6rQUlBqQP"
@@ -625,23 +645,7 @@
       "url": "https://open.spotify.com/track/1KRRVMgrqrwlAp4loIRPfE"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
-      "album": {
-        "name": "LADY LESTE (AO VIVO)",
-        "url": "https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 184383,
-      "name": "RADAR - AO VIVO",
-      "url": "https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb"
-    },
-    {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Pilantra",
         "url": "https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K"
@@ -661,7 +665,7 @@
       "url": "https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "JOIA RARA",
         "url": "https://open.spotify.com/album/2tJzNiUgQ6lPjPkq4HuQPN"
@@ -681,7 +685,7 @@
       "url": "https://open.spotify.com/track/6L8aBaqfwMuwhpI9uhbyjp"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Funk Rave",
         "url": "https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu"
@@ -697,7 +701,7 @@
       "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "MAMACITA (remixes)",
         "url": "https://open.spotify.com/album/2lp5TTSc5rQcb8RAtI0Owq"
@@ -721,7 +725,7 @@
       "url": "https://open.spotify.com/track/14QHVQzAYENQ4BZSDjuyez"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Vai Vendo",
         "url": "https://open.spotify.com/album/7khLcypJ5ujTq7aK5pAUm5"
@@ -741,7 +745,7 @@
       "url": "https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "AFRODHIT",
         "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
@@ -757,7 +761,7 @@
       "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "PLAYGROUND",
         "url": "https://open.spotify.com/album/3hPfwefUmHJZDXrJpdftxi"
@@ -773,7 +777,7 @@
       "url": "https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "VIL\u00c3",
         "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
@@ -797,7 +801,7 @@
       "url": "https://open.spotify.com/track/210u8GSVwq7anEWu0e6wzL"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Nu",
         "url": "https://open.spotify.com/album/7DjmmuPo67pj5ODIJFWkGR"
@@ -817,7 +821,7 @@
       "url": "https://open.spotify.com/track/74myq4QbO9E8bTtLQuOWYY"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "MAMA.CITA (hasta la vista)",
         "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
@@ -837,7 +841,7 @@
       "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
@@ -853,7 +857,7 @@
       "url": "https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Pipoco",
         "url": "https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E"
@@ -877,7 +881,7 @@
       "url": "https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
@@ -897,7 +901,7 @@
       "url": "https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "CACHORRINHAS",
         "url": "https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6"
@@ -913,7 +917,7 @@
       "url": "https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Hotel Caro",
         "url": "https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU"
@@ -933,7 +937,7 @@
       "url": "https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "LUAN CITY (Ao Vivo)",
         "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
@@ -953,7 +957,7 @@
       "url": "https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "sentaDONA (Remix) s2",
         "url": "https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0"
@@ -981,7 +985,7 @@
       "url": "https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h"
     },
     {
-      "added_at": "2024-03-08 13:42:23",
+      "added_at": "2024-03-22 03:00:00",
       "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"

@@ -1,13 +1,73 @@
 {
-  "description": "The best of today's funk. Cover: Dabeull\n",
-  "num_followers": 316943,
+  "description": "The best of today's funk. Cover: TWRP\n",
+  "num_followers": 317211,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzhiYjU5ZDdhYzM0NTc5YTExMTE3MTJmN2I5YWNmM2E3OWJkM2Zi",
+  "snapshot_id": "MCxlY2QxOTIwMWE4NDQ5NWYwMjY3ZWMyMWU1ZmQ3ZDVjOTMyZmFlOGJk",
   "tracks": [
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Digital Nightmare",
+        "url": "https://open.spotify.com/album/4qkSsAWMPhXTEwXZIDnlJv"
+      },
+      "artists": [
+        {
+          "name": "TWRP",
+          "url": "https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr"
+        },
+        {
+          "name": "Montaigne",
+          "url": "https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b"
+        },
+        {
+          "name": "Tom Cardy",
+          "url": "https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw"
+        }
+      ],
+      "duration_ms": 254763,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/69NC8FNTlg78LJG4tTk0eI"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Body Heat",
+        "url": "https://open.spotify.com/album/3x89dH8gykGUMNlvUDz4qu"
+      },
+      "artists": [
+        {
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        },
+        {
+          "name": "HolyBrune",
+          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "Body Heat",
+      "url": "https://open.spotify.com/track/5SqrG4iYtYJ5Pz02zMIVYo"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Keep It High",
+        "url": "https://open.spotify.com/album/1ukkIgYlPtLdceJKTTGqIV"
+      },
+      "artists": [
+        {
+          "name": "Nikka Costa",
+          "url": "https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK"
+        }
+      ],
+      "duration_ms": 234330,
+      "name": "Keep It High",
+      "url": "https://open.spotify.com/track/23xaHEMtIg6AamiSOh5AXI"
+    },
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
@@ -45,24 +105,28 @@
       "url": "https://open.spotify.com/track/0SlZtFKCvY6hLjDNEgGQMe"
     },
     {
-      "added_at": "2024-03-15 04:01:00",
+      "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Body Heat",
-        "url": "https://open.spotify.com/album/3x89dH8gykGUMNlvUDz4qu"
+        "name": "Look Around",
+        "url": "https://open.spotify.com/album/6ttL4crGEJOfpcIiEVQFmM"
       },
       "artists": [
         {
-          "name": "Dabeull",
-          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+          "name": "Dux",
+          "url": "https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr"
         },
         {
-          "name": "HolyBrune",
-          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
+          "name": "Moorea Masa",
+          "url": "https://open.spotify.com/artist/5iYuFbZMJEydHyzZYYYPTo"
+        },
+        {
+          "name": "Swatkins",
+          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
         }
       ],
-      "duration_ms": 201186,
-      "name": "Body Heat",
-      "url": "https://open.spotify.com/track/5SqrG4iYtYJ5Pz02zMIVYo"
+      "duration_ms": 221850,
+      "name": "Look Around",
+      "url": "https://open.spotify.com/track/4cH9h6nvtxYNo450VXEo1s"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -99,6 +163,22 @@
       "duration_ms": 293586,
       "name": "Dumpalltheguns - Feat. Danielle Ponder",
       "url": "https://open.spotify.com/track/6p3011ub8UH8gohU0cmG7K"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Break A Sweat",
+        "url": "https://open.spotify.com/album/0Td911AFIykZTKBYlhlhUU"
+      },
+      "artists": [
+        {
+          "name": "Davie",
+          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
+        }
+      ],
+      "duration_ms": 174358,
+      "name": "Break A Sweat",
+      "url": "https://open.spotify.com/track/4tYi9HxvYJFgBUGEvSdMyV"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -231,22 +311,6 @@
       "duration_ms": 209248,
       "name": "STEP BY STEP",
       "url": "https://open.spotify.com/track/0IORRm54p9PaFUejiXdjxB"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Dirty Disco",
-        "url": "https://open.spotify.com/album/5nmGeDHV5dmbOedJhKIRv4"
-      },
-      "artists": [
-        {
-          "name": "Nikka Costa",
-          "url": "https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK"
-        }
-      ],
-      "duration_ms": 223319,
-      "name": "Dirty Disco",
-      "url": "https://open.spotify.com/track/5xf4Rsu7qjKHGBrEwgseOT"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1537,22 +1601,6 @@
       "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
     },
     {
-      "added_at": "2022-03-11 16:11:57",
-      "album": {
-        "name": "Recipe",
-        "url": "https://open.spotify.com/album/3EKYhobBWNH0xrU5qpyDrz"
-      },
-      "artists": [
-        {
-          "name": "Jackie's Boy",
-          "url": "https://open.spotify.com/artist/5IWhRKmW8IDdeJfrx4Kl0E"
-        }
-      ],
-      "duration_ms": 182211,
-      "name": "Recipe",
-      "url": "https://open.spotify.com/track/0xM4e5ON4PcKCF1rnqLmR9"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Jammin' Tonight",
@@ -1571,26 +1619,6 @@
       "duration_ms": 247973,
       "name": "Jammin' Tonight",
       "url": "https://open.spotify.com/track/0mUsrgWAbaoc6daw6z2HDO"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Glad",
-        "url": "https://open.spotify.com/album/7kxrxVUnCpG3m0bTePROaN"
-      },
-      "artists": [
-        {
-          "name": "Michele Chiavarini",
-          "url": "https://open.spotify.com/artist/5ec2x41RmuQqBYAKbQ7nhr"
-        },
-        {
-          "name": "Andre Espeut",
-          "url": "https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn"
-        }
-      ],
-      "duration_ms": 275654,
-      "name": "Glad - Vocal Mix",
-      "url": "https://open.spotify.com/track/1lPpxO3lulSYSO8V7yLig9"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -1755,26 +1783,6 @@
       "duration_ms": 187003,
       "name": "Honey Imastar",
       "url": "https://open.spotify.com/track/51nS3uYKmaHe9svXCvMnA5"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1F7PbXOe9Fxopa97vqhRZb"
-      },
-      "artists": [
-        {
-          "name": "Dux",
-          "url": "https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr"
-        },
-        {
-          "name": "Raquel Rodriguez",
-          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
-        }
-      ],
-      "duration_ms": 226610,
-      "name": "Over It",
-      "url": "https://open.spotify.com/track/7HBNVNTJcQBlSKoxvwJcsH"
     },
     {
       "added_at": "2023-05-26 04:00:00",

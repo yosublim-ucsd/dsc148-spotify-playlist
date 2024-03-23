@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,769 likes - 80 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,130 likes - 80 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 79 | [Go! \- Club Mix](https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio) | [Tones On Tail](https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb) | [Everything!](https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo) | 4:28 |
 | 80 | [Heart and Soul \- 2007 Remaster](https://open.spotify.com/track/4SDscXJTjdF2YgSkYADyU0) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 5:53 |
 
-Snapshot ID: `MCxiZTUxZWIzOTNhNzAzODRmNDc4MTM3NTMwMzU5MTQyNzI4YzhkYjU5`
+Snapshot ID: `MCxhMWMzZDJjYjMxYjdhMWE3NzA0MzBjYTdkZDlkMDY0YTU0NDJkNmJh`

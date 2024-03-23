@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,027 likes - 65 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,037 likes - 65 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 |
 | 2 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 |
-| 3 | [Patadas de Ahogado / LATIN MAFIA \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATIN MAFIA \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
+| 3 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
 | 4 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
 | 5 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |
 | 6 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 |
@@ -29,19 +29,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 19 | [PIENSO EN TU MIRÁ \- Cap.3: Celos](https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:13 |
 | 20 | [ESENCIA](https://open.spotify.com/track/3r0eidnhTQ0a33kdfjzFoJ) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 5:05 |
 | 21 | [Lovers to Strangers](https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Lovers to Strangers](https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN) | 2:54 |
-| 22 | [MILAMORES](https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:31 |
-| 23 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
+| 22 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
+| 23 | [MILAMORES](https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:31 |
 | 24 | [Babysita </3](https://open.spotify.com/track/0TzPApPjiPWXv98qSCrgbp) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 4:41 |
 | 25 | [Ruthless](https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:07 |
 | 26 | [Alguien Más](https://open.spotify.com/track/0Z2vb8bWllb0UCgnWV2YLV) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Alguien Más](https://open.spotify.com/album/6V0njdk0lZt3ea8AVdFTe5) | 2:12 |
 | 27 | [Somos Instantes](https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Somos Instantes](https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH) | 3:13 |
 | 28 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
 | 29 | [rompo esquemas](https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [rompo esquemas](https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ) | 3:19 |
-| 30 | [dEsANiMaO :\(](https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [dEsANiMaO :\(](https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ) | 3:07 |
-| 31 | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Hermanu](https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl) | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE) | 3:57 |
+| 30 | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Hermanu](https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl) | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE) | 3:57 |
+| 31 | [dEsANiMaO :\(](https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [dEsANiMaO :\(](https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ) | 3:07 |
 | 32 | [Go Away](https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:27 |
-| 33 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 |
-| 34 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
+| 33 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
+| 34 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 |
 | 35 | [Cuando](https://open.spotify.com/track/2zLpAVqDJ2YfxIFNGMS8y0) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Nave Especial](https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL) | 3:26 |
 | 36 | [POEMA A TUS PROBLEMAS](https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [POEMA A TUS PROBLEMAS](https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5) | 3:29 |
 | 37 | [quise quererte](https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [quise quererte](https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp) | 3:39 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 64 | [Un ratito más](https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:51 |
 | 65 | [Rayito de Luz](https://open.spotify.com/track/1WmMIhHYDgetAn0dpx68Qn) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [SOMOS JAVYPABLO](https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq) | 3:45 |
 
-Snapshot ID: `MCxiMGY4NjVjMjIwMmMxNmJlM2NjOTM2NjRlNzM2ZDNiMDNmNzBjMDQ3`
+Snapshot ID: `MCwxOWI0N2I2YTMwNDAzMTY5ZTJjYzdjNjk1Njk2Y2U2ZDJhZjNlMWY5`

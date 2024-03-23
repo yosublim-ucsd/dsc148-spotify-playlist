@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsZlh6idqWJ.md) - [plain]
 
 > Holiday bangers + pop bangers = a perfect holiday party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,873 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,870 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsZlh6idqWJ.md) - [plain]
 | 28 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
 | 29 | [On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 4:44 |
 | 30 | [Jingle Bell Rock](https://open.spotify.com/track/6xE98wKYt4vZk8j7cctjw8) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Santa's Top 10 Favorites](https://open.spotify.com/album/3BjdplCY4YtqvNd3s25caN) | 2:11 |
-| 31 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
-| 32 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
+| 31 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
+| 32 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
 | 33 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
 | 34 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
 | 35 | [greedy](https://open.spotify.com/track/4kfSXPK13aXkLzuz02hCSC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsZlh6idqWJ.md) - [plain]
 | 49 | [santa doesn’t know you like i do](https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 3:09 |
 | 50 | [Snowman \- Sped Up Version](https://open.spotify.com/track/3BwbSLW4YtIGkhCNFsHu52) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Snowman \(Sped Up Version\)](https://open.spotify.com/album/4ZGx4gR1GCT5i5zOHsRX6T) | 2:17 |
 
-Snapshot ID: `MCxjOWI3MTM1M2NkN2MwYzMwMjZlOGY1NWVjODU0NDU3NjQ1ZjkwNjcw`
+Snapshot ID: `MCw5YjVkYmJjYzMwYjgzZjFjYjM0ZjZhYmU5NzBiMTA2ZjgyN2RhODli`

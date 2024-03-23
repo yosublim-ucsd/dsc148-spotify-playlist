@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,941 likes - 53 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,069 likes - 53 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,6 +60,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 50 | [Circles](https://open.spotify.com/track/08TILUAN56HJoS1d9mNRty) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:50 |
 | 51 | [Outta Town Freestyle](https://open.spotify.com/track/3LOyQpKiM8MnE019hWB5uj) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:20 |
 | 52 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 |
-| 53 | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/track/1FOwWRFyJQh0EHthcdlcVE) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Big Mouth Cast](https://open.spotify.com/artist/1DqX6y6PeSke9Y3ojgq95w) | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/album/1BrbqpyUhXOquJzNd4rEza) | 2:21 |
+| 53 | [FREAK](https://open.spotify.com/track/0HIj0uo7zaFIpkzUIkDlmL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [FREAK](https://open.spotify.com/album/4FeCh8gOiKw8syCtXysELk) | 2:54 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDAwZTIxZjZkZWQ1ZjVhOThiNGVlMGUzODYzNDk2MzIzOA==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDAzODdkODAyZmQ0OGU0MGJlODBhYjQ5M2NhMWE4OTA5MQ==`

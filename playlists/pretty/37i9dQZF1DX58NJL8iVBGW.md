@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,129 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,264 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 34 | [Hades Pleads](https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:36 |
 | 35 | [Bilgewater](https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:46 |
 | 36 | [Graves](https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B) | [Whiskey Shivers](https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH) | [Whiskey Shivers](https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg) | 3:10 |
-| 37 | [Bad Things](https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA) | 5:13 |
-| 38 | [Death Don't Have No Mercy](https://open.spotify.com/track/0BCtG2fGjxoztlnetLoqBc) | [Delaney Davidson](https://open.spotify.com/artist/5gKjq94Zz8p953ddbd9bRP), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Sad But True](https://open.spotify.com/album/2Io6ybkhshdFUJhBgWQETk) | 2:08 |
+| 37 | [Death Don't Have No Mercy](https://open.spotify.com/track/0BCtG2fGjxoztlnetLoqBc) | [Delaney Davidson](https://open.spotify.com/artist/5gKjq94Zz8p953ddbd9bRP), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Sad But True](https://open.spotify.com/album/2Io6ybkhshdFUJhBgWQETk) | 2:08 |
+| 38 | [Bad Things](https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA) | 5:13 |
 | 39 | [Devil's Spoke](https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [I Speak Because I Can](https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1) | 3:38 |
 | 40 | [Heart Of My Own](https://open.spotify.com/track/6CrOckpOuPVMJkw5LSpRLv) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart Of My Own](https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH) | 3:49 |
 | 41 | [Bobby Reid](https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Black Is the Color](https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY) | 2:18 |
 | 42 | [Pretty Polly](https://open.spotify.com/track/6XixumK1atNVgBVoqpNvAg) | [Vandaveer](https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A) | [Oh, Willie, Please...](https://open.spotify.com/album/6zAjJYvX7qsgoRPNMAZeN3) | 3:48 |
-| 43 | [Dreamcatchers](https://open.spotify.com/track/66K0gSHdemfDspYgDgPrcf) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/1LkiSSGpC70DBh7UsGB0y2) | 1:51 |
-| 44 | [Sons & Daughters](https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9) | [The American Spirit](https://open.spotify.com/artist/3x6If6dI3TOVEN4aUukab3) | [Spaces](https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j) | 4:02 |
+| 43 | [Sons & Daughters](https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9) | [The American Spirit](https://open.spotify.com/artist/3x6If6dI3TOVEN4aUukab3) | [Spaces](https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j) | 4:02 |
+| 44 | [Dreamcatchers](https://open.spotify.com/track/66K0gSHdemfDspYgDgPrcf) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/1LkiSSGpC70DBh7UsGB0y2) | 1:51 |
 | 45 | [Danger and Dread](https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [The Devil Dancing](https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou) | 3:46 |
 | 46 | [Lungs \- Live](https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter, Houston, Texas](https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC) | 2:34 |
 | 47 | [Work Song](https://open.spotify.com/track/5szmwG86IFASvYrca21MEz) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 3:49 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 80 | [Thin Line](https://open.spotify.com/track/1jgr7hrjegI0n8fEcY06vy) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [Billy Jack](https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf) | 4:45 |
 | 81 | [Chains](https://open.spotify.com/track/4uGtVXkE0VG4rNmSEaFnde) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2) | 3:14 |
 | 82 | [Down by the River](https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn) | [The Dirty River Boys](https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b) | [The Dirty River Boys](https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5) | 3:34 |
-| 83 | [Devils](https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs) | [Amelia Curran](https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69) | [War Brides](https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb) | 2:24 |
-| 84 | [In Our Talons](https://open.spotify.com/track/32MfLc3XuxExc5XOgim5LB) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Hymns For a Dark Horse](https://open.spotify.com/album/1bmDSG41Kr8RQBcP9qCM0e) | 3:53 |
+| 83 | [In Our Talons](https://open.spotify.com/track/32MfLc3XuxExc5XOgim5LB) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Hymns For a Dark Horse](https://open.spotify.com/album/1bmDSG41Kr8RQBcP9qCM0e) | 3:53 |
+| 84 | [Devils](https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs) | [Amelia Curran](https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69) | [War Brides](https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb) | 2:24 |
 | 85 | [The Beast](https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [The Dark](https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v) | 3:00 |
 | 86 | [Get What You Give](https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [By The Rule](https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T) | 3:10 |
 | 87 | [Iuka](https://open.spotify.com/track/574zpZaSSWXMhk0eDzHrDn) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Put Your Needle Down](https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok) | 4:42 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 90 | [Sister Death](https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH) | [Look Homeward](https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH) | [Look Homeward](https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt) | 2:53 |
 | 91 | [Fire in the Empire](https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Empire](https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d) | 3:37 |
 | 92 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 |
-| 93 | [The Devil Had A Hold Of Me](https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Hell Among The Yearlings](https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM) | 4:30 |
-| 94 | [Long Time Travelin'](https://open.spotify.com/track/40Z0RlvQXnw1Lil59ueR1g) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/5yajiidmeTtXWvsz0MZIlJ) | 1:28 |
+| 93 | [Long Time Travelin'](https://open.spotify.com/track/40Z0RlvQXnw1Lil59ueR1g) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/5yajiidmeTtXWvsz0MZIlJ) | 1:28 |
+| 94 | [The Devil Had A Hold Of Me](https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Hell Among The Yearlings](https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM) | 4:30 |
 | 95 | [Highway 9](https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z) | [Barnaby Bright](https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50) | [The Longest Day](https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81) | 4:30 |
 | 96 | [Filthy Dirty South](https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Filthy Dirty South](https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ) | 5:46 |
-| 97 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 |
-| 98 | [Heaven Help Me](https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Heaven Help Me](https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m) | 3:04 |
+| 97 | [Heaven Help Me](https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Heaven Help Me](https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m) | 3:04 |
+| 98 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 |
 | 99 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
 | 100 | [Boy Got It Bad](https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Heatstroke/The Wind and the War](https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ) | 2:38 |
 
-Snapshot ID: `MCw0N2JiODQ2ZGNiNDE0NTliNWMzYTFhMWE0OThlOGNlZTg1YzE5OWJj`
+Snapshot ID: `MCwyMzcxOTEzNjI3ZTk2MTQ3ZTc0YTRkODIzMTMwMWM5ODc1Yjg1ODc4`

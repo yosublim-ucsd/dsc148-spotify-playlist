@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3Vh1gmbW2N.md) - [plain]
 
 > Indie dosmilero para echar una partida épica con los compas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,584 likes - 65 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,599 likes - 65 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3Vh1gmbW2N.md) - [plain]
 | 51 | [Star Roving](https://open.spotify.com/track/7nq6qpHhCJ3pNOa3KHi8fe) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 5:38 |
 | 52 | [Books From Boxes](https://open.spotify.com/track/3JnWgwQPW2bIqehd4FFYXT) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Our Earthly Pleasures](https://open.spotify.com/album/7228teY57ucFOUPnmFMqqh) | 3:28 |
 | 53 | [Boy From School](https://open.spotify.com/track/1L8H6AuK4TaMmolSL0N0mR) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:19 |
-| 54 | [Irish Blood, English Heart](https://open.spotify.com/track/7EFsJjojQiJbpWWBKpyzN0) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [You Are the Quarry](https://open.spotify.com/album/0Lm2IOzemQ5aQqDGge3xVB) | 2:37 |
-| 55 | [Sprawl II \(Mountains Beyond Mountains\)](https://open.spotify.com/track/0U0p8weaMIbIFMJ0CPlvHV) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:25 |
+| 54 | [Sprawl II \(Mountains Beyond Mountains\)](https://open.spotify.com/track/0U0p8weaMIbIFMJ0CPlvHV) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:25 |
+| 55 | [Irish Blood, English Heart](https://open.spotify.com/track/7EFsJjojQiJbpWWBKpyzN0) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [You Are the Quarry](https://open.spotify.com/album/0Lm2IOzemQ5aQqDGge3xVB) | 2:37 |
 | 56 | [So Says I \- 2023 Remaster](https://open.spotify.com/track/1o2N62zvfbKfTNdmC8j5c9) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Chutes Too Narrow \(20th Anniversary Remaster\)](https://open.spotify.com/album/2fxQs4i9HfyRME7zjp0ZnB) | 2:48 |
 | 57 | [The Skin of My Yellow Country Teeth](https://open.spotify.com/track/57rAvblBMBmdPBugRF1T77) | [Clap Your Hands Say Yeah](https://open.spotify.com/artist/1jSaZgaKHmgc7VTgML528r) | [Clap Your Hands Say Yeah](https://open.spotify.com/album/23pU48SJQenRgzDDek2bor) | 5:43 |
 | 58 | [Henrietta](https://open.spotify.com/track/4kiMvD7yPec5viFrCQDiYK) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg) | 3:31 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3Vh1gmbW2N.md) - [plain]
 | 64 | [This Is Love](https://open.spotify.com/track/04Glred2wGdSNH11Qh4EDe) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Stories From The City, Stories From The Sea](https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz) | 3:46 |
 | 65 | [Nobody Move, Nobody Get Hurt](https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [With Love And Squalor](https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa) | 3:12 |
 
-Snapshot ID: `MCwyNTMxMjgxMDE4YmRhYzIxNjU5MmRhNDZhZjdhYjY4MDRjMDM0OGY4`
+Snapshot ID: `MCw0NGEzMWI0MzliNGU0OTM3OWQ2NjI5ZTQ3Yjc4MTU2N2UyNTMxNGEw`

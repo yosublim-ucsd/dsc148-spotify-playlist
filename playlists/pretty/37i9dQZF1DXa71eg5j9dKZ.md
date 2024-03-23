@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,391 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,408 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 7 | [Energy \- '05 Remix](https://open.spotify.com/track/3f6u2nwY2wgW8yq9Ith9P0) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Energy \('05 Remix\)](https://open.spotify.com/album/2wRRQ3sFAFiNzKUFxGms8R) | 4:39 |
 | 8 | [Here With Me](https://open.spotify.com/track/0XVGaKdfstcpMvqe15Yozv) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Here With Me](https://open.spotify.com/album/3sQfEqsPOKPAnW9hUIILSC) | 3:13 |
 | 9 | [ZOOM](https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [ZOOM](https://open.spotify.com/album/1sh6E8cJ0BOG5aN4jQ1MiK) | 3:45 |
-| 10 | [Can't Let Go](https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Let Go](https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS) | 3:59 |
+| 10 | [Can't Let Go](https://open.spotify.com/track/2WpiqjVC1CP89KVQfxOfol) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Mother](https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I) | 3:59 |
 | 11 | [system](https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [system](https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9) | 3:52 |
 | 12 | [Unpredictable](https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Unpredictable](https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa) | 3:17 |
 | 13 | [Moment](https://open.spotify.com/track/7wNKtCzafd3om6QKiub1Js) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Levi Don't Do It](https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [My Crew \(feat\. Flowdan\)](https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [My Crew \(feat\. Flowdan\)](https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np) | 3:25 |
 | 100 | [Free](https://open.spotify.com/track/05dsewKoowRsvsnRjUEXvX) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Free EP](https://open.spotify.com/album/0zZG5gWDyQXDTJUXbpSyxl) | 3:26 |
 
-Snapshot ID: `MCwzZWE1NDhjMDZlMzNkODZmMDY4ODhhZWE3NWU4ZGY0OGVmMmY5NzZm`
+Snapshot ID: `MCw1MjQzMzQ5M2ExNGRiOGQ0ZWRiZTM2YWE5MjA4MTljMThkMTZkZmI2`

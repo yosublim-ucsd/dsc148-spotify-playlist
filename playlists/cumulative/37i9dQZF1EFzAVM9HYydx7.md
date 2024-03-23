@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-292 songs - 18 hr 8 min
+293 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Bring The Fire Out](https://open.spotify.com/track/5uR996t0eJdoOc4FDXoz6m) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Not 4 Sale](https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e) | 3:06 | 2023-12-13 |  |
 | [Brink of Amazing](https://open.spotify.com/track/0TdTj35uJmZZJWz2caJeP2) | [Daniel De Bourg](https://open.spotify.com/artist/24ykUrPaMcWMlCFCSEtrpK) | [London Bread](https://open.spotify.com/album/1BPO3c60v0cr7suYDURpA4) | 2:37 | 2023-12-13 |  |
 | [Broke](https://open.spotify.com/track/7A2dius6RtCZDWbJmNe6gQ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [All Things Work Together](https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K) | 2:59 | 2023-12-13 |  |
+| [Burning Rubber](https://open.spotify.com/track/6rBxl8ZgnXCDZVhzLEBTAG) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:43 | 2024-03-22 |  |
 | [Buyou](https://open.spotify.com/track/4d7HyOmNEpi55uv96g4Iyt) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [No Boys Allowed \(Deluxe\)](https://open.spotify.com/album/0YZJKknNK6ljtNIradoHin) | 4:19 | 2023-12-13 |  |
 | [C7osure \(You Like\)](https://open.spotify.com/track/4no0eHn4fEB7tN1yZSXMma) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:28 | 2023-12-13 |  |
 | [Can't Live In A World](https://open.spotify.com/track/48Po2vEwgAW56HBJwaCxvt) | [Cover Drive](https://open.spotify.com/artist/4jbcqKzc4Wuy6MivHhzPrP) | [Bajan Style](https://open.spotify.com/album/3P9kGVhx7TrCrvjeCp7yI3) | 3:48 | 2023-12-13 |  |

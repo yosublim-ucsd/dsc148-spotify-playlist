@@ -2,9 +2,9 @@
 
 ### [Some Kinda Way](https://open.spotify.com/playlist/37i9dQZF1DWW78Y3ocEppf)
 
-> Let the songs speak\. Cover: Omarion
+> Let the songs speak\. Cover: Inayah
 
-625 songs - 1 day 8 hr 32 min
+627 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [HOLLOW.](https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Maureen Boyer](https://open.spotify.com/artist/2QwZNsarQSosx1QCFE0pYr), [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [Solèy](https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r) | 4:44 | 2022-03-05 | 2022-07-28 |
 | [Home Stu freestyle](https://open.spotify.com/track/5OXWKrFkXIubN5RogX2W9s) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:30 | 2023-06-23 | 2023-07-01 |
 | [Homies](https://open.spotify.com/track/2xc5inawsqx1hYWjxJNBv8) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Homies](https://open.spotify.com/album/6V8MNF7tuZKKGb7hTyZt3S) | 2:35 | 2021-12-15 | 2022-02-01 |
+| [Hot Sauce](https://open.spotify.com/track/5Lt20ho1AmhFJt56F1M7dS) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Hot Sauce](https://open.spotify.com/album/2WuTEjbwU7oIc0rFOFVVAV) | 2:15 | 2024-03-22 |  |
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-24 | 2022-12-03 |
 | [How \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:38 | 2022-05-06 | 2023-02-18 |
 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 | 2023-02-24 | 2024-03-16 |
@@ -254,7 +255,7 @@
 | [How Would You Feel](https://open.spotify.com/track/5yosbcAjMrTNcosZbhZiBo) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [How Would You Feel](https://open.spotify.com/album/373W4hy5SMxKxICDMDynoX) | 2:41 | 2022-03-25 | 2022-07-27 |
 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-07-15 | 2022-09-24 |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-02-04 | 2022-07-29 |
-| [Hurt Before](https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Hurt Before](https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV) | 2:02 | 2023-04-14 |  |
+| [Hurt Before](https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Hurt Before](https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV) | 2:02 | 2023-04-14 | 2024-03-23 |
 | [I Been](https://open.spotify.com/track/4elUB6bs5rrPbqlajs1oYp) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 3:41 | 2021-12-15 | 2022-08-27 |
 | [I Care](https://open.spotify.com/track/0YWmIEuPAIp8vezxX1m1Z3) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [Lxrd Rossi](https://open.spotify.com/artist/10a1pn8WLc7Ek2uoy3s4JQ) | [Big Boss](https://open.spotify.com/album/0ZLuL6c8Kr4Vx2XTsWzTzQ) | 4:05 | 2023-05-12 | 2023-08-23 |
 | [I Deserve](https://open.spotify.com/track/0g5OzPkEGQeFiExxhUPjc3) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I Deserve](https://open.spotify.com/album/3kZ8kuSmWXSJDeWjjTosUv) | 3:49 | 2021-12-15 | 2022-09-10 |
@@ -325,6 +326,7 @@
 | [little story](https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [little story](https://open.spotify.com/album/38vZ3y2bFWOfq3VywVdKam) | 3:18 | 2022-02-25 | 2022-07-29 |
 | [LMK](https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:33 | 2023-06-16 |  |
 | [Lonely](https://open.spotify.com/track/3QfAjgURz2FywuZFyTM8z5) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [WNTRS OUTCAST](https://open.spotify.com/album/1LA1WiLkc7Md9u6ABOU1Zl) | 2:45 | 2023-06-30 | 2024-01-24 |
+| [Lonely With You/Back Outside \- A COLORS SHOW](https://open.spotify.com/track/36Dn4d18r8i08BrJOqH1AT) | [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj) | [Lonely With You/Back Outside \- A COLORS SHOW](https://open.spotify.com/album/5o1BWh17NDEWigKIIagHCU) | 2:49 | 2024-03-22 |  |
 | [LOOSE CHANGE](https://open.spotify.com/track/00imgaPlYRrMGn9o83hfmk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:46 | 2022-08-05 | 2022-12-03 |
 | [Lost And Found \(Find Me\)](https://open.spotify.com/track/5dLmAyIIcmlntDrhLVeITW) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Lost And Found](https://open.spotify.com/album/0CMYJkOIYIZjo6wCJtlZNq) | 3:13 | 2022-03-25 | 2022-04-08 |
 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2022-06-24 | 2023-02-18 |
@@ -442,7 +444,7 @@
 | [PT\. II \(DRAKE & DRIVE\)](https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:39 | 2023-06-16 |  |
 | [Pull Over](https://open.spotify.com/track/2Z8Bs1coB5jruX75pmBG7F) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Pull Over](https://open.spotify.com/album/0t7F6632fADm90Kbd1V25j) | 3:41 | 2024-03-15 |  |
 | [Purple](https://open.spotify.com/track/0FrZlv2YeaeNoegY6ZwWJ3) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Purple](https://open.spotify.com/album/1ACYwKV5Eo6IGA0NAcUnAN) | 4:10 | 2021-12-15 | 2022-04-21 |
-| [Pusha Baby](https://open.spotify.com/track/2C8PDog5rQmuepQbjxkWpL) | [Teon Gibbs](https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [Pusha Baby](https://open.spotify.com/album/2SsQf8gs5PCqlTYOH8pgrg) | 2:21 | 2024-03-15 |  |
+| [Pusha Baby](https://open.spotify.com/track/2C8PDog5rQmuepQbjxkWpL) | [Teon Gibbs](https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [Pusha Baby](https://open.spotify.com/album/2SsQf8gs5PCqlTYOH8pgrg) | 2:21 | 2024-03-15 | 2024-03-23 |
 | [Put You On](https://open.spotify.com/track/7xCWoRmkwjW9UghbGCZHHI) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 2:46 | 2023-01-27 | 2023-07-29 |
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-02 | 2023-05-13 |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-15 |  |

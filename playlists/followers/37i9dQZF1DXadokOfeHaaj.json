@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 30243,
+  "2024-03-23": 30245,
   "date_first_scraped": "2022-12-29",
-  "description": "Are you ready for the floor? Cover: F3miii",
+  "description": "Are you ready for the floor? Cover: Justice, Miguel",
   "name": "Indie Dancefloor",
   "tracks": [
     {
@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "80'S (OUR LOVE)",
+        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
+      },
+      "artists": [
+        {
+          "name": "YOURS",
+          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179323,
+      "name": "80'S (OUR LOVE)",
+      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
+    },
+    {
+      "album": {
         "name": "A bite of papaya",
         "url": "https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n"
       },
@@ -163,7 +181,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 257033,
       "name": "A bite of papaya",
       "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
@@ -243,7 +261,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 269540,
       "name": "A Hero's Death - Soulwax Remix",
       "url": "https://open.spotify.com/track/2SHfsvx6kgQnbWD1us8RGp"
@@ -512,6 +530,28 @@
     },
     {
       "album": {
+        "name": "dark days",
+        "url": "https://open.spotify.com/album/4QKdPcQKtrwW8Zhw5LrFps"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212613,
+      "name": "dark days",
+      "url": "https://open.spotify.com/track/5D1uzv1oRRfkzeilJAwSbO"
+    },
+    {
+      "album": {
         "name": "Dark Rain",
         "url": "https://open.spotify.com/album/0qAXFwj59i4PcQyyYMiPP5"
       },
@@ -628,6 +668,32 @@
     },
     {
       "album": {
+        "name": "Each Night (Boys\u2019 Shorts Remix)",
+        "url": "https://open.spotify.com/album/02kabmkVaejBXqVISYt6SK"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Mazy",
+          "url": "https://open.spotify.com/artist/4WMADzlMfGO7djHGfBAIKU"
+        },
+        {
+          "name": "Boys' Shorts",
+          "url": "https://open.spotify.com/artist/3nRPgO6HGmq7u7sj3KyEgx"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179593,
+      "name": "Each Night - Boys\u2019 Shorts Remix",
+      "url": "https://open.spotify.com/track/5N8HrWOayG5SXsmdG11xcy"
+    },
+    {
+      "album": {
         "name": "Electric Cutz",
         "url": "https://open.spotify.com/album/0tsWEz8VVlBdKypM4IlKAk"
       },
@@ -661,6 +727,24 @@
       "duration_ms": 289315,
       "name": "Electric Cutz",
       "url": "https://open.spotify.com/track/3z8EQNPQwj5VZ7hTimCqZQ"
+    },
+    {
+      "album": {
+        "name": "Fall Back",
+        "url": "https://open.spotify.com/album/75NO0lXfsAevfeIpyjBuMU"
+      },
+      "artists": [
+        {
+          "name": "Anna Prior",
+          "url": "https://open.spotify.com/artist/5MEm3oZhv8zkqd8iepxnCP"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318048,
+      "name": "Fall Back",
+      "url": "https://open.spotify.com/track/7lI7o9J4vsr6Tby9as2PpD"
     },
     {
       "album": {
@@ -762,6 +846,28 @@
     },
     {
       "album": {
+        "name": "Halo Flip",
+        "url": "https://open.spotify.com/album/7KChHwaCKJLa1DxvXVHjzz"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        },
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415267,
+      "name": "Halo Flip",
+      "url": "https://open.spotify.com/track/59SaaebqvxHSui4LbocJYI"
+    },
+    {
+      "album": {
         "name": "Hannah (the sun)",
         "url": "https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA"
       },
@@ -777,6 +883,24 @@
       "duration_ms": 196796,
       "name": "Hannah (the sun)",
       "url": "https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a"
+    },
+    {
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199682,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
     },
     {
       "album": {
@@ -886,6 +1010,24 @@
     },
     {
       "album": {
+        "name": "red moon, rare night",
+        "url": "https://open.spotify.com/album/39aQVK7oDxSSd3OkUznsb1"
+      },
+      "artists": [
+        {
+          "name": "pecq",
+          "url": "https://open.spotify.com/artist/7dtoq4U0UlyvMomL00qPDf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176317,
+      "name": "in the dark",
+      "url": "https://open.spotify.com/track/6hl5oxHiN9771h3n1f8PAN"
+    },
+    {
+      "album": {
         "name": "Is This Where It Ends",
         "url": "https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq"
       },
@@ -959,6 +1101,24 @@
       "duration_ms": 300000,
       "name": "Journey (feat. Mysie)",
       "url": "https://open.spotify.com/track/3aZ8RfhiOdUJEP6h2H17y6"
+    },
+    {
+      "album": {
+        "name": "Letter To Yu",
+        "url": "https://open.spotify.com/album/4NWbM9F8OhWw9pVM0dVNRk"
+      },
+      "artists": [
+        {
+          "name": "Bolis Pupul",
+          "url": "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324453,
+      "name": "Kowloon",
+      "url": "https://open.spotify.com/track/6t5c58rVp2TH3hWOvLzetd"
     },
     {
       "album": {
@@ -1255,7 +1415,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 244365,
       "name": "Oh Me, Oh My (Nicotine Patch)",
       "url": "https://open.spotify.com/track/5ChMHAcbkE4lv4wnoqBflX"
@@ -1481,7 +1641,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 226227,
       "name": "Purely Educational",
       "url": "https://open.spotify.com/track/4Nl5xInMENlcWHcTFPB0Gh"
@@ -1546,6 +1706,28 @@
     },
     {
       "album": {
+        "name": "repeat to fade",
+        "url": "https://open.spotify.com/album/1e1rX5fl19FjR9jubh7ymg"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        },
+        {
+          "name": "Pollena",
+          "url": "https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174026,
+      "name": "repeat to fade",
+      "url": "https://open.spotify.com/track/4AddhPZvZZgZDS41YH4Q8k"
+    },
+    {
+      "album": {
         "name": "+/-",
         "url": "https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA"
       },
@@ -1591,6 +1773,28 @@
       "duration_ms": 247353,
       "name": "Rufufus - Sylvan Esso Remix",
       "url": "https://open.spotify.com/track/6mS5UKJZo37hlMjru7qkfP"
+    },
+    {
+      "album": {
+        "name": "Saturnine",
+        "url": "https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "Saturnine",
+      "url": "https://open.spotify.com/track/0czIop1Wsllu6wCktR633R"
     },
     {
       "album": {
@@ -1711,7 +1915,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 177240,
       "name": "So Late - Goldteeth Remix",
       "url": "https://open.spotify.com/track/6W8xk66YHob4Yloy8aArZy"
@@ -1772,6 +1976,28 @@
     },
     {
       "album": {
+        "name": "Talking Too Much",
+        "url": "https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        },
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Talking Too Much",
+      "url": "https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq"
+    },
+    {
+      "album": {
         "name": "Talks",
         "url": "https://open.spotify.com/album/74CRCBMGYhrTI6ZzX2ARxr"
       },
@@ -1783,7 +2009,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 257586,
       "name": "Talks",
       "url": "https://open.spotify.com/track/1AmZK3O0XYSfY636qTahcW"
@@ -1988,6 +2214,60 @@
     },
     {
       "album": {
+        "name": "Unpredictable",
+        "url": "https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197036,
+      "name": "Unpredictable",
+      "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
+    },
+    {
+      "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/06PMmkzppZU6YSZVQbHpzy"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229024,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/6b57FDNY52AlFJa81vTijE"
+    },
+    {
+      "album": {
+        "name": "Losing Balance",
+        "url": "https://open.spotify.com/album/1VwP5dm8dPqgNHJlvVtduN"
+      },
+      "artists": [
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168275,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/6H8YJ7IHiAEqTWPV5opclB"
+    },
+    {
+      "album": {
         "name": "Warm (Feeling)",
         "url": "https://open.spotify.com/album/35iBUBrdFfd8eNXllzB3L4"
       },
@@ -2036,6 +2316,24 @@
     },
     {
       "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/2IUiHvXFWEacS7YCnmbvRx"
+      },
+      "artists": [
+        {
+          "name": "Monks",
+          "url": "https://open.spotify.com/artist/1EESBfYnqZ9pylHg8n6lBP"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192773,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/6X4vGx2XIFYFTmeOm142cr"
+    },
+    {
+      "album": {
         "name": "Wendy's Yard",
         "url": "https://open.spotify.com/album/2Wi2GBAUEzcwlq5pqnx2fk"
       },
@@ -2054,6 +2352,24 @@
     },
     {
       "album": {
+        "name": "Where We Go (Calypso)",
+        "url": "https://open.spotify.com/album/3txDgqkWqeaHnn3jQJrvOb"
+      },
+      "artists": [
+        {
+          "name": "Compact Disk Dummies",
+          "url": "https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205160,
+      "name": "Where We Go (Calypso)",
+      "url": "https://open.spotify.com/track/1EYYQBuaBraV7WBdTfSwwe"
+    },
+    {
+      "album": {
         "name": "Who Do You Believe",
         "url": "https://open.spotify.com/album/1GcfbfpC3npBgo89qHKRcO"
       },
@@ -2065,7 +2381,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 243075,
       "name": "Who Do You Believe",
       "url": "https://open.spotify.com/track/0H386Lr3iWsKyonoKcncT0"
@@ -2083,10 +2399,28 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 205859,
       "name": "Wild Night",
       "url": "https://open.spotify.com/track/13gxt7JI2OH5vvJthc9vXH"
+    },
+    {
+      "album": {
+        "name": "Won't Give Your Love",
+        "url": "https://open.spotify.com/album/3HJk1ikOOqmL4g07YRGG9l"
+      },
+      "artists": [
+        {
+          "name": "I Monster",
+          "url": "https://open.spotify.com/artist/1CcPlAmcnJjC4FnaPVzv2v"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163424,
+      "name": "Won't Give Your Love",
+      "url": "https://open.spotify.com/track/1dO2xUT8D2MsscEEOcKX0Y"
     },
     {
       "album": {

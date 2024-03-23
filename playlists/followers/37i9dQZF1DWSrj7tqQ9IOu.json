@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 404724,
+  "2024-03-23": 404731,
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Emma Hoet",
+  "description": "The best French indie tracks right now. Cover : Yoa",
   "name": "Made in France",
   "tracks": [
     {
@@ -2183,7 +2183,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 199936,
       "name": "Encore",
       "url": "https://open.spotify.com/track/2rD2lLV55Pr6xvzI67MY8L"
@@ -2429,6 +2429,24 @@
       "duration_ms": 186893,
       "name": "Flashdance",
       "url": "https://open.spotify.com/track/1TOpTNqzED5PB8rTKufluy"
+    },
+    {
+      "album": {
+        "name": "Flashlight",
+        "url": "https://open.spotify.com/album/6zgBTYtzouNQxbaIP34BBB"
+      },
+      "artists": [
+        {
+          "name": "Please",
+          "url": "https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196825,
+      "name": "Flashlight",
+      "url": "https://open.spotify.com/track/53B6IvshpFAGEQSbRZJXRZ"
     },
     {
       "album": {
@@ -3201,7 +3219,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 226000,
       "name": "HOPE YOU'LL FIND OUT",
       "url": "https://open.spotify.com/track/3q7Kc3SMI3yBnsfESjvnok"
@@ -4134,6 +4152,28 @@
     },
     {
       "album": {
+        "name": "Les pieds dans l'eau",
+        "url": "https://open.spotify.com/album/1GNw3IWHOkIKbWhdwRmt72"
+      },
+      "artists": [
+        {
+          "name": "AGAV",
+          "url": "https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g"
+        },
+        {
+          "name": "Cliff Schneider",
+          "url": "https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169794,
+      "name": "La nuit dehors",
+      "url": "https://open.spotify.com/track/2re9Xr1N9N5ZipYc7bLd2Q"
+    },
+    {
+      "album": {
         "name": "Sunset Park (Extended version)",
         "url": "https://open.spotify.com/album/4R7JoS7uL4Rs0zBayDeJxY"
       },
@@ -4931,6 +4971,24 @@
       "duration_ms": 235360,
       "name": "Massilia (feat. Adrien Gallo)",
       "url": "https://open.spotify.com/track/3uyff2dTTwyOKsHnAK300y"
+    },
+    {
+      "album": {
+        "name": "Matcha Queen",
+        "url": "https://open.spotify.com/album/5bZX5IFxfYNKdJUMPtIMS5"
+      },
+      "artists": [
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190761,
+      "name": "Matcha Queen",
+      "url": "https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn"
     },
     {
       "album": {
@@ -7080,6 +7138,24 @@
     },
     {
       "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/5MYeJHotwiB6cvr20NG78u"
+      },
+      "artists": [
+        {
+          "name": "Halo Maud",
+          "url": "https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206554,
+      "name": "Slowly Surely",
+      "url": "https://open.spotify.com/track/1QlQ6aOrUCQ46dcFTXlAo8"
+    },
+    {
+      "album": {
         "name": "SMILE",
         "url": "https://open.spotify.com/album/4eCVIY1Y7nwewuyb4f0Phx"
       },
@@ -7749,7 +7825,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 160714,
       "name": "The Devil I Know",
       "url": "https://open.spotify.com/track/2ihQW4P9ZUhjNJLL7DYz1w"
@@ -8677,7 +8753,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 240156,
       "name": "Winter Solstice - Braxe + Falcon Remix",
       "url": "https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7"

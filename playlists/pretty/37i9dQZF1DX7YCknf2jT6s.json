@@ -1,13 +1,273 @@
 {
-  "description": "New jazz for open minds. Cover: Charles Lloyd",
-  "num_followers": 919891,
+  "description": "New jazz for open minds. Cover: Shabaka",
+  "num_followers": 920098,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2U1NGZkNmVmNTY1YWRiODExNWMwZTA3YjRkYTNkYzUxNjZmMDVl",
+  "snapshot_id": "MCxjZTg0NTVkODY3MGM0NGRjOTAzODhiM2NlNzExZTc4YWRkM2EwOTlj",
   "tracks": [
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "I\u2019ll Do Whatever You Want",
+        "url": "https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "duration_ms": 463080,
+      "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
+      "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Interdimensional",
+        "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        }
+      ],
+      "duration_ms": 245626,
+      "name": "I Stitched My Mind Back To My Body",
+      "url": "https://open.spotify.com/track/1ebC2PO3ZuZcnVZbY4jqVK"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "First Lemonade",
+        "url": "https://open.spotify.com/album/54FufUN5eZagqdaM3Zc9xs"
+      },
+      "artists": [
+        {
+          "name": "ddddeeeellllaaa",
+          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
+        },
+        {
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
+        }
+      ],
+      "duration_ms": 161860,
+      "name": "First Lemonade",
+      "url": "https://open.spotify.com/track/6qhHMnTIFQ5ZJbzXTP36tP"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "All The Same",
+        "url": "https://open.spotify.com/album/0PJURdQhTdpGqgEJ60SZHq"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Ria Moran",
+          "url": "https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn"
+        }
+      ],
+      "duration_ms": 324920,
+      "name": "All The Same",
+      "url": "https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "MoonDial",
+        "url": "https://open.spotify.com/album/4aomKJKtVLDAcWojmg9fvA"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "duration_ms": 383851,
+      "name": "MoonDial",
+      "url": "https://open.spotify.com/track/3sn5gqosgrs0y1ljACKUCt"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Precipice",
+        "url": "https://open.spotify.com/album/5XJM3GJwgesWDpSW0ZBQzg"
+      },
+      "artists": [
+        {
+          "name": "Ill Considered",
+          "url": "https://open.spotify.com/artist/2nSY0EIzz3eM6Y6Pc7VXkO"
+        }
+      ],
+      "duration_ms": 140293,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/5Y3LPCsFsh9XbgS0iV0xyu"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "But Who's Gonna Play the Melody?",
+        "url": "https://open.spotify.com/album/1wq4WlOpndhRd3nhjIFO38"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        }
+      ],
+      "duration_ms": 315533,
+      "name": "Bass Duo #1",
+      "url": "https://open.spotify.com/track/1SqfaarqpHcceW6eMc2luH"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/4FV6Mo4LSbN4YX6TSi8shV"
+      },
+      "artists": [
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        }
+      ],
+      "duration_ms": 314481,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/5SzCMMK5oo6PoiCSiii328"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Rondostrut",
+        "url": "https://open.spotify.com/album/7pqFIJDyrLM2hNvsQWdcF5"
+      },
+      "artists": [
+        {
+          "name": "Andreas Rotevatn",
+          "url": "https://open.spotify.com/artist/7c1MJLpX1Vro7RomKzLy1j"
+        },
+        {
+          "name": "Lindstr\u00f8m",
+          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
+        }
+      ],
+      "duration_ms": 164696,
+      "name": "Rondostrut",
+      "url": "https://open.spotify.com/track/6yunr4fuhYQUGLRs2EXXb4"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/76N4BVMak5BIL1w3HvLZRX"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "duration_ms": 242106,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/5U36mzwyFUZYiDTdRc0dqb"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Strange Meeting (Live/Umbria Jazz Orchestra)",
+        "url": "https://open.spotify.com/album/5nzjLnjpBSkRvHlGOcH1Cz"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Manuele Morbidini",
+          "url": "https://open.spotify.com/artist/17WRWhk9rhWpgGqAmoj2yZ"
+        },
+        {
+          "name": "Rudy Royston",
+          "url": "https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY"
+        },
+        {
+          "name": "Thomas Morgan",
+          "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
+        },
+        {
+          "name": "Umbria Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/7vW6qlqqkDb4ntUwXmIgWT"
+        }
+      ],
+      "duration_ms": 384733,
+      "name": "Strange Meeting - Live/Umbria Jazz Orchestra",
+      "url": "https://open.spotify.com/track/521ujwpa5eZZxaKSupjbvV"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "New Strategies For Modern Crime Volume 1",
+        "url": "https://open.spotify.com/album/4n6b9UirdvI5uWBaIddLOt"
+      },
+      "artists": [
+        {
+          "name": "Prefuse 73",
+          "url": "https://open.spotify.com/artist/0ZsnKPvBsvvycnET2GZMrG"
+        }
+      ],
+      "duration_ms": 179219,
+      "name": "Onboard, Overboard",
+      "url": "https://open.spotify.com/track/4ANnEyLDnnsQutlhxSH1iz"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "A Family Gathering Chapter 2",
+        "url": "https://open.spotify.com/album/5qgIub4YVbjs4JJMgDaDtQ"
+      },
+      "artists": [
+        {
+          "name": "Bread & Souls",
+          "url": "https://open.spotify.com/artist/1t2puEAa4DiYt7U7S20SN4"
+        },
+        {
+          "name": "Mark de Clive-Lowe",
+          "url": "https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P"
+        },
+        {
+          "name": "Bembe Segue",
+          "url": "https://open.spotify.com/artist/2ox6AU0eHDMkXfbcvmOQA4"
+        },
+        {
+          "name": "Teodross Avery",
+          "url": "https://open.spotify.com/artist/5h5pxPQmWGa9k57TtliR47"
+        }
+      ],
+      "duration_ms": 247127,
+      "name": "Never Gonna Leave",
+      "url": "https://open.spotify.com/track/1unwiOTWvgRuUglEP0Uuso"
+    },
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
@@ -75,22 +335,6 @@
       "duration_ms": 189586,
       "name": "symptom of life",
       "url": "https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "A Story",
-        "url": "https://open.spotify.com/album/2z9EStsMmDDyWSaNFdpxnp"
-      },
-      "artists": [
-        {
-          "name": "Melissa Aldana",
-          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
-        }
-      ],
-      "duration_ms": 368018,
-      "name": "A Story",
-      "url": "https://open.spotify.com/track/0wFfXz9jDuWuw0jkStH5FE"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -371,26 +615,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Big Brother",
-        "url": "https://open.spotify.com/album/3wDuX7ZXEZZycoU5XVTg5n"
-      },
-      "artists": [
-        {
-          "name": "Sly5thAve",
-          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
-        },
-        {
-          "name": "Daniel Wytanis",
-          "url": "https://open.spotify.com/artist/59FNzYPBlL9ILle4RZE1ln"
-        }
-      ],
-      "duration_ms": 361482,
-      "name": "Big Brother",
-      "url": "https://open.spotify.com/track/706lD4ZY9A3uWNLjPYSpaV"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Fandango",
         "url": "https://open.spotify.com/album/7sD4UjyuDSS2vcdMGT1YH6"
       },
@@ -587,22 +811,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "End Of Innocence",
-        "url": "https://open.spotify.com/album/0OLSVizhVj6rzh97PS6uYX"
-      },
-      "artists": [
-        {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "End Of Innocence",
-      "url": "https://open.spotify.com/track/3o9i2sgJhKv8HEFtJWsbxo"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Ascendence",
         "url": "https://open.spotify.com/album/1NcZT5C3yNKGhY5oThnkIV"
       },
@@ -707,26 +915,6 @@
       "duration_ms": 227540,
       "name": "Cocoa Dust",
       "url": "https://open.spotify.com/track/500lP9fUi5DY2Ma8xkVYIy"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Philly Slop",
-        "url": "https://open.spotify.com/album/6II8LsGdwMVgOBqhRkjAJe"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        },
-        {
-          "name": "Edgar Meyer",
-          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
-        }
-      ],
-      "duration_ms": 205897,
-      "name": "Philly Slop",
-      "url": "https://open.spotify.com/track/2L5jT0EqitmjEwVtmQssLp"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -855,22 +1043,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "The End Of Air",
-        "url": "https://open.spotify.com/album/267h0pIHDcryw2e5s2Gfo7"
-      },
-      "artists": [
-        {
-          "name": "Prefuse 73",
-          "url": "https://open.spotify.com/artist/0ZsnKPvBsvvycnET2GZMrG"
-        }
-      ],
-      "duration_ms": 289702,
-      "name": "The End Of Air",
-      "url": "https://open.spotify.com/track/13WDwb7YmS4ZRsUoDs2Hmu"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Sun Streak",
         "url": "https://open.spotify.com/album/0xe3vp3OjTfSdfJvqp3Lc4"
       },
@@ -943,38 +1115,6 @@
       "duration_ms": 618441,
       "name": "O.D.",
       "url": "https://open.spotify.com/track/2vUZLxMxd99KvyGkFQIRbQ"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Throughout (Live/Brussels Philharmonic)",
-        "url": "https://open.spotify.com/album/4DTLvBK52W40q1YiMYNTPk"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        },
-        {
-          "name": "Alexander Hanson",
-          "url": "https://open.spotify.com/artist/498OLUGBV0hSPmRHokzvaA"
-        },
-        {
-          "name": "Brussels Philharmonic",
-          "url": "https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP"
-        },
-        {
-          "name": "Rudy Royston",
-          "url": "https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY"
-        },
-        {
-          "name": "Thomas Morgan",
-          "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
-        }
-      ],
-      "duration_ms": 361293,
-      "name": "Throughout - Live/Brussels Philharmonic",
-      "url": "https://open.spotify.com/track/30l0UW1WS1zXnfKJwkX8rZ"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1113,26 +1253,6 @@
       "url": "https://open.spotify.com/track/5sv0wMXmcp4SuXvm6ghkHm"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Whisperings",
-        "url": "https://open.spotify.com/album/67AzHDLeqWpsDkn3lj1uYY"
-      },
-      "artists": [
-        {
-          "name": "Sheku Kanneh-Mason",
-          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
-        },
-        {
-          "name": "Seven Eyes",
-          "url": "https://open.spotify.com/artist/0M6umUTp0QgXZP8ECTwybz"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Whisperings",
-      "url": "https://open.spotify.com/track/09pqREo7g64W1TmFF9EFSq"
-    },
-    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Give Me A Reason",
@@ -1185,22 +1305,6 @@
       "url": "https://open.spotify.com/track/2VOrpfVIDkJVC8hdQQzueQ"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "So Mi Stay",
-        "url": "https://open.spotify.com/album/2TGuOjs6ree8F2eB1A4S1n"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 263160,
-      "name": "So Mi Stay",
-      "url": "https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ"
-    },
-    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "nublues",
@@ -1237,22 +1341,6 @@
       "url": "https://open.spotify.com/track/6p46VYGOLxUbhPJB3pGxEt"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "A STORY ABOUT YOU",
-        "url": "https://open.spotify.com/album/6YB2R3p6K2X6Slkiq1w4t2"
-      },
-      "artists": [
-        {
-          "name": "Nautilus",
-          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
-        }
-      ],
-      "duration_ms": 292210,
-      "name": "Beyond the Redemption",
-      "url": "https://open.spotify.com/track/0NzOmzRINNMlZsIs2a7zni"
-    },
-    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "6 Feet Down",
@@ -1273,22 +1361,6 @@
       "url": "https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Leaving Paradise",
-        "url": "https://open.spotify.com/album/6eBUu9qZ7wHJNYs9Lv2kxb"
-      },
-      "artists": [
-        {
-          "name": "Willie Morris",
-          "url": "https://open.spotify.com/artist/2rzVXME9utxP6mQy09aQjb"
-        }
-      ],
-      "duration_ms": 349733,
-      "name": "Leaving Paradise",
-      "url": "https://open.spotify.com/track/4P12CbrGVGDVez4VMPKFrc"
-    },
-    {
       "added_at": "2024-01-26 05:01:00",
       "album": {
         "name": "Fortify",
@@ -1303,22 +1375,6 @@
       "duration_ms": 349008,
       "name": "Fortify",
       "url": "https://open.spotify.com/track/0oD4SYLAvCK5PI38bUK2jc"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Street Cleaning",
-        "url": "https://open.spotify.com/album/3Tx9ST8BJ1YnBmirae88Pp"
-      },
-      "artists": [
-        {
-          "name": "Kelly Green",
-          "url": "https://open.spotify.com/artist/6MGNhzLevHtkeVTcwNpTmZ"
-        }
-      ],
-      "duration_ms": 424326,
-      "name": "Street Cleaning",
-      "url": "https://open.spotify.com/track/1vfIfF110veB4yE5R2QDKU"
     },
     {
       "added_at": "2023-11-10 05:01:00",
@@ -1487,22 +1543,6 @@
       "duration_ms": 249100,
       "name": "side sidemi",
       "url": "https://open.spotify.com/track/5yyGyo0fRbH1erG8Pms7vt"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Speedball",
-        "url": "https://open.spotify.com/album/6kaxJijC17zXt3unXvxgTQ"
-      },
-      "artists": [
-        {
-          "name": "Simon Denizart",
-          "url": "https://open.spotify.com/artist/1dFQ2v1uSzlTVLwfHQWgJk"
-        }
-      ],
-      "duration_ms": 338727,
-      "name": "Speedball",
-      "url": "https://open.spotify.com/track/4zi4lHM0rXngR2uRUVQ2yQ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1799,22 +1839,6 @@
       "duration_ms": 468460,
       "name": "Winter",
       "url": "https://open.spotify.com/track/3HlO9LOzWYtazt0URqky8r"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Dream Box",
-        "url": "https://open.spotify.com/album/65WGqUztAtgLA6KLy9rcwJ"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        }
-      ],
-      "duration_ms": 402665,
-      "name": "Morning Of The Carnival",
-      "url": "https://open.spotify.com/track/3MoLzbreunW3f0AfXUH8ki"
     },
     {
       "added_at": "2023-10-13 04:01:00",

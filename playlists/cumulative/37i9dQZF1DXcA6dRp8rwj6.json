@@ -38657,6 +38657,28 @@
     },
     {
       "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226213,
+      "name": "We Don't Trust You",
+      "url": "https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1"
+    },
+    {
+      "album": {
         "name": "We Go Up",
         "url": "https://open.spotify.com/album/5IfknrZnkcbBcT7KQuDZXI"
       },

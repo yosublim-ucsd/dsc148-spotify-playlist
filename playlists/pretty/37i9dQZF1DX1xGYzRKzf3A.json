@@ -1,12 +1,12 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 122052,
+  "num_followers": 122279,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTNhZjM1ODhiYmI4ZTkwOGJkNDcyMzY3YWUwYjQ0ODA2ZWYwY2Vj",
+  "snapshot_id": "MCw2Y2UwODJjNjljMGQzNjk5MjFmYTNjNTI5ODI5MTZmOWQ2MjA1MDU5",
   "tracks": [
     {
       "added_at": "2023-11-08 22:38:29",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "B\u00e1ilame",
-        "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "B\u00e1ilame",
-      "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Mis Nuevos Cantares",
         "url": "https://open.spotify.com/album/4uToZOnwl3AWFrUrVxTFz9"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 235235,
       "name": "No Pude Quitarte las Espinas",
       "url": "https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "B\u00e1ilame",
+        "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "B\u00e1ilame",
+      "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 153733,
-      "name": "TE QUIERO",
-      "url": "https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Casas De Madera (Remasterizado)",
         "url": "https://open.spotify.com/album/6axSGbcNWfp6TJUJNZuOEo"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 264373,
       "name": "Casas De Madera",
       "url": "https://open.spotify.com/track/2iKtCnQnLVuYyrqhhz15Uz"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 153733,
+      "name": "TE QUIERO",
+      "url": "https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
+        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 321160,
+      "name": "Ay Hombe",
+      "url": "https://open.spotify.com/track/4nWYJI6JxrALpuOc4StT1t"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Obsesi\u00f3n",
         "url": "https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 309655,
       "name": "Despues Del Adios",
       "url": "https://open.spotify.com/track/31zIqaMytBKRmFbCK2gnRa"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
-        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 321160,
-      "name": "Ay Hombe",
-      "url": "https://open.spotify.com/track/4nWYJI6JxrALpuOc4StT1t"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Chimenea (En Vivo)",
-        "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
-      },
-      "artists": [
-        {
-          "name": "Milla 22",
-          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
-        }
-      ],
-      "duration_ms": 180491,
-      "name": "Chimenea - En Vivo",
-      "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 193453,
       "name": "No Tengo Amigos",
       "url": "https://open.spotify.com/track/6TPnm7nTohMR2Jds2aSTcV"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Chimenea (En Vivo)",
+        "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "duration_ms": 180491,
+      "name": "Chimenea - En Vivo",
+      "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
     },
     {
       "added_at": "2023-11-08 22:38:29",

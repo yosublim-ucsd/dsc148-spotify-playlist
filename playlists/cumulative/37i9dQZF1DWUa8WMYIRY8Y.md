@@ -4,7 +4,7 @@
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : The Last Dinner Party
 
-172 songs - 10 hr 33 min
+173 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Theatre](https://open.spotify.com/track/7sb94ZGWPLYRaVYRqOgfQC) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 2:59 | 2024-02-08 |  |
 | [TIME](https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [TIME](https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES) | 2:25 | 2024-02-29 |  |
 | [Time Of Your Life](https://open.spotify.com/track/3MANuRQlw4dMMENY8gzcYl) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Time Of Your Life](https://open.spotify.com/album/7o2pbWYW58zhZiSHi6op6b) | 3:07 | 2023-10-19 | 2024-01-26 |
-| [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-03-21 |  |
+| [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-03-21 | 2024-03-23 |
+| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-21 |  |
 | [TREES](https://open.spotify.com/track/1ncnbhT16pKyQV73MK9wHY) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [TREES](https://open.spotify.com/album/6vZAJX21PTGk70FR4IZ7De) | 2:53 | 2023-12-14 | 2024-02-09 |
 | [Unwanted](https://open.spotify.com/track/4rB5KgmlQ1Zr2qbxh8VRuR) | [Waves](https://open.spotify.com/artist/6OAt6nE577DixeDhfNFVkH) | [Unwanted](https://open.spotify.com/album/5sl41tm6B1uqOx7PB0sAas) | 3:47 | 2023-11-02 | 2023-11-24 |
 | [Velvet](https://open.spotify.com/track/5sNlEPRZEB1Nl4k1zCr1wT) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Velvet](https://open.spotify.com/album/5trdvQcIQiP8u6ivMTTEin) | 2:11 | 2024-01-18 | 2024-02-16 |

@@ -4,7 +4,7 @@
 
 > The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] \| Women's History Month \| Cover: Flo Milli
 
-431 songs - 21 hr 22 min
+438 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Armor](https://open.spotify.com/track/7mGwwtxzKB6ehgq6mcwB3N) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Armor](https://open.spotify.com/album/1zBqEegAnkQolF1pfCAjf4) | 2:42 | 2024-01-26 |  |
 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 | 2023-03-10 |  |
 | [Arrivals](https://open.spotify.com/track/3s7j6rr4X9PcSRl6i0qtUb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 3:05 | 2023-12-08 |  |
+| [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 | 2024-03-22 |  |
 | [Ashley](https://open.spotify.com/track/5iMUQTIxTGgbVItGIPAWbL) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ashley](https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA) | 2:48 | 2023-01-20 |  |
 | [ASK ABOUT ME](https://open.spotify.com/track/7JKIdU78mVa2FIh13FDdRA) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [STUNNA THIS STUNNA THAT](https://open.spotify.com/album/6tAS0lVufnFfzdBfXyGHvN) | 2:28 | 2022-06-03 | 2022-11-05 |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-16 |  |
@@ -73,6 +74,7 @@
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 | 2022-08-02 |
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-08-01 |  |
 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2022-06-24 | 2023-07-29 |
+| [Breathe Me](https://open.spotify.com/track/5lpeQDudD4Dns3m3UjFx0y) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:21 | 2024-03-22 |  |
 | [Broken is the man](https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:12 | 2023-12-08 |  |
 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 | 2023-07-21 |  |
 | [BURY YOU](https://open.spotify.com/track/7Elu7fHAoNkPNSMDNeu822) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BURY YOU](https://open.spotify.com/album/1ypkskN7WX0XIsXbPsmK3K) | 2:13 | 2023-12-08 |  |
@@ -277,6 +279,7 @@
 | [NO PARE](https://open.spotify.com/track/4cEYQceQjgsi0hZZQQWhXp) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NO PARE](https://open.spotify.com/album/7Cox5cc0YmFSLTMElICoW8) | 2:35 | 2023-08-04 |  |
 | [No Statements](https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [No Statements](https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK) | 2:38 | 2023-12-08 |  |
 | [NO voy a llorar :'\)](https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [NO voy a llorar :'\)](https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT) | 2:58 | 2023-03-10 | 2023-07-29 |
+| [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-03-22 |  |
 | [nobody's favorite person, not even my own](https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [nobody's favorite person, not even my own](https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b) | 2:11 | 2023-04-14 |  |
 | [Off The Record](https://open.spotify.com/track/0tSkMuKKrLXEfxc58cEhFX) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Off The Record](https://open.spotify.com/album/5dIJ97uGTWrNmw6QRwMnRo) | 3:08 | 2023-12-08 |  |
 | [Off the Wall](https://open.spotify.com/track/2pkDvFyDw9J0GxAta8spSb) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Off the Wall](https://open.spotify.com/album/3RO3fuqDbCEGdVY8DsttaB) | 3:32 | 2023-04-28 |  |
@@ -313,6 +316,7 @@
 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 | 2023-06-16 |  |
 | [promised](https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder](https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ) | 3:58 | 2023-02-25 |  |
 | [psychofreak \(feat\. WILLOW\)](https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:21 | 2022-06-03 | 2023-07-29 |
+| [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 | 2024-03-22 |  |
 | [PUSSY](https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [PUSSY](https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib) | 2:21 | 2022-07-15 | 2023-06-10 |
 | [Queen](https://open.spotify.com/track/3GGGZbXIH3xwVi6vnY2Smq) | [Charm La'Donna](https://open.spotify.com/artist/4EATVWAsGWEbpI1GH0lCiT) | [Queen](https://open.spotify.com/album/4Vpd3JoLHDX8TVnSnnPY9b) | 2:38 | 2022-06-03 | 2023-02-05 |
 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 | 2023-12-08 |  |
@@ -333,6 +337,7 @@
 | [Runaway](https://open.spotify.com/track/5zQjsdDEqcpXaluAax1jKn) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Runaway](https://open.spotify.com/album/5kdzySpTqsyQNS00JQPFff) | 2:47 | 2023-08-18 |  |
 | [running water](https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [running water](https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq) | 3:04 | 2023-12-08 |  |
 | [Sabe](https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sabe](https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0) | 2:57 | 2022-06-03 | 2023-02-05 |
+| [Safer](https://open.spotify.com/track/2sghtIUWplVFKBRIHsVmFu) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:39 | 2024-03-22 |  |
 | [SANCTUARY](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [SANCTUARY](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 | 2023-06-16 |  |
 | [Sand](https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Sand](https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP) | 3:39 | 2023-12-08 |  |
 | [Santo](https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Santo](https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC) | 3:03 | 2022-06-03 | 2023-03-25 |
@@ -388,6 +393,7 @@
 | [The Other POV](https://open.spotify.com/track/3oTJNtm0yjukzgjVmR2CKk) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The Other POV](https://open.spotify.com/album/5orycXA2UEXDzHxaaE0uK3) | 2:59 | 2023-06-02 |  |
 | [Therapist](https://open.spotify.com/track/4vIYNMhW588JXOlBlEQqrq) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Therapist](https://open.spotify.com/album/18R7VI3JvO7576xdNNA4ni) | 2:41 | 2023-03-17 |  |
 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 | 2022-06-03 | 2023-02-05 |
+| [Tiempo Sin Verte](https://open.spotify.com/track/6c8jkAgbVk44B8SwRi8vQs) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:16 | 2024-03-22 |  |
 | [Title](https://open.spotify.com/track/0k5hoseEJnCAbpRh38dNoI) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 2:54 | 2022-06-03 | 2023-03-25 |
 | [To The Money \(feat\. Flo Milli & 8AE\)](https://open.spotify.com/track/5YSWtx5drmDZHP2weqJtAG) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [8AE](https://open.spotify.com/artist/1HX4A36aOWZMFx5eRHKIz1) | [To The Money \(feat\. Flo Milli & 8AE\)](https://open.spotify.com/album/2efMCGuPSpEgLoSPsg5a5e) | 2:54 | 2022-06-03 | 2023-02-05 |
 | [TO' ESTO ES TUYO](https://open.spotify.com/track/3sFGJUJ4Dk8WYsahfZaPgM) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [TO' ESTO ES TUYO](https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn) | 3:13 | 2022-12-09 | 2023-07-29 |
@@ -439,5 +445,6 @@
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2022-06-03 | 2023-03-25 |
 | [Your Internet Sucks](https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Your Internet Sucks](https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R) | 2:49 | 2023-01-13 |  |
 | [éxtasis](https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [éxtasis](https://open.spotify.com/album/5KAlqgQaRa6qRoUBkFfUhk) | 3:05 | 2023-05-05 |  |
+| [Última](https://open.spotify.com/track/3FEIMzqeq5EXqaMi3mHP6L) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:58 | 2024-03-22 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

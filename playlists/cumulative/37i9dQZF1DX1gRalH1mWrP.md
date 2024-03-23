@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,189 songs - 2 day 13 hr 29 min
+1,190 songs - 2 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -968,6 +968,7 @@
 | [Still Call You Mine](https://open.spotify.com/track/3zcjhTt88UYnjcpU2PhHXV) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM) | [Still Call You Mine](https://open.spotify.com/album/1IJqdGx0a7ED2kiiBxNPaG) | 2:36 | 2021-04-30 | 2022-03-22 |
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2020-08-30 | 2021-04-30 |
 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 | 2020-05-11 | 2020-07-08 |
+| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-03-22 |  |
 | [Stunnin'](https://open.spotify.com/track/2LUdpPCiiza6UQugipjMeS) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Harm Franklin](https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U) | [Stunnin'](https://open.spotify.com/album/3UelVbXKapujAhLoeJ3bri) | 2:24 | 2020-06-06 | 2020-06-29 |
 | [Stunnin' \(feat\. Harm Franklin\)](https://open.spotify.com/track/2D0dj3hVkRQJCp63cxCPEx) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Harm Franklin](https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U) | [Stunnin' \(feat\. Harm Franklin\)](https://open.spotify.com/album/0ZC4lUnfcEFekGFELwHjZZ) | 2:24 | 2020-06-29 | 2021-04-30 |
 | [stupid](https://open.spotify.com/track/0gIxF0RR0miqWLs2fPQGBu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:53 | 2020-04-29 | 2020-08-05 |
@@ -1156,7 +1157,7 @@
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2021-09-24 | 2022-05-13 |
 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2022-07-04 | 2023-03-08 |
 | [Where I'm From](https://open.spotify.com/track/0ldnY8eAOx1ah889no0QzA) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Where I'm From](https://open.spotify.com/album/06yvfDxJtCqLIADxaQHtvH) | 3:31 | 2020-04-29 | 2020-05-13 |
-| [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 | 2023-03-07 |  |
+| [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 | 2023-03-07 | 2024-03-23 |
 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 | 2023-03-07 | 2023-08-30 |
 | [Who Do You Love](https://open.spotify.com/track/11cDEev79fPKi6uJCjUhu8) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Who Do You Love](https://open.spotify.com/album/7D7hZbj2cLXwozxYePDF6d) | 3:46 | 2019-05-26\* | 2019-06-15 |
 | [Who Needs Love](https://open.spotify.com/track/7uDTc1eJwsD7iMZLhdp8LH) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [The New Toronto 3](https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf) | 2:53 | 2020-04-29 | 2020-05-01 |

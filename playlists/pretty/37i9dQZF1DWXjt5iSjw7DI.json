@@ -1,12 +1,12 @@
 {
   "description": "Country Music legends recorded live. Just like being there. Cover: Willie Nelson",
-  "num_followers": 86429,
+  "num_followers": 86482,
   "original_name": "Legendary Country Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjExMzRkNDNkZTdjNzBkMTZmNWI1NTZhZDNkMDdkZThiMTNiZTA4",
+  "snapshot_id": "MCw0ZTdiMjZjNTljOGQ5NWU2Y2FiZTZhMmY0MmI4NDI3NWRlY2MyODVm",
   "tracks": [
     {
       "added_at": "2023-07-24 14:46:54",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Greatest Hits 2",
-        "url": "https://open.spotify.com/album/5GbASKPwYwyJrNP9PqeXEE"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 301946,
-      "name": "Should've Been A Cowboy - Live",
-      "url": "https://open.spotify.com/track/7w1OeJ2dmLGVpvI75uIXBf"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "Eagles Live",
         "url": "https://open.spotify.com/album/04ZCu8OHFUgbf9Ko0bOSZ2"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 309466,
       "name": "Life in the Fast Lane - Live; 1999 Remaster",
       "url": "https://open.spotify.com/track/7aMJo6bv0PFq2bX969Wgos"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "Greatest Hits 2",
+        "url": "https://open.spotify.com/album/5GbASKPwYwyJrNP9PqeXEE"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 301946,
+      "name": "Should've Been A Cowboy - Live",
+      "url": "https://open.spotify.com/track/7w1OeJ2dmLGVpvI75uIXBf"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 367973,
-      "name": "I've Been a Long Time Leaving (But I'll Be a Long Time Gone) - Live at the Fillmore New York at Irving Plaza, 2010",
-      "url": "https://open.spotify.com/track/0Dz2sBmJO5CWYy3xtiDtfl"
+      "duration_ms": 270186,
+      "name": "Any Man Of Mine - Live",
+      "url": "https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -743,22 +743,18 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Waylon Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 184840,
-      "name": "Good Hearted Woman - Live in Texas - September 1974",
-      "url": "https://open.spotify.com/track/3G9MizlnmJaSUJTieBPk1p"
+      "duration_ms": 367973,
+      "name": "I've Been a Long Time Leaving (But I'll Be a Long Time Gone) - Live at the Fillmore New York at Irving Plaza, 2010",
+      "url": "https://open.spotify.com/track/0Dz2sBmJO5CWYy3xtiDtfl"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -795,18 +791,22 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Hits Alive",
-        "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
+        "name": "Waylon Live (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
       },
       "artists": [
         {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 227586,
-      "name": "I'm Gonna Miss Her (Live)",
-      "url": "https://open.spotify.com/track/4uVcSmPriCKI6L7Ah4GkFT"
+      "duration_ms": 184840,
+      "name": "Good Hearted Woman - Live in Texas - September 1974",
+      "url": "https://open.spotify.com/track/3G9MizlnmJaSUJTieBPk1p"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+        "name": "Hits Alive",
+        "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
         }
       ],
-      "duration_ms": 270186,
-      "name": "Any Man Of Mine - Live",
-      "url": "https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ"
+      "duration_ms": 227586,
+      "name": "I'm Gonna Miss Her (Live)",
+      "url": "https://open.spotify.com/track/4uVcSmPriCKI6L7Ah4GkFT"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
+        "name": "Kenny Chesney Live",
+        "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 276906,
+      "name": "Beer In Mexico - Live",
+      "url": "https://open.spotify.com/track/4Ll7abDHuAdqQVn7hC7iFV"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
         "name": "Waylon Live (Expanded Edition)",
         "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
       },
@@ -927,18 +943,18 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Kenny Chesney Live",
-        "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 276906,
-      "name": "Beer In Mexico - Live",
-      "url": "https://open.spotify.com/track/4Ll7abDHuAdqQVn7hC7iFV"
+      "duration_ms": 224986,
+      "name": "Don't Be Stupid (You Know I Love You) - Live",
+      "url": "https://open.spotify.com/track/3emMetF2rZ9r37qulZfa1c"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -971,22 +987,6 @@
       "duration_ms": 189080,
       "name": "Marie Laveau",
       "url": "https://open.spotify.com/track/7KfM4dvjWNxKhqEZljtMEQ"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 224986,
-      "name": "Don't Be Stupid (You Know I Love You) - Live",
-      "url": "https://open.spotify.com/track/3emMetF2rZ9r37qulZfa1c"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Hope on the Rocks",
-        "url": "https://open.spotify.com/album/4DKhGKCMefhclaMA1R7QNs"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 257106,
-      "name": "Whiskey Girl - Live",
-      "url": "https://open.spotify.com/track/3eV5JB75Wu3sC7bHWyzMmL"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "Still The One: Live From Vegas",
         "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 288360,
       "name": "Kiss You All Over",
       "url": "https://open.spotify.com/track/5Sn9V9bmIMjoNQ4uxrvGjJ"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "Hope on the Rocks",
+        "url": "https://open.spotify.com/album/4DKhGKCMefhclaMA1R7QNs"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 257106,
+      "name": "Whiskey Girl - Live",
+      "url": "https://open.spotify.com/track/3eV5JB75Wu3sC7bHWyzMmL"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
+        "name": "For The Last Time",
+        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Write This Down - Live",
+      "url": "https://open.spotify.com/track/5AP4NeswU941cNkFxeloME"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
         "name": "Jambalaya (On the Bayou) [Live]",
         "url": "https://open.spotify.com/album/2CjQ28yVAxgBGflhXXQMcA"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 246360,
       "name": "Jambalaya (On the Bayou) - Live",
       "url": "https://open.spotify.com/track/31XG0L9fgIlMT4ZW14hfov"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
-        "name": "For The Last Time",
-        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Write This Down - Live",
-      "url": "https://open.spotify.com/track/5AP4NeswU941cNkFxeloME"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Dwight Live",
-        "url": "https://open.spotify.com/album/0MGkyfLKh6k0D0uAa59QXy"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 445293,
-      "name": "Suspicious Minds - Live",
-      "url": "https://open.spotify.com/track/6bBacKPEKJ7xRS8EzArysc"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "Live Anthology",
         "url": "https://open.spotify.com/album/0E8GZQAximOCOgCgfIM1Lx"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 265898,
       "name": "I'm Gonna Be Somebody - Live",
       "url": "https://open.spotify.com/track/7MrG4eeHwaxOVu6l2UW0f1"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "Dwight Live",
+        "url": "https://open.spotify.com/album/0MGkyfLKh6k0D0uAa59QXy"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 445293,
+      "name": "Suspicious Minds - Live",
+      "url": "https://open.spotify.com/track/6bBacKPEKJ7xRS8EzArysc"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/6J5evHxgFS0lym40ETnOs3"
-      },
-      "artists": [
-        {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
-        }
-      ],
-      "duration_ms": 111226,
-      "name": "Kiss an Angel Good Mornin' - Live",
-      "url": "https://open.spotify.com/track/1POWS24vXkuEhSugX2uvkf"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "Waylon Live (Expanded Edition)",
         "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 243733,
       "name": "This Time - Live in Texas - September 1974",
       "url": "https://open.spotify.com/track/7lpnrBgUuirSlzoYYjaVc2"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/6J5evHxgFS0lym40ETnOs3"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 111226,
+      "name": "Kiss an Angel Good Mornin' - Live",
+      "url": "https://open.spotify.com/track/1POWS24vXkuEhSugX2uvkf"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/17PZ8GJrcpZmjA7pbbhsov"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Gentle On My Mind - Live At Garden State Arts Center, 1969",
-      "url": "https://open.spotify.com/track/63UPEFQtDNhs5QDBfAPquR"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "Live From Austin, TX",
         "url": "https://open.spotify.com/album/2xzHCVguVUAWp8pF0FgVsF"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 256573,
       "name": "Me and Bobby McGee - Live",
       "url": "https://open.spotify.com/track/3d1xCdNqFzJkY6b02ZaUWo"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/17PZ8GJrcpZmjA7pbbhsov"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Gentle On My Mind - Live At Garden State Arts Center, 1969",
+      "url": "https://open.spotify.com/track/63UPEFQtDNhs5QDBfAPquR"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Sunday Mornin\u2019 Comin\u2019 Down",
-        "url": "https://open.spotify.com/album/5oYl8mRbVpOcyw3cc0gLXG"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 149440,
-      "name": "Sunday Mornin\u2019 Comin\u2019 Down - Live At Gilley's",
-      "url": "https://open.spotify.com/track/1IsXVneJGgi0PuPh91YSwX"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "Waylon Live (Expanded Edition)",
         "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 236760,
       "name": "Delta Down - Live",
       "url": "https://open.spotify.com/track/2SKGxwuzLZJ8WfcJqEmKTE"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "Sunday Mornin\u2019 Comin\u2019 Down",
+        "url": "https://open.spotify.com/album/5oYl8mRbVpOcyw3cc0gLXG"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 149440,
+      "name": "Sunday Mornin\u2019 Comin\u2019 Down - Live At Gilley's",
+      "url": "https://open.spotify.com/track/1IsXVneJGgi0PuPh91YSwX"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
+        "name": "Live From Austin, TX",
+        "url": "https://open.spotify.com/album/2xzHCVguVUAWp8pF0FgVsF"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Why Me - Live",
+      "url": "https://open.spotify.com/track/6m8OOi2u7gre29fIYYHrJi"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
         "name": "Tanya Tucker (Live)",
         "url": "https://open.spotify.com/album/7rTySU4fukk9B5JjH397Rl"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 190293,
       "name": "Rockin' With The Rhythm Of The Rain - Live",
       "url": "https://open.spotify.com/track/74X536u3RCM3fK5DFKuq86"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
-        "name": "Live From Austin, TX",
-        "url": "https://open.spotify.com/album/2xzHCVguVUAWp8pF0FgVsF"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "Why Me - Live",
-      "url": "https://open.spotify.com/track/6m8OOi2u7gre29fIYYHrJi"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Buffett Live: Tuesdays, Thursdays, Saturdays",
-        "url": "https://open.spotify.com/album/4lotEIzou9mWRk5kdwz76q"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 307133,
-      "name": "Fins - Live",
-      "url": "https://open.spotify.com/track/6OTJ1osgoSNY6U1UIK3Hf5"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "Mickey Gilley",
         "url": "https://open.spotify.com/album/3HA9QfL9xB29dafYochezw"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 181026,
       "name": "Don't the Girls All Get Prettier at Closing Time (Live)",
       "url": "https://open.spotify.com/track/4Mc1qXOOgqp4fA4UuyTW3t"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "Buffett Live: Tuesdays, Thursdays, Saturdays",
+        "url": "https://open.spotify.com/album/4lotEIzou9mWRk5kdwz76q"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 307133,
+      "name": "Fins - Live",
+      "url": "https://open.spotify.com/track/6OTJ1osgoSNY6U1UIK3Hf5"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Carnegie Hall Concert",
-        "url": "https://open.spotify.com/album/37k1QgDqGNemtteDpQ2jcU"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 144706,
-      "name": "I've Got a Tiger By the Tail",
-      "url": "https://open.spotify.com/track/64a1FZ0NQ7qczt5qEvyOtq"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "Queens Of Country Music Volume 1",
         "url": "https://open.spotify.com/album/7vTZKzTvbtNMfbjGhXKjeg"
       },
@@ -2347,18 +2331,18 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Setlist: The Very Best of George Jones LIVE",
-        "url": "https://open.spotify.com/album/7xuyP7IIKdeVnBFnUqrkxK"
+        "name": "Carnegie Hall Concert",
+        "url": "https://open.spotify.com/album/37k1QgDqGNemtteDpQ2jcU"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 213533,
-      "name": "Who's Gonna Fill Their Shoes - Live",
-      "url": "https://open.spotify.com/track/0gG7pOPsFcArbJr9jG5Umf"
+      "duration_ms": 144706,
+      "name": "I've Got a Tiger By the Tail",
+      "url": "https://open.spotify.com/track/64a1FZ0NQ7qczt5qEvyOtq"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2375,6 +2359,22 @@
       "duration_ms": 76853,
       "name": "Swinging Doors - Live In Muskogee, Oklahoma/1969",
       "url": "https://open.spotify.com/track/41n12hZTZnMPg4iJkDHwoc"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "Setlist: The Very Best of George Jones LIVE",
+        "url": "https://open.spotify.com/album/7xuyP7IIKdeVnBFnUqrkxK"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "Who's Gonna Fill Their Shoes - Live",
+      "url": "https://open.spotify.com/track/0gG7pOPsFcArbJr9jG5Umf"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2427,18 +2427,18 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Live At The Ryman",
-        "url": "https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo"
+        "name": "Live From The Troubadour",
+        "url": "https://open.spotify.com/album/4zKEAKSVPzTIftRDlYbc2O"
       },
       "artists": [
         {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Hillbilly Rock",
-      "url": "https://open.spotify.com/track/6CCW2iEsdeMuZdPG6lQkhX"
+      "duration_ms": 320596,
+      "name": "All I Want Is You - Live From The Troubadour / 2008",
+      "url": "https://open.spotify.com/track/0Mf0xGn4ggDSgtDtFW8w6y"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2459,18 +2459,18 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Live From The Troubadour",
-        "url": "https://open.spotify.com/album/4zKEAKSVPzTIftRDlYbc2O"
+        "name": "Live At The Ryman",
+        "url": "https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo"
       },
       "artists": [
         {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
         }
       ],
-      "duration_ms": 320596,
-      "name": "All I Want Is You - Live From The Troubadour / 2008",
-      "url": "https://open.spotify.com/track/0Mf0xGn4ggDSgtDtFW8w6y"
+      "duration_ms": 200800,
+      "name": "Hillbilly Rock",
+      "url": "https://open.spotify.com/track/6CCW2iEsdeMuZdPG6lQkhX"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "90's Country Legends - American Classics",
-        "url": "https://open.spotify.com/album/4Dix9Eb5BLSQWYmMHzBT0S"
-      },
-      "artists": [
-        {
-          "name": "Pam Tillis",
-          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
-        }
-      ],
-      "duration_ms": 210372,
-      "name": "Mi Vida Loca (My Crazy Life) [Live]",
-      "url": "https://open.spotify.com/track/1fhIiIGbLx3tWjxqXuyatt"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "Okie From Muskogee (Live In Muskogee, Oklahoma/1969)",
         "url": "https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 155120,
       "name": "Workin' Man Blues - Live In Muskogee, Oklahoma/1969",
       "url": "https://open.spotify.com/track/78ABaDjslOBXsUJZ27AJsr"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "90's Country Legends - American Classics",
+        "url": "https://open.spotify.com/album/4Dix9Eb5BLSQWYmMHzBT0S"
+      },
+      "artists": [
+        {
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
+        }
+      ],
+      "duration_ms": 210372,
+      "name": "Mi Vida Loca (My Crazy Life) [Live]",
+      "url": "https://open.spotify.com/track/1fhIiIGbLx3tWjxqXuyatt"
     }
   ],
   "unique_name": "Legendary Country Live",

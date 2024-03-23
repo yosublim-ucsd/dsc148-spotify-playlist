@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,354,533 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,354,648 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 | 2 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 3 | [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 |
-| 4 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
-| 5 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
+| 4 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
+| 5 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 6 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 7 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
 | 8 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 56 | [Angeles](https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:56 |
 | 57 | [Under the Bridge](https://open.spotify.com/track/23NPGXlSaIqWzvxIRhM2oG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Greatest Hits](https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC) | 4:25 |
 | 58 | [Because the Night \- Live Unplugged](https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq) | [10,000 Maniacs](https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg) | 3:43 |
-| 59 | [Oceans](https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 2:41 |
-| 60 | [Ironic](https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) | 3:45 |
+| 59 | [Ironic](https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) | 3:45 |
+| 60 | [Oceans](https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 2:41 |
 | 61 | [Foolish Games](https://open.spotify.com/track/2LflDhyBXVNrfmHxAayS3K) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Pieces Of You](https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr) | 5:40 |
 | 62 | [Kind & Generous](https://open.spotify.com/track/6VrjF67WFChXh8uYYBfeRr) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Ophelia](https://open.spotify.com/album/79yCNDXk5sNKwskcAOxUtz) | 4:01 |
 | 63 | [Save Me](https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Magnolia \(Music from the Motion Picture\)](https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV) | 4:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 74 | [Kiss from a Rose \- Acoustic](https://open.spotify.com/track/3YfiGjwBzBsDrYPqAJsD4z) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Best 1991 \- 2004](https://open.spotify.com/album/3NehJpD5x3MUtpl8jDTHaa) | 5:24 |
 | 75 | [Last Day of Our Acquaintance](https://open.spotify.com/track/3EYW4bmuPLRo74rf3Yrsw9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:38 |
 
-Snapshot ID: `MCxiMmZlNjM4Mzk1ODA2M2I0OGMwZWM2ODY0MmQ5MjQ0NDI4N2Q5NTFk`
+Snapshot ID: `MCw5NDFkMzRlN2FhNmQxMmUwZDE3ZTNjMTc3MmJkMmRjY2E2ZDExMDk4`

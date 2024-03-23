@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 
 > Canciones de rock dignas de festival para dedicarle a tu media naranja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,307 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,357 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 8 | [Todo Se Detiene Aquí](https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Escombros](https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61) | 3:48 |
 | 9 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 |
 | 10 | [Hermoso](https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Hermoso](https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA) | 3:27 |
-| 11 | [Loco \(Tu Forma De Ser\)](https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 5:13 |
+| 11 | [Te Lo Pido por Favor](https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Primer Instinto](https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL) | 3:26 |
 | 12 | [Grita](https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:44 |
-| 13 | [Te Lo Pido por Favor](https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Primer Instinto](https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL) | 3:26 |
+| 13 | [Loco \(Tu Forma De Ser\)](https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 5:13 |
 | 14 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 |
 | 15 | [Somos Ajenos \- Noches de Salón](https://open.spotify.com/track/6k96z2qP7JIh8TvenEVD9O) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Noches De Salón](https://open.spotify.com/album/3WxYCeKBo87Z0KeNepcSK8) | 3:52 |
 | 16 | [Tus Ojos](https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:14 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 34 | [Beber de Tu Sangre](https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 4:36 |
 | 35 | [Igual Que Ayer](https://open.spotify.com/track/2JlVEgNJwskpAGSudKPqLD) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Igual Que Ayer](https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp) | 4:50 |
 | 36 | [Es Por Ti](https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:35 |
-| 37 | [El baile y el salón](https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 5:08 |
-| 38 | [Círculo De Amor](https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 4:05 |
+| 37 | [Círculo De Amor](https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 4:05 |
+| 38 | [El baile y el salón](https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 5:08 |
 | 39 | [Sí](https://open.spotify.com/track/0RiW6UAHvVbYVEp4Kvxbwj) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 3:24 |
 | 40 | [El Son del Dolor](https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [La Invasion De Los Blatidos](https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE) | 4:00 |
 | 41 | [Contigo \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Radio la Colifata Presenta: El Canto del Loco](https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf) | 3:34 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 45 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
 | 46 | [La Herida](https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Sueños de Anoche](https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff) | 3:57 |
 | 47 | [Es Por Amor](https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [GIT, El Album](https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN) | 5:13 |
-| 48 | [Caney](https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Caney](https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc) | 3:50 |
-| 49 | [Cenit Acústico](https://open.spotify.com/track/0rHLMqXVjJlfV7GrHujBvl) | [La Castañeda](https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q) | [Trance](https://open.spotify.com/album/3aHa7uq45Sob1hGiKAiwxi) | 4:29 |
+| 48 | [Cenit Acústico](https://open.spotify.com/track/0rHLMqXVjJlfV7GrHujBvl) | [La Castañeda](https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q) | [Trance](https://open.spotify.com/album/3aHa7uq45Sob1hGiKAiwxi) | 4:29 |
+| 49 | [Caney](https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Caney](https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc) | 3:50 |
 | 50 | [Viviré para Ti](https://open.spotify.com/track/2urjF7QhprjmNRK2aqLnxE) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Commercial](https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb) | 3:27 |
 
-Snapshot ID: `MCwwN2U2OTYwM2M1M2NiYjQ0N2I1YmU1MmQ5NzU3Y2M0YWJiZmZjNjM1`
+Snapshot ID: `MCwwOGIyNDY0NTA5ZTRlN2NhMjY5ZmM5Y2I0M2ZiMjM0YTMwMTJhNWYw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 
 > your guide for a peaceful night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,699 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,732 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 75 | [Horizon](https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 4:09 |
 | 76 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/30v4EAWXc18jR8INUfl5yI) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Bullseye](https://open.spotify.com/album/1f585VlbySthBbsx1iM9vA) | 3:24 |
 | 77 | [Try to Make a Fire Burn Again](https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Bluebird](https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN) | 3:02 |
-| 78 | [Moonless](https://open.spotify.com/track/3lCSiBordGtNz6yeF9JZA6) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [The Greater Wings](https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg) | 3:46 |
-| 79 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 |
+| 78 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 |
+| 79 | [Moonless](https://open.spotify.com/track/3lCSiBordGtNz6yeF9JZA6) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [The Greater Wings](https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg) | 3:46 |
 | 80 | [Tupperware](https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Make Peace with That](https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe) | 3:06 |
 
-Snapshot ID: `MCw1MjM0MmM1MzcxY2UyMmI5N2FlNzYxMmY2YzIzYzRiMDc4ZDg5Yjg5`
+Snapshot ID: `MCxkM2FjMWU2NWExYzk2NmNkNzFmM2U0Zjc3MjAxMzhjZTg0NzIyZDJi`

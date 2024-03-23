@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-211 songs - 18 hr 59 min
+212 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,9 +154,10 @@
 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-04-13 |  |
 | [Reflection](https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Reflection EP](https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe) | 6:46 | 2023-03-29 | 2023-05-07 |
 | [Ritual](https://open.spotify.com/track/5tPC9sy0oSG2snV5L3PYB1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Umbilicis Universalis](https://open.spotify.com/album/67vRbAKHrUlH3ejiXFDKQy) | 7:00 | 2022-07-05 | 2022-07-24 |
+| [Robot](https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Robot](https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A) | 3:25 | 2024-03-20 |  |
 | [Rock With Me](https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock With Me](https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP) | 3:25 | 2022-07-05 | 2023-11-05 |
 | [Rock With Me](https://open.spotify.com/track/4JOOUSb29WBiwpH47QUmif) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock with Me](https://open.spotify.com/album/34gHhZJ8XW3Q9o73E7FQMP) | 3:25 | 2023-10-13 |  |
-| [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 | 2023-04-07 |  |
+| [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 | 2023-04-07 | 2024-03-23 |
 | [Rush](https://open.spotify.com/track/7GSCbkKiC0yW0OJt8KG9T7) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Rush](https://open.spotify.com/album/1HNzqVzl0u8EuZIoQNAWeo) | 6:36 | 2022-07-05 | 2022-09-15 |
 | [Sakura](https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs), [Prinz \(DE\)](https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK) | [Sakura](https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6) | 4:28 | 2023-08-25 | 2023-10-04 |
 | [Saw of Olympus](https://open.spotify.com/track/0VnV4QbuGplPbXsFBJpX8y) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Saw of Olympus](https://open.spotify.com/album/3vBR2vYlNvcqwYdpUfzsOn) | 4:32 | 2022-07-05 | 2022-08-27 |

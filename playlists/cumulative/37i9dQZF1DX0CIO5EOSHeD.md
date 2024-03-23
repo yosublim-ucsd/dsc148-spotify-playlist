@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Bnny
 
-387 songs - 20 hr 54 min
+388 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [GARDEN 2](https://open.spotify.com/track/232Y5lAjifWnc5NhUn34mz) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [GARDEN 2](https://open.spotify.com/album/3NgvBxs5xqp1OOtHKvdXYo) | 1:30 | 2020-10-27\* | 2022-07-10 |
 | [Garth](https://open.spotify.com/track/0bNuP61EqpZqdNDNGU4GH0) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Garth](https://open.spotify.com/album/062raJ8B4hT3CiJxrcXp8M) | 3:05 | 2022-02-03 | 2022-07-29 |
 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 | 2022-03-17 |  |
+| [girl](https://open.spotify.com/track/464XMdxuH3QmvwLpMrOhGj) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 2:37 | 2023-12-02 |  |
 | [girl](https://open.spotify.com/track/0riQ5biFBQYCclYUACchr0) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:37 | 2022-03-30 | 2024-03-21 |
 | [girls](https://open.spotify.com/track/5rDzL33WiYowiXlZhwWvst) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/7fnNlZ1txYTCsfhIja9XLj) | 3:18 | 2020-10-30 | 2021-02-26 |
 | [goblin](https://open.spotify.com/track/6wlZnTt9jfkR31dXabQ6tO) | [Kiko](https://open.spotify.com/artist/5J2LdEGghBCwRFc4pPbDJM) | [goblin](https://open.spotify.com/album/6nvfcbpAqQ1S9pBgrNDr5D) | 1:59 | 2021-01-12 | 2022-07-26 |
@@ -302,7 +303,7 @@
 | [Sarah Tonin](https://open.spotify.com/track/5EWQt0frtOwKK0o3jMohhX) | [Damien Burbank](https://open.spotify.com/artist/6whPKF98aagD2j5A0J4tOT), [Lo'fi Boy](https://open.spotify.com/artist/30zqizQHom62N4hV28E1Hz) | [Sarah Tonin](https://open.spotify.com/album/3FGUEacNwLDjbbnMaT58kX) | 2:34 | 2021-04-29 | 2022-07-13 |
 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 | 2021-05-21 |  |
 | [Sea Demon](https://open.spotify.com/track/7h9Qb2MMCCALucfx2Tglzt) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [Sea Demon](https://open.spotify.com/album/5Ah4JlqxlgK6hHfd1wg72f) | 2:54 | 2021-09-04 | 2022-07-26 |
-| [Seaface](https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 3:39 | 2021-09-24 |  |
+| [Seaface](https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 3:39 | 2021-09-24 | 2024-03-23 |
 | [Second Guessing](https://open.spotify.com/track/2yttIliVUGCilaRFJ3mNb7) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Second Guessing](https://open.spotify.com/album/5YeZxTkGWw35NftIOWu0gP) | 3:14 | 2024-02-05 |  |
 | [Self Aware](https://open.spotify.com/track/4D7eFxcPYWqHQ7iyD2oiDp) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Self Aware](https://open.spotify.com/album/1sMcnA8gffc6mlU2Ez7ynd) | 4:46 | 2020-10-27\* | 2020-10-30 |
 | [Semolina](https://open.spotify.com/track/6vjz5weAmyNgRWdLE6TKln) | [Blackaby](https://open.spotify.com/artist/1Wo9pV7JNPzVzDbVbPJQwE) | [Semolina](https://open.spotify.com/album/6nX8TqbKoYgrjWui1j6QEx) | 3:28 | 2020-10-27\* | 2022-07-29 |

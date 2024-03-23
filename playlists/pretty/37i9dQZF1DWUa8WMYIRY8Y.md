@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 4 | [Call](https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Call](https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu) | 2:30 |
 | 5 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |
 | 6 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 |
-| 7 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 |
+| 7 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 |
 | 8 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
 | 9 | [The Thief](https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [People Who Aren’t There Anymore](https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM) | 3:21 |
 | 10 | [Hello](https://open.spotify.com/track/3nh0eAFCTAx01aIuq8YTqR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Hello](https://open.spotify.com/album/169ybGzGpv1UjjWJ37ckhx) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [Raise Your Hands](https://open.spotify.com/track/1WAgMzQu2hQcJlmRu3P6Cp) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Liam Gallagher & John Squire](https://open.spotify.com/album/3Neqbz02HyUyqoI5G3AS1K) | 4:20 |
 | 50 | [Noel Groove](https://open.spotify.com/track/3N9L15JK1SEhBvCPQfqRo8) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Kaiser Chiefs' Easy Eighth Album](https://open.spotify.com/album/5dkbWYrgm2ysC8bObtnjON) | 3:02 |
 
-Snapshot ID: `MCw2NDczOWVmYmYxZDdlMzQ4NzkyMjg0OGY3ZWU1OTNiZTc2NjQzMDlk`
+Snapshot ID: `MCw1NmQzNmQzZGE2YTNiMzE5YTEyYWRhOTgxZmRiNjE1MTNmN2FiZmRj`

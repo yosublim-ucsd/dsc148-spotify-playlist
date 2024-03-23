@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 17871,
+  "2024-03-23": 17871,
   "date_first_scraped": "2022-01-10",
   "description": "Your daily update of the most viral tracks right now - Costa Rica.",
   "name": "Viral 50 - Costa Rica",
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 170440,
       "name": "act iii: on god? (she like)",
       "url": "https://open.spotify.com/track/30uO152on2tYWoE99VaEL5"
@@ -3845,7 +3845,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 170422,
       "name": "Baja y Sube",
       "url": "https://open.spotify.com/track/19HdxwjuhFbN3trAA6EHYJ"
@@ -4365,6 +4365,24 @@
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
+    },
+    {
+      "album": {
+        "name": "BELLAKITA",
+        "url": "https://open.spotify.com/album/3W0OEMGP4LGbJ1VlHntIhQ"
+      },
+      "artists": [
+        {
+          "name": "C Dobleta",
+          "url": "https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182474,
+      "name": "BELLAKITA",
+      "url": "https://open.spotify.com/track/0rT7rchVaPauZBkxreFcEy"
     },
     {
       "album": {
@@ -8216,6 +8234,24 @@
     },
     {
       "album": {
+        "name": "Coquette",
+        "url": "https://open.spotify.com/album/73Ez7a0xHO32zMWBYcOIRr"
+      },
+      "artists": [
+        {
+          "name": "Briella",
+          "url": "https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Coquette",
+      "url": "https://open.spotify.com/track/6sPKOxspAQdgYVkuwEvBf9"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Fr\u00edo",
         "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
       },
@@ -11897,7 +11933,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 170742,
       "name": "En Esta Boca",
       "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
@@ -13961,7 +13997,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 150047,
       "name": "From the Start",
       "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
@@ -14903,7 +14939,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 220830,
       "name": "Gordo",
       "url": "https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv"
@@ -33061,7 +33097,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
@@ -38041,7 +38077,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 645363,
       "name": "Unci\u00f3n en el aire - En Vivo",
       "url": "https://open.spotify.com/track/5HueTmhUbaXJQpM33wdQ6P"
@@ -41195,6 +41231,24 @@
       "duration_ms": 223190,
       "name": "\u041c\u043e\u0439 \u043c\u0430\u0440\u043c\u0435\u043b\u0430\u0434\u043d\u044b\u0439 (\u042f \u043d\u0435 \u043f\u0440\u0430\u0432\u0430)",
       "url": "https://open.spotify.com/track/1Hg0KhBCuME4PgsTYMBK9y"
+    },
+    {
+      "album": {
+        "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6...",
+        "url": "https://open.spotify.com/album/3joHEvqURxvBwrT5JZS3Sn"
+      },
+      "artists": [
+        {
+          "name": "vyrval",
+          "url": "https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190850,
+      "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6...",
+      "url": "https://open.spotify.com/track/4hjRjhLvBIMUUhRjb7DACd"
     },
     {
       "album": {

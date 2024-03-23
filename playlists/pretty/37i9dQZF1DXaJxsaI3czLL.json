@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 130038,
+  "num_followers": 130060,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGMyYzQ0ZmYxM2ExMWQ1Nzk3NjM3OTZkZDRjOGUyYmJhMWFlNjA3",
+  "snapshot_id": "MCxlYWE2Y2RmYjdlZDQ2ZDk4MjMxMmZhNzEyOWM2YzhjNWQyZjI3MTM5",
   "tracks": [
     {
       "added_at": "2024-03-05 17:56:07",
@@ -823,22 +823,18 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR"
+        "name": "Acoustic Versions",
+        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
       },
       "artists": [
         {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
-        },
-        {
-          "name": "\u5869\u585a\u30e2\u30a8\u30ab",
-          "url": "https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr"
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
         }
       ],
-      "duration_ms": 327191,
-      "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re"
+      "duration_ms": 132390,
+      "name": "Midnight Song",
+      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -859,18 +855,22 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "Acoustic Versions",
-        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
+        "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR"
       },
       "artists": [
         {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        },
+        {
+          "name": "\u5869\u585a\u30e2\u30a8\u30ab",
+          "url": "https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr"
         }
       ],
-      "duration_ms": 132390,
-      "name": "Midnight Song",
-      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
+      "duration_ms": 327191,
+      "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
+        "name": "What are you looking for",
+        "url": "https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 401173,
+      "name": "\u304a\u3042\u3044\u3053",
+      "url": "https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
         "name": "Karakai",
         "url": "https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 242000,
       "name": "Karakai",
       "url": "https://open.spotify.com/track/1DFQpMVMM4esSg02Zj0Gx6"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
-        "name": "What are you looking for",
-        "url": "https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 401173,
-      "name": "\u304a\u3042\u3044\u3053",
-      "url": "https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
+        "name": "\u96ea\u89e3",
+        "url": "https://open.spotify.com/album/3lTSCj370LfP4sca6gOCr5"
+      },
+      "artists": [
+        {
+          "name": "\u6e4a\u5927\u702c",
+          "url": "https://open.spotify.com/artist/0gbV5LrMApRAILxgr3gfFB"
+        },
+        {
+          "name": "\u30ab\u30ea\u30b9\u30de",
+          "url": "https://open.spotify.com/artist/68k1h6racwqpRSnc29J4RM"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "\u96ea\u89e3",
+      "url": "https://open.spotify.com/track/6wYQ2o2ayXPpwHmhUiz5p9"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
         "name": "moonlight",
         "url": "https://open.spotify.com/album/58BwJa6AO9RdRVBNJls2b7"
       },
@@ -1455,22 +1475,18 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "\u96ea\u89e3",
-        "url": "https://open.spotify.com/album/3lTSCj370LfP4sca6gOCr5"
+        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
+        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
       },
       "artists": [
         {
-          "name": "\u6e4a\u5927\u702c",
-          "url": "https://open.spotify.com/artist/0gbV5LrMApRAILxgr3gfFB"
-        },
-        {
-          "name": "\u30ab\u30ea\u30b9\u30de",
-          "url": "https://open.spotify.com/artist/68k1h6racwqpRSnc29J4RM"
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
         }
       ],
-      "duration_ms": 250000,
-      "name": "\u96ea\u89e3",
-      "url": "https://open.spotify.com/track/6wYQ2o2ayXPpwHmhUiz5p9"
+      "duration_ms": 310520,
+      "name": "\u306d\u3080\u308b\u306e\u307e\u3061~Tidur Tidur~",
+      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1503,22 +1519,6 @@
       "duration_ms": 67203,
       "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
       "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
-        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
-        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "\u306d\u3080\u308b\u306e\u307e\u3061~Tidur Tidur~",
-      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1619,22 +1619,18 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "THE CHARM PARK II EXTRA",
-        "url": "https://open.spotify.com/album/6yzc3XByJ7DRAJDKbDQ3hC"
+        "name": "Acoustic Versions",
+        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
       },
       "artists": [
         {
-          "name": "THE CHARM PARK",
-          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
-        },
-        {
-          "name": "Alex Siegel",
-          "url": "https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS"
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
         }
       ],
-      "duration_ms": 212773,
-      "name": "Nothing #2 (feat. Alex Siegel)",
-      "url": "https://open.spotify.com/track/3K7vtKv08nn7omt5S2d4eo"
+      "duration_ms": 126517,
+      "name": "There is Nothing More to Say",
+      "url": "https://open.spotify.com/track/7zg26Jo05UY1kYtTnRZvyW"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1655,18 +1651,22 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "Acoustic Versions",
-        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
+        "name": "THE CHARM PARK II EXTRA",
+        "url": "https://open.spotify.com/album/6yzc3XByJ7DRAJDKbDQ3hC"
       },
       "artists": [
         {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+          "name": "THE CHARM PARK",
+          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
+        },
+        {
+          "name": "Alex Siegel",
+          "url": "https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS"
         }
       ],
-      "duration_ms": 126517,
-      "name": "There is Nothing More to Say",
-      "url": "https://open.spotify.com/track/7zg26Jo05UY1kYtTnRZvyW"
+      "duration_ms": 212773,
+      "name": "Nothing #2 (feat. Alex Siegel)",
+      "url": "https://open.spotify.com/track/3K7vtKv08nn7omt5S2d4eo"
     },
     {
       "added_at": "2024-03-05 17:56:07",

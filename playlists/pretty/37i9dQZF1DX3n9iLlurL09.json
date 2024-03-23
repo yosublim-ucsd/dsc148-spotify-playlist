@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 86206,
+  "num_followers": 86257,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2UyOTNlZDIyNDJmMjIwNDU1ZjJjNmRjYmVhYjVlYTNmMGNjY2M1",
+  "snapshot_id": "MCxmODQ1YzNiOTg4MDc4YzdjNWJkNGJjN2M3MTU1ZDEyYTVhNGFiOTFk",
   "tracks": [
     {
       "added_at": "2024-03-18 13:12:36",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 368773,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "Boys & Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 368773,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Allah-Las",
-        "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        }
-      ],
-      "duration_ms": 212986,
-      "name": "Catamaran",
-      "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "Flume",
         "url": "https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 154414,
       "name": "Holdin On",
       "url": "https://open.spotify.com/track/6ERjyW3kpEZN9yHpLIRfxC"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "Allah-Las",
+        "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 212986,
+      "name": "Catamaran",
+      "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Coexist",
-        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 218586,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/76G5L5EC20PrZkH1vvT0s2"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 247506,
       "name": "We Come Running",
       "url": "https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 218586,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/76G5L5EC20PrZkH1vvT0s2"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/5odt1i6YOdDwi7o6v9AzBA"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "Man on Fire",
-      "url": "https://open.spotify.com/track/0rg69E3wqGu7cGZCIkHvdS"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "Coexist",
         "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 167546,
       "name": "Chained",
       "url": "https://open.spotify.com/track/1E5HgxGmPFETzZp6g929hu"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/5odt1i6YOdDwi7o6v9AzBA"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "Man on Fire",
+      "url": "https://open.spotify.com/track/0rg69E3wqGu7cGZCIkHvdS"
     },
     {
       "added_at": "2024-03-18 13:12:36",

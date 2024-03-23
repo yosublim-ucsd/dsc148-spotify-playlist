@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 8250,
+  "2024-03-23": 8250,
   "date_first_scraped": "2022-01-29",
   "description": "Your daily update of the most viral tracks right now - Honduras.",
   "name": "Viral 50 - Honduras",
@@ -3246,6 +3246,28 @@
     },
     {
       "album": {
+        "name": "Baja y Sube",
+        "url": "https://open.spotify.com/album/1JSmYKbA5QmaerpftwdFe4"
+      },
+      "artists": [
+        {
+          "name": "Rokero",
+          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170422,
+      "name": "Baja y Sube",
+      "url": "https://open.spotify.com/track/19HdxwjuhFbN3trAA6EHYJ"
+    },
+    {
+      "album": {
         "name": "BALADINHA SINISTRA",
         "url": "https://open.spotify.com/album/4VtwEXsNAQ9n5dekSnzhsO"
       },
@@ -3675,6 +3697,24 @@
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
+    },
+    {
+      "album": {
+        "name": "BELLAKITA",
+        "url": "https://open.spotify.com/album/3W0OEMGP4LGbJ1VlHntIhQ"
+      },
+      "artists": [
+        {
+          "name": "C Dobleta",
+          "url": "https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182474,
+      "name": "BELLAKITA",
+      "url": "https://open.spotify.com/track/0rT7rchVaPauZBkxreFcEy"
     },
     {
       "album": {
@@ -4815,7 +4855,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
@@ -12320,6 +12360,24 @@
     },
     {
       "album": {
+        "name": "From the Start",
+        "url": "https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150047,
+      "name": "From the Start",
+      "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
+    },
+    {
+      "album": {
         "name": "From The Start",
         "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
       },
@@ -12911,7 +12969,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 223236,
       "name": "Girls Just Wanna Have Some",
       "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
@@ -16019,7 +16077,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
@@ -18263,7 +18321,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
@@ -20169,7 +20227,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 197960,
       "name": "Mi Viejo",
       "url": "https://open.spotify.com/track/3bWMCH2M7JWUga1WRagDzs"
@@ -24549,7 +24607,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 141079,
       "name": "Piel",
       "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
@@ -33517,7 +33575,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"

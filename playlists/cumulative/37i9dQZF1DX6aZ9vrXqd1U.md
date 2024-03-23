@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ
 
-314 songs - 22 hr 8 min
+315 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Life Goes On](https://open.spotify.com/track/7boNqK0KpoeNQjvYTYx1yi) | [Mika Arisaka](https://open.spotify.com/artist/23mgGAQU04Y9g3pyfwnpF0) | [Life Goes On](https://open.spotify.com/album/6ojkccMbds4v0v2Xk9EBHy) | 4:02 | 2022-07-27 | 2023-06-18 |
 | [Line of sight](https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/0jhtODRQmtW7lvT9Ika34U) | 3:33 | 2023-03-14 | 2023-11-12 |
 | [Line of sight](https://open.spotify.com/track/4tUFxXSNCayPjtYoF3kI7T) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/7CUgVbMeNO27pF1kFDm5yV) | 3:33 | 2023-03-14 | 2023-03-16 |
-| [Line of sight](https://open.spotify.com/track/4VPs7Et6NVMWS9mN3qy52r) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/6PU1DYveee3igu6cw4a9Bc) | 3:36 | 2023-10-05 |  |
+| [Line of sight](https://open.spotify.com/track/4VPs7Et6NVMWS9mN3qy52r) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/6PU1DYveee3igu6cw4a9Bc) | 3:36 | 2023-10-05 | 2024-03-23 |
+| [Line of sight](https://open.spotify.com/track/4jDenqGGvz7wEvJkZF7UO7) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [LUMINOUS](https://open.spotify.com/album/7aJkW9YMx2gzLTMQcEqeR0) | 3:36 | 2024-01-27 |  |
 | [MAGIC](https://open.spotify.com/track/2mSrfjmPtLLsROCmqzjceV) | [Jacob Wheeler](https://open.spotify.com/artist/1MkAnw2CpLgVIrjhKrbv4H) | [MAGIC](https://open.spotify.com/album/4MPUghtsFa9IEJSoViVL9j) | 4:45 | 2023-04-21 |  |
 | [MAGIC](https://open.spotify.com/track/4aCbt9Tkvsbbs6C5yiiNzf) | [Jacob Wheeler](https://open.spotify.com/artist/1MkAnw2CpLgVIrjhKrbv4H) | [MAGIC](https://open.spotify.com/album/3zPCsEyprC959PeCIa2M4X) | 4:45 | 2022-07-27 | 2023-06-10 |
 | [MAGIC TIME](https://open.spotify.com/track/6Unwf4vD3ygUvr39kEmIRV) | [sudannayuzuyully](https://open.spotify.com/artist/4AA6Dmgfg8CRDXoBAgnkvc) | [MAGIC TIME](https://open.spotify.com/album/5NgYsNywkut0VDktPlTW8u) | 4:04 | 2022-07-27 | 2024-01-24 |

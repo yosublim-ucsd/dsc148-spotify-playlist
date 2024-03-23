@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 
 > Discover rhythmic crossover hits from cultures around the world\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,772 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,826 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 | 31 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 |
 | 32 | [HOME](https://open.spotify.com/track/4Q9XIYt9aqUUux6ojdGP7J) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [HOME](https://open.spotify.com/album/05ZXicjinv3zpnpNFzIlKs) | 2:56 |
 | 33 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 |
-| 34 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
-| 35 | [MOJABI GHOST](https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:52 |
+| 34 | [MOJABI GHOST](https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:52 |
+| 35 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
 | 36 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
 | 37 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 38 | [Narcotics \(with Bryant Myers\)](https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Narcotics \(with Bryant Myers\)](https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc) | 2:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 | 79 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 |
 | 80 | [LA FAMA](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 |
 
-Snapshot ID: `MCwwODUwMGJjOGI0NGVkMDc4NWE4MjkwZTY2ODQ5NTAzZmE4YTFkYzAw`
+Snapshot ID: `MCw5MGY4OTliMjYzZGEzMDIzNTYxNzRlZDlkYjE1OWYzNDY1NzJlOTA1`

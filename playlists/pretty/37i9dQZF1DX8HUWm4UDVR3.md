@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Lancelot
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,661 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,684 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 45 | [Mes inconnus](https://open.spotify.com/track/0yiF9SR69R8ceBDjIet6NM) | [Bonneville](https://open.spotify.com/artist/6Kni14rJV1e4vwD2D6rM6V) | [Mes inconnus](https://open.spotify.com/album/5qko1zYziTbwfo2VfNp6lU) | 2:56 |
 | 46 | [Le Mythe de Jesse James](https://open.spotify.com/track/54hOQ15avjXZfBecwARm7z) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz) | [Le Mythe de Jesse James](https://open.spotify.com/album/7vCaq8ooLgcw5p08ZEdQUy) | 3:24 |
 | 47 | [Bates Motel](https://open.spotify.com/track/6qW69hFqGopaoI2TQGxE1z) | [June The Girl](https://open.spotify.com/artist/5YAuSUk0Vn6sZBId4I9cni) | [Bates Motel](https://open.spotify.com/album/6Hotowgzqgg36cK3KAokNY) | 2:25 |
-| 48 | [Que des coeurs](https://open.spotify.com/track/7cfP2PmkCxA2HVBKNgAdOX) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Que des coeurs](https://open.spotify.com/album/3GY4dWvQs60WJMAaNbSJZw) | 2:49 |
+| 48 | [Que des coeurs](https://open.spotify.com/track/0UFkdHfHFVAguM7egweU0q) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Que des coeurs](https://open.spotify.com/album/7cQ4UlVIDXLPsm6iMyUTF0) | 2:49 |
 | 49 | [Oui ou non](https://open.spotify.com/track/0nnMnUUW1386WXpzMNf2OA) | [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5) | [musique POUR LA FÊTE](https://open.spotify.com/album/52nZRyuGHBwY5VdeQB5ejX) | 2:26 |
 | 50 | [Forteresse](https://open.spotify.com/track/2dlsjJGFMoWD3Nu4YcIX09) | [Emilie Simon](https://open.spotify.com/artist/6kLw7VpGwN4N0sBdmKhhfd) | [Forteresse](https://open.spotify.com/album/5bjLJg01d8FPkMKBdNxeQp) | 2:53 |
 
-Snapshot ID: `MCxiZmZjNDJiYzRiNzdiYzFiOGM0ODg4MTFlNTI4ZTY5ZDU0ZTFlZTYx`
+Snapshot ID: `MCxiYTc0MWRkMDhjNjE3MGMxZGY0Y2QyNzNkZTEyZTU5NTI2NTM4ZmY1`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3AUv0IEjS8uKIooEtoQNF8">Raquel Silva</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-62 songs - 5 hr 25 min
+64 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Cristo É a Esperança](https://open.spotify.com/track/0gKuqhPZCKoEEZdcBgJF4W) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 5:38 | 2023-12-30 |  |
 | [Deixa Jesus Entrar](https://open.spotify.com/track/2OvHz9lXTrOweJFDHHLW2d) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 4:35 | 2023-12-30 |  |
 | [Deixa Que Ele Abre](https://open.spotify.com/track/6IX3QO2jSkTFS3Ae9NSJfe) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 4:07 | 2023-12-30 |  |
+| [Descansa](https://open.spotify.com/track/6KOESp5FdvTjOax5VlutKk) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz), [Debora Torres](https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx) | [Descansa](https://open.spotify.com/album/0cfY695CUO0I6AdzaJmfVJ) | 6:22 | 2024-03-22 |  |
 | [Deus Está no Controle](https://open.spotify.com/track/45IdtIJYQ9WWgSkJmPZmIG) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 4:46 | 2023-12-30 |  |
 | [Deus É a Resposta](https://open.spotify.com/track/0G07BqkuPbSlgF23eqRbZd) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 5:39 | 2023-12-30 |  |
 | [Esta É a Tua Hora](https://open.spotify.com/track/57f1G2wahTXKaR4JBoxzzq) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 4:21 | 2023-12-30 |  |
@@ -32,6 +33,7 @@
 | [Exaltação](https://open.spotify.com/track/4x3WVeMvlHWcpPs7VX5ksf) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 7:04 | 2023-12-30 |  |
 | [Fornalha de Fogo](https://open.spotify.com/track/1rJF0zCoqj3twcNoOQGhL6) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 3:52 | 2023-12-30 |  |
 | [Gideão](https://open.spotify.com/track/2qquzytuxuLr396dtGz77l) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 4:46 | 2023-12-30 |  |
+| [Glorifique & Exalte a Ele](https://open.spotify.com/track/6Z56KObDNMmrqr5G4BFb2b) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz), [Debora Torres](https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx) | [Glorifique & Exalte a Ele](https://open.spotify.com/album/3tUFOrv3WONr57J4La7Bw9) | 5:38 | 2024-03-22 |  |
 | [Grande Coral](https://open.spotify.com/track/6u5xTXWKh77OuNTxZ0ATkO) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 6:11 | 2023-12-30 |  |
 | [Homem de Deus](https://open.spotify.com/track/60h01Ux8zkq5BagGce76E7) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 6:29 | 2023-12-30 |  |
 | [Jerusalém](https://open.spotify.com/track/5UOYM3IUPFCgGGyETdFkeg) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 5:24 | 2023-12-30 |  |

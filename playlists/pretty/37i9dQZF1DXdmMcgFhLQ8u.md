@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 
 > These country songs know exactly how you feel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,024 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,022 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 74 | [When I Call Your Name](https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When I Call Your Name](https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK) | 4:15 |
 | 75 | [Tin Man](https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:19 |
 
-Snapshot ID: `MCw2NzdmMmYwZDY1NzkxZjU0NmEzYjI2NTA5ZmY0MDIzYjE5NTk5NTg1`
+Snapshot ID: `MCwyYTliYzJhM2NjYzEwMWI4ZTM4NjdhMzFkMTM3ZTY5MWFkY2ExODNh`

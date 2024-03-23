@@ -4,7 +4,7 @@
 
 > Los corridos más placosos y perrones del 2023\. Natanael Cano en portada.
 
-110 songs - 5 hr 29 min
+111 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Pensando](https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Aprendimos A Jugar](https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o) | 2:32 | 2022-11-30 | 2023-11-30 |
 | [Por Clave Caiman](https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Por Clave El Caiman](https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g) | 2:38 | 2023-11-29 |  |
 | [Por Clave el 13](https://open.spotify.com/track/5xwP3VbM3eBKOeFF3fwn6Z) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Seguimos Irremediables](https://open.spotify.com/album/40qsMl66nONy9hHLMHATwO) | 3:10 | 2022-11-30 | 2023-11-30 |
-| [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 | 2023-11-29 |  |
+| [Porte de Scarface](https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX) | 2:52 | 2023-11-29 |  |
+| [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 | 2023-11-29 | 2024-03-23 |
 | [PRC](https://open.spotify.com/track/0cNSq9T5l8gZnpY14rsTR2) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:04 | 2023-11-29 |  |
 | [Punto y Aparte](https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0) | 2:38 | 2023-11-29 |  |
 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 | 2022-11-30 | 2023-11-30 |

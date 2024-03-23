@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 
 > Get on down the road with these classic country tunes\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,155 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,213 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 99 | [Just Good Ol' Boys](https://open.spotify.com/track/3rvNZziNdig7Z0ePbB365e) | [Moe Bandy](https://open.spotify.com/artist/7s7Q0xacR6ShONfklPYcPz), [Joe Stampley](https://open.spotify.com/artist/0bRY1ri3TKSfD5BRU8CvaJ) | [Just Good Ol' Boys](https://open.spotify.com/album/4Dimc7g8uaqY3EMKwMgDbx) | 2:38 |
 | 100 | [The Ride](https://open.spotify.com/track/6tRSJPPrWs1hqOkllIJK9M) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe \- 16 Biggest Hits](https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l) | 3:06 |
 
-Snapshot ID: `MCwyNjllMmU5YWFiNmQ5MmIyNmY0NGYyZDU0Y2M1ZDIxNGU4MDQwYWY3`
+Snapshot ID: `MCxiZTUyNWFlZTE3NzM3MDQ4YWJhOTU2NjRmZDgzZTgyMWY0ZDI1YTUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 
 > Suéltala que ella baila sola\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,092 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,936 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 | 34 | [Brinca](https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Brinca](https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH) | 2:26 |
 | 35 | [Te Cura](https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Te Cura \(FAST X Soundtrack\)](https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP) | 2:30 |
 | 36 | [EL TONTO](https://open.spotify.com/track/0OqoRBKlvRZarXZqE7AH7z) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL TONTO](https://open.spotify.com/album/3T21Uk1UfJGBWIInCaVC5s) | 3:08 |
-| 37 | [Amanecemos](https://open.spotify.com/track/4L6PEEISI0EWoKh8Wwtvuh) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Amanecemos](https://open.spotify.com/album/3ybnP0l2GS9XlLOIoYGvPg) | 3:18 |
-| 38 | [MALA SANTA](https://open.spotify.com/track/5e50NiIlOc2YJIftHzoehd) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 2:53 |
+| 37 | [MALA SANTA](https://open.spotify.com/track/5e50NiIlOc2YJIftHzoehd) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 2:53 |
+| 38 | [Amanecemos](https://open.spotify.com/track/4L6PEEISI0EWoKh8Wwtvuh) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Amanecemos](https://open.spotify.com/album/3ybnP0l2GS9XlLOIoYGvPg) | 3:18 |
 | 39 | [LA COMBI VERSACE](https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:41 |
 | 40 | [La Loto](https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [La Loto](https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y) | 3:10 |
 | 41 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 | 47 | [Zorra](https://open.spotify.com/track/0OP1RzrglC008kj79Httv3) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Zorra](https://open.spotify.com/album/6Syxhy1xpKZXWO8KPm34G3) | 3:06 |
 | 48 | [te pongo mal\(prendelo\)](https://open.spotify.com/track/36Qi2bHMzLMQIHApHFytgv) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:52 |
 | 49 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 |
-| 50 | [Fiera](https://open.spotify.com/track/2vD9yWf62GCBUgygsGIz6o) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Welcome To My World](https://open.spotify.com/album/1bkxTSDQ2rilOXXi2rys5X) | 2:55 |
+| 50 | [Fabuloso](https://open.spotify.com/track/3cg2Y9mIiYNdcPTLKaQgK3) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:20 |
 
-Snapshot ID: `MCwxYWIwOTZkMGYxNjZjMzQ0ZTBmOTE2MjBjYzE0Y2U3MjZkZTcyYzZl`
+Snapshot ID: `MCwwODdkNzUwOTk2ZmM4YWY0MDljNjA1MTRjMWQyOGUyNWMxZmFmZDdh`

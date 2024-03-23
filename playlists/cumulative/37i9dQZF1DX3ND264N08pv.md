@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-243 songs - 13 hr 43 min
+244 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Buried Alive](https://open.spotify.com/track/6En1mnKQHujsveLdnkPRon) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Buried Alive](https://open.spotify.com/album/7kH4AAUjyQYDmmCeohXyxa) | 3:15 | 2022-12-08 | 2023-04-14 |
 | [Burn MF](https://open.spotify.com/track/2r6w2d3ehFw7BZ5yDLcroq) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Burn MF](https://open.spotify.com/album/3xQTtEFddnUR8jjHR36RUh) | 3:03 | 2022-12-08 | 2023-10-26 |
 | [Cannibal \- Radical Redemption Remix](https://open.spotify.com/track/2DWwikXjYJpQe7sbdjgUQl) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Cannibal \(Radical Redemption Remix\)](https://open.spotify.com/album/0IkDRXg0wntX1zPOlaKDqq) | 3:07 | 2022-12-08 | 2023-10-26 |
-| [Choose Life](https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Choose Life](https://open.spotify.com/album/78oFO3EBoHwZEyyzqMJu9n) | 3:08 | 2023-05-15 |  |
+| [Choose Life](https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Choose Life](https://open.spotify.com/album/78oFO3EBoHwZEyyzqMJu9n) | 3:08 | 2023-05-15 | 2024-03-23 |
 | [Come for You](https://open.spotify.com/track/6jLL2rtFTGpzStKsw3XBqN) | [Regain](https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK) | [Back to Square One](https://open.spotify.com/album/6kZ3RJatrJ9zZvZwIAYiJb) | 2:48 | 2022-12-08 | 2024-01-28 |
 | [Crazy, Like Me!](https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Crazy, Like Me!](https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g) | 2:54 | 2022-12-08 | 2023-09-02 |
 | [Creed Of Freakstyle](https://open.spotify.com/track/14IsD2FgLmBaGVsbCm1oIE) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Creed Of Freakstyle](https://open.spotify.com/album/5QgbUIZAldBQ6FmWDMXD6D) | 4:09 | 2023-09-28 |  |
@@ -146,6 +146,7 @@
 | [MAKE IT POP](https://open.spotify.com/track/15aTM8pzywQEBV73CrlAO3) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [MAKE IT POP](https://open.spotify.com/album/13JOW0aLJacGieAZhtH3HL) | 3:14 | 2022-12-08 | 2023-03-07 |
 | [Makin' Money](https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw) | [Infected](https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [FadeIIBlack \- The Album](https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ) | 2:28 | 2023-12-14 | 2024-03-20 |
 | [Medication Time](https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Medication Time](https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T) | 4:17 | 2022-12-08 | 2023-07-28 |
+| [Meteor](https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Meteor](https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT) | 3:40 | 2024-03-22 |  |
 | [Mi Madre](https://open.spotify.com/track/7sy5W4vCjRAifgy14muCpP) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Mi Madre](https://open.spotify.com/album/3jpDofUQPIy8xx7lLigl3Q) | 2:40 | 2022-12-08 | 2023-03-07 |
 | [MORE THAN HUMAN](https://open.spotify.com/track/3dKT1n8DfajEoMTyU3hMTU) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [MORE THAN HUMAN](https://open.spotify.com/album/3GJfH79LQ6vBNLtA7rvNpF) | 2:53 | 2022-12-08 | 2022-12-25 |
 | [MUSICA DEL DIABLO](https://open.spotify.com/track/1jzH4XLGopI4nm0hgq6g9B) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [MUSICA DEL DIABLO](https://open.spotify.com/album/4PkQtuOcU1u6elX3rbFfxu) | 2:40 | 2024-02-01 |  |

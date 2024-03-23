@@ -1,12 +1,12 @@
 {
   "description": "Esos \u00e9xitos que todav\u00eda quieres seguir escuchando. Foto: Anuel AA & Bad Bunny",
-  "num_followers": 652263,
+  "num_followers": 652389,
   "original_name": "Reggaet\u00f3n Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWY4OTZmYjViMDVjNDMxMjI2M2E5MzZiMzZhOWIwZTJkNThkYTVj",
+  "snapshot_id": "MCwwZjU2OTk0NDFhODk1NjZjMDFiNDg2OGY3ZTM1OTk4YWFjN2QxZWI0",
   "tracks": [
     {
       "added_at": "2024-03-18 13:25:42",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-03-18 13:25:42",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "11 PM",
-      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
-    },
-    {
-      "added_at": "2024-03-18 13:25:42",
-      "album": {
         "name": "Odisea",
         "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 193226,
       "name": "T\u00fa Foto",
       "url": "https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf"
+    },
+    {
+      "added_at": "2024-03-18 13:25:42",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "11 PM",
+      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
     },
     {
       "added_at": "2024-03-18 13:25:42",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-03-18 13:25:42",
       "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Felices los 4",
-      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
-    },
-    {
-      "added_at": "2024-03-18 13:25:42",
-      "album": {
         "name": "Mir\u00e1ndote",
         "url": "https://open.spotify.com/album/7xnKqGbHSMxldHS5AcCn08"
       },
@@ -1691,6 +1675,22 @@
     {
       "added_at": "2024-03-18 13:25:42",
       "album": {
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Felices los 4",
+      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
+    },
+    {
+      "added_at": "2024-03-18 13:25:42",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU"
       },
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2024-03-18 13:25:42",
       "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 232786,
+      "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc"
+    },
+    {
+      "added_at": "2024-03-18 13:25:42",
+      "album": {
         "name": "La F\u00f3rmula",
         "url": "https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ"
       },
@@ -1747,26 +1767,6 @@
     {
       "added_at": "2024-03-18 13:25:42",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc"
-    },
-    {
-      "added_at": "2024-03-18 13:25:42",
-      "album": {
         "name": "Te Busco",
         "url": "https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh"
       },
@@ -1783,30 +1783,6 @@
       "duration_ms": 233639,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
-    },
-    {
-      "added_at": "2024-03-18 13:25:42",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 204700,
-      "name": "Bella y Sensual",
-      "url": "https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3"
     },
     {
       "added_at": "2024-03-18 13:25:42",
@@ -1835,6 +1811,30 @@
     {
       "added_at": "2024-03-18 13:25:42",
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 204700,
+      "name": "Bella y Sensual",
+      "url": "https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3"
+    },
+    {
+      "added_at": "2024-03-18 13:25:42",
+      "album": {
         "name": "Los Cotizados",
         "url": "https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8"
       },
@@ -1847,6 +1847,22 @@
       "duration_ms": 201946,
       "name": "Me Niegas",
       "url": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA"
+    },
+    {
+      "added_at": "2024-03-18 13:25:42",
+      "album": {
+        "name": "ALMAS GEMELAS",
+        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 235411,
+      "name": "ALMAS GEMELAS",
+      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
     },
     {
       "added_at": "2024-03-18 13:25:42",
@@ -1915,22 +1931,6 @@
       "duration_ms": 187492,
       "name": "Me Reclama",
       "url": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
-    },
-    {
-      "added_at": "2024-03-18 13:25:42",
-      "album": {
-        "name": "ALMAS GEMELAS",
-        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 235411,
-      "name": "ALMAS GEMELAS",
-      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
     },
     {
       "added_at": "2024-03-18 13:25:42",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-03-18 13:25:42",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
-    },
-    {
-      "added_at": "2024-03-18 13:25:42",
-      "album": {
         "name": "LOKERA",
         "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
       },
@@ -2155,6 +2139,22 @@
     {
       "added_at": "2024-03-18 13:25:42",
       "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
+    },
+    {
+      "added_at": "2024-03-18 13:25:42",
+      "album": {
         "name": "La Player (Bandolera)",
         "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
       },
@@ -2167,26 +2167,6 @@
       "duration_ms": 249608,
       "name": "La player (Bandolera)",
       "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
-    },
-    {
-      "added_at": "2024-03-18 13:25:42",
-      "album": {
-        "name": "Vente Pa' Ca (feat. Maluma)",
-        "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 259195,
-      "name": "Vente Pa' Ca (feat. Maluma)",
-      "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
     },
     {
       "added_at": "2024-03-18 13:25:42",
@@ -2207,6 +2187,26 @@
       "duration_ms": 163265,
       "name": "Besalo",
       "url": "https://open.spotify.com/track/2PUdyEnqZUh3zICKE4Fu8N"
+    },
+    {
+      "added_at": "2024-03-18 13:25:42",
+      "album": {
+        "name": "Vente Pa' Ca (feat. Maluma)",
+        "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 259195,
+      "name": "Vente Pa' Ca (feat. Maluma)",
+      "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
     },
     {
       "added_at": "2024-03-18 13:25:42",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2024-03-18 13:25:42",
       "album": {
-        "name": "DI LETRA",
-        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
-      },
-      "artists": [
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "Mi Cuarto",
-      "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
-    },
-    {
-      "added_at": "2024-03-18 13:25:42",
-      "album": {
         "name": "La Rompe Corazones",
         "url": "https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw"
       },
@@ -2283,6 +2267,22 @@
     {
       "added_at": "2024-03-18 13:25:42",
       "album": {
+        "name": "DI LETRA",
+        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "Mi Cuarto",
+      "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
+    },
+    {
+      "added_at": "2024-03-18 13:25:42",
+      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP"
       },
@@ -2295,22 +2295,6 @@
       "duration_ms": 188894,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs"
-    },
-    {
-      "added_at": "2024-03-18 13:25:42",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178693,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq"
     },
     {
       "added_at": "2024-03-18 13:25:42",
@@ -2343,6 +2327,22 @@
       "duration_ms": 249520,
       "name": "Hola - Remix",
       "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
+    },
+    {
+      "added_at": "2024-03-18 13:25:42",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 178693,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq"
     },
     {
       "added_at": "2024-03-18 13:25:42",
@@ -2463,46 +2463,6 @@
     {
       "added_at": "2024-03-18 13:25:42",
       "album": {
-        "name": "Climaxxx",
-        "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        }
-      ],
-      "duration_ms": 286506,
-      "name": "Cuaderno",
-      "url": "https://open.spotify.com/track/7anSoGdgtmJTAPZBzcPhO6"
-    },
-    {
-      "added_at": "2024-03-18 13:25:42",
-      "album": {
         "name": "Farruko Presents Los Menores",
         "url": "https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf"
       },
@@ -2559,6 +2519,46 @@
       "duration_ms": 240320,
       "name": "Fan\u00e1tica Sensual",
       "url": "https://open.spotify.com/track/5ZFpEsxK5VlLkJi3v7ar2Y"
+    },
+    {
+      "added_at": "2024-03-18 13:25:42",
+      "album": {
+        "name": "Climaxxx",
+        "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "duration_ms": 286506,
+      "name": "Cuaderno",
+      "url": "https://open.spotify.com/track/7anSoGdgtmJTAPZBzcPhO6"
     },
     {
       "added_at": "2024-03-18 13:25:42",

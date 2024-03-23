@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 
 > that's hot
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,488 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,633 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 37 | [SOS](https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:58 |
 | 38 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 |
 | 39 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 |
-| 40 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 |
-| 41 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 |
-| 42 | [Crank That \(Soulja Boy\)](https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [souljaboytellem.com](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) | 3:41 |
-| 43 | [One, Two Step \(feat\. Missy Elliott\)](https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:23 |
+| 40 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 |
+| 41 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 |
+| 42 | [One, Two Step \(feat\. Missy Elliott\)](https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:23 |
+| 43 | [Crank That \(Soulja Boy\)](https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [souljaboytellem.com](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) | 3:41 |
 | 44 | [My Name Is](https://open.spotify.com/track/75IN3CtuZwTHTnZvYM4qnJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 4:28 |
 | 45 | [Drop It Like It's Hot](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:26 |
 | 46 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 60 | [Goodies \(feat\. Petey Pablo\)](https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:43 |
 | 61 | [Glamorous](https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:06 |
 | 62 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 |
-| 63 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 |
-| 64 | [Right Thurr](https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh) | [Jackpot](https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB) | 4:10 |
+| 63 | [Right Thurr](https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh) | [Jackpot](https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB) | 4:10 |
+| 64 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 |
 | 65 | [Lady Marmalade \- Single Edit](https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Lady Marmalade](https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ) | 4:27 |
 | 66 | [Cry for You](https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Dancing Shoes](https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz) | 3:29 |
 | 67 | [Sometimes](https://open.spotify.com/track/1UI0l2L66HJ9AtoEOlHzv4) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 99 | [So Yesterday](https://open.spotify.com/track/0J1Wfjo9H3R62yaCuuNDZX) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Metamorphosis](https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs) | 3:35 |
 | 100 | [Gotta Tell You](https://open.spotify.com/track/1rj0XawWJNisX7SGYexowJ) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Gotta Tell You](https://open.spotify.com/album/5hrhGEdZrxOjBe32cfIuwc) | 3:20 |
 
-Snapshot ID: `MCw1MDU1OGNmY2FhZDg0MGZlNzMyMjcxMWMyYzg0NTk3ZDU0YjI5MjM5`
+Snapshot ID: `MCw3YzE4ODM5YTIxYTU1ZTg0NzZlZTM5MGQ0MjQwY2RhNjI1YmFhZWVj`

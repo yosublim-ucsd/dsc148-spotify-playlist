@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-568 songs - 1 day 11 hr 35 min
+569 songs - 1 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,7 @@
 | [Remember When](https://open.spotify.com/track/7jp3STyCSsoakSPUoKTtFX) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Disobey](https://open.spotify.com/album/5hDwXxawZfYuNxylzGXcqt) | 3:29 | 2022-05-25 | 2023-08-31 |
 | [Renegade Music](https://open.spotify.com/track/3WiWXLl3u4MH9Xz1uEDcO4) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Renegade Music](https://open.spotify.com/album/2Rw9mBFhhWxe19izrj0T98) | 3:23 | 2022-05-25 | 2022-11-18 |
 | [Repeat After Me](https://open.spotify.com/track/3JNxxCTPp5tDIsi8uAAj5j) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Egomaniac](https://open.spotify.com/album/34wMiMwyKeqYMvBpWB2HaK) | 3:49 | 2022-05-25 | 2022-07-29 |
-| [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 | 2022-05-25 |  |
+| [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 | 2022-05-25 | 2024-03-23 |
 | [Reverend](https://open.spotify.com/track/5cm47Nc1MWBVIkRFaXxvHY) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 3:54 | 2022-05-25 |  |
 | [Ricochet](https://open.spotify.com/track/1ocR8gUE4fBfNJZtBr0TFQ) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Vessels](https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8) | 5:10 | 2022-05-25 | 2022-07-29 |
 | [RISE](https://open.spotify.com/track/46QdfDL0LnGlHLKmREiXP5) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:14 | 2022-05-25 | 2023-07-18 |
@@ -425,6 +425,7 @@
 | [Rotting In Vain](https://open.spotify.com/track/3Ta6FxRbRGB5EW2ozabTH5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Rotting in Vain](https://open.spotify.com/album/5x8AkOenCbF9lzolHtT6NF) | 3:31 | 2022-05-25 | 2022-07-28 |
 | [Run](https://open.spotify.com/track/1wLQwg0mloy3yXjL0jPE0N) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Concrete and Gold](https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc) | 5:23 | 2022-05-25 |  |
 | [Rush](https://open.spotify.com/track/2xrW6sZRmahuSAQMxO4BmJ) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Stay](https://open.spotify.com/album/3RkTphhXZG2bzI1lkeHh1G) | 2:56 | 2022-05-25 | 2022-07-24 |
+| [Sacrilege](https://open.spotify.com/track/2pQZ9g4vaFNXO42kMe8e3w) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 3:50 | 2023-01-18 |  |
 | [Saint Cecilia](https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Saint Cecilia EP](https://open.spotify.com/album/6wGcuJq8QjSeoYMJWgW7Wo) | 3:41 | 2022-05-25 |  |
 | [Same Damn Life](https://open.spotify.com/track/5tkcQeBaeM1ZoNs2YUOmnz) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Isolate And Medicate](https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk) | 3:19 | 2022-05-25 |  |
 | [Satellite](https://open.spotify.com/track/5kXsUxYZbRJ58plUgjQp3r) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Vessels](https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8) | 3:59 | 2022-05-25 | 2022-07-25 |

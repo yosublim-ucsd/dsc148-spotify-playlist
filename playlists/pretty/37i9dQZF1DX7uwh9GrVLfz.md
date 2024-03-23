@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Su凸ko D凹koi
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,740 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,780 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 27 | [世界を終わらせて](https://open.spotify.com/track/2FZXuCw75FYVfiNHtFQON9) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [永遠の花](https://open.spotify.com/album/1i7AHRWpDPl56hKoWcnMdq) | 3:53 |
 | 28 | [MAE](https://open.spotify.com/track/0YgGz6kZcMw4QXq2IM6tAE) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [GOLD IMPRINTS](https://open.spotify.com/album/0u4T0jMskpSiQO0mrw6TNK) | 4:01 |
 | 29 | [MY FIRST KISS](https://open.spotify.com/track/2sZkMsfevQczFFXNBzr6al) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [LOVE IS A BATTLEFIELD](https://open.spotify.com/album/2xpMvwe3ftugumuaJR3flV) | 3:11 |
-| 30 | [Say My Name](https://open.spotify.com/track/1tCiCPvZYVdR5rIxokcqbj) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 1:48 |
-| 31 | [愛彌々](https://open.spotify.com/track/4BQR7j2Wg0lkwfPq9O14gZ) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [愛彌々](https://open.spotify.com/album/2OyqM4vsvt06EgArxRoYZv) | 5:08 |
+| 30 | [愛彌々](https://open.spotify.com/track/4BQR7j2Wg0lkwfPq9O14gZ) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [愛彌々](https://open.spotify.com/album/2OyqM4vsvt06EgArxRoYZv) | 5:08 |
+| 31 | [Say My Name](https://open.spotify.com/track/1tCiCPvZYVdR5rIxokcqbj) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 1:48 |
 | 32 | [INSOMNIAC](https://open.spotify.com/track/2EzDDlGlwTPNPQPojXvKty) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [INSOMNIAC](https://open.spotify.com/album/2e59EpMeBgRjNL4dcAXzB3) | 3:58 |
 | 33 | [Ni\-Ni\-](https://open.spotify.com/track/5TcJ2BjDZlr5kSD03EiYyb) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 2:22 |
 | 34 | [感情is MINE](https://open.spotify.com/track/1ijdOQYxwXh7HMqQCxY7Mi) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [感情is MINE/Super Model](https://open.spotify.com/album/0hH7lHpPWSDtysnqC9FDL4) | 1:46 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 72 | [もしも君が泣くならば](https://open.spotify.com/track/1xCQa1dJC3jIXGHaTo7273) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 3:46 |
 | 73 | [MIND YOUR STEP!](https://open.spotify.com/track/2knIZVDFSEefwgTzWF4i5T) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [TRACK\~Single Collection&More](https://open.spotify.com/album/5ZHhiDzLxrDeZnRtr5z9Ca) | 3:37 |
 | 74 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
-| 75 | [Dance all night my friends](https://open.spotify.com/track/65yT4lhXarJZo0jVLfH8k5) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [EVERYNIGHT](https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK) | 2:45 |
+| 75 | [The Gift](https://open.spotify.com/track/4zbkeCco7LYg7hs4dSxLjR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/2vvt4IjFm6sLlipjJCB0TH) | 2:22 |
 | 76 | [YAEN](https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [YAEN](https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m) | 2:19 |
-| 77 | [The Gift](https://open.spotify.com/track/4zbkeCco7LYg7hs4dSxLjR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/2vvt4IjFm6sLlipjJCB0TH) | 2:22 |
+| 77 | [Dance all night my friends](https://open.spotify.com/track/65yT4lhXarJZo0jVLfH8k5) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [EVERYNIGHT](https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK) | 2:45 |
 | 78 | [Silent spear](https://open.spotify.com/track/5l5O5zu4Vnmse6SHbxORDM) | [mildrage](https://open.spotify.com/artist/2LdFzULhmqYvTHBnHSNNcm) | [ROM](https://open.spotify.com/album/1mCJDxhi1kXBQcrz4wv18J) | 3:55 |
 | 79 | [Dandadan](https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [STOP THE WAR](https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU) | 3:03 |
 | 80 | [me, myself & I.](https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [me, myself & I.](https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj) | 3:08 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 83 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 |
 | 84 | [PARTY PARTY](https://open.spotify.com/track/1UJ85UjmaZGw1Xolf5mGTS) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Wicked and Naked](https://open.spotify.com/album/3QQYI3nyuD3vinb0VJetFH) | 3:39 |
 | 85 | [情熱たましい](https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ビッグ ブラック ストア\(連絡しろ\)](https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU) | 3:07 |
-| 86 | [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 |
-| 87 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 |
+| 86 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 |
+| 87 | [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 |
 | 88 | [Riot](https://open.spotify.com/track/223nvf6U6stGS3nkA72KQ3) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Care Package](https://open.spotify.com/album/26xfYpzZgpGWRgJ7azcrIa) | 2:50 |
 | 89 | [そんな日々を生きていく](https://open.spotify.com/track/1UJVe7sPD9uEm5xJE9Mc6p) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [そんな日々を生きていく](https://open.spotify.com/album/6229MPDOzFYCQh0PlCDyq8) | 4:31 |
 | 90 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [suxingcyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 97 | [These Magic Words](https://open.spotify.com/track/3RbS00mL3QbGKEupNTmn9s) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:54 |
 | 98 | ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 |
 | 99 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 |
-| 100 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 |
+| 100 | [永遠衝動](https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE) | [I's](https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU) | [永遠衝動](https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz) | 4:14 |
 
-Snapshot ID: `MCw3NzMxMmU3NGE2YzI0Nzc4ZWY4ZTExY2ZiMDNiOGE5MjgzOWQxY2Ez`
+Snapshot ID: `MCw0NTViN2RmMmYwNThmZmY1YjE1YzNkY2MwNzI4YTg4ZDE3YjdhOGJm`

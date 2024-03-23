@@ -4,7 +4,7 @@
 
 > The ultimate rock party playlist!
 
-274 songs - 17 hr 15 min
+275 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Helicopter](https://open.spotify.com/track/72aCha2Meq7txnk451hz7k) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/4KeTvCYCel3Ky58FirciWp) | 3:40 | 2022-04-08 | 2022-04-19 |
 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 | 2022-07-14 | 2022-12-16 |
 | [Higher Ground \- Remastered](https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:22 | 2021-12-08 | 2022-07-29 |
-| [Highway Tune](https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:00 | 2023-02-07 |  |
+| [Highway Tune](https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:00 | 2023-02-07 | 2024-03-23 |
 | [Howlin' For You](https://open.spotify.com/track/5jdvRj8zXHJ7XpKsBKT9CZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Edition\)](https://open.spotify.com/album/0gVxPZ2tcMgyzLxyw8k1z7) | 3:11 | 2022-04-08 | 2022-04-20 |
 | [Human](https://open.spotify.com/track/5mhUPDWQH3s544WCsa0r9w) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age](https://open.spotify.com/album/39JESZeZjLUrjwQtCrRs6d) | 4:05 | 2021-12-30 | 2022-05-05 |
 | [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 | 2022-04-08 |  |
@@ -149,6 +149,7 @@
 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 | 2022-04-08 | 2022-04-20 |
 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 | 2021-12-08 |  |
 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 | 2022-04-08 | 2024-02-17 |
+| [Lump](https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:14 | 2023-09-12 |  |
 | [Lump](https://open.spotify.com/track/2JdzB67NvIa90K4gEZPLeX) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604) | 2:14 | 2022-04-08 | 2022-04-20 |
 | [Machinehead](https://open.spotify.com/track/1Z5LCXu5Ca3sHAy6OdUrBT) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/72X9bb0R8LXGnVHZ3O40OK) | 4:16 | 2022-04-08 | 2022-04-21 |
 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-08-12 | 2022-12-16 |

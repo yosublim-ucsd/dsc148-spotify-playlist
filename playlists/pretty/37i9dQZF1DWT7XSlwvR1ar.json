@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2078727,
+  "num_followers": 2078855,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGU5OThhYzE2N2JjNGNmMTEzZWIyZmM3MWUxZGJiZGFkMTgwOTM0",
+  "snapshot_id": "MCxiZjM5ZTQzYTZkNmViNTVmNTY2NTAwOTc4OWNjNGZkOTdkODQwZjAx",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:06",
@@ -395,6 +395,26 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
+        "name": "My God Has a Telephone",
+        "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
+      },
+      "artists": [
+        {
+          "name": "The Flying Stars Of Brooklyn NY",
+          "url": "https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "My God Has A Telephone",
+      "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
         "name": "Black Pumas",
         "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 231840,
       "name": "You Are the Best Thing",
       "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
-        "name": "My God Has a Telephone",
-        "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
-      },
-      "artists": [
-        {
-          "name": "The Flying Stars Of Brooklyn NY",
-          "url": "https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "My God Has A Telephone",
-      "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "Bon Iver (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 336613,
-      "name": "Holocene",
-      "url": "https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 187306,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "Bon Iver (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "Carry Me Away",
+      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
         "name": "The Spirit Moves",
         "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 161906,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "Carry Me Away",
-      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "Mary (b-sides)",
-        "url": "https://open.spotify.com/album/15RYnRTIMHrCB6X3HjK2mC"
+        "name": "A Little Lift",
+        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
       },
       "artists": [
         {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
         }
       ],
-      "duration_ms": 219696,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/5L7IgwUPhir2FJftGNXJDW"
+      "duration_ms": 199742,
+      "name": "Empress",
+      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "A Little Lift",
-        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
+        "name": "Mary (b-sides)",
+        "url": "https://open.spotify.com/album/15RYnRTIMHrCB6X3HjK2mC"
       },
       "artists": [
         {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
         }
       ],
-      "duration_ms": 199742,
-      "name": "Empress",
-      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
+      "duration_ms": 219696,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/5L7IgwUPhir2FJftGNXJDW"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "Highroad",
         "url": "https://open.spotify.com/album/70gYt9g5sdmG00ArLq5eIY"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 230656,
       "name": "Highroad",
       "url": "https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "Chapter Of The Forest",
-        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 274632,
-      "name": "Green Mountain State",
-      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 252760,
       "name": "That's Where I Am",
       "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "Chapter Of The Forest",
+        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 274632,
+      "name": "Green Mountain State",
+      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "That Was Yesterday",
-        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "That Was Yesterday",
-      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 195600,
       "name": "Lilacs",
       "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "That Was Yesterday",
+        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "That Was Yesterday",
+      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "Celeste EP",
-        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
-      },
-      "artists": [
-        {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
-        }
-      ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 266756,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "Celeste EP",
+        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
+      },
+      "artists": [
+        {
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+        }
+      ],
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "Fits Of Laughter",
         "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "Sermon on the Rocks",
-        "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 196195,
-      "name": "Getting Ready to Get Down",
-      "url": "https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "Best Day of My Life",
         "url": "https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 219020,
       "name": "Just Another Thing We Don't Talk About",
       "url": "https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "Sermon on the Rocks",
+        "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 196195,
+      "name": "Getting Ready to Get Down",
+      "url": "https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0"
     },
     {
       "added_at": "2024-03-08 05:01:06",

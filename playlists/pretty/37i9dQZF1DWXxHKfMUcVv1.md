@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,737 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,768 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 38 | [Vienes y Te Vas](https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F) | [Grupo Ternura](https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq) | [El Rey del Norte](https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf) | 3:18 |
 | 39 | [Pobre De Mis Ojos](https://open.spotify.com/track/22vlaPIylFwBjlsqIVDNHC) | [Noa \- Noa](https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7) | [Olvídame Si Puedes](https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H) | 3:18 |
 | 40 | [Que Loco Amor](https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C) | [Cumbia Juan](https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2) | [Revolution](https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE) | 3:23 |
-| 41 | [El Último Beso](https://open.spotify.com/track/3XhpZzA5EHDXnY2tICXeqz) | [Los Roller's](https://open.spotify.com/artist/7mQa3XflwD72PWFe55CjWt) | [El Último Beso](https://open.spotify.com/album/0gpAzMT34MHus5D1QgYPf4) | 2:32 |
-| 42 | [En Un Solo Dia](https://open.spotify.com/track/3Me4qJDkBKKfIFWg7JcLY6) | [Negros](https://open.spotify.com/artist/3eA9KcIgfIe4siS6dByAb4), [Alina Vargas](https://open.spotify.com/artist/7uG4YWxqyeeSaZMnv7ekzV) | [Armadura De Rosas](https://open.spotify.com/album/7q1Ya9cTQeN1ryNie2dDaF) | 3:09 |
+| 41 | [En Un Solo Dia](https://open.spotify.com/track/3Me4qJDkBKKfIFWg7JcLY6) | [Negros](https://open.spotify.com/artist/3eA9KcIgfIe4siS6dByAb4), [Alina Vargas](https://open.spotify.com/artist/7uG4YWxqyeeSaZMnv7ekzV) | [Armadura De Rosas](https://open.spotify.com/album/7q1Ya9cTQeN1ryNie2dDaF) | 3:09 |
+| 42 | [El Último Beso](https://open.spotify.com/track/3XhpZzA5EHDXnY2tICXeqz) | [Los Roller's](https://open.spotify.com/artist/7mQa3XflwD72PWFe55CjWt) | [El Último Beso](https://open.spotify.com/album/0gpAzMT34MHus5D1QgYPf4) | 2:32 |
 | 43 | [Amarte a la antigua](https://open.spotify.com/track/5aHoyryz0I6llzRyhPyEQR) | [Banda Santa Fe](https://open.spotify.com/artist/1qBjaneNSXBteutRVWFsgG) | [Banda Santa Fe, con más estilo...](https://open.spotify.com/album/2wcBjXnBHcj9aEpiXI9XNT) | 3:53 |
 | 44 | [Me Liberé](https://open.spotify.com/track/32qhajow0UHHPmNudtmfKK) | [Yelsid](https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R) | [Me Liberé](https://open.spotify.com/album/251i0oXvNIWZW05XMycMZQ) | 3:37 |
 | 45 | [Loquita](https://open.spotify.com/track/3Aws1K6BcnUjAwnfuGg3A1) | [Los Meketrefes](https://open.spotify.com/artist/62ZEevKR6rUJUm47unC5Jj) | [Los Meketrefes grandes exitos](https://open.spotify.com/album/72NwFvWV9HckI9kd5PFN8e) | 3:00 |
 | 46 | [Nena Buena](https://open.spotify.com/track/6mVv3xXy1P398JJcJwaFTq) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [Nena Buena](https://open.spotify.com/album/68GJuJAXjGNo1XXa726aUR) | 2:33 |
-| 47 | [Todo va a estar mejor](https://open.spotify.com/track/7dho4N5H5etH68vQkROikt) | [Bohemia Urbana](https://open.spotify.com/artist/3291CCSyTY0umdaKwGbjdV) | [Macumba y Payé](https://open.spotify.com/album/5mGXFIhky9btBggWADmnPg) | 2:39 |
-| 48 | [Hemisferios](https://open.spotify.com/track/23PqbeqTrFllYLOUER2FVy) | [La De Roberto](https://open.spotify.com/artist/6RtpeKo8M8Ma1sADlQgI3U) | [Hemisferios](https://open.spotify.com/album/6IfGYAiEViUQFCLKkx6GLh) | 3:29 |
+| 47 | [Hemisferios](https://open.spotify.com/track/23PqbeqTrFllYLOUER2FVy) | [La De Roberto](https://open.spotify.com/artist/6RtpeKo8M8Ma1sADlQgI3U) | [Hemisferios](https://open.spotify.com/album/6IfGYAiEViUQFCLKkx6GLh) | 3:29 |
+| 48 | [Todo va a estar mejor](https://open.spotify.com/track/7dho4N5H5etH68vQkROikt) | [Bohemia Urbana](https://open.spotify.com/artist/3291CCSyTY0umdaKwGbjdV) | [Macumba y Payé](https://open.spotify.com/album/5mGXFIhky9btBggWADmnPg) | 2:39 |
 | 49 | [Una Cerveza](https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89) | [El Monchi Papa](https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB) | [Bailalo Como Quieras, Que Esto Cumbia Villera](https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV) | 3:35 |
 | 50 | [En La Luna Y En Marte](https://open.spotify.com/track/6kvruD8T7VanoOwdae5VZJ) | [Rumberos](https://open.spotify.com/artist/4y5cUwfnsyFAy23py47pbn) | [Rumbo a Tu Corazon](https://open.spotify.com/album/3ypyKq60YlA0bGQYGp5sDQ) | 3:39 |
 
-Snapshot ID: `MCxlZjRiNTYxZjUzYWE1YTQ2MzM0MDJkNGVmNGJkNDg2OGJmYmQ0Njg3`
+Snapshot ID: `MCxiYzNiMGMxYjc3MTZlNmVjNjQyNDRiNGViNTU5YTQ1MjZjNWYzOTlm`

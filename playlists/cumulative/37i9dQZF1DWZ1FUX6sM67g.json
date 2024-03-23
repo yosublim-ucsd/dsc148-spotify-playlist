@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Marc Anthony",
+  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Fonseca, Gilberto Santa Rosa, Chucho Vald\u00e9s",
   "name": "Punto Tropical",
   "tracks": [
     {
@@ -372,7 +372,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 167647,
       "name": "Baby Boo",
       "url": "https://open.spotify.com/track/0sjwNDuHyfLruYofOWObNj"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 192000,
       "name": "Bailemos Bachata",
       "url": "https://open.spotify.com/track/1EN4zSsLTwFoSQnYwEMqKq"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 187972,
       "name": "Beber",
       "url": "https://open.spotify.com/track/74p0JcjSnzGsAEv8jWOnqd"
@@ -772,6 +772,32 @@
       "duration_ms": 200686,
       "name": "Chacha Me - Espa\u00f1ol",
       "url": "https://open.spotify.com/track/3d2O38xlPzQRHo98Brb6Xn"
+    },
+    {
+      "album": {
+        "name": "Colecci\u00f3n De Recuerdos",
+        "url": "https://open.spotify.com/album/1oQ9hPIOK2Me7vDa55IjCa"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227072,
+      "name": "Colecci\u00f3n De Recuerdos",
+      "url": "https://open.spotify.com/track/0CFAlfhun1YGMHoEEdyyYV"
     },
     {
       "album": {
@@ -1995,6 +2021,28 @@
     },
     {
       "album": {
+        "name": "Llegu\u00e9 Tarde",
+        "url": "https://open.spotify.com/album/1VNr6GJdW5OiCZnKVARO42"
+      },
+      "artists": [
+        {
+          "name": "Diana Burco",
+          "url": "https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i"
+        },
+        {
+          "name": "Jaison Neutra",
+          "url": "https://open.spotify.com/artist/0tzIRowoKOf2XyvvuSBRWf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188636,
+      "name": "Llegu\u00e9 Tarde",
+      "url": "https://open.spotify.com/track/075I4HrtsAxGEMheXOsS8q"
+    },
+    {
+      "album": {
         "name": "Sale el Sol",
         "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
       },
@@ -2493,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Para Ya",
+        "url": "https://open.spotify.com/album/0RIfNwCS9W9WO3LC5NjNqL"
+      },
+      "artists": [
+        {
+          "name": "Charlie Zaa",
+          "url": "https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193368,
+      "name": "Para Ya",
+      "url": "https://open.spotify.com/track/1hX02s5pfQgaQZz6HxKKrm"
+    },
+    {
+      "album": {
         "name": "10 De Colecci\u00f3n",
         "url": "https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV"
       },
@@ -2894,7 +2960,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 193674,
       "name": "Sabor a Ti",
       "url": "https://open.spotify.com/track/4lUhWY1Cc1s1N0ncrAHE4x"
@@ -3194,6 +3260,28 @@
       "duration_ms": 210373,
       "name": "Te Tengo Ganas",
       "url": "https://open.spotify.com/track/3FhMGOGlgzEmgyzr54nhWy"
+    },
+    {
+      "album": {
+        "name": "Tres D\u00edas en Cartagena",
+        "url": "https://open.spotify.com/album/2Xv5RtLyJUeAHk1yHmZAmI"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178169,
+      "name": "Tres D\u00edas en Cartagena",
+      "url": "https://open.spotify.com/track/4VbLdkvcpvoBYBJtAJQ0wc"
     },
     {
       "album": {

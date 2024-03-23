@@ -1777,6 +1777,28 @@
     },
     {
       "album": {
+        "name": "Haq Hai Tujhe",
+        "url": "https://open.spotify.com/album/1GlOG03Zy4icRF2rxMA0GK"
+      },
+      "artists": [
+        {
+          "name": "Krsna Solo",
+          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
+        },
+        {
+          "name": "Prabhjee Kaur",
+          "url": "https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230830,
+      "name": "Haq Hai Tujhe",
+      "url": "https://open.spotify.com/track/0QeX9QuEdqUlC767B1DPul"
+    },
+    {
+      "album": {
         "name": "Haseen Zindagi",
         "url": "https://open.spotify.com/album/6QMhD0MzyqQgaYPXEsnGBB"
       },
@@ -2646,7 +2668,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 194285,
       "name": "Kashtiyaan",
       "url": "https://open.spotify.com/track/54xTcmfvjb1qzQgcIJRHVp"

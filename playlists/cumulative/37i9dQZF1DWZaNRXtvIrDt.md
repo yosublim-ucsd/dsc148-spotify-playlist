@@ -4,7 +4,7 @@
 
 > a new world of alternative electronic music\. Cover: Moktar
 
-581 songs - 1 day 18 hr 51 min
+582 songs - 1 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [camera shy](https://open.spotify.com/track/1ZkSe68c8K8ewcW30ZuKdU) | [Cassettes For Kids](https://open.spotify.com/artist/4Zs7sfD9SC3wRBZ0U29CPB) | [camera shy](https://open.spotify.com/album/42cgYvfGvkOgDYqM3oVbkU) | 5:19 | 2023-09-07 | 2023-09-29 |
 | [Can't Fix A Broken Heart](https://open.spotify.com/track/4UgstCyrgpaPLVVsf64sez) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Beautiful Strangers](https://open.spotify.com/album/5dtvpvsFIOwgBB85M3hxKR) | 5:25 | 2023-06-29 | 2023-11-17 |
 | [Can't Hang \- Disco Lines Remix](https://open.spotify.com/track/2O6Om9fTQr9VyUYp3C27Zk) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Can't Hang \(Disco Lines Remix\)](https://open.spotify.com/album/5885LHE57QcvhGUuk6ABeg) | 3:46 | 2023-02-02 | 2023-03-10 |
-| [Can't Let Go](https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Let Go](https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS) | 3:59 | 2024-03-21 |  |
+| [Can't Let Go](https://open.spotify.com/track/2WpiqjVC1CP89KVQfxOfol) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Mother](https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I) | 3:59 | 2024-03-21 |  |
+| [Can't Let Go](https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Let Go](https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS) | 3:59 | 2024-03-21 | 2024-03-23 |
 | [Candidasa](https://open.spotify.com/track/2UdB4mqfNI5M01Vpfta2tU) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Candidasa EP](https://open.spotify.com/album/6WXn29FqzQK2dW4M8DNPC4) | 10:21 | 2023-07-27 | 2023-09-08 |
 | [Care 4 U](https://open.spotify.com/track/5qnR7addSkFe7TXDV2PDry) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Care 4 U](https://open.spotify.com/album/42UbW8NCTXppa42NEgAuPE) | 4:33 | 2024-02-22 |  |
 | [Carey Street](https://open.spotify.com/track/6c6gG7RCWf7aphY9tClCEr) | [Subjoi](https://open.spotify.com/artist/5yP54uGWok9LAIYdH7tz5p) | [Rotary](https://open.spotify.com/album/14sZpdLiHwctdgJDE8dOuz) | 4:18 | 2023-09-14 | 2023-11-24 |

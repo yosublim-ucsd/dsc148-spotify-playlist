@@ -8169,6 +8169,24 @@
     },
     {
       "album": {
+        "name": "FASTEDELICA",
+        "url": "https://open.spotify.com/album/2MGkpR1vN8Hi4ygbMVdMPX"
+      },
+      "artists": [
+        {
+          "name": "I Finnegans",
+          "url": "https://open.spotify.com/artist/2rrjc6ARdFy4OigHtVsL7X"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117693,
+      "name": "Mani E Calcolatrici (Elderly In A Hurry)",
+      "url": "https://open.spotify.com/track/55CHtuKxC6ksrKxVDOCjpi"
+    },
+    {
+      "album": {
         "name": "Manichini",
         "url": "https://open.spotify.com/album/5zXmDgtt8EP1bzghLq7Ipc"
       },

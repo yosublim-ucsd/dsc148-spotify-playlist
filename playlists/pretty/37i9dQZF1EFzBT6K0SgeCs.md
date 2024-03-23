@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5TBp8FDzDLGbfSwadAIZiN">Finneas O'Connell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,855 likes - 114 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,853 likes - 114 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 81 | [Naked](https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Naked](https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR) | 2:47 |
 | 82 | [Commander In Chief](https://open.spotify.com/track/3w6f34fBUXOvuko0Ihq7he) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Commander In Chief](https://open.spotify.com/album/5tF7JnL3vVYaKap77UUz6p) | 3:14 |
 | 83 | [I'm in Love Without You](https://open.spotify.com/track/1qMNtybhEGAUFLtwlnxsMK) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [I'm in Love Without You](https://open.spotify.com/album/3N5KHNxl029ukoyPRkbVqv) | 3:21 |
-| 84 | [Life Moves On](https://open.spotify.com/track/62BQnLUbtX7MVdLPjGAHek) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Life Moves On](https://open.spotify.com/album/1Tc5orxZ6YQSmjKH16tP6N) | 4:11 |
-| 85 | [The Kids Are All Dying](https://open.spotify.com/track/0BNmGdxb8St6XZF4kYAQsX) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 2:47 |
+| 84 | [The Kids Are All Dying](https://open.spotify.com/track/0BNmGdxb8St6XZF4kYAQsX) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 2:47 |
+| 85 | [Life Moves On](https://open.spotify.com/track/62BQnLUbtX7MVdLPjGAHek) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Life Moves On](https://open.spotify.com/album/1Tc5orxZ6YQSmjKH16tP6N) | 4:11 |
 | 86 | [Another Year](https://open.spotify.com/track/2PjhrIf3ro6skhdBHAUl1P) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x) | 4:16 |
 | 87 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 |
 | 88 | [Can't Wait To Be Dead](https://open.spotify.com/track/5dDSX2zoMVSDmz1TPxPMYO) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Can't Wait To Be Dead](https://open.spotify.com/album/0wKWpWU5S5EwkLKsdcTRz1) | 2:55 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 113 | [bad guy / Taki Taki \- X Factor Recording](https://open.spotify.com/track/1Rv2K9eIcpL2ELwcmXIZn0) | [V5](https://open.spotify.com/artist/1roSWM1RIG9K5RzA9Kde42) | [bad guy / Taki Taki \(X Factor Recording\)](https://open.spotify.com/album/1sjDnvyBzs92Pz1KMXbPhb) | 2:36 |
 | 114 | [Wash You Off](https://open.spotify.com/track/5P9Wd1OpXa9IbP6mLMI9c2) | [Kenzie Nimmo](https://open.spotify.com/artist/1L3mQeJx5YUcTqhIHD7pjV) | [Reckless Mess](https://open.spotify.com/album/2uESJILWyhUM6QvD1enlDP) | 3:19 |
 
-Snapshot ID: `Mjg1MTc4OTAsMDAwMDAwMDBmNjViNTllZjIwY2UyZjU1MjJkYjk3Yjg4NzNhOTBjNg==`
+Snapshot ID: `Mjg1MTkzMzAsMDAwMDAwMDA2MTZlMGU2N2YzNzU4ODdkYzQzMTJiNWZkYWQ4YzQ3OQ==`

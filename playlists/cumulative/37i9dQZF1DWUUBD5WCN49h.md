@@ -2,9 +2,9 @@
 
 ### [Sizzlers ](https://open.spotify.com/playlist/37i9dQZF1DWUUBD5WCN49h)
 
-> New and emerging R&B, afropop and Alternative tracks\. Cover: Aramide
+> New and emerging R&B, afropop and Alternative tracks\. Cover: Boistory
 
-809 songs - 1 day 15 hr 23 min
+810 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [BEBE](https://open.spotify.com/track/6g66M8kCsTHH62T7oT0K3I) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [BEBE/CINNAMON](https://open.spotify.com/album/1xNUH2MsviQz6p4firxKHR) | 2:45 | 2024-03-22 |  |
 | [Bebe](https://open.spotify.com/track/121XwoNWeBIFVtwkd5sBLu) | [Demmi](https://open.spotify.com/artist/2lF5l1MCyqNj4WyBE4Jopk), [Rie Osei](https://open.spotify.com/artist/3zRrAdtO9kUqV0prpNjFsv) | [Bebe](https://open.spotify.com/album/1CImxH9mgWhXJVPaXYjHeb) | 3:02 | 2023-03-03 | 2023-03-18 |
 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 | 2022-06-30 | 2023-02-11 |
+| [Believe](https://open.spotify.com/track/5La0PaI1xX4VbbA4LI4kxz) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [Purple Lens](https://open.spotify.com/album/1Ycr1L7hKGVBLVygx1mG8l) | 2:35 | 2024-03-22 |  |
 | [Beside You](https://open.spotify.com/track/2yyi0FijxXpUqNoO7Q6m8j) | [Black Girls Glow](https://open.spotify.com/artist/2rzelYNts2hxyccqXrIESK), [Lindsey Abudei](https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg), [Lor](https://open.spotify.com/artist/0qB2kln0DEhQW99YeSgVPK), [Lily Asia](https://open.spotify.com/artist/5UzCUtrwz4xfsQYoA9toYu) | [Tapestry](https://open.spotify.com/album/3bP6xutBMEXvmVbecXNF6u) | 3:47 | 2022-10-13 | 2022-11-26 |
 | [Bestie](https://open.spotify.com/track/0brRHW86zUOI6LI0ONCuT5) | [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ) | [Bestie](https://open.spotify.com/album/7mIiPZxkjNWyLVrWBttoFU) | 2:46 | 2023-07-28 | 2023-08-04 |
 | [Better Than This \(feat\. Tellaman\)](https://open.spotify.com/track/50PMuNQuMKQHCzxonOeDHE) | [Select Play](https://open.spotify.com/artist/5bJTdzjq8dZRcVjJ8FkAiU), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Better Than This \(feat\. Tellaman\)](https://open.spotify.com/album/4gXWlYFDwStgusk7cnXv0A) | 3:54 | 2023-06-22 | 2023-12-02 |
@@ -549,7 +550,7 @@
 | [Only You \- A COLORS SHOW](https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Only You \- A COLORS SHOW](https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk) | 2:46 | 2023-11-03 | 2023-12-02 |
 | [Onye Ije](https://open.spotify.com/track/2bYdxvjMZA6T9YK5JMM8w4) | [Alenu](https://open.spotify.com/artist/2Gyi48nUYchPtoJDF6eCul) | [The Walking Man](https://open.spotify.com/album/0Fcs9ZCVb4UeITuoUDDWnW) | 2:57 | 2024-03-08 |  |
 | [Ooh La La](https://open.spotify.com/track/2Uhe3lCZUHxJqxjoInQTzK) | [Juliera](https://open.spotify.com/artist/00it1bBwOIDqd6QFINlBav) | [Ooh La La](https://open.spotify.com/album/0oZ0lAft8GGuLtinZGSRGz) | 3:27 | 2023-12-01 | 2023-12-07 |
-| [Ordinary Love](https://open.spotify.com/track/27oYvDzSpwNDNojFdUD7LZ) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Ordinary Love](https://open.spotify.com/album/2R6EzaM8RREXn9jkFK7BEd) | 2:56 | 2024-02-09 |  |
+| [Ordinary Love](https://open.spotify.com/track/27oYvDzSpwNDNojFdUD7LZ) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Ordinary Love](https://open.spotify.com/album/2R6EzaM8RREXn9jkFK7BEd) | 2:56 | 2024-02-09 | 2024-03-23 |
 | [Oshe](https://open.spotify.com/track/7I8QM1U3MlX21c6348Ywoz) | [Blizz](https://open.spotify.com/artist/4y5iTAoxxjUQIbjE07cgQ7) | [Oshe](https://open.spotify.com/album/6j8nqWuHnrNQ3OcJIEEdBs) | 3:02 | 2023-02-10 | 2023-04-21 |
 | [Osondi Owendi](https://open.spotify.com/track/0vG1ADDsKH633S42iVG6MW) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Osondi Owendi](https://open.spotify.com/album/72Ej57wkEwKeVt8oIBVW81) | 3:37 | 2023-12-08 | 2024-03-22 |
 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 | 2023-09-08 | 2023-09-15 |

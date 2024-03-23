@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 
 > The hottest tracks with the freshest hits! Cover: CYRIL
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,407,154 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,407,409 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 | 28 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
 | 29 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 30 | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr) | 3:02 |
-| 31 | [Nostalgia](https://open.spotify.com/track/0hhvzMnYVZuCt0pwsAgxyp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/4BAVhpH8KMzD5cqlGmS3Db) | 2:44 |
+| 31 | [Nostalgia](https://open.spotify.com/track/3AgHs7svu3fb2d5NguwfXY) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt) | 2:44 |
 | 32 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 |
 | 33 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 34 | [The Worst Person Alive](https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [The Worst Person Alive](https://open.spotify.com/album/0gUEqoX8asLVh5Ugvu6Zxz) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 | 49 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 |
 | 50 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 |
 
-Snapshot ID: `MCw0MzY4MTkyY2EwZDc1ZDQ5OTgzZWMwZWEzNjFhZjJlYzM5NGUwNjJj`
+Snapshot ID: `MCxhZjIyMWE1N2Y2OGU2ZTVlZDEwNTM5MzlmZWJhMjYzMDc5OWNjOTJh`

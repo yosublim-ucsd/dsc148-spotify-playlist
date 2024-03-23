@@ -5,6 +5,50 @@
   "tracks": [
     {
       "album": {
+        "name": "Chopin: 12 \u00c9tudes, Op. 10: No. 12 in C Minor \"Revolutionary\"",
+        "url": "https://open.spotify.com/album/74Ad4ipzFmpLUMhQI0JOZ5"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "12 \u00c9tudes, Op. 10: No. 12 in C Minor \"Revolutionary\"",
+      "url": "https://open.spotify.com/track/4tjdcmSvwN4tcNXybibSh9"
+    },
+    {
+      "album": {
+        "name": "Chopin: 12 \u00c9tudes, Op. 25: No. 11 in A Minor \"Winter Wind\"",
+        "url": "https://open.spotify.com/album/6N22adsrbRjMRYPi0wMNN6"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209626,
+      "name": "12 \u00c9tudes, Op. 25: No. 11 in A Minor \"Winter Wind\"",
+      "url": "https://open.spotify.com/track/3AUs6a50ndE0LqZWkNWrga"
+    },
+    {
+      "album": {
         "name": "Chopin: 24 Preludes, Op. 28: No. 15 in D Flat Major. Sostenuto \"Raindrop\"",
         "url": "https://open.spotify.com/album/3G7TjRq0pIrJrbX81U6zem"
       },

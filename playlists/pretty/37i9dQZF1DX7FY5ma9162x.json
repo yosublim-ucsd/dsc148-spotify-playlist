@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: SZA",
-  "num_followers": 253970,
+  "num_followers": 254054,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDQyOGRhNmE3ODUwNjJiMzgzMGIwZmEwN2Q2ZDk4MzVjMGE1ZmEy",
+  "snapshot_id": "MCw5YTA2ZDAwNGFkYjZlMzBhODA2NGRjODEyOWY4NTY0ZGUyZWFiMzc0",
   "tracks": [
     {
       "added_at": "2024-03-21 19:03:45",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-03-21 19:03:45",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231497,
-      "name": "No Love (with SZA)",
-      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
-    },
-    {
-      "added_at": "2024-03-21 19:03:45",
-      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 588139,
       "name": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
       "url": "https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz"
+    },
+    {
+      "added_at": "2024-03-21 19:03:45",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 231497,
+      "name": "No Love (with SZA)",
+      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
     },
     {
       "added_at": "2024-03-21 19:03:45",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-03-21 19:03:45",
       "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 166997,
-      "name": "Gonna Love Me",
-      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
-    },
-    {
-      "added_at": "2024-03-21 19:03:45",
-      "album": {
         "name": "East Atlanta Love Letter",
         "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 240341,
       "name": "Pretty Little Fears (feat. J. Cole)",
       "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
+    },
+    {
+      "added_at": "2024-03-21 19:03:45",
+      "album": {
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
     },
     {
       "added_at": "2024-03-21 19:03:45",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-03-21 19:03:45",
       "album": {
+        "name": "Shameless",
+        "url": "https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
+    },
+    {
+      "added_at": "2024-03-21 19:03:45",
+      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 225502,
       "name": "Ex For A Reason (with JT from City Girls)",
       "url": "https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4"
-    },
-    {
-      "added_at": "2024-03-21 19:03:45",
-      "album": {
-        "name": "Shameless",
-        "url": "https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "Shameless",
-      "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
     },
     {
       "added_at": "2024-03-21 19:03:45",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-03-21 19:03:45",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 205275,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
-    },
-    {
-      "added_at": "2024-03-21 19:03:45",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 236236,
       "name": "Go Baby",
       "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
+    },
+    {
+      "added_at": "2024-03-21 19:03:45",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 205275,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
     },
     {
       "added_at": "2024-03-21 19:03:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,484 likes - 51 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,572 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 40 | [Working On a Dream](https://open.spotify.com/track/08QZBupqwLXOalOpgiTi5e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Working On A Dream](https://open.spotify.com/album/5xJSVog0izeuIURO34C7Qa) | 3:28 |
 | 41 | [Out In the Street](https://open.spotify.com/track/1k7CqKKwQu4zIK6DrsuqKG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 4:17 |
 | 42 | [One Minute You're Here](https://open.spotify.com/track/4VpkCmCnqgcUcysgHdTbYf) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 2:57 |
-| 43 | [Jersey Girl \- Live at Meadowlands Arena, E\. Rutherford, NJ \- July 1981](https://open.spotify.com/track/3kqC9r9ilM63AogQ47RVpu) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Bruce Springsteen & The E Street Band Live 1975\-85](https://open.spotify.com/album/4Hbe1M0BDbgMwbw6Tw2fmD) | 6:30 |
-| 44 | [Dustland \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/6F3AStga2KRSJVZvVA5L3c) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Dustland \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/5KOK8MOxvNzrLuqbLJhnVG) | 4:24 |
+| 43 | [Dustland \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/6F3AStga2KRSJVZvVA5L3c) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Dustland \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/5KOK8MOxvNzrLuqbLJhnVG) | 4:24 |
+| 44 | [Jersey Girl \- Live at Meadowlands Arena, E\. Rutherford, NJ \- July 1981](https://open.spotify.com/track/3kqC9r9ilM63AogQ47RVpu) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Bruce Springsteen & The E Street Band Live 1975\-85](https://open.spotify.com/album/4Hbe1M0BDbgMwbw6Tw2fmD) | 6:30 |
 | 45 | [Backstreets](https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 6:30 |
 | 46 | [Tunnel of Love](https://open.spotify.com/track/2rUHBIfbMBB92n1gSfSqwF) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 5:09 |
 | 47 | [Fire](https://open.spotify.com/track/0Tk2agqmwJajtoX6sCxngb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Promise](https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9) | 4:08 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 50 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ) | 2:27 |
 | 51 | [She's the One](https://open.spotify.com/track/5St2IxnaIYOPflaomWB3Pz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:30 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBkYzllOTU5N2Y2YzBiYWE3NDBhMTdhMDcwMmE1YzkwMQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA0ZDc5N2MzY2M0NjY5YjE5NjI3YTU2ZWFjMmYyNTVmYQ==`

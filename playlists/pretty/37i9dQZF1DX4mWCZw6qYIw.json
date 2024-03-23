@@ -1,12 +1,12 @@
 {
   "description": "the mood is to scream into your dashboard/choke back tears in the parking lot",
-  "num_followers": 759703,
+  "num_followers": 759737,
   "original_name": "songs to scream in the car",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDBiYjNmOWI3ZGQ3NTdlM2UyYjczNWU4NDAxMzMyMGZjNTc1Yzcz",
+  "snapshot_id": "MCw1MjNkNTExMGExNzNiNjYwNDIzNGE2NjYwMzFhZWY5ODBmNDYyNjMy",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Heather",
-      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Sure Thing",
-      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 215506,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Wiped Out!",
+        "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Daddy Issues",
+      "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -531,18 +547,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Wiped Out!",
-        "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 260173,
-      "name": "Daddy Issues",
-      "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -579,22 +595,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
-        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -631,22 +647,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Midnight Memories (Deluxe)",
         "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 245493,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -727,22 +743,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Based On A True Story...",
         "url": "https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -839,6 +855,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
       },
@@ -867,38 +899,6 @@
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
     },
     {
       "added_at": "2023-08-18 04:01:00",

@@ -4,7 +4,7 @@
 
 > Pop to fuel your gaming\. Cover: Lady Gaga
 
-346 songs - 17 hr 12 min
+347 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 | 2022-04-15 | 2023-04-09 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-04-15 | 2022-08-13 |
 | [BANDIT](https://open.spotify.com/track/4R0SPddrt2NeNPbm0iGzsX) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [HIVE](https://open.spotify.com/album/14qlU7pezYKrntRHxmYT8A) | 3:09 | 2022-06-10 | 2022-07-28 |
-| [Bang!](https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE) | 2:50 | 2024-01-26 |  |
+| [Bang!](https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE) | 2:50 | 2024-01-26 | 2024-03-23 |
 | [Bang!](https://open.spotify.com/track/53BHUFdQphHiZUUG3nx9zn) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Bang!](https://open.spotify.com/album/7B36GsLpC6IogfPjjkRlj3) | 2:50 | 2021-10-22 | 2022-07-29 |
 | [Bang!](https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 2:50 | 2022-07-26 | 2023-11-04 |
 | [Be Like That \- feat\. Swae Lee & Khalid](https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be Like That \(feat\. Swae Lee & Khalid\)](https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp) | 3:11 | 2021-10-22 | 2022-04-16 |
@@ -149,6 +149,7 @@
 | [I GUESS IT'S LOVE?](https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I GUESS IT'S LOVE?](https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW) | 2:17 | 2023-02-24 | 2023-05-16 |
 | [i hate her boyfriend's face](https://open.spotify.com/track/5sixigDZ86eDzCHXbfzrDu) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [i hate her boyfriend's face](https://open.spotify.com/album/2CMIqzHeKsxhR8xSvD9Cwy) | 2:25 | 2022-05-27 | 2022-07-06 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-01-24 | 2022-04-16 |
+| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-22 |  |
 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 | 2022-11-11 |  |
 | [Icee Pop](https://open.spotify.com/track/1zKOagmkCtXuGmCivG8HZE) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Icee Pop](https://open.spotify.com/album/0N75npNB8Wo93bY41XjHr7) | 2:27 | 2022-02-04 | 2022-04-16 |
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-04-15 | 2023-01-17 |

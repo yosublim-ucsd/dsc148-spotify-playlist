@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 326626,
+  "2024-03-23": 326688,
   "date_first_scraped": "2021-12-21",
   "description": "H\u00e5ll det 100.",
   "name": "100",
@@ -21,6 +21,28 @@
       "duration_ms": 200471,
       "name": "(D)u ska (IN)te tr(O) - Mellan Broarna 2019 Bonussp\u00e5r",
       "url": "https://open.spotify.com/track/11JjOKITId5awV1yR8rmxJ"
+    },
+    {
+      "album": {
+        "name": "007",
+        "url": "https://open.spotify.com/album/0ZgI6oOlIQ76n6mW8Nm5VY"
+      },
+      "artists": [
+        {
+          "name": "Papi Santana",
+          "url": "https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ"
+        },
+        {
+          "name": "Elias Hurtig",
+          "url": "https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "007",
+      "url": "https://open.spotify.com/track/0WWYoV3hnGOpSnmc8BL5ZQ"
     },
     {
       "album": {
@@ -2273,7 +2295,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 130666,
       "name": "Automatic RMX (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/026dkD9v7C8L8AIWCerga6"
@@ -5245,7 +5267,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 180040,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/3MKPp2jVFPnWXYuXlaym9A"
@@ -5975,7 +5997,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 195125,
       "name": "D.U.M (feat. ODZ)",
       "url": "https://open.spotify.com/track/3t40TVnyCCfjKQodVRei64"
@@ -6431,6 +6453,24 @@
       "duration_ms": 175222,
       "name": "Dexter",
       "url": "https://open.spotify.com/track/7lEvAbpXa91doVdZGMkQHy"
+    },
+    {
+      "album": {
+        "name": "In Memory Of Some Stand Up Guys (Private Collection)",
+        "url": "https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "DIAMANTER",
+      "url": "https://open.spotify.com/track/6z8QKwRlKLG81uKYMPnvcI"
     },
     {
       "album": {
@@ -10768,6 +10808,24 @@
     },
     {
       "album": {
+        "name": "HATAR ATT \u00c4LSKA",
+        "url": "https://open.spotify.com/album/5gRQvgCTd4iBmhqFQed3Tv"
+      },
+      "artists": [
+        {
+          "name": "Tasha17k",
+          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83716,
+      "name": "HATAR ATT \u00c4LSKA",
+      "url": "https://open.spotify.com/track/7s54OXLlVK01An33n1pEoJ"
+    },
+    {
+      "album": {
         "name": "Hattrick",
         "url": "https://open.spotify.com/album/06GomdPQxAm5WE1Epeks0E"
       },
@@ -11842,6 +11900,24 @@
     },
     {
       "album": {
+        "name": "I TRIED",
+        "url": "https://open.spotify.com/album/5uRyfxpwbP4PxHDoTO8STv"
+      },
+      "artists": [
+        {
+          "name": "Lamix",
+          "url": "https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187619,
+      "name": "I TRIED",
+      "url": "https://open.spotify.com/track/1VIluVyu6Ravrt5MoITvdR"
+    },
+    {
+      "album": {
         "name": "Ibland",
         "url": "https://open.spotify.com/album/3g9BmnTp87uArenQuDjnFo"
       },
@@ -12601,7 +12677,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 112380,
       "name": "ISHAG ADAM",
       "url": "https://open.spotify.com/track/2BMjcQ4Zb7d3hADeVW8uAc"
@@ -13087,7 +13163,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 184748,
       "name": "Kak Dela?",
       "url": "https://open.spotify.com/track/2gNsHzSpEgWEN4RDZA3Gta"
@@ -17477,6 +17553,28 @@
       "duration_ms": 150209,
       "name": "Mina Tankar",
       "url": "https://open.spotify.com/track/2TlMZBwY8mG8UhZ0A6d89G"
+    },
+    {
+      "album": {
+        "name": "Mina tankar",
+        "url": "https://open.spotify.com/album/0qYKdZkOc7XKIgOjGLu05K"
+      },
+      "artists": [
+        {
+          "name": "Zius",
+          "url": "https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA"
+        },
+        {
+          "name": "SHYDE",
+          "url": "https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Mina tankar",
+      "url": "https://open.spotify.com/track/40DLhI3HsyDkbwJl4uvyCj"
     },
     {
       "album": {
@@ -27993,7 +28091,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 139628,
       "name": "\u00c5H GUD",
       "url": "https://open.spotify.com/track/2of3rHLR7eUDcht86BoEeY"
@@ -28135,6 +28233,24 @@
       "duration_ms": 125092,
       "name": "\u00d6verallt",
       "url": "https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2"
+    },
+    {
+      "album": {
+        "name": "\u00d6vertramp",
+        "url": "https://open.spotify.com/album/7jwlYCv68I4dKrXsurASEJ"
+      },
+      "artists": [
+        {
+          "name": "Mwuana",
+          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180667,
+      "name": "\u00d6vertramp",
+      "url": "https://open.spotify.com/track/0zihCT6mFDwiyi9oM6pZ1R"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa"

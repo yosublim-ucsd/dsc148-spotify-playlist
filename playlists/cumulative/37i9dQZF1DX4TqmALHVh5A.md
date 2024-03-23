@@ -4,7 +4,7 @@
 
 > La scène française branchée sur courant alternatif\. Photo : St Graal
 
-140 songs - 7 hr 34 min
+141 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [We Walk](https://open.spotify.com/track/3jQDg6gtXG5c0F6a8k1xDg) | [VoX LoW](https://open.spotify.com/artist/7wdA5zANepbxnHVkUNQMg9) | [We Walk](https://open.spotify.com/album/1YhST40WDQUfrTExNtOARC) | 5:01 | 2023-09-28 | 2023-11-24 |
 | [Witch Coast](https://open.spotify.com/track/0pdFoGBlpk7qH2GniQWFS6) | [Sad Madona](https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU) | [Witch Coast](https://open.spotify.com/album/5kvklGY25433Iw37zcQxvS) | 3:43 | 2024-02-01 |  |
 | [Worried](https://open.spotify.com/track/0Ssz96Q8DAEry7mDrBRbcN) | [SOvOX](https://open.spotify.com/artist/5lJYPsXHNHiTtMbkW42tXN) | [Worried](https://open.spotify.com/album/74mX36E0PkXXiGc6FYZQBE) | 2:23 | 2023-09-28 | 2023-10-27 |
-| [Z](https://open.spotify.com/track/72ICHo3ZgL8uUieTCdIpfF) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Z](https://open.spotify.com/album/7ndSxLdXc07HwAkQZoApye) | 2:59 | 2024-03-21 |  |
+| [Z](https://open.spotify.com/track/2qHnWuRtnBLgumhptqdkLs) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Z](https://open.spotify.com/album/3xE9Bn8qRkX8JKJl0IdQJI) | 2:59 | 2024-03-21 |  |
+| [Z](https://open.spotify.com/track/72ICHo3ZgL8uUieTCdIpfF) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Z](https://open.spotify.com/album/7ndSxLdXc07HwAkQZoApye) | 2:59 | 2024-03-21 | 2024-03-23 |
 | [Zero Box](https://open.spotify.com/track/7CcnzW8nPLBMg8PuNHdbj8) | [Le Jardin](https://open.spotify.com/artist/52WmRuQzAPLVwlkksYBg9l) | [Zero Box](https://open.spotify.com/album/0ylBUqmIa6wYAaKeXQWtoz) | 3:43 | 2023-09-28 | 2024-03-15 |
 | [À l'aide](https://open.spotify.com/track/0RQFdPFD93bKg6rKsYXwpA) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [À l'aide](https://open.spotify.com/album/3eDQVsbI2raoTUtfKHwdxS) | 3:05 | 2023-09-28 | 2023-10-20 |
 | [Ça m'a tellement manqué](https://open.spotify.com/track/5hGQ4fuHjsLtC3n1fIq7KV) | [Balladur](https://open.spotify.com/artist/1D1qXaxaiLiQi8HCrFxg50) | [Pourquoi certains arbres sont si grands ?](https://open.spotify.com/album/1R6oma6d9RcC0mu4B5ouiS) | 4:54 | 2023-10-05 | 2024-01-05 |

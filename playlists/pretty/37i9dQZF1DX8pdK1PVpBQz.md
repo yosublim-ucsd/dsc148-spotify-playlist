@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Glass Beams  Artwork: Elsy Wameyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,442 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,447 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 |
-| 2 | [As The Dogs Were Playing](https://open.spotify.com/track/2gSp1FsyOfrCYM4Xe3KVak) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/1BqjZpIGkCIsDrxEhpv5a2) | 2:12 |
+| 2 | [As The Dogs Were Playing](https://open.spotify.com/track/3G3mzsZRaLMOuNH2cT0IG2) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 2:12 |
 | 3 | [Little Sadness](https://open.spotify.com/track/49g1H0rJged6uMSSNWjVPK) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Little Sadness](https://open.spotify.com/album/5x1S070dZjshXHN5bwSPWN) | 3:40 |
 | 4 | [Lucid Dreams](https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Lucid Dreams](https://open.spotify.com/album/7G7v6Di7EhJ1fuldgIoUkN) | 3:02 |
 | 5 | [Replay](https://open.spotify.com/track/4BAIKNDhzBhO90nKPEVP4b) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Replay](https://open.spotify.com/album/5FLiuv7yv19N5iuezp0qQO) | 2:19 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 98 | [5 In The Morning](https://open.spotify.com/track/3FW2ZVOIDAKAH48EJRB5RH) | [Sailor Goon](https://open.spotify.com/artist/1FZj2HbeTP7F5xOqIrPKKZ), [POETIK](https://open.spotify.com/artist/32yy4XQE2Pnziuq7rc58EA), [BIGGs 685](https://open.spotify.com/artist/1iIdYSoOB5dhc90R9ENrjM) | [5 In The Morning](https://open.spotify.com/album/4Ef0syAM5UUL0NNvHZp0hL) | 3:27 |
 | 99 | [COOLAID](https://open.spotify.com/track/3gzU9BgGq1EUdtiqnsaJ9K) | [coolthekid](https://open.spotify.com/artist/72VGlD2XP1a2eGhsZx2VaE) | [COOLAID](https://open.spotify.com/album/25H8ho70NGeKXFYC0IYm1A) | 2:59 |
 
-Snapshot ID: `MCwwMjE5NmUzNmQzMjdlZDNiY2QwZTY3YzVjNGVhNmEzNzFkZDgwMTNk`
+Snapshot ID: `MCw1MTA5Y2Q2Y2M4ODZkMjNiNjAzM2JiNDg4OTA4OWJiZTZhYTliYWE2`

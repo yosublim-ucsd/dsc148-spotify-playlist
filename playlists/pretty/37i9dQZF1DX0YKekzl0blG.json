@@ -1,12 +1,12 @@
 {
   "description": "All the indelible tunes from the other side of the 00s. Cover: LCD Soundsystem",
-  "num_followers": 700364,
+  "num_followers": 700429,
   "original_name": "Alternative 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTQzMDU1NDFjYWQ5ODViOTA3ZGMyN2M5ZDQxMTE1OGNlZjFkMmUw",
+  "snapshot_id": "MCw3NjM0MWMzMmU5NjFhYjkyZjViYzY3OTIxZDJkN2VjYzNkOGY0Njg5",
   "tracks": [
     {
       "added_at": "2024-03-18 22:33:18",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "Robbers & Cowards",
-        "url": "https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "Hang Me Up To Dry",
-      "url": "https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8"
-    },
-    {
-      "added_at": "2024-03-18 22:33:18",
-      "album": {
         "name": "D-D-Don't Don't Stop the Beat",
         "url": "https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 181826,
       "name": "Move Your Feet",
       "url": "https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6"
+    },
+    {
+      "added_at": "2024-03-18 22:33:18",
+      "album": {
+        "name": "Robbers & Cowards",
+        "url": "https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 218786,
+      "name": "Hang Me Up To Dry",
+      "url": "https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8"
     },
     {
       "added_at": "2024-03-18 22:33:18",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "This Is Happening",
-        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 536471,
-      "name": "Dance Yrself Clean",
-      "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
-    },
-    {
-      "added_at": "2024-03-18 22:33:18",
-      "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 286013,
       "name": "Help I'm Alive",
       "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
+    },
+    {
+      "added_at": "2024-03-18 22:33:18",
+      "album": {
+        "name": "This Is Happening",
+        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 536471,
+      "name": "Dance Yrself Clean",
+      "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
     },
     {
       "added_at": "2024-03-18 22:33:18",

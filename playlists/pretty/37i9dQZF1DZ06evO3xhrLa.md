@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,559 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,600 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 4 | [I'll Kill You \(feat\. Jhené Aiko\)](https://open.spotify.com/track/7EkiMl81fUHVwpItgtzI4r) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:59 |
 | 5 | [While We're Young](https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 3:56 |
 | 6 | [Bed Peace](https://open.spotify.com/track/5Ck3e6z1bcSCes5gdo0Ddt) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:16 |
-| 7 | [B.S\. \(feat\. H.E.R.\)](https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 3:32 |
-| 8 | [Blue Dream](https://open.spotify.com/track/4Y8MG7qcAMk7JB7Eebpcvu) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Souled Out \(Deluxe\)](https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo) | 3:37 |
+| 7 | [Blue Dream](https://open.spotify.com/track/4Y8MG7qcAMk7JB7Eebpcvu) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Souled Out \(Deluxe\)](https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo) | 3:37 |
+| 8 | [B.S\. \(feat\. H.E.R.\)](https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 3:32 |
 | 9 | [I Know](https://open.spotify.com/track/6rje9f1wRFJDO2iTORw0lH) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 5:19 |
 | 10 | [The Worst](https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:14 |
 | 11 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 49 | [New Balance](https://open.spotify.com/track/0PYmO55JPwEWgtyJbkN6mq) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:39 |
 | 50 | [Comfort Inn Ending \(Freestyle\)](https://open.spotify.com/track/03mfJFcTsxfldb0DPI4ygj) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 5:21 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA0YWYzYjY1MmIxNDRmOGE3YTNmZDg2ZjcyYTQwN2JlZQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBkOTc1MWZmNjNiYzZmNWM5YmY5NzliN2I4M2ZmZTQ2Ng==`

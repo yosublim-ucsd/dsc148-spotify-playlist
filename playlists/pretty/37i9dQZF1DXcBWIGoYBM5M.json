@@ -1,29 +1,13 @@
 {
-  "description": "Teddy Swims is on top of the Hottest 50!",
-  "num_followers": 34657504,
+  "description": "Olivia Rodrigo is on top of the Hottest 50!",
+  "num_followers": 34664467,
   "original_name": "Today\u2019s Top Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTAzMTFkMjdkNDhhZjI2YjVlZTg3NjcxMDhlNzFmYzMyNWQxYmMx",
+  "snapshot_id": "MCxiZmFhNGZkMDU3NDUzZGFkZjE1YjZlNzBlOTI1MGU4YTQ4YWE3ODJj",
   "tracks": [
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
-    },
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
@@ -39,6 +23,38 @@
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 170541,
+      "name": "obsessed",
+      "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -57,22 +73,6 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-02-12 02:49:22",
-      "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 235636,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
-    },
-    {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "greedy",
@@ -89,20 +89,20 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2024-02-12 02:49:22",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+      "duration_ms": 235636,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -119,6 +119,22 @@
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -259,22 +275,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -289,28 +289,20 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
       "artists": [
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
         }
       ],
-      "duration_ms": 165754,
-      "name": "Never Lose Me (feat. SZA & Cardi B)",
-      "url": "https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy"
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -331,34 +323,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
         }
       ],
-      "duration_ms": 201800,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -413,24 +389,24 @@
       "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "CONTIGO (with Ti\u00ebsto)",
-        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 192786,
-      "name": "CONTIGO (with Ti\u00ebsto)",
-      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+      "duration_ms": 181666,
+      "name": "Punter\u00eda",
+      "url": "https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -467,6 +443,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -481,48 +473,48 @@
       "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Type Shit",
+      "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         },
         {
           "name": "SZA",
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 319191,
-      "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
-      "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
-    },
-    {
-      "added_at": "2024-01-16 19:20:44",
-      "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 260370,
-      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
-      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+      "duration_ms": 165754,
+      "name": "Never Lose Me (feat. SZA & Cardi B)",
+      "url": "https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -549,6 +541,182 @@
       "url": "https://open.spotify.com/track/7GUhiAHLoVy1V8ucQuZ3CB"
     },
     {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Slow It Down",
+        "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 161831,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
+    },
+    {
+      "added_at": "2024-01-16 19:20:44",
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 319191,
+      "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+      "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 221709,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "CONTIGO (with Ti\u00ebsto)",
+        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "CONTIGO (with Ti\u00ebsto)",
+      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+    },
+    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "The Forever Story (Extended Version)",
@@ -571,154 +739,6 @@
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Made For Me",
-        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Made For Me",
-      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 200600,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Calm Down (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 239317,
-      "name": "Calm Down (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 174229,
-      "name": "LA FALDA",
-      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Make You Mine",
-        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 221709,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -761,20 +781,36 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 229331,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 200600,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -793,6 +829,22 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 174229,
+      "name": "LA FALDA",
+      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
+    },
+    {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "1989 (Taylor's Version)",
@@ -807,58 +859,6 @@
       "duration_ms": 229477,
       "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Doctor (Work It Out) [feat. Miley Cyrus]",
-        "url": "https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 182221,
-      "name": "Doctor (Work It Out) [feat. Miley Cyrus]",
-      "url": "https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Praise Jah In The Moonlight",
-        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
-      },
-      "artists": [
-        {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Praise Jah In The Moonlight",
-      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
-    },
-    {
-      "added_at": "2024-01-02 20:39:49",
-      "album": {
-        "name": "La Diabla",
-        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 172264,
-      "name": "La Diabla",
-      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
     },
     {
       "added_at": "2023-11-24 05:00:00",

@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Troubled (Whiskey and a Saddle Part One)",
+        "url": "https://open.spotify.com/album/55uUuquxQLTgp4xHPahzDp"
+      },
+      "artists": [
+        {
+          "name": "Charlie Beale",
+          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173567,
+      "name": "Troubled - Whiskey and a Saddle Part One",
+      "url": "https://open.spotify.com/track/61k4urgjSdyLegkf0yBlwT"
+    },
+    {
+      "album": {
         "name": "Victim",
         "url": "https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9"
       },

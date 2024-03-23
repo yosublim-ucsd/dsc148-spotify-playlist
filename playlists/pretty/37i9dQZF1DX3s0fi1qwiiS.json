@@ -1,12 +1,12 @@
 {
   "description": "Who order Azul?",
-  "num_followers": 3307,
+  "num_followers": 3304,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDZkOTQ0MGZkODNiZjY1YzIwNDY0ZTc0MmM2YzBhN2Y0N2VjODA5",
+  "snapshot_id": "MCwzMjk2YzQxY2NiY2RkM2NkMDg2ODFiY2MzYzdkM2NkMjA3NzE3YzAz",
   "tracks": [
     {
       "added_at": "2023-12-08 08:55:17",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Nkao Tempela",
+        "url": "https://open.spotify.com/album/0gsRuYnWqKq0HECQtdVGHx"
+      },
+      "artists": [
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "duration_ms": 361528,
+      "name": "Nkao Tempela",
+      "url": "https://open.spotify.com/track/5px6g0U4AmfF8Jx9uhJbVC"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Odo",
         "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 266501,
       "name": "Sore - Remix",
       "url": "https://open.spotify.com/track/3qqpV4EqQ3TPSYPHOom3I6"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Nkao Tempela",
-        "url": "https://open.spotify.com/album/0gsRuYnWqKq0HECQtdVGHx"
-      },
-      "artists": [
-        {
-          "name": "Ch'cco",
-          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        }
-      ],
-      "duration_ms": 361528,
-      "name": "Nkao Tempela",
-      "url": "https://open.spotify.com/track/5px6g0U4AmfF8Jx9uhJbVC"
     },
     {
       "added_at": "2023-12-08 08:55:17",

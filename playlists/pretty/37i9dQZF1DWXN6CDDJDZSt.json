@@ -1,12 +1,12 @@
 {
   "description": "An introduction to Giacomo Puccini, one of the great Italian opera composers.",
-  "num_followers": 68859,
+  "num_followers": 68872,
   "original_name": "This Is Puccini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGM5NGU3YmNmZjcxM2QzZDQ5Y2MwNjliY2I5NjMzMzc4NTNmNTJh",
+  "snapshot_id": "MCw5ZWQ3MWY1NDJhYjU4YWYyODlmNzhlYzZjODViMjBmYjFmNzhmN2Vj",
   "tracks": [
     {
       "added_at": "2022-06-24 16:28:17",
@@ -1487,42 +1487,6 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Puccini: La Boh\u00e8me",
-        "url": "https://open.spotify.com/album/7ud7YtXiKwNYOdQPKLFOKA"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Ildebrando D'Arcangelo",
-          "url": "https://open.spotify.com/artist/2T65T3cd7YFAATkLldKXN1"
-        },
-        {
-          "name": "Simon Keenlyside",
-          "url": "https://open.spotify.com/artist/5wNBW2yqGhv7lR3AvzD3JG"
-        },
-        {
-          "name": "Roberto Alagna",
-          "url": "https://open.spotify.com/artist/2AyySZZK01JT6ZSYZ2CWgf"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 74253,
-      "name": "La Boh\u00e8me / Act 1: \"Pensier profundo!\"",
-      "url": "https://open.spotify.com/track/5ZsHFxZvrLdur1VMSILi2L"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
         "name": "Puccini, G.: Rondine (La) [Opera]",
         "url": "https://open.spotify.com/album/2HvdT1hZWhYpQe94o45Eci"
       },
@@ -1591,6 +1555,42 @@
       "duration_ms": 301466,
       "name": "La Rondine: Act I: Chi il bel sogno di Doretta (Prunier, Magda)",
       "url": "https://open.spotify.com/track/5pJPeL5WYPi4yjox6rPOP1"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
+        "name": "Puccini: La Boh\u00e8me",
+        "url": "https://open.spotify.com/album/7ud7YtXiKwNYOdQPKLFOKA"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Ildebrando D'Arcangelo",
+          "url": "https://open.spotify.com/artist/2T65T3cd7YFAATkLldKXN1"
+        },
+        {
+          "name": "Simon Keenlyside",
+          "url": "https://open.spotify.com/artist/5wNBW2yqGhv7lR3AvzD3JG"
+        },
+        {
+          "name": "Roberto Alagna",
+          "url": "https://open.spotify.com/artist/2AyySZZK01JT6ZSYZ2CWgf"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 74253,
+      "name": "La Boh\u00e8me / Act 1: \"Pensier profundo!\"",
+      "url": "https://open.spotify.com/track/5ZsHFxZvrLdur1VMSILi2L"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -1975,6 +1975,34 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
+        "name": "Italian Soprano Arias",
+        "url": "https://open.spotify.com/album/3a7XuZ0RvAza2ulFGa5Fmp"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Luigia Borsi",
+          "url": "https://open.spotify.com/artist/60mXw5jVbcjtZEt0tY0YVg"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Yves Abel",
+          "url": "https://open.spotify.com/artist/6sHKXenhTPlOtxNsGdfTdq"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Suor Angelica: Senza mamma",
+      "url": "https://open.spotify.com/track/5WRRJxRYvByQY6QDB1g11f"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
         "name": "Work From Home With Puccini",
         "url": "https://open.spotify.com/album/1T23R0LW3JhvZGRRQ7RBdG"
       },
@@ -2075,34 +2103,6 @@
       "duration_ms": 326026,
       "name": "Tosca: Act I: Ah, quegli occhi! \u2026 (Tosca, Cavaradossi)",
       "url": "https://open.spotify.com/track/0QT0RAuMtLrvzv0gMFUaft"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
-        "name": "Italian Soprano Arias",
-        "url": "https://open.spotify.com/album/3a7XuZ0RvAza2ulFGa5Fmp"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Luigia Borsi",
-          "url": "https://open.spotify.com/artist/60mXw5jVbcjtZEt0tY0YVg"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Yves Abel",
-          "url": "https://open.spotify.com/artist/6sHKXenhTPlOtxNsGdfTdq"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "Suor Angelica: Senza mamma",
-      "url": "https://open.spotify.com/track/5WRRJxRYvByQY6QDB1g11f"
     },
     {
       "added_at": "2022-06-24 16:28:17",

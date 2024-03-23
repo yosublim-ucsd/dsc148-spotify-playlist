@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,889 likes - 55 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,938 likes - 55 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kolwa](https://open.spotify.com/track/4U6zIONOpmnby5fvOM6han) | [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Suraj](https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql), [Mumba Yachi](https://open.spotify.com/artist/3kn4gPzyX5oJWXUjbnJ1GT) | [Chuki](https://open.spotify.com/album/1VBNBDE64HPvshY3NuZZf8) | 6:44 |
-| 2 | [I Want You](https://open.spotify.com/track/7c3oDw6MPSTP6qhZU0ufcL) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Szon](https://open.spotify.com/artist/7gDtr9MZnzuXBzzbeO5Of1) | [NGWINO](https://open.spotify.com/album/684csa2gkBzmwUT0tMYKr3) | 5:12 |
+| 2 | [I Want You](https://open.spotify.com/track/7c3oDw6MPSTP6qhZU0ufcL) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Szon](https://open.spotify.com/artist/7gDtr9MZnzuXBzzbeO5Of1) | [I Want You](https://open.spotify.com/album/684csa2gkBzmwUT0tMYKr3) | 5:12 |
 | 3 | [Letha](https://open.spotify.com/track/42fDq94MjR4FcQCSPVVEuz) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG), [Dj Beekay](https://open.spotify.com/artist/58jrFyEJ3krC8cwAEsA2BM) | [Letha](https://open.spotify.com/album/37pYGgSdq1sWxw9UC6BJx8) | 7:00 |
 | 4 | [Don't Give Up](https://open.spotify.com/track/4HeWkyuI8CoNMbRibOIj7c) | [Afro Swanky](https://open.spotify.com/artist/2WVyfkBgNUZZ3PBZb8DY7x) | [Jozi II](https://open.spotify.com/album/55IXmqj8VWQ7nnSGzE4rcd) | 6:00 |
 | 5 | [Lost and Found](https://open.spotify.com/track/6Rvv07VtrQK4ETd28tf5qn) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C), [Caliber AfroFusion](https://open.spotify.com/artist/1hrAOP0zA7EB9H77zCrYlZ) | [Aluku Records Various Compilation SA Edition Pt.4 \(Deluxe\)](https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw) | 7:53 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 54 | [Inde Lendlela](https://open.spotify.com/track/0TWr1HfWDoqZ4zPiBySwxM) | [Stones & Bones](https://open.spotify.com/artist/5dBe8LtEp62lNMgDOFx7l4), [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV), [LuckyKeyz](https://open.spotify.com/artist/6xPpWHSxCdWbkrOWn45d2Y) | [The 12 Year Saga](https://open.spotify.com/album/3xloxYskgtTZmtIpBDNjH5) | 5:56 |
 | 55 | [Pull Up](https://open.spotify.com/track/7iUnYB0ThwV97aQrl5EU8i) | [Blaq Tronic](https://open.spotify.com/artist/0lGgzJtArR31Du72Ph1YHw) | [Pull Up](https://open.spotify.com/album/1XWuhb4aSKQJiTyWXXjM0G) | 7:40 |
 
-Snapshot ID: `MCw3ZWUxMjIyMzkyOGZlODY3MDBkYjA1OTliYjA0YmY5YmJmYTM2NDRk`
+Snapshot ID: `MCxhMTFjZGI4NTEwM2Q5YWYwYmU0YTBiNTc1NDdjN2U2MTQ1M2RhNmMw`

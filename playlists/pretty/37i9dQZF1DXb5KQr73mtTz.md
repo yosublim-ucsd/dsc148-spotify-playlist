@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,426 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,421 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 3 | [Don't ever say love me \(feat\. RM of BTS\)](https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S) | 3:34 |
 | 4 | [This Love](https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Descendants Of The Sun Pt.3 \(Original Television Soundtrack\)](https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu) | 3:45 |
 | 5 | [Ending Scene](https://open.spotify.com/track/06EMBzxDm2hueehobAlMtm) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:09 |
-| 6 | [Don’t Wanna Go Back \(Duet with Heize\)](https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:42 |
-| 7 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 |
+| 6 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 |
+| 7 | [Don’t Wanna Go Back \(Duet with Heize\)](https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:42 |
 | 8 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 |
-| 9 | [180 Degree](https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [180˚](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6) | 3:49 |
-| 10 | [Me After You](https://open.spotify.com/track/3gucipmp9z0bf7pjEbtTX0) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/3Zvz3DnPC7UgRyiO8LprUt) | 4:40 |
+| 9 | [Me After You](https://open.spotify.com/track/3gucipmp9z0bf7pjEbtTX0) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/3Zvz3DnPC7UgRyiO8LprUt) | 4:40 |
+| 10 | [180 Degree](https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [180˚](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6) | 3:49 |
 | 11 | [마음의 말](https://open.spotify.com/track/6CVX9ntSpFqJVZshovBh10) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [로봇이 아니야 OST Part.3](https://open.spotify.com/album/6PghZs1B7a76Q2eFqqf5hF) | 5:02 |
 | 12 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 |
 | 13 | [Forgetting You](https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 49 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
 | 50 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 |
 
-Snapshot ID: `MCxhMDFlZjRjOTU2OWYwMDJjZjNlZTQ1ODRiYzQ5YjU0YjJlMjBjMjNm`
+Snapshot ID: `MCxiZWU2NjUyMGE5MzVmNzhmNDBhNGE4NTZhMzU2ZDEzOGYzYmUyZGU0`

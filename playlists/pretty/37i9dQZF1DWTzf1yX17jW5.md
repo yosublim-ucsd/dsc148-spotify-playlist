@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,909 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,924 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 69 | [Ride](https://open.spotify.com/track/7kMUUqZq6kYVeL2MwRZJTy) | [BEATCAVE](https://open.spotify.com/artist/3hgj9nNZaEdNMuiA7JjEVw), [Bluxz](https://open.spotify.com/artist/1r8Auc1h8ytYw3hYKnJ33a), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Marriott](https://open.spotify.com/artist/3sotQBK04iF2DkV7DfQ1Vs), [LolaBunz](https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa) | [Ride](https://open.spotify.com/album/7ndcDivVteSQArE1XORpuv) | 2:39 |
 | 70 | [Love You](https://open.spotify.com/track/0SxskGC5lanJHfNMSbDVpv) | [Curly J](https://open.spotify.com/artist/5n9R7fAIjAkYV6BTXixtVl) | [Love You](https://open.spotify.com/album/15cUx5hOUnqyubf9Z9QiPn) | 2:26 |
 | 71 | [In The Night \(feat\. Bandmanrill\)](https://open.spotify.com/track/7rOyc2gkZkWgT2g4LIbqTD) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [In The Night \(feat\. Bandmanrill\)](https://open.spotify.com/album/7azk253Tycfnk5vQKbiWTM) | 3:32 |
-| 72 | [Running Back](https://open.spotify.com/track/6zwvwHMmXy9zCzNBR3FHwB) | [RM47](https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL), [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd), [Raleigh](https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C) | [Stuck With You But I Like It](https://open.spotify.com/album/3zggNDtiAUq04EhX6gF3Vo) | 2:58 |
-| 73 | [Pretty Girl](https://open.spotify.com/track/2tcpUWETIBdjfXCHd8AsAm) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/5giY2G75GmuOICcyhxk2iG) | 2:15 |
+| 72 | [Pretty Girl](https://open.spotify.com/track/2tcpUWETIBdjfXCHd8AsAm) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/5giY2G75GmuOICcyhxk2iG) | 2:15 |
+| 73 | [Running Back](https://open.spotify.com/track/6zwvwHMmXy9zCzNBR3FHwB) | [RM47](https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL), [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd), [Raleigh](https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C) | [Stuck With You But I Like It](https://open.spotify.com/album/3zggNDtiAUq04EhX6gF3Vo) | 2:58 |
 | 74 | [Real Hips 2](https://open.spotify.com/track/740rzQXrAE1qwhQ7UqZPzN) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65) | [Real Hips 2](https://open.spotify.com/album/25MTp5gwjXq9Y1iVzpWUth) | 2:11 |
 | 75 | [Need](https://open.spotify.com/track/4s8fQKAfuHR9gMDzoA9ioQ) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [Need](https://open.spotify.com/album/5zcHTgSTVHfrF4JJOh1Gnh) | 2:37 |
 
-Snapshot ID: `MCwwMGFhNWYxMzMwZmIxZDFjODljMDkwNTc0YzBiMTkwZjEyNjdiMDRk`
+Snapshot ID: `MCxmZDA2MTczN2VmYjQ1NjIxZmVkYTMyMjA5ZTExMTUyYTlhZTY1NzIx`

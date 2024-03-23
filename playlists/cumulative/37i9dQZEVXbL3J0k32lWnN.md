@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,453 songs - 3 day 3 hr 52 min
+1,454 songs - 3 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -961,6 +961,7 @@
 | [No Pasa Nada](https://open.spotify.com/track/0sJE2HD9YGU7nkJtg84IJv) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Carnival](https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx) | 2:25 | 2022-01-15 | 2022-02-08 |
 | [No Return \(with The Kid LAROI & Lil Durk\)](https://open.spotify.com/track/23OYT3SFtoJqhiAUqktbc1) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:48 | 2021-06-13 | 2021-06-14 |
 | [No Warning](https://open.spotify.com/track/65oYD99ubM8bIUIRPY9nXc) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [No Warning](https://open.spotify.com/album/2IINZtpxZYmuaS2H3CDYH3) | 2:29 | 2021-06-20 | 2021-09-25 |
+| [Noahs Ark](https://open.spotify.com/track/5kO3T7ISHwuQwn5BXTtCbp) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Noahs Ark](https://open.spotify.com/album/1pfe880QkNYlvrJCzIbios) | 2:43 | 2024-03-22 |  |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-28 | 2023-01-01 |
 | [Noget Med Noget](https://open.spotify.com/track/256J9I7Vp9SiPrUaxPqAw7) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Noget Med Noget](https://open.spotify.com/album/1AD9rLclpmI9abg4LMYYNH) | 2:21 | 2023-03-28 | 2023-04-25 |
 | [Noget Med Noget](https://open.spotify.com/track/2yymjXnny2gXuNHSuIR076) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Ny Sejr](https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ) | 2:21 | 2023-05-06 | 2023-05-14 |
@@ -1412,7 +1413,7 @@
 | [Welcome To New York \(Taylor's Version\)](https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:32 | 2023-10-28 | 2023-10-30 |
 | [Wellerman \- Sea Shanty / 220 KID x Billen Ted Remix](https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Wellerman \(Sea Shanty / 220 KID x Billen Ted Remix\)](https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z) | 1:56 | 2021-03-27\* | 2021-05-25 |
 | [What A Life](https://open.spotify.com/track/3VEvsFY82950YaqNz2vvyr) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Garden](https://open.spotify.com/album/2nC14FHMeJq7BMiZSfFVAp) | 3:05 | 2021-03-27\* | 2022-01-04 |
-| [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-15 |  |
+| [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-15 | 2024-03-23 |
 | [What's Love Got to Do with It \- 2015 Remaster](https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 3:50 | 2023-05-26 | 2023-05-28 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-01-20 |  |
 | [When I R.I.P.](https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:54 | 2022-02-27 | 2022-04-17 |

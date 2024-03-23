@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,580 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,591 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 32 | [られない](https://open.spotify.com/track/1TqZ5D05lGCXgZldMAM55w) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [られない](https://open.spotify.com/album/2i5T2W7gxZn3F159Z83IVL) | 3:05 |
 | 33 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
 | 34 | [Hero](https://open.spotify.com/track/0UBq2DpRaoqbDXk1JdEznD) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [CRYSTAL.](https://open.spotify.com/album/4YVShtpzBMkOUUWHbUfNXQ) | 4:14 |
-| 35 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
-| 36 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 |
+| 35 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 |
+| 36 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
 | 37 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
 | 38 | [yakouressya](https://open.spotify.com/track/1m950np4YY00Sx2jOhfqdh) | [Fuminsho](https://open.spotify.com/artist/2TUAvnahlDKsZx9lJssLV6), [philo](https://open.spotify.com/artist/3xBSqxwiRLgBVR9roG1136) | [yakouressya](https://open.spotify.com/album/2Py7h4RHgdWzSg3z5jszLD) | 4:04 |
 | 39 | [BALALAIKA](https://open.spotify.com/track/76yRxh0mlCbU8eQPZTstfZ) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [BALALAIKA](https://open.spotify.com/album/4pfYQKmuDfjNOJ05rhAzXz) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [クラクラ](https://open.spotify.com/track/7lcXrOj9HdsHFQfNNBR4XS) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:11 |
 | 50 | [Requiem](https://open.spotify.com/track/22EHB5z2GwYNPA1wZ3LtL4) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Requiem](https://open.spotify.com/album/1PwHrnwnlvNg8stBetjmyE) | 2:37 |
 
-Snapshot ID: `MCwyOWZmYTgxNmRlMjBkNTM5MzY1OGFhZjNlZGRjNDk5Y2E1N2YyZjZl`
+Snapshot ID: `MCw4NTY4Mzk4Mzk5ZTBiZjUwMTczZDIwOWM1OGRlOWQ5MGVkYzExZDk4`

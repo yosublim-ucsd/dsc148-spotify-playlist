@@ -2713,6 +2713,28 @@
     },
     {
       "album": {
+        "name": "Complicado",
+        "url": "https://open.spotify.com/album/6OYGfbLSKYJVDecDWIpY3N"
+      },
+      "artists": [
+        {
+          "name": "Habla de M\u00ed en Presente",
+          "url": "https://open.spotify.com/artist/6Ve7C0L8bH6NfejnYfKOJn"
+        },
+        {
+          "name": "Meritxell Neddermann",
+          "url": "https://open.spotify.com/artist/59IkSVLk0jDhOyNrXrtpYv"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Complicado",
+      "url": "https://open.spotify.com/track/3FgGO3mzROUKpJU6p4DeX5"
+    },
+    {
+      "album": {
         "name": "Concentrate (feat. Dua Saleh)",
         "url": "https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi"
       },
@@ -4328,7 +4350,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 240120,
       "name": "En Otro Lugar",
       "url": "https://open.spotify.com/track/5HKQ7IMuZqp4UE32rFWjhS"
@@ -5652,7 +5674,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 204106,
       "name": "Giro con te",
       "url": "https://open.spotify.com/track/7v4C0Bh0UUIr54Y7h86GPW"
@@ -10078,7 +10100,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 280031,
       "name": "Nudos",
       "url": "https://open.spotify.com/track/2rMcMfA9vNbXBHMKKYBacM"
@@ -11340,6 +11362,28 @@
       "duration_ms": 314020,
       "name": "Power of Denial",
       "url": "https://open.spotify.com/track/6gKEM5PLDjH2WsInN5JroT"
+    },
+    {
+      "album": {
+        "name": "Primer encuentro",
+        "url": "https://open.spotify.com/album/6LHPL2nlo5M8tx5Eyc0nXm"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        },
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246330,
+      "name": "Primer encuentro",
+      "url": "https://open.spotify.com/track/4emJgbXvVStk13TJOQ3xWV"
     },
     {
       "album": {
@@ -15544,6 +15588,24 @@
       "duration_ms": 202372,
       "name": "We're Still Young",
       "url": "https://open.spotify.com/track/1RYzVm4glRGlTZw8kSZF32"
+    },
+    {
+      "album": {
+        "name": "What (I Wish) He Said",
+        "url": "https://open.spotify.com/album/3EXsqaNPtQNCdBoXczLKpl"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "What (I Wish) He Said",
+      "url": "https://open.spotify.com/track/4guvT3MyI2ydXSxpW5dxNM"
     },
     {
       "album": {

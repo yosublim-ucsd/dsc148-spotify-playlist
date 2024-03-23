@@ -2,9 +2,9 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Graphic Nature.
+> nü\-metal revival is happening here and now with P.O.D.
 
-118 songs - 6 hr 51 min
+119 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [system\_failure](https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn](https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9) | 4:18 | 2023-09-13 | 2024-02-03 |
 | [Telescope](https://open.spotify.com/track/3Tn9ea6IIwfH0LuRF71vfg) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Generation Of Danger](https://open.spotify.com/album/3o2oLb3RZjWhdIU6d98rnr) | 4:09 | 2023-09-13 | 2023-09-23 |
 | [Terrorwave](https://open.spotify.com/track/4SuU44gp3mL6ws3zZ82n9i) | [生 Conform 死](https://open.spotify.com/artist/37mOmrBhYDEfRM1aSp91bl) | [Vol II: Music for Living Failures](https://open.spotify.com/album/5BFNFpJ9MiGeEjXTtUdm8A) | 4:20 | 2024-02-02 |  |
+| [The Far Side](https://open.spotify.com/track/2SFT6AM3747gFDvuSlzFk4) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [The Far Side](https://open.spotify.com/album/5zaUnNofkyCxciWctoPush) | 4:58 | 2024-03-22 |  |
 | [The Heresy](https://open.spotify.com/track/2zl4OeEKQTUhswMeAVkwbo) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [A Wonderful Life](https://open.spotify.com/album/6r09VreaN9XExE5fS6NoTv) | 3:59 | 2023-09-13 | 2024-02-03 |
 | [thieves of virtue](https://open.spotify.com/track/3zDdUiSL0k7szyWtUMEoJ6) | [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [thieves of virtue](https://open.spotify.com/album/0iY4q3066UsWq2uUds42OG) | 2:49 | 2023-12-22 | 2024-01-27 |
 | [This Is Over](https://open.spotify.com/track/5aX9v4Y1q1iibwYmsPVchf) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [This Is Over](https://open.spotify.com/album/1WTW5zVbx104vQyQolqOHf) | 3:06 | 2023-09-13 | 2024-01-20 |
@@ -125,6 +126,6 @@
 | [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3) | 2:53 | 2024-03-01 |  |
 | [Z0mbie](https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Z0mbie](https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE) | 3:11 | 2023-10-06 | 2024-01-27 |
 | [Zero](https://open.spotify.com/track/2jtRquHacdjMoGhnuUG0i4) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [A Digital Nowhere](https://open.spotify.com/album/36QgSEVbr6YcCNM8naxWev) | 3:29 | 2024-02-16 |  |
-| [твоя система буде зруйнована](https://open.spotify.com/track/4xilakhsg8Sofck34wpRvV) | [Burned Time Machine](https://open.spotify.com/artist/1CqrtuYsF9FgMfSeWM4uB1) | [твоя система буде зруйнована](https://open.spotify.com/album/0CSpi5vbJgxPR1zeeOFGT9) | 3:10 | 2024-02-16 |  |
+| [твоя система буде зруйнована](https://open.spotify.com/track/4xilakhsg8Sofck34wpRvV) | [Burned Time Machine](https://open.spotify.com/artist/1CqrtuYsF9FgMfSeWM4uB1) | [твоя система буде зруйнована](https://open.spotify.com/album/0CSpi5vbJgxPR1zeeOFGT9) | 3:10 | 2024-02-16 | 2024-03-23 |
 
 \*This playlist was first scraped on 2023-09-15. Prior content cannot be recovered.

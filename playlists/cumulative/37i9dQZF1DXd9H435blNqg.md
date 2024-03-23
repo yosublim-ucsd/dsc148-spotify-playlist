@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-148 songs - 8 hr 12 min
+149 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Get Gone](https://open.spotify.com/track/0adTUwT73q2Y5yfzGN5Aln) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Get Gone](https://open.spotify.com/album/325vaJdKjifkkSISjTx03x) | 3:05 | 2021-02-12 | 2022-07-29 |
 | [Get Gone](https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:05 | 2021-02-12 |  |
 | [Get Yourself Some](https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Say the Word](https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb) | 3:00 | 2021-02-12 |  |
+| [Girl On Girl](https://open.spotify.com/track/3uRtKGMu9MI3TFKatO6FEw) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Girl On Girl](https://open.spotify.com/album/37cSKWOt90QtW9i5mwD5zN) | 2:28 | 2024-03-22 |  |
 | [Go Crazy \(feat\. Keb' Mo'\)](https://open.spotify.com/track/7G6oI8xoGa62LGvE2xjtfP) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:40 | 2021-02-12 |  |
 | [God Damn](https://open.spotify.com/track/0H8FIK4pIfx2y5Y9RhLJCa) | [Luke Wylde](https://open.spotify.com/artist/2wXmXykQVcnn9hZiJK7r3y), [JDP](https://open.spotify.com/artist/3PoT1SjOLHrvhQdT0scf96) | [Devils on the Loose](https://open.spotify.com/album/72N8KaRTfNtc6SN2BvquE9) | 2:43 | 2021-02-12 |  |
 | [God Damn](https://open.spotify.com/track/4hJnBBNQ4uvVnmNDR6hcns) | [Luke Wylde](https://open.spotify.com/artist/2wXmXykQVcnn9hZiJK7r3y), [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS), [JDP](https://open.spotify.com/artist/3PoT1SjOLHrvhQdT0scf96) | [Devils On The Loose](https://open.spotify.com/album/4g7ft1eiLHGnarx1VgiSGi) | 2:43 | 2021-02-12 | 2022-07-29 |
@@ -119,7 +120,7 @@
 | [Satellite Man](https://open.spotify.com/track/2DLwzfDTaVFtoeKAbfflRm) | [The Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Satellite Man](https://open.spotify.com/album/19pcVPDCsO3S9O4qnxrV1n) | 3:00 | 2022-08-31 |  |
 | [Saw That Light](https://open.spotify.com/track/2XTzB7SPPl4GZv6bYVJfiv) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Saw That Light](https://open.spotify.com/album/5MJJAv0hwgTn2hEL9oaMkO) | 1:51 | 2021-02-12 |  |
 | [Saw That Light](https://open.spotify.com/track/50Cpsx8h556enxf91GSi2q) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Saw That Light](https://open.spotify.com/album/57MqRibzsB4mxoKkcnr8Ro) | 1:51 | 2021-02-12 | 2022-07-29 |
-| [Searching for Captain Save a Hoe](https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Have You Lost Your Mind yet?](https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy) | 3:45 | 2021-02-12 |  |
+| [Searching for Captain Save a Hoe](https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Have You Lost Your Mind yet?](https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy) | 3:45 | 2021-02-12 | 2024-03-23 |
 | [Shot Down](https://open.spotify.com/track/42vMIdruxaoslgfiyYBuwh) | [Vinny Virgo](https://open.spotify.com/artist/6ltRvKGrFYQoDwAmgYIB3B) | [Shot Down](https://open.spotify.com/album/4RWPMWMElW4byNmBLINBsL) | 3:13 | 2022-08-31 |  |
 | [Shot Down](https://open.spotify.com/track/6fqeBYpDjHcCTtIfZ4L9i0) | [Vinny Virgo](https://open.spotify.com/artist/6ltRvKGrFYQoDwAmgYIB3B) | [Shot Down](https://open.spotify.com/album/3GSGs4142RQMnWYEmGGHBd) | 3:13 | 2021-02-12 | 2022-09-01 |
 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 | 2021-02-12 |  |

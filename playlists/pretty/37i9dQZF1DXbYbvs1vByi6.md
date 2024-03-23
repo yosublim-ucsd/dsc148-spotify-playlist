@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 
 > Non\-stop energy, riffs and belters.\. it never gets old, no guest list required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,411 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,445 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 49 | [Black Magic](https://open.spotify.com/track/243b3t0P416vtdmxRllHEV) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [The Amazons \(Deluxe\)](https://open.spotify.com/album/2vsawVLAVvyQ8Oqu190Qbo) | 4:31 |
 | 50 | [Sha Sha Sha](https://open.spotify.com/track/7BFwBubozsalZrZKGUAYJq) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7) | 2:31 |
 
-Snapshot ID: `MCwwYjliMDBlZWQyNTZkZWIzYzkwYmUwZmE5ZjI1OWZkZTVkOTBmYWVl`
+Snapshot ID: `MCxiZjRkMjNiZmUxYmY4YTkyNDRmYzlkNGViMjYyOTlhYzlhNThiZDYw`

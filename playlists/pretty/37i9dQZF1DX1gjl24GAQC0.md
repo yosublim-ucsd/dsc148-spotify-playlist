@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 > Is it your favorite oppa or dongsaeng? \(Cover: xikers\(싸이커스\)\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,919 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,913 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 16 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 |
 | 17 | [God of Music](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 |
 | 18 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 |
-| 19 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
-| 20 | [Killin' It](https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Killin' It](https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6) | 2:56 |
+| 19 | [Killin' It](https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Killin' It](https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6) | 2:56 |
+| 20 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
 | 21 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 |
 | 22 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 |
 | 23 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 38 | [FEVER](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 2:52 |
 | 39 | [Thunderous](https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:03 |
 | 40 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 |
-| 41 | [Love 119](https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP) | 2:53 |
-| 42 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 |
+| 41 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 |
+| 42 | [Love 119](https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP) | 2:53 |
 | 43 | [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 |
 | 44 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 |
 | 45 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 |
 | 46 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 |
 | 47 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 |
-| 48 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 |
-| 49 | [Get A Guitar](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l) | 2:40 |
+| 48 | [Get A Guitar](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l) | 2:40 |
+| 49 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 |
 | 50 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 |
 
-Snapshot ID: `MCw3ZTgwZjc2OWQ0ZTE2OTcxMTBjYWIxN2ZlYWU1MmRhNzY0MjYxNjhl`
+Snapshot ID: `MCxhMGRiZGE2NDk1YWMwYjhjYTg3ODJiMzQxMTAzNjcwZWI0YWUxMjhk`

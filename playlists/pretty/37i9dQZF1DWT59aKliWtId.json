@@ -1,12 +1,12 @@
 {
   "description": "a high-quality alternative blend ft. Mt. Joy",
-  "num_followers": 103522,
+  "num_followers": 103518,
   "original_name": "Grade A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzUwNWJhZDBiODhlZjI1MjU5MDhkNmQwMDY2MDExYzZhMTFhMzI1",
+  "snapshot_id": "MCw3ZTBiZTdlNTgyYmMwMGIxNDVjMmVlNmY2ZWNjYzEwZDZlYTRmZDU3",
   "tracks": [
     {
       "added_at": "2024-03-18 22:34:47",
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 191413,
-      "name": "Cardinal",
-      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
+      "duration_ms": 191413,
+      "name": "Cardinal",
+      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 208517,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Right Back to It",
         "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 208517,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Wanting and Waiting",
-        "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 255560,
-      "name": "Wanting and Waiting",
-      "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Blondshell",
         "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 274347,
       "name": "Salad",
       "url": "https://open.spotify.com/track/4wHo9RDSY0elxbeiMpYNLN"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Wanting and Waiting",
+        "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 255560,
+      "name": "Wanting and Waiting",
+      "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "The Ballad of Darren",
-        "url": "https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 248774,
-      "name": "Barbaric",
-      "url": "https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Digging In The Dirt",
         "url": "https://open.spotify.com/album/07Qcp9zO5cCKShwTlxNaUL"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 324436,
       "name": "Digging In The Dirt",
       "url": "https://open.spotify.com/track/6pO1Jy5E3tqsjidJooNP9e"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "The Ballad of Darren",
+        "url": "https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 248774,
+      "name": "Barbaric",
+      "url": "https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "We Make Hits",
-        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 182606,
-      "name": "We Make Hits",
-      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Cutting Thru The Country",
         "url": "https://open.spotify.com/album/4OWv5Arr45FudqMP7zSUZf"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 204276,
       "name": "Cutting Thru The Country",
       "url": "https://open.spotify.com/track/09eN4wtRH0cAAHQHAbOjvQ"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "We Make Hits",
+        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 182606,
+      "name": "We Make Hits",
+      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Water Underground",
-        "url": "https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Water Underground",
-      "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Be Yourself (feat. The War and Treaty)",
         "url": "https://open.spotify.com/album/0quN4o0L4LkoGu0hKedFgO"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 203493,
       "name": "Be Yourself (feat. The War and Treaty)",
       "url": "https://open.spotify.com/track/0WZB8bdQ95y8HFemAjcp4J"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Water Underground",
+        "url": "https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Water Underground",
+      "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "The Moon Is In The Wrong Place",
-        "url": "https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf"
-      },
-      "artists": [
-        {
-          "name": "Shannon & The Clams",
-          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
-        }
-      ],
-      "duration_ms": 179543,
-      "name": "The Moon Is In The Wrong Place",
-      "url": "https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Weird Faith",
         "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 208160,
       "name": "Same Risk",
       "url": "https://open.spotify.com/track/6llgRqUx6z43bpqNUfjAJQ"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "The Moon Is In The Wrong Place",
+        "url": "https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf"
+      },
+      "artists": [
+        {
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+        }
+      ],
+      "duration_ms": 179543,
+      "name": "The Moon Is In The Wrong Place",
+      "url": "https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Someday, Someday",
-        "url": "https://open.spotify.com/album/0cdiL4wlI4XSfYafHvvI0m"
-      },
-      "artists": [
-        {
-          "name": "Pete Yorn",
-          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
-        }
-      ],
-      "duration_ms": 180046,
-      "name": "Someday, Someday",
-      "url": "https://open.spotify.com/track/7zbiEEPPkZjyLQpwJnes5h"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Coming Home (Ballad of the Shire)",
         "url": "https://open.spotify.com/album/2gNks1RYLTStziHLRWewFY"
       },
@@ -1975,22 +1959,18 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Danzig With Myself",
-        "url": "https://open.spotify.com/album/5vlpxtN3xTFxPMI1y1Ly0u"
+        "name": "Someday, Someday",
+        "url": "https://open.spotify.com/album/0cdiL4wlI4XSfYafHvvI0m"
       },
       "artists": [
         {
-          "name": "The Dandy Warhols",
-          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
-        },
-        {
-          "name": "Frank Black",
-          "url": "https://open.spotify.com/artist/5Q8gM5SMBT2LAoZ5LzqAvH"
+          "name": "Pete Yorn",
+          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
         }
       ],
-      "duration_ms": 235960,
-      "name": "Danzig With Myself",
-      "url": "https://open.spotify.com/track/6kgsE8vtnBj7z3gS1qo8Ni"
+      "duration_ms": 180046,
+      "name": "Someday, Someday",
+      "url": "https://open.spotify.com/track/7zbiEEPPkZjyLQpwJnes5h"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2023,6 +2003,26 @@
       "duration_ms": 219349,
       "name": "Wild Days",
       "url": "https://open.spotify.com/track/4J1zHD22PDW4Jdw6XYXs28"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Danzig With Myself",
+        "url": "https://open.spotify.com/album/5vlpxtN3xTFxPMI1y1Ly0u"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        },
+        {
+          "name": "Frank Black",
+          "url": "https://open.spotify.com/artist/5Q8gM5SMBT2LAoZ5LzqAvH"
+        }
+      ],
+      "duration_ms": 235960,
+      "name": "Danzig With Myself",
+      "url": "https://open.spotify.com/track/6kgsE8vtnBj7z3gS1qo8Ni"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Subtitles for Feelings",
-        "url": "https://open.spotify.com/album/4lYJrlAFhTpbGgZeXMBnJa"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 243520,
-      "name": "Go Getter",
-      "url": "https://open.spotify.com/track/6UWvbA3Jx5ubUTFumQibEs"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Cowboy Tumbleweed",
         "url": "https://open.spotify.com/album/3lJcMnimBy6eAJgdL4V55R"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 232936,
       "name": "Cowboy Tumbleweed",
       "url": "https://open.spotify.com/track/5tnguwr2vzXKmoFoJqxCwd"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Subtitles for Feelings",
+        "url": "https://open.spotify.com/album/4lYJrlAFhTpbGgZeXMBnJa"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 243520,
+      "name": "Go Getter",
+      "url": "https://open.spotify.com/track/6UWvbA3Jx5ubUTFumQibEs"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Roll The Credits",
-        "url": "https://open.spotify.com/album/0fpFEstlRYE58T2sIuubdg"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 253411,
-      "name": "Roll The Credits",
-      "url": "https://open.spotify.com/track/6St9uiBUG4L7LvVNuUcm8a"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Pull the Rope",
         "url": "https://open.spotify.com/album/3Xc6YhaNwQ8CxdSGrpw80l"
       },
@@ -2339,18 +2323,18 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "What Do We Do Now",
-        "url": "https://open.spotify.com/album/5zXKvifRMlKDijAwCOnHWZ"
+        "name": "Roll The Credits",
+        "url": "https://open.spotify.com/album/0fpFEstlRYE58T2sIuubdg"
       },
       "artists": [
         {
-          "name": "J Mascis",
-          "url": "https://open.spotify.com/artist/1PokjXeIq2zVosXbTEaNlx"
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
         }
       ],
-      "duration_ms": 233053,
-      "name": "Set Me Down",
-      "url": "https://open.spotify.com/track/3AX0Ibip5JXhXDYWumJOws"
+      "duration_ms": 253411,
+      "name": "Roll The Credits",
+      "url": "https://open.spotify.com/track/6St9uiBUG4L7LvVNuUcm8a"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2367,6 +2351,22 @@
       "duration_ms": 334754,
       "name": "Another good year for the roses",
       "url": "https://open.spotify.com/track/1YoOb9usnbDLSAACSSCwzP"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "What Do We Do Now",
+        "url": "https://open.spotify.com/album/5zXKvifRMlKDijAwCOnHWZ"
+      },
+      "artists": [
+        {
+          "name": "J Mascis",
+          "url": "https://open.spotify.com/artist/1PokjXeIq2zVosXbTEaNlx"
+        }
+      ],
+      "duration_ms": 233053,
+      "name": "Set Me Down",
+      "url": "https://open.spotify.com/track/3AX0Ibip5JXhXDYWumJOws"
     },
     {
       "added_at": "2024-03-18 22:34:47",

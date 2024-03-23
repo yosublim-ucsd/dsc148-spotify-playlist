@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > A Dios sea toda la gloria y alabanza\. Foto: Miel San Marcos, Ingrid Rosario
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,230 likes - 90 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,355 likes - 90 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 15 | [Señor, Te Necesito](https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Señor, Te Necesito](https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK) | 3:24 |
 | 16 | [Recuérdame](https://open.spotify.com/track/0HLeUMjLyJBOjnx9KnNB3H) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [La Mejor Parte](https://open.spotify.com/album/6LWcpiZYaTMYuAThn8pHQe) | 3:30 |
 | 17 | [Gracias, Señor](https://open.spotify.com/track/1cY9JMcp8IYAvdBWrDC4PI) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu), [Maxi Larghi](https://open.spotify.com/artist/6jXQYWM55xKpAFPAYZcryE) | [Gracias, Señor](https://open.spotify.com/album/1grv9kyTHNQyLdlkrExSj5) | 5:05 |
-| 18 | [Loco Amor \(Spanish Version\)](https://open.spotify.com/track/4ycyCxaQyVOA0hOELiU8wf) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Loco Amor \(Spanish Version\)](https://open.spotify.com/album/0fdRBSdw56pU3F5F3TJORK) | 5:03 |
+| 18 | [Loco Amor \- Spanish Version](https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Loco Amor \(Spanish Version\)](https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do) | 5:03 |
 | 19 | [La Bendición](https://open.spotify.com/track/7sy4lR1Q1FnOaAdyc8Aapz) | [Abels Worship](https://open.spotify.com/artist/44OMK4Ah4Oqm3cNR1JVEjI), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [La Bendición](https://open.spotify.com/album/24aCBIUVgyOIiUTmLQyarN) | 5:57 |
 | 20 | [Job](https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Job](https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ) | 5:24 |
 | 21 | [Tú Dices](https://open.spotify.com/track/54QrUOoUEddh6h0ITdSqGu) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 4:33 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 47 | [El Sonido del Silencio](https://open.spotify.com/track/1iOLORkS2seU9lRU0T9b1A) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Te Puedo Sentir](https://open.spotify.com/album/7wzqas1U1NJ9uAKdkCBAi8) | 6:11 |
 | 48 | [Quiero más](https://open.spotify.com/track/77v1o59NzTsfmRpnfAkuf6) | [Omar Salas](https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd), [Any Puello](https://open.spotify.com/artist/2U29Wo3uVE9gKvr8fg4gJU), [Camino a Casa](https://open.spotify.com/artist/6Q5vcfrBhZ1PEdEvqykKEC) | [Quiero Más](https://open.spotify.com/album/3fRvGnuJ0QxJGYYmXgCn15) | 6:06 |
 | 49 | [Mi Esperanza Está en Jesús \(Live\)](https://open.spotify.com/track/25cHB6xp0w2yTak3GOopEf) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Mi Esperanza Está en Jesús \(Live\)](https://open.spotify.com/album/0vcJXwCCranZjRyqJV21gI) | 4:51 |
-| 50 | [Solo Tu](https://open.spotify.com/track/6yxDTsYge75Eka9yeXnHuN) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo Tu...Lo Unico Que Quiero](https://open.spotify.com/album/1bohZwfenuWFIuFrUETFuq) | 3:39 |
+| 50 | [Solo Tu](https://open.spotify.com/track/2FpjyN25ntw5wRI0HHPTHs) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo Tu..\. Lo Unico Que Quiero](https://open.spotify.com/album/6B0oYyezYLKGtmhKhHOEwP) | 3:39 |
 | 51 | [Rey de Reyes](https://open.spotify.com/track/3GzWdBxKgTxxdmnQ3Bk0u2) | [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [La Bondad de Dios](https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7) | 4:23 |
 | 52 | [A Casa](https://open.spotify.com/track/4SlG9g63egygJwnKxBieLh) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [Más Que Suficiente](https://open.spotify.com/album/10MAZP2R3fsjRzpdZ2Gatm) | 7:54 |
 | 53 | [Tú](https://open.spotify.com/track/6m2dA0ahaR33Pq2lcLrzzU) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL) | [Tú](https://open.spotify.com/album/0sTuOBxrOIr47vhu91xj3g) | 4:13 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 89 | [De Lo Más Profundo](https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1) | 7:45 |
 | 90 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 |
 
-Snapshot ID: `MCwzMzk0ZWM4OGVjYmNkMzQ1OWVlZTc2ZDA2NDVhMjIyYzQ4NDdiYTY4`
+Snapshot ID: `MCw0ZWU3ZmU4ZGRhZWFhOWI1ZDcxNmFlMTQ4NjEwMTMzM2Q2OTc1NmMw`

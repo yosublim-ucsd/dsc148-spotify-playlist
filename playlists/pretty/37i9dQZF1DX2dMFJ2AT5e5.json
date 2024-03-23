@@ -1,12 +1,12 @@
 {
   "description": "una lloradita y a seguirle \ud83e\udd72",
-  "num_followers": 89776,
+  "num_followers": 89927,
   "original_name": "pa llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmNjMDY2NWJlZjI4MTc2N2FlZWEzODNkMDhhOTliZDM2YTIzMTJj",
+  "snapshot_id": "MCwxMThjZTM3MmNiZjMxYTZlZDEyNDcyYmEwYjhmMTYzNWYyM2UzM2Vk",
   "tracks": [
     {
       "added_at": "2024-02-26 22:44:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-02-26 22:44:00",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 198040,
-      "name": "Heather",
-      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2024-02-26 22:44:00",
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-02-26 22:44:00",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
       "added_at": "2024-02-26 22:44:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-02-26 22:44:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
-    },
-    {
-      "added_at": "2024-02-26 22:44:00",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 164386,
       "name": "MIENTRAS ME CURO DEL CORA",
       "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
+    },
+    {
+      "added_at": "2024-02-26 22:44:00",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
     },
     {
       "added_at": "2024-02-26 22:44:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-02-26 22:44:00",
       "album": {
+        "name": "Dulce Beat",
+        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Rosa Pastel",
+      "url": "https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK"
+    },
+    {
+      "added_at": "2024-02-26 22:44:00",
+      "album": {
         "name": "Save Your Tears (Remix)",
         "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
-    },
-    {
-      "added_at": "2024-02-26 22:44:00",
-      "album": {
-        "name": "Dulce Beat",
-        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Rosa Pastel",
-      "url": "https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK"
     },
     {
       "added_at": "2024-02-26 22:44:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-02-26 22:44:00",
       "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 217768,
+      "name": "HACIENDO QUE ME AMAS",
+      "url": "https://open.spotify.com/track/26QApq0cuO9brJigr0C0W4"
+    },
+    {
+      "added_at": "2024-02-26 22:44:00",
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 174580,
       "name": "Ni 1 Complejo",
       "url": "https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1"
-    },
-    {
-      "added_at": "2024-02-26 22:44:00",
-      "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 217768,
-      "name": "HACIENDO QUE ME AMAS",
-      "url": "https://open.spotify.com/track/26QApq0cuO9brJigr0C0W4"
     },
     {
       "added_at": "2024-02-26 22:44:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-02-26 22:44:00",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb"
-    },
-    {
-      "added_at": "2024-02-26 22:44:00",
-      "album": {
         "name": "D\u00e9jenme Llorar",
         "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 235306,
       "name": "D\u00e9jenme Llorar",
       "url": "https://open.spotify.com/track/4oBSrpZNE2K79sMuS0jCyx"
+    },
+    {
+      "added_at": "2024-02-26 22:44:00",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb"
     },
     {
       "added_at": "2024-02-26 22:44:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-02-26 22:44:00",
       "album": {
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy"
+      },
+      "artists": [
+        {
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "\u00bfPorqu\u00e9 te vas?",
+      "url": "https://open.spotify.com/track/11rsK9GDZ9UdWsxtDqnMmN"
+    },
+    {
+      "added_at": "2024-02-26 22:44:00",
+      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 232066,
       "name": "Te Mata",
       "url": "https://open.spotify.com/track/1NEBuFp0BJMikgXJI9VVab"
-    },
-    {
-      "added_at": "2024-02-26 22:44:00",
-      "album": {
-        "name": "Porque Te Vas",
-        "url": "https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy"
-      },
-      "artists": [
-        {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "\u00bfPorqu\u00e9 te vas?",
-      "url": "https://open.spotify.com/track/11rsK9GDZ9UdWsxtDqnMmN"
     },
     {
       "added_at": "2024-02-26 22:44:00",

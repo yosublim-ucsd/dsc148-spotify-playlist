@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 107999,
+  "2024-03-23": 108037,
   "date_first_scraped": "2021-12-28",
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
   "name": "Livet p\u00e5 B\u00f8gda!",
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 173793,
       "name": "DET \u00c4R JU DEJ JAG G\u00c5R OCH V\u00c4NTAR P\u00c5",
       "url": "https://open.spotify.com/track/1cr0ryXVaePFlRl4lkmdf7"
@@ -6611,6 +6611,28 @@
       "duration_ms": 226946,
       "name": "Vakker og vill",
       "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"
+    },
+    {
+      "album": {
+        "name": "VEM FAN E DU?",
+        "url": "https://open.spotify.com/album/0BWAxu1c9xgq4z4BvhsXUT"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        },
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "VEM FAN E DU?",
+      "url": "https://open.spotify.com/track/4BliCq54T5TbxmaLdXJGEK"
     },
     {
       "album": {

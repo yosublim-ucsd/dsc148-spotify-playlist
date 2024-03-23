@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 34754,
+  "num_followers": 34753,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjdmMTRiZjQ1NGUwNDU1ODIyZTM5NzQ3Y2Q0YTNiZGE2MzBjY2Iz",
+  "snapshot_id": "MCwyZjliZjQwZTRiZjJkYWEyZDc3YWNjOWU4YmE2OTg3NTFmZWI2YjE0",
   "tracks": [
     {
       "added_at": "2021-04-09 06:36:41",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Stadium Arcadium",
-        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 282160,
-      "name": "Dani California",
-      "url": "https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "All That We Needed",
         "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 282160,
+      "name": "Dani California",
+      "url": "https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k"
     },
     {
       "added_at": "2021-04-09 06:36:41",

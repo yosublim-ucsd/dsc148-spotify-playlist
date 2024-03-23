@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Felguk, Watzgood",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Sevek",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 249677,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/6HrQqk3rYUxF2YPiNM1Gym"
@@ -644,6 +644,46 @@
       "duration_ms": 162576,
       "name": "Beat Of Your Love (feat. EKKO)",
       "url": "https://open.spotify.com/track/38GLEGOO8XnC74hAMluTme"
+    },
+    {
+      "album": {
+        "name": "BENDAI",
+        "url": "https://open.spotify.com/album/53vV4VGldrLsNgcPwh6FRW"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273442,
+      "name": "BENDAI",
+      "url": "https://open.spotify.com/track/54f3sDAW39cx4gp49yvOte"
+    },
+    {
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/6FbJYgs69DIOjy0rGFHnI6"
+      },
+      "artists": [
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        },
+        {
+          "name": "RICCI",
+          "url": "https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171147,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4l3oc6geC2DGxqt4G1KvQQ"
     },
     {
       "album": {
@@ -1357,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "DJ Do Baile",
+        "url": "https://open.spotify.com/album/4QOWUDSQxL5eNxVLjXQTcf"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "DJ Do Baile",
+      "url": "https://open.spotify.com/track/3XBzkhOKknT5ZNRckkd7Ss"
+    },
+    {
+      "album": {
         "name": "Dom Dom",
         "url": "https://open.spotify.com/album/6iK6cQA9o6JB8LOw4PEh7q"
       },
@@ -1736,7 +1794,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 311129,
       "name": "Everything I Got",
       "url": "https://open.spotify.com/track/4eCRXUDUw9LDzH7v32kKjT"
@@ -3096,7 +3154,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
@@ -3330,6 +3388,32 @@
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+    },
+    {
+      "album": {
+        "name": "My Fears (Intro Tomorrowland)",
+        "url": "https://open.spotify.com/album/7KIKDc8uvlVZxH4SkPA7dk"
+      },
+      "artists": [
+        {
+          "name": "Pontifexx",
+          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
+        },
+        {
+          "name": "AXXE",
+          "url": "https://open.spotify.com/artist/0vBCz39lYB7vyoNRUNTc3i"
+        },
+        {
+          "name": "Ventura",
+          "url": "https://open.spotify.com/artist/3mC5nyIRazFjQsmaIeS7nC"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210476,
+      "name": "My Fears (Intro Tomorrowland)",
+      "url": "https://open.spotify.com/track/4KqTJGX3Au0Bl8XchaUPE5"
     },
     {
       "album": {
@@ -4132,7 +4216,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 191859,
       "name": "Road To Nowhere",
       "url": "https://open.spotify.com/track/4MZPKuMk4zZnpRKvvhBgu1"
@@ -4256,7 +4340,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 207514,
       "name": "Saving Up",
       "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
@@ -4296,7 +4380,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 160000,
       "name": "SAY LESS",
       "url": "https://open.spotify.com/track/7nm0fPyOJOxyq71XsRCed4"
@@ -4399,6 +4483,28 @@
     },
     {
       "album": {
+        "name": "Chama De Amor / She Calls Me Love",
+        "url": "https://open.spotify.com/album/7xNlHZh0QVYpw5C2gY9u9b"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Banda AL9",
+          "url": "https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172615,
+      "name": "She Calls Me Love - Steve Aoki Remix",
+      "url": "https://open.spotify.com/track/0deDBJXbids6gfrg47mOLX"
+    },
+    {
+      "album": {
         "name": "Shingaling Shingaling",
         "url": "https://open.spotify.com/album/2djHqWUscYXsPqrEugmx8w"
       },
@@ -4472,7 +4578,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 162914,
       "name": "So Far So Good",
       "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
@@ -4502,7 +4608,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 258000,
       "name": "Speak Up - Slow Motion, Duarte Remix",
       "url": "https://open.spotify.com/track/2zgaqDf1CttaQa7BRPgJpI"
@@ -4520,7 +4626,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 226153,
       "name": "Spinnin' Circles",
       "url": "https://open.spotify.com/track/4AtbLOzVyOaFbzEzkQz15Q"
@@ -5296,7 +5402,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 143253,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD"
@@ -5458,7 +5564,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 124142,
       "name": "With You",
       "url": "https://open.spotify.com/track/4pD7ds0WqjF6I5xrRJStkk"
@@ -5476,7 +5582,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 200950,
       "name": "Wonderful World",
       "url": "https://open.spotify.com/track/6n2AUUf4E7R9SDw0Yn8LmN"

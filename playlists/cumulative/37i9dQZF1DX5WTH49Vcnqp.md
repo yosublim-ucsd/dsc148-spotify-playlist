@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: girl in red, Sabrina Carpenter
 
-1,322 songs - 3 day 3 hr 3 min
+1,323 songs - 3 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1208,7 +1208,8 @@
 | [Too Late Now](https://open.spotify.com/track/6OH7Zxopr4NxIVPfORUEoR) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Too Late Now / Oh No](https://open.spotify.com/album/0c1zD1xhhczlpTNzhuOtvS) | 3:29 | 2021-12-28 | 2022-03-11 |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-03-01 |  |
 | [Too Much Fun](https://open.spotify.com/track/37UG9jRXurN9Yr6sx9cq8l) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 2:34 | 2023-01-26 | 2023-05-02 |
-| [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-03-21 |  |
+| [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-03-21 | 2024-03-23 |
+| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-21 |  |
 | [Too Young to Burn](https://open.spotify.com/track/2wygBuUWMXrQujBBlwhDCL) | [Sonny & The Sunsets](https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog) | [Tomorrow Is Alright](https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh) | 3:19 | 2023-04-06 | 2023-04-14 |
 | [Top Dog](https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [mini mix vol\. 3](https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM) | 2:17 | 2023-04-13 | 2023-05-30 |
 | [Touch](https://open.spotify.com/track/4Fm5E7KOTEKWBR3YwhgMM0) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(Solomun Remix\)](https://open.spotify.com/album/3OzCCg2DJ8wpKZQzoXm5Kq) | 3:26 | 2022-11-10 | 2022-11-13 |

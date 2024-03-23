@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: SugLawd Familiar
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,132 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,136 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Don Julio](https://open.spotify.com/track/3qdu41Y9RmZaO7hjMFPivL) | [GEEKBOY](https://open.spotify.com/artist/2ENR5uEmMC3CEqg93awedG), [Yella Flat Boys](https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP) | [Don Julio](https://open.spotify.com/album/1jiEsRdQjfqr2fQulFewTj) | 2:40 |
 | 100 | [GINGINDEGO](https://open.spotify.com/track/1F0zihdKiGUlrR1YcaQbVR) | [Ryuk](https://open.spotify.com/artist/6XwuA8ruL7xjyyxxnUCjwX), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [GINGINDEGO](https://open.spotify.com/album/6bErHCwerAoOZsI2cEfXC2) | 1:51 |
 
-Snapshot ID: `MCxlOWM2N2JkMTI1MzNiZDllNzQ2NThkYzY1ZTUyMmM4ZDBhN2Y3YTFj`
+Snapshot ID: `MCw4ZjY3ZjcxN2VhM2FjNDg5NGM5NTg2MjUxYjJkM2M5NjI0MDIzN2Rk`

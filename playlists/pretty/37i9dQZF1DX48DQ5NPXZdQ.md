@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48DQ5NPXZdQ.md) - [plain]
 
 > Su música, como ellos, es eterna\. José José en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,652 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,663 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48DQ5NPXZdQ.md) - [plain]
 | 37 | [Nothing Compares 2 U](https://open.spotify.com/track/70Ukvwcp6LkgfRiuUhGV7l) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Nothing Compares 2 U](https://open.spotify.com/album/3aUBbb6wNmvd4HOHhasOaf) | 4:40 |
 | 38 | [Heal the World](https://open.spotify.com/track/5zGsHa3XcLmDAsdt0LwYnu) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 6:25 |
 | 39 | [Cenizas](https://open.spotify.com/track/3Zv4Z2YsgVoLoKKMahdDAN) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/3IqPx1fXB2GeEPcvT9RKn7) | 3:12 |
-| 40 | [Amor Chiquito](https://open.spotify.com/track/2DG50cgFWTnqWXAoDjAkPU) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [El Payasito de la Tele "Cepillín"](https://open.spotify.com/album/6c3b5DEPxFCnFBxTnDKJ0K) | 2:32 |
-| 41 | [El Día Que Me Quieras \(Remasterizado 2022\)](https://open.spotify.com/track/1Nkq4Ks8Q3aXlmxD3iLx9v) | [Carlos Gardel](https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU) | [Classics from the 78RPM Shellac \(Remasterizado 2022\)](https://open.spotify.com/album/4qXqdampo78ETMRyEg5Kt7) | 3:21 |
+| 40 | [El Día Que Me Quieras \(Remasterizado 2022\)](https://open.spotify.com/track/1Nkq4Ks8Q3aXlmxD3iLx9v) | [Carlos Gardel](https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU) | [Classics from the 78RPM Shellac \(Remasterizado 2022\)](https://open.spotify.com/album/4qXqdampo78ETMRyEg5Kt7) | 3:21 |
+| 41 | [Amor Chiquito](https://open.spotify.com/track/2DG50cgFWTnqWXAoDjAkPU) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [El Payasito de la Tele "Cepillín"](https://open.spotify.com/album/6c3b5DEPxFCnFBxTnDKJ0K) | 2:32 |
 | 42 | [No Me Platiques Mas](https://open.spotify.com/track/5zT31ATQDC2mrOsclbQvc1) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [Por Siempre Boleros](https://open.spotify.com/album/4lq9pRsoFw5Dotp5ridhrd) | 3:12 |
 | 43 | [Merenguero Hasta la Tambora \- Radio Version](https://open.spotify.com/track/6IGgyTBzPgG0c8RHz2PZ4Z) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [Mis Favoritas](https://open.spotify.com/album/0BcspqaDGksQoDQkKSGCdO) | 3:04 |
 | 44 | [Como Fue](https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Romántico](https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48DQ5NPXZdQ.md) - [plain]
 | 49 | [Guacarock Del Santo](https://open.spotify.com/track/5tHOJYiBkvOKdIl7sFkCuV) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Lo Pior Del Estuche De Peluche](https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS) | 3:35 |
 | 50 | [No Discutamos](https://open.spotify.com/track/3kkkjHun0BfnpBZfiQJgfd) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/4You1BWzCuVqMqDuxW7Bkl) | 2:15 |
 
-Snapshot ID: `MCxiYzM3MTE5ZWVjODdhMjRlYjU2ODQyNmEwZWNkMmI3OWVmNWY2Mjk4`
+Snapshot ID: `MCwwOTFkYTk0MmNjNTIyMzNiMTU4YWM1ZWYyY2EyNmY1ZTUyNDE3MTVh`

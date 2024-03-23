@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 
 > The playlist version of a warm hug
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,085 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,066 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 17 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 |
 | 18 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
 | 19 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 |
-| 20 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
-| 21 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
+| 20 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
+| 21 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
 | 22 | [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 |
 | 23 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
 | 24 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 54 | [Sense of Home](https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U) | 4:25 |
 | 55 | [Give Me A Minute](https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:37 |
 | 56 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
-| 57 | [Blood](https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC) | [The Middle East](https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2) | [The Recordings of the Middle East](https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ) | 5:26 |
-| 58 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 |
+| 57 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 |
+| 58 | [Blood](https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC) | [The Middle East](https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2) | [The Recordings of the Middle East](https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ) | 5:26 |
 | 59 | [Rome](https://open.spotify.com/track/2ZwihAP8zB5XX1CmYIOBbF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 3:22 |
 | 60 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 |
 | 61 | [I Should Go \- Solo Version](https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [I Should Go \(Solo Version\)](https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV) | 2:31 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 87 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 |
 | 88 | [The Killer Was a Coward](https://open.spotify.com/track/3c67dPnPg08gwduVB08hpZ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 4:20 |
 | 89 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
-| 90 | [Look Mom I Made It](https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Look Mom I Made It](https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns) | 2:59 |
-| 91 | [Still](https://open.spotify.com/track/7lKmIkQzOyJuW9ZIbmIOog) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu), [Marie Gallo](https://open.spotify.com/artist/6wk4N3pB7kAqPG8gqd79cc) | [Still](https://open.spotify.com/album/2ZazqwsVLTRPltQMgje6Mc) | 3:47 |
+| 90 | [Still](https://open.spotify.com/track/7lKmIkQzOyJuW9ZIbmIOog) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu), [Marie Gallo](https://open.spotify.com/artist/6wk4N3pB7kAqPG8gqd79cc) | [Still](https://open.spotify.com/album/2ZazqwsVLTRPltQMgje6Mc) | 3:47 |
+| 91 | [Look Mom I Made It](https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Look Mom I Made It](https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns) | 2:59 |
 | 92 | [The Old Parade](https://open.spotify.com/track/43oqobywDZTvS53P9VNFl3) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [The Old Parade](https://open.spotify.com/album/1hgxMPc8eLOaXCYsQ9vRvq) | 3:20 |
 | 93 | [Unfortunate Love](https://open.spotify.com/track/5Syb5fDjejlzXhwHhEFVzq) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx), [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Unfortunate Love](https://open.spotify.com/album/67aV8hBRcZ0irSncujuXA6) | 3:46 |
 | 94 | [Dancing in the Moonlight \(It's Caught Me in Its Spotlight\) \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 2:23 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 97 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 |
 | 98 | [Last Time](https://open.spotify.com/track/63msGdgRl82cT88247E2kz) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:13 |
 | 99 | [Vincent Kompany](https://open.spotify.com/track/3KDiKwicNYfZiOw0wZqTp6) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:01 |
-| 100 | [Unconditional](https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Devon or Las Vegas](https://open.spotify.com/album/2iBH65jlLWmkzAAkqu0Ade) | 4:20 |
+| 100 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
 
-Snapshot ID: `MCxjNTg1ZjRmNmVkYTVlNjlmYmE3N2RhMTUyZjk3ZDdlM2ZhYzI3YzVk`
+Snapshot ID: `MCxmZjhlYjRkMmQ1NzEzMDAyNGRlODJmZGI0YWEyY2RjYTJmM2RhYWNi`

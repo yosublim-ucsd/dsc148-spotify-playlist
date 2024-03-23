@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Hot Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,498 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,603 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Scrapbook](https://open.spotify.com/track/4Jz7wnOkNBozJVyiee2fM1) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Scrapbook](https://open.spotify.com/album/6HAW9bHXN7cFRP1NWMu7BK) | 4:15 |
 | 100 | [An Optimist's Dilemma](https://open.spotify.com/track/4D09RCu6vkP24faRNgETXS) | [Aversions](https://open.spotify.com/artist/65fB37pXWPMPJrNg1ZJOpR) | [You Wanted the Bike](https://open.spotify.com/album/0HXlYi9tvT5oiRWNw11lKF) | 5:21 |
 
-Snapshot ID: `MCw2M2U3YWIwMTA0ZThjNDcwNmE2YmUwOWJjZWM1Y2JhZDEzZTg0MGI2`
+Snapshot ID: `MCxiNWZlYzc3MDY2ZWE0MTE3NDMzZTQ2MzJjZGJmNWFmOTQ3NzcyNTY3`

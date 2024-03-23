@@ -4,7 +4,7 @@
 
 > Timeless Pakistani hits, all in one place\. Cover \- Junoon
 
-210 songs - 17 hr 1 min
+211 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Chul Kuriye](https://open.spotify.com/track/1j2suu8QN9vBSqWCDkQ8Ku) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Ishq](https://open.spotify.com/album/6plzKQCGIUaBWgWq7UtRlS) | 3:31 | 2021-08-16 | 2022-07-18 |
 | [Chup](https://open.spotify.com/track/0HpJhBhVcST88qiItro5Bj) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA) | [Chup](https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5) | 4:09 | 2021-08-16 | 2022-07-27 |
 | [Darbari](https://open.spotify.com/track/20bzZEYSjIxfyUUW1McxNC) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Sampooran](https://open.spotify.com/album/21MMf1Nv9iD4XVkLf91TQl) | 5:16 | 2021-08-16 | 2022-11-15 |
+| [Dastaan](https://open.spotify.com/track/3d5c2JIjWzrwngwjR51dbs) | [Abdullah Qureshi](https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8) | [Dastaan](https://open.spotify.com/album/6U22ImYPMmcX2tEM1IpNFh) | 5:20 | 2023-05-10 |  |
 | [Dastaan](https://open.spotify.com/track/6PWM8K2KJvWGZm1qbKCQpQ) | [Abdullah Qureshi](https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8) | [Dastaan](https://open.spotify.com/album/0mTMYs9KHiGJVcYP3jPsOw) | 5:20 | 2021-08-16 | 2024-02-26 |
 | [Deewana](https://open.spotify.com/track/13Nh7FZe0D6vBlAREaqfTR) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Social Circus](https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K) | 5:19 | 2021-08-16 | 2022-07-26 |
 | [Deewana](https://open.spotify.com/track/6OWgu7E4L87XewLkWmD6ka) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Aatish](https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO) | 3:50 | 2021-08-16 | 2022-07-29 |
@@ -123,7 +124,7 @@
 | [Man Gagan](https://open.spotify.com/track/1l3Jn24cC7UsLDqNIbH33a) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Social Circus](https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K) | 6:18 | 2021-08-16 | 2022-07-29 |
 | [Manwa Re](https://open.spotify.com/track/61fzdZgmnQ2wg9vmHqwDgN) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Suno Ke Mein Hun Jawan](https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG) | 3:27 | 2021-08-16 |  |
 | [Marjawan](https://open.spotify.com/track/0Lg0m2Tb6IdDKiSKd5nwDI) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Aatish](https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO) | 4:40 | 2021-08-16 | 2022-07-27 |
-| [Mausam](https://open.spotify.com/track/0WdKRv6PSPZmT5iftXT6eZ) | [JoSH the Band](https://open.spotify.com/artist/3bZPukLEVZlmVmNI2zkbLU), [Erin](https://open.spotify.com/artist/2qANjHXsCzStzefXrY1LC2) | [Mausam](https://open.spotify.com/album/758VIaUPNO3rY8nBxPTzv1) | 4:50 | 2021-08-16 |  |
+| [Mausam](https://open.spotify.com/track/0WdKRv6PSPZmT5iftXT6eZ) | [JoSH the Band](https://open.spotify.com/artist/3bZPukLEVZlmVmNI2zkbLU), [Erin](https://open.spotify.com/artist/2qANjHXsCzStzefXrY1LC2) | [Mausam](https://open.spotify.com/album/758VIaUPNO3rY8nBxPTzv1) | 4:50 | 2021-08-16 | 2024-03-23 |
 | [Mehndi](https://open.spotify.com/track/0hZezjFqU0H81Fq4UCYMv0) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Jind Jan Sohniyie](https://open.spotify.com/album/4ZaLIwVcrgO7Cshf1rBkjh) | 5:35 | 2021-08-16 |  |
 | [Mela Kariyay](https://open.spotify.com/track/59Wesa7Iy1wmojlzybzl9e) | [Overload](https://open.spotify.com/artist/05PcXrC9rDpaibKcUQFQMb), [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Pichal Pairee](https://open.spotify.com/album/4FSwIlAsY0IZ5alcSgRG2V) | 4:11 | 2021-08-16 | 2022-07-29 |
 | [Menu Tere Naal](https://open.spotify.com/track/2fobch5d1l4yJBAFPQEDnh) | [Najam Sheraz](https://open.spotify.com/artist/66SvSqaZI1DtUpbwxUHNhP) | [Menu Tere Naal](https://open.spotify.com/album/0s20HviKOwDOdPauXzpvrm) | 5:41 | 2021-08-16 | 2022-07-27 |

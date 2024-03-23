@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,668 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,737 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 13 | [Mammas Don't Let Your Babies Grow up to Be Cowboys](https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:32 |
 | 14 | [Automatic](https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:07 |
 | 15 | [Why](https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR) | 3:17 |
-| 16 | [Stone](https://open.spotify.com/track/4rJesaufMl2xD0f2G8Xgnd) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Mud](https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy) | 5:35 |
+| 16 | [Something to Talk About](https://open.spotify.com/track/19Xbs8nrPaB4XGK5nVBbFC) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:24 |
 | 17 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 |
-| 18 | [Something to Talk About](https://open.spotify.com/track/19Xbs8nrPaB4XGK5nVBbFC) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:24 |
+| 18 | [Stone](https://open.spotify.com/track/4rJesaufMl2xD0f2G8Xgnd) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Mud](https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy) | 5:35 |
 | 19 | [Mine All Mine](https://open.spotify.com/track/5gCBDJVkU7XHkh4b9i43hn) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Love Me Instead](https://open.spotify.com/album/3wk9iRnqzxQalPBNekk0jR) | 3:01 |
 | 20 | [Hell of a Year](https://open.spotify.com/track/2kvlpIO6c9yvKAzk2KF0IS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v) | 3:52 |
 | 21 | [Hippies and Cowboys](https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Less Wise](https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa) | 5:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 99 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
 | 100 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
 
-Snapshot ID: `MCw2Y2NkMDViNjFjZDYzY2Y0MTAzMDI1ZDdkNWZmOTZmNDQzZDhhZGIz`
+Snapshot ID: `MCw4ZDM0YThjMjNmMTk3ZWFkODA0MzE3YTI0MDBlMjI1NDVhZDQ4Nzdj`

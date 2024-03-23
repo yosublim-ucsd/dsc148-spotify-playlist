@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-375 songs - 19 hr 17 min
+376 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Gone Far](https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gone Far](https://open.spotify.com/album/18Q01D7GFl85NruCnXalNO) | 2:28 | 2021-10-08 | 2023-02-07 |
 | [GoodSin](https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC) | 2:20 | 2023-09-09 | 2024-03-04 |
 | [GoodSin](https://open.spotify.com/track/5tlvXfI4aqoSh0oRghr7UT) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/3axpLgzTEbftwwMXdYX3TK) | 2:20 | 2023-06-26 | 2023-09-10 |
+| [GoodSin](https://open.spotify.com/track/6JTpnAzRctuyc6qhUimpMW) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 2:20 | 2024-03-22 |  |
 | [GoodSin \(feat\. Reekado Banks\) \- Remix](https://open.spotify.com/track/1IqCbrh4xY0KqmOxXJxClR) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [GoodSin \(feat\. Reekado Banks\) \[Remix\]](https://open.spotify.com/album/6qqlM35C4DXPsTO54i9pku) | 3:53 | 2023-12-22 | 2024-02-24 |
 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 | 2023-06-26 | 2023-07-21 |
 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 | 2023-02-16 |  |
@@ -206,7 +207,7 @@
 | [Korlebu](https://open.spotify.com/track/6XNbESCL31jctqJLxRjv51) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [The Teacher](https://open.spotify.com/album/1dknPUgY31fr6w71ZFSWiY) | 3:47 | 2023-09-09 | 2023-09-28 |
 | [KOTTO](https://open.spotify.com/track/5BAfLzpEj8hMH5rutSNkh7) | [Sifoor](https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj), [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [KOTTO](https://open.spotify.com/album/6OxX9IbomGk92OPbDgbEVV) | 3:50 | 2022-11-18 | 2023-01-20 |
 | [Kpanla](https://open.spotify.com/track/7vyPsq17QO1sN982fxtL3z) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kpanla](https://open.spotify.com/album/6Be7V1VsrltIu9AQoKkJ6k) | 2:46 | 2022-05-05 | 2022-07-29 |
-| [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 | 2023-02-03 |  |
+| [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 | 2023-02-03 | 2024-03-23 |
 | [Kuacha](https://open.spotify.com/track/2gQ4Z9XBBzDDi1EqhOj0K7) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Kuacha](https://open.spotify.com/album/3ZCBdU2KFy6VmvqAiS3bln) | 3:10 | 2022-06-23 | 2022-08-05 |
 | [L'Eko](https://open.spotify.com/track/58fWPJ1REJ13XULjMhTZI9) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 2:20 | 2023-07-20 | 2023-08-04 |
 | [La Maluka](https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7) | [Blaqnick & MasterBlaq](https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [La Maluka](https://open.spotify.com/album/32UflENeLioWm4rKSpyRvm) | 4:34 | 2023-01-27 | 2023-04-15 |

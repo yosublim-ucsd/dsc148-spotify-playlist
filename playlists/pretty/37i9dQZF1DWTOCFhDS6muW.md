@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,368 likes - 38 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,387 likes - 38 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,19 +27,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 17 | [Puntas Garifunas Criollas 2](https://open.spotify.com/track/1S9siygLB7ocT52s3Xvlp3) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 4](https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW) | 7:24 |
 | 18 | [La Yuca](https://open.spotify.com/track/04DMd80zGUt5W21LDDQTI8) | [Los Roland's](https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc) | [15 Exitos](https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr) | 4:38 |
 | 19 | [Balabaa](https://open.spotify.com/track/2R5RYvwBKgNubDJf6gQ59S) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 2:40 |
-| 20 | [Laluda Bellu](https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 3:33 |
-| 21 | [Baila Baila](https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl) | [Garifuna Kids](https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo) | [Baila Baila](https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W) | 6:36 |
+| 20 | [Baila Baila](https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl) | [Garifuna Kids](https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo) | [Baila Baila](https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W) | 6:36 |
+| 21 | [Laluda Bellu](https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 3:33 |
 | 22 | [Kazzabe Si Sabe](https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Batalla de las Puntas, Vol\. 8](https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX) | 5:25 |
 | 23 | [Baila Conmigo](https://open.spotify.com/track/2oq5vkmOpiR0ykdmfyuFNj) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 3:24 |
 | 24 | [Pedazo De Mujer](https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 4:00 |
 | 25 | [El Encarguito](https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Encarguitos Del Caribe](https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR) | 3:43 |
-| 26 | [Gasolina](https://open.spotify.com/track/4yCeZVmXYQwCSdvck8zFqg) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 10](https://open.spotify.com/album/4vH68G4MKGfdcs49bPpNUF) | 3:50 |
+| 26 | [Otro Amor Llego](https://open.spotify.com/track/759uPQuPn0hm8ZclHOVRn9) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Va Cañon!](https://open.spotify.com/album/5RPlUSC5OJHeOuag7HTWUe) | 3:58 |
 | 27 | [Punta Raton Remix](https://open.spotify.com/track/23rClcdGCsb1hR9ijBPnS1) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puntas Garifunas Con Cache](https://open.spotify.com/album/7EYnYfNJDRBLWaos0NGw8l) | 4:09 |
 | 28 | [La Ametralladora](https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [La Ametralladora](https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv) | 2:34 |
 | 29 | [Mira Honduras](https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 2:46 |
 | 30 | [Nando](https://open.spotify.com/track/4mhUu9hEcGeXsNJZfGGxsH) | [Aurelio](https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h) | [Lándini](https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs) | 2:59 |
 | 31 | [Oye Este Canto Aka Levantando las Manos](https://open.spotify.com/track/6VHH8EZHnvE2QcL0pipwhY) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Alegria](https://open.spotify.com/album/05bmKOrqr3sL0fDM3pOXQW) | 5:09 |
-| 32 | [Otro Amor Llego](https://open.spotify.com/track/759uPQuPn0hm8ZclHOVRn9) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Va Cañon!](https://open.spotify.com/album/5RPlUSC5OJHeOuag7HTWUe) | 3:58 |
+| 32 | [Gasolina](https://open.spotify.com/track/4yCeZVmXYQwCSdvck8zFqg) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 10](https://open.spotify.com/album/4vH68G4MKGfdcs49bPpNUF) | 3:50 |
 | 33 | [En Mi Pais](https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Pobre Marinero](https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj) | 3:39 |
 | 34 | [Por la Playa](https://open.spotify.com/track/56NlIztGmrboS6icu0s8us) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 4:16 |
 | 35 | [Banana](https://open.spotify.com/track/6jceTQXwTqbj4BJGJdlbvg) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 3:16 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 37 | [Nafagua](https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4) | [Aurelio](https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h) | [Lándini](https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs) | 3:25 |
 | 38 | [Tik Tok Punta](https://open.spotify.com/track/7iwTstDIwSEaVOZpX0Q7Cg) | [El Profeta Hn](https://open.spotify.com/artist/5SAevBqeFfy5EKnBtPT1kU) | [Tik Tok Punta](https://open.spotify.com/album/4wWYKIyOnM5XRnGHeulW2Y) | 4:03 |
 
-Snapshot ID: `MCxhMDUyNDJiOWNjYTRhMWY4YTY0N2IwNGZhNGU5ZjE1MWIyZTM4NTYy`
+Snapshot ID: `MCxiNTZlZDg3Y2QxZjk4ZGZkNjA4Y2MyNDNjMWNhMTU5NzRhM2FmNzQw`

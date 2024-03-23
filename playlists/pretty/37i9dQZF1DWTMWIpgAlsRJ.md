@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The 100 greatest FIFA tracks of all time
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,520 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,508 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 44 | [I Can Talk](https://open.spotify.com/track/2OqI9fjaLeXnphj1Vcs1bi) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 2:57 |
 | 45 | [No Problem](https://open.spotify.com/track/5k3jdIh7BpJaV1DntDQoSD) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 4:10 |
 | 46 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
-| 47 | [Send Them Off!](https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:20 |
-| 48 | [Levanta e Anda](https://open.spotify.com/track/0JSux25Te5HYMSr2D64d02) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 2:30 |
+| 47 | [Levanta e Anda](https://open.spotify.com/track/0JSux25Te5HYMSr2D64d02) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 2:30 |
+| 48 | [Send Them Off!](https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:20 |
 | 49 | [Found What I've Been Looking For](https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lighting Matches \(Deluxe\)](https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI) | 3:11 |
 | 50 | [Helicopter](https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:40 |
 | 51 | [Red Morning Light](https://open.spotify.com/track/3Fc5OiXuy3pgmLLdoDQqjX) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Youth And Young Manhood](https://open.spotify.com/album/2137zeBGNgOWP4D96q6qxd) | 2:59 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 59 | [Blue Monday '88 \- 2015 Remaster](https://open.spotify.com/track/3PQEaRs2JEwtk79IqbQYt1) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 4:11 |
 | 60 | [The Rockafeller Skank](https://open.spotify.com/track/7mCQK9YB25WZw1saUjfL4e) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/7G7cCHgQKbDD6zvwDQZyJu) | 6:53 |
 | 61 | [Pop Boy \(feat\. Aitch\)](https://open.spotify.com/track/3KcSwX6pyUnfJ0YZlcJE7d) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 2:31 |
-| 62 | [Morrow](https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 4:06 |
-| 63 | [Monster](https://open.spotify.com/track/6s3kEvE18DIURckoh0mWTZ) | [The Automatic](https://open.spotify.com/artist/7IZcg74X6CKzf0SfRliRrB) | [Not Accepted Anywhere](https://open.spotify.com/album/4GAjTcDqAzIvjarKA715I7) | 3:39 |
+| 62 | [Monster](https://open.spotify.com/track/6s3kEvE18DIURckoh0mWTZ) | [The Automatic](https://open.spotify.com/artist/7IZcg74X6CKzf0SfRliRrB) | [Not Accepted Anywhere](https://open.spotify.com/album/4GAjTcDqAzIvjarKA715I7) | 3:39 |
+| 63 | [Morrow](https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 4:06 |
 | 64 | [Fallin' Apart](https://open.spotify.com/track/2qKmnm0cEXnvD82C6Sr2hs) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Fallin' Apart](https://open.spotify.com/album/7LK33wpZ5LmLwWkCMxDXdp) | 2:04 |
 | 65 | [Scatter](https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:44 |
 | 66 | [Conqueror](https://open.spotify.com/track/1Wd08LgZT0LsmZ0KIJmUfL) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:27 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 71 | [Offence](https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:48 |
 | 72 | [Cobrastyle \(feat\. Mad Cobra\)](https://open.spotify.com/track/0aWfhiilJXkCxnoxdhv7qF) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Soft Machine \(U.S\. Version\)](https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx) | 2:59 |
 | 73 | [Walk](https://open.spotify.com/track/6D3g26uM2CmNVUhPWWNsBS) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Love + War](https://open.spotify.com/album/3tm171q3WGV3Xj2lwbhHMr) | 3:34 |
-| 74 | [Ounana](https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Ounana](https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH) | 2:31 |
-| 75 | [Guten Tag](https://open.spotify.com/track/5YVAa5A1w987AIeCn6I0UI) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Die Reklamation](https://open.spotify.com/album/3q6f8bwF1ZWxTGvS0veYi3) | 3:35 |
+| 74 | [Guten Tag](https://open.spotify.com/track/5YVAa5A1w987AIeCn6I0UI) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Die Reklamation](https://open.spotify.com/album/3q6f8bwF1ZWxTGvS0veYi3) | 3:35 |
+| 75 | [Ounana](https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Ounana](https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH) | 2:31 |
 | 76 | [I'm Not Gonna Teach Your Boyfriend How to Dance with You](https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt) | 3:37 |
 | 77 | [Splitting The Atom](https://open.spotify.com/track/1r9mGafUiSgumJoRqyLrSt) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 5:16 |
 | 78 | [Never Come Back](https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 5:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 99 | [BUYA](https://open.spotify.com/track/4JzupGoZoRC5qRY9Y4vUuE) | [Domino Saints](https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ) | [BUYA](https://open.spotify.com/album/40YPn9jFKNXuWjoSAB8kyR) | 2:49 |
 | 100 | [Magrela Fever](https://open.spotify.com/track/0yV3VUsztavBnG7iKjs06T) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [JapanPopShow](https://open.spotify.com/album/2Hs9YfmASINO0UlHPVqjgb) | 4:11 |
 
-Snapshot ID: `MCxlNWRjZTk2OWQ4OWNjMzI1MmViYjZjNDIxYjI0OGIzZTgwOThkMDYz`
+Snapshot ID: `MCw4NzhmYThhZTMxZDAxNzdjMzBhMzA4NzgyNjhlOWJmNjUxYmVmYjkz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Don’t Sweat It!
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,889 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,866 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,26 +48,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 38 | [The Trooper \(2015 Remaster\)](https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 Remaster\)](https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66) | 4:12 |
 | 39 | [Panic](https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Panic](https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG) | 3:20 |
 | 40 | [Feuer frei!](https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | 3:08 |
-| 41 | [Holy Roller](https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 2:53 |
-| 42 | [Blinded](https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 3:22 |
+| 41 | [Blinded](https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 3:22 |
+| 42 | [Holy Roller](https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 2:53 |
 | 43 | [Drop Dead Cynical](https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [MASSIVE ADDICTIVE](https://open.spotify.com/album/4R9xcmJHM8qT20wf3meJLe) | 3:17 |
 | 44 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 |
 | 45 | [Repentless](https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL) | 3:19 |
 | 46 | [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 |
 | 47 | [Twilight Of The Thunder God](https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Twilight Of The Thunder God](https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz) | 4:08 |
 | 48 | [Sweating Bullets \- Remastered 2004](https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 5:27 |
-| 49 | [Cellar Door](https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt) | 4:43 |
-| 50 | [My Own Grave](https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 4:13 |
+| 49 | [My Own Grave](https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 4:13 |
+| 50 | [Cellar Door](https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt) | 4:43 |
 | 51 | [Down for Life](https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Gathering](https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J) | 3:23 |
 | 52 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 |
-| 53 | [Demons Are a Girl's Best Friend](https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:38 |
-| 54 | [Archangel](https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Manifest](https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa) | 3:23 |
+| 53 | [Archangel](https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Manifest](https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa) | 3:23 |
+| 54 | [Demons Are a Girl's Best Friend](https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:38 |
 | 55 | [Right Now](https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [American Sun](https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7) | 3:45 |
 | 56 | [Prey](https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:15 |
-| 57 | [Doomsday](https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:08 |
-| 58 | [Under and Over It](https://open.spotify.com/track/0xKFHPdmWipLYPG3zlPpr4) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM) | 3:38 |
-| 59 | [More Human Than Human](https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 4:28 |
-| 60 | [Unstoppable](https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Divisive](https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9) | 3:58 |
+| 57 | [Under and Over It](https://open.spotify.com/track/0xKFHPdmWipLYPG3zlPpr4) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM) | 3:38 |
+| 58 | [Doomsday](https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:08 |
+| 59 | [Unstoppable](https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Divisive](https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9) | 3:58 |
+| 60 | [More Human Than Human](https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 4:28 |
 | 61 | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:16 |
 | 62 | [Overkill](https://open.spotify.com/track/4XvvR8F6qOcnzgChO1uTIO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 5:13 |
 | 63 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 99 | [As Above, So Below](https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 4:09 |
 | 100 | [Moth Into Flame](https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 5:50 |
 
-Snapshot ID: `MCw3Y2VjMzJhNjQ5N2NjNDg4NzFiNDFhNWI0MzU2NTgzNTM2OTg5ZmI5`
+Snapshot ID: `MCw5OGMzYjg5YmI5ZjE0ZjI0MWU5NjQ5ZWU0YjI1NGEyYjk0N2RjZjU0`

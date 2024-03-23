@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 484068,
+  "2024-03-23": 484077,
   "date_first_scraped": "2022-04-20",
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
   "name": "Dalkom Cafe",
@@ -873,7 +873,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 187659,
       "name": "cocoa",
       "url": "https://open.spotify.com/track/4oNc2Dhe42VE7d9QAZtxYF"
@@ -1495,6 +1495,24 @@
       "duration_ms": 188293,
       "name": "Flu",
       "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
+    },
+    {
+      "album": {
+        "name": "Foggy",
+        "url": "https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153080,
+      "name": "Foggy",
+      "url": "https://open.spotify.com/track/3IEl9Hb4Wx1gtVF6op4LUc"
     },
     {
       "album": {
@@ -3147,7 +3165,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 233003,
       "name": "Maybe It\u2019s Not Our Fault",
       "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
@@ -3795,7 +3813,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 190846,
       "name": "Peach",
       "url": "https://open.spotify.com/track/3hbi6hayJ6OibzGe3fWLwf"
@@ -5372,6 +5390,24 @@
     },
     {
       "album": {
+        "name": "Wanna be my",
+        "url": "https://open.spotify.com/album/5m6JuppdsIQmydayDNDk4c"
+      },
+      "artists": [
+        {
+          "name": "LambC",
+          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187922,
+      "name": "Wanna be my",
+      "url": "https://open.spotify.com/track/2rXpdfLf7MJmFWU9eDK2tD"
+    },
+    {
+      "album": {
         "name": "We'll be alright",
         "url": "https://open.spotify.com/album/6lExoei5xbBYsuFuZFEuSa"
       },
@@ -5627,6 +5663,24 @@
       "duration_ms": 179306,
       "name": "with you (feat. g0nny)",
       "url": "https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP"
+    },
+    {
+      "album": {
+        "name": "HESITATING",
+        "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173946,
+      "name": "WITHOUT ME",
+      "url": "https://open.spotify.com/track/0w9YTapeo8WSqMnUFRM6fO"
     },
     {
       "album": {

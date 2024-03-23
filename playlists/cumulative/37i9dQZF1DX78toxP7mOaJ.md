@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Thank You, I'm Sorry
 
-1,350 songs - 3 day 1 hr 58 min
+1,351 songs - 3 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,6 +425,7 @@
 | [Family Tree](https://open.spotify.com/track/4YnfUZairwHwzRbIlmX1bk) | [King Shelter](https://open.spotify.com/artist/2wzc9c6rclNEtMBAkg3FEN) | [Damascus](https://open.spotify.com/album/04XDgGMWOsWO87eGGxdJjL) | 2:32 | 2024-01-31 |  |
 | [FASHION GIRL](https://open.spotify.com/track/6iA2jnO8MyT31lDgWg89Jx) | [Fake Dad](https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk) | [FASHION GIRL](https://open.spotify.com/album/1sQjRuK7w7NT6ufXwO4QGf) | 2:42 | 2023-04-19 | 2024-01-11 |
 | [Fast Car](https://open.spotify.com/track/7yznPSbSDeADWUIwaPfeUl) | [Malice K](https://open.spotify.com/artist/02teRYFHjIArrcuL5TkxmI) | [Fast Car](https://open.spotify.com/album/0TCWxTvZ7ByrG4qNHTzB9s) | 2:09 | 2022-08-24 | 2022-09-29 |
+| [Fat Vampire](https://open.spotify.com/track/4I0JFzDSny3aMdYVrrBn96) | [Dan Spencer](https://open.spotify.com/artist/4nZhCPagwfGtHV2tASZkpU) | [Fat Vampire](https://open.spotify.com/album/3deVOIFMJP9sQGnfsDkd0l) | 3:41 | 2024-03-22 |  |
 | [Fear of Being Fixed](https://open.spotify.com/track/0rw6KnCCMQbrgWHzf4TSIZ) | [Cloakroom](https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj) | [Fear of Being Fixed](https://open.spotify.com/album/4XcOTUDsMrzuf5vhRolP8B) | 3:45 | 2022-01-19 | 2022-04-28 |
 | [Fear of Being Fixed](https://open.spotify.com/track/1sKiJW6VtkmGXl77rum2yO) | [Cloakroom](https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj) | [Dissolution Wave](https://open.spotify.com/album/0XABQZMWdLKgGfpFcsmBjR) | 3:45 | 2022-11-30 | 2023-01-12 |
 | [Feel It Now](https://open.spotify.com/track/0pwAnKBvP6xol5K4MlTc3w) | [Jacky Boy](https://open.spotify.com/artist/0RS9XoenYruXTronG5nC97) | [Mush](https://open.spotify.com/album/4pVgqQJpIxnibQ3RJJBHQ6) | 2:49 | 2022-05-11 | 2022-07-21 |

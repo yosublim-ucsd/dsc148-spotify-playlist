@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 59438,
+  "num_followers": 59452,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzEyNTUwYjRiYWVkNWNkN2U4MWM0ZGUwOWQ2MjIzOGZmYjJkYmIw",
+  "snapshot_id": "MCxiODQ5OTY2YWYwZDE4NGQwMDMwYzBkNWNjMjViZTgwMDQzNDZiZDAw",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -57,22 +57,6 @@
       "url": "https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht"
     },
     {
-      "added_at": "2022-01-11 02:50:37",
-      "album": {
-        "name": "Con Sabor a M\u00e9xico",
-        "url": "https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6"
-      },
-      "artists": [
-        {
-          "name": "Big Band Jazz de M\u00e9xico",
-          "url": "https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c"
-        }
-      ],
-      "duration_ms": 271053,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
-    },
-    {
       "added_at": "2023-04-12 01:24:34",
       "album": {
         "name": "El Patio",
@@ -87,6 +71,22 @@
       "duration_ms": 260000,
       "name": "Cumbiero",
       "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
+    },
+    {
+      "added_at": "2022-01-11 02:50:37",
+      "album": {
+        "name": "Con Sabor a M\u00e9xico",
+        "url": "https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6"
+      },
+      "artists": [
+        {
+          "name": "Big Band Jazz de M\u00e9xico",
+          "url": "https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c"
+        }
+      ],
+      "duration_ms": 271053,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -587,6 +587,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Las Puntadas de Ernesto Riesta",
+        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Riestra Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "No Se que Pasa Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Paisaje Gris",
         "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 259133,
       "name": "Paisaje Gris",
       "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Las Puntadas de Ernesto Riesta",
-        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Riestra Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "No Se que Pasa Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
       "added_at": "2022-08-16 16:23:25",
@@ -639,6 +639,22 @@
       "duration_ms": 403365,
       "name": "Era La Luz De Abril",
       "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 175776,
+      "name": "Your Voice",
+      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -667,18 +683,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+        "name": "Ventana espacial",
+        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
       },
       "artists": [
         {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+          "name": "Filip y Woppe",
+          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
         }
       ],
-      "duration_ms": 175776,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
+      "duration_ms": 254720,
+      "name": "Ventana espacial",
+      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -695,22 +711,6 @@
       "duration_ms": 266866,
       "name": "La Cocola",
       "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Ventana espacial",
-        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
-      },
-      "artists": [
-        {
-          "name": "Filip y Woppe",
-          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
-        }
-      ],
-      "duration_ms": 254720,
-      "name": "Ventana espacial",
-      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "KonFussion",
-        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
-      },
-      "artists": [
-        {
-          "name": "Lalo Galv\u00e1n",
-          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
-        }
-      ],
-      "duration_ms": 304213,
-      "name": "Nada Es Para Siempre",
-      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Electratoaster - EP",
         "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 257004,
       "name": "Dana (Cha-Cha-Shag)",
       "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "KonFussion",
+        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
+      },
+      "artists": [
+        {
+          "name": "Lalo Galv\u00e1n",
+          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
+        }
+      ],
+      "duration_ms": 304213,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
     },
     {
       "added_at": "2021-07-28 16:44:28",

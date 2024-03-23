@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-863 songs - 2 day 4 hr 24 min
+864 songs - 2 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Dark Space](https://open.spotify.com/track/6rhOHHZEI2HYeX0ITWyKsg) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Dark Space](https://open.spotify.com/album/0bDnGw5zMrfCED5vtPGcWB) | 3:32 | 2024-02-16 |  |
 | [Darker Days](https://open.spotify.com/track/6nLRlcRKSTYzcGzCZyZVuI) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [Darker Days](https://open.spotify.com/album/0VwKfzQt7vMGJUhADRyUye) | 2:57 | 2023-07-07 | 2023-12-09 |
 | [Darkstate \(A Dreamstate Anthem\)](https://open.spotify.com/track/6UOw9DxwNWBVpbuYshKzIl) | [Joint Operations Centre](https://open.spotify.com/artist/1yBLCDLlLunLE5pBDt2da7) | [Darkstate \(A Dreamstate Anthem\)](https://open.spotify.com/album/4fV05qypGMoHz5BR0FMXkt) | 3:23 | 2023-04-07 | 2023-06-10 |
-| [Dawn](https://open.spotify.com/track/4OkpB4tHyv7YmkOyiRGYij) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb) | [Dawn](https://open.spotify.com/album/4NnWjmwfrlQluFAwql0euW) | 3:57 | 2023-07-21 |  |
+| [Dawn](https://open.spotify.com/track/4OkpB4tHyv7YmkOyiRGYij) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb) | [Dawn](https://open.spotify.com/album/4NnWjmwfrlQluFAwql0euW) | 3:57 | 2023-07-21 | 2024-03-23 |
 | [Deceiver](https://open.spotify.com/track/0i9bVXTlNguVWgseEFhCsB) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Deceiver](https://open.spotify.com/album/3dk6hdeNu9qUKY0cXJlVpq) | 3:31 | 2024-03-15 |  |
 | [Defector](https://open.spotify.com/track/1qVD7zeYA21VPi6agPRAlv) | [Will Rees](https://open.spotify.com/artist/1dlEz2w0VlP9NSzM6YA1Cm), [Rhys Elliott](https://open.spotify.com/artist/0ejSFSeeaw2uQYdL8enRmd) | [Defector](https://open.spotify.com/album/3rHa5xUSY4yxNCjgceAVnn) | 3:46 | 2024-02-16 | 2024-02-27 |
 | [Deja Vu](https://open.spotify.com/track/4hpCaW3UntoXmsgTbl5FVV) | [Tensteps](https://open.spotify.com/artist/7gIEIIwEUPxZmScP2JCkPU), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Deja Vu](https://open.spotify.com/album/5rF0AAKnkVnlYaAYXF0eng) | 3:46 | 2023-06-09 | 2024-03-22 |
@@ -370,6 +370,7 @@
 | [Immortal \- Ruben de Ronde presents NRG2000 Remix](https://open.spotify.com/track/7mhcjFlNIev8Sf7LxV7Ke8) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m) | [Immortal \(Ruben de Ronde presents NRG2000 Remix\)](https://open.spotify.com/album/3K6B4Gzpm3YiJ46iBy4uhP) | 4:25 | 2024-02-16 |  |
 | [Impulse](https://open.spotify.com/track/6PZIukWau8YFLsFZBGwtLG) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Davey Asprey](https://open.spotify.com/artist/7luLRXGBygBN8vUO8T9uHf) | [Impulse](https://open.spotify.com/album/30AIk2MTgPKiQbFFmrcaK6) | 3:47 | 2021-12-17 | 2022-01-08 |
 | [Impulse Barrier](https://open.spotify.com/track/0MOhdjgbXWj2K8k86myH6l) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb) | [Impulse Barrier](https://open.spotify.com/album/7n7LYhKKBuI0uTeXNvXxFS) | 3:30 | 2023-04-07 | 2024-02-17 |
+| [In My Mind](https://open.spotify.com/track/68CdFrdUAV9PssCcdw8osM) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [In My Mind](https://open.spotify.com/album/1Qto7lizycldyzI0jvi0qE) | 3:09 | 2024-03-22 |  |
 | [In Our Memories](https://open.spotify.com/track/3VpQWglejczAMkxS5vUXw1) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [In Our Memories](https://open.spotify.com/album/4sTjGn7C27eWjMd8q2YpSC) | 3:28 | 2022-05-27 | 2022-08-27 |
 | [In Silence](https://open.spotify.com/track/1bokCdLRWPmwH2vOclyHF2) | [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss), [That Girl](https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh) | [In Silence](https://open.spotify.com/album/2x8WVUXRUWoFtyKt0DQhQR) | 3:19 | 2022-05-20 | 2023-07-08 |
 | [In The End \- Photographer Remix](https://open.spotify.com/track/13JYeTnxWhXJcwjogYSraT) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Photographer](https://open.spotify.com/artist/073AaGdfoT7IzCpOgmKkql) | [In The End \(Photographer Remix\)](https://open.spotify.com/album/4xBW2XjIbpEaFKKe28iQG6) | 3:29 | 2022-08-26 |  |

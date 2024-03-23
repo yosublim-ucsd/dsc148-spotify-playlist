@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 
 > This is Zach Bryan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,052 likes - 46 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,627 likes - 46 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 | 11 | [From Austin](https://open.spotify.com/track/6k07Z7rd9og1FvRJD2n9E8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:27 |
 | 12 | [Nine Ball](https://open.spotify.com/track/3xOi0YhDREKRURFHoNaAOQ) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Boys Of Faith](https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY) | 2:49 |
 | 13 | [Spotless \(feat\. The Lumineers\)](https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 2:49 |
-| 14 | [Condemned](https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:54 |
-| 15 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 |
+| 14 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 |
+| 15 | [Condemned](https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:54 |
 | 16 | [Motorcycle Drive By](https://open.spotify.com/track/2HbpYFQbairMoU2YFyOP2x) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 2:41 |
 | 17 | [East Side of Sorrow](https://open.spotify.com/track/00syWkRGIVQvYsg2OwfBUw) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:29 |
 | 18 | [The Good I'll Do](https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:31 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 | 28 | [Crooked Teeth](https://open.spotify.com/track/0Is8zshpnWUiFQJIYAMrQN) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:17 |
 | 29 | [All the Time](https://open.spotify.com/track/1ldUPmqrCvk6thNYe0oUen) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:19 |
 | 30 | [Loom](https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 2:43 |
-| 31 | [Letting Someone Go](https://open.spotify.com/track/6Wxx1jXr6EyGdt8RuYFzvj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 3:59 |
+| 31 | [Open the Gate](https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:54 |
 | 32 | [November Air](https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 4:03 |
-| 33 | [Open the Gate](https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:54 |
+| 33 | [Letting Someone Go](https://open.spotify.com/track/6Wxx1jXr6EyGdt8RuYFzvj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 3:59 |
 | 34 | [Summertime Blues](https://open.spotify.com/track/0qoSVsQJOTINFkkux2lbJj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/5k7tvONUJjP2aTxI6BBCo0) | 3:01 |
 | 35 | [Us Then](https://open.spotify.com/track/6K155OgCAeWxx4Be2kHkym) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 2:46 |
 | 36 | [Traveling Man](https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:17 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 | 45 | [The Greatest Day of My Life](https://open.spotify.com/track/2leovgVrJjIhnm85tKTemI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Greatest Day of My Life](https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7) | 3:58 |
 | 46 | [Washington Lilacs](https://open.spotify.com/track/1w17Cv2Q2cbyoN8HZrX4Da) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 2:47 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA4N2ExOTE2M2FhNjQyYTA0OTM2YjE0NDJmYTBkMmIwOQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDAyN2U2OTM4NTMxODFjY2RmODQzOTYxMjU5ODgxYTRkNg==`

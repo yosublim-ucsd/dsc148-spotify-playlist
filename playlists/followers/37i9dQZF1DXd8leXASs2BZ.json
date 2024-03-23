@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 2132,
+  "2024-03-23": 2136,
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Tim Pepperoni",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: SugLawd Familiar",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -97,7 +97,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 109750,
       "name": "12even9e",
       "url": "https://open.spotify.com/track/644B9tJ7kKZHrkel5DXHos"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 144033,
       "name": "2am in Tokyo",
       "url": "https://open.spotify.com/track/1rjNWXWLPdxYcY7oFnfOlU"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 131351,
       "name": "9",
       "url": "https://open.spotify.com/track/6pY42vhU4JWOkBTJvpndrY"
@@ -1128,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "chouhachi",
+        "url": "https://open.spotify.com/album/73mudsrUDLRUiaRJ0gp9sm"
+      },
+      "artists": [
+        {
+          "name": "DAB",
+          "url": "https://open.spotify.com/artist/3yYumedujiQlRToKP478wS"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201538,
+      "name": "chouhachi",
+      "url": "https://open.spotify.com/track/7HHO3TQv4CKNVa4Vxg2M6i"
+    },
+    {
+      "album": {
         "name": "CLOVER",
         "url": "https://open.spotify.com/album/1AKbPWDyGF2nTwVWuOsz7D"
       },
@@ -1183,6 +1201,24 @@
       "duration_ms": 166613,
       "name": "Combo",
       "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
+    },
+    {
+      "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/3jBzXZ0H7dgK9NA7GCgWUe"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/26Ea1ELPf9Lhe7qZnwfilu"
     },
     {
       "album": {
@@ -1373,7 +1409,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 236250,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/3RMlPlFIBtplMhm1r3Yp5z"
@@ -1515,6 +1551,24 @@
       "duration_ms": 220333,
       "name": "DIFFICULT",
       "url": "https://open.spotify.com/track/6RbrF27Pe3oHVt0tC7cIwD"
+    },
+    {
+      "album": {
+        "name": "DODEMOIIKAMONE",
+        "url": "https://open.spotify.com/album/2Bbm3SNEqnrEH9e5bEYPoz"
+      },
+      "artists": [
+        {
+          "name": "J.Peter",
+          "url": "https://open.spotify.com/artist/0bARf1n7M10zgVaZiyLqCg"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118886,
+      "name": "DODEMOIIKAMONE",
+      "url": "https://open.spotify.com/track/7vrlWt8YlNoBkhGy1Ej1aG"
     },
     {
       "album": {
@@ -1697,7 +1751,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 185814,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0kY2FmM0YhYMUDXA7VD3H4"
@@ -3316,6 +3370,24 @@
     },
     {
       "album": {
+        "name": "Karate",
+        "url": "https://open.spotify.com/album/7djQ0wgXOnhbVPvmzCeKbH"
+      },
+      "artists": [
+        {
+          "name": "Sh0ta",
+          "url": "https://open.spotify.com/artist/0DPwzajAlCTDhhq1jgNcW2"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128013,
+      "name": "Karate",
+      "url": "https://open.spotify.com/track/5WVG5gcr3IYucGjTAJtKp9"
+    },
+    {
+      "album": {
         "name": "Kick Back",
         "url": "https://open.spotify.com/album/3YHQqscL7SIyD8N6NiPtTR"
       },
@@ -3848,6 +3920,36 @@
     },
     {
       "album": {
+        "name": "DAY TIME SNACK",
+        "url": "https://open.spotify.com/album/0puKoRo0S118LVlME7ELtp"
+      },
+      "artists": [
+        {
+          "name": "SugLawd Familiar",
+          "url": "https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4"
+        },
+        {
+          "name": "OHZKEY",
+          "url": "https://open.spotify.com/artist/71j3AMPO4zOfdTMc7Blt5j"
+        },
+        {
+          "name": "Oichi",
+          "url": "https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn"
+        },
+        {
+          "name": "castermild",
+          "url": "https://open.spotify.com/artist/6gNIKY01gcqrLVU26YJ4RX"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181436,
+      "name": "Natural Buzz",
+      "url": "https://open.spotify.com/track/19fy3JDujAYlCL0f0LZUHx"
+    },
+    {
+      "album": {
         "name": "NERI CHAGI",
         "url": "https://open.spotify.com/album/0p7ELsDN4BVx16x0qJshCa"
       },
@@ -3863,6 +3965,28 @@
       "duration_ms": 162107,
       "name": "NERI CHAGI",
       "url": "https://open.spotify.com/track/7MEtFiQy6Y4uwSLRDlgbHz"
+    },
+    {
+      "album": {
+        "name": "never let you down",
+        "url": "https://open.spotify.com/album/6OMpDXmH3pdPnm8XYxG6fJ"
+      },
+      "artists": [
+        {
+          "name": "SOTAROBEATS",
+          "url": "https://open.spotify.com/artist/30MIhh1YjWvnWwlTbwNYrR"
+        },
+        {
+          "name": "\u9d09 a.k.a jungo",
+          "url": "https://open.spotify.com/artist/151mgEIscBcxtyEebxwSCB"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150337,
+      "name": "never let you down",
+      "url": "https://open.spotify.com/track/4X449OjkeVnRmjOQqAg8Rj"
     },
     {
       "album": {
@@ -3921,6 +4045,32 @@
       "duration_ms": 133500,
       "name": "New",
       "url": "https://open.spotify.com/track/7yn7n43wCQbbZnTsaQ1IqM"
+    },
+    {
+      "album": {
+        "name": "Street Kid",
+        "url": "https://open.spotify.com/album/0lDNVwHtUoRaXmPVcaLS8S"
+      },
+      "artists": [
+        {
+          "name": "KID PENSEUR",
+          "url": "https://open.spotify.com/artist/68ea2WqkkypaKoakuoNbbl"
+        },
+        {
+          "name": "ENDRUN",
+          "url": "https://open.spotify.com/artist/0d0Ll49cYpsaCgid3yk2NM"
+        },
+        {
+          "name": "Scratch Nice",
+          "url": "https://open.spotify.com/artist/1AqaahlT9TiKeNaXosRjEi"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134538,
+      "name": "NEW ME",
+      "url": "https://open.spotify.com/track/0d8Y7Cxu1qo9HqJhRFW4M8"
     },
     {
       "album": {
@@ -4015,7 +4165,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 208211,
       "name": "No suit",
       "url": "https://open.spotify.com/track/7KB3HPtFqiB5mp0LijKbZ6"
@@ -4327,7 +4477,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 204003,
       "name": "Pop it",
       "url": "https://open.spotify.com/track/5ut4vYok16PKYqnlE0wFpH"
@@ -4349,7 +4499,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 188764,
       "name": "Pray For Love Hood",
       "url": "https://open.spotify.com/track/2A0ZTQ1mWESJcAKd3hjdRM"
@@ -5108,6 +5258,28 @@
     },
     {
       "album": {
+        "name": "Local Life",
+        "url": "https://open.spotify.com/album/5QReLSHX2gBdrMnVztz7f4"
+      },
+      "artists": [
+        {
+          "name": "Nero",
+          "url": "https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA"
+        },
+        {
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135905,
+      "name": "Succes",
+      "url": "https://open.spotify.com/track/47lGTqSRbIXJuVzFPfl5Sd"
+    },
+    {
+      "album": {
         "name": "summer clouds",
         "url": "https://open.spotify.com/album/1DUFIDCjQcAxPV2dYTkHdy"
       },
@@ -5185,7 +5357,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 234216,
       "name": "SWEETHEART - Remix",
       "url": "https://open.spotify.com/track/2v6dPfhHXG8m1Vu9Cfq7co"
@@ -5603,7 +5775,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 162770,
       "name": "wave on surface",
       "url": "https://open.spotify.com/track/3ZRy2T77ByUPf5zA268NzE"
@@ -5629,6 +5801,24 @@
       "duration_ms": 172045,
       "name": "Way Good",
       "url": "https://open.spotify.com/track/4QZXsa3ZYi9ZONvkDHubhR"
+    },
+    {
+      "album": {
+        "name": "Way of Life",
+        "url": "https://open.spotify.com/album/3E1ZDuzDoOieYQkPmJYsYa"
+      },
+      "artists": [
+        {
+          "name": "5Leaf",
+          "url": "https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168052,
+      "name": "Way of Life",
+      "url": "https://open.spotify.com/track/5kIDCHC8IwPN87RvMDclh9"
     },
     {
       "album": {
@@ -5857,6 +6047,32 @@
       "duration_ms": 147272,
       "name": "yeah is back",
       "url": "https://open.spotify.com/track/13Alm5RZKSXFiBonAuov4T"
+    },
+    {
+      "album": {
+        "name": "Yellow Connection",
+        "url": "https://open.spotify.com/album/1uGqwHbPzqBGIBXAQP4JFw"
+      },
+      "artists": [
+        {
+          "name": "Godzilla East",
+          "url": "https://open.spotify.com/artist/4u8gYY3ubYwelf5UbzqZg5"
+        },
+        {
+          "name": "18stop",
+          "url": "https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF"
+        },
+        {
+          "name": "P-free",
+          "url": "https://open.spotify.com/artist/35RnWgsErQjC9JlajX82Pl"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Yellow Connection",
+      "url": "https://open.spotify.com/track/3eOqiUCnpJTO3fbuzoJRwy"
     },
     {
       "album": {

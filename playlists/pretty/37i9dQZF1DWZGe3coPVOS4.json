@@ -1,13 +1,29 @@
 {
   "description": "The perfect family party playlist - jam packed with all your favorite KIDZ BOP hits.",
-  "num_followers": 8924,
+  "num_followers": 8937,
   "original_name": "Kidz Bop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWU3ZTYyYTQyNGM4NzA0MjYzYTFiZWU2ODVhM2RkZDIxNmEwNWVl",
+  "snapshot_id": "MCwzN2E2MjY5YTU3YmM3NjYzNjdkNTcxZjdkOWZkNmFiNzc4YTE2NWU5",
   "tracks": [
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/1Tu30xev5rUpBZnFuKV4rR"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 194581,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/2ExRKRMFnX4rsGxZSeJ4sD"
+    },
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {

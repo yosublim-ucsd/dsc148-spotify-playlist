@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 446312,
+  "num_followers": 446468,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmQ1NTZiMDZjY2VlMTQ4MjJkNTQwY2U2YjkwOGYyZDNlYmM4OTEx",
+  "snapshot_id": "MCxlMTI1YmYzYmQ5ZjNiNGUxZTdiZTczOWQ4YjIyYzU1YmEyMDVlNTU1",
   "tracks": [
     {
       "added_at": "2023-09-25 02:25:33",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7"
     },
     {
-      "added_at": "2023-06-07 16:02:09",
-      "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
-      },
-      "artists": [
-        {
-          "name": "Konyikeh",
-          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
-        }
-      ],
-      "duration_ms": 140898,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Morning Matters",
@@ -659,6 +643,22 @@
       "duration_ms": 236093,
       "name": "Own Your Own",
       "url": "https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc"
+    },
+    {
+      "added_at": "2023-06-07 16:02:09",
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "duration_ms": 140898,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
     },
     {
       "added_at": "2022-04-18 03:39:12",
@@ -693,38 +693,6 @@
       "url": "https://open.spotify.com/track/55SbTToiQ8JTe524EeIn8b"
     },
     {
-      "added_at": "2023-12-20 03:34:06",
-      "album": {
-        "name": "Loveher",
-        "url": "https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Loveher",
-      "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216094,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
-    },
-    {
       "added_at": "2022-09-03 03:24:16",
       "album": {
         "name": "Continua",
@@ -743,6 +711,38 @@
       "duration_ms": 211845,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216094,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
+    },
+    {
+      "added_at": "2023-12-20 03:34:06",
+      "album": {
+        "name": "Loveher",
+        "url": "https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "Loveher",
+      "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1141,6 +1141,26 @@
       "url": "https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k"
     },
     {
+      "added_at": "2023-06-02 02:31:02",
+      "album": {
+        "name": "You Knew",
+        "url": "https://open.spotify.com/album/26QAdfI4TGJ3eyOoDfs4sS"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/77v3whD60OC0g4RePlHDhT"
+    },
+    {
       "added_at": "2023-02-21 02:56:05",
       "album": {
         "name": "Phosphorescent",
@@ -1219,26 +1239,6 @@
       "duration_ms": 228694,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o"
-    },
-    {
-      "added_at": "2023-06-02 02:31:02",
-      "album": {
-        "name": "You Knew",
-        "url": "https://open.spotify.com/album/26QAdfI4TGJ3eyOoDfs4sS"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 271112,
-      "name": "CooCool",
-      "url": "https://open.spotify.com/track/77v3whD60OC0g4RePlHDhT"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1569,22 +1569,6 @@
       "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
     },
     {
-      "added_at": "2023-12-20 03:28:07",
-      "album": {
-        "name": "If You Could See Me Now",
-        "url": "https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0"
-      },
-      "artists": [
-        {
-          "name": "Quinn Oulton",
-          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
-        }
-      ],
-      "duration_ms": 161229,
-      "name": "If You Could See Me Now",
-      "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Thoughts",
@@ -1599,6 +1583,22 @@
       "duration_ms": 204000,
       "name": "Thought 8",
       "url": "https://open.spotify.com/track/7M02C2rl10InLDWaopNJcO"
+    },
+    {
+      "added_at": "2023-12-20 03:28:07",
+      "album": {
+        "name": "If You Could See Me Now",
+        "url": "https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0"
+      },
+      "artists": [
+        {
+          "name": "Quinn Oulton",
+          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
+        }
+      ],
+      "duration_ms": 161229,
+      "name": "If You Could See Me Now",
+      "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
     },
     {
       "added_at": "2021-10-15 03:01:31",

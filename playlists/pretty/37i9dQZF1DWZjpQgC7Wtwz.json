@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hay tamales! \u00a1Tamales calientitos! Verdes, rojos, de dulce, de mole, \u00a1y hasta oaxaque\u00f1os!",
-  "num_followers": 86554,
+  "num_followers": 86590,
   "original_name": "La Tamalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDBkZWVkZjdmMjBmNjEzZjNkODkxMzZhY2UyZjVhN2EyZTllOGM4",
+  "snapshot_id": "MCw1YjhlYWRjYzg3MWI5NjVjMzExYTkwMDBhZmQ5ZmJhNjZlZjdhYWM1",
   "tracks": [
     {
       "added_at": "2023-11-10 17:55:41",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
+        "name": "Por Las Damas",
+        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Belleza De Cantina",
+      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Por Las Damas",
-        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Belleza De Cantina",
-      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "Canci\u00f3n Animal (Remastered)",
         "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Visperas De Carnaval",
-        "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
-      },
-      "artists": [
-        {
-          "name": "La Mosca Tse-Tse",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "Sue\u00f1o Y Realidad",
         "url": "https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 177040,
       "name": "Piensa En M\u00ed",
       "url": "https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Visperas De Carnaval",
+        "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
+      },
+      "artists": [
+        {
+          "name": "La Mosca Tse-Tse",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Al Derecho Y Al Reverso",
-        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
       },
       "artists": [
         {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 173586,
-      "name": "Eres Ese Algo",
-      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
+      "duration_ms": 190533,
+      "name": "\u00bfY Todo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Ll\u00e9vame Contigo",
-        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
         }
       ],
-      "duration_ms": 190533,
-      "name": "\u00bfY Todo Para Qu\u00e9?",
-      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Ojos Marrones",
-        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
         "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 226346,
       "name": "Tus Jefes No Me Quieren",
       "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+        "name": "El Primer Instinto",
+        "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Jaguares",
+          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
         }
       ],
-      "duration_ms": 212776,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+      "duration_ms": 206133,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "El Primer Instinto",
-        "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
       "artists": [
         {
-          "name": "Jaguares",
-          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 206133,
-      "name": "Te Lo Pido por Favor",
-      "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "El baile y el sal\u00f3n",
-      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "Ch\u00fantaros Radio Poder",
         "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 197280,
       "name": "El Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "El baile y el sal\u00f3n",
+      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "El Baile de San Juan",
-        "url": "https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Chomba",
-          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
-        }
-      ],
-      "duration_ms": 254375,
-      "name": "El Baile de San Juan",
-      "url": "https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "Por Encima de Todos",
         "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
       },
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+        "name": "El Baile de San Juan",
+        "url": "https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Grupo La Chomba",
+          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
         }
       ],
-      "duration_ms": 212066,
-      "name": "Chilanga banda",
-      "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
+      "duration_ms": 254375,
+      "name": "El Baile de San Juan",
+      "url": "https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -1783,6 +1767,22 @@
       "duration_ms": 256359,
       "name": "Sue\u00f1a",
       "url": "https://open.spotify.com/track/4yGH1izgbWxMYIEu8EVH9x"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Chilanga banda",
+      "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "La culebra",
-      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "Sue\u00f1os de Anoche",
         "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 237666,
       "name": "La Herida",
       "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "La culebra",
+      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
     },
     {
       "added_at": "2023-11-10 17:55:41",

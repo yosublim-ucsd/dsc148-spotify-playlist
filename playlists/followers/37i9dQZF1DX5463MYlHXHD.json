@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 569084,
+  "2024-03-23": 569127,
   "date_first_scraped": "2023-05-28",
   "description": "Cumbia pa' volar la chapa con Los Pibes Chorros.",
   "name": "Cumbia de Barrio",
@@ -657,7 +657,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 215640,
       "name": "Carta A Un Amigo",
       "url": "https://open.spotify.com/track/4ddL0CTugJEPHOyxOc7K02"
@@ -2591,7 +2591,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 134240,
       "name": "Lo' Borrachos",
       "url": "https://open.spotify.com/track/6tmAF5lerIPsnbseSvG44j"

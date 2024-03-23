@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,720 likes - 312 songs - 19 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,722 likes - 312 songs - 19 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 130 | [Welcome to the Wonderful World of \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/2mMQFumTaHcwMZsiNE57Um) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 1:56 |
 | 131 | [Freeze You Out](https://open.spotify.com/track/36FL3mxfAupY7iA8b6K9BS) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Fearless](https://open.spotify.com/album/4JSxcVM4fUnaluGVtKRBo7) | 4:07 |
 | 132 | [My Old Santa Claus](https://open.spotify.com/track/3lhTIJepO4zHFK7sllezGz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:24 |
-| 133 | [Voodoo](https://open.spotify.com/track/135SEcW19xWXM3WghwdUBa) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Last Year Was Complicated](https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna) | 3:10 |
-| 134 | [Dance Alone](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Dance Alone](https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw) | 2:52 |
+| 133 | [Dance Alone](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Dance Alone](https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw) | 2:52 |
+| 134 | [Voodoo](https://open.spotify.com/track/135SEcW19xWXM3WghwdUBa) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Last Year Was Complicated](https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna) | 3:10 |
 | 135 | [Battlefield](https://open.spotify.com/track/1zV93NN3k0QWSi4EmvDmAa) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 4:18 |
 | 136 | [Running To The Edge Of The World](https://open.spotify.com/track/4ap6nHIEnGcl6tkYku3fRx) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The High End of Low \(International Version\)](https://open.spotify.com/album/2Ko8Fi9kR8iiuzygvqDXER) | 6:25 |
 | 137 | [Bring Night](https://open.spotify.com/track/1gni0TfcnJB5Wn3VZnTuet) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 2:57 |
@@ -191,8 +191,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 181 | [Brightest Morning Star](https://open.spotify.com/track/7MXf5oS9bilbC70ii9YWbf) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 2:59 |
 | 182 | [Moonquake Lake](https://open.spotify.com/track/5k6nO1xvzgfktS4Ay9iQrC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 2:53 |
 | 183 | [Miracle](https://open.spotify.com/track/0eMtK0mVNQZtHKXYH2axiS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:18 |
-| 184 | [Big Girl Little Girl](https://open.spotify.com/track/4W2t7IWugHayILQdV3FLun) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 4:18 |
-| 185 | [You're My Flame](https://open.spotify.com/track/0TcD1Vrb1DKMLp25uHVUFR) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/5eqHucyy09GuijWam8RAja) | 3:19 |
+| 184 | [You're My Flame](https://open.spotify.com/track/0TcD1Vrb1DKMLp25uHVUFR) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/5eqHucyy09GuijWam8RAja) | 3:19 |
+| 185 | [Big Girl Little Girl](https://open.spotify.com/track/4W2t7IWugHayILQdV3FLun) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 4:18 |
 | 186 | [Beautiful Calm Driving](https://open.spotify.com/track/3vn3tYZAJ3h95G9JSsKJv9) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 5:02 |
 | 187 | [You're Mine](https://open.spotify.com/track/3wfiYtFeCtlijiqmTIlBFQ) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 3:38 |
 | 188 | [I Am](https://open.spotify.com/track/3kCNhgO03URvgUqVtv2z8C) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 3:52 |
@@ -321,4 +321,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 311 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 312 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `Mjg1MTc4OTAsMDAwMDAwMDA4MzY2ZjQ0MzE4OTY2OTk4YmU5MzkzODkwZjcxOTRiYQ==`
+Snapshot ID: `Mjg1MTkzMzAsMDAwMDAwMDA3MTdlMjNkYTVhYmEzZjYzMzhjMjNkYzI1NWE0YWY5OQ==`

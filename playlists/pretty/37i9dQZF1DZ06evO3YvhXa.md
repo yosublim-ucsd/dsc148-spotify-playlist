@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 
 > This is Jamiroquai\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,893 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,006 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 | 30 | [Emergency on Planet Earth](https://open.spotify.com/track/0mmI8HaXjgzxrtKDmvAN7R) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 4:05 |
 | 31 | [Blue Skies](https://open.spotify.com/track/7AJYzLJSLtJzic79quUS0j) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star \(Deluxe Version\)](https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F) | 3:51 |
 | 32 | [Automaton](https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Automaton](https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0) | 4:47 |
-| 33 | [Hot Tequila Brown](https://open.spotify.com/track/5RCqpfWW51P98Ljj1NoK8Q) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 4:38 |
-| 34 | [Runaway \- Remastered 2006](https://open.spotify.com/track/3xfn5sOME92iUfASWC2vNJ) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:46 |
+| 33 | [Runaway \- Remastered 2006](https://open.spotify.com/track/3xfn5sOME92iUfASWC2vNJ) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:46 |
+| 34 | [Hot Tequila Brown](https://open.spotify.com/track/5RCqpfWW51P98Ljj1NoK8Q) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 4:38 |
 | 35 | [Stillness in Time](https://open.spotify.com/track/704D4dPfn1ubgJ1UHXwg3Q) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 4:16 |
 | 36 | [Something About You](https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Automaton](https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0) | 3:58 |
-| 37 | [Dynamite](https://open.spotify.com/track/4LkJXlCD9AYjScPywhUjZs) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 4:55 |
-| 38 | [If I Like It, I Do It](https://open.spotify.com/track/6DpVRGSelmlUqjOaXrlS3N) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 4:52 |
+| 37 | [If I Like It, I Do It](https://open.spotify.com/track/6DpVRGSelmlUqjOaXrlS3N) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 4:52 |
+| 38 | [Dynamite](https://open.spotify.com/track/4LkJXlCD9AYjScPywhUjZs) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 4:55 |
 | 39 | [Smoke and Mirrors](https://open.spotify.com/track/1JKh2bRSYxx04pBEmFM6Bt) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star \(Deluxe Version\)](https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F) | 4:29 |
 | 40 | [Hot Property](https://open.spotify.com/track/4OcTu05fjO7mRBmfCL1nZd) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Automaton](https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0) | 4:31 |
 | 41 | [King for a Day](https://open.spotify.com/track/4klPQOLiUPgwZ3YIWgGJrK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 | 49 | [Black Capricorn Day](https://open.spotify.com/track/26sQR1K5m5RGThDKXzlY8R) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 5:41 |
 | 50 | [Morning Glory](https://open.spotify.com/track/4YBs74uWL6J9zpmaFL9LXt) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 6:23 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBmOGE5N2I4Nzk0MWE3M2I3ZTI2Y2I3Y2NkYTQzNDA3ZA==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBmMDM0NTIwMTgzYzg1ZmMzOGQyZDFhODcwMTkxMTdiNw==`

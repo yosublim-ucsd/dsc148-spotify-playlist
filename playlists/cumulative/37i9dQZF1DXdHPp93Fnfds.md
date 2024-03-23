@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-574 songs - 1 day 8 hr 38 min
+575 songs - 1 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 | 2023-08-18 |  |
 | [Emotion](https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Emotion](https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx) | 3:53 | 2022-07-15 | 2023-06-10 |
 | [Emotion \(Acoustic\)](https://open.spotify.com/track/5autpDsh1H9Ltf5bNztuA2) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Emotion \(Acoustic\)](https://open.spotify.com/album/6L1MryypRIVPUz3GFtXTRK) | 3:53 | 2022-01-21 | 2022-07-29 |
+| [Enamorada](https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Enamorada](https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE) | 2:32 | 2024-03-22 |  |
 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 | 2023-01-20 |  |
 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 | 2023-05-26 |  |
 | [Epílogo](https://open.spotify.com/track/1COy4sP7HV9ZlhLfLivteT) | [Lu Migues](https://open.spotify.com/artist/5oS8ftA51C5T5NQdklMkaQ) | [Epílogo](https://open.spotify.com/album/678zM7tKJm5ah74DeDI1KG) | 2:41 | 2022-04-01 | 2022-04-18 |
@@ -515,7 +516,7 @@
 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2022-01-21 | 2023-06-10 |
 | [Te Traigo Flores](https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Te Traigo Flores](https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7) | 3:51 | 2022-01-21 | 2022-07-27 |
 | [te vas a lamentar :'\(](https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [Nan Que](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [te vas a lamentar :'\(](https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8) | 3:09 | 2023-09-22 |  |
-| [Te Vi](https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Te Vi](https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp) | 3:25 | 2022-01-14 |  |
+| [Te Vi](https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Te Vi](https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp) | 3:25 | 2022-01-14 | 2024-03-23 |
 | [This is un volcán](https://open.spotify.com/track/2Ey1hs6xJOar2ki7G7dPbO) | [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [This is un volcán](https://open.spotify.com/album/0XXAchuaAzOTRIDA4usuif) | 3:26 | 2023-07-14 |  |
 | [tiempo](https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:51 | 2022-01-21 | 2023-08-05 |
 | [Tiempo Depositado](https://open.spotify.com/track/7lsEHCKL7LAiogk47W5GjN) | [Caro Conzonno](https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC) | [Tiempo Depositado](https://open.spotify.com/album/70oousLTJjM45ICpS6sOWg) | 2:44 | 2022-06-03 | 2022-06-17 |

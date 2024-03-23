@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 
 > This is Krewella\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,924 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,930 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 33 | [One Minute](https://open.spotify.com/track/2K54tYOF2c6CBO3ZNhKcmS) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Play Hard EP](https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m) | 4:13 |
 | 34 | [Ammunition](https://open.spotify.com/track/2z5zyZaP6J9sh74mMKytUo) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Ammunition](https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG) | 3:26 |
 | 35 | [Never Been Hurt](https://open.spotify.com/track/7hXIYmnroOk6YikdncYlI4) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 3:15 |
-| 36 | [dead af](https://open.spotify.com/track/1UKiY1fpnB1G1nPW6ilHhw) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [dead af](https://open.spotify.com/album/74cbGl9GHBaRM8yHO4Tt1Q) | 3:28 |
-| 37 | [We Go Down](https://open.spotify.com/track/5QxkroIQPiY8UKgSFFuYQd) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:05 |
+| 36 | [We Go Down](https://open.spotify.com/track/5QxkroIQPiY8UKgSFFuYQd) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:05 |
+| 37 | [dead af](https://open.spotify.com/track/1UKiY1fpnB1G1nPW6ilHhw) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [dead af](https://open.spotify.com/album/74cbGl9GHBaRM8yHO4Tt1Q) | 3:28 |
 | 38 | [TH2C](https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [New World Pt\. 1](https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz) | 3:11 |
 | 39 | [Ain't That Why \- Skytech Remix](https://open.spotify.com/track/6Nz6JvBuOSAx8381IDiJGE) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Ain't That Why \(Skytech Remix\)](https://open.spotify.com/album/5SBbYFv2EbBbZh9GqX7CJi) | 2:42 |
 | 40 | [Broken Record](https://open.spotify.com/track/2eQeO6nn2hMaMECtoWMT6y) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Ammunition](https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 49 | [No Control](https://open.spotify.com/track/296JDELU3ARzEcYzHgPoFP) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [MADGRRL](https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 2:43 |
 | 50 | [Parachute](https://open.spotify.com/track/4HlFVZznEgeHDMBN3n3GIJ) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [New World Pt\. 1](https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz) | 3:42 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDAyNmQ3N2FjYzA1ZDRmNTJjOGVhMjhiZjFmNjgyMTI0Zg==`
+Snapshot ID: `Mjg1MTg1NjIsMDAwMDAwMDBiZTg4NDI1YTc1YzE5ODY4ZWZmMGNhYjViYWU4OTJlNA==`

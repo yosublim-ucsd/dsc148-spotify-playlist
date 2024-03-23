@@ -1,13 +1,33 @@
 {
   "description": "A different shade of the blues. Cover: Dan Auerbach",
-  "num_followers": 50125,
+  "num_followers": 50149,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMThmMmE5NWUyYmI4ZjI5MDkzMGFiNzM0ODhhYjVkY2MwZjJhZmUw",
+  "snapshot_id": "MCw5NmQwYjA4NTE0NmIzNjNlZTQ4MjJmM2I1OTlmZTNlMjljY2RlOWJi",
   "tracks": [
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Girl On Girl",
+        "url": "https://open.spotify.com/album/37cSKWOt90QtW9i5mwD5zN"
+      },
+      "artists": [
+        {
+          "name": "Pimps of Joytime",
+          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
+        },
+        {
+          "name": "Sophia Urista",
+          "url": "https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP"
+        }
+      ],
+      "duration_ms": 148863,
+      "name": "Girl On Girl",
+      "url": "https://open.spotify.com/track/3uRtKGMu9MI3TFKatO6FEw"
+    },
     {
       "added_at": "2024-01-26 05:01:00",
       "album": {
@@ -923,26 +943,6 @@
       "duration_ms": 241226,
       "name": "Nothing but a Clich\u00e9",
       "url": "https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub"
-    },
-    {
-      "added_at": "2022-08-31 19:53:08",
-      "album": {
-        "name": "Have You Lost Your Mind yet?",
-        "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        }
-      ],
-      "duration_ms": 225551,
-      "name": "Searching for Captain Save a Hoe",
-      "url": "https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9"
     },
     {
       "added_at": "2022-08-31 19:53:08",

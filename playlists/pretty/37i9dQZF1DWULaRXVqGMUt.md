@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,821 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,848 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,15 +60,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 50 | [Memphis Blues](https://open.spotify.com/track/0wX7APzteSLd07TL8St7iY) | [Jack Dupree](https://open.spotify.com/artist/0Ay8TJXZ9sY3Z6rBWTZLBn), [Speckled Red](https://open.spotify.com/artist/2TLqxQWKzeqnaovkTxI3TV), [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ), [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2), [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB), [Little Brother Montgomery](https://open.spotify.com/artist/1C7crJJ0HPOCCllrBaw6Rz) | [Barrelhouse, Blues & Boogie Woogie, Vol\. 4](https://open.spotify.com/album/6F0PGqrZc1OGHxSEsXdg6P) | 3:41 |
 | 51 | [Boogie Woogie \- Mono](https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [New Orleans Piano \(Mono\)](https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv) | 2:40 |
 | 52 | [Quarter Bass Boogie](https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet) | [Rob Rio](https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K) | [Omniboogie 2012](https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9) | 1:55 |
-| 53 | [Swanee River Hop](https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [They Call Me The Fat Man \(The Legendary Imperial Recordings\)](https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr) | 2:52 |
-| 54 | [Boogie Woogie Prayer](https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu) | [Meade "Lux" Lewis](https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0), [Albert Ammons](https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN) | [The Boogie Woogie Trio vol\. 1](https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8) | 2:05 |
+| 53 | [Boogie Woogie Prayer](https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu) | [Meade "Lux" Lewis](https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0), [Albert Ammons](https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN) | [The Boogie Woogie Trio vol\. 1](https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8) | 2:05 |
+| 54 | [Swanee River Hop](https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [They Call Me The Fat Man \(The Legendary Imperial Recordings\)](https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr) | 2:52 |
 | 55 | [Boogie Woogie Storm](https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg) | [Martin Pyrker, Sabine Pyrker](https://open.spotify.com/artist/2N2wagQUl3I4BMG5KYvHEt) | [Boogie Woogie Storm](https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW) | 2:54 |
 | 56 | [Blueberry Hill](https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z) | [Esben Just](https://open.spotify.com/artist/7C0r1C3ZyzEfD4XgF2T5mZ) | [Keep It Coming](https://open.spotify.com/album/169PS1pKQBPMCszDnERktt) | 2:26 |
 | 57 | [Barrelhouse Boogie](https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo) | [Albert Ammons & Pete Johnson](https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 3:03 |
 | 58 | [Shake Baby Shake](https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [The Bobby Robinson Story Volume One](https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG) | 2:25 |
 | 59 | [Get in the Groove, Boys!](https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS) | [Henning Pertiet](https://open.spotify.com/artist/0Cu4z8KkxgdY4WdKgowro5) | [Boogie Woogie](https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE) | 3:18 |
-| 60 | [Bluegrass Boogie Woogie](https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | [No Hats](https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I) | 3:20 |
-| 61 | [Boogie In The City](https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL) | [Dave Taylor](https://open.spotify.com/artist/75R7PfBRN6kdo7yY7NJhR8) | [This Is Boogie Woogie!](https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP) | 2:34 |
+| 60 | [Boogie In The City](https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL) | [Dave Taylor](https://open.spotify.com/artist/75R7PfBRN6kdo7yY7NJhR8) | [This Is Boogie Woogie!](https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP) | 2:34 |
+| 61 | [Bluegrass Boogie Woogie](https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | [No Hats](https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I) | 3:20 |
 | 62 | [Let Me Go Home, Whiskey](https://open.spotify.com/track/25Ae3RvcXl3QXhkgtpGVDm) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Chicken Shack Boogie](https://open.spotify.com/album/4NQQLUJTNkuzX8u859MTBQ) | 2:45 |
 | 63 | [Marie](https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id) | [Otis Spann's South Side Piano](https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2) | [Boogie Woogie 50](https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK) | 2:30 |
 | 64 | [Born To Lose](https://open.spotify.com/track/7bgCLSHEbtndUh7YHPS4fI) | [Carl Mcvoy](https://open.spotify.com/artist/4xR5npq7uf2U1vrUdNqyiS) | [Sun Records Originals: You Are My Sunshine](https://open.spotify.com/album/0P5c0KZez2nVq9G3kbw83m) | 2:23 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 70 | [Detroit Rocks](https://open.spotify.com/track/4a2rIaT2d7HE3gBGkFlXJn) | [Montana Taylor](https://open.spotify.com/artist/0jpobPHlTpZ0Z8lFNNfCYM) | [Detroit Rocks](https://open.spotify.com/album/3o2o8lV33AvNkPIWI9IruH) | 3:25 |
 | 71 | [Piggly Wiggly Blues](https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5) | [James Crutchfield](https://open.spotify.com/artist/0sI1SWCDI7JGeEhEuLaOoc) | [St\. Louis Blues Piano Man](https://open.spotify.com/album/1tFDjvUI4XarpDcZQLZOoX) | 4:08 |
 | 72 | [Bongo Boogie](https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj) | [Anisteen Allen](https://open.spotify.com/artist/5H7GMEfLmgBJlLlEltL1wF) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:40 |
-| 73 | [Chicago Breakdown](https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:57 |
-| 74 | [Okay](https://open.spotify.com/track/416aAh5pHiWiluFlP6aGEb) | [Kjell Sønksen](https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW) | [Okay](https://open.spotify.com/album/4SdSQl6XnCNn9jgkPlkmMc) | 3:18 |
-| 75 | [Yancey Stomp](https://open.spotify.com/track/2rQ7wBq2aglvwDgRS9mPmx) | [Jimmy Yancey](https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:52 |
+| 73 | [Okay](https://open.spotify.com/track/416aAh5pHiWiluFlP6aGEb) | [Kjell Sønksen](https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW) | [Okay](https://open.spotify.com/album/4SdSQl6XnCNn9jgkPlkmMc) | 3:18 |
+| 74 | [Chicago Breakdown](https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:57 |
+| 75 | [La Salle Street Breakdown](https://open.spotify.com/track/3BqTjVgE1Yno4SoEuw7KEc) | [Jimmy Yancey](https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD) | [Yancey Special](https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX) | 3:05 |
 
-Snapshot ID: `MCw3ZWVjYjM2Y2IwYTBjYTFlYWVhMWI5MThjMTRjNTQxZjE2NWZjYzM3`
+Snapshot ID: `MCwwZWNlOGZiYjE5YzA3MGI2MjQxZDIyYTQ2MDYyOTJlNDBjY2QzMzc5`

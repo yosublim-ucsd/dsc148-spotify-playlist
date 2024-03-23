@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGJi6950c0r.md) - [plain]
 
 > A mí no me importa el dinero, tengo lo que yo más quiero \#ZodiacoSpotify Foto: Ricky Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,134 likes - 30 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,157 likes - 30 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGJi6950c0r.md) - [plain]
 | 29 | [No Se Me Quita \(feat\. Ricky Martin\)](https://open.spotify.com/track/1GBLO0NFODuL31A5fgw0uR) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 3:39 |
 | 30 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 |
 
-Snapshot ID: `MCwxODdjMTZhNDNmM2Q0MjgzZGRkNTdhYTk4YWQ1NGY0ODA5MTBlNjky`
+Snapshot ID: `MCw0NTM0ZjgzNTAyNmMwYTNmMDQwODFlMDc1NWNmODVlNWZjYzJhODQx`

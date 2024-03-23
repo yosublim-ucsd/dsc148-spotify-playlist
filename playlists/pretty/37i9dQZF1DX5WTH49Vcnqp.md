@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: girl in red, Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,795 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,820 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 6 | [Cape Forestier](https://open.spotify.com/track/5koL7879f8j0pvdVGj3vcv) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/0SQR7IYc6zCvSoo31awLMz) | 3:52 |
 | 7 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 8 | [All On Me](https://open.spotify.com/track/0V5lJdz5ooYaDc6TcxIoLE) | [Tyne\-James Organ](https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M) | [All On Me](https://open.spotify.com/album/1nfN1aZrysap3cgsI0bSB6) | 3:10 |
-| 9 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 |
+| 9 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 |
 | 10 | [Consequence](https://open.spotify.com/track/7BSzIbxxhrdBAkVBHw3ISS) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Under The Light](https://open.spotify.com/album/6nQZCCnJGwRw7MECEYLS0j) | 3:57 |
 | 11 | [Regrets and Happiness](https://open.spotify.com/track/3KpnX4IDIix4m3ZEXKjzUw) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [New World Colour](https://open.spotify.com/album/4dEg96TsOXaeeyuPUrJGoc) | 3:15 |
 | 12 | [Teardrop](https://open.spotify.com/track/4B3dUUKsFILIxMuYbAWnxT) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Teardrop](https://open.spotify.com/album/11YG6IiTP7EMM1OX2RBmF6) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [Radiosoul \- Single Version](https://open.spotify.com/track/6AyaAytveXEC4AEUiQj0Sa) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Radiosoul](https://open.spotify.com/album/5doIyRFTqHfAgqu8oy0rXE) | 3:38 |
 | 80 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/2RjD1CgW7MWRWSNkimCPNy) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg) | 3:21 |
 
-Snapshot ID: `MCw2NDQ0NTQ1OTc4Zjk2NDc4MjQ5MTU2MDA5NjZlZTlhNDFlMThlMTli`
+Snapshot ID: `MCxjZGI4YTA5ZDE2MjQ5M2FlMTJiYmUzZjdkMWQzNTY0NGVkMTM3YmY4`

@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 134979,
+  "num_followers": 134984,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWQ0YzE3YjdiODBmNzg1ZDhlYzJkNjU2YjUwNGRhYzJhM2JmZmU5",
+  "snapshot_id": "MCw1NDdkNzVjZDYwNjA0MGVjNzMxNTllODYwNDU5YTIxOWNmNTA4MjA2",
   "tracks": [
     {
       "added_at": "2024-02-05 23:56:53",
@@ -987,6 +987,26 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Amapiano",
+      "url": "https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
         "name": "Kx5",
         "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Amapiano",
-      "url": "https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "World Music Radio",
-        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 230440,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2aMFP9x0ZIkOVd0ZSl3zDI"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "Actual Life 3 (January 1 - September 9 2022)",
         "url": "https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 250702,
       "name": "Delilah (pull me out of this)",
       "url": "https://open.spotify.com/track/3wJrBiiTIRRfKSL2TQWR60"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
+        "name": "World Music Radio",
+        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2aMFP9x0ZIkOVd0ZSl3zDI"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -1711,30 +1711,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Hazel Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg"
-        }
-      ],
-      "duration_ms": 217632,
-      "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
-      "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "Good Morning (feat. Susan Carol)",
         "url": "https://open.spotify.com/album/4AgLuqopjOtOC3qZxPGiAp"
       },
@@ -1767,6 +1743,30 @@
       "duration_ms": 443386,
       "name": "Phantom Of The Opera",
       "url": "https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Hazel Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg"
+        }
+      ],
+      "duration_ms": 217632,
+      "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
+      "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "Special Occasion",
-        "url": "https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 194575,
-      "name": "This Year",
-      "url": "https://open.spotify.com/track/0ISfH0HKPrQd3mWmzk76Ij"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "La cuarta hoja (Extended Version)",
         "url": "https://open.spotify.com/album/3nYJDr8s1Jyw4YeZRcScQc"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 233755,
       "name": "Amigos (con Maria Becerra)",
       "url": "https://open.spotify.com/track/2VhwmatY3oeJI5IOjeIUmr"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
+        "name": "Special Occasion",
+        "url": "https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 194575,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/0ISfH0HKPrQd3mWmzk76Ij"
     },
     {
       "added_at": "2024-02-05 23:56:53",

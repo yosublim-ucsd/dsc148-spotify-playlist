@@ -7595,6 +7595,24 @@
     },
     {
       "album": {
+        "name": "Fat Vampire",
+        "url": "https://open.spotify.com/album/3deVOIFMJP9sQGnfsDkd0l"
+      },
+      "artists": [
+        {
+          "name": "Dan Spencer",
+          "url": "https://open.spotify.com/artist/4nZhCPagwfGtHV2tASZkpU"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Fat Vampire",
+      "url": "https://open.spotify.com/track/4I0JFzDSny3aMdYVrrBn96"
+    },
+    {
+      "album": {
         "name": "Fear of Being Fixed",
         "url": "https://open.spotify.com/album/4XcOTUDsMrzuf5vhRolP8B"
       },

@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2024 \(previous playlists archived on my profile\)
 
-89 songs - 4 hr 40 min
+92 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Anorak](https://open.spotify.com/track/4PLYD3XqOL4Wp8HtEQySFn) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Modern Meta Physic](https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN) | 2:31 | 2024-01-31 | 2024-03-10 |
 | [Bad Energy](https://open.spotify.com/track/4Yey0xw2PmrLzize5wvU1T) | [Little Kid](https://open.spotify.com/artist/3GLx1rqsRp2jtViyRo3Qvz) | [A Million Easy Payments](https://open.spotify.com/album/7lC9Sa2mC5mM3VXhWgf2J5) | 7:29 | 2024-03-12 |  |
 | [Bell Buoy](https://open.spotify.com/track/06Ff1LSvn5WUw2EHPMSzcg) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Songbook](https://open.spotify.com/album/54LKAKGckAwMNo64tN5LO7) | 4:16 | 2024-03-09 |  |
+| [Blank Time](https://open.spotify.com/track/1aXDrYTE5igJKUygBgrPWN) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:57 | 2024-03-22 |  |
 | [burnt out star](https://open.spotify.com/track/0FyUHfRwEPegqwLpiTcjUd) | [Immortal Wound](https://open.spotify.com/artist/48f43rxWbm2XTh3wwn7bag) | [burnt out star](https://open.spotify.com/album/71ithxlGE6Sup2JT3AMOhD) | 2:37 | 2024-03-20 |  |
 | [Can You Feel the Beat Tonight?](https://open.spotify.com/track/5xbpkr8kuz9Djodai18VIA) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [Cooper B Handy's Album, Vol\. 3](https://open.spotify.com/album/0uRS4EwISSvwcBbfaxdfJi) | 1:57 | 2024-03-18 |  |
 | [Casa Del Queso](https://open.spotify.com/track/2PT6tdovqv5DRfbRrwsblr) | [Aventuras De Kirlian](https://open.spotify.com/artist/7hA1LNd4lisPMV7RLmxvg7) | [86\-88](https://open.spotify.com/album/69aOUaKV2diPvH7PWI8xPZ) | 1:28 | 2024-02-27 | 2024-03-10 |
@@ -35,6 +36,7 @@
 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 | 2024-03-13 |  |
 | [Eternal Sunshine of the Spotless Mind](https://open.spotify.com/track/53WIcYCLyuJ25HTkdrmGVo) | [Any Other](https://open.spotify.com/artist/5RECxqPUWytzhwKabZ1lWx) | [Four Covers](https://open.spotify.com/album/0ZiOOV1MXNcH8O56kQJx0h) | 2:15 | 2024-03-11 |  |
 | [Evening Mirror \- From the Original Score of The Sweet East](https://open.spotify.com/track/7hy0XnO9PBwcsZNP4H5sX4) | [Paul Grimstad](https://open.spotify.com/artist/2sI4HMXuvwKYhP1gmqr6Jv), [Talia Ryder](https://open.spotify.com/artist/1gfXCBma9K651B5zUc2Btl) | [Evening Mirror \(From the Original Score of The Sweet East\)](https://open.spotify.com/album/0uailJ2SWjeKlOEDHcNoGB) | 3:11 | 2024-02-21 | 2024-03-10 |
+| [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 | 2024-03-22 |  |
 | [Eyes of Love](https://open.spotify.com/track/1JxLgiWsT7yAOpJf3iTsDj) | [The Edge Of Daybreak](https://open.spotify.com/artist/5US7hTWfx50MizMOJksHNj) | [Eyes of Love](https://open.spotify.com/album/08wDglKnVUPwlTSwKR0qDV) | 4:13 | 2024-02-24 | 2024-03-10 |
 | [Falling Backwards](https://open.spotify.com/track/3DYTT6HXBesNRtfFYAYVTY) | [Brittle Stars](https://open.spotify.com/artist/6uZBMEZeMcDuBoamJ7wLf5) | [Garage Sale EP + Remixes](https://open.spotify.com/album/1pcaVlKBjlBWSUqfcELSzO) | 1:40 | 2024-01-31 | 2024-03-10 |
 | [Fishbrain](https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Fishbrain](https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc) | 4:37 | 2024-02-09 | 2024-03-10 |
@@ -48,6 +50,7 @@
 | [Goodnight Tonight](https://open.spotify.com/track/5AD7iwvIzbiABVsMndAmez) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wingspan](https://open.spotify.com/album/0gOV46yCRVgdehR1SnFtuy) | 4:20 | 2024-02-28 | 2024-03-10 |
 | [Hands Of Man](https://open.spotify.com/track/6FrW7htz75AtmZJZk59BEv) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Hands Of Man](https://open.spotify.com/album/3LzI2gXTQQ96VtaC2NYXF2) | 5:05 | 2024-01-30 | 2024-03-10 |
 | [How](https://open.spotify.com/track/7iq5isJ5Y9ya3QTqPV4G6A) | [Nicholas Krgovich](https://open.spotify.com/artist/68QhSfYuqyiT1KPoHlCvSv) | [Ducks](https://open.spotify.com/album/7uwe7Gx9cmqQbOfAN8BeTz) | 1:57 | 2024-03-09 |  |
+| [I Can't Dream Anymore](https://open.spotify.com/track/0bZN26ShHJhG1NERwNs7LP) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [I Can't Dream Anymore](https://open.spotify.com/album/2nWfaWfDYIEMeckjUAfDCZ) | 3:12 | 2024-03-22 |  |
 | [I Care](https://open.spotify.com/track/7tHxfAiPYN5357A49tY5p2) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P), [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [I Can't Dream Anymore](https://open.spotify.com/album/2nWfaWfDYIEMeckjUAfDCZ) | 4:18 | 2024-03-21 |  |
 | [I Only Did It 'Cause I Felt so Lonely](https://open.spotify.com/track/50pbA8K52DbKILgZ4AiQX6) | [The Choir](https://open.spotify.com/artist/1CBHzR63n8JTqYNiGwgeqO) | [I'd Rather You Leave Me](https://open.spotify.com/album/1h3zASfdILrqQDjxhpOQls) | 2:15 | 2024-01-05 | 2024-03-10 |
 | [I Ought To Stay Away From You](https://open.spotify.com/track/4tAkesAHyf2zsmmWPoCDWJ) | [Margo Guryan](https://open.spotify.com/artist/3SMY2MGuaUOhuPpgRn6clw) | [I Ought To Stay Away From You b/w Why Do I Cry](https://open.spotify.com/album/0igbKMZKrnrO2x3TPDFL1M) | 2:39 | 2024-01-08 | 2024-03-10 |

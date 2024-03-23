@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Matisse
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,959 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,940 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Llegó la Navidad](https://open.spotify.com/track/0Biqb9UJEsimAKNSxTuJYM) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Generacion Escogida](https://open.spotify.com/artist/3zdXxojrGhIyEgKvHABKim), [Christian Nieves](https://open.spotify.com/artist/6WRxocw99UTRWQyHgLhVuJ) | [Llegó la Navidad](https://open.spotify.com/album/4XqCASKfjF950apeiJkmmt) | 3:43 |
-| 2 | [I'll Be Home For Christmas](https://open.spotify.com/track/6SiKqI0vm3N5NBjdgM2V9m) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [I'll Be Home For Christmas](https://open.spotify.com/album/1ykaX41VLZd7U0sxa33csX) | 2:58 |
-| 3 | [Navidad Sin Ti](https://open.spotify.com/track/54xXNECMC5RPXOGYYfYyTS) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Navidad Sin Ti](https://open.spotify.com/album/0vfbRwJqaEy1RT063cvsYq) | 2:43 |
+| 2 | [Navidad Sin Ti](https://open.spotify.com/track/54xXNECMC5RPXOGYYfYyTS) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Navidad Sin Ti](https://open.spotify.com/album/0vfbRwJqaEy1RT063cvsYq) | 2:43 |
+| 3 | [I'll Be Home For Christmas](https://open.spotify.com/track/6SiKqI0vm3N5NBjdgM2V9m) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [I'll Be Home For Christmas](https://open.spotify.com/album/1ykaX41VLZd7U0sxa33csX) | 2:58 |
 | 4 | [Noche de Paz \- Recorded at Electric Lady Studios NYC \- Spotify Studios NYC](https://open.spotify.com/track/6lxZad9QvvupcZmt0BwKPJ) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Noche de Paz \- Recorded at Electric Lady Studios NYC \- Spotify Studios NYC](https://open.spotify.com/album/6ko0lFEORJ1r844s60Zh3f) | 2:04 |
 | 5 | [Blanca Navidad](https://open.spotify.com/track/0q2BYFO6ilmH7noQfXIGVZ) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Una Navidad Con Matisse](https://open.spotify.com/album/3B994PoU9wHZrxXFdUDOTo) | 2:40 |
 | 6 | [Toxic Christmas](https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Toxic Christmas](https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD) | 3:19 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 18 | [25](https://open.spotify.com/track/7ycm9QUqfl7Y3AzY5etvLo) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Sad "X" mas](https://open.spotify.com/album/0deuNy0QB3zmYbFfJu21Cy) | 2:16 |
 | 19 | [25 de Diciembre](https://open.spotify.com/track/7m1nnKjSVpGUiJPw2WNqxW) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [25 de Diciembre](https://open.spotify.com/album/08OQekJroE9E8h0wqerUWY) | 2:58 |
 | 20 | [Diciembre Frío](https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Diciembre Frío](https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5) | 2:56 |
-| 21 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 2:34 |
-| 22 | [Santa Para Que Porfa](https://open.spotify.com/track/52qnXpspvSfn6VK96iADHG) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Santa Para Que Porfa](https://open.spotify.com/album/6y60Q4HPD3K9V0anQN0y2P) | 2:56 |
+| 21 | [Santa Para Que Porfa](https://open.spotify.com/track/52qnXpspvSfn6VK96iADHG) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Santa Para Que Porfa](https://open.spotify.com/album/6y60Q4HPD3K9V0anQN0y2P) | 2:56 |
+| 22 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 2:34 |
 | 23 | [Last Christmas \- Versión Español](https://open.spotify.com/track/7kKvFQDrREKrsDc1Dmx3CG) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Last Christmas \(Versión Español\)](https://open.spotify.com/album/76KZzbhufZs8y12v5mBE5w) | 3:21 |
 | 24 | [Cómo Poder Olvidar \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cómo Poder Olvidar \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M) | 3:36 |
 | 25 | [Hallelujah](https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [El Mix\-Tape De Santa](https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a) | 3:22 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 39 | [Dime Navidad](https://open.spotify.com/track/3pvbBrh49UPDa4UENRVT9f) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [Dime Navidad](https://open.spotify.com/album/3c11HITsZe2IyDyb4tUg8K) | 2:39 |
 | 40 | [Llegué a Navidad](https://open.spotify.com/track/4e4wrhbqdj6CKxHEgWjPfw) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Llegué a Navidad](https://open.spotify.com/album/0IHUZrmVQfFWNkZUnWF4c6) | 2:41 |
 | 41 | [Volvernos a Encontrar](https://open.spotify.com/track/2rvfoWKvT0axDiXB96X4jO) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Volvernos a Encontrar](https://open.spotify.com/album/6oIN2uymnjEuWbrgMzE4X1) | 3:06 |
-| 42 | [Navidad Contigo](https://open.spotify.com/track/481jZRK94eCVslwavhdY8n) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Jean & Alex](https://open.spotify.com/artist/2yq1SMEHxxNNXKf8Dx3S4V) | [Navidad Contigo](https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn) | 3:08 |
-| 43 | [Alegría](https://open.spotify.com/track/26wgGNbiKfdOmlbFxcjN8q) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Alegría](https://open.spotify.com/album/1rwh1yj0SrvoS7cbVjIl4k) | 3:22 |
+| 42 | [Alegría](https://open.spotify.com/track/26wgGNbiKfdOmlbFxcjN8q) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Alegría](https://open.spotify.com/album/1rwh1yj0SrvoS7cbVjIl4k) | 3:22 |
+| 43 | [Navidad Contigo](https://open.spotify.com/track/481jZRK94eCVslwavhdY8n) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Jean & Alex](https://open.spotify.com/artist/2yq1SMEHxxNNXKf8Dx3S4V) | [Navidad Contigo](https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn) | 3:08 |
 | 44 | [Let It Snow](https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:11 |
 | 45 | [Diciembre](https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Diciembre](https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi) | 2:40 |
 | 46 | [Se Acerca Navidad](https://open.spotify.com/track/3RBTdjq25TnsJRIpkZxMkw) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [Se Acerca Navidad](https://open.spotify.com/album/3ZE9lMRkHFM2RnjzSyxe5C) | 3:16 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 64 | [Duende](https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [Duende](https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq) | 2:46 |
 | 65 | [Con Mi Coqueta](https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Con Mi Coqueta](https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj) | 3:36 |
 
-Snapshot ID: `MCxhYWQ5MjhlMGI4Zjc3NTBmZjE5NmE4MDNmZTg1ODM0MWQ5MWYzMGUw`
+Snapshot ID: `MCw3NGQ5MmEzNGZjYTU0MWQzNTc2NmZkZDllNzhkYjgwMzJlMTU2NzMy`

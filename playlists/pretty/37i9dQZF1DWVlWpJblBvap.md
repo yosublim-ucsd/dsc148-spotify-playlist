@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw">Kim Walker\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,682 likes - 80 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,834 likes - 80 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 54 | [Christ Be Magnified](https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Christ Be Magnified](https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP) | 5:02 |
 | 55 | [Who You Say I Am](https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [There Is More \(Studio Sessions\)](https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ) | 3:19 |
 | 56 | [You Keep Hope Alive](https://open.spotify.com/track/6Q997Jj1Z9yfmJV9248a2o) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [You Keep Hope Alive](https://open.spotify.com/album/1YEaHpw2muenEoVqQ4Wblp) | 4:11 |
-| 57 | [Goodness of God \(feat\. Vertical Worship\)](https://open.spotify.com/track/1UOzgUuakMRQcKVTUTU6Pu) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Goodness of God \(feat\. Vertical Worship\)](https://open.spotify.com/album/5pOGRC3CWSAPGQz5qnvC6t) | 4:47 |
-| 58 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 |
+| 57 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 |
+| 58 | [Goodness of God \(feat\. Vertical Worship\)](https://open.spotify.com/track/1UOzgUuakMRQcKVTUTU6Pu) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Goodness of God \(feat\. Vertical Worship\)](https://open.spotify.com/album/5pOGRC3CWSAPGQz5qnvC6t) | 4:47 |
 | 59 | [How Deep The Father's Love For Us](https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Deliver Me](https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk) | 3:24 |
 | 60 | [Canyons](https://open.spotify.com/track/3qJrhAPsIAPZ0NcJ7erI6t) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [To Love a Fool](https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH) | 4:40 |
 | 61 | [Cornerstone \- Live](https://open.spotify.com/track/5KTJJnSs2H1p5SaBXsG0Hb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [David Ware](https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7) | [Cornerstone \(Live\)](https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8) | 6:49 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 75 | [Good Good Father](https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Good Good Father](https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW) | 4:57 |
 | 76 | [The Heart Of Worship](https://open.spotify.com/track/1WYHvGn6fQZRAmbD5TG51j) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Heart Of Worship](https://open.spotify.com/album/3FgTpw4Cy3rGZc4FOyoVjf) | 5:20 |
 | 77 | [Just Be](https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Just Be](https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us) | 4:33 |
-| 78 | [Where The Spirit Of The Lord Is](https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Death Of Death](https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C) | 3:37 |
-| 79 | [Here's My Heart \- Live](https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:51 |
+| 78 | [Here's My Heart \- Live](https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:51 |
+| 79 | [Where The Spirit Of The Lord Is](https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Death Of Death](https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C) | 3:37 |
 | 80 | [King of My Heart](https://open.spotify.com/track/4HBXdr8LXB22UPBi191b6S) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Sarah McMillan](https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz) | [You Are the Avalanche](https://open.spotify.com/album/21t1ObaaRvRIRRrF1bwlhw) | 4:55 |
 
-Snapshot ID: `MCxmNTY2NmY1ZDFlYTc0NTM0ZWVjNjI3OWNiY2MzMDc5YWJlNGNjNGIx`
+Snapshot ID: `MCxlNDFkNzMwMDQwNzE2ZDMwNjhjMzQ1NDFmN2NmZmQxNzUwZDcxNDYz`

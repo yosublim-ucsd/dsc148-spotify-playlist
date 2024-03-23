@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,901 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,054 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 40 | [La Canelera](https://open.spotify.com/track/4mHff3K0s1s8An8waTlHL1) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [Como Duele Saber](https://open.spotify.com/album/3hvPmp7f7z0b7G9tbM60Fo) | 3:18 |
 | 41 | [La Que Se Fue](https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:59 |
 | 42 | [Se Me Mamo El Becerro](https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 2](https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt) | 3:58 |
-| 43 | [Sueños](https://open.spotify.com/track/3gZDsRgCqVKc9hIYBMcjfq) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Para Reconquistarte](https://open.spotify.com/album/1ZE9yPRFe7mkKNgCLr50rP) | 3:12 |
-| 44 | [Equivocación \- En Vivo](https://open.spotify.com/track/5fjuZmyHPsRdsU69RWyzLR) | [Sierreños de Sinaloa](https://open.spotify.com/artist/49XtLcagl18fnpRxiW7QW8) | [Y Te Veré Llorar \(En Vivo\)](https://open.spotify.com/album/4NGzYSSDqAZzy9n2DphuTu) | 3:25 |
+| 43 | [Equivocación \- En Vivo](https://open.spotify.com/track/5fjuZmyHPsRdsU69RWyzLR) | [Sierreños de Sinaloa](https://open.spotify.com/artist/49XtLcagl18fnpRxiW7QW8) | [Y Te Veré Llorar \(En Vivo\)](https://open.spotify.com/album/4NGzYSSDqAZzy9n2DphuTu) | 3:25 |
+| 44 | [Sueños](https://open.spotify.com/track/3gZDsRgCqVKc9hIYBMcjfq) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Para Reconquistarte](https://open.spotify.com/album/1ZE9yPRFe7mkKNgCLr50rP) | 3:12 |
 | 45 | [Te Sigo Amando](https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:13 |
 | 46 | [De Corazón a Corazón](https://open.spotify.com/track/7jsPodasKpFLyuW2HRDHPQ) | [Los Reyes De Sinaloa](https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ) | [Te Quiero Màs](https://open.spotify.com/album/1ng4ef1orMRkcmDv4wpgY2) | 3:33 |
 | 47 | [La Hielera](https://open.spotify.com/track/7hIPNq6BMFEDJxfio5I1wz) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | ["14 Exitos" A Cada Instante](https://open.spotify.com/album/26vKr0uiVeTMbiqyNJcc6Z) | 3:35 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 60 | [Una Paloma En Su Nido](https://open.spotify.com/track/0ptHILzpIO2PFJ8G6ZcY6t) | [Los Ciclones del Arroyo](https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO) | [Judiciales Y Malandrines](https://open.spotify.com/album/1C6MyvNwgmLaQMlsvXYIdP) | 3:32 |
 | 61 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/7fjHEYbzucBpM8GO7jgSqh) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 3:00 |
 | 62 | [Dos Palomas Al Volar](https://open.spotify.com/track/33ukiKvMGOhbpMEdpH8GgR) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Hombres de Rancho](https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t) | 3:24 |
-| 63 | [Los Barandales Del Puente](https://open.spotify.com/track/6ISYzpM2NIThCoOtfUVpC1) | [Los Dos De La Sierra](https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc) | [Los Dos De La Sierra](https://open.spotify.com/album/0240X6ItNjZMOqwX6ZbkYL) | 3:21 |
-| 64 | [Rama Verde](https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna) | [El Canelo De Sinaloa](https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ), [Los Dos Del Sitio](https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2) | [El Diablo y el Federal](https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk) | 2:36 |
+| 63 | [Rama Verde](https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna) | [El Canelo De Sinaloa](https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ), [Los Dos Del Sitio](https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2) | [El Diablo y el Federal](https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk) | 2:36 |
+| 64 | [Los Barandales Del Puente](https://open.spotify.com/track/6ISYzpM2NIThCoOtfUVpC1) | [Los Dos De La Sierra](https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc) | [Los Dos De La Sierra](https://open.spotify.com/album/0240X6ItNjZMOqwX6ZbkYL) | 3:21 |
 | 65 | [Eres Mi Droga](https://open.spotify.com/track/10botBRBFy0ZC3Mu5s07Kw) | [Los Diamantes De Sinaloa](https://open.spotify.com/artist/54us4vA4ORn9TlBp0LGNhz) | [100% Sierreños](https://open.spotify.com/album/09QEkaZrUEJOVsShSujobz) | 3:19 |
 | 66 | [Piel de Azúcar](https://open.spotify.com/track/1y8ZcMQhBEySjQxmxnyurt) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 2:41 |
 | 67 | [Que Casualidad](https://open.spotify.com/track/6mYGR28K8XuYJGER8EvBN4) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Hombres de Rancho](https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t) | 3:24 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 87 | [Que Te Casas](https://open.spotify.com/track/3rZD94i2rUr1nddo8uVXWq) | [Ramon Massiaca Y Los Dos Plebes](https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe) | [La Sombra Del Arbol](https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax) | 2:34 |
 | 88 | [Amores Fingidos](https://open.spotify.com/track/7dHPgzcHDFq8s6B50H9bfn) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 2:48 |
 | 89 | [Quiéreme Como Te Quiero](https://open.spotify.com/track/5HOgr1vGGin7nicfjrylP6) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:23 |
-| 90 | [Ayer Bajé De La Sierra](https://open.spotify.com/track/5mVCR3GfsTycFFiLils4s0) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 2:26 |
+| 90 | [Mi Virgencita](https://open.spotify.com/track/3CqPkvPNkDHVHPSeHCUbMu) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 2](https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt) | 2:24 |
 | 91 | [De Esta Sierra a la Otra Sierra](https://open.spotify.com/track/6Hsuzg08RM8Bz9ypVyJBce) | [Valentín "El Gallo"](https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3), [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Valentín "El Gallo" Con Guitarras \(En Vivo\)](https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs) | 2:36 |
-| 92 | [Mi Virgencita](https://open.spotify.com/track/3CqPkvPNkDHVHPSeHCUbMu) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 2](https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt) | 2:24 |
+| 92 | [Ayer Bajé De La Sierra](https://open.spotify.com/track/5mVCR3GfsTycFFiLils4s0) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 2:26 |
 | 93 | [Las Lluvias](https://open.spotify.com/track/5JWnxJIBUa7bVHqaZIEoUy) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:04 |
 | 94 | [El Niño De Oro](https://open.spotify.com/track/4GOyrQDlyPd3B7q0SoiE2Z) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:03 |
 | 95 | [Encendido Clavel](https://open.spotify.com/track/7b28hNlTMK0ChHBszSrSgN) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 99 | [Flor Hermosa](https://open.spotify.com/track/3UTj5afltxN4pVei3W29QF) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z) | [Aqui En El Rancho](https://open.spotify.com/album/3Vc8Qcv33FPblUCq9ZcHBg) | 3:10 |
 | 100 | [El Bazucazo](https://open.spotify.com/track/78JYoTnPfIqSvoNVGAPZux) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Duelo De Shakas](https://open.spotify.com/album/5PwL80iiZsnkoJDVSMXEPm) | 3:45 |
 
-Snapshot ID: `MCw1YTA0NTQwZmNkNDQ2YmYxOTA1ODM0MWU2NDRjYWJjNjgzM2FiYWQx`
+Snapshot ID: `MCxmYjNkMTY5OTlmMzZhMjUxNTVhZDIyOTIxZTFiNzZlYjI0YjMwMGZl`

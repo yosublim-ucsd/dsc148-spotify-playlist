@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,734 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,786 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,17 +14,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 4 | [Zina](https://open.spotify.com/track/575HcGSWIDCThpdUgtSCzK) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe) | 3:57 |
 | 5 | [قصاد عينى](https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ليلى نهارى](https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ) | 4:24 |
 | 6 | [Kifak Inta](https://open.spotify.com/track/7JaX3X1cPBAGoTs4V1P4uy) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairuz \- Modern Favorites](https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO) | 3:31 |
-| 7 | [Bala Ma Nhess](https://open.spotify.com/track/5bQBkD9DriF3J4zSP45Wwx) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bi Saraha](https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E) | 3:06 |
-| 8 | [ميدلي فضل شاكر](https://open.spotify.com/track/3OEVbHugLofLLdQgEpJUZy) | [Nadine Tayseer](https://open.spotify.com/artist/04ZAMGEzdHuE3gTbB3n3yp) | [ميدلي فضل شاكر](https://open.spotify.com/album/3pBS7Adj6jJUOz5t1aoxjZ) | 3:39 |
+| 7 | [ميدلي فضل شاكر](https://open.spotify.com/track/3OEVbHugLofLLdQgEpJUZy) | [Nadine Tayseer](https://open.spotify.com/artist/04ZAMGEzdHuE3gTbB3n3yp) | [ميدلي فضل شاكر](https://open.spotify.com/album/3pBS7Adj6jJUOz5t1aoxjZ) | 3:39 |
+| 8 | [Bala Ma Nhess](https://open.spotify.com/track/5bQBkD9DriF3J4zSP45Wwx) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bi Saraha](https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E) | 3:06 |
 | 9 | [Nefsy Ahbek](https://open.spotify.com/track/7yZc2gKENILqeJWofabYNF) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Sara Moullablad](https://open.spotify.com/artist/09BtMGqleUcGUrhl5zxToM) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 4:17 |
 | 10 | [3abali](https://open.spotify.com/track/11Eb5dyeLaWfBgo9CuUhCO) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8), [Samer Doumet](https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47) | [Amygdala](https://open.spotify.com/album/1cOXVnqOJwaUSmVQ6FIM8H) | 3:21 |
 | 11 | [Lama Tkooni](https://open.spotify.com/track/3eFh5hiL65ylUoGAAI3Rl1) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Lama Tkooni](https://open.spotify.com/album/5UtCKCQtEMEgenYWqYmxIB) | 3:31 |
-| 12 | [Fady Shewaya](https://open.spotify.com/track/3qRGs7H1bPfshHh19syRKQ) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mawloud Sanat 80](https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7) | 3:51 |
-| 13 | [Ahwak](https://open.spotify.com/track/1chsFxuRdocgGwhhCYfZ9m) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Rawaeaa Abd El Halim 5](https://open.spotify.com/album/2Dx9s3ceWiu7go3xMkdAs3) | 4:58 |
+| 12 | [Ahwak](https://open.spotify.com/track/1chsFxuRdocgGwhhCYfZ9m) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Rawaeaa Abd El Halim 5](https://open.spotify.com/album/2Dx9s3ceWiu7go3xMkdAs3) | 4:58 |
+| 13 | [Fady Shewaya](https://open.spotify.com/track/3qRGs7H1bPfshHh19syRKQ) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mawloud Sanat 80](https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7) | 3:51 |
 | 14 | [A Girl Within My Soul](https://open.spotify.com/track/2LT201aq632QgRQqLWFN5O) | [Abdulrahman Mohammed](https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl), [Mohab Omer](https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY) | [A Girl Within My Soul](https://open.spotify.com/album/299UA28OE1Nk7AnmUAv2ED) | 6:31 |
 | 15 | [Mel Bedaya](https://open.spotify.com/track/2j9B8YHcnxDwiDNZg6UXFl) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Kol Yom Men Dah](https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f) | 4:38 |
-| 16 | [Holm](https://open.spotify.com/track/18VTWGLJxaRMFdQ6NDIGKk) | [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [The Tunis Diaries](https://open.spotify.com/album/4BULdO9TRA4UfgfANxrGJN) | 4:46 |
-| 17 | [Bi Saraha](https://open.spotify.com/track/2TkmosdPkJXcjhvMzscrYP) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bi Saraha](https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E) | 3:19 |
+| 16 | [Bi Saraha](https://open.spotify.com/track/2TkmosdPkJXcjhvMzscrYP) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bi Saraha](https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E) | 3:19 |
+| 17 | [Holm](https://open.spotify.com/track/18VTWGLJxaRMFdQ6NDIGKk) | [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [The Tunis Diaries](https://open.spotify.com/album/4BULdO9TRA4UfgfANxrGJN) | 4:46 |
 | 18 | [A Vava Inouva](https://open.spotify.com/track/06eEMrvlkBmLLaezDSDcEl) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc) | [A Vava Inouva](https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1) | 4:26 |
 | 19 | [Bel Ahlam](https://open.spotify.com/track/4tqnXpS0wJcqkZMFx7reaY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Bel Ahlam](https://open.spotify.com/album/6NqhRld7ho3Y5w40QKf9Dk) | 2:49 |
 | 20 | [Lamma Bada Yatathana](https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [The Collection](https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3) | 4:01 |
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 33 | [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 |
 | 34 | [Fakra](https://open.spotify.com/track/0fVLZtZn8gp3KLtDhXDIRq) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [El Album](https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd) | 3:51 |
 | 35 | [Bala Wala Chi](https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Houdou Nisbi](https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz) | 3:27 |
-| 36 | [رجعنا التقينا](https://open.spotify.com/track/3bWGmpvHjK9GHt9JYXGWH8) | [Bisher بشر](https://open.spotify.com/artist/5aJWiAyj50doGPVR79VDzK) | [رجعنا التقينا](https://open.spotify.com/album/5FoaHEDPP43MWTLXBWCfEl) | 4:01 |
-| 37 | [Mabidichay](https://open.spotify.com/track/3lkJjAbdLWozIuox8sRoom) | [Lina Guessoussi](https://open.spotify.com/artist/6DFDylakhVHkuYqNhg1aBd) | [Mabidichay](https://open.spotify.com/album/1U9xlybG0rp68MxjwZTK2w) | 2:52 |
+| 36 | [Mabidichay](https://open.spotify.com/track/3lkJjAbdLWozIuox8sRoom) | [Lina Guessoussi](https://open.spotify.com/artist/6DFDylakhVHkuYqNhg1aBd) | [Mabidichay](https://open.spotify.com/album/1U9xlybG0rp68MxjwZTK2w) | 2:52 |
+| 37 | [رجعنا التقينا](https://open.spotify.com/track/3bWGmpvHjK9GHt9JYXGWH8) | [Bisher بشر](https://open.spotify.com/artist/5aJWiAyj50doGPVR79VDzK) | [رجعنا التقينا](https://open.spotify.com/album/5FoaHEDPP43MWTLXBWCfEl) | 4:01 |
 | 38 | [بدي احكيك](https://open.spotify.com/track/4LcxmnNWYr9EUeEJWwKT5e) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [بدي احكيك](https://open.spotify.com/album/24l1EZQGlN4iiE8qnowy0Q) | 2:51 |
 | 39 | [لو سامحنا](https://open.spotify.com/track/0mPK1phdFDMa38fY9FmByI) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [لو سامحنا](https://open.spotify.com/album/2yXagO9bqRLlpWf1kiF3u6) | 2:48 |
 | 40 | [Ya M'safer](https://open.spotify.com/track/2sOg0fznPO0YWKWksIQEmA) | [Ghalia Benali](https://open.spotify.com/artist/7BOI7fetZ2yzDpBUiCMyYy) | [Romeo & Leila](https://open.spotify.com/album/2j4MGjJOs8SBgXL7OyqCFl) | 5:22 |
-| 41 | [Afkarik](https://open.spotify.com/track/1ebIGIiewKtLSjLf6n76KX) | [Salim Tarabay](https://open.spotify.com/artist/4gLyumFZwjNYDdiHPpl9Pq) | [Afkarik](https://open.spotify.com/album/4aATb7Kb0iTifiMphvFpbW) | 3:42 |
-| 42 | [Al Bint El Chalabeya](https://open.spotify.com/track/2OxygAH92guaY9kliJboul) | [Dorsaf Hamdani](https://open.spotify.com/artist/4U5Hsr79OtYv01I4hOqruF) | [Dorsaf Hamdani chante Barbara & Fairouz](https://open.spotify.com/album/1GDQ89kQyz1755fry29kVm) | 3:06 |
+| 41 | [Al Bint El Chalabeya](https://open.spotify.com/track/2OxygAH92guaY9kliJboul) | [Dorsaf Hamdani](https://open.spotify.com/artist/4U5Hsr79OtYv01I4hOqruF) | [Dorsaf Hamdani chante Barbara & Fairouz](https://open.spotify.com/album/1GDQ89kQyz1755fry29kVm) | 3:06 |
+| 42 | [Afkarik](https://open.spotify.com/track/1ebIGIiewKtLSjLf6n76KX) | [Salim Tarabay](https://open.spotify.com/artist/4gLyumFZwjNYDdiHPpl9Pq) | [Afkarik](https://open.spotify.com/album/4aATb7Kb0iTifiMphvFpbW) | 3:42 |
 | 43 | [Habbaitak Tanseet El Noum](https://open.spotify.com/track/6ch2OJ4qWx6ub61bGKCkVo) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 2](https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y) | 5:37 |
 | 44 | [Bala Wala Shi](https://open.spotify.com/track/7b89zrIr9DsWQVVKeqU3v9) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Bala Wala Shi](https://open.spotify.com/album/0Y9Z6GwBnBoY4C3KvU9Ayx) | 2:46 |
 | 45 | [La7za](https://open.spotify.com/track/4VVpPqUEwJLJgAblQVBFWG) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [La7za](https://open.spotify.com/album/0bTeTZPnvaUfdhAXj8RTyU) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 99 | [Dessine\-moi Un Pays](https://open.spotify.com/track/1oHLJ7mrk2nDoEn7UXyBSw) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Dessine\-moi Un Pays](https://open.spotify.com/album/2Kj4Cn5WHRQVNFhFhsv8y9) | 3:28 |
 | 100 | [Shem Wroud](https://open.spotify.com/track/7mw1BU1xKLh9BPcMfhDuAG) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L) | [Shem Wroud](https://open.spotify.com/album/4lTQSJLGiwsJuNI7mvyFG6) | 3:16 |
 
-Snapshot ID: `MCxlZTQyNTZiYTY3MGQ1MTFhNGMxYzgwN2Y4NzI5ZGM3MzczYTI5M2I5`
+Snapshot ID: `MCw0YTYxODliZDNiYzRiNjRjZTc0YjVhNmU4ZGM3ZjU4Y2RjY2ExYWUx`

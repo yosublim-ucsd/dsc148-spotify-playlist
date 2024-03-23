@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHG4x5MYzpJ.md) - [plain]
 
 > Mientras no dejes de cantar, la playlist no deja de sonar\. Peso Pluma y Christian Nodal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,317 likes - 125 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,358 likes - 125 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHG4x5MYzpJ.md) - [plain]
 | 87 | [Secreto De Amor](https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 4:33 |
 | 88 | [Entre Beso Y Beso](https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:02 |
 | 89 | [Culpable Tú](https://open.spotify.com/track/2KGzDt4jfP39i8INV4rpdO) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 3:51 |
-| 90 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 |
+| 90 | [Por Mujeres Como Tú](https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 4:23 |
 | 91 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 |
-| 92 | [Sentimental](https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 2:47 |
-| 93 | [Por Mujeres Como Tú](https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 4:23 |
+| 92 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 |
+| 93 | [Sentimental](https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 2:47 |
 | 94 | [Es Que Me Gustas \- En Vivo](https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [En Vivo desde El Foro Lizos Music](https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag) | 2:32 |
 | 95 | [Mujeres Divinas](https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 3:13 |
 | 96 | [Te Lloré Un Río](https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:50 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHG4x5MYzpJ.md) - [plain]
 | 120 | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD) | 4:18 |
 | 121 | [Bonita](https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Bonita](https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca) | 3:21 |
 | 122 | [Más Que Disney](https://open.spotify.com/track/3opTNcoH22CTN1XMtf6tw3) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Norteño Vibe](https://open.spotify.com/album/6nw6hmqQLQTGjhVJLThXWs) | 2:42 |
-| 123 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 |
-| 124 | [Se Acabo \- En Vivo](https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Se Acabo \(En Vivo\)](https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR) | 3:50 |
+| 123 | [Se Acabo \- En Vivo](https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Se Acabo \(En Vivo\)](https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR) | 3:50 |
+| 124 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 |
 | 125 | [Las Locuras Mías](https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Las Locuras Mías](https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P) | 3:45 |
 
-Snapshot ID: `MCwyNTM0NTEwNzc4MmVmNGI2MGJmYzM0MDAwMTRjOWRjODRlMjk2N2Qw`
+Snapshot ID: `MCxjNGZkMjM3ZGE3ODI1MjM4OTkzODkwOWQ1Yjc0MGQwOWRiMzk1NmMy`

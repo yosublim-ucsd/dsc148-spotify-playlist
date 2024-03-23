@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Let the songs speak. Cover: Omarion",
+  "description": "Let the songs speak. Cover: Inayah",
   "name": "Some Kinda Way",
   "tracks": [
     {
@@ -4567,6 +4567,24 @@
     },
     {
       "album": {
+        "name": "Hot Sauce",
+        "url": "https://open.spotify.com/album/2WuTEjbwU7oIc0rFOFVVAV"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135039,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/5Lt20ho1AmhFJt56F1M7dS"
+    },
+    {
+      "album": {
         "name": "Hotel",
         "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
       },
@@ -4752,7 +4770,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 122086,
       "name": "Hurt Before",
       "url": "https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5"
@@ -6100,6 +6118,24 @@
       "duration_ms": 165000,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3QfAjgURz2FywuZFyTM8z5"
+    },
+    {
+      "album": {
+        "name": "Lonely With You/Back Outside - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5o1BWh17NDEWigKIIagHCU"
+      },
+      "artists": [
+        {
+          "name": "Bri Steves",
+          "url": "https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169035,
+      "name": "Lonely With You/Back Outside - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/36Dn4d18r8i08BrJOqH1AT"
     },
     {
       "album": {
@@ -8364,7 +8400,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 141375,
       "name": "Pusha Baby",
       "url": "https://open.spotify.com/track/2C8PDog5rQmuepQbjxkWpL"

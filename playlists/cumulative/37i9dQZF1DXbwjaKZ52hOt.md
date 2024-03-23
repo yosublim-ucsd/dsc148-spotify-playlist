@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-320 songs - 9 hr 37 min
+321 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [One Potato, Two Potatoes](https://open.spotify.com/track/5n8gxNoeeD3ksUsaqAQFEp) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Nursery Rhymes 2021](https://open.spotify.com/album/6Gz9pxxCRpCTbgARJusgGX) | 1:58 | 2022-02-25 | 2022-11-13 |
 | [One, Two, Buckle My Shoe](https://open.spotify.com/track/3hW0KHABBsresOUik93KF6) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 2](https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd) | 0:33 | 2022-02-25 |  |
 | [One, Two, Buckle My Shoe](https://open.spotify.com/track/2cPZhroexiAMR6i7pePfIe) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music Nursery Rhymes Vol\. 1](https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X) | 1:22 | 2022-02-25 | 2024-01-05 |
+| [One, Two, Three, Four, Five](https://open.spotify.com/track/5BZD7BMR9zqVcTWCbtK4i8) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Counting Songs for Kids](https://open.spotify.com/album/6sjdWjglHtNFlIaqS27asi) | 1:50 | 2024-03-22 |  |
 | [Open Shut Them](https://open.spotify.com/track/0GkggUIRAzhAvvtcoma2Af) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Nursery Rhymes by CoComelon Vol.2](https://open.spotify.com/album/1ofhhcoIElSAi2AhIplmmk) | 1:31 | 2022-02-25 |  |
 | [Open Shut Them](https://open.spotify.com/track/7aF0q7CPwR0ZGCAXbZAgG3) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 7: Kids Sing & Learn](https://open.spotify.com/album/3DrqTp4SDht5Guqh1O9WWI) | 2:26 | 2022-02-25 | 2024-01-05 |
 | [Pat\-a\-Cake](https://open.spotify.com/track/0gEduEeigUTtRW6FQjsbwA) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [The Wiggles Nursery Rhymes 2](https://open.spotify.com/album/7xZOZLJ8wsOCqd1K9OqYjG) | 1:09 | 2022-02-25 | 2022-07-29 |

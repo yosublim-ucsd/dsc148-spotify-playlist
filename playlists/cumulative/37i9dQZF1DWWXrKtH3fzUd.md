@@ -4,7 +4,7 @@
 
 > Automatic floorfillers\. A DJ's best friend\. Cover: Daft Punk
 
-266 songs - 17 hr 11 min
+267 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 | 2023-09-08 | 2024-03-22 |
 | [Club Can't Handle Me \(feat\. David Guetta\)](https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Only One Flo \(Part 1\)](https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS) | 3:54 | 2023-09-08 |  |
 | [Come On Eileen](https://open.spotify.com/track/3xKsPtA5XG91Zlh0SyycmM) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Come On Eileen / Dubious](https://open.spotify.com/album/6NzkNnLVrSumwkftZcNfkn) | 3:25 | 2021-12-20 | 2022-07-29 |
+| [Cooler Than Me \- Single Mix](https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Gigamesh](https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle) | [31 Minutes to Takeoff](https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl) | 3:33 | 2023-12-27 |  |
 | [Crank That \(Soulja Boy\)](https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [souljaboytellem.com](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) | 3:41 | 2021-12-20 | 2023-09-09 |
 | [Crazy](https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [St\. Elsewhere](https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA) | 2:57 | 2021-12-20 | 2022-04-19 |
 | [Crazy](https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [St\. Elsewhere](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) | 3:02 | 2022-08-23 | 2022-11-30 |
@@ -187,7 +188,7 @@
 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 | 2021-12-20 |  |
 | [Otis](https://open.spotify.com/track/6vegnfDS8DAEaCqWaPYGPy) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 2:58 | 2021-12-20 | 2022-07-10 |
 | [Paper Planes](https://open.spotify.com/track/1kusepF3AacIEtUTYrw4GV) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/1Lymt1abGCr3J06bbnmWca) | 3:23 | 2021-12-20 | 2022-07-29 |
-| [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2022-07-23 |  |
+| [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2022-07-23 | 2024-03-23 |
 | [Party In The U.S.A.](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:22 | 2021-12-20 | 2022-07-29 |
 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 | 2022-07-23 |  |
 | [Party Rock Anthem](https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/1MbBSfcqLg2OjkeZ1RMSIq) | 4:22 | 2021-12-20 | 2022-07-29 |

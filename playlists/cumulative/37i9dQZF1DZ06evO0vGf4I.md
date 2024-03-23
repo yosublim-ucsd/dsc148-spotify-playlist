@@ -4,7 +4,7 @@
 
 > This is Travis Scott\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 31 min
+59 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Nightcrawler \(feat\. Swae Lee & Chief Keef\)](https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:21 | 2023-11-10 |  |
 | [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 | 2024-01-13 |  |
 | [Only 1 \(Interlude\) \(with Travis Scott\)](https://open.spotify.com/track/4cEqoGTqPRZy76Yl3ymj3V) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 1:20 | 2023-12-31 | 2024-03-02 |
-| [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:59 | 2023-11-10 |  |
+| [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:59 | 2023-11-10 | 2024-03-23 |
+| [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/6koKhrBBcExADvWuOgceNZ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 3:59 | 2024-03-22 |  |
 | [OUT WEST \(feat\. Young Thug\)](https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 2:37 | 2023-11-10 |  |
 | [Overdue \(with Travis Scott\)](https://open.spotify.com/track/6LyAwkJsHlW7RQ8S1cYAtM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 2:46 | 2023-11-10 |  |
 | [pick up the phone](https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [pick up the phone](https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9) | 4:12 | 2024-02-11 | 2024-03-04 |

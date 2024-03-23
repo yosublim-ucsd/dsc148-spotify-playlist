@@ -1651,6 +1651,36 @@
     },
     {
       "album": {
+        "name": "Catch The Night In Marble (Hideyuki Hashimoto Rework)",
+        "url": "https://open.spotify.com/album/6Gj4K2OG0IIdtJP3CNscqp"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        },
+        {
+          "name": "Vincent Coomans",
+          "url": "https://open.spotify.com/artist/2Cyheo9UBds3X4lHvL3kUg"
+        },
+        {
+          "name": "Kevin Imbrechts",
+          "url": "https://open.spotify.com/artist/4IEPEjmBa0rkMZQhv5gYNu"
+        },
+        {
+          "name": "Illuminine",
+          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213400,
+      "name": "Catch The Night In Marble - Hideyuki Hashimoto Rework",
+      "url": "https://open.spotify.com/track/0ZcIrPjwN6XIjx3O5Ga90P"
+    },
+    {
+      "album": {
         "name": "Cavandoli",
         "url": "https://open.spotify.com/album/37BrBYpSTWdUz5j12OqXpy"
       },
@@ -1918,7 +1948,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 156906,
       "name": "Close",
       "url": "https://open.spotify.com/track/5tUoI7u3zsCo9KCx5s3GQh"
@@ -5389,6 +5419,24 @@
     },
     {
       "album": {
+        "name": "In A Darkened Room",
+        "url": "https://open.spotify.com/album/30jOl0PWPzrFJrYnIFC1QC"
+      },
+      "artists": [
+        {
+          "name": "Luiza Schmidt",
+          "url": "https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138389,
+      "name": "In A Darkened Room",
+      "url": "https://open.spotify.com/track/0iVMAdJchuoG3DqPBu1450"
+    },
+    {
+      "album": {
         "name": "In the clouds",
         "url": "https://open.spotify.com/album/5LXcMPLisz4OwQgaAkuwSD"
       },
@@ -7100,7 +7148,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 137169,
       "name": "Mandeville",
       "url": "https://open.spotify.com/track/2IL8731S2rxVzOuMzIbm08"
@@ -8354,7 +8402,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 154625,
       "name": "Num\u00e9ro 1",
       "url": "https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP"
@@ -9042,6 +9090,28 @@
       "duration_ms": 152850,
       "name": "Particle rise",
       "url": "https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3"
+    },
+    {
+      "album": {
+        "name": "Patina",
+        "url": "https://open.spotify.com/album/03JOXrUPxpvaAsxJ4kTa4X"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        },
+        {
+          "name": "Arvid Holst",
+          "url": "https://open.spotify.com/artist/51QTBtxREzZTTSqmwmPgpl"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122750,
+      "name": "Patina",
+      "url": "https://open.spotify.com/track/3FjHvK6O7529qNnCqDEaFc"
     },
     {
       "album": {
@@ -11515,6 +11585,24 @@
     },
     {
       "album": {
+        "name": "Tales of This",
+        "url": "https://open.spotify.com/album/3cbLSK4KRqfOYi918vET66"
+      },
+      "artists": [
+        {
+          "name": "Andrea Azzola",
+          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136867,
+      "name": "Tales of This",
+      "url": "https://open.spotify.com/track/75jwRyL9mbp1kMoYiCWoS2"
+    },
+    {
+      "album": {
         "name": "Tanken f\u00f6r oss vidare",
         "url": "https://open.spotify.com/album/6Elc1jsVKdtmqIbnCc0rij"
       },
@@ -13229,6 +13317,24 @@
     },
     {
       "album": {
+        "name": "Velvet Veil",
+        "url": "https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123479,
+      "name": "Velvet Veil",
+      "url": "https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx"
+    },
+    {
+      "album": {
         "name": "Venjan",
         "url": "https://open.spotify.com/album/7qnL09lriGNex377C6R0Ma"
       },
@@ -13474,7 +13580,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 155500,
       "name": "wandering bird",
       "url": "https://open.spotify.com/track/2bVLBwc3GD5lu9EKJIIGNR"
@@ -13528,7 +13634,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 188025,
       "name": "Water Lilly Pond",
       "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"

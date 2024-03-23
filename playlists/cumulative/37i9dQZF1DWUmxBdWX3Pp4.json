@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos del Trap Latino. Foto: KHEA.",
+  "description": "\u00c9xitos del Trap Latino. Foto: Bryant Myers, Jhayco & Luar La L.",
   "name": "TRAPPERZ",
   "tracks": [
     {
@@ -68,6 +68,36 @@
       "duration_ms": 173834,
       "name": "100oMIL",
       "url": "https://open.spotify.com/track/3DDexajgYw9notHn95WtNc"
+    },
+    {
+      "album": {
+        "name": "100xCiento",
+        "url": "https://open.spotify.com/album/0ftjfi9ePDKKe3JI7IxqEy"
+      },
+      "artists": [
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219682,
+      "name": "100xCiento",
+      "url": "https://open.spotify.com/track/52qI65Ek66LV3evWVDf1ET"
     },
     {
       "album": {
@@ -2529,6 +2559,36 @@
     },
     {
       "album": {
+        "name": "Trapicheo: EL DON",
+        "url": "https://open.spotify.com/album/16cVnNMAB6g0IyiOn2ViFv"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218536,
+      "name": "EL DON",
+      "url": "https://open.spotify.com/track/5o7hlGB1tciX7pk7DXEo74"
+    },
+    {
+      "album": {
         "name": "El Gran Robo, Pt. 2",
         "url": "https://open.spotify.com/album/2ASgyx6vWb2VXZAxywMaBn"
       },
@@ -4303,6 +4363,32 @@
     },
     {
       "album": {
+        "name": "KTM",
+        "url": "https://open.spotify.com/album/4tLv0V8sA8pwzlOBwGJgcF"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366760,
+      "name": "KTM",
+      "url": "https://open.spotify.com/track/3EPIt4FqsVQLM48HozrcFr"
+    },
+    {
+      "album": {
         "name": "La 2blea",
         "url": "https://open.spotify.com/album/7KfcmAvUwDPc3bUYLFje76"
       },
@@ -5216,7 +5302,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 200195,
       "name": "Mami Me Pregunta Si Trapeo",
       "url": "https://open.spotify.com/track/0r8ZTj61xBtfUMrAOiOPvG"
@@ -7006,7 +7092,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 214629,
       "name": "Papa Noel",
       "url": "https://open.spotify.com/track/7iSzHI1PsFudcDPd5IUPIr"
@@ -7386,7 +7472,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 317307,
       "name": "Presidentes Muertos",
       "url": "https://open.spotify.com/track/6KbONqnIUnp6dBJzqj2ChY"

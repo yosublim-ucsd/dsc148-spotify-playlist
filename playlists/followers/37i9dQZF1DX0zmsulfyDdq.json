@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 287131,
+  "2024-03-23": 287354,
   "date_first_scraped": "2022-04-19",
   "description": "Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Wish.",
   "name": "Disney Lullaby",
@@ -163,10 +163,32 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 173306,
       "name": "A Wish Worth Making",
       "url": "https://open.spotify.com/track/0bzD4NrdJpYqSvlPFSgeyV"
+    },
+    {
+      "album": {
+        "name": "Wish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        },
+        {
+          "name": "Benjamin Rice",
+          "url": "https://open.spotify.com/artist/4aXYXCnJR6Aweo8GnWoSTD"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173306,
+      "name": "A Wish Worth Making - Instrumental",
+      "url": "https://open.spotify.com/track/0QHJWOj83L1HeKFroQAtk7"
     },
     {
       "album": {

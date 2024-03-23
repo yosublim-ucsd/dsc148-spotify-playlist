@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,719 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,739 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 7 | [World Turns](https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:23 |
 | 8 | [Wendorlan](https://open.spotify.com/track/5riAIZl7bL5PEgpIxaNNrH) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Wendorlan](https://open.spotify.com/album/5KCxPdaw34RM8d9OjYJAwT) | 6:19 |
 | 9 | [VOLVER \(instrumental\)](https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [DATA \(Instrumental\)](https://open.spotify.com/album/1PueylpRcNPGRgr8i8tbXR) | 3:00 |
-| 10 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
-| 11 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 |
+| 10 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 |
+| 11 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
 | 12 | [Transactional Relationship](https://open.spotify.com/track/3GAEFblFG0ZzSKx5ilOWeW) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Transactional Relationship](https://open.spotify.com/album/38XWYqdoqeMD1oYTCmaw67) | 3:13 |
 | 13 | [C.A.](https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:06 |
 | 14 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 33 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
 | 34 | [Hondo \(Remix\)](https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [issuesonissues](https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0) | [Hondo \(Remix\)](https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn) | 5:21 |
 | 35 | [Alcyone](https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q) | [AINO](https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu) | [Pleiades](https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi) | 8:28 |
-| 36 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
-| 37 | [Closer \- Daniel Avery Edit](https://open.spotify.com/track/6n3bL5mXJ9iD3W8lB55PiA) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Closer \(Daniel Avery Edit\)](https://open.spotify.com/album/0dcne5FaazxA0dFUrnUfiN) | 4:06 |
+| 36 | [Closer \- Daniel Avery Edit](https://open.spotify.com/track/6n3bL5mXJ9iD3W8lB55PiA) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Closer \(Daniel Avery Edit\)](https://open.spotify.com/album/0dcne5FaazxA0dFUrnUfiN) | 4:06 |
+| 37 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
 | 38 | [realcopy](https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T) | [derek muro](https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY) | [chronopolis](https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q) | 3:13 |
 | 39 | [Blame Me \- BAILE Remix](https://open.spotify.com/track/7j15pOGVt7aHde9PWsrdCl) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [Daniel de Lara](https://open.spotify.com/artist/6soPIhIMY989DfzQ7boSOI), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [infina ad nausea: the remixes](https://open.spotify.com/album/3CgouRSATvx4CKXupVEf2j) | 5:59 |
 | 40 | [Time to Leave](https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu) | [ŻYŃY](https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY) | [Time to Leave](https://open.spotify.com/album/62tdWlcufIf8xyRQswdmLh) | 4:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 49 | [Opak](https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Opak](https://open.spotify.com/album/4vnp9u6zjv2U8pp40jpiBz) | 5:37 |
 | 50 | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s) | 6:01 |
 
-Snapshot ID: `MCw5ZWU2Y2ZjNTJhYTNlNTYxZmEzODU2ODNjN2I2N2U5MmNmZjcyM2Q5`
+Snapshot ID: `MCw2ZWYxYTI0NTlmYzA0NWFlZGFmYzBmOGY2MWE3N2MxMzgwOTE1NzYz`

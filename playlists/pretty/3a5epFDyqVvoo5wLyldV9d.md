@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 763 songs - 2 day 11 hr 43 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 764 songs - 2 day 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -771,5 +771,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 761 | [D.I.S.C.O.](https://open.spotify.com/track/1wAfRQ0q2FlWaKPpqedjUR) | [Ottawan](https://open.spotify.com/artist/4FPjAd9hBB9iaiq8qCkNf7) | [D.I.S.C.O.](https://open.spotify.com/album/0bd7kdZ6Kb6d7K3qgSemIv) | 5:01 |
 | 762 | [A Place Called Tarot \(Tarot Suite\)](https://open.spotify.com/track/6qunWG4X42q2LALYA9tdpp) | [Tantra](https://open.spotify.com/artist/6urc5hhviGE72zYtdNgbN3) | [Disco Recharge \(The Complete Expanded Collection\)](https://open.spotify.com/album/01AepugeEoimCqlJJl8eEW) | 15:41 |
 | 763 | [Hills Of Katmandu](https://open.spotify.com/track/5yM5RVlWC4JytzPyhqGRln) | [Tantra](https://open.spotify.com/artist/6urc5hhviGE72zYtdNgbN3) | [Disco Recharge \(The Complete Expanded Collection\)](https://open.spotify.com/album/01AepugeEoimCqlJJl8eEW) | 16:21 |
+| 764 | [Sharazan](https://open.spotify.com/track/3QykjIsOz7tAH4G1OrRDT7) | [Al Bano And Romina Power](https://open.spotify.com/artist/1c0wBsDBu0NqpvxBqjYjZS) | [Felicità](https://open.spotify.com/album/6rYKh2EVXdWs5Pe8MugvSM) | 4:24 |
 
-Snapshot ID: `ODU1LGVlNWIyOGY2ODJmMmUyMTgwN2Y3NzRjMDFlOGNlZmZiYzAwOTUzOTQ=`
+Snapshot ID: `ODU2LGQxNDkxNjRkNTZhZjkzOWMzMzQwYzc3MzNiZjE0NTVjMTlmNzYxOTM=`

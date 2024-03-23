@@ -1,15 +1,15 @@
 {
   "description": "The essential Olivia Rodrigo tracks, all in one playlist.",
-  "num_followers": 805082,
+  "num_followers": 805902,
   "original_name": "This Is Olivia Rodrigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjAyNWNhYzBiZGI1MGNlZjMxOTYzMDE5NGRlYzM1MmEyOWViNDdi",
+  "snapshot_id": "MCw1YTAxZjJjZTM5YmIyNTUzNGI3YmRlNDY3ZWEwZTNjZjA3YmIxOGRm",
   "tracks": [
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 170541,
+      "name": "obsessed",
+      "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -73,7 +89,23 @@
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 169717,
+      "name": "so american",
+      "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -89,7 +121,7 @@
       "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
         "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -121,7 +153,23 @@
       "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 121354,
+      "name": "girl i\u2019ve always been",
+      "url": "https://open.spotify.com/track/0bJAmhSAeMSfsyazOEUVFf"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -137,7 +185,7 @@
       "url": "https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -153,7 +201,7 @@
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -169,7 +217,23 @@
       "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 263928,
+      "name": "scared of my guitar",
+      "url": "https://open.spotify.com/track/7JqH46zlr7XV7vMBt4slE6"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "All I Want (From \"High School Musical: The Musical: The Series\")",
         "url": "https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2"
@@ -189,7 +253,7 @@
       "url": "https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -205,7 +269,7 @@
       "url": "https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -221,7 +285,7 @@
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -237,7 +301,23 @@
       "url": "https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 192771,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/2U3jOPfO4wZZFaaWS4Dcj6"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -253,7 +333,7 @@
       "url": "https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -269,7 +349,7 @@
       "url": "https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -285,7 +365,7 @@
       "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -301,7 +381,7 @@
       "url": "https://open.spotify.com/track/5CscrLqFBgPfZR8fGtikov"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -317,7 +397,7 @@
       "url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -333,7 +413,7 @@
       "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -349,7 +429,7 @@
       "url": "https://open.spotify.com/track/6W9l02gRsXVxzIuQC1oc1X"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -365,7 +445,7 @@
       "url": "https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -381,7 +461,7 @@
       "url": "https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -397,7 +477,7 @@
       "url": "https://open.spotify.com/track/1zejeOnykpCoyVSit6Bwp3"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -413,7 +493,7 @@
       "url": "https://open.spotify.com/track/7fesNTgTEMEH0ye8MOgEDY"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "The Rose Song [From \"High School Musical: The Musical: The Series (Season 2)\"]",
         "url": "https://open.spotify.com/album/6TeOuy8VtjfYy52ntsnu1m"
@@ -433,7 +513,7 @@
       "url": "https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Wondering (From \"High School Musical: The Musical: The Series\")",
         "url": "https://open.spotify.com/album/14fMbn20pipBmmHWtKWInz"
@@ -457,7 +537,7 @@
       "url": "https://open.spotify.com/track/6GfTYfb5eBLN1p1ByOsPmi"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Even When/The Best Part [From \"High School Musical: The Musical: The Series (Season 2)\"]",
         "url": "https://open.spotify.com/album/2YLKW3LB4P1cEersm5YpAL"
@@ -481,7 +561,7 @@
       "url": "https://open.spotify.com/track/30UszgTxEuJVG5SUFyBffT"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
@@ -501,7 +581,7 @@
       "url": "https://open.spotify.com/track/2JAE25n5JDyb3rp2ti0ql8"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Just for a Moment (From \"High School Musical: The Musical: The Series\")",
         "url": "https://open.spotify.com/album/7x6n2jztq7Zlff5xVCfzqB"
@@ -525,7 +605,7 @@
       "url": "https://open.spotify.com/track/5Yc2A0YtK6PaXT8J1MQ0Rd"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "I Think I Kinda, You Know (From \"High School Musical: The Musical: The Series\")",
         "url": "https://open.spotify.com/album/1fgrILRm1bhM6oi3eK0eAs"
@@ -549,7 +629,7 @@
       "url": "https://open.spotify.com/track/2UVrIJBJVRPN9UgzShCJ5c"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
@@ -569,7 +649,7 @@
       "url": "https://open.spotify.com/track/6YYF7BRXYbGIHd3FLeU9R4"
     },
     {
-      "added_at": "2024-03-04 19:10:43",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "The Best Part [From \"High School Musical: The Musical: The Series (Season 2)\"]",
         "url": "https://open.spotify.com/album/2QvIqoT72oNaNuIrWR3FjC"

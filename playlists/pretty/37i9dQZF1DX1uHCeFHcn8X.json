@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2010s. ",
-  "num_followers": 1111634,
+  "num_followers": 1111991,
   "original_name": "Soft 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzgxNWYwNmY2Nzk5MmU0MjI4ZDdlMWVlMmUwYjFiNmExNjFjNTg0",
+  "snapshot_id": "MCxlZTk0Mzg3YjVmOGZkMzRmZTQ4ZjlkMWM1OGU0ZjAwODMyYzY4NzAw",
   "tracks": [
     {
       "added_at": "2023-04-05 17:26:45",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Midnight Memories (Deluxe)",
         "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 245493,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Lukas Graham",
-        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "everything i wanted",
         "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 245425,
       "name": "everything i wanted",
       "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Lukas Graham",
+        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
         "name": "Inner Monologue Part 1",
         "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "Take Me to Church",
-      "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 237933,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/2afCBiru10AFckfOa49wIa"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 237933,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/2afCBiru10AFckfOa49wIa"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Take Me Home (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Birdy",
         "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 201080,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Take Me Home (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 219040,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 171727,
-      "name": "Liability",
-      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Electric Light",
         "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 181360,
       "name": "Us",
       "url": "https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 171727,
+      "name": "Liability",
+      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -2579,22 +2579,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 212787,
-      "name": "I Want You Around",
-      "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Welcome to Wonderland",
         "url": "https://open.spotify.com/album/6YgJ3NjlqdUX6MdejVudHp"
       },
@@ -2607,6 +2591,22 @@
       "duration_ms": 199131,
       "name": "Welcome to Wonderland",
       "url": "https://open.spotify.com/track/3JfHYZKy5JmE5Fv4gDTCiz"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 212787,
+      "name": "I Want You Around",
+      "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -2719,22 +2719,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 256687,
-      "name": "Be My Mistake",
-      "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Once Upon a Mind",
         "url": "https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4"
       },
@@ -2747,6 +2731,22 @@
       "duration_ms": 259991,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/4SykS8RWkF6eK6xeua7XLP"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 256687,
+      "name": "Be My Mistake",
+      "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -3411,22 +3411,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Songs I Wrote in My Bedroom",
-        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 222467,
-      "name": "Trying My Best",
-      "url": "https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
       },
@@ -3439,6 +3423,22 @@
       "duration_ms": 176078,
       "name": "Just a Cloud Away",
       "url": "https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Songs I Wrote in My Bedroom",
+        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 222467,
+      "name": "Trying My Best",
+      "url": "https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -3599,22 +3599,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "head or heart",
-        "url": "https://open.spotify.com/album/74PXwYZw2Z5UF6keoLp8qH"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "human",
-      "url": "https://open.spotify.com/track/1x80xTzSL7pok3M5JC3oJz"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Ella Mai",
         "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
@@ -3627,6 +3611,22 @@
       "duration_ms": 239341,
       "name": "Boo'd Up",
       "url": "https://open.spotify.com/track/4squZv12LD9M8ooJfoVgZS"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "head or heart",
+        "url": "https://open.spotify.com/album/74PXwYZw2Z5UF6keoLp8qH"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "human",
+      "url": "https://open.spotify.com/track/1x80xTzSL7pok3M5JC3oJz"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -3897,22 +3897,6 @@
       "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
     },
     {
-      "added_at": "2024-01-05 10:45:00",
-      "album": {
-        "name": "Singular Act II",
-        "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 164708,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/6CagMrZXJUdGGIw6Eaepos"
-    },
-    {
       "added_at": "2023-04-05 17:26:45",
       "album": {
         "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
@@ -3927,6 +3911,22 @@
       "duration_ms": 209560,
       "name": "Flashlight - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/6SkoBaMd0lzoQjID5aV2d9"
+    },
+    {
+      "added_at": "2024-01-05 10:45:00",
+      "album": {
+        "name": "Singular Act II",
+        "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 164708,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/6CagMrZXJUdGGIw6Eaepos"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -4099,6 +4099,26 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
+        "name": "7: Anniversary Edition",
+        "url": "https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Flames",
+      "url": "https://open.spotify.com/track/2mBPqbzgjIELxd86CdxC7v"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
         "name": "lost",
         "url": "https://open.spotify.com/album/0hc021mB0QDSF4uCTr3Ki7"
       },
@@ -4131,26 +4151,6 @@
       "duration_ms": 177886,
       "name": "You Let Me Walk Alone",
       "url": "https://open.spotify.com/track/07qlsG6DYRLBbovwca9Vbr"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
-        "name": "7: Anniversary Edition",
-        "url": "https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Flames",
-      "url": "https://open.spotify.com/track/2mBPqbzgjIELxd86CdxC7v"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -4207,22 +4207,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Christine and the Queens",
-        "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 233247,
-      "name": "Tilted",
-      "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Oh Wonder",
         "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
       },
@@ -4235,6 +4219,22 @@
       "duration_ms": 224740,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Christine and the Queens",
+        "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 233247,
+      "name": "Tilted",
+      "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
     },
     {
       "added_at": "2023-04-05 17:26:45",

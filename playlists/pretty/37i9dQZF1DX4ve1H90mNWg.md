@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. <br/> Cover:  <a href="spotify:artist:181bsRPaVXVlUKXrxwZfHK">Megan Thee Stallion</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,768 likes - 64 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,780 likes - 64 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 18 | [DO NOT DISTURB](https://open.spotify.com/track/06pDFA1R4GHG9DbzshvbA3) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [DO NOT DISTURB](https://open.spotify.com/album/7u08JA7JYQNi7rgYve3w0V) | 2:42 |
 | 19 | [Whatchamacallit \(feat\. Luh Tyler\)](https://open.spotify.com/track/2MjhK44oBBWTwCEyKGFny3) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Whatchamacallit \(feat\. Luh Tyler\)](https://open.spotify.com/album/4OWtS7Ahtsh2foaV4gDMZZ) | 2:38 |
 | 20 | [How Far I Came \- Freestyle](https://open.spotify.com/track/6LDVwjQHY8okh3Tew7YSa7) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [Hunna G](https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP) | [How Far I Came \(Freestyle\)](https://open.spotify.com/album/0e451PeUcpoz3qJGlNoRZQ) | 2:01 |
-| 21 | [Hot](https://open.spotify.com/track/0Revfe4sVWf3hZqIV8SZCv) | [OTB Fastlane](https://open.spotify.com/artist/130sangK9RkAwRToKn9GHj) | [Talk Of The Streets](https://open.spotify.com/album/5vcQL0VjQajevAyC58NMnX) | 2:38 |
+| 21 | [Hot](https://open.spotify.com/track/6Dm5PSDdMvkwgmxeYLmtDP) | [OTB Fastlane](https://open.spotify.com/artist/130sangK9RkAwRToKn9GHj) | [Talk Of The Streets](https://open.spotify.com/album/2HpGcgFHfK9nuSdH1Sm2vD) | 2:38 |
 | 22 | [Street Sweeper \(feat\. Swae Lee\)](https://open.spotify.com/track/2NqpZD00BADhsvldFVdO0j) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Street Sweeper \(feat\. Swae Lee\)](https://open.spotify.com/album/732QIKM3qkHhwZgxaZsBLZ) | 2:40 |
 | 23 | [DAT BOY DEN](https://open.spotify.com/track/25uHS9sdrhZecYFfSRnz1k) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [DAT BOY DEN](https://open.spotify.com/album/20AweIUmetnWYC7YdxCmir) | 2:24 |
 | 24 | [Comfort Zone](https://open.spotify.com/track/630q96mwskFebimJP0e75i) | [KIERA](https://open.spotify.com/artist/7G7hLUWvJdauzLU6YGljLd) | [Comfort Zone](https://open.spotify.com/album/7Cbqn9T1eRElxI5heMJxvv) | 2:41 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 63 | [Swangin' Glass](https://open.spotify.com/track/1W1xIjbH4GyA33FMQicGOL) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T) | [Swangin' Glass](https://open.spotify.com/album/7JWPGp4cjmFp6LaAiV6YJ6) | 3:12 |
 | 64 | [EXCESSIVE CELEBRATION](https://open.spotify.com/track/1cyqKDC2Wdz5GhIT6AIyBV) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Ochocinco](https://open.spotify.com/artist/4KdKJI82m303dLW4RYZCuT) | [EXCESSIVE CELEBRATION](https://open.spotify.com/album/3q0giSaERc2Gfk9bK00FM5) | 1:09 |
 
-Snapshot ID: `MCw5YmMyMzk1MWI3ZGRjODgyYmU2YmNhMzg4OTYzOGUwYTNlMmVkZjk3`
+Snapshot ID: `MCw0OGExMDhiMGUxNGYzYTEwNDZjYTk3M2JhNmViNDliNDA3MTYxMmNl`

@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 149019,
+  "num_followers": 149084,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWEzNDAxNTI2MTRmNmYxYTU4ZWYwZmM4MmVmYWJiY2M0MjFjYWI2",
+  "snapshot_id": "MCxkNDQ5YzAyMThhN2E0Mzg5N2VkMjljMjk0MTIxNDhiZWRiZjMxM2Ux",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Gone Too Soon (Acoustic)",
-        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
-      },
-      "artists": [
-        {
-          "name": "Andrew Jannakos",
-          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
-        }
-      ],
-      "duration_ms": 167469,
-      "name": "Gone Too Soon - Acoustic",
-      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "I'm Not Prettier",
         "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Cowboy Forever (Acoustic Version)",
-        "url": "https://open.spotify.com/album/06oFPRkliY6amtTA188tk8"
+        "name": "Gone Too Soon (Acoustic)",
+        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
       },
       "artists": [
         {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+          "name": "Andrew Jannakos",
+          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
         }
       ],
-      "duration_ms": 170242,
-      "name": "Cowboy Forever (Acoustic Version)",
-      "url": "https://open.spotify.com/track/0NWLt71QlmsCPEgLF2NSMS"
+      "duration_ms": 167469,
+      "name": "Gone Too Soon - Acoustic",
+      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1399,6 +1383,22 @@
       "duration_ms": 260000,
       "name": "Waves (Live)",
       "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Cowboy Forever (Acoustic Version)",
+        "url": "https://open.spotify.com/album/06oFPRkliY6amtTA188tk8"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 170242,
+      "name": "Cowboy Forever (Acoustic Version)",
+      "url": "https://open.spotify.com/track/0NWLt71QlmsCPEgLF2NSMS"
     },
     {
       "added_at": "2024-03-15 04:00:00",

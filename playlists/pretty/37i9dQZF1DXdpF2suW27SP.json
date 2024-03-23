@@ -1,12 +1,12 @@
 {
   "description": "Lhast e Chaylan entram na zona. ",
-  "num_followers": 177380,
+  "num_followers": 177438,
   "original_name": "Na Zona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTZmMDE5NjE3NmRkOTZjMzM3MGQ4NWVmNjJkMGQwZWI2M2VmMWU3",
+  "snapshot_id": "MCw4OTEwNTA5YjhmNzRjMThkMTMwNjQ5YWMyN2JlNzI5YTg1MzBkNTll",
   "tracks": [
     {
       "added_at": "2024-03-22 00:00:00",
@@ -519,6 +519,22 @@
       "duration_ms": 159751,
       "name": "Tata",
       "url": "https://open.spotify.com/track/0fPOFtS7ZylYKcC9b64cSj"
+    },
+    {
+      "added_at": "2024-03-22 00:00:00",
+      "album": {
+        "name": "Falsas Promessas",
+        "url": "https://open.spotify.com/album/0j8boNQiLBCOZIpa0ZAtHS"
+      },
+      "artists": [
+        {
+          "name": "Zt35",
+          "url": "https://open.spotify.com/artist/4yEpDApCiftRugkpN2sOVM"
+        }
+      ],
+      "duration_ms": 144892,
+      "name": "Falsas Promessas",
+      "url": "https://open.spotify.com/track/4df02rGPOOrmAG32URpPHI"
     },
     {
       "added_at": "2024-03-22 00:00:00",

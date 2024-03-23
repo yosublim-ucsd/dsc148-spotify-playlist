@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 
 > ¡Dale play a tu antojo! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,025 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,031 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 | 18 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 |
 | 19 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 |
 | 20 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 |
-| 21 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 |
-| 22 | [It Was A Good Day](https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Predator](https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46) | 4:20 |
+| 21 | [It Was A Good Day](https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Predator](https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46) | 4:20 |
+| 22 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 |
 | 23 | [Extssy Model](https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 4:00 |
 | 24 | [Rosa Pastel](https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Dulce Beat](https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK) | 3:05 |
 | 25 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 | 30 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 |
 | 31 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 |
 | 32 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 |
-| 33 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 |
-| 34 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 |
+| 33 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 |
+| 34 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 |
 | 35 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 |
 | 36 | [Perfecta](https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:45 |
 | 37 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 | 49 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 |
 | 50 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 |
 
-Snapshot ID: `MCw4YmNjYzYyNDlmZWMxZTBmOGVkMTA0NzYxYjdiNjRmNDg5M2VlZWU0`
+Snapshot ID: `MCwzY2RjZmExZjkxZGQ5MTM3MzM0NDBlNWIzMTAyNmQ1Y2EwYjZiYmI1`

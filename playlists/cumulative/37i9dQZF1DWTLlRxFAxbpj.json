@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 145542,
       "name": "Drip Too Hard (Lil Baby & Gunna)",
       "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
@@ -3087,7 +3087,7 @@
     },
     {
       "album": {
-        "name": "Patadas de Ahogado / LATIN MAFIA (Rework)",
+        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
         "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
       },
       "artists": [
@@ -3100,7 +3100,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186341,
-      "name": "Patadas de Ahogado / LATIN MAFIA - Rework",
+      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
@@ -3912,6 +3912,24 @@
       "duration_ms": 190288,
       "name": "Stir Fry",
       "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
+    },
+    {
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "album": {

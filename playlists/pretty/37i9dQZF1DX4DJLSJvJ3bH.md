@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,048 likes - 125 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,042 likes - 125 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 36 | [Misteltoe](https://open.spotify.com/track/6SJKiadklwqj969ihsTL06) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Misteltoe](https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K) | 2:22 |
 | 37 | [The Winter Song](https://open.spotify.com/track/0uo9UAJQ9o4O1U8wxR7Ipj) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Christmas Kiss](https://open.spotify.com/album/1ZGCxC05Xyfe9PW1ZQkEPc) | 2:31 |
 | 38 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/7h4Ayplz18fKgoPUIWfaJd) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Frosty The Snowman](https://open.spotify.com/album/008Ifp6NdPVfUafKcraamu) | 1:54 |
-| 39 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/43hPyoE1vsz3VnvBDupq5B) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 3:20 |
-| 40 | [It's a Marshmallow World](https://open.spotify.com/track/07IAc4rBedblbuD0eXNLUY) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Presenting Jo Stafford](https://open.spotify.com/album/7dySyiaqWeRsXCHWQMhStJ) | 2:10 |
+| 39 | [It's a Marshmallow World](https://open.spotify.com/track/07IAc4rBedblbuD0eXNLUY) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Presenting Jo Stafford](https://open.spotify.com/album/7dySyiaqWeRsXCHWQMhStJ) | 2:10 |
+| 40 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/43hPyoE1vsz3VnvBDupq5B) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 3:20 |
 | 41 | [It Is Well With My Soul](https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 2:05 |
 | 42 | [Lost in the stars](https://open.spotify.com/track/7FGl7mrd84QlQAqNqfonVN) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Lost in the stars](https://open.spotify.com/album/3RzCBEMpRWtRNtrIfLsPSc) | 3:03 |
-| 43 | [Santa tell me](https://open.spotify.com/track/1g5N61jKCHgVpSYYBz9FDV) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Santa tell me](https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu) | 2:18 |
-| 44 | [Warm In December \- Edit](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December \(Edit\)](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 |
+| 43 | [Warm In December \- Edit](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December \(Edit\)](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 |
+| 44 | [Santa tell me](https://open.spotify.com/track/1g5N61jKCHgVpSYYBz9FDV) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Santa tell me](https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu) | 2:18 |
 | 45 | [I Saw Three Ships](https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:48 |
-| 46 | [O Little Town Of Bethlehem](https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:19 |
+| 46 | [Candy Canes and Silver Lanes](https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Candy Canes and Silver Lanes](https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC) | 3:43 |
 | 47 | [The Holly and the Ivy](https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 1:30 |
-| 48 | [Candy Canes and Silver Lanes](https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Candy Canes and Silver Lanes](https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC) | 3:43 |
+| 48 | [O Little Town Of Bethlehem](https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:19 |
 | 49 | [Hard Candy Christmas](https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC) | 2:55 |
 | 50 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 |
 | 51 | [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 87 | [Busy Santa](https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Busy Santa](https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD) | 3:20 |
 | 88 | [Christmas Blues](https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:47 |
 | 89 | [Here We Come A\-Caroling](https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [Here We Come A\-Caroling](https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI) | 2:23 |
-| 90 | [Sleigh Ride](https://open.spotify.com/track/3DnYHzeul8cWJDEuTFd79H) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV) | 3:40 |
-| 91 | [When You Wish Upon a Star](https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [When You Wish Upon a Star](https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI) | 2:47 |
+| 90 | [When You Wish Upon a Star](https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [When You Wish Upon a Star](https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI) | 2:47 |
+| 91 | [Sleigh Ride](https://open.spotify.com/track/3DnYHzeul8cWJDEuTFd79H) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV) | 3:40 |
 | 92 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5M6I00Mt7AQrqFcF4WWZDz) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 4:27 |
 | 93 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/6YlfwPv17X9gr6K22dR3QY) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Silver Bells](https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq) | 3:20 |
 | 94 | [Under My Christmas Tree](https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Under My Christmas Tree](https://open.spotify.com/album/3486nX6gEewOk56YcHVrxA) | 3:06 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 124 | [Toyland](https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4) | [Stephen Stevens Quartet](https://open.spotify.com/artist/0sHjwkrwfeNPET9gG2nNfQ) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/29NEpWZtAc1pKuVl6LvEvm) | 2:54 |
 | 125 | [Christmas Rainbows](https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [That Holiday Feelin'](https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j) | 5:13 |
 
-Snapshot ID: `MCwxMjEwOTY4NjM3YjJmNjY3ODFjMTExZjNlM2U3M2RkM2Y2Yjc4Njdk`
+Snapshot ID: `MCxmMzMxYjk4YWExYmE2M2Y5ZDY0YTQ0ZDg2OGFhNmE0MTk3YjZiYjcw`

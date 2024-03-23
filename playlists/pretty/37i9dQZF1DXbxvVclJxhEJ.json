@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 47321,
+  "num_followers": 47371,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTMxMGVhZjg5MGY5ODExODA0MmQzMTMzNDY1MThlYTQxNmJiNWMw",
+  "snapshot_id": "MCw3NzRlNTRmZTFmOWI4ZDM0N2FlOTQ3MjJkMWNkYzRiMGE0NWE1Nzdl",
   "tracks": [
     {
       "added_at": "2023-08-23 10:15:28",
@@ -503,8 +503,8 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Early One Mornin\u2019 Blues (Live)",
-        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 254106,
-      "name": "Early One Mornin\u2019 Blues - Live",
-      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
+      "duration_ms": 180400,
+      "name": "I'm Feeling Alright",
+      "url": "https://open.spotify.com/track/2oBuD0bsCutoNh1gbVuBPn"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -615,8 +615,8 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Ball n' Chain",
-        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+        "name": "Early One Mornin\u2019 Blues (Live)",
+        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 180400,
-      "name": "I'm Feeling Alright",
-      "url": "https://open.spotify.com/track/2oBuD0bsCutoNh1gbVuBPn"
+      "duration_ms": 254106,
+      "name": "Early One Mornin\u2019 Blues - Live",
+      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Female Blues Singers Vol. 1 A/B (1924-1932)",
-        "url": "https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB"
-      },
-      "artists": [
-        {
-          "name": "Ora Alexander",
-          "url": "https://open.spotify.com/artist/1PQwSb0u9VGGk4yqojZYgl"
-        }
-      ],
-      "duration_ms": 183667,
-      "name": "I Crave Your Lovin' Every Day",
-      "url": "https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "High Flying Bird",
         "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 139773,
       "name": "Good Old Wagon",
       "url": "https://open.spotify.com/track/66UbGr4aj2FCys1UQnzCRR"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Female Blues Singers Vol. 1 A/B (1924-1932)",
+        "url": "https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB"
+      },
+      "artists": [
+        {
+          "name": "Ora Alexander",
+          "url": "https://open.spotify.com/artist/1PQwSb0u9VGGk4yqojZYgl"
+        }
+      ],
+      "duration_ms": 183667,
+      "name": "I Crave Your Lovin' Every Day",
+      "url": "https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "The Complete Okeh Sessions 1952-1955",
+        "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
+      },
+      "artists": [
+        {
+          "name": "Big Maybelle",
+          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "I'm Getting 'Long Alright",
+      "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "The Victoria Spivey Collection 1926-27",
         "url": "https://open.spotify.com/album/5olLgL3yqz7EBV3VXxZwfe"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 196453,
       "name": "Funny Feathers",
       "url": "https://open.spotify.com/track/2tz4e68Y8dbTo8oGL7DR99"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "The Complete Okeh Sessions 1952-1955",
-        "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
-      },
-      "artists": [
-        {
-          "name": "Big Maybelle",
-          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "I'm Getting 'Long Alright",
-      "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "Lil's Big Hits",
+        "url": "https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08"
+      },
+      "artists": [
+        {
+          "name": "Lilgreen",
+          "url": "https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7"
+        }
+      ],
+      "duration_ms": 202964,
+      "name": "Romance In The Dark",
+      "url": "https://open.spotify.com/track/5eLdg6SFlue27XADwrAxzS"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "Those Dirty Blues, Vol. 2",
         "url": "https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Lil's Big Hits",
-        "url": "https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08"
-      },
-      "artists": [
-        {
-          "name": "Lilgreen",
-          "url": "https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7"
-        }
-      ],
-      "duration_ms": 202964,
-      "name": "Romance In The Dark",
-      "url": "https://open.spotify.com/track/5eLdg6SFlue27XADwrAxzS"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Territory Singers Vol. 1 (1922-1928)",
         "url": "https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Raunchy Business: Hot Nuts & Lollypops",
-        "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
-      },
-      "artists": [
-        {
-          "name": "Bernice Edwards",
-          "url": "https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "Butcher Shop Blues",
-      "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Anthology: The Deluxe Collection (Remastered)",
         "url": "https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 156373,
       "name": "Rock Me - Remastered",
       "url": "https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Raunchy Business: Hot Nuts & Lollypops",
+        "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
+      },
+      "artists": [
+        {
+          "name": "Bernice Edwards",
+          "url": "https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Butcher Shop Blues",
+      "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "The Complete Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Any Woman's Blues",
-      "url": "https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Powerhouse Gospel",
         "url": "https://open.spotify.com/album/2tT0KrE7bqEef6GnIeVfuZ"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 156279,
       "name": "I'm His And He's Mine",
       "url": "https://open.spotify.com/track/4ow8NW6mODvHBzeLlSiYXB"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "The Complete Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Any Woman's Blues",
+      "url": "https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ"
     },
     {
       "added_at": "2023-08-23 10:15:28",

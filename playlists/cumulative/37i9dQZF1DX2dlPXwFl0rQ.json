@@ -1,8 +1,52 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Estas son las indomables de la M\u00fasica Mexicana. Las Mar\u00edas en portada.",
+  "description": "Estas son las indomables de la M\u00fasica Mexicana. Marian Oviedo, Laraim en portada.",
   "name": "Mujeres Brav\u00edas",
   "tracks": [
+    {
+      "album": {
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168896,
+      "name": "(Entre Par\u00e9ntesis)",
+      "url": "https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU"
+    },
+    {
+      "album": {
+        "name": "1,2,3 Segundos",
+        "url": "https://open.spotify.com/album/4TTSoBiOMtSe50meE5ttO6"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197315,
+      "name": "1,2,3 Segundos",
+      "url": "https://open.spotify.com/track/5BC2YTp3IhpsmuYuJVQIjG"
+    },
     {
       "album": {
         "name": "200 COPAS (Short Version)",
@@ -34,7 +78,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 222937,
       "name": "3 Consejos",
       "url": "https://open.spotify.com/track/5Vbg1vjwEUpXe81Rs50Ste"
@@ -298,7 +342,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 194275,
       "name": "Al No Tenerte",
       "url": "https://open.spotify.com/track/5TOSj4RD0DP9ntUD4ng3p1"
@@ -837,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Cherry Mo\u00ebt",
+        "url": "https://open.spotify.com/album/7eC6nc8QoI2GBtGLYfcR4B"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148951,
+      "name": "Cherry Mo\u00ebt",
+      "url": "https://open.spotify.com/track/5sVce8xSleIsaMwmPt7LbG"
+    },
+    {
+      "album": {
         "name": "Choro",
         "url": "https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV"
       },
@@ -982,7 +1044,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 232973,
       "name": "Con La Mirada",
       "url": "https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi"
@@ -1241,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "C\u00f3mo Le Hacen Los Dolidos",
+        "url": "https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166280,
+      "name": "C\u00f3mo Le Hacen Los Dolidos",
+      "url": "https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp"
+    },
+    {
+      "album": {
         "name": "Una Buena Ranchera",
         "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
@@ -1292,6 +1372,42 @@
       "duration_ms": 156866,
       "name": "Dama Divina",
       "url": "https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx"
+    },
+    {
+      "album": {
+        "name": "Dame Chance",
+        "url": "https://open.spotify.com/album/3hqAgKenfEtAvxK4ZnLo3h"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161256,
+      "name": "Dame Chance",
+      "url": "https://open.spotify.com/track/1I6iS0hQ2tsdcG7PTKTPHW"
+    },
+    {
+      "album": {
+        "name": "DDC",
+        "url": "https://open.spotify.com/album/73kfcjW3oBTvxHiY1X7p61"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186983,
+      "name": "DDC",
+      "url": "https://open.spotify.com/track/4IaMG4UOgitE01E6pYN9ZE"
     },
     {
       "album": {
@@ -2403,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "La Atrevida",
+        "url": "https://open.spotify.com/album/1hBuK0wcd0dXlG9fJaLZfv"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164276,
+      "name": "La Atrevida",
+      "url": "https://open.spotify.com/track/6Z31cRAUoYyKP41rtpbA8K"
+    },
+    {
+      "album": {
         "name": "La Cama No Miente",
         "url": "https://open.spotify.com/album/6h40E1fUVVRVlSaNdiw57l"
       },
@@ -2512,6 +2646,24 @@
       "duration_ms": 234026,
       "name": "La Gitanilla",
       "url": "https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w"
+    },
+    {
+      "album": {
+        "name": "La Historia Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/1I7VntMT4xGSSlPxqGiQEK"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166133,
+      "name": "La Historia Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/3iF002Z7f68vsbwrVKTWWG"
     },
     {
       "album": {
@@ -2947,6 +3099,28 @@
     },
     {
       "album": {
+        "name": "Lo Dijiste Todo (En Vivo)",
+        "url": "https://open.spotify.com/album/5jixjiAZPDfJx893OhWZyW"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        },
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Lo Dijiste Todo - En Vivo",
+      "url": "https://open.spotify.com/track/6x431KgZOM8WOq4w37CpPe"
+    },
+    {
+      "album": {
         "name": "Cinco Razones",
         "url": "https://open.spotify.com/album/5lFmabGSRMh7o8GHntGeqZ"
       },
@@ -3030,7 +3204,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 228436,
       "name": "Los Caminos de la Vida",
       "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
@@ -3052,7 +3226,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 188466,
       "name": "Luna Azul",
       "url": "https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ"
@@ -3168,7 +3342,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 238026,
       "name": "Mariposa de Barrio",
       "url": "https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4"
@@ -3244,6 +3418,24 @@
       "duration_ms": 179274,
       "name": "Me Gusta Tener De A Dos",
       "url": "https://open.spotify.com/track/47cvF8B8o2U7ee45E8Q0ZI"
+    },
+    {
+      "album": {
+        "name": "Me Llamaron Asesina",
+        "url": "https://open.spotify.com/album/728sapsjppB98wPX2yckAC"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185653,
+      "name": "Me Llamaron Asesina",
+      "url": "https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi"
     },
     {
       "album": {
@@ -3727,6 +3919,24 @@
     },
     {
       "album": {
+        "name": "Mujeres al Tiro",
+        "url": "https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145962,
+      "name": "Mujeres al Tiro",
+      "url": "https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8"
+    },
+    {
+      "album": {
         "name": "Nadie Me Ver\u00e1 Llorar",
         "url": "https://open.spotify.com/album/62cOOnQ3t3QDqKg12E7L8C"
       },
@@ -4174,7 +4384,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 182706,
       "name": "Normal",
       "url": "https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf"
@@ -4322,7 +4532,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 172013,
       "name": "Ovarios",
       "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
@@ -4674,7 +4884,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 170603,
       "name": "Por Cbrn y x Qlero",
       "url": "https://open.spotify.com/track/54pMzb8zgSjQ7FnGtF3zdx"
@@ -4920,7 +5130,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 253733,
       "name": "Prohibido Llorar",
       "url": "https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY"
@@ -4956,7 +5166,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 203251,
       "name": "Que Le Vamos A Hacer",
       "url": "https://open.spotify.com/track/7lgZKUOlZ0OkKgxQK8SAEJ"
@@ -5140,7 +5350,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 275064,
       "name": "Quiz\u00e1s Ma\u00f1ana",
       "url": "https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL"
@@ -5848,7 +6058,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 205825,
       "name": "Soy de Parral",
       "url": "https://open.spotify.com/track/5Rx9uV1CS862Jkqjy4fKqw"
@@ -6040,7 +6250,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 226400,
       "name": "Te Mereces Un Amor",
       "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
@@ -6860,7 +7070,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 244800,
       "name": "\u00bfQui\u00e9n Cuida al Pueblo?",
       "url": "https://open.spotify.com/track/640dyQsLPdiLI4vY16mq3D"

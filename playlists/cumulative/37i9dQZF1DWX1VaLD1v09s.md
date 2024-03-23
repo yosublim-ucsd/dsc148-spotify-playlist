@@ -4,7 +4,7 @@
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-489 songs - 1 day 16 hr 17 min
+490 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 | 2023-04-09 | 2024-03-04 |
 | [God's Not Dead \(Like A Lion\)](https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [God's Not Dead](https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX) | 4:18 | 2022-04-02 |  |
 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 | 2021-04-04 |  |
+| [Good Good Father / Great Are You Lord \- Live From Good Friday](https://open.spotify.com/track/6pgkQM6vH6qw1C3MbmxgJ7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Live From Good Friday](https://open.spotify.com/album/3ns2YoTCUmyb4XOAndLbhf) | 7:14 | 2024-03-20 |  |
 | [Good Grace \- Live](https://open.spotify.com/track/5oKjV2E0mt8SjAsuRGQKcV) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Another In The Fire \(Live\)](https://open.spotify.com/album/1StFSkLn6WcA8pORvC8KD8) | 5:53 | 2021-04-04 | 2022-07-29 |
 | [Good Grace \- Live](https://open.spotify.com/track/7nzmXUrZwSOJPNmV0mOmEn) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 5:53 | 2022-04-17 |  |
 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 | 2022-04-17 | 2022-07-27 |
@@ -227,7 +228,7 @@
 | [I Love You Lord / Passion \- Acoustic](https://open.spotify.com/track/48LiTfePc5B8FfxzOqTqAC) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Youth Revival Acoustic](https://open.spotify.com/album/2SvGDeEas6TS4QA7UQUyzP) | 5:25 | 2021-04-04 | 2022-07-29 |
 | [I Surrender](https://open.spotify.com/track/13p3U002Sv8z722mFjTuWi) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Poets & Saints](https://open.spotify.com/album/4Ep9pR8RIXphUEEkgeELBK) | 4:13 | 2021-04-04 |  |
 | [I Surrender All](https://open.spotify.com/track/5teIIiCC0hAH44pD3FXJVO) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Amazing Grace: Timeless Hymns of Faith](https://open.spotify.com/album/3JXwE9lyL9e9O6DnxaFFJf) | 4:36 | 2021-04-04 | 2022-07-28 |
-| [I Will Rise](https://open.spotify.com/track/7j1e730A8K1my1mM4knYmr) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:00 | 2021-04-04 |  |
+| [I Will Rise](https://open.spotify.com/track/7j1e730A8K1my1mM4knYmr) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:00 | 2021-04-04 | 2024-03-23 |
 | [If God / Nothing But the Blood](https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Gathering](https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT) | 8:25 | 2023-04-09 |  |
 | [In Christ Alone](https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Hymns For The Christian Life](https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz) | 4:17 | 2021-04-04 | 2024-03-21 |
 | [In Christ Alone \- Live](https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Let The Future Begin](https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ) | 5:39 | 2021-04-04 |  |

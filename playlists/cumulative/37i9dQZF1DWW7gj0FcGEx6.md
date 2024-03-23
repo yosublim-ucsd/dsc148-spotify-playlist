@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-330 songs - 16 hr 32 min
+331 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [I Was in the Fire](https://open.spotify.com/track/5RzuscEAO9AjlyNC9GXmDp) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Stowaway \(Music from the Netflix Film\)](https://open.spotify.com/album/3DCXB1BcqnaRnvJLEiAlBs) | 2:35 | 2021-12-20 |  |
 | [Il Tuo Fiato d'Aurora \- From "La Tresse" Soundtrack](https://open.spotify.com/track/5Yn2jvt4JFHugH4UPVOa4u) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Il Tuo Fiato d’Aurora \(From "La Tresse" Soundtrack\)](https://open.spotify.com/album/7Mtrg7FYUcmlh0r8C1DGxI) | 2:17 | 2024-01-19 |  |
 | [Illumination](https://open.spotify.com/track/5S6oMgWqnu5z9lAS8qiJWa) | [Stephanie Economou](https://open.spotify.com/artist/2CZRlBNoAoDpVu3vLFKySH) | [Jupiter's Legacy \(Music From the Netflix Series\)](https://open.spotify.com/album/6McEWs40dlz8bv22xmqly8) | 2:36 | 2021-12-20 |  |
+| [In the Fabric of the Universe](https://open.spotify.com/track/2La08D7paSzaSkpb4omysh) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Ghostbusters: Frozen Empire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5T66FE2cOhkUBdtEd69s0R) | 3:21 | 2024-03-22 |  |
 | [In Those Tapes](https://open.spotify.com/track/1VxXn7Tryr630n0KfVRz8B) | [Dan Romer](https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4), [Mike Tuccillo](https://open.spotify.com/artist/6vGiwaZ9zrjN0APKhLMSSX) | [Ramy: Seasons One and Two \(Original Composition Soundtrack Album\)](https://open.spotify.com/album/57jesfA7JE3bWqg98gE2eA) | 2:45 | 2021-12-20 | 2022-07-09 |
 | [Into the Fire](https://open.spotify.com/track/0TeV9D5NtoAjITBs80oMVg) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [Into the Fire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1J4q69vEusnKYtTOrmTpZ6) | 4:04 | 2021-12-20 | 2022-07-09 |
 | [Invasion Main Title \- From "Invasion"](https://open.spotify.com/track/1jYHpFrJkXfDfOGlLDevTS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Invasion Main Title \(From "Invasion"\)](https://open.spotify.com/album/4nTgXALKpr4TfilVVM7dNG) | 1:16 | 2021-12-20 |  |

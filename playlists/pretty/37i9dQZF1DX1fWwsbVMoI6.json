@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Corazon Serrano, Axel",
-  "num_followers": 112278,
+  "num_followers": 112319,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGFlYzdkNTRhMWJmOGY3OTMwNDRjYjRkM2YwNWZjOThkNzdmMzI4",
+  "snapshot_id": "MCxjMWM1MzNhMDQ4MWJhNTkzMmI0NGU3NjhhODg4MDk1OGM5NDFjNWY5",
   "tracks": [
     {
       "added_at": "2024-02-16 04:59:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-02-16 04:59:00",
       "album": {
-        "name": "Solo \u00c9xitos",
-        "url": "https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Candela",
-          "url": "https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj"
-    },
-    {
-      "added_at": "2024-02-16 04:59:00",
-      "album": {
         "name": "Tan Solo T\u00fa",
         "url": "https://open.spotify.com/album/1R1pHL32brtnkxgZstFz6m"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 246549,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/7LCyetqC0dra5wnypug3gH"
+    },
+    {
+      "added_at": "2024-02-16 04:59:00",
+      "album": {
+        "name": "Solo \u00c9xitos",
+        "url": "https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Candela",
+          "url": "https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj"
     },
     {
       "added_at": "2024-02-16 04:59:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-02-16 04:59:00",
       "album": {
-        "name": "Los Querendones de la Cumbia, Vol. 1",
-        "url": "https://open.spotify.com/album/42HTe6akwChVCYeLijteif"
-      },
-      "artists": [
-        {
-          "name": "Los Ecos",
-          "url": "https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS"
-        }
-      ],
-      "duration_ms": 287503,
-      "name": "No Se Puede Amar a Dos",
-      "url": "https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF"
-    },
-    {
-      "added_at": "2024-02-16 04:59:00",
-      "album": {
         "name": "Tu Amor Fue una Mentira, Vol. 11",
         "url": "https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 213826,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd"
+    },
+    {
+      "added_at": "2024-02-16 04:59:00",
+      "album": {
+        "name": "Los Querendones de la Cumbia, Vol. 1",
+        "url": "https://open.spotify.com/album/42HTe6akwChVCYeLijteif"
+      },
+      "artists": [
+        {
+          "name": "Los Ecos",
+          "url": "https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS"
+        }
+      ],
+      "duration_ms": 287503,
+      "name": "No Se Puede Amar a Dos",
+      "url": "https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF"
     },
     {
       "added_at": "2024-02-16 04:59:00",

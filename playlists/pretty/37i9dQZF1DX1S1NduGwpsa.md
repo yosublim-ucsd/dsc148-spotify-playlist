@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Monsieur MÂLÂ
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,116 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,152 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 7 | [We See](https://open.spotify.com/track/10JL24MSk2QDnrhwM1mOAt) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [We See](https://open.spotify.com/album/5oC7C15KIldHY8FAjw4NgW) | 4:33 |
 | 8 | [Paradise](https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 3:25 |
 | 9 | [SWEET LITTLE LIES](https://open.spotify.com/track/0GnnAEntAnsQVvfz5nNA0X) | [Eudald Payés](https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Mabreezee](https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac) | [SWEET LITTLE LIES](https://open.spotify.com/album/1mvcFgCjE2vtaH4VtcycDo) | 3:06 |
-| 10 | [Liberation](https://open.spotify.com/track/1gZe7qEONCZdRFn2A7UhdJ) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [Liberation](https://open.spotify.com/album/0VzsYDmj3gbUrc9u0BYsRo) | 5:14 |
+| 10 | [Liberation](https://open.spotify.com/track/5SzCMMK5oo6PoiCSiii328) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [Liberation](https://open.spotify.com/album/4FV6Mo4LSbN4YX6TSi8shV) | 5:14 |
 | 11 | [R&B](https://open.spotify.com/track/1REW7x0cLKEkFre9W0GBEm) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [R&B](https://open.spotify.com/album/278AVaIHKrZPB164Y9dFZh) | 2:57 |
 | 12 | [Over When It's Over](https://open.spotify.com/track/4ReyhFTpfBriTPxdUmkmuv) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Over When It's Over](https://open.spotify.com/album/6jDVKFjMqctoXlhxDl0FyW) | 3:35 |
 | 13 | [Nguinya Mulema](https://open.spotify.com/track/3rjMaIg9VeSOjOCrzHyrm4) | [Monsieur MÂLÂ](https://open.spotify.com/artist/5N5NNRHYscHxAzcCPCtj7t) | [Nguinya Mulema](https://open.spotify.com/album/317Z4PKLlx0Et61qpiaHvT) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Retreat](https://open.spotify.com/track/3diGyW1Q9dHoE9Qk1u4hXe) | [Isaiah Collier](https://open.spotify.com/artist/7LxYxXTbSSkx480oIp3EYU) | [Parallel Universe](https://open.spotify.com/album/4ZEbUlAx8WKxp7pDlKQLeL) | 8:01 |
 | 50 | [Les Invisibles Part 2](https://open.spotify.com/track/7AlhYT03kRkweZINvY8hQ8) | [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Leonardo Montana](https://open.spotify.com/artist/3gDlpPLEXHWNlCZ3CO0Sx7) | [Les Invisibles Part 2](https://open.spotify.com/album/206p3aNz4hcQPHgyBuUxCi) | 3:29 |
 
-Snapshot ID: `MCwxMzY2ZDFjMGUwN2UyMjJlY2E3OTEwMzA2ZDlmM2M4YjAwN2ExZjFj`
+Snapshot ID: `MCxjMDg2YTczMGQyZmNkY2RjMzA0Y2U5ZDI4MTNhY2IwOTZjMGQxMGVl`

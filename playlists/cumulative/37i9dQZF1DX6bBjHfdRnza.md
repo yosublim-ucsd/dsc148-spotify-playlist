@@ -4,7 +4,7 @@
 
 > The best new dance & electronic by independent artists and labels\. Cover: Nicky Elisabeth\. Artwork by Rewina Beshue.
 
-2,032 songs - 5 day 21 hr 1 min
+2,033 songs - 5 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,7 @@
 | [Con Todo](https://open.spotify.com/track/2VosubJQHycHSi7h4J3hA3) | [Nolek](https://open.spotify.com/artist/3lqYpuRWMveuEstXognq7q) | [Con Todo EP](https://open.spotify.com/album/04gMPc3YG2Nu6Gcg7iSahS) | 3:38 | 2023-04-12 | 2023-05-18 |
 | [Concentrate](https://open.spotify.com/track/7dw5zTz6nhef78Sm1IJvpN) | [GEST](https://open.spotify.com/artist/0MmQJrFB85cY6DCj3wjCtk) | [Concentrate](https://open.spotify.com/album/6XzDQ9WOB8xURvrqoDMsK6) | 4:33 | 2022-01-26 | 2022-03-10 |
 | [Concorde Groove](https://open.spotify.com/track/5tGvGh3Xn8O940oj8VC9O3) | [Smalltown DJs](https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f) | [Concorde Groove](https://open.spotify.com/album/5QjBDlspX1a1JihYPp4U6V) | 4:04 | 2023-06-14 | 2023-07-20 |
-| [CONDESA \(Se Compran\)](https://open.spotify.com/track/2q8EVmVuGsw1yIByrvQULe) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [CONDESA \(Se Compran\)](https://open.spotify.com/album/30QhyYRwzREVdIDSjMzEs3) | 3:29 | 2024-02-21 |  |
+| [CONDESA \(Se Compran\)](https://open.spotify.com/track/2q8EVmVuGsw1yIByrvQULe) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [CONDESA \(Se Compran\)](https://open.spotify.com/album/30QhyYRwzREVdIDSjMzEs3) | 3:29 | 2024-02-21 | 2024-03-23 |
 | [Confluencia](https://open.spotify.com/track/1fddQrPqhSMPCaNNTi9N2L) | [Paul Arcane](https://open.spotify.com/artist/4mX6KkWIws87dwZdorDOQA) | [Confluencia / Viento Del Sur](https://open.spotify.com/album/6vWKP07HeRVl5ZLeCIqRhQ) | 6:46 | 2023-04-12 | 2023-05-18 |
 | [Connect](https://open.spotify.com/track/4tifnKy6Q0quNJJWR8WTOa) | [Vertigeux](https://open.spotify.com/artist/5IxQNpPGtK9EXaak32n1qo) | [Connect](https://open.spotify.com/album/1Q3CvSoiHD9TTE2dv6XjHK) | 5:20 | 2023-07-19 | 2024-01-11 |
 | [Connection](https://open.spotify.com/track/0ZXnbwOZHYgv4R0bLxmBXH) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [Connection](https://open.spotify.com/album/5QrzXkRpoAAIcqezLexdsh) | 3:26 | 2022-02-09 | 2022-03-17 |
@@ -1234,6 +1234,7 @@
 | [Navigator](https://open.spotify.com/track/5RRU4gyaVCQqrrJfRQujPz) | [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Navigator](https://open.spotify.com/album/1UA761iApzFnKz7kNVdFsF) | 6:36 | 2022-06-15 | 2022-07-29 |
 | [Ndako Moko Soso Moko](https://open.spotify.com/track/2K4c8dxwXExcrNvJh5X71J) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT) | [Ndako Moko Soso Moko](https://open.spotify.com/album/62FE9k8gsKwMLQcRR58lIp) | 3:23 | 2022-05-04 | 2022-07-07 |
 | [NECTA\_pholo \(V.5\)](https://open.spotify.com/track/66V6X8rtqAWgcjek6sUqz7) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a) | [SCREAMER](https://open.spotify.com/album/1Xx8ecx9sLnnIV7eNGU8EM) | 4:21 | 2023-01-25 | 2023-02-16 |
+| [Need To Talk \- Kordz Remix](https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc), [kordz](https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN) | [Need To Talk \(Kordz Remix\)](https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go) | 3:38 | 2024-03-22 |  |
 | [Neon Bliss](https://open.spotify.com/track/6p7Xa2jRoOgcV5g0ZVuR4g) | [KARVA](https://open.spotify.com/artist/01IuZ5qGBbM7vc6IglCSLM) | [Neon Bliss](https://open.spotify.com/album/6hKsXj3CZ8YuyJfGd3oNuh) | 5:24 | 2023-09-27 | 2023-11-30 |
 | [Nether Portal](https://open.spotify.com/track/3B3K5bpuR3OmJ6o1PiVYbJ) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Monnaka](https://open.spotify.com/album/6uVXGsjE9C31ZQQEMTkGE4) | 6:18 | 2022-09-14 | 2022-11-09 |
 | [Nether Portal](https://open.spotify.com/track/4bwSiql3RcbvDaq2vUeOU0) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Monnaka](https://open.spotify.com/album/7fQYIJUcAWOZ8MA6LfTHXU) | 6:18 | 2022-09-14 | 2023-02-09 |

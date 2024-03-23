@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Swings(\uc2a4\uc719\uc2a4)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ud799\ud569 \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Kid Milli(\ud0a4\ub4dc\ubc00\ub9ac)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ud799\ud569 \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -8107,6 +8107,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2S26DTyEtqysktNNYLKZCb"
+      },
+      "artists": [
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188858,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1RomIFRvHC7GI484Mwpusl"
+    },
+    {
+      "album": {
         "name": "[ Rorschach ] Part 2",
         "url": "https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX"
       },
@@ -10748,6 +10766,24 @@
       "duration_ms": 185056,
       "name": "I'm Not Sure (Feat. Gist, Verbal Jint)",
       "url": "https://open.spotify.com/track/3lErlNxnl5rFFkh2OlOuUB"
+    },
+    {
+      "album": {
+        "name": "I'M UP",
+        "url": "https://open.spotify.com/album/4lvUWIdZJ4rX7Hrk85bac0"
+      },
+      "artists": [
+        {
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "I'M UP",
+      "url": "https://open.spotify.com/track/49RCNd8Kp2PdZnxARXsZtJ"
     },
     {
       "album": {

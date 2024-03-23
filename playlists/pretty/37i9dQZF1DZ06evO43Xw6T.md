@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,232 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,491 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 49 | [ME LIBERÉ](https://open.spotify.com/track/1TbIhbN9v9Qbrlsyp7VE5T) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ME LIBERÉ](https://open.spotify.com/album/6BvdvLtltlpV2EqBjOzMBx) | 2:59 |
 | 50 | [Abeja Reina](https://open.spotify.com/track/7C0xpS2Dt5pRVPmGjaZout) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 3:53 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBkMjQ2MGUxNWNkY2Y4NDUwOTVmNzgzYjE3MTkzZjU0OA==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA4MjA2Nzk1YTJkYjJjYjE1M2EyODk0NTkzNzg2MDc1Nw==`

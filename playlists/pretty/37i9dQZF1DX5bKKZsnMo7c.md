@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > Feeling dramatic? All eyes on you\. Cover: Jagwar Twin
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,027 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,368 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 13 | [Backseat Girl](https://open.spotify.com/track/4GcjmPentdxkwiIR9y8xfI) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Backseat Girl](https://open.spotify.com/album/1Ht5DzGkQdXs6iXCQjjRC9) | 2:23 |
 | 14 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 |
 | 15 | [Bruno is Orange](https://open.spotify.com/track/4pY1okPrJvIPBQM0t4i28v) | [Hop Along, Queen Ansleis](https://open.spotify.com/artist/7hDLm8O99kRfpY3DjFHQAP), [Frances Quinlan](https://open.spotify.com/artist/5yO8MmDV2hnMbiIoZGZMGr) | [Freshman Year](https://open.spotify.com/album/3ctenyhN6B5SQhRXy9Q5ux) | 3:22 |
-| 16 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 |
+| 16 | [Trouble Is a Friend](https://open.spotify.com/track/2mxT8OWvZSjAzmYYGeBjoY) | [Lenka](https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC) | [Lenka \(Expanded Edition\)](https://open.spotify.com/album/4RDt6hhOexGpinuMYkhpBE) | 3:35 |
 | 17 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 |
 | 18 | [2 days into college](https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [2 days into college](https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3) | 2:48 |
 | 19 | [Oh No!](https://open.spotify.com/track/4sNwdacKyi2S26WrRtNama) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:02 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 64 | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/track/2lXqwlG8za1sWKgHRwEiEC) | [Kaden MacKay](https://open.spotify.com/artist/3pvdhTDfKYnjDZ0R41qY3x) | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/album/6mTcEL6EVR3bN1WO6obNz2) | 3:13 |
 | 65 | [I / Me / Myself](https://open.spotify.com/track/1lqj3wgPj8gHCdq46hUjvr) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 4:51 |
 
-Snapshot ID: `MCw3Y2RmNDM4YzM3MzkyM2Q0M2ViOGU5N2RhNzQxM2JmNjgyZjA3MDdm`
+Snapshot ID: `MCxlMzcwYmVkOWUxY2FiZTEyNjZkNjJjNzM4MmQyNmVjODg4YTQ5MWFk`

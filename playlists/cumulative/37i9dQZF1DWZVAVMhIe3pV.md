@@ -4,7 +4,7 @@
 
 > Need to get your energy level up? This will help!
 
-419 songs - 1 day 1 hr 58 min
+420 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Fake It](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces \(Bonus Track Version\)](https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo) | 3:13 | 2022-01-18 |  |
 | [Fallen Angel \- Remastered](https://open.spotify.com/track/27kMqdX3aoN3gBndVKlTfR) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:58 | 2021-12-16 | 2022-04-30 |
 | [Falling Away from Me](https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 4:30 | 2021-12-16 | 2023-02-28 |
-| [Falling Up](https://open.spotify.com/track/0K1Mvwsdkt4BHTtt3PQcBP) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Life's a Blur](https://open.spotify.com/album/7t00JaebsFO1LI5mPNMXm8) | 2:00 | 2024-03-12 |  |
+| [Falling Up](https://open.spotify.com/track/0K1Mvwsdkt4BHTtt3PQcBP) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Life's a Blur](https://open.spotify.com/album/7t00JaebsFO1LI5mPNMXm8) | 2:00 | 2024-03-12 | 2024-03-23 |
 | [Faster](https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 | 2021-12-16 | 2022-04-30 |
 | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 | 2021-12-16 |  |
 | [Father of All...](https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:31 | 2021-12-16 | 2022-04-30 |
@@ -400,6 +400,7 @@
 | [Wake Up](https://open.spotify.com/track/2q9og3lbX4cdRaZMKVmlSY) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Arcadia](https://open.spotify.com/album/6vWyte1vaXXpZA8TRZzjkF) | 3:39 | 2021-12-16 | 2022-04-30 |
 | [Waking Lions](https://open.spotify.com/track/1VMSib83ZkffP22T64hxot) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Pop Evil](https://open.spotify.com/album/5F9U13GyT071nXmYf13VI9) | 3:51 | 2021-12-16 | 2022-04-27 |
 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 | 2021-12-16 | 2023-02-17 |
+| [waste](https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [waste](https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy) | 3:51 | 2024-03-22 |  |
 | [We Didn’t Start The Fire \(Bonus Track\)](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 | 2023-09-20 |  |
 | [We Won't Back Down](https://open.spotify.com/track/3fOzATp5S0wvIGCdmC0Bmw) | [Ra](https://open.spotify.com/artist/4qrdhnXBOzRt9OSmL29IFO) | [We Won't Back Down](https://open.spotify.com/album/1On1iDatgx6O8zcNoKWF2i) | 3:53 | 2022-01-05 | 2022-04-30 |
 | [Welcome to Paradise](https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:44 | 2021-12-16 |  |

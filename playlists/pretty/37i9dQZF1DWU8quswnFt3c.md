@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Suni Hạ Linh
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,700 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 913,291 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 24 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 25 | [The Tower](https://open.spotify.com/track/4IUMSDTVvUellFQ7RxI3kZ) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [The Tower](https://open.spotify.com/album/1tLg7dKobGBkc9O6BhjMQl) | 3:00 |
 | 26 | [Les étoiles](https://open.spotify.com/track/656reMy5BDuXUbNRr7oeg3) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux \(nan j'déconne\)](https://open.spotify.com/album/1w0eAL8YxKe9MVvZdNtUqH) | 3:27 |
-| 27 | [DIAMANTI GREZZI](https://open.spotify.com/track/6KM80DJGk9gehJMDmKuzfv) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 3:12 |
-| 28 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
+| 27 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
+| 28 | [DIAMANTI GREZZI](https://open.spotify.com/track/6KM80DJGk9gehJMDmKuzfv) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 3:12 |
 | 29 | [Sabik](https://open.spotify.com/track/4TFRpNfvdaW1sNmoUtZ5fV) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Sabik](https://open.spotify.com/album/3XGnYXcVJE1nD0OymzwcAJ) | 2:41 |
 | 30 | [Care](https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Care](https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg) | 4:37 |
 | 31 | [Dancing with Myself](https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Dancing with Myself](https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F) | 4:11 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 39 | [Nothing But Love](https://open.spotify.com/track/5ezGe9uG9J1fSS8X1yIVx5) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Nothing But Love](https://open.spotify.com/album/1OkRU1aahzo9tTyKDrXaAn) | 3:25 |
 | 40 | [Promises](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 |
 | 41 | [lavender salt](https://open.spotify.com/track/2zK2DTRbhHUYc7YpOlTZbk) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [3.1](https://open.spotify.com/album/1MiGKANNh5p67l9C8dRMh9) | 4:01 |
-| 42 | [In Denial](https://open.spotify.com/track/1wvS4ezPVmuxNgn9O6BaDG) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Invader](https://open.spotify.com/album/2hHnfjljMltHgDhkJPOyqk) | 4:25 |
-| 43 | [Act A Fool](https://open.spotify.com/track/6iIucvXpOFkJghgzMzqB1A) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW) | [Act A Fool](https://open.spotify.com/album/2CQhhDqgKXwmaUYJcnAFID) | 2:47 |
+| 42 | [Act A Fool](https://open.spotify.com/track/6iIucvXpOFkJghgzMzqB1A) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW) | [Act A Fool](https://open.spotify.com/album/2CQhhDqgKXwmaUYJcnAFID) | 2:47 |
+| 43 | [In Denial](https://open.spotify.com/track/1wvS4ezPVmuxNgn9O6BaDG) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Invader](https://open.spotify.com/album/2hHnfjljMltHgDhkJPOyqk) | 4:25 |
 | 44 | [Cuánto Me Duele](https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuánto Me Duele](https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo) | 3:53 |
 | 45 | [Black Car](https://open.spotify.com/track/4j6xtutAW62JXJemFchwyG) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Bye Bye Blue](https://open.spotify.com/album/5PNpLHVKnvb3qvQ20t7x6O) | 3:37 |
 | 46 | [Jiwa Raga](https://open.spotify.com/track/0H1SerRzt4EhRQjKyI9MYV) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Jiwa Raga](https://open.spotify.com/album/2OyOdqcclX9N968numajYc) | 3:36 |
 | 47 | [2nd prettiest girl \(in the world\)](https://open.spotify.com/track/353idKXfTcr8L4QosiGD8z) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [2nd prettiest girl \(in the world\)](https://open.spotify.com/album/42ET981Qri753Oh1TbE1Yl) | 2:48 |
 | 48 | [NEREDE](https://open.spotify.com/track/4kSvVBHYY1wiUahtT3WlRq) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [HABİBİ](https://open.spotify.com/album/5afjh5RhtYiKybYw9GzJl7) | 3:10 |
-| 49 | [My Theme Song](https://open.spotify.com/track/4Yj4sWjaEmUHsL7203EcZZ) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:29 |
-| 50 | [Make You Stay](https://open.spotify.com/track/5sSn9nZvBBGCdFDdqu8AgJ) | [Archie X](https://open.spotify.com/artist/7iHfb5ODaqKyprp2DBEXvU) | [Make You Stay](https://open.spotify.com/album/3EDaystjZEdlidJk6dvkmU) | 3:29 |
+| 49 | [Make You Stay](https://open.spotify.com/track/5sSn9nZvBBGCdFDdqu8AgJ) | [Archie X](https://open.spotify.com/artist/7iHfb5ODaqKyprp2DBEXvU) | [Make You Stay](https://open.spotify.com/album/3EDaystjZEdlidJk6dvkmU) | 3:29 |
+| 50 | [My Theme Song](https://open.spotify.com/track/4Yj4sWjaEmUHsL7203EcZZ) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:29 |
 
-Snapshot ID: `MCw0MjNkZmQwM2M0NDlhOGM5MmI0OTdjZWRiZDdjZjM5NzdhOGU5YWVh`
+Snapshot ID: `MCxlZmIyZTcwNzE3MDk2YTJhYzY0YmI4ZWFhNGUxY2VmODE4Y2EzZjI0`

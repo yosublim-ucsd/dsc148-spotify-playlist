@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZg863fGtALu.md) - [plain]
 
 > Summer memories from yesteryear!
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,246 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,220 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZg863fGtALu.md) - [plain]
 | 54 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 |
 | 55 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 |
 | 56 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
-| 57 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 |
+| 57 | [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 |
 | 58 | [Girls Like You \(feat\. Cardi B\) \- Cardi B Version](https://open.spotify.com/track/6V1bu6o1Yo5ZXnsCJU8Ovk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:55 |
 | 59 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:39 |
 | 60 | [Ladbroke Grove](https://open.spotify.com/track/7AODNxFNPnKaz4hURLzw5l) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [AJ Tracey](https://open.spotify.com/album/45UWSDr4RrFAwNfqiFelNj) | 3:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZg863fGtALu.md) - [plain]
 | 79 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
 | 80 | [Long Hot Summer](https://open.spotify.com/track/27Pg2JZoKkElCjsF5q3MH9) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Chemistry](https://open.spotify.com/album/1ohFae0rMra8i5sHyraOFh) | 3:52 |
 
-Snapshot ID: `MCw3YmQyZjBiN2ZhOTY3NmE2NmE4MTNjMDY3MzRiYjRkMzMzZDg5ZjQ0`
+Snapshot ID: `MCxiODViODdmNTA1NDZjYTViMTU1NWNkNTEyZTc3ZmRjMTEzNzVkNjQ3`

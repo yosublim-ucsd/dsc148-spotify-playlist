@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 
 > Sun, sand, salt water and the perfect songs to match.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,102 likes - 85 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,106 likes - 85 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 23 | [Jungle](https://open.spotify.com/track/3SkKLZFgKIY0DKX5Vro5jV) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle](https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY) | 5:15 |
 | 24 | [Lay It on Me](https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:35 |
 | 25 | [Songbird](https://open.spotify.com/track/1Up0tMGTc3FKasn7WMrioE) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:36 |
-| 26 | [Brother](https://open.spotify.com/track/5KrdYQS4U1Emzer8QShBE7) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Into The Flame](https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H) | 4:14 |
-| 27 | [Left Me Like Summer](https://open.spotify.com/track/0YVyOLWIh5pe9DEJJjjKKH) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Venus Ate Mars](https://open.spotify.com/album/1jL5TTiuaTf52bwC3PLSrt) | 4:45 |
+| 26 | [Left Me Like Summer](https://open.spotify.com/track/0YVyOLWIh5pe9DEJJjjKKH) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Venus Ate Mars](https://open.spotify.com/album/1jL5TTiuaTf52bwC3PLSrt) | 4:45 |
+| 27 | [Brother](https://open.spotify.com/track/5KrdYQS4U1Emzer8QShBE7) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Into The Flame](https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H) | 4:14 |
 | 28 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 |
 | 29 | [Days in the Sun](https://open.spotify.com/track/4y4MynI3ysiE6pc4XsSTYR) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Land & Sea](https://open.spotify.com/album/2AlnrVJGAQQSYPs0wp1J9Q) | 3:34 |
 | 30 | [Millionaire](https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Millionaire](https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi) | 2:18 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 45 | [Tombstone](https://open.spotify.com/track/2kcfGjPU2sSZqGPETdGd6o) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Lonely Diamond](https://open.spotify.com/album/4MLLqbSPtYyA6zPxd1Qqrm) | 4:00 |
 | 46 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 |
 | 47 | [Floating](https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:15 |
-| 48 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 |
-| 49 | [Southern Sun](https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Harlequin Dream](https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN) | 4:41 |
+| 48 | [Southern Sun](https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Harlequin Dream](https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN) | 4:41 |
+| 49 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 |
 | 50 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
 | 51 | [Mango Tree](https://open.spotify.com/track/1zhUjkAPnvPvkKpwHB5qWT) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [A Book Like This](https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU) | 3:45 |
 | 52 | [Hold Me](https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:07 |
@@ -70,22 +70,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 60 | [Messages](https://open.spotify.com/track/2hXgZdNNnIOOfXmWDzF05n) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Food In The Belly](https://open.spotify.com/album/0Pp0Rf05GuUQfeksQnVV0G) | 4:02 |
 | 61 | [Strangers](https://open.spotify.com/track/1LG0NlZUludshTbX5iE8Bo) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5), [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Thick Skin](https://open.spotify.com/album/0mlELU0kLfrlVZDtMRVHIO) | 3:02 |
 | 62 | [True Lovers](https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [Paint](https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz) | 4:19 |
-| 63 | [Lady Blue](https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:51 |
-| 64 | [Strawberry Daydream](https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Flowers](https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4) | 3:07 |
-| 65 | [Daquiri](https://open.spotify.com/track/2YCN6XAAGD5YLwO5YKBgqa) | [Mako Road](https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz) | [Brodie Street / Daquiri](https://open.spotify.com/album/3ExUufIlgFQJE7l4XRs7Pg) | 4:36 |
+| 63 | [Strawberry Daydream](https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Flowers](https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4) | 3:07 |
+| 64 | [Daquiri](https://open.spotify.com/track/2YCN6XAAGD5YLwO5YKBgqa) | [Mako Road](https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz) | [Brodie Street / Daquiri](https://open.spotify.com/album/3ExUufIlgFQJE7l4XRs7Pg) | 4:36 |
+| 65 | [Lady Blue](https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:51 |
 | 66 | [Pretty Lady](https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy) | 4:39 |
 | 67 | [Drift](https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [GG](https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF) | 4:03 |
 | 68 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 |
-| 69 | [Carry You](https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:32 |
-| 70 | [Feeding Line](https://open.spotify.com/track/5PRN8ql17R8rcKnHo6Ajlk) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Moonfire](https://open.spotify.com/album/3UsAObHERCrshH20RiicHG) | 4:28 |
-| 71 | [Never Gonna Give You Up](https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Never Gonna Give You Up](https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd) | 2:37 |
+| 69 | [Feeding Line](https://open.spotify.com/track/5PRN8ql17R8rcKnHo6Ajlk) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Moonfire](https://open.spotify.com/album/3UsAObHERCrshH20RiicHG) | 4:28 |
+| 70 | [Never Gonna Give You Up](https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Never Gonna Give You Up](https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd) | 2:37 |
+| 71 | [Carry You](https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:32 |
 | 72 | [On Our Own](https://open.spotify.com/track/5pLgio8GlWLCwaZkUTtboI) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [14 Steps To A Better You](https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY) | 3:36 |
 | 73 | [Be About You](https://open.spotify.com/track/1KWV9Yim7CuklJYp0Ne8AK) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Sponge Cake](https://open.spotify.com/album/5rBavL5GFknqp1CREqx4Ov) | 4:05 |
 | 74 | [Everything Is Easy](https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Everything Is Easy](https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r) | 3:17 |
 | 75 | [La Mar](https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [HOPE Campaign Tribute Album 2010](https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM) | 4:17 |
 | 76 | [Weightless](https://open.spotify.com/track/2Nyx8ESKOOcpA5RRXy3q3P) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 4:11 |
-| 77 | [Better People](https://open.spotify.com/track/1k9fcGWwrnyuij2Lvd3OHs) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [White Moth](https://open.spotify.com/album/2qUM67vpnB4wehzTRik1uc) | 3:05 |
-| 78 | [I Get Up](https://open.spotify.com/track/1ZvZONTDAMki5FLguXTju4) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/6seixGAN22NspEmvRID4fG) | 4:23 |
+| 77 | [I Get Up](https://open.spotify.com/track/1ZvZONTDAMki5FLguXTju4) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/6seixGAN22NspEmvRID4fG) | 4:23 |
+| 78 | [Better People](https://open.spotify.com/track/1k9fcGWwrnyuij2Lvd3OHs) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [White Moth](https://open.spotify.com/album/2qUM67vpnB4wehzTRik1uc) | 3:05 |
 | 79 | [Stay](https://open.spotify.com/track/0LY4FwDjGq6Z5wj8UHtIbP) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Stay](https://open.spotify.com/album/2pF0SGd7Fokl5dLlu10JiM) | 3:19 |
 | 80 | [London Still](https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi) | [The Waifs](https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz) | [Up All Night](https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n) | 3:46 |
 | 81 | [Keepsake](https://open.spotify.com/track/4OAcOb2uobXd9Zu1X9BnEE) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Keepsake](https://open.spotify.com/album/4NnnY09KEF7Gnw2rXIb0lU) | 3:46 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 84 | [Rusty](https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [The Art of Escape](https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn) | 3:18 |
 | 85 | [Good Grief](https://open.spotify.com/track/3DasFU2wqxdxyV6Wbm8SHI) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 3:48 |
 
-Snapshot ID: `MCw0Zjk3YjEyOGI1YzI1ZGQ2MjMyNzQwZDM4OWU1NTIzOTA1NGJlMjM2`
+Snapshot ID: `MCwxZWYyZjcwNjIxZDRhMmQxYjgxYzJjMDUxYTgxNzU0ZWFmMjMwNjEx`

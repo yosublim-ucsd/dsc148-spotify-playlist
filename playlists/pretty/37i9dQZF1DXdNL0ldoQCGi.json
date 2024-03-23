@@ -1,12 +1,12 @@
 {
   "description": "aquela l\u00e1 que t\u00e1 viral no seu feed sabe",
-  "num_followers": 255692,
+  "num_followers": 255807,
   "original_name": "faz a trend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTY5OTNhZmI4YzhhMjY0Nzg3YjVjMTY1NDU5MTE0ZGI3NTE5Mjcw",
+  "snapshot_id": "MCxmODZmOWIxNmQ3NDk3ZDQyMDhiNGEyYTIxYWU4NDU5YjliMDUwYzRh",
   "tracks": [
     {
       "added_at": "2024-03-18 16:24:16",
@@ -144,12 +144,12 @@
           "url": "https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE"
         },
         {
-          "name": "Silvanno Salles",
-          "url": "https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B"
-        },
-        {
           "name": "DJ LG PROD",
           "url": "https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA"
+        },
+        {
+          "name": "Silvanno Salles",
+          "url": "https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B"
         }
       ],
       "duration_ms": 177230,

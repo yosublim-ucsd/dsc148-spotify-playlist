@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,480 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,554 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 49 | [Dialectic Chaos](https://open.spotify.com/track/4jKbvqI4G3dOOtNF1ay6av) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [ENDGAME](https://open.spotify.com/album/0ncpKwYq9C3tXxDWPpdvId) | 2:25 |
 | 50 | [No More Mr\. Nice Guy](https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:03 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA1MDhkNjVlY2NhYjBlMTU5ZWE5ODNhY2FhNDMxODBjMg==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBlOWQwNjU3YjhlZDQyZDcwZGEyZjgwYjExYjQ5NWU4YQ==`

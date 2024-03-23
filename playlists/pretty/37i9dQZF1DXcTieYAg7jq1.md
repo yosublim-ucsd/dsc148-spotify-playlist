@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Emmy Meli
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,079 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,114 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Breakthrough](https://open.spotify.com/track/3CbTqAhSMl1p41PEx9Tc4E) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [Breakthrough](https://open.spotify.com/album/0ZQ9F867lpLrMArteZet0J) | 2:36 |
-| 2 | [Been Like This](https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Been Like This](https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic) | 2:25 |
-| 3 | [Song About You](https://open.spotify.com/track/5pqabyi7lNdgzQ2VEMPbSJ) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Song About You](https://open.spotify.com/album/73zMN2VGr18vJ31eg1jWnx) | 3:56 |
-| 4 | [Paradise](https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 3:25 |
-| 5 | [Growing Old With You](https://open.spotify.com/track/3ot60Verr4b8U0NOJYg5r7) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Growing Old With You](https://open.spotify.com/album/6N98frZADil2cpwn8H0tVs) | 2:42 |
+| 1 | [Supersonic](https://open.spotify.com/track/1TL8oEjxJqsB6nojBkBUgE) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Scary As Hell But I Love The Thrill](https://open.spotify.com/album/0RALiw4duBKgD7PXZBqzJd) | 2:55 |
+| 2 | [Breakthrough](https://open.spotify.com/track/3CbTqAhSMl1p41PEx9Tc4E) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [Breakthrough](https://open.spotify.com/album/0ZQ9F867lpLrMArteZet0J) | 2:36 |
+| 3 | [Been Like This](https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Been Like This](https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic) | 2:25 |
+| 4 | [Song About You](https://open.spotify.com/track/5pqabyi7lNdgzQ2VEMPbSJ) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Song About You](https://open.spotify.com/album/73zMN2VGr18vJ31eg1jWnx) | 3:56 |
+| 5 | [Paradise](https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 3:25 |
 | 6 | [Good Together](https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Good Together](https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk) | 3:21 |
 | 7 | [Falling for You](https://open.spotify.com/track/0BeqFdVAkpVJHkFSl4EEf7) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Falling for You](https://open.spotify.com/album/2kTz24IgJaveP4je8XjYv7) | 3:08 |
 | 8 | [Youniverse](https://open.spotify.com/track/7leBNpRPcy10AxJCG8UesN) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Youniverse](https://open.spotify.com/album/0S5HUfsYHiWndYT4uGY4pz) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Pain](https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Pain](https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I) | 3:35 |
 | 100 | [Turn the Radio Up \(feat\. Jewel\)](https://open.spotify.com/track/1nNfkK3cfckAyTmNRk1b60) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Turn the Radio Up](https://open.spotify.com/album/4Ok4zpUyKd6vCaqa5D5vTJ) | 3:19 |
 
-Snapshot ID: `MCw0OWM5ZDZiOWUwMWRiMzMxMjQzYzI0Y2E4ZjE0YjdmMTA5N2U1NWUw`
+Snapshot ID: `MCw0OGVhN2UwYjY3NTIzY2Y0OWRhNTU4ZmJlNGMyNmEzM2RmZDc3NjYz`

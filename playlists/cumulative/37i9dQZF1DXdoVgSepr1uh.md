@@ -2,9 +2,9 @@
 
 ### [Reggaetón Argentino](https://open.spotify.com/playlist/37i9dQZF1DXdoVgSepr1uh)
 
-> Perreo hecho en Argentina\. Foto: La China & ECKO.
+> Perreo hecho en Argentina\. Foto: TAICHU.
 
-230 songs - 11 hr 2 min
+232 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bailando Te Conocí](https://open.spotify.com/track/0vvuIsoJ101Hme1VIXBIEi) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Bailando Te Conocí](https://open.spotify.com/album/1SfkXB9PkSL5ctluCBpXqC) | 3:14 | 2022-05-24 |  |
 | [BANDIDA](https://open.spotify.com/track/579JvpCcewz3IBcbv9ea8e) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [TURROMANTICO](https://open.spotify.com/album/0lSIshi0zVMrl1N2MvAEIn) | 3:07 | 2022-05-24 | 2023-03-18 |
 | [BB](https://open.spotify.com/track/3Cd4WUYSdQjSZ0e2J2ZIfz) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [BB](https://open.spotify.com/album/0k7xTuLGEGtKWRWXRVfq6W) | 2:45 | 2024-01-26 | 2024-02-17 |
+| [bby katana](https://open.spotify.com/track/13ujasLMAhID5JAGFGmGSs) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [bby katana](https://open.spotify.com/album/4QRT6eZKf7ozvvZfdUfM3W) | 2:33 | 2024-03-22 |  |
 | [Bellaka](https://open.spotify.com/track/6CDN62fkyLVzsMA21CoYgg) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG), [Roman JD](https://open.spotify.com/artist/1RPvTAR0XtupIRm1ehPUQj) | [Bellaka](https://open.spotify.com/album/5RVN4rGbwHA5BzVK2HDnGR) | 2:30 | 2023-05-05 |  |
 | [Bendición](https://open.spotify.com/track/5fIpvX6QRQ9hLtMjJYeKty) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Bendición](https://open.spotify.com/album/7Eo44MvuVaLGz2zIlvrhTO) | 2:49 | 2022-05-24 |  |
 | [Bien Backeao](https://open.spotify.com/track/17a9aplVkXXIvbiZ1nsv4Q) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Bien Backeao](https://open.spotify.com/album/0L856tfb66xrX8st1zTCrT) | 2:09 | 2022-05-24 |  |
@@ -190,6 +191,7 @@
 | [Retroceso](https://open.spotify.com/track/3b8qjpK8PJt0v6x8w8GvUG) | [S\-Roneo](https://open.spotify.com/artist/0HUZSrM12BQcOqwdDXdYml), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Retroceso](https://open.spotify.com/album/6nts7sAbMRfN0AJw2SHjcP) | 3:14 | 2022-05-24 | 2022-07-29 |
 | [Ribeteadita](https://open.spotify.com/track/0dJjFsO9XuBtmRLh074eea) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Ribeteadita](https://open.spotify.com/album/6V9UxWPvtyXMTSpKvZUFlK) | 2:32 | 2022-05-24 |  |
 | [Rolito](https://open.spotify.com/track/2IAggR4ZBfI7cBw9COpgdr) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Lautaro LR](https://open.spotify.com/artist/7mC8RpAGrd7HEEXwgJUWK8), [Neko](https://open.spotify.com/artist/6Dy0IMNdwYgTADL8fe3zsf) | [Rolito](https://open.spotify.com/album/5zF86CFllHdIo9riHB4xQd) | 3:02 | 2022-05-24 |  |
+| [Romeo XIV](https://open.spotify.com/track/5R9qMaFR66ppHQySFyZgoE) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT) | [Romeo XIV](https://open.spotify.com/album/0qPfzPHzVHQYwMN2HcVGGH) | 2:34 | 2024-03-22 |  |
 | [Saca Prende](https://open.spotify.com/track/5q42bRTW2TKUzx0nc2hsez) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Lautaro LR](https://open.spotify.com/artist/7mC8RpAGrd7HEEXwgJUWK8), [Ivan Fitt](https://open.spotify.com/artist/1uYtYzLtitQ4nbh9pMOBcS) | [Saca Prende](https://open.spotify.com/album/3EJ6ikxcQpbEuqS8cNCTrv) | 3:37 | 2022-05-24 |  |
 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 | 2022-05-24 |  |
 | [Se Me Antoja](https://open.spotify.com/track/7mk6p3Q8U01Awdg50aCQjM) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [Valen Vargas](https://open.spotify.com/artist/67oZkRi3cta1wNxN3KoFt5) | [Se Me Antoja](https://open.spotify.com/album/3hDzVQ9u8UDimQtdKqEoiD) | 1:52 | 2023-02-03 |  |

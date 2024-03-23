@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 30077,
+  "num_followers": 30088,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2ZmNmQ2Y2NlNWE3Yzc0YjNjNGJiMDE1MmVhZTBhMTFiNWMyYmMy",
+  "snapshot_id": "MCxmNTczM2IxNjIzMzIzMjAzNjJjMmFkNmM0ZjU5NjA0ODE3NDgzZDRk",
   "tracks": [
     {
       "added_at": "2024-02-02 05:19:16",
@@ -173,24 +173,20 @@
       "url": "https://open.spotify.com/track/5Alh9ZUF8clLNm1UmFLcSv"
     },
     {
-      "added_at": "2023-11-24 06:00:00",
+      "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Cancionero de los Cielos",
-        "url": "https://open.spotify.com/album/02gQo1cLO7MUjVn94lnRGR"
+        "name": "Almost Reach the Sun",
+        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
       },
       "artists": [
         {
-          "name": "Viva Belgrado",
-          "url": "https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK"
-        },
-        {
-          "name": "Erik Urano",
-          "url": "https://open.spotify.com/artist/4UGlbaxTr9BPv4YLD6iWRN"
+          "name": "Trementina",
+          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
         }
       ],
-      "duration_ms": 235015,
-      "name": "Jupiter and Beyond the Infinite",
-      "url": "https://open.spotify.com/track/2naI19G3CIvBAa6fdyN9Wv"
+      "duration_ms": 182745,
+      "name": "Hazy Youth",
+      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -209,20 +205,24 @@
       "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
     },
     {
-      "added_at": "2023-05-05 06:00:00",
+      "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Almost Reach the Sun",
-        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
+        "name": "Cancionero de los Cielos",
+        "url": "https://open.spotify.com/album/02gQo1cLO7MUjVn94lnRGR"
       },
       "artists": [
         {
-          "name": "Trementina",
-          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
+          "name": "Viva Belgrado",
+          "url": "https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK"
+        },
+        {
+          "name": "Erik Urano",
+          "url": "https://open.spotify.com/artist/4UGlbaxTr9BPv4YLD6iWRN"
         }
       ],
-      "duration_ms": 182745,
-      "name": "Hazy Youth",
-      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
+      "duration_ms": 235015,
+      "name": "Jupiter and Beyond the Infinite",
+      "url": "https://open.spotify.com/track/2naI19G3CIvBAa6fdyN9Wv"
     },
     {
       "added_at": "2023-05-05 06:00:00",

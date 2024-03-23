@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,440 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,523 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 |
 | 2 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 |
-| 3 | [Borro Cassette](https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 |
-| 4 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 |
+| 3 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 |
+| 4 | [Borro Cassette](https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 |
 | 5 | [Se Preparó](https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:08 |
 | 6 | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:40 |
 | 7 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 | 26 | [La Carretera](https://open.spotify.com/track/2yvjjJrWzVzA2zg4VsoEmo) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:58 |
 | 27 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 |
 | 28 | [Llévame Contigo](https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:46 |
-| 29 | [Ocean](https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 2:35 |
+| 29 | [Tú Foto](https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:13 |
 | 30 | [Soy Peor](https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soy Peor](https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF) | 4:17 |
-| 31 | [Tú Foto](https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:13 |
+| 31 | [Ocean](https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 2:35 |
 | 32 | [Un Año](https://open.spotify.com/track/2vrpcQNg6itmgVZWsNjWe0) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 2:43 |
 | 33 | [Fantasias](https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Fantasias](https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL) | 3:19 |
 | 34 | [Pa Mí \- Remix](https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Climaxxx](https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp) | 6:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 | 49 | [Safari](https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:25 |
 | 50 | [Como Mirarte](https://open.spotify.com/track/0CXEPVeQDLgDBfvcsQpXq1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:48 |
 
-Snapshot ID: `MCxlMjA5NTBlODE3ZDY4NzgyMzNiNDYxMmMyMTA4OGE5MjAwMGM1NmU5`
+Snapshot ID: `MCxjMWI3MTNlYjYyYjA5NTAwZTlkYzJkNDEyYzhjYjhhOTcwY2U5NGM2`

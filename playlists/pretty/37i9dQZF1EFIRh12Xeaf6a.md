@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 141 | [To Love](https://open.spotify.com/track/15c2qpqoagc2GxNvCaYlte) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:36 |
 | 142 | [Eventually \- Live](https://open.spotify.com/track/49PUEUPk6GqeTYHyslrRhx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King The Carnegie Hall Concert June 18, 1971](https://open.spotify.com/album/1zpek5hOaIualxw0Gmev0z) | 4:38 |
 | 143 | [I've Known You All My Life](https://open.spotify.com/track/2x3CU4zpyGG5F8QFaUAKlR) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 1:58 |
-| 144 | [Wrap Around Joy](https://open.spotify.com/track/3L3ZUhdMlW2qWVZEJRW7Ri) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 2:56 |
-| 145 | [You Bet I Would](https://open.spotify.com/track/6ZOHEv3K3EaiMpoDpco9fh) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [The 25 Best Songs](https://open.spotify.com/album/4nLdVXsSnT6P9hCZ81rpIq) | 2:09 |
+| 144 | [You Bet I Would](https://open.spotify.com/track/6ZOHEv3K3EaiMpoDpco9fh) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [The 25 Best Songs](https://open.spotify.com/album/4nLdVXsSnT6P9hCZ81rpIq) | 2:09 |
+| 145 | [Wrap Around Joy](https://open.spotify.com/track/3L3ZUhdMlW2qWVZEJRW7Ri) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 2:56 |
 | 146 | [You've Been Around Too Long](https://open.spotify.com/track/600ONoBB8YasDriPyUhvcQ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 3:42 |
 | 147 | [Avenue P](https://open.spotify.com/track/1IRGY1rljyGOyuZoTsdc1k) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 3:03 |
 | 148 | [A Man Without a Dream](https://open.spotify.com/track/15HiMB4XHgr2UiuAtNHlhC) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Instant Replay](https://open.spotify.com/album/4UZe5Oq0ZIA4AD9NlApFF6) | 3:03 |
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 271 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 272 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Mjg1MTc4OTAsMDAwMDAwMDBlNDhkZGJiMWIxMDMyZWYyZjE3MTRkY2Q3ODM3N2NjYg==`
+Snapshot ID: `Mjg1MTkzMzAsMDAwMDAwMDA3ZTE5NDAwODhjN2U1ZTdkMWJhZDJhNDIzMTBkYTIxZg==`

@@ -2,9 +2,9 @@
 
 ### [crushed velvet](https://open.spotify.com/playlist/37i9dQZF1DXcPiubrCbXxp)
 
-> that 50s kinda feeling, cover: Mason Ramsey
+> that 50s kinda feeling, cover: Shannon & The Clams
 
-70 songs - 3 hr 53 min
+72 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/3g62EjDXLltUvmgEFDn9eN) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [\(i would have followed you\)](https://open.spotify.com/album/6IiYHjfn55bDxUwcoM083I) | 4:49 | 2023-08-04 |  |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2024-01-26 |  |
 | [Like the Movies](https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z) | 2:42 | 2023-08-04 |  |
-| [Love Don't Let Me Go](https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN) | [Angelina Jordan](https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb) | [Love Don’t Let Me Go](https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN) | 2:57 | 2023-08-04 |  |
+| [Lost in a Dream](https://open.spotify.com/track/0ehGyu9uYhq7M2A9psuPEd) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/4RtRUvZstzZeNfpwHjfPD4) | 3:37 | 2024-03-22 |  |
+| [Love Don't Let Me Go](https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN) | [Angelina Jordan](https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb) | [Love Don’t Let Me Go](https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN) | 2:57 | 2023-08-04 | 2024-03-23 |
 | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/track/5ZtOg6T7qui1IMSwGh358t) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Diane Keaton](https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:34 | 2023-08-04 |  |
 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 | 2023-08-04 |  |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2023-08-04 |  |
@@ -61,6 +62,7 @@
 | [Please Love Me](https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Love Letters](https://open.spotify.com/album/1mH0uD5SIm4wJiDEvqXONe) | 2:29 | 2024-01-05 |  |
 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 | 2023-08-04 |  |
 | [Radio](https://open.spotify.com/track/4PMdq7Q7xOFrY424ZelZEb) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 3:34 | 2023-08-04 |  |
+| [Real Or Magic](https://open.spotify.com/track/2CRHRuOY2KW0gdr6g1VMxd) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Real Or Magic](https://open.spotify.com/album/0b6XUCiA0QGgHDQPVZQGfL) | 3:46 | 2024-03-22 |  |
 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 | 2023-08-04 | 2023-09-09 |
 | [Sinatra](https://open.spotify.com/track/1USo158Kncaxfyq9q306dn) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Sinatra](https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0) | 2:36 | 2023-08-04 |  |
 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-08-04 |  |
@@ -69,7 +71,7 @@
 | [The Archer](https://open.spotify.com/track/3H3lRA0oqK92R3ygLRXn67) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [The Archer](https://open.spotify.com/album/4Fc5K4rytNveeeaXSYzeel) | 2:25 | 2023-08-04 | 2024-02-09 |
 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 | 2023-08-04 |  |
 | [This Is How It Feels \(with Laufey\)](https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:44 | 2023-08-04 |  |
-| [Too Precious](https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Too Precious](https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk) | 2:49 | 2023-08-04 |  |
+| [Too Precious](https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Too Precious](https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk) | 2:49 | 2023-08-04 | 2024-03-23 |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-08-04 |  |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2023-08-04 | 2023-09-23 |
 | [Video Games](https://open.spotify.com/track/24jvD83UgLmrdGjhWTFslY) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:41 | 2023-08-04 |  |

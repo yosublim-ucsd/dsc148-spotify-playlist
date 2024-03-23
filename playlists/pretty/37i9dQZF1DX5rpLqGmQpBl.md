@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpLqGmQpBl.md) - [plain]
 
 > Listen to the soundtracks of the Doctor Slump\. \(닥터슬럼프의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,461 likes - 84 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,513 likes - 84 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpLqGmQpBl.md) - [plain]
 | 61 | [Curated by Park Shin Hye](https://open.spotify.com/track/2D0uoFs1nxtiCr4FCcWx7Z) | [Doctor Slump](https://open.spotify.com/artist/2OWDvWVKxxRKuAz0gcVnbu) | [Doctor Slump audio liners](https://open.spotify.com/album/2qRLLwRZCfMYKMxdGZCa6b) | 0:30 |
 | 62 | [NO WHERE, NOW HERE](https://open.spotify.com/track/28l1FPRsb1TcvotgqZjbAL) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [NO WHERE, NOW HERE](https://open.spotify.com/album/4EPsnYqqFuaOX4NLypy8gR) | 4:00 |
 | 63 | [수고했어요](https://open.spotify.com/track/34eHPg1gIMxUmUso9rB8Ul) | [nov](https://open.spotify.com/artist/3gyUm6cPk4sChNCVb3fFaC) | [회사다녀요](https://open.spotify.com/album/5fpuo0zn0ctQ9MvqAUKGrb) | 3:16 |
-| 64 | [내일에게 dear tomorrow](https://open.spotify.com/track/3GOBW6QvqkOf8BnOVwUypj) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [내일에게 dear tomorrow](https://open.spotify.com/album/4Jlv2dBZTqjY0Evtnb00aW) | 2:36 |
+| 64 | [dear tomorrow](https://open.spotify.com/track/3GOBW6QvqkOf8BnOVwUypj) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [dear tomorrow](https://open.spotify.com/album/4Jlv2dBZTqjY0Evtnb00aW) | 2:36 |
 | 65 | [You have done well](https://open.spotify.com/track/7vzwYlTrQnC7kSaDhn252A) | [이정민](https://open.spotify.com/artist/7jgBLUmhwwTsywCJfcztkC) | [You have done well](https://open.spotify.com/album/12HCGXiulJ1v7cJz5hcXUA) | 3:05 |
 | 66 | [New Day](https://open.spotify.com/track/3TFGNIZDnYtX1biTkWvj9M) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Maum, Part\. 1](https://open.spotify.com/album/2qfIkB00pLxeS1KiOwpuVn) | 4:02 |
 | 67 | [Curated by Park Hyung Sik](https://open.spotify.com/track/1lehXiBvBRomkGJClvrwfq) | [Doctor Slump](https://open.spotify.com/artist/2OWDvWVKxxRKuAz0gcVnbu) | [Doctor Slump audio liners](https://open.spotify.com/album/2qRLLwRZCfMYKMxdGZCa6b) | 0:35 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpLqGmQpBl.md) - [plain]
 | 83 | [Unrealtime](https://open.spotify.com/track/4U23H3LnIdwLsb3yt6ztvi) | [임광균](https://open.spotify.com/artist/5uNWaCVmTX58YBaaE9E3Nv) | [Unrealtime](https://open.spotify.com/album/5IKEzaDVF1oG4hPwlUP303) | 4:54 |
 | 84 | [Sunflower](https://open.spotify.com/track/7tbyBVCqd0RPlJulWcz0bO) | [Choi Aim](https://open.spotify.com/artist/10iBhcYlA7mJ3VxkZdIl5i) | [Sunflower](https://open.spotify.com/album/6ak25dnY0MuutpgD0OVLAo) | 4:09 |
 
-Snapshot ID: `MCwxYzhjMWQ3MTEwNzliM2IzNDEzOTMyMjQ4M2JkYjU4NzIyZjU3NWE5`
+Snapshot ID: `MCxlMTU4NjE2NTFlZmMwN2IzM2VmYzg4MzNmYTMyZWQxMWUxOWM5OGNi`

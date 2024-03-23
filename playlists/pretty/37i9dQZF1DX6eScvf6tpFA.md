@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,766 likes - 81 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,774 likes - 81 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 13 | [Money Can't Buy You Class \- Radio Edit](https://open.spotify.com/track/0951VbMnWv7NFXjUPjkSFm) | [Countess Luann](https://open.spotify.com/artist/5uWeO2hYqC3UGKPziuTMxF) | [Money Can't Buy You Class \(Radio Edit\)](https://open.spotify.com/album/3LJn1grNGxGlaKtWf7LlSe) | 3:44 |
 | 14 | [Personal](https://open.spotify.com/track/0ysIMlVNmEuXU6qudDc0vm) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Personal](https://open.spotify.com/album/1kLSUqwq5RtP16K0KgLCVr) | 2:32 |
 | 15 | [Horny](https://open.spotify.com/track/4nBIBDd8G4qdugoUcxNPWq) | [Supahbadd](https://open.spotify.com/artist/1HaUkY7GweQxgdKQGJZS2O) | [Horny](https://open.spotify.com/album/24SBsiWsekcg4JqDvkobSX) | 2:59 |
-| 16 | [Spread That Puss](https://open.spotify.com/track/3snk3DKrjHBu2TMdYYXhah) | [Miss Ayesha](https://open.spotify.com/artist/3aJK7LhPLg4rDr6hTbABzZ) | [Spread That Puss](https://open.spotify.com/album/0gLzh0qmiZh928mKBzWLKN) | 2:27 |
+| 16 | [spread that puss](https://open.spotify.com/track/37Cd22hbrmwwMBV64QgQCc) | [dead2u](https://open.spotify.com/artist/4mukJ0tIrqv6sGYEU5mCkJ), [gauthydies4u](https://open.spotify.com/artist/1ZhGmv6onhBEf17i6utMT6), [serioity](https://open.spotify.com/artist/0nR9OTTMJcsnooQwhyg6Em) | [spread that puss](https://open.spotify.com/album/7cTpbFDVtcM8moAwifkwun) | 2:27 |
 | 17 | [Messy](https://open.spotify.com/track/5pq9KxaT7igtDLKQqY7Zf1) | [CeeFineAss](https://open.spotify.com/artist/4YktUKrSYzQFSFKAAHMiuh), [CodeBrat](https://open.spotify.com/artist/6s4t5xxW3JTHB8XjEPnVTe) | [Messy](https://open.spotify.com/album/6yxgPeosTcpo8AhTTeNRyU) | 2:04 |
 | 18 | [Jigga Who](https://open.spotify.com/track/5epd4ctYB4yCkBuA31XbiN) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Outside](https://open.spotify.com/album/5ec2VzJnxnvn4eh2vdJc1Q) | 2:32 |
 | 19 | [Din Da Da \- Da Da Edit](https://open.spotify.com/track/4JvNdWJEkAhDQ3wavy1Wdh) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Din Da Da \(Original Mixes\)](https://open.spotify.com/album/5tKYWPtgmsv68D4PqhfTCD) | 3:11 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 80 | [Régime des Fleurs](https://open.spotify.com/track/16xWwjg8p3T9n1aAptjIRp) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Régime des Fleurs](https://open.spotify.com/album/7cIyUAuwTnbQEvTIy5Nsju) | 2:50 |
 | 81 | [The Richest Garden in your Memory](https://open.spotify.com/track/1NnmRSDbEyJmeC7gufEOiw) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M) | 2:57 |
 
-Snapshot ID: `MCw1N2RlNGY2YTc3ZTQ4ZjVmOTJlNjBkMGQzODBiMmZjNDM3YzE5YmVi`
+Snapshot ID: `MCwxMGJiYmVhNzg2MTJiOTBiYjhhMWE3ODc1ZWNiZTdlYWM3ZjY5ZWZm`

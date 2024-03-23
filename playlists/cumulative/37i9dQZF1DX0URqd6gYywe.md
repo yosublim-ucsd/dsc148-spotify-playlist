@@ -4,7 +4,7 @@
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Fabiana Cantilo
 
-155 songs - 10 hr 49 min
+156 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/1IC9QfsEQx2aVhsscCsbTE) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [El Farolito \(Acústico\)](https://open.spotify.com/album/2ZtLtqU9H4IXLQn4EMDFjU) | 5:02 | 2022-06-03 | 2022-07-29 |
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 5:02 | 2022-07-06 |  |
 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 | 2022-06-03 |  |
-| [El Regalo](https://open.spotify.com/track/47fOMQaJ6vELtlB7qDLnJX) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5) | [El Regalo](https://open.spotify.com/album/1XpoVhWP8TzsXDQWEtj0N8) | 4:03 | 2023-11-10 |  |
+| [El Regalo](https://open.spotify.com/track/47fOMQaJ6vELtlB7qDLnJX) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5) | [El Regalo](https://open.spotify.com/album/1XpoVhWP8TzsXDQWEtj0N8) | 4:03 | 2023-11-10 | 2024-03-23 |
 | [El trato](https://open.spotify.com/track/4jsWMUBxGEKn6usvMIO1R8) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:28 | 2022-07-06 |  |
 | [El Trato](https://open.spotify.com/track/10y0q9ys5yOQA4jGU7daz3) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [El Trato](https://open.spotify.com/album/0yKM9i0sVThtzArvNrrvuN) | 3:31 | 2022-06-03 | 2022-07-29 |
 | [El Tren](https://open.spotify.com/track/0vODZMS37nXEgtS3YKhYze) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [El Tren](https://open.spotify.com/album/7sFIIffw4qqW42XrGVARHO) | 4:42 | 2022-07-06 | 2022-07-25 |
@@ -80,6 +80,7 @@
 | [La Canción que Pegó en el Palo](https://open.spotify.com/track/22vZWcv2TDPn0qocJgbvVj) | [Antonio Birabent](https://open.spotify.com/artist/66DfDCITtbXcmQnQfOMPqZ) | [La Canción que Pegó en el Palo](https://open.spotify.com/album/3XzxczDjDX13dF9Jspa9OQ) | 3:05 | 2023-11-24 | 2024-02-08 |
 | [La Culebra](https://open.spotify.com/track/6mE3MWroSgNl3kaCHB72DP) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [La Culebra](https://open.spotify.com/album/5mu4eaFjnSI1jDizjUTus1) | 4:57 | 2023-11-10 |  |
 | [La Llama](https://open.spotify.com/track/6uT7AhIuuUnzNA3KUc2Vk4) | [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND), [La Filarmónica de Montevideo](https://open.spotify.com/artist/6vONTlMXIFtiVD0OHF04Zl) | [La Llama](https://open.spotify.com/album/20mTTEnxl8XxXYVplAdxMm) | 3:54 | 2024-02-01 |  |
+| [LA NIEBLA](https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:31 | 2024-03-22 |  |
 | [La Primera Vez](https://open.spotify.com/track/7pqLOROlyd3YW4Gvl09HPX) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Mecánica Popular](https://open.spotify.com/album/4Z1Q71sHLNHcnT5OpSZjtS) | 4:44 | 2022-06-03 |  |
 | [La Soledad](https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Argentinidad Al Palo](https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ) | 4:23 | 2022-06-03 |  |
 | [La Trampa](https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Trampa](https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3) | 3:36 | 2023-07-28 |  |

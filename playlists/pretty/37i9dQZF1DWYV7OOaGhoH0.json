@@ -1,13 +1,113 @@
 {
-  "description": "The best in folk & acoustic today featuring music from Lizzy McAlpine",
-  "num_followers": 1836986,
+  "description": "The best in folk & acoustic today featuring music from Aoife O'Donovan",
+  "num_followers": 1837027,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzY3ZWNmZDAwMzlkMGFkOWY5ZWFlYzgxM2E5NzVjYjNhODE3YWI3",
+  "snapshot_id": "MCw0ODVhNjU0MGMxY2VhMDY0OGI1OWJkOTg0NjhjNjQxNjE0MTk2OGZk",
   "tracks": [
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Someone to Follow",
+        "url": "https://open.spotify.com/album/6YeSuJSCR7M1BQXM59o0h5"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 286146,
+      "name": "Someone to Follow",
+      "url": "https://open.spotify.com/track/66quf0gB7ZRU9Dgdbhpoy9"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "All in Good Time",
+        "url": "https://open.spotify.com/album/6kVfufglPPPTLPWQkvHPaR"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 255338,
+      "name": "All in Good Time",
+      "url": "https://open.spotify.com/track/533aNRdHHLdI9tiTvqPqjt"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Free Treasure",
+        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Sierra Vista",
+        "url": "https://open.spotify.com/album/5hmhuNvmtuWJXfGeT6Qbcr"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Sierra Vista",
+      "url": "https://open.spotify.com/track/14P8LhjbdysoOL12T5gAOe"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 212470,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "American Dreaming",
+        "url": "https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 237691,
+      "name": "American Dreaming - Single Edit",
+      "url": "https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh"
+    },
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
@@ -25,20 +125,20 @@
       "url": "https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-03-22 16:01:54",
       "album": {
-        "name": "The Past Is Still Alive",
-        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
+        "name": "someday i'll get it",
+        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
       },
       "artists": [
         {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+          "name": "Alek Olsen",
+          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
         }
       ],
-      "duration_ms": 222341,
-      "name": "Hawkmoon",
-      "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
+      "duration_ms": 94750,
+      "name": "someday i'll get it",
+      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -107,22 +207,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "You Never Know",
-        "url": "https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 290584,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Nothing to Lose",
         "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
       },
@@ -135,6 +219,22 @@
       "duration_ms": 237666,
       "name": "Nothing to Lose",
       "url": "https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 222341,
+      "name": "Hawkmoon",
+      "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -199,38 +299,6 @@
       "duration_ms": 156358,
       "name": "River",
       "url": "https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 212470,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "I Could Drive You Crazy",
-        "url": "https://open.spotify.com/album/3io77WHK4cVk4JKKcFS4Kq"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 216128,
-      "name": "I Could Drive You Crazy",
-      "url": "https://open.spotify.com/track/41FgxEQPfzOWhyzb3vSmKi"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1431,26 +1499,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "supernatural thing",
-        "url": "https://open.spotify.com/album/0BGmSkiDyPxghWbyYKnBHG"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        },
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 274720,
-      "name": "too young to die",
-      "url": "https://open.spotify.com/track/1gHdpWRFGZKjB9AljkGtWV"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
@@ -1603,38 +1651,6 @@
       "duration_ms": 204014,
       "name": "Cast Iron Skillet",
       "url": "https://open.spotify.com/track/30xTTsQlMrkhisyvxzEIpX"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "A River Running to Your Heart",
-        "url": "https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 213057,
-      "name": "Sick of This Feeling",
-      "url": "https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "68",
-        "url": "https://open.spotify.com/album/51JORfnib4vdjiXHAouErb"
-      },
-      "artists": [
-        {
-          "name": "Nolan Taylor",
-          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
-        }
-      ],
-      "duration_ms": 207845,
-      "name": "68",
-      "url": "https://open.spotify.com/track/1qlyWMMDGkXAjFehdUKGJ7"
     },
     {
       "added_at": "2024-03-15 04:00:00",

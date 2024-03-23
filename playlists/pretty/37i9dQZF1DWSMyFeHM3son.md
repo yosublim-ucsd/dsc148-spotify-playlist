@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 
 > monochrome bliss\. Cover: Matty Healy in the "Robbers" music video from The 1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,010 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,105 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 36 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
 | 37 | [3005](https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:54 |
 | 38 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
-| 39 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
+| 39 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |
 | 40 | [Snap Out Of It](https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:13 |
-| 41 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |
+| 41 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
 | 42 | [Take Me to Church](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:01 |
 | 43 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 |
 | 44 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 74 | [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 |
 | 75 | [Little Do You Know](https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:05 |
 
-Snapshot ID: `MCxjYmU3MDM4NWFjZGExZjA3NzViYjVjMmMwNTkzZDZkYTljNDAzY2E5`
+Snapshot ID: `MCwxMTUxZjFkZmU3NThkN2E1NTQ5Y2JiMjQ3OTY2MzNmMTg4ZjcxMDU5`

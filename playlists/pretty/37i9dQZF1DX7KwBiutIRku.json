@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 90172,
+  "num_followers": 90290,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTQzMWFiYjY0YzY1OThjOGE1ZDRmNDE4ZjYxMzEyOGMzNDhjNDUz",
+  "snapshot_id": "MCw1ZjRlMjgwMjZjNGYxZmRmN2MxYjI2MWQxYzIxODNiOGQ5MzIwMTk2",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -557,20 +557,20 @@
       "url": "https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2021-04-13 15:36:15",
       "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
+        "name": "Raisin' A Ruckus",
+        "url": "https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo"
       },
       "artists": [
         {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+          "name": "Roomful Of Blues",
+          "url": "https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L"
         }
       ],
-      "duration_ms": 189520,
-      "name": "Floyd's Hotel",
-      "url": "https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn"
+      "duration_ms": 200226,
+      "name": "Lower On Your List Of Priorities",
+      "url": "https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -589,20 +589,20 @@
       "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
     },
     {
-      "added_at": "2021-04-13 15:36:15",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Raisin' A Ruckus",
-        "url": "https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo"
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
       },
       "artists": [
         {
-          "name": "Roomful Of Blues",
-          "url": "https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L"
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
         }
       ],
-      "duration_ms": 200226,
-      "name": "Lower On Your List Of Priorities",
-      "url": "https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz"
+      "duration_ms": 189520,
+      "name": "Floyd's Hotel",
+      "url": "https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn"
     },
     {
       "added_at": "2020-12-01 05:01:00",

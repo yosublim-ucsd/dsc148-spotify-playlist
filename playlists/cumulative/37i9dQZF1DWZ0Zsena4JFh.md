@@ -4,7 +4,7 @@
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. MGMT en portada.
 
-172 songs - 10 hr 23 min
+174 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 | 2023-08-04 | 2024-02-10 |
 | [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 | 2024-02-02 |  |
 | [Burning in Flames](https://open.spotify.com/track/1vp0sTWWZVcs8gW0PmDhM8) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Burning In Flames](https://open.spotify.com/album/5E97jRPfvqIazBexNqZCjI) | 3:08 | 2024-01-26 | 2024-02-03 |
-| [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 | 2023-08-04 |  |
+| [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 | 2023-08-04 | 2024-03-23 |
 | [BYE BYE](https://open.spotify.com/track/4K2hu1I4tuRpgDLiNTTEi2) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [BYE BYE](https://open.spotify.com/album/5zve9HuTTyhYyDW5gnjpi7) | 4:14 | 2024-01-26 | 2024-02-03 |
 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-16 |  |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2023-08-04 | 2024-02-24 |
@@ -61,6 +61,7 @@
 | [Float Away](https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Float Away](https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe) | 3:06 | 2023-08-04 | 2023-11-14 |
 | [Floating On A Moment](https://open.spotify.com/track/5ZBjVFfYDwj3TeIfDHLWLN) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Floating On A Moment](https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY) | 5:26 | 2024-02-09 | 2024-03-06 |
 | [Fool](https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Fool](https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb) | 2:54 | 2024-02-23 |  |
+| [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-03-22 |  |
 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 | 2024-01-12 | 2024-02-15 |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-08-04 |  |
 | [Gift Horse](https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Gift Horse](https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j) | 4:09 | 2024-01-26 | 2024-03-10 |
@@ -100,7 +101,7 @@
 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 | 2024-02-23 |  |
 | [Me Before You](https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Me Before You](https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE) | 3:23 | 2024-02-23 |  |
 | [Melody Experiment](https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody Experiment](https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho) | 5:10 | 2023-08-04 | 2023-08-26 |
-| [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 | 2024-02-16 |  |
+| [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 | 2024-02-16 | 2024-03-23 |
 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 | 2023-08-04 | 2023-12-20 |
 | [Mrs\. Valentine](https://open.spotify.com/track/5wDjQFHYkPL8q8lFWzvVLf) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Mrs\. Valentine](https://open.spotify.com/album/6AfuKmIjq95swC13Sq4saV) | 2:28 | 2024-02-16 | 2024-03-06 |
 | [My Best Friend](https://open.spotify.com/track/2vYAKGRyybrFQL1rdHXxM2) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [My Best Friend](https://open.spotify.com/album/5eZNZwivm3Ux6EHvLfK3ba) | 3:16 | 2024-01-12 | 2024-01-27 |
@@ -142,6 +143,7 @@
 | [So You Are Tired](https://open.spotify.com/track/0BjU4kaYvJPjRIQqdxtNom) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Will Anybody Ever Love Me?](https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1) | 4:49 | 2023-09-15 | 2023-10-09 |
 | [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 | 2023-09-15 | 2024-02-14 |
 | [So You Are Tired](https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [So You Are Tired](https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB) | 4:49 | 2023-08-25 | 2023-09-21 |
+| [Something in the Room She Moves](https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 6:18 | 2024-03-22 |  |
 | [Somethinggreater \- Single Version](https://open.spotify.com/track/1hp7aHiWB6zxcpehJR7xRO) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:29 | 2023-08-04 | 2023-11-08 |
 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 | 2024-03-05 |  |
 | [Spare Me The Decision \- Cutouts Remix](https://open.spotify.com/track/6ovMHhjpZZAeL1c9KMChXZ) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz), [Cutouts](https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1) | [Spare Me the Decision \(Cutouts Remix\)](https://open.spotify.com/album/4S6O2DQLLiPd1T9gqirP6P) | 5:01 | 2024-01-12 | 2024-01-27 |

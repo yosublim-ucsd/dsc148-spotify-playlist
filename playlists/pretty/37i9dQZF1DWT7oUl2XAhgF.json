@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Britti",
-  "num_followers": 210805,
+  "num_followers": 210854,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDI0OGQwNzFjMTZmMDAwNzY4N2NhMGIyMmQ0YzJjZTM1OGJiMjYz",
+  "snapshot_id": "MCw0M2ExN2MyYTIyM2U2OTQzMzc0NjdlYjZiYjQ0MTY3MWFhMmQ3N2I4",
   "tracks": [
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Where Is the Peace",
+        "url": "https://open.spotify.com/album/3Yv75Tv8dMqxt6uHWsXikC"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Valbrun",
+          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
+        }
+      ],
+      "duration_ms": 216135,
+      "name": "Where Is the Peace",
+      "url": "https://open.spotify.com/track/1ACBSADdmaiAcvVB5Yzd2F"
+    },
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
@@ -23,6 +39,26 @@
       "duration_ms": 216573,
       "name": "Illusions",
       "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Sinseerly Yours",
+        "url": "https://open.spotify.com/album/7lNj0BxtEBKhQNtYVqpby6"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        },
+        {
+          "name": "Joey Quinones",
+          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
+        }
+      ],
+      "duration_ms": 173776,
+      "name": "Sinseerly Yours",
+      "url": "https://open.spotify.com/track/228Ap7fHnb2BUsdopPrjxx"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -41,6 +77,22 @@
       "url": "https://open.spotify.com/track/39n0HaRNVVxtvINVdivQwH"
     },
     {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Better Than This",
+        "url": "https://open.spotify.com/album/4QgY2HVCC3Ljwprc7cjQqE"
+      },
+      "artists": [
+        {
+          "name": "The Slim Kings",
+          "url": "https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf"
+        }
+      ],
+      "duration_ms": 179100,
+      "name": "Better Than This",
+      "url": "https://open.spotify.com/track/0uJcPad9H1tQzxslEBQtlu"
+    },
+    {
       "added_at": "2024-03-08 05:01:00",
       "album": {
         "name": "Forever",
@@ -57,26 +109,6 @@
       "url": "https://open.spotify.com/track/6Up7DVZHtwlPy6T54uLHmO"
     },
     {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/4Nq2Ke47oMd8acKVgPFyMB"
-      },
-      "artists": [
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        },
-        {
-          "name": "Joey Quinones",
-          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
-        }
-      ],
-      "duration_ms": 279988,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2XsA2KMlFQeIhTSHABWvdH"
-    },
-    {
       "added_at": "2024-02-23 05:01:00",
       "album": {
         "name": "MARY - A COLORS SHOW",
@@ -91,6 +123,22 @@
       "duration_ms": 204799,
       "name": "MARY - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7M2NVfbNrBnrR1eA7HVWTw"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0cLxZPKM7QjIItprbOw2E4"
+      },
+      "artists": [
+        {
+          "name": "Kenny Sharp",
+          "url": "https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E"
+        }
+      ],
+      "duration_ms": 208760,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2Wr8VlaALAoCINplD16qwh"
     },
     {
       "added_at": "2024-02-14 05:00:00",
@@ -653,22 +701,6 @@
       "url": "https://open.spotify.com/track/73H3Vjx7PtC6ntVr3F1rRU"
     },
     {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "World Stand Still",
-        "url": "https://open.spotify.com/album/08Onlx0pZL8It9PJG8zwgw"
-      },
-      "artists": [
-        {
-          "name": "Kenny Sharp",
-          "url": "https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E"
-        }
-      ],
-      "duration_ms": 169390,
-      "name": "World Stand Still",
-      "url": "https://open.spotify.com/track/4YXBQ8X4DNVTjco4lUpSFx"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "I'll Be Loving You",
@@ -843,26 +875,6 @@
       "duration_ms": 182821,
       "name": "Woman (Single Edit)",
       "url": "https://open.spotify.com/track/3tW5b01kiWfMJKQWddwPNl"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "The Way That I Do",
-        "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 210329,
-      "name": "The Way That I Do",
-      "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1423,30 +1435,6 @@
       "duration_ms": 229733,
       "name": "Heat Wave",
       "url": "https://open.spotify.com/track/7gkwA9D1GqsbecFEfLR1ka"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Live For Funk",
-        "url": "https://open.spotify.com/album/10naG4dQ2r6SjjWPcEPFgR"
-      },
-      "artists": [
-        {
-          "name": "The Soultrend Orchestra",
-          "url": "https://open.spotify.com/artist/2ZCDrnzQpD9Xp5g2n2esnV"
-        },
-        {
-          "name": "Papik",
-          "url": "https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4"
-        },
-        {
-          "name": "Alan Scaffardi",
-          "url": "https://open.spotify.com/artist/77K1Ud04no7BEcBvPbeXMg"
-        }
-      ],
-      "duration_ms": 236498,
-      "name": "About Love",
-      "url": "https://open.spotify.com/track/1MzIUuIxjrfUIlwFytoIok"
     },
     {
       "added_at": "2023-09-01 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabkBRQmempy.md) - [plain]
 
 > Lo mejor del rock en español en la década de los 90.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,386 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,608 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabkBRQmempy.md) - [plain]
 | 12 | [Clavado en Un Bar](https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:10 |
 | 13 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 |
 | 14 | [Molinos De Viento](https://open.spotify.com/track/19vhfSUgVJO2enJ6XidUGO) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [La Leyenda De La Mancha](https://open.spotify.com/album/1Da87nj7hlkdRAh9Zf5jp7) | 4:11 |
-| 15 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 |
+| 15 | [Tren Al Sur](https://open.spotify.com/track/6W1BLmVBxkqZwFQcORQLnv) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Corazones](https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH) | 5:36 |
 | 16 | [La Célula Que Explota](https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Diablito](https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV) | 3:35 |
-| 17 | [Tren Al Sur](https://open.spotify.com/track/6W1BLmVBxkqZwFQcORQLnv) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Corazones](https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH) | 5:36 |
+| 17 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 |
 | 18 | [Mariposa tecknicolor](https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Circo Beat](https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa) | 3:42 |
 | 19 | [Bye Bye](https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 5:49 |
 | 20 | [A un minuto de ti](https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Naufragios](https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV) | 3:53 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabkBRQmempy.md) - [plain]
 | 29 | [Agua](https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:14 |
 | 30 | [La ingrata](https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 3:32 |
 | 31 | [En El Muelle de San Blas](https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:52 |
-| 32 | [El Duelo](https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Invisible](https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi) | 3:14 |
-| 33 | [Héroe de leyenda](https://open.spotify.com/track/6pAvXn45z0sktftypuEEzt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:08 |
+| 32 | [Héroe de leyenda](https://open.spotify.com/track/6pAvXn45z0sktftypuEEzt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:08 |
+| 33 | [El Duelo](https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Invisible](https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi) | 3:14 |
 | 34 | [Aquí No Es Así](https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Nervio Del Volcan](https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf) | 4:54 |
 | 35 | [Mi Primer Dia Sin Ti](https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 4:28 |
 | 36 | [La parte de adelante](https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabkBRQmempy.md) - [plain]
 | 49 | [Entre Caníbales \- Remasterizado 2007](https://open.spotify.com/track/0ePI3CMwhjRV3ZWas3gTU9) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 4:06 |
 | 50 | [Pobre soñador](https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 3:50 |
 
-Snapshot ID: `MCwzZTM4NzM5YTQ0MzBiNWU4YTAyMjI1OTc0YTIyMDc5MmVmODJhY2Yx`
+Snapshot ID: `MCxlZjVjOGEyZTQ2N2MwNTU3NTlhM2ZmYWU0NmZjNjY3ZTA3OGQ3MDlk`

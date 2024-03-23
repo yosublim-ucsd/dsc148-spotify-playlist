@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 
 > Django and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,887 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,927 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 65 | [It Dont Mean A Thing](https://open.spotify.com/track/4hpP90fJQFiA8jV28PuvQr) | [Caravan Gypsy Swing Ensemble](https://open.spotify.com/artist/0EGvsgq6T2VrDg55OKtiWG) | [An Evening At The Brink Lounge](https://open.spotify.com/album/2zYHTlu0bAMrGcmGEpoezG) | 2:52 |
 | 66 | [Tchavolo Swing](https://open.spotify.com/track/7KTD9w6YRemUGglOZiuA4t) | [Havana Swing](https://open.spotify.com/artist/3PCJQXCDzJpFPiAYvmQJ98) | [Django's Lion](https://open.spotify.com/album/5rChKi1KkeA9VyLu3Isgga) | 2:33 |
 | 67 | [Gypsy Fire](https://open.spotify.com/track/1t5DfKC3w9rKqhWGONWL74) | [Romane](https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH), [Francis Varis & Florin Niculescu](https://open.spotify.com/artist/7c0L090C3Oj0G6teQGefXl) | [Ombre \(Intégrale Romane, vol\. 3\)](https://open.spotify.com/album/2fJwgAMgCrMlZGg0t67SQn) | 3:26 |
-| 68 | [Noto Swing](https://open.spotify.com/track/0V41BiC0l8yvfYNG7uca3k) | [Angelo DeBarre](https://open.spotify.com/artist/64oD1nmr26PzBAecbxdBzt), [Moreno](https://open.spotify.com/artist/2degWnXduSuO2G7PcQi6vO), [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8) | [Moreno](https://open.spotify.com/album/2D6NyWEwm04uWDLK6iYqhH) | 3:16 |
+| 68 | [Noto Swing](https://open.spotify.com/track/0V41BiC0l8yvfYNG7uca3k) | [Angelo DeBarre](https://open.spotify.com/artist/64oD1nmr26PzBAecbxdBzt), [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8), [Moreno](https://open.spotify.com/artist/2degWnXduSuO2G7PcQi6vO), [Jon Larsen](https://open.spotify.com/artist/78932qb8ldFSsXgDq2cltO) | [Moreno](https://open.spotify.com/album/2D6NyWEwm04uWDLK6iYqhH) | 3:16 |
 | 69 | [Last Minute Swing](https://open.spotify.com/track/3tMGqSqmulMMkhEkXaKtyE) | [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu) | [Roots](https://open.spotify.com/album/0vN2kv5uBDKL6BYkjQ4GUn) | 3:32 |
 | 70 | [Bistro Fada](https://open.spotify.com/track/08T5wMbEnPN8ghT8o24KY6) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Bistro Fada](https://open.spotify.com/album/6lT35xJDhO7Ao5TOLfKsqZ) | 3:02 |
 | 71 | [Mumbo Jumbo](https://open.spotify.com/track/0iPqQ1s88PgRFNbxoj6E3V) | [Les doigts de l'homme](https://open.spotify.com/artist/7DOLup8LOVWI6g9PoeUOO5) | [Mumbo Jumbo](https://open.spotify.com/album/13YA3p0hUrnvlf7eyIRkj4) | 3:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 74 | [Hungaria](https://open.spotify.com/track/3bS7AcjV8Dn2ulBF9XdZCo) | [Biréli Lagrène Gipsy Project](https://open.spotify.com/artist/0LrCg8l9Wi1EIqpkW6D3ra) | [Move](https://open.spotify.com/album/7tY1AorZ64PmB6tCp9OLfl) | 2:51 |
 | 75 | [For Brassens](https://open.spotify.com/track/0L9mejRz6i3CnI1mGxmeoM) | [Romane](https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH), [Stochelo Rosenberg](https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5) | [Tribulations](https://open.spotify.com/album/0KnGsXBLPgociBCuG6DWhZ) | 4:18 |
 
-Snapshot ID: `MCxlNzliMDU1NzA0MzE2MTJkNjlkMDA3ZWYwOWZjNTkzZDQ2ZGQ4ZDYz`
+Snapshot ID: `MCxhZjBlZTVkMGUwNDIxZWI1ZTIyZWNmMTIxNGU4NmZkNWQyZjljYzNi`

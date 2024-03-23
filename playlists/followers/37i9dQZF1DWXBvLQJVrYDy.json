@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 52093,
+  "2024-03-23": 52191,
   "date_first_scraped": "2022-08-19",
   "description": "Smooth and cozy saxophone ballads for relaxing or focus.",
   "name": "Gentle Jazz Saxophone",
@@ -327,6 +327,24 @@
       "duration_ms": 210845,
       "name": "Answer Me",
       "url": "https://open.spotify.com/track/6fnNCsXknFz1ynDLccUonn"
+    },
+    {
+      "album": {
+        "name": "April Calling",
+        "url": "https://open.spotify.com/album/62YhZZOAgwAMrsXundbQRo"
+      },
+      "artists": [
+        {
+          "name": "Sand Quartet",
+          "url": "https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230547,
+      "name": "April Calling",
+      "url": "https://open.spotify.com/track/4siGt6JIeTl3GgFynMaybU"
     },
     {
       "album": {
@@ -1820,6 +1838,24 @@
     },
     {
       "album": {
+        "name": "Lone Pine",
+        "url": "https://open.spotify.com/album/7nFMmdQmPvYMhOA3khr8wI"
+      },
+      "artists": [
+        {
+          "name": "Matt Marantz Quartet",
+          "url": "https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180841,
+      "name": "Lone Pine",
+      "url": "https://open.spotify.com/track/6n53sSnd8THaUSPvAOEMY7"
+    },
+    {
+      "album": {
         "name": "Love For Free",
         "url": "https://open.spotify.com/album/6awm6EihJwIoQ5YrEoJG22"
       },
@@ -2495,7 +2531,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 320957,
       "name": "Pour It Out",
       "url": "https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r"
@@ -3707,6 +3743,24 @@
       "duration_ms": 203482,
       "name": "Where Or When",
       "url": "https://open.spotify.com/track/3K7okDLoeWIb1BxsGDVrNl"
+    },
+    {
+      "album": {
+        "name": "Whispers of the Evening",
+        "url": "https://open.spotify.com/album/1MEo1GRTrJ0RIg1jM1mxXs"
+      },
+      "artists": [
+        {
+          "name": "Sodermalm Strand",
+          "url": "https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195058,
+      "name": "Whispers of the Evening",
+      "url": "https://open.spotify.com/track/3JnzwIwPo8dBlf3YCeJIrK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,353 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,378 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 42 | [Light Forest Rain Long](https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 4:18 |
 | 43 | [Soothing Birdsong by the River](https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 3:04 |
 | 44 | [Ambient Woods](https://open.spotify.com/track/3UaXmGGrnybMEdNe5rh941) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Forest Sounds For Relaxation](https://open.spotify.com/album/03M9bEN52lhF5BHCbrml7D) | 2:08 |
-| 45 | [Wave Foam](https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Waves](https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87) | 4:09 |
-| 46 | [Rain on the Leaves](https://open.spotify.com/track/0TOHmgptvSAz7nyH7DCFgB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Soothing Jungle Sounds](https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p) | 3:05 |
-| 47 | [Forest Bird Sounds](https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ) | [Zen Master](https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup) | [Forest Birds](https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff) | 2:17 |
-| 48 | [Summmer Forest](https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 4:03 |
+| 45 | [Rain on the Leaves](https://open.spotify.com/track/0TOHmgptvSAz7nyH7DCFgB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Soothing Jungle Sounds](https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p) | 3:05 |
+| 46 | [Wave Foam](https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Waves](https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87) | 4:09 |
+| 47 | [Summmer Forest](https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 4:03 |
+| 48 | [Forest Bird Sounds](https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ) | [Zen Master](https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup) | [Forest Birds](https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff) | 2:17 |
 | 49 | [Power and Meditation](https://open.spotify.com/track/24XDOa1lefrRyMMoqEgmze) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Terapheutic Thunder](https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3) | 2:59 |
 | 50 | [Thunderous Amazon](https://open.spotify.com/track/4Xy4EQyJWS01SEERqnfrkn) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Thunderous Relaxation](https://open.spotify.com/album/57AK2pZaIKBJaWR6SAfGMu) | 3:09 |
 
-Snapshot ID: `MCwyZjE4MzA5MjcxMTUxMmE1MDhhYzQ3NDlkZjA1OGU4YzQ0YTkwY2Fk`
+Snapshot ID: `MCw1YzlkYzgwYjY3NDg1MGZjMTNkZGVmY2Y2ZWZmZDhiOTc5NjQ3NTFj`

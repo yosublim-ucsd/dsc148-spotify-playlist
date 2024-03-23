@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Billy Choi, East City, Ki Chan, Fatty Tai
 
-955 songs - 2 day 6 hr 7 min
+956 songs - 2 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [The Worst Way I've Thought](https://open.spotify.com/track/3GEBroZMGDagry9kJz9U9F) | [WARM HOUSE.](https://open.spotify.com/artist/6FkLFvKugd9UPs1bSawnQR) | [The Worst Way I've Thought](https://open.spotify.com/album/4sNymzpUHbjKYoozeI7Kml) | 2:49 | 2023-11-30 | 2024-02-16 |
 | [Think I'm In Love](https://open.spotify.com/track/4Ip4uvrIqnxGM8RB9rsCrt) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Think I'm In Love](https://open.spotify.com/album/5lfI2lfNkgMpCpfSxsNdje) | 2:21 | 2023-02-23 | 2023-07-14 |
 | [This Is Our Time](https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [This Is Our Time](https://open.spotify.com/album/43glLAVF68qBfkxbGn6LRZ) | 3:12 | 2022-09-08 | 2023-03-18 |
+| [threeAM](https://open.spotify.com/track/7EIgAzIwV8FeYTcTOIGQgt) | [NIVKOM](https://open.spotify.com/artist/2BwqjjKkM8McmEUbzDTXpZ) | [threeAM](https://open.spotify.com/album/7GFpPOUyuojXgKVBJWWO4w) | 2:13 | 2024-03-21 |  |
 | [Tie Dye](https://open.spotify.com/track/6un3YXxJWnu0l7qRgkuuOJ) | [Joséay](https://open.spotify.com/artist/3wADT5yU8enVjNSW9BoMxt) | [Tie Dye](https://open.spotify.com/album/2ncI47qvFgRCeyRXKS6O99) | 2:10 | 2023-05-18 | 2023-09-01 |
 | [Till Frustrated](https://open.spotify.com/track/1ane3Db3PbqCUQlYcCL4hU) | [Kai Yannis](https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA) | [Till Frustrated](https://open.spotify.com/album/5x7AVjmy0DiitickihNFzs) | 4:19 | 2023-09-14 | 2023-12-01 |
 | [Time Is Running](https://open.spotify.com/track/1nKZqPS4cg1gbZAdqxQEcN) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Time Is Running](https://open.spotify.com/album/3Tk9l82FUZyP6W6du57tXD) | 2:19 | 2023-07-13 | 2023-11-03 |

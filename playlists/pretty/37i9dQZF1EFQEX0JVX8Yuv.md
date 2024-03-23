@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6z0YyO7RUp5t7ZwkGKApUK">Kim Petras</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,387 likes - 107 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,388 likes - 107 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 84 | [Born Again](https://open.spotify.com/track/2mKxTJGcu5k6HbSi5XpVjn) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 2:52 |
 | 85 | [Homework](https://open.spotify.com/track/3mT2zjpmY93zIytDunMHGD) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [Homework](https://open.spotify.com/album/53LoeznV15jYWxfZFF1CME) | 4:18 |
 | 86 | [Slut Pop Reprise](https://open.spotify.com/track/2Tg91qUR63QRquyBtb0Vyz) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:35 |
-| 87 | [ANYMORE](https://open.spotify.com/track/0zkHabeUZsqXfDX7TzLN0Y) | [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Rock$tar Famou$](https://open.spotify.com/album/2EPksB7E0Je8yBixm5Cutu) | 2:18 |
-| 88 | [Fuckin’ This Fuckin’ That](https://open.spotify.com/track/7pvBKLiaJjHJEwW7azTRey) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:06 |
+| 87 | [Fuckin’ This Fuckin’ That](https://open.spotify.com/track/7pvBKLiaJjHJEwW7azTRey) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:06 |
+| 88 | [ANYMORE](https://open.spotify.com/track/0zkHabeUZsqXfDX7TzLN0Y) | [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Rock$tar Famou$](https://open.spotify.com/album/2EPksB7E0Je8yBixm5Cutu) | 2:18 |
 | 89 | [Rim Job](https://open.spotify.com/track/64ZvBkEmLLw34gZj7XaOhD) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 2:40 |
 | 90 | [Get Fucked](https://open.spotify.com/track/2yqh9BquncVdf7p40SiMwe) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 2:07 |
 | 91 | [Dirty Things](https://open.spotify.com/track/0Xu2GNIUPIGoIcIyBXmBRy) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 3:35 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 94 | [Confession](https://open.spotify.com/track/0woIwxBLRnevciyEeCk3Av) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 2:51 |
 | 95 | [Banana Boat](https://open.spotify.com/track/4qJcvEyE1fXcNPAMtvI8Gy) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 2:21 |
 | 96 | [Can we fuck?](https://open.spotify.com/track/3do6YOHahiNjLqBTYigHtT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:53 |
-| 97 | [Something About U](https://open.spotify.com/track/0tjcprSHFM5YRuOUXVXtNT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 3:01 |
-| 98 | [Whale Cock](https://open.spotify.com/track/1lUPmRjVixFPr0pZWrtFKW) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:50 |
+| 97 | [Whale Cock](https://open.spotify.com/track/1lUPmRjVixFPr0pZWrtFKW) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:50 |
+| 98 | [Something About U](https://open.spotify.com/track/0tjcprSHFM5YRuOUXVXtNT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 3:01 |
 | 99 | [Deeper](https://open.spotify.com/track/1gL6hgpNACDSXQbuLrYySn) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 2:56 |
 | 100 | [Love Ya Leave Ya](https://open.spotify.com/track/0wxoMdXupqx7khTzmOB0Uh) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 2:26 |
 | 101 | [Cubana](https://open.spotify.com/track/2mIXMWVw4o46Q4IpQ8H0b7) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:41 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 106 | [That's What's Up](https://open.spotify.com/track/1hGKDzYbd9lHbhD50y0nnj) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 | 107 | [Eintausend Teile](https://open.spotify.com/track/1tvEuaJGDFnERVynxzuRp6) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Eintausend Teile](https://open.spotify.com/album/7Itq48oKL1MTHG2hLud7bc) | 2:23 |
 
-Snapshot ID: `Mjg1MTc4OTAsMDAwMDAwMDBmMWRiNGYwZWQwNjdkMTViN2FlNzU5YWUxMzAwNWU5NQ==`
+Snapshot ID: `Mjg1MTkzMzAsMDAwMDAwMDA1NGM4ZGYyZDc4ZjQ3NWUwYjcxZjBmNmYyZTNkYjIzYQ==`

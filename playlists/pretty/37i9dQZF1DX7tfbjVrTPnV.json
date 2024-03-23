@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Lori McKenna",
-  "num_followers": 204439,
+  "num_followers": 204501,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGNjNmRiOThjZjUxYjM3NmQ4N2RkYjJiMTZjZDViMTBjNzk0NTE3",
+  "snapshot_id": "MCxkYmY1ZTE4YWZhNzQ5MTQxOThkN2I0YjUyNDMxMzBiNGI3YjQzODI0",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Soul Journey",
-        "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Look At Miss Ohio",
-      "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Leftover Feelings",
         "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 209040,
       "name": "All The Lilacs In Ohio",
       "url": "https://open.spotify.com/track/6DQEBTXpcoAH4M6wHZVPFN"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Soul Journey",
+        "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Look At Miss Ohio",
+      "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Calling Me Home (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "The Medicine Man",
         "url": "https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 218360,
       "name": "The Medicine Man [Feat. Old Crow Medicine Show]",
       "url": "https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Calling Me Home (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
-        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Boulder to Birmingham - 2003 Remaster",
-      "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Jerusalem",
         "url": "https://open.spotify.com/album/2alDoMx3PMJpXAnWAfRLrs"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 236186,
       "name": "Jerusalem",
       "url": "https://open.spotify.com/track/3r01IuS9w8YHXg75zlKBu5"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
+        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Boulder to Birmingham - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Black Roses",
-        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
-      },
-      "artists": [
-        {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "No Later than Soon",
-      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Triage",
         "url": "https://open.spotify.com/album/0DiHlymiDZO7XeIFCC7iMY"
       },
@@ -1755,18 +1739,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+        "name": "Black Roses",
+        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
       },
       "artists": [
         {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
         }
       ],
-      "duration_ms": 158834,
-      "name": "Got Your Six",
-      "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
+      "duration_ms": 176653,
+      "name": "No Later than Soon",
+      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1803,6 +1787,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 158834,
+      "name": "Got Your Six",
+      "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Our Year",
         "url": "https://open.spotify.com/album/4czX5gzvl0sypiWj6yZM7c"
       },
@@ -1819,6 +1819,30 @@
       "duration_ms": 142173,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/2xJ46eURgNsOroUGbcOJ9s"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "It Ain't Over Yet",
+        "url": "https://open.spotify.com/album/4mb6UF8cOjSY9pEB3gB1EL"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        },
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        },
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "duration_ms": 314080,
+      "name": "It Ain't Over Yet",
+      "url": "https://open.spotify.com/track/1fB28ISF5QwsPu2nqAPRSV"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1867,22 +1891,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "God's Problem Child",
         "url": "https://open.spotify.com/album/1wzKjL078JEEv3weMFOGa7"
       },
@@ -1899,30 +1907,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "It Ain't Over Yet",
-        "url": "https://open.spotify.com/album/4mb6UF8cOjSY9pEB3gB1EL"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        },
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        },
-        {
-          "name": "John Paul White",
-          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "It Ain't Over Yet",
-      "url": "https://open.spotify.com/track/1fB28ISF5QwsPu2nqAPRSV"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Canola Fields",
         "url": "https://open.spotify.com/album/5KvJY1u6NhPHkOR3F5iWue"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 289791,
       "name": "Canola Fields",
       "url": "https://open.spotify.com/track/1ik1NCsVOJsp5g0ZLKGCXI"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
-      },
-      "artists": [
-        {
-          "name": "John Fullbright",
-          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "When You're Here",
-      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/5UeWaLSzyg0dpeCdQyx9u0"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 230106,
       "name": "Brushy Mountain Conjugal Trailer",
       "url": "https://open.spotify.com/track/1qHro6dwCdlg9XPhNvWrLe"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
+      },
+      "artists": [
+        {
+          "name": "John Fullbright",
+          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "When You're Here",
+      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2315,18 +2315,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
+        "name": "12 Stories",
+        "url": "https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
         }
       ],
-      "duration_ms": 329746,
-      "name": "Time After Time - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
+      "duration_ms": 216906,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/5bSiS7Kx4rZHdddn0XivEb"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2347,18 +2347,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "12 Stories",
-        "url": "https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
       },
       "artists": [
         {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 216906,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/5bSiS7Kx4rZHdddn0XivEb"
+      "duration_ms": 329746,
+      "name": "Time After Time - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Killin' Uncle Buzzy",
-        "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
-      },
-      "artists": [
-        {
-          "name": "Travis Meadows",
-          "url": "https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "Learning How to Live Alone",
-      "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/3pOyPju6tohsVyMsnkyyQ2"
       },
@@ -2607,18 +2591,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Tambourine",
-        "url": "https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N"
+        "name": "Killin' Uncle Buzzy",
+        "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
       },
       "artists": [
         {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+          "name": "Travis Meadows",
+          "url": "https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA"
         }
       ],
-      "duration_ms": 224000,
-      "name": "I Am Your Tambourine",
-      "url": "https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A"
+      "duration_ms": 246373,
+      "name": "Learning How to Live Alone",
+      "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2635,6 +2619,22 @@
       "duration_ms": 236266,
       "name": "Taxes on the Farmer Feeds Us All",
       "url": "https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Tambourine",
+        "url": "https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "I Am Your Tambourine",
+      "url": "https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2671,22 +2671,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/7nMRzda3BneKBWE0bDLu1s"
-      },
-      "artists": [
-        {
-          "name": "Martin Sexton",
-          "url": "https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE"
-        }
-      ],
-      "duration_ms": 221183,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/7KvUES0KA4PClnqof2nHMG"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Good Luck Charm",
         "url": "https://open.spotify.com/album/2dREaKg1P5fT3tGTQskANP"
       },
@@ -2699,6 +2683,22 @@
       "duration_ms": 228186,
       "name": "Closer to You",
       "url": "https://open.spotify.com/track/3cv5ztdkBxly1hhZGWTcLW"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Invisible Hour",
+        "url": "https://open.spotify.com/album/39RUJggKYbPF85mppr8jJy"
+      },
+      "artists": [
+        {
+          "name": "Joe Henry",
+          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
+        }
+      ],
+      "duration_ms": 331013,
+      "name": "Grave Angels",
+      "url": "https://open.spotify.com/track/1tOe4416Cr15amXc5rqpal"
     }
   ],
   "unique_name": "Americana Icons",

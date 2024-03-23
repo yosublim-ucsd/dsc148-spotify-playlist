@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > Exceptionally vivid Swahili love stories for you and yours\.  Cover: Bridget Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,200 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,230 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 49 | [Umeme](https://open.spotify.com/track/3CxpOg8kGPAJRFG3S0j1kr) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL) | [Umeme](https://open.spotify.com/album/6Jo1JePWZCM5YsSLFH9ppI) | 3:48 |
 | 50 | [Inauma](https://open.spotify.com/track/5o9Lrsb1ONwnFUoXs6yOav) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr) | [Inauma](https://open.spotify.com/album/6q5kvkKogPAOrzjYy3Y8mD) | 3:23 |
 
-Snapshot ID: `MCw3MGE4ZmZmMjI5MGJiNmE3ZmRkNTQzNTA5YjVhM2M5ZmU5MjMzYmNj`
+Snapshot ID: `MCw3Nzk0ODNiMTMxMjVhZDI2MDNhZWNkY2I4YTI0N2VkMzk4ZjU3NDU3`

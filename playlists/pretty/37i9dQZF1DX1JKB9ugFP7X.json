@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23980,
+  "num_followers": 23982,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjVmMWNjM2U5MTk0MmU5MDQ0OTI1MjMwNDQxOTE3MmFlZTc0N2Q0",
+  "snapshot_id": "MCw0NjNjNTk2ODUwZjY1YzZjNDYwMzFjYWYzOWZkY2RiODI2OTIwZTFj",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -335,26 +335,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Nico Valdi produciendo a Ruggero y Bernardita",
-        "url": "https://open.spotify.com/album/33ekTyVf1xcrbvEof3WClm"
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/6nva6vnxk725eRidB3AgbC"
       },
       "artists": [
         {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         },
         {
-          "name": "RUGGERO",
-          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
-        },
-        {
-          "name": "Bernardita Sonzini",
-          "url": "https://open.spotify.com/artist/1Sdd0GHzVVAXY9nZOuvsrL"
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
         }
       ],
-      "duration_ms": 163124,
-      "name": "Nico Valdi produciendo a Ruggero y Bernardita",
-      "url": "https://open.spotify.com/track/08S5L7YbAGwNxDJJ9yU9ZK"
+      "duration_ms": 205436,
+      "name": "Entre las Dos",
+      "url": "https://open.spotify.com/track/2SbinZ9sYneunRL0MNxlbZ"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -375,22 +371,26 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Souvenir",
-        "url": "https://open.spotify.com/album/6nva6vnxk725eRidB3AgbC"
+        "name": "Nico Valdi produciendo a Ruggero y Bernardita",
+        "url": "https://open.spotify.com/album/33ekTyVf1xcrbvEof3WClm"
       },
       "artists": [
         {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
         },
         {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+          "name": "RUGGERO",
+          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
+        },
+        {
+          "name": "Bernardita Sonzini",
+          "url": "https://open.spotify.com/artist/1Sdd0GHzVVAXY9nZOuvsrL"
         }
       ],
-      "duration_ms": 205436,
-      "name": "Entre las Dos",
-      "url": "https://open.spotify.com/track/2SbinZ9sYneunRL0MNxlbZ"
+      "duration_ms": 163124,
+      "name": "Nico Valdi produciendo a Ruggero y Bernardita",
+      "url": "https://open.spotify.com/track/08S5L7YbAGwNxDJJ9yU9ZK"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "POSE!",
+        "url": "https://open.spotify.com/album/20TZLmuA2scsAXFU62L1vN"
+      },
+      "artists": [
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "POSE!",
+      "url": "https://open.spotify.com/track/0CBqdjYm2rVEEFbzxCtdLj"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "El Im\u00e1n (Remix)",
         "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "POSE!",
-        "url": "https://open.spotify.com/album/20TZLmuA2scsAXFU62L1vN"
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
       },
       "artists": [
         {
-          "name": "Juana Rozas",
-          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
         }
       ],
-      "duration_ms": 172714,
-      "name": "POSE!",
-      "url": "https://open.spotify.com/track/0CBqdjYm2rVEEFbzxCtdLj"
+      "duration_ms": 182291,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1155,22 +1171,6 @@
       "duration_ms": 196641,
       "name": "Autosabotear (Uffie & Lokoy Remix)",
       "url": "https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 182291,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Postal",
-        "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        }
-      ],
-      "duration_ms": 210002,
-      "name": "TODO LO QUE HICIMOS.",
-      "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Chicos de la Luz",
         "url": "https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 279600,
       "name": "Caribbean",
       "url": "https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Postal",
+        "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 210002,
+      "name": "TODO LO QUE HICIMOS.",
+      "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Cuando Se Apague Todo",
-        "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        },
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        }
-      ],
-      "duration_ms": 228443,
-      "name": "Cuando Se Apague Todo",
-      "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Ya fue",
         "url": "https://open.spotify.com/album/3UAdbKKyU8bflHX2vlQcGf"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 448000,
       "name": "No Van a Parar - Remix",
       "url": "https://open.spotify.com/track/3zY3SqG8uQdD2zhNQi98NY"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Cuando Se Apague Todo",
+        "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        }
+      ],
+      "duration_ms": 228443,
+      "name": "Cuando Se Apague Todo",
+      "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
-      },
-      "artists": [
-        {
-          "name": "Fakuta",
-          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
-        }
-      ],
-      "duration_ms": 235710,
-      "name": "La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Trampa",
         "url": "https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 183500,
       "name": "Trampa",
       "url": "https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
+      },
+      "artists": [
+        {
+          "name": "Fakuta",
+          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
+        }
+      ],
+      "duration_ms": 235710,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Marcha II",
-        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
-      },
-      "artists": [
-        {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
-        }
-      ],
-      "duration_ms": 224330,
-      "name": "Atentado en la Pista",
-      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Formas",
         "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 213018,
       "name": "Housie",
       "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Marcha II",
+        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
+      },
+      "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        }
+      ],
+      "duration_ms": 224330,
+      "name": "Atentado en la Pista",
+      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
     },
     {
       "added_at": "2024-03-08 03:00:00",

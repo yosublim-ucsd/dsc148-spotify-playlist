@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 
 > Los abanderados del rock argentino y sus himnos con Fito Paez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148,814 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,927 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 61 | [El Farolito](https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 4:13 |
 | 62 | [Es Por Amor](https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [GIT, El Album](https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN) | 5:13 |
 | 63 | [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 |
-| 64 | [Imágenes Paganas](https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:29 |
-| 65 | [Angel de los Perdedores](https://open.spotify.com/track/2WE7vQVhCBf8E9COHIK7uP) | [El Soldado](https://open.spotify.com/artist/0CFMR3ZXAZ591sp0z2Hwjp), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Sergio Dawi](https://open.spotify.com/artist/17RXWSHeHAjnFQP9GRwHAs) | [Tren de Fugitivos](https://open.spotify.com/album/0BnkbEjDMgBCVaWJYnj68f) | 5:16 |
+| 64 | [Cerca De La Revolucion](https://open.spotify.com/track/66grIvFLGrI4tNhggO2DAd) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/17utekM9a95MchXbkbh47k) | 4:40 |
+| 65 | [Imágenes Paganas](https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:29 |
 | 66 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
 | 67 | [Los Viejos Vinagres](https://open.spotify.com/track/587HW7legSOEetkhw2RoO2) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Llegando Los Monos](https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4) | 3:17 |
 | 68 | [Ruleta](https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP) | 4:16 |
-| 69 | [Cerca De La Revolucion](https://open.spotify.com/track/66grIvFLGrI4tNhggO2DAd) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/17utekM9a95MchXbkbh47k) | 4:40 |
+| 69 | [Angel de los Perdedores](https://open.spotify.com/track/2WE7vQVhCBf8E9COHIK7uP) | [El Soldado](https://open.spotify.com/artist/0CFMR3ZXAZ591sp0z2Hwjp), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Sergio Dawi](https://open.spotify.com/artist/17RXWSHeHAjnFQP9GRwHAs) | [Tren de Fugitivos](https://open.spotify.com/album/0BnkbEjDMgBCVaWJYnj68f) | 5:16 |
 | 70 | [Te Ví en un Tren](https://open.spotify.com/track/2vR0SW93BdIciNlqeJVSch) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 4:05 |
 | 71 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 |
 | 72 | [Alta suciedad](https://open.spotify.com/track/55XrKecG9mBBLI3PL3KzXU) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 79 | [Barro Tal Vez](https://open.spotify.com/track/1y96w7WDPlwByq9aISEi6G) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Kamikaze](https://open.spotify.com/album/3mUwlh7aK2PHj8aUrI9Nyt) | 3:17 |
 | 80 | [Y Mientras Tanto el Sol Se Muere...](https://open.spotify.com/track/2KVK9tv3rKSYmPV1U5Pxqv) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Porco Rex](https://open.spotify.com/album/2nT2LHBP43vxzj9iYG0y6e) | 4:00 |
 
-Snapshot ID: `MCxmMmJiNThjZTRmOGIzZmNjOWUxYjdkY2IzZDdiNDE1ODc3ZDY0MDI0`
+Snapshot ID: `MCxhMWE4NmJkODkxZmM0NTE4YzExNTQ3NGMyMzNhNmFlNzE0YTRjY2E3`

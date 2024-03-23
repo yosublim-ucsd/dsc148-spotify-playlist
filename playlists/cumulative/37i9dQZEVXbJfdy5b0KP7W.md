@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Peru.
 
-691 songs - 1 day 15 hr 20 min
+692 songs - 1 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-07-09 | 2022-09-16 |
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2021-09-20 | 2022-07-17 |
 | [Nublado](https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Nublado](https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL) | 3:00 | 2022-07-01 | 2022-07-09 |
+| [OA](https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [OA](https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet) | 3:55 | 2024-03-22 |  |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-07 | 2023-09-24 |
 | [OJITOS ROJOS](https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:41 | 2023-08-31 |  |
 | [OJITOS ROJOS](https://open.spotify.com/track/2no3AeFeRxHhoY7lJ9X4bM) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 3:41 | 2023-08-06 | 2023-09-01 |
@@ -580,7 +581,7 @@
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2021-07-11 | 2022-06-06 |
 | [Somebody](https://open.spotify.com/track/5KfJvZ0PZzRdwFRaTUDAA7) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:48 | 2023-11-04 | 2023-11-06 |
 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 | 2022-09-15 | 2022-09-18 |
-| [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-04 |  |
+| [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-04 | 2024-03-23 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-08-07 | 2022-01-27 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-12 | 2022-02-21 |
 | [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:55 | 2022-12-03 | 2022-12-05 |

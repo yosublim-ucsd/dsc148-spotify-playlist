@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover: Kizz Daniel
 
-350 songs - 17 hr 4 min
+351 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Etema](https://open.spotify.com/track/6ziIY7sfJeEl2mDQoR8WUp) | [WaxFiend](https://open.spotify.com/artist/052544MnsA3CEiQtQHlx7r), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR) | [Etema](https://open.spotify.com/album/15QxdFuEEcoN0j1RtRYGPb) | 4:30 | 2022-07-13 | 2023-03-01 |
 | [Everything](https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Everything](https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X) | 2:46 | 2024-02-08 | 2024-02-23 |
 | [Evidence](https://open.spotify.com/track/3BfUA5HYf8dtXvtnYqtvxw) | [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Travis Allen](https://open.spotify.com/artist/0l0pHgoBrCcr7wQTrBwbCp), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [Evidence](https://open.spotify.com/album/6xI9kUBYnKMVVtYH6Zj6Dz) | 2:57 | 2022-08-25 | 2023-03-03 |
+| [Eyes Contact](https://open.spotify.com/track/3U9dBe1iVc2YpXNOioeOyS) | [Chris Lobanzo](https://open.spotify.com/artist/7u8kz2V293SFXUMzz8FGTi) | [Eyes Contact](https://open.spotify.com/album/7jafIOo8vv9z2RI83Z5GKK) | 2:38 | 2024-03-22 |  |
 | [F O L L O W](https://open.spotify.com/track/0CqzNqbjbaaMh11Q0FF6KP) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [B L U N T](https://open.spotify.com/album/404Hu5CuQHTzgdywua3Uei) | 3:14 | 2023-07-07 | 2023-08-18 |
 | [Faaji](https://open.spotify.com/track/1I1UC0ljqNUEHTfVsZNJCU) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Lazy Girl](https://open.spotify.com/album/79qFfx2Gmq4UAotRx6V0AW) | 2:32 | 2024-02-01 | 2024-03-16 |
 | [Fakosi](https://open.spotify.com/track/21c4uTFmR8UccKjYoG8Mvn) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Fakosi](https://open.spotify.com/album/50K8OYdwAczPTxrEYoZCmB) | 2:45 | 2023-11-16 | 2024-01-19 |

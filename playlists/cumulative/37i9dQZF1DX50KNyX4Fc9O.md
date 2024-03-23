@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Kita Alexander
 
-809 songs - 1 day 17 hr 55 min
+812 songs - 1 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 | 2024-01-11 | 2024-02-09 |
 | [All Eyes on Me \(feat\. BENEE, Chad Hugo & Pusha T\)](https://open.spotify.com/track/4r48NKo5H3NHpe5nmxDFvv) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Chad Hugo](https://open.spotify.com/artist/6HObKCGcJkXr84jyo0ZzPp) | [All Eyes On Me \(feat\. BENEE, Chad Hugo & Pusha T\)](https://open.spotify.com/album/1WQFkEZ6ebRQ7ty6Ygbujl) | 2:26 | 2023-10-12 | 2023-11-17 |
 | [All Girls Go to Heaven](https://open.spotify.com/track/4DARCDYP7uNc0tp7ABx154) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [All Girls Go to Heaven](https://open.spotify.com/album/4APWqD1zWFke34VGBzgroW) | 2:44 | 2024-03-14 |  |
-| [All Life Long](https://open.spotify.com/track/3WEN5hlpjc09yo0J6IuQBE) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0unji0xUcEGgNFyokzF5p5) | 3:19 | 2024-03-21 |  |
+| [All Life Long](https://open.spotify.com/track/2R2fEymz4psIZb2Ic3lBIy) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0ISpTOqbSEzzY0Kt4JsTTq) | 3:19 | 2024-03-21 |  |
+| [All Life Long](https://open.spotify.com/track/3WEN5hlpjc09yo0J6IuQBE) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0unji0xUcEGgNFyokzF5p5) | 3:19 | 2024-03-21 | 2024-03-23 |
 | [All My Friends Hate Me](https://open.spotify.com/track/03m467XlcAzQFP4grnIMRV) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [All My Friends Hate Me](https://open.spotify.com/album/0dZKvHf8KIeuRFKa2UKntu) | 3:44 | 2023-10-05 | 2023-11-09 |
 | [All Night \(feat\. LAUREL\)](https://open.spotify.com/track/70YNlheifxJIlRKnS9G5be) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [All Night \(feat\. LAUREL\)](https://open.spotify.com/album/5oIHA8IYx2koRMMzifLCaV) | 2:50 | 2024-02-01 | 2024-03-22 |
 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 | 2024-01-18 | 2024-02-16 |
@@ -396,7 +397,8 @@
 | [It's All Over You](https://open.spotify.com/track/7hw3AFHSYdOFtVdplMWaIl) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Chasing Nirvana](https://open.spotify.com/album/6508WBT3t0ON8b5KBQL37m) | 2:56 | 2023-11-09 | 2023-12-15 |
 | [It's not fair](https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [It's not fair](https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP) | 2:42 | 2024-03-14 |  |
 | [J CHRIST](https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [J CHRIST](https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J) | 2:33 | 2024-01-11 | 2024-02-16 |
-| [Jealous Type](https://open.spotify.com/track/3sDrvksYRTocS4qiXkgmea) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Jealous Type](https://open.spotify.com/album/5sdfxTKumLBD7fRXHrF09l) | 2:42 | 2024-03-21 |  |
+| [Jealous Type](https://open.spotify.com/track/3Y3J17G7fuGsgpE28vT7oo) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Jealous Type](https://open.spotify.com/album/0ZK7y32fsOY4OPYsNkM55T) | 2:42 | 2024-03-21 |  |
+| [Jealous Type](https://open.spotify.com/track/3sDrvksYRTocS4qiXkgmea) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Jealous Type](https://open.spotify.com/album/5sdfxTKumLBD7fRXHrF09l) | 2:42 | 2024-03-21 | 2024-03-23 |
 | [Joy](https://open.spotify.com/track/4kD3OqYqX2kJCUTEscRBxO) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN \(Bonus\)](https://open.spotify.com/album/1F9LY06gadScF4g3g3BrDC) | 4:47 | 2023-08-04 | 2023-08-25 |
 | [JOY \(Push The Button\)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY \(Push The Button\)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 | 2023-12-21 | 2024-01-19 |
 | [july](https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century: the epilogue](https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11) | 2:45 | 2023-11-30 | 2024-01-26 |
@@ -569,6 +571,7 @@
 | [Problematic](https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Lucid Dreams](https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY) | 2:44 | 2023-10-05 | 2023-10-27 |
 | [Psychedelic Switch](https://open.spotify.com/track/7zy2kNoeD72x2NEDaAsJOX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 4:32 | 2023-07-27 | 2023-08-25 |
 | [Pull Me In](https://open.spotify.com/track/5JtuOJXFe3YhcgVwbz1z6c) | [Where's Jai](https://open.spotify.com/artist/55olYRcMzqdvCfqrATjiTf) | [Pull Me In](https://open.spotify.com/album/07FP1XMdfLdzcu0ribK4qF) | 3:37 | 2024-02-01 | 2024-02-16 |
+| [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 | 2024-03-21 |  |
 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 | 2023-12-14 | 2024-01-19 |
 | [Queen](https://open.spotify.com/track/3yEkUjJOqBIORKxOLK80jS) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Queen](https://open.spotify.com/album/4P86lJFzKu0krcnGlvoIuH) | 3:27 | 2023-06-15 | 2023-06-30 |
 | [Rachel's Song \- Spotify Singles](https://open.spotify.com/track/0khFZaCEnXkBmBRA8M4g0d) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Rachel's Song \- Spotify Singles](https://open.spotify.com/album/5IgVZoSuJ9WShRKoqYIKgw) | 3:21 | 2023-09-21 | 2023-11-17 |

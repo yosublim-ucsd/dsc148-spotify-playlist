@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,785 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,835 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 13 | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn) | 2:51 |
 | 14 | [Pideme la Luna](https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:47 |
 | 15 | [Los Brothers \(09/19\)](https://open.spotify.com/track/0c8WcRLJRUuQfQIdmXAzpA) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [Los Brothers \(09/19\)](https://open.spotify.com/album/0A5XLLKJ8Z7G6AM7uL4WzI) | 3:36 |
-| 16 | [Sentimientos De Carton \- En Vivo](https://open.spotify.com/track/13bpCkdwpBycK88vHzbnIM) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 3:21 |
-| 17 | [Dicen Y Dicen](https://open.spotify.com/track/4VLl5U59czwlduQCcJ6Jkp) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Dicen Y Dicen](https://open.spotify.com/album/4EyOfEfGnA7YSuTFA9CJ49) | 2:53 |
-| 18 | [No Es por Ella](https://open.spotify.com/track/65aRqpfHbDRWhFfupWm26H) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [No Es por Ella](https://open.spotify.com/album/3CcLFuxfmJV1Q8TyY59zew) | 2:50 |
+| 16 | [Dicen Y Dicen](https://open.spotify.com/track/4VLl5U59czwlduQCcJ6Jkp) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Dicen Y Dicen](https://open.spotify.com/album/4EyOfEfGnA7YSuTFA9CJ49) | 2:53 |
+| 17 | [Sentimientos De Carton \- En Vivo](https://open.spotify.com/track/13bpCkdwpBycK88vHzbnIM) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 3:21 |
+| 18 | [Hermosura de Mujer](https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:44 |
 | 19 | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/track/0612bpbpVUQX7mwYNO36xj) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Envidia Se Dio Cuenta \(En Vivo\)](https://open.spotify.com/album/56ZmDRD0prasmcVlSJwQNS) | 3:26 |
-| 20 | [Hermosura de Mujer](https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:44 |
+| 20 | [No Es por Ella](https://open.spotify.com/track/65aRqpfHbDRWhFfupWm26H) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [No Es por Ella](https://open.spotify.com/album/3CcLFuxfmJV1Q8TyY59zew) | 2:50 |
 | 21 | [Demonio Dormido \- En Vivo](https://open.spotify.com/track/2SANdIdArza7A5wfat0eLM) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 2:57 |
 | 22 | [Polvo Soy](https://open.spotify.com/track/32j8TGCQDBzKEmYmvCCNG2) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Polvo Soy](https://open.spotify.com/album/7D0Kkh6JDZkP2fF3JWJ7rI) | 2:53 |
 | 23 | [El Piyi](https://open.spotify.com/track/3h6yZoWyDVjWU7YGpWfY2f) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 49 | [El Chapio](https://open.spotify.com/track/3dUhfSxObWIUqsL1naJOOs) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk) | 2:33 |
 | 50 | [De Negra a Negra](https://open.spotify.com/track/4kEZ3UBvd3RnCKQSj5BkdT) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:52 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBlNjdmZjlhNzNiOGQzOWNiMzM1ZTJkNjQ1MjM1NDIzMQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBiZmEwMzUxNzE0Y2Y0NWM4YTUxZGFiMGU4ODE3OWE4Zg==`

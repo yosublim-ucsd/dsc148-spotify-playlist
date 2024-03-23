@@ -4,7 +4,7 @@
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 59 min
+108 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [No Llega el Olvido](https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:05 | 2023-12-13 |  |
 | [No Llega El Olvido](https://open.spotify.com/track/6tzP3K1dS3AW7b0byZwSnd) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:07 | 2022-06-01 | 2023-12-14 |
 | [No Se Vivir \- En Vivo](https://open.spotify.com/track/7Bxs5oDeIKI8aatDljy6Qs) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:13 | 2023-09-25 | 2024-02-23 |
-| [No Vas a Creer/Te Preguntaras \- En Vivo](https://open.spotify.com/track/3puernBYuD2jnlq3732oG0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! , Vol.2 \(En Vivo\)](https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI) | 4:30 | 2023-05-27 |  |
+| [No Vas A Creer](https://open.spotify.com/track/7Az6DXDV4OcWymi6AVwsgJ) | [La Octava Banda](https://open.spotify.com/artist/4MQ4ecnzWM9Twm2801yquH), [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [No Vas A Creer](https://open.spotify.com/album/2ttEnguoxaUCYj9jg4fp4T) | 3:09 | 2024-03-22 |  |
+| [No Vas a Creer/Te Preguntaras \- En Vivo](https://open.spotify.com/track/3puernBYuD2jnlq3732oG0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! , Vol.2 \(En Vivo\)](https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI) | 4:30 | 2023-05-27 | 2024-03-23 |
 | [Oh Gran Dios](https://open.spotify.com/track/3ThVhCjqErJsuajFsMLn3H) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 2:50 | 2022-06-01 |  |
 | [Para Ellas](https://open.spotify.com/track/0NB5GkAROV33z5pDY7GGpu) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 3:13 | 2022-06-01 |  |
 | [Pelao de Rancho](https://open.spotify.com/track/5ygvVYQlBgHV2SfvfikJcq) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 2:34 | 2023-05-02 | 2023-07-16 |

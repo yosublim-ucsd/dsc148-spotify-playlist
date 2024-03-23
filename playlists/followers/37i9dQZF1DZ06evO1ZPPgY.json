@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 214896,
+  "2024-03-23": 214937,
   "date_first_scraped": "2020-10-20",
   "description": "This is Barry White. The essential tracks, all in one playlist.",
   "name": "This Is Barry White",
@@ -327,7 +327,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 621200,
       "name": "I Can't Believe You Love Me",
       "url": "https://open.spotify.com/track/3Yqv3fzCx7M5Hs4kKtX7aS"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 190333,
       "name": "I've Got So Much To Give",
       "url": "https://open.spotify.com/track/30BIQMWprmAlVae1W4BRBw"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 262733,
       "name": "Rio De Janeiro",
       "url": "https://open.spotify.com/track/1UvpQB8F2riBElL5bxlD6Q"
@@ -1505,7 +1505,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 219440,
       "name": "What Am I Gonna Do With You",
       "url": "https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE"
@@ -1523,7 +1523,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 639600,
       "name": "Whatever We Had, We Had",
       "url": "https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku"
@@ -1613,7 +1613,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 276466,
       "name": "You're The First, The Last, My Everything",
       "url": "https://open.spotify.com/track/5dXJ1SoksFkgdx3yxIoYNO"

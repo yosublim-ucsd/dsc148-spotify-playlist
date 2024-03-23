@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: blesse
 
-164 songs - 9 hr 33 min
+165 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Rock & roll sur ton chemin](https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rock & roll sur ton chemin](https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p) | 3:58 | 2023-02-10 | 2023-08-21 |
 | [Rock Band](https://open.spotify.com/track/7goO0mzvYZAukSS0aUnDc8) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Rock Band](https://open.spotify.com/album/6nk21frolh3HS7MlwISfbg) | 3:52 | 2023-02-10 | 2023-04-29 |
 | [Romantisme](https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [Romantisme](https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4) | 3:53 | 2023-10-20 |  |
+| [Rouge à lèvres](https://open.spotify.com/track/0HgHk6fXRi0CuYnhahRtxH) | [Alix Fernz](https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ) | [Rouge à lèvres](https://open.spotify.com/album/1kZoT8CcY3Yrva4uAwGN1R) | 3:26 | 2024-03-22 |  |
 | [sadguitar\_V777.wav](https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [sadguitar\_V777.wav](https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq) | 3:57 | 2023-02-10 |  |
 | [Salaire Minimum](https://open.spotify.com/track/5FyydM82oQSSp2OBidKZBW) | [Sèxe Illégal](https://open.spotify.com/artist/5rWz0pTrCLoCPfQ68KFcH8) | [Spätkapitalismusik](https://open.spotify.com/album/41sPlypAmlnRQJOi4aisrH) | 2:50 | 2023-02-10 | 2023-02-19 |
 | [Sans soleil](https://open.spotify.com/track/0OF84e7RhmShtWnaqlsn18) | [Miels](https://open.spotify.com/artist/1T7DAgRWmzieWxeyEhBD8g) | [Sans soleil](https://open.spotify.com/album/4s7WEYMQ2XgdahBLlNs6Re) | 2:55 | 2024-03-15 |  |
@@ -142,7 +143,7 @@
 | [Si oui ou non](https://open.spotify.com/track/0OPEi21gk2S0fg8yMRcews) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Si oui ou non](https://open.spotify.com/album/1BBSrtHVh6HuAmaOVgahGm) | 2:20 | 2023-06-02 | 2023-06-17 |
 | [Still Stained](https://open.spotify.com/track/5l6cpf17q2eIOzYQvbhtwa) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Still Stained](https://open.spotify.com/album/7yam2gXzNOxkeHDPZQOOPv) | 3:01 | 2023-06-30 | 2023-08-23 |
 | [Stéréo](https://open.spotify.com/track/6YyFB2Qyn8Wv0XeCe7zxez) | [Loïc April](https://open.spotify.com/artist/4fnRDn8I09X3FEegktJWVt) | [Stéréo](https://open.spotify.com/album/22Hh0sucnNATw5MQkftTzK) | 2:47 | 2024-02-02 | 2024-02-26 |
-| [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 | 2023-02-10 |  |
+| [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 | 2023-02-10 | 2024-03-23 |
 | [Sweet montérégie](https://open.spotify.com/track/5cdHmyc2mbTB7Dzaj3Dsbw) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/5J54uEsmf08ml6uDxOUxU3) | 3:49 | 2023-10-27 | 2024-03-22 |
 | [Sweet Montérégie](https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr) | 3:49 | 2023-02-10 | 2023-08-03 |
 | [Ta yeule, toute va ben](https://open.spotify.com/track/2WSaDhLKwesu1YFWdFoB5u) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [Ta yeule, toute va ben](https://open.spotify.com/album/7czM4O7ElmQ8WOCrav1Vxf) | 2:24 | 2023-02-10 | 2023-03-25 |

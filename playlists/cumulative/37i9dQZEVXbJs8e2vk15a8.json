@@ -6546,7 +6546,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 127616,
       "name": "Coa Xorete",
       "url": "https://open.spotify.com/track/5wsu2OYLGIaWkAX4aifTx6"
@@ -7016,10 +7016,32 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 249502,
       "name": "Confortas Pero Da\u00f1as",
       "url": "https://open.spotify.com/track/1XhoqOuon1mUaZpDSjRiaD"
+    },
+    {
+      "album": {
+        "name": "Confortas Pero Da\u00f1as",
+        "url": "https://open.spotify.com/album/0pokgIdya1JBKlYSaF7R3X"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Resonancia Et\u00e9rea",
+          "url": "https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249502,
+      "name": "Confortas Pero Da\u00f1as",
+      "url": "https://open.spotify.com/track/72PMAMYZYL060JML0S3khc"
     },
     {
       "album": {
@@ -17191,6 +17213,52 @@
     },
     {
       "album": {
+        "name": "Le Gustan Lo' Flaites (feat. ECKO, Agus Padilla, Julianno Sosa, Look DC & LAALODJ) [Remix]",
+        "url": "https://open.spotify.com/album/1bajvwkaJhi4Pe7KsuJQn2"
+      },
+      "artists": [
+        {
+          "name": "Celso El Potente",
+          "url": "https://open.spotify.com/artist/7psSmcUfVtqIeuWKKd8Md2"
+        },
+        {
+          "name": "El Joan",
+          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Agus Padilla",
+          "url": "https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Look DC",
+          "url": "https://open.spotify.com/artist/5i7omv4qeyFwx7kd4jYK9i"
+        },
+        {
+          "name": "Laalo Dj",
+          "url": "https://open.spotify.com/artist/5CvUQOMHfFFXlCd8SGaR5A"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331200,
+      "name": "Le Gustan Lo' Flaites (feat. ECKO, Agus Padilla, Julianno Sosa, Look DC & LAALODJ) - Remix",
+      "url": "https://open.spotify.com/track/7rex6bIOuoKEVxQkf0sIMM"
+    },
+    {
+      "album": {
         "name": "Talk to Me (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1d1ZEmPwvPZXIOQRqjDBkw"
       },
@@ -24308,7 +24376,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 106762,
       "name": "Oye mujer giuliano yankees ia",
       "url": "https://open.spotify.com/track/1LpDtRiOOnq9AbpRHyCDxw"
@@ -36896,6 +36964,24 @@
       "duration_ms": 179164,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
+    },
+    {
+      "album": {
+        "name": "You Are the One",
+        "url": "https://open.spotify.com/album/2FAGpnrvEObSPfRFgv2kXV"
+      },
+      "artists": [
+        {
+          "name": "El mas puro",
+          "url": "https://open.spotify.com/artist/3ZtqWKOHsYcoOKCR28b1Dv"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203142,
+      "name": "You Are the One",
+      "url": "https://open.spotify.com/track/0vQtEnLzxqHU3wGUlBKlqv"
     },
     {
       "album": {

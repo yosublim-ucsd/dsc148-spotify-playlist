@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ireland.
 
-1,454 songs - 3 day 13 hr 36 min
+1,455 songs - 3 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-12 | 2022-04-25 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-21 | 2022-06-26 |
 | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/track/59nbIJxGb1qkrzbtTomZkL) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/album/4ShgsMHEHPPLI6Dk16HNF1) | 2:59 | 2021-10-10 | 2021-10-17 |
-| [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 | 2022-05-23 |  |
+| [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 | 2022-05-23 | 2024-03-23 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-22 | 2022-07-31 |
 | [BREAK MY SOUL](https://open.spotify.com/track/40KCN2nYImUounlfO5Cdzn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV) | 4:38 | 2022-07-30 | 2022-08-02 |
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-08-01 | 2022-10-23 |
@@ -607,6 +607,7 @@
 | [I Knew You Were Trouble \(Taylor's Version\)](https://open.spotify.com/track/6tNSmBKSjFV1366ASuULfZ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 3:39 | 2021-11-14 | 2021-11-14 |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-07-29 | 2023-08-03 |
 | [I Know Places \(Taylor's Version\)](https://open.spotify.com/track/2f0GI2ZLUtbGqFx8t2Gk6A) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:15 | 2023-10-28 | 2023-11-02 |
+| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-22 |  |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-04 | 2022-07-24 |
 | [i n t e r l u d e](https://open.spotify.com/track/2gyYjQWXKxemhAyMPgctIx) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [i n t e r l u d e](https://open.spotify.com/album/0WvwihMfA5E29MrLyNpJYF) | 2:11 | 2021-05-09 | 2021-05-16 |
 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 | 2021-05-16 | 2021-05-23 |

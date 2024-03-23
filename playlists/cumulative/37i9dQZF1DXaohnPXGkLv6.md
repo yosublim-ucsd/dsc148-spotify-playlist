@@ -4,7 +4,7 @@
 
 > The essential Olivia Rodrigo tracks, all in one playlist.
 
-35 songs - 1 hr 48 min
+40 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Even When/The Best Part \- From "High School Musical: The Musical: The Series \(Season 2\)"](https://open.spotify.com/track/30UszgTxEuJVG5SUFyBffT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Even When/The Best Part \[From "High School Musical: The Musical: The Series \(Season 2\)"\]](https://open.spotify.com/album/2YLKW3LB4P1cEersm5YpAL) | 1:46 | 2022-04-14 |  |
 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 | 2022-04-14 |  |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-08 |  |
+| [girl i’ve always been](https://open.spotify.com/track/0bJAmhSAeMSfsyazOEUVFf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:01 | 2024-03-22 |  |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-04-14 |  |
 | [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 | 2022-04-14 |  |
 | [hope ur ok](https://open.spotify.com/track/1zejeOnykpCoyVSit6Bwp3) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:29 | 2022-04-14 |  |
@@ -32,9 +33,13 @@
 | [logical](https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:51 | 2023-09-08 |  |
 | [love is embarrassing](https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:34 | 2023-09-08 |  |
 | [making the bed](https://open.spotify.com/track/5CscrLqFBgPfZR8fGtikov) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:18 | 2024-03-04 |  |
+| [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-03-22 |  |
 | [Out of the Old](https://open.spotify.com/track/6YYF7BRXYbGIHd3FLeU9R4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:48 | 2022-04-14 |  |
 | [pretty isn’t pretty](https://open.spotify.com/track/6W9l02gRsXVxzIuQC1oc1X) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:19 | 2024-03-04 |  |
+| [scared of my guitar](https://open.spotify.com/track/7JqH46zlr7XV7vMBt4slE6) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 4:23 | 2024-03-22 |  |
+| [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 | 2024-03-22 |  |
 | [Start of Something New \- Nini Version](https://open.spotify.com/track/2JAE25n5JDyb3rp2ti0ql8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 1:41 | 2022-04-14 |  |
+| [stranger](https://open.spotify.com/track/2U3jOPfO4wZZFaaWS4Dcj6) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 3:12 | 2024-03-22 |  |
 | [teenage dream](https://open.spotify.com/track/7fesNTgTEMEH0ye8MOgEDY) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:42 | 2024-03-04 |  |
 | [The Best Part \- From "High School Musical: The Musical: The Series \(Season 2\)"](https://open.spotify.com/track/0nZkXIhuH183AKwF1LAZUy) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Best Part \[From "High School Musical: The Musical: The Series \(Season 2\)"\]](https://open.spotify.com/album/2QvIqoT72oNaNuIrWR3FjC) | 1:47 | 2022-04-14 |  |
 | [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 | 2023-09-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pGqUCAZhrO.md) - [plain]
 
 > Live by your own rules\. Listen to the official playlist inspired by Bel\-Air, streaming now exclusively on  <a href="https://www.peacocktv.com/stream\-tv/bel\-air">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,869 likes - 57 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,888 likes - 57 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pGqUCAZhrO.md) - [plain]
 | 27 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 |
 | 28 | [DAYDREAM](https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 3:01 |
 | 29 | [Life Is Good \(feat\. Scribz Riley\)](https://open.spotify.com/track/4bxr2sOVZSLjIN7tQx53ir) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Life Is Good \(feat\. Scribz Riley\)](https://open.spotify.com/album/6rdfmpRVrUn1B7Q8rSCHZj) | 4:16 |
-| 30 | [Bag \(with Lucky Daye\)](https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Bag \(with Lucky Daye\)](https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY) | 3:31 |
+| 30 | [Bag \(with Lucky Daye\)](https://open.spotify.com/track/5snvaaFZTahc1OGkBvhgrn) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Lush Life](https://open.spotify.com/album/4Z3clJrBFpORXTaP6D5t2v) | 3:31 |
 | 31 | [Dango](https://open.spotify.com/track/3X7JVx8CYnFwVGiyU6hFhl) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Hits No Mrs](https://open.spotify.com/album/5D2gr5bZhNnVZZqXQ7SbSA) | 2:49 |
 | 32 | [Hotline](https://open.spotify.com/track/7AY5raqt9cEligkpFETuAa) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Hummingbird](https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy) | 2:28 |
 | 33 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/5FFUDCkMjxuK6XQZNumN55) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like](https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf) | 2:44 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pGqUCAZhrO.md) - [plain]
 | 56 | [Swagg Talk](https://open.spotify.com/track/3uGoSNkxwxEgoxhaYkF6F9) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [Swagg Talk](https://open.spotify.com/album/3Y7iKUxDQ2xcCYMFu4HsR2) | 2:58 |
 | 57 | [MiNi VaN](https://open.spotify.com/track/1jnJ0EKN5QbukBo8qkwmCv) | [Amaru Son](https://open.spotify.com/artist/1j4IqKoo9teP3cGdB5d1Ut) | [MiNi VaN](https://open.spotify.com/album/7vJO9gTpNEQsBqXA1DtrPe) | 2:08 |
 
-Snapshot ID: `MCw3M2VkYWIzNDJlZDBlZDk4ZGJkMzYzZDc5MzViZTM1MmY2OTM3NWYy`
+Snapshot ID: `MCwxZGFkM2Y4MjVmOTJkYWMwYzlhNDdjODAyMzNhZjY4YjhiYjJhNWM5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 307 songs - 18 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 304 songs - 18 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,8 +240,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 230 | [Bad Love](https://open.spotify.com/track/3IJ5RruUSymQVekN6wDhjF) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM) | 3:26 |
 | 231 | [Heartbreaker](https://open.spotify.com/track/0XAKcbVMoF5kW8Dqjdhbdx) | [Whitney Duncan](https://open.spotify.com/artist/7D3IiPrIsSWfMFHEqEOCUB) | [Heartbreaker](https://open.spotify.com/album/4w3sOYIFoyDInELmHxhHdT) | 3:29 |
 | 232 | [tryin' to love you](https://open.spotify.com/track/0wVv0sMgj9Wx6fSumhAzwT) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 2:57 |
-| 233 | [Sunday Paper](https://open.spotify.com/track/6KgRxOcqfmspwIeNbdoHPA) | [Calaisa](https://open.spotify.com/artist/1LbgoQujblOd8uXOQeS977) | [Calaisa](https://open.spotify.com/album/0EM1ygtvyr5WkKbjgE8W54) | 2:58 |
-| 234 | [Rose\-Colored Rearview](https://open.spotify.com/track/0kdW43oNL3rAK08YB1VXFD) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 3:58 |
+| 233 | [Rose\-Colored Rearview](https://open.spotify.com/track/0kdW43oNL3rAK08YB1VXFD) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 3:58 |
+| 234 | [Sunday Paper](https://open.spotify.com/track/6KgRxOcqfmspwIeNbdoHPA) | [Calaisa](https://open.spotify.com/artist/1LbgoQujblOd8uXOQeS977) | [Calaisa](https://open.spotify.com/album/0EM1ygtvyr5WkKbjgE8W54) | 2:58 |
 | 235 | [You Were Just Here](https://open.spotify.com/track/2GLiyuv81cBc4srbQwksLX) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Delicious Surprise](https://open.spotify.com/album/0wKsvBrbplJvSaZ4EMvgzb) | 3:27 |
 | 236 | [Keep Us Safe](https://open.spotify.com/track/0kB7qEUgE7H9FlM7vIElfX) | [Mat and Savanna Shaw](https://open.spotify.com/artist/4F8dV25EPLvvKVABCaSr8b) | [Stand By Me](https://open.spotify.com/album/2sJR7qAA6tIf92QQ7i9R4X) | 3:53 |
 | 237 | [Sky Full Of Stars](https://open.spotify.com/track/7is31jFJdTZyB1T5f5sWyK) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Sky Full Of Stars](https://open.spotify.com/album/61YQphetN76rhyTm9hxPsR) | 3:37 |
@@ -255,8 +255,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 245 | [All My Ghosts](https://open.spotify.com/track/1zX3yr9Cb5ZmnM8AJJByCS) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 4:22 |
 | 246 | [Country Radio Song](https://open.spotify.com/track/5rIwPOzsUQVvK3IIaaS9OV) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Double Wide Castle Sessions](https://open.spotify.com/album/4CVqU1EaY3DSJOTINW6E5x) | 3:22 |
 | 247 | [Coppertone and Chlorine](https://open.spotify.com/track/7i73kavwwRDWv3Qt04CLfg) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [Summertime Six\-Pack](https://open.spotify.com/album/3QpdL2vmiTvHreU6KTqzTn) | 3:02 |
-| 248 | [Gimme The Good Stuff](https://open.spotify.com/track/1tnnl03ALxjMkt0VO186j2) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Jasper County](https://open.spotify.com/album/6KWsBlO7JuCY50F4StuSng) | 3:33 |
-| 249 | [Stubborn](https://open.spotify.com/track/1Pt29W5dvCSlYnkwi2dYEC) | [Mary Sarah](https://open.spotify.com/artist/5tP5qKnhTbTa2uEL3CLHh9) | [Stubborn](https://open.spotify.com/album/6NPPcxSzxS5eegNBHOyCFC) | 3:35 |
+| 248 | [Stubborn](https://open.spotify.com/track/1Pt29W5dvCSlYnkwi2dYEC) | [Mary Sarah](https://open.spotify.com/artist/5tP5qKnhTbTa2uEL3CLHh9) | [Stubborn](https://open.spotify.com/album/6NPPcxSzxS5eegNBHOyCFC) | 3:35 |
+| 249 | [Gimme The Good Stuff](https://open.spotify.com/track/1tnnl03ALxjMkt0VO186j2) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Jasper County](https://open.spotify.com/album/6KWsBlO7JuCY50F4StuSng) | 3:33 |
 | 250 | [younger woman.](https://open.spotify.com/track/03VJe5qSJ9IdUVA97dQzVk) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 2:41 |
 | 251 | [I Would](https://open.spotify.com/track/7y6aDGUtK0DJZDtf2N7I34) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Dallas Smith](https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig) | 3:28 |
 | 252 | [I Wish For You](https://open.spotify.com/track/6k1LVrrwSjAPltRKOskESt) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Now](https://open.spotify.com/album/7DRYIaKhFc7sHNNIS0Erme) | 4:07 |
@@ -306,14 +306,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 296 | [I'd Leave Me](https://open.spotify.com/track/4UF5EoUWWo81L5R1r1SeoB) | [Lisa Dames](https://open.spotify.com/artist/3z4BbAHE3txFTKRAHzSf6g) | [No One Like Me](https://open.spotify.com/album/5uPmFmgoAUAwc94wUYYsui) | 3:30 |
 | 297 | [Love You Right](https://open.spotify.com/track/2JkTdxltC22nEQPXR9wrqh) | [Lindsey Walker](https://open.spotify.com/artist/6HjkMXAIbRvdtppck8j2Cp) | [Our Glory](https://open.spotify.com/album/4EHCZliOHYNPffIinC2SnS) | 5:09 |
 | 298 | [Take It](https://open.spotify.com/track/6wWHLZJve0TSnY4v4jaSCj) | [Verena Pötzl](https://open.spotify.com/artist/1qKHy8x5tLVxyTAecm0JkU) | [Taken Unaware](https://open.spotify.com/album/4hOFJz4iRC5dVk1BIAihVF) | 3:24 |
-| 299 | [No Worries](https://open.spotify.com/track/1Hz5RFB6MvqlU7O9lN6CZG) | [Fevah Dream](https://open.spotify.com/artist/21XsJP9KGd249Y8ElQjMnP) | [Roasted Coast](https://open.spotify.com/album/2FW9ezV35rUaToMsixDVme) | 3:31 |
-| 300 | [Queen of Hearts](https://open.spotify.com/track/1h7MHoxIW1Md110MR6j1Iy) | [Rose Hips](https://open.spotify.com/artist/2L100CUtatmSVrJ9Vcj4eM) | [Witch Doctor](https://open.spotify.com/album/5246tB6NI5zSqor9lE1vo5) | 5:03 |
-| 301 | [Web of Lies](https://open.spotify.com/track/2E6f2r945tYOVUYlPWgDCo) | [Pam Jackson](https://open.spotify.com/artist/6hF0EFyjOBs213RdDv8swc) | [Dream a Little Bigger](https://open.spotify.com/album/3LL6YCz4gsYAZiz5cAEksV) | 2:51 |
-| 302 | [Sleep Tonight](https://open.spotify.com/track/7CWKY0ttIoSaVtMd5k1Fjv) | [Midday Sun](https://open.spotify.com/artist/0bQMioo9WhAMfZ5RHwBGqi) | [Walkin' In the Sun: Smooth Country Pop Hits](https://open.spotify.com/album/2HzDVqLBEkBPwZ3T7KWmD6) | 4:16 |
-| 303 | [Burn](https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I) | [Janajana](https://open.spotify.com/artist/1PMgco8DXnVuk4Lr1cw1rR) | [Typical Girl](https://open.spotify.com/album/6zjIhOAyWgjOCHXwTVpzWo) | 3:29 |
-| 304 | [This Time Of Year](https://open.spotify.com/track/5I4vX0BnOj8Hkb2pyln7s3) | [Melanie Morgan](https://open.spotify.com/artist/5SW32PeH4qJv83WrsbKaXL) | [Goodbye Birmingham](https://open.spotify.com/album/43WOGGhIFomvkV9tunjaA6) | 5:14 |
-| 305 | [You Ain't Know](https://open.spotify.com/track/5RNg2kjJYS9yPR6UEV1uUV) | [Millz Tha Difference](https://open.spotify.com/artist/3rI5ILtC3NxAtuRDzJ292X) | [Underrated Favorite \(If This Yo Beat Contact Me\)](https://open.spotify.com/album/2hRf9Uw6TAzo4RPwG1x325) | 3:34 |
-| 306 | [Make It Out](https://open.spotify.com/track/7lQnAxzNfWpHpL1VsA3gzy) | [Zaya Tha Flysta](https://open.spotify.com/artist/1CtP580MCBT8LGke5Riu35), [Mackie Fresh](https://open.spotify.com/artist/3ARzxhq2yh9R0eVClho12c) | [Welcome To The Underground](https://open.spotify.com/album/0jHN4uEq9DXiSYPUTVuxVU) | 3:14 |
-| 307 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
+| 299 | [Queen of Hearts](https://open.spotify.com/track/1h7MHoxIW1Md110MR6j1Iy) | [Rose Hips](https://open.spotify.com/artist/2L100CUtatmSVrJ9Vcj4eM) | [Witch Doctor](https://open.spotify.com/album/5246tB6NI5zSqor9lE1vo5) | 5:03 |
+| 300 | [Web of Lies](https://open.spotify.com/track/2E6f2r945tYOVUYlPWgDCo) | [Pam Jackson](https://open.spotify.com/artist/6hF0EFyjOBs213RdDv8swc) | [Dream a Little Bigger](https://open.spotify.com/album/3LL6YCz4gsYAZiz5cAEksV) | 2:51 |
+| 301 | [Burn](https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I) | [Janajana](https://open.spotify.com/artist/1PMgco8DXnVuk4Lr1cw1rR) | [Typical Girl](https://open.spotify.com/album/6zjIhOAyWgjOCHXwTVpzWo) | 3:29 |
+| 302 | [This Time Of Year](https://open.spotify.com/track/5I4vX0BnOj8Hkb2pyln7s3) | [Melanie Morgan](https://open.spotify.com/artist/5SW32PeH4qJv83WrsbKaXL) | [Goodbye Birmingham](https://open.spotify.com/album/43WOGGhIFomvkV9tunjaA6) | 5:14 |
+| 303 | [You Ain't Know](https://open.spotify.com/track/5RNg2kjJYS9yPR6UEV1uUV) | [Millz Tha Difference](https://open.spotify.com/artist/3rI5ILtC3NxAtuRDzJ292X) | [Underrated Favorite \(If This Yo Beat Contact Me\)](https://open.spotify.com/album/2hRf9Uw6TAzo4RPwG1x325) | 3:34 |
+| 304 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 
-Snapshot ID: `Mjg1MTc5MDAsMDAwMDAwMDBiZjgxNzk0OTNkOTRhZGU5Y2ViMGM1ZDYzMjQyOWM0Ng==`
+Snapshot ID: `Mjg1MTkzNDAsMDAwMDAwMDBhYmYzNjI0ZTBkY2ZkNmI2MTlhYzA0OWE1NmE5M2ZhOQ==`

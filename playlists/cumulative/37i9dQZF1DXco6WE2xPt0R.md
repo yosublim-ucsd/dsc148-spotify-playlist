@@ -4,7 +4,7 @@
 
 > longe dos perigos noturnos
 
-274 songs - 16 hr 21 min
+276 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Friends To Lovers](https://open.spotify.com/track/5zMHwddz7IBSrCkafg8WOr) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Body Music \(Deluxe\)](https://open.spotify.com/album/5WwesTmhyEx9cNre8fwnm9) | 4:36 | 2022-02-25 | 2022-07-29 |
 | [Friends To Lovers](https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Body Music \(Deluxe\)](https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd) | 4:37 | 2022-07-01 |  |
 | [FYF](https://open.spotify.com/track/30CtlcCw99gOYiIoqqYHvE) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [FYF](https://open.spotify.com/album/6poRyRRuXJ6uBUg6pnewTU) | 2:53 | 2022-04-22 |  |
-| [FYS](https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [FYS](https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt) | 3:29 | 2024-03-01 |  |
+| [FYS](https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [FYS](https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt) | 3:29 | 2024-03-01 | 2024-03-23 |
 | [Genius](https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Genius](https://open.spotify.com/album/5TZPCuD8f2tWPLqyvodyWn) | 3:08 | 2022-02-25 | 2023-07-15 |
 | [Give It To Me](https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Give It To Me](https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn) | 4:03 | 2023-04-28 | 2023-08-19 |
 | [GLA](https://open.spotify.com/track/15hiUMS0HDjcyWzVlBEh1y) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Back Home](https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI) | 3:26 | 2022-02-25 |  |
@@ -181,9 +181,10 @@
 | [Nu Beginning](https://open.spotify.com/track/0y02zQ9NMivG2bJvhYshY4) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Amber Navran](https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt) | [Nu Beginning](https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO) | 3:54 | 2022-05-25 | 2023-08-14 |
 | [Nu Beginning](https://open.spotify.com/track/35btHqeeA6qR7ToMRNKI3D) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Amber Navran](https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt) | [Nu Beginning](https://open.spotify.com/album/0cDn0DpGWprEjyZtH455xm) | 3:54 | 2023-08-04 |  |
 | [Obsession \(feat\. Muni Long\) \- Remix](https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Obsession \(feat\. Muni Long\) \[Remix\]](https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1) | 3:21 | 2022-11-18 |  |
-| [Ocean](https://open.spotify.com/track/3FjHTALrJ66zzELMcge5vn) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Ocean](https://open.spotify.com/album/7t8M65IwqNUBrmrElXW8dX) | 3:34 | 2024-02-02 |  |
+| [Ocean](https://open.spotify.com/track/3FjHTALrJ66zzELMcge5vn) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Ocean](https://open.spotify.com/album/7t8M65IwqNUBrmrElXW8dX) | 3:34 | 2024-02-02 | 2024-03-23 |
 | [OFF](https://open.spotify.com/track/4NV1Hoah3ggnoOP7PlrWjh) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [OFF](https://open.spotify.com/album/40V87fTgyJKlza2IUyRA3f) | 4:38 | 2022-02-25 | 2022-03-18 |
 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 | 2022-02-25 | 2024-01-13 |
+| [One Night Stand](https://open.spotify.com/track/2CDGP4sWDuaYkRB8C48dJA) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [One Night Stand](https://open.spotify.com/album/3S2wJtXUAyA87jlBVxJMN4) | 4:16 | 2024-03-22 |  |
 | [Open](https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 2:54 | 2022-05-13 | 2023-10-08 |
 | [Organic](https://open.spotify.com/track/5DyvKrRpUufwtWTHcJ5fb8) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Organic](https://open.spotify.com/album/5Zv9WcJcbem7uU7RhNQRiY) | 3:17 | 2022-02-25 | 2023-03-11 |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-04-08 |  |
@@ -278,6 +279,7 @@
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-03-18 | 2023-04-15 |
 | [What’s Yo Phone Number / Telephone \- Medley / Ghost Of Screw Mix](https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:10 | 2022-02-25 |  |
 | [Yamz](https://open.spotify.com/track/0IQ3KOas5wGRregqoMb9HF) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Yamz](https://open.spotify.com/album/5BICne3tfhmbtGhJ01vgyJ) | 4:05 | 2022-02-25 | 2022-03-26 |
+| [YOU](https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:31 | 2024-03-22 |  |
 | [You Got One](https://open.spotify.com/track/1aHOxnrpKtdNonDJKI73qb) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [You Got One](https://open.spotify.com/album/4wK80fjjoENNScObJowugB) | 3:25 | 2022-02-25 | 2023-04-30 |
 | [You Got One](https://open.spotify.com/track/7DhOcyCu9WjUxY5kYNskVa) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Starfruit](https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz) | 3:25 | 2023-04-28 |  |
 | [Young Rich & In Love](https://open.spotify.com/track/2R6tflIwv19qoYxg5hYLVh) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:18 | 2024-01-12 | 2024-03-09 |

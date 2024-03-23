@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,359 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,373 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 47 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 |
 | 48 | [Van Gogh](https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Sudden Opera](https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE) | 2:52 |
 | 49 | [Pitchin' fits](https://open.spotify.com/track/2m4Rz3Pn5tN7MFth0kHgSL) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [A Hard up Life](https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi) | 3:47 |
-| 50 | [Wool \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/4hoqP9dIAu2Nk6u5LvxOR4) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:49 |
-| 51 | [Coyote, My Little Brother \- Spotify Singles](https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 3:02 |
+| 50 | [Coyote, My Little Brother \- Spotify Singles](https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 3:02 |
+| 51 | [Wool \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/4hoqP9dIAu2Nk6u5LvxOR4) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:49 |
 | 52 | [Cocaine Country Dancing](https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 4:16 |
 | 53 | [In the Morning](https://open.spotify.com/track/4CAdFDe8JiL6P992pHAGwy) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 2:26 |
 | 54 | [Life Lessons](https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Life Lessons](https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv) | 3:15 |
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 57 | [California Sober \(feat\. Willie Nelson\)](https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [California Sober \(feat\. Willie Nelson\)](https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP) | 3:50 |
 | 58 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 |
 | 59 | [Road Runner](https://open.spotify.com/track/3hQ51c9dPj9FcSdOHhrfkq) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC), [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Road Runner](https://open.spotify.com/album/78omrT8twYQBzaZWhy275N) | 2:36 |
-| 60 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 |
-| 61 | [Mountain Song](https://open.spotify.com/track/2V7pN4tpheOfsPd7JkUQ22) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Songs To Keep You Warm](https://open.spotify.com/album/5Kh73PeLCIOd88y9ouZc08) | 4:09 |
+| 60 | [Mountain Song](https://open.spotify.com/track/2V7pN4tpheOfsPd7JkUQ22) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Songs To Keep You Warm](https://open.spotify.com/album/5Kh73PeLCIOd88y9ouZc08) | 4:09 |
+| 61 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 |
 | 62 | [Don't Do Me Good](https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Don't Do Me Good](https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB) | 4:13 |
-| 63 | [Underground](https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:56 |
-| 64 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
+| 63 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
+| 64 | [Underground](https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:56 |
 | 65 | [Wolves](https://open.spotify.com/track/48WgsmbLBu9emLSodjG0O5) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 4:32 |
 | 66 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 |
 | 67 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 80 | [CAMPFIRE](https://open.spotify.com/track/5LzJ0hTz5LBYjSKT7YUQLU) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/08AjlivRrk28r7U8j5eI8p) | 3:00 |
 | 81 | [Witness](https://open.spotify.com/track/2ZDkMX3LtO7sEZezVQwQeo) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Gypsy](https://open.spotify.com/album/33fIaJrF5YgR2nkGClLtGh) | 2:52 |
 | 82 | [68 \- Live](https://open.spotify.com/track/1cXJEjvnjVpAIVx5scVLY8) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/51JORfnib4vdjiXHAouErb) | 3:28 |
-| 83 | [South Dakota Wild One](https://open.spotify.com/track/0YMrA32lkcYj5g89bfyMLb) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Riley Downing](https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6) | [Ways & Means](https://open.spotify.com/album/0k72s0eVcw3D2PRgZXdT94) | 3:23 |
-| 84 | [Working On My Tan](https://open.spotify.com/track/1x4SJb7Z9d9SUZokNaCDR2) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Working On My Tan](https://open.spotify.com/album/0Bao2JWD4FrEx495tuftGc) | 4:23 |
+| 83 | [Working On My Tan](https://open.spotify.com/track/1x4SJb7Z9d9SUZokNaCDR2) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Working On My Tan](https://open.spotify.com/album/0Bao2JWD4FrEx495tuftGc) | 4:23 |
+| 84 | [South Dakota Wild One](https://open.spotify.com/track/0YMrA32lkcYj5g89bfyMLb) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Riley Downing](https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6) | [Ways & Means](https://open.spotify.com/album/0k72s0eVcw3D2PRgZXdT94) | 3:23 |
 | 85 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
 | 86 | [A Heart Of Gold Is Hard To Find](https://open.spotify.com/track/5yFs9fL1eIVT034HV8282J) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [A Heart of Gold Is Hard to Find](https://open.spotify.com/album/06JtBYFdMrc26oPswxRFQY) | 2:20 |
 | 87 | [Highway 87](https://open.spotify.com/track/5nsv5Oego9Xyud85Pm0UYp) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Songs My Friends Wrote](https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [This Distance](https://open.spotify.com/track/2BqSw3roc6RFuwoVAw9aud) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn) | 4:02 |
 | 100 | [Kingdom For A Fool](https://open.spotify.com/track/6WxeGuCYRAXijpeLGPGx62) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Year Of The Dark Horse](https://open.spotify.com/album/4cKn5nMheAisLgzM4gOwaA) | 3:28 |
 
-Snapshot ID: `MCxiYzAzNmNlMDc2ODc1ZDU3MDNlNWRiNzA5YzI1ZTBkNDNjYWRiYjU4`
+Snapshot ID: `MCxiMWUyYmFjYWFmMzMzYTFlYjkyM2JhY2QzNzhlZTExOTc1YzMyNTVm`

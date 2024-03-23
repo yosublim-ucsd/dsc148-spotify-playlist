@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 25863,
+  "2024-03-23": 25863,
   "date_first_scraped": "2022-08-13",
   "description": "Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest-running rock festival in Korea! (\ud55c\uad6d \ucd5c\uc7a5\uc218 \uad6d\uc81c \ub85d \ud398\uc2a4\ud2f0\ubc8c\uc778 \ubd80\uc0b0 \ub85d \ud398\uc2a4\ud2f0\ubc8c\uc758 \ub77c\uc778\uc5c5\uacfc \ud604\uc7a5 \uacbd\ud5d8\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "BUSAN International Rock Festival 2022",
@@ -2468,6 +2468,24 @@
     },
     {
       "album": {
+        "name": "Mindless mind",
+        "url": "https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2"
+      },
+      "artists": [
+        {
+          "name": "JISOKURY",
+          "url": "https://open.spotify.com/artist/1q18hSxRDapqXvqPityx3Z"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Mindless mind",
+      "url": "https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR"
+    },
+    {
+      "album": {
         "name": "Minsu is confused",
         "url": "https://open.spotify.com/album/7iQarceFKVFWHCXTOLPcqi"
       },
@@ -4495,24 +4513,6 @@
       "duration_ms": 345826,
       "name": "\uc0c8\ubcbd",
       "url": "https://open.spotify.com/track/2ZdGFdWRNryQsUe36wqprU"
-    },
-    {
-      "album": {
-        "name": "\uc0dd\uac01\uc5c6\ub294\uc0dd\uac01\uc5d0\ud138\uc369\uba38\ubb34\ub974\uc790 Mindless mind",
-        "url": "https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2"
-      },
-      "artists": [
-        {
-          "name": "JISOKURY",
-          "url": "https://open.spotify.com/artist/1q18hSxRDapqXvqPityx3Z"
-        }
-      ],
-      "date_added": "2022-10-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 255000,
-      "name": "\uc0dd\uac01\uc5c6\ub294\uc0dd\uac01\uc5d0\ud138\uc369\uba38\ubb34\ub974\uc790 Mindless mind",
-      "url": "https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR"
     },
     {
       "album": {

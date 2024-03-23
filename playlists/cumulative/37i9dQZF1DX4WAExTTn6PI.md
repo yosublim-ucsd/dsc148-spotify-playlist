@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Willow Avalon
 
-209 songs - 12 hr 50 min
+210 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Loose Cannon](https://open.spotify.com/track/0NugEFSGIWRGcrbH7h2jDS) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Loose Cannon](https://open.spotify.com/album/789MvCDTKZzXZh6YkgO0ee) | 3:22 | 2022-01-28 |  |
 | [Lost & Lonesome](https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Lost & Lonesome](https://open.spotify.com/album/35u6E8Ukn8nRpsJJjS11xv) | 3:42 | 2022-01-28 | 2022-07-29 |
 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2022-01-28 |  |
+| [Lost in a Dream](https://open.spotify.com/track/0ehGyu9uYhq7M2A9psuPEd) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/4RtRUvZstzZeNfpwHjfPD4) | 3:37 | 2024-03-22 |  |
 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 | 2023-09-08 |  |
 | [Love Without Possession](https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un) | [Scout LaRue Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [Love Without Possession](https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL) | 4:01 | 2022-01-28 |  |
 | [Lungs](https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Lungs](https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g) | 2:57 | 2022-01-28 | 2023-12-02 |
@@ -126,7 +127,7 @@
 | [Made To Love Someone](https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Made To Love Someone](https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i) | 3:06 | 2024-03-01 |  |
 | [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 | 2023-03-03 |  |
 | [Mellow War](https://open.spotify.com/track/0vWEwmCWLZ8QL3tPL7raD3) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Mellow War](https://open.spotify.com/album/2Fn1niT1bYVa6Mfd4b5jwC) | 4:07 | 2023-10-27 |  |
-| [Mercy](https://open.spotify.com/track/0ZewwU3gkgXbYr0ixnDco4) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Mercy](https://open.spotify.com/album/1GC1QuXfAaPTCScjnDChwl) | 4:02 | 2022-01-28 |  |
+| [Mercy](https://open.spotify.com/track/0ZewwU3gkgXbYr0ixnDco4) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Mercy](https://open.spotify.com/album/1GC1QuXfAaPTCScjnDChwl) | 4:02 | 2022-01-28 | 2024-03-23 |
 | [Mercy](https://open.spotify.com/track/4w0QzyomWJrHmSTa5e4ewe) | [Zelly](https://open.spotify.com/artist/1qM5w3OHdjYkPRQi7pKM4F) | [Mercy EP](https://open.spotify.com/album/5vz8G9TxA2WmQuiClujyp8) | 3:09 | 2022-01-28 | 2023-08-26 |
 | [Merigold](https://open.spotify.com/track/2LtF7oIVC1x6SbQ27iywSb) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Merigold](https://open.spotify.com/album/5HURvzbiMiuYDPxsKmfGsP) | 4:12 | 2023-06-16 |  |
 | [Middle of a Heart](https://open.spotify.com/track/1bNPHWCDOGQMrzKHja2927) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [Middle of a Heart](https://open.spotify.com/album/5vzJc5UkAhd1GZvJpM0ODL) | 4:00 | 2022-10-14 |  |

@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-339 songs - 17 hr 29 min
+340 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Aphelion](https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Aphelion](https://open.spotify.com/album/15riorqGikS5bvTNsvYWIW) | 3:20 | 2022-01-12 | 2024-02-09 |
 | [Aqua Aura](https://open.spotify.com/track/1ZC0NlMKMU0t3dtSdCnDf8) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aqua Aura](https://open.spotify.com/album/5NdiSoyeQn9WL8rMB219xC) | 2:45 | 2024-01-17 | 2024-02-08 |
 | [Aqua Vitae](https://open.spotify.com/track/0UdaRSL27LJVYkK2ZwUULn) | [A Place Of Solace](https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF) | [Aqua Vitae](https://open.spotify.com/album/7lisN5vAW0SJJxTTUt49In) | 3:08 | 2024-01-17 | 2024-02-08 |
+| [Arctic](https://open.spotify.com/track/0GU48wNylLzxHde7OXHpAj) | [Eural](https://open.spotify.com/artist/50x43BjaV7dRtBZkdrRNJo) | [Arctic](https://open.spotify.com/album/0Zq6Iv1Mzxjj2TJ5qHldja) | 2:36 | 2024-03-20 |  |
 | [Armonikos](https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ) | [Armonikos](https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R) | [Armonikos](https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz) | 2:35 | 2022-01-19 | 2024-03-21 |
 | [Arnofio](https://open.spotify.com/track/4xXxZogRtkKgJZxutafFqA) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [Arnofio](https://open.spotify.com/album/3GQ0dExzAfoddTSqpl6BLN) | 2:57 | 2023-07-13 |  |
 | [Arp Of Life](https://open.spotify.com/track/7fP6eS6gtTs0xSAE9LvyEq) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:18 | 2022-01-12 | 2023-03-15 |
@@ -143,7 +144,7 @@
 | [Floating Forest](https://open.spotify.com/track/6VnjI1HG4vrnkqf8BdCwN1) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Ancient Analogue](https://open.spotify.com/album/7M37zkkLECmNsbpSh0gWHR) | 3:51 | 2022-12-30 |  |
 | [Floating Time](https://open.spotify.com/track/5rSogWGLs158gr5NodSxDo) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Floating Time](https://open.spotify.com/album/3lcJGoXkij70Op2NhALEdm) | 2:50 | 2023-07-28 |  |
 | [Fresh Sky](https://open.spotify.com/track/20SlQNNjADqbjAfzlCL1xg) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Fresh Sky](https://open.spotify.com/album/2eXKhTlcj0iQO5CrUxpjDy) | 3:03 | 2024-01-17 | 2024-02-08 |
-| [Frozen In Time](https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP) | [Jin Eun\-Kyung](https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y) | [Obelus](https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b) | 3:23 | 2023-02-25 |  |
+| [Frozen In Time](https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP) | [Jin Eun\-Kyung](https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y) | [Obelus](https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b) | 3:23 | 2023-02-25 | 2024-03-23 |
 | [Further Into Something](https://open.spotify.com/track/21mLKJKteB3RL3t3NUM8Jw) | [Vilhelm Brandt](https://open.spotify.com/artist/4k5hcVGerX1LVQ79iXD52S) | [Nordic Calmness](https://open.spotify.com/album/0fQT7eDWuxAuw7IxcdHsnk) | 2:31 | 2022-01-12 | 2023-07-29 |
 | [Gamma Sinus 80 Hz \- 120 Hz](https://open.spotify.com/track/4uoKvNOS3juPZeI1rqvWmR) | [Delta Hz](https://open.spotify.com/artist/5DeI5zDGqIRRmW5o1TrYD0) | [Delta Hz](https://open.spotify.com/album/27AWjUaOfAFqukeJGgV119) | 3:24 | 2022-01-12 | 2023-04-22 |
 | [Gateway](https://open.spotify.com/track/6Js6EnpszmefcsVLQpai8R) | [Simon Sebastienne](https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG) | [Gateway](https://open.spotify.com/album/33d61WIwA3YlHAcW4sXVjl) | 2:51 | 2024-01-17 |  |

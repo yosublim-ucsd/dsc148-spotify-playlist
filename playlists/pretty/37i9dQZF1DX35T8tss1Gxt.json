@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 235097,
+  "num_followers": 235173,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGVmMGYxYmM3OTg0NjgxNWQ2MjliNjBhMTYwZjFmMWY3N2ZjNDI5",
+  "snapshot_id": "MCw4NTE0NDI0OTNmMzcxOGY5Mzk1MjAzMTdlNzQxYzExNjc2OTYzNTdl",
   "tracks": [
     {
       "added_at": "2024-01-12 07:49:20",
@@ -391,26 +391,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Hearts in Pain",
-        "url": "https://open.spotify.com/album/1aXo94Pxz8t8fGbvaZ81Sj"
-      },
-      "artists": [
-        {
-          "name": "Angie Rose",
-          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
-        },
-        {
-          "name": "Poetics",
-          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
-        }
-      ],
-      "duration_ms": 172972,
-      "name": "Hearts in Pain",
-      "url": "https://open.spotify.com/track/1dJ603jNcGc6eXdRL9Jv78"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Till It Kills Me",
         "url": "https://open.spotify.com/album/2LEBSDEECtxcoot8F0Cs8z"
       },
@@ -431,22 +411,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Go Jehovah",
-        "url": "https://open.spotify.com/album/645Fu3qYIkANTfaiDgf72S"
-      },
-      "artists": [
-        {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
-        }
-      ],
-      "duration_ms": 172444,
-      "name": "Go Jehovah",
-      "url": "https://open.spotify.com/track/1yNWDbvUeCD0OjeoyTahzG"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/21muhjj4VKsJ3a7Nb6D66v"
       },
@@ -463,6 +427,42 @@
       "duration_ms": 195818,
       "name": "Grace",
       "url": "https://open.spotify.com/track/73RrO6QxGa9svtiBkzjgPc"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Go Jehovah",
+        "url": "https://open.spotify.com/album/645Fu3qYIkANTfaiDgf72S"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 172444,
+      "name": "Go Jehovah",
+      "url": "https://open.spotify.com/track/1yNWDbvUeCD0OjeoyTahzG"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Hearts in Pain",
+        "url": "https://open.spotify.com/album/1aXo94Pxz8t8fGbvaZ81Sj"
+      },
+      "artists": [
+        {
+          "name": "Angie Rose",
+          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
+        },
+        {
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+        }
+      ],
+      "duration_ms": 172972,
+      "name": "Hearts in Pain",
+      "url": "https://open.spotify.com/track/1dJ603jNcGc6eXdRL9Jv78"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -807,26 +807,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Covered",
-        "url": "https://open.spotify.com/album/0W6tOU21Ts3f9Gol7IALRm"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hall",
-          "url": "https://open.spotify.com/artist/27elv8wzGLeFd2hamGxyfS"
-        },
-        {
-          "name": "Michael Dixon",
-          "url": "https://open.spotify.com/artist/0aXyBedQLbHTZwDOY5QGZF"
-        }
-      ],
-      "duration_ms": 211281,
-      "name": "Covered",
-      "url": "https://open.spotify.com/track/2EBfbLHxIRWg4hwHya4Tby"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Dante Bowe",
         "url": "https://open.spotify.com/album/0k2wJSus536g9a8w4AU0GG"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 250684,
       "name": "Wind Me Up",
       "url": "https://open.spotify.com/track/6eGhs1k21JUKq12B6LfqqP"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/0W6tOU21Ts3f9Gol7IALRm"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hall",
+          "url": "https://open.spotify.com/artist/27elv8wzGLeFd2hamGxyfS"
+        },
+        {
+          "name": "Michael Dixon",
+          "url": "https://open.spotify.com/artist/0aXyBedQLbHTZwDOY5QGZF"
+        }
+      ],
+      "duration_ms": 211281,
+      "name": "Covered",
+      "url": "https://open.spotify.com/track/2EBfbLHxIRWg4hwHya4Tby"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Freedom Dance",
+        "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Freedom Dance",
+      "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Pull My Heart Away",
         "url": "https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 150638,
       "name": "Pull My Heart Away",
       "url": "https://open.spotify.com/track/4vFZjVQKlYM7vOPfvAc4dn"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Freedom Dance",
-        "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Freedom Dance",
-      "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Wilder Wonderland",
-        "url": "https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF"
-      },
-      "artists": [
-        {
-          "name": "V. Rose",
-          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
-        }
-      ],
-      "duration_ms": 220684,
-      "name": "Just Wondering",
-      "url": "https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "With Him",
         "url": "https://open.spotify.com/album/6U0fKpZM5MAnmN6QAgRftH"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 167586,
       "name": "With Him",
       "url": "https://open.spotify.com/track/7s7wag1cue3SVabZAQjVwh"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Wilder Wonderland",
+        "url": "https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF"
+      },
+      "artists": [
+        {
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        }
+      ],
+      "duration_ms": 220684,
+      "name": "Just Wondering",
+      "url": "https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "More In Seconds",
-        "url": "https://open.spotify.com/album/6D8jfseyzo6aID0WbA5pgj"
-      },
-      "artists": [
-        {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
-        }
-      ],
-      "duration_ms": 244493,
-      "name": "More In Seconds",
-      "url": "https://open.spotify.com/track/6Jiyh1uhwo7q2I8Yx9vgsT"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Only Jesus",
         "url": "https://open.spotify.com/album/4upyzpqbWE0SvJvn8ZimeQ"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 166829,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/3ezoX2cVZKnRy1frok8PQC"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "More In Seconds",
+        "url": "https://open.spotify.com/album/6D8jfseyzo6aID0WbA5pgj"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "duration_ms": 244493,
+      "name": "More In Seconds",
+      "url": "https://open.spotify.com/track/6Jiyh1uhwo7q2I8Yx9vgsT"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "For Your Grace",
-        "url": "https://open.spotify.com/album/7D8B8My0dXsIoviSbw4Ej2"
-      },
-      "artists": [
-        {
-          "name": "Jaicko Lawrence",
-          "url": "https://open.spotify.com/artist/3RYC1U7EqTX1ykWAY28QXn"
-        }
-      ],
-      "duration_ms": 200605,
-      "name": "For Your Grace",
-      "url": "https://open.spotify.com/track/5iZP8YJeKHZticyPAbJjyW"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Lover of My Soul",
         "url": "https://open.spotify.com/album/2S3qRBiuvL9pD5oHPvobHd"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 202434,
       "name": "Lover of My Soul",
       "url": "https://open.spotify.com/track/4YvMr5qhiFghZLsf0KUXio"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "For Your Grace",
+        "url": "https://open.spotify.com/album/7D8B8My0dXsIoviSbw4Ej2"
+      },
+      "artists": [
+        {
+          "name": "Jaicko Lawrence",
+          "url": "https://open.spotify.com/artist/3RYC1U7EqTX1ykWAY28QXn"
+        }
+      ],
+      "duration_ms": 200605,
+      "name": "For Your Grace",
+      "url": "https://open.spotify.com/track/5iZP8YJeKHZticyPAbJjyW"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "WORTHY",
-        "url": "https://open.spotify.com/album/0rSrNBf65mgV4DHXb73Kbp"
-      },
-      "artists": [
-        {
-          "name": "Paulade",
-          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
-        }
-      ],
-      "duration_ms": 175020,
-      "name": "WORTHY",
-      "url": "https://open.spotify.com/track/4rrfTx3W7ro82OvV0R6Uiy"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Like Yours",
         "url": "https://open.spotify.com/album/5azmENYG8KnyBBhX2zGADH"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 207529,
       "name": "Like Yours",
       "url": "https://open.spotify.com/track/2GxOocpI0dqAdjbqQUkb4l"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "WORTHY",
+        "url": "https://open.spotify.com/album/0rSrNBf65mgV4DHXb73Kbp"
+      },
+      "artists": [
+        {
+          "name": "Paulade",
+          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
+        }
+      ],
+      "duration_ms": 175020,
+      "name": "WORTHY",
+      "url": "https://open.spotify.com/track/4rrfTx3W7ro82OvV0R6Uiy"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Bad To The Bone",
-        "url": "https://open.spotify.com/album/7KHmdsP2gT7wwUWyNMnnMH"
-      },
-      "artists": [
-        {
-          "name": "Yung Kriss",
-          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
-        }
-      ],
-      "duration_ms": 161584,
-      "name": "Bad To The Bone",
-      "url": "https://open.spotify.com/track/72uOlb4ynq8xEWHhfYGGMl"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Surrender The Will",
         "url": "https://open.spotify.com/album/1uOucKRNyuXWk7ywMF1JqJ"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 168834,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/5mkosFaeklJwnN7NNjxzI3"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Bad To The Bone",
+        "url": "https://open.spotify.com/album/7KHmdsP2gT7wwUWyNMnnMH"
+      },
+      "artists": [
+        {
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+        }
+      ],
+      "duration_ms": 161584,
+      "name": "Bad To The Bone",
+      "url": "https://open.spotify.com/track/72uOlb4ynq8xEWHhfYGGMl"
     },
     {
       "added_at": "2024-01-12 07:49:20",

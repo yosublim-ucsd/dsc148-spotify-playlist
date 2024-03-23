@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1DOwtSHKzJzutiL99WYwb0.md) - [plain]
 
 > Collections made with EVERY kind of newly released 'K\-Pop Bias' all over the world\. Cover: CHUNGHA
 
-[K\-Pop Bias](https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta) - 742 likes - 118 songs - 6 hr 12 min
+[K\-Pop Bias](https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta) - 743 likes - 118 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

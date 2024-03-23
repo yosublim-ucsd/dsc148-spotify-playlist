@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -300,7 +318,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -340,7 +358,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 250702,
       "name": "Delilah (pull me out of this)",
       "url": "https://open.spotify.com/track/5w9upngVRHNjdZcRC7Xxr2"
@@ -358,7 +376,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 174006,
       "name": "don't wanna break up again",
       "url": "https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA"
@@ -430,10 +448,28 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 210200,
       "name": "eternal sunshine",
       "url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
+    },
+    {
+      "album": {
+        "name": "RMCM",
+        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
     },
     {
       "album": {
@@ -466,7 +502,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 265493,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
@@ -676,7 +712,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -716,7 +752,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 92400,
       "name": "intro (end of the world)",
       "url": "https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq"
@@ -1012,7 +1048,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
@@ -1544,7 +1580,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 163381,
       "name": "supernatural",
       "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"
@@ -1668,7 +1704,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -1704,7 +1740,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 163278,
       "name": "true story",
       "url": "https://open.spotify.com/track/14kyXBpg91RVq8bNRDS1q2"
@@ -1794,7 +1830,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

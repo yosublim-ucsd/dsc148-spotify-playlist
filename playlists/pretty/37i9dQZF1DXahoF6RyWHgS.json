@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 42855,
+  "num_followers": 42869,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTA2MDc4ZTliZmU2YTE2NjNmMWJhNTJlYjhiZmMxMDMxZjQyOTE2",
+  "snapshot_id": "MCwzYmI5MzVlODU2Njg0ZDQ1ZGVkNGVhNWYyYjUxN2EwOGI3YmU2ZmY5",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/5txLkc2L3XfpKg08hAk26l"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "The Soul Of The Drums",
-        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 135946,
-      "name": "Coffee Bean / Calabash Annie",
-      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Nuevo Son Jarocho",
@@ -759,6 +743,22 @@
       "duration_ms": 262133,
       "name": "La Bruja",
       "url": "https://open.spotify.com/track/4VWPPn68WVGZK2xwDzS9KE"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "The Soul Of The Drums",
+        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 135946,
+      "name": "Coffee Bean / Calabash Annie",
+      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 300226,
-      "name": "Mujer Soy",
-      "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "The Roots of Chicha 2",
@@ -907,6 +891,22 @@
       "duration_ms": 189333,
       "name": "Paga la Cuenta Sinverguenza",
       "url": "https://open.spotify.com/track/56PULupF5Gt50FyostKuMd"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "Mujer Soy",
+      "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Presentando a \u00d1ico Saquito",
-        "url": "https://open.spotify.com/album/78R0uTkfDNPDKVypJ3zI4S"
-      },
-      "artists": [
-        {
-          "name": "\u00d1ico Saquito",
-          "url": "https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi"
-        }
-      ],
-      "duration_ms": 158453,
-      "name": "Maria Cristina",
-      "url": "https://open.spotify.com/track/3hqjYthxFa5f21ISWn9xdN"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1QN51TxHmv1PzCnBKm90HM"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 187813,
       "name": "Moliendo Caf\u00e9 - Ritmo Orquidea",
       "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Presentando a \u00d1ico Saquito",
+        "url": "https://open.spotify.com/album/78R0uTkfDNPDKVypJ3zI4S"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ico Saquito",
+          "url": "https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi"
+        }
+      ],
+      "duration_ms": 158453,
+      "name": "Maria Cristina",
+      "url": "https://open.spotify.com/track/3hqjYthxFa5f21ISWn9xdN"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1281,22 +1281,6 @@
       "url": "https://open.spotify.com/track/0LENTAvUOXMAqCdCuZxwdo"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "El Brown Recluse",
-        "url": "https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O"
-      },
-      "artists": [
-        {
-          "name": "Charanga Cakewalk",
-          "url": "https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN"
-        }
-      ],
-      "duration_ms": 283746,
-      "name": "Pulque",
-      "url": "https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "La Reina de Veracruz",
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Bi",
-        "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
+        "name": "El Brown Recluse",
+        "url": "https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Charanga Cakewalk",
+          "url": "https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN"
         }
       ],
-      "duration_ms": 267480,
-      "name": "Apocalypso",
-      "url": "https://open.spotify.com/track/6hgDFkV8ZAFFI6F9kvUFns"
+      "duration_ms": 283746,
+      "name": "Pulque",
+      "url": "https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1343,6 +1327,22 @@
       "duration_ms": 257786,
       "name": "Regi Bugal\u00fa (Bugalu)",
       "url": "https://open.spotify.com/track/68Rb4XkOch4lhKtlD4fHHq"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Bi",
+        "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 267480,
+      "name": "Apocalypso",
+      "url": "https://open.spotify.com/track/6hgDFkV8ZAFFI6F9kvUFns"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Curandero",
-        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
-      },
-      "artists": [
-        {
-          "name": "Orkesta Mendoza",
-          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "El Brown Recluse",
         "url": "https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 259746,
       "name": "Cumbia Pa Modernos",
       "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Curandero",
+        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1589,22 +1589,6 @@
       "url": "https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Songs for Moonlight Swim and Otros Tipos de Ocupaciones",
-        "url": "https://open.spotify.com/album/3g6U2KUU7oi8Fog3bGX3ni"
-      },
-      "artists": [
-        {
-          "name": "Karl Z\u00e9ro",
-          "url": "https://open.spotify.com/artist/21hW4GIKTshnE6ZQgiB79M"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Allo Mambo",
-      "url": "https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Los 22 Grandes \u00c9xitos de P\u00e9rez Prado (Remastered)",
@@ -1619,6 +1603,22 @@
       "duration_ms": 147789,
       "name": "Mar\u00eda Cristina - Remastered",
       "url": "https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Songs for Moonlight Swim and Otros Tipos de Ocupaciones",
+        "url": "https://open.spotify.com/album/3g6U2KUU7oi8Fog3bGX3ni"
+      },
+      "artists": [
+        {
+          "name": "Karl Z\u00e9ro",
+          "url": "https://open.spotify.com/artist/21hW4GIKTshnE6ZQgiB79M"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Allo Mambo",
+      "url": "https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx"
     },
     {
       "added_at": "2022-01-11 03:10:29",

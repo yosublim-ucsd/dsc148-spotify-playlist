@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-700 songs - 1 day 18 hr 10 min
+701 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [Just a Dream](https://open.spotify.com/track/6kKNdmbs99xoiMFHWDGL5G) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0) | [Just a Dream](https://open.spotify.com/album/5VDvxZf88UuvY3S3ZIsWGV) | 3:07 | 2024-02-09 | 2024-03-01 |
 | [Just A Game feat\. Benny Sings](https://open.spotify.com/track/3Hjrizdjm4Knd5KiVgKW1l) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Just A Game feat\. Benny Sings](https://open.spotify.com/album/1z4MVjlHPchvfc8BAZaXqr) | 4:19 | 2023-11-21 | 2023-11-23 |
 | [Just A Game feat\. Benny Sings](https://open.spotify.com/track/788y834RoRJUQAH2O8jq7u) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Just A Game feat\. Benny Sings](https://open.spotify.com/album/5vrhmmQ8OL0SnNtEpNb5G0) | 4:19 | 2023-11-21 | 2023-11-29 |
-| [Karma](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Karma](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 | 2024-02-22 |  |
+| [KARMA](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [KARMA](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 | 2024-02-22 |  |
 | [Kazenidakarete](https://open.spotify.com/track/28FsaeOb2QZBp2sVdzPzZw) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Kazenidakarete](https://open.spotify.com/album/0dSxGg9f74wTok1Ar4kMUn) | 4:31 | 2023-05-23 | 2023-05-31 |
 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 | 2023-08-17 |  |
 | [Keeps Beating](https://open.spotify.com/track/5dGenSjQSfL9KwXhL3D18M) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Just Living](https://open.spotify.com/album/6jWIqqH1FJKuDbtq8cCWIC) | 3:49 | 2023-03-07 | 2023-03-29 |
@@ -694,7 +694,8 @@
 | [甘い夢](https://open.spotify.com/track/6uWURFgsPFmxBctJwlkgoE) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [甘い夢](https://open.spotify.com/album/61TOe4TZqMjJA8m5QavXii) | 4:30 | 2023-01-19 | 2023-01-21 |
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-10-20 | 2023-01-06 |
 | [真夜中のドア\~stay with me \- 2023 mix](https://open.spotify.com/track/1sfhFHNgn4R4Lxqlkup47k) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [POCKET PARK \(2023 mix\)](https://open.spotify.com/album/3fA5gpK2BflSMg7pMjzAFM) | 5:10 | 2023-06-20 | 2023-06-22 |
-| [眩しい、眩しすぎる](https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [眩しい、眩しすぎる \- Single](https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW) | 3:54 | 2024-01-10 |  |
+| [眩しい、眩しすぎる](https://open.spotify.com/track/0GgTd7vT5PgAmLhNl49i9k) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:52 | 2024-03-19 |  |
+| [眩しい、眩しすぎる](https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [眩しい、眩しすぎる \- Single](https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW) | 3:54 | 2024-01-10 | 2024-03-23 |
 | [瞳惚れ](https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [瞳惚れ](https://open.spotify.com/album/4qVQrqIXH8XToBGY4SOOss) | 4:17 | 2022-10-27 | 2023-10-05 |
 | [瞳惚れ](https://open.spotify.com/track/5ZqO8UI3rELw35xCb8oF7c) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:19 | 2023-12-07 | 2024-03-13 |
 | [縄文のヒト](https://open.spotify.com/track/5cXyMRXChnW1AWO6qGlao4) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y) | [Singing Nippon in New York](https://open.spotify.com/album/0z25aCmhHYnstho8wkuz4c) | 5:55 | 2024-03-12 | 2024-03-20 |

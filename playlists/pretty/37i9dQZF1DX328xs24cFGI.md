@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,847 likes - 70 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,896 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 49 | [Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 2:11 |
 | 50 | [恋人ごっこ](https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 3:20 |
 | 51 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
-| 52 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
-| 53 | [ツキミソウ](https://open.spotify.com/track/6sElEqOIGENWjpxGFeo5ct) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [開幕宣言](https://open.spotify.com/album/2l0vCKtHcqHyticG9vDDCg) | 5:12 |
+| 52 | [ツキミソウ](https://open.spotify.com/track/6sElEqOIGENWjpxGFeo5ct) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [開幕宣言](https://open.spotify.com/album/2l0vCKtHcqHyticG9vDDCg) | 5:12 |
+| 53 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
 | 54 | [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 |
 | 55 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 |
 | 56 | [花様年華](https://open.spotify.com/track/4LkH4PpFcaTXLVsum4dGPm) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:29 |
 | 57 | [Stand by me, Stand by you.](https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 |
-| 58 | [Wherever you are](https://open.spotify.com/track/0YAMQSmHk6BSUGTYpaoqTJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Niche Syndrome](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) | 4:55 |
-| 59 | [大阪LOVER](https://open.spotify.com/track/2WpgKrUoWaZHQLTgT6aZBF) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [大阪LOVER](https://open.spotify.com/album/0uH4fu7TXAnnrx4aRhSBln) | 4:26 |
+| 58 | [大阪LOVER](https://open.spotify.com/track/2WpgKrUoWaZHQLTgT6aZBF) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [大阪LOVER](https://open.spotify.com/album/0uH4fu7TXAnnrx4aRhSBln) | 4:26 |
+| 59 | [Wherever you are](https://open.spotify.com/track/0YAMQSmHk6BSUGTYpaoqTJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Niche Syndrome](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) | 4:55 |
 | 60 | [ブルーベリー・ナイツ](https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 4:04 |
 | 61 | [プロローグ](https://open.spotify.com/track/4YMukCV1BsdK8V9kZoQpT6) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [プロローグ](https://open.spotify.com/album/3MOKzDaMiqSc04I04oiELA) | 5:02 |
 | 62 | [ミズキリ](https://open.spotify.com/track/6T8eKlvqWuPKJT7euIqoxX) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:28 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 67 | [アイノカタチ](https://open.spotify.com/track/7mSVOYRseiZi20xtBKhHnF) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk), [HIDE \(GReeeeN\)](https://open.spotify.com/artist/4SFP5kBIqqjFrrPknaVnbG) | [Life is going on and on](https://open.spotify.com/album/6shpoVTIdAcPmUYwIDNdBz) | 4:22 |
 | 68 | [題名のない今日](https://open.spotify.com/track/6skNbV22epX2yHu4O2hYSx) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 |
 | 69 | [アイタリナイ](https://open.spotify.com/track/67seLhibwW3OAyZcEw5Ijh) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [アイタリナイ](https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj) | 2:42 |
-| 70 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 |
+| 70 | [しわあわせ](https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:33 |
 
-Snapshot ID: `MCwyMTMyMWYwMmFhYjk1Yjg0NmVkMGM3MDIyNjk2MTQ3ODUyZjkyN2Mx`
+Snapshot ID: `MCw1ODFkZjhlMmYzMzQ0ZDliZTg0OTcyN2M5NmQ5NzhjZWM5NDUyYjc0`

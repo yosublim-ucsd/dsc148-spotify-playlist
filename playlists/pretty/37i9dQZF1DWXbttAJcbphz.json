@@ -1,12 +1,12 @@
 {
-  "description": "Celebrating 5 years of \"When I Get Home\". Cover: Solange",
-  "num_followers": 1670650,
+  "description": "The most essential R&B songs from the '10s. Cover: Solange",
+  "num_followers": 1671010,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWVhOGE0MTQwZDI0MjVlNDI2ODIwYWNhMTg2NWFmMGFlMDJhN2Q2",
+  "snapshot_id": "MCxiMTg5YTQ0NjFlNzk3YzNlODMyZTA0OGM2YTg5NTQ5Y2M3MWFjMzM5",
   "tracks": [
     {
       "added_at": "2024-02-29 21:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Hotline Bling",
-      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "I Used To Know Her",
         "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
       },
@@ -673,6 +657,22 @@
       "url": "https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG"
     },
     {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
+    },
+    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "What You Heard",
@@ -687,22 +687,6 @@
       "duration_ms": 238242,
       "name": "What You Heard",
       "url": "https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Get You - Single",
-        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 270846,
-      "name": "Japanese Denim",
-      "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -723,6 +707,22 @@
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Get You - Single",
+        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 270846,
+      "name": "Japanese Denim",
+      "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -795,22 +795,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "I Told You",
-        "url": "https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 237786,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -825,20 +809,20 @@
       "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
+      "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Bitch Better Have My Money",
-        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
+        "name": "I Told You",
+        "url": "https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
         }
       ],
-      "duration_ms": 219305,
-      "name": "Bitch Better Have My Money",
-      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
+      "duration_ms": 237786,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -861,6 +845,22 @@
       "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
     },
     {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Bitch Better Have My Money",
+        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 219305,
+      "name": "Bitch Better Have My Money",
+      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
+    },
+    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "Late Nights: The Album",
@@ -879,18 +879,22 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+        "name": "War & Leisure",
+        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+      "duration_ms": 259333,
+      "name": "Sky Walker (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -927,22 +931,18 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "War & Leisure",
-        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 259333,
-      "name": "Sky Walker (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 295920,
+      "name": "All I Want Is You (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
       },
@@ -1043,26 +1063,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "BEYONC\u00c9 [Platinum Edition]",
-        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 323480,
-      "name": "Drunk in Love (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
       },
@@ -1093,24 +1093,24 @@
       "url": "https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
+      "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 295920,
-      "name": "All I Want Is You (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
+      "duration_ms": 323480,
+      "name": "Drunk in Love (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 166997,
-      "name": "Gonna Love Me",
-      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "East Atlanta Love Letter",
         "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 240341,
       "name": "Pretty Little Fears (feat. J. Cole)",
       "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1509,20 +1509,24 @@
       "url": "https://open.spotify.com/track/4K5d58UkmjqNsA7kY43jgt"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
+      "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "November",
-        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
+        "name": "Call Me Crazy, But...",
+        "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
       },
       "artists": [
         {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 171818,
-      "name": "D'Evils",
-      "url": "https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5"
+      "duration_ms": 281080,
+      "name": "It Won't Stop (feat. Chris Brown) - EP Version",
+      "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1549,24 +1553,20 @@
       "url": "https://open.spotify.com/track/6Hgh47WXVKtXN5zGOu0hjI"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
+      "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Call Me Crazy, But...",
-        "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
+        "name": "November",
+        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
       },
       "artists": [
         {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
         }
       ],
-      "duration_ms": 281080,
-      "name": "It Won't Stop (feat. Chris Brown) - EP Version",
-      "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
+      "duration_ms": 171818,
+      "name": "D'Evils",
+      "url": "https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1623,22 +1623,6 @@
       "duration_ms": 264097,
       "name": "She Don't (feat. Ty Dolla $Ign)",
       "url": "https://open.spotify.com/track/01JPQ87UHeGysPVwTqMJHK"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Chasing Summer",
-        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "John Redcorn",
-      "url": "https://open.spotify.com/track/3W2nknW1nTuuxUSyFCUCS8"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1735,6 +1719,22 @@
       "duration_ms": 406466,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "John Redcorn",
+      "url": "https://open.spotify.com/track/3W2nknW1nTuuxUSyFCUCS8"
     },
     {
       "added_at": "2022-08-21 21:13:22",

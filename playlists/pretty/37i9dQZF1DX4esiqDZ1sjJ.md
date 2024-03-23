@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 
 > Release your inner jock with these badass jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,173 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,241 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gonna Fly Now \- From "Rocky" Soundtrack / Remastered 2006](https://open.spotify.com/track/5dulYd9AKIprMoF837OTDb) | [Bill Conti](https://open.spotify.com/artist/272ygo5fv9cYsiCLcV0HV2) | [Blockbuster Movie Hits](https://open.spotify.com/album/3XQdk4BKeIPcaTfNiXzVb2) | 2:48 |
+| 1 | [Gonna Fly Now \- Theme From "Rocky"](https://open.spotify.com/track/7iXYRR70wewzVYzWScm99j) | [Bill Conti](https://open.spotify.com/artist/272ygo5fv9cYsiCLcV0HV2) | [Rocky \(Original Motion Picture Score\)](https://open.spotify.com/album/6GfrOuXqJrJjcldIstEz6A) | 2:47 |
 | 2 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 |
 | 3 | [Numb / Encore](https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Numb / Encore: MTV Ultimate Mash\-Ups Presents Collision Course](https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw) | 3:25 |
 | 4 | [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 58 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 |
 | 59 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 |
 | 60 | [Danger Zone \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:35 |
-| 61 | [We're Not Gonna Take It](https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:39 |
-| 62 | [Headstrong](https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4) | [Trapt](https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM) | [Trapt](https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk) | 4:45 |
-| 63 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
-| 64 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
+| 61 | [Headstrong](https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4) | [Trapt](https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM) | [Trapt](https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk) | 4:45 |
+| 62 | [We're Not Gonna Take It](https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:39 |
+| 63 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
+| 64 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
 | 65 | [I'm Shipping Up To Boston](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:33 |
 | 66 | [Insane in the Brain](https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday](https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX) | 3:28 |
 | 67 | [Can't Be Touched \(feat\. Mr\. Magic & Trouble\)](https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K) | [Roy Jones Jr.](https://open.spotify.com/artist/5K6YsAKuRtcczPgxAdzc3B), [Mr Magic](https://open.spotify.com/artist/4e0Z9S1BolFuwPDnA8wOjF), [Trouble](https://open.spotify.com/artist/3OMd4I5GX8Hz51SLS0C2Fm) | [Body Head Bangerz, Vol\. 1](https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe) | 3:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 74 | [Indestructible](https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Indestructible \(Deluxe Edition\)](https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6) | 4:38 |
 | 75 | [Fast Lane](https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Hell: The Sequel \(Deluxe\)](https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P) | 4:09 |
 
-Snapshot ID: `MCxlNWJjYzVmZjYzZjNmMmRmODk3OTE4NjIxYzgxY2EwZjQwYWJlY2Ez`
+Snapshot ID: `MCxiMjkzZDVjMzQyZGY1MmE4MDExODBjODFlYWM3ODU1ZDJhYmNkY2Zk`

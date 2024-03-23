@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 97073,
+  "2024-03-23": 97095,
   "date_first_scraped": "2023-02-25",
-  "description": "Davina Michelle op de cover van Fresh Pop!",
+  "description": "Olivia Rodrigo op de cover van Fresh Pop!",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -2097,7 +2097,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 153746,
       "name": "Doing Better",
       "url": "https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc"
@@ -2823,7 +2823,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 163200,
       "name": "FLIGHT RISK",
       "url": "https://open.spotify.com/track/5gQO8Ik1hBmcDMMMjvmRtL"
@@ -5320,6 +5320,24 @@
     },
     {
       "album": {
+        "name": "Love Myself Instead",
+        "url": "https://open.spotify.com/album/1RBPuehtgS8FzuqVuk18qN"
+      },
+      "artists": [
+        {
+          "name": "KeKe",
+          "url": "https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216562,
+      "name": "Love Myself Instead",
+      "url": "https://open.spotify.com/track/5bCcGYOhitThd1TcVzLI04"
+    },
+    {
+      "album": {
         "name": "Love On",
         "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
       },
@@ -6252,6 +6270,24 @@
     },
     {
       "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170541,
+      "name": "obsessed",
+      "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
+    },
+    {
+      "album": {
         "name": "Obsessed With Your Ex",
         "url": "https://open.spotify.com/album/1pCHoS6EvvWD9giAIZfVgf"
       },
@@ -6455,6 +6491,24 @@
       "duration_ms": 167323,
       "name": "Outside",
       "url": "https://open.spotify.com/track/70VDwHuba0z6HMHG6UifIG"
+    },
+    {
+      "album": {
+        "name": "Outside In",
+        "url": "https://open.spotify.com/album/4fjRR9lgDZ7Xo3V84S25i3"
+      },
+      "artists": [
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161303,
+      "name": "Outside In",
+      "url": "https://open.spotify.com/track/0DTy6hvkVfKBpGtMzBd4Fw"
     },
     {
       "album": {
@@ -6863,6 +6917,24 @@
       "duration_ms": 228988,
       "name": "Pointless",
       "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
+    },
+    {
+      "album": {
+        "name": "In Search Of The Antidote",
+        "url": "https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182320,
+      "name": "Pretending",
+      "url": "https://open.spotify.com/track/57mgEbIR86es2FBvQmxZ7t"
     },
     {
       "album": {
@@ -7606,6 +7678,24 @@
     },
     {
       "album": {
+        "name": "Slow It Down",
+        "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161831,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
+    },
+    {
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/6GfhI8EKNPVEfplLMaINV5"
       },
@@ -7661,6 +7751,24 @@
       "duration_ms": 187924,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/4xfNBcd49rQKvlkoNJBtgv"
+    },
+    {
+      "album": {
+        "name": "The After Taste",
+        "url": "https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197267,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/5phH22Kn5b4u67jA8D5eEs"
     },
     {
       "album": {
@@ -9463,6 +9571,24 @@
       "duration_ms": 277831,
       "name": "You\u2019re Losing Me (From The Vault)",
       "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
+    },
+    {
+      "album": {
+        "name": "Young In Love",
+        "url": "https://open.spotify.com/album/12XZSKFp45paJp1t0faWg3"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193781,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/5IsJtIM3On4BNkSujt4A2c"
     },
     {
       "album": {

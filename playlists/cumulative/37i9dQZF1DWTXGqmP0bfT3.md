@@ -4,7 +4,7 @@
 
 > brutal breakdowns and riffs to amp you up.
 
-289 songs - 20 hr 1 min
+290 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 | 2023-11-27 |  |
 | [Ghosts](https://open.spotify.com/track/6pvtHYK8YwNDbfmKPljvIo) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jeremy Mckinnon](https://open.spotify.com/artist/2pbDbO5s6Tx2EHmpvLFuLw) | [Found In Far Away Places](https://open.spotify.com/album/46uMdmTIh7xBxLJrFcFTbL) | 4:49 | 2021-12-17 | 2022-06-01 |
 | [Gimme That Boom](https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Gimme That Boom](https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF) | 3:13 | 2024-02-09 |  |
-| [Goddamn White Trash](https://open.spotify.com/track/0JqtLoPU1i47itdwKRg2Zo) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Goddamn White Trash](https://open.spotify.com/album/2cpZVQFBguPlaCoQMQcOh6) | 4:43 | 2023-11-27 |  |
+| [Goddamn White Trash](https://open.spotify.com/track/0JqtLoPU1i47itdwKRg2Zo) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Goddamn White Trash](https://open.spotify.com/album/2cpZVQFBguPlaCoQMQcOh6) | 4:43 | 2023-11-27 | 2024-03-23 |
+| [Goddamn White Trash](https://open.spotify.com/track/5Pw0WYcFMkMnnQsII5nMOe) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [HOPIUMFORTHEMASSES](https://open.spotify.com/album/04Z322o7T5mwSnFVtUGAaV) | 4:43 | 2024-02-09 |  |
 | [Hardwired](https://open.spotify.com/track/10qHfyQqzsbBDwob8nk8Ol) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 3:09 | 2021-12-17 | 2022-07-29 |
 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 | 2022-01-06 |  |
 | [Hate by Design](https://open.spotify.com/track/6xXIMiJeAHZZcoReecFZwD) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Incarnate](https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH) | 3:46 | 2021-12-17 | 2023-05-13 |

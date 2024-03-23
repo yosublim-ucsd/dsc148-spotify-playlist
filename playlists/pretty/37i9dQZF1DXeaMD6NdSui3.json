@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 143089,
+  "num_followers": 143149,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzA2OWEwMzc4YjA0MGE2OGQyNzUyMzVmNWYzZjk5YmQ0ZmI2NTAw",
+  "snapshot_id": "MCw4NDVhOTAwMzdlYmM3YjE3OTI2N2E4NDcwNGI5MDc5MjMwYmU0OGU3",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -187,22 +187,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "Palace Of The King",
-      "url": "https://open.spotify.com/track/2T6pMaivfX7w4tfAUX4uU9"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Family Style",
         "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 305053,
       "name": "Brothers",
       "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "Palace Of The King",
+      "url": "https://open.spotify.com/track/2T6pMaivfX7w4tfAUX4uU9"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -675,6 +675,22 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
+        "name": "Return Of The Radio Avengers",
+        "url": "https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op"
+      },
+      "artists": [
+        {
+          "name": "Ezra Charles",
+          "url": "https://open.spotify.com/artist/5TIgW7vGG3wjwmhg7ESxxa"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "88 Answers",
+      "url": "https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
         "name": "Blood Brothers",
         "url": "https://open.spotify.com/album/3TYX7tmA1rKq7I8qOVuvFs"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 213586,
       "name": "Don't Lose My Number",
       "url": "https://open.spotify.com/track/7gcjudElezAMCD28CxD8cr"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Return Of The Radio Avengers",
-        "url": "https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op"
-      },
-      "artists": [
-        {
-          "name": "Ezra Charles",
-          "url": "https://open.spotify.com/artist/5TIgW7vGG3wjwmhg7ESxxa"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "88 Answers",
-      "url": "https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY"
     },
     {
       "added_at": "2018-02-27 16:43:49",

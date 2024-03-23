@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
+> Dendang Dangdut teratas\. Cover: Woro Widowati
 
-155 songs - 11 hr 58 min
+161 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Akhir Cerita Cinta](https://open.spotify.com/track/6p8zr8fyGBWtRZsVp2cc4d) | [Fania Putri](https://open.spotify.com/artist/7kciVBb9QDsMO8PqYGhuim) | [Akhir Cerita Cinta](https://open.spotify.com/album/0JMTGUWGp2V5u233WV7AsT) | 6:24 | 2023-04-28 | 2023-09-15 |
 | [Aku Cah Kerjo](https://open.spotify.com/track/5lFBEfhO3S846OWXoF8kgH) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Bojoku Galak](https://open.spotify.com/album/2PF24cRBneDg0TBN2WKTh3) | 6:16 | 2021-08-23 | 2023-02-03 |
 | [Aku Tenang](https://open.spotify.com/track/75lsA8cwe9Pa7AhkFlgMMF) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Aku Tenang](https://open.spotify.com/album/1m7WB75FF5bN5IsijB996S) | 5:16 | 2021-08-23 | 2024-02-09 |
+| [Allah Karim](https://open.spotify.com/track/4U2rFEYmpBd4RAsktIbV0Y) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Allah Karim](https://open.spotify.com/album/6lhx7tznoxQLZRZ7t1aGvt) | 3:18 | 2024-03-22 |  |
 | [Ampunan Dosa](https://open.spotify.com/track/407M4k7Z3Cc9iBNovzgNRo) | [Faul Gayo](https://open.spotify.com/artist/5CdK6xKQYwaLsuAFQlhrSz) | [Ampunan Dosa](https://open.spotify.com/album/0XodovBD7SqRomNqCyNWZf) | 4:15 | 2024-03-14 |  |
 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 | 2021-08-23 |  |
 | [Angin](https://open.spotify.com/track/3k0oCzfjIxqOBZIfwzSWhb) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Angin](https://open.spotify.com/album/461V9891s3vWJrkfouthY0) | 4:47 | 2024-01-11 |  |
@@ -38,6 +39,7 @@
 | [Dalan Liyane](https://open.spotify.com/track/14DyVmkBiTzhcGQg1udF9o) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Dalan Liyane](https://open.spotify.com/album/25k6Y3OXSiOk4LBthG4Qjb) | 4:16 | 2021-08-23 | 2023-03-02 |
 | [Dalan Liyane](https://open.spotify.com/track/2PHWOjXO7lhh0Nlaa8jmoe) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Dalan Liyane](https://open.spotify.com/album/7KZw8TKU5XJyw2dLVUCSs8) | 4:16 | 2023-02-16 | 2023-07-14 |
 | [Dalan Liyane](https://open.spotify.com/track/3o9aRNDVtfpw4JtramprZx) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Dalan Liyane](https://open.spotify.com/album/7oNL1mQRBJyqK5U94WCNAg) | 4:32 | 2021-08-23 | 2024-02-16 |
+| [Dawai](https://open.spotify.com/track/4lhPpYQw7bFdDtbIc1vAe7) | [Ficky Felari](https://open.spotify.com/artist/1D7Op74O2J91xxiPs90nsr) | [Dawai](https://open.spotify.com/album/3tic5vMOsBs33sStkVUvta) | 4:39 | 2024-03-22 |  |
 | [Demi Kowe](https://open.spotify.com/track/4g3vLzLkRxMEecxiIl12so) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Demi Kowe](https://open.spotify.com/album/2DF8m8378NlyK2vRmwpBfj) | 4:39 | 2021-08-23 | 2023-07-14 |
 | [Di Arsy\-Mu](https://open.spotify.com/track/4GvHn9ArvWi0eB6lvq1Rzk) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Di Arsy\-Mu](https://open.spotify.com/album/4vLuDMMcmt8JeSIYMyTCM7) | 5:46 | 2023-07-27 | 2023-12-15 |
 | [Dia Di Surgamu \- Acoustic Version](https://open.spotify.com/track/7nqvYltUiiX5IdYDUNEaEw) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Dia Di Surgamu \(Acoustic Version\)](https://open.spotify.com/album/2clUQg1AMiGoQL42AHTwMY) | 4:23 | 2024-03-14 |  |
@@ -54,7 +56,7 @@
 | [Garam Rasanya Gula](https://open.spotify.com/track/14XsJn6NhFfRhjt3DLCov2) | [Nabilla Gomes](https://open.spotify.com/artist/6ivuhvyIqTHWSUXinAOcyQ) | [Garam Rasanya Gula](https://open.spotify.com/album/1ZfC7jspXMGt9eWOKW8G37) | 4:18 | 2021-08-23 | 2023-07-14 |
 | [Gerhana Dalam Cinta \- Live Ska Reggae](https://open.spotify.com/track/3MYekiBFtjZ7SwXskTznfP) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Gerhana Dalam Cinta \(Live Ska Reggae\)](https://open.spotify.com/album/4RjS7Q0ABbNKdPiHeTRIjB) | 5:38 | 2023-07-13 | 2023-11-04 |
 | [Goyang Dua Jari](https://open.spotify.com/track/4iAHwaR6q8NPn0LQUZ8E0g) | [Sandrina](https://open.spotify.com/artist/7j2KcU3ogpP9jtAsomBNwA) | [Goyang Dua Jari](https://open.spotify.com/album/2J9oHWko5w4Xsm96yuXiSD) | 2:45 | 2021-08-23 | 2023-02-17 |
-| [Goyang Nasi Padang](https://open.spotify.com/track/3zS02VGXpRYeXSsif1QxRM) | [Duo Anggrek](https://open.spotify.com/artist/05zjnanXgP7Rh5YJG6fqKx) | [Goyang Nasi Padang](https://open.spotify.com/album/7k86TETd5hMeUyX32ifK2j) | 3:07 | 2021-08-23 |  |
+| [Goyang Nasi Padang](https://open.spotify.com/track/3zS02VGXpRYeXSsif1QxRM) | [Duo Anggrek](https://open.spotify.com/artist/05zjnanXgP7Rh5YJG6fqKx) | [Goyang Nasi Padang](https://open.spotify.com/album/7k86TETd5hMeUyX32ifK2j) | 3:07 | 2021-08-23 | 2024-03-23 |
 | [Goyang Nasi Padang](https://open.spotify.com/track/5enljbovbOWMy0WDtGfrPm) | [Duo Anggrek](https://open.spotify.com/artist/05zjnanXgP7Rh5YJG6fqKx) | [Goyang Nasi Padang](https://open.spotify.com/album/5K3HoEf17Jd4ZlBxPtIHKH) | 3:07 | 2021-08-23 | 2022-07-29 |
 | [Harusnya Aku Bukan Dia](https://open.spotify.com/track/0rmbQ7zTdLbO4ZeRINhwct) | [Balena](https://open.spotify.com/artist/2cjdvAkEtUktGoQSyc1teU) | [Harusnya Aku Bukan Dia](https://open.spotify.com/album/5bhiAHjrp1DNxyLDnkFD90) | 5:17 | 2024-02-22 |  |
 | [Hati Ini Selalu Milikmu](https://open.spotify.com/track/4MKz4c3w8UaMpBqlDdqRLg) | [Shinta Arsinta](https://open.spotify.com/artist/2K1Wy4PPyo0ni0EZxPwNCa) | [Hati Ini Selalu Milikmu](https://open.spotify.com/album/112on20pNWhwlIGoWGe4JM) | 4:24 | 2023-08-24 |  |
@@ -117,7 +119,9 @@
 | [Perlahan](https://open.spotify.com/track/01TdkJ0lorIzBsdks8X1Tb) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Perlahan](https://open.spotify.com/album/13KPnJMze6Ndt2u2KgSrtG) | 5:00 | 2021-08-23 |  |
 | [Pintu Berkah](https://open.spotify.com/track/3WyOay9X5Nnd43HHvSCNvy) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p), [Hari Putra](https://open.spotify.com/artist/7rghk7Vdh0DpjZOpp9zSwN) | [Pintu Berkah](https://open.spotify.com/album/49GYCqpTtiXImRZnB3lKRI) | 4:15 | 2023-10-26 |  |
 | [Racun Asmara](https://open.spotify.com/track/4snJpcd1vXnhlrSF3tZA4W) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Racun Asmara](https://open.spotify.com/album/5aH9pPOs9g6K63DZYBpJBf) | 6:11 | 2023-08-03 |  |
+| [Ramadhan Yang Ku Rindu](https://open.spotify.com/track/6Acip5VSeERRwTiNOW503T) | [Ade Reungit](https://open.spotify.com/artist/1U36tPNlDRd7BCyq8ftXkk) | [Ramadhan Yang Ku Rindu](https://open.spotify.com/album/3bWjs7Qp2rpi8ZftbtgwJ9) | 6:05 | 2024-03-22 |  |
 | [Rasa Yang Salah](https://open.spotify.com/track/2j0nGluWGv7bUS7CihEPXH) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Rasa Yang Salah](https://open.spotify.com/album/6jVMOyooGnu49SsAZyuObH) | 4:47 | 2021-08-23 | 2023-09-15 |
+| [Rindu Padamu Nabi](https://open.spotify.com/track/5djmMiZ3iu8kdszWUWEUIW) | [Muhammad Hadi Assegaf](https://open.spotify.com/artist/63tkeCL4mJVCNFUI3Q2q5J) | [Rindu Padamu Nabi](https://open.spotify.com/album/1FlJ2X0atWjH9LBtD38OUd) | 5:16 | 2024-03-22 |  |
 | [Rindu Tapi Malu \- Live At Ska Reggae](https://open.spotify.com/track/3T1Fyxl2WPQLmEv8JKFxO2) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Rindu Tapi Malu \(Live At Ska Reggae\)](https://open.spotify.com/album/5XMn6JEGTJJDP4JuzjGUCj) | 4:15 | 2024-02-08 | 2024-03-15 |
 | [Rumit](https://open.spotify.com/track/33TCMtMtSaA3svfYfdkMHo) | [Anggi Rayns](https://open.spotify.com/artist/0WzERYbfqhfsmcg6axzGvT) | [Rumit](https://open.spotify.com/album/1IrWJfXPkvTimTDo3eCMEg) | 4:28 | 2023-09-07 |  |
 | [Salah Apa Aku \- DJ Version](https://open.spotify.com/track/4TZ6sKMb5qdsBijn7GAosK) | [Ilir7](https://open.spotify.com/artist/2Qq9xKJKNbWzXQpO9ueKwc) | [Salah Apa Aku \(DJ Version\)](https://open.spotify.com/album/6jgucnuziyH4ihofeI625E) | 4:20 | 2021-08-23 | 2023-11-04 |
@@ -131,6 +135,7 @@
 | [Semarang Ngawi](https://open.spotify.com/track/7Di7sWT0dsxlgDvJINPpHw) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Semarang Ngawi](https://open.spotify.com/album/6K4pgYhUy2r4e6akDRIe5y) | 4:24 | 2023-06-15 | 2023-08-25 |
 | [Sensi](https://open.spotify.com/track/0HTW3ym6XTwe3gyi3Y6F4g) | [Fania Putri](https://open.spotify.com/artist/7kciVBb9QDsMO8PqYGhuim) | [Sensi](https://open.spotify.com/album/4K5ZDNFUTp05z1Hj60tYEz) | 4:32 | 2023-06-09 | 2023-09-15 |
 | [Separuh Jiwaku Pergi](https://open.spotify.com/track/6xqmdksyKLPvfs28Qe7z8x) | [Ucie Sucita](https://open.spotify.com/artist/03qsCoduQN1ffTfhVCijJp) | [Separuh Jiwaku Pergi](https://open.spotify.com/album/2cR3YXcrCOlFIpr35f1Ho1) | 3:24 | 2024-01-18 |  |
+| [Setia Jujur dan Taqwa \- Live At Ska Reggae](https://open.spotify.com/track/6lt4nbkCe2AAHVtbKLnlVC) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Setia Jujur dan Taqwa \(Live At Ska Reggae\)](https://open.spotify.com/album/7HbO1YQSuPQphc7DynEwVo) | 4:41 | 2024-03-22 |  |
 | [Setia Selamanya](https://open.spotify.com/track/28Bo7TZyfgXwyI94AovY74) | [Nayunda](https://open.spotify.com/artist/14d9MMITs2VsO16pEVEe6M) | [Setia Selamanya](https://open.spotify.com/album/68xo70xpsg2AgbucwNpjrL) | 4:02 | 2024-02-22 |  |
 | [Siang Malam Rindu](https://open.spotify.com/track/4QWa2dAN3aKBWvvkEJghCD) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Siang Malam Rindu](https://open.spotify.com/album/4kDFIPaPUAbDaDWaObbQjT) | 4:13 | 2024-02-22 |  |
 | [Siapa Benar Siapa Salah](https://open.spotify.com/track/5tvW2B5gk0H5boGqVuHFLL) | [Gita Youbi](https://open.spotify.com/artist/1tjEjf3iIYPMTo0bOSZjcU) | [Siapa Benar Siapa Salah](https://open.spotify.com/album/59OrcFyOttYw7F3fZ1aT91) | 4:33 | 2021-08-23 | 2023-09-29 |
@@ -139,6 +144,7 @@
 | [Singget](https://open.spotify.com/track/0I2YNuPlmHa6TRB2zMYEgk) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Mencla Mencle](https://open.spotify.com/album/6hWZu25i1sVgsbLxn0phE5) | 4:48 | 2021-08-23 | 2023-04-01 |
 | [Sugeng Dalu](https://open.spotify.com/track/0qyzO8E6IBxZv48FG9R3KQ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/1dZX3QreXQ3V257tr93SJI) | 5:23 | 2021-08-23 | 2024-02-09 |
 | [Surgaku](https://open.spotify.com/track/3IYqAgn7ENaDH9uTZGomQO) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Surgaku](https://open.spotify.com/album/4ItlHPYdgaJuYN5MD1tlm0) | 5:33 | 2023-03-30 |  |
+| [Syair Bidadari](https://open.spotify.com/track/1HcovJlkDKYmC8XFS6yT2k) | [LitaLy](https://open.spotify.com/artist/0GaVYWWQgbhglhWmMphflr) | [Syair Bidadari](https://open.spotify.com/album/3St0I5wMX7cCcuz2tqgk1d) | 4:29 | 2024-03-22 |  |
 | [Tak Ikhlasno](https://open.spotify.com/track/4h8rT4tUL27KwIznPur58B) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Ikhlasno](https://open.spotify.com/album/2n0favF8lI3Tv4y8dIQBbY) | 4:31 | 2021-08-23 | 2023-02-17 |
 | [Tak Lalekne Kowe](https://open.spotify.com/track/5Qj0PtT0uCwEX3IuWiHLt9) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Lalekne Kowe](https://open.spotify.com/album/7Mrs9ngZquGRsZSkR1HIE7) | 5:41 | 2021-08-23 | 2023-09-15 |
 | [Tak Mungkin Kembali](https://open.spotify.com/track/3NCPT1Ll3BC2OiaCbYkwgz) | [Ikke Nurjanah](https://open.spotify.com/artist/14eVM8s1mDJhnC4etvhFNn) | [Tak Mungkin Kembali](https://open.spotify.com/album/0jO3LcdJTkucjLxGF3M0yx) | 5:20 | 2021-08-23 | 2024-02-16 |
@@ -149,7 +155,7 @@
 | [Teman Rasa Pacar](https://open.spotify.com/track/5YKKjMpfYK8cJTjgZGR7uo) | [Lyia](https://open.spotify.com/artist/2w8C6RExCnRBZJfxHZFKhV) | [Teman Rasa Pacar](https://open.spotify.com/album/3UTEm6Sl8r3dDiNFmZmDNq) | 3:50 | 2023-11-30 |  |
 | [Terbuai Asmara](https://open.spotify.com/track/6OvS9FpU0AhP5Z1TdTuo8J) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Terbuai Asmara](https://open.spotify.com/album/22PIY9l1gFVrTIiTp3h5L9) | 4:52 | 2024-02-22 |  |
 | [Terbuai Cinta Palsu \- Live Ska Reggae](https://open.spotify.com/track/3zb04SuRpCGf9U45hcaDdZ) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Terbuai Cinta Palsu \(Live Ska Reggae\)](https://open.spotify.com/album/0WznoxDQEe7I64PQTKsswJ) | 4:58 | 2023-02-02 | 2023-11-04 |
-| [Terdiam Sepi](https://open.spotify.com/track/0o6Pfgqbq7kQBd1uYpf6Ds) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Terdiam Sepi](https://open.spotify.com/album/5NEDhtZJZg1QhcloFWRPhc) | 4:39 | 2021-08-23 |  |
+| [Terdiam Sepi](https://open.spotify.com/track/0o6Pfgqbq7kQBd1uYpf6Ds) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Terdiam Sepi](https://open.spotify.com/album/5NEDhtZJZg1QhcloFWRPhc) | 4:39 | 2021-08-23 | 2024-03-23 |
 | [Terkesan](https://open.spotify.com/track/3luAGhDWJJ00VxuVVX364j) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Terkesan](https://open.spotify.com/album/5KjuTPMCZzBhFo6l7TjVnF) | 5:25 | 2023-10-26 |  |
 | [Terluka Cinta](https://open.spotify.com/track/08g2X36etHHW9XJWEnuNkw) | [Jirayut](https://open.spotify.com/artist/1Iql7RUVcNTNZ1hlfhaKnd) | [Terluka Cinta](https://open.spotify.com/album/21jf0mQwADcYgUhe1uMKUo) | 4:22 | 2023-08-17 |  |
 | [Tiara](https://open.spotify.com/track/3Qoes6Dqk3L33gskQybbAH) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Tiara](https://open.spotify.com/album/6IjJUCwDvhnVXRmOCbGwCv) | 5:09 | 2023-09-14 |  |

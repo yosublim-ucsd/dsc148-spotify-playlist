@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- This weeks DEADNOISE.FM playlist is  curated by Finn McKenty from The Punk Rock MBA Podcast
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,755 likes - 20 songs - 57 min 30 sec
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,757 likes - 20 songs - 57 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

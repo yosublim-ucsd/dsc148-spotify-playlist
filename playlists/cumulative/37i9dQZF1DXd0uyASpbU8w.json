@@ -34982,7 +34982,7 @@
     {
       "album": {
         "name": "Hyperbolic",
-        "url": "https://open.spotify.com/album/4BAVhpH8KMzD5cqlGmS3Db"
+        "url": "https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt"
       },
       "artists": [
         {
@@ -34993,6 +34993,24 @@
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 164736,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/3AgHs7svu3fb2d5NguwfXY"
+    },
+    {
+      "album": {
+        "name": "Hyperbolic",
+        "url": "https://open.spotify.com/album/4BAVhpH8KMzD5cqlGmS3Db"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-23",
       "duration_ms": 164788,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/0hhvzMnYVZuCt0pwsAgxyp"
@@ -38566,6 +38584,28 @@
       "duration_ms": 133000,
       "name": "Pull Up (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4EzkcqltSOxYE2lstuLOFs"
+    },
+    {
+      "album": {
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Punter\u00eda",
+      "url": "https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc"
     },
     {
       "album": {
@@ -47698,10 +47738,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
+    },
+    {
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
     },
     {
       "album": {
@@ -48666,6 +48724,28 @@
       "duration_ms": 246796,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m"
+    },
+    {
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Type Shit",
+      "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
     },
     {
       "album": {

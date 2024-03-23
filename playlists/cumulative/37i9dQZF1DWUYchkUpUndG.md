@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/6uDsL3665JpJrYZUBih0HN?si=PXIfrLDVRFeEv27pPv3cTQ>Solomon Lange</a>
 
-2,238 songs - 6 day 19 hr 27 min
+2,239 songs - 6 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1246,6 +1246,7 @@
 | [MFUMU YANGA](https://open.spotify.com/track/6SUfdxL3AARwpqBRojHYJj) | [Christine Nkole](https://open.spotify.com/artist/2coJ6dDm1YoltAWYmax9tZ) | [MFUMU YANGA](https://open.spotify.com/album/5AumO9D3gKRk9SbYFmkoEY) | 9:00 | 2024-01-05 | 2024-01-19 |
 | [Mighty](https://open.spotify.com/track/6CpeBLNw7lzMnokEYgUjzf) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Mighty](https://open.spotify.com/album/6HJ0pySgPrueCDO3RAakuQ) | 3:16 | 2023-11-10 | 2023-11-24 |
 | [Mighty to Save](https://open.spotify.com/track/2aHGq0AFNyfpx5YnbP0Zyb) | [Odyssybeatz](https://open.spotify.com/artist/3S2OGX2C4LWinf6b4Tqni7) | [Mighty \(Drill Instrumental\)](https://open.spotify.com/album/38ccbgYEem39lhhxRI9ILx) | 2:07 | 2023-12-15 | 2023-12-30 |
+| [MILELE](https://open.spotify.com/track/2a72cpPspJ8Hy4llluef0T) | [Jemmimah Thiong'o](https://open.spotify.com/artist/5qSYakkSOUagBtuyQE7CDC) | [IMANI](https://open.spotify.com/album/3vpJvWOSfBfloAFUCKc83W) | 4:33 | 2024-03-22 |  |
 | [MILITANT](https://open.spotify.com/track/48xtCQoaiuVyL6L6OCunFp) | [Kdfromthepack](https://open.spotify.com/artist/4okNmvwnCdNJhRQGPxUi4R) | [MILITANT](https://open.spotify.com/album/55KM37b0QOOn3zJ54l8iKT) | 2:39 | 2024-03-22 |  |
 | [Mimo](https://open.spotify.com/track/0Y2I8fIL5qZtn1NfXSDanF) | [Dhezce](https://open.spotify.com/artist/6UVR1A7j3GWzCpBWG1K9pC), [Oloro](https://open.spotify.com/artist/65bD8DAiX9XtkkVPjKhtCy) | [Mimo](https://open.spotify.com/album/0WUKNLzA1NpMCs9oVKjX1R) | 2:32 | 2023-12-01 | 2023-12-15 |
 | [Mind](https://open.spotify.com/track/3tTf5rcv9j1TYHcxVoPJQZ) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [Mind](https://open.spotify.com/album/1cARwpx5HaOpVEX72vi7tq) | 3:03 | 2023-10-06 | 2023-10-20 |

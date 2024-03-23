@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,644 likes - 80 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,804 likes - 80 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 45 | [Tainted Love / Where Did Our Love Go? \- Extended Version / Medley](https://open.spotify.com/track/2atm0QTTcVXsN47XSdIY7b) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn) | 8:59 |
 | 46 | [Voyage voyage \- Maxi](https://open.spotify.com/track/1i8isuRSQWFX9qKnaI5hrt) | [Desireless](https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2) | [François](https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q) | 6:43 |
 | 47 | [What Is Love? \- Extended Mix](https://open.spotify.com/track/37Q1Ql8jgueqnmN0D4sFEb) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [The 12" Album](https://open.spotify.com/album/4Pmb0lbx2GAo6LDl9iyaYI) | 6:36 |
-| 48 | [It's My Life \- Extended Mix; 2003 Remaster](https://open.spotify.com/track/4nfSUYBf9XJxctw71Q17FZ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf), [Tim Friese\-Greene](https://open.spotify.com/artist/7Dx9xrykZrUZd5aemucBMi) | [Remixed \(2003 Remaster\)](https://open.spotify.com/album/4A3cOTzJ1bcoKgOnXE1TU4) | 6:19 |
-| 49 | [Flashback](https://open.spotify.com/track/1EOlxJCq3fXCIvqWJm1xrO) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [Body Talk](https://open.spotify.com/album/10Y664SOGkLTvzcP2xrET6) | 4:35 |
+| 48 | [Flashback](https://open.spotify.com/track/1EOlxJCq3fXCIvqWJm1xrO) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [Body Talk](https://open.spotify.com/album/10Y664SOGkLTvzcP2xrET6) | 4:35 |
+| 49 | [It's My Life \- Extended Mix; 2003 Remaster](https://open.spotify.com/track/4nfSUYBf9XJxctw71Q17FZ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf), [Tim Friese\-Greene](https://open.spotify.com/artist/7Dx9xrykZrUZd5aemucBMi) | [Remixed \(2003 Remaster\)](https://open.spotify.com/album/4A3cOTzJ1bcoKgOnXE1TU4) | 6:19 |
 | 50 | [Relax \- New York Mix](https://open.spotify.com/track/4UIUegq1Mp3XFXW0M9b4im) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Bang! \(Here Comes A Supernova\)](https://open.spotify.com/album/5LpKLoUmnnE3TVzoEjdrmm) | 7:23 |
 | 51 | [Always on My Mind / In My House \- 2018 Remaster](https://open.spotify.com/track/21akfkoBT6W38XFeNYX57d) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective \(2018 Remaster\)](https://open.spotify.com/album/4d0V4C5pHQA5G5PjP1FuNH) | 9:04 |
 | 52 | [Boys Boys Boys \- Special Long Club Mix](https://open.spotify.com/track/0ZOh6uw3NMQYTmriUFNDh2) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Disco 80's Maxi Club Hits, Vol.2\. \(Remixes & Rarities\)](https://open.spotify.com/album/5DEp0sMkrB4qcc5hA5lrlZ) | 8:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [Extended Souvenir \- 2003 Digital Remaster](https://open.spotify.com/track/3R14PSng7wtMo81cNG67Q6) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Architecture And Morality](https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i) | 4:16 |
 | 80 | [Material Girl \- Extended Dance Remix](https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 |
 
-Snapshot ID: `MCw1YzViZDE2Njg0NTRlMzRkZDY3ODAwOThiYjZiNWM3NmU2NTc4OTlh`
+Snapshot ID: `MCw1MWFmZjQzNTA5OGNmMGFjOWU5ZjdhM2IyMzhmZGI0OGI4Y2YwYzA3`

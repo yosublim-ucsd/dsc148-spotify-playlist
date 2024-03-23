@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > sultry and seductive feminine energy 🔪 cover: Marilyn Monroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,650 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,838 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
 | 70 | [Hypnotic](https://open.spotify.com/track/2zsWRxMcUdGjj8TnWkVKw0) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 2:56 |
 
-Snapshot ID: `MCxjYzIzOGYxOWY1NTFiMDNiZDllNWU3OTk3ZDVjYmE3NzY3MjEwNmNm`
+Snapshot ID: `MCwzMDQyMjNjZjM0YmVhMTQyNTY4Yzc5YmZmNmUyMWU3Y2Q5MzQwMzZl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,267 likes - 131 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,362 likes - 131 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 54 | [BEYOND THE TIME \(メビウスの宇宙を越えて\)](https://open.spotify.com/track/7i1xVKKkHExSqUO7zhnsOW) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック](https://open.spotify.com/album/0ZfXlmkU5NfEglCCZLpxjx) | 4:51 |
 | 55 | [水の星へ愛をこめて](https://open.spotify.com/track/2dzF7OvfbI8Cu3NGnNT1Ix) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [水の星へ愛をこめて](https://open.spotify.com/album/6eCYVaZelUiLzRxbrqmnjo) | 3:39 |
 | 56 | [Overture](https://open.spotify.com/track/6lO0AqVVEssuoRioBi4dYt) | [Ryota Nozaki](https://open.spotify.com/artist/4dFNO8mIQosWKc3W8Ntme6) | [Mobile Suit Gundam U.C\. Engage Original Motion Picture Soundtrack 2](https://open.spotify.com/album/00pVzhIlsu7gs6ZvtVhyFv) | 3:14 |
-| 57 | [Line of sight](https://open.spotify.com/track/4VPs7Et6NVMWS9mN3qy52r) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/6PU1DYveee3igu6cw4a9Bc) | 3:36 |
+| 57 | [Line of sight](https://open.spotify.com/track/4jDenqGGvz7wEvJkZF7UO7) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [LUMINOUS](https://open.spotify.com/album/7aJkW9YMx2gzLTMQcEqeR0) | 3:36 |
 | 58 | [ヒカリトカゼ](https://open.spotify.com/track/2QvWBGuGgoDZCNKGbjSpmt) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [ヒカリトカゼ](https://open.spotify.com/album/48XQcdFXosUmSHGCECFIYI) | 3:34 |
 | 59 | [Timeless Universe \(feat\. ShishiGami\)](https://open.spotify.com/track/2JmBFM0U6nuW8EQm2lWgaT) | [Powerless](https://open.spotify.com/artist/5utxGGhcP0Xs2NMvLOvXqh), [ShishiGami](https://open.spotify.com/artist/4zOJPXnfVmMPSgBUJHkFwe) | ["SD GUNDAM BATTLE ALLIANCE" Theme Songs](https://open.spotify.com/album/2qHFuoKDyCDX5rAjoWHmjv) | 4:29 |
 | 60 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 130 | [Next 2 U \-eUC\-](https://open.spotify.com/track/4Jhe1n8G2obpW4NWMifSrB) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [ななみ](https://open.spotify.com/artist/7CORvdMKsZAngZc3kK2GaR) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 4:04 |
 | 131 | [Hoshizora no Believe](https://open.spotify.com/track/3cST7z20txQesotATAQQ7l) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Hoshizora no Believe](https://open.spotify.com/album/6NZQluArYPWSujVrIK2xX1) | 3:30 |
 
-Snapshot ID: `MCxjNjMzZDcwNTRkOTMwZmJkOWY2ZTlmY2RmNmZkOGRjMmFhNGEzMWEz`
+Snapshot ID: `MCwwMzBiZDNhNmRhZDM5YjVjYjM4ODU2Njk5MWQ4ZjI2NTVjY2Y2MTEw`

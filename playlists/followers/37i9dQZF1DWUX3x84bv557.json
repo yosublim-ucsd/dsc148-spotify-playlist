@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 161841,
+  "2024-03-23": 161867,
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Jaap Reesema & Gavin DeGraw",
+  "description": "De nieuwste Nederlandse pop! Cover: Amina",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -489,6 +489,24 @@
       "duration_ms": 199549,
       "name": "Alleen",
       "url": "https://open.spotify.com/track/1SMbXa6Ri7Rg2lxsBbKvBB"
+    },
+    {
+      "album": {
+        "name": "Alleen Aan Haar",
+        "url": "https://open.spotify.com/album/5IoLPq5JBHEVoZjckG0sSP"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Van Der Boom",
+          "url": "https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192713,
+      "name": "Alleen Aan Haar",
+      "url": "https://open.spotify.com/track/1zsf8jW6awRZXmLYx9DyQC"
     },
     {
       "album": {
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 144390,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/6TOPN39UPam4SJBCntOKb6"
@@ -3602,6 +3620,24 @@
     },
     {
       "album": {
+        "name": "Handrem",
+        "url": "https://open.spotify.com/album/4GuDTT55Ir0fHNa2ZRlmlb"
+      },
+      "artists": [
+        {
+          "name": "DAVE",
+          "url": "https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141932,
+      "name": "Handrem",
+      "url": "https://open.spotify.com/track/4s72CMCZtnxbRIJPUzdC4C"
+    },
+    {
+      "album": {
         "name": "Harmonie",
         "url": "https://open.spotify.com/album/7ekoyoS7XjHdic9gqDGlxm"
       },
@@ -4675,6 +4711,24 @@
       "duration_ms": 174765,
       "name": "Jij Bent Meer Dan Een Deel Van Mij",
       "url": "https://open.spotify.com/track/77ySbPXifSKDxDn2JXew4M"
+    },
+    {
+      "album": {
+        "name": "Jij voelt als de lente",
+        "url": "https://open.spotify.com/album/3BWAzWfk9iyY7Rc5jj88kK"
+      },
+      "artists": [
+        {
+          "name": "Tessa June",
+          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162437,
+      "name": "Jij voelt als de lente",
+      "url": "https://open.spotify.com/track/6DrNj4dZsCEFflHIovlGyk"
     },
     {
       "album": {
@@ -6235,7 +6289,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 163706,
       "name": "Natte Sokken",
       "url": "https://open.spotify.com/track/0r7OKtASHgUrcN729hlyGG"
@@ -6677,7 +6731,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 182615,
       "name": "OCS",
       "url": "https://open.spotify.com/track/0OT029FXpgs7mQRJm8B3wX"
@@ -7111,6 +7165,32 @@
       "duration_ms": 185261,
       "name": "Radio",
       "url": "https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN"
+    },
+    {
+      "album": {
+        "name": "Ralphie",
+        "url": "https://open.spotify.com/album/5FY4guwMoh3L8DDy8dxCmf"
+      },
+      "artists": [
+        {
+          "name": "Matz Voskamp",
+          "url": "https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd"
+        },
+        {
+          "name": "Ghazi",
+          "url": "https://open.spotify.com/artist/0WQ05juCyNhLOY4sjYrpTK"
+        },
+        {
+          "name": "Eyah",
+          "url": "https://open.spotify.com/artist/2dQhYDhI8IWPGbwgyqMb2E"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161880,
+      "name": "Ralphie",
+      "url": "https://open.spotify.com/track/0f2GSOCvtLTWJZNmVSCE1v"
     },
     {
       "album": {
@@ -7881,7 +7961,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 203135,
       "name": "Stille Pijn (Stip it!)",
       "url": "https://open.spotify.com/track/3giaPcqlpiX6SG6lwRRj55"
@@ -7953,7 +8033,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 193113,
       "name": "Struikelen",
       "url": "https://open.spotify.com/track/5dRjmLzrU2qN2uc7uViQBt"
@@ -8151,7 +8231,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 188835,
       "name": "Thuis Thuis",
       "url": "https://open.spotify.com/track/6WHIHaHkbYUCuik1j9KnFP"
@@ -8624,6 +8704,24 @@
     },
     {
       "album": {
+        "name": "Verder Gaan",
+        "url": "https://open.spotify.com/album/0r77Nr0uGa2s6LjUhUn8nu"
+      },
+      "artists": [
+        {
+          "name": "FLEUR",
+          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179482,
+      "name": "Verder Gaan",
+      "url": "https://open.spotify.com/track/6UmHcP85c9ithN6491OqGB"
+    },
+    {
+      "album": {
         "name": "Vergeven, Vergeten",
         "url": "https://open.spotify.com/album/2hYdO6AFjcJVEqzcSwPAhE"
       },
@@ -8823,6 +8921,24 @@
       "duration_ms": 166516,
       "name": "Vliegen",
       "url": "https://open.spotify.com/track/2tnv26XNloxZMK1usRktqa"
+    },
+    {
+      "album": {
+        "name": "Jongen Uit De Stad",
+        "url": "https://open.spotify.com/album/1Z8FFVmqvUf3YpqsQf8ztr"
+      },
+      "artists": [
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144180,
+      "name": "Vliegtuigmodus",
+      "url": "https://open.spotify.com/track/4H4O3fDyHXgTWXqSbvBFyV"
     },
     {
       "album": {

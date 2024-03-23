@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdurasRmJgpJ.md) - [plain]
 
 > 2019年に幕を開けた令和。ストリーミングや動画サイトでのバイラルが影響力を増し、社会情勢や価値観が激動している"ニューノーマル"な時代のポップミュージック。
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,285 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,435 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdurasRmJgpJ.md) - [plain]
 | 54 | [GOAT](https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO) | 2:37 |
 | 55 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 |
 | 56 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 |
-| 57 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 |
+| 57 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 |
 | 58 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 |
-| 59 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 |
-| 60 | [That That \(prod.&feat\. SUGA of BTS\)](https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:54 |
+| 59 | [That That \(prod.&feat\. SUGA of BTS\)](https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:54 |
+| 60 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 |
 | 61 | [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 |
 | 62 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 |
 | 63 | [点描の唄](https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [青と夏](https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy) | 5:07 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdurasRmJgpJ.md) - [plain]
 | 65 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 |
 | 66 | [唱](https://open.spotify.com/track/7o0TPSw494RG2Q4iWmd1v6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:09 |
 | 67 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
-| 68 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 |
-| 69 | [ただ声一つ](https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ただ声一つ](https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t) | 2:41 |
-| 70 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 |
+| 68 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 |
+| 69 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 |
+| 70 | [ただ声一つ](https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ただ声一つ](https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t) | 2:41 |
 | 71 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 |
 | 72 | [踊り子](https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:49 |
 | 73 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdurasRmJgpJ.md) - [plain]
 | 75 | [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 |
 | 76 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 |
 | 77 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
-| 78 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
-| 79 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 |
+| 78 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 |
+| 79 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 80 | [LEFT RIGHT](https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:28 |
 | 81 | [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 |
 | 82 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdurasRmJgpJ.md) - [plain]
 | 89 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 |
 | 90 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:00 |
 | 91 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
-| 92 | [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 |
-| 93 | [Life Is Still Going On](https://open.spotify.com/track/3THdOskGxdJcRbp0DcS4s0) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:38 |
+| 92 | [Life Is Still Going On](https://open.spotify.com/track/3THdOskGxdJcRbp0DcS4s0) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:38 |
+| 93 | [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 |
 | 94 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 |
 | 95 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 |
 | 96 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdurasRmJgpJ.md) - [plain]
 | 99 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
 | 100 | [Cheshire](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 3:02 |
 
-Snapshot ID: `MCwyZDBiMTEyZWZlYzUxNDQwMDY0ZDJhY2QyODc4MzZiY2U3NWMyNGEw`
+Snapshot ID: `MCw1NjVlNTExOWNmYzViZGJmODcyYjg3MjIzODA5NjU5OTAzZmEyZTBl`

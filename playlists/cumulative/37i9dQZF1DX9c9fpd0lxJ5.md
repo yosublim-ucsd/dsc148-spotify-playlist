@@ -4,7 +4,7 @@
 
 > indie tunes to make you shine bby :\)
 
-227 songs - 12 hr 43 min
+228 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [El Ride](https://open.spotify.com/track/6QZCS1tO3dL3gm9ZHWL4d0) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Carlos Macca](https://open.spotify.com/artist/5iDuCXfKMjYai2qvft7KcS) | [El Ride](https://open.spotify.com/album/2gn2Y3RAxuMjGvbQNl9IKw) | 2:44 | 2023-04-21 |  |
 | [En el 2000](https://open.spotify.com/track/2cVJwPD5CaTx2kBZyomzGN) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade](https://open.spotify.com/album/2NHUkx5kUzp2r2laL2fonJ) | 3:35 | 2021-12-29 | 2022-12-03 |
 | [Enloqueciendo](https://open.spotify.com/track/7DjgJCvcx22XyZ5ounl1ml) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Esteban Sterling](https://open.spotify.com/artist/2I6Q1wQDqpRXkLeLR8w9oe) | [Enloqueciendo](https://open.spotify.com/album/0RlEealRuqOhv0HvnAryUF) | 4:05 | 2023-08-04 | 2023-09-24 |
-| [Eres](https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Eres](https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs) | 3:24 | 2023-04-07 |  |
+| [Eres](https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Eres](https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs) | 3:24 | 2023-04-07 | 2024-03-23 |
 | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:12 | 2021-12-29 | 2022-12-03 |
 | [Eso Que Me Das](https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Eso Que Me Das](https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3) | 3:47 | 2021-12-29 |  |
 | [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 | 2023-05-26 |  |
@@ -181,6 +181,7 @@
 | [Rompecabezas](https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH) | 5:32 | 2023-04-21 |  |
 | [Rompecabezas](https://open.spotify.com/track/3Y5l5pPl8dsQa302fZYf5z) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/2STyrwQukQzXgPvu3uuFUN) | 5:32 | 2021-12-29 | 2022-12-11 |
 | [Rompecabezas](https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/2czVuP4m56SE64ctzcXclC) | 5:32 | 2022-12-06 | 2023-04-15 |
+| [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-22 |  |
 | [s a l u d o s](https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:17 | 2021-12-29 | 2023-01-13 |
 | [Sad Lullaby](https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Sad Lullaby](https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd) | 3:25 | 2021-12-29 | 2023-08-11 |
 | [Santo Domingo](https://open.spotify.com/track/0iLN9FL8qQNsd13N5TVPAX) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Santo Domingo](https://open.spotify.com/album/7MHtcxNInflrOkle3BVSSI) | 2:36 | 2022-12-06 |  |

@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 255384,
       "name": "Dive",
       "url": "https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7"
@@ -1971,6 +1971,46 @@
     },
     {
       "album": {
+        "name": "Follow The Light",
+        "url": "https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159054,
+      "name": "Follow The Light",
+      "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
+    },
+    {
+      "album": {
+        "name": "For You, Please",
+        "url": "https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL"
+      },
+      "artists": [
+        {
+          "name": "Arhkota",
+          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
+        },
+        {
+          "name": "Lubna Maher",
+          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205205,
+      "name": "For You, Please",
+      "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2q5JOJpEa00GfddyBJAPrz"
       },
@@ -2040,6 +2080,24 @@
       "duration_ms": 293350,
       "name": "Fortaleza",
       "url": "https://open.spotify.com/track/0P6b8SxzKeB0XFkueJIA5m"
+    },
+    {
+      "album": {
+        "name": "Free Treasure",
+        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
     },
     {
       "album": {
@@ -2952,7 +3010,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 207253,
       "name": "Jolene From Her Own Perspective",
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
@@ -5091,6 +5149,24 @@
     },
     {
       "album": {
+        "name": "Something in the Room She Moves",
+        "url": "https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378289,
+      "name": "Something in the Room She Moves",
+      "url": "https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3"
+    },
+    {
+      "album": {
         "name": "Song for Nick Drake",
         "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
       },
@@ -5592,7 +5668,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 230653,
       "name": "The Last One",
       "url": "https://open.spotify.com/track/4t2ZAMb6OkX5BGACCoNNyz"
@@ -5848,7 +5924,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 203872,
       "name": "Troubled Girl",
       "url": "https://open.spotify.com/track/7DzjhfrHBr6zVPN7XJNoqg"

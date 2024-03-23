@@ -1,12 +1,12 @@
 {
   "description": "2013 highlights from the home of indie music. Cover: HAIM ",
-  "num_followers": 74447,
+  "num_followers": 74494,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDAxZjZjNzM3Y2RhMDFlZTFkYThjZGUzNDA3ZWNlMjVkYzdlMzUz",
+  "snapshot_id": "MCwzZTE4Yjk2NDMzNTkxMWRiNzE2ODE0ZTk4MzdkYzUzNjQ5Y2ViMTgy",
   "tracks": [
     {
       "added_at": "2023-03-29 13:55:12",
@@ -315,18 +315,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Holy Fire",
-        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
+        "name": "Lockjaw",
+        "url": "https://open.spotify.com/album/5I0kS30hvtI7a1LFEhaPve"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
         }
       ],
-      "duration_ms": 238853,
-      "name": "My Number",
-      "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
+      "duration_ms": 221894,
+      "name": "Drop The Game",
+      "url": "https://open.spotify.com/track/3wFFW1B6WAmAFGOwdEOOZR"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -363,22 +367,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Lockjaw",
-        "url": "https://open.spotify.com/album/5I0kS30hvtI7a1LFEhaPve"
+        "name": "Holy Fire",
+        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 221894,
-      "name": "Drop The Game",
-      "url": "https://open.spotify.com/track/3wFFW1B6WAmAFGOwdEOOZR"
+      "duration_ms": 238853,
+      "name": "My Number",
+      "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -399,18 +399,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "II (10 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3"
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
       },
       "artists": [
         {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 230146,
-      "name": "So Good at Being in Trouble",
-      "url": "https://open.spotify.com/track/3DXHaJzqRCgv3rd5U9EoXU"
+      "duration_ms": 298920,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -431,18 +431,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+        "name": "II (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3"
       },
       "artists": [
         {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 298920,
-      "name": "Red Eyes",
-      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
+      "duration_ms": 230146,
+      "name": "So Good at Being in Trouble",
+      "url": "https://open.spotify.com/track/3DXHaJzqRCgv3rd5U9EoXU"
     },
     {
       "added_at": "2023-03-29 13:55:12",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 194053,
-      "name": "Modern Jesus",
-      "url": "https://open.spotify.com/track/7iOyMOxdOULvXqUqC26spJ"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "The 1975",
         "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 206986,
       "name": "Sex",
       "url": "https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 194053,
+      "name": "Modern Jesus",
+      "url": "https://open.spotify.com/track/7iOyMOxdOULvXqUqC26spJ"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -967,22 +967,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 174172,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "We Are Only What We Feel",
         "url": "https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 209485,
       "name": "Pumpin Blood",
       "url": "https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 174172,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "The 1975 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+        "name": "Reflektor",
+        "url": "https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
-      "duration_ms": 254620,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c"
+      "duration_ms": 353086,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/7rL602DQps4QmrrjbinLzP"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Reflektor",
-        "url": "https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT"
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
       },
       "artists": [
         {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 353086,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/7rL602DQps4QmrrjbinLzP"
+      "duration_ms": 254620,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "The 1975 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 240670,
-      "name": "Fallingforyou",
-      "url": "https://open.spotify.com/track/2TgxCUZdHFkPEVmFge1OSd"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Lockjaw",
         "url": "https://open.spotify.com/album/5I0kS30hvtI7a1LFEhaPve"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 450983,
       "name": "Reflektor",
       "url": "https://open.spotify.com/track/7uMZy0bALAdneerERyr7Ks"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 240670,
+      "name": "Fallingforyou",
+      "url": "https://open.spotify.com/track/2TgxCUZdHFkPEVmFge1OSd"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "We Are the 21st Century Ambassadors of Peace & Magic",
-        "url": "https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf"
-      },
-      "artists": [
-        {
-          "name": "Foxygen",
-          "url": "https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "Shuggie",
-      "url": "https://open.spotify.com/track/6RgrpOgbTI3M2qvA8XIvTb"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "More Than Just a Dream",
         "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 233133,
       "name": "The Walker",
       "url": "https://open.spotify.com/track/46EOWTszdIfllYY4o6rjkY"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "We Are the 21st Century Ambassadors of Peace & Magic",
+        "url": "https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf"
+      },
+      "artists": [
+        {
+          "name": "Foxygen",
+          "url": "https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "Shuggie",
+      "url": "https://open.spotify.com/track/6RgrpOgbTI3M2qvA8XIvTb"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "6 Feet Beneath The Moon",
-        "url": "https://open.spotify.com/album/6uvdXVgHsioxRIo0cFnkD7"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/6Ko6VLnveSju6IZiwONLTt"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Lost In The Dream",
         "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 431746,
       "name": "An Ocean In Between The Waves",
       "url": "https://open.spotify.com/track/78uf7QYfexQ1sggf2fsKzg"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "6 Feet Beneath The Moon",
+        "url": "https://open.spotify.com/album/6uvdXVgHsioxRIo0cFnkD7"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/6Ko6VLnveSju6IZiwONLTt"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 212613,
-      "name": "Bad Blood",
-      "url": "https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Bankrupt!",
         "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 219973,
       "name": "Entertainment",
       "url": "https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 212613,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Trying To Be Cool",
+      "url": "https://open.spotify.com/track/0UpuOCp6EU4BZabgmBqr1o"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "Secondhand Rapture",
         "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 240560,
       "name": "Smother",
       "url": "https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "Trying To Be Cool",
-      "url": "https://open.spotify.com/track/0UpuOCp6EU4BZabgmBqr1o"
     },
     {
       "added_at": "2021-09-02 08:24:19",

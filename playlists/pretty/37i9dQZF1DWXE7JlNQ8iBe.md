@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXE7JlNQ8iBe.md) - [plain]
 
 > Silvana Estrada le dedica su canto a La Catrina, para mantener nuestra tradición viva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,524 likes - 40 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,535 likes - 40 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXE7JlNQ8iBe.md) - [plain]
 | 18 | [Pajarillo Jilguero \(Tradicional de Guerrero\) \[En Vivo\]](https://open.spotify.com/track/5SwQYWjCDMBkw1d6QECmVX) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [10 Años](https://open.spotify.com/album/7gS4Uv3KJJ4FxM5v78sFeN) | 4:33 |
 | 19 | [Si Me Matan](https://open.spotify.com/track/5L9OruCuqnA9PGGh1VkXcm) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 4:10 |
 | 20 | [Cancion de Fe](https://open.spotify.com/track/5QWaMvZP4WDqIdypFG0KIw) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [A Capella: Grabado en Casa Durante la Cuarentena \(Mayo 2020\)](https://open.spotify.com/album/5LrijibsCrNpfujPFXsWS9) | 2:40 |
-| 21 | [Regresa](https://open.spotify.com/track/261UIQr3UnHsgDoTyLFcg7) | [Lucha Reyes](https://open.spotify.com/artist/5grvAbHKRb8mjsRqmuLKp0) | [Lucha Reyes Le Canta a Augusto Polo Campos](https://open.spotify.com/album/4OR5IKVFXEUDWzaBw54h7P) | 2:50 |
+| 21 | [Regresa](https://open.spotify.com/track/28QIfk2hJEeoxd3eTyyfrC) | [Lucha Reyes](https://open.spotify.com/artist/5grvAbHKRb8mjsRqmuLKp0) | [Serie Regresa: Lucha Reyes, la Morena de Oro del Perú](https://open.spotify.com/album/1LroWsHZakzATuaGv3QkrK) | 2:50 |
 | 22 | [Temes](https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:16 |
 | 23 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 |
 | 24 | [Malagueña, No\. 2](https://open.spotify.com/track/0JrnXDzhynOCcHqLgLztcA) | [Soledad Bravo](https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2) | [La Historia Musical y Algo Más...](https://open.spotify.com/album/1jHtwoUNpBNtKM7VggyQQJ) | 3:38 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXE7JlNQ8iBe.md) - [plain]
 | 39 | [Oración del remanso](https://open.spotify.com/track/0qcH8iWkVnxF2NKQtvboN2) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 5:59 |
 | 40 | [Son de los Diablos](https://open.spotify.com/track/0l7nvBma9IRxp9EjHWpFnO) | [Perú Negro](https://open.spotify.com/artist/5PsVU8lua3ri94gDn7zUIY) | [Afro\-Peruvian Classics: The Soul of Black Peru](https://open.spotify.com/album/5yJ0eAVAP7G2OR4lRcNcas) | 2:27 |
 
-Snapshot ID: `MCw4ZjgxOTVlYTlkMWU0YjQ3ZGEzYzk4NmFjMzQxY2RjYjk0YzgyMzVh`
+Snapshot ID: `MCxmN2NkOGFlMTg0MzkzNjdhMjZkNWI0NDhhODcxOGM4ZWIzZjIzMjU4`

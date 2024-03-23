@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-455 songs - 1 day 8 hr 32 min
+456 songs - 1 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Let You Go](https://open.spotify.com/track/3KD6IJoaBg3i7efqistOnh) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [SØNIN](https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC), [AunA](https://open.spotify.com/artist/3WKwSfbeWEtLBUENdbdJ2A) | [Let You Go](https://open.spotify.com/album/2NjwadjbSBDELXLElNoBaV) | 4:46 | 2023-01-20 | 2023-03-30 |
 | [Let You Go \- Joris Voorn Remix](https://open.spotify.com/track/2Mi3VViZL1ty4BZJUdhRhH) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [SØNIN](https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [AunA](https://open.spotify.com/artist/3WKwSfbeWEtLBUENdbdJ2A) | [Let You Go \(Joris Voorn Remix\)](https://open.spotify.com/album/1B6Cr6HAPrqmP2B9wvcpYj) | 3:21 | 2023-11-17 | 2024-02-29 |
 | [Liberation](https://open.spotify.com/track/41UGzRpR0CRT56XF7GRwbq) | [Kydus](https://open.spotify.com/artist/6YycIIoEl49FGVdmgsABea) | [Liberation](https://open.spotify.com/album/4VbQUD0I1oHtwVbmcIx6rr) | 8:15 | 2021-05-07 | 2022-04-20 |
+| [Light](https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Light](https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW) | 2:49 | 2024-03-22 |  |
 | [Light On](https://open.spotify.com/track/3HVSuotnZrZu7dYaUptxwv) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Light On](https://open.spotify.com/album/1xmZAdsCwSmgTPdFdvY71Q) | 4:29 | 2021-05-07 | 2022-04-19 |
 | [Lightning](https://open.spotify.com/track/7u7RMMynAINKO3iMS0s0pZ) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Lightning](https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz) | 3:54 | 2022-06-03 | 2023-07-10 |
 | [Lights Go Out](https://open.spotify.com/track/79XeC0VG01wojLxzrk4Ypq) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Lights Go Out](https://open.spotify.com/album/1o5GJh8M5rS4s5fE3Acq4m) | 3:06 | 2023-06-30 | 2023-08-26 |
@@ -363,7 +364,7 @@
 | [Sun](https://open.spotify.com/track/3gwL0zQKWmtJA8oYhXmqn8) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Sun EP](https://open.spotify.com/album/2eEvThMm9Kj9HDifqrI8Xw) | 7:29 | 2021-05-07 | 2022-04-13 |
 | [Sunday Driver](https://open.spotify.com/track/66QxW6PVaVt4viuUqHFDsJ) | [Igor Garanin](https://open.spotify.com/artist/4ehXKv4sgs5snOxOGnEHLr) | [Anjunadeep Explorations 15](https://open.spotify.com/album/1Z7foZwT3Mg4ZT5GEKD49W) | 4:52 | 2021-05-07 | 2022-04-21 |
 | [Supermodel](https://open.spotify.com/track/3JT8wu4fht9m6m5H9VsAFz) | [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [Marcus Cito](https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC) | [Supermodel](https://open.spotify.com/album/0wMDrSOXPQeh6Lm2jy5LO6) | 2:52 | 2023-03-03 | 2023-04-01 |
-| [Surrender](https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Surrender](https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT) | 2:27 | 2023-05-26 |  |
+| [Surrender](https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Surrender](https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT) | 2:27 | 2023-05-26 | 2024-03-23 |
 | [Sweat](https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Sweat](https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7) | 2:39 | 2023-05-19 |  |
 | [Sweet Disposition \- John Summit & Silver Panda Remix](https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Sweet Disposition \(John Summit & Silver Panda Remix\)](https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5) | 4:11 | 2024-01-26 |  |
 | [Sweet Surrender](https://open.spotify.com/track/6AYnqhQQeRdLErjV4X999K) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Sweet Surrender](https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W) | 3:11 | 2023-02-03 |  |

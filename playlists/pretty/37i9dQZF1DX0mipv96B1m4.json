@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1060,
+  "num_followers": 1062,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2M4NjBlMDI5ZmNkYWMwYjZmZTEwZWUwODUzOWQ4Y2UxOWU4NmQ2",
+  "snapshot_id": "MCwzMDM5ZjM4ZDU0MjgzNzhmN2E3MzY0M2Y1ZTU0MzUxYmYxYzY0YThm",
   "tracks": [
     {
       "added_at": "2024-03-01 12:07:08",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Just Bu Just",
+        "url": "https://open.spotify.com/album/7bQUSh4b5fi4bYj3OXvZCM"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "duration_ms": 180618,
+      "name": "Just Bu Just",
+      "url": "https://open.spotify.com/track/6kmWdPTcbv91cTu1mxJ4z0"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Gemazima",
         "url": "https://open.spotify.com/album/02QbNNia59RV4jwu00khDg"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 181342,
       "name": "Gemazima",
       "url": "https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Just Bu Just",
-        "url": "https://open.spotify.com/album/7bQUSh4b5fi4bYj3OXvZCM"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "Just Bu Just",
-      "url": "https://open.spotify.com/track/6kmWdPTcbv91cTu1mxJ4z0"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -631,26 +631,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Kyabazinga",
-        "url": "https://open.spotify.com/album/4r9Hp0mKo45qZiDgao3NPK"
-      },
-      "artists": [
-        {
-          "name": "SHON WYZ",
-          "url": "https://open.spotify.com/artist/5AsknIWNC3wtvpLKZts9WU"
-        },
-        {
-          "name": "PALLASO",
-          "url": "https://open.spotify.com/artist/0P9wmw5Iu0HSJc2Qsnmpiz"
-        }
-      ],
-      "duration_ms": 192835,
-      "name": "Kyabazinga - PALLASO Remix",
-      "url": "https://open.spotify.com/track/6BeNjZev4leBwTOoMuMytw"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "We Can",
         "url": "https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 220408,
       "name": "Born To Love You - 2020 Remix",
       "url": "https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Kyabazinga",
+        "url": "https://open.spotify.com/album/4r9Hp0mKo45qZiDgao3NPK"
+      },
+      "artists": [
+        {
+          "name": "SHON WYZ",
+          "url": "https://open.spotify.com/artist/5AsknIWNC3wtvpLKZts9WU"
+        },
+        {
+          "name": "PALLASO",
+          "url": "https://open.spotify.com/artist/0P9wmw5Iu0HSJc2Qsnmpiz"
+        }
+      ],
+      "duration_ms": 192835,
+      "name": "Kyabazinga - PALLASO Remix",
+      "url": "https://open.spotify.com/track/6BeNjZev4leBwTOoMuMytw"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Bajooga",
+        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 175072,
+      "name": "Bajooga",
+      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Sikyegomba",
         "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Bajooga",
-        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 175072,
-      "name": "Bajooga",
-      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Bwonjagala",
         "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
       },
@@ -927,18 +927,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Wulira Omuziki",
-        "url": "https://open.spotify.com/album/1n4gvSOCF9kos6UuFTZV4s"
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/0ZQlhloe2p4y4jNHz2lw2U"
       },
       "artists": [
         {
-          "name": "Eezzy",
-          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Cindy Sanyu & Beenie Gunter",
+          "url": "https://open.spotify.com/artist/51xOpwMyXoEXi04AEbpYpg"
         }
       ],
-      "duration_ms": 202280,
-      "name": "Wulira Omuziki",
-      "url": "https://open.spotify.com/track/6ukp2gmcFmgBlvrLJ3Vj9x"
+      "duration_ms": 282215,
+      "name": "DanceHall",
+      "url": "https://open.spotify.com/track/6P8VucWdTtvHu5VOp5RW1k"
     }
   ],
   "unique_name": "Kidandali Parte",

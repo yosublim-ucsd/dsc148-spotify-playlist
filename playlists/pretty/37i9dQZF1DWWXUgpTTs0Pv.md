@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 
 > Family friendly country songs to listen to together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,842 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,935 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,16 +55,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 | 45 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 |
 | 46 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
 | 47 | [I Hope You’re Happy Now](https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:18 |
-| 48 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [JoDee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:29 |
-| 49 | [Blue Ain't Your Color](https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:50 |
+| 48 | [Blue Ain't Your Color](https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:50 |
+| 49 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [JoDee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:29 |
 | 50 | [Five More Minutes](https://open.spotify.com/track/3qTmB5HxP9ilJaiM6B1yuk) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj) | 4:01 |
 | 51 | [God's Country](https://open.spotify.com/track/4TCeFZNjGNQIpCuZmJkkE2) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Fully Loaded: God's Country](https://open.spotify.com/album/4Kd33JPxTOcjTM29FrKoyT) | 3:24 |
 | 52 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
 | 53 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 |
 | 54 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 |
 | 55 | [Even If It Breaks Your Heart](https://open.spotify.com/track/0Nu9WA8kEbBWEsay2s8Q0U) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Life At Best](https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV) | 3:40 |
-| 56 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
-| 57 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 |
+| 56 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 |
+| 57 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
 | 58 | [Take My Name](https://open.spotify.com/track/7g0Zfd5J6Hzx9M2fRUMuba) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk) | 2:37 |
 | 59 | [Little Bitty](https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Everything I Love](https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW) | 2:38 |
 | 60 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 | 74 | [The Best Day \(Taylor’s Version\)](https://open.spotify.com/track/6ON9UuIq49xXY9GPmHIYRp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:05 |
 | 75 | [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 |
 
-Snapshot ID: `MCwwOGI1NWJmMjFiMmM1NDQ4OGRjNzMzNGFmNGE1Y2ViMzdkNTY3ZjE5`
+Snapshot ID: `MCwyMjIxMDk0NGU2MDlhNzc0NTliZmViYjI2YjRmZGI3YzFmYmY1MzE4`

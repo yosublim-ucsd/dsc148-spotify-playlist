@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 687675,
+  "num_followers": 687857,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWRiMzhjMTA3ZGU4MDE3ODJiY2RjNDZiNThlMTc5MGRjNDFkYTNl",
+  "snapshot_id": "MCxkMmQwYjc1ZGE2OTlmNzQ1ODQzMmVhYzk4YTAyZjZiZjUxNWFhNzM5",
   "tracks": [
     {
       "added_at": "2024-01-25 17:05:45",
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD"
+        "name": "ready now",
+        "url": "https://open.spotify.com/album/3UimgkGAY5asGDoRqwKbz3"
       },
       "artists": [
         {
-          "name": "Balthazar",
-          "url": "https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ"
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
         }
       ],
-      "duration_ms": 205680,
-      "name": "Losers",
-      "url": "https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx"
+      "duration_ms": 176567,
+      "name": "ready now",
+      "url": "https://open.spotify.com/track/1hH8pM8m5vPOFqNkZdqfZd"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "ready now",
-        "url": "https://open.spotify.com/album/3UimgkGAY5asGDoRqwKbz3"
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD"
       },
       "artists": [
         {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+          "name": "Balthazar",
+          "url": "https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ"
         }
       ],
-      "duration_ms": 176567,
-      "name": "ready now",
-      "url": "https://open.spotify.com/track/1hH8pM8m5vPOFqNkZdqfZd"
+      "duration_ms": 205680,
+      "name": "Losers",
+      "url": "https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Californian Soil",
-        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 221387,
-      "name": "Californian Soil",
-      "url": "https://open.spotify.com/track/1YhJTm664ZT5xheQLBDgd1"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "postcard from Berlin",
         "url": "https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Rio Grande",
-        "url": "https://open.spotify.com/album/1Pj0IcGeKirKVwqKPe4dK3"
+        "name": "Californian Soil",
+        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
       },
       "artists": [
         {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
         }
       ],
-      "duration_ms": 271593,
-      "name": "Rio Grande",
-      "url": "https://open.spotify.com/track/0dxauDDDoSPJqmKJlNRjPu"
+      "duration_ms": 221387,
+      "name": "Californian Soil",
+      "url": "https://open.spotify.com/track/1YhJTm664ZT5xheQLBDgd1"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -1031,6 +1015,22 @@
       "duration_ms": 234493,
       "name": "Around The Sun",
       "url": "https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "Rio Grande",
+        "url": "https://open.spotify.com/album/1Pj0IcGeKirKVwqKPe4dK3"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 271593,
+      "name": "Rio Grande",
+      "url": "https://open.spotify.com/track/0dxauDDDoSPJqmKJlNRjPu"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "One Evening",
-      "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "Out of My Head",
         "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 214000,
       "name": "Out of My Head",
       "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 216506,
+      "name": "One Evening",
+      "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Maybe October",
-        "url": "https://open.spotify.com/album/2fLdBQ3TVNexpi2PRYsqhX"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 164195,
-      "name": "Maybe October",
-      "url": "https://open.spotify.com/track/4TkGiH6W0MYjPpLgy11sP9"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "Green Eyes",
         "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 197524,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "Maybe October",
+        "url": "https://open.spotify.com/album/2fLdBQ3TVNexpi2PRYsqhX"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 164195,
+      "name": "Maybe October",
+      "url": "https://open.spotify.com/track/4TkGiH6W0MYjPpLgy11sP9"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Sink In",
-      "url": "https://open.spotify.com/track/4mGjKDAKUCovYA1Zzwwlu8"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/4mGjKDAKUCovYA1Zzwwlu8"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "At the Roadhouse",
-        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 301346,
-      "name": "Black & Thunder",
-      "url": "https://open.spotify.com/track/2oJDtsC8StI3UIX1zEGiAr"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "I'm Around",
         "url": "https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 271854,
       "name": "I'm Around",
       "url": "https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "At the Roadhouse",
+        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 301346,
+      "name": "Black & Thunder",
+      "url": "https://open.spotify.com/track/2oJDtsC8StI3UIX1zEGiAr"
     },
     {
       "added_at": "2024-01-25 17:05:45",

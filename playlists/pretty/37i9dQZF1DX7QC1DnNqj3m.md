@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 
 > Bask in the sound of soul, old and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,833 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,828 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 36 | [Feet Don't Fail Me Now](https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:18 |
 | 37 | [Greatest Gift \(feat\. Lila Iké\)](https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:12 |
 | 38 | [Overjoyed](https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [In Square Circle](https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt) | 3:42 |
-| 39 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
-| 40 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
+| 39 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
+| 40 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
 | 41 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
 | 42 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:53 |
 | 43 | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:32 |
 | 44 | [Why iii Love The Moon.](https://open.spotify.com/track/2x5Frs6ts14U4MSLrQQlXg) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Yesterday's Tomorrow](https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u) | 5:31 |
 | 45 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 46 | [I Get The Sweetest Feeling](https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [I Get The Sweetest Feeling](https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6) | 2:58 |
-| 47 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 |
-| 48 | [ICU \(with Justin Timberlake\) \- Remix](https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [ICU \(with Justin Timberlake\) \[Remix\]](https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7) | 3:38 |
+| 47 | [ICU \(with Justin Timberlake\) \- Remix](https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [ICU \(with Justin Timberlake\) \[Remix\]](https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7) | 3:38 |
+| 48 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 |
 | 49 | [What Becomes Of The Brokenhearted](https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Sings Top Ten](https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV) | 2:58 |
 | 50 | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV) | 2:55 |
 | 51 | [There Will Be No Crying](https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 79 | [Sweeter \(feat\. Terrace Martin\)](https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Sweeter \(feat\. Terrace Martin\)](https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM) | 2:47 |
 | 80 | [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 |
 
-Snapshot ID: `MCxjMjYyMGViYzAzMDgzOWMyMzEwM2QwMTQ1OWZkYmFkNDBjNWU3Mjcy`
+Snapshot ID: `MCwzOWRhZTk2OWU0OGQxNjMxMWNjMjE1YTUzYWY3OTRhY2U1ODFjMWM3`

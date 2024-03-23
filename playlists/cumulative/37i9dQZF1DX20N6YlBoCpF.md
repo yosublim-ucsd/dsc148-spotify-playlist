@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq?si=8wUipIzmT1yQhRptg8GOBA">VAN WEST</a>
 
-839 songs - 1 day 23 hr 24 min
+841 songs - 1 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Bokke Spring](https://open.spotify.com/track/2Vx2yStDNHE0XEUcwi3c2L) | [Nico Etzebeth](https://open.spotify.com/artist/6KeFFR4XVmie1jI7VcbqoI) | [Bokke Spring](https://open.spotify.com/album/6ibBqHj0EXKfsb5sp0D4gj) | 2:43 | 2023-08-24 | 2023-09-08 |
 | [Boksemdais](https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Boksemdais](https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0) | 3:08 | 2023-10-12 | 2024-01-26 |
 | [Bokswyn](https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Bokswyn](https://open.spotify.com/album/0AUEv3KyWp0AGzlxq0sjud) | 3:09 | 2022-08-18 | 2022-11-25 |
-| [Bon Voyage](https://open.spotify.com/track/0NrSDP2mXZs6qYMOJD39vs) | [Frieda van den Heever](https://open.spotify.com/artist/39GnCS0FNh3jBO81XCyKSZ), [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Spoorsny](https://open.spotify.com/album/6cfkfFuG6AQNE77E0h4w45) | 3:29 | 2024-03-08 |  |
+| [Bon Voyage](https://open.spotify.com/track/0NrSDP2mXZs6qYMOJD39vs) | [Frieda van den Heever](https://open.spotify.com/artist/39GnCS0FNh3jBO81XCyKSZ), [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Spoorsny](https://open.spotify.com/album/6cfkfFuG6AQNE77E0h4w45) | 3:29 | 2024-03-08 | 2024-03-23 |
 | [Bosveld Vakansie](https://open.spotify.com/track/6LHiWLGfFYRV9iUCrcC2Gf) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Sing Hoop Weerklink](https://open.spotify.com/album/38dU50ugb1c3kWmrdJqUg8) | 3:32 | 2022-11-10 | 2023-02-24 |
 | [Bottervingers](https://open.spotify.com/track/7G1Nnk5VJ70BJ5jyKg7Hhe) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:30 | 2023-12-29 | 2024-01-06 |
 | [Bou Aan 'n Vrou](https://open.spotify.com/track/5JifoftIfvhWm5UQtCKzLL) | [Minke Brits](https://open.spotify.com/artist/47lU4Bj1lkJDJk0HfCkA6x) | [Bou Aan 'n Vrou](https://open.spotify.com/album/488JiMZH1vN3E3Jfq5Vr6W) | 3:43 | 2023-02-16 | 2023-04-07 |
@@ -222,7 +222,7 @@
 | [Ek Val Vir Jou](https://open.spotify.com/track/7coFUDGsxVm43klKOjPv5e) | [Luna](https://open.spotify.com/artist/2zlCBc9tFR522ZdWzK5Zhs) | [Ek Val Vir Jou](https://open.spotify.com/album/2NMfcwu5iKdQ0ctw87TjZM) | 3:25 | 2023-02-03 | 2023-03-10 |
 | [ek voel ek droom](https://open.spotify.com/track/7HuYCgwSa2bizw72pSXwvn) | [Ollyvans](https://open.spotify.com/artist/5mUamRbK8IVMSh1fr8OzWq) | [ek voel ek droom](https://open.spotify.com/album/78l5Xd7IcIjGHQH3ML485t) | 2:21 | 2023-04-13 | 2023-04-28 |
 | [Ek Wens](https://open.spotify.com/track/7cYUAAyZDMOLBqhzXCen7S) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Ek Wens](https://open.spotify.com/album/7s1ETgKwUedSSPMIJTY6Hg) | 3:57 | 2022-11-10 | 2023-03-18 |
-| [Ek Wens](https://open.spotify.com/track/6PSTOYpl8cgAlaUbbMi8PJ) | [Wynand Strydom](https://open.spotify.com/artist/513hBvcWaf7eEc1il4Q7Pj) | [Ek Wens](https://open.spotify.com/album/3wkh0Y44aA6jTHCLeQ7unU) | 2:56 | 2024-02-29 |  |
+| [Ek Wens](https://open.spotify.com/track/6PSTOYpl8cgAlaUbbMi8PJ) | [Wynand Strydom](https://open.spotify.com/artist/513hBvcWaf7eEc1il4Q7Pj) | [Ek Wens](https://open.spotify.com/album/3wkh0Y44aA6jTHCLeQ7unU) | 2:56 | 2024-02-29 | 2024-03-23 |
 | [Ek Wil Jou Nie Laat Gaan Nie](https://open.spotify.com/track/3cUi5Z3sHGz9UEhfuYZssc) | [B+C](https://open.spotify.com/artist/3K4syqj9H8aPFqQF65Nvi9), [Anrii](https://open.spotify.com/artist/1O0CA4D9Kyv1zpl1WSPrFN) | [Ek Wil Jou Nie Laat Gaan Nie](https://open.spotify.com/album/34bL6pXaO4UGrjYF7iwP59) | 3:44 | 2023-04-20 | 2023-05-12 |
 | [Ek Wonder](https://open.spotify.com/track/7d1dnWCYBxIkLHYkxjF6Yd) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Ek Wonder](https://open.spotify.com/album/07wqaVr50Sy5ke6YhxnIF4) | 3:32 | 2023-09-28 | 2023-12-01 |
 | [Ek Wou Nog](https://open.spotify.com/track/7lbjCxUt9BiGVU7cepqWAa) | [RAAF](https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi) | [Ek Wou Nog](https://open.spotify.com/album/3sVSDeD3RW5GWzHiQ1tr8x) | 3:48 | 2023-09-07 | 2023-09-22 |
@@ -346,6 +346,7 @@
 | [Jou Skoene](https://open.spotify.com/track/7FHRJmJRWB3qjUsn4B65HM) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Jou Skoene](https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG) | 3:36 | 2023-02-09 | 2024-03-08 |
 | [Judy](https://open.spotify.com/track/0XdKQSbxsx8xwisuVMlJmF) | [Millennium](https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw) | [Judy](https://open.spotify.com/album/3cAYGWLIKxcXgGL6b1aLcP) | 4:42 | 2023-07-06 | 2023-07-21 |
 | [Juffrou Riekie Louw](https://open.spotify.com/track/6mrtwItSsepr3INwacxn7c) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Juffrou Riekie Louw](https://open.spotify.com/album/07Itm0lsheDjtOBTe4PWDQ) | 3:43 | 2024-02-15 |  |
+| [Jy](https://open.spotify.com/track/6IaTS50A4HGZnIObFDNTWY) | [Velvet and Veneer](https://open.spotify.com/artist/7I7HWy1WrwvQqGdQJkIhh1) | [Jy](https://open.spotify.com/album/71C5AuRNIMSBH1Fi5i56ht) | 3:57 | 2024-03-22 |  |
 | [JY IS AL WAT EK HET](https://open.spotify.com/track/0svurugq2CYsP7zGByuUyg) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Loki Rothman](https://open.spotify.com/artist/2dRlORRtjS7XHuCdEbHrE3) | [JY IS AL WAT EK HET](https://open.spotify.com/album/5V91z8ZNFWxyA2Nw9Ey932) | 2:53 | 2023-12-21 |  |
 | [Jy is genoeg](https://open.spotify.com/track/2fdbtc6ZvSQAlizaU2VFSP) | [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4) | [Jy is genoeg](https://open.spotify.com/album/7AAG6Ue4Co730HwR9mXg8c) | 3:31 | 2023-08-03 | 2023-09-08 |
 | [Jy Moet Weet](https://open.spotify.com/track/5Xm5GGCHsfRFU2lEvzuBDy) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0) | [Jy Moet Weet](https://open.spotify.com/album/3nQ2cPzgpbuA5QwUhwBhRj) | 3:17 | 2022-09-01 | 2022-10-21 |
@@ -828,6 +829,7 @@
 | [Weskus Wyn](https://open.spotify.com/track/0OBxUSpC7q7KlJZ7EbusfC) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0) | [Weskus Wyn](https://open.spotify.com/album/1DDWVBKCXgZDv4C672D6up) | 2:53 | 2023-07-13 | 2023-08-04 |
 | [Whiskey Bent \(feat\. Jelly Roll\)](https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:16 | 2023-12-29 | 2024-01-06 |
 | [Wie's Jou Kat?](https://open.spotify.com/track/1cpPxUeohprGjsQInKBggX) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Wie's Jou Kat?](https://open.spotify.com/album/1eQFe82cj7zrCeh3R0XizG) | 3:25 | 2022-10-27 | 2023-01-13 |
+| [wies nie weird nie?](https://open.spotify.com/track/4u4fiRQEA7ZoOUmrANQa8H) | [Skrikkeljaar](https://open.spotify.com/artist/62F3uYbEowDVVfkWcwP8Az) | [wies nie weird nie?](https://open.spotify.com/album/6PlptlQbUZ7CELQDeL2BYH) | 3:49 | 2024-03-22 |  |
 | [Wikkel En Weeg](https://open.spotify.com/track/58sfTO42iIqP7wXczW5oIH) | [Jolanda Fouché](https://open.spotify.com/artist/0V7auwP4exRWU5qL6LvyzD) | [Wikkel En Weeg](https://open.spotify.com/album/3j5OkkBYLr6p63NqtvFe5H) | 4:12 | 2023-04-27 | 2023-05-05 |
 | [Wil Jy Bly](https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Wil Jy Bly](https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg) | 3:07 | 2023-06-08 | 2023-10-14 |
 | [Wildman](https://open.spotify.com/track/4KIhzNAh0lgHblwDnmeymd) | [Jan Rhaap](https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r) | [Wildman](https://open.spotify.com/album/7ccUdm2objah0c8b16C9z2) | 2:49 | 2023-11-02 | 2024-02-02 |

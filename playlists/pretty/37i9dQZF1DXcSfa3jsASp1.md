@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 
 > Rock that was on repeat during the summers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,995 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,997 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,21 +33,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 23 | [Heathens](https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Heathens](https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT) | 3:15 |
 | 24 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
 | 25 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 |
-| 26 | [Unsteady](https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:13 |
-| 27 | [Ain't It Fun](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:56 |
+| 26 | [Ain't It Fun](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:56 |
+| 27 | [Unsteady](https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:13 |
 | 28 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 |
 | 29 | [Radioactive](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:06 |
 | 30 | [Feel Invincible](https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:49 |
 | 31 | [Dark Necessities](https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 5:02 |
-| 32 | [Ex's & Oh's](https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:22 |
-| 33 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 |
-| 34 | [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 |
+| 32 | [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 |
+| 33 | [Ex's & Oh's](https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:22 |
+| 34 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 |
 | 35 | [Chlorine](https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 5:24 |
 | 36 | [Could Have Been Me](https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:07 |
 | 37 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 |
 | 38 | [Trouble](https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:45 |
-| 39 | [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 |
-| 40 | [Still Counting](https://open.spotify.com/track/7nsO4eXkY7DvrWbjYUDLJS) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Guitar Gangsters & Cadillac Blood](https://open.spotify.com/album/4BzHvHsnYTIEmrhh6zLDmt) | 4:21 |
+| 39 | [Still Counting](https://open.spotify.com/track/7nsO4eXkY7DvrWbjYUDLJS) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Guitar Gangsters & Cadillac Blood](https://open.spotify.com/album/4BzHvHsnYTIEmrhh6zLDmt) | 4:21 |
+| 40 | [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 |
 | 41 | [Animal](https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Habits](https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g) | 3:32 |
 | 42 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 |
 | 43 | [I Think I'm OKAY \(with YUNGBLUD & Travis Barker\)](https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Hotel Diablo](https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2) | 2:49 |
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 78 | [Help Is On The Way](https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:57 |
 | 79 | [She's so Mean](https://open.spotify.com/track/2toY6JyyfKy9TwNk3Ou2XG) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [North \(Deluxe Edition\)](https://open.spotify.com/album/3JdxPzUYUcVeRgfdOGXZLC) | 3:52 |
 | 80 | [Dangerous](https://open.spotify.com/track/2PeKCn8NSGQXAHONaCh3wB) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [2.0](https://open.spotify.com/album/3a8kwdfe4ctEfqe1vXGiBP) | 4:40 |
-| 81 | [Warrior](https://open.spotify.com/track/2TNPagu8Z4zvDOpmnktF00) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Asylum \(Deluxe Edition\)](https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9) | 3:24 |
+| 81 | [I'll Follow You](https://open.spotify.com/track/0ILR5GMSzBRp2LrI8GX1Si) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Amaryllis](https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0) | 3:58 |
 | 82 | [Crystals](https://open.spotify.com/track/5wU6jk9kxYzFGUpeE6T2Q5) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:03 |
-| 83 | [I'll Follow You](https://open.spotify.com/track/0ILR5GMSzBRp2LrI8GX1Si) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Amaryllis](https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0) | 3:58 |
+| 83 | [Warrior](https://open.spotify.com/track/2TNPagu8Z4zvDOpmnktF00) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Asylum \(Deluxe Edition\)](https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9) | 3:24 |
 | 84 | [The Sound](https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 4:08 |
 | 85 | [Heaven Knows](https://open.spotify.com/track/04w73SmPfQkkmEpKbcrHOL) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going To Hell \(Deluxe Edition\)](https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4) | 3:44 |
 | 86 | [House of the Rising Sun](https://open.spotify.com/track/0KxKNPHZpOLvJaT8ATekoT) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/4cf8wfqub8gibjfGhLAieK) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 99 | [Alligator](https://open.spotify.com/track/797qMUoU74C6xc45n2vAMK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [FEVER DREAM](https://open.spotify.com/album/3jk6oyfKCny48ZYb1CPjLa) | 3:04 |
 | 100 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
 
-Snapshot ID: `MCw4MzRiMTU5MzhjNmFiYWI4YTFhNGNlMGRjMWRhZDIzNGEyYmJlZDg3`
+Snapshot ID: `MCwwNTY0OTI5ZDc1NGE3MzAyNmZmNGNlNmJiMzU3ZTU3ZTJmYjIxNTAz`

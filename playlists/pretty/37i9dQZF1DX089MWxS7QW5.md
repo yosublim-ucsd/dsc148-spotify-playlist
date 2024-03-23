@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Tabber\(태버\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,130 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,143 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 50 | [From Now](https://open.spotify.com/track/6q2yYNfgrcNfW3OZh8WQ5Z) | [EachOne](https://open.spotify.com/artist/421WUO9b5iopxq4c53zFNk) | [From Now](https://open.spotify.com/album/6Bmg7Tl2MoeqVZZQw7AIda) | 3:20 |
 | 51 | [Better](https://open.spotify.com/track/6a5DPLmFyHypY8VcsL8O7L) | [JK Kim Dong Uk](https://open.spotify.com/artist/3rbvvrsMmH8iT9qFf3IoNz) | [Better](https://open.spotify.com/album/5qNWv2c6vEkt1wLQ5hBYAX) | 3:36 |
 
-Snapshot ID: `MCw2ODQ0OGQ2ZmFkN2I3ZTk0NTk2OTUxZDE2NWE4YTRkMWQxNDJhNWUw`
+Snapshot ID: `MCw3ZjM4YjNiZGYxZjIyNGJhZmZmZTBlYzNiMmVlMjE5NTZlM2VhNDA1`

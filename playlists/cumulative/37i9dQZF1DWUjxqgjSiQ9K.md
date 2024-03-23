@@ -2,9 +2,9 @@
 
 ### [Éxitos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K)
 
-> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:7n2Ycct7Beij7Dj7meI4X0">TWICE</a>
+> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:202VnAr2CvQpJJrYXK78jk">Sarai Rivera</a> y <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells</a>
 
-558 songs - 1 day 19 hr 4 min
+561 songs - 1 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [El Cielo Aún Espera](https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Cielo Aún Espera](https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV) | 3:53 | 2023-05-19 | 2023-12-09 |
 | [El Cielo Ha Llegado Hoy \- En Vivo](https://open.spotify.com/track/2B9sN0Gy4xkyz4dtsZflgj) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [A Las Naciones \(En Vivo\)](https://open.spotify.com/album/4t0lHixGOTwSq2XmowP65z) | 8:48 | 2024-01-12 |  |
 | [El Cielo Nos Sonríe](https://open.spotify.com/track/18vSbMdCHXpbvnRRixYsKq) | [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [El Cielo Nos Sonríe](https://open.spotify.com/album/5eymly3EnVwQKHUFzlTBw7) | 3:36 | 2023-09-08 |  |
+| [El Dios De Lo Imposible \- Live](https://open.spotify.com/track/4MNQonR3jV5gp70KqWu3d3) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [El Dios de lo imposible \(Live\)](https://open.spotify.com/album/160ozK0qNJp7JPXzkvxvG7) | 6:01 | 2024-03-22 |  |
 | [El Diseñador](https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [El Diseñador](https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC) | 3:45 | 2022-04-15 | 2023-03-11 |
 | [El Día En Que La Muerte Murió](https://open.spotify.com/track/79o7CaZCTWxN4VV6g6RJr9) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [El Día En Que La Muerte Murió](https://open.spotify.com/album/0sqZYyIRoM7qcfqd9Ixdh6) | 3:31 | 2023-08-18 | 2023-10-14 |
 | [El Es Fiel](https://open.spotify.com/track/15MSm4FwuNGjdqb6t6ppWJ) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz), [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8) | [El Es Fiel](https://open.spotify.com/album/4ljoQwJXRB8M01sawNdvQx) | 3:08 | 2022-10-14 | 2022-12-10 |
@@ -470,6 +471,7 @@
 | [STÜSSY](https://open.spotify.com/track/4u6hy75THfPE4j8Z16r3bd) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [STÜSSY](https://open.spotify.com/album/4rtoEfkgyaibuB6q2aXdJ1) | 2:55 | 2024-02-09 |  |
 | [Su Poder](https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Su Poder](https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV) | 5:02 | 2022-02-25 | 2022-03-12 |
 | [Su Poder Caerá](https://open.spotify.com/track/6je7whJBPXB2TWm8qlHIav) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Su Poder Caerá](https://open.spotify.com/album/6kowMxhEp2aXUymZAs2SvM) | 5:02 | 2022-06-10 | 2023-05-06 |
+| [Suelto \(I give you my dreams\)](https://open.spotify.com/track/0vrKtAUNi7cyaWmYlcm41O) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Suelto \(I give you my dreams\)](https://open.spotify.com/album/1xrugty1f3HPpYITsbHatD) | 3:48 | 2024-03-22 |  |
 | [Suerte Divina ☘️ \(En Vivo desde Bogotá, Colombia\)](https://open.spotify.com/track/6KLAGuFSys1R7gHfpQjGkV) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [Suerte Divina ☘️ \(En Vivo desde Bogotá, Colombia\)](https://open.spotify.com/album/5E99xK6yYWB8ovl0hoHkYO) | 4:57 | 2022-08-12 | 2022-09-17 |
 | [Superpoderes](https://open.spotify.com/track/2iYbQogIZK1KkeF1gdAH6o) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [Superpoderes](https://open.spotify.com/album/2ws1rydosDqGsoz93MFu9t) | 3:53 | 2023-10-27 |  |
 | [SÁNAME](https://open.spotify.com/track/1UZiL3hX8vaaeGQKM8TBlI) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp), [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W) | [SÁNAME](https://open.spotify.com/album/4s3FBPFKLVx7orSMIUdsOJ) | 3:41 | 2022-09-30 | 2023-09-16 |
@@ -490,6 +492,7 @@
 | [Tesoro \(feat\. Aaron Moses & Tianna\)](https://open.spotify.com/track/3WhrYpBNSy9R3ejaiFrdtY) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7), [Tianna](https://open.spotify.com/artist/1jQllgFn8BtMLmn7vgmRyr) | [Tesoro \(feat\. Aaron Moses & Tianna\)](https://open.spotify.com/album/3vreTYqwZU5jZpbeZ6vzPJ) | 8:15 | 2022-05-13 | 2022-06-11 |
 | [Testimonio](https://open.spotify.com/track/2JnHvsK86uRzgf8WE4HwKp) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl), [Brayan Booz](https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD) | [Púrpura](https://open.spotify.com/album/63n3Muw9lQISQScVsrx0i2) | 3:00 | 2023-01-13 | 2023-02-25 |
 | [Tiempo de la Cruz](https://open.spotify.com/track/2Iv7OJEEfkgOIvp7mwL0HE) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Renovado](https://open.spotify.com/album/1QYdQ7rrTYVgJxlESi80zC) | 4:05 | 2022-02-25 | 2022-04-02 |
+| [Tienes El Control \- Acústico, En Vivo](https://open.spotify.com/track/1BTsCk6t5XfCVySWgg4gJX) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Tienes El Control \(Acústico, En Vivo\)](https://open.spotify.com/album/6dgTNLjDgmlwIg8oU2uxeu) | 5:06 | 2024-03-22 |  |
 | [Tienes Mi Corazón](https://open.spotify.com/track/5fW9gpZJLeXiKLuO2Mhs7L) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Alumbras Mi Vida](https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH) | 3:17 | 2022-06-03 | 2022-07-09 |
 | [Tierra Prometida](https://open.spotify.com/track/7bwwh84dalgKpYpbXenUA5) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Tierra Prometida](https://open.spotify.com/album/2X2TKIVD411wzu9uWcERLR) | 3:33 | 2022-03-18 | 2022-06-18 |
 | [Toda Tuya](https://open.spotify.com/track/5zK75SItxl7ynYsF4O8YPs) | [Jésed](https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P) | [Toda Tuya](https://open.spotify.com/album/6KKUpenyd1dHH5DvmkMz5Z) | 4:32 | 2023-03-03 | 2023-10-07 |

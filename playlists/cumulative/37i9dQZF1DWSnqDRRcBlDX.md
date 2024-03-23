@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-180 songs - 17 hr 12 min
+182 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Birth of Venus](https://open.spotify.com/track/2vPnvgESdFMTvMVVIwoRPs) | [disruption](https://open.spotify.com/artist/2JeB267MeU0Yo8QeclACpM) | [Abyss of Hell](https://open.spotify.com/album/6mlH1YFr7UF4C8G1Z7tlkE) | 5:54 | 2022-12-02 | 2023-01-28 |
 | [Blood Hound](https://open.spotify.com/track/0YtHhGMzyctGst9tY7QVOc) | [Milo Spykers](https://open.spotify.com/artist/3FGLVtY3sNKFgkkmQ05AXl) | [Belgian Bass EP](https://open.spotify.com/album/7wwQfDERvRZmYVbePr65NP) | 6:40 | 2022-12-02 | 2023-01-28 |
 | [BONZAI](https://open.spotify.com/track/0gDfZQksdHrXAQ3DE9wO0X) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [BONZAI](https://open.spotify.com/album/79l8b27ykmajDqCbVzcian) | 3:36 | 2023-10-06 |  |
+| [Breathe](https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Breathe](https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG) | 3:43 | 2024-03-22 |  |
 | [Broken World](https://open.spotify.com/track/10prDqeTXIdBgd7sQq5XWz) | [SAMOH](https://open.spotify.com/artist/4PmjWX9nSc8SKi29i10Coi) | [ACID\-19](https://open.spotify.com/album/04RYU5wGgoFWFXBI9Jf5Wa) | 7:19 | 2023-10-06 |  |
 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 | 2023-10-06 |  |
 | [Chemicals \- Original Mix](https://open.spotify.com/track/0KF1GYtbXgcipR9OHBDJfD) | [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd) | [Chemicals](https://open.spotify.com/album/61FWmQ4ucMaItHzlBJvzRP) | 5:48 | 2023-01-27 | 2023-10-07 |
@@ -59,6 +60,7 @@
 | [Every Night](https://open.spotify.com/track/6aSdY2mKtkquVwPbotUnky) | [NTBR](https://open.spotify.com/artist/1Ye4UZN2QjBlSyZF1Ts2CR), [Jacidorex](https://open.spotify.com/artist/0XSNxwt21dxcFTxaYtQjwe) | [Intimacy](https://open.spotify.com/album/0mt67Q3HEy0q0mI4j7GmRr) | 5:34 | 2023-01-27 | 2023-10-07 |
 | [Everybody Was Taking Acid](https://open.spotify.com/track/0kbdlVyWr0vsFj0ZEm7wDT) | [Joey Risdon](https://open.spotify.com/artist/1TAVfsRR0xQIcI6OxpCten) | [Moment Before Disaster](https://open.spotify.com/album/4rSM7rZFEdMFjdPzZebGs3) | 6:19 | 2023-01-27 | 2023-10-07 |
 | [Eyes](https://open.spotify.com/track/0Tqa1TopcdxgtHDAYtOZRW) | [ACOR](https://open.spotify.com/artist/41OompGt7NZ866pUv4E8BK) | [HARDCID](https://open.spotify.com/album/63FqbeggWrpKrKlJpBPadQ) | 6:00 | 2022-12-02 | 2023-01-28 |
+| [Falling For You](https://open.spotify.com/track/2GapBZRmLVf7r6pZ6E63VW) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [CARV](https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI), [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Falling For You](https://open.spotify.com/album/2fdjmtLe66LqI9D6AluyQU) | 6:42 | 2024-03-22 |  |
 | [Falling In A Dream \- D.Dan Remix](https://open.spotify.com/track/6JHoy3AaBpcZNMdxEsIcWJ) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt), [D.Dan](https://open.spotify.com/artist/7kocSfpPxPoSIRa1yNIQvB) | [Falling In A Dream EP](https://open.spotify.com/album/1YY7rfA9u8pEGBPn0vGWtt) | 4:33 | 2022-12-02 | 2023-01-28 |
 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 | 2023-06-02 |  |
 | [Feel The Groove](https://open.spotify.com/track/7KouY9WIOL8HoMVWVDIoex) | [Ahl Iver](https://open.spotify.com/artist/0rX7Jq1AcfbVfKZGO2d6pV) | [Exhale: Together for Ukraine!](https://open.spotify.com/album/6AX2yJ3tnCCFcchZ0AC6hl) | 5:19 | 2023-06-02 | 2023-10-07 |
@@ -103,7 +105,7 @@
 | [Mad Wan](https://open.spotify.com/track/01qWvpN7OAYdGWERfEEayl) | [AISHA \(Sco\)](https://open.spotify.com/artist/3mFGWOyRFTCLKBQe2THZgr), [Franck](https://open.spotify.com/artist/3XGGc2cdg65V8AOXGfdHwb) | [Helfy Rapid EP](https://open.spotify.com/album/6xISHJclSucoM74eRwJFyF) | 6:20 | 2023-04-14 | 2023-10-07 |
 | [March Of The White Fireflies \- Charlie Sparks Remix](https://open.spotify.com/track/7lm9Imb30GNfdv32uF8StO) | [Lee Ann Roberts](https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1), [Charlie Sparks \(UK\)](https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ) | [March Of The White Fireflies](https://open.spotify.com/album/0zd3llKPiP16vBiJA9baLe) | 6:29 | 2022-12-02 | 2023-01-28 |
 | [Mayday Anthem \- Thomas Schumacher Remix](https://open.spotify.com/track/0h5bjHIioNsHAV58lcNVqs) | [Members Of Mayday](https://open.spotify.com/artist/76QERaQEFTh2VKRUL7wz7m), [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [Mayday Anthem \(Thomas Schumacher Remix\)](https://open.spotify.com/album/52DgryHGie1RWvB99nbVT3) | 4:13 | 2023-10-06 |  |
-| [Meet Me In The Club](https://open.spotify.com/track/3jLpZs81i46jtsPFnXnHJa) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Meet Me In The Club](https://open.spotify.com/album/3C5XkMBU4fGO9bT2E7ywSP) | 4:30 | 2023-10-06 |  |
+| [Meet Me In The Club](https://open.spotify.com/track/3jLpZs81i46jtsPFnXnHJa) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Meet Me In The Club](https://open.spotify.com/album/3C5XkMBU4fGO9bT2E7ywSP) | 4:30 | 2023-10-06 | 2024-03-23 |
 | [Meteorite](https://open.spotify.com/track/2NydnLf5aQpJQIyfoE0lpu) | [Luca Agnelli](https://open.spotify.com/artist/4gF60Mys5KoWdQrf0bhRWq) | [Fast Forward](https://open.spotify.com/album/74K6VmJM6dbaxIv2ru39Dn) | 5:45 | 2023-01-27 | 2023-10-07 |
 | [Miss You \(Rave Mix\)](https://open.spotify.com/track/3dfNLKYZOB9VDLpxKfMM09) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Miss You \(Rave Mix\)](https://open.spotify.com/album/6zEcgNi2onpX2bjYk1L0Bx) | 5:00 | 2022-12-02 | 2023-01-28 |
 | [Money to Silence You](https://open.spotify.com/track/7o1lqHzZmnAMdTBezJt2ha) | [X\-Alox](https://open.spotify.com/artist/02bXKhV38LfhJraVsQ5qCc) | [Nether Region](https://open.spotify.com/album/0WjHEvhA3F5XfeapAP9vSJ) | 5:08 | 2022-12-02 | 2023-10-07 |

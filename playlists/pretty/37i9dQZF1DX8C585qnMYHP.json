@@ -1,12 +1,12 @@
 {
   "description": "The best new music by Experimental independent artists and labels. STEMLINES on cover. Artwork by Thami Nabil",
-  "num_followers": 155431,
+  "num_followers": 155514,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTQxZTE5Mjg3YTRjNTIzNzY2Nzc3MTlhZDkwNThjMWRhNzdkMTBl",
+  "snapshot_id": "MCxlZWI1YTkxMDI5NWYyNTRiMmViZTU1Mjg5Y2ZkMmU4OWM5YTFjNWEy",
   "tracks": [
     {
       "added_at": "2024-03-06 06:00:00",
@@ -281,22 +281,6 @@
       "url": "https://open.spotify.com/track/60WeDI4n7vpT9Xe3oBQuYK"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "The Bloodwren pt. II",
-        "url": "https://open.spotify.com/album/1Tc8SGlaDltVNRgU80EjsF"
-      },
-      "artists": [
-        {
-          "name": "Ceiling Spirits",
-          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
-        }
-      ],
-      "duration_ms": 496300,
-      "name": "The Bloodwren pt. II",
-      "url": "https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b"
-    },
-    {
       "added_at": "2023-09-13 15:55:38",
       "album": {
         "name": "Familiar Flavours",
@@ -311,6 +295,22 @@
       "duration_ms": 260202,
       "name": "Familiar Flavours",
       "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "The Bloodwren pt. II",
+        "url": "https://open.spotify.com/album/1Tc8SGlaDltVNRgU80EjsF"
+      },
+      "artists": [
+        {
+          "name": "Ceiling Spirits",
+          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
+        }
+      ],
+      "duration_ms": 496300,
+      "name": "The Bloodwren pt. II",
+      "url": "https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b"
     },
     {
       "added_at": "2024-01-24 03:58:32",
@@ -425,6 +425,22 @@
       "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
     },
     {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Boeckner!",
+        "url": "https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW"
+      },
+      "artists": [
+        {
+          "name": "Boeckner",
+          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
+        }
+      ],
+      "duration_ms": 291037,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
+    },
+    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "Ghost Box",
@@ -439,6 +455,22 @@
       "duration_ms": 350005,
       "name": "Wichita",
       "url": "https://open.spotify.com/track/1UCMd6FcewF3a0tb6A7IQC"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
+      },
+      "artists": [
+        {
+          "name": "Fuensanta",
+          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
+        }
+      ],
+      "duration_ms": 237917,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -459,38 +491,6 @@
       "duration_ms": 226118,
       "name": "Promises",
       "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
-      },
-      "artists": [
-        {
-          "name": "Fuensanta",
-          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
-        }
-      ],
-      "duration_ms": 237917,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Boeckner!",
-        "url": "https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW"
-      },
-      "artists": [
-        {
-          "name": "Boeckner",
-          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
-        }
-      ],
-      "duration_ms": 291037,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
     },
     {
       "added_at": "2023-08-02 14:55:57",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
+      "added_at": "2024-03-13 03:47:45",
+      "album": {
+        "name": "Kalma Meli Melo",
+        "url": "https://open.spotify.com/album/4U3bpg7JAD4k6hnORaIDRq"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 1202372,
+      "name": "Breathing Flute 88",
+      "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
+    },
+    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "onomatopoeia",
@@ -639,6 +655,22 @@
       "duration_ms": 269812,
       "name": "tdU_du_tdu_tdu",
       "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
+    },
+    {
+      "added_at": "2024-03-13 03:47:45",
+      "album": {
+        "name": "Daddy Vaquero",
+        "url": "https://open.spotify.com/album/6EoyMk8z51wYOSjr43DqNp"
+      },
+      "artists": [
+        {
+          "name": "SoFTT",
+          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
+        }
+      ],
+      "duration_ms": 160519,
+      "name": "Daddy Vaquero",
+      "url": "https://open.spotify.com/track/79z81agD3MP8c8wxVlNoS0"
     },
     {
       "added_at": "2024-01-24 03:58:32",
@@ -663,38 +695,6 @@
       "duration_ms": 238750,
       "name": "something that lasts",
       "url": "https://open.spotify.com/track/5HkMf5rorBI0pELgPbKmf9"
-    },
-    {
-      "added_at": "2024-03-13 03:47:45",
-      "album": {
-        "name": "Kalma Meli Melo",
-        "url": "https://open.spotify.com/album/4U3bpg7JAD4k6hnORaIDRq"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        }
-      ],
-      "duration_ms": 1202372,
-      "name": "Breathing Flute 88",
-      "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Tusi Ojos",
-        "url": "https://open.spotify.com/album/29XPHrDgT2OCW38k0CAdtj"
-      },
-      "artists": [
-        {
-          "name": "SoFTT",
-          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
-        }
-      ],
-      "duration_ms": 272112,
-      "name": "Tusi Ojos",
-      "url": "https://open.spotify.com/track/5E32NyBpHy9VAiOAeF0qSX"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/0F2wG8xPitaD0mw6KC6O1W"
     },
     {
-      "added_at": "2023-08-01 21:02:30",
-      "album": {
-        "name": "Snapdragon",
-        "url": "https://open.spotify.com/album/2MyGNZFL8YJ1tAvN6gryt8"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 192283,
-      "name": "Snapdragon",
-      "url": "https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Aura",
@@ -799,6 +783,38 @@
       "duration_ms": 517362,
       "name": "Inori",
       "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Tusi Ojos",
+        "url": "https://open.spotify.com/album/29XPHrDgT2OCW38k0CAdtj"
+      },
+      "artists": [
+        {
+          "name": "SoFTT",
+          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
+        }
+      ],
+      "duration_ms": 272112,
+      "name": "Tusi Ojos",
+      "url": "https://open.spotify.com/track/5E32NyBpHy9VAiOAeF0qSX"
+    },
+    {
+      "added_at": "2023-08-01 21:02:30",
+      "album": {
+        "name": "Snapdragon",
+        "url": "https://open.spotify.com/album/2MyGNZFL8YJ1tAvN6gryt8"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 192283,
+      "name": "Snapdragon",
+      "url": "https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I"
     },
     {
       "added_at": "2024-03-13 03:47:45",
@@ -823,22 +839,6 @@
       "duration_ms": 164083,
       "name": "Sweety Chant",
       "url": "https://open.spotify.com/track/4wBR6PSc3xnqdAQzpcCHzY"
-    },
-    {
-      "added_at": "2024-03-13 03:47:45",
-      "album": {
-        "name": "Daddy Vaquero",
-        "url": "https://open.spotify.com/album/6EoyMk8z51wYOSjr43DqNp"
-      },
-      "artists": [
-        {
-          "name": "SoFTT",
-          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
-        }
-      ],
-      "duration_ms": 160519,
-      "name": "Daddy Vaquero",
-      "url": "https://open.spotify.com/track/79z81agD3MP8c8wxVlNoS0"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
+        "name": "Extinct but Still Alive",
+        "url": "https://open.spotify.com/album/14I6Gw5HhfOCyDE3Jo9qMu"
+      },
+      "artists": [
+        {
+          "name": "Mama Longhorn",
+          "url": "https://open.spotify.com/artist/52yqArRZhaFqgHfKw1dADh"
+        }
+      ],
+      "duration_ms": 366000,
+      "name": "Rowing High Rowing Low",
+      "url": "https://open.spotify.com/track/0aWLipAcgGmCqDD2pQsCUp"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
         "name": "Ferris Parade",
         "url": "https://open.spotify.com/album/3K0m77uugdjUASwQosIksy"
       },
@@ -897,22 +913,6 @@
       "url": "https://open.spotify.com/track/3VXnOLGKahjTbkiulsFjox"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Extinct but Still Alive",
-        "url": "https://open.spotify.com/album/14I6Gw5HhfOCyDE3Jo9qMu"
-      },
-      "artists": [
-        {
-          "name": "Mama Longhorn",
-          "url": "https://open.spotify.com/artist/52yqArRZhaFqgHfKw1dADh"
-        }
-      ],
-      "duration_ms": 366000,
-      "name": "Rowing High Rowing Low",
-      "url": "https://open.spotify.com/track/0aWLipAcgGmCqDD2pQsCUp"
-    },
-    {
       "added_at": "2024-03-13 03:47:45",
       "album": {
         "name": "Espuma de Mar ~ remixes",
@@ -931,26 +931,6 @@
       "duration_ms": 224064,
       "name": "Tac Tac Tac - Joaqu\u00edn Cornejo Remix",
       "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "REINTERPRETED WORKS VOL.2",
-        "url": "https://open.spotify.com/album/2cLuEbtQHTTVs5PSKvX6vv"
-      },
-      "artists": [
-        {
-          "name": "TAMIW",
-          "url": "https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l"
-        },
-        {
-          "name": "Cwondo",
-          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Kick Off - Cwondo Remix",
-      "url": "https://open.spotify.com/track/63RgD8yCcqNOdch68VVX35"
     },
     {
       "added_at": "2024-03-13 03:47:45",
@@ -973,20 +953,24 @@
       "url": "https://open.spotify.com/track/53efsv7kZof3mTNGTiuJ8F"
     },
     {
-      "added_at": "2024-01-24 03:58:32",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/6TuivlPWpQbbj5PZE2YF0J"
+        "name": "REINTERPRETED WORKS VOL.2",
+        "url": "https://open.spotify.com/album/2cLuEbtQHTTVs5PSKvX6vv"
       },
       "artists": [
         {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+          "name": "TAMIW",
+          "url": "https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l"
+        },
+        {
+          "name": "Cwondo",
+          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
         }
       ],
-      "duration_ms": 173525,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T"
+      "duration_ms": 140000,
+      "name": "Kick Off - Cwondo Remix",
+      "url": "https://open.spotify.com/track/63RgD8yCcqNOdch68VVX35"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1005,20 +989,20 @@
       "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
+      "added_at": "2024-01-24 03:58:32",
       "album": {
-        "name": "Decode",
-        "url": "https://open.spotify.com/album/5Oz3jQcdkQhGV7nDRITbr9"
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6TuivlPWpQbbj5PZE2YF0J"
       },
       "artists": [
         {
-          "name": "Mia Koden",
-          "url": "https://open.spotify.com/artist/7klmdoyDc4W8SnRhFDVcDY"
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
         }
       ],
-      "duration_ms": 256088,
-      "name": "10easy",
-      "url": "https://open.spotify.com/track/4tbc7xmFrymbMc7kYDLWrL"
+      "duration_ms": 173525,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2024-01-10 04:24:05",
       "album": {
-        "name": "Trances",
-        "url": "https://open.spotify.com/album/5RQrTRFazouqOiHMwCe8Rn"
+        "name": "Decode",
+        "url": "https://open.spotify.com/album/5Oz3jQcdkQhGV7nDRITbr9"
       },
       "artists": [
         {
-          "name": "Julia Reidy",
-          "url": "https://open.spotify.com/artist/1gf9bjTKL4LChr7JUuR1H7"
+          "name": "Mia Koden",
+          "url": "https://open.spotify.com/artist/7klmdoyDc4W8SnRhFDVcDY"
         }
       ],
-      "duration_ms": 517998,
-      "name": "I",
-      "url": "https://open.spotify.com/track/35gTDACxDcRebxunF5igw8"
+      "duration_ms": 256088,
+      "name": "10easy",
+      "url": "https://open.spotify.com/track/4tbc7xmFrymbMc7kYDLWrL"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -1083,6 +1067,22 @@
       "duration_ms": 199894,
       "name": "Echo Drift",
       "url": "https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Trances",
+        "url": "https://open.spotify.com/album/5RQrTRFazouqOiHMwCe8Rn"
+      },
+      "artists": [
+        {
+          "name": "Julia Reidy",
+          "url": "https://open.spotify.com/artist/1gf9bjTKL4LChr7JUuR1H7"
+        }
+      ],
+      "duration_ms": 517998,
+      "name": "I",
+      "url": "https://open.spotify.com/track/35gTDACxDcRebxunF5igw8"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
     },
     {
-      "added_at": "2024-01-10 04:07:01",
-      "album": {
-        "name": "QUANTA 1:11",
-        "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 396071,
-      "name": "EVER",
-      "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Mata Hari",
@@ -1231,6 +1215,22 @@
       "duration_ms": 227212,
       "name": "Mata Hari",
       "url": "https://open.spotify.com/track/3UBiQTyckIvc3l4VcwQsgf"
+    },
+    {
+      "added_at": "2024-01-10 04:07:01",
+      "album": {
+        "name": "QUANTA 1:11",
+        "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 396071,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1297,6 +1297,22 @@
       "url": "https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb"
     },
     {
+      "added_at": "2024-01-10 20:04:58",
+      "album": {
+        "name": "Anthem For Those Who Know",
+        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Anthem For Those Who Know",
+      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
+    },
+    {
       "added_at": "2023-07-19 01:03:01",
       "album": {
         "name": "RPG",
@@ -1329,22 +1345,6 @@
       "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
     },
     {
-      "added_at": "2024-01-10 20:04:58",
-      "album": {
-        "name": "Anthem For Those Who Know",
-        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Anthem For Those Who Know",
-      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
-    },
-    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "Hit With The Most",
@@ -1375,6 +1375,22 @@
       "duration_ms": 209722,
       "name": "Neo Blu",
       "url": "https://open.spotify.com/track/6kuH2iKoD1vIhTy7uoOC33"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "the REAL",
+        "url": "https://open.spotify.com/album/7tFgoX5GpCYo4EsApcsGsB"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "the REAL",
+      "url": "https://open.spotify.com/track/0dLylgjJzquDJ8Q3urbUZy"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1457,6 +1473,22 @@
       "url": "https://open.spotify.com/track/1VrZ1GXJ7ung4o9uLMnqzU"
     },
     {
+      "added_at": "2024-01-10 04:07:01",
+      "album": {
+        "name": "The Quanta Series",
+        "url": "https://open.spotify.com/album/4VEBWwVc7dIuWkOKe0dTK4"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 290430,
+      "name": "BINARY",
+      "url": "https://open.spotify.com/track/0RgdLC8jJiLywYJckMa5JP"
+    },
+    {
       "added_at": "2024-03-13 03:47:45",
       "album": {
         "name": "cyanotype memories (joe goddard remix)",
@@ -1495,46 +1527,6 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "the REAL",
-        "url": "https://open.spotify.com/album/7tFgoX5GpCYo4EsApcsGsB"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 258293,
-      "name": "the REAL",
-      "url": "https://open.spotify.com/track/0dLylgjJzquDJ8Q3urbUZy"
-    },
-    {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "\u00c9coute Au Loin",
-        "url": "https://open.spotify.com/album/0q9y44TMNzrIUylHjwCwrZ"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        },
-        {
-          "name": "Jeremiah Chiu",
-          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
-        },
-        {
-          "name": "Marta Sofia Honer",
-          "url": "https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv"
-        }
-      ],
-      "duration_ms": 362893,
-      "name": "\u00c9coute Au Loin",
-      "url": "https://open.spotify.com/track/0roPZdFgmpj7jFe7WstJBK"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
         "name": "\u3042\u306a\u305f\u306e\u9aa8\u304c\u3001\u30aa\u30d1\u30fc\u30eb\u306b\u304b\u308f\u308b\u9803",
         "url": "https://open.spotify.com/album/4tYdfajjjVCRxPWGZSnSOY"
       },
@@ -1563,6 +1555,22 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
+        "name": "KAPITA\u0141KA",
+        "url": "https://open.spotify.com/album/7oIE4EIPA8YWRCTlfC5uwP"
+      },
+      "artists": [
+        {
+          "name": "Lemta Toro",
+          "url": "https://open.spotify.com/artist/5zV6CMiyKoWIfV1f5nSpwf"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "KAPITA\u0141KA 7",
+      "url": "https://open.spotify.com/track/0WKspchMAunLRrhBUNgeX2"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
         "name": "Sincerely Yours",
         "url": "https://open.spotify.com/album/7mUWCFlr6u818MjQpx8qKh"
       },
@@ -1581,20 +1589,44 @@
       "url": "https://open.spotify.com/track/7vgV6b2LYHPhBPD9IlQ2Pg"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
+      "added_at": "2024-01-10 04:24:05",
       "album": {
-        "name": "KAPITA\u0141KA",
-        "url": "https://open.spotify.com/album/7oIE4EIPA8YWRCTlfC5uwP"
+        "name": "\u00c9coute Au Loin",
+        "url": "https://open.spotify.com/album/0q9y44TMNzrIUylHjwCwrZ"
       },
       "artists": [
         {
-          "name": "Lemta Toro",
-          "url": "https://open.spotify.com/artist/5zV6CMiyKoWIfV1f5nSpwf"
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        },
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        },
+        {
+          "name": "Marta Sofia Honer",
+          "url": "https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv"
         }
       ],
-      "duration_ms": 192000,
-      "name": "KAPITA\u0141KA 7",
-      "url": "https://open.spotify.com/track/0WKspchMAunLRrhBUNgeX2"
+      "duration_ms": 362893,
+      "name": "\u00c9coute Au Loin",
+      "url": "https://open.spotify.com/track/0roPZdFgmpj7jFe7WstJBK"
+    },
+    {
+      "added_at": "2023-08-23 14:01:12",
+      "album": {
+        "name": "Pt. I",
+        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 220819,
+      "name": "Couversets",
+      "url": "https://open.spotify.com/track/406Z9mgMQDId0lMSUoPKxG"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1641,22 +1673,6 @@
       "url": "https://open.spotify.com/track/5ewo7wEAO7K9DCFfo8CAow"
     },
     {
-      "added_at": "2024-01-10 04:07:01",
-      "album": {
-        "name": "The Quanta Series",
-        "url": "https://open.spotify.com/album/4VEBWwVc7dIuWkOKe0dTK4"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 290430,
-      "name": "BINARY",
-      "url": "https://open.spotify.com/track/0RgdLC8jJiLywYJckMa5JP"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "EXHALATION Vol.2 - The Lifecycle of Software Objects",
@@ -1673,20 +1689,20 @@
       "url": "https://open.spotify.com/track/1ijy62PDVeq0rVya0kZPo4"
     },
     {
-      "added_at": "2023-08-23 14:01:12",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Pt. I",
-        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
+        "name": "THE WOMB",
+        "url": "https://open.spotify.com/album/68o9iKlX6o24YpHQFGuen1"
       },
       "artists": [
         {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+          "name": "DJ Girl",
+          "url": "https://open.spotify.com/artist/1DONuOPYFilfKkB5rpBkfe"
         }
       ],
-      "duration_ms": 220819,
-      "name": "Couversets",
-      "url": "https://open.spotify.com/track/406Z9mgMQDId0lMSUoPKxG"
+      "duration_ms": 324000,
+      "name": "WALKING UP THE STAIRS",
+      "url": "https://open.spotify.com/track/18GY5oS2eZBHm5wokBnBMX"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1703,22 +1719,6 @@
       "duration_ms": 342146,
       "name": "Breath",
       "url": "https://open.spotify.com/track/6GNDrXNj0AZWu3SwN2GOVj"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "THE WOMB",
-        "url": "https://open.spotify.com/album/68o9iKlX6o24YpHQFGuen1"
-      },
-      "artists": [
-        {
-          "name": "DJ Girl",
-          "url": "https://open.spotify.com/artist/1DONuOPYFilfKkB5rpBkfe"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "WALKING UP THE STAIRS",
-      "url": "https://open.spotify.com/track/18GY5oS2eZBHm5wokBnBMX"
     },
     {
       "added_at": "2024-03-06 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Kim Namjoo \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,112 likes - 57 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,108 likes - 57 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 19 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 |
 | 20 | [Cupid](https://open.spotify.com/track/36ylDwMUz1EqrdbfBF8vC7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 2:54 |
 | 21 | [Panorama](https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [One\-reeler / Act IV](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) | 3:42 |
-| 22 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 |
+| 22 | [What is Love](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 |
 | 23 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
 | 24 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 |
 | 25 | [BBoom BBoom](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [GREAT!](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) | 3:28 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 28 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 |
 | 29 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
 | 30 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
-| 31 | [What is Love](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 |
+| 31 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 |
 | 32 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 |
 | 33 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 |
 | 34 | [FIESTA](https://open.spotify.com/track/6Ihdn6wW2UBhfTKWbP29KA) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:37 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 56 | [Power Up](https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:22 |
 | 57 | [NAVILLERA](https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 1st Album 'LOL'](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) | 3:13 |
 
-Snapshot ID: `MCwxMDI0OTY4YmY4MTY1YjBhZTQyNDEwZjQ2NzNkMDVlMzMxNzFjNmUy`
+Snapshot ID: `MCxlMzAyMzI2ZTI3YTFhNWU5M2I3MzU0ZWFlZThjZWQzOTVhMzQ2MGUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 
 > 在KTV里，这些都是必点必唱的华语K歌。你准备好了吗？
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,396 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,410 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 | 28 | [十年](https://open.spotify.com/track/25pWemriUQVrZ3yIiS2IBf) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [黑·白·灰](https://open.spotify.com/album/0zMV4uDNTSQAiphN3cVzQ0) | 3:25 |
 | 29 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 |
 | 30 | [晴天](https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla) | 4:29 |
-| 31 | [演員](https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 4:21 |
-| 32 | [飞鸟和蝉](https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT) | 4:56 |
-| 33 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 |
+| 31 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 |
+| 32 | [演員](https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 4:21 |
+| 33 | [飞鸟和蝉](https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT) | 4:56 |
 | 34 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |
 | 35 | [孤勇者 \- 《英雄聯盟:雙城之戰》動畫劇集中文主題曲](https://open.spotify.com/track/6akVETVeqqPVvuBS5e0EB1) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [孤勇者 \(《英雄聯盟:雙城之戰》動畫劇集中文主題曲\)](https://open.spotify.com/album/5AXZCa9l5fESG0jLuaOchp) | 4:16 |
 | 36 | [如果雨之後](https://open.spotify.com/track/6kabSi7XCHHGThNme6J2tL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 | 49 | [我們的愛](https://open.spotify.com/track/0Q4YuuiCuxIIKUw2fb1cmV) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [飛兒樂團](https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ) | 4:47 |
 | 50 | [再見](https://open.spotify.com/track/5UAGQJmL7Rn4gn7wlkMyqS) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [新的心跳](https://open.spotify.com/album/1tEl9cDFkTKGmaRpZLB7zW) | 3:26 |
 
-Snapshot ID: `MCw3N2I2MjQ0ZTViMDU2NDNlODJjMTQ5ZDc4NTdkYjM2MjRmYTZmZTAw`
+Snapshot ID: `MCw1YjJjNjdlNDgzYjM1Yjk3ZjU3NDQ0MTg5MTBmYjUwZjliNWNhMDY0`

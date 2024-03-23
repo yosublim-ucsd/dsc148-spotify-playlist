@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 ### [OPM Favorites](https://open.spotify.com/playlist/37i9dQZF1DX4olOMiqFeqU)
 
-> 100% Pinoy hits from your favorite artists! Cover: SUD
+> 100% Pinoy hits from your favorite artists! Cover: KZ Tandingan
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,414,168 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,414,740 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 8 | [Kisame](https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [Kisame](https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe) | 3:32 |
 | 9 | [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 |
 | 10 | [Ikaw Lang](https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx) | 4:23 |
-| 11 | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD) | 4:01 |
-| 12 | [Hanggang Kailan \- Umuwi Ka Na Baby](https://open.spotify.com/track/69u8qQcaA3o0A7Ko87juqp) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Strike Whilst the Iron Is Hot](https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl) | 4:21 |
+| 11 | [Hanggang Kailan \- Umuwi Ka Na Baby](https://open.spotify.com/track/69u8qQcaA3o0A7Ko87juqp) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Strike Whilst the Iron Is Hot](https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl) | 4:21 |
+| 12 | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD) | 4:01 |
 | 13 | [Isa lang](https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Isa lang](https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF) | 4:29 |
 | 14 | [Give Me Your Forever](https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 |
 | 15 | [Kathang Isip](https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Kathang Isip](https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L) | 5:18 |
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 19 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 |
 | 20 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 |
 | 21 | [Higa](https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF) | 4:05 |
-| 22 | [Leaves](https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Leaves](https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y) | 5:10 |
+| 22 | [Ikaw Lamang](https://open.spotify.com/track/0bhzB5PBUVqZSux5Y7t5ED) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Fuchsiang Pag\-Ibig](https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3) | 5:06 |
 | 23 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 |
 | 24 | [Kung Wala Ka](https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk) | 4:02 |
-| 25 | [Ikaw Lamang](https://open.spotify.com/track/0bhzB5PBUVqZSux5Y7t5ED) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Fuchsiang Pag\-Ibig](https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3) | 5:06 |
+| 25 | [Leaves](https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Leaves](https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y) | 5:10 |
 | 26 | [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 |
 | 27 | [Your Song](https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f) | 2:48 |
 | 28 | [Same Ground](https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Kitchie Nadal](https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk) | 4:27 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 37 | [Gusto](https://open.spotify.com/track/0uemlnPoeZOYIDaMFZ7lvi) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [3rd Time’s A Charm](https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3) | 4:20 |
 | 38 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
 | 39 | [Nobela](https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC) | [Join The Club](https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT) | [Nobela](https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV) | 4:51 |
-| 40 | [Pauwi Nako](https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU), [Bullet D](https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Pauwi Nako](https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh) | 5:41 |
-| 41 | [Pasensya Ka Na](https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn) | 4:01 |
+| 40 | [Pasensya Ka Na](https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn) | 4:01 |
+| 41 | [Pauwi Nako](https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU), [Bullet D](https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Pauwi Nako](https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh) | 5:41 |
 | 42 | [Beer](https://open.spotify.com/track/20gchtRYM7bFiOjYKQB8zZ) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Noon Time Show](https://open.spotify.com/album/7jEJsX7LeqOxDF9oIcqE5H) | 6:04 |
 | 43 | [214](https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB) | [Rivermaya](https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI) | [Greatest Hits](https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1) | 4:33 |
 | 44 | [Unang Sayaw](https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Unang Sayaw](https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk) | 4:38 |
-| 45 | [Titig](https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci) | [MC Einstein](https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Jekkpot](https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Titig](https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W) | 4:19 |
+| 45 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 |
 | 46 | [Sa'yo](https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Monodramatic](https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib) | 4:13 |
-| 47 | [Nadarang](https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Materyal](https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx) | 3:54 |
-| 48 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 |
+| 47 | [Titig](https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci) | [MC Einstein](https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Jekkpot](https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Titig](https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W) | 4:19 |
+| 48 | [Nadarang](https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Materyal](https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx) | 3:54 |
 | 49 | [Buwan](https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Buwan](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1) | 5:43 |
 | 50 | [Tell Me Where It Hurts](https://open.spotify.com/track/4v8P0GLVWoFojZJgecPGcm) | [MYMP](https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY) | [Beyond Acoustic](https://open.spotify.com/album/5eMocdxlmX2odxGITRmIGZ) | 4:13 |
 
-Snapshot ID: `MCxlOGI0ZWRkOGQ0NDc4NjQ1MDYwNDUyNjkwYzAxNmU5NTBkMmUxODI4`
+Snapshot ID: `MCxhZTc3ZDQxMjQ4OWNmODcyZTU3NWVjYjJjYmY4ZTBlYWFmNGYyYjQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYDb02ni3BM.md) - [plain]
 
 > Las divas del pop latino de ayer y hoy\. Foto: Alejandra Guzmán
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,569 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,616 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYDb02ni3BM.md) - [plain]
 | 44 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 |
 | 45 | [El Recuento de los Daños](https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:55 |
 | 46 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
-| 47 | [Amantes](https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Amantes](https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi) | 3:55 |
-| 48 | [Sin Pijama](https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:10 |
+| 47 | [Sin Pijama](https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:10 |
+| 48 | [Amantes](https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Amantes](https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi) | 3:55 |
 | 49 | [Ay, DiOs Mío!](https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:09 |
 | 50 | [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 |
 
-Snapshot ID: `MCw1MmI0MDQ1Y2NmODA5N2QxNjFjYTBmYmJhMmExOGQ0NTdlNDM2OWQ3`
+Snapshot ID: `MCwyZmFhNjQ0M2ZlOGQzMDE0YTZhNGQ1YTVlYjRjNDQ2NTI0OGQ4OWYy`

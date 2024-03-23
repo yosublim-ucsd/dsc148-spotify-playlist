@@ -4,7 +4,7 @@
 
 > This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-106 songs - 8 hr 1 min
+107 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,11 +20,12 @@
 | [CLEAR](https://open.spotify.com/track/1dmxpZEJUyxglqyuo3DqGh) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [CLEAR](https://open.spotify.com/album/0YbibgkIYu30V8Zz0pEJNd) | 4:15 | 2022-08-10 |  |
 | [CLEAR ～TVサイズ～](https://open.spotify.com/track/1RCEEjexdySvwstGnBEVJs) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「カードキャプターさくら クリアカード編」オリジナルサウンドトラック](https://open.spotify.com/album/6U04R6FklDZ45KsVchJWMM) | 1:32 | 2023-06-04 |  |
 | [cloud 9](https://open.spotify.com/track/2qGC7Kxul7KDS8Mi8u59B6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 5:00 | 2022-08-10 |  |
-| [discord](https://open.spotify.com/track/1TJsSCtejwPzbhXM9IyZrL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:01 | 2023-06-01 |  |
+| [discord](https://open.spotify.com/track/1TJsSCtejwPzbhXM9IyZrL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:01 | 2023-06-01 | 2024-03-23 |
 | [DOWN TOWN](https://open.spotify.com/track/3ji08HySZKJUAPYTOeeBpC) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [You can't catch me](https://open.spotify.com/album/4CoGD8RFY0lhSXNxzKT8gr) | 3:55 | 2022-08-11 |  |
 | [Duet! feat\. 和田弘樹](https://open.spotify.com/track/1rwzyBNALfHD2uxLmpnTRI) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [和田弘樹](https://open.spotify.com/artist/3ISeKqB65XZIfHAR9gtLv2) | [Duets](https://open.spotify.com/album/1ne4G4bXK0eiLTUpbsb9xU) | 4:28 | 2022-12-29 | 2023-04-28 |
 | [FOLLOW ME](https://open.spotify.com/track/6q49z2CInohThqhW5UAXa6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:08 | 2022-08-10 | 2022-10-15 |
 | [Gift](https://open.spotify.com/track/1aBaRD0eeJ3nPI2isigrWO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション プラス 「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 5:48 | 2022-08-10 | 2022-12-20 |
+| [gravity](https://open.spotify.com/track/5edgQN3CMyQOgPy4SML46l) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [WOLF'S RAIN](https://open.spotify.com/album/6x1nU2XGUsJKANdgJ4W1Q9) | 3:23 | 2024-03-22 |  |
 | [Gyakko \-unplugged session\-](https://open.spotify.com/track/2suN1RxO4zbJHQnGAjNjHU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Dokuhaku \- Yakudo / FGO Disc](https://open.spotify.com/album/7yyduDmSkZ0ZTNjUOs9JoH) | 5:43 | 2022-08-11 | 2023-10-11 |
 | [Hidden Notes](https://open.spotify.com/track/6gfY8im5MigHx4Okp0YzRU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 4:39 | 2022-11-29 | 2023-08-09 |
 | [Mada Tooku ni Iru](https://open.spotify.com/track/1jyGzTc5hANtXv3cYhBxbp) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [WOWOW Original Animation "The Fire Hunter" Ending Theme Song / TV Animation "REVENGER" Ending Theme Song Mada Tooku ni Iru / un\_mute](https://open.spotify.com/album/4N1Iw4L0uoPVrjNl3GfZPn) | 5:14 | 2023-03-22 | 2023-04-06 |

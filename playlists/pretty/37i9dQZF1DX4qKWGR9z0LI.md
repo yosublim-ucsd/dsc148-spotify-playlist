@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Lo último y lo mejor de la salsa\. Cover: Christian Alicea
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,811,878 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,811,894 likes - 100 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 48 | [Pa'lla Voy](https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh) | 4:06 |
 | 49 | [Te Propongo](https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ) | [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv) | [Al Duro](https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U) | 4:37 |
 | 50 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 |
-| 51 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
-| 52 | [Incomprendido](https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Incomprendido](https://open.spotify.com/album/1QquGCJr1NtfXM1quq6qAw) | 2:59 |
-| 53 | [MAFIOSA](https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MAFIOSA](https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH) | 4:26 |
-| 54 | [En Otra Cama](https://open.spotify.com/track/22k8A4wCNKyfpLfzxnL3lo) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [En Otra Cama](https://open.spotify.com/album/7vUdOpuX16e2IW7L2vc9H2) | 3:47 |
+| 51 | [En Otra Cama](https://open.spotify.com/track/22k8A4wCNKyfpLfzxnL3lo) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [En Otra Cama](https://open.spotify.com/album/7vUdOpuX16e2IW7L2vc9H2) | 3:47 |
+| 52 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
+| 53 | [Incomprendido](https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Incomprendido](https://open.spotify.com/album/1QquGCJr1NtfXM1quq6qAw) | 2:59 |
+| 54 | [MAFIOSA](https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MAFIOSA](https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH) | 4:26 |
 | 55 | [Rebelión](https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Grandes Exitos](https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51) | 4:47 |
 | 56 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 |
 | 57 | [Cambio de Piel](https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:39 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 89 | [Bochinchero](https://open.spotify.com/track/5ju2uIITK3ZXXhF9e074iG) | [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Bochinchero](https://open.spotify.com/album/4QUSOz0vAbOGRAFAduJ6GY) | 3:19 |
 | 90 | [Tu No Sabes Querer](https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Oro Salsero](https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS) | 6:24 |
 | 91 | [Los Campeones De La Salsa](https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Pa'lante](https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3) | 4:18 |
-| 92 | [Viene Y Se Va](https://open.spotify.com/track/4aVRKf9Dp3e6VQEcAx7euZ) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Baila Salsa](https://open.spotify.com/album/7H6mPRCBIMuKn7FirF8Alk) | 4:09 |
-| 93 | [Agua Que Va Caer](https://open.spotify.com/track/4fZrgC2yPod6nIUvxPJ5aC) | [Tromboranga](https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP) | [Tromboranga](https://open.spotify.com/album/73edLPjbItIG3qulH8etvP) | 4:43 |
-| 94 | [La Vamo a Tumbar](https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6) | 5:35 |
-| 95 | [Siempre Sere](https://open.spotify.com/track/0ViQHcFsGyynn92NTscTIN) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [MP 10th Anniversary](https://open.spotify.com/album/4PLj1LIHYKLMeVfWW0ukJX) | 5:21 |
-| 96 | [Corazón Roto](https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Corazón Roto](https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A) | 3:28 |
-| 97 | [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 |
-| 98 | [Sincero \(Salsa\)](https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:05 |
-| 99 | [Maria Teresa y Danilo](https://open.spotify.com/track/1IwIFav8Pfr5oijgcRQ7O9) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [10 De Colección](https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH) | 4:46 |
-| 100 | [No Vale La Pena](https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [Salsa Legends](https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT) | 5:58 |
+| 92 | [Agua Que Va Caer](https://open.spotify.com/track/4fZrgC2yPod6nIUvxPJ5aC) | [Tromboranga](https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP) | [Tromboranga](https://open.spotify.com/album/73edLPjbItIG3qulH8etvP) | 4:43 |
+| 93 | [La Vamo a Tumbar](https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6) | 5:35 |
+| 94 | [Siempre Sere](https://open.spotify.com/track/0ViQHcFsGyynn92NTscTIN) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [MP 10th Anniversary](https://open.spotify.com/album/4PLj1LIHYKLMeVfWW0ukJX) | 5:21 |
+| 95 | [Corazón Roto](https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Corazón Roto](https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A) | 3:28 |
+| 96 | [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 |
+| 97 | [Sincero \(Salsa\)](https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:05 |
+| 98 | [Maria Teresa y Danilo](https://open.spotify.com/track/1IwIFav8Pfr5oijgcRQ7O9) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [10 De Colección](https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH) | 4:46 |
+| 99 | [No Vale La Pena](https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [Salsa Legends](https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT) | 5:58 |
+| 100 | [Tú Me Vuelves Loco](https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 4:58 |
 
-Snapshot ID: `MCw3ZGRhZDkwMmRjNTYwNDQ0ODAxYzljYTc5OTI1NTNhZDU1MTdkMWNi`
+Snapshot ID: `MCwyNWVlMzdlNDE2NGRhNDNmM2NjNmMyNzM0Y2ExNzFlZmE0MzA0NjQ1`

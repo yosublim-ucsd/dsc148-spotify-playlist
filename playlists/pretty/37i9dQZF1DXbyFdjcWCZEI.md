@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 
 > Viento en la cara, pies en el agua y canciones tranqui para disfrutar del paseo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 427 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 | 18 | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q) | 2:58 |
 | 19 | [Acapulco](https://open.spotify.com/track/3FvQlLlke7bl8phCe1LJgy) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Acapulco](https://open.spotify.com/album/66TzEKIam5WkxScrvzgYBm) | 3:57 |
 | 20 | [Canción de Amor](https://open.spotify.com/track/3o0XX8BPjhtt1w9rOXhmyN) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Azules Turquesas](https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd) | 3:03 |
-| 21 | [El Farolito \(Acústico\)](https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 5:02 |
-| 22 | [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 |
+| 21 | [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 |
+| 22 | [El Farolito \(Acústico\)](https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 5:02 |
 | 23 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Los Días en la Sala](https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45) | 2:43 |
 | 24 | [Desaprender](https://open.spotify.com/track/5CGzoPhT2u7P1yHge1f4iJ) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Mundo Debajo del Mundo](https://open.spotify.com/album/5p3JWd7zmX6D1UQdtPtveJ) | 2:56 |
 | 25 | [A Primera Vista](https://open.spotify.com/track/0vLTOf24syMlJDuaWZfihc) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Mil Noches y un Instante](https://open.spotify.com/album/1kt07hQEw33OnXo80aFMgu) | 3:28 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 | 37 | [Soltar](https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Puñal](https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI) | 3:38 |
 | 38 | [Besos, Limón y Miel](https://open.spotify.com/track/1HKQJgGPPmRYUjMiLyV3Uo) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [Besos, Limón y Miel](https://open.spotify.com/album/7yp09zLBnvbOMaC41E3McT) | 3:47 |
 | 39 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
-| 40 | [Pa La Playita](https://open.spotify.com/track/4kAL6Cp1rKIQjZ6iGUpanE) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Pa La Playita](https://open.spotify.com/album/1bDDpIDQCKSB9J46d5fpcP) | 3:16 |
-| 41 | [Nunca Quise](https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Animal](https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg) | 3:16 |
+| 40 | [Nunca Quise](https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Animal](https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg) | 3:16 |
+| 41 | [Pa La Playita](https://open.spotify.com/track/4kAL6Cp1rKIQjZ6iGUpanE) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Pa La Playita](https://open.spotify.com/album/1bDDpIDQCKSB9J46d5fpcP) | 3:16 |
 | 42 | [yen3](https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [yen3](https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy) | 3:06 |
 | 43 | [Mujer Amante \(versión acústica\)](https://open.spotify.com/track/6D1Theo7lCIUYI8SPtwdN2) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [XX Aniversario En Vivo \- Magos, Espadas Y Rosas](https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE) | 6:52 |
 | 44 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 | 49 | [Mírenla \(Acústico\)](https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 4:25 |
 | 50 | [Nuevo mundo \(feat\. Juancho Marqués\)](https://open.spotify.com/track/4hklliK34BQpPNsoag1JmL) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g) | [Nuevo mundo \(feat\. Juancho Marqués\)](https://open.spotify.com/album/7vDANBArJLs5XXsgMoYnvC) | 3:20 |
 
-Snapshot ID: `MCw0ZDdjZWIyYzM0OTBiZjhkYTUxOWI2NTAzN2ExMTdkZGE5NmM4MWM3`
+Snapshot ID: `MCxjZTc4NzhiNDMzNzk4MDg3NDUwOWY0ZjI2OWUyZjgzM2NmZmFiN2Yz`

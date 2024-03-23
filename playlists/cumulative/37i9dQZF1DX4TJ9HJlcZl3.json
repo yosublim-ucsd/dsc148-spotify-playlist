@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Peach Optimo",
+        "url": "https://open.spotify.com/album/3Thk2OpOq4xLIg3Qmetarj"
+      },
+      "artists": [
+        {
+          "name": "Brainstory",
+          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170819,
+      "name": "Peach Optimo",
+      "url": "https://open.spotify.com/track/3RNLKLJyNYLh9t6ojhxN7B"
+    },
+    {
+      "album": {
         "name": "Pictures of You",
         "url": "https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP"
       },
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 240306,
       "name": "What Ever It May Be",
       "url": "https://open.spotify.com/track/7rj18BeidDwvzWAbQgbffM"

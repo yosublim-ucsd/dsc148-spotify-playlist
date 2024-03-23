@@ -2,9 +2,9 @@
 
 ### [Crema Pop](https://open.spotify.com/playlist/37i9dQZF1DX3leseePdLQO)
 
-> Pop para refrescarte los días, featuring Paty B.
+> Pop para refrescarte los días, featuring Shakira & Cardi B.
 
-183 songs - 9 hr 15 min
+185 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Ajedrez](https://open.spotify.com/track/502C76In6ki3rUo47QP6pA) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ajedrez](https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4) | 3:28 | 2023-04-04 |  |
 | [Alguien Más](https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Alguien Más](https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj) | 2:25 | 2023-04-28 |  |
 | [Alguien Más](https://open.spotify.com/track/2KmMR2NuY9gjDdVXSyUJ9m) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Alguien Más](https://open.spotify.com/album/5sOAl2yXC33MCabAevDQqP) | 2:12 | 2023-08-25 |  |
-| [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/2VhwmatY3oeJI5IOjeIUmr) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [La cuarta hoja \(Extended Version\)](https://open.spotify.com/album/3nYJDr8s1Jyw4YeZRcScQc) | 3:53 | 2023-04-06 |  |
+| [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/2VhwmatY3oeJI5IOjeIUmr) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [La cuarta hoja \(Extended Version\)](https://open.spotify.com/album/3nYJDr8s1Jyw4YeZRcScQc) | 3:53 | 2023-04-06 | 2024-03-23 |
 | [Animal distinto](https://open.spotify.com/track/5cb0fWDLdfBcUcYrKGIfQd) | [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [El Príncipe](https://open.spotify.com/album/5XTsSX2OrLqIJHnvkHI3FE) | 3:19 | 2023-08-04 | 2023-08-26 |
 | [Att: Amor](https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 2:13 | 2023-04-04 |  |
 | [BAILÉ CON MI EX](https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:41 | 2023-04-04 |  |
@@ -74,7 +74,7 @@
 | [Fantasi](https://open.spotify.com/track/0r2PZjzpfFne09oljJZEU8) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:38 | 2023-04-04 | 2024-02-24 |
 | [Fase De Patán](https://open.spotify.com/track/6zcJSq4x31DHjwIWUzGyjs) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Fase de Patán](https://open.spotify.com/album/1sD67oWrgWt8HTZFDObkbW) | 2:24 | 2023-08-18 | 2023-09-05 |
 | [Flores](https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Flores](https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS) | 3:34 | 2023-04-04 |  |
-| [flores](https://open.spotify.com/track/0hhPjc9JW9AFSrB58erX5X) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [flores](https://open.spotify.com/album/2XugIhX8RmpvL64PR2UMq8) | 1:22 | 2024-03-08 |  |
+| [flores](https://open.spotify.com/track/0hhPjc9JW9AFSrB58erX5X) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [flores](https://open.spotify.com/album/2XugIhX8RmpvL64PR2UMq8) | 1:22 | 2024-03-08 | 2024-03-23 |
 | [Formentera](https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Formentera](https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH) | 3:27 | 2023-04-04 |  |
 | [Fotos](https://open.spotify.com/track/0G57kedn6wvWx5CHefeJdu) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Piscis](https://open.spotify.com/album/2VjNyPPi9RWrA16YibDJi6) | 3:10 | 2023-08-04 | 2023-08-23 |
 | [Gringuita](https://open.spotify.com/track/70tGXVBJJggvYRgnDabwlb) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Gringuita](https://open.spotify.com/album/3yoLKFEw3Ukn9l9np8JCrV) | 2:40 | 2023-10-27 | 2023-11-25 |
@@ -140,6 +140,7 @@
 | [plan](https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [ser humano](https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx) | 3:19 | 2023-04-14 | 2023-04-22 |
 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 | 2023-04-04 |  |
 | [Por Dentro](https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Por Dentro](https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4) | 2:45 | 2023-11-24 |  |
+| [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 | 2024-03-22 |  |
 | [Puntos Equidistantes](https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Puntos Equidistantes](https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D) | 3:47 | 2023-12-01 |  |
 | [QQ \(Quédate Queriéndome\)](https://open.spotify.com/track/1bfadCF5HF3n4smcCsn0gw) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [QQ \(Quédate Queriéndome\)](https://open.spotify.com/album/2U1egz9adJ9CUUl58WITwJ) | 3:20 | 2024-03-01 |  |
 | [Que me quiera](https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:34 | 2023-06-23 |  |
@@ -169,6 +170,7 @@
 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 | 2023-12-01 |  |
 | [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 | 2023-12-15 |  |
 | [tqum](https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [tqum](https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC) | 2:29 | 2023-05-26 | 2023-11-04 |
+| [tranqui :\)](https://open.spotify.com/track/2GtWJcQzvEHzCCDCEZvBNU) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [tranqui :\)](https://open.spotify.com/album/5auK8EKG7WsH2ciKzIQ5tB) | 2:41 | 2024-03-22 |  |
 | [Triste \(Arial 1\)](https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Triste \(Arial 1\)](https://open.spotify.com/album/6MfUhAGiZ9FizmSn0F8KQj) | 2:57 | 2024-02-02 |  |
 | [Tu Mundo](https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Tu Mundo](https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6) | 3:54 | 2023-04-04 | 2023-04-30 |
 | [TU VALOR](https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:00 | 2023-04-04 | 2024-02-24 |

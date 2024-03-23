@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 
 > remember when we were dark and brooding\. Cover: CHVRCHES
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,933 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,948 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 | 49 | [Antichrist](https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:20 |
 | 50 | [Girls Your Age](https://open.spotify.com/track/3wchQBokK9IDtoYrw14gpK) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Transviolet](https://open.spotify.com/album/6nlhWBxBwgtwH80zCK8djC) | 3:28 |
 
-Snapshot ID: `MCwzYTAwNzEwOWRmMWY0ZWJlOWE5YzIyMjM2NjNiNjYxYzk4NDg2NWFk`
+Snapshot ID: `MCxiMzg3NzkxOWU5MjMwZTUxM2FiMGQ2ZGU2MjI5NDc5NWQxMTE0NTJl`

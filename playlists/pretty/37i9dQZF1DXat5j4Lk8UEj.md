@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,941 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,946 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 68 | [Into The Mystery](https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF) | 3:54 |
 | 69 | [Spirit Cold](https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:38 |
 | 70 | [Running Home to You](https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5) | [Bee Caves](https://open.spotify.com/artist/28rNZfNFHhZt6yYOmUzYVK) | [Animals With Religion](https://open.spotify.com/album/1tgxoOZbeY2AlmqFOmdImr) | 3:55 |
-| 71 | [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 |
-| 72 | [Bad Moves](https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bad Moves](https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy) | 4:06 |
+| 71 | [Bad Moves](https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bad Moves](https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy) | 4:06 |
+| 72 | [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 |
 | 73 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 |
 | 74 | [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 |
 | 75 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 99 | [Gamble for a Rose](https://open.spotify.com/track/2zqSMjsmbqtm80YwQaPgmY) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Gamble for a Rose](https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA) | 4:30 |
 | 100 | [Hear It Again](https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 3:53 |
 
-Snapshot ID: `MCxhNGQ1ODkxODVlMTc5ZDU5MzdjZjgxMzc2ZTI2N2VmYzhhOTBmNTFk`
+Snapshot ID: `MCxjZTc2YmEwMDQwYzY1N2I4NDNiM2U5Yzc1MGIxOTVmMjlkMTI5ZjZl`

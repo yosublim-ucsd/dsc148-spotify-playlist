@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXn51Tv3nWo.md) - [plain]
 
 > There are some new trolls on the block\. Rock your body to the music from Trolls, including Trolls Band Together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,379 likes - 89 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,754 likes - 89 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXn51Tv3nWo.md) - [plain]
 | 27 | [It's All Love](https://open.spotify.com/track/62xFtXfi1MpX9Mqyv4rZzl) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:35 |
 | 28 | [One More Time](https://open.spotify.com/track/5O0aq4KMFEariO9hGQze7M) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 2:42 |
 | 29 | [Hair Up](https://open.spotify.com/track/2986J0T5CGwJGY3aqgANtE) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Ron Funches](https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 2:58 |
-| 30 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 |
+| 30 | [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 |
 | 31 | [Atomic Dog World Tour Remix](https://open.spotify.com/track/5t6N3Gn8oJf3GZliOjv3Yd) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 4:17 |
 | 32 | [Tiny's Journey](https://open.spotify.com/track/1eiT2gfjD3Yv3mjqj2sM8v) | [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS Holiday In Harmony](https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT) | 1:19 |
 | 33 | [I'm Coming Out \- Original CHIC Mix](https://open.spotify.com/track/1HoZjhl0cjWU3MfUMCc8cl) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 6:00 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXn51Tv3nWo.md) - [plain]
 | 88 | [The Winners](https://open.spotify.com/track/6PlS2xYXVatiJ1sQzG854u) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:22 |
 | 89 | [Forgive Me \- Remix](https://open.spotify.com/track/4rm2TLgVLa9zPgTbLcDNW0) | [Branch](https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:22 |
 
-Snapshot ID: `MCwxOWQ0ODRiOTE0MzA0MzFkNzNkM2Y4ODJiN2QwMTcxOTE5Yjc0YWIw`
+Snapshot ID: `MCwxZjgxMTY1N2E5ZDNmY2M2NmM2YmJhMGQ1YWI2ODhiNWY2MmM5MGZl`

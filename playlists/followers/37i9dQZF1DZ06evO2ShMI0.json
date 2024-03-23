@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 185937,
+  "2024-03-23": 185984,
   "date_first_scraped": "2022-10-27",
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
   "name": "This Is Los Enanitos Verdes",
@@ -787,7 +787,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 272573,
       "name": "No Me Veras / Metro Balderas - Medley",
       "url": "https://open.spotify.com/track/0YxvtPIo6QQsdIX801mFNV"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 242413,
       "name": "Tu Carcel - En Vivo",
       "url": "https://open.spotify.com/track/1lAFWiaVhJhvQ5Gtzp6vSu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKdpN2FAbcN.md) - [plain]
 
 > When you're thinking of the one who gives you the butterflies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,668 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,014 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKdpN2FAbcN.md) - [plain]
 | 40 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 |
 | 41 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 |
 | 42 | [Line Without a Hook](https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky](https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3) | 4:09 |
-| 43 | [this is what falling in love feels like](https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:00 |
-| 44 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 |
+| 43 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 |
+| 44 | [this is what falling in love feels like](https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:00 |
 | 45 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 46 | [Paper Rings](https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:42 |
 | 47 | [Can I Call You Tonight?](https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:38 |
-| 48 | [Take A Chance With Me](https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 5:03 |
-| 49 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 |
+| 48 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 |
+| 49 | [Take A Chance With Me](https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 5:03 |
 | 50 | [Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:29 |
 | 51 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 |
 | 52 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKdpN2FAbcN.md) - [plain]
 | 60 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 |
 | 61 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 |
 | 62 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 |
-| 63 | [Make You Mine](https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Make You Mine](https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214) | 3:52 |
-| 64 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
+| 63 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
+| 64 | [Make You Mine](https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Make You Mine](https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214) | 3:52 |
 | 65 | [Still Beating](https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:01 |
 | 66 | [Home \(2019 Remaster\)](https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \- 10th Anniversary Edition](https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd) | 5:06 |
 | 67 | [One Thing](https://open.spotify.com/track/5G2c6FsfTzgYUzageCmfXY) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Up All Night](https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKdpN2FAbcN.md) - [plain]
 | 74 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 |
 | 75 | [I'm In Love With You](https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 4:22 |
 
-Snapshot ID: `MCwxYjE5NWFkYmJlNTIwNDRjMmI2ZTk0MzAyZDRmYzI1NDExNTEwMDlh`
+Snapshot ID: `MCw2YjY1Nzc4NGRjNzY4ZTQ1MzE5MzYyZGU1NWIxZDRhMDA1MTgwNWE5`

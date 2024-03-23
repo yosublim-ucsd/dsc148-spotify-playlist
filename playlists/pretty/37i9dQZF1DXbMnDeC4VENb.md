@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,236 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,290 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 47 | [Si Tú Te Vas](https://open.spotify.com/track/2l6emeZ5kkLNTKwWVwmvnz) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Si Tú Te Vas](https://open.spotify.com/album/7cWtDxlsNhuIg4JLYJDVjV) | 3:29 |
 | 48 | [Sirena](https://open.spotify.com/track/5jeWGw9WMX68R8hNqdriOv) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Sirena](https://open.spotify.com/album/0dTFJm1H9hKxR6RUPiflhS) | 3:51 |
 | 49 | [Algo más](https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [TODO](https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W) | 3:12 |
-| 50 | [Volvernos a Amar](https://open.spotify.com/track/1gtYYvvXluyVxS6HNXefco) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Volvernos a Amar](https://open.spotify.com/album/1Rr0AMdbX6fBn19rKrxo60) | 3:09 |
+| 50 | [Lumbre](https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Inmensidades](https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY) | 3:51 |
 | 51 | [Bye Bye](https://open.spotify.com/track/7qJ2Ir5a0Mnv5vYxMCtFQD) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Bye Bye](https://open.spotify.com/album/5BjCKJq6y9DVugqzdMaJoR) | 4:27 |
-| 52 | [Lumbre](https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Inmensidades](https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY) | 3:51 |
+| 52 | [Volvernos a Amar](https://open.spotify.com/track/1gtYYvvXluyVxS6HNXefco) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Volvernos a Amar](https://open.spotify.com/album/1Rr0AMdbX6fBn19rKrxo60) | 3:09 |
 | 53 | [¿Cómo Se Supera?](https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [¿Cómo Se Supera?](https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF) | 3:23 |
 | 54 | [Ynlpa](https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ynlpa](https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9) | 3:03 |
 | 55 | [Nunca Quise Escribirte una Balada](https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Nunca Quise Escribirte una Balada](https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 99 | [Bésame Lento](https://open.spotify.com/track/702HgdUa5QILPolhhVoktM) | [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9) | [Bésame Lento](https://open.spotify.com/album/6nVpmgyiQiBC9dVXnur7VF) | 4:31 |
 | 100 | [Que Mal Me Hacías](https://open.spotify.com/track/0pgXLwDXcq2hVxIlUD9XWU) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Que Mal Me Hacías](https://open.spotify.com/album/6as8gFrgGgyEPuu4PLR41M) | 2:20 |
 
-Snapshot ID: `MCw5Mjk3M2UxOTI4YmY1MzlkM2ZhMTk5Njg4MWE4MTAzNjYxY2ZlMTky`
+Snapshot ID: `MCw5ZjczNGMyY2IxMThlMWEyYzc0NzQ5Y2E4YmI4MGNmNTRmYjBjOWQ5`

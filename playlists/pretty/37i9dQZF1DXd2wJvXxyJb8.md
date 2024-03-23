@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigantes da internê
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,417,662 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,418,030 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mtg Quero Te Encontrar](https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c) | [DJ JZ](https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Mininin](https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE), [Silvanno Salles](https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B), [DJ LG PROD](https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA) | [Mtg Quero Te Encontrar](https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh) | 2:57 |
+| 1 | [Mtg Quero Te Encontrar](https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c) | [DJ JZ](https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Mininin](https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE), [DJ LG PROD](https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA), [Silvanno Salles](https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B) | [Mtg Quero Te Encontrar](https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh) | 2:57 |
 | 2 | [De 10 Mulher 11 É Maluca](https://open.spotify.com/track/1jN0ysNJ2d9VZwVdlgspjr) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs), [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY) | [De 10 Mulher 11 É Maluca](https://open.spotify.com/album/5geYQEhBL2t9iqTsBKgkPe) | 1:55 |
 | 3 | [Beat da Felicidade](https://open.spotify.com/track/08MequW9gS7E0zs3DankNO) | [MC Nego da Marcone](https://open.spotify.com/artist/1qONk3alruGzsRf4ccD1hR), [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp) | [Beat da Felicidade](https://open.spotify.com/album/2CcIrl1RU5gRo8AZirQSs5) | 3:59 |
 | 4 | [TUMBÁTUM](https://open.spotify.com/track/24R0oyjvhV4HIFFvoK3XkP) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c), [Dj Vitin do Pc](https://open.spotify.com/artist/2GAcS9WZyORyDBzd5bwfU5), [MC JF](https://open.spotify.com/artist/70l3FIdU2mVxemr3ahhgFs), [MC NAHARA](https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS) | [Baile do Bruxo \(DELUXE\)](https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA) | 2:01 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 64 | [Toma Tapa](https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Toma Tapa](https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV) | 2:02 |
 | 65 | [Vem Morenin](https://open.spotify.com/track/0j4YUzROiF5YFR8kkrysFx) | [Neno No beat](https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ), [MC Rica](https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u) | [Vem Morenin](https://open.spotify.com/album/5xPNbtDedrWFO60aZpsBfK) | 2:39 |
 
-Snapshot ID: `MCxkY2NhN2NkNzJlZTE5MWZhMWE5MjlkM2NkZWIwMWY2YjY2NzgzZTA4`
+Snapshot ID: `MCxlMjNhOTNkNDJjMjkyYTIzMDE3OTY2MWM5NDkyNTg4NzNlMGI4YTU2`

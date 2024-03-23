@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,756 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,784 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 49 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 |
 | 50 | [Hate Me](https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Hate Me](https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p) | 3:19 |
 
-Snapshot ID: `MCw2ZTQ3NzAyMjhjNzI5ZDAzYmI3YzUwMmExMTliZTRjZWI4MTVlNDNk`
+Snapshot ID: `MCw0YWQzNjU5Mjc4NWVkYWU0NDQyZWI2OTc0ODgwZjk0OTc1NDRjZWQ0`

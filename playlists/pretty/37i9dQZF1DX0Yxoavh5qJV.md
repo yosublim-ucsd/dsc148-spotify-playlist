@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 
 > The biggest Christmas songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,636,941 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,636,224 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 34 | [White Christmas](https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 3:03 |
 | 35 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 |
 | 36 | [Carol of the Bells](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [Mykola Dmytrovych Leontovych](https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 |
-| 37 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
-| 38 | [Hallelujah](https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 4:28 |
+| 37 | [Hallelujah](https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 4:28 |
+| 38 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
 | 39 | [Deck The Hall](https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:08 |
 | 40 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 |
 | 41 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 59 | [Driving Home for Christmas](https://open.spotify.com/track/3Z3QhZAZpqwZa1phsbQ3JZ) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Works](https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn) | 4:00 |
 | 60 | [A Nonsense Christmas](https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:33 |
 | 61 | [Shake Up Christmas](https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:52 |
-| 62 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/15sxLiiChE5dCW3Y756oas) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 3:01 |
-| 63 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:26 |
+| 62 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:26 |
+| 63 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/15sxLiiChE5dCW3Y756oas) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 3:01 |
 | 64 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\) \- 1947 Version](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [Rudolph The Red Nosed Reindeer And Other Christmas Classics](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) | 2:30 |
 | 65 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:15 |
 | 66 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 99 | [What Christmas Means to Me \(feat\. Stevie Wonder\)](https://open.spotify.com/track/13XMz3rpVYITzjFIsSYlZ1) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 2:40 |
 | 100 | [Silent Night](https://open.spotify.com/track/1rRb8IFx7OYqlZnt6ag7cP) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [A Very Teddy Christmas](https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp) | 4:11 |
 
-Snapshot ID: `MCw2ZTM2M2I0YjQ2NDJiNjMzYzRjNmNiZjFhNDBjZWFjMzZiOTRhY2I0`
+Snapshot ID: `MCxkOGJkYWE4MDI2YTEwNWIwYzVkMmI0M2IzNjUzYWFlOGQyZTk4NmRi`

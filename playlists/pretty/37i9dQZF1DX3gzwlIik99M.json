@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 206042,
+  "num_followers": 206062,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzQwNzM5MzM5YTQ0OTljNWIyMjE4NzEwMzBkYmU3YmNiZmYzMGY2",
+  "snapshot_id": "MCw4ZDQ1NDk2NTk3YWU2Yzc1MDFkMjY4N2NmMzI2OTBkNThiMjdiNTA4",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "No Money No Fiesta",
-        "url": "https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq"
-      },
-      "artists": [
-        {
-          "name": "Dia De Los Muertos",
-          "url": "https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD"
-        }
-      ],
-      "duration_ms": 169130,
-      "name": "Cantina Del Infierno",
-      "url": "https://open.spotify.com/track/0eR2mWPtubdE8Rea23zAc2"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "El Nuevo Camino del Hombre",
         "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 198893,
       "name": "Pueblos erguidos",
       "url": "https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "No Money No Fiesta",
+        "url": "https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq"
+      },
+      "artists": [
+        {
+          "name": "Dia De Los Muertos",
+          "url": "https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD"
+        }
+      ],
+      "duration_ms": 169130,
+      "name": "Cantina Del Infierno",
+      "url": "https://open.spotify.com/track/0eR2mWPtubdE8Rea23zAc2"
     },
     {
       "added_at": "2023-04-28 03:00:00",

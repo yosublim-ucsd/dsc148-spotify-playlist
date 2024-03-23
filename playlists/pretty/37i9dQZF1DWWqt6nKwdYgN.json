@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! SFDK en portada. ",
-  "num_followers": 13418,
+  "num_followers": 13483,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjEwMDQxMGIxYjhmN2JiNWFhNzI3M2NlNjcxZDU0NDdjOTllN2Fm",
+  "snapshot_id": "MCw4MTdiZWQzOGZhYjEyY2QwOGZjZWZmNDQ0NDExMzMzMTNiZDAxZmFm",
   "tracks": [
     {
       "added_at": "2024-03-15 06:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Dale Suave",
+        "url": "https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Dale Suave",
+      "url": "https://open.spotify.com/track/0UOv3dYas1tswNPKBqQFur"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Dual",
         "url": "https://open.spotify.com/album/1R1W9HadK0whSF7tO01ER3"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 195206,
       "name": "Dual",
       "url": "https://open.spotify.com/track/2OTZ7ESYp6oFojCUPJXOmu"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Dale Suave",
-        "url": "https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Dale Suave",
-      "url": "https://open.spotify.com/track/0UOv3dYas1tswNPKBqQFur"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 216134,
+      "name": "Millonaria",
+      "url": "https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "BOURDAIN",
         "url": "https://open.spotify.com/album/2QEtBF7Ulcg7TyqgttMEa4"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 216134,
-      "name": "Millonaria",
-      "url": "https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/6FcXPSUHNtXUaP4PY9PDg6"
       },
@@ -1323,22 +1323,6 @@
       "duration_ms": 224105,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/13r9dCONzcfyRkw3IPPMnf"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Qu\u00e9mele",
-        "url": "https://open.spotify.com/album/6kIMIdFssq2DDjCAgK38sY"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "Qu\u00e9mele",
-      "url": "https://open.spotify.com/track/0aPwGpjIaaZsPiUglNVAuN"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Qu\u00e9mele",
+        "url": "https://open.spotify.com/album/6kIMIdFssq2DDjCAgK38sY"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "duration_ms": 122553,
+      "name": "Qu\u00e9mele",
+      "url": "https://open.spotify.com/track/0aPwGpjIaaZsPiUglNVAuN"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
       },
@@ -1375,6 +1375,30 @@
       "duration_ms": 283909,
       "name": "Luna",
       "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "DE POR VIDA",
+        "url": "https://open.spotify.com/album/5imAOsZHY1dRpPkezBf1ml"
+      },
+      "artists": [
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "M\u00e9tricas Fr\u00edas",
+          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
+        }
+      ],
+      "duration_ms": 184665,
+      "name": "De Por Vida",
+      "url": "https://open.spotify.com/track/3zWgcYQdN7dC6jj0zrHbpG"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1403,30 +1427,6 @@
       "duration_ms": 164000,
       "name": "Sadman (feat. El ultimo del tren)",
       "url": "https://open.spotify.com/track/7bzSsAidhv6KtPwn09CmcY"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "DE POR VIDA",
-        "url": "https://open.spotify.com/album/5imAOsZHY1dRpPkezBf1ml"
-      },
-      "artists": [
-        {
-          "name": "Doble Porcion",
-          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
-        },
-        {
-          "name": "Ma\u00f1as Ru-Fino",
-          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
-        },
-        {
-          "name": "M\u00e9tricas Fr\u00edas",
-          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
-        }
-      ],
-      "duration_ms": 184665,
-      "name": "De Por Vida",
-      "url": "https://open.spotify.com/track/3zWgcYQdN7dC6jj0zrHbpG"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1543,46 +1543,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Trinidad",
-        "url": "https://open.spotify.com/album/1Cci7b8OkTzn8zSYsRq9Gh"
-      },
-      "artists": [
-        {
-          "name": "Achepe",
-          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
-        },
-        {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
-        },
-        {
-          "name": "T-Killa",
-          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
-        }
-      ],
-      "duration_ms": 246785,
-      "name": "Toma",
-      "url": "https://open.spotify.com/track/1PFPCkKVJGpRO90EOznoSQ"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "De La Mata",
-        "url": "https://open.spotify.com/album/1bNUKMiUZNA0r4JUVcRjz0"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "De La Mata",
-      "url": "https://open.spotify.com/track/2iF8BmUy05E9iHRgRuCak9"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Mexicanos Bravos",
         "url": "https://open.spotify.com/album/16wHA51T97ptp4kIVLSPdW"
       },
@@ -1603,18 +1563,42 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Camino Firme",
-        "url": "https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY"
+        "name": "De La Mata",
+        "url": "https://open.spotify.com/album/1bNUKMiUZNA0r4JUVcRjz0"
       },
       "artists": [
         {
-          "name": "ElReghosg",
-          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
         }
       ],
-      "duration_ms": 142417,
-      "name": "Camino Firme",
-      "url": "https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa"
+      "duration_ms": 160853,
+      "name": "De La Mata",
+      "url": "https://open.spotify.com/track/2iF8BmUy05E9iHRgRuCak9"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Trinidad",
+        "url": "https://open.spotify.com/album/1Cci7b8OkTzn8zSYsRq9Gh"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        },
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        },
+        {
+          "name": "T-Killa",
+          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
+        }
+      ],
+      "duration_ms": 246785,
+      "name": "Toma",
+      "url": "https://open.spotify.com/track/1PFPCkKVJGpRO90EOznoSQ"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1663,6 +1647,22 @@
       "duration_ms": 160000,
       "name": "Ajena",
       "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Camino Firme",
+        "url": "https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY"
+      },
+      "artists": [
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "duration_ms": 142417,
+      "name": "Camino Firme",
+      "url": "https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Arrogancia",
+        "url": "https://open.spotify.com/album/1pHzCc4E40jbyAjdqWcphR"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "duration_ms": 333403,
+      "name": "Arrogancia",
+      "url": "https://open.spotify.com/track/0vyOD96BnDNa3MMpVmVI5k"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Bendecida Y Afortunada",
         "url": "https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID"
       },
@@ -1735,18 +1751,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Arrogancia",
-        "url": "https://open.spotify.com/album/1pHzCc4E40jbyAjdqWcphR"
+        "name": "El Poder y la Traici\u00f3n",
+        "url": "https://open.spotify.com/album/0gGM7uNxX6x3oIL4spNSwe"
       },
       "artists": [
         {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
         }
       ],
-      "duration_ms": 333403,
-      "name": "Arrogancia",
-      "url": "https://open.spotify.com/track/0vyOD96BnDNa3MMpVmVI5k"
+      "duration_ms": 244904,
+      "name": "El Poder y la Traici\u00f3n",
+      "url": "https://open.spotify.com/track/4PwxizEGS3MSfP0vvvucVI"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1771,22 +1787,6 @@
       "duration_ms": 156254,
       "name": "Flavor",
       "url": "https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "El Poder y la Traici\u00f3n",
-        "url": "https://open.spotify.com/album/0gGM7uNxX6x3oIL4spNSwe"
-      },
-      "artists": [
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
-        }
-      ],
-      "duration_ms": 244904,
-      "name": "El Poder y la Traici\u00f3n",
-      "url": "https://open.spotify.com/track/4PwxizEGS3MSfP0vvvucVI"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "LA VIDA ES TAN DURA",
-        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
-      },
-      "artists": [
-        {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        },
-        {
-          "name": "Cheo Gallego",
-          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "LA VIDA ES TAN DURA",
-      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Gloriax",
         "url": "https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 206000,
       "name": "Gloriax",
       "url": "https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "LA VIDA ES TAN DURA",
+        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Cheo Gallego",
+          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "LA VIDA ES TAN DURA",
+      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1971,6 +1971,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "F\u00e9 De M\u00e1s",
+        "url": "https://open.spotify.com/album/4HkoruhVfuBqZB7k0w7dgx"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        },
+        {
+          "name": "D\u00edmelo Seven",
+          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
+        }
+      ],
+      "duration_ms": 140930,
+      "name": "F\u00e9 De M\u00e1s",
+      "url": "https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Oscura Ciudad",
         "url": "https://open.spotify.com/album/1dH4yvk5uHepwzYgvFoNI2"
       },
@@ -1999,6 +2019,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Ol\u00e9",
+        "url": "https://open.spotify.com/album/4burORupgjRcxfrI56pZiS"
+      },
+      "artists": [
+        {
+          "name": "Stilo",
+          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
+        }
+      ],
+      "duration_ms": 163910,
+      "name": "Ol\u00e9",
+      "url": "https://open.spotify.com/track/6AAGQWXAB7MQhbZBsvfJEh"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "LACOSTA",
         "url": "https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc"
       },
@@ -2019,42 +2055,6 @@
       "duration_ms": 248546,
       "name": "MALDITO",
       "url": "https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Ol\u00e9",
-        "url": "https://open.spotify.com/album/4burORupgjRcxfrI56pZiS"
-      },
-      "artists": [
-        {
-          "name": "Stilo",
-          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
-        }
-      ],
-      "duration_ms": 163910,
-      "name": "Ol\u00e9",
-      "url": "https://open.spotify.com/track/6AAGQWXAB7MQhbZBsvfJEh"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "F\u00e9 De M\u00e1s",
-        "url": "https://open.spotify.com/album/4HkoruhVfuBqZB7k0w7dgx"
-      },
-      "artists": [
-        {
-          "name": "La Potter",
-          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
-        },
-        {
-          "name": "D\u00edmelo Seven",
-          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
-        }
-      ],
-      "duration_ms": 140930,
-      "name": "F\u00e9 De M\u00e1s",
-      "url": "https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Imaginando Voy",
+        "url": "https://open.spotify.com/album/2LrxtY5hsCCZFKIq5VmNbh"
+      },
+      "artists": [
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "duration_ms": 162866,
+      "name": "Imaginando Voy",
+      "url": "https://open.spotify.com/track/2woVDlN4GzCB2LUQSd4QAA"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "El Callej\u00f3n",
         "url": "https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 256049,
       "name": "El Callej\u00f3n",
       "url": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Imaginando Voy",
-        "url": "https://open.spotify.com/album/2LrxtY5hsCCZFKIq5VmNbh"
-      },
-      "artists": [
-        {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "Imaginando Voy",
-      "url": "https://open.spotify.com/track/2woVDlN4GzCB2LUQSd4QAA"
     }
   ],
   "unique_name": "Rimas Frescas ",

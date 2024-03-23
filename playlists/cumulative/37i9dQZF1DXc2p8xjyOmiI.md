@@ -4,7 +4,7 @@
 
 > Puros corridones pa' quemarle las patas al Diablo 😈 Chino Pacas & Fuerza Regida en portada.
 
-174 songs - 8 hr 50 min
+175 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [Por Mi México](https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:38 | 2022-03-08 | 2023-04-21 |
 | [Por Si Acaso](https://open.spotify.com/track/0FBQk9b2mveexdjaiZhySz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k) | [Por Si Acaso](https://open.spotify.com/album/3bhs4igaxstdRBeZHfahiP) | 3:18 | 2021-12-03 |  |
 | [Por Si Me Ven](https://open.spotify.com/track/2zdSdKPkS7m00YyP5cSXzA) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Por Si Me Ven \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/6VIJyFOYY2NVDwGLN0Ubnc) | 2:02 | 2022-03-08 | 2022-12-17 |
-| [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 | 2024-02-23 |  |
+| [Porte de Scarface](https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX) | 2:52 | 2024-03-01 |  |
+| [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 | 2024-02-23 | 2024-03-23 |
 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-03-06 |  |
 | [Prendo Un Gallo](https://open.spotify.com/track/272dYrwFE76Io6riUpLugS) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Prendo Un Gallo](https://open.spotify.com/album/5X6RDmfn1alCT7HxARkE6L) | 2:22 | 2023-06-16 | 2023-11-11 |
 | [Proyecto X](https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Proyecto X](https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs) | 2:38 | 2024-02-23 |  |

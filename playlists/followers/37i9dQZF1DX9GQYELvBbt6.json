@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 23998,
+  "2024-03-23": 24007,
   "date_first_scraped": "2023-11-25",
   "description": "\u9670\u30ad\u30e3\u3067\u3082\u3044\u3044\u3002\u96c6\u56e3\u306b\u306a\u3058\u3081\u306a\u304f\u3066\u3082\u3044\u3044\u3002\u3072\u3068\u308a\u3067\u904e\u3054\u3059\u6642\u9593\u306b\u3082\u3001\u97f3\u697d\u306f\u305d\u3063\u3068\u5bc4\u308a\u6dfb\u3063\u3066\u304f\u308c\u308b\u3002 Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u5b64\u72ec\u306e\u97f3\u304c\u8074\u3053\u3048\u308b",
@@ -1676,6 +1676,24 @@
     },
     {
       "album": {
+        "name": "\u96e2\u5a5a\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268720,
+      "name": "\u840c",
+      "url": "https://open.spotify.com/track/7fiWo0v1vbyPC1l7o7Ve4m"
+    },
+    {
+      "album": {
         "name": "\u840c",
         "url": "https://open.spotify.com/album/6DnW96P5uz81LMRm3RnSEI"
       },
@@ -1687,7 +1705,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 269806,
       "name": "\u840c",
       "url": "https://open.spotify.com/track/0mKWFi26UzF83bie9CIrDm"

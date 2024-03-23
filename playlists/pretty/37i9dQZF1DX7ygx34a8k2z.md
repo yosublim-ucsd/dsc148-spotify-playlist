@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,420 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,623 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 99 | [Drowned World / Substitute for Love](https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:08 |
 | 100 | [Sandusky](https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 3:43 |
 
-Snapshot ID: `MCxkMGVmNmE0NTEzMzg5OTNjOWFlNDUyMjE2OWI3YjZhM2FiZTZmMGU4`
+Snapshot ID: `MCxiYmYyOTRlY2I2YzBhMjU2YTc2ZTU1MjY4ZGE1NGI4MGZiNTAwYWM5`

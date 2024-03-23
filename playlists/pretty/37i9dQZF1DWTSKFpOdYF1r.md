@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 954,930 likes - 80 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,038 likes - 80 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 35 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
 | 36 | [Cemetry Gates \- 2011 Remaster](https://open.spotify.com/track/03yOjwHoOPDlTUg0NRxN6t) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 2:41 |
 | 37 | [Whip It](https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:41 |
-| 38 | [Jane Says](https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:47 |
-| 39 | [Fade To Grey](https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu) | [Visage](https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B) | [Visage](https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf) | 3:59 |
+| 38 | [Fade To Grey](https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu) | [Visage](https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B) | [Visage](https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf) | 3:59 |
+| 39 | [Jane Says](https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:47 |
 | 40 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
 | 41 | [Waiting Room](https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:53 |
 | 42 | [Debaser](https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:51 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 59 | [And We Danced](https://open.spotify.com/track/5xkNd7kCRmjT2DxSAYVVyC) | [The Hooters](https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1) | [Super Hits](https://open.spotify.com/album/5Sh5gjCOggbEb2kMIFKHHo) | 3:47 |
 | 60 | [I Will Follow \- Remastered 2008](https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY) | 3:37 |
 | 61 | [Gigantic \- Remastered](https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:55 |
-| 62 | [Rip It Up](https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO) | 5:20 |
-| 63 | [Hounds Of Love](https://open.spotify.com/track/6jWx7mD5oblxybTaWpiPZN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 3:03 |
+| 62 | [Hounds Of Love](https://open.spotify.com/track/6jWx7mD5oblxybTaWpiPZN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 3:03 |
+| 63 | [Rip It Up](https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO) | 5:20 |
 | 64 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f) | 3:59 |
 | 65 | [Don't Go](https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:11 |
 | 66 | [This Is the Day](https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [London Town 1983\-1993](https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8) | 4:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 79 | [99 Red Balloons](https://open.spotify.com/track/2bdcFXS61ey6x6Y1andx0F) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [99 Luftballons](https://open.spotify.com/album/37XWs0ueFzqSRLeNV9zZMC) | 3:50 |
 | 80 | [Everyday Is Like Sunday \- 2011 Remaster](https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2014 Remaster\)](https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou) | 3:35 |
 
-Snapshot ID: `MCwxZWU4MDEzMGNiZWUzY2FhZTMxZDRhMWY5NDg3YTlkOTAyMGRkYTUy`
+Snapshot ID: `MCxhNzVkYTkyZThkZDY4ZWFkNjhmNDMwZjFiZTczMWJkOGI3NzEyNzQy`

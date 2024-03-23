@@ -1,12 +1,12 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 106193,
+  "num_followers": 106202,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTRhMThiZjAyYmE1YmZjMjJjNzc0YWUzNDFjODQ5N2I4MmIxNWMw",
+  "snapshot_id": "MCxjNzZlZGZjNTg1Nzc3ZWU0NGZhZDE5ZDgzZTIyZTJlNjVhOGM3ZmUw",
   "tracks": [
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1328,6 +1328,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 314762,
+      "name": "Salt And The Sea - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/13ohpzdtJcFgRyxLLQ1ftY"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/68eMz3o7xJZLO9P2RJj2eI"
       },
       "artists": [
@@ -1355,22 +1371,6 @@
       "duration_ms": 310400,
       "name": "When the Night is Over - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2omW4OJrifRkLNb1byj0e6"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 314762,
-      "name": "Salt And The Sea - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/13ohpzdtJcFgRyxLLQ1ftY"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1408,22 +1408,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 209542,
-      "name": "Ride - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
       },
       "artists": [
@@ -1435,6 +1419,22 @@
       "duration_ms": 214750,
       "name": "Hunger - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 209542,
+      "name": "Ride - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1652,17 +1652,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf"
+        "url": "https://open.spotify.com/album/2S7OvlJZZdUxc33ZynZAvb"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 622000,
-      "name": "home/i want your love - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0Abdq8INymRlkYbgM9QnGe"
+      "duration_ms": 292687,
+      "name": "Nocturne - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6ZVANvsOAOxSqmqYhulqbd"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1684,17 +1684,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2S7OvlJZZdUxc33ZynZAvb"
+        "url": "https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf"
       },
       "artists": [
         {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 292687,
-      "name": "Nocturne - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6ZVANvsOAOxSqmqYhulqbd"
+      "duration_ms": 622000,
+      "name": "home/i want your love - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0Abdq8INymRlkYbgM9QnGe"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1ghdZvVVCMbTkf6BDsEg78"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 202617,
-      "name": "Bambi - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4yiYXXfIPwb4u6gdvLNhCv"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 204290,
       "name": "Maps - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1ghdZvVVCMbTkf6BDsEg78"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 202617,
+      "name": "Bambi - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4yiYXXfIPwb4u6gdvLNhCv"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1848,6 +1848,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 188196,
+      "name": "My Backwards Walk - Live at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6f5eBxCfrO15kv4FtcL7DW"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ARP1Ym2dGVPYACPJV52CB"
       },
       "artists": [
@@ -1875,22 +1891,6 @@
       "duration_ms": 277563,
       "name": "Don't Delete The Kisses - Recorded at Spotify Studios London",
       "url": "https://open.spotify.com/track/1hZyADicbo5k0OQbwcxVEo"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 188196,
-      "name": "My Backwards Walk - Live at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6f5eBxCfrO15kv4FtcL7DW"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1927,6 +1927,26 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
+        "name": "f*ck everything! - Spotify Singles (feat. The Drums)",
+        "url": "https://open.spotify.com/album/0JK7dsEDgSM5KYY1FOD8zx"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        },
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 181828,
+      "name": "f*ck everything! - Spotify Singles (feat. The Drums)",
+      "url": "https://open.spotify.com/track/76MRnkmmdb86BioWnUCsEI"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
       },
@@ -1944,22 +1964,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 159497,
-      "name": "sex money feelings die - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/0MRGc7t0cM9mLlQlfM7LFI"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
       },
       "artists": [
@@ -1971,6 +1975,22 @@
       "duration_ms": 210355,
       "name": "El Rey de la Popola - Spotify Singles",
       "url": "https://open.spotify.com/track/2kMYjwRj5E9Th5QgXoj8Mj"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 159497,
+      "name": "sex money feelings die - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/0MRGc7t0cM9mLlQlfM7LFI"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -2019,22 +2039,6 @@
       "duration_ms": 158048,
       "name": "Nothing Scares Me - Spotify Singles",
       "url": "https://open.spotify.com/track/1s2MMnIR3TYcujFBpNwVQ6"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 194313,
-      "name": "Be Sweet - Spotify Singles",
-      "url": "https://open.spotify.com/track/4oObZd0IEcMNcmVLwpeeTo"
     }
   ],
   "unique_name": "Spotify Singles: Indie & Alternative",

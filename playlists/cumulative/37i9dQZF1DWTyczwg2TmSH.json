@@ -1,8 +1,44 @@
 {
   "date_first_scraped": "2023-08-10",
-  "description": "Music inspired by Eric Effiong from Sex Education, now streaming on Netflix. ",
+  "description": "Music from and inspired by Shirley, now streaming on Netflix. ",
   "name": "Strong Black Lead Official Playlist",
   "tracks": [
+    {
+      "album": {
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
+      },
+      "artists": [
+        {
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155274,
+      "name": "A Hospital Visit",
+      "url": "https://open.spotify.com/track/2UeVspP0ESo0C2r4HOwxMo"
+    },
+    {
+      "album": {
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
+      },
+      "artists": [
+        {
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159499,
+      "name": "A Win For Robert - California",
+      "url": "https://open.spotify.com/track/1M4QU7FkZl0lydZSKhhdwa"
+    },
     {
       "album": {
         "name": "All The Time",
@@ -16,10 +52,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 195313,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/7LN8y3isMIqzZ6sChzFI7S"
+    },
+    {
+      "album": {
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
+      },
+      "artists": [
+        {
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221698,
+      "name": "Backstabbers - Dreamers And Fools",
+      "url": "https://open.spotify.com/track/2R7hSsGA9UaNZfsJjkKTUh"
     },
     {
       "album": {
@@ -46,7 +100,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 97714,
       "name": "Bongos (feat. Megan Thee Stallion) - DJ SpinKing & DJ Taj Jersey Club Mix",
       "url": "https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8"
@@ -68,7 +122,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 146666,
       "name": "Booty (feat. Latto)",
       "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
@@ -90,7 +144,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -108,10 +162,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
+    },
+    {
+      "album": {
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
+      },
+      "artists": [
+        {
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113525,
+      "name": "Catalyst For Change",
+      "url": "https://open.spotify.com/track/1jJLFhQfRl0xg4hXzgOqHk"
     },
     {
       "album": {
@@ -162,7 +234,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 204120,
       "name": "Crush Culture",
       "url": "https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1"
@@ -224,7 +296,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 248093,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/0cELvuwJW1acISUHYB6suj"
@@ -286,7 +358,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 205384,
       "name": "Fly Girl (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
@@ -308,10 +380,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 209454,
       "name": "Found (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/7quB4D2OH6Q5WwzeEga1q5"
+    },
+    {
+      "album": {
+        "name": "All About Miriam",
+        "url": "https://open.spotify.com/album/5rCxHMtTNz1q7fvG0BXbAy"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138022,
+      "name": "Four-Letter Words",
+      "url": "https://open.spotify.com/track/2xj9Dwv1KWmKgt1K4jRYYU"
     },
     {
       "album": {
@@ -326,7 +416,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 179691,
       "name": "Hard 4 You",
       "url": "https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG"
@@ -373,6 +463,42 @@
     },
     {
       "album": {
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
+      },
+      "artists": [
+        {
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107730,
+      "name": "I Don't Think Politics Is For Me",
+      "url": "https://open.spotify.com/track/1ytdK44Wa5QGDd6E7AGM2S"
+    },
+    {
+      "album": {
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
+      },
+      "artists": [
+        {
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79295,
+      "name": "I Love You Too",
+      "url": "https://open.spotify.com/track/5lL8b84KboNEs99NM0SsNY"
+    },
+    {
+      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -384,7 +510,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
@@ -402,10 +528,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 223080,
       "name": "I Want To Break Free",
       "url": "https://open.spotify.com/track/25H6P7a94WUr5102lC6TNI"
+    },
+    {
+      "album": {
+        "name": "Voodoo Mademoiselle / I'm Coming Home",
+        "url": "https://open.spotify.com/album/3FbwgkvBQdTD1dvZWyzdS5"
+      },
+      "artists": [
+        {
+          "name": "September Jones",
+          "url": "https://open.spotify.com/artist/1fi9NepyXnrgRThaaRwh1Y"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168024,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/6wQeLlkknLucMJspXMlQ1i"
     },
     {
       "album": {
@@ -456,10 +600,46 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+    },
+    {
+      "album": {
+        "name": "Hits of Harlem Volume 4",
+        "url": "https://open.spotify.com/album/4sDAW5vOG4oI7So2LxpDfA"
+      },
+      "artists": [
+        {
+          "name": "Neice Dezel",
+          "url": "https://open.spotify.com/artist/4luXOJnuuV8wxOyd4v8wu4"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145040,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/7Cy4XXiCqsFodPcjTzk9aI"
+    },
+    {
+      "album": {
+        "name": "Dyke's Greatest Hits - The Complete Singles",
+        "url": "https://open.spotify.com/album/1zv9Oq5IrsdEuOzor9DxZj"
+      },
+      "artists": [
+        {
+          "name": "Dyke & The Blazers",
+          "url": "https://open.spotify.com/artist/5dORjaew9A94A25xvTMiTg"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193680,
+      "name": "Let A Woman Be A Woman - Let A Man Be A Man",
+      "url": "https://open.spotify.com/track/17Y2K7uNxMkaTDBtf1Tcv3"
     },
     {
       "album": {
@@ -500,10 +680,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 131000,
       "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
       "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
+    },
+    {
+      "album": {
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
+      },
+      "artists": [
+        {
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109589,
+      "name": "Long Day",
+      "url": "https://open.spotify.com/track/1VKpP2V8o1Ty8H39bfOd82"
     },
     {
       "album": {
@@ -566,7 +764,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 219642,
       "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
@@ -602,7 +800,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 236190,
       "name": "Nails, Hair, Hips, Heels",
       "url": "https://open.spotify.com/track/0tJlqVYEo0r1CGw4gY6s53"
@@ -672,7 +870,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 184746,
       "name": "Official",
       "url": "https://open.spotify.com/track/38ybr0LS9XLUcqg8Yo62Wj"
@@ -694,7 +892,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
@@ -730,7 +928,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 166266,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
@@ -820,7 +1018,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 213797,
       "name": "Playground",
       "url": "https://open.spotify.com/track/6v23dkIy9AHxk8MAcOHBLu"
@@ -900,7 +1098,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 491933,
       "name": "Ring My Bell",
       "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
@@ -944,7 +1142,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 172151,
       "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
       "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
@@ -973,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
+      },
+      "artists": [
+        {
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124480,
+      "name": "Shirley Intro",
+      "url": "https://open.spotify.com/track/3K34o1pvo5ZEqP87Xz8JjI"
+    },
+    {
+      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
@@ -984,10 +1200,46 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+    },
+    {
+      "album": {
+        "name": "Give Love to Your Children",
+        "url": "https://open.spotify.com/album/4VRC0Jyk3jlFbVXTuPg2tz"
+      },
+      "artists": [
+        {
+          "name": "Musi-O-Tunya",
+          "url": "https://open.spotify.com/artist/5Gl3bhgwrMekOuzkjM5FLq"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231901,
+      "name": "Starving Child",
+      "url": "https://open.spotify.com/track/6eFjTsMgMN7U920DYzrftu"
+    },
+    {
+      "album": {
+        "name": "Lute Records 60's Rock & Soul Vol. 1",
+        "url": "https://open.spotify.com/album/3RaDtQCiJdF9uX3DgD8WM2"
+      },
+      "artists": [
+        {
+          "name": "The Isonics",
+          "url": "https://open.spotify.com/artist/4PEiEOlLMZugjSJMednCCb"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/5agsHpAP4ZXvg0dkWyryK2"
     },
     {
       "album": {
@@ -1002,10 +1254,46 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 239933,
       "name": "Supermodel (You Better Work)",
       "url": "https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v"
+    },
+    {
+      "album": {
+        "name": "Dave Hamilton's Detroit Soul",
+        "url": "https://open.spotify.com/album/7DoAvyTnIUSFm4YVFgi1N2"
+      },
+      "artists": [
+        {
+          "name": "Dave Hamilton",
+          "url": "https://open.spotify.com/artist/7jOKLSyFFNekffU4kCIBeA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165320,
+      "name": "Take Care Of Your Own Business",
+      "url": "https://open.spotify.com/track/4YNFKavGoImIWfMNsiUGcP"
+    },
+    {
+      "album": {
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
+      },
+      "artists": [
+        {
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99448,
+      "name": "Tell Them I Said Yes",
+      "url": "https://open.spotify.com/track/4jx2BHR0ADOeK1pBFoUuMa"
     },
     {
       "album": {
@@ -1020,10 +1308,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "album": {
+        "name": "Think (About It)",
+        "url": "https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE"
+      },
+      "artists": [
+        {
+          "name": "Lyn Collins",
+          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204160,
+      "name": "Think (About It)",
+      "url": "https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi"
     },
     {
       "album": {
@@ -1056,7 +1362,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 187245,
       "name": "Toast - Remix",
       "url": "https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU"
@@ -1100,6 +1406,24 @@
       "duration_ms": 148471,
       "name": "Toxic Chocolate",
       "url": "https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv"
+    },
+    {
+      "album": {
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
+      },
+      "artists": [
+        {
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139397,
+      "name": "Trailblazing",
+      "url": "https://open.spotify.com/track/0OFGDwonJj1rf1SEyXxakT"
     },
     {
       "album": {
@@ -1154,7 +1478,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 243236,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
@@ -1172,7 +1496,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 189824,
       "name": "What It Is (Solo Version)",
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
@@ -1194,6 +1518,42 @@
       "duration_ms": 156005,
       "name": "WHOLE LOTTA MONEY",
       "url": "https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7"
+    },
+    {
+      "album": {
+        "name": "Why I'm Here (From the Netflix film \u201cShirley\u201d)",
+        "url": "https://open.spotify.com/album/4hs7AWd8wyspb8KPEfLGY3"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154745,
+      "name": "Why I'm Here - From the Netflix film \u201cShirley\u201d",
+      "url": "https://open.spotify.com/track/2YrigLM6CyRR7EjxL2bqZf"
+    },
+    {
+      "album": {
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
+      },
+      "artists": [
+        {
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105306,
+      "name": "Willie Brown",
+      "url": "https://open.spotify.com/track/5huVFPO2TGeYppLvgpqza0"
     },
     {
       "album": {
@@ -1248,7 +1608,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 227706,
       "name": "YOU'RE THE ONE",
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"

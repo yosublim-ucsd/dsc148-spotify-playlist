@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-614 songs - 1 day 16 hr 1 min
+619 songs - 1 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [123](https://open.spotify.com/track/2QrMuaZUACwUpmIzmqRE9l) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Powerplant](https://open.spotify.com/album/120bhi2kgHiYc2FwI7nghO) | 2:50 | 2022-08-25 | 2023-07-29 |
 | [15 Step](https://open.spotify.com/track/4oXg7xT4ksBxHTx8PcmSXw) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:57 | 2023-01-19 | 2024-01-18 |
 | [2122](https://open.spotify.com/track/1VViOwNoUfimwsy3wlk7d8) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6) | 3:52 | 2023-09-08 | 2024-01-22 |
+| [3 Sisters](https://open.spotify.com/track/0AO3ejChi1gRBWvUDMH2kg) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:10 | 2024-03-22 |  |
 | [3rd Planet](https://open.spotify.com/track/7Gi8kaILAUgjYqgdee9410) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Moon & Antarctica](https://open.spotify.com/album/5SbcupirEParczvqqyUPXL) | 3:58 | 2022-09-20 | 2024-01-22 |
 | [4 Better Or 4 Worse \(Interlude\)](https://open.spotify.com/track/2OCJ0ZZW75wPcMyUI9l1Lb) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 0:36 | 2024-01-08 |  |
 | [6'1" \- 2018 Remaster](https://open.spotify.com/track/55LqsLfv1S01SoVPbR8naN) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Exile In Guyville \(2018 Remaster\)](https://open.spotify.com/album/7sCpW2cLGcRk1zf9zi0Yqd) | 3:06 | 2022-08-07 |  |
@@ -111,6 +112,7 @@
 | [Capture The Flag](https://open.spotify.com/track/57WmTDCk4mWh3Mlca9OiyL) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 2:08 | 2024-01-19 |  |
 | [Careful](https://open.spotify.com/track/63L9AjBDN3SOMbJlBkFqiZ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:50 | 2023-03-11 |  |
 | [Carissa](https://open.spotify.com/track/4Ccs64wkyyYlst3mBiJm9B) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Benji](https://open.spotify.com/album/2y2QZ4uDpzoZHgH2il5Ktu) | 6:55 | 2022-08-19 |  |
+| [Carry On](https://open.spotify.com/track/4bjvLvKovcWqZwDbXT5QQX) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 4:25 | 2024-03-22 |  |
 | [Caterpillar](https://open.spotify.com/track/6ePUtuTprNgkWzN6G5JQ5p) | [The Colorist Orchestra](https://open.spotify.com/artist/1AQqTYQoz0RHAEUz75nE2D), [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [The Colorist & Emiliana Torrini](https://open.spotify.com/album/308EQ717rquoukYqREg2uC) | 4:41 | 2024-01-18 | 2024-01-30 |
 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 | 2024-01-08 |  |
 | [Cherry In Tacoma](https://open.spotify.com/track/4ePlZMnWntH6rq9xUpalnr) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [To Carry A Whale](https://open.spotify.com/album/6Yq40Q0Kvz9PXdja9i2Yxb) | 3:42 | 2022-08-02 | 2024-03-16 |
@@ -413,6 +415,7 @@
 | [Polygon Window](https://open.spotify.com/track/0AiyJw9evPC73BD6gSj461) | [The Dice Man](https://open.spotify.com/artist/1wlHPHcCIdTdREQqZ2bOZz) | [Artificial Intelligence](https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD) | 5:12 | 2024-02-14 |  |
 | [Ponta de Areia](https://open.spotify.com/track/2SU21YLdwyTnqJpS7Jc3lD) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Native Dancer](https://open.spotify.com/album/0Gsue0re8X1U9rqHe4urBx) | 5:15 | 2024-01-09 |  |
 | [Porcelain \- 2014 Remastered Version](https://open.spotify.com/track/2VEQWr71HLgsSZWR8VdUDN) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play \(2014 Remastered Version\)](https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD) | 4:02 | 2024-02-26 | 2024-03-02 |
+| [Powderfinger \- 2016 Remaster](https://open.spotify.com/track/5F1CxsOXX6altKaKlEPuox) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Rust Never Sleeps](https://open.spotify.com/album/2QqocFdpBkxOBLcIRo6UuJ) | 5:30 | 2024-03-22 |  |
 | [Pre \(feat\. SK La' Flare\)](https://open.spotify.com/track/4B31QOL13iBeuIsaGD20BS) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Sk La Flare](https://open.spotify.com/artist/5punRQvOjE5COQqm6JRLhx) | [Doris](https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE) | 2:52 | 2023-08-20 |  |
 | [Prelude To Ecstasy](https://open.spotify.com/track/1Bkv3iK8eRU6vu6uCspHuu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 1:36 | 2024-03-01 |  |
 | [Pretty Hurts](https://open.spotify.com/track/6itVTFZWfIA9J6XJaC1eMT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ](https://open.spotify.com/album/5JSDDzvVmUX1axvnUH3ZJy) | 4:17 | 2023-05-08 |  |
@@ -434,6 +437,7 @@
 | [Re\-Make/Re\-Model](https://open.spotify.com/track/6pUfi8uawZnCK2T0hatNwR) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Roxy Music](https://open.spotify.com/album/4KjUgJn22cmBRQC0AHcjI3) | 5:14 | 2024-03-04 |  |
 | [Reach Out](https://open.spotify.com/track/2gEuEnvHdyZhRoXQiaoY1Y) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:43 | 2023-05-06 | 2023-05-11 |
 | [Ready Lets Go](https://open.spotify.com/track/27M2m1NzEmCkzb9kzTLqzT) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 0:59 | 2022-05-28 | 2024-01-10 |
+| [Real House](https://open.spotify.com/track/62R903SYfJm79xxLhjEhyW) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 5:58 | 2024-03-22 |  |
 | [recognized](https://open.spotify.com/track/4sriGuSuKyc8mmcoWaNO2b) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 1:02 | 2023-04-19 | 2024-01-02 |
 | [Red Rain \- 2012 Remaster](https://open.spotify.com/track/3ixUQ3Wt5B6iIkY6zWhRMY) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(2012 Remastered\)](https://open.spotify.com/album/2ikq6LspaBbUG2qyiV5qdx) | 5:40 | 2024-01-08 |  |
 | [Redemption Arc](https://open.spotify.com/track/5P2xjOkykDrAHcLxCLyBDi) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 3:21 | 2024-03-03 | 2024-03-05 |
@@ -501,6 +505,7 @@
 | [Strong](https://open.spotify.com/track/0d7IFDkLXrG2WhQkPYw3Ju) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 6:18 | 2022-04-21 |  |
 | [Submerge FM](https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 3:25 | 2023-04-19 | 2023-04-22 |
 | [Summer Knights](https://open.spotify.com/track/2NDXdxZjbm5EbbEEDSKXQV) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 1:56 | 2022-05-13 |  |
+| [Sun Girl](https://open.spotify.com/track/4CFHldOcqUuepVyObZXfSb) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 5:52 | 2024-03-22 |  |
 | [Sunday Morning](https://open.spotify.com/track/2SKWqNWAi5n4ed9C6z3jCU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Golden Age](https://open.spotify.com/album/1wvJf32qDHmwku12nfzVGN) | 4:39 | 2023-04-24 |  |
 | [Sunday Morning](https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:55 | 2022-10-22 | 2023-04-03 |
 | [Suspended From Class](https://open.spotify.com/track/2YDmCSVs46QrhD2sqYGGqx) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh) | 3:46 | 2023-06-08 | 2024-01-07 |

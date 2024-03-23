@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 67664,
+  "num_followers": 67679,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDliNjExZDA3NDZlMjc0MTkxODE0NDA3Y2FiZWY3MjQ5NmIwNGRl",
+  "snapshot_id": "MCxlNWI1NDFlYzA4YTJlOWU2ODRkNDgyNzgwNDI4MjdiYzRlNWYzYzc0",
   "tracks": [
     {
       "added_at": "2023-11-03 03:58:52",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Say You Will Remember Me",
-        "url": "https://open.spotify.com/album/39wcKYCki3w61JhTzUM8be"
+        "name": "Say You Will Remember Me (Remix)",
+        "url": "https://open.spotify.com/album/3R6zzWT8hdZhGQ3XTUTmuQ"
       },
       "artists": [
         {
           "name": "Shaun Jacobs",
           "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        },
+        {
+          "name": "Young Bombs",
+          "url": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
         }
       ],
-      "duration_ms": 202035,
-      "name": "Say You Will Remember Me",
-      "url": "https://open.spotify.com/track/3cVbwXyr9oZdeNfISdeS7F"
+      "duration_ms": 174159,
+      "name": "Say You Will Remember Me - Remix",
+      "url": "https://open.spotify.com/track/4r4vKPPrhM8leqcpjnT9QC"
     }
   ],
   "unique_name": "Feel Good Look Good",

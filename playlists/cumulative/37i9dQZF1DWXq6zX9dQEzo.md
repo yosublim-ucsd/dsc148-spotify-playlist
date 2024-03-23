@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-576 songs - 1 day 4 hr 22 min
+577 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Help Me \- Josh Ellis Remix](https://open.spotify.com/track/2KxYKAqHF02Tzi3ky7afRV) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf), [Josh Ellis](https://open.spotify.com/artist/3EvcwIGX0GYJFloHS7r9Tw) | [Help Me \(Josh Ellis Remix\)](https://open.spotify.com/album/3IEaMzg1WqQ1fZKIQ9Q1ME) | 2:29 | 2022-02-04 | 2022-07-18 |
 | [Help!](https://open.spotify.com/track/7lxxnK2IspUkgdgNwvi43W) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK) | [Help!](https://open.spotify.com/album/5G8lpUlWQbQ8s9P4ey3ZDW) | 2:37 | 2023-11-02 |  |
 | [Her Song](https://open.spotify.com/track/6ffgPcFHGLuccB1yKcCmMV) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Life and Death](https://open.spotify.com/album/3Ptyj0m3OHHb74ErQGvjfj) | 2:58 | 2023-12-15 |  |
+| [HI\-C](https://open.spotify.com/track/6DmLU5yyCcwCS5MgHbZq78) | [HOLY GIRLXHLY GRL](https://open.spotify.com/artist/0w28kuI223Uywzaf68lL40), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Queen Lee](https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS), [Tk Lee](https://open.spotify.com/artist/05B3lggRvyTqRwEV9YDwQz) | [HI\-C](https://open.spotify.com/album/42eKaKWWjei5ViAUQ4XY1J) | 3:03 | 2024-03-20 |  |
 | [High Calling](https://open.spotify.com/track/2gB0rcZPb6q0P3Pd828K8Y) | [The Shelter](https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC), [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [High Calling](https://open.spotify.com/album/3g41qW3oYLAsJmp81NDHe0) | 3:09 | 2022-04-30 | 2022-05-29 |
 | [High Low \- Remix](https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw) | [High Low \(Remix\)](https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8) | 2:44 | 2022-04-30 | 2023-08-12 |
 | [High Noon](https://open.spotify.com/track/34X5s4UGB6fhtQDNAhMpQD) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [High Noon](https://open.spotify.com/album/2h5y0B45wGR7hJ69hO554J) | 2:10 | 2023-08-11 | 2024-02-03 |
@@ -309,7 +310,7 @@
 | [LOOK AT ME NOW](https://open.spotify.com/track/6EGlBFBeMGPg7I40tkEtPe) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [NOW OR LATER](https://open.spotify.com/album/7v6MWI0jpzxnv5pe7jsIqp) | 2:26 | 2022-10-01 | 2022-11-23 |
 | [Look at Me Now](https://open.spotify.com/track/0D0cxJpnhijpr5QMmKmYDL) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Look at Me Now](https://open.spotify.com/album/430Kd4ZOu31gytgHSIk4Jh) | 3:58 | 2022-05-28 | 2022-07-24 |
 | [Lord Knows](https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Lord Knows](https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o) | 3:02 | 2022-11-04 | 2024-01-13 |
-| [Loud](https://open.spotify.com/track/6WO3KK8I7ym148Lsh8KHPG) | [Cory Ard](https://open.spotify.com/artist/0qFRHDlLguiugbuuCInOCb), [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Loud](https://open.spotify.com/album/61YS4yGbyJ4nIYW2xah08l) | 2:58 | 2023-12-01 |  |
+| [Loud](https://open.spotify.com/track/6WO3KK8I7ym148Lsh8KHPG) | [Cory Ard](https://open.spotify.com/artist/0qFRHDlLguiugbuuCInOCb), [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Loud](https://open.spotify.com/album/61YS4yGbyJ4nIYW2xah08l) | 2:58 | 2023-12-01 | 2024-03-23 |
 | [Love It Here \- Remix](https://open.spotify.com/track/4cNcWi6pND2Zsmgv1HUpoX) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv), [Christ Jr](https://open.spotify.com/artist/0K6nL5WlOn54yzjNE0Erho) | [Love It Here \(Remix\)](https://open.spotify.com/album/6pvzr08QDOVVdVE4fbZK87) | 3:35 | 2024-01-12 |  |
 | [Love Like That](https://open.spotify.com/track/22haNP7zwUCrqPJIjfgOjx) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [Love Like That](https://open.spotify.com/album/1ewhccVD32md195nWwLG3u) | 2:46 | 2023-08-11 |  |
 | [Love With Your Life](https://open.spotify.com/track/3YVsYrddp7lbej2cXniN3Q) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [One\-Way Conversations](https://open.spotify.com/album/2iB2b6Vw1eOWJc4ZNQPLhW) | 3:30 | 2022-02-04 | 2022-04-20 |

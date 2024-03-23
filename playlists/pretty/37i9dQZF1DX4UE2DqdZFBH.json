@@ -1,12 +1,12 @@
 {
   "description": "Unwind to the real beauty of Instrumentals!",
-  "num_followers": 47477,
+  "num_followers": 47478,
   "original_name": "Indie Instrumental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDRhMmUyNzgwZjVkYjBiNTJmYzI4NTU2NWVjY2M2NTEyYmU2OThm",
+  "snapshot_id": "MCw1MzViMTQwZTA3NWM2MzViMDQyNGI1ZTNkNzAxY2E4NGJiNmI1ZmJl",
   "tracks": [
     {
       "added_at": "2023-09-05 09:03:30",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
+        "name": "Amazing Veena",
+        "url": "https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "duration_ms": 301933,
+      "name": "Raghuvamsa Sudha",
+      "url": "https://open.spotify.com/track/6M8POyaH3uih6V5hsSi4N9"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
         "name": "Reach Out",
         "url": "https://open.spotify.com/album/24dP5sZgOex0EQun8x4ddk"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 216116,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/5XTkSCwVY9X0rGrOqxtR3S"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
-        "name": "Amazing Veena",
-        "url": "https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d"
-      },
-      "artists": [
-        {
-          "name": "Phani Narayana",
-          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
-        }
-      ],
-      "duration_ms": 301933,
-      "name": "Raghuvamsa Sudha",
-      "url": "https://open.spotify.com/track/6M8POyaH3uih6V5hsSi4N9"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2779kgLwGYn8NP2tk14AB7"
+      },
+      "artists": [
+        {
+          "name": "Rasika Shekar",
+          "url": "https://open.spotify.com/artist/0v8Vu84KyjZUxCD1P8LpDp"
+        }
+      ],
+      "duration_ms": 238549,
+      "name": "Departure",
+      "url": "https://open.spotify.com/track/43tRzHQb2OziLUOgFJELuI"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
         "name": "Ragas: Classical Indian music for sarod, sitar and tabla",
         "url": "https://open.spotify.com/album/08CSfF5H2SWzz5KKX5tngY"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 305560,
       "name": "Bhatiyali - Based on : Pahadi Jhinjhit",
       "url": "https://open.spotify.com/track/7LRkmYtrvZjH4nZaYlEEAs"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2779kgLwGYn8NP2tk14AB7"
-      },
-      "artists": [
-        {
-          "name": "Rasika Shekar",
-          "url": "https://open.spotify.com/artist/0v8Vu84KyjZUxCD1P8LpDp"
-        }
-      ],
-      "duration_ms": 238549,
-      "name": "Departure",
-      "url": "https://open.spotify.com/track/43tRzHQb2OziLUOgFJELuI"
     },
     {
       "added_at": "2023-08-30 06:44:43",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
-        "name": "Vynikam, Vol. 1",
-        "url": "https://open.spotify.com/album/5Pp7uLokr2VML2RLaGMl2D"
-      },
-      "artists": [
-        {
-          "name": "Phani Narayana",
-          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
-        }
-      ],
-      "duration_ms": 320992,
-      "name": "Cheri Yasodaku",
-      "url": "https://open.spotify.com/track/5V0thaq4RnmZDC26yrvVZG"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
         "name": "No Passport Control",
         "url": "https://open.spotify.com/album/3PJf1a7bCNUqdJSX28wb1I"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 236000,
       "name": "Inspired",
       "url": "https://open.spotify.com/track/36lMru2HEErt8tz9MBxDoi"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
+        "name": "Vynikam, Vol. 1",
+        "url": "https://open.spotify.com/album/5Pp7uLokr2VML2RLaGMl2D"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "duration_ms": 320992,
+      "name": "Cheri Yasodaku",
+      "url": "https://open.spotify.com/track/5V0thaq4RnmZDC26yrvVZG"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
-        "name": "This is Carnatic Fusion, Vol. 4",
-        "url": "https://open.spotify.com/album/6a8P91f5BM5eykZPz7M2jV"
-      },
-      "artists": [
-        {
-          "name": "Phani Narayana",
-          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
-        }
-      ],
-      "duration_ms": 261626,
-      "name": "Bantureethi Koluvu - Instrumental",
-      "url": "https://open.spotify.com/track/54cexJUIswXGxlfR2eky8y"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
         "name": "The Lost Cause",
         "url": "https://open.spotify.com/album/6WUUhrm9LceL3JJSPv8G6i"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
+        "name": "This is Carnatic Fusion, Vol. 4",
+        "url": "https://open.spotify.com/album/6a8P91f5BM5eykZPz7M2jV"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "duration_ms": 261626,
+      "name": "Bantureethi Koluvu - Instrumental",
+      "url": "https://open.spotify.com/track/54cexJUIswXGxlfR2eky8y"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
         "name": "No Passport Control",
         "url": "https://open.spotify.com/album/3PJf1a7bCNUqdJSX28wb1I"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 582000,
       "name": "Garden Lounge",
       "url": "https://open.spotify.com/track/5yYy5YAfL3KaheD5qlRAnp"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
+        "name": "Watching Her Dance",
+        "url": "https://open.spotify.com/album/3T1O3WPSess47GBkjmqTiQ"
+      },
+      "artists": [
+        {
+          "name": "Varun Nimbolkar",
+          "url": "https://open.spotify.com/artist/3dmI9UkzIOZZeHcdLJfXZs"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "Watching Her Dance",
+      "url": "https://open.spotify.com/track/6SGGfkRmvRVJzdOimZFEa6"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
-        "name": "Watching Her Dance",
-        "url": "https://open.spotify.com/album/3T1O3WPSess47GBkjmqTiQ"
-      },
-      "artists": [
-        {
-          "name": "Varun Nimbolkar",
-          "url": "https://open.spotify.com/artist/3dmI9UkzIOZZeHcdLJfXZs"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "Watching Her Dance",
-      "url": "https://open.spotify.com/track/6SGGfkRmvRVJzdOimZFEa6"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
         "name": "Postcards EP",
         "url": "https://open.spotify.com/album/0AvlpY2VvSefbrRXaXbYW8"
       },
@@ -1147,38 +1147,18 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
-        "name": "Soul of South India \u2013 Instrumentals of the Greatest Traditional Melodies",
-        "url": "https://open.spotify.com/album/1F7BbdBXypkLKRo9Wpfs5n"
+        "name": "Moods of Yoga - Asana",
+        "url": "https://open.spotify.com/album/7g7ZeAYpbui7XaEEgea1qH"
       },
       "artists": [
         {
-          "name": "Phani Narayana",
-          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
-        },
-        {
-          "name": "S. Jaykumar",
-          "url": "https://open.spotify.com/artist/2Zckj2XgTkTG1mUIvzYpVj"
+          "name": "Satish Vyas",
+          "url": "https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV"
         }
       ],
-      "duration_ms": 333506,
-      "name": "Kurai Ondrum Illai - Ragamalika - Adi",
-      "url": "https://open.spotify.com/track/4pyjLWakoRXClNU2jRGVHJ"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
-        "name": "My Journey with Ebony & Ivory",
-        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
-      },
-      "artists": [
-        {
-          "name": "Avik Ganguly",
-          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
-        }
-      ],
-      "duration_ms": 215722,
-      "name": "Mind In Wonderland",
-      "url": "https://open.spotify.com/track/7Gicp5eFq4pbTdqAjva2Xe"
+      "duration_ms": 1041200,
+      "name": "Awakening The Soul 2",
+      "url": "https://open.spotify.com/track/6cqkxzLZNglEN65Kt5hCMF"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -1195,22 +1175,6 @@
       "duration_ms": 204800,
       "name": "Ex-Animo",
       "url": "https://open.spotify.com/track/11eiYSPEAaifhDMswWLpdy"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
-        "name": "Moods of Yoga - Asana",
-        "url": "https://open.spotify.com/album/7g7ZeAYpbui7XaEEgea1qH"
-      },
-      "artists": [
-        {
-          "name": "Satish Vyas",
-          "url": "https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV"
-        }
-      ],
-      "duration_ms": 1041200,
-      "name": "Awakening The Soul 2",
-      "url": "https://open.spotify.com/track/6cqkxzLZNglEN65Kt5hCMF"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -1235,18 +1199,18 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
-        "name": "East Blends West \u2013 Western Classical",
-        "url": "https://open.spotify.com/album/7c06bfeylH7I7IwNEarLo8"
+        "name": "My Journey with Ebony & Ivory",
+        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
       },
       "artists": [
         {
-          "name": "Sharat Chandra Srivastava",
-          "url": "https://open.spotify.com/artist/3CPeq5bCgG560Ixb2DcM8U"
+          "name": "Avik Ganguly",
+          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
         }
       ],
-      "duration_ms": 424373,
-      "name": "Carmina Burana, O Fortuna (Orff)",
-      "url": "https://open.spotify.com/track/3UIma3jo9jbfcvbBJxAUAB"
+      "duration_ms": 215722,
+      "name": "Mind In Wonderland",
+      "url": "https://open.spotify.com/track/7Gicp5eFq4pbTdqAjva2Xe"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -1279,6 +1243,42 @@
       "duration_ms": 178800,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/54E4eQqdmgVVasIVQPtD7V"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
+        "name": "Soul of South India \u2013 Instrumentals of the Greatest Traditional Melodies",
+        "url": "https://open.spotify.com/album/1F7BbdBXypkLKRo9Wpfs5n"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        },
+        {
+          "name": "S. Jaykumar",
+          "url": "https://open.spotify.com/artist/2Zckj2XgTkTG1mUIvzYpVj"
+        }
+      ],
+      "duration_ms": 333506,
+      "name": "Kurai Ondrum Illai - Ragamalika - Adi",
+      "url": "https://open.spotify.com/track/4pyjLWakoRXClNU2jRGVHJ"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
+        "name": "East Blends West \u2013 Western Classical",
+        "url": "https://open.spotify.com/album/7c06bfeylH7I7IwNEarLo8"
+      },
+      "artists": [
+        {
+          "name": "Sharat Chandra Srivastava",
+          "url": "https://open.spotify.com/artist/3CPeq5bCgG560Ixb2DcM8U"
+        }
+      ],
+      "duration_ms": 424373,
+      "name": "Carmina Burana, O Fortuna (Orff)",
+      "url": "https://open.spotify.com/track/3UIma3jo9jbfcvbBJxAUAB"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
-        "name": "My Journey with Ebony & Ivory",
-        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
+        "name": "The Violin Player (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ZVQVSIMR5231HVPUYJWTo"
       },
       "artists": [
         {
-          "name": "Avik Ganguly",
-          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
+          "name": "Bhaskar Dutta",
+          "url": "https://open.spotify.com/artist/5WmWSEl2YZs5TgVsFFDXBk"
         }
       ],
-      "duration_ms": 183637,
-      "name": "Mon Kharaper Bristi",
-      "url": "https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7"
+      "duration_ms": 347379,
+      "name": "The Last Cadenza",
+      "url": "https://open.spotify.com/track/3j0AwklIEeYW7AjOPFMkt4"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
-        "name": "The Violin Player (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6ZVQVSIMR5231HVPUYJWTo"
+        "name": "My Journey with Ebony & Ivory",
+        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
       },
       "artists": [
         {
-          "name": "Bhaskar Dutta",
-          "url": "https://open.spotify.com/artist/5WmWSEl2YZs5TgVsFFDXBk"
+          "name": "Avik Ganguly",
+          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
         }
       ],
-      "duration_ms": 347379,
-      "name": "The Last Cadenza",
-      "url": "https://open.spotify.com/track/3j0AwklIEeYW7AjOPFMkt4"
+      "duration_ms": 183637,
+      "name": "Mon Kharaper Bristi",
+      "url": "https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -1503,38 +1503,6 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
-        "name": "Emotive Conversation",
-        "url": "https://open.spotify.com/album/2Ig7cVIgBMpH2i4myl0NT1"
-      },
-      "artists": [
-        {
-          "name": "Avik Ganguly",
-          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
-        }
-      ],
-      "duration_ms": 172888,
-      "name": "Emotive Conversation",
-      "url": "https://open.spotify.com/track/4TtP5t0uihrLtFbnDV2ImP"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
-        "name": "Uncooked Blues",
-        "url": "https://open.spotify.com/album/5OoWWUk8HCldCaNslqZhF2"
-      },
-      "artists": [
-        {
-          "name": "Pratik Tushar",
-          "url": "https://open.spotify.com/artist/2p1KvPYsNNgLBfLhicmUvG"
-        }
-      ],
-      "duration_ms": 179003,
-      "name": "Uncooked Blues",
-      "url": "https://open.spotify.com/track/10tlq5YUvPL5b0amy5nUL3"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
         "name": "A Walk Through Brindavan (feat. Vijay Gopal & Nel Bucktowar)",
         "url": "https://open.spotify.com/album/38oyyrR3JnQKZjQOzIq2xn"
       },
@@ -1559,6 +1527,38 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
+        "name": "Uncooked Blues",
+        "url": "https://open.spotify.com/album/5OoWWUk8HCldCaNslqZhF2"
+      },
+      "artists": [
+        {
+          "name": "Pratik Tushar",
+          "url": "https://open.spotify.com/artist/2p1KvPYsNNgLBfLhicmUvG"
+        }
+      ],
+      "duration_ms": 179003,
+      "name": "Uncooked Blues",
+      "url": "https://open.spotify.com/track/10tlq5YUvPL5b0amy5nUL3"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
+        "name": "Emotive Conversation",
+        "url": "https://open.spotify.com/album/2Ig7cVIgBMpH2i4myl0NT1"
+      },
+      "artists": [
+        {
+          "name": "Avik Ganguly",
+          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
+        }
+      ],
+      "duration_ms": 172888,
+      "name": "Emotive Conversation",
+      "url": "https://open.spotify.com/track/4TtP5t0uihrLtFbnDV2ImP"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
         "name": "Abhay Nayampally",
         "url": "https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga"
       },
@@ -1571,22 +1571,6 @@
       "duration_ms": 309818,
       "name": "So...Now Hear This",
       "url": "https://open.spotify.com/track/0qA1raigGUBHtn8AIU1sj0"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
-        "name": "Maybe Someday",
-        "url": "https://open.spotify.com/album/2Tt6FvcQmkFXo0vAIpWIM1"
-      },
-      "artists": [
-        {
-          "name": "Abhishek Bonthu",
-          "url": "https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Maybe Someday",
-      "url": "https://open.spotify.com/track/3bOBQatV3miQwshPF6sqHy"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -1607,6 +1591,22 @@
       "duration_ms": 317538,
       "name": "Suka - Instrumental Version",
       "url": "https://open.spotify.com/track/03Z44Y3S9rpSWGOj8BPs4V"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
+        "name": "Maybe Someday",
+        "url": "https://open.spotify.com/album/2Tt6FvcQmkFXo0vAIpWIM1"
+      },
+      "artists": [
+        {
+          "name": "Abhishek Bonthu",
+          "url": "https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Maybe Someday",
+      "url": "https://open.spotify.com/track/3bOBQatV3miQwshPF6sqHy"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -1661,26 +1661,6 @@
       "url": "https://open.spotify.com/track/0UBhlyZ8UVLQJRJYeuWZAN"
     },
     {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
-        "name": "Of Agency and Abstraction",
-        "url": "https://open.spotify.com/album/0IWc6Er95KUR9p5xVXXm9B"
-      },
-      "artists": [
-        {
-          "name": "Rajna Swaminathan",
-          "url": "https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA"
-        },
-        {
-          "name": "Anjna Swaminathan",
-          "url": "https://open.spotify.com/artist/0tjmkKWHrOabhi2Po3O8EQ"
-        }
-      ],
-      "duration_ms": 249063,
-      "name": "Peregrination (feat. Anjna Swaminathan)",
-      "url": "https://open.spotify.com/track/00u1ZHXpQNW9H8a4dupCCa"
-    },
-    {
       "added_at": "2023-04-19 08:20:40",
       "album": {
         "name": "Synergy",
@@ -1699,6 +1679,26 @@
       "duration_ms": 743595,
       "name": "Shuddh Sarang",
       "url": "https://open.spotify.com/track/2MEGtbN6Acr43zkwQQJnJP"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
+        "name": "Of Agency and Abstraction",
+        "url": "https://open.spotify.com/album/0IWc6Er95KUR9p5xVXXm9B"
+      },
+      "artists": [
+        {
+          "name": "Rajna Swaminathan",
+          "url": "https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA"
+        },
+        {
+          "name": "Anjna Swaminathan",
+          "url": "https://open.spotify.com/artist/0tjmkKWHrOabhi2Po3O8EQ"
+        }
+      ],
+      "duration_ms": 249063,
+      "name": "Peregrination (feat. Anjna Swaminathan)",
+      "url": "https://open.spotify.com/track/00u1ZHXpQNW9H8a4dupCCa"
     },
     {
       "added_at": "2023-08-23 13:17:24",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。3月19日付。
+> Spotify Japanのデイリー急上昇チャート。3月20日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,079 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,130 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Shine Out](https://open.spotify.com/track/2FgLVjctguMwUcYURQUOYA) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Shine Out](https://open.spotify.com/album/2rO5QkM3BmZw0NLbQe7LJB) | 3:30 |
 | 50 | [CRUISIN'](https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'](https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8) | 3:25 |
 
-Snapshot ID: `MCwyNjc1MDE4OGJmYTVlYzk1NGRmMjM3MmM4MGI2MWFlNDc4MzY0MzUw`
+Snapshot ID: `MCxmYTcwYzcwZjIyODUwZDUxNTBmMWY1MmYwOTVjM2RjNGIwNzkyMzBi`

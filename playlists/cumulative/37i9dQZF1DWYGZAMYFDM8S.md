@@ -4,7 +4,7 @@
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-357 songs - 22 hr 13 min
+358 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Sophie](https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Without/Within](https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv) | 5:04 | 2022-07-22 |  |
 | [Sorrow \- Acoustic](https://open.spotify.com/track/0c5jwdFCYNXujjK785yYrI) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Sorrow \(Acoustic\)](https://open.spotify.com/album/3T70FnpPiuMgle8JKzpzJk) | 3:00 | 2021-11-05 | 2022-07-29 |
 | [Spirit Cold](https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:42 | 2021-11-05 |  |
-| [Spring has sprung](https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:18 | 2023-12-01 |  |
+| [Spring has sprung](https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:18 | 2023-12-01 | 2024-03-23 |
 | [Stanley Park \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3EIRyXhoQP8zglbqDif1NX) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 2:29 | 2022-02-07 | 2022-07-29 |
 | [Stay Alive](https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs) | 4:26 | 2022-07-22 |  |
 | [Stay Alive](https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/4cqXElyn3SU9jYbMhGFML2) | 4:26 | 2021-11-05 | 2022-07-19 |
@@ -349,6 +349,7 @@
 | [When Doves Cry \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Spotify Singles](https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk) | 4:40 | 2022-07-22 |  |
 | [Where You Are \- Acoustic](https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Living Room Worktapes](https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3) | 4:03 | 2021-11-05 |  |
 | [Who Else Could I Be](https://open.spotify.com/track/0px8acghPxrLMXXGaS6Mwe) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 4:35 | 2022-07-22 | 2022-11-13 |
+| [Wicked Game \- Live at Killkenny Arts Festival, Ireland, 2011](https://open.spotify.com/track/4aCkYwVrMbaXJkHzatneeh) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/4nQ38LqHw2CLMPysxTtfeK) | 4:31 | 2024-02-23 |  |
 | [Wicked Game \- Live at Killkenny Arts Festival, Ireland/2011](https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 4:31 | 2022-07-22 | 2024-02-29 |
 | [Wild Turkey](https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 4:32 | 2021-11-05 | 2022-07-29 |
 | [Winter](https://open.spotify.com/track/6lRFrEmU09wbl8rMKpgZB6) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Winter](https://open.spotify.com/album/1nnhuLPjtmYA3Np9waspzv) | 3:54 | 2021-11-05 | 2022-05-10 |

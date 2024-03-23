@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,826 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,001 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 24 | [Ride With Me \(feat\. Kid Ink\) \- Brennan Heart Remix](https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Ride With Me \(feat\. Kid Ink\) \[Brennan Heart Remix\]](https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE) | 3:50 |
 | 25 | [Bloody Mary](https://open.spotify.com/track/00NbtCjGk8CqdB8ukjxCT4) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt) | [Bloody Mary](https://open.spotify.com/album/4seVM4HKphKWbuVPL0q8k9) | 2:32 |
 | 26 | [Around the World \(La la La\)](https://open.spotify.com/track/1WF4RTvSeDTOQBD9epYwEi) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Around the World \(La la La\)](https://open.spotify.com/album/6ZMEtCubtaVQp5q458xbgj) | 2:33 |
-| 27 | [Miss You \- Remix](https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [Miss You \(Remix\)](https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy) | 2:51 |
-| 28 | [Dark Horse \(Hardstyle\)](https://open.spotify.com/track/5aJT7dU40Ry4zz1zI34845) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Dark Horse \(Hardstyle\)](https://open.spotify.com/album/26AwKORtQduylqg17xd0MH) | 1:48 |
+| 27 | [Dark Horse \(Hardstyle\)](https://open.spotify.com/track/5aJT7dU40Ry4zz1zI34845) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Dark Horse \(Hardstyle\)](https://open.spotify.com/album/26AwKORtQduylqg17xd0MH) | 1:48 |
+| 28 | [Miss You \- Remix](https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [Miss You \(Remix\)](https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy) | 2:51 |
 | 29 | [Can Can](https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a) | [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Can Can](https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi) | 2:08 |
 | 30 | [Come With Me](https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt) | [Come With Me](https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT) | 2:41 |
 | 31 | [The Nights \- Hardstyle Edit](https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn) | [The Nights \(Hardstyle Edit\)](https://open.spotify.com/album/44i8OiSQzIOYJ69XyxooPP) | 2:30 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 64 | [Bitter Sweet Symphony \(Hardstyle Mix\)](https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S) | [Jay Reeve](https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4), [Elyn](https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl) | [Bitter Sweet Symphony \(Hardstyle Mix\)](https://open.spotify.com/album/7D51Z16qsQhOVhfEWubBqF) | 3:00 |
 | 65 | [Smells Like Teen Spirit](https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Smells Like Teen Spirit](https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS) | 3:31 |
 | 66 | [He's a Pirate](https://open.spotify.com/track/1rSENjsUV5v8OiRrjxTyhX) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [He's a Pirate](https://open.spotify.com/album/3GPUFw0s4ng41t0YRxiI36) | 3:14 |
-| 67 | [Cotton Eye Joe](https://open.spotify.com/track/3iq4M1xPl3YRXRUUAIdREt) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Cotton Eye Joe](https://open.spotify.com/album/07XX6CrSeg9PSotzpi36EG) | 2:26 |
-| 68 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 |
+| 67 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 |
+| 68 | [Cotton Eye Joe](https://open.spotify.com/track/3iq4M1xPl3YRXRUUAIdREt) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Cotton Eye Joe](https://open.spotify.com/album/07XX6CrSeg9PSotzpi36EG) | 2:26 |
 | 69 | [Lay Low \(Radical Redemption Remix\)](https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Lay Low \(Radical Redemption Remix\)](https://open.spotify.com/album/6towXPOqUs32hg4Aosmhvp) | 2:56 |
 | 70 | [Kids](https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Kids](https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq) | 4:08 |
 
-Snapshot ID: `MCxhMjE4YzljN2Q3MDNiYmViMGEwODY3NmUyMjhiODgwNGVlZjI2ZWYz`
+Snapshot ID: `MCwwNzY3OTNiYTIwZTBiNjE0YjM3NjIwYWU1MWZmNDE2ZWQyYjUyM2Jm`

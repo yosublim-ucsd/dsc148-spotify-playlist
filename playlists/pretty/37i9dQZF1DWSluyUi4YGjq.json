@@ -1,12 +1,12 @@
 {
   "description": "The state of shoegaze. Gazing at pedals, soaring celestially high. Cover: Wisp",
-  "num_followers": 151886,
+  "num_followers": 152207,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDg3ODlhNzkyOTliNWI2YjhhNmFlM2JiZWMxMTQ4ZGZlNDA2YWY4",
+  "snapshot_id": "MCxkODc0NjcwMTM0ODY5YzliZmE4YTE1ZWFmZjZmMjM1ZDA5YTk0OGEx",
   "tracks": [
     {
       "added_at": "2024-03-18 15:50:05",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/7CYPzawmBUJUN3tDGhQh1I"
     },
     {
-      "added_at": "2024-01-12 17:24:07",
-      "album": {
-        "name": "long forgotten",
-        "url": "https://open.spotify.com/album/1LERoV2A0MTB4VnN8gVO2V"
-      },
-      "artists": [
-        {
-          "name": "flyingfish",
-          "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
-        }
-      ],
-      "duration_ms": 175792,
-      "name": "long forgotten",
-      "url": "https://open.spotify.com/track/7qsNTUgyF2fgM8Em9Ru7Fc"
-    },
-    {
       "added_at": "2024-01-31 21:39:53",
       "album": {
         "name": "Missing You",
@@ -57,6 +41,22 @@
       "url": "https://open.spotify.com/track/4mJz9boLlkYuZFue3Kn6gs"
     },
     {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Spiralling Out",
+        "url": "https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "Spiralling Out",
+      "url": "https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd"
+    },
+    {
       "added_at": "2024-03-18 15:50:05",
       "album": {
         "name": "scars",
@@ -71,6 +71,86 @@
       "duration_ms": 95002,
       "name": "scars",
       "url": "https://open.spotify.com/track/016z46SJwcRosW9Xb8JKmF"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Glasgow Eyes",
+        "url": "https://open.spotify.com/album/537Y3cd2bKYcMTakW8b7YL"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 208860,
+      "name": "Silver Strings",
+      "url": "https://open.spotify.com/track/4q3kmQlkbe0v4NfWElYeS2"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "sunspot",
+        "url": "https://open.spotify.com/album/0MiGYQ25SK12QAJButNdMy"
+      },
+      "artists": [
+        {
+          "name": "dottie",
+          "url": "https://open.spotify.com/artist/40grr46nSRIMZm8h4wdyKY"
+        }
+      ],
+      "duration_ms": 216541,
+      "name": "sunspot",
+      "url": "https://open.spotify.com/track/7MvQlWCsnEKbXpjTrNOwfc"
+    },
+    {
+      "added_at": "2024-01-12 17:24:07",
+      "album": {
+        "name": "long forgotten",
+        "url": "https://open.spotify.com/album/1LERoV2A0MTB4VnN8gVO2V"
+      },
+      "artists": [
+        {
+          "name": "flyingfish",
+          "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
+        }
+      ],
+      "duration_ms": 175792,
+      "name": "long forgotten",
+      "url": "https://open.spotify.com/track/7qsNTUgyF2fgM8Em9Ru7Fc"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Light Your Way Home",
+        "url": "https://open.spotify.com/album/3rCLhXwnkKB7v2zMe3UvT4"
+      },
+      "artists": [
+        {
+          "name": "Metz",
+          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
+        }
+      ],
+      "duration_ms": 308294,
+      "name": "Light Your Way Home",
+      "url": "https://open.spotify.com/track/0XnIeYVEFtUNSfNM1faHDj"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Lust",
+        "url": "https://open.spotify.com/album/1Zan8FfTJ2LTjwWALcs8dB"
+      },
+      "artists": [
+        {
+          "name": "Chlorine",
+          "url": "https://open.spotify.com/artist/5gYijxUwsux7N88QuiLQJG"
+        }
+      ],
+      "duration_ms": 315629,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/15kIIljB6b5pmMafU7w9CB"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -131,22 +211,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Lust",
-        "url": "https://open.spotify.com/album/1Zan8FfTJ2LTjwWALcs8dB"
-      },
-      "artists": [
-        {
-          "name": "Chlorine",
-          "url": "https://open.spotify.com/artist/5gYijxUwsux7N88QuiLQJG"
-        }
-      ],
-      "duration_ms": 315629,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/15kIIljB6b5pmMafU7w9CB"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Feels Like You",
         "url": "https://open.spotify.com/album/1fyZK4ivI8xZCOdOuOgPa7"
       },
@@ -175,6 +239,22 @@
       "duration_ms": 294375,
       "name": "Fling",
       "url": "https://open.spotify.com/track/5OgP6Zv96nGHTiqGomqWSt"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "gave you my all",
+        "url": "https://open.spotify.com/album/6f2HSagGc0cJvZAZZraJqp"
+      },
+      "artists": [
+        {
+          "name": "juggler",
+          "url": "https://open.spotify.com/artist/0HX7DEWAlnzbE3sikNXQik"
+        }
+      ],
+      "duration_ms": 193907,
+      "name": "gave you my all",
+      "url": "https://open.spotify.com/track/4FkQp96ud503gquiM2Ur9l"
     },
     {
       "added_at": "2023-11-14 14:48:39",
@@ -223,22 +303,6 @@
       "duration_ms": 149471,
       "name": "An Impossibly Long Hallway...",
       "url": "https://open.spotify.com/track/1HeAW9fVMfuN0T5LKb8q6g"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "gave you my all",
-        "url": "https://open.spotify.com/album/6f2HSagGc0cJvZAZZraJqp"
-      },
-      "artists": [
-        {
-          "name": "juggler",
-          "url": "https://open.spotify.com/artist/0HX7DEWAlnzbE3sikNXQik"
-        }
-      ],
-      "duration_ms": 193907,
-      "name": "gave you my all",
-      "url": "https://open.spotify.com/track/4FkQp96ud503gquiM2Ur9l"
     },
     {
       "added_at": "2023-06-07 17:01:15",
@@ -463,22 +527,6 @@
       "duration_ms": 265000,
       "name": "Brown Paper Bag",
       "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Starflyer 59",
-        "url": "https://open.spotify.com/album/7eTETj3EROBg3aGhulEuwk"
-      },
-      "artists": [
-        {
-          "name": "Starflyer 59",
-          "url": "https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "Second Space Song",
-      "url": "https://open.spotify.com/track/3ivkORJmP12B3fxXkDszyY"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1671,22 +1719,6 @@
       "duration_ms": 286966,
       "name": "Crush",
       "url": "https://open.spotify.com/track/2fGrNRKLkWJqGuzEST3pYX"
-    },
-    {
-      "added_at": "2023-07-26 17:08:40",
-      "album": {
-        "name": "In Your Wake",
-        "url": "https://open.spotify.com/album/0a4jMRhtddxzyaUs0J1LKE"
-      },
-      "artists": [
-        {
-          "name": "Bathe Alone",
-          "url": "https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "In Your Wake",
-      "url": "https://open.spotify.com/track/5yjzzcXAbxczlL1Ywb4M9w"
     },
     {
       "added_at": "2023-09-29 15:11:53",

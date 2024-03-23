@@ -4,26 +4,25 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,309 likes - 17 songs - 57 min 26 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,309 likes - 16 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Red](https://open.spotify.com/track/6OnVDc9lVdQCAu34YyxY82) | [Ends With A Bullet](https://open.spotify.com/artist/6M5euMpBzqogCAEpg1XK9Z) | [Red](https://open.spotify.com/album/3fG0X69pdvA3rl56tWrCmu) | 3:50 |
-| 2 | [Señorita Amor](https://open.spotify.com/track/3DkgfqaCmKUvHqszDPZQpn) | [Casabe Añejo](https://open.spotify.com/artist/2h9Q1M3IEX9QEaZqJr5ieF) | [Señorita Amor](https://open.spotify.com/album/4nTHSSXqErIt09xUSLnyrC) | 3:22 |
-| 3 | [Half Past](https://open.spotify.com/track/3ppEyhGxZkvA8KaNHXflnh) | [Tim the Lion Tamer](https://open.spotify.com/artist/0PAxecOPGAKq9lXttAfb4W) | [Half Past](https://open.spotify.com/album/4kU6EVUc4u0OAkS3KwBFO4) | 3:31 |
-| 4 | [darling](https://open.spotify.com/track/2ZJlAeRqrdDHPBlqrxH27n) | [Jonsson United](https://open.spotify.com/artist/69W6phOHQZLUyEk3HAyXLB) | [darling](https://open.spotify.com/album/2nAiaP26h5gKj7aQuk9CZb) | 3:31 |
-| 5 | [Every Now And Then](https://open.spotify.com/track/0YROszaEx8PQTV9Nuqtzml) | [Carina Beldorf](https://open.spotify.com/artist/4YCgsTkkC2jBhwEDCDJfJW) | [Every Now And Then](https://open.spotify.com/album/6yNDgG5wTcQDPP35kftnJJ) | 3:24 |
-| 6 | [Dreams Unseen \(The Introvert Song\)](https://open.spotify.com/track/19d20mu1pq52TGYdsPDorX) | [YouKnow Richard](https://open.spotify.com/artist/22L3z2qN3uARQEYKSBnQSb) | [Dreams Unseen \(The Introvert Song\)](https://open.spotify.com/album/0PfbyscMAe4IPVC5zq5UEd) | 3:53 |
-| 7 | [Lunch in the Lounge with a Twist](https://open.spotify.com/track/6QZWxkGo4a1NmKd91ftCS6) | [Torbjörn Langborn](https://open.spotify.com/artist/4PwC1M4GYKQflVWEcEN8Hc) | [Lunch in the Lounge with a Twist](https://open.spotify.com/album/0tj3W3BnXGJtP8DQLSHuUd) | 5:12 |
-| 8 | [Ensam bland siffror](https://open.spotify.com/track/4jtsTULkXJVARD0qxyZkXw) | [Cornelia Tillvén](https://open.spotify.com/artist/6X39ol5rDbnwFmlDkaFI10) | [Ensam bland siffror](https://open.spotify.com/album/3lwMooCwKVjl2h4nREtowC) | 2:46 |
-| 9 | [Vad Fan Är Problemet](https://open.spotify.com/track/6htzMKUm9g7iubtRkn1Ewp) | [ELIN](https://open.spotify.com/artist/3oyN3Ywd4obyY83CQPYhoD) | [Vad Fan Är Problemet](https://open.spotify.com/album/24cYDJrjQU87OrmRwKOFI6) | 2:37 |
-| 10 | [Free \(I've been saved\)](https://open.spotify.com/track/6Ckbr6nCOp0yXdVbsP6rRK) | [NATALIE](https://open.spotify.com/artist/2OmMkd1UmR0jzXiPWaBVuM) | [Free \(I've been saved\)](https://open.spotify.com/album/48zhVwLKiLeGk2rgKbQoNG) | 3:33 |
-| 11 | [GRÖNA VITA](https://open.spotify.com/track/49fdD3wXMtX3s4GxLoZO1y) | [Södra Armadan](https://open.spotify.com/artist/0r0G0dpsN2Gis5N9LV5qqD) | [GRÖNA VITA](https://open.spotify.com/album/3uzYSDvGphILSa4BTjhxBd) | 3:51 |
-| 12 | [Changes](https://open.spotify.com/track/4pDgB7UAZNuSkLBVmzgGIi) | [Busted Chops](https://open.spotify.com/artist/4ZXWaXGsSvaGvUc11bB9iA), [Fergus Kuhar](https://open.spotify.com/artist/2yzApAUFDCOXaP8oKDvcwI) | [Changes](https://open.spotify.com/album/6F9OhZutWZ9FeP9BuoTAhl) | 3:47 |
-| 13 | [Rødt Hvidt](https://open.spotify.com/track/6K1a8G7VK6050kk5phdmcO) | [Sensei Samurai](https://open.spotify.com/artist/0hzVnCMNMcvLEbmuKx1naz) | [Rødt Hvidt](https://open.spotify.com/album/4Bg6AGWwZ9ijHBSY3YZVJP) | 2:59 |
-| 14 | [FALLOUT BOY 2024](https://open.spotify.com/track/6x60JrQzZnVSoZMMv6xDey) | [Medsandfeds](https://open.spotify.com/artist/3xvEhNc33891f4lJ9l9Srs) | [FALLOUT BOY 2024](https://open.spotify.com/album/6YJ7CwxHAd7pJEFN8cRQlT) | 2:18 |
-| 15 | [We Could Leave](https://open.spotify.com/track/7fEPaiUgmyWdTZ4L6kgss8) | [The Rumble Wagon](https://open.spotify.com/artist/3gbU3plAo7QklNzjYRa0nC) | [We Could Leave](https://open.spotify.com/album/7mXkhHnn7hIzYA0fg0BHuQ) | 3:38 |
-| 16 | [Abindadi](https://open.spotify.com/track/05AjpZSDyFuqZiXjUo83fk) | [Rolly Panda](https://open.spotify.com/artist/2tyET7jnZdfQsNKGsrBwzP), [Yaa Pono](https://open.spotify.com/artist/1oqHoNJGPx78BetdO5jMFs) | [Abindadi](https://open.spotify.com/album/3Ddvp0wW8J98AAjbnGT1P9) | 3:03 |
-| 17 | [Twin Brain](https://open.spotify.com/track/19HjblzSo43BwUxIjCNtqh) | [TILT](https://open.spotify.com/artist/4ifaahwu79ZwKXA2WmsfMj) | [Twin Brain](https://open.spotify.com/album/6uaigfWHhFcN7FWB64HK8l) | 2:03 |
+| 1 | [Heroes are calling](https://open.spotify.com/track/4viYLYCUnf3MbY5m5ZzqSb) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Heroes are calling](https://open.spotify.com/album/4I1140LAPcLnBTEEvs0hkb) | 3:20 |
+| 2 | [Värmen Du ger](https://open.spotify.com/track/6zI9ryG2fSVQMEMmwpJzpg) | [Pelle Ankarberg](https://open.spotify.com/artist/07sJTHzs0NqNEXJLy1enIc), [Josefine Frankner](https://open.spotify.com/artist/4ZP9s3rFVogmKDiy4i0X1w) | [Värmen Du ger](https://open.spotify.com/album/33P0jf8jtRsKhuyIcHGUFh) | 4:51 |
+| 3 | [Hurt Me](https://open.spotify.com/track/7hg4pXOh7vp45GIZaLBKeL) | [Thyra](https://open.spotify.com/artist/1PsB5MlTLwu3fmb0QsDH9G) | [Hurt Me](https://open.spotify.com/album/4hyjfazyAaOeOcczdBlJmJ) | 2:55 |
+| 4 | [She's Coming Over](https://open.spotify.com/track/3EkFr72iewkb9Z12WTTXZz) | [Jack Moy](https://open.spotify.com/artist/58tNZRHNf5ScIAo7zBZDbU) | [She's Coming Over](https://open.spotify.com/album/5Tcc8QFHzwpM6imEBOxyck) | 2:31 |
+| 5 | [Unforgettable](https://open.spotify.com/track/2ycfGyiv0DDP0xQqdHYEjh) | [Stonemountain Orchestra](https://open.spotify.com/artist/7fnvwuQnJfYw3siScvtXGz) | [Unforgettable](https://open.spotify.com/album/4FQtiZoxlMWYQf4QJ2syu0) | 3:37 |
+| 6 | [High Value Male](https://open.spotify.com/track/2bAsqCCS2HQj83iw2tB0X6) | [Papa Jupe's T.C.](https://open.spotify.com/artist/4cTTWSl72fBBZZSSosrXkh) | [High Value Male](https://open.spotify.com/album/3XP2320XRPEq8TseiN55yx) | 3:42 |
+| 7 | [Out Of The Dark Into The Light](https://open.spotify.com/track/76hpTbNIzB713pTAmMAwKR) | [Rebel Road](https://open.spotify.com/artist/6S7kR53XKNCHwHCNXMmJRx) | [Out Of The Dark Into The Light](https://open.spotify.com/album/5uqKuFkgecqZhEdvzcbI3O) | 3:42 |
+| 8 | [We're Beyond That](https://open.spotify.com/track/6gGn8OUGnRUx5BwRmNMHlS) | [Peter Beatty](https://open.spotify.com/artist/60ZbMLY7vbYQxrM3xs5IZa) | [We're Beyond That](https://open.spotify.com/album/3PlbLgAYDzAe7GOJvgRkNn) | 4:06 |
+| 9 | [I go back home](https://open.spotify.com/track/2gyIII5rcMRQ3iueRJncHL) | [Lilies Inc.](https://open.spotify.com/artist/6J1cK6mk9epNdGajJ22kgJ) | [I go back home](https://open.spotify.com/album/29optLuQlymqf3ahYuAYec) | 5:56 |
+| 10 | [Sakari](https://open.spotify.com/track/37NipVHV7tBv0dCWkjaGZB) | [Who Stole The Lipstick](https://open.spotify.com/artist/4BHm9fdynRP04lV7J97s5T) | [Kuka pesi lapsensa \(aivot\)](https://open.spotify.com/album/66SYQGOyoYenSDSnmoU2jG) | 5:08 |
+| 11 | [All we're waiting for](https://open.spotify.com/track/2UbkzHrX8APhWaAc2EIwqI) | [Sad Jack](https://open.spotify.com/artist/5o77RENKI3BmBWIEi0BbT6) | [All we're waiting for](https://open.spotify.com/album/038HskXZQcl9uJKGi02drW) | 5:08 |
+| 12 | [MY WAY!](https://open.spotify.com/track/5GMZMXT0V7l6PG7EvoPR4u) | [Darcey Jones](https://open.spotify.com/artist/2W0kIBnpKcS5ByLBPvcDLd), [B3nji](https://open.spotify.com/artist/5UZz3QrRd1GmeVPEEIYazJ) | [MY WAY!](https://open.spotify.com/album/3QUlbaqpjn1Uf45oJTm7GI) | 3:07 |
+| 13 | [Grandma's Old Thoroughfare](https://open.spotify.com/track/1fol935pFusk9n8yT3hhbG) | [Molly Alphabet](https://open.spotify.com/artist/0HMiXJfhhWEowuWGPKWMtr) | [Grandma's Old Thoroughfare](https://open.spotify.com/album/0pUAy7iJ1xZREKDm0dWBG0) | 5:31 |
+| 14 | [These Wars](https://open.spotify.com/track/0QICsuFtmK4KmHqrNIwoiA) | [SPxCE GHxST KxI](https://open.spotify.com/artist/4UYfk1ROqni6XdgsReXSl0), [DJ Jord\-E](https://open.spotify.com/artist/1PWxQn7gXpINrpNHm6OIcG) | [These Wars](https://open.spotify.com/album/7xPzRQYNBL7RZXQUTs0stm) | 3:08 |
+| 15 | [TALK](https://open.spotify.com/track/5gifqNERFpFwpdYBBjibvr) | [3GEE](https://open.spotify.com/artist/3NQQ1KtCicdLaXJEeOZvax), [DurtyManny](https://open.spotify.com/artist/2koOrtAjWczJrFGBoyxMHe) | [Talk](https://open.spotify.com/album/44aiwmRWDUamCNLxx7hSru) | 3:50 |
+| 16 | [Ett halvt liv](https://open.spotify.com/track/77jxUqMtHQVq5sztYS3mp5) | [Syndromet](https://open.spotify.com/artist/7enrasTz2pTfTfWEZkx8hX) | [Söråker](https://open.spotify.com/album/22WKWXdVHRrhpwWurtHsT5) | 2:37 |
 
-Snapshot ID: `OTIwLDAzMGEwMmY3ODRkNmY1YThhOGNlNmMzYTAyOWU2MmJkNmMwYWI0Yjk=`
+Snapshot ID: `OTI1LGMyMzE0NzFmYmZkYWUwNjg1YTA4YTdkNjc4MGRkN2FmMWM3NWMxYjQ=`

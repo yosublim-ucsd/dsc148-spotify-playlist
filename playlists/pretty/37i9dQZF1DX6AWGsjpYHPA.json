@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 142814,
+  "num_followers": 142882,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDkwMTEyNmU1NDEyYTM0ZmUyOGZmZTYzZjRlNzBjMWQyOTFlNWMy",
+  "snapshot_id": "MCxlMDk5MjI2MDFiODZiOTU2MWUwZjRlMzI0OTRmYWVjYTVjOGJkZTcz",
   "tracks": [
     {
       "added_at": "2024-01-03 14:56:32",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "Little Dragon",
-        "url": "https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 273546,
-      "name": "Constant Surprises",
-      "url": "https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
         "name": "Talk Memory",
         "url": "https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 313587,
       "name": "Beside April",
       "url": "https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
+        "name": "Little Dragon",
+        "url": "https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 273546,
+      "name": "Constant Surprises",
+      "url": "https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W"
     },
     {
       "added_at": "2024-01-03 14:56:32",

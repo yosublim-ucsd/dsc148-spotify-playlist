@@ -1,13 +1,29 @@
 {
-  "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 334094,
+  "description": "Jazz. But funky. Cover: Sly5thAve",
+  "num_followers": 334246,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWRjNjNlOGQ5ZjEwNGI4YTYwMjk4ZDc0NDJiNDczMmY4NzI3MjM5",
+  "snapshot_id": "MCw1NTBjZjY2ZDI3NzgyNmY0YTBkMTc2ZTYwZWJjODhlNjQ0ZDg1MDIz",
   "tracks": [
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/4FV6Mo4LSbN4YX6TSi8shV"
+      },
+      "artists": [
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        }
+      ],
+      "duration_ms": 314481,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/5SzCMMK5oo6PoiCSiii328"
+    },
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
@@ -55,26 +71,6 @@
       "duration_ms": 344226,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/7CrwpvLYTTJW9eA6qmFKyh"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Big Brother",
-        "url": "https://open.spotify.com/album/3wDuX7ZXEZZycoU5XVTg5n"
-      },
-      "artists": [
-        {
-          "name": "Sly5thAve",
-          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
-        },
-        {
-          "name": "Daniel Wytanis",
-          "url": "https://open.spotify.com/artist/59FNzYPBlL9ILle4RZE1ln"
-        }
-      ],
-      "duration_ms": 361482,
-      "name": "Big Brother",
-      "url": "https://open.spotify.com/track/706lD4ZY9A3uWNLjPYSpaV"
     },
     {
       "added_at": "2024-02-23 05:01:00",

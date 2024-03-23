@@ -2,9 +2,9 @@
 
 ### [Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX0BcQWzuB7ZO)
 
-> All the <a href="spotify:genre:edm\_dance">big ones</a> with Alok, Mondello G, CERES, Tribbs
+> All the <a href="spotify:genre:edm\_dance">big ones</a> with CYRIL
 
-360 songs - 18 hr 49 min
+361 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 | 2022-08-12 | 2023-02-11 |
 | [Lies](https://open.spotify.com/track/7I5XQpe29kmU86T37nhJip) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Lies](https://open.spotify.com/album/1OSNncFtXpvRdzatk0TEjM) | 3:16 | 2021-11-03\* | 2021-11-13 |
 | [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3zQpGaH50HeMjxurMZVF6q) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Lifetime](https://open.spotify.com/album/4jFxIzyBN7JD5rwLT0chjg) | 3:06 | 2021-11-03\* | 2022-03-31 |
-| [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 | 2022-11-24 |  |
+| [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 | 2022-11-24 | 2024-03-23 |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-09-01 |  |
 | [Lollipop](https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Lollipop](https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl) | 2:24 | 2023-10-19 |  |
 | [Lose Control](https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Lose Control](https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE) | 2:53 | 2023-07-28 | 2024-02-03 |
@@ -295,6 +295,7 @@
 | [Stay the Night](https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Stay the Night](https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ) | 2:51 | 2022-08-05 | 2023-04-29 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-15 |  |
 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2023-03-31 | 2023-08-26 |
+| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-03-22 |  |
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-07-14 |  |
 | [Summer 91 \(Looking Back\)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 \(Looking Back\)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 | 2021-11-03\* | 2022-03-11 |
 | [Summer In New York](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 2:38 | 2022-06-10 | 2023-04-22 |

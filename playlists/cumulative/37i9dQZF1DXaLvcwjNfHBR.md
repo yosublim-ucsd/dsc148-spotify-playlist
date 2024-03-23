@@ -4,7 +4,7 @@
 
 > Your new favourite songs! Cover: Artemas
 
-435 songs - 23 hr 21 min
+436 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,8 @@
 | [Never Be Alone](https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Never Be Alone](https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM) | 3:09 | 2024-01-22 | 2024-03-08 |
 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 | 2024-01-22 | 2024-03-01 |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/2SMpPuLG1PDPz5tP2RhjWT) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/0iPEHKxVGBBka65r0AwUWz) | 3:03 | 2023-06-26 | 2023-07-28 |
-| [Nostalgia](https://open.spotify.com/track/0hhvzMnYVZuCt0pwsAgxyp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/4BAVhpH8KMzD5cqlGmS3Db) | 2:44 | 2024-03-21 |  |
+| [Nostalgia](https://open.spotify.com/track/3AgHs7svu3fb2d5NguwfXY) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt) | 2:44 | 2024-03-21 |  |
+| [Nostalgia](https://open.spotify.com/track/0hhvzMnYVZuCt0pwsAgxyp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/4BAVhpH8KMzD5cqlGmS3Db) | 2:44 | 2024-03-21 | 2024-03-23 |
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-03 | 2023-12-16 |
 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-03-21 |  |
 | [Oh No \(Pt\. 2\)](https://open.spotify.com/track/1cHmANSBDzxAWAKruCpc6m) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Oh No \(Pt\. 2\)](https://open.spotify.com/album/7seqV24vhfyk9pJRLqD7Wq) | 4:08 | 2023-12-15 | 2024-02-23 |

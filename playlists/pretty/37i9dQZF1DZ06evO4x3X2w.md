@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,635 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 677,718 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 35 | [Big Ten Inch Record](https://open.spotify.com/track/74jtieTD4GbZSwfCfmaFxz) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 2:15 |
 | 36 | [Cryin' \- Live Version](https://open.spotify.com/track/6LIudS7VLqRA0GgzGQTiyt) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [A Little South Of Sanity](https://open.spotify.com/album/3vXuOrqNDMKynoFfJROB9P) | 5:10 |
 | 37 | [Sunshine](https://open.spotify.com/track/3GhzPJhE8edsDkaJHz1QsF) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC) | 3:37 |
-| 38 | [Lord Of The Thighs](https://open.spotify.com/track/2CVfNg22TjHfXXus4BXKZJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 4:14 |
-| 39 | [Get A Grip](https://open.spotify.com/track/0QDTTqEwu5IJ34wql1T03m) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 3:58 |
+| 38 | [Get A Grip](https://open.spotify.com/track/0QDTTqEwu5IJ34wql1T03m) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 3:58 |
+| 39 | [Lord Of The Thighs](https://open.spotify.com/track/2CVfNg22TjHfXXus4BXKZJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 4:14 |
 | 40 | [Draw The Line](https://open.spotify.com/track/27vuAmVFj4OJMDxFYaluTC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Draw The Line](https://open.spotify.com/album/3Qb7LY8ePk29MqQmnFhzUd) | 3:24 |
 | 41 | [F.I.N.E.](https://open.spotify.com/track/2Dw17OjuW3d6PscCqf6D1I) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 4:09 |
 | 42 | [Adam's Apple](https://open.spotify.com/track/4p3RAb1HkCRugbC8LGSP2K) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 49 | [Can't Stop Lovin' You](https://open.spotify.com/track/795ERoqNFbElIkkGNJV58Y) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn) | 4:04 |
 | 50 | [Lightning Strikes](https://open.spotify.com/track/2ervbJ7zh4Ry2hggiNeT3q) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rock In A Hard Place](https://open.spotify.com/album/15e4kGDE06PRB9RMunBZe9) | 4:26 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA2YWM0NWFjOGU5NDdiOTIzYTBmYzAxNjcyNDM5YTBjYQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBhNDczMDMwMzRmNGMwNWY0MjJiMjU4MTg1ZDBlMjUyMQ==`

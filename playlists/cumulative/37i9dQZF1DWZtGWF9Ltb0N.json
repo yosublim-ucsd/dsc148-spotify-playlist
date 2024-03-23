@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "BARRACUDA",
+        "url": "https://open.spotify.com/album/1nOUV3MeyAiszAuMMjlEAY"
+      },
+      "artists": [
+        {
+          "name": "Hgods",
+          "url": "https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178290,
+      "name": "BARRACUDA",
+      "url": "https://open.spotify.com/track/0wLkTnJxJxSNs6pyf7jUw3"
+    },
+    {
+      "album": {
         "name": "Creatures",
         "url": "https://open.spotify.com/album/5zoWlf4tcmtFGfFaOrXj4n"
       },
@@ -2092,7 +2110,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 188057,
       "name": "Deep Fall",
       "url": "https://open.spotify.com/track/5j7p02mLq0q7FWcePhzZeJ"
@@ -2418,7 +2436,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 201171,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/0ASJpt6xrhAYSGOrzk0b76"
@@ -3310,7 +3328,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 255446,
       "name": "G Shit",
       "url": "https://open.spotify.com/track/0KE0pJOq71sJWqsO1FGfmH"
@@ -4811,6 +4829,28 @@
     },
     {
       "album": {
+        "name": "Lapse",
+        "url": "https://open.spotify.com/album/7HcZT4FVS2BdGJIr7FfWPB"
+      },
+      "artists": [
+        {
+          "name": "Sleepnet",
+          "url": "https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2"
+        },
+        {
+          "name": "Noisia",
+          "url": "https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252558,
+      "name": "Lapse",
+      "url": "https://open.spotify.com/track/6rduLWfZ32SDJLco9Pb4jr"
+    },
+    {
+      "album": {
         "name": "Geode Selection",
         "url": "https://open.spotify.com/album/2q6m3cqBB8nU6MEC17QGx8"
       },
@@ -5634,7 +5674,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 240216,
       "name": "Migi",
       "url": "https://open.spotify.com/track/1cu75Tzz7YQZBSscNGz0Xc"
@@ -6136,7 +6176,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 180531,
       "name": "Novaform",
       "url": "https://open.spotify.com/track/4iRF49wQyW2359Lxh6bJ2q"
@@ -6317,6 +6357,24 @@
     },
     {
       "album": {
+        "name": "On The Rocks",
+        "url": "https://open.spotify.com/album/6GgVFimVPQwycH7VTdtM5B"
+      },
+      "artists": [
+        {
+          "name": "Boogie T",
+          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182142,
+      "name": "On The Rocks",
+      "url": "https://open.spotify.com/track/7ur5EWuxtY92yC8yasYhZg"
+    },
+    {
+      "album": {
         "name": "Oneness",
         "url": "https://open.spotify.com/album/6g69zaN5wm9YhmTX9PUoNC"
       },
@@ -6418,7 +6476,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 220761,
       "name": "Outside The Simulation",
       "url": "https://open.spotify.com/track/3BKd2ex6dmUl9QlU7gRFnc"
@@ -6617,6 +6675,24 @@
     },
     {
       "album": {
+        "name": "Pinky",
+        "url": "https://open.spotify.com/album/0bB6HUYWFx1B40l27ABu4C"
+      },
+      "artists": [
+        {
+          "name": "Pigeon Hole",
+          "url": "https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196802,
+      "name": "Pinky",
+      "url": "https://open.spotify.com/track/6Do1b2IicfJwzxXR3lGVFz"
+    },
+    {
+      "album": {
         "name": "Zeroes",
         "url": "https://open.spotify.com/album/7IqtStixf9Y4W529LVRxca"
       },
@@ -6650,6 +6726,24 @@
       "duration_ms": 331720,
       "name": "Pistola",
       "url": "https://open.spotify.com/track/6OW0RWmKQUU6iq0lDWeetS"
+    },
+    {
+      "album": {
+        "name": "PLAY HARD",
+        "url": "https://open.spotify.com/album/1tV39U1ylVuJyDSMEzUX6d"
+      },
+      "artists": [
+        {
+          "name": "Secret Recipe",
+          "url": "https://open.spotify.com/artist/22eFyjzI4OqJzqUrYlF46I"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111923,
+      "name": "PLAY HARD",
+      "url": "https://open.spotify.com/track/7LABUtohkGbYgEKyimA403"
     },
     {
       "album": {
@@ -7194,7 +7288,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 234857,
       "name": "Real Murder",
       "url": "https://open.spotify.com/track/1DcINY8ATp67RkpDr7VAZR"
@@ -8187,6 +8281,24 @@
     },
     {
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7ItctvDW7uwa0Zegbd8rq2"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156004,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J"
+    },
+    {
+      "album": {
         "name": "This Is Dubstep 2013",
         "url": "https://open.spotify.com/album/3662bNO8Ynjc0kMXvo1BXW"
       },
@@ -8476,6 +8588,24 @@
       "duration_ms": 334217,
       "name": "Somnium - Original Mix",
       "url": "https://open.spotify.com/track/2ChLKTRblfLAx7Byj4QMoK"
+    },
+    {
+      "album": {
+        "name": "Running Red EP",
+        "url": "https://open.spotify.com/album/0pnM3DOu0DHkPQnglS7KBH"
+      },
+      "artists": [
+        {
+          "name": "The Widdler",
+          "url": "https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "South Street",
+      "url": "https://open.spotify.com/track/0R6jR68WZTeSZYvbzOR1on"
     },
     {
       "album": {
@@ -10243,6 +10373,28 @@
     },
     {
       "album": {
+        "name": "wassup",
+        "url": "https://open.spotify.com/album/4D4Xqyr5rLNnzK14GvGTeu"
+      },
+      "artists": [
+        {
+          "name": "sfam",
+          "url": "https://open.spotify.com/artist/571ojpVCIGwAp4c1LV8yxI"
+        },
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "wassup",
+      "url": "https://open.spotify.com/track/73iD1rBBjPjQvFOFe2fM21"
+    },
+    {
+      "album": {
         "name": "Watching From A Distance",
         "url": "https://open.spotify.com/album/0W7MdF4x84CqjlHC3RiyIq"
       },
@@ -10378,7 +10530,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 192214,
       "name": "Who's the Best",
       "url": "https://open.spotify.com/track/3zKMchlxXeERZIkqKXXeA4"

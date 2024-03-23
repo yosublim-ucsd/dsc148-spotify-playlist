@@ -4,7 +4,7 @@
 
 > ¡Cortes modernos pa' los compas con estilo!
 
-378 songs - 21 hr 50 min
+379 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,8 @@
 | [Por Mi México](https://open.spotify.com/track/6f3ISIn47Wyg6X0V8eHMjm) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/6FF9KMDcDJF0pnAfrInopS) | 3:38 | 2021-12-07 | 2022-07-28 |
 | [Por Si Acaso](https://open.spotify.com/track/0FBQk9b2mveexdjaiZhySz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k) | [Por Si Acaso](https://open.spotify.com/album/3bhs4igaxstdRBeZHfahiP) | 3:18 | 2021-12-07 |  |
 | [Por Unos Centavos](https://open.spotify.com/track/3cTmJcHYrOKRadRRuD4TGp) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Por Unos Centavos](https://open.spotify.com/album/4L7tjJ5ChwXcY4jYCsaHHm) | 3:12 | 2022-06-06 | 2022-07-14 |
-| [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 | 2024-03-05 |  |
+| [Porte de Scarface](https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX) | 2:52 | 2024-03-05 |  |
+| [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 | 2024-03-05 | 2024-03-23 |
 | [Porte Exuberante](https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:33 | 2021-12-07 |  |
 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 | 2022-06-06 | 2022-09-27 |
 | [Prendela](https://open.spotify.com/track/1MnLTbh7Srl2neGR8UwQJA) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Prendela](https://open.spotify.com/album/56oOdm4WHANOUObn6aMYQm) | 5:32 | 2022-06-06 | 2022-07-12 |

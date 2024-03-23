@@ -4,7 +4,7 @@
 
 > Lhast e Chaylan entram na zona.
 
-506 songs - 1 day 3 hr 6 min
+507 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 | 2023-05-11 | 2023-06-09 |
 | [FALA COMIGO](https://open.spotify.com/track/1CMsg2cYPcStv9wTfIyN0a) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n), [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm) | [FALA COMIGO](https://open.spotify.com/album/0aOByZwykAkHd5NYgsy2ct) | 2:44 | 2023-05-25 | 2023-06-23 |
 | [Falam Muito](https://open.spotify.com/track/53mcQ80KjiD78AfkQ7fwJA) | [Beatoven](https://open.spotify.com/artist/5KPaJqjZ6Ta1dDO47eSQKa), [Dr Flow Semeia](https://open.spotify.com/artist/6xbIsNa7MZqXzaG0kxiZIj), [Sir Scratch](https://open.spotify.com/artist/5rvP5KtLM6n8xOUDqhmq4i), [Tekilla](https://open.spotify.com/artist/4JpVZA90RocmWArCvMSWqM) | [Falam Muito](https://open.spotify.com/album/1jMs35PYU2TPYu3nvzL1Pz) | 3:31 | 2024-02-16 | 2024-03-08 |
+| [Falsas Promessas](https://open.spotify.com/track/4df02rGPOOrmAG32URpPHI) | [Zt35](https://open.spotify.com/artist/4yEpDApCiftRugkpN2sOVM) | [Falsas Promessas](https://open.spotify.com/album/0j8boNQiLBCOZIpa0ZAtHS) | 2:24 | 2024-03-22 |  |
 | [FAMA](https://open.spotify.com/track/35uZfu8sybuugk9DkelTFv) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [FAMA](https://open.spotify.com/album/2wehAGXNEm5zttICwk1ERI) | 2:29 | 2023-01-06 | 2023-07-07 |
 | [Fato treino do City](https://open.spotify.com/track/6FnE1Y3iWcvVHFB3oLC0vB) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Fato treino do City](https://open.spotify.com/album/4fcBL2OWo3Gpw2Jg1GHE1Q) | 3:36 | 2022-07-16 | 2022-12-16 |
 | [FAX](https://open.spotify.com/track/3f7DEE3i9IzH7ieoKOLdvr) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [FAX](https://open.spotify.com/album/7hu0vKYovlQFVdu0KXVi1J) | 2:45 | 2022-07-16 | 2022-10-07 |

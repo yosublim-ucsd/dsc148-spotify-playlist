@@ -4,7 +4,7 @@
 
 > get lost in the  a e s t h e t i c
 
-443 songs - 1 day 0 hr 38 min
+444 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [clœ](https://open.spotify.com/track/230pjCGPAeToefwBcQieMZ) | [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM) | [clœ & ¡vaya melodía! ツ \(Singles\)](https://open.spotify.com/album/5bX7MiGjET5GUxO10xiuf8) | 2:46 | 2022-08-12 | 2022-10-05 |
 | [Coriahosanota \- Slowed + Reverb](https://open.spotify.com/track/4WrNFImUv1m2GWGL0QbfVi) | [Ralph Rodolen](https://open.spotify.com/artist/0NdkJzmD9OHILInIu6rbjO), [slow//reverb](https://open.spotify.com/artist/3PkF2MgUKkl7yrwoQMoY4j), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [METHBREATH \(Deluxe Edition\)](https://open.spotify.com/album/5us4FupvPJKwSIwqdzEIlK) | 3:24 | 2022-11-04 | 2023-08-24 |
 | [Corruption](https://open.spotify.com/track/11mNGRqfCokGVr6lPWSFU3) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Digital Despair](https://open.spotify.com/album/4bqmplFbqPLkdRvKNIGOPm) | 1:53 | 2021-12-08 | 2022-07-26 |
+| [Cosmic Palace](https://open.spotify.com/track/51Xlv4UIAcXca91pZxTZQO) | [DavZ](https://open.spotify.com/artist/1AOsohWDEAkuaJElJnHfkx), [Decisive Koala](https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT) | [Cosmic Palace](https://open.spotify.com/album/1kedM337e8aXcZomrNCSQx) | 4:14 | 2023-07-18 |  |
 | [Cosmic Palace](https://open.spotify.com/track/6FZSt1tVtKtj20gmqgIfNt) | [DavZ](https://open.spotify.com/artist/1AOsohWDEAkuaJElJnHfkx), [Decisive Koala](https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT) | [Cosmic Palace](https://open.spotify.com/album/0PlJciYp4lDHeB9IaAxYrt) | 4:14 | 2022-11-04 | 2024-03-03 |
 | [Courtwalk](https://open.spotify.com/track/1EstbSPmi2aPYybH1OBKsU) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [3D BLAST](https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2) | [Sessions: Star Guardian Taliyah](https://open.spotify.com/album/5a3R3wxx4SURufgfrgxwdV) | 3:32 | 2022-08-12 |  |
 | [Creation Through Existence](https://open.spotify.com/track/2GR4JjtoLxXVzCxbEwiy4t) | [Sonavision Deluxe](https://open.spotify.com/artist/1A5KhSFYk9BtgfnsuF3rff), [Komit](https://open.spotify.com/artist/3pEy2Cj8IMHmUvXkEekr6p) | [Creation](https://open.spotify.com/album/37Z1A8cXumKShQ5SWYGYFq) | 4:18 | 2022-08-12 | 2022-10-20 |
@@ -278,7 +279,7 @@
 | [Pause](https://open.spotify.com/track/1Zgwkg1HyGG4NuQfzf8HVI) | [NØVMBR](https://open.spotify.com/artist/0s7medNN59dto0vhQf2jZG) | [Solstice](https://open.spotify.com/album/2d1lIKw9Vm4p39tWXrEaDQ) | 4:10 | 2021-12-08 | 2022-07-28 |
 | [Penrose](https://open.spotify.com/track/581LGl1wK66VxvnEJyAsrx) | [Aexion](https://open.spotify.com/artist/2HFza51jWgaXRlxCIdkGNb) | [Dream Fantasy](https://open.spotify.com/album/3LRUDrZewWFcglVYeMesnU) | 4:00 | 2023-07-18 |  |
 | [Petra Retrograde](https://open.spotify.com/track/6f0BPUiBYaI65ZzLasgsqp) | [Oracle FM](https://open.spotify.com/artist/31DUbrXaZQE3myF3c4KNSL) | [Delta Paradise](https://open.spotify.com/album/5tsk20lcJ7U9O9C46qaVLG) | 4:16 | 2022-01-26 | 2022-06-13 |
-| [Pictures](https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci) | [Eyeliner](https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:42 | 2021-12-08 |  |
+| [Pictures](https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci) | [Eyeliner](https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:42 | 2021-12-08 | 2024-03-23 |
 | [Pink Skies](https://open.spotify.com/track/130t4k9REO0LTlDLwqdida) | [bl00dwave](https://open.spotify.com/artist/62i4qFmGjJrPoNwLuFfiCH) | [Afterglow](https://open.spotify.com/album/5jdcFXVVereQ0YsparNeK6) | 2:38 | 2021-12-08 | 2022-04-29 |
 | [pink worlds](https://open.spotify.com/track/7Ee0Fx1cs3GVaFC07oSe7o) | [enøize](https://open.spotify.com/artist/3xRoESQLajzT98FLABgTdv) | [pink worlds](https://open.spotify.com/album/4uih79tE1GAitUhx7vabiQ) | 4:23 | 2021-12-08 | 2022-07-01 |
 | [Planes, Trains, and Ally McBeals \- Remastered](https://open.spotify.com/track/0E6nCGzgzX7RWiTMhuv4sb) | [Oracle FM](https://open.spotify.com/artist/31DUbrXaZQE3myF3c4KNSL) | [Lovesick Selects \(Remastered\)](https://open.spotify.com/album/6xXwwzfIgTdaL2ZhDHHKGU) | 3:13 | 2021-12-08 |  |

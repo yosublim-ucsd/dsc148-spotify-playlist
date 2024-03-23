@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 103024,
+  "num_followers": 103019,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjA0NjExYWQ3ZjdkZTUzM2RkMTJiZDQyYWI4YzAxYTExOGY0OGM5",
+  "snapshot_id": "MCw3Yzc5YjZjNDQzYjMxOGI4ZTJmODZhNzdiZDU3ODlhYjlkYTdkM2Fi",
   "tracks": [
     {
       "added_at": "2023-03-12 10:18:38",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ"
+      },
+      "artists": [
+        {
+          "name": "Alexander Motovilov",
+          "url": "https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw"
+        }
+      ],
+      "duration_ms": 165902,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Szymanowski: Piano Works, Vol. 2",
         "url": "https://open.spotify.com/album/2PMbM22YPJ2jvqenwrY8qO"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 76933,
       "name": "Variations on a Polish Theme, Op. 10: No. 5 Andantino",
       "url": "https://open.spotify.com/track/3bcdLMrAxrfn5dxInjIdI2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ"
-      },
-      "artists": [
-        {
-          "name": "Alexander Motovilov",
-          "url": "https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw"
-        }
-      ],
-      "duration_ms": 165902,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Amorzinho (Piano Version)",
-        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
-      },
-      "artists": [
-        {
-          "name": "Tip Ferreira",
-          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
-        }
-      ],
-      "duration_ms": 216023,
-      "name": "Amorzinho - Piano Version",
-      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "White Garden",
         "url": "https://open.spotify.com/album/05mABAcwfXvUFCzlfm2aCJ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 81641,
       "name": "Nos",
       "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Amorzinho (Piano Version)",
+        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
+      },
+      "artists": [
+        {
+          "name": "Tip Ferreira",
+          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
+        }
+      ],
+      "duration_ms": 216023,
+      "name": "Amorzinho - Piano Version",
+      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Pour Vous",
-        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
-      },
-      "artists": [
-        {
-          "name": "Pamela Goldings",
-          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Exhibitions",
-      "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/0qlURxpEPDS25Wg74IAoeC"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 147874,
       "name": "Eden",
       "url": "https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Pour Vous",
+        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
+      },
+      "artists": [
+        {
+          "name": "Pamela Goldings",
+          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Exhibitions",
+      "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Seascape",
-        "url": "https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY"
+        "name": "The Greek",
+        "url": "https://open.spotify.com/album/3XO6cd4LgCDGlNIZFcvaPf"
       },
       "artists": [
         {
-          "name": "Joni Bernier",
-          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
+          "name": "Miguel P\u00e9rez",
+          "url": "https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8"
         }
       ],
-      "duration_ms": 125000,
-      "name": "Seascape",
-      "url": "https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA"
+      "duration_ms": 164999,
+      "name": "The Greek",
+      "url": "https://open.spotify.com/track/2f9FdNRn2uDnNUxJ7JWXMf"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Seascape",
+        "url": "https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY"
+      },
+      "artists": [
+        {
+          "name": "Joni Bernier",
+          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "Seascape",
+      "url": "https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Tient qu'a\u0300 un fil",
         "url": "https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 167700,
       "name": "Tient qu'a\u0300 un fil",
       "url": "https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "The Greek",
-        "url": "https://open.spotify.com/album/3XO6cd4LgCDGlNIZFcvaPf"
-      },
-      "artists": [
-        {
-          "name": "Miguel P\u00e9rez",
-          "url": "https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8"
-        }
-      ],
-      "duration_ms": 164999,
-      "name": "The Greek",
-      "url": "https://open.spotify.com/track/2f9FdNRn2uDnNUxJ7JWXMf"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO"
-      },
-      "artists": [
-        {
-          "name": "Olivier DeGrasse",
-          "url": "https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Amalfi Moon",
         "url": "https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 151693,
       "name": "Amalfi Moon",
       "url": "https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO"
+      },
+      "artists": [
+        {
+          "name": "Olivier DeGrasse",
+          "url": "https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Pensierino",
-        "url": "https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q"
-      },
-      "artists": [
-        {
-          "name": "Maura Bellucci",
-          "url": "https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW"
-        }
-      ],
-      "duration_ms": 149500,
-      "name": "Pensierino",
-      "url": "https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Un Lent Mouvement",
         "url": "https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 161624,
       "name": "Un Lent Mouvement",
       "url": "https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Pensierino",
+        "url": "https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q"
+      },
+      "artists": [
+        {
+          "name": "Maura Bellucci",
+          "url": "https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Pensierino",
+      "url": "https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Playing The Piano",
-        "url": "https://open.spotify.com/album/6prGgcmP2UbZGkD4GeHf5F"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 309106,
-      "name": "Amore",
-      "url": "https://open.spotify.com/track/5sqHOvj1wi2xCwFvAlM2cA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "For the Love of Love",
         "url": "https://open.spotify.com/album/5ZND5oHPinIv1XkKQb4lsX"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 143251,
       "name": "For the Love of Love",
       "url": "https://open.spotify.com/track/7KWhxUrK9ofPTn3ItWceR5"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Playing The Piano",
+        "url": "https://open.spotify.com/album/6prGgcmP2UbZGkD4GeHf5F"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 309106,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/5sqHOvj1wi2xCwFvAlM2cA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1323,18 +1323,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Airbourne",
-        "url": "https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M"
+        "name": "Slowdance",
+        "url": "https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8"
       },
       "artists": [
         {
-          "name": "Eric Badanti",
-          "url": "https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7"
+          "name": "Luca Mazzillo",
+          "url": "https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm"
+        },
+        {
+          "name": "Jacopo Croci",
+          "url": "https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G"
         }
       ],
-      "duration_ms": 238588,
-      "name": "Airbourne",
-      "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
+      "duration_ms": 122883,
+      "name": "Slowdance",
+      "url": "https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1355,22 +1359,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Silentium",
-        "url": "https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d"
-      },
-      "artists": [
-        {
-          "name": "VIbeke Holst-Tofte",
-          "url": "https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h"
-        }
-      ],
-      "duration_ms": 141342,
-      "name": "Silentium",
-      "url": "https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "The Ember",
         "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
@@ -1387,22 +1375,34 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Slowdance",
-        "url": "https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8"
+        "name": "Airbourne",
+        "url": "https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M"
       },
       "artists": [
         {
-          "name": "Luca Mazzillo",
-          "url": "https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm"
-        },
-        {
-          "name": "Jacopo Croci",
-          "url": "https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G"
+          "name": "Eric Badanti",
+          "url": "https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7"
         }
       ],
-      "duration_ms": 122883,
-      "name": "Slowdance",
-      "url": "https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77"
+      "duration_ms": 238588,
+      "name": "Airbourne",
+      "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Silentium",
+        "url": "https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d"
+      },
+      "artists": [
+        {
+          "name": "VIbeke Holst-Tofte",
+          "url": "https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h"
+        }
+      ],
+      "duration_ms": 141342,
+      "name": "Silentium",
+      "url": "https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Selected Works",
-        "url": "https://open.spotify.com/album/7jGTiiAlQ3YJtdXYswXm0m"
-      },
-      "artists": [
-        {
-          "name": "Bruno Bavota",
-          "url": "https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "La Luce Nel Cuore",
-      "url": "https://open.spotify.com/track/2PfIOBRbPjXIkJI2cCDxz3"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Salamander",
         "url": "https://open.spotify.com/album/2GfvzDnOw4QdnlgRcQzaLn"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 185620,
       "name": "Salamander",
       "url": "https://open.spotify.com/track/1BshZyebub5iJgEBY26zKl"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Selected Works",
+        "url": "https://open.spotify.com/album/7jGTiiAlQ3YJtdXYswXm0m"
+      },
+      "artists": [
+        {
+          "name": "Bruno Bavota",
+          "url": "https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "La Luce Nel Cuore",
+      "url": "https://open.spotify.com/track/2PfIOBRbPjXIkJI2cCDxz3"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Branches \u00e9toil\u00e9es",
-        "url": "https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj"
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
       },
       "artists": [
         {
-          "name": "Leonard Czernay",
-          "url": "https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM"
+          "name": "Alec Windt",
+          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
         }
       ],
-      "duration_ms": 166795,
-      "name": "Branches \u00e9toil\u00e9es",
-      "url": "https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq"
+      "duration_ms": 135261,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
     }
   ],
   "unique_name": "Piano Study",

@@ -1,12 +1,12 @@
 {
   "description": "Revive aquellas grandes canciones desenchufadas.",
-  "num_followers": 1075115,
+  "num_followers": 1075144,
   "original_name": "Grandes Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWYwNjQ2MjgyMjliNjAzYTY2ZmNlYjEzYmFiMGNjNzBiMzE3NDZl",
+  "snapshot_id": "MCwyODZmOGEzN2Q1NDk4YTExZjcwMzQzYTQ2MzRhYmIxOWJkNGZjNjkz",
   "tracks": [
     {
       "added_at": "2021-02-10 21:16:07",
@@ -875,18 +875,18 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+        "name": "Panda MTV Unplugged (Live)",
+        "url": "https://open.spotify.com/album/1vtmvP6HpYWljDR2vplT3b"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "PXNDX",
+          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
         }
       ],
-      "duration_ms": 344666,
-      "name": "Vivir Sin Aire - Unplugged",
-      "url": "https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6"
+      "duration_ms": 238841,
+      "name": "Los Malaventurados No Lloran - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1Qm69nuJeRLCmu4c5MnplS"
     }
   ],
   "unique_name": "Grandes Unplugged",

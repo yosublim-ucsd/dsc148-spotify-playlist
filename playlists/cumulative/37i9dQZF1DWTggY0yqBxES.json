@@ -580,7 +580,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 107313,
       "name": "A Cold Sunday",
       "url": "https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o"
@@ -1262,6 +1262,28 @@
       "duration_ms": 151755,
       "name": "ARE U KIDDING",
       "url": "https://open.spotify.com/track/27BuErcU8fgsy1uNSA0y2z"
+    },
+    {
+      "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/0rxn9TDqFlClsXAJBF5Ayc"
+      },
+      "artists": [
+        {
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183410,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/1o9S5cM9CEWrh2ZVbvk5VS"
     },
     {
       "album": {
@@ -2504,7 +2526,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 134252,
       "name": "BTW",
       "url": "https://open.spotify.com/track/5yqsL6o98IXYFu8H0lAZY1"
@@ -4369,6 +4391,28 @@
     },
     {
       "album": {
+        "name": "Don't Care Didn't Ask",
+        "url": "https://open.spotify.com/album/2bS25a2Bme6RkFAozL5ggK"
+      },
+      "artists": [
+        {
+          "name": "Akintoye",
+          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
+        },
+        {
+          "name": "Abhi The Nomad",
+          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169760,
+      "name": "Don't Care Didn't Ask",
+      "url": "https://open.spotify.com/track/5LAzEfoTOp7sIiRvEXpWlT"
+    },
+    {
+      "album": {
         "name": "Don't F*ck Up My Day",
         "url": "https://open.spotify.com/album/5a0oMxlm6bxRdGzAJKCH0w"
       },
@@ -4918,6 +4962,24 @@
       "duration_ms": 132520,
       "name": "Fade the Sun",
       "url": "https://open.spotify.com/track/2fhUKlhKhedEdfGCss8J3C"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/7FGCBxUHVOvJUEWTwLCA9c"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5cF4gR8WHnHgkPFSD6hdC2"
     },
     {
       "album": {
@@ -5740,7 +5802,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 144348,
       "name": "Get Jiggy",
       "url": "https://open.spotify.com/track/3ShDW3FYg06Cc5BJV94sEj"
@@ -8138,7 +8200,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 151586,
       "name": "King",
       "url": "https://open.spotify.com/track/4yEvE3ldD3kEG6ubLKk3QQ"
@@ -8510,6 +8572,32 @@
       "duration_ms": 121666,
       "name": "LIFE SUCKS SO WE FUCK (feat. ZillaKami)",
       "url": "https://open.spotify.com/track/3ykD76bDGfeLUaCiQ7GtJE"
+    },
+    {
+      "album": {
+        "name": "light! (with Lil Nas X & 9lives)",
+        "url": "https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151839,
+      "name": "light! (with Lil Nas X & 9lives)",
+      "url": "https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj"
     },
     {
       "album": {
@@ -8934,7 +9022,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 198053,
       "name": "Looking For You",
       "url": "https://open.spotify.com/track/7C8RxsVy6MsOef3B5lk7TI"
@@ -9226,7 +9314,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 212000,
       "name": "Master P",
       "url": "https://open.spotify.com/track/6tEpOijHrGLidCtHeoMhlC"
@@ -9954,6 +10042,24 @@
       "duration_ms": 178728,
       "name": "MY BODY (feat. Tony Shhnow)",
       "url": "https://open.spotify.com/track/0fGWctmuhqsr4YkxcKacio"
+    },
+    {
+      "album": {
+        "name": "My Body's My Coffin",
+        "url": "https://open.spotify.com/album/0Axq02hDwH1qlocZPy4Xtn"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "My Body's My Coffin",
+      "url": "https://open.spotify.com/track/6u1XMGGLkwPEJHjaKB5eND"
     },
     {
       "album": {
@@ -12713,6 +12819,28 @@
     },
     {
       "album": {
+        "name": "Run Home",
+        "url": "https://open.spotify.com/album/1TxyiJUOTL8nNeKzFp5sLx"
+      },
+      "artists": [
+        {
+          "name": "Pell",
+          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
+        },
+        {
+          "name": "Teedra Moses",
+          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280056,
+      "name": "Run Home",
+      "url": "https://open.spotify.com/track/0X3rHWaJJyM5AvVwjfPOzx"
+    },
+    {
+      "album": {
         "name": "RUN THE WORLD",
         "url": "https://open.spotify.com/album/06spODPScUqLi5jMPKq93q"
       },
@@ -12790,6 +12918,24 @@
       "duration_ms": 132746,
       "name": "RZA",
       "url": "https://open.spotify.com/track/3UNRWUp42N4Oaj1M1mcDRE"
+    },
+    {
+      "album": {
+        "name": "MEMENTO (DELUXE)",
+        "url": "https://open.spotify.com/album/4ENhG6dvD8niF3TgWaqpER"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97169,
+      "name": "SAME SHIT",
+      "url": "https://open.spotify.com/track/1HbcnCKpPrIXjNPVIVyBHx"
     },
     {
       "album": {
@@ -13204,7 +13350,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 132244,
       "name": "Sick Baby",
       "url": "https://open.spotify.com/track/18Cbvb1J1RTv48xNWMuCyf"
@@ -13636,6 +13782,24 @@
       "duration_ms": 131947,
       "name": "Something Ether",
       "url": "https://open.spotify.com/track/6t5LP8XVNaAXjVJIBxHpZz"
+    },
+    {
+      "album": {
+        "name": "Son Gohan",
+        "url": "https://open.spotify.com/album/39EdvibZaks6Vi4ujEXHGA"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100971,
+      "name": "Son Gohan",
+      "url": "https://open.spotify.com/track/13RtnlcO9A13AX6oaoRZLk"
     },
     {
       "album": {
@@ -15091,6 +15255,24 @@
     },
     {
       "album": {
+        "name": "MEMENTO (DELUXE)",
+        "url": "https://open.spotify.com/album/4ENhG6dvD8niF3TgWaqpER"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106382,
+      "name": "TIRED (STILL)",
+      "url": "https://open.spotify.com/track/28tGrlEptFigFSVyy9llIm"
+    },
+    {
+      "album": {
         "name": "Titanic",
         "url": "https://open.spotify.com/album/5lerjk0bthUa3F5g2K3GrU"
       },
@@ -15666,7 +15848,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 143684,
       "name": "vintage.",
       "url": "https://open.spotify.com/track/0yvc2gWf7Wdq0GmCghJWIm"
@@ -17030,7 +17212,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 142221,
       "name": "YOU KNOW WHAT I MEAN",
       "url": "https://open.spotify.com/track/7uomhQZto3zjn7LuUGjfBP"

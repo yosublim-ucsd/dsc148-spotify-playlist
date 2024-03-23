@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 384677,
+  "2024-03-23": 384685,
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Mida",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Holden",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -621,6 +621,24 @@
       "duration_ms": 154666,
       "name": "Autogol",
       "url": "https://open.spotify.com/track/5QRvX3WAktD8SIN2fQ99e6"
+    },
+    {
+      "album": {
+        "name": "Avaria",
+        "url": "https://open.spotify.com/album/7wLjcMg51NTWXNSJ1gloyQ"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153893,
+      "name": "Avaria",
+      "url": "https://open.spotify.com/track/25d0v0TOdM0KS99R4uK6bd"
     },
     {
       "album": {
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 156171,
       "name": "DIAMANTI",
       "url": "https://open.spotify.com/track/4L55Pn45FpcUCrBH7EN24p"
@@ -3685,7 +3703,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 177196,
       "name": "MENOMALE CHE HO TE",
       "url": "https://open.spotify.com/track/0dOm0iLzyIP7EtpdGwk4M4"
@@ -4158,6 +4176,24 @@
     },
     {
       "album": {
+        "name": "NON SO SE TU . viverci",
+        "url": "https://open.spotify.com/album/6CLuxcrNdVBPferezBP6Yp"
+      },
+      "artists": [
+        {
+          "name": "MAL\u00ccA",
+          "url": "https://open.spotify.com/artist/577NsAk4QOefh7AWViTOU9"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115851,
+      "name": "NON SO SE TU . viverci",
+      "url": "https://open.spotify.com/track/7DquaifQJeQ42uxFwRnLfZ"
+    },
+    {
+      "album": {
         "name": "Non te l'ho detto mai",
         "url": "https://open.spotify.com/album/7j1KaDAKd9qTMaqubJq7kS"
       },
@@ -4517,6 +4553,24 @@
       "duration_ms": 150769,
       "name": "ORO ORO ORO",
       "url": "https://open.spotify.com/track/4Re4W6U6JgSGPGPoyiZFyr"
+    },
+    {
+      "album": {
+        "name": "Padova",
+        "url": "https://open.spotify.com/album/0IhkJpTu85p3aSmjzmBaDf"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Padova",
+      "url": "https://open.spotify.com/track/7lacTm7XdUshSIzWLemBDj"
     },
     {
       "album": {
@@ -5557,7 +5611,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 203400,
       "name": "Si \u00e8 spenta anche la luna - LUNA",
       "url": "https://open.spotify.com/track/2nWVJWO9bQRH6OsvG5bWIO"
@@ -6767,7 +6821,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 203039,
       "name": "VIVO",
       "url": "https://open.spotify.com/track/5Z94e6QpyQI50ehSfeeLy3"
@@ -6789,6 +6843,24 @@
       "duration_ms": 171666,
       "name": "Voglio di pi\u00f9",
       "url": "https://open.spotify.com/track/2EwaZtnl6HtnesKXiHfn7U"
+    },
+    {
+      "album": {
+        "name": "Voglio Innamorarmi",
+        "url": "https://open.spotify.com/album/7cQCBvJeKOxoZSr0FIM1mZ"
+      },
+      "artists": [
+        {
+          "name": "Anto Paga",
+          "url": "https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113850,
+      "name": "Voglio Innamorarmi",
+      "url": "https://open.spotify.com/track/2phwwQDC5KyglBMPxO8eof"
     },
     {
       "album": {

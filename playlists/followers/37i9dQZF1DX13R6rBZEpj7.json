@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 206278,
+  "2024-03-23": 206369,
   "date_first_scraped": "2022-04-20",
   "description": "Turn up the volume for some filthy bassline! ",
   "name": "Bassline Bangers",
@@ -727,6 +727,28 @@
       "duration_ms": 187504,
       "name": "Body Talk - Samstone Remix",
       "url": "https://open.spotify.com/track/3TZd5TiRiHLkKptoF4jOvs"
+    },
+    {
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182192,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5"
     },
     {
       "album": {
@@ -2261,7 +2283,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 232888,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
@@ -4320,6 +4342,28 @@
     },
     {
       "album": {
+        "name": "Songs Of Praise",
+        "url": "https://open.spotify.com/album/5inXKTunqtZdcvaWbvXATv"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Songs Of Praise - Radio Edit",
+      "url": "https://open.spotify.com/track/5yScrYiU6UpA2UgeS8PFCP"
+    },
+    {
+      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h"
       },
@@ -4945,7 +4989,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 280656,
       "name": "Wavelord Bizniz",
       "url": "https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w"

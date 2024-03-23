@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Don Toliver",
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Flo Milli",
   "name": "Channel-X",
   "tracks": [
     {
@@ -5571,6 +5571,28 @@
     },
     {
       "album": {
+        "name": "Hundred Million Reasons",
+        "url": "https://open.spotify.com/album/6sbcg3Ab1Ts57F12QWKkVA"
+      },
+      "artists": [
+        {
+          "name": "Paperboy Fabe",
+          "url": "https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182357,
+      "name": "Hundred Million Reasons",
+      "url": "https://open.spotify.com/track/4YTHJMz3yiR6PRnjdlP2jZ"
+    },
+    {
+      "album": {
         "name": "Lifesize Teddy",
         "url": "https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe"
       },
@@ -6198,6 +6220,32 @@
       "duration_ms": 156000,
       "name": "Juice",
       "url": "https://open.spotify.com/track/2ufGjcxYk6SD0KBdA8gX2J"
+    },
+    {
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147071,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
     },
     {
       "album": {
@@ -8031,7 +8079,7 @@
     },
     {
       "album": {
-        "name": "No Evil",
+        "name": "NO EVIL",
         "url": "https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R"
       },
       "artists": [
@@ -8044,7 +8092,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 145267,
-      "name": "No Evil",
+      "name": "NO EVIL",
       "url": "https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs"
     },
     {
@@ -9234,6 +9282,28 @@
       "duration_ms": 164469,
       "name": "PICK YOUR POISON (feat. Stormzy)",
       "url": "https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y"
+    },
+    {
+      "album": {
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191888,
+      "name": "POETRY IN MOTION",
+      "url": "https://open.spotify.com/track/6vZRq9JIOGTl3b9dmEgeZV"
     },
     {
       "album": {
@@ -11440,10 +11510,32 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 169728,
       "name": "Summer",
       "url": "https://open.spotify.com/track/7HAPnbrRswVgXYSGNzO1hF"
+    },
+    {
+      "album": {
+        "name": "The Honeymoon Phase",
+        "url": "https://open.spotify.com/album/3Exa5RZu5DJQSCNZPV3YgN"
+      },
+      "artists": [
+        {
+          "name": "Kenya Vaun",
+          "url": "https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk"
+        },
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170551,
+      "name": "Summer (feat. Musiq Soulchild)",
+      "url": "https://open.spotify.com/track/6YjGyMSXvJqvIsdfu2a2cS"
     },
     {
       "album": {

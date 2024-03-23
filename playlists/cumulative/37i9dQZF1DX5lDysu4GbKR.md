@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Teddy Swims
 
-222 songs - 13 hr 29 min
+223 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Radio \- Acoustic](https://open.spotify.com/track/3YCZ87JivLIZK4yqurn0wH) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Sides](https://open.spotify.com/album/5alIr9JGPvOQwPLphm0beJ) | 3:24 | 2022-06-16 | 2023-04-09 |
 | [Radio \- Acoustic](https://open.spotify.com/track/7CVZB9X434DUviZcd8xIEI) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Radio \(Acoustic\)](https://open.spotify.com/album/5Cd59q1EMsF14OVTkkSJVm) | 3:24 | 2021-12-09 | 2022-07-29 |
 | [Remind Me](https://open.spotify.com/track/6QRjpaIoSIssUrKWyYjO8o) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/5Tl9v8oev0uLTGUqnoVhQX) | 4:56 | 2021-12-09 | 2023-08-31 |
+| [Rent Free \- Acoustic](https://open.spotify.com/track/79lnq17i7L4AeFNfJO9Jaq) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [No More Lonely Nights](https://open.spotify.com/album/6oghy5BL3k36IYHUI3VHV4) | 2:46 | 2024-03-22 |  |
 | [Rise Up](https://open.spotify.com/track/1EgqV6SBNDEY1kspPMiUby) | [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Acoustic](https://open.spotify.com/album/3p79KkShcFlvO27bMljNfT) | 5:55 | 2021-12-09 | 2023-04-09 |
 | [Roses and Gold \- Acoustic](https://open.spotify.com/track/2m7PqOKf3rbgxDIvuwtZvH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Roses and Gold \(Acoustic\)](https://open.spotify.com/album/5PIpeGQr7KIiFPzn5VYZdx) | 3:49 | 2021-12-09 | 2022-01-26 |
 | [Royal Cologne](https://open.spotify.com/track/1Ms9FqdbzWzDkv6KSJE10U) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Royal Cologne](https://open.spotify.com/album/4FTJg1p495RegTI5viSwQr) | 3:56 | 2021-12-09 |  |

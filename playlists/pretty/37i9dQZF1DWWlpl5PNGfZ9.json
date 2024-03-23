@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 90.",
-  "num_followers": 200402,
+  "num_followers": 200612,
   "original_name": "Pop Latino: Los 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODEyMDQyODE1MjZmMzExYWQxYmU1MWRiYzY4MmYxZDAwNjNhNDU0",
+  "snapshot_id": "MCw3NmM5N2QyYzRkYmU4ZDgxOGYyMzVjNDY2MWJjZTBiYTdlMmZiMmU3",
   "tracks": [
     {
       "added_at": "2024-03-12 17:55:07",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-03-12 17:55:07",
       "album": {
-        "name": "El Sapo",
-        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
-      },
-      "artists": [
-        {
-          "name": "Azul Azul",
-          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
-        }
-      ],
-      "duration_ms": 123960,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
-    },
-    {
-      "added_at": "2024-03-12 17:55:07",
-      "album": {
         "name": "Qui\u00e9n Dijo Ayer",
         "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 264786,
       "name": "Dime Que No",
       "url": "https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq"
+    },
+    {
+      "added_at": "2024-03-12 17:55:07",
+      "album": {
+        "name": "El Sapo",
+        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
+      },
+      "artists": [
+        {
+          "name": "Azul Azul",
+          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
+        }
+      ],
+      "duration_ms": 123960,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
     },
     {
       "added_at": "2024-03-12 17:55:07",

@@ -4,7 +4,7 @@
 
 > 
 
-402 songs - 1 day 2 hr 4 min
+404 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Get What You Want](https://open.spotify.com/track/2WhPJ77KAF4TkeyBn8qmEW) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:31 | 2024-03-09 |  |
 | [Getaway Car](https://open.spotify.com/track/0VE4kBnHJUgtMf0dy6DRmW) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:53 | 2022-04-17 |  |
 | [Ghost of Chicago](https://open.spotify.com/track/1p67QqNBGvikWt0CZmkpDu) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [NOAH](https://open.spotify.com/album/4BIysF8o9wr5FArNPzak2t) | 3:07 | 2024-03-07 |  |
+| [girl i’ve always been](https://open.spotify.com/track/0bJAmhSAeMSfsyazOEUVFf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:01 | 2024-03-22 |  |
 | [Glitch](https://open.spotify.com/track/6wAFvJPpTZVirBKGZ4EnMW) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 2:28 | 2022-10-21 |  |
 | [gold rush](https://open.spotify.com/track/3Dby3p1m6IOZn2gIIqECgK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore \(deluxe version\)](https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG) | 3:05 | 2022-11-21 |  |
 | [Good Life](https://open.spotify.com/track/6sOK9LnvTTj4E2ZGzhKTQo) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [The Good Life](https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX) | 3:56 | 2023-11-14 |  |
@@ -254,6 +255,7 @@
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-01-31 |  |
 | [Nothing You Can Take From Me \(Boot\-Stompin' Version\) \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/4ck5SWSXlSUVHhYjq9Cb8L) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [The Covey Band](https://open.spotify.com/artist/4qH48Bc0oZ12M7TdGB7QVi) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:13 | 2023-11-24 |  |
 | [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 | 2023-10-27 |  |
+| [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-03-22 |  |
 | [Off To The Races](https://open.spotify.com/track/5IyblF777jLZj1vGHG2UD3) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:59 | 2022-12-18 |  |
 | [Old Money](https://open.spotify.com/track/6IfPyMb0Sxptpx6jBUATOS) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:31 | 2022-11-12 |  |
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2024-01-15 |  |
@@ -336,7 +338,7 @@
 | [Teardrops on My Guitar \- Pop Version](https://open.spotify.com/track/4pJi1rVt9GNegU9kywjg4z) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 2:59 | 2022-11-08 |  |
 | [Television / So Far So Good](https://open.spotify.com/track/5OUTFH5acycdnf8OVo21Gv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH) | 4:22 | 2022-05-04 |  |
 | [Terrified](https://open.spotify.com/track/5MKSl2ZHsImt0wOfBAs87U) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 4:15 | 2022-09-30 |  |
-| [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 | 2024-02-13 |  |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 | 2024-02-13 | 2024-03-23 |
 | [the 1](https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:30 | 2023-01-21 |  |
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-11-29 |  |
 | [The Archer](https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:31 | 2022-09-13 |  |

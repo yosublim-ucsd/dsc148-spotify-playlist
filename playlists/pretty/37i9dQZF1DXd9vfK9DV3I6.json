@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 308482,
+  "num_followers": 308659,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzYyODUyZDNiZGY4M2IzZDYyNTk5ZGJhNzZkODBiMDc2NjE3Y2Vm",
+  "snapshot_id": "MCw5Y2M4MjI0ZTI4ZTVmYjM1MTAyYWY0ODNiMmE1YTgyZjcxODBhODA1",
   "tracks": [
     {
       "added_at": "2024-03-13 08:19:05",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Heatiche (Vip Mix)",
-        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
-      },
-      "artists": [
-        {
-          "name": "Mpirgkel",
-          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
-        }
-      ],
-      "duration_ms": 216521,
-      "name": "Heatiche - Vip Mix",
-      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Amelia",
         "url": "https://open.spotify.com/album/1bQuCY8PIVLbvSl0cHyivO"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 193684,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/6GSuQUeRCOEQ5JRnI8iZYo"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Heatiche (Vip Mix)",
+        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
+      },
+      "artists": [
+        {
+          "name": "Mpirgkel",
+          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
+        }
+      ],
+      "duration_ms": 216521,
+      "name": "Heatiche - Vip Mix",
+      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -767,6 +767,26 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Moulayiten",
+        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+        }
+      ],
+      "duration_ms": 297593,
+      "name": "Moulayiten",
+      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Lala",
         "url": "https://open.spotify.com/album/40fLzSAhU3F0x5tSaZtVt6"
       },
@@ -779,6 +799,22 @@
       "duration_ms": 394280,
       "name": "Lala",
       "url": "https://open.spotify.com/track/5FJiSLoCEAV9fkX4oZd2ou"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -803,22 +839,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Ederlezi (feat. Dikanda)",
         "url": "https://open.spotify.com/album/6eZg4TQ6bB2P6kv7EYssNG"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 244878,
       "name": "Ederlezi (feat. Dikanda)",
       "url": "https://open.spotify.com/track/1LdmFlLhYJiW7BlE7PzGfR"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Moulayiten",
-        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
-        }
-      ],
-      "duration_ms": 297593,
-      "name": "Moulayiten",
-      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Kun",
+        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 314336,
+      "name": "Marrakech",
+      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Prophecies of the Ancient Future",
         "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 320045,
       "name": "Sensiz",
       "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Kun",
-        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 314336,
-      "name": "Marrakech",
-      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Sireli",
-        "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
-      },
-      "artists": [
-        {
-          "name": "Viken Arman",
-          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
-        }
-      ],
-      "duration_ms": 381818,
-      "name": "Souq",
-      "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Arabic Nights",
         "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
       },
@@ -1331,26 +1315,18 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Sunam",
-        "url": "https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt"
+        "name": "Sireli",
+        "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
       },
       "artists": [
         {
-          "name": "Y\u0131ld\u0131z Tilbe",
-          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
-        },
-        {
-          "name": "Anatolian Sessions",
-          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
-        },
-        {
-          "name": "Serdar Ayy\u0131ld\u0131z",
-          "url": "https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK"
+          "name": "Viken Arman",
+          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
         }
       ],
-      "duration_ms": 279216,
-      "name": "Sunam",
-      "url": "https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx"
+      "duration_ms": 381818,
+      "name": "Souq",
+      "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1391,6 +1367,30 @@
       "duration_ms": 160575,
       "name": "Love of You (The Violin Song)",
       "url": "https://open.spotify.com/track/3Plxq17VtrPDcXMFvFqBI4"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Sunam",
+        "url": "https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt"
+      },
+      "artists": [
+        {
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
+        },
+        {
+          "name": "Anatolian Sessions",
+          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
+        },
+        {
+          "name": "Serdar Ayy\u0131ld\u0131z",
+          "url": "https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK"
+        }
+      ],
+      "duration_ms": 279216,
+      "name": "Sunam",
+      "url": "https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Mosaic",
+      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "La rose \u00e9ternelle",
         "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 273502,
       "name": "Rhim - Jad Halal Remix",
       "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Mosaic",
-        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Mosaic",
-      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Younan",
-        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
-      },
-      "artists": [
-        {
-          "name": "Al\u00ec Farahani",
-          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
-        }
-      ],
-      "duration_ms": 418413,
-      "name": "Younan",
-      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Nomadic",
         "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 206339,
       "name": "Nomadic",
       "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Younan",
+        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
+      },
+      "artists": [
+        {
+          "name": "Al\u00ec Farahani",
+          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
+        }
+      ],
+      "duration_ms": 418413,
+      "name": "Younan",
+      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1723,6 +1723,22 @@
       "duration_ms": 452950,
       "name": "Mosaic - Yohan & David Remix",
       "url": "https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1767,26 +1783,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Dahlia Girl",
-        "url": "https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv"
-      },
-      "artists": [
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Eneli",
-          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Dahlia Girl",
-      "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "El Hawa",
         "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
       },
@@ -1811,18 +1807,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+        "name": "Dahlia Girl",
+        "url": "https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv"
       },
       "artists": [
         {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Eneli",
+          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
         }
       ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
+      "duration_ms": 197052,
+      "name": "Dahlia Girl",
+      "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
     },
     {
       "added_at": "2024-03-13 08:19:05",

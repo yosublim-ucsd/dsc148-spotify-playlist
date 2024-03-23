@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 29005,
+  "2024-03-23": 29025,
   "date_first_scraped": "2022-07-19",
   "description": "Chill afro music to study with.",
   "name": "Sound Semester ",
@@ -2491,7 +2491,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 230020,
       "name": "Know You",
       "url": "https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s"
@@ -3899,10 +3899,6 @@
         {
           "name": "David Docade",
           "url": "https://open.spotify.com/artist/0lFRX34C3tyfJ1XtR1p6MF"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
       "date_added": "2024-03-15",
@@ -4641,6 +4637,24 @@
       "duration_ms": 139534,
       "name": "sunsets in sao paolo",
       "url": "https://open.spotify.com/track/0UdBYMjHLlaHfGQZWKnWZk"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4OdvBnXcegSXUJmw3Vewhl"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171157,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5ApfOFw9J5DZ2XLKQFL8Hm"
     },
     {
       "album": {

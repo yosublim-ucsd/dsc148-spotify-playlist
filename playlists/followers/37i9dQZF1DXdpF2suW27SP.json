@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 177380,
+  "2024-03-23": 177438,
   "date_first_scraped": "2022-07-17",
-  "description": "Piruka entra na zona. ",
+  "description": "Lhast e Chaylan entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -463,6 +463,24 @@
       "duration_ms": 160000,
       "name": "Acalma a Alma",
       "url": "https://open.spotify.com/track/0iflJ9xdeYbwgDwzx6PqUW"
+    },
+    {
+      "album": {
+        "name": "ACESSO",
+        "url": "https://open.spotify.com/album/2KmVmwL9hqQbtnhySbl11R"
+      },
+      "artists": [
+        {
+          "name": "SleepyThePrince",
+          "url": "https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143111,
+      "name": "ACESSO",
+      "url": "https://open.spotify.com/track/2YKBixZOIzcSPA4rCDrsVl"
     },
     {
       "album": {
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 144000,
       "name": "Ber\u00e7o",
       "url": "https://open.spotify.com/track/2uFgC37zihYrBiIk5Z0Avt"
@@ -3971,7 +3989,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 208258,
       "name": "Futre - Ao Vivo",
       "url": "https://open.spotify.com/track/7nCK3OdL8UbaTYlrcFdSkE"
@@ -4553,7 +4571,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 279855,
       "name": "Iluminado",
       "url": "https://open.spotify.com/track/5MTWcFSTZgTT035W9E8oDy"
@@ -4815,7 +4833,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 210352,
       "name": "J\u00e1 Vou",
       "url": "https://open.spotify.com/track/48s7VUIilTfaLMZlkSuIxV"
@@ -5743,6 +5761,28 @@
       "duration_ms": 139726,
       "name": "Messi",
       "url": "https://open.spotify.com/track/0s4o6kKyL4CqQnJQa4Sp5V"
+    },
+    {
+      "album": {
+        "name": "Cold Summers & Warm Winters",
+        "url": "https://open.spotify.com/album/7fb2oMxjdcSVTK2G5v6OqM"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        },
+        {
+          "name": "Chaylan",
+          "url": "https://open.spotify.com/artist/4eoWvEa1Lac4l4HzPSBre8"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "META (SHWAY)",
+      "url": "https://open.spotify.com/track/1ywaAmGNVF06QNvRAeh8em"
     },
     {
       "album": {
@@ -6943,7 +6983,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 195840,
       "name": "Ontem #5",
       "url": "https://open.spotify.com/track/4WZ4tVjMkrejB71D6jpp05"
@@ -8237,6 +8277,24 @@
       "duration_ms": 193269,
       "name": "Roll Another One",
       "url": "https://open.spotify.com/track/0WtWIiMHgYKCX11kOwX6my"
+    },
+    {
+      "album": {
+        "name": "ROSA",
+        "url": "https://open.spotify.com/album/2iPZOdQYYDMmGlT4vJB3yK"
+      },
+      "artists": [
+        {
+          "name": "BUH BUH",
+          "url": "https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195137,
+      "name": "ROSA",
+      "url": "https://open.spotify.com/track/3AQVUwpSYBoPtzo6dPRDKp"
     },
     {
       "album": {
@@ -10031,6 +10089,28 @@
       "duration_ms": 191705,
       "name": "Vivenda",
       "url": "https://open.spotify.com/track/5vnzyBc5JZ1Z7VZJcf4ap6"
+    },
+    {
+      "album": {
+        "name": "Viver",
+        "url": "https://open.spotify.com/album/71xiHmvK30gXNVAf1I2B28"
+      },
+      "artists": [
+        {
+          "name": "Vado M\u00e1s Ki \u00c1s",
+          "url": "https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Viver",
+      "url": "https://open.spotify.com/track/4DJ6zp87A4UI2b3vOGxh92"
     },
     {
       "album": {

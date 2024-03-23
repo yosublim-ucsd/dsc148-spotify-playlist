@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: Temm\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,779 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,806 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 11 | [That Energy](https://open.spotify.com/track/4goO2EkCJh6Gw3ufpJ4jZt) | [Emerson Azarian](https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j) | [That Energy](https://open.spotify.com/album/0Ecmcz27yUk82z7MJSILBX) | 2:54 |
 | 12 | [Hurt Somebody](https://open.spotify.com/track/4c3O9CbWKhXM1UMCNRvEA5) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Headed North](https://open.spotify.com/album/2kT2utESRVu0otqiiDOGyf) | 3:30 |
 | 13 | [Heartbreak In Heaven](https://open.spotify.com/track/3i3I7HyCJ3UxdJTY5LTaWs) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Heartbreak In Heaven](https://open.spotify.com/album/4SUAVzKxDfY7XcoZ5BPMC3) | 2:21 |
-| 14 | [Delusional](https://open.spotify.com/track/5DhRuLgpHKgLmTwgAFKoix) | [Alexa.](https://open.spotify.com/artist/7H7w90AT2Ve8xdEDlgrphm) | [Delusional](https://open.spotify.com/album/4cq0eZqoh82zqqi7fBsvSa) | 3:22 |
+| 14 | [Delusional](https://open.spotify.com/track/5DhRuLgpHKgLmTwgAFKoix) | [Alexa Kate](https://open.spotify.com/artist/3iBxsXUg8JpSzeZQlp75e8) | [Delusional](https://open.spotify.com/album/4cq0eZqoh82zqqi7fBsvSa) | 3:22 |
 | 15 | [Days of Girlhood](https://open.spotify.com/track/4DfHQvIAZmSmqcZbuO80sZ) | [Dylan Mulvaney](https://open.spotify.com/artist/35BvsAD68jFbdwi9OdBcIB) | [Days of Girlhood](https://open.spotify.com/album/24FScV3CEmE9ERsgAp0EnV) | 2:58 |
 | 16 | [Masterpiece](https://open.spotify.com/track/0882GzD9srKQG4CvIWWbWo) | [Fraser Churchill](https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ) | [Masterpiece](https://open.spotify.com/album/2Zt0cDgogkqOKvSqAqX3jb) | 3:12 |
 | 17 | [Paralyzing](https://open.spotify.com/track/6kryJEIoIaogn0HUUWDbTE) | [Scar](https://open.spotify.com/artist/3DyUi3wp8COAWvHHd1Qq7H) | [Paralyzing](https://open.spotify.com/album/087YmoDDJelMsC8VuuNrI2) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [wreck](https://open.spotify.com/track/2vU4N94Z1BS9TPKYMoQPKx) | [Dalton Mauldin](https://open.spotify.com/artist/7HLQqnULw9QStkYa6mEEh8) | [wreck](https://open.spotify.com/album/2RS3dR9XAsMRbglQ6azUT9) | 3:14 |
 | 100 | [Sinister](https://open.spotify.com/track/5g3VLhRVLUpWJghanBJkMm) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [Sinister](https://open.spotify.com/album/2kOKgoaflXbstlzKnc9V7T) | 2:57 |
 
-Snapshot ID: `MCxjZWQ0OWJmODQ5YTAxMmM5ZDQ0ZWYwODRkMzgxZWYxNGY3OGI4NTc5`
+Snapshot ID: `MCw2NzNkOTUwOGZmNzdhNzMzZTNjY2FkNGY3Yzk1MDI4ZDRjMDhiY2Zi`

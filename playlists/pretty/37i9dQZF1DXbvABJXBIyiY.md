@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,260 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,259 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 38 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
 | 39 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 |
 | 40 | [Your Needs, My Needs](https://open.spotify.com/track/43lHewwomOqpJ4ZVwLRfgr) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/3aaVxygUPKEQMIpXPgAUrJ) | 3:27 |
-| 41 | [Shiver](https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:53 |
-| 42 | [Chemicals](https://open.spotify.com/track/2wDuq7nBkGJjO4ykq3aJ4D) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Chemicals](https://open.spotify.com/album/2aInGJWGVkBDcMZZfYVvA1) | 3:19 |
+| 41 | [Chemicals](https://open.spotify.com/track/2wDuq7nBkGJjO4ykq3aJ4D) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Chemicals](https://open.spotify.com/album/2aInGJWGVkBDcMZZfYVvA1) | 3:19 |
+| 42 | [Shiver](https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:53 |
 | 43 | [Hold On](https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:51 |
 | 44 | [Stars](https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM) | [Sam Airey](https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw) | [In Darkened Rooms](https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7) | 5:22 |
 | 45 | [The Rain](https://open.spotify.com/track/09pcOS99wvOAdsCFoC0VGS) | [The Suitcase Junket](https://open.spotify.com/artist/7Iew8GtdYcaznLxIJpJxeS) | [Dying Star](https://open.spotify.com/album/4WR9ZxxSx0vJN3exmSL1u6) | 3:27 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 55 | [Vedauwoo](https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Thin](https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn) | 2:39 |
 | 56 | [Seeing Other People](https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Without People](https://open.spotify.com/album/51tp0W2tRU0IfrNpemM9ra) | 3:06 |
 | 57 | [Caught in the Strange](https://open.spotify.com/track/67SFgwRk1tnYDIIB10j78g) | [Racing Glaciers](https://open.spotify.com/artist/11iuJcoaqtToPVCJ3DeBev) | [Caught in the Strange \(Deluxe\)](https://open.spotify.com/album/74vkVl8dlwKGSv9Unn6JKf) | 3:25 |
-| 58 | [Ricochet](https://open.spotify.com/track/5UmoFSMOWeilPzzDCQHND2) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/4XLmFt621uppWWHzoSOcnX) | 3:20 |
-| 59 | [Howl](https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Howl](https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj) | 3:03 |
+| 58 | [Howl](https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Howl](https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj) | 3:03 |
+| 59 | [Ricochet](https://open.spotify.com/track/5UmoFSMOWeilPzzDCQHND2) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/4XLmFt621uppWWHzoSOcnX) | 3:20 |
 | 60 | [Crying Wolf](https://open.spotify.com/track/2Fp9c5VhgUHFDhW4v9jQA0) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 3:29 |
 
-Snapshot ID: `MCxmNTk4ZDBlNjUxNWQ4MmY2YTY2MGVmYjQzYzg0M2UxMzA0YTgzY2Nm`
+Snapshot ID: `MCxkZmRhNTgyNThmMjVkYmJhZWJlZDgyZjA0YmFlNDEwZDMwNjVlYzkx`

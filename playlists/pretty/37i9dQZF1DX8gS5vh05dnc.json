@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmRjMjk5Mzc2NWJlZTE2N2ZmZDQ0ZWY3YmJmNzM3N2YwY2Y0NTg2",
+  "snapshot_id": "MCwzYThlMTM3NTczYTkwNzUxYjU3ODg2YTMzZTJkNzhjODY4YTAxZWRm",
   "tracks": [
     {
       "added_at": "2024-03-18 01:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-03-18 01:00:00",
       "album": {
-        "name": "Love On",
-        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 181650,
-      "name": "Love On",
-      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
-    },
-    {
-      "added_at": "2024-03-18 01:00:00",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2024-03-18 01:00:00",
+      "album": {
+        "name": "Love On",
+        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 181650,
+      "name": "Love On",
+      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
     },
     {
       "added_at": "2024-03-18 01:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-03-18 01:00:00",
       "album": {
+        "name": "Bad Liar",
+        "url": "https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 214647,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/2fZQIJew3nkNe99s2PKzul"
+    },
+    {
+      "added_at": "2024-03-18 01:00:00",
+      "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 186761,
       "name": "Lottery (feat. LU KALA)",
       "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
-    },
-    {
-      "added_at": "2024-03-18 01:00:00",
-      "album": {
-        "name": "Bad Liar",
-        "url": "https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 214647,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/2fZQIJew3nkNe99s2PKzul"
     },
     {
       "added_at": "2024-03-18 01:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-03-18 01:00:00",
       "album": {
-        "name": "Donavon Frankenreiter",
-        "url": "https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG"
-      },
-      "artists": [
-        {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
-        }
-      ],
-      "duration_ms": 148600,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/2BJy5YrRMhVCqaLNY5cbv2"
-    },
-    {
-      "added_at": "2024-03-18 01:00:00",
-      "album": {
         "name": "The Other Side (from Trolls World Tour)",
         "url": "https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 188186,
       "name": "The Other Side (from Trolls World Tour)",
       "url": "https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX"
+    },
+    {
+      "added_at": "2024-03-18 01:00:00",
+      "album": {
+        "name": "Donavon Frankenreiter",
+        "url": "https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "duration_ms": 148600,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2BJy5YrRMhVCqaLNY5cbv2"
     },
     {
       "added_at": "2024-03-18 01:00:00",

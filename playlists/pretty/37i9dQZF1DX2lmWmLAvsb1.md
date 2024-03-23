@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lmWmLAvsb1.md) - [plain]
 
 > The biggest songs in Latin America in 2019\. Cover: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,460 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,506 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lmWmLAvsb1.md) - [plain]
 | 7 | [Si Se Da \- Remix](https://open.spotify.com/track/6K5BsR04ijf3FHNzjbaagD) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Si Se da Remix](https://open.spotify.com/album/75Y4sJ1vwZfEivbsKPzAx6) | 5:32 |
 | 8 | [UN PESO](https://open.spotify.com/track/7hynhxDoDpgMIV12JuVtNa) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Marciano Cantero](https://open.spotify.com/artist/5QzDzXfXC5lepOBeQXBiVO) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:37 |
 | 9 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 |
-| 10 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 |
-| 11 | [Loco](https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco](https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb) | 3:24 |
+| 10 | [Loco](https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco](https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb) | 3:24 |
+| 11 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 |
 | 12 | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x) | 4:30 |
 | 13 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 |
 | 14 | [Callaita](https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Callaita](https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lmWmLAvsb1.md) - [plain]
 | 49 | [Goteo](https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Goteo](https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg) | 2:44 |
 | 50 | [Otro Trago](https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:45 |
 
-Snapshot ID: `MCxhMDI4Y2MxOThjNTljYzMzY2I0NjBmYmMxMjZhMDFkM2IwNDdmNTAw`
+Snapshot ID: `MCw5OWZiNGE4MmM3ZDM4MzBlMGYzNzFlOTExMTJiOTQ5OTVhZjdkZjFm`

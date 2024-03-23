@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 49432,
+  "num_followers": 49478,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDVmZjgyNmIyZjI0NDdlMjc4YTlkZjdkMDg5Mzc5MTQzMDQzYWY4",
+  "snapshot_id": "MCxjZTQ2M2Q1ZjllMjk3ODQyMTM0ZjIxYzIxOWMyZjc2MGI2OWEwZDI2",
   "tracks": [
     {
       "added_at": "2022-08-19 10:45:11",
@@ -447,6 +447,26 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "Bach, J.S.: French Suites Nos. 1-2 / Italian Concerto / Chromatic Fantasia and Fugue",
+        "url": "https://open.spotify.com/album/3WHDztwanWiA1DvORNNBx6"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 84973,
+      "name": "French Suite No. 2 in C Minor, BWV 813: IV. Air",
+      "url": "https://open.spotify.com/track/4LTlvSoS9iupihOSMdzrhR"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 187800,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: II. Largo",
       "url": "https://open.spotify.com/track/04jRwe67y8gkExGnRV1Zck"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach, J.S.: French Suites Nos. 1-2 / Italian Concerto / Chromatic Fantasia and Fugue",
-        "url": "https://open.spotify.com/album/3WHDztwanWiA1DvORNNBx6"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 84973,
-      "name": "French Suite No. 2 in C Minor, BWV 813: IV. Air",
-      "url": "https://open.spotify.com/track/4LTlvSoS9iupihOSMdzrhR"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -755,6 +755,26 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
+        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 102760,
+      "name": "2-Part Inventions, BWV 772-786: Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/6BmPKQpMz1JymCjISFjWic"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach: Goldberg Variations, BWV 988",
         "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 67573,
       "name": "Preambulum In C Major, BWV 924",
       "url": "https://open.spotify.com/track/0BELP51MLTMyd3ip7Nbo6K"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
-        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 102760,
-      "name": "2-Part Inventions, BWV 772-786: Invention No. 1 in C Major, BWV 772",
-      "url": "https://open.spotify.com/track/6BmPKQpMz1JymCjISFjWic"
     },
     {
       "added_at": "2022-08-19 10:45:11",

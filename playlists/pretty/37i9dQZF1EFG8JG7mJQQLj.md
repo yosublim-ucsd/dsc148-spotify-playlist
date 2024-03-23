@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,747 likes - 420 songs - 1 day 0 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,752 likes - 420 songs - 1 day 0 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 75 | [West Coast](https://open.spotify.com/track/1B7Vir1E4FcFPP5tUzDSmR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 3:15 |
 | 76 | [Battlefield](https://open.spotify.com/track/0wGPUxi4tuxfSeR0DtHFSp) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Battlefield](https://open.spotify.com/album/493cZBXesSA3z8UBKkwjQi) | 4:01 |
 | 77 | [Why Try](https://open.spotify.com/track/6tg9IlbJeHzesV5OWuhDup) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything](https://open.spotify.com/album/41zTgMSJC9mF6NyBkXXxZr) | 3:31 |
-| 78 | [Feel Again](https://open.spotify.com/track/1nE1VjP943pIuFdNWcLgYM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 3:05 |
-| 79 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 |
+| 78 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 |
+| 79 | [Feel Again](https://open.spotify.com/track/1nE1VjP943pIuFdNWcLgYM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 3:05 |
 | 80 | [obvious](https://open.spotify.com/track/0q85C1JiECyYIQthz1posA) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:26 |
 | 81 | [Wanted](https://open.spotify.com/track/3fT6xqEkC1jm4mHjOyXbKw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:16 |
 | 82 | [Because I Had You](https://open.spotify.com/track/1RRZSm4akqNyMOsPUhw4cb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:22 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 84 | [Cry for Me](https://open.spotify.com/track/1Ff71LUQO0KBk5Slu3K6Vu) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:09 |
 | 85 | [Somebody](https://open.spotify.com/track/3buwFfY33H32wfZ6X9poV3) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:59 |
 | 86 | [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/3KuZx7FPNcqXG8YFN5Y0OG) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Faith \(From "Sing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vcfCbzB0B72zI8fF5zBEv) | 2:40 |
-| 87 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 |
-| 88 | [Do It Like That](https://open.spotify.com/track/0XM1XnOYv8BkFPFVCU8ZjX) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 2:25 |
+| 87 | [Do It Like That](https://open.spotify.com/track/0XM1XnOYv8BkFPFVCU8ZjX) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 2:25 |
+| 88 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 |
 | 89 | [Why Do You Love Me](https://open.spotify.com/track/09rBX6mQFN1GFJgfqUQak5) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 2:51 |
 | 90 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 |
 | 91 | [The Fighter \(feat\. Ryan Tedder\)](https://open.spotify.com/track/77ZdAoTHYoF6Umo76HFD4m) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles II](https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB) | 3:48 |
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 130 | [Marchin On](https://open.spotify.com/track/4BUtvtGTRvJB49Hx2F7lle) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:11 |
 | 131 | [Doing It for the Money](https://open.spotify.com/track/6APnYxfLzIg2cejA3v2ljy) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 3:46 |
 | 132 | [Worst Nites](https://open.spotify.com/track/1f4tvi37ABO60upCvtm5Cl) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Pick U Up](https://open.spotify.com/album/7414qD6qDgp0dsbD8LuPEt) | 3:31 |
-| 133 | [What You Wanted](https://open.spotify.com/track/0ILXYaWxMQVEXnKq2eTmjW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:01 |
-| 134 | [hurt my feelings](https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:02 |
+| 133 | [hurt my feelings](https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:02 |
+| 134 | [What You Wanted](https://open.spotify.com/track/0ILXYaWxMQVEXnKq2eTmjW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:01 |
 | 135 | [Please Don't Stop The Rain](https://open.spotify.com/track/05ZVTnFGjDTnzQHMxK0Bir) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me \(International Exclusive Bundle\)](https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7) | 3:54 |
 | 136 | [Burning Bridges](https://open.spotify.com/track/3FQrnheOyqkoJPVgS7ZjoH) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:17 |
 | 137 | [Preacher](https://open.spotify.com/track/5ESl7nKS7eZDMkH4hfXY7r) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:08 |
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 154 | [All This Time](https://open.spotify.com/track/3jBZ215eVz9qwazMIQNSOO) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:02 |
 | 155 | [Heaven](https://open.spotify.com/track/1lFHaHvZeLf6XrOqX6iLlS) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 4:18 |
 | 156 | [Au Revoir](https://open.spotify.com/track/1oh5FOxndjZVz1wjiBeBmY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:50 |
-| 157 | [That Old Truck](https://open.spotify.com/track/0kjnvAqQvdjN69aDTGlceq) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:32 |
-| 158 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 |
+| 157 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 |
+| 158 | [That Old Truck](https://open.spotify.com/track/0kjnvAqQvdjN69aDTGlceq) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:32 |
 | 159 | [Second Guessing \- From Songland](https://open.spotify.com/track/08IV5RiD02METcqtfzDeqj) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:07 |
 | 160 | [Christmas Without You](https://open.spotify.com/track/4gWpUjTbcwASiRVkJM319B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Christmas Without You](https://open.spotify.com/album/0a0KVX4qdIea6J0JdVHc6J) | 3:17 |
 | 161 | [Higher](https://open.spotify.com/track/4bEpL49l4f0r8GtsjUFUqL) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:05 |
@@ -429,4 +429,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 419 | [All I Ever Wanted](https://open.spotify.com/track/6tUyTMQms7mQdaRiyLizCu) | [The Faith Crew](https://open.spotify.com/artist/4rdDVgScRyE4NTocYd30Qi) | [Tribute to Margaret Becker & Jeremy Camp](https://open.spotify.com/album/6ZjxpWsEm2ewK4K2PdJVXM) | 4:43 |
 | 420 | [Born To Race](https://open.spotify.com/track/0yWGRRHjwNOdApEm2gbbex) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [The Artificial Paradise Tour 中国巡演特别版](https://open.spotify.com/album/50PJ47XqwSZXA8Q165lDZW) | 3:11 |
 
-Snapshot ID: `Mjg1MTc4ODAsMDAwMDAwMDA0NTA2YWYzNmQ4YWUxZDUxZjFhY2QzZDBlOGUxMGYxOQ==`
+Snapshot ID: `Mjg1MTkzMjAsMDAwMDAwMDBiZDUxYTU3YTAzOWQ3ZTMxNDY5NzA5NDA2MTBiNzNlMg==`

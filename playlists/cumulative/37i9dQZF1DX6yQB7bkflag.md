@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Sal Priadi
 
-254 songs - 15 hr 12 min
+256 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Butterflies](https://open.spotify.com/track/0Cd1m9urXAgl2dADwSEvio) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Butterflies](https://open.spotify.com/album/0riwHA4hqJEaYi8GEXwzxp) | 3:25 | 2024-01-18 | 2024-01-26 |
 | [Cantik](https://open.spotify.com/track/3tri5XrdkhTT8dXPhWXZDa) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [ArTi Semestinya Cinta](https://open.spotify.com/album/48VJneXoN4AW5QAT4Ruwkc) | 4:00 | 2024-03-07 |  |
 | [Catalyst.](https://open.spotify.com/track/5V8dpQ1eFrDjJvw0hnrIqh) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Pepita](https://open.spotify.com/artist/7dwjCFo7cfTvB1ZtBxyaJa) | [Catalyst.](https://open.spotify.com/album/5bkm8U5R0eqE0hPUP4yxqp) | 3:16 | 2024-01-18 | 2024-02-10 |
+| [Cheerleader](https://open.spotify.com/track/779mhz1mAry946r91qzR1r) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Cheerleader](https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI) | 3:57 | 2024-03-22 |  |
 | [Cinta Pertama](https://open.spotify.com/track/0uEd3VbQj2wg8UitPEG5hB) | [Mytha Lestari](https://open.spotify.com/artist/4qb81y9DFygggMTArjhQMn) | [Cinta Pertama](https://open.spotify.com/album/0jSBw3BWiqJAMf4lHJKFda) | 4:04 | 2024-01-18 | 2024-02-10 |
 | [CLOSER](https://open.spotify.com/track/0jnNq7oQlbIt4Junfy1aHT) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ), [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [CLOSER](https://open.spotify.com/album/0z0LGO3fqevrJKVodLmLuG) | 2:22 | 2024-01-18 | 2024-02-24 |
 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2024-01-18 | 2024-02-02 |
@@ -166,7 +167,8 @@
 | [PULANG](https://open.spotify.com/track/1gt5nseAiBxo6fgGJ0cOtt) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [THE GRAND CHASE](https://open.spotify.com/album/5LyYbjOZxOorwRmB7aqOei) | 3:54 | 2024-01-18 | 2024-01-26 |
 | [Pulang \(Robbighfirlii\)](https://open.spotify.com/track/40xD1oDjPZVHt5AyIPBX7h) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Pulang \(Robbighfirlii\)](https://open.spotify.com/album/6aR6TWWlaWYauxklZKnD4Z) | 4:23 | 2024-03-14 |  |
 | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/track/1FOwWRFyJQh0EHthcdlcVE) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Big Mouth Cast](https://open.spotify.com/artist/1DqX6y6PeSke9Y3ojgq95w) | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/album/1BrbqpyUhXOquJzNd4rEza) | 2:21 | 2024-01-18 | 2024-02-17 |
-| [Rodeo](https://open.spotify.com/track/6rpzFcfN1hPaVh7ouY4TLo) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Rodeo](https://open.spotify.com/album/6dtXC6Zyw3v3k0BlSIw1p3) | 3:00 | 2024-03-21 |  |
+| [Rodeo](https://open.spotify.com/track/6rpzFcfN1hPaVh7ouY4TLo) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Rodeo](https://open.spotify.com/album/6dtXC6Zyw3v3k0BlSIw1p3) | 3:00 | 2024-03-21 | 2024-03-23 |
+| [Rodeo](https://open.spotify.com/track/7AlouNnZFdsl3KHDfoAX8O) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Rodeo](https://open.spotify.com/album/3voR7zaoHVxZSznmu7MXnW) | 3:00 | 2024-03-21 |  |
 | [Rumah](https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Rumah](https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn) | 4:18 | 2024-02-29 |  |
 | [Run Back To You](https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Run Back To You](https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza) | 3:08 | 2024-02-23 |  |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2024-01-18 | 2024-02-02 |

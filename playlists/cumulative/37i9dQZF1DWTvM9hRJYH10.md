@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Jenna Davis
 
-322 songs - 17 hr 2 min
+323 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,5 +330,6 @@
 | [You Just Get Older](https://open.spotify.com/track/00ffQISSDvdkURhzk5K45B) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN), [Riley Roth](https://open.spotify.com/artist/7DFV3Usu1Jrcyn45Kx31Bc) | [You Just Get Older](https://open.spotify.com/album/4DKjuDuJCTmoi7e62n5UnF) | 3:32 | 2022-04-01 |  |
 | [You Were Right \- Nat's Song](https://open.spotify.com/track/1v6gRTiLJGgFHtdqi532SU) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [You Were Right \(Nat's Song\)](https://open.spotify.com/album/1Nee1osu3gHB9OcYrfGvVR) | 3:49 | 2023-06-02 |  |
 | [Young](https://open.spotify.com/track/4xzyFu4b6Q1xNOfoJkQrOV) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Young](https://open.spotify.com/album/0hXdIfoRDUhc2GAqBOQ4nA) | 3:07 | 2021-12-31 | 2022-02-12 |
+| [Young Man](https://open.spotify.com/track/2L9D3jDJw9LE6tO34HlwE0) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Young Man](https://open.spotify.com/album/72m1mEu0Q1JuLAlWY9UGLo) | 3:47 | 2024-03-22 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

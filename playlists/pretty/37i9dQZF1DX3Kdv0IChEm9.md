@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Kdv0IChEm9.md) - [plain]
 
 > 100% clássicos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,080 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,285 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Kdv0IChEm9.md) - [plain]
 | 54 | [Memories \(feat\. Kid Cudi\) \- 2021 Remix](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Memories \(feat\. Kid Cudi\) \[2021 Remix\]](https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX) | 2:42 |
 | 55 | [I'm an Albatraoz](https://open.spotify.com/track/5MhsZlmKJG6X5kTHkdwC4B) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [I'm an Albatraoz](https://open.spotify.com/album/1qHVYbxQ6IS8YRviorKDJI) | 2:46 |
 | 56 | [Clarity](https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Clarity](https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs) | 4:31 |
-| 57 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 |
-| 58 | [This Is What It Feels Like](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Intense](https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF) | 3:24 |
+| 57 | [This Is What It Feels Like](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Intense](https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF) | 3:24 |
+| 58 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 |
 | 59 | [Heroes \(we could be\)](https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:30 |
 | 60 | [Turn Down for What](https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Turn Down for What](https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3) | 3:33 |
 
-Snapshot ID: `MCwxZmI0YmM2ZTA1OTM0NDAwY2ExNjQ1MDZhMGVjYWY5ZDcyNjE4ZmU0`
+Snapshot ID: `MCw4ZWVlOWU0NDgzYzJjYzMxYTE2YzE0YzY4YWE5ZWI2ZTA4YzQzMWU5`

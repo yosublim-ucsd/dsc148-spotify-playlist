@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 
 > Brighten your morning with these indie, folk and acoustic sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,547 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,546 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 40 | [The General Specific](https://open.spotify.com/track/7kDhGzc1hgkQQyzpvBmKcX) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:07 |
 | 41 | [Lake Michigan](https://open.spotify.com/track/30lubdu2sSFsZsGQJVGjRG) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Asleep At Heaven's Gate \(Remastered And Expanded Edition\)](https://open.spotify.com/album/47B9Lff4byhHeFXL9Wr73F) | 3:48 |
 | 42 | [Mansion Door](https://open.spotify.com/track/0IREGCigdEmhoBup3ffrPb) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Can't Wake Up](https://open.spotify.com/album/2Wfr01LIuo5Uy5Es51Q8b5) | 4:30 |
-| 43 | [I Summon You](https://open.spotify.com/track/4k15blneKWudA2gBmlWFIW) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Gimme Fiction \(Deluxe Edition\)](https://open.spotify.com/album/4sjSsxnmBlzxgZ9HGkHDsk) | 3:55 |
-| 44 | [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 |
+| 43 | [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 |
+| 44 | [I Summon You](https://open.spotify.com/track/4k15blneKWudA2gBmlWFIW) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Gimme Fiction \(Deluxe Edition\)](https://open.spotify.com/album/4sjSsxnmBlzxgZ9HGkHDsk) | 3:55 |
 | 45 | [Twenty Miles](https://open.spotify.com/track/5advEe2ajphfKOguJCt3Gp) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [The Black Dirt Sessions](https://open.spotify.com/album/7un6ilrjxO0KfVGj4mz0H2) | 3:43 |
 | 46 | [Shadow People](https://open.spotify.com/track/209g8XrYu3ov4Wt4bRk2Yw) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 4:13 |
 | 47 | [Line Of Fire](https://open.spotify.com/track/1t6zwEOPQUz9QIjlwZ5UGF) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW) | [Junip](https://open.spotify.com/album/4fsnz213jt84aF3obRP8jO) | 5:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 49 | [Younger Years](https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:49 |
 | 50 | [On the Road](https://open.spotify.com/track/6J5s4zugz7DxSgAWHKtmfV) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [From the Hills Below the City](https://open.spotify.com/album/0UJ1pJYJqAt9kDYZ1WGgpS) | 2:26 |
 
-Snapshot ID: `MCwwMzBmZTk2OGQwNzkwMjNjNWQxNWFlM2I1NDA5NjNkNTVhYzQwNDVh`
+Snapshot ID: `MCw5MzJmNDI0ZjhjNDNjMDQyOTZhNWU0NTNjMmExMTUzMTQ4ZTU5OGY2`

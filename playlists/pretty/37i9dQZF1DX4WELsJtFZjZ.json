@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1980s.",
-  "num_followers": 873409,
+  "num_followers": 873986,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YThlMTg5ZjQ1OWNkMDk1OWVkZWVmMjk2NThkMjMyYmZjZTNlODVi",
+  "snapshot_id": "MCw5YTAyMjUxOGYxNmE3NzNkODM2MjcyNjZhNDUyYjI3YjVhZmI1Y2Yx",
   "tracks": [
     {
       "added_at": "2023-01-24 23:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Sleeping With The Past (Remastered with bonus tracks)",
         "url": "https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 304133,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn"
+        "name": "Picture Book (Expanded Version)",
+        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
         }
       ],
-      "duration_ms": 227600,
-      "name": "True Colors",
-      "url": "https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A"
+      "duration_ms": 269840,
+      "name": "Holding Back the Years - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Picture Book (Expanded Version)",
-        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn"
       },
       "artists": [
         {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 269840,
-      "name": "Holding Back the Years - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
+      "duration_ms": 227600,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "From Time To Time - The Singles Collection",
-        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
-      },
-      "artists": [
-        {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Every Time You Go Away - Radio Edit",
-      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 270651,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "From Time To Time - The Singles Collection",
+        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
+      },
+      "artists": [
+        {
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Every Time You Go Away - Radio Edit",
+      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Heartbeat City",
-        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Cuts Like A Knife",
         "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 211933,
       "name": "Straight From The Heart",
       "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Heartbeat City",
+        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "We've Got Tonight",
-        "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Sheena Easton",
-          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "We've Got Tonight",
-      "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -1475,6 +1455,26 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "We've Got Tonight",
+        "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Sheena Easton",
+          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "We've Got Tonight",
+      "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "...Nothing Like The Sun",
-        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 236306,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "The Immaculate Collection",
         "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 225626,
       "name": "Crazy for You - Edit",
       "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "...Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 236306,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 254476,
+      "name": "These Dreams",
+      "url": "https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Cry Like a Rainstorm Howl Like the Wind (feat. Aaron Neville)",
         "url": "https://open.spotify.com/album/3f8tUCF1ThwqtNdifZiExM"
       },
@@ -1627,38 +1643,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
       },
       "artists": [
         {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
         }
       ],
-      "duration_ms": 254476,
-      "name": "These Dreams",
-      "url": "https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Baggariddim",
-        "url": "https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8"
-      },
-      "artists": [
-        {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        },
-        {
-          "name": "Chrissie Hynde",
-          "url": "https://open.spotify.com/artist/2ozLlEZTdSV3pjHgWwZMsi"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "I Got You Babe",
-      "url": "https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ"
+      "duration_ms": 324040,
+      "name": "Biggest Part of Me",
+      "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1679,18 +1675,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
+        "name": "Baggariddim",
+        "url": "https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8"
       },
       "artists": [
         {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        },
+        {
+          "name": "Chrissie Hynde",
+          "url": "https://open.spotify.com/artist/2ozLlEZTdSV3pjHgWwZMsi"
         }
       ],
-      "duration_ms": 324040,
-      "name": "Biggest Part of Me",
-      "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
+      "duration_ms": 189093,
+      "name": "I Got You Babe",
+      "url": "https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Hold An Old Friend's Hand",
+        "url": "https://open.spotify.com/album/1DAE5K7Rv0H1JZkJaLcV9x"
+      },
+      "artists": [
+        {
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+        }
+      ],
+      "duration_ms": 261906,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/5jzDnEoTtwzvJfvVx52rDC"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Guilty",
         "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 286066,
       "name": "Through The Years",
       "url": "https://open.spotify.com/track/4pP5xVUYEZljcmfyYFQXsx"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Hold An Old Friend's Hand",
-        "url": "https://open.spotify.com/album/1DAE5K7Rv0H1JZkJaLcV9x"
-      },
-      "artists": [
-        {
-          "name": "Tiffany",
-          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
-        }
-      ],
-      "duration_ms": 261906,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/5jzDnEoTtwzvJfvVx52rDC"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 351920,
-      "name": "Live to Tell",
-      "url": "https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Invisible Touch (2007 Remaster)",
         "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 302840,
       "name": "In Too Deep - 2007 Remaster",
       "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 351920,
+      "name": "Live to Tell",
+      "url": "https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Invisible Touch (2007 Remaster)",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Throwing It All Away - 2007 Remaster",
+      "url": "https://open.spotify.com/track/1dMilrhgON9TIGPVdWG2dX"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Misplaced Childhood (2017 Remaster)",
         "url": "https://open.spotify.com/album/3ExyKxlUkqD41I8tQumMDF"
       },
@@ -2439,22 +2455,6 @@
       "duration_ms": 258901,
       "name": "It Might Be You",
       "url": "https://open.spotify.com/track/2Qmx8W62PEz88T7cGjHDug"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Invisible Touch (2007 Remaster)",
-        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Throwing It All Away - 2007 Remaster",
-      "url": "https://open.spotify.com/track/1dMilrhgON9TIGPVdWG2dX"
     }
   ],
   "unique_name": "Soft 80s",

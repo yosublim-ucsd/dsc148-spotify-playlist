@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Sfera Ebbasta",
-  "num_followers": 205865,
+  "num_followers": 205929,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjgyNTZiZjA0NWI1MzEzODc3Zjg0NzZhZWRhYjZhMTM1YjI3OGFm",
+  "snapshot_id": "MCwwM2JhNzdhMzQwMTRkY2FlZTQ3ODFiNGY5YzQ2ZGNmNTVmZTZhZDYy",
   "tracks": [
     {
       "added_at": "2024-02-22 23:01:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "Gi\u00f9",
-        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "Nko",
-          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "CASA",
-      "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 185146,
       "name": "Tesla (feat. Sfera Ebbasta & DrefGold)",
       "url": "https://open.spotify.com/track/093RgZ7RXHZwIrxZhZYX4Q"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "CASA",
+      "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
         "name": "Soldi in Nero (feat. Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 183797,
       "name": "Soldi in Nero - feat. Sfera Ebbasta",
       "url": "https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1103,26 +1103,18 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "Gi\u00f9",
-        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+        "name": "20",
+        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
       },
       "artists": [
         {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "2nd Roof",
-          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
-        },
-        {
-          "name": "Vale Pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 200213,
-      "name": "FEDELE AL QUARTIERE (feat. Vale Pain)",
-      "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
+      "duration_ms": 208813,
+      "name": "Uno squillo",
+      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1163,18 +1155,26 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
+        },
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
         }
       ],
-      "duration_ms": 208813,
-      "name": "Uno squillo",
-      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
+      "duration_ms": 200213,
+      "name": "FEDELE AL QUARTIERE (feat. Vale Pain)",
+      "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1243,42 +1243,6 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "Mi fist (Remastered version)",
-        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 264689,
-      "name": "Note killer",
-      "url": "https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Ne \u00e8 valsa la pena (feat. Ghali)",
-      "url": "https://open.spotify.com/track/6GTCOWvhjvdk4pwlfrSjNO"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5"
       },
@@ -1343,6 +1307,26 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Ne \u00e8 valsa la pena (feat. Ghali)",
+      "url": "https://open.spotify.com/track/6GTCOWvhjvdk4pwlfrSjNO"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
         "name": "Cancelo",
         "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
       },
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
+        "name": "23 6451",
+        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "fuck 3x",
+      "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
         "name": "Davide",
         "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "23 6451",
-        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "fuck 3x",
-      "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
         "name": "Come Uccidere Un Usignolo",
         "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 206510,
       "name": "Bella",
       "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "FLOP",
+        "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 170018,
+      "name": "KUMITE",
+      "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1451,22 +1451,6 @@
       "duration_ms": 252991,
       "name": "Polvere (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/0ZzXPo0gS5h718w7WErG44"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "FLOP",
-        "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 170018,
-      "name": "KUMITE",
-      "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1503,6 +1487,38 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
+        "name": "Emanuele",
+        "url": "https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Narcos",
+      "url": "https://open.spotify.com/track/1BdmcsFAODQR4x7eiOuRVf"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "90MIN",
+      "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
         "name": "La zone (feat. Shiva)",
         "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 158769,
       "name": "La zone (feat. Shiva)",
       "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "FSK TRAPSHIT REVENGE",
-        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
-      },
-      "artists": [
-        {
-          "name": "FSK SATELLITE",
-          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "ANSIA NO",
-      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "Emanuele",
-        "url": "https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl"
+        "name": "FSK TRAPSHIT REVENGE",
+        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "FSK SATELLITE",
+          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Narcos",
-      "url": "https://open.spotify.com/track/1BdmcsFAODQR4x7eiOuRVf"
+      "duration_ms": 148500,
+      "name": "ANSIA NO",
+      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1591,26 +1591,6 @@
       "duration_ms": 205125,
       "name": "Veleno 6",
       "url": "https://open.spotify.com/track/7GfXjqXD9aBvDoBdZ7EwPH"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "Mon Fre (feat. Emis Killa)",
-        "url": "https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 224150,
-      "name": "Mon Fre - feat. Emis Killa",
-      "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1639,22 +1619,6 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "90MIN",
-      "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
         "name": "GIOVANE RONDO",
         "url": "https://open.spotify.com/album/19go1SwCMtX80cSTF7C8Qf"
       },
@@ -1675,6 +1639,42 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
+        "name": "Mon Fre (feat. Emis Killa)",
+        "url": "https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 224150,
+      "name": "Mon Fre - feat. Emis Killa",
+      "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "LUNEDI'",
+      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
         "name": "Davide",
         "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
       },
@@ -1687,22 +1687,6 @@
       "duration_ms": 180346,
       "name": "Lo Sai Che Ci Penso",
       "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "Vero",
-        "url": "https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 182232,
-      "name": "Eravamo Re",
-      "url": "https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1727,18 +1711,18 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "Album",
-        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
+        "name": "Vero",
+        "url": "https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7"
       },
       "artists": [
         {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 171026,
-      "name": "Ricchi Dentro",
-      "url": "https://open.spotify.com/track/4thhwyZW9cnnFGKOBGNYcM"
+      "duration_ms": 182232,
+      "name": "Eravamo Re",
+      "url": "https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1763,18 +1747,18 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+        "name": "Album",
+        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
       },
       "artists": [
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
         }
       ],
-      "duration_ms": 205266,
-      "name": "LUNEDI'",
-      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
+      "duration_ms": 171026,
+      "name": "Ricchi Dentro",
+      "url": "https://open.spotify.com/track/4thhwyZW9cnnFGKOBGNYcM"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1863,30 +1847,6 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "MACHETE MIXTAPE 4",
-        "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
-      },
-      "artists": [
-        {
-          "name": "MACHETE",
-          "url": "https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 177036,
-      "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-      "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -1907,6 +1867,30 @@
       "duration_ms": 174727,
       "name": "10 RAGAZZE (con ERNIA)",
       "url": "https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "MACHETE MIXTAPE 4",
+        "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
+      },
+      "artists": [
+        {
+          "name": "MACHETE",
+          "url": "https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 177036,
+      "name": "HO PAURA DI USCIRE 2 - prod. Mace",
+      "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1951,6 +1935,22 @@
       "duration_ms": 169671,
       "name": "Angelina Jolie",
       "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "Malammore",
+        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 218695,
+      "name": "Che Dio Mi Benedica",
+      "url": "https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d"
     }
   ],
   "unique_name": "Hit Rap Italiane",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Porque no to' e' Dembow en RD loco. Portada: Lismar",
+  "description": "Porque no to' e' Dembow en RD loco. Portada: Yomel El Meloso",
   "name": "Flow Dominicano",
   "tracks": [
     {
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 142153,
       "name": "Ciento y Pico",
       "url": "https://open.spotify.com/track/7ue6vgZHsPpMYnRxhh6WZb"
@@ -2419,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "En Manada",
+        "url": "https://open.spotify.com/album/4GRWtFeComKH2ArqIgCsRT"
+      },
+      "artists": [
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127988,
+      "name": "En Manada",
+      "url": "https://open.spotify.com/track/71GL1EVxnJQhrZaNX3ZrMM"
+    },
+    {
+      "album": {
         "name": "En Mi Coro",
         "url": "https://open.spotify.com/album/0EmHlJZFwYrcw6hqeeBpEA"
       },
@@ -3304,7 +3322,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 115606,
       "name": "LA YERBA ALTA",
       "url": "https://open.spotify.com/track/2K2ojouHeSQXGDmsFIbCqI"
@@ -3889,6 +3907,32 @@
     },
     {
       "album": {
+        "name": "Malvado",
+        "url": "https://open.spotify.com/album/79DXeWADUqphU3qkPaXabU"
+      },
+      "artists": [
+        {
+          "name": "Hemphil Otra Nota",
+          "url": "https://open.spotify.com/artist/60fXztK8e403cLtMzAl0C9"
+        },
+        {
+          "name": "Uriel Produce",
+          "url": "https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC"
+        },
+        {
+          "name": "G-Unit",
+          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Malvado",
+      "url": "https://open.spotify.com/track/74WtDxylY6UvqQlSwILKjn"
+    },
+    {
+      "album": {
         "name": "Mango Pi\u00f1a",
         "url": "https://open.spotify.com/album/4NJB2jW7tHkuK48W048NrZ"
       },
@@ -4068,7 +4112,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 224095,
       "name": "Mi Esposa",
       "url": "https://open.spotify.com/track/36qU5s412GZ7FExUMevWyZ"
@@ -4562,7 +4606,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 177428,
       "name": "Nadie Que No Seas Tu - Remix",
       "url": "https://open.spotify.com/track/662FdmcTh4qq4HG9lVK9i5"
@@ -5231,6 +5275,32 @@
     },
     {
       "album": {
+        "name": "Que Loquera",
+        "url": "https://open.spotify.com/album/0GFNrY0qedQtorVxREdrLN"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Three Seven Music",
+          "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Que Loquera",
+      "url": "https://open.spotify.com/track/2QOSj9QzA1szxKhM3ehYxc"
+    },
+    {
+      "album": {
         "name": "Quien Dijo",
         "url": "https://open.spotify.com/album/71APj7u0enlTCdHalW9tAa"
       },
@@ -5670,7 +5740,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 181124,
       "name": "Soy de la Calle",
       "url": "https://open.spotify.com/track/5O1wqBKLhNxGMb7C1vjV0X"
@@ -5696,6 +5766,28 @@
       "duration_ms": 108000,
       "name": "Susana",
       "url": "https://open.spotify.com/track/1zFQCh4SlsnfIRL9HYcemL"
+    },
+    {
+      "album": {
+        "name": "Sushi",
+        "url": "https://open.spotify.com/album/7g4edTQkCDWUEjM3D7f6Xx"
+      },
+      "artists": [
+        {
+          "name": "Yuriel Es Musica",
+          "url": "https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK"
+        },
+        {
+          "name": "Real Unidad",
+          "url": "https://open.spotify.com/artist/7nC9Qq3c3RisY9vYcwItzT"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163977,
+      "name": "Sushi",
+      "url": "https://open.spotify.com/track/09GpTKIbVAYdVBalUf5Piz"
     },
     {
       "album": {
@@ -6470,6 +6562,28 @@
       "duration_ms": 127295,
       "name": "Un Uber",
       "url": "https://open.spotify.com/track/0kHmK20ufcy25b8NCJbURg"
+    },
+    {
+      "album": {
+        "name": "Una Chuky",
+        "url": "https://open.spotify.com/album/0iLqKQ5K3fIYH70llIl3hC"
+      },
+      "artists": [
+        {
+          "name": "El Jhota",
+          "url": "https://open.spotify.com/artist/0YX8LuMQAh6ousnyhwXbkz"
+        },
+        {
+          "name": "Menor Queen",
+          "url": "https://open.spotify.com/artist/1MsuHuJMhPWFbzl2KWLyzz"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Una Chuky",
+      "url": "https://open.spotify.com/track/6T1335enI8UZIz9N0VABb5"
     },
     {
       "album": {

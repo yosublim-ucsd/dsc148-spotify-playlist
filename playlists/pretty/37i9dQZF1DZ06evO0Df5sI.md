@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,514 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,528 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 29 | [Back to Hell](https://open.spotify.com/track/2GdhGYir1XgRuUQ13iCwLT) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 2:54 |
 | 30 | [I Wanna Be A Warhol](https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:07 |
 | 31 | [Continental](https://open.spotify.com/track/5ZAi4uu4ECJBivRPD937WB) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 3:27 |
-| 32 | [Blackbird](https://open.spotify.com/track/4xQa40wrBDGrIyt3GpHlU1) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 3:20 |
+| 32 | [Cringe](https://open.spotify.com/track/0rp47ZE0Ej8bc7KbgvoQRG) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM) | 2:23 |
 | 33 | [Fall Victim](https://open.spotify.com/track/5eAnduwqRr8gTOTxx8WOEk) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 3:18 |
-| 34 | [Cringe](https://open.spotify.com/track/0rp47ZE0Ej8bc7KbgvoQRG) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM) | 2:23 |
+| 34 | [Blackbird](https://open.spotify.com/track/4xQa40wrBDGrIyt3GpHlU1) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 3:20 |
 | 35 | [All on Black](https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 4:00 |
-| 36 | [Is This Thing Cursed?](https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 2:43 |
-| 37 | [Jaked on Green Beers](https://open.spotify.com/track/3Xaaa4IOhf3x4rzI2Xfkfe) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 3:27 |
-| 38 | [I, Pessimist](https://open.spotify.com/track/219DU5WdarWWzSssghQqPH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 2:10 |
+| 36 | [Jaked on Green Beers](https://open.spotify.com/track/3Xaaa4IOhf3x4rzI2Xfkfe) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 3:27 |
+| 37 | [I, Pessimist](https://open.spotify.com/track/219DU5WdarWWzSssghQqPH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 2:10 |
+| 38 | [Is This Thing Cursed?](https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 2:43 |
 | 39 | [Every Thug Needs a Lady](https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 3:18 |
 | 40 | [Maybe I'll Catch Fire](https://open.spotify.com/track/53S0JdlqoD0YJn1DVZGX4x) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m) | 3:07 |
 | 41 | [Metro](https://open.spotify.com/track/4js6mEbWT0stDAGLwPzirt) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 3:41 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 45 | [Dine, Dine My Darling](https://open.spotify.com/track/6ZaXbRtwY9oYGjxcZWAXyw) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [This Addiction \(Deluxe Edition\)](https://open.spotify.com/album/4otoRgtApYRPsuxrW3Xaxj) | 2:58 |
 | 46 | [Nose Over Tail](https://open.spotify.com/track/2S625H9Z7oaQD3p7pt5CvJ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM) | 2:37 |
 | 47 | [Sweet Vampires](https://open.spotify.com/track/0bNh4dFYghzvk3uCNKweap) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 3:23 |
-| 48 | [Help Me](https://open.spotify.com/track/1Fy9hQQLek2UpOYUEPjiYn) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony](https://open.spotify.com/album/2kmTbt2NyJsx4x0GnZ4uBH) | 3:44 |
-| 49 | [I Found a Way](https://open.spotify.com/track/3SW1iJWxeVKTn32gL76srO) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [I Found a Way](https://open.spotify.com/album/5Dv4BNIrxowlDyal7reMwy) | 3:45 |
+| 48 | [I Found a Way](https://open.spotify.com/track/3SW1iJWxeVKTn32gL76srO) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [I Found a Way](https://open.spotify.com/album/5Dv4BNIrxowlDyal7reMwy) | 3:45 |
+| 49 | [Help Me](https://open.spotify.com/track/1Fy9hQQLek2UpOYUEPjiYn) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony](https://open.spotify.com/album/2kmTbt2NyJsx4x0GnZ4uBH) | 3:44 |
 | 50 | [My Standard Break from Life](https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 2:34 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBlZjQwMTNmMDhjYWY3ODMxMWQ1YjlmZDJjN2I4NjkyZQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBiODkyYzk0YzY3NGE3NTE5MDAyMmQ4ZTllZjNlNGYyMw==`

@@ -4,7 +4,7 @@
 
 > 女性ポップアイコンの名曲を一つのプレイリストに。cover: Shakira
 
-321 songs - 16 hr 25 min
+322 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Psychedelic Switch](https://open.spotify.com/track/7zy2kNoeD72x2NEDaAsJOX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 4:32 | 2023-07-27 | 2023-08-18 |
 | [PSYCHO](https://open.spotify.com/track/1eprzC29mwUQqcVj0eILdx) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [PSYCHO](https://open.spotify.com/album/7qUT6ERWHp2U6RdUkuYZ3O) | 2:42 | 2023-03-16 | 2023-04-05 |
 | [Psycho](https://open.spotify.com/track/3ifDwg8GUpVtBzfk3FBc22) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Psycho](https://open.spotify.com/album/39CCXCE9ccNdvzc00JfYdn) | 2:49 | 2023-08-17 | 2023-11-24 |
+| [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 | 2024-03-21 |  |
 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 | 2023-09-28 |  |
 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 | 2023-12-14 | 2024-02-29 |
 | [red flag collector](https://open.spotify.com/track/2RLHAs40VeEWznm3ugthJ7) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [red flag collector](https://open.spotify.com/album/29nqXCfWwutCC9ZWnNZKHU) | 2:58 | 2023-06-08 | 2023-06-23 |

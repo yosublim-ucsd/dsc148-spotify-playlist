@@ -4,7 +4,7 @@
 
 > Bossa nova vibes for the hopeless romantic daydreamers.
 
-115 songs - 5 hr 49 min
+116 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Amber](https://open.spotify.com/track/5Z4EEIaSzeRmYze3W47S1k) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:53 | 2023-01-06 |  |
 | [Anywhere](https://open.spotify.com/track/0U6S4ELEx0YA7JlhELnZaf) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Sensitive Soul](https://open.spotify.com/album/16DsW178EtZBoVHGatdPoa) | 2:26 | 2023-01-06 | 2024-02-10 |
 | [Baby](https://open.spotify.com/track/7ezdBjcpj2yQVDLWv80z3U) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Baby](https://open.spotify.com/album/1bSMgGLERBaeOJgsgt3ldN) | 3:40 | 2023-03-10 | 2024-01-17 |
+| [Baby Boy](https://open.spotify.com/track/3sMqgibsAboeKDV6xOiR3L) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:01 | 2024-03-22 |  |
 | [barcelona](https://open.spotify.com/track/6tvikT3O9PBnghgHN9LaiB) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 2:55 | 2023-01-06 | 2023-09-09 |
 | [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 | 2023-01-06 | 2023-05-13 |
 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 | 2023-09-22 |  |
@@ -76,7 +77,7 @@
 | [ON THE LINE](https://open.spotify.com/track/5e8saCEDfJ2szwaG5gTLwI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [GLOW EP](https://open.spotify.com/album/666rdJ8snX6R5lT24Owcau) | 2:30 | 2024-02-09 |  |
 | [once in a moon](https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [once in a moon](https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963) | 4:05 | 2023-01-06 |  |
 | [outside the party, inside the dream](https://open.spotify.com/track/1LcwYCQ78z4PvLiU2Qt3XV) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [outside the party, inside the dream](https://open.spotify.com/album/6r70ZDnApSWdvzHz3pQUVc) | 3:08 | 2023-01-06 |  |
-| [Party Sickness](https://open.spotify.com/track/06DcUBxCvBAqvWgpExtbLE) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Party Sickness](https://open.spotify.com/album/0fwHTsZvukaWOUHCbSQhJf) | 3:49 | 2023-01-06 |  |
+| [Party Sickness](https://open.spotify.com/track/06DcUBxCvBAqvWgpExtbLE) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Party Sickness](https://open.spotify.com/album/0fwHTsZvukaWOUHCbSQhJf) | 3:49 | 2023-01-06 | 2024-03-23 |
 | [Pedestal](https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Pedestal](https://open.spotify.com/album/5KRQkpYEeyfXX4gF9kWV7I) | 3:11 | 2023-10-13 | 2024-02-17 |
 | [Please Love Me](https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Love Letters](https://open.spotify.com/album/1mH0uD5SIm4wJiDEvqXONe) | 2:29 | 2024-01-05 |  |
 | [Poison Poison](https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:11 | 2024-02-09 |  |

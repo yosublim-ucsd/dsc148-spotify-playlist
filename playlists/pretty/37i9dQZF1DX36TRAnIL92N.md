@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,636 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,074 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 46 | [Future Dust](https://open.spotify.com/track/7BbdmhlX1kVgFrn1YlKJG2) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/1yEygTNMJpqohn7MATAnSc) | 8:29 |
 | 47 | [Deep Down](https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT) | 3:40 |
 | 48 | [Asura](https://open.spotify.com/track/0VuuObMpLGGCMGtPNgG1rp) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/5mVxJJjUM7BKyZG7S2GDKc) | 7:49 |
-| 49 | [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 |
+| 49 | [Robot](https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Robot](https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A) | 3:25 |
 | 50 | [Twisted](https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Twisted](https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp) | 3:04 |
 
-Snapshot ID: `MCw2NjU1NzljN2NjOGQ5YzY3Njc5NDg0NWMxNjBjYmVkNDMzZDhhZTgy`
+Snapshot ID: `MCxiZGNlMjVjNzg2ZGUyN2M3MjI2MjI2NDcxNmNkOWI0MjExMDg3NTRm`

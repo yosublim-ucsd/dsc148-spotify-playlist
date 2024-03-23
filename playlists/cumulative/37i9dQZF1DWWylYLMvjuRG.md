@@ -2,7 +2,7 @@
 
 ### [Party Hits 2010s](https://open.spotify.com/playlist/37i9dQZF1DWWylYLMvjuRG)
 
-> The biggest party hits of the 2010s\. Cover: Flo Rida.
+> The biggest party hits of the 2010s\. Cover: Flo Rida
 
 430 songs - 1 day 1 hr 18 min
 

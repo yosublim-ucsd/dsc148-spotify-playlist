@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,210 likes - 110 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,208 likes - 110 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 36 | [Treacherous Twins](https://open.spotify.com/track/4Flfb4fGscN9kXPOduQLrv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:00 |
 | 37 | [Contra](https://open.spotify.com/track/7u90MSvVyEjL0c8icaE7jl) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bobby Tarantino II](https://open.spotify.com/album/4F87p1aiFwHeU4uu65MaPV) | 3:37 |
 | 38 | [Cutting Ties](https://open.spotify.com/track/6lJ5aSxKHCwNBoWkZT3JeJ) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Cutting Ties](https://open.spotify.com/album/5wy7JKTWa3JRjvQT7cWOcq) | 4:21 |
-| 39 | [Can't Love](https://open.spotify.com/track/1iZg40RiFZNlX52QDlf9oz) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 3](https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna) | 2:49 |
-| 40 | [Middle of the Ocean](https://open.spotify.com/track/410TZrK18uRjtsTunG14cl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 5:56 |
+| 39 | [Middle of the Ocean](https://open.spotify.com/track/410TZrK18uRjtsTunG14cl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 5:56 |
+| 40 | [Can't Love](https://open.spotify.com/track/1iZg40RiFZNlX52QDlf9oz) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 3](https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna) | 2:49 |
 | 41 | [Stars Align \(with Drake\)](https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 4:20 |
 | 42 | [Got Me \(with Ari Lennox & Omen feat\. Ty Dolla $ign & Dreezy\)](https://open.spotify.com/track/4nw0S8MtvcLSpXCS9M8ciL) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Omen](https://open.spotify.com/artist/5j1BNsC9xeWGfBVCzzg6fc), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 4:44 |
 | 43 | [RELENTLESS \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/6nDSLDomNqfet6w0r1GHAz) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:48 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 87 | [BIG DAWG](https://open.spotify.com/track/28wtiGfwWVdxbZDW52S3kz) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 1:45 |
 | 88 | [You Ain't Hard](https://open.spotify.com/track/21t8Edns1aUrUC8nMl0KZM) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Spiral: From The Book of Saw Soundtrack](https://open.spotify.com/album/5gTisM7GUr1idB1UL3Yva6) | 3:46 |
 | 89 | [Came Up](https://open.spotify.com/track/4SnvJDymo0LkkuFNNLemQl) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Came Up](https://open.spotify.com/album/7f22HnE6AmI4cFtPu1PmHj) | 2:41 |
-| 90 | [Movin' Around \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/2YzvqgbG4VZpmoGZpBTQOF) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [No Dope On Sundays](https://open.spotify.com/album/79yQxmlPsMM41NH3AiVSNK) | 4:18 |
-| 91 | [HOP OUT THE VAN](https://open.spotify.com/track/6Ez0uo35BcJ7TaknGDnH5v) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:00 |
+| 90 | [HOP OUT THE VAN](https://open.spotify.com/track/6Ez0uo35BcJ7TaknGDnH5v) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:00 |
+| 91 | [Movin' Around \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/2YzvqgbG4VZpmoGZpBTQOF) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [No Dope On Sundays](https://open.spotify.com/album/79yQxmlPsMM41NH3AiVSNK) | 4:18 |
 | 92 | [Story Of Us](https://open.spotify.com/track/1IkzUw8dx0h6dgLGfJib0X) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Songs For You](https://open.spotify.com/album/6WrqA9shYRYrelq2CLQf05) | 2:45 |
 | 93 | [DOPE BOY \(feat\. Young Nudy\)](https://open.spotify.com/track/1lLl9Wu4ULpHaLYypCwoi9) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:43 |
 | 94 | [I Have a Dream](https://open.spotify.com/track/4wTBoTjp7S73BrKOM54WMd) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Big Baby DRAM \(Deluxe Version\)](https://open.spotify.com/album/2NTDsRS6J2OF8qZwHWQjFV) | 1:56 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 109 | [Ungrateful](https://open.spotify.com/track/4Jq0KjjNeVdnrgQBhfUzNW) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:37 |
 | 110 | [Know Better](https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:50 |
 
-Snapshot ID: `Mjg1MTc4OTAsMDAwMDAwMDBhNzAyNTY4YjM1N2ZkNjI0NThiNjM5ODU0NzZmOTBmNA==`
+Snapshot ID: `Mjg1MTkzMzAsMDAwMDAwMDBhNDU5YzBlMmQxYjc5NWYzMzAxYzEwNmNiMzUzYmU3Nw==`

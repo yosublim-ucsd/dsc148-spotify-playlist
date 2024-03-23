@@ -253,6 +253,32 @@
     },
     {
       "album": {
+        "name": "Caminho pro Seu Ouvido (Remix)",
+        "url": "https://open.spotify.com/album/1RdMg2ve6GxQGYDtpClLXJ"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "Caminho pro Seu Ouvido - Remix",
+      "url": "https://open.spotify.com/track/4oBoAlKwocOTOyKJWiYuJC"
+    },
+    {
+      "album": {
         "name": "Passarinho",
         "url": "https://open.spotify.com/album/07eUETgYv4eqREVHTE3OFK"
       },
@@ -1086,7 +1112,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 294777,
-      "name": "Newsroom Customers",
+      "name": "Newsroom Costumers",
       "url": "https://open.spotify.com/track/0Wz0QhOSNyRsNsABrQtlrP"
     },
     {
@@ -1318,7 +1344,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 221440,
       "name": "P\u00e9talas Vermelhas",
       "url": "https://open.spotify.com/track/25pUHGs0liXOe2qPc9ZuDa"

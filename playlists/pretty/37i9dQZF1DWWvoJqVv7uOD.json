@@ -1,12 +1,12 @@
 {
   "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Justin Timberlake",
-  "num_followers": 422459,
+  "num_followers": 422644,
   "original_name": "Everyday Favorites ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGZhMmExOTE1NDJhMTNlM2JhMDNiYjM3NjRiMGE2NDJlMzg2Y2Q2",
+  "snapshot_id": "MCw2YTFmMmJmZWIxNDI0NDkwZWYxY2YyNjk1ZmM1Zjg1OGM3N2E3ODdk",
   "tracks": [
     {
       "added_at": "2024-03-15 04:14:07",
@@ -665,6 +665,22 @@
       "url": "https://open.spotify.com/track/15yqPpsLKCPEGIVhqE7dUD"
     },
     {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "A Hometown Odyssey",
+        "url": "https://open.spotify.com/album/5uKhWGoRFaENvmmdmCN99K"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/1ZbqAYqiaqA9aegBxFyWax"
+    },
+    {
       "added_at": "2023-12-01 17:56:37",
       "album": {
         "name": "Lil Boo Thang",
@@ -695,22 +711,6 @@
       "duration_ms": 165733,
       "name": "For The Both of Us",
       "url": "https://open.spotify.com/track/0QIiiAoUQru2NQtRBrihII"
-    },
-    {
-      "added_at": "2023-12-01 17:56:37",
-      "album": {
-        "name": "Crazymad, For Me",
-        "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 216946,
-      "name": "Stay For Something",
-      "url": "https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c"
     },
     {
       "added_at": "2023-12-01 17:56:37",
@@ -791,26 +791,6 @@
       "duration_ms": 188604,
       "name": "Into The Walls",
       "url": "https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL"
-    },
-    {
-      "added_at": "2023-12-01 17:56:37",
-      "album": {
-        "name": "Sweet Sounds Of Heaven",
-        "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        },
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 306423,
-      "name": "Sweet Sounds Of Heaven (feat. Lady Gaga) - Edit",
-      "url": "https://open.spotify.com/track/6HCUMOcGa4LyjcBXjl7z0Y"
     },
     {
       "added_at": "2023-12-01 17:56:37",

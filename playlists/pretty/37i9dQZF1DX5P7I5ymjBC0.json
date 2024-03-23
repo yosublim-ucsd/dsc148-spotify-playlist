@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 68812,
+  "num_followers": 68824,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjRiMTQ5ZWI0OTA3ZGQ1N2M2NDE4YTg1OWM1MmI0YzY1ZDExNDBj",
+  "snapshot_id": "MCxjM2NjMGFmYjZlYWNmZTc0MjgwNWQ4ZTNkMmUyZDQ0YzBkYTkwNzEz",
   "tracks": [
     {
       "added_at": "2024-03-21 10:51:08",
@@ -827,30 +827,6 @@
     {
       "added_at": "2024-03-21 10:51:08",
       "album": {
-        "name": "Chhap Tilak",
-        "url": "https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme"
-      },
-      "artists": [
-        {
-          "name": "Amrita Kak",
-          "url": "https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2"
-        },
-        {
-          "name": "Amaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
-        },
-        {
-          "name": "Ayaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
-        }
-      ],
-      "duration_ms": 271058,
-      "name": "Chhap Tilak",
-      "url": "https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW"
-    },
-    {
-      "added_at": "2024-03-21 10:51:08",
-      "album": {
         "name": "Songs Of The River - Ganga",
         "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
       },
@@ -871,6 +847,30 @@
       "duration_ms": 339000,
       "name": "Natkhat Nadiya",
       "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
+    },
+    {
+      "added_at": "2024-03-21 10:51:08",
+      "album": {
+        "name": "Chhap Tilak",
+        "url": "https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme"
+      },
+      "artists": [
+        {
+          "name": "Amrita Kak",
+          "url": "https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2"
+        },
+        {
+          "name": "Amaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
+        },
+        {
+          "name": "Ayaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
+        }
+      ],
+      "duration_ms": 271058,
+      "name": "Chhap Tilak",
+      "url": "https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW"
     },
     {
       "added_at": "2024-03-21 10:51:08",

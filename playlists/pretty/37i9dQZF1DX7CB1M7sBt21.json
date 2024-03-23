@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 11010,
+  "num_followers": 11066,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTRiMDcwNjMxMGM5YjE4OWI2MGNkY2ZmODViMTZiMDI4Y2NkZWIx",
+  "snapshot_id": "MCw5ZGRkMTAxMmQ3MDIyNjE2NTVhMjI1NmJiYzM1N2NmNTgyYWUyNDNj",
   "tracks": [
     {
       "added_at": "2024-03-14 23:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Ray Of Solar",
-        "url": "https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        }
-      ],
-      "duration_ms": 241793,
-      "name": "Ray Of Solar",
-      "url": "https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Never Be Lonely",
         "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 134570,
       "name": "Never Be Lonely",
       "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Ray Of Solar",
+        "url": "https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "duration_ms": 241793,
+      "name": "Ray Of Solar",
+      "url": "https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1015,6 +1015,30 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
+        "name": "Let You Down (with Gabry Ponte)",
+        "url": "https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Sofiloud",
+          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Let You Down (with Gabry Ponte)",
+      "url": "https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
         "name": "Jiggy Woogie",
         "url": "https://open.spotify.com/album/1POseoKNTFrdId8Tvt5N2G"
       },
@@ -1063,30 +1087,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Let You Down (with Gabry Ponte)",
-        "url": "https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX"
-      },
-      "artists": [
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Sofiloud",
-          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Let You Down (with Gabry Ponte)",
-      "url": "https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "The Confession",
         "url": "https://open.spotify.com/album/0xCBjfaeK0phUn47yMHHyP"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "EveryTime I Cry",
-        "url": "https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 177855,
-      "name": "EveryTime I Cry",
-      "url": "https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Hit The Road Jack",
         "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 126428,
       "name": "Hit The Road Jack",
       "url": "https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "EveryTime I Cry",
+        "url": "https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 177855,
+      "name": "EveryTime I Cry",
+      "url": "https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1183,22 +1183,22 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Dola re Dola",
-        "url": "https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le"
+        "name": "All We Got (feat. KIDDO)",
+        "url": "https://open.spotify.com/album/7wzcIKvtXDWs1VA2BMHuaY"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         },
         {
-          "name": "Varun Jain",
-          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
         }
       ],
-      "duration_ms": 125538,
-      "name": "Dola re Dola",
-      "url": "https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw"
+      "duration_ms": 190218,
+      "name": "All We Got (feat. KIDDO)",
+      "url": "https://open.spotify.com/track/1FP9s72rDYty6mfoOEYKnE"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1223,22 +1223,22 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "All We Got (feat. KIDDO)",
-        "url": "https://open.spotify.com/album/7wzcIKvtXDWs1VA2BMHuaY"
+        "name": "Dola re Dola",
+        "url": "https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
         }
       ],
-      "duration_ms": 190218,
-      "name": "All We Got (feat. KIDDO)",
-      "url": "https://open.spotify.com/track/1FP9s72rDYty6mfoOEYKnE"
+      "duration_ms": 125538,
+      "name": "Dola re Dola",
+      "url": "https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "One, Two, & 3",
-        "url": "https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 206007,
-      "name": "One, Two, & 3",
-      "url": "https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 179831,
       "name": "OMG What's Happening",
       "url": "https://open.spotify.com/track/11OPriDpmUrTMTji52ta17"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "One, Two, & 3",
+        "url": "https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 206007,
+      "name": "One, Two, & 3",
+      "url": "https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg"
     },
     {
       "added_at": "2024-03-14 23:00:00",

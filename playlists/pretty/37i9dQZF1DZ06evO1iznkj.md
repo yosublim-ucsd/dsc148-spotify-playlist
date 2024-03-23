@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 
 > This is Gunna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,020 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,082 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 50 | [Paranoia \(feat\. Gunna & Young Thug\)](https://open.spotify.com/track/3QqJ44HiM84iyZS0G2IKIP) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:32 |
 | 51 | [BLINDFOLD \(feat\. Lil Baby\)](https://open.spotify.com/track/02mYw61RoS1vXvkD9Q5dpN) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:34 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDAwOGViMjliNzExYTU2NmNhMWMzZDk3NjM2MDZlNmUxMA==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDAxYTVkZTNhMjkzZjlhYzQzMzJmMWY3OTg1NjU0MDdmNA==`

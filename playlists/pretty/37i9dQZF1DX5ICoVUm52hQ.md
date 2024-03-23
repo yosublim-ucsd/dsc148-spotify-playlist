@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ICoVUm52hQ.md) - [plain]
 
 > ¡Con las Letras de estas canciones, no querrás soltar el micrófono!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,834 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,884 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ICoVUm52hQ.md) - [plain]
 | 41 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 |
 | 42 | [Vasos Vacíos \- Remasterizado 2008](https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Ritmo Mundial](https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh) | 4:39 |
 | 43 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:52 |
-| 44 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
-| 45 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 |
-| 46 | [Dejaría Todo](https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:44 |
-| 47 | [Cuídate](https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 2:49 |
+| 44 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 |
+| 45 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
+| 46 | [Cuídate](https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 2:49 |
+| 47 | [Dejaría Todo](https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:44 |
 | 48 | [Espacio sideral](https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esta Es Mi Vida](https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98) | 3:42 |
 | 49 | [Así Es la Vida](https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [El Que Busca Encuentra](https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm) | 5:10 |
 | 50 | [La Chica Del Bikini Azul](https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:00 |
@@ -66,21 +66,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ICoVUm52hQ.md) - [plain]
 | 56 | [Te Lo Pido por Favor](https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Primer Instinto](https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL) | 3:26 |
 | 57 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 |
 | 58 | [Amor Completo](https://open.spotify.com/track/00kIWJu9IHiQ6i0qJAU0Z9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:01 |
-| 59 | [Qué Vida la Mía](https://open.spotify.com/track/0M6KY0x5u65ybXHZ3IAega) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS) | 2:51 |
-| 60 | [Amor Prohibido](https://open.spotify.com/track/2cjiRQZu9V17rJZkvMuT1J) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 2:52 |
+| 59 | [Amor Prohibido](https://open.spotify.com/track/2cjiRQZu9V17rJZkvMuT1J) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 2:52 |
+| 60 | [Qué Vida la Mía](https://open.spotify.com/track/0M6KY0x5u65ybXHZ3IAega) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS) | 2:51 |
 | 61 | [Gavilán o Paloma](https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:10 |
 | 62 | [Y Tú Te Vas](https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:45 |
 | 63 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
 | 64 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 |
 | 65 | [Él Me Mintió](https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 3:41 |
 | 66 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
-| 67 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 |
-| 68 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 |
-| 69 | [Como La Flor \- Remastered](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 |
+| 67 | [Como La Flor \- Remastered](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 |
+| 68 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 |
+| 69 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 |
 | 70 | [Querida](https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos II](https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt) | 5:28 |
 | 71 | [El Recuento de los Daños](https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:55 |
-| 72 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
-| 73 | [Lucha De Gigantes](https://open.spotify.com/track/4nheObMzE4K8AIxIICoLgd) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [El Momento](https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR) | 4:08 |
+| 72 | [Lucha De Gigantes](https://open.spotify.com/track/4nheObMzE4K8AIxIICoLgd) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [El Momento](https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR) | 4:08 |
+| 73 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
 | 74 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
 | 75 | [La Calle De Las Sirenas](https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Calle De Las Sirenas](https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS) | 3:56 |
 | 76 | [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ICoVUm52hQ.md) - [plain]
 | 79 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 |
 | 80 | [Déjame Vivir \(with Juan Gabriel\)](https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 3:42 |
 
-Snapshot ID: `MCxhYTk2M2UyMTAyZTQzZDllNzFjM2NjNDhlYmIyMTdkODUyY2FiNDY1`
+Snapshot ID: `MCwwNGY0ZWJhZDI0NjVlNzIwNDJjMGE5YzQyNDI3YmEyYWEzNWJiYjY2`

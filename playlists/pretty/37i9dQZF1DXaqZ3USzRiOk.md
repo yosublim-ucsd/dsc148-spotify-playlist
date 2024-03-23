@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 
 > Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,735 likes - 150 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,855 likes - 150 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 | 11 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 |
 | 12 | [Ésta Es Pa´ Mi Viejo](https://open.spotify.com/track/3rC52DzXOSFLi6QtCHhruq) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Del Rancho para el Mundo](https://open.spotify.com/album/4az9RCoS0n0tBFIMo4svAI) | 3:23 |
 | 13 | [Acá Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 |
-| 14 | [Sentimental](https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 2:47 |
+| 14 | [Por Mujeres Como Tú](https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 4:23 |
 | 15 | [Qué Falta Me Hace Mi Padre](https://open.spotify.com/track/3ppXcGS8BEFHQrRZWTD7R0) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Qué Falta Me Hace Mi Padre](https://open.spotify.com/album/1QToXuBPlAx8xTmowmRJ3d) | 3:18 |
-| 16 | [Por Mujeres Como Tú](https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 4:23 |
+| 16 | [Sentimental](https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 2:47 |
 | 17 | [No Hay Novedad](https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 3:03 |
 | 18 | [Alma Enamorada](https://open.spotify.com/track/6ab5dRx0VtGzMjUejMFI9u) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 2:52 |
 | 19 | [Un Puño De Tierra](https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 |
 | 20 | [El Borracho](https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 3:04 |
 | 21 | [El Indio Enamorado](https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Indio Enamorado](https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt) | 3:08 |
-| 22 | [Pensando En Ti](https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Pensando En Ti](https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm) | 2:29 |
+| 22 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
 | 23 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 |
-| 24 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
+| 24 | [Pensando En Ti](https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Pensando En Ti](https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm) | 2:29 |
 | 25 | [Prenda Querida](https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Dos Amigos](https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc) | 3:03 |
 | 26 | [Tú Lo Decidiste](https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:49 |
 | 27 | [Triste Recuerdo](https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:53 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 | 132 | [Nomás Por Tu Culpa](https://open.spotify.com/track/17mpNHcEbIn0IxNoQL8FLS) | [Juan Valentin](https://open.spotify.com/artist/2yKmxk6HYQNEr93j9VFJbK) | [El Triunfador](https://open.spotify.com/album/5ZJGizTYkU56jpwZpn89T6) | 3:22 |
 | 133 | [La Tercera Carta](https://open.spotify.com/track/5DgZ35AbLORuRtJxAFfKeo) | [Mercedes Castro](https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK) | [15 Éxitos 15](https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ) | 3:25 |
 | 134 | [Mi Gusto Es](https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Era Cab \- El Viejo](https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu) | 2:33 |
-| 135 | [Ases y Tercia de Reyes](https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 1:54 |
-| 136 | [Yo Se Que Te Acordaras](https://open.spotify.com/track/0fXfqbA0R0lr6fpuU84DSx) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Penas, Desengaños..\. y Amores](https://open.spotify.com/album/6tTkLSvfUKUFOW7BhD7Rm0) | 3:23 |
+| 135 | [Yo Se Que Te Acordaras](https://open.spotify.com/track/0fXfqbA0R0lr6fpuU84DSx) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Penas, Desengaños..\. y Amores](https://open.spotify.com/album/6tTkLSvfUKUFOW7BhD7Rm0) | 3:23 |
+| 136 | [Ases y Tercia de Reyes](https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 1:54 |
 | 137 | [Ojitos Verdes](https://open.spotify.com/track/14VZC2EXvzZxRKOIFmo35b) | [Dueto Las Palomas](https://open.spotify.com/artist/3aw6AZo6qz9YtuU9ST824E) | [Ojitos Verdes](https://open.spotify.com/album/12NMZGKX68Z4Y0AcrbNiRi) | 2:27 |
 | 138 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 |
 | 139 | [Sombras Nada Más](https://open.spotify.com/track/6lTpm4j7o24t3aQGo3uZLc) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:56 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 | 149 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:03 |
 | 150 | [Te Quedas o Te Vas](https://open.spotify.com/track/1cWf38KzZRrFouiWpbquQj) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [ALEJANDRO FERNANDEZ](https://open.spotify.com/album/0VgD1Cga3ynlgYavhnysiv) | 2:39 |
 
-Snapshot ID: `MCxjMzlmNmEyMDdiMmYzNWEyZTNjZTcyOWU1MTU0ZTdiNGU4YTIzMTk5`
+Snapshot ID: `MCwxODZhMTgyMGY2Mjk3ZThhMjEyNTQ4NjAyNDhjNTczOWRiZDA1Y2Rk`

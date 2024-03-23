@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hY56Fq3fM0.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,440 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,580 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hY56Fq3fM0.md) - [plain]
 | 29 | [I Will Wait](https://open.spotify.com/track/1fXiYSWmkKJfRKMegCkI11) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 4:36 |
 | 30 | [Undercover Martyn](https://open.spotify.com/track/0bePGTDjn0XuEKoN7rOMvV) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 2:47 |
 | 31 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
-| 32 | [Kathleen](https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:40 |
-| 33 | [Houdini](https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:22 |
+| 32 | [Houdini](https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:22 |
+| 33 | [Kathleen](https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:40 |
 | 34 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 |
 | 35 | [My Number](https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 3:58 |
 | 36 | [Scrawny](https://open.spotify.com/track/1pNUmVxDiE8t6P1XxcZAv8) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:46 |
 | 37 | [Happy Man](https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:11 |
 | 38 | [Fire and the Flood](https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 4:09 |
 | 39 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 |
-| 40 | [Cocoon](https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:56 |
-| 41 | [Rollercoaster](https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:08 |
+| 40 | [Rollercoaster](https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:08 |
+| 41 | [Cocoon](https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:56 |
 | 42 | [Will We Talk?](https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 2:42 |
 | 43 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 |
 | 44 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hY56Fq3fM0.md) - [plain]
 | 87 | [Feeling Lonely](https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:17 |
 | 88 | [Ship To Wreck](https://open.spotify.com/track/20NEld0MhrR4Zpgrf9brq8) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2) | 3:54 |
 | 89 | [Black Treacle](https://open.spotify.com/track/7EUcOIbJSePmXGvAe7G79C) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:37 |
-| 90 | [Work This Body](https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 2:55 |
-| 91 | [Post Break\-Up Sex](https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 |
+| 90 | [Post Break\-Up Sex](https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 |
+| 91 | [Work This Body](https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 2:55 |
 | 92 | [Solitude Is Bliss](https://open.spotify.com/track/2a2MbiJN2skOxohykOVcss) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 3:55 |
 | 93 | [Future Starts Slow](https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr) | 4:08 |
 | 94 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hY56Fq3fM0.md) - [plain]
 | 99 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
 | 100 | [It Might Be Time](https://open.spotify.com/track/558ubozatFQlweufvHa3Ip) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:33 |
 
-Snapshot ID: `MCw3YTliNmI3MTEyZGM1YmZlMDljOGU4ZGY4MDBjNDY3MmMyYTUxMjg1`
+Snapshot ID: `MCwwN2MxYWM0OTgyNDM2M2RiNjc4ZDZkYjg1NTM4MmMwNjM1YTgxZGVl`

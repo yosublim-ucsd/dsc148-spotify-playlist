@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "+44",
+        "url": "https://open.spotify.com/album/4aYW78gBLVZgQsKNT5K194"
+      },
+      "artists": [
+        {
+          "name": "Miles from Kinshasa",
+          "url": "https://open.spotify.com/artist/6ZWpMqNWzoiiQScsuzeBaE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "+44",
+      "url": "https://open.spotify.com/track/4cDnX3cMVIVRg8wKO1fCjW"
+    },
+    {
+      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/462IsccRxkCQdtqC1lszjb"
       },
@@ -3835,6 +3853,28 @@
     },
     {
       "album": {
+        "name": "MAMA EYENGA",
+        "url": "https://open.spotify.com/album/0bJwd2p0QfLjsHLHJSXjF3"
+      },
+      "artists": [
+        {
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+        },
+        {
+          "name": "Cindy le C\u0153ur",
+          "url": "https://open.spotify.com/artist/79pJ6eff5enOPGahcr9PKL"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267160,
+      "name": "MAMA EYENGA",
+      "url": "https://open.spotify.com/track/5XID8nM9UjxKmEzvsMk7MY"
+    },
+    {
+      "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
@@ -3872,7 +3912,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 168513,
       "name": "Mapessa (feat. Tiakola)",
       "url": "https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo"
@@ -4990,6 +5030,24 @@
       "duration_ms": 361351,
       "name": "On dit quoi",
       "url": "https://open.spotify.com/track/3zt5Q6HRZOeLVVOPpOWnkJ"
+    },
+    {
+      "album": {
+        "name": "On my Way",
+        "url": "https://open.spotify.com/album/3pr75VCJPrN91NvPndyS3g"
+      },
+      "artists": [
+        {
+          "name": "Pson",
+          "url": "https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178823,
+      "name": "On my Way",
+      "url": "https://open.spotify.com/track/55s7Mjxi5K1wKoXZpQIkDl"
     },
     {
       "album": {
@@ -6888,7 +6946,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 217887,
       "name": "Ya Jean",
       "url": "https://open.spotify.com/track/0pezTTL2fjRJUdAzfoQmTm"
@@ -7066,7 +7124,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 182589,
       "name": "\u00c7ava",
       "url": "https://open.spotify.com/track/3fXrGNa9JmqlgGMcSINIpo"

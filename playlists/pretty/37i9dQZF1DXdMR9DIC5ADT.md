@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 
 > フェス関係者の皆様、Let's book them! いま聴きたい、注目の洋楽アーティストを特集！ cover: AURORA
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,472 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,485 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 | 49 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 50 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
 
-Snapshot ID: `MCw5YWRkOWUyYzYxMGNkYTRhNTZjNWU0YzVhMWYyMjdkYThjNDRmOTkz`
+Snapshot ID: `MCw1ZjA5N2FmZWMwNTBmODE4MmU2ZGUxYmUwYWZkNzJmZWU0NTM2MjZk`

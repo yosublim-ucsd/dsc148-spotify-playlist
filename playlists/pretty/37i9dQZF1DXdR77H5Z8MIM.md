@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: JEON SOMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,329 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,414 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 21 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 |
 | 22 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 |
 | 23 | [Psycho](https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:30 |
-| 24 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 |
+| 24 | [What is Love](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 |
 | 25 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 |
 | 26 | [God’s Menu](https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:47 |
 | 27 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 31 | [Butter](https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 2:44 |
 | 32 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
 | 33 | [Sugarcoat \(NATTY Solo\)](https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS OF LIFE](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) | 2:59 |
-| 34 | [What is Love](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 |
+| 34 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 |
 | 35 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 |
 | 36 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 |
 | 37 | [PLAYING WITH FIRE](https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:17 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 40 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 |
 | 41 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 |
 | 42 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 |
-| 43 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 |
-| 44 | [SOLO](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) | 2:49 |
+| 43 | [SOLO](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) | 2:49 |
+| 44 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 |
 | 45 | [Typa Girl](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:59 |
 | 46 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
 | 47 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 49 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 |
 | 50 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 |
 | 51 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 |
-| 52 | [Given\-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 |
+| 52 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 |
 | 53 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 |
-| 54 | [Stay With Me](https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Guardian \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg) | 3:12 |
-| 55 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 |
+| 54 | [Given\-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 |
+| 55 | [Stay With Me](https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Guardian \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg) | 3:12 |
 | 56 | [WHISTLE](https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) | 3:31 |
 | 57 | [Bad Boy](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:30 |
 | 58 | [POP/STARS](https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [POP/STARS](https://open.spotify.com/album/0UnBZ8laFgLUq5Ty5vbikQ) | 3:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 69 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 |
 | 70 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
 
-Snapshot ID: `MCwwZTBhYzg2NGRlMWZlN2IzMDViNjVkNmY2MTU4NWI1MjZkYWFmNjI0`
+Snapshot ID: `MCwzNTg4NTQxODhiOTAyODUzYTc1MzhmZDc1MGZkMTYyMGZhOTgxM2Rm`

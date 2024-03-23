@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB?si=5bh4QtisQReUTmiq4LW7cw">Shekhinah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,386 likes - 69 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,411 likes - 69 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 21 | [Decide](https://open.spotify.com/track/47RGBqVpDOuG1lQXheVEuh) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Decide](https://open.spotify.com/album/28qJotgVoss0htjx54Z33G) | 2:48 |
 | 22 | [Smoke + Mirrors](https://open.spotify.com/track/01XlfD9gD7LPpm65rhSPQh) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [Smoke + Mirrors](https://open.spotify.com/album/6QmEMg5ikjjN5XVAwFvH9W) | 2:02 |
 | 23 | [Whatchu Say ?](https://open.spotify.com/track/38Myszu0cRqEwZbzUWE80J) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [Whatchu Say ?](https://open.spotify.com/album/4emUcj6mqDLRpNUMLVTpfY) | 2:38 |
-| 24 | [Karma](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Karma](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 |
+| 24 | [KARMA](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [KARMA](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 |
 | 25 | [Vision](https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:26 |
 | 26 | [Delusion](https://open.spotify.com/track/7atJqz72vCyJyNIiRo33XO) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Delusion](https://open.spotify.com/album/02Sbm2LatYl69bi0sWv4zc) | 2:50 |
 | 27 | [Borderline](https://open.spotify.com/track/1ETbyYXz3tUyFj9VRMGsEQ) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [All Things Considered](https://open.spotify.com/album/3dXzrmCSb1CHRz8HgyWvyP) | 2:50 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 68 | [Lets Get Away](https://open.spotify.com/track/0Hlv5uMHBia2JJ64X7THhL) | [Magana](https://open.spotify.com/artist/6CDDLh64XGNFrOG90xeO31) | [Lets Get Away](https://open.spotify.com/album/6WSbwrHIQmr6FOInnFMXEi) | 3:45 |
 | 69 | [Roboto](https://open.spotify.com/track/6kGuzD6SGSCjMzpgNHX6Eu) | [Melo B Jones](https://open.spotify.com/artist/2Mua4FDd97dhJAfLNE5E3O), [Ntatao](https://open.spotify.com/artist/65AL7DNBWa4m5Y94PPATUE) | [Roboto](https://open.spotify.com/album/2fHwBnIZJdNHrAEYrZBZ3W) | 4:05 |
 
-Snapshot ID: `MCwzNmQ0YTVmOGQ4MzBmMDM4MWZkYzhhZWVkZDMwYzljZjc2Mzk0Njlh`
+Snapshot ID: `MCwyMWVkMzBmZWI2OWFlMGY4MzIwNjU3ODIwNmVmODM3ODlhOTQ0NzY2`

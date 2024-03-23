@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,872 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,900 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 47 | [ضعف نظر](https://open.spotify.com/track/59QGwPhVDgjOVEj7xFgpku) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [ضعف نظر](https://open.spotify.com/album/5NSzR6e2K7gATs0H7O97nP) | 2:48 |
 | 48 | [يا حلولو \- تتر بدايه مسلسل صفاره](https://open.spotify.com/track/6pFOK3WsFJbrPdZkm46KoN) | [Ahmed Amin](https://open.spotify.com/artist/3ZH8mm61aosyZjnCbkT2r4), [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [يا حلولو \(تتر بدايه مسلسل صفاره\)](https://open.spotify.com/album/6Oy4MU2GODcNcOnKyBsroF) | 2:25 |
 | 49 | [Kan Tri9i Bayn](https://open.spotify.com/track/4MbMh3PtcqOcwqoC0Yhh2i) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Kan Tri9i Bayn](https://open.spotify.com/album/4T15gRes7qBvuEjIptdoCH) | 3:17 |
-| 50 | [ضاع القلب](https://open.spotify.com/track/3rr70YcGOv7PabTK6Qji2K) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei) | [ضاع القلب](https://open.spotify.com/album/4L0ai6SrfVLXrSr4Y32dMT) | 3:40 |
+| 50 | [Baladna](https://open.spotify.com/track/5il1M2JH5NJ0UouRxilHaB) | [Loai](https://open.spotify.com/artist/5OcZpV21cb8KFH7iTEnNwe) | [Alabt El Donia](https://open.spotify.com/album/7GgQQP8K6FLAjGjy13SR53) | 3:09 |
 
-Snapshot ID: `MCw4ZWVhMTFmYjY3MTk4Y2RjN2QyYmZiY2YwYWY1YjVhODVlMWNhYzhk`
+Snapshot ID: `MCwwMTYyNDQ3MjQ1ODNhYzE4ZjM1ZmM4NjM2ZDZiZThiYTQyNzFkYmVm`

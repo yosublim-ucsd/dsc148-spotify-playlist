@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Flor De Rap
 
-188 songs - 10 hr 46 min
+189 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Millonaria](https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vida](https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST) | 3:36 | 2024-01-19 |  |
 | [MIS DESEOS \(feat\. Julianno Sosa\)](https://open.spotify.com/track/1vdSR8g0hmQ1V6iWx1XHCb) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [JOSE SPAACE](https://open.spotify.com/artist/2rNJ5aQFR3gAnEIbpqUtF6), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [MIS DESEOS \(feat\. Julianno Sosa\)](https://open.spotify.com/album/28oT8tOLNw1eJZ7TRNXLdB) | 3:21 | 2023-07-07 |  |
 | [No Le Bajes](https://open.spotify.com/track/4lfJ1o9QFUhqULepgZdlD8) | [Zita Zoe](https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk), [Cjupiter](https://open.spotify.com/artist/3tSPx7EgteNsCF9RiGF8RN) | [No Le Bajes](https://open.spotify.com/album/2IJhnQ4zhnRG11pEbz3wFT) | 2:57 | 2023-04-07 | 2023-08-05 |
+| [NO PUEDO PARAR](https://open.spotify.com/track/1lwAeivIL5LsMKhsO4ps5H) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Mamborap](https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0) | [NO PUEDO PARAR](https://open.spotify.com/album/7xFI2Kh3YGe4S7I9HjbZK1) | 4:19 | 2024-03-22 |  |
 | [No Te Miento](https://open.spotify.com/track/3jNIFdbUeIxo1JKb1VjUHg) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Silvito El Libre](https://open.spotify.com/artist/0UIH8WpxS8c1ZSJysYHe0K), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Origen](https://open.spotify.com/album/0KvclUCGaR9NVzW80700mt) | 4:43 | 2022-01-06 |  |
 | [No Verán](https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [No Verán](https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK) | 3:25 | 2022-03-04 | 2023-03-11 |
 | [Nuevo Comienzo](https://open.spotify.com/track/2wDbuMncsJJm6LbExT4HEC) | [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Pasado, Presente & Libertad](https://open.spotify.com/album/1OFFDDBuRek7hFHF95KAbq) | 3:15 | 2022-07-15 |  |

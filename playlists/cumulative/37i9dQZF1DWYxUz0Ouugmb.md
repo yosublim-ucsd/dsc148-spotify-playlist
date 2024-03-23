@@ -4,7 +4,7 @@
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: RADAR Indonesia Class of 2023
 
-188 songs - 12 hr 5 min
+189 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Losing Us.](https://open.spotify.com/track/1O2pZvuJQrSY9gBLIbZCYG) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/16xmYlPdc3CAWwKDihpOzC) | 3:56 | 2022-03-24 | 2022-07-29 |
 | [Losing Us.](https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo) | 3:56 | 2022-07-28 | 2023-04-14 |
 | [Make Me Proud \- Acoustic](https://open.spotify.com/track/6Hf6eneXT5MOXoH8zAuZWy) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Acoustic For Dummies](https://open.spotify.com/album/1NUGRzeyEWKvw08uYjdp3q) | 2:50 | 2022-02-17 | 2022-03-25 |
+| [Malang](https://open.spotify.com/track/7sqv8Eqs0gW6GHVTx20WNm) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Malang](https://open.spotify.com/album/47zY7uyQnStZjlbqwrn3M3) | 4:50 | 2024-03-22 |  |
 | [Masa Sepi](https://open.spotify.com/track/41OYCdZjfncCUWhcLzLAGo) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Masa Sepi](https://open.spotify.com/album/264G53YN0qa679J5JEDtkg) | 3:33 | 2023-04-13 |  |
 | [Meant 2 Be](https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Meant 2 Be](https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd) | 4:37 | 2022-03-24 | 2023-04-14 |
 | [Meant 2 Be \(Stripped Version\)](https://open.spotify.com/track/6rYi8GI5jEUCYSHYZSlpvZ) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Meant 2 Be \(Stripped Version\)](https://open.spotify.com/album/4VlVn6uG7iXD7H9Onqb6c8) | 5:03 | 2022-09-15 | 2023-04-14 |

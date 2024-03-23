@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > WAFFLESNCREAM \(<a href="https://www.instagram.com/wflsncrm/">waf.</a>\)  celebrate the launch of their skatepark in Lagos with the tracks that move their community.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,797 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,034 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 69 | [Margarita](https://open.spotify.com/track/5HN8VVC24FpSe5a3kVQKdD) | [Mannie Akumba](https://open.spotify.com/artist/1oaUtMDoug6KaEaMub4onR) | [ECHOLOCATION](https://open.spotify.com/album/1MJRIE0t9OfQP2PfAC71kD) | 2:37 |
 | 70 | [Wanna Dance](https://open.spotify.com/track/0aRnRPkcyjqw3IeKiZlSFG) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Wanna Dance](https://open.spotify.com/album/6FxgQ6RHEDhRhHNR899ddv) | 3:11 |
 
-Snapshot ID: `MCwzYWMzOTYwMTRhN2NlM2RlMjNkYTJjYjA2YTdhY2EzZWZhYjFhMTRh`
+Snapshot ID: `MCw5OWZhZGYxYjk3MjI1NWVhOTVlZWRjMmNiZDZjMGRmZTZmZmQxMjYz`

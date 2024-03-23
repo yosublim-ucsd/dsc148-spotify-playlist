@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk\. Cover: Johnny Rotten
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,561,435 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,561,711 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 20 | [I Wanna Be Your Dog](https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Stooges](https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo) | 3:08 |
 | 21 | [Minor Threat](https://open.spotify.com/track/7pADnbKBmN6bY2YfLXCIgU) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two Seven Inches](https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy) | 1:29 |
 | 22 | [She's Lost Control \- 2007 Remaster](https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:57 |
-| 23 | [Redondo Beach](https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:25 |
-| 24 | [Maxwell Murder](https://open.spotify.com/track/39uIrqxNaqGlJ8MKAHkyVb) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 1:25 |
+| 23 | [Maxwell Murder](https://open.spotify.com/track/39uIrqxNaqGlJ8MKAHkyVb) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 1:25 |
+| 24 | [Redondo Beach](https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:25 |
 | 25 | [Add It Up](https://open.spotify.com/track/61QW3AcU1jm5ttPOn8eZhn) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 4:44 |
 | 26 | [California Uber Alles](https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 3:27 |
 | 27 | [Bloodstains \- Original Version](https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS) | [Agent Orange](https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA) | [Living In Darkness \(30th Anniversary Edition\)](https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas) | 1:53 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 59 | [Wild in the Streets](https://open.spotify.com/track/2teaBsajEi4BWAZOD92vmS) | [Circle Jerks](https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl) | [Wild in the Streets](https://open.spotify.com/album/2PbpUnB5bRMHTF5bVF9HQr) | 2:31 |
 | 60 | [Los Angeles](https://open.spotify.com/track/3hgBGx3ShG9uCiJ3kvh8wm) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Los Angeles \(2019 Remaster\)](https://open.spotify.com/album/3OpKtGldm7NzZVVn1LFlYn) | 2:24 |
 | 61 | [Neat Neat Neat](https://open.spotify.com/track/6cxU2pWVkqoBfuBsKGma62) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned \(Bonus Tracks Version\)](https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2) | 2:43 |
-| 62 | [Bastards of Young \- 2008 Remaster](https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim \(Expanded\)](https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve) | 3:38 |
-| 63 | [Suspect Device](https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:35 |
-| 64 | [What Do I Get? \- 2001 Remastered Version](https://open.spotify.com/track/0caQ80s7fyh8xJzD8Sq6Ir) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Singles Going Steady](https://open.spotify.com/album/6TxgQwGrbG3XZLNPOEhg7E) | 2:55 |
+| 62 | [What Do I Get? \- 2001 Remastered Version](https://open.spotify.com/track/0caQ80s7fyh8xJzD8Sq6Ir) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Singles Going Steady](https://open.spotify.com/album/6TxgQwGrbG3XZLNPOEhg7E) | 2:55 |
+| 63 | [Bastards of Young \- 2008 Remaster](https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim \(Expanded\)](https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve) | 3:38 |
+| 64 | [Suspect Device](https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:35 |
 | 65 | [Viet Nam](https://open.spotify.com/track/21vp1orbqySVyww9ngW44w) | [Minutemen](https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz) | [Double Nickels on the Dime](https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF) | 1:29 |
 | 66 | [Blank Generation \- 2013 Remaster](https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [Spurts: The Richard Hell Story \(2013 Remaster\)](https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF) | 2:47 |
 | 67 | [The Passenger](https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [A Million In Prizes: Iggy Pop Anthology \(Edited Version\)](https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg) | 4:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 99 | [One Hundred Punks \- 2002 Remaster](https://open.spotify.com/track/0dejbz6pvFcYYuJMGcM5Wt) | [Generation X](https://open.spotify.com/artist/1inWec2E2UgfzMAhwjgTXe) | [Generation X \(2002 Remaster\)](https://open.spotify.com/album/4O4sXIYGAxA7hrC6tAnyl0) | 3:07 |
 | 100 | [I Love Livin' in the City](https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd) | [Fear](https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS) | [The Record](https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE) | 2:05 |
 
-Snapshot ID: `MCw2MDQ3Njc2MWFlMTExZWZkYTgxYWIyMmI3MGE3NzI2MTE1N2Q1NGNk`
+Snapshot ID: `MCwwOTQ4OWI3NDFkNjYzYmVjNDRhNGQ5N2NjZjcwZDIzZTFmZGQ4YmY2`

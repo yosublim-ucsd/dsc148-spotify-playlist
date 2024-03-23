@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 188664,
+  "2024-03-23": 188714,
   "date_first_scraped": "2022-09-17",
   "description": "get into the groove",
   "name": "Deep House Grooves",
@@ -149,7 +149,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 232000,
       "name": "Abandonment Issues - Atjazz Remix",
       "url": "https://open.spotify.com/track/5bG3DbktV1p4NHwk0z8tXS"
@@ -352,6 +352,28 @@
     },
     {
       "album": {
+        "name": "Baby Powda",
+        "url": "https://open.spotify.com/album/7h1t6mRAwnZZEnV1pUaIUC"
+      },
+      "artists": [
+        {
+          "name": "Doug Gomez",
+          "url": "https://open.spotify.com/artist/4yITT4lWMZ6Dmb5hQvyFZc"
+        },
+        {
+          "name": "Tedd Patterson",
+          "url": "https://open.spotify.com/artist/3ykaOplW5zLEQr0AE30eCH"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415238,
+      "name": "Baby Powda - Tedd Patterson Edit",
+      "url": "https://open.spotify.com/track/13YEcrWctpu3Spl3URMfoz"
+    },
+    {
+      "album": {
         "name": "Back In Time EP",
         "url": "https://open.spotify.com/album/4zwTBWt2PxJFKTiDZ8dgJY"
       },
@@ -475,7 +497,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 375618,
       "name": "Birds",
       "url": "https://open.spotify.com/track/2jsQvsZubrCUeW7hMj22vN"
@@ -617,6 +639,24 @@
       "duration_ms": 438175,
       "name": "Can I See You Tonight (Young Marco Remix)",
       "url": "https://open.spotify.com/track/2T1nzOkomRGzHeqhEdtHi4"
+    },
+    {
+      "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239639,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs"
     },
     {
       "album": {
@@ -1287,7 +1327,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 334368,
       "name": "Enchanted - Folamour Remix",
       "url": "https://open.spotify.com/track/0ZsCcTEqN1nXVyzdZOnu27"
@@ -1389,7 +1429,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 511982,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6ZgHM8CJ1GQTi7by3G1hg3"
@@ -1850,6 +1890,24 @@
     },
     {
       "album": {
+        "name": "Get That Beat",
+        "url": "https://open.spotify.com/album/7uiJoHb2i1ZjJ7y9AjZlst"
+      },
+      "artists": [
+        {
+          "name": "Muzungu",
+          "url": "https://open.spotify.com/artist/6icDvYafiyqfmDhU0p60fR"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375652,
+      "name": "Get That Beat - Original Mix",
+      "url": "https://open.spotify.com/track/1Fc9moCVt6nxkQNVOxS4Xs"
+    },
+    {
+      "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/0hqMOsNXDvvkgaYNn8k3wi"
       },
@@ -2244,6 +2302,24 @@
     },
     {
       "album": {
+        "name": "Hyperspace EP",
+        "url": "https://open.spotify.com/album/7JbgNAwxAuC9aaAdRqCZvT"
+      },
+      "artists": [
+        {
+          "name": "Souldynamic",
+          "url": "https://open.spotify.com/artist/5zoRUFpHFVDyYfWqUB0p7H"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442926,
+      "name": "Hyperspace",
+      "url": "https://open.spotify.com/track/2PLHCXYbYI8hKNynmCmi0h"
+    },
+    {
+      "album": {
         "name": "I Believe In You",
         "url": "https://open.spotify.com/album/6zUSTKRJB2nQwET7x0l0xZ"
       },
@@ -2531,7 +2607,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 173675,
       "name": "Keep Rocking",
       "url": "https://open.spotify.com/track/2v8xrpCugWBJgNbJfzErqQ"
@@ -2767,7 +2843,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 306000,
       "name": "Lonestar Retreat",
       "url": "https://open.spotify.com/track/1xChZ7WgwgbcTCi4Vb6tGq"
@@ -3181,7 +3257,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 409182,
       "name": "My Time With You",
       "url": "https://open.spotify.com/track/1MqiNllDK5JEVV3FrETMQl"
@@ -3442,6 +3518,24 @@
     },
     {
       "album": {
+        "name": "Papertrip",
+        "url": "https://open.spotify.com/album/3aEA4puiYaJi1ICSFF42Bu"
+      },
+      "artists": [
+        {
+          "name": "Wallace",
+          "url": "https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368917,
+      "name": "Papertrip",
+      "url": "https://open.spotify.com/track/0z5d5d0nugKsiODYJS1tAz"
+    },
+    {
+      "album": {
         "name": "Paradiso Mediterraneo",
         "url": "https://open.spotify.com/album/5bi8BWda3CBEQJ3E2AYVLv"
       },
@@ -3565,7 +3659,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 406147,
       "name": "Pornography",
       "url": "https://open.spotify.com/track/77ltdRhy9R9AnDWFcKLLSA"
@@ -3641,6 +3735,28 @@
       "duration_ms": 379965,
       "name": "Power of Today",
       "url": "https://open.spotify.com/track/0XXV6O17QrAZKm5mtg9ZMC"
+    },
+    {
+      "album": {
+        "name": "PPPPP The Remixes Pt.2",
+        "url": "https://open.spotify.com/album/4wFJFn1XZmnhV4dkXtETKX"
+      },
+      "artists": [
+        {
+          "name": "youANDme",
+          "url": "https://open.spotify.com/artist/6kHXBiY7g3rkzhyxGW9WEG"
+        },
+        {
+          "name": "Ian Pooley",
+          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426130,
+      "name": "PPPPP - Ian Pooley\u2019s Deep Dub",
+      "url": "https://open.spotify.com/track/1cAcPhzFdbdaf7ACuaz7Pm"
     },
     {
       "album": {
@@ -3841,7 +3957,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 427748,
       "name": "Routine",
       "url": "https://open.spotify.com/track/2XswifMGlLR9a4rGiRdvJM"
@@ -4041,7 +4157,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 325289,
       "name": "Shadows of the Lost - Remix",
       "url": "https://open.spotify.com/track/6pvvX1TZ1guOwMYmutumcY"
@@ -4067,7 +4183,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 288430,
       "name": "Shenkin (pi-c remix)",
       "url": "https://open.spotify.com/track/57pHVJns05fr1dB8rckLbn"
@@ -4133,7 +4249,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 213750,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/4KEsOtBozoTP444fT46LHi"
@@ -4340,6 +4456,28 @@
     },
     {
       "album": {
+        "name": "Suffer (Fouk Remix)",
+        "url": "https://open.spotify.com/album/0IEJ31G6SprB7qBO3DTqx9"
+      },
+      "artists": [
+        {
+          "name": "Saison",
+          "url": "https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7"
+        },
+        {
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231347,
+      "name": "Suffer - Fouk Remix",
+      "url": "https://open.spotify.com/track/34OMmqBzLzUHtCLk0ZYj7a"
+    },
+    {
+      "album": {
         "name": "Take Out",
         "url": "https://open.spotify.com/album/3GDsQeh9yPYrlQsGKYQqat"
       },
@@ -4453,6 +4591,28 @@
       "duration_ms": 364329,
       "name": "The Compass Jawn - Studio Version",
       "url": "https://open.spotify.com/track/442z2BjwXdn4DlQdqPsmX5"
+    },
+    {
+      "album": {
+        "name": "The Flow (Cee ElAssaad VooDoo mix)",
+        "url": "https://open.spotify.com/album/35gh1ftT7aLf2nyJmwpu3l"
+      },
+      "artists": [
+        {
+          "name": "Anthony K.",
+          "url": "https://open.spotify.com/artist/352DOSeZnjTMXlXmLVk3kt"
+        },
+        {
+          "name": "Cee ElAssaad",
+          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415750,
+      "name": "The Flow - Cee ElAssaad VooDoo mix",
+      "url": "https://open.spotify.com/track/0udBUmXNg1fdrM7NZa7y8f"
     },
     {
       "album": {
@@ -5299,10 +5459,28 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 400000,
       "name": "Wet Dreams - Nu-Cleo Space Funk Remix",
       "url": "https://open.spotify.com/track/5ojM4o4QbKi53jIWmzsVXt"
+    },
+    {
+      "album": {
+        "name": "What I Keep",
+        "url": "https://open.spotify.com/album/5nhM2xsNTfXpkyYW5LX23e"
+      },
+      "artists": [
+        {
+          "name": "Sebb Junior",
+          "url": "https://open.spotify.com/artist/0oP6v3SuOC5jPc5pGUQdsD"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "What I Keep - Edit",
+      "url": "https://open.spotify.com/track/4GA8gmp4mz8DUGdtmbNwsQ"
     },
     {
       "album": {
@@ -5415,7 +5593,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 299382,
       "name": "Work 2 It",
       "url": "https://open.spotify.com/track/3sZYaHHGhNB3Stpb5dpsgl"
@@ -5549,6 +5727,24 @@
       "duration_ms": 352677,
       "name": "You Want That",
       "url": "https://open.spotify.com/track/78rZKFNN1Hy6SmdR1805uL"
+    },
+    {
+      "album": {
+        "name": "You're My Ecstacy",
+        "url": "https://open.spotify.com/album/6DUzhkWAMeqqItZ9NohxSN"
+      },
+      "artists": [
+        {
+          "name": "Jimpster",
+          "url": "https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391679,
+      "name": "You're My Ecstacy",
+      "url": "https://open.spotify.com/track/3RpALMFe9QvaEYdJ26iORH"
     },
     {
       "album": {

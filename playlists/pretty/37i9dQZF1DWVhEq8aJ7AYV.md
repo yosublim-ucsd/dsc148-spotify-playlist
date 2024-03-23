@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,461 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,475 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 57 | [Demolicion](https://open.spotify.com/track/4pRfLTRysjmc0gDRg9pRjr) | [Wau y Los Arrrghs!!!](https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh) | [Canten en Espanol](https://open.spotify.com/album/2HpUINC7m9OS5B5hpPi5OO) | 2:35 |
 | 58 | [Surfin Beer](https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 2:06 |
 | 59 | [Surf De L'amour](https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Taste the Blood of Guitaracula](https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB) | 2:45 |
-| 60 | [Return Of The Death Ray](https://open.spotify.com/track/1gGHDAJNzivn9ZJCTVULFe) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Organ Grinder](https://open.spotify.com/album/3vLdrulP4lBz0hT6TyGmsR) | 2:00 |
+| 60 | [Pirakor](https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Los Elásticos](https://open.spotify.com/album/4U6G03jSc18QPPxkx9ksBD) | 3:13 |
 | 61 | [Hombre Lobo Adolescente](https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Fráncisco Familiar](https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:42 |
 | 62 | [New Siberia](https://open.spotify.com/track/6Pc50RJY1VmPT8AowAvQwE) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Jet Set](https://open.spotify.com/album/78GXYcIUJryEegdJksbQ2i) | 3:29 |
-| 63 | [Pirakor](https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Los Elásticos](https://open.spotify.com/album/4U6G03jSc18QPPxkx9ksBD) | 3:13 |
+| 63 | [Return Of The Death Ray](https://open.spotify.com/track/1gGHDAJNzivn9ZJCTVULFe) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Organ Grinder](https://open.spotify.com/album/3vLdrulP4lBz0hT6TyGmsR) | 2:00 |
 | 64 | [El Bikini de la Chica Popof](https://open.spotify.com/track/6XMx1sjG5glE19x87YDew3) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz) | 2:21 |
 | 65 | [Shiralee](https://open.spotify.com/track/7dun0h25rFIwPJEKp3kheP) | [Arizona Baby](https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV) | [Second To None](https://open.spotify.com/album/7GjYH3xnMyVkdPomUQfzu9) | 3:03 |
 | 66 | [Bomber Man](https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Bomber Man](https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe) | 2:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 74 | [Space Oddity](https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU) | [The Neanderthals](https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8), [Eddie Angel \(Los Straitjackets\)](https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC) | [The Neanderthals In Space](https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei) | 2:59 |
 | 75 | [Miradas de Amor](https://open.spotify.com/track/005PrMKAhDjR0cUSMYmdYH) | [Danny Amis with Lost Acapulco](https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k) | [Daddy\-O Grande In Mexico](https://open.spotify.com/album/7jOrFMu39xWwTIKvhGwlDj) | 2:58 |
 
-Snapshot ID: `MCw2NTZjODAwYmQxOGYwZjliMWZkYzViMzgyMTc1OGMwODVkZGY2YWVm`
+Snapshot ID: `MCwwOTIyNGUxM2UyZmYwZWZjNzI0Mjg0ZDhjYWRlMzY3Y2UzNDVjZDQ2`

@@ -1,28 +1,36 @@
 {
   "description": "more like hyperstop playing this music please",
-  "num_followers": 433330,
+  "num_followers": 433428,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjc2MWY3MjQ0N2U0NmQ4MmEzN2MwNTE3NDRjNmI0MmUxZDUzYzRk",
+  "snapshot_id": "MCw2NGZmNWU1NjQ5OTJlNjQyNDc1NzBiYzU3NTlmODVkMjdkNGRhMjVk",
   "tracks": [
     {
-      "added_at": "2024-03-04 16:41:47",
+      "added_at": "2024-03-22 15:24:50",
       "album": {
-        "name": "Von dutch",
-        "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
+        "name": "The von dutch remix with addison rae and a.g. cook",
+        "url": "https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft"
       },
       "artists": [
         {
           "name": "Charli XCX",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
         }
       ],
-      "duration_ms": 164284,
-      "name": "Von dutch",
-      "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
+      "duration_ms": 157328,
+      "name": "The von dutch remix with addison rae and a.g. cook",
+      "url": "https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -39,6 +47,154 @@
       "duration_ms": 202055,
       "name": "Britpop",
       "url": "https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw"
+    },
+    {
+      "added_at": "2024-03-22 15:24:50",
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-03-22 15:24:50",
+      "album": {
+        "name": "I Took A Pill In Ibiza",
+        "url": "https://open.spotify.com/album/3BoY30AhgyTrduarCSErOZ"
+      },
+      "artists": [
+        {
+          "name": "FREE JIMI",
+          "url": "https://open.spotify.com/artist/0S3uHVwh6XhFE69pO20yJf"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "I Took A Pill In Ibiza",
+      "url": "https://open.spotify.com/track/5E12S5He8S89IdbNli2YiV"
+    },
+    {
+      "added_at": "2024-03-01 14:51:09",
+      "album": {
+        "name": "Faster n Harder",
+        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Faster n Harder",
+      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
+    },
+    {
+      "added_at": "2024-03-22 15:24:50",
+      "album": {
+        "name": "RYL0VE Song",
+        "url": "https://open.spotify.com/album/6HBRUgWffKMaS8pWYfzKEN"
+      },
+      "artists": [
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "RYL0VE Song",
+      "url": "https://open.spotify.com/track/09Sksb6alLvHMiHsa200n6"
+    },
+    {
+      "added_at": "2024-03-22 15:24:50",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 198437,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX"
+    },
+    {
+      "added_at": "2024-01-22 16:15:30",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+      },
+      "artists": [
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        }
+      ],
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
+      "added_at": "2024-03-22 15:24:50",
+      "album": {
+        "name": "n'est-ce pas",
+        "url": "https://open.spotify.com/album/0vwsH9udcnsCY0W7J1hCEQ"
+      },
+      "artists": [
+        {
+          "name": "k0d4m4",
+          "url": "https://open.spotify.com/artist/3tIjal5JTGCQpN7wEpbIz7"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "n'est-ce pas",
+      "url": "https://open.spotify.com/track/7izUG1EE2B2XqMDWANyIFG"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "witchpop",
+        "url": "https://open.spotify.com/album/0Eh9Wxiz3Jdj4ciWb0MvNC"
+      },
+      "artists": [
+        {
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+        }
+      ],
+      "duration_ms": 125533,
+      "name": "ketamine",
+      "url": "https://open.spotify.com/track/7iT4eHdjG2Ny3iYhXP0iRz"
+    },
+    {
+      "added_at": "2024-03-22 15:24:50",
+      "album": {
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/1cpyOrnxDFaIBQfbt2ipyD"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "duration_ms": 153910,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/1h4DGomolQ2UwJFFUWJzjP"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -65,38 +221,6 @@
       "url": "https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS"
     },
     {
-      "added_at": "2024-03-01 14:51:09",
-      "album": {
-        "name": "Faster n Harder",
-        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
-      },
-      "artists": [
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Faster n Harder",
-      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "witchpop",
-        "url": "https://open.spotify.com/album/0Eh9Wxiz3Jdj4ciWb0MvNC"
-      },
-      "artists": [
-        {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
-        }
-      ],
-      "duration_ms": 125533,
-      "name": "ketamine",
-      "url": "https://open.spotify.com/track/7iT4eHdjG2Ny3iYhXP0iRz"
-    },
-    {
       "added_at": "2024-03-04 16:41:47",
       "album": {
         "name": "Rock Your Body",
@@ -117,6 +241,22 @@
       "url": "https://open.spotify.com/track/1LKk576aw3RM47MNytUtrD"
     },
     {
+      "added_at": "2024-03-22 15:24:50",
+      "album": {
+        "name": "BLOODMOON",
+        "url": "https://open.spotify.com/album/570Dv2BkqT7E8ZStfpNi1Y"
+      },
+      "artists": [
+        {
+          "name": "KROY",
+          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
+        }
+      ],
+      "duration_ms": 256023,
+      "name": "JOLIGENTIL",
+      "url": "https://open.spotify.com/track/622aeJLMWkE4lkkmoWNUFC"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "AMERICAN DREAM",
@@ -131,22 +271,6 @@
       "duration_ms": 160624,
       "name": "AMERICAN DREAM",
       "url": "https://open.spotify.com/track/4gxEAJpFbGX9iI7SPSn88z"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
       "added_at": "2024-02-09 15:58:51",
@@ -181,6 +305,26 @@
       "url": "https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30"
     },
     {
+      "added_at": "2024-03-22 15:24:50",
+      "album": {
+        "name": "Sefirot",
+        "url": "https://open.spotify.com/album/7dYlNgFh5Z31syVgrABpU6"
+      },
+      "artists": [
+        {
+          "name": "MYKKA",
+          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
+        },
+        {
+          "name": "Said",
+          "url": "https://open.spotify.com/artist/4IXpKvMb4jsNyMKlXBtWSR"
+        }
+      ],
+      "duration_ms": 167865,
+      "name": "Sefirot",
+      "url": "https://open.spotify.com/track/503P8jeXzfhYrEldXNLkrE"
+    },
+    {
       "added_at": "2024-03-04 16:41:47",
       "album": {
         "name": "Don't Leave",
@@ -199,22 +343,6 @@
       "duration_ms": 181800,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/1sRBnzf4Pc6u0gxZfLw5OT"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Not There Anymore",
-        "url": "https://open.spotify.com/album/0oSMvuRQvbUDv7iuKANAOB"
-      },
-      "artists": [
-        {
-          "name": "Ravenna Golden",
-          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
-        }
-      ],
-      "duration_ms": 189272,
-      "name": "Not There Anymore",
-      "url": "https://open.spotify.com/track/2Hmx7yWUpz9bNJg1tE6A28"
     },
     {
       "added_at": "2024-03-08 17:17:25",
@@ -239,6 +367,38 @@
       "duration_ms": 152000,
       "name": "higher",
       "url": "https://open.spotify.com/track/7diyCFL8chcY1REunXR18F"
+    },
+    {
+      "added_at": "2024-03-22 15:24:50",
+      "album": {
+        "name": "Kanekalon",
+        "url": "https://open.spotify.com/album/3T2GrYHzc9Z2UNO3HQSHDX"
+      },
+      "artists": [
+        {
+          "name": "Samantha Hudson",
+          "url": "https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92"
+        }
+      ],
+      "duration_ms": 127363,
+      "name": "Kanekalon",
+      "url": "https://open.spotify.com/track/72FOS2i2LW9z1kG2WLapwp"
+    },
+    {
+      "added_at": "2024-01-22 16:15:30",
+      "album": {
+        "name": "Vroom Vroom EP",
+        "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 193270,
+      "name": "Vroom Vroom",
+      "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -279,34 +439,50 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "VVSS2",
-        "url": "https://open.spotify.com/album/18LcGAu4SdHkxUnct2t51u"
+        "name": "Not There Anymore",
+        "url": "https://open.spotify.com/album/0oSMvuRQvbUDv7iuKANAOB"
       },
       "artists": [
         {
-          "name": "SEBii",
-          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
         }
       ],
-      "duration_ms": 132045,
-      "name": "SAPHiiRE",
-      "url": "https://open.spotify.com/track/1nCtZlzwlqE8RtNNn45yXO"
+      "duration_ms": 189272,
+      "name": "Not There Anymore",
+      "url": "https://open.spotify.com/track/2Hmx7yWUpz9bNJg1tE6A28"
     },
     {
-      "added_at": "2024-01-22 16:15:30",
+      "added_at": "2024-03-22 15:24:50",
       "album": {
-        "name": "Vroom Vroom EP",
-        "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
+        "name": "SuperKiss: A",
+        "url": "https://open.spotify.com/album/6AS9T4GWYPrK8BnhFkBLzw"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Shelhiel",
+          "url": "https://open.spotify.com/artist/1YiJh4CyYHF215ak2CmoaE"
         }
       ],
-      "duration_ms": 193270,
-      "name": "Vroom Vroom",
-      "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
+      "duration_ms": 199873,
+      "name": "oh, Mr DJ!!!",
+      "url": "https://open.spotify.com/track/2E8LllpSU2FmTFbo9EKfQz"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Wtf u want.",
+        "url": "https://open.spotify.com/album/10sX64KGtxKuFNNskErQkb"
+      },
+      "artists": [
+        {
+          "name": "OSTON",
+          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
+        }
+      ],
+      "duration_ms": 127600,
+      "name": "Wtf u want.",
+      "url": "https://open.spotify.com/track/0pURlXPaj5o9tXRim3kT1a"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -377,22 +553,6 @@
       "url": "https://open.spotify.com/track/2tYuG2yDiQXAUaiT43yCip"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Wtf u want.",
-        "url": "https://open.spotify.com/album/10sX64KGtxKuFNNskErQkb"
-      },
-      "artists": [
-        {
-          "name": "OSTON",
-          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
-        }
-      ],
-      "duration_ms": 127600,
-      "name": "Wtf u want.",
-      "url": "https://open.spotify.com/track/0pURlXPaj5o9tXRim3kT1a"
-    },
-    {
       "added_at": "2024-02-16 16:39:59",
       "album": {
         "name": "skyskysky",
@@ -411,6 +571,22 @@
       "duration_ms": 143313,
       "name": "skyskysky",
       "url": "https://open.spotify.com/track/74ndPRenu6lTSh0xWRZ0EG"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "VVSS2",
+        "url": "https://open.spotify.com/album/18LcGAu4SdHkxUnct2t51u"
+      },
+      "artists": [
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "duration_ms": 132045,
+      "name": "SAPHiiRE",
+      "url": "https://open.spotify.com/track/1nCtZlzwlqE8RtNNn45yXO"
     },
     {
       "added_at": "2024-03-04 16:41:47",
@@ -853,22 +1029,6 @@
       "url": "https://open.spotify.com/track/525wrNQ7CY1KmtAFz2wVo6"
     },
     {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "Rave Angel",
-        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Rave Angel",
-      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
-    },
-    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "exulansis",
@@ -1103,22 +1263,6 @@
       "duration_ms": 242671,
       "name": "F\u00fchrerschein",
       "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "summer lungs/If you didnt want me",
-        "url": "https://open.spotify.com/album/0oEX5cpLgRMeW49PDi2AgU"
-      },
-      "artists": [
-        {
-          "name": "Sipper",
-          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "summer lungs",
-      "url": "https://open.spotify.com/track/6X17PwmGkjJH717hEm9Ea3"
     },
     {
       "added_at": "2024-01-26 15:53:41",
@@ -1603,22 +1747,6 @@
     {
       "added_at": "2024-01-22 16:15:30",
       "album": {
-        "name": "Chupetones",
-        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
-      },
-      "artists": [
-        {
-          "name": "Meth Math",
-          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Myspace",
-      "url": "https://open.spotify.com/track/5cXr56savehemj8ria2cxD"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
         "name": "Remind Me",
         "url": "https://open.spotify.com/album/6gwNZoJSrLZlbg8e5FPFWX"
       },
@@ -1659,118 +1787,6 @@
     {
       "added_at": "2024-01-22 16:15:30",
       "album": {
-        "name": "Poster Girl",
-        "url": "https://open.spotify.com/album/3ntPrJhjhD6pjmhw3OSNtP"
-      },
-      "artists": [
-        {
-          "name": "Hannah Diamond",
-          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "Poster Girl",
-      "url": "https://open.spotify.com/track/0uMuqJ8C94se50maCXGS1q"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "amends",
-        "url": "https://open.spotify.com/album/4eVKslgPopgYARIH7TiSPX"
-      },
-      "artists": [
-        {
-          "name": "Sipper",
-          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
-        }
-      ],
-      "duration_ms": 158961,
-      "name": "amends",
-      "url": "https://open.spotify.com/track/2zeyfLYqiAp0dkvaKY93HI"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "LA ESKINA DEL ESTANKE",
-        "url": "https://open.spotify.com/album/2VukIjOu9AXoe66SxCFJTF"
-      },
-      "artists": [
-        {
-          "name": "alequi",
-          "url": "https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH"
-        },
-        {
-          "name": "detunedfreq",
-          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
-        }
-      ],
-      "duration_ms": 74071,
-      "name": "NO SOY BLADEE",
-      "url": "https://open.spotify.com/track/1X5p1jbnc7GJcz5pUGbWSH"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "Chupetones",
-        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
-      },
-      "artists": [
-        {
-          "name": "Meth Math",
-          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Mantis",
-      "url": "https://open.spotify.com/track/7hWuZeWZjSclI6TO6tcQmN"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "babytooth",
-        "url": "https://open.spotify.com/album/0MwPVSKBHX6CEM47FgRZrY"
-      },
-      "artists": [
-        {
-          "name": "Senses",
-          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
-        },
-        {
-          "name": "Nosgov",
-          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
-        },
-        {
-          "name": "dy.wsh",
-          "url": "https://open.spotify.com/artist/2I8vJYpHksVmKlGheUOux7"
-        }
-      ],
-      "duration_ms": 199366,
-      "name": "babytooth",
-      "url": "https://open.spotify.com/track/5efEKdV6428nEodNHEM7oT"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "ROTTEN",
-        "url": "https://open.spotify.com/album/4QOHx2nwkcal8aWhL3LNhf"
-      },
-      "artists": [
-        {
-          "name": "Rakky Ripper",
-          "url": "https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj"
-        },
-        {
-          "name": "detunedfreq",
-          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
-        }
-      ],
-      "duration_ms": 128256,
-      "name": "ROTTEN",
-      "url": "https://open.spotify.com/track/6se5Ti2TLMi7wO7AolPF1B"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
         "name": "PRETTY GIRL",
         "url": "https://open.spotify.com/album/5rgxsMyFO3NkfG36l2rouo"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 146625,
       "name": "PRETTY GIRL",
       "url": "https://open.spotify.com/track/2OuCWKJOjKGbvzyJH9wpfd"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "CUT MY HEART OUT",
-        "url": "https://open.spotify.com/album/19luyasFEMkdg7KBXUQKjY"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 152428,
-      "name": "CUT MY HEART OUT",
-      "url": "https://open.spotify.com/track/087UWFehhhqmHr79g9H1kn"
     }
   ],
   "unique_name": "hyperpop",

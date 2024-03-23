@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i'm just a girl updating a playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,003 likes - 912 songs - 2 day 0 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,724 likes - 912 songs - 2 day 0 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,7 +175,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 165 | [The Ketchup Song \(Aserejé\) \- Spanglish Version](https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie) | [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Hijas del Tomate](https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO) | 3:33 |
 | 166 | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF) | 2:57 |
 | 167 | [Would I Lie To You? \- Album Edit](https://open.spotify.com/track/1XFyebjye69ZVGR2WOze2U) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Would I Lie To You?](https://open.spotify.com/album/3fdyhYkAKnfNIDSNUwZIPR) | 3:43 |
-| 168 | [Can You Remember the Rain \- Sequence Remix](https://open.spotify.com/track/0OMk47yB6vZLECkkHRAEQH) | [Garrett Atterberry](https://open.spotify.com/artist/0KppDOsHTsrrm0zAfRzZcC) | [Vectrex](https://open.spotify.com/album/26pyEXmWOjOjte1cCfQ586) | 3:06 |
+| 168 | [Can You Remember the Rain](https://open.spotify.com/track/6y4BWzx0SeqZT9KhRD25y6) | [Elliot Norlander](https://open.spotify.com/artist/2vcH94PF19UypegwaEughz), [LofiClub](https://open.spotify.com/artist/1iTPP9IvIq7CDNiSfjaSoh) | [Can You Remember the Rain](https://open.spotify.com/album/4m7ZleWG5AkBedklwHOK5u) | 3:06 |
 | 169 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 | 170 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 |
 | 171 | [I'm Just Ken \(From Barbie The Album\)](https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5) | 3:42 |
@@ -303,7 +303,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 293 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/2ntMdOsTvndzY4vQzkSigb) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/0h04WVpjhX7TDcUlr5ztzo) | 2:43 |
 | 294 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 |
 | 295 | [Blue Hair](https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Death of a Party Girl](https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy) | 3:37 |
-| 296 | [Resonance](https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT) | [Home](https://open.spotify.com/artist/591B30rR0fT2JeE9zXPPwu) | [Odyssey](https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M) | 3:32 |
+| 296 | [Resonance](https://open.spotify.com/track/2BGm83eW9sQfwYfQlpBDNS) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/7zEy6OO8aC1sy6T7LwdfKQ) | 3:32 |
 | 297 | [missin something](https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/2Eci8P9zJCFawKXvoNCTKE) | 2:25 |
 | 298 | [novocaine](https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V) | [GenriX](https://open.spotify.com/artist/6hxcqtqpmf08pTDkffU5xx), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [unfortunately yours,](https://open.spotify.com/album/1fm7CNqCCdnqOoxdb23VTs) | 3:15 |
 | 299 | [Mother](https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:27 |
@@ -921,4 +921,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 911 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 912 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MCwxNDZiMTg4ODkwZjlkMDUzMGIxZDY0NjhmZmZjMGExMzAxYjIwNjFh`
+Snapshot ID: `MCw2N2Y2MTkwZmRlMGIwNDRhYWQ1ZmI2MGUyNzAwMzllYjY5ZjY5NWZj`

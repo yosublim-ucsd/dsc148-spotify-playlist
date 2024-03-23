@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 
 > The greatest indie love songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,535 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,756 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 20 | [I Love You](https://open.spotify.com/track/4N8idxy0W2GDaEosAwPOMg) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 5:05 |
 | 21 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 22 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
-| 23 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
-| 24 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 3:29 |
+| 23 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 3:29 |
+| 24 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
 | 25 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 |
 | 26 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
 | 27 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 36 | [Baby I'm Yours](https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw) | 2:32 |
 | 37 | [Here Comes Your Man](https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 3:21 |
 | 38 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
-| 39 | [Stubborn Love](https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 4:39 |
-| 40 | [Cariño](https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:18 |
+| 39 | [Cariño](https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:18 |
+| 40 | [Stubborn Love](https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 4:39 |
 | 41 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
 | 42 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 |
 | 43 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 74 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 |
 | 75 | [Anyone Else But You](https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy) | [The Moldy Peaches](https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU) | [The Moldy Peaches](https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236) | 3:00 |
 
-Snapshot ID: `MCw1OGIxMzAxYWI1MmM4MzBiZmY4YTgwYzAyMDc4ZWQzNDRmN2MxMzZl`
+Snapshot ID: `MCxiYTg1NGZiZjRiNzMwMmVkMzA3YjA0N2NlZGEyMDhmNGFjZmU1ZjVj`

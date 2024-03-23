@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 > This is Kaliii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,096 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,103 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 15 | [Stand On It](https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 1:56 |
 | 16 | [Track & Field \(feat\. Kaliii\)](https://open.spotify.com/track/1IgIR2FmHpfuR3MkGnGQUI) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Track & Field \(feat\. Kaliii\)](https://open.spotify.com/album/2c2pjLYQ3hd9UNoCPiNuwf) | 2:18 |
 | 17 | [Wet](https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Wet](https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u) | 2:16 |
-| 18 | [Standards](https://open.spotify.com/track/3aYpUar301x64WbolSxdwS) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:55 |
-| 19 | [Kickin In \(feat\. Kaliii\)](https://open.spotify.com/track/28319tGwwnaIVtjFk7JPfH) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Back To 304'n](https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg) | 2:56 |
+| 18 | [Kickin In \(feat\. Kaliii\)](https://open.spotify.com/track/28319tGwwnaIVtjFk7JPfH) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Back To 304'n](https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg) | 2:56 |
+| 19 | [Standards](https://open.spotify.com/track/3aYpUar301x64WbolSxdwS) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:55 |
 | 20 | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7) | 3:38 |
 | 21 | [Ouuhh!!](https://open.spotify.com/track/6R5pp1Yant3DhEuHtJJGZl) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Famous Uno](https://open.spotify.com/artist/4Y9LZIhP41oVQFjoyJ3Gga), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Ouuhh!!](https://open.spotify.com/album/5R7RaffbuuCgJ8rB9qC0P8) | 3:17 |
 | 22 | [Where She At \(feat\. Kali, KenTheMan\)](https://open.spotify.com/track/0ou1POV1L5meXTc8HeELNP) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [MULTI](https://open.spotify.com/album/01Gyi3UvIcbXejlgpjAYyD) | 3:28 |
@@ -52,10 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 42 | [05\. Let 175](https://open.spotify.com/track/0NCuOXs7lRUE9hnKF9agg2) | [Jantar](https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Jedna Ljubav A Kurva](https://open.spotify.com/album/23gGGCdVQH4ImEsZYaaz0t) | 3:26 |
 | 43 | [12](https://open.spotify.com/track/4SDvrRS2dKUfvpkYWay8rM) | [Foe](https://open.spotify.com/artist/7j826TUXPEos01kKSeddi3), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [12](https://open.spotify.com/album/1sYUOWAoRUKPvlilrrt9m1) | 3:11 |
 | 44 | [Andělé A Démoni](https://open.spotify.com/track/1rOGlKL0GNiNbKqNfQq6H4) | [DeFuckTo](https://open.spotify.com/artist/5ePLZV8qgXvEewuJCWkwTU), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Andělé A Démoni](https://open.spotify.com/album/3GHb3nGINrgVc4Ixq37Sj1) | 3:39 |
-| 45 | [Peakin'](https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2) | [Dr\. Ink](https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Earth Vs Aliens](https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i) | 3:46 |
-| 46 | [Story Teller \- Original Mix](https://open.spotify.com/track/7grj3JBO3DGa4znViKeIki) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bridging the Gap, Vol\. 2 Compiled by Dynamic Range](https://open.spotify.com/album/1O9q3Fui5u2yLSiW6PaLPd) | 7:19 |
+| 45 | [Story Teller \- Original Mix](https://open.spotify.com/track/7grj3JBO3DGa4znViKeIki) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bridging the Gap, Vol\. 2 Compiled by Dynamic Range](https://open.spotify.com/album/1O9q3Fui5u2yLSiW6PaLPd) | 7:19 |
+| 46 | [Peakin'](https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2) | [Dr\. Ink](https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Earth Vs Aliens](https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i) | 3:46 |
 | 47 | [Pakkman](https://open.spotify.com/track/2bW876RUtpQOOwz3aocCRT) | [SbMigo](https://open.spotify.com/artist/5zUCkBQ1toNwvXlPSQpL2A), [Durt J](https://open.spotify.com/artist/3y4KE35PrBDq2isu5GHCxO), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [That Rabbit All Star Compilation, Vol\. 1](https://open.spotify.com/album/36qRi5qPrdRBeGQlg1oDIQ) | 3:56 |
 | 48 | [Poézia Ulice](https://open.spotify.com/track/3WDmH57riK5YqsR4YUlxeb) | [Bacil](https://open.spotify.com/artist/4uviJhX649yLp6C4fPL4Ry), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [StreetTape](https://open.spotify.com/album/3AeDIwMGQSxOZq0yxanTRJ) | 5:01 |
 | 49 | [Jeminn eini](https://open.spotify.com/track/4fXq4gLPLhMdtBoqRnD0wx) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Smekkleysa í hálfa öld](https://open.spotify.com/album/5DnUUQ8gdNflTyqwDCG0ts) | 4:26 |
+| 50 | [Rockers Step Like Kelly](https://open.spotify.com/track/2d18QIOZ9d90BzbndmW01N) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Rockers Dubstep Like Kelly](https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E) | 2:58 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDAyNTY5NmViNjk3NWMzYjczMGUyOWY5OGNkNWVhZDMwOA==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBkMGE1MDI0Zjc2NTUwOGM5ZDAwOGMzNzk5ZDY0Nzc5MQ==`

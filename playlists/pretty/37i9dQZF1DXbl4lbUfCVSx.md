@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,202 likes - 40 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,214 likes - 40 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 15 | [Ma Cherie Je T'aime](https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [Resan](https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG) | 5:07 |
 | 16 | [Libre D'aimer](https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Lòd Nan Dezòd](https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT) | 6:35 |
 | 17 | [Pa Leve Main Ou Sou Li](https://open.spotify.com/track/7ckfJx3iy4IilztPg0q56V) | [System Band](https://open.spotify.com/artist/1OpB6rkG92KAq4hVbRV0nU) | [Nan Building Nan](https://open.spotify.com/album/73IxgcLusQRQ8JWuHivGyu) | 5:23 |
-| 18 | [It's Getting Late](https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B) | [J\-BEATZ](https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU) | [Our Own World](https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD) | 4:53 |
-| 19 | [Yelé \(feat\. Ms\. Lauryn Hill\)](https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Wyclef Jean presents The Carnival featuring Refugee Allstars \(feat\. Refugee All Stars\)](https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU) | 5:24 |
+| 18 | [Yelé \(feat\. Ms\. Lauryn Hill\)](https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Wyclef Jean presents The Carnival featuring Refugee Allstars \(feat\. Refugee All Stars\)](https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU) | 5:24 |
+| 19 | [It's Getting Late](https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B) | [J\-BEATZ](https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU) | [Our Own World](https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD) | 4:53 |
 | 20 | [Di'm Kibò'w Vle'l \#Quickie](https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp) | [X\-tassy](https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D) | [Motivation](https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr) | 4:24 |
 | 21 | [Is It Real?](https://open.spotify.com/track/2i4lLBucZUbHunIH7maIst) | [Arly Lariviere](https://open.spotify.com/artist/4JWyqE3lyeBUiyMATTBw4o) | [Encyclopedie](https://open.spotify.com/album/1RI9JdAdq2TMcJh7LiMle9) | 6:42 |
 | 22 | [Another Round \- Zouk](https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Another Round](https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ) | 4:18 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 33 | [San Limit](https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [3 Tou 9](https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m) | 4:49 |
 | 34 | [Turn Me On](https://open.spotify.com/track/2YItJHTMp12xn8Ln7pvMCq) | [Kreyol La](https://open.spotify.com/artist/0eNBVNVE6RtZYinnymY1uB) | [Invictus](https://open.spotify.com/album/23RrDDmUkBaoLHnsBtYygy) | 3:34 |
 | 35 | [Kimbé sa nan rinw](https://open.spotify.com/track/1SMubCWecHSi9ZSuvWJhP9) | [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi) | [Turbulan's Kompa, Vol\. 2 \(Special Gouyad Mixed by DJ Mayass\)](https://open.spotify.com/album/1yVAa5VNI8NFNLlWE0hZhn) | 2:45 |
-| 36 | [Lè Nap Fè Lanmou](https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2) | [Mizik Mizik](https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA) | [De Ger](https://open.spotify.com/album/326B0vsovArwhIildjVOdc) | 5:08 |
-| 37 | [Lanmou Doudou](https://open.spotify.com/track/2jl6qxOAmEuQB5QWrMsVbD) | [Jacques Sauveur Jean](https://open.spotify.com/artist/7zMjoqEv6asrJzuhFnR72e), [Fabrice Rouzier](https://open.spotify.com/artist/4h2SA3cxN3x4638hDpzy7e) | [Haïti Twoubadou Volume 1](https://open.spotify.com/album/7xVvyQ8qlFd6FbV7OYsAIA) | 4:15 |
+| 36 | [Lanmou Doudou](https://open.spotify.com/track/2jl6qxOAmEuQB5QWrMsVbD) | [Jacques Sauveur Jean](https://open.spotify.com/artist/7zMjoqEv6asrJzuhFnR72e), [Fabrice Rouzier](https://open.spotify.com/artist/4h2SA3cxN3x4638hDpzy7e) | [Haïti Twoubadou Volume 1](https://open.spotify.com/album/7xVvyQ8qlFd6FbV7OYsAIA) | 4:15 |
+| 37 | [Lè Nap Fè Lanmou](https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2) | [Mizik Mizik](https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA) | [De Ger](https://open.spotify.com/album/326B0vsovArwhIildjVOdc) | 5:08 |
 | 38 | [Grev Bèbè](https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 5:16 |
 | 39 | [Simplicité](https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 5:31 |
 | 40 | [Heartbreak & Misery](https://open.spotify.com/track/23gqX7KTpI4ZEiCbyIRrzX) | [Disip](https://open.spotify.com/artist/4DjQNrfsZZje1pbjfr8d9n) | [Klere Yo](https://open.spotify.com/album/2H1rwUb7pqUIJPh7MLcgCN) | 6:31 |
 
-Snapshot ID: `MCw1NGI4MzA1YjViNzQzNzcwZjFhNjViY2Y5NmZiMDdmYWI0NDU5ZTQy`
+Snapshot ID: `MCwxMTdkNzVkYjUyZDk4MjBmYjg0ZTY3ODkyMDI1NDc2YzRiNWIzODAz`

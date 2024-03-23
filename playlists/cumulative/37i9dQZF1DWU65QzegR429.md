@@ -4,7 +4,7 @@
 
 > Latin music making waves and Cristina Martinez bringing the vibes with the first 5 songs\. Cover: Lismar
 
-203 songs - 10 hr 37 min
+205 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Luces](https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Luces](https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW) | 3:45 | 2023-02-10 |  |
 | [Luna](https://open.spotify.com/track/2gqKtg5iVvC7ycMVyPuLu9) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Las Torres](https://open.spotify.com/album/0pqg9L1GiHk6Q4GGkQBLla) | 3:45 | 2022-02-18 | 2022-06-03 |
 | [Luna](https://open.spotify.com/track/0IAtXQ8GqbWmqi8ziDPUzD) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [Luna](https://open.spotify.com/album/2g9yebPcAL4ZRI52RSvhC3) | 3:02 | 2022-02-18 | 2022-06-03 |
+| [Madrid](https://open.spotify.com/track/6IYJaB2xU1tqIzAIF6pHxk) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Madrid](https://open.spotify.com/album/7fxoiLhdWnKxOniIaN1IPn) | 3:14 | 2024-03-22 |  |
 | [Mango](https://open.spotify.com/track/3JNA2gH4YsexgcRqJprimR) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Jenn Morel](https://open.spotify.com/album/191I4m4Z4rbDUXvpvdpn6H) | 2:14 | 2022-02-18 | 2022-06-03 |
 | [MANY NIGHTS](https://open.spotify.com/track/2gvHaUPuZVfCLq9DXNwqON) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [MANY NIGHTS](https://open.spotify.com/album/3L1BuSyavRIJ1lTIwG8WXV) | 2:39 | 2024-03-18 |  |
 | [Mata Sede](https://open.spotify.com/track/5wZAlqyfzH3EUawJlp3wqf) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG), [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [Atómica](https://open.spotify.com/album/7oj2qCLRzyE9VTI4T7eime) | 3:15 | 2024-02-01 |  |
@@ -207,6 +208,7 @@
 | [Way Too Soft](https://open.spotify.com/track/6Ib54l6GmkSTONB4gVsCUS) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Way Too Soft](https://open.spotify.com/album/7qRBGwP4aLulh8xLDbb5ts) | 2:16 | 2022-02-18 | 2022-06-03 |
 | [What a Bam Bam](https://open.spotify.com/track/0l6REfKf0k4aX5UsLIXEhe) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [What a Bam Bam](https://open.spotify.com/album/2ZkUOPatBkSSJRDKUBbwaz) | 3:08 | 2024-03-21 |  |
 | [When I Was Your Girl](https://open.spotify.com/track/07mj6o8oLIYbMSvwlQGMUB) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [There's No Other Girl \(Live Session EP\)](https://open.spotify.com/album/65e8ENLi3NSZj5xooYNO1x) | 5:35 | 2022-02-18 | 2022-06-03 |
+| [Who Who](https://open.spotify.com/track/5chbw52W6N0FMq7hFsdQyU) | [Emanuel Lara](https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [Who Who](https://open.spotify.com/album/5YwNXkTwhwBv1dZE5pbE11) | 3:03 | 2024-03-22 |  |
 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 | 2022-02-18 | 2022-06-03 |
 | [Yo Soy De PR](https://open.spotify.com/track/2YDcWtjC6zKfx3NYHR5SKW) | [Jey Blessing](https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Yo Soy De PR](https://open.spotify.com/album/4S35csP0ALLI8p1aNlqSj5) | 3:21 | 2023-02-27 | 2023-06-19 |
 | [Échale](https://open.spotify.com/track/3XISxkzbJUu5icSmQaCrcn) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Love and Lies](https://open.spotify.com/album/0HzJJJkcvpiEAaKfJQw2l2) | 3:16 | 2022-02-18 | 2022-06-03 |

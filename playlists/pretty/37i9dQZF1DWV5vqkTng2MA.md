@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,461 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,581 likes - 90 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 37 | [Go Down River](https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 4:26 |
 | 38 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 |
 | 39 | [Champagne Corolla](https://open.spotify.com/track/0Na0XZN8XNwcgbgW9sS7IY) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU) | 3:38 |
-| 40 | [Look It Here](https://open.spotify.com/track/1uGFKt1GEUeuST97c2jBD4) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 3:03 |
-| 41 | [Powder Blue](https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You're Dreaming](https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG) | 2:23 |
+| 40 | [Powder Blue](https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You're Dreaming](https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG) | 2:23 |
+| 41 | [Look It Here](https://open.spotify.com/track/1uGFKt1GEUeuST97c2jBD4) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 3:03 |
 | 42 | [Katchi](https://open.spotify.com/track/09uXepY9uC1cUlvZ6kbOy6) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Never Twice](https://open.spotify.com/album/1gzWphTk6PqMZ5qWbVaBk4) | 3:40 |
 | 43 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 |
 | 44 | [Revival](https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Utah](https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7) | 3:33 |
 | 45 | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 |
 | 46 | [For the Time Being](https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn), [Will Leet](https://open.spotify.com/artist/2ArFmY25rRvP5RFJpHkqLi) | [For the Time Being](https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o) | 4:05 |
-| 47 | [Tower of Babel](https://open.spotify.com/track/2s70AL69BjHU7y9aABGDUL) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Keep Your Courage](https://open.spotify.com/album/1PWQ1uSe3rnRYeaq3BQAoe) | 2:28 |
-| 48 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 2:52 |
+| 47 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 2:52 |
+| 48 | [Tower of Babel](https://open.spotify.com/track/2s70AL69BjHU7y9aABGDUL) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Keep Your Courage](https://open.spotify.com/album/1PWQ1uSe3rnRYeaq3BQAoe) | 2:28 |
 | 49 | [Sugaree](https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED), [Friends](https://open.spotify.com/artist/0R2qhaNYSKYhYKeRMYwrpN) | [Day of the Dead](https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz) | 4:59 |
 | 50 | [CRYING’S JUST A THING YOU DO](https://open.spotify.com/track/0cnwJ1WWMGVCnDbqpnB4LG) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [UNDIVIDED HEART & SOUL](https://open.spotify.com/album/3W3o75jSGuCqimWodjCUPB) | 3:14 |
 | 51 | [No Sugar In My Coffee](https://open.spotify.com/track/7KbVuShFCBsTKZQd5RIwYE) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/4qEAS3yOfHikRMdRiPI4Dg) | 3:28 |
@@ -89,14 +89,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 79 | [Sister Andre](https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Sister Andre](https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp) | 3:05 |
 | 80 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 |
 | 81 | [Wastin' My Mind](https://open.spotify.com/track/3VqCUJv72SIoDMd6ZT29fS) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [The Muse](https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d) | 2:59 |
-| 82 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 |
-| 83 | [The Very Last Day](https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:00 |
+| 82 | [The Very Last Day](https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:00 |
+| 83 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 |
 | 84 | [The Ballad of Johnny](https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1) | 2:53 |
 | 85 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 |
 | 86 | [Two Wolves](https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 4:04 |
 | 87 | [Party City](https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:24 |
 | 88 | [Fine to Me](https://open.spotify.com/track/5zMxWgi2SJ8NMDj7J6WqSX) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Fine to Me](https://open.spotify.com/album/7m1gJq3SBJHvpw50OeyKps) | 3:58 |
 | 89 | [Too Little, Too Late, Too Bad](https://open.spotify.com/track/2Bo6HLwcrHh7VbTC1CjF55) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:44 |
-| 90 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
+| 90 | [Midnight Wine](https://open.spotify.com/track/29ya2cQa0u96dSTctywzHI) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Year Of The Spider](https://open.spotify.com/album/2t9TN9PcDnAcLZCP9odxLY) | 3:18 |
 
-Snapshot ID: `MCxiOTRiYjAyNjYxZDc3ODQ2ZDZhN2UxOTNlNDNhY2I1NzY5ZjhiMzhh`
+Snapshot ID: `MCw1MjNhMGMxNTA0YmY0YjgyYmM3MTFiYmU1NjVjMDI4ZTVhZWI2MGZl`

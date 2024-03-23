@@ -2,9 +2,9 @@
 
 ### [Jazz\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWUb0uBnlJuTi)
 
-> Jazz\. But funky\. Cover: Takuya Kuroda
+> Jazz\. But funky\. Cover: Sly5thAve
 
-398 songs - 1 day 6 hr 26 min
+399 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Be on the Lookout](https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Be on the Lookout](https://open.spotify.com/album/2lI3D4qYZkM4u9wAcTXRUA) | 3:13 | 2021-06-04 | 2023-03-11 |
 | [Better Day's Are Coming](https://open.spotify.com/track/6mJlNbnQL5hlwmAVI56nfS) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y), [Mats Öberg](https://open.spotify.com/artist/3LUqfl7mVVnNwfCpE6s4RD) | [Better Day's Are Coming](https://open.spotify.com/album/3qNRh6bl4LpSgMfT4owJSE) | 4:14 | 2022-02-04 |  |
 | [Biff](https://open.spotify.com/track/2BUFIIwxakMPTvQAJTjV8D) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Biff](https://open.spotify.com/album/2AVASYr7bkRFHrlKE4rjjp) | 4:02 | 2023-03-24 |  |
-| [Big Brother](https://open.spotify.com/track/706lD4ZY9A3uWNLjPYSpaV) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Daniel Wytanis](https://open.spotify.com/artist/59FNzYPBlL9ILle4RZE1ln) | [Big Brother](https://open.spotify.com/album/3wDuX7ZXEZZycoU5XVTg5n) | 6:01 | 2024-03-01 |  |
+| [Big Brother](https://open.spotify.com/track/706lD4ZY9A3uWNLjPYSpaV) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Daniel Wytanis](https://open.spotify.com/artist/59FNzYPBlL9ILle4RZE1ln) | [Big Brother](https://open.spotify.com/album/3wDuX7ZXEZZycoU5XVTg5n) | 6:01 | 2024-03-01 | 2024-03-23 |
 | [Big Building's Walk](https://open.spotify.com/track/0CfoP8Zf68u2E0JegB0S2F) | [Maison Vivante](https://open.spotify.com/artist/5Lz6ExpF0sdy6fn8vMm0rg) | [Big Building's Walk](https://open.spotify.com/album/4730bSWMAEVpVOcbNQwzSO) | 2:56 | 2021-07-16 |  |
 | [Bird Brain](https://open.spotify.com/track/1Sm4vXzi88nMcWE392dd8R) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Pressure](https://open.spotify.com/album/0WKSzJyXImkaywd2c9esMG) | 2:48 | 2021-10-01 | 2023-11-11 |
 | [Black Crow](https://open.spotify.com/track/51zuwsjfn77J6NBQodv0WW) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [SuperBlue](https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe) | [Black Crow](https://open.spotify.com/album/08GqtDhcOftdywr5cL1Buv) | 3:34 | 2023-07-14 | 2023-12-02 |
@@ -162,6 +162,7 @@
 | [La Fachada](https://open.spotify.com/track/7yFK4zvC06g7z9PZP1tYcc) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Step Down / La Fachada](https://open.spotify.com/album/63xgskVnY0hG9fxtcj0gk1) | 3:19 | 2022-01-14 |  |
 | [Lazy Days \(feat\. Emma\-Jean Thackray\)](https://open.spotify.com/track/5yfojFTeq7UFGuuV3UT9O0) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Jean Paul "Bluey" Maunick](https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM) | [STR4TASFEAR Remixes](https://open.spotify.com/album/3dCSbKuoc31g6ebi6I2XZL) | 6:31 | 2023-08-11 |  |
 | [Lazy Days \- Bluey Remix](https://open.spotify.com/track/4YbHhDPvq21gjwd05tDIke) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Jean Paul "Bluey" Maunick](https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM) | [STR4TASFEAR Remixes](https://open.spotify.com/album/3b7KqHLE7GAJ0Pi8H5KGbD) | 6:31 | 2023-08-11 | 2023-10-12 |
+| [Liberation](https://open.spotify.com/track/5SzCMMK5oo6PoiCSiii328) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [Liberation](https://open.spotify.com/album/4FV6Mo4LSbN4YX6TSi8shV) | 5:14 | 2024-03-22 |  |
 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 3:23 | 2022-08-26 | 2023-04-22 |
 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/7pEAzggpyq4sjREdLBfcuX) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/album/6cEqbEv5wTsNkOGr7k3HTU) | 3:23 | 2022-08-26 | 2022-11-07 |
 | [Life on Mars \- OPOLOPO Extended Remix](https://open.spotify.com/track/4H2LU89UYYHhy5CNkbNaaY) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [Life on Mars \(OPOLOPO Remix\)](https://open.spotify.com/album/0gu7LOuWpnplQkrYonsNnk) | 10:04 | 2022-02-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWp9JrEQN7W1.md) - [plain]
 
 > Something cute for baddies doing their hair and make\-up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,131 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,619 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWp9JrEQN7W1.md) - [plain]
 | 55 | [WUSYANAME \(feat\. Youngboy Never Broke Again & Ty Dolla $ign\)](https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:01 |
 | 56 | [Sky Walker \(feat\. Travis Scott\)](https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [War & Leisure](https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI) | 4:19 |
 | 57 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 |
-| 58 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
+| 58 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 |
 | 59 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 |
-| 60 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 |
+| 60 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
 | 61 | [Jungle](https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 5:20 |
 | 62 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 |
 | 63 | [Loveeeeeee Song](https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 4:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWp9JrEQN7W1.md) - [plain]
 | 74 | [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 |
 | 75 | [A BOY IS A GUN\*](https://open.spotify.com/track/1nXZnTALNXiPlvXotqHm66) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:30 |
 
-Snapshot ID: `MCw4NWIwNzBlMWU5MDJhZTExZWI4YWE0NDYxOTVkODUxZGNlNjZiODc5`
+Snapshot ID: `MCwwZDI2Yzk2OGQyY2E0NDM2NzY2MGRhYzJiN2EwZWNmMTZkZGUzMTA2`

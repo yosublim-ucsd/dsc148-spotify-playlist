@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 ### [Hip\-Hop Rewind](https://open.spotify.com/playlist/37i9dQZF1DXb9tg3GqJkNv)
 
-> A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Planet Giza
+> A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: AR Paisley, Chani Nattan, Inderpal Moga
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,823 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,833 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [WYD](https://open.spotify.com/track/1G1BU1nUs5qui6Avug8kR2) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Ready When You Are](https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU) | 3:21 |
+| 1 | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/album/5yHCpPgd6ejBh3rHRZ5WSK) | 2:40 |
 | 2 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 |
-| 3 | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/album/5yHCpPgd6ejBh3rHRZ5WSK) | 2:40 |
+| 3 | [WYD](https://open.spotify.com/track/1G1BU1nUs5qui6Avug8kR2) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Ready When You Are](https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU) | 3:21 |
 | 4 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 |
 | 5 | [Some Way](https://open.spotify.com/track/7zxRMhXxJMQCeDDg0rKAVo) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 2:59 |
 | 6 | [Hold Out](https://open.spotify.com/track/4E2wIuFOblfmOxZburqG4d) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Hold Out](https://open.spotify.com/album/2OX9IracC1Uxe5Uwv9Bty9) | 2:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Repeat](https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Repeat](https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG) | 3:28 |
 | 75 | [KING OF THE TOWN](https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [BECAUSE WE'RE ALIVE](https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS) | 2:31 |
 
-Snapshot ID: `MCwwYjJkNTE2NTMzMDM2M2E2MmMxZTllOWE0YjRiYTNlMDYxOGViYjVh`
+Snapshot ID: `MCwwNzUxODAxYWE4ZDU3NmFhODlhMWYyMTE4MDc3ZDc4ODc1ODhhZjdj`

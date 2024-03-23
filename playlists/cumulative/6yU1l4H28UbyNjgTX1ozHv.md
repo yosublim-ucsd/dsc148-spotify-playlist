@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-219 songs - 11 hr 29 min
+221 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Everglow \- Acoustic](https://open.spotify.com/track/6chXbAbcedFH4juOKqdwjk) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [Everglow \(Acoustic\)](https://open.spotify.com/album/22vtmrjL6peFVcjtDyBsWo) | 3:48 | 2021-09-24 | 2022-06-13 |
 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 | 2019-10-13 |  |
 | [Everybody Wants to Rule the World \- Acoustic](https://open.spotify.com/track/3wy5ytqKxQxUYFgx5NAFav) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Everybody Wants to Rule the World \(Acoustic\)](https://open.spotify.com/album/42v30LBLeJfQDdedtZCD4a) | 2:24 | 2023-03-24 |  |
-| [Faith \- Acoustic](https://open.spotify.com/track/0buj86DGYYkrDOX8egKDtg) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Faith \(Acoustic\)](https://open.spotify.com/album/2U75eAo18XKY0iTOyvxfDm) | 2:40 | 2024-03-08 |  |
+| [Faith \- Acoustic](https://open.spotify.com/track/0buj86DGYYkrDOX8egKDtg) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Faith \(Acoustic\)](https://open.spotify.com/album/2U75eAo18XKY0iTOyvxfDm) | 2:40 | 2024-03-08 | 2024-03-23 |
 | [Fields Of Gold](https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 | 2019-10-13 |  |
 | [Fix You](https://open.spotify.com/track/3ZTCvMqkW3Hqxap4dqTTpR) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/4gAsUaOSqGsa6Vm5T9WdNW) | 4:21 | 2019-10-13 |  |
 | [Flowers \- Acoustic](https://open.spotify.com/track/7uSAkK0jL8Go2YyO8T2kt6) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Flowers \(Acoustic\)](https://open.spotify.com/album/3FmAl6kjYy0nUwAgOhhjKn) | 3:43 | 2023-03-23 |  |
@@ -96,6 +96,7 @@
 | [I'd Do Anything for Love \(But I Won't Do That\) \- Acoustic](https://open.spotify.com/track/7n4gOElu13vwVqhmvTXgZR) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [I'd Do Anything for Love \(But I Won't Do That\) \[Acoustic\]](https://open.spotify.com/album/3DQV1dLirs2pkNxp9brWjY) | 2:58 | 2024-02-09 |  |
 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 | 2019-10-13 |  |
 | [I'm a Believer \- Acoustic](https://open.spotify.com/track/3YZxfxxOyaneUFobNYlVlA) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [I'm a Believer \(Acoustic\)](https://open.spotify.com/album/21sYbjhRnRJMmSI60vUP9F) | 2:53 | 2024-02-19 |  |
+| [I'm A Believer \- Acoustic](https://open.spotify.com/track/0arOYnavWumToLwoHTKUtV) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I'm A Believer \(Acoustic\)](https://open.spotify.com/album/5bef8Aq3CMZvfwR2kcb6ce) | 2:38 | 2024-03-22 |  |
 | [I'm Like a Bird \- Acoustic](https://open.spotify.com/track/3c8tm69G8hZTs8gJI99Pbe) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [I'm Like a Bird \(Acoustic\)](https://open.spotify.com/album/6k4uP5KtblJ7MNJKkQY54c) | 2:41 | 2023-01-03 | 2023-01-19 |
 | [I'm Outta Love \- Acoustic](https://open.spotify.com/track/5jUYDbQYp5rkU9f10EK0KX) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [I'm Outta Love \(Acoustic\)](https://open.spotify.com/album/1CaneGSTgnqGrGAKDj5SVd) | 2:45 | 2024-03-08 |  |
 | [I'm Still Standing \- Acoustic](https://open.spotify.com/track/58qyn3EztQitvZIOhE8u66) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05), [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I'm Still Standing \(Acoustic\)](https://open.spotify.com/album/42X06RmupweTB9QHr0coFa) | 2:28 | 2024-01-12 | 2024-02-10 |
@@ -105,6 +106,7 @@
 | [Is This Love \- Acoustic](https://open.spotify.com/track/2tEQ3siZZLl82xeX5IOZaJ) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Is This Love \(Acoustic\)](https://open.spotify.com/album/4MrABMjlVpUJ1QllzRRrwv) | 3:57 | 2023-06-16 | 2023-08-06 |
 | [Issues \- Acoustic](https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1) | 2:55 | 2019-10-13 |  |
 | [I’m Still Standing \- Acoustic](https://open.spotify.com/track/2hnhNNo5Rk65UX8GIlhsAM) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [I’m Still Standing \(Acoustic\)](https://open.spotify.com/album/2GwQircFAs910nPqQUT7jP) | 3:01 | 2022-02-11 | 2023-02-02 |
+| [Jamming \- Acoustic](https://open.spotify.com/track/6pq8i8sYDHcyjZV49X4G71) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Jamming \(Acoustic\)](https://open.spotify.com/album/4tzuHyuggegl9HzY6GVCMz) | 2:23 | 2024-03-22 |  |
 | [Jealous](https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous](https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi) | 4:47 | 2019-10-13 |  |
 | [Johnny B\. Goode \- Acoustic](https://open.spotify.com/track/7L1QTZWRJNnbOO7qyHUEeB) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Johnny B\. Goode \(Acoustic\)](https://open.spotify.com/album/27WsOWzMOLYQvpR3I5fy0z) | 2:14 | 2023-10-07 | 2024-03-09 |
 | [Just Be \- Acoustic Session](https://open.spotify.com/track/5YXTMX6nkvtg0kSJpZmVTw) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Fall To Grace \(Deluxe\)](https://open.spotify.com/album/5xbq4e4CWkWhZBOkque5Fp) | 4:50 | 2019-10-13 |  |
@@ -122,7 +124,7 @@
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 | 2019-10-13 |  |
 | [Linger \(Acoustic\)](https://open.spotify.com/track/4aa7SCxygkZgBZ3Y1KU1t3) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Linger \(Acoustic\)](https://open.spotify.com/album/1g1CPXonz2qCXUqZMqcqP4) | 2:46 | 2019-10-13 |  |
 | [Lose Control \- Acoustic](https://open.spotify.com/track/5UlmRrsGgc0LH1PjWEr0tf) | [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [Lose Control \(Acoustic\)](https://open.spotify.com/album/6cjptNzpxG7NWNOfnFC3n9) | 2:45 | 2024-03-08 |  |
-| [Love is All Around \- Acoustic](https://open.spotify.com/track/2loi3zjGZ2Cs1nDu6QHGe3) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Love is All Around \(Acoustic\)](https://open.spotify.com/album/7l0RQhF88X2evq71kbI8fm) | 2:30 | 2023-12-09 |  |
+| [Love is All Around \- Acoustic](https://open.spotify.com/track/2loi3zjGZ2Cs1nDu6QHGe3) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Love is All Around \(Acoustic\)](https://open.spotify.com/album/7l0RQhF88X2evq71kbI8fm) | 2:30 | 2023-12-09 | 2024-03-23 |
 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 | 2019-10-13 |  |
 | [Lovefool \- Acoustic](https://open.spotify.com/track/1tJCLF1hldhHVC7noH9l0U) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Lovefool \(Acoustic\)](https://open.spotify.com/album/2bDDaOjt4Fy4DmAPqP2l0E) | 3:03 | 2023-01-13 | 2023-03-25 |
 | [Lovely Day \- Acoustic](https://open.spotify.com/track/0E0S0qGWnQJz3tr8SFwOc2) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe), [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Lovely Day \(Acoustic\)](https://open.spotify.com/album/21xpcm4980RyqV2Asq7PWv) | 3:01 | 2022-04-22 | 2022-06-27 |

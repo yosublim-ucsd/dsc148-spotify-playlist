@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 345437,
+  "num_followers": 345438,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDlhMTc5NzJjZDcxN2ZmZmEyMWFjNDBlYTQzMDc0ZTM3NjFiNWJk",
+  "snapshot_id": "MCw3NTdiNGM0ZDM2N2I2YjI5ZWUxMjM2NGYxODhjOWEwNGIwMDcwOWQx",
   "tracks": [
     {
       "added_at": "2024-03-08 19:19:17",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-03-08 19:19:17",
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
+    },
+    {
+      "added_at": "2024-03-08 19:19:17",
+      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 241595,
       "name": "Let Somebody Go",
       "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
-    },
-    {
-      "added_at": "2024-03-08 19:19:17",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
     },
     {
       "added_at": "2024-03-08 19:19:17",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-03-08 19:19:17",
       "album": {
+        "name": "Swan Upon Leda",
+        "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
+    },
+    {
+      "added_at": "2024-03-08 19:19:17",
+      "album": {
         "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
         "url": "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 220839,
       "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY"
-    },
-    {
-      "added_at": "2024-03-08 19:19:17",
-      "album": {
-        "name": "Swan Upon Leda",
-        "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Swan Upon Leda",
-      "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
     },
     {
       "added_at": "2024-03-08 19:19:17",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-03-08 19:19:17",
       "album": {
-        "name": "Sleepwalking",
-        "url": "https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 228376,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"
-    },
-    {
-      "added_at": "2024-03-08 19:19:17",
-      "album": {
         "name": "when was it over? (feat. Sam Hunt)",
         "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 218093,
       "name": "when was it over? (feat. Sam Hunt)",
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
+    },
+    {
+      "added_at": "2024-03-08 19:19:17",
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 228376,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"
     },
     {
       "added_at": "2024-03-08 19:19:17",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2024-03-08 19:19:17",
       "album": {
-        "name": "The Glass",
-        "url": "https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 211190,
-      "name": "The Glass",
-      "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
-    },
-    {
-      "added_at": "2024-03-08 19:19:17",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
       },
@@ -1687,18 +1667,38 @@
     {
       "added_at": "2024-03-08 19:19:17",
       "album": {
-        "name": "Were You Watching?",
-        "url": "https://open.spotify.com/album/69tUfttjbpSXWXUs2Tzcxd"
+        "name": "The Glass",
+        "url": "https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 316853,
-      "name": "Were You Watching?",
-      "url": "https://open.spotify.com/track/3JDOa1mC1h2UJW9bGcZsVN"
+      "duration_ms": 211190,
+      "name": "The Glass",
+      "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
+    },
+    {
+      "added_at": "2024-03-08 19:19:17",
+      "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 132213,
+      "name": "Broken is the man",
+      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
     }
   ],
   "unique_name": "Friozinho",

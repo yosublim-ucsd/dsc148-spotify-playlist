@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock Legends from Ireland\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,052 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,099 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 37 | [Dearg Doom](https://open.spotify.com/track/4LywX4vWjHOS07VuVWC7GD) | [Horslips](https://open.spotify.com/artist/2mcMCQLrNDEW6O1pAEK3dr) | [The Táin \(Bonus Tracks Version\)](https://open.spotify.com/album/0nxIa7m4erGJeFTLbVrtzS) | 3:06 |
 | 38 | [You Made Me the Thief of Your Heart](https://open.spotify.com/track/4Kaactp7PdWvC8stpChpvK) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [So Far: The Best of Sinéad O'Connor](https://open.spotify.com/album/5vonsv14EYnB77YMVlUxWJ) | 6:20 |
 | 39 | [Haunted](https://open.spotify.com/track/1T1ufH3jSP7uAYKoie68KI) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Snake](https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u) | 4:11 |
-| 40 | [Heyday](https://open.spotify.com/track/7FS1UB8yXnlvq7ICWHPUOi) | [Mic Christopher](https://open.spotify.com/artist/1ufuQpaky2uZ7bDvhf6Ujq) | [Skylarkin](https://open.spotify.com/album/44L1rL0PE0HtRQlRygsR28) | 3:52 |
-| 41 | [Big Sur](https://open.spotify.com/track/56Zm2mXUv5UJgybEqATQ2t) | [The Thrills](https://open.spotify.com/artist/0tYc0gVOzssZmLpVO6wh7L) | [So Much For The City](https://open.spotify.com/album/6eujHHtDKbcwAeliICWShv) | 3:07 |
+| 40 | [Big Sur](https://open.spotify.com/track/56Zm2mXUv5UJgybEqATQ2t) | [The Thrills](https://open.spotify.com/artist/0tYc0gVOzssZmLpVO6wh7L) | [So Much For The City](https://open.spotify.com/album/6eujHHtDKbcwAeliICWShv) | 3:07 |
+| 41 | [Heyday](https://open.spotify.com/track/7FS1UB8yXnlvq7ICWHPUOi) | [Mic Christopher](https://open.spotify.com/artist/1ufuQpaky2uZ7bDvhf6Ujq) | [Skylarkin](https://open.spotify.com/album/44L1rL0PE0HtRQlRygsR28) | 3:52 |
 | 42 | [Saints & Sinners](https://open.spotify.com/track/3IRw02CzCpjVJj6LQp9nTB) | [Paddy Casey](https://open.spotify.com/artist/3t61q4MDXG8a22cRCv1ghZ) | [Living](https://open.spotify.com/album/13VYQeu8LRH65gZheH7BFw) | 3:36 |
 | 43 | [Miracle Drug](https://open.spotify.com/track/2b6pyyrxfP79LhV2hLtTm4) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 3:54 |
 | 44 | [Mary](https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub) | [The 4 Of Us](https://open.spotify.com/artist/1Yr9lXq2m3KO4otqQKcllY), [Michael H\. Brauer](https://open.spotify.com/artist/2YUPBZYVy2KFNGeNILURg6) | [Songs For The Tempted](https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 49 | [And a Bang on the Ear](https://open.spotify.com/track/4tzpjYQOwqSrfiIVcyEwzm) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [The Best of The Waterboys \(1981\-1990\)](https://open.spotify.com/album/1VW4gj6w544njTLCYHN7cu) | 7:25 |
 | 50 | [Don't Believe A Word](https://open.spotify.com/track/4OSDItus4110bQdykTdpy7) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Johnny The Fox](https://open.spotify.com/album/3E54AKQSvQlQekosA4SuT3) | 2:18 |
 
-Snapshot ID: `MCw3NTE3ZWYwZjkwMDRhOWY3MTM4YjA5MmMzOGI5NDc1YjcxMmJhMDM3`
+Snapshot ID: `MCxjODQzYWI1NDVlY2M0YTM1OTE0OGNlYzY0NGEwMmY3OTNhYzQyYjFk`

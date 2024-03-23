@@ -1,12 +1,12 @@
 {
   "description": "Timeless Latin pop hits through the decades! Cover: Luis Miguel",
-  "num_followers": 2953033,
+  "num_followers": 2953152,
   "original_name": "Latin Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTEyNjM1YmQ2ZjNhNmU0YzVjNGViMDU0MWU4ZmI4NGQ1ZTMxNmM4",
+  "snapshot_id": "MCw1YTlmYzVkODczNzRjYzM2NTY2MmI2NjdkYzU2MDNiNjI0Y2U2Yjkw",
   "tracks": [
     {
       "added_at": "2024-01-11 19:00:36",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-01-11 19:00:36",
       "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Mi Primer Millon",
-      "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
-    },
-    {
-      "added_at": "2024-01-11 19:00:36",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 238133,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
+    },
+    {
+      "added_at": "2024-01-11 19:00:36",
+      "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Mi Primer Millon",
+      "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
     },
     {
       "added_at": "2024-01-11 19:00:36",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-01-11 19:00:36",
       "album": {
+        "name": "Repeat After Me",
+        "url": "https://open.spotify.com/album/0ak3Koxz3InlEVLwCnMC6E"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "duration_ms": 239626,
+      "name": "La Que Me Gusta",
+      "url": "https://open.spotify.com/track/1TdaQqgKRbiFdO15q1kv6e"
+    },
+    {
+      "added_at": "2024-01-11 19:00:36",
+      "album": {
         "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 435493,
       "name": "Hasta Que Te Conoc\u00ed",
       "url": "https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr"
-    },
-    {
-      "added_at": "2024-01-11 19:00:36",
-      "album": {
-        "name": "Repeat After Me",
-        "url": "https://open.spotify.com/album/0ak3Koxz3InlEVLwCnMC6E"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        }
-      ],
-      "duration_ms": 239626,
-      "name": "La Que Me Gusta",
-      "url": "https://open.spotify.com/track/1TdaQqgKRbiFdO15q1kv6e"
     },
     {
       "added_at": "2024-01-11 19:00:36",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-01-11 19:00:36",
       "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 234373,
-      "name": "Pasos de cero",
-      "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
-    },
-    {
-      "added_at": "2024-01-11 19:00:36",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 240933,
       "name": "Mirala Miralo",
       "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
+    },
+    {
+      "added_at": "2024-01-11 19:00:36",
+      "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 234373,
+      "name": "Pasos de cero",
+      "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
     },
     {
       "added_at": "2024-01-11 19:00:36",

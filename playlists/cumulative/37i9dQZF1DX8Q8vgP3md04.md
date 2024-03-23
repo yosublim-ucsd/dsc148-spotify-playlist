@@ -4,13 +4,13 @@
 
 > Hit music from Ethiopia's finest.
 
-102 songs - 7 hr 53 min
+103 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Sey](https://open.spotify.com/track/6q26FbrCmwzSr869JeYXaT) | [Ephrem Amare](https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95) | ['Sey](https://open.spotify.com/album/2n1YBeI82wlaiLQkg1POZ0) | 4:45 | 2020-06-05 |  |
 | [123](https://open.spotify.com/track/1ndWXkJUryhxsTjyMWL58l) | [Sami Dan](https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY) | [Asira Andu Getsoche](https://open.spotify.com/album/27bquKGjQcjSFpBk5ybE3H) | 4:33 | 2020-06-05 |  |
-| [Abebayewosh](https://open.spotify.com/track/5xgAoUsx0TV1bbYzTpxvgj) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Arifzefen Singles Collection, Vol\. I](https://open.spotify.com/album/7uiQJEWNzZt6puyMWX2J2d) | 5:19 | 2018-10-04 |  |
+| [Abebayewosh](https://open.spotify.com/track/5xgAoUsx0TV1bbYzTpxvgj) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Arifzefen Singles Collection, Vol\. I](https://open.spotify.com/album/7uiQJEWNzZt6puyMWX2J2d) | 5:19 | 2018-10-04 | 2024-03-23 |
 | [Africa](https://open.spotify.com/track/5WUkmyLtLykEzctv4HRr7Z) | [Teddy Yo](https://open.spotify.com/artist/6keR1xz9mkzbtLykVlJAGl), [Gentle Man](https://open.spotify.com/artist/3wGiJCIx14bdgxj6jAtQOW), [King Kong](https://open.spotify.com/artist/6kDCaFSkqskhFf9agShfSY), [Yemaryam](https://open.spotify.com/artist/4cNckHBJe98kv0yi6cvgRi) | [Arada, Vol\. 2](https://open.spotify.com/album/553m78LUWrXYmYPoGF18La) | 3:18 | 2018-10-04 |  |
 | [Alena](https://open.spotify.com/track/2L4yROkUCTqOxGAE7i6kst) | [Bisrat Surafel](https://open.spotify.com/artist/0oXAjQZ1LZgOVEqbZKqFKH) | [Alena](https://open.spotify.com/album/0IlHmRP1rWcPy2oSwrroz0) | 4:20 | 2023-03-17 | 2023-08-15 |
 | [Alresashim Wey](https://open.spotify.com/track/3rz86l1LZJxU4NwzBuCOOo) | [Kal Kin](https://open.spotify.com/artist/3JwnCprAXUfeXUaGf2FaOH) | [Alresashim Wey](https://open.spotify.com/album/5xBnkZT3oDEAZbo9BKYZdA) | 4:05 | 2024-03-08 |  |
@@ -50,6 +50,7 @@
 | [Ethiopia](https://open.spotify.com/track/6QGdSpLFgV2XSFETaDXf0Z) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 6:37 | 2018-10-04 | 2023-06-24 |
 | [Fiker](https://open.spotify.com/track/4UuPQugjrx9pQyEmfOeLrs) | [Dawit Cherent](https://open.spotify.com/artist/26MgB2XBEqAtyISkep3iC1) | [Sew, Pt\. 1 Mot](https://open.spotify.com/album/7bM7TdqRgpuDGl15zjFPet) | 5:16 | 2020-06-05 | 2024-03-09 |
 | [Fiker Beamargna](https://open.spotify.com/track/3u0vFUuILcUmhQXUzBHt7F) | [Abdu Kiar](https://open.spotify.com/artist/2B8c0XLWWKbFmgSKDruKk4) | [Fikir Beamargna](https://open.spotify.com/album/0rYlsn4ivsz2EMPtv4S66x) | 4:20 | 2018-10-04 |  |
+| [Gela](https://open.spotify.com/track/0wb2PD8aLfAOFeYdHVCANE) | [Ebne Hakim](https://open.spotify.com/artist/3g3l6KISY37B2AsBheD3vW) | [Gela](https://open.spotify.com/album/2RLtp5wHOkBUilge4TIlGr) | 3:34 | 2024-03-22 |  |
 | [Gerager](https://open.spotify.com/track/1JU3NgOVMalFQ64EDh8ljr) | [Zebiba Girma](https://open.spotify.com/artist/5Tu7xzkOlzjuxouXfUefHb) | [Gerager](https://open.spotify.com/album/5NpaDCWohCCTFJL4iWWtFa) | 4:13 | 2020-06-05 |  |
 | [Geriye](https://open.spotify.com/track/0RpIZYbiYCUhct3IID6Ty2) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 4:05 | 2018-10-04 | 2023-03-18 |
 | [Get to Work](https://open.spotify.com/track/2bvCPqlkiQGOUntCvgy1JR) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Reflection](https://open.spotify.com/album/3uuKxEAuZtmcAqF2TwfatE) | 3:49 | 2018-10-04 |  |

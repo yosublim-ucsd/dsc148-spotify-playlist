@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 
 > Il sound giusto per creare in cucina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,240 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,242 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 26 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 |
 | 27 | [Samba Para Dos](https://open.spotify.com/track/76YAvriBBn6LcV97l4Stdc) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 4:51 |
 | 28 | [Police & Thieves](https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34) | [Police & Thieves](https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR) | 4:04 |
-| 29 | [\(Poor Mi\) Israelites](https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:36 |
-| 30 | [I Like It Like That](https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like It Like That](https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB) | 4:25 |
+| 29 | [I Like It Like That](https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like It Like That](https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB) | 4:25 |
+| 30 | [\(Poor Mi\) Israelites](https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:36 |
 | 31 | [Mas, Que Nada!](https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 2:59 |
 | 32 | [The Harder They Come](https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 3:39 |
 | 33 | [I Get The Sweetest Feeling](https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [I Get The Sweetest Feeling](https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6) | 2:58 |
@@ -45,16 +45,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 35 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 |
 | 36 | [Canta Canta, Minha Gente](https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 2:33 |
 | 37 | [Saudade Vem Correndo](https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 3:39 |
-| 38 | [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 |
-| 39 | [Que Pena \(Ele Já Não Gosta Mais De Mim\)](https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:34 |
+| 38 | [Que Pena \(Ele Já Não Gosta Mais De Mim\)](https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:34 |
+| 39 | [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 |
 | 40 | [Underwater Love](https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F) | [Smoke City](https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF) | [Flying Away](https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1) | 6:46 |
 | 41 | [Por Causa De Você, Menina](https://open.spotify.com/track/0YojqXjn4xb5hblpFAhqJr) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 2:47 |
 | 42 | [Bring It On Home To Me](https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [30 Greatest Hits: Portrait of a Legend 1951\-1964](https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ) | 2:45 |
 | 43 | [Lovestained](https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lovestained](https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl) | 2:55 |
 | 44 | [Quizás, Quizás \(Live\)](https://open.spotify.com/track/78JVMoMUJw2zyeswgHKfrP) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club at Carnegie Hall \(Live\)](https://open.spotify.com/album/4lsvzkvzZqKJQsfjLV76RR) | 3:47 |
 | 45 | [Nem Vem Que Não Tem](https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Alegria, Alegria!!!](https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh) | 2:32 |
-| 46 | [Amor Verdadero](https://open.spotify.com/track/4IC8qYktbAE9GX1lEZV37p) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/4z8W6dVcSq2iFSbNBFwHR1) | 6:38 |
-| 47 | [You Really Got a Hold on Me](https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Warm & Tender Soul](https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750) | 2:53 |
+| 46 | [You Really Got a Hold on Me](https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Warm & Tender Soul](https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750) | 2:53 |
+| 47 | [Amor Verdadero](https://open.spotify.com/track/4IC8qYktbAE9GX1lEZV37p) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/4z8W6dVcSq2iFSbNBFwHR1) | 6:38 |
 | 48 | [Guajira guantanamera](https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 5:12 |
 | 49 | [Take It Easy My Brother Charles](https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 2:35 |
 | 50 | [O Pato \- Ultimate Mix](https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 79 | [Little Boy Blue](https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn) | [Pat Kelly](https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi) | [The Vintage Series](https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD) | 2:46 |
 | 80 | [Vem Menina](https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk) | 4:19 |
 
-Snapshot ID: `MCw2MmIwZDNjMWYyZWIyYTI5NTBkN2YwOTkxZTU5ZDg0NGE0OWYwY2Q4`
+Snapshot ID: `MCw1YmIwYWRjNWQ1ODk3MjZkNTZmOWQwM2NiMmJmMGEzNWZlNTU5ZWQx`

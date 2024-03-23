@@ -1,13 +1,61 @@
 {
-  "description": "make it pop! cover: jxdn",
-  "num_followers": 211868,
+  "description": "make it pop! cover: Wallows",
+  "num_followers": 211877,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzExNDhmZjY1MWI4OTM2OTY4ZDAwMDdlZjIzZTE1ZjhhYWYxMmE1",
+  "snapshot_id": "MCxhODI0MzhjYzg3NDEzYTlmZWYyNjczMTkyYzBlZjdkNWQ3MjcwN2I2",
   "tracks": [
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "In Search Of The Antidote",
+        "url": "https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "Pretending",
+      "url": "https://open.spotify.com/track/57mgEbIR86es2FBvQmxZ7t"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Suddenly Okay",
+        "url": "https://open.spotify.com/album/1Xuv9oEVILCRQ7j5iugfPs"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 156008,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/0nQbr0lYWUHWjeW7i1lscI"
+    },
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
@@ -23,6 +71,70 @@
       "duration_ms": 172604,
       "name": "WHAT THE HELL",
       "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/5oeAizWMabulSRyY3mMjEB"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 214282,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "My Mouth (la la la)",
+        "url": "https://open.spotify.com/album/41JIT907XyLYcUYlyXWAj7"
+      },
+      "artists": [
+        {
+          "name": "ISHAN",
+          "url": "https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "My Mouth (la la la)",
+      "url": "https://open.spotify.com/track/7kuF2t0nCCcDw1L7o1NwzY"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Feet On The Ceiling",
+        "url": "https://open.spotify.com/album/1EjnS1tbiIOalEtxI5IWaN"
+      },
+      "artists": [
+        {
+          "name": "YAOUND\u00c9BOXINGCLUB",
+          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
+        }
+      ],
+      "duration_ms": 204460,
+      "name": "Feet On The Ceiling",
+      "url": "https://open.spotify.com/track/242rm4cMmaaPkxe2f1y5Re"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "clouds",
+        "url": "https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 162615,
+      "name": "clouds",
+      "url": "https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -77,6 +189,22 @@
       "url": "https://open.spotify.com/track/4DARCDYP7uNc0tp7ABx154"
     },
     {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/63a9YKa0yTquyvq3O1Ce5W"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "duration_ms": 166008,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/1mXtEf59XtQ8mQtHL3Had6"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
@@ -109,6 +237,22 @@
       "url": "https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd"
     },
     {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "brown eyes*",
+        "url": "https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "brown eyes*",
+      "url": "https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Part Time Lover",
@@ -139,6 +283,22 @@
       "duration_ms": 176005,
       "name": "Blame Brett",
       "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "ASHED US OUT",
+        "url": "https://open.spotify.com/album/4miL6vINwLZQJ2dbABzDrP"
+      },
+      "artists": [
+        {
+          "name": "Braden Bales",
+          "url": "https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv"
+        }
+      ],
+      "duration_ms": 140412,
+      "name": "ASHED US OUT",
+      "url": "https://open.spotify.com/track/1QcVUxIZ9LNvpYbVaMzJxP"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -211,6 +371,22 @@
       "duration_ms": 135529,
       "name": "HIGHWITCHA",
       "url": "https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Crashing Into Your Living Room, Vol. 1",
+        "url": "https://open.spotify.com/album/2J0j78yYjUb4R62LgnqL31"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "Good & Bad",
+      "url": "https://open.spotify.com/track/48aOK7d3ILprSttYWNWKJh"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1039,22 +1215,6 @@
       "duration_ms": 209386,
       "name": "Out of My League",
       "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Eras Of Us",
-        "url": "https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 168668,
-      "name": "Eras Of Us",
-      "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
     },
     {
       "added_at": "2024-03-15 04:00:00",

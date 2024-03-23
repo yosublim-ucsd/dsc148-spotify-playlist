@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 
 > The songs of the 1970s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,452 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,683 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 44 | [Sir Duke](https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:52 |
 | 45 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
 | 46 | [I Will Survive](https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Love Tracks](https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX) | 4:56 |
-| 47 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 |
-| 48 | [Play That Funky Music](https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [Wild Cherry](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) | 5:00 |
+| 47 | [Play That Funky Music](https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [Wild Cherry](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) | 5:00 |
+| 48 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 |
 | 49 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
 | 50 | [Love Really Hurts Without You](https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Billy Ocean \(Expanded Edition\)](https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz) | 2:59 |
 | 51 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 60 | [Hot Stuff](https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 5:14 |
 | 61 | [ABC](https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:54 |
 | 62 | [Baker Street](https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 6:05 |
-| 63 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
-| 64 | [Hooked On A Feeling](https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L) | [Blue Swede](https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp), [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Hooked On A Feeling \- 40th Anniversary Collection](https://open.spotify.com/album/12UILuDVbIIjLZhcRBNcOJ) | 2:52 |
-| 65 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Remastered Version\)](https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i) | 4:56 |
+| 63 | [Hooked On A Feeling](https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L) | [Blue Swede](https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp), [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Hooked On A Feeling \- 40th Anniversary Collection](https://open.spotify.com/album/12UILuDVbIIjLZhcRBNcOJ) | 2:52 |
+| 64 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Remastered Version\)](https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i) | 4:56 |
+| 65 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
 | 66 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
 | 67 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
 | 68 | [Love Her Madly](https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 3:18 |
-| 69 | [You've Got a Friend \- 2019 Remaster](https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Mud Slide Slim and the Blue Horizon \(2019 Remaster\)](https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX) | 4:28 |
-| 70 | [Surrender](https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Heaven Tonight](https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN) | 4:13 |
+| 69 | [Surrender](https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Heaven Tonight](https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN) | 4:13 |
+| 70 | [You've Got a Friend \- 2019 Remaster](https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Mud Slide Slim and the Blue Horizon \(2019 Remaster\)](https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX) | 4:28 |
 | 71 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 |
-| 72 | [Fat Bottomed Girls \- Remastered 2011](https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 4:15 |
-| 73 | [Jet Airliner](https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Greatest Hits 1974\-78](https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn) | 3:35 |
+| 72 | [Jet Airliner](https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Greatest Hits 1974\-78](https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn) | 3:35 |
+| 73 | [Fat Bottomed Girls \- Remastered 2011](https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 4:15 |
 | 74 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 |
 | 75 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:43 |
 
-Snapshot ID: `MCw3ODRkZThhZjI0MDQyZmM4MDkyYTVkMmRkNTkxNzkxYjU0ZmE1OTJi`
+Snapshot ID: `MCwxMjg0MTNhNzNlNmZlNDQwMzQxNGM2ZjQ0ZGI5N2IxNjRkYWM3NzYw`

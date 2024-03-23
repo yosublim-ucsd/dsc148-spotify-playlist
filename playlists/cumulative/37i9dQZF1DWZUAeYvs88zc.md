@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-515 songs - 1 day 4 hr 58 min
+516 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Be the One](https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Be the One](https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP) | 3:22 | 2022-03-25 |  |
 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 | 2022-07-22 |  |
 | [Becky's So Hot](https://open.spotify.com/track/2vVLSYsOUNCfN66jTyJsMY) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:42 | 2024-01-26 |  |
-| [Beginning of the End](https://open.spotify.com/track/04OQkYRHxHu4yrpjS1yl9V) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 2:57 | 2024-03-01 |  |
+| [Beginning of the End](https://open.spotify.com/track/04OQkYRHxHu4yrpjS1yl9V) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 2:57 | 2024-03-01 | 2024-03-23 |
 | [Believe](https://open.spotify.com/track/6MiNZJ178L6ypTnBt2G4BJ) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe \(Remixes\)](https://open.spotify.com/album/3oQ0sE7sd5xDkZlNDnZBEB) | 3:59 | 2019-07-27 | 2019-08-10 |
 | [bellyache](https://open.spotify.com/track/51NFxnQvaosfDDutk0tams) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bellyache](https://open.spotify.com/album/25FGyvj0UnD6YYWLq0s9nl) | 2:59 | 2019-05-26\* |  |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-03-25 | 2023-08-05 |
@@ -458,6 +458,7 @@
 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 | 2023-03-18 |  |
 | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/1sV6bR42OhPi2PL7ZPHLNi) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/album/5wSX76l2RgF4wIzxSBaVXD) | 4:34 | 2022-10-07 | 2023-03-13 |
 | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 4:34 | 2023-01-28 | 2024-01-27 |
+| [The Lost Ones](https://open.spotify.com/track/1AbpcaXytcVYnTeWg74Wuu) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [The Lost Ones](https://open.spotify.com/album/1CnKBGgQ9zHLNU3JBXJ2OK) | 3:41 | 2024-03-22 |  |
 | [The Mess You Made](https://open.spotify.com/track/4IkXyjNhW4dAAP3cKX0b49) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [The Mess You Made](https://open.spotify.com/album/1yXYk33me3OPes60v24XXe) | 2:50 | 2021-09-20 | 2021-09-21 |
 | [The Old Me](https://open.spotify.com/track/2dW8FQL3XdiMd08FGCz6OE) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [Therapy](https://open.spotify.com/album/6mzxiA4wsf2FEDjWaIUjuo) | 2:56 | 2022-03-25 | 2022-04-21 |
 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 | 2021-11-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 73181,
+  "num_followers": 73226,
   "original_name": "los pasos prohibidos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2EzZWY4ZTM1MTI2YmJiNjYwZDhjMTZkNzIwOTIwMGY4OTJjYTI4",
+  "snapshot_id": "MCxmYTljNDU4MTFhOGNhMGNhOThiM2NhZjg5OTQ1Y2E0MDlhMTU1Njdh",
   "tracks": [
     {
       "added_at": "2023-08-14 15:48:07",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
         "name": "Si Me Tomo una Cerveza",
         "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 182198,
       "name": "Si Me Tomo Una Cerveza",
       "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
         "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
         "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 242648,
       "name": "Desde El Fondo De Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
+        "name": "Zool\u00f3gico Tropical",
+        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares y Su Grupo",
+          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "Cumbia De La Cobra",
+      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
         "name": "Ya Fue",
         "url": "https://open.spotify.com/album/7HP4D9IXODFyFuJcOfJmDa"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 193636,
       "name": "Ya Fue",
       "url": "https://open.spotify.com/track/61mCcE6UJZyxKESDCPvrim"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
-        "name": "Zool\u00f3gico Tropical",
-        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares y Su Grupo",
-          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "Cumbia De La Cobra",
-      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
-        "name": "Sigo Por El Objetivo",
-        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 146240,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
         "name": "Lleg\u00f3 Pap\u00e1",
         "url": "https://open.spotify.com/album/392HEBX1hSP3IyUfuixNUv"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+        "name": "Sigo Por El Objetivo",
+        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
       },
       "artists": [
         {
-          "name": "Grupo la Cumbia",
-          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
         }
       ],
-      "duration_ms": 213791,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
+      "duration_ms": 146240,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -807,6 +791,22 @@
       "duration_ms": 310295,
       "name": "Inocente",
       "url": "https://open.spotify.com/track/7uosdMQ8IXjcs6t72NTTDq"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213791,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
         "name": "25 Exitos Vol. 1 (USA)",
         "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 190173,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME"
     },
     {
       "added_at": "2023-08-14 15:48:07",

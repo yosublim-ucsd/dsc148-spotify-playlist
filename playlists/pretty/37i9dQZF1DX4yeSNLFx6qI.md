@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,701,581 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,701,683 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 61 | [Cristina](https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Cristina](https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6) | 3:22 |
 | 62 | [Acuérdate de Mí](https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:57 |
 | 63 | [Una Mentira Más](https://open.spotify.com/track/6jGNM4ntC8xzMHo5t0YNDF) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Una Mentira Más](https://open.spotify.com/album/74pZFv3znRw9RbXOSYORcI) | 3:22 |
-| 64 | [Déjame Ir](https://open.spotify.com/track/3nymR2pRbiDq89qS2osIVX) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Déjame Ir](https://open.spotify.com/album/5MAHn88iqWSOsfXQ1GBLby) | 3:52 |
+| 64 | [El Que Olvida](https://open.spotify.com/track/69dW5grE2KVwjl0ACruk0k) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Circo Soledad](https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w) | 3:51 |
 | 65 | [Recuerdos de Amor \(Lembranças de Amor\) \- Si Fuera Mía](https://open.spotify.com/track/3rmG6egiqYCmA1v2sEQUpT) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Si Fuera Mía \- EP](https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx) | 3:47 |
-| 66 | [El Que Olvida](https://open.spotify.com/track/69dW5grE2KVwjl0ACruk0k) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Circo Soledad](https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w) | 3:51 |
+| 66 | [Déjame Ir](https://open.spotify.com/track/3nymR2pRbiDq89qS2osIVX) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Déjame Ir](https://open.spotify.com/album/5MAHn88iqWSOsfXQ1GBLby) | 3:52 |
 | 67 | [Si tú no vuelves](https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Colección Definitiva](https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf) | 4:38 |
 | 68 | [cómo acaba](https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:44 |
 | 69 | [Te Olvidaré](https://open.spotify.com/track/3mCsFR4vkkg6az76rXMZu6) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 3:14 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 92 | [Me vas a ver](https://open.spotify.com/track/5BhSZWrUa5xkZ2K7Ze5fVT) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Me vas a ver](https://open.spotify.com/album/2fQQrxHLh19ZQGFLOGBc2X) | 2:15 |
 | 93 | [Nunca Voy a Olvidarte \- Primera Fila \- Live Version](https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:57 |
 | 94 | [Ahora Quien](https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Amar Sin Mentiras](https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq) | 5:05 |
-| 95 | [Lo Siento Mucho](https://open.spotify.com/track/6mcuBSkO6GQwafMxpwrQaZ) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Rojo](https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G) | 3:18 |
-| 96 | [Negar](https://open.spotify.com/track/0iCjrGqW2akkM2c8zimBaF) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 3:19 |
+| 95 | [Negar](https://open.spotify.com/track/0iCjrGqW2akkM2c8zimBaF) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 3:19 |
+| 96 | [Lo Siento Mucho](https://open.spotify.com/track/6mcuBSkO6GQwafMxpwrQaZ) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Rojo](https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G) | 3:18 |
 | 97 | [Para Decir Adiós](https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:19 |
 | 98 | [Devuelveme la Vida \(with Antonio Orozco\)](https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR), [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Otra Piel](https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ) | 4:06 |
 | 99 | [Por Tu Bien](https://open.spotify.com/track/5znXf6RfeOEQhD5qkupv8C) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:53 |
 | 100 | [Noviembre Sin Ti](https://open.spotify.com/track/63EzbC00mdZurdZzRcO4w3) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU) | 3:23 |
 
-Snapshot ID: `MCxhYmMyNzJmNmVjY2Q4MTllMTVmYjVjYmI4ZjZhYjdjNjUxZDhiMTY5`
+Snapshot ID: `MCwwNzlkNDQwNWY5NGZlNGRlMTc2ZmRhODUxNDc3ZWNhMGEwZTFjOWUx`

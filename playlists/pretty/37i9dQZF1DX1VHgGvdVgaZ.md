@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,486 likes - 75 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,505 likes - 75 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 47 | [Vinayaka: Raag Hamsadhwani \- Aadi](https://open.spotify.com/track/5twmdIDcChJG4rmq6Xf1G8) | [Vikku Vinayakram](https://open.spotify.com/artist/5xA5y17B4ipntbaVqifsoR), [V\. Selvaganesh](https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf), [V\. Umashankar](https://open.spotify.com/artist/3AZWYIosqMyjjHjBqTbgcO) | [Together](https://open.spotify.com/album/6EMgr5l82BhwaMhcuwkquD) | 4:55 |
 | 48 | [Alaap & Melody: Ragaabheri \(Rupaka \- Aditala\) / Raga Bhimplasi \(Ektaal \- Teentaal\)](https://open.spotify.com/track/7hriryGOJZMeeIO9DITSOJ) | [Kadri Gopalnath](https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7), [V Narasinhalu Wadvati](https://open.spotify.com/artist/3fyJiRcPfMSn1o0RjCLmYs) | [Jugalbandi](https://open.spotify.com/album/1bPHAPrh72uPGIiNnKcije) | 1:00:04 |
 | 49 | [Vatapiganapatim](https://open.spotify.com/track/5DdOYylQU9Y9ErAExTlTYo) | [Raghunath Manet](https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq) | [Yal Isai](https://open.spotify.com/album/1feLE8ZNVHpIXb3ZYTOiNK) | 11:19 |
-| 50 | [Vathapi \- Hamsadwani \- Adi](https://open.spotify.com/track/64LBObUGInjuCrGp0BdJUa) | [Trichy L\. Saravanan](https://open.spotify.com/artist/12mWZaSpnV5tGqrdARybD2) | [Classical Flute Collections](https://open.spotify.com/album/2DFUYQeIfWSYgNGIzYeim2) | 9:22 |
-| 51 | [Vasantha \(Violin Solo\)](https://open.spotify.com/track/1jHkxPfy8qSle6FzOqeZZS) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv) | [Apoorva Thillanas](https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b) | 5:17 |
+| 50 | [Vasantha \(Violin Solo\)](https://open.spotify.com/track/1jHkxPfy8qSle6FzOqeZZS) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv) | [Apoorva Thillanas](https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b) | 5:17 |
+| 51 | [Vathapi \- Hamsadwani \- Adi](https://open.spotify.com/track/64LBObUGInjuCrGp0BdJUa) | [Trichy L\. Saravanan](https://open.spotify.com/artist/12mWZaSpnV5tGqrdARybD2) | [Classical Flute Collections](https://open.spotify.com/album/2DFUYQeIfWSYgNGIzYeim2) | 9:22 |
 | 52 | [Saadhinchane \- Aarabhi](https://open.spotify.com/track/3agk4o0xCN0MH2yRmpKHsq) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [Pancharatna Kritis \- A Flute Duet](https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ) | 8:47 |
 | 53 | [Gnana Vinayakane Gambheera Natai Adi Papanasam Sivan Saxopho](https://open.spotify.com/track/2t01bxdtsCcuuSzWnB9UA1) | [Kadri Gopalnath](https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7) | [South Indian Classical Music](https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1) | 9:49 |
 | 54 | [Ayigiri Nandini](https://open.spotify.com/track/7iCHzlWd2To9Fo54ogIdJf) | [Tyagaraja](https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu), [K\. S\. G\. Somanathan](https://open.spotify.com/artist/0oJfpDHkMLKr82gj28370X) | [Mangala Naadaswaram \- For Marriages And Auspicious Functions](https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc) | 3:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 74 | [Vathapi Ganapathim Bhajeham](https://open.spotify.com/track/4w6p6n3uIVfRa6QGznDNQw) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Mood Music \- Cool Carnatic Instrumentals](https://open.spotify.com/album/628oH97rIWa4Zgvuft7aGD) | 6:49 |
 | 75 | [Bho Shambho \- Instrumental](https://open.spotify.com/track/1sRAThKJTFHB5YOKdvzUtC) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Soul of South India 2 \- Instrumentals of the Greatest Traditional Melodies](https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy) | 6:02 |
 
-Snapshot ID: `MCwzMjk2NzU2MmY4NjFkN2MzYjUyNjkzYjFkYzFiZDBiY2ZjMWRmZTRj`
+Snapshot ID: `MCwxYWQzNzFjZmZhMWNlNDA3ODg5ZDk2NGU0NTM5NzhmNmU0NGJjZGU1`

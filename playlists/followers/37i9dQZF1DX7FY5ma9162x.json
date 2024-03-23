@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 253970,
+  "2024-03-23": 254054,
   "date_first_scraped": "2022-03-22",
   "description": "The tracks you can put on repeat all day. Cover: SZA",
   "name": "R&B Favourites",
@@ -587,6 +587,28 @@
       "duration_ms": 243090,
       "name": "altar",
       "url": "https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O"
+    },
+    {
+      "album": {
+        "name": "NEVER ENOUGH (Bonus Version)",
+        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222402,
+      "name": "Always (feat. Summer Walker) - Bonus",
+      "url": "https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE"
     },
     {
       "album": {
@@ -3659,7 +3681,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 223157,
       "name": "FOREVER (with 6LACK)",
       "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
@@ -4543,7 +4565,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 195004,
       "name": "Hello",
       "url": "https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo"
@@ -7925,7 +7947,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 210346,
       "name": "Persuasive (with SZA)",
       "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
@@ -10580,6 +10602,32 @@
     },
     {
       "album": {
+        "name": "THIS YEAR (Blessings) [Remix]",
+        "url": "https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160239,
+      "name": "THIS YEAR (Blessings) - Remix",
+      "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
+    },
+    {
+      "album": {
         "name": "Alt Therapy Session 1: Disillusion",
         "url": "https://open.spotify.com/album/6s055xE2xDpP378xhu8zSu"
       },
@@ -10855,6 +10903,24 @@
       "duration_ms": 213993,
       "name": "Trip",
       "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
+    },
+    {
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
       "album": {
@@ -11169,7 +11235,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 154531,
       "name": "Valentina",
       "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
@@ -11901,6 +11967,24 @@
       "duration_ms": 231717,
       "name": "What's On Your Mind (feat. Jacquees)",
       "url": "https://open.spotify.com/track/0te0mYcVMqRLc4vuDjZ0Yg"
+    },
+    {
+      "album": {
+        "name": "Whatever She Wants",
+        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161342,
+      "name": "Whatever She Wants",
+      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
     },
     {
       "album": {

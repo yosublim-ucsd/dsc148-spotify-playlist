@@ -1,528 +1,332 @@
 {
-  "description": "Music inspired by Eric Effiong from Sex Education, now streaming on Netflix. ",
-  "num_followers": 21250,
+  "description": "Music from and inspired by Shirley, now streaming on Netflix. ",
+  "num_followers": 21268,
   "original_name": "Strong Black Lead Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2FkNTU3NWU2YmNhNWJhNzNlNDY4YzE0NTlhZjM0MDhlMzE1ZTEw",
+  "snapshot_id": "MCxmYTZmMDZkMDYyOWI3ZmI1ODk4MjJhNjgyMzZmODQ3N2E2YTQ1MTlj",
   "tracks": [
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+        "name": "Why I'm Here (From the Netflix film \u201cShirley\u201d)",
+        "url": "https://open.spotify.com/album/4hs7AWd8wyspb8KPEfLGY3"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
         }
       ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
+      "duration_ms": 154745,
+      "name": "Why I'm Here - From the Netflix film \u201cShirley\u201d",
+      "url": "https://open.spotify.com/track/2YrigLM6CyRR7EjxL2bqZf"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "Lute Records 60's Rock & Soul Vol. 1",
+        "url": "https://open.spotify.com/album/3RaDtQCiJdF9uX3DgD8WM2"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "The Isonics",
+          "url": "https://open.spotify.com/artist/4PEiEOlLMZugjSJMednCCb"
         }
       ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+      "duration_ms": 164000,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/5agsHpAP4ZXvg0dkWyryK2"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "If Orange Was A Place",
-        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
+        "name": "Voodoo Mademoiselle / I'm Coming Home",
+        "url": "https://open.spotify.com/album/3FbwgkvBQdTD1dvZWyzdS5"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "September Jones",
+          "url": "https://open.spotify.com/artist/1fi9NepyXnrgRThaaRwh1Y"
         }
       ],
-      "duration_ms": 209454,
-      "name": "Found (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/7quB4D2OH6Q5WwzeEga1q5"
+      "duration_ms": 168024,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/6wQeLlkknLucMJspXMlQ1i"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "Booty (feat. Latto)",
-        "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
+        "name": "Dyke's Greatest Hits - The Complete Singles",
+        "url": "https://open.spotify.com/album/1zv9Oq5IrsdEuOzor9DxZj"
       },
       "artists": [
         {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Dyke & The Blazers",
+          "url": "https://open.spotify.com/artist/5dORjaew9A94A25xvTMiTg"
         }
       ],
-      "duration_ms": 146666,
-      "name": "Booty (feat. Latto)",
-      "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
+      "duration_ms": 193680,
+      "name": "Let A Woman Be A Woman - Let A Man Be A Man",
+      "url": "https://open.spotify.com/track/17Y2K7uNxMkaTDBtf1Tcv3"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+        "name": "Dave Hamilton's Detroit Soul",
+        "url": "https://open.spotify.com/album/7DoAvyTnIUSFm4YVFgi1N2"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "Dave Hamilton",
+          "url": "https://open.spotify.com/artist/7jOKLSyFFNekffU4kCIBeA"
         }
       ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+      "duration_ms": 165320,
+      "name": "Take Care Of Your Own Business",
+      "url": "https://open.spotify.com/track/4YNFKavGoImIWfMNsiUGcP"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "Bongos (feat. Megan Thee Stallion) [DJ SpinKing & DJ Taj Jersey Club Mix]",
-        "url": "https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc"
+        "name": "Give Love to Your Children",
+        "url": "https://open.spotify.com/album/4VRC0Jyk3jlFbVXTuPg2tz"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "DJ SpinKing",
-          "url": "https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM"
-        },
-        {
-          "name": "DJ Taj",
-          "url": "https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk"
+          "name": "Musi-O-Tunya",
+          "url": "https://open.spotify.com/artist/5Gl3bhgwrMekOuzkjM5FLq"
         }
       ],
-      "duration_ms": 97714,
-      "name": "Bongos (feat. Megan Thee Stallion) - DJ SpinKing & DJ Taj Jersey Club Mix",
-      "url": "https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8"
+      "duration_ms": 231901,
+      "name": "Starving Child",
+      "url": "https://open.spotify.com/track/6eFjTsMgMN7U920DYzrftu"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "Haus Party, Pt. 1",
-        "url": "https://open.spotify.com/album/1Gx8BjmZq4270ry6i4X6RB"
+        "name": "Hits of Harlem Volume 4",
+        "url": "https://open.spotify.com/album/4sDAW5vOG4oI7So2LxpDfA"
       },
       "artists": [
         {
-          "name": "Todrick Hall",
-          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+          "name": "Neice Dezel",
+          "url": "https://open.spotify.com/artist/4luXOJnuuV8wxOyd4v8wu4"
         }
       ],
-      "duration_ms": 236190,
-      "name": "Nails, Hair, Hips, Heels",
-      "url": "https://open.spotify.com/track/0tJlqVYEo0r1CGw4gY6s53"
+      "duration_ms": 145040,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/7Cy4XXiCqsFodPcjTzk9aI"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz"
+        "name": "Think (About It)",
+        "url": "https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Lyn Collins",
+          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
         }
       ],
-      "duration_ms": 248093,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/0cELvuwJW1acISUHYB6suj"
+      "duration_ms": 204160,
+      "name": "Think (About It)",
+      "url": "https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+        "name": "All About Miriam",
+        "url": "https://open.spotify.com/album/5rCxHMtTNz1q7fvG0BXbAy"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+      "duration_ms": 138022,
+      "name": "Four-Letter Words",
+      "url": "https://open.spotify.com/track/2xj9Dwv1KWmKgt1K4jRYYU"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
-        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
         }
       ],
-      "duration_ms": 131000,
-      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
+      "duration_ms": 124480,
+      "name": "Shirley Intro",
+      "url": "https://open.spotify.com/track/3K34o1pvo5ZEqP87Xz8JjI"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "Boy's a liar Pt. 2",
-        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
         }
       ],
-      "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
-      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+      "duration_ms": 99448,
+      "name": "Tell Them I Said Yes",
+      "url": "https://open.spotify.com/track/4jx2BHR0ADOeK1pBFoUuMa"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "Supermodel of the World",
-        "url": "https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA"
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
       },
       "artists": [
         {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
         }
       ],
-      "duration_ms": 239933,
-      "name": "Supermodel (You Better Work)",
-      "url": "https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v"
+      "duration_ms": 109589,
+      "name": "Long Day",
+      "url": "https://open.spotify.com/track/1VKpP2V8o1Ty8H39bfOd82"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
         }
       ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+      "duration_ms": 139397,
+      "name": "Trailblazing",
+      "url": "https://open.spotify.com/track/0OFGDwonJj1rf1SEyXxakT"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "Fly Girl (feat. Missy Elliott)",
-        "url": "https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv"
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
         }
       ],
-      "duration_ms": 205384,
-      "name": "Fly Girl (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
+      "duration_ms": 107730,
+      "name": "I Don't Think Politics Is For Me",
+      "url": "https://open.spotify.com/track/1ytdK44Wa5QGDd6E7AGM2S"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
         }
       ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+      "duration_ms": 155274,
+      "name": "A Hospital Visit",
+      "url": "https://open.spotify.com/track/2UeVspP0ESo0C2r4HOwxMo"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "All The Time",
-        "url": "https://open.spotify.com/album/7nzYTAT8hoj4F1zoQr2Zbr"
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
       },
       "artists": [
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
         }
       ],
-      "duration_ms": 195313,
-      "name": "All The Time",
-      "url": "https://open.spotify.com/track/7LN8y3isMIqzZ6sChzFI7S"
+      "duration_ms": 159499,
+      "name": "A Win For Robert - California",
+      "url": "https://open.spotify.com/track/1M4QU7FkZl0lydZSKhhdwa"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
         }
       ],
-      "duration_ms": 227706,
-      "name": "YOU'RE THE ONE",
-      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
+      "duration_ms": 105306,
+      "name": "Willie Brown",
+      "url": "https://open.spotify.com/track/5huVFPO2TGeYppLvgpqza0"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
       },
       "artists": [
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
         }
       ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+      "duration_ms": 79295,
+      "name": "I Love You Too",
+      "url": "https://open.spotify.com/track/5lL8b84KboNEs99NM0SsNY"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "Charli",
-        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
         }
       ],
-      "duration_ms": 184746,
-      "name": "Official",
-      "url": "https://open.spotify.com/track/38ybr0LS9XLUcqg8Yo62Wj"
+      "duration_ms": 221698,
+      "name": "Backstabbers - Dreamers And Fools",
+      "url": "https://open.spotify.com/track/2R7hSsGA9UaNZfsJjkKTUh"
     },
     {
-      "added_at": "2023-09-29 16:00:00",
+      "added_at": "2024-03-22 07:00:00",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+        "name": "SHIRLEY (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7kMbajrechWiv23zUFu6zx"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "Tamar-Kali",
+          "url": "https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e"
         }
       ],
-      "duration_ms": 243236,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
-    },
-    {
-      "added_at": "2023-09-29 16:00:00",
-      "album": {
-        "name": "Hard 4 You",
-        "url": "https://open.spotify.com/album/0RkfVEAdbTX0P0CRDHYjm5"
-      },
-      "artists": [
-        {
-          "name": "Chela",
-          "url": "https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn"
-        }
-      ],
-      "duration_ms": 179691,
-      "name": "Hard 4 You",
-      "url": "https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG"
-    },
-    {
-      "added_at": "2023-09-29 16:00:00",
-      "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
-    {
-      "added_at": "2023-09-29 16:00:00",
-      "album": {
-        "name": "Bohemian Rhapsody (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 223080,
-      "name": "I Want To Break Free",
-      "url": "https://open.spotify.com/track/25H6P7a94WUr5102lC6TNI"
-    },
-    {
-      "added_at": "2023-09-29 16:00:00",
-      "album": {
-        "name": "Ring My Bell",
-        "url": "https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV"
-      },
-      "artists": [
-        {
-          "name": "Anita Ward",
-          "url": "https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P"
-        }
-      ],
-      "duration_ms": 491933,
-      "name": "Ring My Bell",
-      "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
-    },
-    {
-      "added_at": "2023-09-29 16:00:00",
-      "album": {
-        "name": "Toast (Remix)",
-        "url": "https://open.spotify.com/album/24oZPmdzVJ7X5agJbGpK8d"
-      },
-      "artists": [
-        {
-          "name": "J Star",
-          "url": "https://open.spotify.com/artist/4XoVFXRNNMzxuEpxRt2lqp"
-        }
-      ],
-      "duration_ms": 187245,
-      "name": "Toast - Remix",
-      "url": "https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU"
-    },
-    {
-      "added_at": "2023-09-29 16:00:00",
-      "album": {
-        "name": "Mu\u00f1ekita (with El Alfa & JT)",
-        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Mu\u00f1ekita (with El Alfa & JT)",
-      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
-    },
-    {
-      "added_at": "2023-09-29 16:00:00",
-      "album": {
-        "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
-        "url": "https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Hyunjin",
-          "url": "https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg"
-        }
-      ],
-      "duration_ms": 172151,
-      "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
-      "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
-    },
-    {
-      "added_at": "2023-09-29 16:00:00",
-      "album": {
-        "name": "Apollo XXI",
-        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 213797,
-      "name": "Playground",
-      "url": "https://open.spotify.com/track/6v23dkIy9AHxk8MAcOHBLu"
-    },
-    {
-      "added_at": "2023-09-29 16:00:00",
-      "album": {
-        "name": "Sunset Season",
-        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Crush Culture",
-      "url": "https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1"
+      "duration_ms": 113525,
+      "name": "Catalyst For Change",
+      "url": "https://open.spotify.com/track/1jJLFhQfRl0xg4hXzgOqHk"
     }
   ],
   "unique_name": "Strong Black Lead Official Playlist",

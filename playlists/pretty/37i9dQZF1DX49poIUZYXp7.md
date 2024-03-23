@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: MacKenzie Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,487 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,598 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 51 | [Next Girl](https://open.spotify.com/track/2nkKBegmLjGjCZ0cP9xA09) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 2:44 |
 | 52 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 |
 | 53 | [Match For My Memory](https://open.spotify.com/track/5sYsGGJ87apKstNPKgiZFo) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Match For My Memory](https://open.spotify.com/album/1btxskaPEUaAs39MnammfS) | 2:59 |
-| 54 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 |
+| 54 | [justified](https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:00 |
 | 55 | [Make You Mine](https://open.spotify.com/track/0CZwrYqSTnfzAjtynr6zBp) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [Make You Mine](https://open.spotify.com/album/7vwX7Eavq0fZccBj56FkWA) | 2:40 |
-| 56 | [justified](https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:00 |
+| 56 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 |
 | 57 | [Drive You Out Of My Mind](https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Drive You Out Of My Mind](https://open.spotify.com/album/0tybIuD9JXSQ0zY1s9PQmv) | 3:32 |
 | 58 | [Melt](https://open.spotify.com/track/1clurKfZZ1ScMCJIb6RUck) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Melt](https://open.spotify.com/album/2y0nOvxDP9sQ4fwUvUKM45) | 3:27 |
 | 59 | [Hair Salon](https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:44 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 70 | [Sober & Skinny](https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sober & Skinny](https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0) | 3:18 |
 | 71 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 |
 | 72 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 |
-| 73 | [Thicc As Thieves \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Unlocked](https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq) | 2:59 |
-| 74 | [Lady Like](https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:14 |
+| 73 | [Lady Like](https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:14 |
+| 74 | [Thicc As Thieves \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Unlocked](https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq) | 2:59 |
 | 75 | [I'm Not Pretty](https://open.spotify.com/track/7Fh8xCGwV1QHuhBPKu1i4m) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I'm Not Pretty](https://open.spotify.com/album/5MeMW5FhAjGpX9uoe3XAFW) | 3:01 |
 | 76 | [Shoot Tequila](https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Shoot Tequila](https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q) | 3:13 |
 | 77 | [Sayin’ What I’m Thinkin’](https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:21 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 92 | [HEARTFIRST](https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [HEARTFIRST](https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s) | 3:07 |
 | 93 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 |
 | 94 | [Lucky](https://open.spotify.com/track/6DE1vkPkMn2I77360IBb8t) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:14 |
-| 95 | [Worth It](https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Worth It](https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If) | 3:03 |
-| 96 | [Fix You Too](https://open.spotify.com/track/5omVNcqZuJUeAP6WUOMaXA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:07 |
-| 97 | [heels over head](https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [heels over head](https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt) | 3:14 |
-| 98 | [Too Much And Not Enough](https://open.spotify.com/track/6UL8AQO0xpwUKx4Tt4Onx8) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Too Much And Not Enough](https://open.spotify.com/album/7digMEty8FrKfhF1O4364r) | 3:00 |
+| 95 | [Fix You Too](https://open.spotify.com/track/5omVNcqZuJUeAP6WUOMaXA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:07 |
+| 96 | [Worth It](https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Worth It](https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If) | 3:03 |
+| 97 | [Too Much And Not Enough](https://open.spotify.com/track/6UL8AQO0xpwUKx4Tt4Onx8) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Too Much And Not Enough](https://open.spotify.com/album/7digMEty8FrKfhF1O4364r) | 3:00 |
+| 98 | [heels over head](https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [heels over head](https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt) | 3:14 |
 | 99 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 |
 | 100 | [Bridesmaids](https://open.spotify.com/track/6qrJ2kxNvGey8ZEWii5teB) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Bridesmaids](https://open.spotify.com/album/0VdFcNM19RTRUlX59heg5A) | 2:50 |
 
-Snapshot ID: `MCxhNzAzOGNiY2Q3ZTYyNmVhNGU4YWM3NmE5Yjk5YWY5NGNhOTZkMDVm`
+Snapshot ID: `MCwzMGExNzczYjA2YmU4NTRhMmYyNDg3NzQ4MTgzNjBiODQ4N2U0YjJi`

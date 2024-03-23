@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-376 songs - 20 hr 50 min
+377 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Alive](https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:32 | 2022-01-19 | 2023-04-22 |
 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-04-08 |  |
 | [All I Want Is to Be With You](https://open.spotify.com/track/0wcEUeOslMI8dPB7QjUMiW) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:04 | 2021-08-05 | 2022-01-20 |
-| [All Life Long](https://open.spotify.com/track/3WEN5hlpjc09yo0J6IuQBE) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0unji0xUcEGgNFyokzF5p5) | 3:19 | 2024-03-22 |  |
+| [All Life Long](https://open.spotify.com/track/2R2fEymz4psIZb2Ic3lBIy) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0ISpTOqbSEzzY0Kt4JsTTq) | 3:19 | 2024-03-22 |  |
+| [All Life Long](https://open.spotify.com/track/3WEN5hlpjc09yo0J6IuQBE) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0unji0xUcEGgNFyokzF5p5) | 3:19 | 2024-03-22 | 2024-03-23 |
 | [All My Loving](https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [All My Loving](https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US) | 2:58 | 2022-06-17 | 2023-09-30 |
 | [AM Gold](https://open.spotify.com/track/6ttjTA8589PqK8DF9SBEC7) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [AM Gold](https://open.spotify.com/album/1zTCggliz6km8kM63FIqI9) | 2:49 | 2022-02-18 | 2023-04-22 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-02-18 | 2023-04-22 |

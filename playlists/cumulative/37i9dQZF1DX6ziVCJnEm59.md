@@ -4,7 +4,7 @@
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-315 songs - 18 hr 57 min
+316 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 | 2023-12-14 |  |
 | [Laramee](https://open.spotify.com/track/0Ho55XknDOdL8IK2ghGjB2) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Laramee](https://open.spotify.com/album/0bUuPxAp0NaBOF8PXwG0z7) | 4:01 | 2022-12-14 | 2023-03-10 |
 | [Laramee](https://open.spotify.com/track/2ZTehU7cgpjz3euyQoNzdh) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Laramee](https://open.spotify.com/album/2f2dHhOUOppGeWGzcLBlCj) | 4:01 | 2023-02-28 | 2023-12-15 |
-| [Let It Breathe](https://open.spotify.com/track/52uKQxYJKHpYz0DEwKLltI) | [Water Liars](https://open.spotify.com/artist/6k3UpifDbb2ox25edM5j3P) | [Water Liars](https://open.spotify.com/album/78DjyBCwRxpBuZmlRXrt58) | 2:39 | 2019-09-29\* |  |
+| [Let It Breathe](https://open.spotify.com/track/52uKQxYJKHpYz0DEwKLltI) | [Water Liars](https://open.spotify.com/artist/6k3UpifDbb2ox25edM5j3P) | [Water Liars](https://open.spotify.com/album/78DjyBCwRxpBuZmlRXrt58) | 2:39 | 2019-09-29\* | 2024-03-23 |
 | [Life Is Confusing](https://open.spotify.com/track/16lPj311efhVdbwPrTgTHl) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Life Is Confusing EP](https://open.spotify.com/album/3lqou5SWx4juGcSJJD45FY) | 2:51 | 2019-09-29\* | 2020-07-10 |
 | [Lifeline](https://open.spotify.com/track/7ykWjHHszWWVOv7Tz0xya7) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Sad Songs In A Hotel Room](https://open.spotify.com/album/3myn4byRnfljbPqfO6FBss) | 3:49 | 2023-02-14 | 2023-03-01 |
 | [Lights Off](https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK) | 3:52 | 2019-09-29\* | 2020-06-01 |
@@ -244,6 +244,7 @@
 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:02 | 2023-12-14 |  |
 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 | 2019-09-29\* | 2020-06-01 |
 | [So Cool](https://open.spotify.com/track/3GgdEZJy5bxm2ZjC90ibDC) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Boys \(Side A\)](https://open.spotify.com/album/4kBUtVFzM9mrVZEtr0f56v) | 2:59 | 2019-09-29\* | 2020-09-01 |
+| [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 | 2024-03-22 |  |
 | [Something Familiar](https://open.spotify.com/track/0pid6toQhFvAWPGbB0ET8K) | [Josienne Clarke and Ben Walker](https://open.spotify.com/artist/3Vur5nBUAcGQjXZyk32WV1) | [Overnight](https://open.spotify.com/album/7wkd8uGGBjwGsxcV9LXeyz) | 2:25 | 2019-09-29\* | 2022-01-22 |
 | [Something in the Orange \- Z&E's Version](https://open.spotify.com/track/3rU2QIyNDk2OWV6mAW2qQr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 4:14 | 2023-01-05 |  |
 | [Songbird](https://open.spotify.com/track/41lqGsXFhFnno7r9MkaXtK) | [Cory Chisel](https://open.spotify.com/artist/6y4coSy8vZX0FnM26Z81Rk), [Adriel Denae](https://open.spotify.com/artist/2g5pUXavAoliyoXzM4dUgY) | [Tell Me True](https://open.spotify.com/album/6Pmg1ztyTIRcH1Ufwl7CY4) | 3:26 | 2019-09-29\* | 2020-09-01 |

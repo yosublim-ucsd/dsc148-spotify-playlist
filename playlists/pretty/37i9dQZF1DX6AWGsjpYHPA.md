@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,814 likes - 75 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,882 likes - 75 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 54 | [Garden](https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Trouble](https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP) | 4:35 |
 | 55 | [Flowers](https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [Flowers](https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks) | 8:52 |
 | 56 | [Dearest Alfred \(MyJoy\)](https://open.spotify.com/track/09QrWF1BFYe8Inkh9Al5ye) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Mordechai Remixes](https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG) | 3:15 |
-| 57 | [Constant Surprises](https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Little Dragon](https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I) | 4:33 |
-| 58 | [Beside April](https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:13 |
+| 57 | [Beside April](https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:13 |
+| 58 | [Constant Surprises](https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Little Dragon](https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I) | 4:33 |
 | 59 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 |
 | 60 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 |
 | 61 | [Revelation Dub](https://open.spotify.com/track/3y8jFxffjXyyeKnsNTVXod) | [Kabanjak](https://open.spotify.com/artist/5JelVUCQwLevnbFnjeiPK4) | [Café del Mar Ibiza Chillout Mix III \(DJ Mix\)](https://open.spotify.com/album/5f5vs2Qy77gDyDVhn5tYIm) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 74 | [The Sweetest Pain](https://open.spotify.com/track/0Qlbpljv5ZRlxRaYYnsvih) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 5:45 |
 | 75 | [Crawshay](https://open.spotify.com/track/2O0D6AbuaGHag0QrPGAJhV) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Second Time Round](https://open.spotify.com/album/3OE1HvJztiyEn6p3dTmStC) | 4:20 |
 
-Snapshot ID: `MCxiZDkwMTEyNmU1NDEyYTM0ZmUyOGZmZTYzZjRlNzBjMWQyOTFlNWMy`
+Snapshot ID: `MCxlMDk5MjI2MDFiODZiOTU2MWUwZjRlMzI0OTRmYWVjYTVjOGJkZTcz`

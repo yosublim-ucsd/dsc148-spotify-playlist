@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Cody Johnson",
-  "num_followers": 257668,
+  "num_followers": 257737,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2NkMDViNjFjZDYzY2Y0MTAzMDI1ZDdkNWZmOTZmNDQzZDhhZGIz",
+  "snapshot_id": "MCw4ZDM0YThjMjNmMTk3ZWFkODA0MzE3YTI0MDBlMjI1NDVhZDQ4Nzdj",
   "tracks": [
     {
       "added_at": "2024-01-19 17:31:05",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Mud",
-        "url": "https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy"
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
       "artists": [
         {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 335622,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/4rJesaufMl2xD0f2G8Xgnd"
+      "duration_ms": 204352,
+      "name": "Something to Talk About",
+      "url": "https://open.spotify.com/track/19Xbs8nrPaB4XGK5nVBbFC"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 204352,
-      "name": "Something to Talk About",
-      "url": "https://open.spotify.com/track/19Xbs8nrPaB4XGK5nVBbFC"
+      "duration_ms": 335622,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/4rJesaufMl2xD0f2G8Xgnd"
     },
     {
       "added_at": "2024-01-19 17:31:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,068 likes - 60 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,139 likes - 60 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 48 | [You With Me](https://open.spotify.com/track/4MgyEN8kWjh6ARc67pjcLL) | [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK) | [Alone Together](https://open.spotify.com/album/6EUF2ofzBAtVWQW2fUWzsN) | 2:44 |
 | 49 | [Tokyo Cruise](https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Tokyo Cruise](https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI) | 3:02 |
 | 50 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 |
-| 51 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
-| 52 | [I Knew It](https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B) | [Yambow](https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS), [Latas](https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb) | [I Knew It](https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei) | 3:44 |
+| 51 | [I Knew It](https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B) | [Yambow](https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS), [Latas](https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb) | [I Knew It](https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei) | 3:44 |
+| 52 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
 | 53 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
 | 54 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
 | 55 | [Kokiri Forest](https://open.spotify.com/track/6vhVeoN1qJNJfdiIJAK4A9) | [Hugo Mari](https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU) | [Mind's Eye](https://open.spotify.com/album/0V7YCgKiVWctiHpxc4Hmv1) | 6:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 59 | [In Your Arms](https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [In Your Arms](https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c) | 2:30 |
 | 60 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 |
 
-Snapshot ID: `MCw5MTQwYWMyMDhkNWZjYjIyM2FiM2ZiYTEwZjZmZTNiZWRhZjg0M2Jk`
+Snapshot ID: `MCw3NmQxMGZlZGI4NjRmOTgxNWY1MDQ4YjVkMmY5NDQxZDAwMzU1NDJi`

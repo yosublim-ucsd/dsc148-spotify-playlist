@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 1258103,
+  "2024-03-23": 1258639,
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Bernadya",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: LAY, Lauv",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 180381,
       "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
@@ -297,6 +297,24 @@
       "duration_ms": 200646,
       "name": "Agak Laen",
       "url": "https://open.spotify.com/track/6hkNy8IivjgLEKe5xL5jWu"
+    },
+    {
+      "album": {
+        "name": "15 Seleksi Terlaris",
+        "url": "https://open.spotify.com/album/6KYRCqMwHMVfosvo0Ctonu"
+      },
+      "artists": [
+        {
+          "name": "Doel Sumbang",
+          "url": "https://open.spotify.com/artist/7uK1hDwCzfG6qyOlxxb8AD"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229523,
+      "name": "Ai",
+      "url": "https://open.spotify.com/track/0rRgmGxfrSJMuSHE4oZLwr"
     },
     {
       "album": {
@@ -799,7 +817,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 220945,
       "name": "Bersamamu",
       "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 212137,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/3nWlfhNCcDhAxlsHmcggEG"
@@ -2353,7 +2371,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -2389,7 +2407,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 252613,
       "name": "Hapus Aku",
       "url": "https://open.spotify.com/track/6MPo0FYKvO0AewUJoL9GUu"
@@ -2678,6 +2696,24 @@
     },
     {
       "album": {
+        "name": "I Like You The Most",
+        "url": "https://open.spotify.com/album/1bIYccSTQbGFcCrqkuoRz1"
+      },
+      "artists": [
+        {
+          "name": "SHAD",
+          "url": "https://open.spotify.com/artist/5MxQZFj0dZlvwo2bIFfE3p"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164792,
+      "name": "I Like You The Most",
+      "url": "https://open.spotify.com/track/51IJ7laS1nxqDfjTz8xDfH"
+    },
+    {
+      "album": {
         "name": "I NEED U - Spotify Singles",
         "url": "https://open.spotify.com/album/2eUqvZveGueUYsQBRd4NVi"
       },
@@ -2689,7 +2725,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 181722,
       "name": "I NEED U - Spotify Singles",
       "url": "https://open.spotify.com/track/3MOa6IKagO2lT9n0sI8fZQ"
@@ -2750,6 +2786,24 @@
     },
     {
       "album": {
+        "name": "Noel Gallagher's High Flying Birds",
+        "url": "https://open.spotify.com/album/4g2nrjzWOuEtZHtiBZrf1U"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249106,
+      "name": "If I Had A Gun\u2026",
+      "url": "https://open.spotify.com/track/4i4ArYpqtsA3MJ1k0o2dxq"
+    },
+    {
+      "album": {
         "name": "if it's not you",
         "url": "https://open.spotify.com/album/47GptiIJvoRyPPCWKc6FcD"
       },
@@ -2779,7 +2833,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 210586,
       "name": "In My Heart",
       "url": "https://open.spotify.com/track/5dQhi7rntlTNkzNiUgrV3I"
@@ -3235,7 +3289,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 253040,
       "name": "Kidung - Remastered",
       "url": "https://open.spotify.com/track/0Uyh7UINyHXHjZGFZst8Bc"
@@ -3455,7 +3509,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 298000,
       "name": "Lampu Merah",
       "url": "https://open.spotify.com/track/6E7DsxwI4eOcMHLYRUDCaw"
@@ -3527,7 +3581,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 200040,
       "name": "Lie With You",
       "url": "https://open.spotify.com/track/39uhLliuH6Otvhg9duW9Fb"
@@ -3563,7 +3617,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 149142,
       "name": "Like I Do",
       "url": "https://open.spotify.com/track/1TiZWEsxN85yLJBq56K8mG"
@@ -3913,7 +3967,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 339890,
       "name": "Margaret (feat. Bleachers)",
       "url": "https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6"
@@ -4175,7 +4229,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 234146,
       "name": "Miss Americana & The Heartbreak Prince",
       "url": "https://open.spotify.com/track/214nt20w5wOxJnY462klLw"
@@ -4255,7 +4309,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 286906,
       "name": "Mrs. Officer",
       "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
@@ -4809,7 +4863,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 202066,
       "name": "Patience",
       "url": "https://open.spotify.com/track/4DxybsoSiMUW0JI2oM0SSN"
@@ -5026,6 +5080,24 @@
     },
     {
       "album": {
+        "name": "Sorealist",
+        "url": "https://open.spotify.com/album/2Mp0Jvz37IpwQf4bNSiqwU"
+      },
+      "artists": [
+        {
+          "name": "Sore",
+          "url": "https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205253,
+      "name": "Pergi Tanpa Pesan",
+      "url": "https://open.spotify.com/track/524W6iOfPJX0g9uzjF4jQ1"
+    },
+    {
+      "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
       },
@@ -5055,7 +5127,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 188306,
       "name": "Please, Please, Please Let Me Get What I Want",
       "url": "https://open.spotify.com/track/0smzrlYiBiecxfG8p5QDcQ"
@@ -5073,7 +5145,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 152400,
       "name": "plot twist",
       "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
@@ -5131,6 +5203,24 @@
       "duration_ms": 146266,
       "name": "Pray",
       "url": "https://open.spotify.com/track/7MOCaEUbfGyq1K96umNVwJ"
+    },
+    {
+      "album": {
+        "name": "prince of egypt",
+        "url": "https://open.spotify.com/album/1EHDh2uYW1hJkziTZywt2k"
+      },
+      "artists": [
+        {
+          "name": "Mofe.",
+          "url": "https://open.spotify.com/artist/1KM7CSGxtFgMF8NmNuRGXa"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124595,
+      "name": "prince of egypt",
+      "url": "https://open.spotify.com/track/44U5sw3AvxKI0Sy0tYakll"
     },
     {
       "album": {
@@ -5492,6 +5582,24 @@
     },
     {
       "album": {
+        "name": "Rumah",
+        "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258845,
+      "name": "Rumah",
+      "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
+    },
+    {
+      "album": {
         "name": "Run Back To You",
         "url": "https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza"
       },
@@ -5641,6 +5749,24 @@
       "duration_ms": 285071,
       "name": "Satu-Satu",
       "url": "https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG"
+    },
+    {
+      "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
       "album": {
@@ -5900,6 +6026,24 @@
     },
     {
       "album": {
+        "name": "Setia",
+        "url": "https://open.spotify.com/album/7xZeCDDpE6SHQI3qZBPT0B"
+      },
+      "artists": [
+        {
+          "name": "Dikta Wicaksono",
+          "url": "https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220243,
+      "name": "Setia",
+      "url": "https://open.spotify.com/track/7aqMkjcUMFvv5cQIqnevts"
+    },
+    {
+      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -6049,7 +6193,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 241088,
       "name": "Sialan",
       "url": "https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ"
@@ -6462,6 +6606,28 @@
     },
     {
       "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301893,
+      "name": "Tadow",
+      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
+    },
+    {
+      "album": {
         "name": "Tak",
         "url": "https://open.spotify.com/album/3y4V875C8qvcNSibvdZVmG"
       },
@@ -6787,6 +6953,24 @@
       "duration_ms": 255375,
       "name": "Tawa",
       "url": "https://open.spotify.com/track/2cUtg4hpCug4Gc9aibZIYV"
+    },
+    {
+      "album": {
+        "name": "Tejano Blue",
+        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234453,
+      "name": "Tejano Blue",
+      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
     },
     {
       "album": {
@@ -7463,7 +7647,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 231093,
       "name": "What kind of future",
       "url": "https://open.spotify.com/track/1DXomndYd10iSX9uZSPv6e"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 
 > Canciones te inspiran a ti y a todas las mamás.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,661 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,796 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 27 | [El Problema](https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Santo Pecado](https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf) | 5:30 |
 | 28 | [Un Siglo Sin Ti](https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:41 |
 | 29 | [Me Muero](https://open.spotify.com/track/3ri9fLG89OdSpjxheYxU7S) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [El Mundo Se Equivoca](https://open.spotify.com/album/6C0am1pBvF0viIFsa0FZnp) | 3:09 |
-| 30 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 |
-| 31 | [Como Tu Mujer](https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 4:22 |
-| 32 | [Antes](https://open.spotify.com/track/0TIKTcvtKI26PNRvjyeHjP) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Confesiones](https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi) | 3:38 |
+| 30 | [Antes](https://open.spotify.com/track/0TIKTcvtKI26PNRvjyeHjP) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Confesiones](https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi) | 3:38 |
+| 31 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 |
+| 32 | [Como Tu Mujer](https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 4:22 |
 | 33 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 |
 | 34 | [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 |
 | 35 | [Ciega, Sordomuda](https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 4:27 |
@@ -51,19 +51,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 41 | [Si Una Vez](https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 2:47 |
 | 42 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:43 |
 | 43 | [Loco](https://open.spotify.com/track/6yjsa6c8nSGQqXF12vFSpp) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [SEX AND LOVE \(Deluxe\)](https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD) | 3:33 |
-| 44 | [Y Tú Te Vas](https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:45 |
-| 45 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
-| 46 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
+| 44 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
+| 45 | [Y Tú Te Vas](https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:45 |
+| 46 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
 | 47 | [Te amo](https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [Voy](https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR) | 3:53 |
 | 48 | [Él Me Mintió](https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 3:41 |
 | 49 | [Jueves](https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [A las Cinco en el Astoria](https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r) | 3:59 |
 | 50 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
 | 51 | [Amigos No por Favor \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:45 |
 | 52 | [Cruz de Navajas](https://open.spotify.com/track/5laT2a6iEq4IxgEDV9dSCr) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9) | 5:02 |
-| 53 | [Tan Enamorados](https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:49 |
-| 54 | [Que Lo Nuestro Se Quede Nuestro](https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:42 |
+| 53 | [Tú](https://open.spotify.com/track/5n49jN2souYjOuP9vHDpu4) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Noelia](https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9) | 4:51 |
+| 54 | [Tan Enamorados](https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:49 |
 | 55 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 |
-| 56 | [Tú](https://open.spotify.com/track/5n49jN2souYjOuP9vHDpu4) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Noelia](https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9) | 4:51 |
+| 56 | [Que Lo Nuestro Se Quede Nuestro](https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:42 |
 | 57 | [Invéntame](https://open.spotify.com/track/1nwdRwqxMlKl3c7Qh8KsrG) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:29 |
 | 58 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
 | 59 | [Entre tú y mil mares](https://open.spotify.com/track/3reCcj2BzaDnnrlnZ0aq2X) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Entre tú y mil mares](https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj) | 3:48 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 73 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
 | 74 | [Estés Donde Estés](https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH](https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8) | 4:01 |
 | 75 | [Acompáñame a Estar Solo](https://open.spotify.com/track/6Eb3FQ2eSSyENY5wJsY0Ot) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Adentro](https://open.spotify.com/album/3MXgh2NutxVsZvxHaNZG2s) | 4:32 |
-| 76 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 |
-| 77 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
-| 78 | [Si No Te Hubieras Ido](https://open.spotify.com/track/1fhusBTFmHeB6BxVsvj2lN) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [e5](https://open.spotify.com/album/3gsFcX5tOaiy7dsSjtnTFp) | 4:46 |
+| 76 | [Si No Te Hubieras Ido](https://open.spotify.com/track/1fhusBTFmHeB6BxVsvj2lN) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [e5](https://open.spotify.com/album/3gsFcX5tOaiy7dsSjtnTFp) | 4:46 |
+| 77 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 |
+| 78 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
 | 79 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 |
 | 80 | [Y, ¿Si fuera ella?](https://open.spotify.com/track/1DmlUpnkg4N1VWquSoffF1) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:23 |
 | 81 | [Experiencia Religiosa](https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 5:32 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 96 | [Si Tú Supieras](https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:06 |
 | 97 | [Si Tú Te Vas](https://open.spotify.com/track/7A1V7IEbwn2nuFGreV8DNv) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 4:04 |
 | 98 | [Piel de Azúcar](https://open.spotify.com/track/4yQYtOS4WKsemq83DEj8ie) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Que Es El Amor](https://open.spotify.com/album/7mepVwtZ3nem33S25OZdol) | 3:37 |
-| 99 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [É Por Amor](https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO) | 4:32 |
-| 100 | [No Me Enseñaste](https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 4:29 |
+| 99 | [No Me Enseñaste](https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 4:29 |
+| 100 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [É Por Amor](https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO) | 4:32 |
 
-Snapshot ID: `MCxhZjQ5MjY0NTY3ZjM5NDJkMWZiMGI2ZTg3MWM3N2JmMGY1YjBmZTMz`
+Snapshot ID: `MCw2ZTM2OTYzNDE5NTk3ZTk3NzRlNjhjZmI3Njc4YTZlZWM1NDI3ZWQx`

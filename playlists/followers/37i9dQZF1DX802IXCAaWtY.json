@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 1179685,
+  "2024-03-23": 1180319,
   "date_first_scraped": "2022-12-29",
   "description": "Who doesn't love the 90s?",
   "name": "90s Dance Party",
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 236693,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/0pXhsuk0u7vzOtBYdFkaAs"
@@ -1349,7 +1349,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 209014,
       "name": "Somebody Dance with Me",
       "url": "https://open.spotify.com/track/7M2wk27EePpYr9TH3uZY1r"

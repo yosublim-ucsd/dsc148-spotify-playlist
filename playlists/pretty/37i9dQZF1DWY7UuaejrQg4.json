@@ -1,12 +1,12 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 82103,
+  "num_followers": 82119,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTg3YzcxNzZhN2I5NTBjYWJjY2RlMmRmMzk4MjU4NTg1OWMwNDkw",
+  "snapshot_id": "MCxlZWM4NjU5NDEyZjkzODc3OTljOGVjMzU3MDMzNTUzNzA0NGFmMWQ2",
   "tracks": [
     {
       "added_at": "2024-03-18 13:23:17",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "girls",
-        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "girls",
-      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 204014,
       "name": "Hot Rod",
       "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "girls",
+        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "girls",
+      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 303296,
-      "name": "Sesame Syrup",
-      "url": "https://open.spotify.com/track/53k1gKFpKrDbktUzrB80f0"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "diary 001",
         "url": "https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 135016,
       "name": "Hello?",
       "url": "https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 303296,
+      "name": "Sesame Syrup",
+      "url": "https://open.spotify.com/track/53k1gKFpKrDbktUzrB80f0"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/4WfV1CNg91SBp8oG0VY0VB"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 191529,
       "name": "Happy Man",
       "url": "https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4WfV1CNg91SBp8oG0VY0VB"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -895,18 +895,22 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW"
+        "name": "RIP Indo Hisashi",
+        "url": "https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4"
       },
       "artists": [
         {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        },
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 230625,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/467t3218y3yihFcyDGWjr0"
+      "duration_ms": 195501,
+      "name": "Narcissist (feat. The 1975)",
+      "url": "https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -931,22 +935,18 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "RIP Indo Hisashi",
-        "url": "https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4"
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW"
       },
       "artists": [
         {
-          "name": "No Rome",
-          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
-        },
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
         }
       ],
-      "duration_ms": 195501,
-      "name": "Narcissist (feat. The 1975)",
-      "url": "https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06"
+      "duration_ms": 230625,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/467t3218y3yihFcyDGWjr0"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Say, Can You Hear",
-        "url": "https://open.spotify.com/album/1nCD1xKA9swhdJaoKFFngO"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 189246,
-      "name": "Say, Can You Hear",
-      "url": "https://open.spotify.com/track/16Ky4KZFBlAnFzsgQOn5MT"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Soy Pablo",
         "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 197946,
       "name": "Feeling Lonely",
       "url": "https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Say, Can You Hear",
+        "url": "https://open.spotify.com/album/1nCD1xKA9swhdJaoKFFngO"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 189246,
+      "name": "Say, Can You Hear",
+      "url": "https://open.spotify.com/track/16Ky4KZFBlAnFzsgQOn5MT"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Make My Bed",
-        "url": "https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Cool Like You (Deluxe)",
         "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 222488,
       "name": "There's A Reason Why (I Never Returned Your Calls)",
       "url": "https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Make My Bed",
+        "url": "https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Pussy Is God",
-        "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
+        "name": "Cool Like You (Deluxe)",
+        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
       },
       "artists": [
         {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
         }
       ],
-      "duration_ms": 205533,
-      "name": "Pussy Is God",
-      "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
+      "duration_ms": 177656,
+      "name": "I Can't Stand It",
+      "url": "https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Cool Like You (Deluxe)",
-        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
+        "name": "Pussy Is God",
+        "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
       },
       "artists": [
         {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 177656,
-      "name": "I Can't Stand It",
-      "url": "https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb"
+      "duration_ms": 205533,
+      "name": "Pussy Is God",
+      "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
     },
     {
       "added_at": "2024-03-18 13:23:17",

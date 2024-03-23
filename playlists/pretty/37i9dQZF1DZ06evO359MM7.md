@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 
 > This is Lil Baby\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,064 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,146 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 | 30 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 |
 | 31 | [No Sucker \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/6A9wHAasMxed0firnDao1K) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:08 |
 | 32 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 |
-| 33 | [Bad Bad Bad \(feat\. Lil Baby\)](https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:29 |
-| 34 | [Not Finished](https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:43 |
+| 33 | [Not Finished](https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:43 |
+| 34 | [Bad Bad Bad \(feat\. Lil Baby\)](https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:29 |
 | 35 | [Heatin Up \(feat\. Gunna\)](https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:57 |
 | 36 | [False Idols \(with Lil Baby, Suzanna Son\)](https://open.spotify.com/track/6cViXqp01e3FrAaseuiSAV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [The Idol Episode 5 Part 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/4q3wUuIReEjGSYzmSsxtl6) | 4:22 |
 | 37 | [Always n Forever \(feat\. Lil Baby\)](https://open.spotify.com/track/6dbENHQHHtWRai4snSvy2w) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [RY RY WORLD](https://open.spotify.com/album/6i1OieEQCZaMlQZZ44VLON) | 3:17 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 | 50 | [350](https://open.spotify.com/track/42TFM7pxF8mRUJTWJdGMeS) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Crazy](https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU) | 3:13 |
 | 51 | [Be Something](https://open.spotify.com/track/65jw6GhwQW3Db55PxlPEpS) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 3:14 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA2NTZiMjAyNDYwNTIzNjk0OWQ1NGY0MzYwYTllNTI3Zg==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBmNGUyZWZjMzU3ZDNiNjYyNjI2YjBhYmRhYzliYWE2MQ==`

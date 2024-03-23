@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 
 > Unwind to these easy classics from the 2010s...
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,078 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,118 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 | 35 | [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 |
 | 36 | [Steal My Girl](https://open.spotify.com/track/2Bs4jQEGMycglOfWPBqrVG) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:48 |
 | 37 | [Can I Be Him](https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 4:06 |
-| 38 | [Versace on the Floor](https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 4:21 |
-| 39 | [Try](https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:07 |
+| 38 | [Try](https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:07 |
+| 39 | [Versace on the Floor](https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 4:21 |
 | 40 | [Girl on Fire](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Remixes\) \- EP](https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN) | 3:44 |
 | 41 | [Take Me to Church](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:01 |
 | 42 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 | 60 | [Dusk Till Dawn \(feat\. Sia\) \- Radio Edit](https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dusk Till Dawn \(feat\. Sia\) \[Radio Edit\]](https://open.spotify.com/album/5l5gR4rh26QI3fijGFTDrp) | 3:59 |
 | 61 | [Starving](https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving](https://open.spotify.com/album/18pR217SWwBjODSRWFBw0I) | 3:01 |
 | 62 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 |
-| 63 | [Little Things](https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:39 |
-| 64 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
+| 63 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
+| 64 | [Little Things](https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:39 |
 | 65 | [When We Were Young](https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:50 |
 | 66 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 |
 | 67 | [Brother](https://open.spotify.com/track/65gLJGey4u4KFFqoC5fzFJ) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Politics of Living](https://open.spotify.com/album/1ITjhViDumL9llxAJYdKiC) | 3:23 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 | 69 | [How Long Will I Love You](https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Nights](https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4) | 2:34 |
 | 70 | [Lego House](https://open.spotify.com/track/5ubHAQtKuFfiG4FXfLP804) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 3:05 |
 | 71 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 |
-| 72 | [jar of hearts](https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 4:06 |
-| 73 | [History](https://open.spotify.com/track/0HMjXBAZmSYOTTi33WpMso) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:07 |
+| 72 | [History](https://open.spotify.com/track/0HMjXBAZmSYOTTi33WpMso) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:07 |
+| 73 | [jar of hearts](https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 4:06 |
 | 74 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
 | 75 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 |
-| 76 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
-| 77 | [Us](https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:01 |
+| 76 | [Us](https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:01 |
+| 77 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 78 | [I See Fire](https://open.spotify.com/track/1fu5IQSRgPxJL2OTP7FVLW) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [The Hobbit: The Desolation of Smaug \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6KX0qrnnPlmBrI2BEXJV9Q) | 5:00 |
-| 79 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 |
-| 80 | [Empire State of Mind \(Part II\) Broken Down](https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 3:36 |
+| 79 | [Empire State of Mind \(Part II\) Broken Down](https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 3:36 |
+| 80 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 |
 
-Snapshot ID: `MCw5MDUzMTgyMDMzNDFmYWJiOGM5YmQ5MDQ3OTBkZTk5OTM1Yjc0ZGYz`
+Snapshot ID: `MCw4MTk5Mzc1NjA4MTJkOTBmOWU2NzA0OGY4ZGE0OTNkMzc5MjE5NmQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,444 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,431 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,16 +66,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 56 | [La Calaca](https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU) | [Amparo Ochoa](https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8) | ["Por Siempre"](https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q) | 5:10 |
 | 57 | [Vamos a Morir](https://open.spotify.com/track/0BA4HUmlKMHeG0k2kK2fRB) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Película Muda \(Primera Parte\)](https://open.spotify.com/album/5I9EFpVPS5zmlzzqvWcCaC) | 3:55 |
 | 58 | [El Día de Tu Muerte](https://open.spotify.com/track/5SzKwKMc5CzPNE8FMCrhrP) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Ajenos / El Día de tu Muerte](https://open.spotify.com/album/7k2cOeyxBoImq2kEmwRYxR) | 2:43 |
-| 59 | [Janitzio](https://open.spotify.com/track/2ViwuwrjUKpop2PxROUJP5) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 3:56 |
-| 60 | [Calaverita de Azúcar](https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun) | [CARLOS AZCUAGA](https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g) | [Canciones de Día de Muertos](https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ) | 3:13 |
+| 59 | [Calaverita de Azúcar](https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun) | [CARLOS AZCUAGA](https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g) | [Canciones de Día de Muertos](https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ) | 3:13 |
+| 60 | [Janitzio](https://open.spotify.com/track/2ViwuwrjUKpop2PxROUJP5) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 3:56 |
 | 61 | [Calaverita](https://open.spotify.com/track/47NMBNmAQhLuyVSEI9IKBN) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Buenaventura](https://open.spotify.com/album/1hEVnJ09psV81C2PBGEjCk) | 3:20 |
 | 62 | [Muerte Querida \- Remasterizado 2008](https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Rey Azúcar](https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc) | 4:18 |
 | 63 | [Viene la Muerte Echando Rasero](https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 4:00 |
-| 64 | [Gracias A La Vida \- Remasterizado 1983](https://open.spotify.com/track/0lq5LDe4TgtZX3BQUwtYVD) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Alfonsina Y El Mar \(Remasterizado 1983\)](https://open.spotify.com/album/4n8smL6EFarc0we2I7trAP) | 4:05 |
-| 65 | [Chéni \(Miedo\)](https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [Chéni \(Miedo\)](https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA) | 3:48 |
+| 64 | [Chéni \(Miedo\)](https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [Chéni \(Miedo\)](https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA) | 3:48 |
+| 65 | [Gracias A La Vida \- Remasterizado 1983](https://open.spotify.com/track/0lq5LDe4TgtZX3BQUwtYVD) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Alfonsina Y El Mar \(Remasterizado 1983\)](https://open.spotify.com/album/4n8smL6EFarc0we2I7trAP) | 4:05 |
 | 66 | [Calaveritas](https://open.spotify.com/track/1BmNqkmLmBqIU5ToPdbnnw) | [Ana Tijoux](https://open.spotify.com/artist/75myVgZbKQkWpyHAlLUCmG), [Celso Piña](https://open.spotify.com/artist/6w2g4b1Tn0ltVEiO0D3PEM) | [Calaveritas](https://open.spotify.com/album/5fpncon9GYSQJ9EdaoQXQN) | 4:20 |
-| 67 | [Silencio \- Spotify Session](https://open.spotify.com/track/2LtKvokRMG1bayE9PcVGwu) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade \(Spotify Session\)](https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj) | 4:32 |
-| 68 | [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 |
+| 67 | [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 |
+| 68 | [Silencio \- Spotify Session](https://open.spotify.com/track/2LtKvokRMG1bayE9PcVGwu) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade \(Spotify Session\)](https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj) | 4:32 |
 | 69 | [La Muerte](https://open.spotify.com/track/4t2qP9p4TLBEA0fcBCel2o) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Grandes Exitos](https://open.spotify.com/album/518olO2EkNkGlhoITehClz) | 2:37 |
 | 70 | [Se le apagó la luz \- Versión Básico](https://open.spotify.com/track/5SuMtg9alskh2TE554OMBO) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Basico](https://open.spotify.com/album/33SeVIcoXAiWcqGhQaEZFF) | 4:36 |
 | 71 | [Piensa en Mí](https://open.spotify.com/track/7MVtPthvWIoBGF8a7o0wT4) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Día de Muertos](https://open.spotify.com/album/1C2o4vm5RIybZbstafidKh) | 3:12 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 97 | [Dia De Los Muertos](https://open.spotify.com/track/3UTwxVRAc1mUOAbqxWqbl1) | [El Haru Kuroi](https://open.spotify.com/artist/683Jz9L8U9Ba2lGOBuRgj8) | [Sabung](https://open.spotify.com/album/2qOJpwhMowXGwlNVoBKVfA) | 3:10 |
 | 98 | [Pan de Muertos](https://open.spotify.com/track/1ZlZR2fjNZAwcRJ5NNvVcp) | [CARLOS AZCUAGA](https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g) | [Canciones de Día de Muertos](https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ) | 3:52 |
 | 99 | [Tristísimo Panteón](https://open.spotify.com/track/6hd02N0fmG5pFYm5LukkT9) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:50 |
-| 100 | [Morir en Paz](https://open.spotify.com/track/2R5tHhHmGxhbrvOpoDluqr) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo) | [Ahora](https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs) | 6:34 |
+| 100 | [Morir Soñando](https://open.spotify.com/track/63dcYPuE3PEauC0t480FKn) | [Mariachi Nuevo Tecalitlán](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Dia de los Muertos \(Con Mariachi\)](https://open.spotify.com/album/2jhrvg3VaRCvGwEvhLLsmw) | 3:40 |
 
-Snapshot ID: `MCw2NzNhYTg3ZmEwMTI4ZmNiMTgzNTcwMTIwM2RiNmVkOTRiMjZkNDA1`
+Snapshot ID: `MCxjMzI5MTM5ZGY2MzlkNGVlZjZlNTg5MTQ2OGFiMGZiMzRiNzgzNmEy`

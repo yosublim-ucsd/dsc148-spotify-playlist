@@ -1,13 +1,29 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 9498,
+  "num_followers": 9505,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTg1ZmVhNWIyZTJjZGY2N2QyYjRiZGQyZmQzM2IxM2I4ZDZlYjY5",
+  "snapshot_id": "MCwxZjZmNTI3YjkwMTUzZmQ2M2NjMmM1MWUzMWYxYzVkYjU5MjU0MmI5",
   "tracks": [
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Troubled (Whiskey and a Saddle Part One)",
+        "url": "https://open.spotify.com/album/55uUuquxQLTgp4xHPahzDp"
+      },
+      "artists": [
+        {
+          "name": "Charlie Beale",
+          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
+        }
+      ],
+      "duration_ms": 173567,
+      "name": "Troubled - Whiskey and a Saddle Part One",
+      "url": "https://open.spotify.com/track/61k4urgjSdyLegkf0yBlwT"
+    },
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {

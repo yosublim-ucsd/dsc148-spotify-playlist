@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 4810,
+  "2024-03-23": 4835,
   "date_first_scraped": "2023-10-03",
   "description": "Instrumental piano versions of famous songs to make you fall asleep.",
   "name": "Sleep Covers",
@@ -903,6 +903,24 @@
       "duration_ms": 192000,
       "name": "Groovy Kind Of Love",
       "url": "https://open.spotify.com/track/6faVa20KtdwfyzsJ6PaohE"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/1pQ8qDBJqljz1SzaYXswJt"
+      },
+      "artists": [
+        {
+          "name": "Ron Lopata",
+          "url": "https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5Ejj6d6NWhR1g9oymWBlm2"
     },
     {
       "album": {
@@ -1878,6 +1896,24 @@
     },
     {
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/5jOXGrdg6dzNWAc2YmpPfm"
+      },
+      "artists": [
+        {
+          "name": "Lars Florence",
+          "url": "https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190038,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/0Q3UrvVVAPzv72nTWLzTRv"
+    },
+    {
+      "album": {
         "name": "Super Trouper",
         "url": "https://open.spotify.com/album/5R1VLkJnWcEEjmE9SssEWO"
       },
@@ -1965,6 +2001,24 @@
       "duration_ms": 191684,
       "name": "The Bones",
       "url": "https://open.spotify.com/track/1VxxM2CjF0982zpGHeMrxu"
+    },
+    {
+      "album": {
+        "name": "The final countdown",
+        "url": "https://open.spotify.com/album/6Ol7Ix94ugJsxWppUl3n7R"
+      },
+      "artists": [
+        {
+          "name": "Dan Goten",
+          "url": "https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "The final countdown",
+      "url": "https://open.spotify.com/track/63VSSY49F6356Lu87MxENx"
     },
     {
       "album": {
@@ -2307,6 +2361,24 @@
       "duration_ms": 181000,
       "name": "What Was I Made For?",
       "url": "https://open.spotify.com/track/5yhPNVqJog8cR2e8AWADO6"
+    },
+    {
+      "album": {
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/0sTLdlhQTr2ZjxdTlr2HcI"
+      },
+      "artists": [
+        {
+          "name": "Kim Jonas",
+          "url": "https://open.spotify.com/artist/1FlrpSI88fx7RNjHNHbc2H"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193624,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/7xYSleWEppumLFfcae1D2F"
     },
     {
       "album": {

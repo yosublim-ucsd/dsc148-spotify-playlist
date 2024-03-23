@@ -1,12 +1,12 @@
 {
   "description": "se for pra sofrer, que seja com trilha sonora n\u00e9 n\u00e3o?? ",
-  "num_followers": 530425,
+  "num_followers": 530460,
   "original_name": "Cora\u00e7\u00e3o Partido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGI0MGNkZDljYTE2NmFhNjZkOTMxYWMzZTkzZjM2ZDg5YzU3NDQy",
+  "snapshot_id": "MCw3NGZlMjA5OGIwZTEwMzc0Y2Y2MjVkYmU1ZmJjNjg3YjYxOTdiYzk3",
   "tracks": [
     {
       "added_at": "2024-03-08 19:18:03",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-03-08 19:18:03",
       "album": {
-        "name": "The Dutchess",
-        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
-      },
-      "artists": [
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        }
-      ],
-      "duration_ms": 268120,
-      "name": "Big Girls Don't Cry (Personal)",
-      "url": "https://open.spotify.com/track/4AniPkv5vgdE1n6VKreiyI"
-    },
-    {
-      "added_at": "2024-03-08 19:18:03",
-      "album": {
         "name": "Esmeraldas (\u00c1lbum Comentado)",
         "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 218040,
       "name": "A noite",
       "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
+    },
+    {
+      "added_at": "2024-03-08 19:18:03",
+      "album": {
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "duration_ms": 268120,
+      "name": "Big Girls Don't Cry (Personal)",
+      "url": "https://open.spotify.com/track/4AniPkv5vgdE1n6VKreiyI"
     },
     {
       "added_at": "2024-03-08 19:18:03",

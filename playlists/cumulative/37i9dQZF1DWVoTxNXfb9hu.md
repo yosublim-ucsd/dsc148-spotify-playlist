@@ -4,7 +4,7 @@
 
 > Colourful songs to kickstart your Holi party! Cover \- Yeh Jawaani Hai Deewani
 
-101 songs - 5 hr 59 min
+102 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Chhote Chhote Peg](https://open.spotify.com/track/3AQrBSjowqCFu2jiFFuGsv) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Navraj Hans](https://open.spotify.com/artist/4ItzUQL1OI4JNDGNdKHR1K) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:23 | 2023-03-08 |  |
 | [Chikni Chameli](https://open.spotify.com/track/1vSXwYeKnzsVvekSpqVabx) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Agneepath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EXIPmWRsSM1sXol5g4t7j) | 5:01 | 2024-03-01 |  |
 | [Chinta Kis Baat Ki](https://open.spotify.com/track/3T7dFxU9B0NDqcCtokrsZ2) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Chinta Kis Baat Ki](https://open.spotify.com/album/5LhuxRe0mbch0WN9x6fW47) | 3:21 | 2024-03-15 |  |
+| [Choli Ke Peeche \(From "Crew"\)](https://open.spotify.com/track/1ErMeReQpwGuroEk5zekr3) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Ila Arun](https://open.spotify.com/artist/5zWKMBKw7KqulFxyz2ULvp), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf) | [Choli Ke Peeche \(From "Crew"\)](https://open.spotify.com/album/5snDdFszQnoAqgQfNntKcx) | 2:53 | 2024-03-22 |  |
 | [Chumma Chumma](https://open.spotify.com/track/2YgoJ3A89kMjAqUIfNKOSj) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Aayush Sharma](https://open.spotify.com/artist/0ZDsrTOxuwv1cw5boFmaaI), [Shakti Mohan](https://open.spotify.com/artist/0dFN6rcH8vnfuq2Ta28hHK) | [Chumma Chumma](https://open.spotify.com/album/1gyGAOSlqVZwM3wwvt03xF) | 3:09 | 2024-03-01 |  |
 | [Coca Cola \(From "Luka Chuppi"\)](https://open.spotify.com/track/352wEkChkiClswqwDoM0nj) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Young Desi](https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Coca Cola \(From "Luka Chuppi"\)](https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc) | 2:59 | 2023-03-08 |  |
 | [Daaku](https://open.spotify.com/track/1uCBFWAcZOJGAj1CFQHZDj) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Daaku](https://open.spotify.com/album/2tpXdOI6g9KNdQIXFWB1kW) | 2:40 | 2024-03-01 |  |

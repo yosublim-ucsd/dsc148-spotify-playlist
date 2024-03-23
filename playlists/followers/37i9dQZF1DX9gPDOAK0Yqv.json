@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 99085,
+  "2024-03-23": 99437,
   "date_first_scraped": "2022-11-25",
   "description": "A hypnotic journey through Melodic Techno.",
   "name": "Melodic Techno Elements",
@@ -229,6 +229,24 @@
       "duration_ms": 378886,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/5o7FfYcoh7dgBsvIu3bM1R"
+    },
+    {
+      "album": {
+        "name": "Akai Ito",
+        "url": "https://open.spotify.com/album/01IgXhJKNWmcQtDHxk41h9"
+      },
+      "artists": [
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269528,
+      "name": "Akai Ito",
+      "url": "https://open.spotify.com/track/2ec63ZHgdpbeXoSdsVCHgy"
     },
     {
       "album": {
@@ -647,7 +665,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 211381,
       "name": "Aylyak",
       "url": "https://open.spotify.com/track/0iofhe3HgUtzq8yiPDKp1Z"
@@ -857,6 +875,24 @@
       "duration_ms": 485760,
       "name": "Black Unicorn",
       "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
+    },
+    {
+      "album": {
+        "name": "Bloom At Night",
+        "url": "https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199047,
+      "name": "Bloom At Night",
+      "url": "https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6"
     },
     {
       "album": {
@@ -1319,7 +1355,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 383562,
       "name": "Criseide",
       "url": "https://open.spotify.com/track/094ZMBfb7D08l6ZDCtsJlr"
@@ -3931,6 +3967,28 @@
       "duration_ms": 333750,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP"
+    },
+    {
+      "album": {
+        "name": "In Your Eyes (Fideles Remix)",
+        "url": "https://open.spotify.com/album/0jOrwifDjbWed2UJkLXgli"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358846,
+      "name": "In Your Eyes - Fideles Remix",
+      "url": "https://open.spotify.com/track/2TkjZM2IpnsQp3M0HdZT5M"
     },
     {
       "album": {
@@ -7649,7 +7707,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 236129,
       "name": "Strange World",
       "url": "https://open.spotify.com/track/4SHFAf2zHYBbk2HTMlR2vj"
@@ -7737,7 +7795,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 209523,
       "name": "Sweet Lies",
       "url": "https://open.spotify.com/track/68wm1ARrXuMYBelE7WnLJw"

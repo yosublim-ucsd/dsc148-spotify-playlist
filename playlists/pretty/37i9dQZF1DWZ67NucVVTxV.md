@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,998 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,037 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 25 | [Ask About Me](https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ask About Me](https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9) | 2:55 |
 | 26 | [Many Things](https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Many Things](https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe) | 2:47 |
 | 27 | [Bust Down](https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bust Down](https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G) | 3:16 |
-| 28 | [Stir It Up](https://open.spotify.com/track/5b6FLRw2gZCibFy6cwuV8h) | [Kojo Trilla](https://open.spotify.com/artist/7mmtBuQzPDjAzgiyYFJO55) | [Stir It Up](https://open.spotify.com/album/7AnoShLl9Bco7Rv8HPPnuP) | 2:51 |
+| 28 | [Stir It Up](https://open.spotify.com/track/5b6FLRw2gZCibFy6cwuV8h) | [Kojo Trilla](https://open.spotify.com/artist/7mmtBuQzPDjAzgiyYFJO55), [Essumann](https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1) | [Stir It Up](https://open.spotify.com/album/7AnoShLl9Bco7Rv8HPPnuP) | 2:51 |
 | 29 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 |
 | 30 | [Waiting So Long](https://open.spotify.com/track/2JcLfZCOrAmU1b87gBdv5I) | [Kwesi Dain](https://open.spotify.com/artist/105LjXZfjJNB1VyldU9gCr), [Yhaw hero](https://open.spotify.com/artist/0TVRUVsUqxHTsgRSBk3i8d) | [Waiting So Long](https://open.spotify.com/album/1BrJyJUvM3qefHIVxduF8c) | 3:35 |
 | 31 | [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 79 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
 | 80 | [YAWA](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [YAWA](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 |
 
-Snapshot ID: `MCw0YmYyYmYxMGUzODc1MGVlODkzNDYyZDdiNjYxZTBmMjg1OWVlODBh`
+Snapshot ID: `MCw4MDQ5YjFiNTg2Yzg1NTc2ZGRkNzI1NTM5YmFiYmRjMmFjNzgyOWI5`

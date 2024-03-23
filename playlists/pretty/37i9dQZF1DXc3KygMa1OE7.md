@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 
 > The most unforgettable love songs from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,556,170 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,556,277 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 14 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 |
 | 15 | [The Lady In Red](https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Into The Light](https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5) | 4:16 |
 | 16 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
-| 17 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 |
-| 18 | [Sacrifice](https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:04 |
+| 17 | [Sacrifice](https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:04 |
+| 18 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 |
 | 19 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [The Definitive Collection](https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp) | 4:11 |
 | 20 | [You're the Inspiration \- 2006 Remaster](https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded & Remastered\)](https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR) | 3:49 |
 | 21 | [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 51 | [Eternal Flame](https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:58 |
 | 52 | [Never Say Goodbye](https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:48 |
 | 53 | [Straight From The Heart](https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7) | 3:31 |
-| 54 | [Do You Remember? \- 2016 Remaster](https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(2016 Remaster\)](https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8) | 4:35 |
-| 55 | [Heaven Is A Place On Earth \- Promo 7" Edit](https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 3:53 |
+| 54 | [Heaven Is A Place On Earth \- Promo 7" Edit](https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 3:53 |
+| 55 | [Do You Remember? \- 2016 Remaster](https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(2016 Remaster\)](https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8) | 4:35 |
 | 56 | [Lost in Your Eyes](https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [Electric Youth](https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC) | 3:35 |
 | 57 | [We've Got Tonight](https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [We've Got Tonight](https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa) | 3:54 |
 | 58 | [Even the Nights Are Better](https://open.spotify.com/track/09bRmFRViBORKQ2miwp04P) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Now And Forever](https://open.spotify.com/album/0jWQH4FmSo5CUbRnMvvMoL) | 3:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 74 | [All Out of Love](https://open.spotify.com/track/2lmcH6prYo3BlR8LfRUJc3) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [All Out Of Love](https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX) | 4:01 |
 | 75 | [All Night Long \- Single Version](https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 4:20 |
 
-Snapshot ID: `MCwwYTQxOTcwYzRlZTcxYzVjZTBkYTMxMWM0NmU2ODgzZjU2MmJkZDRh`
+Snapshot ID: `MCxiMGIxN2ZmMWMzM2Y2YjM3NDFmNjRhZWNhYWI1NzJlZWFlY2Q1OTU4`

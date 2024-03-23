@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 250369,
+  "2024-03-23": 250548,
   "date_first_scraped": "2022-06-02",
   "description": "The songs of the 1980s that will make you dance all summer long!",
   "name": "Summer Hits of the 80s",
@@ -983,7 +983,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 285093,
       "name": "Into the Groove",
       "url": "https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N"
@@ -1487,7 +1487,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 259906,
       "name": "Once in a Lifetime - 2005 Remaster",
       "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"

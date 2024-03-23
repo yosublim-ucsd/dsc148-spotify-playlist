@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,531 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,678 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 40 | [Ta Que Tiembla \- Pachyman Remix](https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Ta Que Tiembla \(Pachyman Remix\)](https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6) | 3:21 |
 | 41 | [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 |
 | 42 | [Grind](https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL) | [Grind / Prelims](https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs) | 5:18 |
-| 43 | [Ya Va Pasar](https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Ya Va Pasar](https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI) | 3:23 |
-| 44 | [Pool Party](https://open.spotify.com/track/5smJ1WgnvqNJruXcPPGf32) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Skin and Bones](https://open.spotify.com/album/7iB7ZAFFdjsVDWjCTBZjJi) | 3:58 |
+| 43 | [Pool Party](https://open.spotify.com/track/5smJ1WgnvqNJruXcPPGf32) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Skin and Bones](https://open.spotify.com/album/7iB7ZAFFdjsVDWjCTBZjJi) | 3:58 |
+| 44 | [Ya Va Pasar](https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Ya Va Pasar](https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI) | 3:23 |
 | 45 | [Humano \- El Búho Remix](https://open.spotify.com/track/2hT92797LxyO6oZsQ6zaC9) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/7lwzhzgV4j0WKksieLPrAs) | 4:35 |
-| 46 | [Blossom](https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Los Santos y Pecadores](https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu) | 3:18 |
+| 46 | [Relato](https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [6](https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7) | 3:48 |
 | 47 | [Nineteen Hundred and Eighty Five](https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 5:40 |
 | 48 | [Samba del Arenal](https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Cinemar](https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37) | [Samba del Arenal](https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk) | 4:13 |
-| 49 | [Relato](https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [6](https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7) | 3:48 |
+| 49 | [Blossom](https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Los Santos y Pecadores](https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu) | 3:18 |
 | 50 | [Te Quiero Olvidar](https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3) | 3:22 |
 | 51 | [Café Com Leite \- Boogát Remix](https://open.spotify.com/track/5MuqsRxbN6bEgl7zYxKMw3) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Café Com Leite \(Boogát Remix\)](https://open.spotify.com/album/5PhxzPqJHvdJXYMQCRg9Pe) | 4:14 |
 | 52 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 69 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 |
 | 70 | [Pacifico Soy](https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK) | [Electropico](https://open.spotify.com/artist/0vBqXIopwkJEQZEssLZEBK), [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ) | [Fiera](https://open.spotify.com/album/1yjWcaPexYHc4DYKFfVfuc) | 2:50 |
 
-Snapshot ID: `MCxlNjNmNzM3MzdjNmM4ZGVjOGI3ZWJhNWVhMzk0ZDYzOGIyNDFiYWE0`
+Snapshot ID: `MCw3MGVmMTBkMDJjMjNmYTRmNTM1NjM3OWFjODI4MGJlMmM2MmJiNGMx`

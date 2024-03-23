@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > The best metal songs of the 90s\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,486 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,146 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 99 | [War?](https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9) | 2:40 |
 | 100 | [The Gentle Art of Making Enemies \- 2016 Remaster](https://open.spotify.com/track/66uYWEw9gJxkPw6STqNcKl) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [King for a Day, Fool for a Lifetime \(2016 Remaster; Deluxe Edition\)](https://open.spotify.com/album/6KHnSZsn0E2OzcVChd8UUW) | 3:28 |
 
-Snapshot ID: `MCxmMjU5MGRiNjM1ODllOGQ1NDk1ZWY0YTA1MGZjMzNlZjk4YWZmNTlk`
+Snapshot ID: `MCwxZDk0M2YyOGViM2M2NGE1NzZiYjNkNmY3NzcxZDI1ZTAwZThjMWY1`

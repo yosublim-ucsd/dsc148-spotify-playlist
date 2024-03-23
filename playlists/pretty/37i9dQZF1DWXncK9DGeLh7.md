@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 
 > 100% soul et funk ! Photo : Silk Sonic
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,144 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,196 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 | 59 | [Nightshift](https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Nightshift](https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP) | 5:06 |
 | 60 | [Raspberry Beret](https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around The World In A Day](https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM) | 3:35 |
 
-Snapshot ID: `MCwyMTNkMzNkNTg5NDY0ZTExZGRhYjBjOTJlOGRiZGI0MDhhYjEzMDhi`
+Snapshot ID: `MCw2NjBmMWZjMzllMDEwOTU4MTRjYmQ5ZTE1YTI2YTUzNDg0ZjkzY2Q3`

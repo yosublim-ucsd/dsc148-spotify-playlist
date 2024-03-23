@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us—and this awesome alt soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,937 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,984 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 31 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 |
 | 32 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 |
 | 33 | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 |
-| 34 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
-| 35 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 |
+| 34 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 |
+| 35 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
 | 36 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 |
 | 37 | [Emergency Contact](https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:00 |
 | 38 | [Flashed Junk Mind](https://open.spotify.com/track/2UAWVtEwFLJqdJsT8FCzKX) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary \(Bonus Track Version\)](https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN) | 4:21 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 69 | [Dreaming My Dreams](https://open.spotify.com/track/4UTl2IO4zwZkU4KXbShgUg) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:37 |
 | 70 | [Honest \- From The Amazing Spider\-Man 2 Soundtrack](https://open.spotify.com/track/1xJ8RjDucztPOKB0ek95tf) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [The Amazing Spider\-Man 2 \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R) | 3:57 |
 | 71 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 |
-| 72 | [I Told You So](https://open.spotify.com/track/1Patip73Sq1xQw7GGwSFtw) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [I Told You So](https://open.spotify.com/album/11Eq6C1e99Zbk0XXjzvM1j) | 4:14 |
-| 73 | [Empire](https://open.spotify.com/track/4M9lfUgDeLHu1fL2ZxZSlu) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:20 |
+| 72 | [Empire](https://open.spotify.com/track/4M9lfUgDeLHu1fL2ZxZSlu) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:20 |
+| 73 | [I Told You So](https://open.spotify.com/track/1Patip73Sq1xQw7GGwSFtw) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [I Told You So](https://open.spotify.com/album/11Eq6C1e99Zbk0XXjzvM1j) | 4:14 |
 | 74 | [Kiss City](https://open.spotify.com/track/7f1mKhZ8s6di51f76Qf03E) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 2:23 |
 | 75 | [Lover, Please Stay](https://open.spotify.com/track/3QxCvkqWdkMqy3CPxOhZ24) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 4:07 |
 | 76 | [Crystal Clear](https://open.spotify.com/track/3fV4kgcQzh2aLGSJbSAtoV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Petals For Armor](https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 99 | [Heart Beat Here](https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:27 |
 | 100 | [Luna \- 2011 Remaster](https://open.spotify.com/track/20Y0ZANdyEI52MfQs6DddK) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/3YDm8Vu6IOjjVdLNHlJtj0) | 3:22 |
 
-Snapshot ID: `MCwyMzY5NTdhZGFkNTc4MzllYTEzOGE5Y2I3NjE2YzYyZDJiZjM1ZTU0`
+Snapshot ID: `MCw4YzVjMzFlODBhZGM4MDY1NGE4ZjQ2Yjg4M2MwNWUzMjc1OTc2NDNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,793 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,827 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 29 | [Elon musk](https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Elon musk](https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I) | 3:15 |
 | 30 | [Holiday](https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:39 |
 | 31 | [Tjina](https://open.spotify.com/track/5l4S6LVL1AQfZC01pypXl6) | [Megadrumz](https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [For Your Soul \(Extended Edition\)](https://open.spotify.com/album/04znRkeBi2rTFkBx7VR7sf) | 5:19 |
-| 32 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 |
-| 33 | [Clear Road](https://open.spotify.com/track/57aQqUWaQZzF4V8wtp5eIz) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Clear Road](https://open.spotify.com/album/2Lfm01wQBl5vHrzxtO093x) | 2:39 |
+| 32 | [Clear Road](https://open.spotify.com/track/57aQqUWaQZzF4V8wtp5eIz) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Clear Road](https://open.spotify.com/album/2Lfm01wQBl5vHrzxtO093x) | 2:39 |
+| 33 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 |
 | 34 | [If You Leave](https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Love Is Not Enough, Vol\. 2](https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG) | 2:29 |
 | 35 | [Gaza](https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:14 |
 | 36 | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1) | 2:27 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 42 | [Ronaldo](https://open.spotify.com/track/5wRZwN6VCb0rWxG2HUbaUx) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ronaldo](https://open.spotify.com/album/60URysVADvw9jbvTJypX2N) | 2:49 |
 | 43 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 |
 | 44 | [Away](https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Away](https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w) | 2:17 |
-| 45 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 |
+| 45 | [Minding My Business](https://open.spotify.com/track/1qexUMtMWGdP1wGcGYkNJs) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Minding My Business](https://open.spotify.com/album/1JlZVS3ByAW0f2cHzv3eRS) | 2:53 |
 | 46 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 |
-| 47 | [Minding My Business](https://open.spotify.com/track/1qexUMtMWGdP1wGcGYkNJs) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Minding My Business](https://open.spotify.com/album/1JlZVS3ByAW0f2cHzv3eRS) | 2:53 |
+| 47 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 |
 | 48 | [Abracadabra](https://open.spotify.com/track/5VcTNeY4BX9zw5SaYPP6jj) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Big Time](https://open.spotify.com/album/1Xx9FuRYRHnop8tqo9Xm7b) | 3:02 |
 | 49 | [For Daddy](https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [For Daddy](https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf) | 2:33 |
 | 50 | [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 57 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 |
 | 58 | [Dicey Baba](https://open.spotify.com/track/647AHuHXU7jtjJyiaIrc3w) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa) | [Dicey Baba](https://open.spotify.com/album/0teEUfvsGoEv1wqBfelPTl) | 2:13 |
 | 59 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 |
-| 60 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 |
+| 60 | [GoodSin](https://open.spotify.com/track/6JTpnAzRctuyc6qhUimpMW) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 2:20 |
 
-Snapshot ID: `MCwzMDhjMDg3NmQwNjFkNGI0YmJiZTljMWNmMGMwMmIzYzkwMzZjOWJl`
+Snapshot ID: `MCwwMDQ5ZmY3N2FiMzk3MGEzM2ExYTFkZGYxZGQxMjg3MTRmZGI0NmQ1`

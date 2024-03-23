@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-105 songs - 6 hr 32 min
+106 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [One Way Out](https://open.spotify.com/track/6Rvvecvi5x26AYsqY518MY) | [Heir](https://open.spotify.com/artist/2qFolZ0t9iDaOtgwvtMl2f) | [One Way Out](https://open.spotify.com/album/7GowjRTiHy1OtF0AQuqXVS) | 3:42 | 2022-11-11 |  |
 | [Out of My Life](https://open.spotify.com/track/3BCkdDIFlp7g8ZlvHVJv5p) | [Maya Killtron](https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2) | [Persimmon](https://open.spotify.com/album/00EK1rMkjf99RTeXyzuCdN) | 4:00 | 2022-10-21 |  |
 | [Past the Point](https://open.spotify.com/track/28iT2AnlE73LIJI6RnjFhZ) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Inside Voice](https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof) | 3:42 | 2022-10-21 | 2024-01-27 |
+| [Peach Optimo](https://open.spotify.com/track/3RNLKLJyNYLh9t6ojhxN7B) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Peach Optimo](https://open.spotify.com/album/3Thk2OpOq4xLIg3Qmetarj) | 2:50 | 2024-03-22 |  |
 | [Pictures of You](https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:09 | 2022-10-21 | 2022-10-31 |
 | [Pictures of You](https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:09 | 2022-10-21 | 2022-11-12 |
 | [Pleasure Line](https://open.spotify.com/track/1euiiwEoryUni184b7gata) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Pleasure Line](https://open.spotify.com/album/03SEDcdGkkkvJag0Ru5uMp) | 3:40 | 2022-10-21 | 2023-03-18 |
@@ -103,7 +104,7 @@
 | [Villa](https://open.spotify.com/track/42DzViBjJl5he25R02T5WH) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/63f7oiyBTexDSGuPTd6Egq) | 2:41 | 2022-10-21 | 2022-11-19 |
 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-04-07 |  |
 | [What a Mess](https://open.spotify.com/track/0Nh1lcfO370r4RbnbHyI0u) | [Zachary Austin](https://open.spotify.com/artist/4dACqKiAumlZz4e7g05BUx), [Offghost](https://open.spotify.com/artist/5idpy1lojocVoblo9y9nan), [Barb](https://open.spotify.com/artist/2AKn3QitGXoKeodTlARfxe) | [What a Mess](https://open.spotify.com/album/4g6ZTv4RiQfcbrwZX9Xwnd) | 3:27 | 2024-03-08 |  |
-| [What Ever It May Be](https://open.spotify.com/track/7rj18BeidDwvzWAbQgbffM) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [What Ever It May Be](https://open.spotify.com/album/3cjiYBTwHHXEsA08KPpyaT) | 4:00 | 2022-10-21 |  |
+| [What Ever It May Be](https://open.spotify.com/track/7rj18BeidDwvzWAbQgbffM) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [What Ever It May Be](https://open.spotify.com/album/3cjiYBTwHHXEsA08KPpyaT) | 4:00 | 2022-10-21 | 2024-03-23 |
 | [Wherever I Go \(feat\. Lawrence & Michael McDonald\)](https://open.spotify.com/track/77PlrIDSmmWwCj7vgNQiR4) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Wherever I Go \(feat\. Lawrence & Michael McDonald\)](https://open.spotify.com/album/3urTyQXxwNAcuNmQa5Xho3) | 2:46 | 2024-03-01 |  |
 | [Who You Are](https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Who You Are](https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ) | 3:56 | 2023-01-13 |  |
 | [Why I Came To California](https://open.spotify.com/track/1uRf4FaOO13JB4GNUXBk4A) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Why I Came To California](https://open.spotify.com/album/1FMPS7GufT7lpzGFbVsuks) | 4:39 | 2022-10-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,669 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,711 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 9 | [Dance, Dance](https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:00 |
 | 10 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
 | 11 | [Self Esteem](https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 4:17 |
-| 12 | [Falling Up](https://open.spotify.com/track/0K1Mvwsdkt4BHTtt3PQcBP) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Life's a Blur](https://open.spotify.com/album/7t00JaebsFO1LI5mPNMXm8) | 2:00 |
+| 12 | [waste](https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [waste](https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy) | 3:51 |
 | 13 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 |
 | 14 | [Paralyzer](https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:28 |
 | 15 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 39 | [Jumpsuit](https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:58 |
 | 40 | [Every You Every Me](https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 3:33 |
 | 41 | [Bad Girlfriend](https://open.spotify.com/track/5m7on0zpnmeAXy72ANrmfU) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Scars & Souvenirs \(Special Edition\)](https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B) | 3:25 |
-| 42 | [Amsterdam](https://open.spotify.com/track/454I78HEySdcHE8fcVabTb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 4:32 |
-| 43 | [Runnin' Wild](https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild \(Special Edition\)](https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO) | 3:42 |
+| 42 | [Runnin' Wild](https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild \(Special Edition\)](https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO) | 3:42 |
+| 43 | [Amsterdam](https://open.spotify.com/track/454I78HEySdcHE8fcVabTb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 4:32 |
 | 44 | [Sleep Now In the Fire](https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:25 |
 | 45 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
 | 46 | [Pass The Nirvana](https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:17 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 69 | [sugar honey ice & tea](https://open.spotify.com/track/3Ddgh4ZwVIkLx0f4WeDFmo) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:21 |
 | 70 | [The Mountain](https://open.spotify.com/track/5adBpeh1CjHAzlM2i8nYFR) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Outsider](https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s) | 3:18 |
 | 71 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
-| 72 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
-| 73 | [Song \#3](https://open.spotify.com/track/5jsDxDkJ1PqyYUWhDMr86B) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:16 |
+| 72 | [Song \#3](https://open.spotify.com/track/5jsDxDkJ1PqyYUWhDMr86B) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:16 |
+| 73 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
 | 74 | [If Only](https://open.spotify.com/track/60wTHSJ0PxxwZDiSLiFaQX) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp) | 3:22 |
 | 75 | [Why Worry](https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt) | 3:19 |
 | 76 | [Feel Good Drag](https://open.spotify.com/track/3EuiMoY8lTjAvIqNf8Uyr3) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [New Surrender](https://open.spotify.com/album/4q76zB2vUHF6Pf2AlxnXQ0) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 99 | [Reckless Tongue](https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Reckless Tongue](https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8) | 2:58 |
 | 100 | [Like A Drug](https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Black Box](https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5) | 3:32 |
 
-Snapshot ID: `MCw4ODBkOTAzODY4MDBhZDJkMjBhNTEwZjJhZmM0ZDA5ZWY1YWRiMTU1`
+Snapshot ID: `MCxhYjQ5MmQ1NDAxODBiYmE2ZWRhMGZmY2M4OTMyNTczMGE4NWQzMjdk`

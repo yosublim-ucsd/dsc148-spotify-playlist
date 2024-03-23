@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Where Sitar meets Guitar\. Cover \- Shakti
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,812 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,824 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 37 | [Yariyaan](https://open.spotify.com/track/5DSFsWFoGi37SivNJAoTi4) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj), [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Yariyaan \- Single](https://open.spotify.com/album/2EksT9ocgAiLmT4TIO15xV) | 5:11 |
 | 38 | [The Awakening](https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Charanraj MR](https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k) | [The Awakening](https://open.spotify.com/album/02tgCcfhK6499d0CtWPQgR) | 2:21 |
 | 39 | [Mind Ecology \(with John McLaughlin\)](https://open.spotify.com/track/6mPtzWgpJIE1KFsl739xX6) | [Shakti](https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Natural Elements \(with John McLaughlin\)](https://open.spotify.com/album/05RPG1hN35ucYL4BqEBZdn) | 5:47 |
-| 40 | [Chhap Tilak](https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Chhap Tilak](https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme) | 4:31 |
-| 41 | [Natkhat Nadiya](https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Songs Of The River \- Ganga](https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn) | 5:39 |
+| 40 | [Natkhat Nadiya](https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Songs Of The River \- Ganga](https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn) | 5:39 |
+| 41 | [Chhap Tilak](https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Chhap Tilak](https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme) | 4:31 |
 | 42 | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Aastha Mandle](https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA) | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4) | 6:20 |
 | 43 | [Purvayi \(feat Papon\)](https://open.spotify.com/track/72Aa8UNEYvnirWp8KaiKdp) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/7y3lqRTl2XEBhTPjemUbRi) | 5:10 |
 | 44 | [Rasiya](https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ) | [Rang](https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV) | 6:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 49 | [Coming Home \(feat\. Akanksha Grover\)](https://open.spotify.com/track/04NnuTb5FhhGcbnFqsMMMf) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Akanksha Grover](https://open.spotify.com/artist/5d78XABQ0O7YUJu7uI65Tj) | [In Other Words](https://open.spotify.com/album/0KruLNQDR6hriRFxMTFCwq) | 4:54 |
 | 50 | [Ras Ke Bhare](https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Ras Ke Bhare](https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9) | 3:53 |
 
-Snapshot ID: `MCwxZjRiMTQ5ZWI0OTA3ZGQ1N2M2NDE4YTg1OWM1MmI0YzY1ZDExNDBj`
+Snapshot ID: `MCxjM2NjMGFmYjZlYWNmZTc0MjgwNWQ4ZTNkMmUyZDQ0YzBkYTkwNzEz`

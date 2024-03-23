@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 51079,
+  "2024-03-23": 51099,
   "date_first_scraped": "2022-05-15",
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: YUQI(\uc6b0\uae30)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
   "name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
@@ -1791,6 +1791,24 @@
       "duration_ms": 267099,
       "name": "Fairy of Shampoo",
       "url": "https://open.spotify.com/track/5JXpZcc3CeQaC6vAF1iaV5"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210136,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
     },
     {
       "album": {
@@ -6057,24 +6075,6 @@
       "duration_ms": 194772,
       "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
       "url": "https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD"
-    },
-    {
-      "album": {
-        "name": "\ud658\uc0c1 Fantasy",
-        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
-      },
-      "artists": [
-        {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
-        }
-      ],
-      "date_added": "2022-09-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210136,
-      "name": "\ud658\uc0c1 Fantasy",
-      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8cV4ZaSfaxp"

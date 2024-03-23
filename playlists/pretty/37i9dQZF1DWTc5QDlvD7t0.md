@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc5QDlvD7t0.md) - [plain]
 
 > The best indie rock/pop/punk/dance/hip hop/r&b of 2019\. Cover: Clairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,170 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,173 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc5QDlvD7t0.md) - [plain]
 | 49 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 |
 | 50 | [placeholder](https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [placeholder](https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz) | 3:50 |
 
-Snapshot ID: `MCw3ZTk1NmM0ZTM3YjI4ZTkxYTFiMjk4YzllNjkzY2EyZjQ1ZWY0M2M5`
+Snapshot ID: `MCxlNTVjODg1MWU0ZDE1MzRlMmRjZDZlODY1NjRiNTA0YTFlMDQyZGM4`

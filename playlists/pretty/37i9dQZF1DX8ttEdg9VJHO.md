@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,428 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,499 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 2 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 | 3 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 |
-| 4 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
-| 5 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
+| 4 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
+| 5 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
 | 6 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 |
 | 7 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 |
 | 8 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 59 | [Small Steps](https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Small Steps](https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce) | 2:46 |
 | 60 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 |
 | 61 | [Leap Of Faith](https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Leap Of Faith](https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX) | 3:37 |
-| 62 | [Faded Love](https://open.spotify.com/track/5JQrj18Cgein2F1uJ60tUt) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:28 |
-| 63 | [Thrill Of It All](https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Thrill Of It All](https://open.spotify.com/album/23tZRrcxog6733FrjhknAi) | 3:23 |
+| 62 | [Thrill Of It All](https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Thrill Of It All](https://open.spotify.com/album/23tZRrcxog6733FrjhknAi) | 3:23 |
+| 63 | [Faded Love](https://open.spotify.com/track/5JQrj18Cgein2F1uJ60tUt) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:28 |
 | 64 | [Wishing Girl](https://open.spotify.com/track/2iawlVRHk4Q9aPg0OgG20D) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Remember Roses](https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z) | 3:12 |
 | 65 | [Boys & Girls](https://open.spotify.com/track/0m28KN9Y8srHVJvutwJj5v) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [A Producer From Vienna](https://open.spotify.com/album/7AX7iptabwUqOi4rFekYgp) | 3:31 |
 | 66 | [Stay](https://open.spotify.com/track/0S5CurjBT1nbbD4YFTRrRv) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Stay](https://open.spotify.com/album/7zQznatXJv40vMCjR2ztfb) | 2:52 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 69 | [Let’s Go Home Together](https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together \(Luca Schreiner Remix\)](https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy) | 3:28 |
 | 70 | [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 |
 
-Snapshot ID: `MCxiNzY5Y2Y1MmUwYTRkODkwYTU1NzBmOGI4YTM2MjE4OTZiMTAxMThh`
+Snapshot ID: `MCw1OTc0ZDRjZWE5MzQ1NWFkYTc5NTlhNTBmZTUzN2NhNzU1NTBkMWJi`

@@ -1,12 +1,12 @@
 {
   "description": "Las divas del pop latino de ayer y hoy. Foto: Alejandra Guzm\u00e1n",
-  "num_followers": 165569,
+  "num_followers": 165616,
   "original_name": "Mujeres del Pop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmI0MDQ1Y2NmODA5N2QxNjFjYTBmYmJhMmExOGQ0NTdlNDM2OWQ3",
+  "snapshot_id": "MCwyZmFhNjQ0M2ZlOGQzMDE0YTZhNGQ1YTVlYjRjNDQ2NTI0OGQ4OWYy",
   "tracks": [
     {
       "added_at": "2024-02-01 19:33:23",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-02-01 19:33:23",
       "album": {
-        "name": "Amantes",
-        "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 235424,
-      "name": "Amantes",
-      "url": "https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD"
-    },
-    {
-      "added_at": "2024-02-01 19:33:23",
-      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 190160,
       "name": "Sin Pijama",
       "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
+    },
+    {
+      "added_at": "2024-02-01 19:33:23",
+      "album": {
+        "name": "Amantes",
+        "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 235424,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD"
     },
     {
       "added_at": "2024-02-01 19:33:23",

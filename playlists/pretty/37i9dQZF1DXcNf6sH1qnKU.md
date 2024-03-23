@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,411 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,639 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 7 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
 | 8 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 |
 | 9 | [For the Damaged Coda](https://open.spotify.com/track/6lvJDlBrtabJWiBlMTGxKs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody of Certain Damaged Lemons](https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN) | 2:37 |
-| 10 | [Lazuli](https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 5:01 |
+| 10 | [Pulling Our Weight](https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4) | 3:20 |
 | 11 | [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 4:58 |
 | 12 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
-| 13 | [Pulling Our Weight](https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4) | 3:20 |
+| 13 | [Lazuli](https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 5:01 |
 | 14 | [Kinky Love](https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [Flesh Balloon](https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx) | 4:04 |
 | 15 | [For Love](https://open.spotify.com/track/3KiKpbpJp9QKuTZb9ocfJi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw) | 3:29 |
 | 16 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 49 | [Tal Uno](https://open.spotify.com/track/3BPRUFOrl3IOOY8HpzRn4S) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/1xAniFMNAAkdXM8daxNBn2) | 4:27 |
 | 50 | [Mesmerise](https://open.spotify.com/track/6bEbOvzviHrQEYjpuEvgje) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 4:12 |
 
-Snapshot ID: `MCw3ZDdjNzYzYjVjYmYxMWRiZDkyOTRmYjc0MzMyODc4ZTIyNTA2ZTdj`
+Snapshot ID: `MCxiMDk4MGU5MTNkY2M0NDQ2Mjk3MWY3ZjVlMWEwZTU1MGQwNzczZGFi`

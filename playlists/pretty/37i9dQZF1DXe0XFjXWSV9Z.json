@@ -1,12 +1,12 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 42534,
+  "num_followers": 42539,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGRiOGI4ODQ4OWY5ZTM5ZjlmOGI4M2RkMTk2MTQ5YmQyNTUyMjFj",
+  "snapshot_id": "MCxmMWFhZDM3NzczMjEyOTk2MjJjZWQ0YTU1YWIzZWEwOGQxZjNjYzZl",
   "tracks": [
     {
       "added_at": "2023-12-12 18:56:56",
@@ -759,18 +759,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Cuatro Tigres",
-        "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
       "artists": [
         {
-          "name": "Chicha Libre",
-          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        },
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
         }
       ],
-      "duration_ms": 146680,
-      "name": "La Danza de los Simpsons",
-      "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
+      "duration_ms": 289960,
+      "name": "Cumbia Algarrobera (featuring Chico Trujillo)",
+      "url": "https://open.spotify.com/track/2aCcRO5D7kPt5zPsw0ijr2"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -791,22 +795,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+        "name": "Cuatro Tigres",
+        "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
       },
       "artists": [
         {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        },
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+          "name": "Chicha Libre",
+          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
         }
       ],
-      "duration_ms": 289960,
-      "name": "Cumbia Algarrobera (featuring Chico Trujillo)",
-      "url": "https://open.spotify.com/track/2aCcRO5D7kPt5zPsw0ijr2"
+      "duration_ms": 146680,
+      "name": "La Danza de los Simpsons",
+      "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/09V3pHWcxfC2Cf00loUtWj"
     },
     {
-      "added_at": "2022-02-15 02:15:55",
-      "album": {
-        "name": "Tamburo Infinito",
-        "url": "https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx"
-      },
-      "artists": [
-        {
-          "name": "Gabriele Poso",
-          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "Futurista",
-      "url": "https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Je pense \u00e0 toi",
@@ -951,6 +935,22 @@
       "duration_ms": 272590,
       "name": "Je Pense \u00e0 Toi",
       "url": "https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy"
+    },
+    {
+      "added_at": "2022-02-15 02:15:55",
+      "album": {
+        "name": "Tamburo Infinito",
+        "url": "https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Poso",
+          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "Futurista",
+      "url": "https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Desesperanza",
-        "url": "https://open.spotify.com/album/00F2FhpcLejOuh1nDnfnRm"
+        "name": "La N\u00famero Uno",
+        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
       },
       "artists": [
         {
-          "name": "Meridian Brothers",
-          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
         }
       ],
-      "duration_ms": 283106,
-      "name": "Salsa Caliente - Versi\u00f3n Aumentada",
-      "url": "https://open.spotify.com/track/0BSUr05Fnpjian9GvLfwgJ"
+      "duration_ms": 244403,
+      "name": "La N\u00famero Uno",
+      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Desesperanza",
+        "url": "https://open.spotify.com/album/00F2FhpcLejOuh1nDnfnRm"
+      },
+      "artists": [
+        {
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "Salsa Caliente - Versi\u00f3n Aumentada",
+      "url": "https://open.spotify.com/track/0BSUr05Fnpjian9GvLfwgJ"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Baile Bucanero",
         "url": "https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 271613,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/5S1bAi1KLbF0Cho7cB6G2Y"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "La N\u00famero Uno",
-        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        }
-      ],
-      "duration_ms": 244403,
-      "name": "La N\u00famero Uno",
-      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/6U6gOELlEzLMDYcBY3FQFf"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
-        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
-      },
-      "artists": [
-        {
-          "name": "Aniceto y sus Fabulosos",
-          "url": "https://open.spotify.com/artist/3sj4WDoPYnrkC4dg84UtG5"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Mi Gran Noche",
-      "url": "https://open.spotify.com/track/7BXaYhgzihosqcGVk72AK2"
-    },
-    {
       "added_at": "2023-03-10 22:34:25",
       "album": {
         "name": "Chimborazo",
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "5 Star Motel",
-        "url": "https://open.spotify.com/album/3H6GQSl4t96oYi50JQAr90"
+        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
+        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
       },
       "artists": [
         {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+          "name": "Aniceto y sus Fabulosos",
+          "url": "https://open.spotify.com/artist/3sj4WDoPYnrkC4dg84UtG5"
         }
       ],
-      "duration_ms": 200858,
-      "name": "Canci\u00f3n del Rey",
-      "url": "https://open.spotify.com/track/0PNi7Zc85t4fwPvhgegc3Y"
+      "duration_ms": 177786,
+      "name": "Mi Gran Noche",
+      "url": "https://open.spotify.com/track/7BXaYhgzihosqcGVk72AK2"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1199,6 +1183,22 @@
       "duration_ms": 237000,
       "name": "Vaiv\u00e9n",
       "url": "https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "5 Star Motel",
+        "url": "https://open.spotify.com/album/3H6GQSl4t96oYi50JQAr90"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 200858,
+      "name": "Canci\u00f3n del Rey",
+      "url": "https://open.spotify.com/track/0PNi7Zc85t4fwPvhgegc3Y"
     },
     {
       "added_at": "2022-06-22 16:48:57",
@@ -1265,20 +1265,20 @@
       "url": "https://open.spotify.com/track/11iLvJ8LlvfgPCRGPtY6Ez"
     },
     {
-      "added_at": "2022-11-18 17:45:57",
+      "added_at": "2022-02-25 04:26:16",
       "album": {
-        "name": "Chichala",
-        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
+        "name": "Junchuch",
+        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
       },
       "artists": [
         {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+          "name": "Tunkuy",
+          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
         }
       ],
-      "duration_ms": 173148,
-      "name": "Chichala",
-      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
+      "duration_ms": 276800,
+      "name": "Junchuch",
+      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1297,20 +1297,20 @@
       "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
     },
     {
-      "added_at": "2022-02-25 04:26:16",
+      "added_at": "2022-11-18 17:45:57",
       "album": {
-        "name": "Junchuch",
-        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
+        "name": "Chichala",
+        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
       },
       "artists": [
         {
-          "name": "Tunkuy",
-          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
         }
       ],
-      "duration_ms": 276800,
-      "name": "Junchuch",
-      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
+      "duration_ms": 173148,
+      "name": "Chichala",
+      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
     },
     {
       "added_at": "2022-04-09 05:03:37",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Canibalismo",
-        "url": "https://open.spotify.com/album/4QR28XDfACXN16nfQDWLRp"
-      },
-      "artists": [
-        {
-          "name": "Chicha Libre",
-          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Danza Del Millonario",
-      "url": "https://open.spotify.com/track/7ndS4yAvKF7vE7VG14fR0v"
-    },
-    {
       "added_at": "2023-03-31 17:32:57",
       "album": {
         "name": "Kristina",
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Dale Mel\u00f3n",
-        "url": "https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg"
+        "name": "Canibalismo",
+        "url": "https://open.spotify.com/album/4QR28XDfACXN16nfQDWLRp"
       },
       "artists": [
         {
-          "name": "Contento",
-          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
+          "name": "Chicha Libre",
+          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
         }
       ],
-      "duration_ms": 260678,
-      "name": "Dale Mel\u00f3n",
-      "url": "https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I"
+      "duration_ms": 231173,
+      "name": "Danza Del Millonario",
+      "url": "https://open.spotify.com/track/7ndS4yAvKF7vE7VG14fR0v"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
-        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
+        "name": "Dale Mel\u00f3n",
+        "url": "https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg"
       },
       "artists": [
         {
-          "name": "Los Beta 5",
-          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
+          "name": "Contento",
+          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
         }
       ],
-      "duration_ms": 169746,
-      "name": "El Bicho",
-      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
+      "duration_ms": 260678,
+      "name": "Dale Mel\u00f3n",
+      "url": "https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1427,6 +1411,22 @@
       "duration_ms": 213333,
       "name": "Lazalypso",
       "url": "https://open.spotify.com/track/3OItIAWkXXMi3wXkKwmhsj"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
+        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
+      },
+      "artists": [
+        {
+          "name": "Los Beta 5",
+          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "El Bicho",
+      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1493,6 +1493,22 @@
       "url": "https://open.spotify.com/track/5uCqb0M2YZMMvuKiXIf70a"
     },
     {
+      "added_at": "2023-02-28 04:34:35",
+      "album": {
+        "name": "Shake & Bake",
+        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
+      },
+      "artists": [
+        {
+          "name": "King Edi K",
+          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
+        }
+      ],
+      "duration_ms": 280822,
+      "name": "Shake & Bake",
+      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
+    },
+    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Los Miticos del Ritmo",
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Very, Very, Well",
-        "url": "https://open.spotify.com/album/5Qk3wsVkRcwoUB1hfy4bll"
+        "name": "Cumbia Beat, Vol. 1",
+        "url": "https://open.spotify.com/album/51CrmT3uzijQycjcdVQogr"
       },
       "artists": [
         {
-          "name": "Lito Barrientos y su Orquesta",
-          "url": "https://open.spotify.com/artist/05iql7fgeGRNLLDjU66wN6"
+          "name": "Los Wembler's de Iquitos",
+          "url": "https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT"
         }
       ],
-      "duration_ms": 165664,
-      "name": "Cumbia en do Menor",
-      "url": "https://open.spotify.com/track/3s82dVyBp9xjyL2ysM5vhl"
+      "duration_ms": 155013,
+      "name": "Un Silbido Amoroso",
+      "url": "https://open.spotify.com/track/5rv29txs2vMnNlRl1Dg06o"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1541,20 +1557,20 @@
       "url": "https://open.spotify.com/track/1UKdzeFMgUECS6bYGR1Jv6"
     },
     {
-      "added_at": "2023-02-28 04:34:35",
+      "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Shake & Bake",
-        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
+        "name": "Very, Very, Well",
+        "url": "https://open.spotify.com/album/5Qk3wsVkRcwoUB1hfy4bll"
       },
       "artists": [
         {
-          "name": "King Edi K",
-          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
+          "name": "Lito Barrientos y su Orquesta",
+          "url": "https://open.spotify.com/artist/05iql7fgeGRNLLDjU66wN6"
         }
       ],
-      "duration_ms": 280822,
-      "name": "Shake & Bake",
-      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
+      "duration_ms": 165664,
+      "name": "Cumbia en do Menor",
+      "url": "https://open.spotify.com/track/3s82dVyBp9xjyL2ysM5vhl"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1587,22 +1603,6 @@
       "duration_ms": 302602,
       "name": "Lamento en la Selva",
       "url": "https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Cumbia Beat, Vol. 1",
-        "url": "https://open.spotify.com/album/51CrmT3uzijQycjcdVQogr"
-      },
-      "artists": [
-        {
-          "name": "Los Wembler's de Iquitos",
-          "url": "https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT"
-        }
-      ],
-      "duration_ms": 155013,
-      "name": "Un Silbido Amoroso",
-      "url": "https://open.spotify.com/track/5rv29txs2vMnNlRl1Dg06o"
     },
     {
       "added_at": "2022-09-30 03:44:30",

@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 103012,
+  "2024-03-23": 103066,
   "date_first_scraped": "2023-01-15",
   "description": "That real soulful house sound. Cover: Kerri Chandler",
   "name": "Soulful House",
@@ -437,6 +437,28 @@
       "duration_ms": 510280,
       "name": "Brand New Feeling - Phil Asher Main Mix",
       "url": "https://open.spotify.com/track/7GxJOGrNhObuU7D3JowwyR"
+    },
+    {
+      "album": {
+        "name": "Breathe (Natasha Diggs Remix)",
+        "url": "https://open.spotify.com/album/4dlv3ovLZYjGwSHmsWPDTv"
+      },
+      "artists": [
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        },
+        {
+          "name": "Natasha Diggs",
+          "url": "https://open.spotify.com/artist/0DqGIKEEj1pOGrOTrYUwPt"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234029,
+      "name": "Breathe - Natasha Diggs Remix",
+      "url": "https://open.spotify.com/track/0vEWGzPIOAnLBN6aVf5aWt"
     },
     {
       "album": {
@@ -1222,6 +1244,28 @@
     },
     {
       "album": {
+        "name": "Enchanted (Folamour Remix)",
+        "url": "https://open.spotify.com/album/6WlUwlOtLz4Xdj2HjGB2sM"
+      },
+      "artists": [
+        {
+          "name": "Job De Jong",
+          "url": "https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334368,
+      "name": "Enchanted - Folamour Remix",
+      "url": "https://open.spotify.com/track/0ZsCcTEqN1nXVyzdZOnu27"
+    },
+    {
+      "album": {
         "name": "Evermore",
         "url": "https://open.spotify.com/album/0oxHLoGUSAqpaew0YjLq0m"
       },
@@ -1440,6 +1484,32 @@
     },
     {
       "album": {
+        "name": "Forever (feat. Sabrina Johnston) [Michael Gray Remix]",
+        "url": "https://open.spotify.com/album/2Rqv0UbKa9oQYj7RlF0xkq"
+      },
+      "artists": [
+        {
+          "name": "Key To Life",
+          "url": "https://open.spotify.com/artist/6WenpbjcPCj6MIhb3sVydR"
+        },
+        {
+          "name": "Sabrina Johnston",
+          "url": "https://open.spotify.com/artist/02JfoUargkADbNg0uXdAR8"
+        },
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184997,
+      "name": "Forever (feat. Sabrina Johnston) - Michael Gray Remix",
+      "url": "https://open.spotify.com/track/2CPthPKsaGxuEvPiB2fS57"
+    },
+    {
+      "album": {
         "name": "Forever (feat. Sabrina Johnston)",
         "url": "https://open.spotify.com/album/4C1MjWCLbqM03ifF4ocFFy"
       },
@@ -1631,7 +1701,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 446026,
       "name": "Get Ready - Halo City Deep Vocal Dub Mix",
       "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
@@ -2560,6 +2630,28 @@
     },
     {
       "album": {
+        "name": "I've Gotta Stand Up (Brand New Man) [Dave Lee Garage City Mix]",
+        "url": "https://open.spotify.com/album/5mycMHSrq2UUFX90AaWBJy"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365395,
+      "name": "I've Gotta Stand Up (Brand New Man) - Dave Lee Garage City Mix",
+      "url": "https://open.spotify.com/track/1WrWti3qRX8WFcudGkAXtJ"
+    },
+    {
+      "album": {
         "name": "One Starry Night",
         "url": "https://open.spotify.com/album/2A7TtLvMmgHy9UqK0dkGsz"
       },
@@ -3225,7 +3317,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 416509,
       "name": "Mercyless - Atjazz Unreleased Astro Remix",
       "url": "https://open.spotify.com/track/2Uhl0LNSb2sQIWK5sO2RXQ"
@@ -3341,7 +3433,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 641584,
       "name": "Morning Factory",
       "url": "https://open.spotify.com/track/5Ss4qt2UmN2MIugKdbCR6K"
@@ -3702,6 +3794,28 @@
     },
     {
       "album": {
+        "name": "Power Of One",
+        "url": "https://open.spotify.com/album/5Fvt14TezBeoJfE7TCxxef"
+      },
+      "artists": [
+        {
+          "name": "Kelly G",
+          "url": "https://open.spotify.com/artist/0xJk3iLNm8oNfKfrocZdwz"
+        },
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239092,
+      "name": "Power Of One",
+      "url": "https://open.spotify.com/track/3UR5UresBbHljYFVOHm83m"
+    },
+    {
+      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/6KV80D3ILcPYRKetKucQ68"
       },
@@ -3761,7 +3875,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 497280,
       "name": "Rain - Terry Hunter Rainy Daze Remix",
       "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
@@ -3885,7 +3999,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 435306,
       "name": "Sentindo Muito Bem - Original Mix",
       "url": "https://open.spotify.com/track/0TO9ClnPbTTo3S0CkyE0YQ"

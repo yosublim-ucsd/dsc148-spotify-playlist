@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 1010088,
+  "2024-03-23": 1010293,
   "date_first_scraped": "2023-09-29",
-  "description": "H\u00e9l\u00e9na au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
+  "description": "Pierre Garnier au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -100,6 +100,24 @@
     },
     {
       "album": {
+        "name": "Bande organis\u00e9e",
+        "url": "https://open.spotify.com/album/1EqBkCvjB9r5dwC21tKOU6"
+      },
+      "artists": [
+        {
+          "name": "Vernis Rouge",
+          "url": "https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127498,
+      "name": "Bande organis\u00e9e",
+      "url": "https://open.spotify.com/track/5lOvw1rwphudYBZssRXJPO"
+    },
+    {
+      "album": {
         "name": "Miroirs",
         "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
       },
@@ -151,7 +169,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 191479,
       "name": "Bravo",
       "url": "https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF"
@@ -187,7 +205,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 160053,
       "name": "C'est fou comme je t'aime",
       "url": "https://open.spotify.com/track/46KAkT2PJ7aAgYiJAUsrKM"
@@ -767,6 +785,24 @@
       "duration_ms": 186093,
       "name": "Fuguer",
       "url": "https://open.spotify.com/track/14EyAVX55liO55GZUr6LOQ"
+    },
+    {
+      "album": {
+        "name": "Une autre vie",
+        "url": "https://open.spotify.com/album/3kOhzA5Vb2pp8nPf1BR1iA"
+      },
+      "artists": [
+        {
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199573,
+      "name": "Heures sup",
+      "url": "https://open.spotify.com/track/0DbiWBF8ihZgovInamLwTx"
     },
     {
       "album": {
@@ -1517,7 +1553,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 180997,
       "name": "Les visages et les odeurs",
       "url": "https://open.spotify.com/track/1wWlrjujdwAy7BC3EamVTU"
@@ -1785,6 +1821,24 @@
       "duration_ms": 206619,
       "name": "Pays des merveilles",
       "url": "https://open.spotify.com/track/5lph5Ohom4uGk7pQDyLPJB"
+    },
+    {
+      "album": {
+        "name": "Piano Piano",
+        "url": "https://open.spotify.com/album/3Yqa5kICCgL2aqthuXn78F"
+      },
+      "artists": [
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144922,
+      "name": "Piano Piano",
+      "url": "https://open.spotify.com/track/1SUiLWeJFzuDYo7VzendQV"
     },
     {
       "album": {

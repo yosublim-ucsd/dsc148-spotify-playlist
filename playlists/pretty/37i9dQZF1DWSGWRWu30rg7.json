@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Fanny Soegi",
-  "num_followers": 63504,
+  "num_followers": 63521,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGQ3NjI5YjMwNjc0NzY0NjMyZGRiMTAxZTYyZTY4ZGFkZDk4N2Qx",
+  "snapshot_id": "MCw5MWEwMGMwZWZkN2M0ZDMwNWQ0YjM4MjkxZWEyYzA5MzNkYjA1ZjQ4",
   "tracks": [
     {
       "added_at": "2024-03-21 17:12:24",
@@ -479,6 +479,22 @@
       "duration_ms": 193043,
       "name": "MNSF",
       "url": "https://open.spotify.com/track/6JouPb4bv2ki48IDhq9D9F"
+    },
+    {
+      "added_at": "2024-03-21 17:12:24",
+      "album": {
+        "name": "Call Me Now",
+        "url": "https://open.spotify.com/album/2en7QHAxa9i8XwTtvYPpey"
+      },
+      "artists": [
+        {
+          "name": "Joy Manifesto",
+          "url": "https://open.spotify.com/artist/4aou5HcW4h4huBPg0wSeOA"
+        }
+      ],
+      "duration_ms": 200379,
+      "name": "Call Me Now",
+      "url": "https://open.spotify.com/track/3vP4JaeNIMkWhNZ2hsgLSx"
     },
     {
       "added_at": "2024-03-21 17:12:24",

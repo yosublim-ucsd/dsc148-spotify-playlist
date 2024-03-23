@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282 likes - 249 songs - 14 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 283 likes - 249 songs - 14 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 88 | [Fuck Love](https://open.spotify.com/track/5lcqxNUw7TJE57tUedUHNR) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 2:39 |
 | 89 | [If This Isn't Love](https://open.spotify.com/track/5hdLExWFX65PEWnk1sEOzO) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/2keYz2u0j1QdnZw2z88kXp) | 3:36 |
 | 90 | [Lingerie](https://open.spotify.com/track/4tf0POzZuU6h0jpjRoYEdh) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 3:21 |
-| 91 | [I Wanna Be](https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:13 |
-| 92 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 |
+| 91 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 |
+| 92 | [I Wanna Be](https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:13 |
 | 93 | [Jump](https://open.spotify.com/track/7yEM9hYRsw9R3pJB5W0gxb) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [GLOWINTHEDARK](https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P) | [Jump](https://open.spotify.com/album/1y8yeYpcaqJB0DWN9KWUlb) | 3:34 |
 | 94 | [That's It \(feat\. Gucci Mane & 2 Chainz\)](https://open.spotify.com/track/2AQHxIuLPdPGrvTtgHFASi) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [That's It \(feat\. Gucci Mane & 2 Chainz\)](https://open.spotify.com/album/1TZIM1JxgnT70zR84YmM57) | 3:27 |
 | 95 | [Billy Crystal](https://open.spotify.com/track/5kteG7fLexn7VkwfEflFT1) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Rock City](https://open.spotify.com/artist/2aq1Srn4VzSQayH4mnyM6v) | [Trunk Muzik 0\-60](https://open.spotify.com/album/6Vg7HgTCyGdcRikqPGhPl4) | 3:59 |
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 248 | [Badonthebeat](https://open.spotify.com/track/6CjgPFN7Y2Sly314epQUSi) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Malibu Babie SZN: Vol I](https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78) | 2:24 |
 | 249 | [Closer](https://open.spotify.com/track/4Lar2nRAUCSGFNbw7995gi) | [Jah Patriot](https://open.spotify.com/artist/4W5RKsjBgeGJk5JgikxmZn) | [Blind Justice](https://open.spotify.com/album/5v24HOnEY07CArXQReEC84) | 3:56 |
 
-Snapshot ID: `Mjg1MTc5MDAsMDAwMDAwMDAzNzQ4YjRlOTAxMzEzMjFkYTdjM2U4YmE2YTBiN2RkZg==`
+Snapshot ID: `Mjg1MTkzNDAsMDAwMDAwMDBkZDU2OTJiY2M3OTZhYTRmYmVjNzUwZjM1MzUyYjU1Mg==`

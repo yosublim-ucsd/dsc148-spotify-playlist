@@ -2,9 +2,9 @@
 
 ### [el nuevo pop](https://open.spotify.com/playlist/37i9dQZF1DX8womvTyUjrN)
 
-> Fresh Latin pop on the rise\. Cover: Joaquina
+> Fresh Latin pop on the rise\. Cover: ELENA ROSE
 
-603 songs - 1 day 6 hr 18 min
+604 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Acto Final](https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Sensible](https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ) | 3:36 | 2024-02-02 | 2024-02-17 |
 | [After](https://open.spotify.com/track/13VKzAXOVaZvdID3eg7GRU) | [M4gna](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Vgomez](https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4) | [After](https://open.spotify.com/album/7sHETRN0d1Drl92z6jawH2) | 2:59 | 2022-04-15 | 2022-05-19 |
 | [Agua Salada](https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Agua Salada](https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W) | 3:33 | 2022-07-28 | 2022-10-29 |
-| [aguardiente](https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd) | [Miranda del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [aguardiente](https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch) | 2:51 | 2024-03-15 |  |
+| [aguardiente](https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd) | [Miranda del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [aguardiente](https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch) | 2:51 | 2024-03-15 | 2024-03-23 |
 | [agüita con sal](https://open.spotify.com/track/3ECMn8Zl2A1o1lQBxg9xvb) | [ISADORA](https://open.spotify.com/artist/3y581XbiJyiM9Y0HBoZk8C) | [agüita con sal](https://open.spotify.com/album/3zGOqF828QOc0A5KcRpJJo) | 2:36 | 2024-02-02 | 2024-03-02 |
 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 | 2023-10-20 | 2024-02-06 |
 | [Ahora Que No Te Tengo](https://open.spotify.com/track/59FrYnRQIPpCtnJ7LOxx49) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Ahora Que No Te Tengo](https://open.spotify.com/album/62AI6DFXsSSVWV5l0ZBOVl) | 2:35 | 2024-01-12 |  |
@@ -331,6 +331,7 @@
 | [Me Escapé](https://open.spotify.com/track/3jK3NH3y3uYjIMVyYdJtoF) | [Leal](https://open.spotify.com/artist/48swEQPOGdY8zNvE2ksqkc), [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW) | [Me Escapé](https://open.spotify.com/album/1ESdLYsLFLLG2Vuc67BbEm) | 2:36 | 2023-05-19 | 2023-07-30 |
 | [Me Gusta](https://open.spotify.com/track/4wpsSCIc7zyjdyUt6wfSqc) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Me Gusta](https://open.spotify.com/album/0Fxm7FHLwu4RNHWFjidEkt) | 2:33 | 2022-10-07 | 2022-12-17 |
 | [Me He Pillao x Ti](https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Me He Pillao x Ti](https://open.spotify.com/album/1raYgqJauewWa2JgD6JmtG) | 3:22 | 2023-02-24 | 2023-06-29 |
+| [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 | 2024-03-22 |  |
 | [Me Quedo Solo](https://open.spotify.com/track/3RKef2LOov4395yfrDGrwA) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Me Quedo Solo](https://open.spotify.com/album/0dprH4u5zVmRMi7yMnuaeq) | 3:35 | 2022-06-17 | 2022-07-26 |
 | [Me Quieres Cuando No Estas Bien](https://open.spotify.com/track/3Zk2kCNwdVwj7sGukEseM2) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Me Quieres Cuando No Estás Bien](https://open.spotify.com/album/1DbJKwzJfxw4xkheUyT1qw) | 3:17 | 2023-07-28 | 2023-08-12 |
 | [mE RecHaZasTe :\(](https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE RecHaZasTe :\(](https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf) | 2:56 | 2022-12-23 | 2023-01-16 |

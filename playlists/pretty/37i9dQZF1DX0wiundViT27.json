@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy rock & alt songs for your workout.",
-  "num_followers": 613592,
+  "num_followers": 613609,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjY1YTg3Yzc4NDJjNDY5NWE5NDg3Mzg0MzE4NzllMWNmMTY5NjY1",
+  "snapshot_id": "MCw1Mjk2NjNlYWE4YjJiYzkxYmY5ZTBjZWVmMWMwYTI0OTAwNjhjMTI4",
   "tracks": [
     {
       "added_at": "2024-03-06 15:41:44",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
+        "name": "Not The 1975",
+        "url": "https://open.spotify.com/album/1HVxIc8XOtdFhuIQZdTPx9"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 198022,
+      "name": "Not The 1975",
+      "url": "https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd"
+    },
+    {
+      "added_at": "2024-03-06 15:41:44",
+      "album": {
         "name": "HOLY FVCK",
         "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 180260,
       "name": "EAT ME (feat. Royal & the Serpent)",
       "url": "https://open.spotify.com/track/0ByTfwoYWdom6GlQ9BIdv2"
-    },
-    {
-      "added_at": "2024-03-06 15:41:44",
-      "album": {
-        "name": "Not The 1975",
-        "url": "https://open.spotify.com/album/1HVxIc8XOtdFhuIQZdTPx9"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 198022,
-      "name": "Not The 1975",
-      "url": "https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd"
     },
     {
       "added_at": "2024-03-06 15:41:44",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 172714,
-      "name": "What Am I Missing?",
-      "url": "https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13"
-    },
-    {
-      "added_at": "2024-03-06 15:41:44",
-      "album": {
         "name": "Outrage! Is Now",
         "url": "https://open.spotify.com/album/6QFtujdK0w9wIyEVGxaNFo"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 198081,
       "name": "Freeze Me",
       "url": "https://open.spotify.com/track/1RsZPDpSkbvRFru52KAkZG"
+    },
+    {
+      "added_at": "2024-03-06 15:41:44",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "What Am I Missing?",
+      "url": "https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13"
     },
     {
       "added_at": "2024-03-06 15:41:44",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
-    },
-    {
-      "added_at": "2024-03-06 15:41:44",
-      "album": {
         "name": "Love From The Other Side",
         "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
-        "name": "Welcome To My House",
-        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
       },
       "artists": [
         {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
         }
       ],
-      "duration_ms": 190611,
-      "name": "By The Time You're Reading This",
-      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
+      "duration_ms": 166779,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
     },
     {
       "added_at": "2024-03-06 15:41:44",
@@ -1535,6 +1519,22 @@
       "duration_ms": 177000,
       "name": "Pushing Daisies (Oh My My)",
       "url": "https://open.spotify.com/track/31HQXEZFHCi93k44JoStvb"
+    },
+    {
+      "added_at": "2024-03-06 15:41:44",
+      "album": {
+        "name": "Welcome To My House",
+        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 190611,
+      "name": "By The Time You're Reading This",
+      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
     },
     {
       "added_at": "2024-03-06 15:41:44",

@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 161771,
       "name": "All Ur Luv",
       "url": "https://open.spotify.com/track/3K1RnBxBkrMwoBE8gC63eY"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 252603,
       "name": "Armatron",
       "url": "https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC"
@@ -1377,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243952,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
+    },
+    {
+      "album": {
         "name": "how i'm feeling now",
         "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
       },
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 184315,
       "name": "Cutie",
       "url": "https://open.spotify.com/track/555poPmhRmQWPsMDGwkifG"
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 147000,
       "name": "Dance Floor",
       "url": "https://open.spotify.com/track/1VVZnehBdIRMyiGlQMeYRJ"
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 202508,
       "name": "Dance You Outta My Head",
       "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
@@ -3334,7 +3352,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 231192,
       "name": "go with u",
       "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
@@ -3542,7 +3560,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 200823,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/5Xex2XN8l1dOLwaXwmdyHX"
@@ -5342,7 +5360,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 154104,
       "name": "LOSTWITHOUTMARIA",
       "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
@@ -5664,7 +5682,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 236335,
       "name": "Montreal",
       "url": "https://open.spotify.com/track/12YAZNNm2OuSgDBKjFQcNm"
@@ -5740,7 +5758,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 285440,
       "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
       "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
@@ -5794,7 +5812,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
@@ -6582,7 +6600,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
@@ -7383,6 +7401,24 @@
     },
     {
       "album": {
+        "name": "Shotput",
+        "url": "https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170698,
+      "name": "Shotput",
+      "url": "https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh"
+    },
+    {
+      "album": {
         "name": "Silk Chiffon",
         "url": "https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj"
       },
@@ -7926,7 +7962,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 231125,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/4S06Jl2tZJMOZVXRs3i5jU"
@@ -8356,7 +8392,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 261000,
       "name": "Time to Pretend",
       "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
@@ -8520,7 +8556,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 268305,
       "name": "Under The Light - Remix",
       "url": "https://open.spotify.com/track/7DFYfdzWJAQK59YrQ4CftD"
@@ -8560,7 +8596,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 170125,
       "name": "Uno Dos",
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
@@ -9365,6 +9401,24 @@
     },
     {
       "album": {
+        "name": "Baby Wants to Ride / Your Love",
+        "url": "https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5"
+      },
+      "artists": [
+        {
+          "name": "Frankie Knuckles",
+          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403706,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw"
+    },
+    {
+      "album": {
         "name": "Your Love (feat. House Gospel Choir) (Coco & Breezy Remix)",
         "url": "https://open.spotify.com/album/0RRg7EIinOboPr1zyywm9r"
       },
@@ -9384,7 +9438,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 180413,
       "name": "Your Love (feat. House Gospel Choir) (Coco & Breezy Remix)",
       "url": "https://open.spotify.com/track/22NJL6tmHY3doX9E6sZqQi"

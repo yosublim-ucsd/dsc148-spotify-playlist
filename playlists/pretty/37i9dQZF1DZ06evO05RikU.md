@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,312 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,326 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 4 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 |
 | 5 | [How You Samba](https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ) | 2:31 |
 | 6 | [MILAMORES](https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:31 |
-| 7 | [¿Qué Ha Pasao'?](https://open.spotify.com/track/5fxnoiUBJ5DMAQEYb2uFOr) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Sigo a Lo Mío](https://open.spotify.com/album/7mRlOJYRk9u7I8MteTkfzZ) | 3:18 |
-| 8 | [Lo siento \(feat\. Sofía Reyes\)](https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:52 |
+| 7 | [Lo siento \(feat\. Sofía Reyes\)](https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:52 |
+| 8 | [¿Qué Ha Pasao'?](https://open.spotify.com/track/5fxnoiUBJ5DMAQEYb2uFOr) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Sigo a Lo Mío](https://open.spotify.com/album/7mRlOJYRk9u7I8MteTkfzZ) | 3:18 |
 | 9 | [tqum](https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [tqum](https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC) | 2:29 |
 | 10 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 |
 | 11 | [24/7](https://open.spotify.com/track/6nQ3fhwmCWMoEa7m9Vn9du) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:10 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 50 | [Cuando Estás Tú](https://open.spotify.com/track/1qZK2nOljXMWpIdOXmandN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Cuando Estás Tú](https://open.spotify.com/album/3af2qc7bfSXU08ecwxQAFC) | 2:57 |
 | 51 | [Treehouse](https://open.spotify.com/track/0Zrxq7AxjJQrVg013MYgU2) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Treehouse](https://open.spotify.com/album/0xDUWlPe0z4xOiBi41dmb9) | 3:09 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBjYmQ0MjRjOTI5NDBjYmU2ZTIyNzM1MTdlMzRlMzc1NQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDAwMzAzNTc2YjEyYWEzM2Q0YjMzNGUzNTRhOWY5YWQ2Ng==`

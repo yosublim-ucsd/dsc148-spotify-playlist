@@ -4,7 +4,7 @@
 
 > driving in a convertible to Remi's new song / pulling over for a cry to Adrianne's
 
-2,674 songs - 5 day 23 hr 56 min
+2,676 songs - 6 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -850,7 +850,8 @@
 | [Freakin](https://open.spotify.com/track/40tmc5Wjz7tmvtqmspCSp3) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Antennae](https://open.spotify.com/album/5wpk8gismVSMMqfpoPwtLA) | 3:10 | 2023-06-23 | 2023-08-26 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-12-22 | 2022-05-07 |
 | [Freaky \(RGB\)](https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Freaky \(RGB\)](https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX) | 1:49 | 2022-01-21 | 2022-03-11 |
-| [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-03-21 |  |
+| [Free Treasure](https://open.spotify.com/track/3zGhR60NOVSgtzNEQNcHav) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 3:35 | 2024-03-21 |  |
+| [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-03-21 | 2024-03-23 |
 | [Freezing](https://open.spotify.com/track/1k9MIdBQbsEyUZmeYD16gk) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Freezing](https://open.spotify.com/album/2jaC3frsSh9AZ84E9tFXPU) | 2:57 | 2020-06-20 | 2021-06-05 |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 3:40 | 2020-12-23 | 2021-06-18 |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 | 2023-06-23 | 2023-07-01 |
@@ -2366,6 +2367,7 @@
 | [The Promise](https://open.spotify.com/track/4VWtDv7ASGkNGfPjTI8fPw) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Scout](https://open.spotify.com/album/6gZWk2mfNHb7jxZhlGTBnQ) | 3:45 | 2022-02-11 | 2022-03-18 |
 | [The Promise](https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL) | [When In Rome](https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy) | [When In Rome](https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x) | 3:40 | 2022-10-28 | 2023-03-22 |
 | [The Story](https://open.spotify.com/track/1aQqtnz30d2vAG54XFNpu0) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [The Story](https://open.spotify.com/album/6zybPkFNyra328HkPyDOex) | 4:05 | 2020-01-14 | 2020-03-20 |
+| [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft) | 2:37 | 2024-03-22 |  |
 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 | 2023-07-18 | 2023-08-19 |
 | [The Weekend \- Funk Wav Remix](https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [The Weekend \(Funk Wav Remix\)](https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr) | 2:51 | 2019-10-11 | 2019-11-14 |
 | [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 | 2022-11-16 | 2022-12-15 |
@@ -2498,7 +2500,7 @@
 | [vinegar](https://open.spotify.com/track/35jHNbOE3tKh8DW0CMi1ck) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [vinegar](https://open.spotify.com/album/5aaVC5e0OslOtUwx8bUwv9) | 3:16 | 2022-01-21 | 2022-04-09 |
 | [Vintage](https://open.spotify.com/track/3k7Ih6fxF30qtvsgWPopvn) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Vintage](https://open.spotify.com/album/3m5bt0XOKIh1SfbycLiDfk) | 2:35 | 2021-01-29 | 2022-03-11 |
 | [Virtual Aerobics](https://open.spotify.com/track/1fpGZJnHXFEbq8UIWIKmHH) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Virtual Aerobics](https://open.spotify.com/album/70QRj2miXV0LTLG887MgTp) | 2:02 | 2020-10-03 | 2021-03-06 |
-| [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-02-29 |  |
+| [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-02-29 | 2024-03-23 |
 | [Voyage](https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage](https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE) | 3:06 | 2021-12-22 | 2022-01-22 |
 | [Wait for Me](https://open.spotify.com/track/2DWSEs2sT3jvlrZMUtHTUY) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Wait for Me](https://open.spotify.com/album/7LAkAB1VZOBGFBxY9knom4) | 2:46 | 2023-07-28 | 2023-08-26 |
 | [Wait for Something Better](https://open.spotify.com/track/1I9CYgnoP99PAgTqkPPO4o) | [PROM](https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb) | [Wait for Something Better](https://open.spotify.com/album/12tDYPpSTOkN4QjPKOeIDQ) | 3:12 | 2022-07-15 | 2022-10-26 |

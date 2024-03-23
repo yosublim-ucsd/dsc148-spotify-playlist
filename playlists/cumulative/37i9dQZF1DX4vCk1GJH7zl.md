@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bon Jovi
 
-123 songs - 7 hr 30 min
+125 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Aonde Quer Que Eu Vá](https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Arquivo II 1991 \- 2000](https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6) | 4:17 | 2023-07-21 |  |
 | [Apocalipse](https://open.spotify.com/track/25w9qSdYRe5ir9pBaUzKbV) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq), [Bea Duarte](https://open.spotify.com/artist/5LwfyJYVJBnqzbueSiWQqe) | [antiSOCIAL](https://open.spotify.com/album/0cbkcQlSKTraQDauipPfiD) | 2:39 | 2024-03-15 |  |
 | [Assunto Nós Dois](https://open.spotify.com/track/1YjxRhcSs3W3lglTFJQbeg) | [Luca Latorre](https://open.spotify.com/artist/2gaH37knCSLMyqd0owKdP6) | [Assunto Nós Dois](https://open.spotify.com/album/45EnE3sSlQMHqtBPpsQNln) | 2:57 | 2023-07-21 |  |
-| [Bate Coração](https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk), [Lucas Sfair](https://open.spotify.com/artist/7shKx1EfxkHU1nDqBzQQaq) | [Bate Coração](https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE) | 2:57 | 2023-07-21 |  |
+| [Bate Coração](https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk), [Lucas Sfair](https://open.spotify.com/artist/7shKx1EfxkHU1nDqBzQQaq) | [Bate Coração](https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE) | 2:57 | 2023-07-21 | 2024-03-23 |
 | [Beijos, Blues e Poesia](https://open.spotify.com/track/4WAhdM7KNEmezzmKwWsK5J) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Beijos, Blues e Poesia](https://open.spotify.com/album/0ILIY5R8PY4BXfOxhXaM8D) | 3:04 | 2023-07-21 |  |
 | [Birds and the Bees](https://open.spotify.com/track/31ulnxOHy0Ix3RwZ7kZYiq) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/7FIf3cBBy49WetC07pGOjs) | 4:14 | 2024-01-05 |  |
 | [Birds and the Bees](https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn) | 4:14 | 2023-08-25 | 2024-01-05 |
@@ -49,6 +49,7 @@
 | [Espetacular](https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ) | [Márcio Greyck](https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4) | [Espetacular](https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc) | 4:33 | 2023-07-21 |  |
 | [Estive com Stevie](https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Supernova](https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr) | 3:36 | 2023-11-17 |  |
 | [Eu Deixo](https://open.spotify.com/track/4kysCKNjDUK1WrSDdfzW2X) | [Tina Werneck](https://open.spotify.com/artist/0C2IIT80iQ6RnOu4bd2S6C) | [Eu Deixo](https://open.spotify.com/album/00gv0XAlY69dAePHdTNisw) | 4:14 | 2023-07-21 | 2023-09-09 |
+| [ex.ploda](https://open.spotify.com/track/7p1RZjnWapwed6oS2eRp6j) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [ex.ploda](https://open.spotify.com/album/2g8718FH49HgDoKeBQ3SyX) | 2:15 | 2024-03-22 |  |
 | [Fica um Pouco Mais](https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Fica um Pouco Mais](https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE) | 3:04 | 2023-07-21 |  |
 | [Hear Me Now \- Ao Vivo](https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Sex on the Beach \(Ao Vivo\)](https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5) | 3:12 | 2023-07-21 |  |
 | [Hoje eu não vim falar de Amor](https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Hoje eu não vim falar de Amor](https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7) | 3:48 | 2024-01-05 |  |
@@ -103,7 +104,7 @@
 | [Rua do Gasômetro](https://open.spotify.com/track/2IYnSM1Qdc5AKRoIUbAMaz) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Rua do Gasômetro](https://open.spotify.com/album/1uINhoxHdGsJeMREnGk4Px) | 3:39 | 2023-12-15 | 2024-03-16 |
 | [Se Você Quiser Voltar](https://open.spotify.com/track/0WCDkJYGEZfMKhVvEAsCeU) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ), [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Se Você Quiser Voltar](https://open.spotify.com/album/4Na3ea1iiGnAmWQTVDbnTg) | 3:24 | 2023-08-25 | 2023-09-30 |
 | [Seasons](https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Seasons](https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U) | 2:46 | 2023-08-18 | 2023-09-02 |
-| [SEDE](https://open.spotify.com/track/2dUsGbQRh5jSUaF4J8ct0E) | [Felipe Ramos](https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [SEDE](https://open.spotify.com/album/71ZI6Y8D4GNsYkmw3HGhBk) | 4:04 | 2024-02-23 |  |
+| [SEDE](https://open.spotify.com/track/2dUsGbQRh5jSUaF4J8ct0E) | [Felipe Ramos](https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [SEDE](https://open.spotify.com/album/71ZI6Y8D4GNsYkmw3HGhBk) | 4:04 | 2024-02-23 | 2024-03-23 |
 | [Sem Você](https://open.spotify.com/track/6nRByl6GE6VIKtyoaXD4cl) | [Rodrigo Santos](https://open.spotify.com/artist/0TnRF8LKVK3KDTJsshrD6q) | [Simples](https://open.spotify.com/album/40mBQmKPu6mGERoHndRbwB) | 4:14 | 2023-07-21 |  |
 | [Sete Cores do Meu Céu](https://open.spotify.com/track/1MOCZhEQZkLaQxd8VitPFi) | [Tina Werneck](https://open.spotify.com/artist/0C2IIT80iQ6RnOu4bd2S6C) | [Sete Cores do Meu Céu](https://open.spotify.com/album/0RkYUXmZYZA0BxXqVOI7X6) | 4:06 | 2023-07-21 | 2023-09-16 |
 | [Simplesmente](https://open.spotify.com/track/60m0V9vDxXMfBn9geBFOIn) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Simplesmente](https://open.spotify.com/album/3ac6zkBEQu4VBuEEZ6A5nZ) | 3:42 | 2023-07-21 |  |
@@ -129,6 +130,7 @@
 | [Vida Real](https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il) | [Esteban Tavares](https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o) | [Vida Real](https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE) | 3:50 | 2023-07-21 |  |
 | [Você Gosta Dela \(Versão Alternativa\)](https://open.spotify.com/track/7e4KJGvzSZqk2c83BarqDZ) | [Daparte](https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL) | [Docefuga](https://open.spotify.com/album/1FdOa6QJz3jyhFDnfzOMfO) | 2:39 | 2023-07-21 | 2024-03-16 |
 | [VOU ESTAR AQUI](https://open.spotify.com/track/68a7d2NiPRLsKaKZ5qPPSU) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Polaroid Sonora](https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb) | 4:16 | 2023-07-21 |  |
+| [Wake Me Up \- Ao Vivo](https://open.spotify.com/track/2iY03xBQP66ShlxLe6h70V) | [Dr\. Sin](https://open.spotify.com/artist/4YtYp2wFYIgdNsLWo6rM3D) | [Acustico Dr\. Sin 1 \(Ao Vivo\)](https://open.spotify.com/album/64pzulPMXejjXaT7OnDlXm) | 4:34 | 2024-03-22 |  |
 | [Wishbone](https://open.spotify.com/track/5kmyEZWbvN68yERmQq3PM5) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Wishbone](https://open.spotify.com/album/3epsVwCw6BGWKBa3kplHRr) | 2:52 | 2023-09-08 | 2023-10-14 |
 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Your Song Saved My Life \(From Sing 2\)](https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu) | 3:30 | 2023-07-21 |  |
 

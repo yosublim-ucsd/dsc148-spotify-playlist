@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1990s\. Cover: B\*Witched
 
-350 songs - 23 hr 51 min
+351 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [I Won't Let The Sun Go Down On Me \- 7" Original Radio](https://open.spotify.com/track/63anYuuPBLeU0CB52vZUAF) | [Robin Cook](https://open.spotify.com/artist/70N6WU2JYChGQTCWrdisae) | [Land Of Sunshine](https://open.spotify.com/album/6xMxxC7HrtAsRIRYMZwHjY) | 3:04 | 2021-09-08 | 2022-07-29 |
 | [I'm Every Woman](https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:45 | 2021-09-08 |  |
 | [I'm Outta Love \- Radio Edit](https://open.spotify.com/track/583xVl0Sbj93uU4ceixgU8) | [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [Pieces Of A Dream](https://open.spotify.com/album/5sLISkyWFgcOCxIooPYfT4) | 4:05 | 2021-03-22 | 2022-07-29 |
+| [I'm Too Sexy](https://open.spotify.com/track/1MQrMQwfqjgOjXEUaN9AMd) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Up \(Special Edition\)](https://open.spotify.com/album/0GeBgrCuLqz4NKMiv1aRez) | 2:50 | 2024-03-15 |  |
 | [I'm Too Sexy](https://open.spotify.com/track/2WElktskrNJEwgpp5Vouxk) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Up](https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36) | 2:50 | 2021-03-22 | 2023-07-20 |
 | [I'm Too Sexy](https://open.spotify.com/track/76gbXfMpFoZJGkPgxgzvFt) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Hits!](https://open.spotify.com/album/3GKFt0Fc0iW0OoTt4qHoV2) | 2:51 | 2022-10-11 | 2024-03-02 |
 | [I'm Your Baby Tonight](https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 4:59 | 2022-10-11 |  |
@@ -305,7 +306,7 @@
 | [Think About the Way](https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:20 | 2021-03-22 |  |
 | [Think of You \- Radio Edit](https://open.spotify.com/track/4cjHy6TwppuNZ05yrP8Fic) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Think of You \- Single](https://open.spotify.com/album/13pJUleJn57jkWQFZ3b6lj) | 4:03 | 2021-09-08 | 2022-07-29 |
 | [Thinking About Your Love](https://open.spotify.com/track/1UFU3B9vwxqVitwSnS5wg0) | [Kenny Thomas](https://open.spotify.com/artist/5fYju5a87cW9osqsxH0JwB) | [Voices](https://open.spotify.com/album/67FR5JTVfxzq0PVTbW7Yrz) | 4:52 | 2021-09-08 | 2022-07-21 |
-| [This Is How We Do It](https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ) | 4:37 | 2021-03-22 |  |
+| [This Is How We Do It](https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ) | 4:37 | 2021-03-22 | 2024-03-23 |
 | [This Is The Way \- Radio Edit](https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo) | [E\-Type](https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD) | [Made In Sweden](https://open.spotify.com/album/6HaxLemmf6z0xt74wnX8bA) | 3:55 | 2021-03-22 | 2022-07-29 |
 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 | 2021-09-08 |  |
 | [Together Again](https://open.spotify.com/track/1GrikfH0jDejDvrxo84n4P) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 5:01 | 2021-09-08 | 2022-10-09 |

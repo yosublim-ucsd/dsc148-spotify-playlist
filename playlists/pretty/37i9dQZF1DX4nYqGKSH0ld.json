@@ -1,12 +1,12 @@
 {
   "description": "Get ready for good feels and fireworks!",
-  "num_followers": 160762,
+  "num_followers": 160754,
   "original_name": "4th of July Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzI4ODBkOWMzNmJkMGVmZDI2ZWFjYTZiZWQ4Yzk3MWY4YjkxZmEy",
+  "snapshot_id": "MCw4NzI2MGFjMjM2NjVkN2FhYzFmNzQ5NTA1YzNiYzdjZGM5ZmY0OGMw",
   "tracks": [
     {
       "added_at": "2023-07-03 01:56:32",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 216053,
-      "name": "Summer Of '69",
-      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 190626,
       "name": "You Make My Dreams (Come True)",
       "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 216053,
+      "name": "Summer Of '69",
+      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
       "added_at": "2023-07-03 01:56:32",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
+        "name": "September (sped up + slowed)",
+        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 216022,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
-        "name": "September (sped up + slowed)",
-        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 216022,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
     },
     {
       "added_at": "2023-07-03 01:56:32",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "When It Rains It Pours",
-      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "When It Rains It Pours",
+      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
     },
     {
       "added_at": "2023-07-03 01:56:32",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 237546,
       "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
       "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2023-07-03 01:56:32",

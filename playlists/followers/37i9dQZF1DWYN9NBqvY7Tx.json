@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 1060316,
+  "2024-03-23": 1060610,
   "date_first_scraped": "2022-05-09",
   "description": "Dance, bass, EDM, trap, phonk: the perfect gaming mix.",
   "name": "Ultra Gaming",
@@ -1737,6 +1737,28 @@
       "duration_ms": 139200,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
+    },
+    {
+      "album": {
+        "name": "CAN YOU SEE ME?",
+        "url": "https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Digital Ethos",
+          "url": "https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222219,
+      "name": "CUT ME OUT",
+      "url": "https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj"
     },
     {
       "album": {
@@ -8835,7 +8857,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 135400,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/4BvBTmceA5V1pDuaC3RabS"

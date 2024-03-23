@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-117 songs - 8 hr 9 min
+120 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Ecos](https://open.spotify.com/track/1N4qe1XiNVPZy9GHONsL0r) | [Mono Zen](https://open.spotify.com/artist/2yYgYmwntCDXtbdhIRyDtE) | [Gustavo Stereo](https://open.spotify.com/album/5rk5uZqutmQIJUO4Zm4aJV) | 5:15 | 2024-01-29 |  |
 | [El Rito \- Remasterizado 2007](https://open.spotify.com/track/61Hl37BKbYcSelJ3Sd8oU0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 6:06 | 2024-01-29 |  |
 | [El Tiempo Es Dinero \- Remasterizado 2007](https://open.spotify.com/track/001YQlnDSduXd5LgBd66gT) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:57 | 2024-01-29 |  |
-| [Ella Uso Mi Cabeza Como Un Revolver \- MTV Unplugged](https://open.spotify.com/track/00TU7szqwBrxWTd9SO7ihK) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 6:04 | 2024-01-29 |  |
+| [Ella Uso Mi Cabeza Como Un Revolver \- MTV Unplugged](https://open.spotify.com/track/00TU7szqwBrxWTd9SO7ihK) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 6:04 | 2024-01-29 | 2024-03-23 |
+| [Ella Usó Mi Cabeza Como Un Revólver \- Remasterizado 2007](https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 4:29 | 2024-03-22 |  |
 | [Ella Usó, Un Misil \(SEP7IMO DIA\)](https://open.spotify.com/track/1tgb1PGMFHkMIOuwX7gGKv) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [SEP7IMO DIA](https://open.spotify.com/album/0HUncweJW3LTO0YOvOEX4a) | 1:29 | 2024-01-29 |  |
 | [En Camino \- Remasterizado 2007](https://open.spotify.com/track/4EO3RjlXJbTUQdDnRGlcGa) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:29 | 2024-01-29 |  |
 | [En El Borde \- Remasterizado 2007](https://open.spotify.com/track/4WOWzyHpoGvlve7qOQiXHf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 4:42 | 2024-01-29 |  |
@@ -83,6 +84,7 @@
 | [Observándonos \(Satélites\) \- Remasterizado 2007](https://open.spotify.com/track/2M1EWNXyKRnWHuoU2hk7Rq) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:06 | 2024-01-29 |  |
 | [Ojo de la Tormenta \(Homenaje a Soda Stereo\)](https://open.spotify.com/track/4EC78sKFDaSzfQtH3brrHg) | [Los Outsaiders](https://open.spotify.com/artist/2gdeNtgtKrerQPPSjUeoA5) | [Ojo de la Tormenta \(Homenaje a Soda Stereo\)](https://open.spotify.com/album/1RdIDQn7L0iIATbndVzfD2) | 4:07 | 2024-01-29 |  |
 | [Otra Piel](https://open.spotify.com/track/0f8UKGM3m5ZdxgF46vaikm) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 4:40 | 2024-01-29 |  |
+| [Paseando Por Roma \- Remasterizado 2007](https://open.spotify.com/track/7Dk43uYcLammTOb4kS7Q9g) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 3:34 | 2024-03-22 |  |
 | [Paseo Inmoral](https://open.spotify.com/track/6VH153hUoK92d0cqsf5l9i) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 5:31 | 2024-01-29 |  |
 | [Perdonar Es Divino](https://open.spotify.com/track/2SL56OF774pYUz8cWN6Jg0) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 5:17 | 2024-01-29 |  |
 | [Persiana Americana](https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:50 | 2024-01-29 |  |
@@ -99,6 +101,7 @@
 | [Si No Fuera Por..\. \- Remasterizado 2007](https://open.spotify.com/track/5fu5vl7owT5ny0ry2Bema2) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:27 | 2024-01-29 |  |
 | [Signos](https://open.spotify.com/track/5f6FKVoc3mfhxImJBqbrPJ) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 5:16 | 2024-01-29 |  |
 | [Sobredosis De T.V.](https://open.spotify.com/track/07J7TC2stMffmg5FM3lGQC) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:10 | 2024-01-29 |  |
+| [Sudestada](https://open.spotify.com/track/4Furx239MHnKbwwDMtDVWG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 4:31 | 2024-03-22 |  |
 | [Sueles Dejarme Solo](https://open.spotify.com/track/7qz2gGwfzqREato14g4tk4) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 3:48 | 2024-01-29 |  |
 | [Sweet Sahumerio \- Remasterizado 2007](https://open.spotify.com/track/0GcU3ZhlnF5k3vKjqPRifa) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 6:03 | 2024-01-29 |  |
 | [Tabu](https://open.spotify.com/track/5NHyNFYxLRifc2kI1FqDUP) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:48 | 2024-03-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,686 likes - 100 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,825 likes - 100 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,21 +74,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 64 | [Un Sueño Y Nada Mas](https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX) | [Grupo Polo Montañes](https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC) | [Un Sueño Y Nada Más](https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0) | 4:38 |
 | 65 | [Tu Con El](https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 5:03 |
 | 66 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
-| 67 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 |
+| 67 | [El Jardín Prohibido](https://open.spotify.com/track/45LErG3Sq9sRdzQC8WSq3x) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Los Años Dorados](https://open.spotify.com/album/3AH0wI0DQ5b1JSd8eTuvdf) | 5:30 |
 | 68 | [Cara de Niño](https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP) | 4:55 |
-| 69 | [El Jardín Prohibido](https://open.spotify.com/track/45LErG3Sq9sRdzQC8WSq3x) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Los Años Dorados](https://open.spotify.com/album/3AH0wI0DQ5b1JSd8eTuvdf) | 5:30 |
-| 70 | [La Cita](https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Galy Galiano 30 Años](https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy) | 7:18 |
-| 71 | [Tu Me Quemas](https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 4:59 |
+| 69 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 |
+| 70 | [Tu Me Quemas](https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 4:59 |
+| 71 | [La Cita](https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Galy Galiano 30 Años](https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy) | 7:18 |
 | 72 | [Nunca Te Diré Adiós](https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO) | [Max Torres](https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF) | [Nunca Te Diré Adiós](https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7) | 4:24 |
 | 73 | [De Punta a Punta](https://open.spotify.com/track/21SlXIY6FZw7RcMqLRm901) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Grandes Éxitos Grupo Caneo, Vol\. 1](https://open.spotify.com/album/3j4M5k6i3DA7fxfHXasvSp) | 4:21 |
 | 74 | [Maria Teresa y Danilo](https://open.spotify.com/track/5D1P4P7IxymGprWdbaq8N4) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Siempre Charanga](https://open.spotify.com/album/5LRCh0vhclTfXIwnPaU7Az) | 4:47 |
 | 75 | [Deseándote](https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Mas Grande Que Nunca](https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz) | 4:41 |
-| 76 | [Quien Entiende Este Amor](https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Serie Platino](https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt) | 5:03 |
-| 77 | [Así Fue](https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9) | [NELSON DÍAZ Y LA CONSTELACIÓN](https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO) | [Nelson Díaz y la Constelación](https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi) | 4:27 |
-| 78 | [Mi Cuerpo No Esta Hecho de Metal](https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6) | [Los Titanes de la Salsa](https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi) | [Mi Cuerpo No Esta Hecho de Metal](https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0) | 4:39 |
-| 79 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
-| 80 | [La Rebelion](https://open.spotify.com/track/6GvKKrKjFPbS3t8h8asMx7) | [racheasf](https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B), [417se](https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s), [firatsamsi](https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX) | [La Rebelion](https://open.spotify.com/album/5ZoirXVZUdjIMzxlKfggVC) | 6:16 |
-| 81 | [Vete Ya](https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:53 |
+| 76 | [Así Fue](https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9) | [NELSON DÍAZ Y LA CONSTELACIÓN](https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO) | [Nelson Díaz y la Constelación](https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi) | 4:27 |
+| 77 | [Mi Cuerpo No Esta Hecho de Metal](https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6) | [Los Titanes de la Salsa](https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi) | [Mi Cuerpo No Esta Hecho de Metal](https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0) | 4:39 |
+| 78 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
+| 79 | [La Rebelion](https://open.spotify.com/track/6GvKKrKjFPbS3t8h8asMx7) | [racheasf](https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B), [417se](https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s), [firatsamsi](https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX) | [La Rebelion](https://open.spotify.com/album/5ZoirXVZUdjIMzxlKfggVC) | 6:16 |
+| 80 | [Vete Ya](https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:53 |
+| 81 | [Quien Entiende Este Amor](https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Serie Platino](https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt) | 5:03 |
 | 82 | [Fuego En El 23](https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv), [Luigui Gomez](https://open.spotify.com/artist/7iY8Y06Ta3wYvBpH0fTHVQ), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn) | [Fuego en el 23!](https://open.spotify.com/album/0c3F6OlWKJnkRTb78nswUt) | 4:44 |
 | 83 | [Tú Me Haces Falta](https://open.spotify.com/track/36831vgWmRrE5GaiwgjIwJ) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:41 |
 | 84 | [A Puro Dolor](https://open.spotify.com/track/3BmwNuqx9pCqjLplOVNBLY) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 99 | [Por Retenerte](https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:51 |
 | 100 | [Mascaras](https://open.spotify.com/track/7zKD27zr6GGvmnftzyze8O) | [El Inspector De La Salsa](https://open.spotify.com/artist/3jakCpqlxelvHkdvhPWl2p) | [Salsa Estelar](https://open.spotify.com/album/00TVXvhvENeaYgeHGzH157) | 5:26 |
 
-Snapshot ID: `MCxjODEwMDFlMDkzNzE2Y2NlMTA3YzE3ZWM3MDlmZmIzMDZiN2QwY2Ux`
+Snapshot ID: `MCxlNWU0ODZiOTFiMjU2YThjOTkxMDU2NWMzNmUyMzQwZDQyZmUwNzhi`

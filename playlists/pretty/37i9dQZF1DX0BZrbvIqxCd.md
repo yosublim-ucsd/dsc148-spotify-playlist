@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,439 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,457 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 34 | [Never Fight A Man With A Perm](https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Joy as an Act of Resistance.](https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg) | 3:48 |
 | 35 | [She's Kerosene](https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:50 |
 | 36 | [Fuck Authority](https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 3:16 |
-| 37 | [Chip](https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:14 |
-| 38 | [Story of My Life](https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 5:46 |
+| 37 | [Story of My Life](https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 5:46 |
+| 38 | [Chip](https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:14 |
 | 39 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
 | 40 | [Out For Blood](https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:36 |
 | 41 | [Bro Hymn \- 2005 Remaster](https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 3:00 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 68 | [Gasoline](https://open.spotify.com/track/1WhUguMtslKpiZqEbBpe4I) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Gasoline](https://open.spotify.com/album/1GCRpa2J7QPdwSRRWdKUNr) | 3:20 |
 | 69 | [You’d Be Paranoid Too \(If Everyone Was Out To Get You\)](https://open.spotify.com/track/02Lki714RZrfUS65pzJ2lj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Greatest Hits](https://open.spotify.com/album/6Em0b24eKa7vVf6sUYxOdI) | 2:31 |
 | 70 | [Wild World](https://open.spotify.com/track/0SoeiawkEYUJBtQce99lQd) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Blow in the Wind](https://open.spotify.com/album/23r629pCYWFwsYCFVoMp8m) | 2:30 |
-| 71 | [Mindreader](https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Mindreader](https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ) | 2:53 |
+| 71 | [Broken Dreams, Inc.](https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:53 |
 | 72 | [Happy Judgement Day](https://open.spotify.com/track/4GHW4tzEf6OBIoyewdBnZX) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:33 |
-| 73 | [Broken Dreams, Inc.](https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:53 |
+| 73 | [Mindreader](https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Mindreader](https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ) | 2:53 |
 | 74 | [Blame It On My Youth](https://open.spotify.com/track/5vGtrfeMjb03aDHGDaIakG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:05 |
 | 75 | [Dakota](https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Everything Is Temporary](https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb) | 3:03 |
 | 76 | [Moving Boxes](https://open.spotify.com/track/0bP8VDZQ3eXgHofaXT88Cr) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Love and Loathing](https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 99 | [Strange Love](https://open.spotify.com/track/2OuxIf5TyuQfvZ95c1Rzji) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/0mz5vJ1DeMqGlafBGuqUPE) | 2:31 |
 | 100 | [Dead!](https://open.spotify.com/track/3262RRKqFC1oJXFwCMqgM0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:15 |
 
-Snapshot ID: `MCw1MWM3MGMyMGE1ZGY2MDNhMjYxNDYwNmU5NWNjYTAyOTE1MDhjZGQ1`
+Snapshot ID: `MCw1NWJiOTUyMTA1MzgzZTRkYTgxMTYwZTFmZDcyODU0ZjVjYTVhNGM2`

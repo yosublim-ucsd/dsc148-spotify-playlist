@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 
 > "I am never drinking again"
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,714 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,813 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 15 | [Amber](https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:31 |
 | 16 | [Nobody Praying For Me](https://open.spotify.com/track/3bq8WiQrEXMwPAibYs7tpu) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Isolate And Medicate](https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk) | 3:17 |
 | 17 | [Shadow of the Day](https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 4:49 |
-| 18 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 |
+| 18 | [Lonely](https://open.spotify.com/track/4jXbcY2ulVT7MOPdN8nR50) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [The Bastards](https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl) | 3:06 |
 | 19 | [Undisclosed Desires](https://open.spotify.com/track/0It6VJoMAare1zdV2wxqZq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 3:55 |
-| 20 | [Lonely](https://open.spotify.com/track/4jXbcY2ulVT7MOPdN8nR50) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [The Bastards](https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl) | 3:06 |
+| 20 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 |
 | 21 | [Stop Crying Your Heart Out](https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 5:03 |
 | 22 | [I Will Follow You into the Dark](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:09 |
 | 23 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 69 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Don't Forget Where You Came From](https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u) | 3:30 |
 | 70 | [Oversized](https://open.spotify.com/track/4YM6Ujbv89VpprqasAXcwS) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:37 |
 | 71 | [Re\-arrange](https://open.spotify.com/track/3VAvS6hbvz0mjFT1TmLNdd) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Ellipsis \(Deluxe\)](https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd) | 3:37 |
-| 72 | [Blackout](https://open.spotify.com/track/6p1KkKTYiuou500RtWnWmU) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 4:22 |
-| 73 | [Don't Change](https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:55 |
+| 72 | [Don't Change](https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:55 |
+| 73 | [Blackout](https://open.spotify.com/track/6p1KkKTYiuou500RtWnWmU) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 4:22 |
 | 74 | [If I Get High](https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Track by Track\)](https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk) | 3:26 |
 | 75 | [Just the Way I'm Feeling](https://open.spotify.com/track/08DO757dzPTgeHSwOQvnIS) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Comfort in Sound](https://open.spotify.com/album/75qYHeS22EEn0neCZZ7kng) | 4:23 |
 | 76 | [People Live Here](https://open.spotify.com/track/3YsbKbo8m5Uv5zAG2hqOrN) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 4:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 79 | [Fever Dream](https://open.spotify.com/track/3vQYmVKygsJbFXbbzO6bRm) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:54 |
 | 80 | [Ain't It The Life](https://open.spotify.com/track/2ifYUfvMNbXQDPJEyk68rP) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:14 |
 
-Snapshot ID: `MCw5N2UwZjk5YmNmOGM2ZThhZDFkZDQ0ZmY4YTdmMDI1MGI0OWU4YjJk`
+Snapshot ID: `MCw1OTJiMzAyOGE1MjExNDQzZWRiMzJjODRhYzhlNTA2MjdmYjAzYmUw`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Subtronics",
+  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Blanke",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -944,7 +944,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 148800,
       "name": "Back For More",
       "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
@@ -4551,6 +4551,28 @@
     },
     {
       "album": {
+        "name": "Digital Underground",
+        "url": "https://open.spotify.com/album/56FFaTKemwqcopyh4bXub2"
+      },
+      "artists": [
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        },
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "End Game",
+      "url": "https://open.spotify.com/track/0t8hMmAC8tGfVCv0PLZxC4"
+    },
+    {
+      "album": {
         "name": "End Of The World",
         "url": "https://open.spotify.com/album/5bDqrXW41FMv3f2XWkp0fW"
       },
@@ -4700,7 +4722,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 202741,
       "name": "ESCARGOT",
       "url": "https://open.spotify.com/track/1ZbA2N0ryptdKbykwia2MB"
@@ -6912,7 +6934,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
@@ -9702,6 +9724,32 @@
       "duration_ms": 156800,
       "name": "Moods",
       "url": "https://open.spotify.com/track/0oEi7MQ5smqE9ahj75MjJR"
+    },
+    {
+      "album": {
+        "name": "MOON VISION",
+        "url": "https://open.spotify.com/album/10VG5RizUBxlN2qun3xGaO"
+      },
+      "artists": [
+        {
+          "name": "Eptic",
+          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
+        },
+        {
+          "name": "UBUR",
+          "url": "https://open.spotify.com/artist/2m8lZUuPm2BLQ2c8gtIAV6"
+        },
+        {
+          "name": "Neonix",
+          "url": "https://open.spotify.com/artist/3dvdjsMgKeEDUGiKxZDFME"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "MOON VISION",
+      "url": "https://open.spotify.com/track/79rm5EauwnHFiroUBKIRy6"
     },
     {
       "album": {
@@ -12646,7 +12694,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 146571,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
@@ -13032,7 +13080,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 151120,
       "name": "Saying",
       "url": "https://open.spotify.com/track/1tsYRciGXiKKjSSPls3s7C"
@@ -14634,7 +14682,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 154285,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
@@ -15165,6 +15213,28 @@
     },
     {
       "album": {
+        "name": "The Stars Are Calling Me",
+        "url": "https://open.spotify.com/album/6OWoTpAhlW4NqsuNfiLmMk"
+      },
+      "artists": [
+        {
+          "name": "Zingara",
+          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
+        },
+        {
+          "name": "Jessica Chertock",
+          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214230,
+      "name": "The Stars Are Calling Me",
+      "url": "https://open.spotify.com/track/3EO0bWFKVFn6aDkg0l00we"
+    },
+    {
+      "album": {
         "name": "The Uprising",
         "url": "https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0"
       },
@@ -15367,6 +15437,28 @@
     },
     {
       "album": {
+        "name": "Throw It Back",
+        "url": "https://open.spotify.com/album/3eKEOVPOf9zuTO66tszH9x"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140142,
+      "name": "Throw It Back",
+      "url": "https://open.spotify.com/track/6mjAMJjMb5FUvRFOyBLeKv"
+    },
+    {
+      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/6F39Vxaf4xtK02FL8DQ2Vj"
       },
@@ -15478,6 +15570,28 @@
       "duration_ms": 210000,
       "name": "Titans",
       "url": "https://open.spotify.com/track/0StQdn3iO5vdHFH8ZR6Cuo"
+    },
+    {
+      "album": {
+        "name": "TNXBYE",
+        "url": "https://open.spotify.com/album/30NgRGle9KJMeSVU0olBOS"
+      },
+      "artists": [
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        },
+        {
+          "name": "Altea",
+          "url": "https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "TNXBYE",
+      "url": "https://open.spotify.com/track/2CDOF13gB1471f3YCp0pix"
     },
     {
       "album": {
@@ -15804,6 +15918,28 @@
       "duration_ms": 217000,
       "name": "Tums",
       "url": "https://open.spotify.com/track/00HG0BYPrRQQ5S7HVhVNSy"
+    },
+    {
+      "album": {
+        "name": "Emergence",
+        "url": "https://open.spotify.com/album/1FufCHcrLgdogsuq7JVsxh"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Turmoil",
+      "url": "https://open.spotify.com/track/2oJxVoQI9QxXRt8EYN8mEA"
     },
     {
       "album": {

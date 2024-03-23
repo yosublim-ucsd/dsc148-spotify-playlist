@@ -4,7 +4,7 @@
 
 > ¡Rolas pa' sacar las chelas y el tequila!
 
-507 songs - 1 day 3 hr 13 min
+508 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Después de Ti, ¿Quién?](https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 3:54 | 2022-05-20 | 2022-08-06 |
 | [Después de Ti, ¿Quién?](https://open.spotify.com/track/2F7jxP3bX0zUxDuGzSjcsM) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/0XQIEnBFAUvoYyW6V1Ph6j) | 3:56 | 2022-05-20 | 2022-07-15 |
 | [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 | 2022-05-20 | 2022-08-06 |
+| [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/2VhYFNgH2oNn4N92YGwLnu) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/4YT0dtOM9IDdAfFONKmazN) | 1:53 | 2023-12-21 |  |
 | [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 | 2023-03-17 | 2024-03-22 |
 | [Dile a Tu Orgullo \(En Vivo\)](https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Dile a Tu Orgullo \(En Vivo\)](https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf) | 3:46 | 2022-12-24 |  |
 | [Disculpe Usted](https://open.spotify.com/track/0uYmSZoLXmxBkvsH4jGQRY) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Más Exitos Con El Shaka](https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO) | 3:00 | 2022-05-20 | 2022-08-06 |
@@ -158,7 +159,7 @@
 | [El Diablo en una Botella](https://open.spotify.com/track/06Ag46XtTh7tej1R8INHAK) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Chiquilla Hermosa](https://open.spotify.com/album/5xaiMSDAGhq2W6UuOqoXZ7) | 3:13 | 2022-05-20 | 2022-08-06 |
 | [El Dinero Los Cambio](https://open.spotify.com/track/4kgZoTVXtWLcDgs0M5Coiz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Dinero Los Cambio](https://open.spotify.com/album/5qVzF9aMHohPPTb2wO6gh4) | 3:04 | 2022-05-20 | 2023-01-01 |
 | [El Disgusto](https://open.spotify.com/track/4iqtAVs3kzqqPCri14en3D) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 2:27 | 2022-05-20 | 2023-10-07 |
-| [El Doble R](https://open.spotify.com/track/5r1heGQVU9GLgwS4iiRInO) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [6 Tragos](https://open.spotify.com/album/7C4RdZNSEk3fnfjh5vD1jt) | 2:33 | 2022-10-21 |  |
+| [El Doble R](https://open.spotify.com/track/5r1heGQVU9GLgwS4iiRInO) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [6 Tragos](https://open.spotify.com/album/7C4RdZNSEk3fnfjh5vD1jt) | 2:33 | 2022-10-21 | 2024-03-23 |
 | [El Doctor](https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 3:55 | 2022-05-20 | 2022-08-06 |
 | [El Doctor](https://open.spotify.com/track/4Eki5zNlMHuBg2IDzNUw5C) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/3xsItvs6hmfFRhukjRjdMt) | 3:55 | 2022-05-20 | 2022-07-23 |
 | [El Dolor De Un Padre](https://open.spotify.com/track/2yNs1b9zHRLJGitOGXEijK) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jefe De Jefes](https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH) | 3:37 | 2022-05-20 | 2022-10-15 |

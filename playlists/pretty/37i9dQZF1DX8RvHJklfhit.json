@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 176507,
+  "num_followers": 176546,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjBhMWNjNTQzZDU2Y2QwMjZlODJlYWQ0YzY5ODZhOGFjYzk3NzAz",
+  "snapshot_id": "MCxhZmVlZTY1MjkyYjI4OGU3ZTZhYzczNDA2NTk4MWM4YjYzNDhmNGVj",
   "tracks": [
     {
       "added_at": "2023-10-12 20:02:07",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Algo Es Mejor",
-        "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Algo Es Mejor",
-      "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Destellos",
         "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 237786,
       "name": "Popscuro",
       "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Algo Es Mejor",
+        "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Algo Es Mejor",
+      "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "\u00c9pocas",
-        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 221853,
-      "name": "\u00c9pocas",
-      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Cycles of Existential Rhyme",
         "url": "https://open.spotify.com/album/5Jm8y8nnjMIUrsxZ6KjFe3"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 250073,
       "name": "Malas Amistades",
       "url": "https://open.spotify.com/track/1fVVT89PhHDh9COdU5DB9B"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "\u00c9pocas",
+        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "\u00c9pocas",
+      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "El Invento",
-        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Kinky (Remastered)",
         "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 261813,
       "name": "Ejercicio #16 - Remastered",
       "url": "https://open.spotify.com/track/1zIEjkEd2awwjVTxqPPecY"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Musica Para Despues De Almuerzo",
-        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
-      },
-      "artists": [
-        {
-          "name": "Bitman & Roban",
-          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Despues De Almuerzo Parte 3",
-      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "EP I",
         "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 137746,
       "name": "Sono",
       "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Musica Para Despues De Almuerzo",
+        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
+      },
+      "artists": [
+        {
+          "name": "Bitman & Roban",
+          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Despues De Almuerzo Parte 3",
+      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Ag\u00fcita",
-        "url": "https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH"
+        "name": "NTE",
+        "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
       },
       "artists": [
         {
-          "name": "Gabriel Garz\u00f3n-Montano",
-          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 221877,
-      "name": "Someone",
-      "url": "https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb"
+      "duration_ms": 171807,
+      "name": "NTE",
+      "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Ag\u00fcita",
+        "url": "https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Garz\u00f3n-Montano",
+          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        }
+      ],
+      "duration_ms": 221877,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Estereomance",
         "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 255597,
       "name": "Dung Ding Dang",
       "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Nefertiti",
-        "url": "https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh"
-      },
-      "artists": [
-        {
-          "name": "Protistas",
-          "url": "https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "En Mis Genes",
-      "url": "https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW"
     }
   ],
   "unique_name": "Latin Indie Classics",

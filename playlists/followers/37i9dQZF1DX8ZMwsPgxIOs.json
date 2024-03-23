@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 122044,
+  "2024-03-23": 122097,
   "date_first_scraped": "2022-04-20",
-  "description": "Techno is a state of mind. Cover: Amelie Lens",
+  "description": "Techno is a state of mind. Cover: Daniel Avery",
   "name": "Techno State",
   "tracks": [
     {
@@ -792,6 +792,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223248,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji"
+    },
+    {
+      "album": {
         "name": "Bricks EP",
         "url": "https://open.spotify.com/album/4xeUF0jCtNurMrL3IPzxKO"
       },
@@ -919,6 +937,24 @@
       "duration_ms": 142344,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/0mkDHueaGm3zs0QJpmSe1g"
+    },
+    {
+      "album": {
+        "name": "Can't Stop Us",
+        "url": "https://open.spotify.com/album/0ktULbw3Dt21ir0WiihNHw"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296585,
+      "name": "Can't Stop Us",
+      "url": "https://open.spotify.com/track/1qVj407cpLgP2OxuHkn0aI"
     },
     {
       "album": {
@@ -1747,7 +1783,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 332571,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6qyHSeCDJ1M2v8hZGfAN91"
@@ -2289,7 +2325,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 271127,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/3xKAmywnVUyT9mDQP7vwAj"
@@ -3682,6 +3718,24 @@
     },
     {
       "album": {
+        "name": "Nitro",
+        "url": "https://open.spotify.com/album/1Ulfcs34i5xWug4fiV0dtS"
+      },
+      "artists": [
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356470,
+      "name": "Nitro",
+      "url": "https://open.spotify.com/track/5Y1yjmrecSxXk9dt9hwvr2"
+    },
+    {
+      "album": {
         "name": "Mindset (The Rebuke Edits)",
         "url": "https://open.spotify.com/album/2cdMahFloyLuCPKzRDpfCw"
       },
@@ -3935,6 +3989,24 @@
       "duration_ms": 357710,
       "name": "Page 4",
       "url": "https://open.spotify.com/track/1xA7XZzinOriT0eHA39fYR"
+    },
+    {
+      "album": {
+        "name": "Talkative Tools",
+        "url": "https://open.spotify.com/album/6Dy0LX030MMk9qddeqlaeU"
+      },
+      "artists": [
+        {
+          "name": "Blame The Mono",
+          "url": "https://open.spotify.com/artist/22HdnwskoQ7Htj3pEMP5W7"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331435,
+      "name": "Pane Smasher",
+      "url": "https://open.spotify.com/track/7kWAyC8p8OMIh6vghGxXnU"
     },
     {
       "album": {
@@ -4562,6 +4634,24 @@
     },
     {
       "album": {
+        "name": "Wonderland / Running",
+        "url": "https://open.spotify.com/album/1GHtn56z5l7TGf7COQJgOo"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303845,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/23a8sZQihpGchTB8ordsLP"
+    },
+    {
+      "album": {
         "name": "Running Man",
         "url": "https://open.spotify.com/album/5f97vFiQaKNaPWJmm7wsCf"
       },
@@ -4813,7 +4903,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 220375,
       "name": "Simulator",
       "url": "https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA"
@@ -4937,6 +5027,24 @@
       "duration_ms": 203371,
       "name": "Speed Trials On Acid (feat. Dan Diamond)",
       "url": "https://open.spotify.com/track/3fdKyjUyrinYOZzf2788Tk"
+    },
+    {
+      "album": {
+        "name": "Spiritual",
+        "url": "https://open.spotify.com/album/3iffE7yucOjQQclqnpm8Gv"
+      },
+      "artists": [
+        {
+          "name": "Just_us",
+          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Spiritual",
+      "url": "https://open.spotify.com/track/68A1vnbgyfjs8v7Qbqm6D9"
     },
     {
       "album": {
@@ -5537,7 +5645,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 219692,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/5l8CvrROVRgFm2jhciguXF"
@@ -5929,7 +6037,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 164990,
       "name": "Walkin'",
       "url": "https://open.spotify.com/track/0lNn6sOzm96BzweoCGl6mG"
@@ -6323,7 +6431,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 354647,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/4zDG66t4CS5gD2WLq4K9JK"

@@ -1,12 +1,12 @@
 {
   "description": "Set the mood of your day with these happy songs.",
-  "num_followers": 1341031,
+  "num_followers": 1341088,
   "original_name": "Wake Up Happy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2VmNTQ0YzQyOTNmZmY1ODRlYTZjYTcwNWNjMTFlODYzMzBmNmNl",
+  "snapshot_id": "MCw4NzhmMmUxNDcyZDYzMjUxM2ZjYmY2ZGFmZTgyM2ZlZDMwMTFjNDRl",
   "tracks": [
     {
       "added_at": "2024-01-22 22:05:16",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-01-22 22:05:16",
       "album": {
-        "name": "Too Low For Zero",
-        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "I'm Still Standing",
-      "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
-    },
-    {
-      "added_at": "2024-01-22 22:05:16",
-      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
+    },
+    {
+      "added_at": "2024-01-22 22:05:16",
+      "album": {
+        "name": "Too Low For Zero",
+        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "I'm Still Standing",
+      "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
     },
     {
       "added_at": "2024-01-22 22:05:16",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-01-22 22:05:16",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 216053,
-      "name": "Summer Of '69",
-      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
-    },
-    {
-      "added_at": "2024-01-22 22:05:16",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 190626,
       "name": "You Make My Dreams (Come True)",
       "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
+    },
+    {
+      "added_at": "2024-01-22 22:05:16",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 216053,
+      "name": "Summer Of '69",
+      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
       "added_at": "2024-01-22 22:05:16",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-01-22 22:05:16",
       "album": {
-        "name": "Everything Is 4",
-        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 207719,
-      "name": "Want to Want Me",
-      "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
-    },
-    {
-      "added_at": "2024-01-22 22:05:16",
-      "album": {
         "name": "Too Rye Ay",
         "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2024-01-22 22:05:16",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+        "name": "Everything Is 4",
+        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
       },
       "artists": [
         {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         }
       ],
-      "duration_ms": 197960,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
+      "duration_ms": 207719,
+      "name": "Want to Want Me",
+      "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
     },
     {
       "added_at": "2024-01-22 22:05:16",
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-01-22 22:05:16",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
         }
       ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
     },
     {
       "added_at": "2024-01-22 22:05:16",
@@ -1427,6 +1411,22 @@
     {
       "added_at": "2024-01-22 22:05:16",
       "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "added_at": "2024-01-22 22:05:16",
+      "album": {
         "name": "The Midsummer Station",
         "url": "https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p"
       },
@@ -1443,6 +1443,22 @@
       "duration_ms": 205933,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
+    },
+    {
+      "added_at": "2024-01-22 22:05:16",
+      "album": {
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Semi-Charmed Life",
+      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
     },
     {
       "added_at": "2024-01-22 22:05:16",
@@ -1479,22 +1495,6 @@
       "duration_ms": 185586,
       "name": "Troublemaker (feat. Flo Rida)",
       "url": "https://open.spotify.com/track/6s8nHXTJVqFjXE4yVZPDHR"
-    },
-    {
-      "added_at": "2024-01-22 22:05:16",
-      "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
-      },
-      "artists": [
-        {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
-        }
-      ],
-      "duration_ms": 268360,
-      "name": "Semi-Charmed Life",
-      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
     },
     {
       "added_at": "2024-01-22 22:05:16",
@@ -1551,38 +1551,6 @@
     {
       "added_at": "2024-01-22 22:05:16",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
-    },
-    {
-      "added_at": "2024-01-22 22:05:16",
-      "album": {
-        "name": "RUNAWAY",
-        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 143264,
-      "name": "RUNAWAY",
-      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
-    },
-    {
-      "added_at": "2024-01-22 22:05:16",
-      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -1603,6 +1571,38 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
+    },
+    {
+      "added_at": "2024-01-22 22:05:16",
+      "album": {
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 143264,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
+    },
+    {
+      "added_at": "2024-01-22 22:05:16",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2024-01-22 22:05:16",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2024-01-22 22:05:16",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
-      },
-      "artists": [
-        {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 250626,
-      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
-    },
-    {
-      "added_at": "2024-01-22 22:05:16",
-      "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
@@ -1827,6 +1807,26 @@
     {
       "added_at": "2024-01-22 22:05:16",
       "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+    },
+    {
+      "added_at": "2024-01-22 22:05:16",
+      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
@@ -1839,22 +1839,6 @@
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s"
-    },
-    {
-      "added_at": "2024-01-22 22:05:16",
-      "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2024-01-22 22:05:16",
@@ -1875,6 +1859,22 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+    },
+    {
+      "added_at": "2024-01-22 22:05:16",
+      "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2024-01-22 22:05:16",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2024-01-22 22:05:16",
       "album": {
-        "name": "Higher And Higher",
-        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
-    },
-    {
-      "added_at": "2024-01-22 22:05:16",
-      "album": {
         "name": "Animal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
@@ -2319,18 +2303,34 @@
     {
       "added_at": "2024-01-22 22:05:16",
       "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0"
+        "name": "Higher And Higher",
+        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
         }
       ],
-      "duration_ms": 230960,
-      "name": "22 (Taylor's Version)",
-      "url": "https://open.spotify.com/track/2T9WeqSMJJb8YBDHPYGU4p"
+      "duration_ms": 179120,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
+    },
+    {
+      "added_at": "2024-01-22 22:05:16",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/3M6zhLhOocle8owKsjJJ5s"
+      },
+      "artists": [
+        {
+          "name": "Jamelia",
+          "url": "https://open.spotify.com/artist/3f5W9NEwkc1SAIPFuumcaf"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ"
     },
     {
       "added_at": "2024-01-22 22:05:16",
@@ -2351,18 +2351,18 @@
     {
       "added_at": "2024-01-22 22:05:16",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/3M6zhLhOocle8owKsjJJ5s"
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0"
       },
       "artists": [
         {
-          "name": "Jamelia",
-          "url": "https://open.spotify.com/artist/3f5W9NEwkc1SAIPFuumcaf"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 215480,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ"
+      "duration_ms": 230960,
+      "name": "22 (Taylor's Version)",
+      "url": "https://open.spotify.com/track/2T9WeqSMJJb8YBDHPYGU4p"
     },
     {
       "added_at": "2024-01-22 22:05:16",

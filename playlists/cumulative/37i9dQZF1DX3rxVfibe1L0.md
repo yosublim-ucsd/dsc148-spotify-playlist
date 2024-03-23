@@ -4,7 +4,7 @@
 
 > Get happy with today's dose of feel\-good songs!
 
-481 songs - 1 day 1 hr 22 min
+482 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Be Like That \- feat\. Swae Lee & Khalid](https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be Like That \(feat\. Swae Lee & Khalid\)](https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp) | 3:11 | 2020-07-18 | 2023-03-07 |
 | [Beautiful Mistakes \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:47 | 2023-01-06 |  |
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2021-04-03 | 2021-08-21 |
+| [Been Like This](https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Been Like This](https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic) | 2:25 | 2024-03-22 |  |
 | [Belong Together](https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI) | 2:28 | 2024-03-01 | 2024-03-15 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-03-11 |  |
 | [Better](https://open.spotify.com/track/4SDeLyW1YUKuUn3xEU0MFD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Better](https://open.spotify.com/album/317J62HAj17sEd8GUFTbuv) | 3:49 | 2019-07-29\* | 2019-11-15 |
@@ -343,7 +344,7 @@
 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2021-05-15 | 2022-02-26 |
 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 | 2023-05-26 |  |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-21 | 2023-10-17 |
-| [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 | 2023-09-29 |  |
+| [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 | 2023-09-29 | 2024-03-23 |
 | [Sacrifice](https://open.spotify.com/track/1RSBK5VWdjPjHEmRhAkS4Q) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Sacrifice](https://open.spotify.com/album/1Ty6uDLjv7qCgEe9ABx9dj) | 2:40 | 2021-03-06 | 2021-03-19 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-07 | 2022-01-22 |
 | [Safe With Me \(with Audrey Mika\)](https://open.spotify.com/track/6Skh3CBum0pZw9TOr7FQnX) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Safe With Me \(with Audrey Mika\)](https://open.spotify.com/album/2qBzKbaRm9IXomwL7jMdM7) | 3:25 | 2021-01-13 | 2022-07-16 |

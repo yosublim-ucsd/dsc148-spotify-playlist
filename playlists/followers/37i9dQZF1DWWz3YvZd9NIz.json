@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 141826,
+  "2024-03-23": 142001,
   "date_first_scraped": "2022-12-10",
   "description": "The best hardstyle remixes of songs you know!",
   "name": "Hardstyle Remixes of Popular Songs",
@@ -861,6 +861,28 @@
     {
       "album": {
         "name": "Cotton Eye Joe",
+        "url": "https://open.spotify.com/album/07XX6CrSeg9PSotzpi36EG"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Cotton Eye Joe",
+      "url": "https://open.spotify.com/track/3iq4M1xPl3YRXRUUAIdREt"
+    },
+    {
+      "album": {
+        "name": "Cotton Eye Joe",
         "url": "https://open.spotify.com/album/554PqhvRs4nc1b5M9Er6Ej"
       },
       "artists": [
@@ -1145,7 +1167,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 139764,
       "name": "Don't You Worry Child (Hardstyle)",
       "url": "https://open.spotify.com/track/6KWQPUeFZj0Opa8JeZQuHe"
@@ -1419,7 +1441,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 127000,
       "name": "Firework - Techno Remix",
       "url": "https://open.spotify.com/track/2kL4T9w3fGmSMUbvqmgjwH"
@@ -1551,7 +1573,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 130063,
       "name": "Goosebumps - Hardstyle Remix",
       "url": "https://open.spotify.com/track/0Vv9C1V46riOJoXuLNJwju"
@@ -2117,10 +2139,36 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 248471,
       "name": "Kids",
       "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
+    },
+    {
+      "album": {
+        "name": "King Of My Castle",
+        "url": "https://open.spotify.com/album/4qevLMdz4fGf69MFsBEd5I"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Bassbrain",
+          "url": "https://open.spotify.com/artist/2FpmZwomIGHEVAICcfIg5T"
+        },
+        {
+          "name": "Chaotic",
+          "url": "https://open.spotify.com/artist/4htCaAxQ1xEXmfktnVbLfc"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "King Of My Castle",
+      "url": "https://open.spotify.com/track/4Kd5KH428W5YHs9mZqUnNz"
     },
     {
       "album": {
@@ -2205,7 +2253,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 176258,
       "name": "Lay Low (Radical Redemption Remix)",
       "url": "https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O"
@@ -2571,7 +2619,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 128630,
       "name": "My Way - Hardstylee",
       "url": "https://open.spotify.com/track/5Omcmjq9toO2AfMrUzTvZ2"
@@ -3593,7 +3641,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 144800,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/5hz8yVQdGXAFiNuJ8NIG71"
@@ -3831,7 +3879,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 174400,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"

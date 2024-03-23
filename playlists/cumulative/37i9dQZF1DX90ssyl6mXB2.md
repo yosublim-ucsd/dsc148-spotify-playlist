@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-76 songs - 3 hr 38 min
+78 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bad Bchs](https://open.spotify.com/track/5LyklsZHoMhct1WaX7DGhV) | [Artie J](https://open.spotify.com/artist/1DUdW31m7wIqrcSYTaT4zp) | [Bad Bchs](https://open.spotify.com/album/1T1T3ftHa3uSa2CISNnIaD) | 2:38 | 2024-02-02 |  |
 | [Belong to the City](https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 1:38 | 2024-02-02 |  |
 | [Bodies](https://open.spotify.com/track/79DROhb8BggADXpPCNzMZa) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST \(Deluxe\)](https://open.spotify.com/album/60IL3MSpGD0i92uo4K0fdI) | 2:02 | 2024-02-02 |  |
+| [cdg.wav](https://open.spotify.com/track/5ALKIpWqLIYSo7GZoB41nW) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [cdg.wav](https://open.spotify.com/album/5G8ojetyWQ1ZQLkcDBSL2B) | 2:21 | 2024-03-22 |  |
 | [Clouded](https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 1:50 | 2024-02-02 |  |
 | [come thru](https://open.spotify.com/track/79Xwa8oIicEai4bFVBxsuN) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [come thru](https://open.spotify.com/album/6iyCsIynra6MsjVoV3tnrQ) | 2:33 | 2024-02-20 |  |
 | [DEAD MAN WALKING](https://open.spotify.com/track/2c2tlXfEmLgUNvxngIi1qL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 4:07 | 2024-02-02 |  |
@@ -28,6 +29,7 @@
 | [DEPENDS](https://open.spotify.com/track/5FZ3YvNNVmfDftCKAI8na8) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [MIDNIGHT MOTIONS](https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX) | 4:00 | 2024-02-02 |  |
 | [Distant](https://open.spotify.com/track/1IfzkSkbzqAoEgO1u2EoYN) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Distant](https://open.spotify.com/album/5BvR9YLTPvdEfAB6RuJMFc) | 3:52 | 2024-02-20 |  |
 | [DNDrnb / Growth](https://open.spotify.com/track/5rBc6vhCNjsymx6q7hYSX4) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [DNDrnb / Growth](https://open.spotify.com/album/089owlvV7enapyEdE4ff3M) | 3:08 | 2024-02-02 |  |
+| [Drake Shit](https://open.spotify.com/track/5oxOG73S76T48t7qI08aGG) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Drake Shit](https://open.spotify.com/album/1nlFRkbl4YO8IjjJTwZJ8G) | 3:05 | 2024-03-22 |  |
 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 | 2024-02-02 |  |
 | [Fable](https://open.spotify.com/track/6u7Vm7aTEKQInva4iJ0icx) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 3:25 | 2024-02-02 |  |
 | [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 | 2024-03-01 |  |

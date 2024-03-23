@@ -4,12 +4,12 @@
 
 > Música para ver llover, con buen cobijo y una taza de té entre las manos.
 
-67 songs - 4 hr 12 min
+68 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [' Cello Song](https://open.spotify.com/track/42yexCY4dCftowtAZXuAIj) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:44 | 2023-01-17 |  |
-| [\(You Look\) So Funny](https://open.spotify.com/track/5F4RB2LvrszWVTZ2dGZ7Lq) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [East of Any Place \(Habibi Funk 025\)](https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e) | 1:48 | 2023-12-05 |  |
+| [\(You Look\) So Funny](https://open.spotify.com/track/5F4RB2LvrszWVTZ2dGZ7Lq) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [East of Any Place \(Habibi Funk 025\)](https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e) | 1:48 | 2023-12-05 | 2024-03-23 |
 | [A Concert Six Months From Now](https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:25 | 2023-01-17 |  |
 | [A Dangerous Thing](https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:35 | 2023-01-17 |  |
 | [A Mermaid in Lisbon](https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Teresa Salgueiro](https://open.spotify.com/artist/49W26EcOwY0UdytNfa3zGH) | [A Mermaid in Lisbon](https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd) | 3:28 | 2023-01-17 |  |
@@ -33,7 +33,7 @@
 | [Fade into You](https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Fade into You](https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg) | 4:12 | 2023-01-17 | 2023-08-31 |
 | [Fever](https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:56 | 2023-01-17 |  |
 | [God Turn Me Into a Flower](https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:25 | 2023-01-17 |  |
-| [Gymnopédie](https://open.spotify.com/track/4BSWSxDnXwDwWX0mOpBa4h) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Gymnopédie](https://open.spotify.com/album/1Vw6ZphBEFFsc9vn9hVK7o) | 3:50 | 2024-01-03 |  |
+| [Gymnopédie](https://open.spotify.com/track/4BSWSxDnXwDwWX0mOpBa4h) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Gymnopédie](https://open.spotify.com/album/1Vw6ZphBEFFsc9vn9hVK7o) | 3:50 | 2024-01-03 | 2024-03-23 |
 | [Hannah Sun](https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 3:28 | 2023-01-17 |  |
 | [Hard to Let Go](https://open.spotify.com/track/3XBQUmjwquZPzTNtOqj7N7) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/4a3oxtBAgUSzvTjz41L8w5) | 4:07 | 2023-01-17 |  |
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2023-01-17 | 2023-12-17 |
@@ -55,7 +55,7 @@
 | [Never Tear Us Apart](https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Never Tear Us Apart](https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk) | 3:18 | 2023-01-17 | 2023-10-01 |
 | [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 | 2023-01-17 |  |
 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 | 2023-01-17 |  |
-| [One More Second](https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [One More Second](https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN) | 5:22 | 2023-01-17 | 2023-12-30 |
+| [One More Second](https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [One More Second](https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN) | 5:22 | 2023-01-17 |  |
 | [Organon](https://open.spotify.com/track/4akPmp6IWf02FdXXXJi3lX) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP) | 2:30 | 2023-01-17 |  |
 | [Organon](https://open.spotify.com/track/7uKoqhOj7sfF1GowMuAc6I) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:30 | 2023-01-17 | 2023-12-18 |
 | [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 | 2023-03-28 |  |
@@ -65,6 +65,7 @@
 | [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:30 | 2023-01-17 |  |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2023-01-17 |  |
 | [soleil soleil](https://open.spotify.com/track/6m3ObG4d6M92hJWYplJfnb) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 2:37 | 2023-01-17 |  |
+| [Something in the Room She Moves](https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 6:18 | 2024-03-22 |  |
 | [Take Me To Church](https://open.spotify.com/track/2zaaF3DvabHfFQPnIYVVUG) | [Tomas Lee](https://open.spotify.com/artist/4gAbYtySCDOGOXHEUjrQVe) | [Take me to Church](https://open.spotify.com/album/2R23J1fwtVsyB0kSW00dAp) | 3:45 | 2023-01-17 |  |
 | [The Breeze / My Baby Cries](https://open.spotify.com/track/32QtDJN4oRfo3Jwy6gpoWN) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Loving Takes This Course \- a Tribute to the Songs of Kath Bloom](https://open.spotify.com/album/45Ae8sd3ZB5gbBHNNIZaGY) | 6:23 | 2023-01-17 | 2023-10-22 |
 | [Thrill](https://open.spotify.com/track/6pq03Hl5tIY9ryqSEKt82n) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 4:20 | 2023-01-17 | 2023-08-29 |

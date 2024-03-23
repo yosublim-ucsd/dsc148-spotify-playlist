@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,175 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,182 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 7 | [Tu Aake Dekhle](https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/5eF8So0MxcSwx5mWSG93QE) | 4:30 |
 | 8 | [Kho Gaye](https://open.spotify.com/track/2QophXhN2Ls2URfoPmiviC) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 3:17 |
 | 9 | [Khwab](https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Khwab](https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7) | 2:38 |
-| 10 | [Lamhey](https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA) | 2:28 |
-| 11 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 |
+| 10 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 |
+| 11 | [Lamhey](https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA) | 2:28 |
 | 12 | [Aaya Na Tu](https://open.spotify.com/track/3T0oPETOdddxJ2xTt2qJe4) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Aaya Na Tu](https://open.spotify.com/album/2ZGzoWXjfWxRwepEbS0H1b) | 3:30 |
 | 13 | [Kasoor](https://open.spotify.com/track/08kTa3SL9sV6Iy8KLKtGql) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kasoor](https://open.spotify.com/album/7rHLltVNJFnZyNIas91XbT) | 3:17 |
 | 14 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 49 | [Noor](https://open.spotify.com/track/5B5mUnRDq9AGMGD8RdTjLL) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Noor](https://open.spotify.com/album/6lMrZq8CQ1Ew02OXQ7vmkt) | 2:38 |
 | 50 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 |
 
-Snapshot ID: `MCxkN2UzOGM4MDhiZWQ5MDA1YzhkNmU0YmFiMjQ3MTZlNTQ2YTNhMDMw`
+Snapshot ID: `MCwyY2IzN2QxNjE5MjE2ZmZhMzI5MTI1ZGEzNDAzZjhkMzJlYjY0ZTc5`

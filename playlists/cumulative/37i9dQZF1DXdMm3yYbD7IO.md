@@ -4,7 +4,7 @@
 
 > Move your body with your favorite 90s songs.
 
-128 songs - 8 hr 56 min
+129 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Better Off Alone](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:34 | 2021-12-22 |  |
 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/5FgtdSf7I5lClThz2ptWvl) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF) | [Europop](https://open.spotify.com/album/65DySolRDG1LNSvRXcWQWN) | 4:43 | 2021-12-22 | 2022-07-28 |
 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Europop](https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37) | 4:43 | 2021-12-22 | 2024-03-08 |
+| [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Europop](https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV) | 4:43 | 2024-03-22 |  |
 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/5QRAfvKPyQpwt897Jc0glg) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf) | 4:43 | 2023-03-10 | 2024-03-21 |
 | [Boom Boom Boom \(Radio Version\)](https://open.spotify.com/track/3zg4stPJlbNSBPA8HJzLZA) | [The Outhere Brothers](https://open.spotify.com/artist/4eb7QPyORtTxhMiLBo3YWK) | [Boom Boom Boom](https://open.spotify.com/album/09KqsXmFtmMiRi885CPxOq) | 3:21 | 2021-12-22 | 2022-10-12 |
 | [Boom, Boom, Boom, Boom!!](https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:22 | 2021-12-22 |  |
@@ -102,7 +103,7 @@
 | [Supermodel \(You Better Work\)](https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Supermodel of the World](https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA) | 3:59 | 2021-12-22 | 2023-02-06 |
 | [Tearin' up My Heart \- Radio Edit](https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync](https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd) | 3:31 | 2021-12-22 |  |
 | [The Bomb \(These Sounds Fall Into My Mind\)](https://open.spotify.com/track/2Biy0tRkZTGxGH8axDwnqP) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/7AvNbRsfa2B0Hwf4bfcABj) | 3:22 | 2021-12-22 | 2022-07-29 |
-| [The Bomb! \(These Sound Fall into My Mind\) \- Radio Edit](https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU) | 3:23 | 2021-12-22 |  |
+| [The Bomb! \(These Sound Fall into My Mind\) \- Radio Edit](https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU) | 3:23 | 2021-12-22 | 2024-03-23 |
 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 | 2021-12-22 |  |
 | [The Power](https://open.spotify.com/track/0nQLxiNGbbUoSGrxksETLm) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [World Power](https://open.spotify.com/album/40dT7brCvniJawDHpBCE4A) | 3:48 | 2021-12-22 | 2023-11-11 |
 | [The Power \(7" Version\)](https://open.spotify.com/track/0gRhXiFgrIz8OfSW4up1k1) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [The Power](https://open.spotify.com/album/02RKBqDzmc2uSo3L1CZM04) | 3:47 | 2023-03-10 |  |

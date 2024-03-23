@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Carolina Ross en portada.",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Duelo en portada.",
   "name": "La Miscel\u00e1nea: Banda, Corridos & m\u00e1s...",
   "tracks": [
+    {
+      "album": {
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168896,
+      "name": "(Entre Par\u00e9ntesis)",
+      "url": "https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU"
+    },
     {
       "album": {
         "name": "24/7",
@@ -140,7 +162,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 227696,
       "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
       "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
@@ -198,7 +220,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 168000,
       "name": "Aunque No Te Pueda Ver",
       "url": "https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3"
@@ -272,6 +294,24 @@
       "duration_ms": 210349,
       "name": "Camaron Pelao",
       "url": "https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ"
+    },
+    {
+      "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/7htXb6A7ubIIuDXyUMI2iD"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225663,
+      "name": "Caraluna",
+      "url": "https://open.spotify.com/track/6XitPMvbyJka63xQQBQXKr"
     },
     {
       "album": {
@@ -406,7 +446,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 174000,
       "name": "Dile al Amor",
       "url": "https://open.spotify.com/track/2hPsnHCGBAdT23UujS0HF7"
@@ -486,7 +526,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 227605,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr"
@@ -569,6 +609,32 @@
     },
     {
       "album": {
+        "name": "Kyc",
+        "url": "https://open.spotify.com/album/0t4CFNHeuPozzQ8GsE4At7"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "Kyc",
+      "url": "https://open.spotify.com/track/2W1939GIXBdA58meh74sUU"
+    },
+    {
+      "album": {
         "name": "La Cumbia Triste",
         "url": "https://open.spotify.com/album/2GKBfuu1ab0QKzOpyrvMva"
       },
@@ -606,6 +672,46 @@
       "duration_ms": 168317,
       "name": "La Fama de una Dama",
       "url": "https://open.spotify.com/track/3b5zTUkmm2yKVpt85Xtuz8"
+    },
+    {
+      "album": {
+        "name": "La Negra",
+        "url": "https://open.spotify.com/album/1YaB98YlipNhjR5WYDOE7V"
+      },
+      "artists": [
+        {
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184080,
+      "name": "La Negra",
+      "url": "https://open.spotify.com/track/5CjsiSWhEvSK433qJAZ8EI"
+    },
+    {
+      "album": {
+        "name": "La Ultima Batalla",
+        "url": "https://open.spotify.com/album/1Msp3XxKz46Ws8dwhEvIAa"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170698,
+      "name": "La Ultima Batalla",
+      "url": "https://open.spotify.com/track/5I1aHVSVBypKfYXjoJUUb2"
     },
     {
       "album": {
@@ -864,7 +970,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 169895,
       "name": "Ni Me Debes Ni Te Debo",
       "url": "https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM"
@@ -904,7 +1010,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 244720,
       "name": "No Es Que Me Quiera Ir",
       "url": "https://open.spotify.com/track/6D0BBt7Rr25q0iAAafdCq3"
@@ -1045,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Pero Si Fue",
+        "url": "https://open.spotify.com/album/0kH03LyNZQRbQDh8NHb2OZ"
+      },
+      "artists": [
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154893,
+      "name": "Pero Si Fue",
+      "url": "https://open.spotify.com/track/54Rc94xfSTRhxi9ZMhQlrx"
+    },
+    {
+      "album": {
         "name": "Por La Familia",
         "url": "https://open.spotify.com/album/7D7a4qJmKNXAdDnHvHNJ2T"
       },
@@ -1122,6 +1246,24 @@
       "duration_ms": 219166,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/6mtol6gALXQbFt653HeOhp"
+    },
+    {
+      "album": {
+        "name": "Sabor a Michelada",
+        "url": "https://open.spotify.com/album/25TtNlte9TiCowPZnoUO76"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132253,
+      "name": "Sabor a Michelada",
+      "url": "https://open.spotify.com/track/1sAl1GcuDozSu5kDjYN5s5"
     },
     {
       "album": {
@@ -1238,7 +1380,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 183667,
       "name": "Te Lo Agradezco",
       "url": "https://open.spotify.com/track/0NnbCdowqhKtgtNEQ9oeBX"
@@ -1304,10 +1446,28 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 256733,
       "name": "Tres Veces Te Enga\u00f1\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/2mDtpjFCkc94ZBGPNFUCRB"
+    },
+    {
+      "album": {
+        "name": "Tu C\u00e1rcel",
+        "url": "https://open.spotify.com/album/7y91LphJdXnffzem6Gh6Wk"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226986,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6nGFs4LS1OAFisgl8TnoRP"
     },
     {
       "album": {
@@ -1347,6 +1507,42 @@
     },
     {
       "album": {
+        "name": "Vida No Te Acabes",
+        "url": "https://open.spotify.com/album/6WucACnQ81KPiu19PT0rPH"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174656,
+      "name": "Vida No Te Acabes",
+      "url": "https://open.spotify.com/track/6IiGUPWQlqGEYj5NmbEZDD"
+    },
+    {
+      "album": {
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159581,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97"
+    },
+    {
+      "album": {
         "name": "Y Soporta",
         "url": "https://open.spotify.com/album/1w3ucNPARcDVkYz715EXwg"
       },
@@ -1362,7 +1558,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 164186,
       "name": "Y Soporta",
       "url": "https://open.spotify.com/track/6oRTMQZSanMe68UL3WCIDu"
@@ -1384,7 +1580,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 222680,
       "name": "Ya Me Entere - En Vivo",
       "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"

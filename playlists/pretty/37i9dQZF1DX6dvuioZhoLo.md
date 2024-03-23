@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,352 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,409 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 36 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 2:52 |
 | 37 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:33 |
 | 38 | [Powder Blue](https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You're Dreaming](https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG) | 2:23 |
-| 39 | [Got My Name Changed Back](https://open.spotify.com/track/2WPE0Z7u5PafvN2aWk5pFl) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Interstate Gospel](https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ) | 2:54 |
-| 40 | [The Story](https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Cover Stories: Brandi Carlile Celebrates 10 Years of the Story \(An Album to Benefit War Child\)](https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7) | 4:17 |
+| 39 | [The Story](https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Cover Stories: Brandi Carlile Celebrates 10 Years of the Story \(An Album to Benefit War Child\)](https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7) | 4:17 |
+| 40 | [Got My Name Changed Back](https://open.spotify.com/track/2WPE0Z7u5PafvN2aWk5pFl) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Interstate Gospel](https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ) | 2:54 |
 | 41 | [Fuck Up](https://open.spotify.com/track/4W5vicHqRLGvCeq9Odh2LD) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO) | 3:21 |
 | 42 | [Sold My Soul](https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 6:11 |
 | 43 | [You Never Can Tell \(C'est la Vie\) \- 2003 Remaster](https://open.spotify.com/track/1qVLm98UAAFyYuq4HCKFBV) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Luxury Liner \(Expanded & Remastered\)](https://open.spotify.com/album/2MY03ZPfqzrUmM5xPcyfrx) | 3:28 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 46 | [Weed Instead of Roses](https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Like a Rose](https://open.spotify.com/album/35H5tWdoP4xZenoLJBiaGf) | 3:19 |
 | 47 | [Mississippi](https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You're Dreaming](https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG) | 4:01 |
 | 48 | [What's She Crying For](https://open.spotify.com/track/7piSpTyc00ahEUgqBMLYjH) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU) | 3:53 |
-| 49 | [Welcome to Hard Times](https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Welcome to Hard Times](https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS) | 3:05 |
-| 50 | [Weather](https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 5:00 |
+| 49 | [Weather](https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 5:00 |
+| 50 | [Welcome to Hard Times](https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Welcome to Hard Times](https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS) | 3:05 |
 | 51 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
 | 52 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
 | 53 | [I'll Be the One](https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [My Gospel](https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK) | 4:21 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 93 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 |
 | 94 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 |
 | 95 | [I Feel Like Hank Williams Tonight](https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:48 |
-| 96 | [Ashes](https://open.spotify.com/track/1ewuyLSOUAhscYp0Zas0KE) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/4UCb8uaJW44vhGZgiknqkb) | 4:34 |
+| 96 | [Diamond Joe](https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Field Recordings, Vol\. 1](https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM) | 2:36 |
 | 97 | [Half a Heart Keychain](https://open.spotify.com/track/6Ff6tdQfdEyHm71P6mLpc5) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Half a Heart Keychain](https://open.spotify.com/album/3pglOjTAYQHnd8uZu9g86j) | 3:20 |
-| 98 | [Diamond Joe](https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Field Recordings, Vol\. 1](https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM) | 2:36 |
-| 99 | [Stone Me](https://open.spotify.com/track/41G13b0SToDtz6rIENwswT) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:09 |
-| 100 | [When I Quit Drinking](https://open.spotify.com/track/0DldY9OWoMnNPMwqpot2Qh) | [JP Harris](https://open.spotify.com/artist/3k5DJmsoipvzJqpjfQFvDy) | [Sometimes Dogs Bark at Nothing](https://open.spotify.com/album/68narzWpXEnOPLjFCx8rMH) | 3:56 |
+| 98 | [Ashes](https://open.spotify.com/track/1ewuyLSOUAhscYp0Zas0KE) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/4UCb8uaJW44vhGZgiknqkb) | 4:34 |
+| 99 | [When I Quit Drinking](https://open.spotify.com/track/0DldY9OWoMnNPMwqpot2Qh) | [JP Harris](https://open.spotify.com/artist/3k5DJmsoipvzJqpjfQFvDy) | [Sometimes Dogs Bark at Nothing](https://open.spotify.com/album/68narzWpXEnOPLjFCx8rMH) | 3:56 |
+| 100 | [Stone Me](https://open.spotify.com/track/41G13b0SToDtz6rIENwswT) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:09 |
 
-Snapshot ID: `MCxlMjQyM2RjOGI3ZjBmZTJkODg2YjA1ZjU3MWU2MTUxMTU1ZjhjOGU4`
+Snapshot ID: `MCw0MDRhMTIyOTU2MDNlNjkzMGM2MjE0YmFmNDlmN2E4MTI1ZTNjMzAx`

@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Alaskan Tapes on cover.",
-  "num_followers": 184849,
+  "num_followers": 184931,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2JjOGJlNDlkMmUzODIxMTJhZDUyNTFlODI4MTU2M2M0OWU0ZmNi",
+  "snapshot_id": "MCxhZDJiNjAwYjMwZmU4ZmJiODhmYmI2OWI0ZWQ4NGYyZGJiMzIzZTA4",
   "tracks": [
     {
       "added_at": "2023-12-01 18:00:25",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "paradox",
+        "url": "https://open.spotify.com/album/2k9DkBdiToaatxmdfl9HkF"
+      },
+      "artists": [
+        {
+          "name": "Headphone Activist",
+          "url": "https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk"
+        }
+      ],
+      "duration_ms": 134493,
+      "name": "paradox",
+      "url": "https://open.spotify.com/track/4GbOIpoNo5zhsAd6ksrQ4p"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Vast (ANNA Remix)",
         "url": "https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 206769,
       "name": "Vast - ANNA Remix",
       "url": "https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "paradox",
-        "url": "https://open.spotify.com/album/2k9DkBdiToaatxmdfl9HkF"
-      },
-      "artists": [
-        {
-          "name": "Headphone Activist",
-          "url": "https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk"
-        }
-      ],
-      "duration_ms": 134493,
-      "name": "paradox",
-      "url": "https://open.spotify.com/track/4GbOIpoNo5zhsAd6ksrQ4p"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -739,30 +739,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "A Model of Reality Reworks",
-        "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        },
-        {
-          "name": "Kotomi",
-          "url": "https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu"
-        },
-        {
-          "name": "Jan Steiner",
-          "url": "https://open.spotify.com/artist/1VUJ51LvCMZvJFB8syeqUb"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "A Model Of Reality - Jan Steiner Granular Classics Remix",
-      "url": "https://open.spotify.com/track/5PyP6a6vHgsxfcvz5ocNz2"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Waterfalling",
         "url": "https://open.spotify.com/album/5iCHeMOB9iFwpfkj50ZRRa"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 112204,
       "name": "Waterfalling",
       "url": "https://open.spotify.com/track/7Mh2MCqhXQprlpdnu630Si"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "A Model of Reality Reworks",
+        "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        },
+        {
+          "name": "Kotomi",
+          "url": "https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu"
+        },
+        {
+          "name": "Jan Steiner",
+          "url": "https://open.spotify.com/artist/1VUJ51LvCMZvJFB8syeqUb"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "A Model Of Reality - Jan Steiner Granular Classics Remix",
+      "url": "https://open.spotify.com/track/5PyP6a6vHgsxfcvz5ocNz2"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 190482,
+      "name": "20220302 - sarabande",
+      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Circle 26 (Tom Ashbrook Rework)",
         "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 190482,
-      "name": "20220302 - sarabande",
-      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Postcards for the Backyard, Pt. 1",
+        "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
+      },
+      "artists": [
+        {
+          "name": "Neighborhood Libraries",
+          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
+        }
+      ],
+      "duration_ms": 165701,
+      "name": "Like We Were Dreaming All This Time, Pt. 1",
+      "url": "https://open.spotify.com/track/3Gg40RY7rPkErByfnT4zGS"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/3ZprQt0tSHmf9Y5bGQ1dGy"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 138818,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/4PJ6Zk5sxmk2oO3Yo0zS6V"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Postcards for the Backyard, Pt. 1",
-        "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
-      },
-      "artists": [
-        {
-          "name": "Neighborhood Libraries",
-          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
-        }
-      ],
-      "duration_ms": 165701,
-      "name": "Like We Were Dreaming All This Time, Pt. 1",
-      "url": "https://open.spotify.com/track/3Gg40RY7rPkErByfnT4zGS"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Intention II",
-        "url": "https://open.spotify.com/album/598GBCSFddK5tWVfYifnFy"
-      },
-      "artists": [
-        {
-          "name": "Six Missing",
-          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Loving Kindness",
-      "url": "https://open.spotify.com/track/4H2RtvGCui0DIKOZ85ik4g"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Clara",
         "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
       },
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Intention II",
+        "url": "https://open.spotify.com/album/598GBCSFddK5tWVfYifnFy"
+      },
+      "artists": [
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Loving Kindness",
+      "url": "https://open.spotify.com/track/4H2RtvGCui0DIKOZ85ik4g"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Biologica, Volume One (Water)",
         "url": "https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq"
       },
@@ -1379,6 +1379,26 @@
       "duration_ms": 156073,
       "name": "12121",
       "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Introducing (Zazenkai Escape Ambient Re-Work)",
+        "url": "https://open.spotify.com/album/2acOH83IutEkwFXvUBHXTV"
+      },
+      "artists": [
+        {
+          "name": "Chill Advisor",
+          "url": "https://open.spotify.com/artist/2POmRsS3AGB7NAbw5QBqHj"
+        },
+        {
+          "name": "Zazenkai",
+          "url": "https://open.spotify.com/artist/53SJovBw6wYRNkrqfccLLh"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Introducing - Zazenkai Escape Ambient Re-Work",
+      "url": "https://open.spotify.com/track/3U4UtwEsN53RimSfhaIHhL"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1419,26 +1439,6 @@
       "duration_ms": 130280,
       "name": "Dear - Haruhisa Tanaka Remix",
       "url": "https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Introducing (Zazenkai Escape Ambient Re-Work)",
-        "url": "https://open.spotify.com/album/2acOH83IutEkwFXvUBHXTV"
-      },
-      "artists": [
-        {
-          "name": "Chill Advisor",
-          "url": "https://open.spotify.com/artist/2POmRsS3AGB7NAbw5QBqHj"
-        },
-        {
-          "name": "Zazenkai",
-          "url": "https://open.spotify.com/artist/53SJovBw6wYRNkrqfccLLh"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Introducing - Zazenkai Escape Ambient Re-Work",
-      "url": "https://open.spotify.com/track/3U4UtwEsN53RimSfhaIHhL"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "High Peaks",
-        "url": "https://open.spotify.com/album/16KuLbOpCugBOQ4DHchWgt"
-      },
-      "artists": [
-        {
-          "name": "Black Brunswicker",
-          "url": "https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4"
-        }
-      ],
-      "duration_ms": 230750,
-      "name": "The Ghosts we keep Inside Ourselves",
-      "url": "https://open.spotify.com/track/0zafu3xeKBBa1aUo9vOGOV"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 140453,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "High Peaks",
+        "url": "https://open.spotify.com/album/16KuLbOpCugBOQ4DHchWgt"
+      },
+      "artists": [
+        {
+          "name": "Black Brunswicker",
+          "url": "https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4"
+        }
+      ],
+      "duration_ms": 230750,
+      "name": "The Ghosts we keep Inside Ourselves",
+      "url": "https://open.spotify.com/track/0zafu3xeKBBa1aUo9vOGOV"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "No Highs",
-        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 155472,
-      "name": "Winter Cop",
-      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 262375,
       "name": "10\u00b0C",
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "No Highs",
+        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 155472,
+      "name": "Winter Cop",
+      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
     },
     {
       "added_at": "2023-12-01 18:00:25",

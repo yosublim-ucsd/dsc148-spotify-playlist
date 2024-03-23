@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,702 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,700 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 24 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:23 |
 | 25 | [Panic](https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Panic](https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG) | 3:20 |
 | 26 | [The Heart from Your Hate](https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:03 |
-| 27 | [Holy Roller](https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 2:53 |
-| 28 | [When Legends Rise](https://open.spotify.com/track/0zVMR0p7yRbKD6HEg9L2qs) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 2:52 |
+| 27 | [When Legends Rise](https://open.spotify.com/track/0zVMR0p7yRbKD6HEg9L2qs) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 2:52 |
+| 28 | [Holy Roller](https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 2:53 |
 | 29 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
 | 30 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |
 | 31 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 65 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
 | 66 | [Raise Your Horns](https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG) | 4:23 |
 | 67 | [The Past Is Dead](https://open.spotify.com/track/7M7AFtWYg73Kvj5cTZUjiZ) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Below](https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz) | 3:35 |
-| 68 | [The Sinner](https://open.spotify.com/track/6tw3xex5JwBWxEQOn1bxRk) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [The Hollow](https://open.spotify.com/album/1iB7GXI9gk88JZBmwvOgo2) | 4:02 |
-| 69 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 |
+| 68 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 |
+| 69 | [The Sinner](https://open.spotify.com/track/6tw3xex5JwBWxEQOn1bxRk) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [The Hollow](https://open.spotify.com/album/1iB7GXI9gk88JZBmwvOgo2) | 4:02 |
 | 70 | [Aftermath](https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [The Ghost Inside](https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z) | 4:58 |
 
-Snapshot ID: `MCw4ZTBhZGIzOWI3NTkwNzJjNzUzNTMwZTc1NjZiMTM3YzI0NWE0MGI2`
+Snapshot ID: `MCw1NGJjYmRmZDQ0Y2VjMTk2ODI1YjMzNmUxMTA5NzQzYWE2NjNhNmE3`

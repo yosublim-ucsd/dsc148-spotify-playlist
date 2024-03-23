@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Trueno.
 
-248 songs - 12 hr 42 min
+249 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Fuertardo](https://open.spotify.com/track/0QgnR0LKbx6HrsWPwAMUaC) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Fuertardo](https://open.spotify.com/album/6kfwfB9zJyBlex1uTBQX88) | 2:10 | 2021-11-26 | 2023-02-04 |
 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 | 2023-01-27 |  |
 | [Funky Tears](https://open.spotify.com/track/4tebfp9UYuuS9C8JUH6XY0) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Funky Tears](https://open.spotify.com/album/4reagwmx7RB3YxGU7aspnj) | 2:26 | 2024-02-23 |  |
-| [Fvck System](https://open.spotify.com/track/3RVvV3cuJbIM71mGA3IICB) | [N.G.O](https://open.spotify.com/artist/5rje84AB7dr3j1tQukbuzT), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Keis](https://open.spotify.com/artist/0JHeK4aFzFxGpXRe49Ilkx) | [Fvck System](https://open.spotify.com/album/7o9AjD3fLc2FYuoGMLQnIo) | 4:01 | 2021-11-26 |  |
+| [Fvck System](https://open.spotify.com/track/3RVvV3cuJbIM71mGA3IICB) | [N.G.O](https://open.spotify.com/artist/5rje84AB7dr3j1tQukbuzT), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Keis](https://open.spotify.com/artist/0JHeK4aFzFxGpXRe49Ilkx) | [Fvck System](https://open.spotify.com/album/7o9AjD3fLc2FYuoGMLQnIo) | 4:01 | 2021-11-26 | 2024-03-23 |
 | [G.P.S\. \- con Aleman](https://open.spotify.com/track/7JS743HRDpx2NvoNQ39p4O) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/7AHKVMfKtUv9P06zjFHsGB) | 3:48 | 2021-11-26 | 2022-04-12 |
 | [Gané Mi Lugar](https://open.spotify.com/track/6alp7jdqWxGdKsNoFdCTCD) | [Cacha](https://open.spotify.com/artist/2612FpziZcGHTU77hgmdv8) | [Gané Mi Lugar](https://open.spotify.com/album/2d8866oML6XRx9gn3sjRQm) | 2:49 | 2021-11-26 | 2022-04-12 |
 | [Get Money](https://open.spotify.com/track/1GHm53pGbnQF6sXQgota78) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Get Money](https://open.spotify.com/album/5nhijg5KlUIzFsXSFg7Lpq) | 2:39 | 2021-11-26 | 2022-04-12 |
@@ -226,6 +226,7 @@
 | [Sobreviviente](https://open.spotify.com/track/6Vexfm0u1aiWDvyRxllGEg) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Sobreviviente](https://open.spotify.com/album/6VtNNW6TcBHzhEWnp7IDDV) | 3:00 | 2023-08-18 | 2024-02-24 |
 | [SOLO POR VOS](https://open.spotify.com/track/5Ejw3lC6Srj8VK4fHgTZAi) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Solo por Vos](https://open.spotify.com/album/3653dbWREgZU9P2qjfrtmE) | 3:19 | 2021-11-26 | 2022-05-13 |
 | [Solo Una Vez](https://open.spotify.com/track/1wUJbeagQnmOvjAyCvaDVh) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [Solo Una Vez](https://open.spotify.com/album/3USzAg1agnRtKFFT9lA4oF) | 3:25 | 2021-11-26 | 2022-04-12 |
+| [Street credit](https://open.spotify.com/track/73Ds1ulKodyDtPQezFCszx) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o), [Sweet Pain](https://open.spotify.com/artist/2SRib7O0tWuMCXEMYmCRHc), [UANTI](https://open.spotify.com/artist/0jo4N4Z4HUM6y0N19MApwQ) | [Street credit](https://open.spotify.com/album/6f84TXOqQSlhuRLH4iplK8) | 2:44 | 2024-03-22 |  |
 | [SUAVE](https://open.spotify.com/track/3jdXgV1hy1Mlp7l0XJ6wh7) | [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu), [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp) | [SUAVE](https://open.spotify.com/album/7zwiGgkfAfLW9uc2o1v9iJ) | 2:51 | 2024-02-16 |  |
 | [Sucio](https://open.spotify.com/track/02sz23KvVaBWsgtWAzZChM) | [Socio](https://open.spotify.com/artist/3UppqcmU2AFZ0YtWTYfxeD), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [Para La Envidia](https://open.spotify.com/album/7uvrUI2nKiAtVxBE5zCzjx) | 4:35 | 2023-06-16 |  |
 | [Sucio](https://open.spotify.com/track/1aNJgaL6fmvMLWzOMld92r) | [Socio](https://open.spotify.com/artist/3UppqcmU2AFZ0YtWTYfxeD), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [Para la Envidia](https://open.spotify.com/album/60NVjjROURwC1Vbe5r9FBM) | 4:35 | 2022-04-11 | 2023-06-24 |

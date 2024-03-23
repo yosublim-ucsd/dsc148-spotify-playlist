@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,444 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,414 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 40 | [Truth Hurts \(DaBaby Remix\)](https://open.spotify.com/track/01jBJGEa9Ex9W2IjkIzuY6) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Truth Hurts \(DaBaby Remix\)](https://open.spotify.com/album/5Z1L2QX1aTvFy3a6lmmHlE) | 3:17 |
 | 41 | [YDLM](https://open.spotify.com/track/5UUQUFsYJyfF6YwqTnquuA) | [The Griswolds](https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [High Times For Low Lives](https://open.spotify.com/album/6FXaCbvuAQfgD1YysB7w2f) | 3:12 |
 | 42 | [Deep](https://open.spotify.com/track/7G4zqUWXpbRDc5ian2oos8) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:14 |
-| 43 | [Boiled Peanuts](https://open.spotify.com/track/1810boVAzbaxqBzAwXp2ZM) | [Astronautalis](https://open.spotify.com/artist/6PWRJs1FosHp8Cqx0Nmswj), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cut the Body Loose](https://open.spotify.com/album/2SWg6THz0Xeoik5JX1rAzU) | 7:05 |
-| 44 | [Ride](https://open.spotify.com/track/1K1fIC6UYSQbN9BlW1RWAC) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Nu Collection: Hip\-Hop \(Urban & Modern Beats\)](https://open.spotify.com/album/65XHw9qRihPjtVcNlK13aV) | 3:49 |
+| 43 | [Ride](https://open.spotify.com/track/1K1fIC6UYSQbN9BlW1RWAC) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Nu Collection: Hip\-Hop \(Urban & Modern Beats\)](https://open.spotify.com/album/65XHw9qRihPjtVcNlK13aV) | 3:49 |
+| 44 | [Boiled Peanuts](https://open.spotify.com/track/1810boVAzbaxqBzAwXp2ZM) | [Astronautalis](https://open.spotify.com/artist/6PWRJs1FosHp8Cqx0Nmswj), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cut the Body Loose](https://open.spotify.com/album/2SWg6THz0Xeoik5JX1rAzU) | 7:05 |
 | 45 | [Basement Queens](https://open.spotify.com/track/6TbfAkoPe5RJztOFaAl4cG) | [Sad13](https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Basement Queens](https://open.spotify.com/album/4eu9RYtdnxNJJWr9cW84nV) | 3:03 |
 | 46 | [W.E.R.K\. Pt\. II](https://open.spotify.com/track/5kiLPzjGbAb5CmE1xXSRZn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 3:05 |
 | 47 | [New Eyes \(feat\. Lizzo\)](https://open.spotify.com/track/3lHLjAIId4Vl27OY49pkJE) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [New Eyes](https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 49 | [Batches & Cookies](https://open.spotify.com/track/1HgwseKCKrBgL7By8ZcU9M) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sophia Eris](https://open.spotify.com/artist/0p6NrdHl8dQQALGIqVcrjt) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 3:23 |
 | 50 | [En Love](https://open.spotify.com/track/7wHRFO53gnDUJnun8BiAkq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Big GRRRL Small World](https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb) | 3:24 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBiMDlmYzA3NWI2MWU2OTk0MjNkZDMzYjAwMzRkOTA4OQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBkOGRmOWQ2MjI0N2ZiMjU0NjgzY2VmOGIxZDRmYzNkNw==`

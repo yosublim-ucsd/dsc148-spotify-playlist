@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-358 songs - 20 hr 24 min
+359 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Everybody's Somebody](https://open.spotify.com/track/52TBlTxLrajW9btOD22cdS) | [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf), [Mz Boom Bap](https://open.spotify.com/artist/2VuJVhDHZtxhw4Ue1jN8kL) | [Everybody's Somebody](https://open.spotify.com/album/5fiY9l04xQuh8YprrNnz74) | 2:54 | 2022-02-10 | 2022-06-06 |
 | [Fabrics](https://open.spotify.com/track/6G8ybvaNEW2nn1wMzvKjRc) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Waking up to Sirens](https://open.spotify.com/album/1K4eQgsqboN5w0xLsQx9lA) | 3:34 | 2022-07-28 |  |
 | [Fabrics](https://open.spotify.com/track/6hlLKByDfmpoQQrfag0LzV) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Waking up to Sirens](https://open.spotify.com/album/5uS0Li0XPo0Ccpka77IMdV) | 3:34 | 2021-12-16 | 2022-07-29 |
+| [Factor](https://open.spotify.com/track/4P2wL0Bt5X2NyrpHywsuPM) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn) | [Factor](https://open.spotify.com/album/05VwnXwsWgDKvhoAi62vPq) | 2:57 | 2024-03-21 |  |
 | [Feather \(feat\. Cise Starr & Akin from CYNE\)](https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Cise Starr & Akin from CYNE](https://open.spotify.com/artist/0NQ5kUvKwC9r53V095i0np) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 2:55 | 2021-12-16 |  |
 | [Feel The Music](https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Paul Ferguson](https://open.spotify.com/artist/5FEcqRnQYuAb8QyZginKaa), [Baybe](https://open.spotify.com/artist/1dpH2N2f3HJ3D48z2q78br) | [Jazzmatazz Volume II: The New Reality](https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz) | 3:57 | 2021-12-16 |  |
 | [Feeling High](https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9) | [The Mouse Outfit](https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2), [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [KinKai](https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj) | [Jagged Tooth Crook](https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV) | 3:44 | 2021-12-16 |  |
@@ -179,7 +180,7 @@
 | [It Runs Through Me \(feat\. De La Soul\)](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 | 2022-10-13 |  |
 | [It's Alright](https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs) | [2nd Exit](https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y) | [2nd Exit](https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9) | 2:56 | 2022-07-28 |  |
 | [It's Alright](https://open.spotify.com/track/6565wKrasU4x0H3jhZJIrd) | [2nd Exit](https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y) | [2nd Exit](https://open.spotify.com/album/3OZksagLNqEbzxPgR26xry) | 2:56 | 2021-12-16 | 2022-07-29 |
-| [It's Nice Outside](https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt) | [Anti Lilly](https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn), [Phoniks](https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH) | [It's Nice Outside](https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g) | 2:15 | 2021-12-16 |  |
+| [It's Nice Outside](https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt) | [Anti Lilly](https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn), [Phoniks](https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH) | [It's Nice Outside](https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g) | 2:15 | 2021-12-16 | 2024-03-23 |
 | [Jay\-Z in 1995](https://open.spotify.com/track/3Sr6QO0oaR0LXAbSNDIU6l) | [Peter Manns](https://open.spotify.com/artist/2qwx7CUQ9aw3C8b4amNmxy), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Jay\-Z in 1995](https://open.spotify.com/album/0JHVYb7Qxv0cjM5QTmG2uw) | 1:57 | 2022-01-13 | 2022-07-29 |
 | [Jazz & Coffee, Pt\. 4](https://open.spotify.com/track/7AKRcTsRrHHhEGBHOCbSPQ) | [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6), [DJ Million Faces](https://open.spotify.com/artist/4yIHridldZW7jSDEWiGipP) | [Jazz & Coffee, Pt\. 4](https://open.spotify.com/album/6cNg9DdYwzXpgeW5CHYm70) | 3:00 | 2021-12-16 | 2022-11-25 |
 | [Jazz Got Me](https://open.spotify.com/track/01UHYCiwhLwlmuWQZg5phl) | [Louis VI](https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [SUGAR LIKE SALT](https://open.spotify.com/album/0eeaR1oyRAFtre0WoxPJSg) | 4:02 | 2022-04-11 | 2022-04-21 |

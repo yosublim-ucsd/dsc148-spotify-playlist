@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: The Oozes
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,490 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,549 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 33 | [SuperNatural Possession](https://open.spotify.com/track/2argENW2MZGxj0TwGtH2RZ) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh) | 2:04 |
 | 34 | [So\-Called Str8 Grrrl](https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L) | [Gina Young](https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn) | [Intractable](https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J) | 2:04 |
 | 35 | [Fuck the Cistem](https://open.spotify.com/track/6Qt0KafTAgxOBEi3XFo2eg) | [The Muslims](https://open.spotify.com/artist/0k4t6CgTa017VoLxokJn8t) | [Mayo Supreme](https://open.spotify.com/album/2T42kZHMEGCe6XkRmCWe8y) | 2:52 |
-| 36 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 |
-| 37 | [Full Metal Black](https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0) | [The Royal They](https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2) | [The Royal They](https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH) | 3:03 |
+| 36 | [Full Metal Black](https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0) | [The Royal They](https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2) | [The Royal They](https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH) | 3:03 |
+| 37 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 |
 | 38 | [Staplegun](https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql) | [Baby Guts](https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR) | [gasoline](https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh) | 1:54 |
 | 39 | [Fagetarian and Dyke](https://open.spotify.com/track/5tO8kFjt6vhHVAFzRxDaYK) | [Team Dresch](https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs) | [Personal Best](https://open.spotify.com/album/6FkTtMBKTWf4qV5aeL8Sp5) | 2:45 |
 | 40 | [Nvr Pass](https://open.spotify.com/track/7yJLS5bbD1BbVVXaRktMxP) | [She/Her/hers](https://open.spotify.com/artist/4VfY7XPH7M1nahvlNluxTg) | [Grrrl Angst](https://open.spotify.com/album/1joEVEBQ4YuxikhoClLGBP) | 3:50 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 60 | [Baby, I Had an Abortion](https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Baby](https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx) | 3:12 |
 | 61 | [Chickens](https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U) | [Forrest Flowers](https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8) | [Chickens](https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI) | 4:20 |
 | 62 | [CCCHOKEMEEE](https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A) | [Danny Denial](https://open.spotify.com/artist/6jzsOmxoZhStlS4jaJy95U) | [Fuck Danny Denial](https://open.spotify.com/album/0iJ5e19OUZmJH8ywlj5NLR) | 3:25 |
-| 63 | [Play the Field](https://open.spotify.com/track/5bLvqbeBT72cnJ53BQ3XHk) | [Partner](https://open.spotify.com/artist/15rbZYMoW9AYb3zcuFUNOU) | [In Search of Lost Time](https://open.spotify.com/album/43q6kUOk6TRY9m343H9cLf) | 2:56 |
-| 64 | [Happier Still](https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:40 |
+| 63 | [Happier Still](https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:40 |
+| 64 | [Play the Field](https://open.spotify.com/track/5bLvqbeBT72cnJ53BQ3XHk) | [Partner](https://open.spotify.com/artist/15rbZYMoW9AYb3zcuFUNOU) | [In Search of Lost Time](https://open.spotify.com/album/43q6kUOk6TRY9m343H9cLf) | 2:56 |
 | 65 | [Big Shouty](https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz) | [Problem Patterns](https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP) | [Big Shouty](https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH) | 1:26 |
 | 66 | [This Is What We Look Like](https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q) | [Personal Best](https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64) | [Arnos Vale](https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5) | 3:43 |
 | 67 | [Trophy Wifey](https://open.spotify.com/track/2sElL4pdDB9HReW1dCp6hH) | [Partyline](https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA) | [Zombie Terrorist](https://open.spotify.com/album/1b8585sIYVvPbWpdW7Vms3) | 2:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 79 | [Divine Violence](https://open.spotify.com/track/20XjbnBPSXQCRPzNHUwcNl) | [itoldyouiwouldeatyou](https://open.spotify.com/artist/7625dNOd552CCLYVObfTxe) | [Divine Violence](https://open.spotify.com/album/5F3NCovJyL6jjJevjEp5Q4) | 3:22 |
 | 80 | [Queer For You](https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa) | [The Degenerettes](https://open.spotify.com/artist/5aLqmIsEKz8r0bIaSRsf7z) | [Bad Girls Go to Hell](https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp) | 2:08 |
 
-Snapshot ID: `MCxiNDBkMTRlNGRlYmM5ZWFmYTJjMGY4YmM5MzUxYjAyN2E5YWU0NTY0`
+Snapshot ID: `MCwzNjE2YWY0ZDA2NTk0NWQyYzRmNGMwOTM3YjlmZmM4Nzg2NTc3M2U4`

@@ -1,12 +1,12 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1273939,
+  "num_followers": 1274115,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWEyYzU0MTRmYTRmODdmOGQzNjk0MjcxMzU1M2I5ZjI0OTkwNTc4",
+  "snapshot_id": "MCw2NDBhMTM5OThkNjZmMWRhNjI1YjhhYjhmMjM1ZWFjZjY5NzU1YWVj",
   "tracks": [
     {
       "added_at": "2021-02-18 10:25:36",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 306560,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "I'm Still in Love with You",
-        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 307062,
-      "name": "Love and Happiness",
-      "url": "https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "The First Family of Soul: The Best of The Five Stairsteps",
         "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 197160,
       "name": "O-o-h Child",
       "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "I'm Still in Love with You",
+        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 307062,
+      "name": "Love and Happiness",
+      "url": "https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel"
     },
     {
       "added_at": "2021-02-18 10:25:36",

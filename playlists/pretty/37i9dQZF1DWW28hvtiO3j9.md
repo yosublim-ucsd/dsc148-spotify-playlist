@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,156 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,221 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 46 | [Ocean Side](https://open.spotify.com/track/6T0a8AFfS62waTXaTAIhWR) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [OCEAN SIDE](https://open.spotify.com/album/43MH8ZrLAL15xHRmIyAr46) | 4:38 |
 | 47 | [サザンクロス](https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [EDGE OF TIME](https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj) | 5:37 |
 | 48 | [真珠のピアス](https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 5:44 |
-| 49 | [君のハートはマリンブルー](https://open.spotify.com/track/04d2ceRCfAaBwuQfG1WwMK) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [OMEGA TRIBE GROOVE](https://open.spotify.com/album/7o5mbjGsvO2PrDkL1IRPch) | 4:59 |
-| 50 | [土曜の夜はパラダイス](https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [VITAMIN E・P・O](https://open.spotify.com/album/6IpND4kv199toWznRRTqrW) | 4:09 |
+| 49 | [土曜の夜はパラダイス](https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [VITAMIN E・P・O](https://open.spotify.com/album/6IpND4kv199toWznRRTqrW) | 4:09 |
+| 50 | [君のハートはマリンブルー](https://open.spotify.com/track/04d2ceRCfAaBwuQfG1WwMK) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [OMEGA TRIBE GROOVE](https://open.spotify.com/album/7o5mbjGsvO2PrDkL1IRPch) | 4:59 |
 
-Snapshot ID: `MCw2OThlMTVhZGQwYmE1MjY1NmExYWQzMmVmODc3YTY5NzdkMzUwMzc3`
+Snapshot ID: `MCxhMDczMTU3ZThlODQyM2VhNTgzZmNjMDU3YmRmYTg5ZGQ4ZTE0NzY4`

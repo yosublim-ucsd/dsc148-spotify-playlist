@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 119043,
+  "2024-03-23": 119263,
   "date_first_scraped": "2022-05-30",
   "description": "Fill your mind with music for dreaming, thinking and longing. ",
   "name": "Ambient Dreamscapes",
@@ -1827,12 +1827,12 @@
       },
       "artists": [
         {
-          "name": "Sleepsleeprepeat",
-          "url": "https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR"
-        },
-        {
           "name": "Soular Child",
           "url": "https://open.spotify.com/artist/0UUiNe399XY6xl116DbUOn"
+        },
+        {
+          "name": "Davis Branch",
+          "url": "https://open.spotify.com/artist/6H9AQSJ1HplS9q1x7uk3jZ"
         }
       ],
       "date_added": "2022-05-19",
@@ -3113,6 +3113,10 @@
         {
           "name": "Relax Yourself",
           "url": "https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY"
+        },
+        {
+          "name": "Sizmara",
+          "url": "https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX"
         }
       ],
       "date_added": "2023-10-12",

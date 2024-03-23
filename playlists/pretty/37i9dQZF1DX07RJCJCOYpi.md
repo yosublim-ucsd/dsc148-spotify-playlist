@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Fuerza Regida & Marshmello
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,652,557 likes - 68 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,652,542 likes - 68 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Patadas de Ahogado / LATIN MAFIA \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATIN MAFIA \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
+| 1 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
 | 2 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 |
 | 3 | [Camaron Pelao](https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Camaron Pelao](https://open.spotify.com/album/23sx3VV6hMtdvRvkMx52uF) | 3:30 |
 | 4 | [Pega](https://open.spotify.com/track/1kYlz5hWpg8Okxcg5nzS2A) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Pega](https://open.spotify.com/album/167hCxWi15k96f2XJfqGPM) | 2:47 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 67 | [El Ritmo \(La Noche\)](https://open.spotify.com/track/1csgApWERAFNh0h2EUFnIz) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [El Ritmo \(La Noche\)](https://open.spotify.com/album/6Sdi8BIyvZq3v86vgNRC0w) | 4:15 |
 | 68 | [Tambor](https://open.spotify.com/track/2ZoAuTpYHBf9dXlAU9YQTk) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Tambor](https://open.spotify.com/album/25JI1EXm2T6NQTIeYlpOVd) | 2:15 |
 
-Snapshot ID: `MCxjZjAwNTRkNWRiMTEyYjE3NWFkYzRmNTEwNzlhZTE2ZmVlMDRhMmM3`
+Snapshot ID: `MCw3OTVmMDE5OWRmODNjNTY1NDYzMDE2OGRlYTNlNWZlOTQ0Mzc0ODll`

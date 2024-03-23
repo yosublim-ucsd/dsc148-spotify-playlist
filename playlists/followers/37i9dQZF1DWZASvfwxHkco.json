@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 69236,
+  "2024-03-23": 69236,
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ea\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: David Guetta",
+  "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ea\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: PNAU",
   "name": "mint Japan",
   "tracks": [
     {
@@ -143,6 +143,36 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
+    },
+    {
+      "album": {
+        "name": "24k Heart Of Gold",
+        "url": "https://open.spotify.com/album/0632qm5oTzinzWBDiS4O3n"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136642,
+      "name": "24k Heart Of Gold",
+      "url": "https://open.spotify.com/track/5knJFCWGryxZkFyYtUSCzH"
     },
     {
       "album": {
@@ -845,7 +875,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 164241,
       "name": "Beautiful Drug (feat. Avicii) - Remix",
       "url": "https://open.spotify.com/track/0By7GAIixApdMFPiNtfeck"
@@ -2285,6 +2315,28 @@
       "duration_ms": 154285,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba"
+    },
+    {
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160704,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY"
     },
     {
       "album": {
@@ -4061,7 +4113,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 186689,
       "name": "Lionheart (Fearless)",
       "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
@@ -4533,7 +4585,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
@@ -4827,6 +4879,24 @@
       "duration_ms": 170184,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/7uJFTdBaXuc1618uRuq7uB"
+    },
+    {
+      "album": {
+        "name": "Hyperbolic",
+        "url": "https://open.spotify.com/album/4BAVhpH8KMzD5cqlGmS3Db"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164788,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/0hhvzMnYVZuCt0pwsAgxyp"
     },
     {
       "album": {
@@ -6743,7 +6813,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 211400,
       "name": "Tattoo - Topic Remix",
       "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
@@ -7469,6 +7539,28 @@
       "duration_ms": 245280,
       "name": "Welcome To The Opera (with Grimes)",
       "url": "https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI"
+    },
+    {
+      "album": {
+        "name": "ASOT 1165 - A State of Trance Episode 1165 [Including Live at Ultra Europe 2019 (Highlights)]",
+        "url": "https://open.spotify.com/album/0GbSWmGefQinSzUKfddYIS"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211058,
+      "name": "What Took You So Long",
+      "url": "https://open.spotify.com/track/6NHpjsJRakG2Lbewce4TOp"
     },
     {
       "album": {

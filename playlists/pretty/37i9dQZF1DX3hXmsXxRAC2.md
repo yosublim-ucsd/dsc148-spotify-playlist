@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,731 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,786 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 32 | [Ya No Me Interesas](https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:02 |
 | 33 | [La Muerte del Palomo](https://open.spotify.com/track/2DS9ddKznwPNgG5Dt4w2ph) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:25 |
 | 34 | [Costumbres](https://open.spotify.com/track/4DApBy8qaceW065vWHkh2k) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T) | 4:44 |
-| 35 | [Asi Fue](https://open.spotify.com/track/2BZVPfPIA8y3ffJX5zSrpX) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Lo Esencial](https://open.spotify.com/album/76qUJi62hTd5bRFzBWLoXb) | 5:24 |
-| 36 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/0X11BjKj05dR2v64FwR2ot) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Mario Domm](https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl) | [México & Amigos](https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt) | 3:00 |
+| 35 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/0X11BjKj05dR2v64FwR2ot) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Mario Domm](https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl) | [México & Amigos](https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt) | 3:00 |
+| 36 | [Asi Fue](https://open.spotify.com/track/2BZVPfPIA8y3ffJX5zSrpX) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Lo Esencial](https://open.spotify.com/album/76qUJi62hTd5bRFzBWLoXb) | 5:24 |
 | 37 | [Un Alma en Pena](https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Mis Íntimas Razones](https://open.spotify.com/album/0NVKTnvoqBpIGJDgT8A7yr) | 3:40 |
 | 38 | [La Diferencia \- En Vivo](https://open.spotify.com/track/5XnTV4ENs0oBwOLULxAavK) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:00 |
 | 39 | [Amor Eterno](https://open.spotify.com/track/4SWye3OAVUSJysWgPF89e6) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 4:33 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 63 | [Así fue](https://open.spotify.com/track/4wnx2R7rH4xNDcgiYfl0Qe) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [Eres tan distinta a todas](https://open.spotify.com/album/3QknZDnuTXX6aHs6lpvgCb) | 5:03 |
 | 64 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/1rF8VGIeSE4EGNuTCajFUr) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Lucia Mendez Canta Un Homenaje A Juan Gabriel](https://open.spotify.com/album/0kumbFfu0fr0061adl4kFR) | 3:21 |
 | 65 | [Con Tu Amor](https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Tributo a Juan Gabriel](https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1) | 4:44 |
-| 66 | [Te Lo Pido por Favor](https://open.spotify.com/track/55kXjMfJUBYt4GahHegcUG) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Juan Gabriel y Lo Mas Romantico De](https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v) | 2:59 |
-| 67 | [Me Gustas Mucho](https://open.spotify.com/track/2SiqNX6CoQ2l8nwmxVJtzV) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Me Gustas Mucho](https://open.spotify.com/album/6xaWBpwLosRZ89dL5JXJeM) | 2:49 |
+| 66 | [Me Gustas Mucho](https://open.spotify.com/track/2SiqNX6CoQ2l8nwmxVJtzV) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Me Gustas Mucho](https://open.spotify.com/album/6xaWBpwLosRZ89dL5JXJeM) | 2:49 |
+| 67 | [Te Lo Pido por Favor](https://open.spotify.com/track/55kXjMfJUBYt4GahHegcUG) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Juan Gabriel y Lo Mas Romantico De](https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v) | 2:59 |
 | 68 | [Ya Lo Pasado Pasado \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/7bAZfbX3ElF6b3deYNBKlF) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 2:39 |
 | 69 | [Dejame Vivir](https://open.spotify.com/track/6tElKIYCnCP3ZJ6Rq0hcVK) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Interpretan Éxitos De Juan Gabriel](https://open.spotify.com/album/3xsgGHVMU3MN7m33I3ZUWM) | 3:11 |
 | 70 | [Amor Eterno](https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Amor Eterno](https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3) | 5:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 99 | [No Vale la Pena](https://open.spotify.com/track/61xsekswNv3eCOOwYGY6GH) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 2:36 |
 | 100 | [Me Gustas Mucho \- Con Amaia Montero](https://open.spotify.com/track/09WmDckPkEXGRlGH5Kyipy) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:00 |
 
-Snapshot ID: `MCwwOTBlNDk3MzFmMWRhNTI4MWJhNTJhMDhiMmZkNTczZmE0NjQ1NTRl`
+Snapshot ID: `MCw2MTk0OGI4MWJmNjNlMmFkNTM4NWEyYWZjN2NiN2NmYzg0Y2ZlNzQ1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEslczDHKhX.md) - [plain]
 
 > Classic tracks that work for the whole family\. Happy Thanksgiving!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,969 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,963 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEslczDHKhX.md) - [plain]
 | 79 | [Hand in My Pocket \- 2015 Remaster](https://open.spotify.com/track/2lE7oRoKssULAtbWViL385) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:42 |
 | 80 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
 
-Snapshot ID: `MCw5Zjk0YzkwNDE0NzExMDljMzQxNDhkOGZhNTExOWQ5MzY3NmYyZDNk`
+Snapshot ID: `MCw3NDY5NjY5MzBjMzZkYzZhMjUzNGViMzFkMTVkMjA4MjRlZjRlMjg1`

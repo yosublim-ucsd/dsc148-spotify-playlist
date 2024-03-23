@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Il meglio della musica indipendente italiana, aggiornata il terzo mercoledì di ogni mese\. Cover: <a href="spotify:artist:1ByonnOisC5Owt0tfsyzGc">Coca Puma</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,128 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,133 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Porta Pia](https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Porta Pia](https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d) | 2:55 |
 | 2 | [Light](https://open.spotify.com/track/6t7ssvIwRyThKBiI9xi85q) | [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb) | [Light](https://open.spotify.com/album/3Y3SK2ySrRdlYccBgHyCki) | 2:51 |
-| 3 | [SPIRITO](https://open.spotify.com/track/6IZp7TxrMCj1e7gLnCHjxy) | [Foriero](https://open.spotify.com/artist/4MI0uLVTwd4pOKNXMha2FL) | [SPIRITO](https://open.spotify.com/album/5JBEg4lSHVqkBr45YKiY9G) | 4:51 |
-| 4 | [figliafutura](https://open.spotify.com/track/52terdOzRx9GKRzsGybrns) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [figliafutura](https://open.spotify.com/album/5ic1uVI97CBuguXfwtVgen) | 2:54 |
-| 5 | [Scurò](https://open.spotify.com/track/4xo6zNQu2aDpZB1UGXOpqc) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Scurò](https://open.spotify.com/album/7ElwaAIYkB2bBJQxhlTMDb) | 2:13 |
-| 6 | [Uccide](https://open.spotify.com/track/0r3qP7AjiZoMRwjKYY56Z5) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [Uccide](https://open.spotify.com/album/2GubA9NB8y3n2M5HLlucPm) | 2:08 |
+| 3 | [figliafutura](https://open.spotify.com/track/52terdOzRx9GKRzsGybrns) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [figliafutura](https://open.spotify.com/album/5ic1uVI97CBuguXfwtVgen) | 2:54 |
+| 4 | [Scurò](https://open.spotify.com/track/4xo6zNQu2aDpZB1UGXOpqc) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Scurò](https://open.spotify.com/album/7ElwaAIYkB2bBJQxhlTMDb) | 2:13 |
+| 5 | [su//giù \(fuoco\)](https://open.spotify.com/track/2DsfDZz9Omn56haGBha1UQ) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [su//giù \(fuoco\)](https://open.spotify.com/album/3ikPXBTfSbzhgy0AcZCnuf) | 3:19 |
+| 6 | [Ero Oro](https://open.spotify.com/track/79h0p7LxmMZahCWA2CLt3N) | [Sidy](https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT) | [Ero Oro](https://open.spotify.com/album/2cLKtzACjrJa1ScOBoXIpe) | 2:28 |
 | 7 | [Settembre](https://open.spotify.com/track/2EOb6rY5V6AUgpmQjgN5qX) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [Verso una casa](https://open.spotify.com/album/7BL6JI1RpKtmysgBxtxuDV) | 2:34 |
 | 8 | [Disordine](https://open.spotify.com/track/6Tz00bbQVqby0tQXoUEq4s) | [Tueri Damasco](https://open.spotify.com/artist/7v7fysSXW70UvLEJEUSohB) | [Analisi portafoglio danni](https://open.spotify.com/album/5p55aqWycjUQBxEO6JIFdK) | 4:10 |
 | 9 | [up&down](https://open.spotify.com/track/5OwOZ8Oqa3pylXdR5lw6JP) | [MARGHERITA PRINCIPI](https://open.spotify.com/artist/0VvyCsUWH9s7uqcb24Yv7I), [aura6am](https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU) | [up&down](https://open.spotify.com/album/6uNly9CtmZ9OC9u9GFrSZy) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [+ Gatto ␥](https://open.spotify.com/track/6EURiUwW3f08bpSSiQRFUO) | [Alberi Alti](https://open.spotify.com/artist/1I7RPyc2iQvqwHX1XDymUf) | [Mi Prometti Che Starai Bene ? ⍋](https://open.spotify.com/album/2KZnJoFc8hoPCBEfdABsA5) | 2:40 |
 | 50 | [MI PADRE E MI MADRE](https://open.spotify.com/track/25Gyz8oaZhDZwW88db8D3g) | [madze](https://open.spotify.com/artist/0fb1ryrNAVgx2wrWMUKqti) | [MI PADRE E MI MADRE](https://open.spotify.com/album/0cOROLD2s0uLv5l8Q8F0ae) | 2:33 |
 
-Snapshot ID: `MCxiMmMxNTcxZThhNjI2OWIzNzI3ZTI0YjY0OTRjMjQ2NjA2ZWFmMTgx`
+Snapshot ID: `MCxmZWVjMGNhOTZiYjE1OTkyYmFjNTMxN2I2NTMwMGRkMjBjYTE3ODk3`

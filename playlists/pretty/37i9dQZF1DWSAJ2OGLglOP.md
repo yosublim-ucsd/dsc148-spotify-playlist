@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲を毎週セレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,438 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,447 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 | 31 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 |
 | 32 | [DANCING IN THE ROOM](https://open.spotify.com/track/3LJ8gioNFggBg6zoGhz1tx) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [DANCING IN THE ROOM](https://open.spotify.com/album/6DmyL9pVA56Ssp5AxGrNrI) | 3:54 |
 | 33 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 |
-| 34 | [スパンコールの女](https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ \- Single](https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV) | 3:38 |
+| 34 | [スパンコールの女](https://open.spotify.com/track/1LGqKRFZOEXobQcfk5d2Ue) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:30 |
 | 35 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 |
 | 36 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 |
 | 37 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 | 49 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 |
 | 50 | [Slow Motion](https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Slow Motion](https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT) | 2:45 |
 
-Snapshot ID: `MCw1NjIwOWZjNzA4Y2RjOTU0YjNlNGFhMjYyODA2MDc2MWQzN2VmZmVj`
+Snapshot ID: `MCw1MGJmNDQ2MjA1MmVjZTg1YTdjNDg1YTkxMzZmN2U1NjY2M2RlMmYz`

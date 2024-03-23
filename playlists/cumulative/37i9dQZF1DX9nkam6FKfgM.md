@@ -4,7 +4,7 @@
 
 > It’s giving sweatshirt but no coat
 
-151 songs - 8 hr 4 min
+153 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,9 +23,11 @@
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-03-15 | 2024-02-16 |
 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 | 2023-03-15 |  |
 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 | 2023-06-04 | 2024-02-16 |
+| [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-03-22 |  |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-03-31 |  |
 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 | 2024-03-15 |  |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-03-31 | 2023-06-05 |
+| [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 | 2024-03-22 |  |
 | [Circles](https://open.spotify.com/track/6UKwi083H36OXGs2j0o1vo) | [Legit](https://open.spotify.com/artist/7KPeM5CKg2PEnLH890C9Hn) | [Circles](https://open.spotify.com/album/6YEtvPpzzW8akhbqjNsamp) | 3:34 | 2023-07-24 | 2024-01-27 |
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2023-03-15 | 2024-03-16 |
 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 | 2023-06-04 | 2024-02-16 |
@@ -51,7 +53,7 @@
 | [Find an Island](https://open.spotify.com/track/4Ve0Jx7MXjU4aPrFHJRZK7) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:12 | 2023-03-15 |  |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-03-15 | 2023-08-04 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-07-24 | 2023-09-28 |
-| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-07-24 |  |
+| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-07-24 | 2024-03-23 |
 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 | 2023-06-04 | 2024-02-16 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-03-15 |  |
 | [gold rush](https://open.spotify.com/track/5BK0uqwY9DNfZ630STAEaq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:05 | 2023-03-15 | 2023-04-01 |
@@ -93,7 +95,7 @@
 | [Little Miss Sunshine](https://open.spotify.com/track/5mjvETJqee2FXKrX3NuPXo) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 2:47 | 2023-03-15 | 2023-04-29 |
 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 | 2023-03-15 | 2024-03-09 |
 | [Lost The Breakup](https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Lost The Breakup](https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8) | 3:09 | 2023-04-07 | 2023-06-05 |
-| [Love You For A Long Time](https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Love You For A Long Time](https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI) | 3:43 | 2023-03-15 |  |
+| [Love You For A Long Time](https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Love You For A Long Time](https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI) | 3:43 | 2023-03-15 | 2024-03-23 |
 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 | 2023-03-15 |  |
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2023-03-15 |  |
 | [Lovesick](https://open.spotify.com/track/3Fug6rfarsHtM6Ws9ofzaD) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Lovesick](https://open.spotify.com/album/0i1zYZV7sWFxu4Nbcpr2Lc) | 2:31 | 2024-02-15 |  |

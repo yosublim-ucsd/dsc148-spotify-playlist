@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,750 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,794 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,14 +25,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 15 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
 | 16 | [La Carencia](https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Panteon Muy Vivo](https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP) | 7:03 |
 | 17 | [Me Dijiste](https://open.spotify.com/track/630TIL2bWuseStelIhFT6L) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:30 |
-| 18 | [Yo Quiero Ser](https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE) | [Perro Callejero](https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX) | [15 Rolitas de Amor, Vol\. 7](https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt) | 4:45 |
+| 18 | [Al Final Lloré](https://open.spotify.com/track/1U8O8ZjjM4b7ROyOPQonDj) | [Karatula](https://open.spotify.com/artist/7Cua15H5PkQUNlea7KAfkH) | [15 Éxitos](https://open.spotify.com/album/44zewT40ZvoTw2uqBDB9xb) | 4:27 |
 | 19 | [Pobre soñador](https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 3:50 |
 | 20 | [No Estoy Muerto](https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 3:01 |
 | 21 | [María](https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 4:24 |
-| 22 | [Al Final Lloré](https://open.spotify.com/track/1U8O8ZjjM4b7ROyOPQonDj) | [Karatula](https://open.spotify.com/artist/7Cua15H5PkQUNlea7KAfkH) | [15 Éxitos](https://open.spotify.com/album/44zewT40ZvoTw2uqBDB9xb) | 4:27 |
-| 23 | [Un Minuto de Amor, Pt\. 1](https://open.spotify.com/track/56eJXlNuSgZ7ylwPSXWtvK) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [Un Minuto de Amor](https://open.spotify.com/album/77sGKcufHihszGpeaEUFbL) | 3:33 |
+| 22 | [Yo Quiero Ser](https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE) | [Perro Callejero](https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX) | [15 Rolitas de Amor, Vol\. 7](https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt) | 4:45 |
+| 23 | [No Me Arrepiento](https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL) | [Tres Vallejo](https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s) | [Llorando a Solas](https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x) | 3:57 |
 | 24 | [Te Vas a Acordar de Mí](https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:22 |
-| 25 | [No Me Arrepiento](https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL) | [Tres Vallejo](https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s) | [Llorando a Solas](https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x) | 3:57 |
+| 25 | [Un Minuto de Amor, Pt\. 1](https://open.spotify.com/track/56eJXlNuSgZ7ylwPSXWtvK) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [Un Minuto de Amor](https://open.spotify.com/album/77sGKcufHihszGpeaEUFbL) | 3:33 |
 | 26 | [Anda Borracho Pancho](https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [Anda Borracho Pancho](https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw) | 5:02 |
 | 27 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
 | 28 | [Tu Mamá No Me Quiere \- Remastered](https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v) | [Vago](https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7) | [Suicida \(Remastered\)](https://open.spotify.com/album/3IT3HKS1d8nRgQyMmwH9dX) | 4:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 74 | [Los Versos de la Catrina](https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Los Versos de la Catrina](https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7) | 4:07 |
 | 75 | [Abuso de autoridad](https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:03 |
 
-Snapshot ID: `MCw3MzljYzZlMjJkYzc2MjQ2Mjk2NTY5ZDg0NDA1MzQzYjVkN2RlMGYy`
+Snapshot ID: `MCw3ZTc1MWMwNmZlOGIzYTkzMDI0MDQ0NjRiMzhkYjNjYWUxNGRmNTky`

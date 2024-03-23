@@ -1,12 +1,12 @@
 {
   "description": "Schlechte Laune? Dr\u00fcck den Play Button!",
-  "num_followers": 1973026,
+  "num_followers": 1973134,
   "original_name": "Stimmungsmacher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjlmMzFjMTE5ZmFjNGQwZmJlOGVhMGU4NWMyZGNmMTYyZmNlOTli",
+  "snapshot_id": "MCw2MmViN2ExZjFjM2Y1Y2QyZjFlYWUxNWQwNjA4YTU2Nzc2ZDgzODQ2",
   "tracks": [
     {
       "added_at": "2024-03-15 13:26:23",
@@ -907,26 +907,6 @@
     {
       "added_at": "2024-03-15 13:26:23",
       "album": {
-        "name": "Forget You",
-        "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 147986,
-      "name": "Forget You",
-      "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
-    },
-    {
-      "added_at": "2024-03-15 13:26:23",
-      "album": {
         "name": "Weekends",
         "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "added_at": "2024-03-15 13:26:23",
+      "album": {
+        "name": "Forget You",
+        "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 147986,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
     },
     {
       "added_at": "2024-03-15 13:26:23",
@@ -983,6 +983,30 @@
     {
       "added_at": "2024-03-15 13:26:23",
       "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/5RJagY9ID50QgTadJyTLuF"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm"
+    },
+    {
+      "added_at": "2024-03-15 13:26:23",
+      "album": {
         "name": "Acapulco",
         "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
       },
@@ -1011,30 +1035,6 @@
       "duration_ms": 139857,
       "name": "Heather On The Hill",
       "url": "https://open.spotify.com/track/7N3emAP0mWt2OYqxs0XYpc"
-    },
-    {
-      "added_at": "2024-03-15 13:26:23",
-      "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/5RJagY9ID50QgTadJyTLuF"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm"
     },
     {
       "added_at": "2024-03-15 13:26:23",
@@ -1191,18 +1191,22 @@
     {
       "added_at": "2024-03-15 13:26:23",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC"
+        "name": "Disco Cone (Take It High) [ft. WENZL]",
+        "url": "https://open.spotify.com/album/60S00zDlfsP8UPGjMmTSH2"
       },
       "artists": [
         {
-          "name": "Loi",
-          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+        },
+        {
+          "name": "WENZL",
+          "url": "https://open.spotify.com/artist/20TzJXkB1BHRDiazEqsf8r"
         }
       ],
-      "duration_ms": 170370,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s"
+      "duration_ms": 131367,
+      "name": "Disco Cone (Take It High) [ft. WENZL]",
+      "url": "https://open.spotify.com/track/59IA01UnxFiJhxWXpG24mM"
     },
     {
       "added_at": "2024-03-15 13:26:23",
@@ -1255,22 +1259,34 @@
     {
       "added_at": "2024-03-15 13:26:23",
       "album": {
-        "name": "Disco Cone (Take It High) [ft. WENZL]",
-        "url": "https://open.spotify.com/album/60S00zDlfsP8UPGjMmTSH2"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC"
       },
       "artists": [
         {
-          "name": "Enisa",
-          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
-        },
-        {
-          "name": "WENZL",
-          "url": "https://open.spotify.com/artist/20TzJXkB1BHRDiazEqsf8r"
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
         }
       ],
-      "duration_ms": 131367,
-      "name": "Disco Cone (Take It High) [ft. WENZL]",
-      "url": "https://open.spotify.com/track/59IA01UnxFiJhxWXpG24mM"
+      "duration_ms": 170370,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s"
+    },
+    {
+      "added_at": "2024-03-15 13:26:23",
+      "album": {
+        "name": "Diamonds & Dancefloors",
+        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 190290,
+      "name": "Maybe You\u2019re The Problem",
+      "url": "https://open.spotify.com/track/6WDG2ybdV3SBXV0lwBGu4D"
     },
     {
       "added_at": "2024-03-15 13:26:23",
@@ -1291,22 +1307,6 @@
       "duration_ms": 186689,
       "name": "Lionheart (Fearless)",
       "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
-    },
-    {
-      "added_at": "2024-03-15 13:26:23",
-      "album": {
-        "name": "Diamonds & Dancefloors",
-        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 190290,
-      "name": "Maybe You\u2019re The Problem",
-      "url": "https://open.spotify.com/track/6WDG2ybdV3SBXV0lwBGu4D"
     },
     {
       "added_at": "2024-03-15 13:26:23",

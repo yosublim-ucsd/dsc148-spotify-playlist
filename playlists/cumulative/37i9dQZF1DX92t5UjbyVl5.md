@@ -4,7 +4,7 @@
 
 > ¿Tienes flow, tienes rimas? Dale play.
 
-94 songs - 4 hr 59 min
+99 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,11 @@
 | [Egg Reverie \- Kawaii Version](https://open.spotify.com/track/59gRUT8dmNBr6VpT2VnBQy) | [Natsu Fuji](https://open.spotify.com/artist/5r2d1vMFtAGUsUOvH6WiSy) | [Broken System 3](https://open.spotify.com/album/0kX19QQvcLt9RR4fWFNPe0) | 3:36 | 2022-02-07 |  |
 | [Empire \(with LMC\)](https://open.spotify.com/track/2BVo7W60QcDAEv6BnlJEAh) | [Wayvee](https://open.spotify.com/artist/1oX7kWDlraFgbDTrMuwbJb), [LMC](https://open.spotify.com/artist/73xAkxZ3NDbTBri0qmlgPd) | [Empire \(with LMC\)](https://open.spotify.com/album/5E70771EL5frUMY5aOsA1t) | 3:05 | 2021-11-19 |  |
 | [Est](https://open.spotify.com/track/5ZHXYzPcYWVWLq4oNEtU0A) | [STU](https://open.spotify.com/artist/12rFc3DT9cVWUrbCaVcVHL) | [Est](https://open.spotify.com/album/3Xg9taVuBe1gT3eNxbbCSZ) | 2:28 | 2021-11-19 |  |
+| [Eznar Beats \- Ciao \- Skone Vs Walls \- Tematicas \- Regalos](https://open.spotify.com/track/52PJGaSLP7hM66WQNOZCWg) | [Urban Roosters](https://open.spotify.com/artist/0SemdcWjlvDIY6jqkl11dY), [Eznar Beats](https://open.spotify.com/artist/4DSl5FduTcTG8vxCG1lF2z) | [Mejores Minutos Sobre Beats de: EZNAR BEATS](https://open.spotify.com/album/579GPZdxhj6Fk6wPWxcpCY) | 3:17 | 2024-03-22 |  |
+| [Eznar Beats \- Eye \- Aczino Vs Errece \- Deluxe](https://open.spotify.com/track/5K6kpvzo47IH6u68qicf90) | [Urban Roosters](https://open.spotify.com/artist/0SemdcWjlvDIY6jqkl11dY), [Eznar Beats](https://open.spotify.com/artist/4DSl5FduTcTG8vxCG1lF2z) | [Mejores Minutos Sobre Beats de: EZNAR BEATS](https://open.spotify.com/album/579GPZdxhj6Fk6wPWxcpCY) | 3:17 | 2024-03-22 |  |
+| [Eznar Beats \- Fino \- Mnak \- A Sangre \- Mnak Vs Blon](https://open.spotify.com/track/5dJXaBjWTZBXFrN83E6FJ4) | [Urban Roosters](https://open.spotify.com/artist/0SemdcWjlvDIY6jqkl11dY), [Eznar Beats](https://open.spotify.com/artist/4DSl5FduTcTG8vxCG1lF2z) | [Mejores Minutos Sobre Beats de: EZNAR BEATS](https://open.spotify.com/album/579GPZdxhj6Fk6wPWxcpCY) | 3:12 | 2024-03-22 |  |
+| [Eznar Beats \- Tarareo \- Zasko \- A Sangre \- Zasko Vs Khan](https://open.spotify.com/track/3RZPDE9GvLJbIOYmnib81k) | [Urban Roosters](https://open.spotify.com/artist/0SemdcWjlvDIY6jqkl11dY), [Eznar Beats](https://open.spotify.com/artist/4DSl5FduTcTG8vxCG1lF2z) | [Mejores Minutos Sobre Beats de: EZNAR BEATS](https://open.spotify.com/album/579GPZdxhj6Fk6wPWxcpCY) | 3:23 | 2024-03-22 |  |
+| [Eznar Beats \- Velorio \- Aczino \- A Sangre \- Aczino Vs Jony Beltran](https://open.spotify.com/track/5mRjV62i6bZttxiqFdvA9G) | [Urban Roosters](https://open.spotify.com/artist/0SemdcWjlvDIY6jqkl11dY), [Eznar Beats](https://open.spotify.com/artist/4DSl5FduTcTG8vxCG1lF2z) | [Mejores Minutos Sobre Beats de: EZNAR BEATS](https://open.spotify.com/album/579GPZdxhj6Fk6wPWxcpCY) | 3:08 | 2024-03-22 |  |
 | [Film / Lies](https://open.spotify.com/track/0KGq0MlS01VO5b52vSk1Ds) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [Veethology 2](https://open.spotify.com/album/3SgVUhNFDsaqYGxi4N8GHu) | 4:27 | 2021-11-19 | 2022-07-29 |
 | [FIlm / Lies](https://open.spotify.com/track/7tXGrt08QDo1Ufa8Jgi9a2) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [Veethology 2](https://open.spotify.com/album/0ZMf5mWQFaNASzKWDAOo3a) | 4:27 | 2022-02-07 |  |
 | [Format](https://open.spotify.com/track/1W2919zs8SBCLTrOB1ftQT) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Space Spine](https://open.spotify.com/album/49ax7HUaKuueaVtZBkEZD4) | 2:40 | 2021-11-19 |  |

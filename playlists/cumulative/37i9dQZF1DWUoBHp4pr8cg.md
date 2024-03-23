@@ -4,7 +4,7 @@
 
 > Only the hottest Hip Hop from Lucas Raps \(pictured\), Future & Metro Boomin', Big Sean and more...
 
-268 songs - 14 hr 33 min
+269 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Turks & Caicos \(feat\. 21 Savage\)](https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 3:23 | 2023-09-22 |  |
 | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/track/5B40Td13cDQ4adeAiLf8Z4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz) | 2:28 | 2022-11-17 | 2023-02-24 |
 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 | 2023-02-23 | 2023-05-06 |
+| [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 | 2024-03-21 |  |
 | [uKuphi](https://open.spotify.com/track/1fzhy3XEQEXUYff6jvbf40) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa) | [Champion Music 2](https://open.spotify.com/album/0Z4cLn4fZtEJ2psku88wNx) | 2:30 | 2022-11-14 | 2023-01-24 |
 | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls) | 3:36 | 2022-08-01 | 2022-11-04 |
 | [VING RHAMES](https://open.spotify.com/track/2YFAsNwdGwtw6oC6DIpT3k) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [VING RHAMES](https://open.spotify.com/album/1oxtd6Zm0rNyuVL40jThDS) | 1:21 | 2023-10-12 |  |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Moktar
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,731 likes - 85 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,723 likes - 85 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [E Tu](https://open.spotify.com/track/5thlXjvNrM6XVugoLOUz0a) | [Lady Shaka](https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt) | [E Tu](https://open.spotify.com/album/7f7nETvUZJdhXEWSgmhAfm) | 4:19 |
-| 2 | [Can't Let Go](https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Let Go](https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS) | 3:59 |
+| 2 | [Can't Let Go](https://open.spotify.com/track/2WpiqjVC1CP89KVQfxOfol) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Mother](https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I) | 3:59 |
 | 3 | [CHROMA 002 L.A.V.A](https://open.spotify.com/track/53U1tJGUPNaTUfOqoAsbVx) | [B.D.B](https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Benjamin Damage](https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT) | [CHROMA 002](https://open.spotify.com/album/1iWBYSVDon9oIE7Tn4M0mw) | 4:09 |
 | 4 | [Haraka "حركة"](https://open.spotify.com/track/5y0PD7uX1pQwT7vgeeGiZ2) | [moktar](https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa), [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Haraka "حركة"](https://open.spotify.com/album/5vMEcdEtAvgDvOOnvLk1qV) | 5:01 |
 | 5 | [Be My Medicine](https://open.spotify.com/track/6uE1YaulY9ZIb5zt5ChrEA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Be My Medicine](https://open.spotify.com/album/63AIHLFfC1N6ypVOlySENg) | 4:34 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 84 | [ACID GUARACHA](https://open.spotify.com/track/0YxKcbJpkwxQB0KAaeGsNA) | [INVT](https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D) | [CALENTÓN](https://open.spotify.com/album/2EFtwUfSoDzPC35bJs4UIC) | 4:15 |
 | 85 | [3 x a charm](https://open.spotify.com/track/5uqYrDYLxtBRnqT08iTDMr) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [3 x a charm](https://open.spotify.com/album/1Mw8z8T0iLyNuONtc6Qqad) | 5:31 |
 
-Snapshot ID: `MCxmMDE0ZDhhNTU0YTAzMjA5NTlkZDJmNTZmNjBkYWQ1MWUxMmYxNTU1`
+Snapshot ID: `MCw5NWExYzlkMzY5NzBlMDcyMGExYjdjYWYzMTZlYWYxZDIzMzBmNGNk`

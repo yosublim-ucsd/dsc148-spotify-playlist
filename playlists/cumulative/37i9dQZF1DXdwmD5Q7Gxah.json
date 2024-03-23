@@ -15737,6 +15737,24 @@
     },
     {
       "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/3zGhR60NOVSgtzNEQNcHav"
+    },
+    {
+      "album": {
         "name": "Free Treasure",
         "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
       },
@@ -15748,7 +15766,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 215514,
       "name": "Free Treasure",
       "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
@@ -44053,6 +44071,32 @@
     },
     {
       "album": {
+        "name": "The von dutch remix with addison rae and a.g. cook",
+        "url": "https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157328,
+      "name": "The von dutch remix with addison rae and a.g. cook",
+      "url": "https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo"
+    },
+    {
+      "album": {
         "name": "the way things go",
         "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
       },
@@ -46520,7 +46564,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 164284,
       "name": "Von dutch",
       "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,174 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,223 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 44 | [Juegos de pasión](https://open.spotify.com/track/3bRXRniN8vaUWFf3FMDPMM) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:04 |
 | 45 | [La Historia De Un Olvido](https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis](https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p) | 2:59 |
 | 46 | [Aparentan \(feat\. Adán Zapata\)](https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:10 |
-| 47 | [Tremenda](https://open.spotify.com/track/3tbVojOpYBUQFDPDoITdZg) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Tremenda](https://open.spotify.com/album/5fYPkmVk2wjnZM6Nwxsqx3) | 3:12 |
-| 48 | [Round 6](https://open.spotify.com/track/2fqcMU5Y5HnqPYj4p47Kcz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Round 6](https://open.spotify.com/album/49NfXDDECqeg5BjGp7HD0W) | 3:36 |
+| 47 | [Round 6](https://open.spotify.com/track/2fqcMU5Y5HnqPYj4p47Kcz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Round 6](https://open.spotify.com/album/49NfXDDECqeg5BjGp7HD0W) | 3:36 |
+| 48 | [Tremenda](https://open.spotify.com/track/3tbVojOpYBUQFDPDoITdZg) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Tremenda](https://open.spotify.com/album/5fYPkmVk2wjnZM6Nwxsqx3) | 3:12 |
 | 49 | [La Paleta \(feat\. C\-Kan\)](https://open.spotify.com/track/5Mhx3qKwMZdgDWhRvY6V7m) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 2:55 |
 | 50 | [Asi Es La Vida](https://open.spotify.com/track/3ppRhFagqz5sGQMLOQkhwJ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Asi Es La Vida](https://open.spotify.com/album/4LqqM5mgFRSzNo7iLXvcBj) | 2:50 |
 | 51 | [No Saben](https://open.spotify.com/track/03PKEI1s1HIfpy8XDkKabt) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [No Saben](https://open.spotify.com/album/2xLO8RcO22jQFvg2apDo52) | 2:53 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBkOWUzYWVlODMwOGIwM2U3NjM4OWEzNmI0YjJkNmEwNw==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA5YzFlYjE3YjZjZDIxYzE3YTQ2NGI3YzkyOTU0Y2JlNA==`

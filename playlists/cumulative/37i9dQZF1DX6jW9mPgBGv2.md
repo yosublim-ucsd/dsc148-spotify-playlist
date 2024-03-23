@@ -4,7 +4,7 @@
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Anuel AA plantando cara.
 
-119 songs - 7 hr 46 min
+120 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Presidente](https://open.spotify.com/track/4OahZ3pY9WmjhVYJNRInmW) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Presidente](https://open.spotify.com/album/4sozf2927TTWlmRW0E5ahi) | 1:53 | 2023-11-17 |  |
 | [Puesto pal' Millón \- Remix](https://open.spotify.com/track/1csGDtYYiqJmQi2E8ZYl6O) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Puesto pal' Millón \(Remix\)](https://open.spotify.com/album/3zLaa4J3ZOMzlo52FlaMMA) | 5:18 | 2021-12-01 |  |
 | [Quien Va a Frontiar](https://open.spotify.com/track/3ilZY9fbri982eVkRywGrK) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Quien Va a Frontiar](https://open.spotify.com/album/148Yvodb2BSJVVUzFBy8xf) | 2:54 | 2023-01-13 |  |
+| [Rich Rappers](https://open.spotify.com/track/3AqBgjuLAErzEWVnDWxNCS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Rich Rappers](https://open.spotify.com/album/2SoYdGUSBOlc2tBLBW9G84) | 3:13 | 2024-03-15 |  |
 | [RIOT](https://open.spotify.com/track/54d7bwkLmK32XFQA3ARQmn) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [RONNY J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or) | [DE CAMINO A HERMES \(Deluxe\)](https://open.spotify.com/album/4EwN5HXrC6QXxgDqLgdS1m) | 2:36 | 2024-03-04 |  |
 | [RKO](https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 1:46 | 2024-01-31 |  |
 | [RoCKSTAR 2.0](https://open.spotify.com/track/4xUtTQuVT6UBF76SPsgOsr) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [RoCKSTAR 2.0](https://open.spotify.com/album/0iBp9wWy4m2MqwOQlponWD) | 2:53 | 2023-06-27 |  |

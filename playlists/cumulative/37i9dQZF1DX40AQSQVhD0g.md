@@ -4,7 +4,7 @@
 
 > Buenas vibras para limpiar la casa! The best vibes to keep the house clean!
 
-228 songs - 13 hr 46 min
+229 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Espejeando](https://open.spotify.com/track/2Q6HtprKOlth8j6KNFs6fC) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/51JccWixc8mjZP9usOhpJ6) | 3:01 | 2022-02-14 | 2022-07-29 |
 | [Espejeando](https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:03 | 2022-07-19 |  |
 | [Estás Enamorada](https://open.spotify.com/track/4KwyXt2Fiv6K4Btn8jLvjT) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [Septima Armonia](https://open.spotify.com/album/6KVhVRT7Zn5ft2XZtPzbqy) | 4:02 | 2022-02-14 | 2022-07-29 |
+| [Existo](https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Existo](https://open.spotify.com/album/0aBkLzScGffWKy1Gz0qHwJ) | 2:55 | 2024-03-15 |  |
 | [Felicidad](https://open.spotify.com/track/27HEcrCxtG7hJQSi1JzMJI) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Felicidad](https://open.spotify.com/album/2QkBW647a6C5INrd9xdugl) | 3:17 | 2022-02-14 | 2022-07-29 |
 | [Felicidad](https://open.spotify.com/track/5BAbezIjIvHR4VOMECrIv9) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Felicidad](https://open.spotify.com/album/62sFaXABrQ6potGL10NAtl) | 3:17 | 2022-12-30 |  |
 | [Feliz Feliz](https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:37 | 2022-07-19 |  |
@@ -132,7 +133,7 @@
 | [La Peinada \(La Peinadita\)](https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Tu Regalo](https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR) | 3:24 | 2022-02-14 | 2022-07-29 |
 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 | 2022-02-14 | 2022-07-13 |
 | [La Tortura \(feat\. Alejandro Sanz\)](https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:32 | 2022-07-19 |  |
-| [La Vaca](https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Con Su Loquera](https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q) | 4:15 | 2022-02-14 |  |
+| [La Vaca](https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Con Su Loquera](https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q) | 4:15 | 2022-02-14 | 2024-03-23 |
 | [La Vecinita](https://open.spotify.com/track/0qJWmorcTJIxCHdpX9xdMT) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Pensando En Ti](https://open.spotify.com/album/7Ew5ubVqMA3lQq7nOqITok) | 2:36 | 2022-02-14 | 2022-07-28 |
 | [La Ventanita](https://open.spotify.com/track/49nYkvvZTU06Pcwu1SrK4h) | [Garibaldi](https://open.spotify.com/artist/5PMqVxegfGlvhatvLA61uX) | [Caribe](https://open.spotify.com/album/3kpnPvG6TOLfpV0TvD0FUd) | 4:11 | 2022-02-14 | 2022-07-29 |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/0wrMVjP7zS5fN7piwv5Gxq) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Carnaval De Exitos](https://open.spotify.com/album/4O1Y013q4dkng1GGwaEgwM) | 4:37 | 2022-02-14 | 2022-07-29 |

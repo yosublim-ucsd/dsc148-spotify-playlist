@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 
 > This is Bonobo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,008 likes - 48 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,027 likes - 48 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 | 17 | [Kiara](https://open.spotify.com/track/7sqii6BhIDpJChYpU3WjwS) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 3:50 |
 | 18 | [Bambro Koyo Ganda](https://open.spotify.com/track/5EGJ7e7frJjYja6H4afzoT) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 5:02 |
 | 19 | [Antenna](https://open.spotify.com/track/5YhKjllHOmPJMcTdctlOGe) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 3:32 |
-| 20 | [Elysian](https://open.spotify.com/track/0PYMIPuZk9AjcmkscMeC3D) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 3:02 |
+| 20 | [From You](https://open.spotify.com/track/6t2gHlvw7kTK6M7M5f7S6K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 3:30 |
 | 21 | [We Could Forever](https://open.spotify.com/track/2y1cW84gbL4ghBD2HwcQ3x) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 4:19 |
 | 22 | [Flutter](https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 4:44 |
-| 23 | [The Plug](https://open.spotify.com/track/6HGbrlmb37enHxutPPZXgz) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:18 |
-| 24 | [From You](https://open.spotify.com/track/6t2gHlvw7kTK6M7M5f7S6K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 3:30 |
+| 23 | [Second Sun](https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 3:43 |
+| 24 | [The Plug](https://open.spotify.com/track/6HGbrlmb37enHxutPPZXgz) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:18 |
 | 25 | [El Toro](https://open.spotify.com/track/6bwcWOibIUyOJQ2FgMbeIH) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 3:44 |
 | 26 | [Change Down](https://open.spotify.com/track/7eDNiX2DbNo7xhLlgjlGrh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 4:33 |
 | 27 | [If You Stayed Over](https://open.spotify.com/track/1yGTwR9AcrzQ67JGnwO3jZ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 5:23 |
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 | 37 | [Jets](https://open.spotify.com/track/3cg38isdTrBH63B4BMywsw) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:34 |
 | 38 | [Migration](https://open.spotify.com/track/61g7oQKm8DFEL7r2g9LS8x) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 5:27 |
 | 39 | [Between The Lines](https://open.spotify.com/track/0oBV4QAfY26kcYqRLRv5ST) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Bajka](https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 4:36 |
-| 40 | [Silver](https://open.spotify.com/track/5LB8Xop5SuozvPINeSSMf5) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 6:33 |
+| 40 | [Sapien](https://open.spotify.com/track/3O9cDue7Dz2gkBPbfTEeHu) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 4:03 |
 | 41 | [Know You](https://open.spotify.com/track/7rF2bHXc5wa3hM3114pppm) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:05 |
-| 42 | [Nothing Owed](https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 6:16 |
-| 43 | [7th Sevens](https://open.spotify.com/track/3AW6V6zWH45jI7eNPnSDfT) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 5:07 |
-| 44 | [Kota](https://open.spotify.com/track/1hHswNRFdwR5HZSBKdVEOs) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:24 |
+| 42 | [Silver](https://open.spotify.com/track/5LB8Xop5SuozvPINeSSMf5) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 6:33 |
+| 43 | [Nothing Owed](https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 6:16 |
+| 44 | [7th Sevens](https://open.spotify.com/track/3AW6V6zWH45jI7eNPnSDfT) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 5:07 |
 | 45 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 |
-| 46 | [D Song](https://open.spotify.com/track/4d9LscecWjNIkll4aY52Fi) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 5:19 |
-| 47 | [No Reason](https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 7:28 |
+| 46 | [Kota](https://open.spotify.com/track/1hHswNRFdwR5HZSBKdVEOs) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:24 |
+| 47 | [D Song](https://open.spotify.com/track/4d9LscecWjNIkll4aY52Fi) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 5:19 |
 | 48 | [6000 Ft.](https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Heartbreak / 6000 Ft.](https://open.spotify.com/album/1IjSVLxs6dO3BmZ1adf6lt) | 5:36 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA0OWViNzM4NzEwM2UyMWIzYjU4MjEyZDQzODlkZjIwMw==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBjOTBmNmM5MDY5YjdhYmY3ZjY5YzQyMTc4MDY4MGZmYw==`

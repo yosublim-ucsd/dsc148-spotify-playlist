@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 35422,
+  "num_followers": 35433,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzNkNDkzNjNiZjU3OTUzNDIyYWIzYjhmZGFlMDYxNDUxZWFjODkx",
+  "snapshot_id": "MCw0YWQ2MDM0MWU2NTNkNDhkYWMxODMwNTgxMDg4N2U2MDZjOTMxY2Zl",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -695,6 +695,30 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Franck, Grieg, Dvorak: Sonatas for violin & piano",
+        "url": "https://open.spotify.com/album/4uV6IfyA4Chwo8pRxyQkoB"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Khatia Buniatishvili",
+          "url": "https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi"
+        }
+      ],
+      "duration_ms": 472947,
+      "name": "Grieg: Violin Sonata No. 3 in C Minor, Op. 45: III. Allegro animato",
+      "url": "https://open.spotify.com/track/0eZpfuon31nPR5VdwQNhzO"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Grieg: Orchestral Music, Vol. 4: Peer Gynt Suites - Orchestral Songs",
         "url": "https://open.spotify.com/album/0bY9XRCl9JwYFNbsdFk8Nj"
       },
@@ -723,30 +747,6 @@
       "duration_ms": 233946,
       "name": "6 Orchestral Songs, EG 177: No. 2, Solveig's Cradle Song",
       "url": "https://open.spotify.com/track/1cn9lxwu0DlFrQrnhWrrs8"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Franck, Grieg, Dvorak: Sonatas for violin & piano",
-        "url": "https://open.spotify.com/album/4uV6IfyA4Chwo8pRxyQkoB"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Khatia Buniatishvili",
-          "url": "https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi"
-        }
-      ],
-      "duration_ms": 472947,
-      "name": "Grieg: Violin Sonata No. 3 in C Minor, Op. 45: III. Allegro animato",
-      "url": "https://open.spotify.com/track/0eZpfuon31nPR5VdwQNhzO"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -955,6 +955,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
+        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lyric Pieces IV, Op. 47: No. 3 Melodie",
+      "url": "https://open.spotify.com/track/5iEnou51q2TGpOcT7nqVZm"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Grieg: Music for String Orchestra",
         "url": "https://open.spotify.com/album/7c910A4HfOMLizy0El6vjc"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 251653,
       "name": "2 Melodies, Op. 53 (version for orchestra): No. 2. Det forste mode (The First Meeting)",
       "url": "https://open.spotify.com/track/43fd9XWup3L9E2PtH3k5EK"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
-        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Lyric Pieces IV, Op. 47: No. 3 Melodie",
-      "url": "https://open.spotify.com/track/5iEnou51q2TGpOcT7nqVZm"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Edvard Grieg in Hardanger",
-        "url": "https://open.spotify.com/album/7mHOWB6fyTsStgN8GIOrys"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Geir Botnen",
-          "url": "https://open.spotify.com/artist/6YcsDA7VnJvOKg6VLxwrKa"
-        }
-      ],
-      "duration_ms": 285226,
-      "name": "Andantino Serioso, No 4 Of Four Album Leaves, Op.28",
-      "url": "https://open.spotify.com/track/17FXboBi0kYCoiGOnpku9I"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Gerhard Oppitz Plays Grieg",
         "url": "https://open.spotify.com/album/2TEq61StuXFLgKnRdwogrV"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 194000,
       "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Hjemad/Heimw\u00e4rts/Homeward",
       "url": "https://open.spotify.com/track/6z6h8KMepdWCnhUor7sSlB"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Edvard Grieg in Hardanger",
+        "url": "https://open.spotify.com/album/7mHOWB6fyTsStgN8GIOrys"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Geir Botnen",
+          "url": "https://open.spotify.com/artist/6YcsDA7VnJvOKg6VLxwrKa"
+        }
+      ],
+      "duration_ms": 285226,
+      "name": "Andantino Serioso, No 4 Of Four Album Leaves, Op.28",
+      "url": "https://open.spotify.com/track/17FXboBi0kYCoiGOnpku9I"
     },
     {
       "added_at": "2022-09-30 04:01:00",

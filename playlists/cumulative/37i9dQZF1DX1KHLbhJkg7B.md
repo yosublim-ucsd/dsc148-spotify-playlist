@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-371 songs - 23 hr 13 min
+372 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Don’t Close Your Eyes](https://open.spotify.com/track/1mVj1KuhN6lXr1RDBfYG99) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [An Old Memory](https://open.spotify.com/album/3pIknS5vS0oVvRcPY7lojR) | 4:19 | 2021-12-10 | 2022-07-29 |
 | [Dreaming My Dreams With You](https://open.spotify.com/track/5ypmJxIJxZl7L6Ez3yOnFu) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Dreaming My Dreams With You](https://open.spotify.com/album/33xpBrWhJV2rSmPv6s4sN4) | 3:39 | 2022-03-25 | 2022-04-21 |
 | [Dreams](https://open.spotify.com/track/631XEttfPmkuw4XwR3XScB) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Dreams](https://open.spotify.com/album/5nBcBNpc9CWqKGfeIzvlo6) | 4:19 | 2021-12-10 | 2022-07-29 |
-| [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 | 2021-12-10 |  |
+| [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 | 2021-12-10 | 2024-03-23 |
 | [Drivers License](https://open.spotify.com/track/5kP970YG6XuXHfXZiTW5sk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY) | 3:22 | 2021-12-10 | 2023-02-16 |
 | [Dust on the Bottle](https://open.spotify.com/track/6IN6nAjQcLXtT1ToYrUzU9) | [Curt Chambers](https://open.spotify.com/artist/5NfiN9W8v7WMG2m90UpxCJ) | [Pops 90's Country Weekend Mixtape](https://open.spotify.com/album/3Bf6b12SWWeLPaiYgIczCM) | 3:52 | 2022-03-25 | 2022-06-08 |
 | [East Bound And Down](https://open.spotify.com/track/5JelBZwTfs9LZAUbeeVbqd) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [East Bound And Down](https://open.spotify.com/album/1ACfrm46Pjku8SZ1F1JVMe) | 2:57 | 2021-12-10 | 2023-01-06 |
@@ -332,6 +332,7 @@
 | [Tiny Dancer](https://open.spotify.com/track/3di7BRqMooVP3pXwjEk49J) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Tim McGraw And The Dancehall Doctors](https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6) | 5:09 | 2021-12-10 | 2022-09-19 |
 | [To All the Girls I've Loved Before](https://open.spotify.com/track/1vyAuZmklumKjd5Udd6Zmb) | [Raul Malo](https://open.spotify.com/artist/2GHyWa3uUslUFgOayQLW6b), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [To All the Girls I've Loved Before](https://open.spotify.com/album/20HLM7DxBDyiNyrIxCFz1q) | 3:44 | 2021-12-10 | 2022-07-27 |
 | [To Make You Feel My Love](https://open.spotify.com/track/1Dawxo1kGdtL5XQ4rnDIjl) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [To Make You Feel My Love](https://open.spotify.com/album/3jlQ7WuUAWb75OEJ014Jvv) | 3:50 | 2023-03-31 | 2023-04-13 |
+| [Tonight I Wanna Cry](https://open.spotify.com/track/6rYiM8hZeP9g6xykAGGi4y) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Tonight I Wanna Cry](https://open.spotify.com/album/39SIwsPue8bKiLkQYrgyug) | 3:32 | 2024-03-22 |  |
 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 | 2022-04-01 | 2023-05-27 |
 | [Uncle Pen](https://open.spotify.com/track/4cT14AH7Gmp97wUSxHwyZJ) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [The Best Of Can't You Hear Me Callin' \- Bluegrass: 80 Years Of American Music](https://open.spotify.com/album/0Z216wyIESYn4mjrIrPBy0) | 2:25 | 2021-12-10 | 2022-07-28 |
 | [Uptown Funk \(Live from SXSW 2015\)](https://open.spotify.com/track/1v5dYdS4XKN8zfZ3847xCU) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Spotify Sessions](https://open.spotify.com/album/0IoiSYueb7cmOuYC58IlzQ) | 4:43 | 2022-03-25 | 2022-04-21 |

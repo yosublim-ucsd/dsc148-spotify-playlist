@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Utsavi Jha
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,370 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,379 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,16 +64,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 54 | [Lage Nahi Man](https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Lage Nahi Man](https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR) | 3:11 |
 | 55 | [Aisi Raaton](https://open.spotify.com/track/0RSGPiykniIg8m7JhiAVv7) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Aisi Raaton](https://open.spotify.com/album/1m45OoirgSzgEF5sLT8i2R) | 3:38 |
 | 56 | [Kachha Ghada](https://open.spotify.com/track/56ShzRBsODyylHvxsMycO1) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Kachha Ghada](https://open.spotify.com/album/6KTVUqA1LVgnR5V2LmdeBK) | 4:03 |
-| 57 | [Udta Parinda](https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Udta Parinda](https://open.spotify.com/album/2bQOQBSdlI6Oh7rW5rah5T) | 2:58 |
-| 58 | [Narazi](https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Narazi](https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq) | 2:48 |
+| 57 | [Narazi](https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Narazi](https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq) | 2:48 |
+| 58 | [Udta Parinda](https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Udta Parinda](https://open.spotify.com/album/2bQOQBSdlI6Oh7rW5rah5T) | 2:58 |
 | 59 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 |
 | 60 | [Kaisi Jadugari](https://open.spotify.com/track/6gkf7KZtpXHSRDuAyIkEMA) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kaisi Jadugari](https://open.spotify.com/album/157Zl2ubrkwXp4w73P1uhL) | 4:27 |
 | 61 | [Aaina](https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY) | [AFKAP](https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY) | [Aaina](https://open.spotify.com/album/6HbxSkGlSicnBUp5Uezh06) | 3:00 |
 | 62 | [KTMBK](https://open.spotify.com/track/1XmoGNf6OVs6N251UejkbN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [KTMBK](https://open.spotify.com/album/2KH6uB4BxcBqcBfZ5Rh7Pr) | 2:34 |
-| 63 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 |
+| 63 | [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 |
 | 64 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 |
-| 65 | [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 |
-| 66 | [Parda](https://open.spotify.com/track/5GfeZNDNUu0nHKEfEI43RH) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Parda](https://open.spotify.com/album/0wncuuFJi641SkSL6A2Iir) | 3:12 |
+| 65 | [Parda](https://open.spotify.com/track/5GfeZNDNUu0nHKEfEI43RH) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Parda](https://open.spotify.com/album/0wncuuFJi641SkSL6A2Iir) | 3:12 |
+| 66 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 |
 | 67 | [Tu Aazma](https://open.spotify.com/track/38CMq8hlI8zIzGbENBBG1P) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Tu Aazma](https://open.spotify.com/album/5ME4ICYbKFTTYDqclbINw6) | 3:18 |
 | 68 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 |
 | 69 | [Humara Ho Gaya](https://open.spotify.com/track/7qMCYAkTTbFOw1hUXvAAje) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Saar](https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 99 | [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 |
 | 100 | [Aise Ho Tum](https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aise Ho Tum](https://open.spotify.com/album/5YXNlo7YoApvoyvLDBETlA) | 4:12 |
 
-Snapshot ID: `MCxmYTY0YjVkMDllN2ZkNDQwZjFlMjk2N2MxMjBjMDZjOGE5MTdkMDlm`
+Snapshot ID: `MCwyMzNlMGEyMDc4Y2I1ZDNmMGI3MTYwNDlhMjQxYjFiOWJkNThhOGZm`

@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 152171,
+  "num_followers": 152254,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmY4MGVkNGYwZWFhYzA3NTg3OTkxZTk4NjYyZDUyYThkZmMxYTNi",
+  "snapshot_id": "MCwxZDJlMjQ3YjViZGMzNjMyN2U0NDNiY2VlN2M2YzJjZTBjYjBmNzkw",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -201,22 +201,6 @@
       "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Clean",
-        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 194009,
-      "name": "Your Dog",
-      "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
-    },
-    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "Permanent Damage",
@@ -235,6 +219,22 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 194009,
+      "name": "Your Dog",
+      "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
@@ -247,58 +247,6 @@
       "duration_ms": 182426,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Christine and the Queens",
-        "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 233247,
-      "name": "Tilted",
-      "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "if i were a fish (feat. Olivia Barton)",
-        "url": "https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI"
-      },
-      "artists": [
-        {
-          "name": "corook",
-          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
-        },
-        {
-          "name": "Olivia Barton",
-          "url": "https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1"
-        }
-      ],
-      "duration_ms": 141903,
-      "name": "if i were a fish (feat. Olivia Barton)",
-      "url": "https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -319,6 +267,58 @@
       "duration_ms": 166194,
       "name": "Kill Your Pain (with King Princess)",
       "url": "https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Christine and the Queens",
+        "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 233247,
+      "name": "Tilted",
+      "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "if i were a fish (feat. Olivia Barton)",
+        "url": "https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        },
+        {
+          "name": "Olivia Barton",
+          "url": "https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1"
+        }
+      ],
+      "duration_ms": 141903,
+      "name": "if i were a fish (feat. Olivia Barton)",
+      "url": "https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 239744,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
         "name": "Day Breaks",
         "url": "https://open.spotify.com/album/6ST0U2V3WOBV8RzFYwBg6F"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 175664,
       "name": "Back",
       "url": "https://open.spotify.com/track/0mytPbo2GAlCTjA0zZ1Z8e"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 239744,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV"
     },
     {
       "added_at": "2023-06-01 04:00:00",

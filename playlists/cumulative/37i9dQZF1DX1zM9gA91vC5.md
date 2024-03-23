@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-975 songs - 1 day 18 hr 12 min
+976 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -844,7 +844,7 @@
 | [The River](https://open.spotify.com/track/2FPCfxbbIoCItFMjTG8sl0) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 1:58 | 2021-06-08 | 2022-06-08 |
 | [The Road Less Traveled](https://open.spotify.com/track/2fJGj4rZJYRKNYLg2DzPw1) | [Giuseppina Bianchi](https://open.spotify.com/artist/1dPaoKGVvSjKf3aO5NfIgD) | [The Stars Above](https://open.spotify.com/album/4TTXux7K7dL3THpP4EYams) | 3:05 | 2020-08-14\* | 2021-05-18 |
 | [The Sailor's Tale](https://open.spotify.com/track/4CJk8MsMYM1y9ve1jpG9Pz) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Storybook](https://open.spotify.com/album/4DnP1mve2HFOL0XoWYdwvZ) | 2:12 | 2021-06-18 |  |
-| [The Scent Of New Days](https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [The Scent Of New Days](https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD) | 2:22 | 2022-06-07 |  |
+| [The Scent Of New Days](https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [The Scent Of New Days](https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD) | 2:22 | 2022-06-07 | 2024-03-23 |
 | [The Seventh Wave](https://open.spotify.com/track/4rRjQydi87TheoZVntdiER) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [The Seventh Wave](https://open.spotify.com/album/2fuIB47RUiieeW834wdide) | 2:08 | 2024-02-05 |  |
 | [The Shortest Distance](https://open.spotify.com/track/1IvutkNuvq7URH4twRVeSD) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Shortest Distance](https://open.spotify.com/album/48Pzdi9h9my2o6G1FgQLDY) | 2:41 | 2023-10-17 |  |
 | [The Taste of Snow](https://open.spotify.com/track/5k0J9mTY2bypVkJ2pP7acf) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [The Taste of Snow](https://open.spotify.com/album/4kXTcqVDyWXQW8pbxJRN4j) | 2:16 | 2022-03-01 | 2022-11-25 |
@@ -915,6 +915,7 @@
 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 | 2022-07-19 | 2023-05-04 |
 | [Veleta](https://open.spotify.com/track/6S7OE2VPyGAEMVotv5jEz1) | [Torsten Hugo](https://open.spotify.com/artist/0tbvvo4GnJ1klnn3H4Mk9g) | [Veleta](https://open.spotify.com/album/5D0Nm6ZKoiVphuMUyuzyiA) | 3:51 | 2021-09-16 | 2023-07-07 |
 | [Vellichor](https://open.spotify.com/track/6wHTJ1Bx98S9qILhLsgeQO) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Vellichor](https://open.spotify.com/album/5VbKExVj5IMx2M4ABGZCN7) | 2:37 | 2021-09-01 | 2022-09-24 |
+| [Velvet Veil](https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Velvet Veil](https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI) | 2:03 | 2024-03-19 |  |
 | [Verlorene Liebe](https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL) | [Jillian Wasser](https://open.spotify.com/artist/5eI8E7aI0efbASULeju84q) | [Verlorene Liebe](https://open.spotify.com/album/36MOUe0F7DpMC0MHG0h777) | 3:02 | 2021-08-19 | 2022-06-08 |
 | [Verträumt](https://open.spotify.com/track/6yfuxuWZNEnwOykWXStzxY) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Verträumt](https://open.spotify.com/album/1QLGJWEAeddXVFaAwI6gZ4) | 2:14 | 2021-11-13 | 2022-06-08 |
 | [Veszprém](https://open.spotify.com/track/2ZC0zLg4UMtC4AFWTd34Ly) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Veszprém](https://open.spotify.com/album/51QJQwxCAO6ol5ZVG7vL1U) | 3:01 | 2020-08-14\* | 2021-08-18 |

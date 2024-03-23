@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 415389,
+  "num_followers": 416397,
   "original_name": "Summer Dance Hits 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Nzg4MTYyMDZiN2Y2ZDNhZDE0NDczNDhlNjk4NGM4ZGYzMGRjNTlh",
+  "snapshot_id": "MCxhYmQzMTJmYzUxODgxOGQxYmE1NDkxYmRhN2ViYzc5ZDAzMDYwMjIx",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -719,22 +719,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Head Down",
-        "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
+        "name": "Rock My Body (with INNA & Sash!)",
+        "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
         }
       ],
-      "duration_ms": 173888,
-      "name": "Head Down",
-      "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
+      "duration_ms": 137419,
+      "name": "Rock My Body",
+      "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -763,26 +767,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Rock My Body (with INNA & Sash!)",
-        "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
+        "name": "Head Down",
+        "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         },
         {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 137419,
-      "name": "Rock My Body",
-      "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
+      "duration_ms": 173888,
+      "name": "Head Down",
+      "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "TAKE IT OFF",
-        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 194604,
-      "name": "TAKE IT OFF",
-      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/5RJagY9ID50QgTadJyTLuF"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "TAKE IT OFF",
+        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 194604,
+      "name": "TAKE IT OFF",
+      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Morenita",
+        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 176491,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
         "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 157205,
       "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
       "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Morenita",
-        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 176491,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
-      },
-      "artists": [
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Emorio",
         "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 163840,
       "name": "Emorio",
       "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
+      },
+      "artists": [
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
-      },
-      "artists": [
-        {
-          "name": "MIKOLAS",
-          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
-        },
-        {
-          "name": "Mark Neve",
-          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
-        }
-      ],
-      "duration_ms": 141027,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 170578,
       "name": "On & On",
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
+      },
+      "artists": [
+        {
+          "name": "MIKOLAS",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+        },
+        {
+          "name": "Mark Neve",
+          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
+        }
+      ],
+      "duration_ms": 141027,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -2011,26 +2011,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "We Are The People (southstar Remix)",
-        "url": "https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "We Are The People - southstar Remix",
-      "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
       },
@@ -2047,6 +2027,26 @@
       "duration_ms": 187286,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "We Are The People (southstar Remix)",
+        "url": "https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 236068,
+      "name": "We Are The People - southstar Remix",
+      "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -2111,6 +2111,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "3 Malas",
+        "url": "https://open.spotify.com/album/4mPEpJuDTFsPoZhgZkQ6mm"
+      },
+      "artists": [
+        {
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 95039,
+      "name": "3 Malas",
+      "url": "https://open.spotify.com/track/7hcsfB62NBGaBHdin3V2o5"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 146692,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "3 Malas",
-        "url": "https://open.spotify.com/album/4mPEpJuDTFsPoZhgZkQ6mm"
-      },
-      "artists": [
-        {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 95039,
-      "name": "3 Malas",
-      "url": "https://open.spotify.com/track/7hcsfB62NBGaBHdin3V2o5"
     },
     {
       "added_at": "2024-02-15 23:00:00",

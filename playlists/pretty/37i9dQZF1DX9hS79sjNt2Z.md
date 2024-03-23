@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hS79sjNt2Z.md) - [plain]
 
 > Celebrate the Risen Savior with songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,518 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,528 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hS79sjNt2Z.md) - [plain]
 | 99 | [Lead Me To The Cross](https://open.spotify.com/track/6OJZWfDfxubWxWYWhHI0Og) | [Kids Praise! Company](https://open.spotify.com/artist/13EBQsdgR822icqaSKAGwT) | [Good Good Father](https://open.spotify.com/album/79hijgvISuI86XQD7Q9By2) | 4:21 |
 | 100 | [Christ Is Risen, He Is Risen Indeed](https://open.spotify.com/track/5Fcqe3AVjIf8OBeCZswCOZ) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Getty Kids Hymnal \- In Christ Alone](https://open.spotify.com/album/7yiENPxEnhGvOLisic94jw) | 4:10 |
 
-Snapshot ID: `MCwwY2ViOGE0MmUxZjc1MDg0YWE4MmY5YjAxMmE4MDhiZTdlNmM0MWI4`
+Snapshot ID: `MCxjNjRlZWIwMTYwNDA1ZTI0NDYzZGMxYzliMTZmZWMzOTY3YzYzZDM5`

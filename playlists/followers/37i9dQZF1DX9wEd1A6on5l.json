@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 50402,
+  "2024-03-23": 50458,
   "date_first_scraped": "2022-09-22",
   "description": "Get the party started with these Naija bangers! ",
   "name": "Party Dey!",
@@ -488,6 +488,28 @@
     },
     {
       "album": {
+        "name": "At This Point",
+        "url": "https://open.spotify.com/album/0x4rCwdWzIqrW2XNWGVN0M"
+      },
+      "artists": [
+        {
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        },
+        {
+          "name": "larrylanes",
+          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139826,
+      "name": "At This Point",
+      "url": "https://open.spotify.com/track/0sPVT91gQlOy5WIxstCbUh"
+    },
+    {
+      "album": {
         "name": "Attends",
         "url": "https://open.spotify.com/album/6rRwP9eQqtS03jtLomkFvB"
       },
@@ -909,7 +931,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 276729,
       "name": "Beautiful Song",
       "url": "https://open.spotify.com/track/4wYRLUhYqHgzxHlWSbk4JL"
@@ -1011,7 +1033,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 229464,
       "name": "Better Time",
       "url": "https://open.spotify.com/track/46T7QV8rOaK6EfuRWhpG8z"
@@ -1163,6 +1185,28 @@
       "duration_ms": 161770,
       "name": "Big FU",
       "url": "https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh"
+    },
+    {
+      "album": {
+        "name": "Billion Dollar Chasing",
+        "url": "https://open.spotify.com/album/4O7kdw2FEJUPUn0WzHcXgJ"
+      },
+      "artists": [
+        {
+          "name": "KrizMoni",
+          "url": "https://open.spotify.com/artist/5l82uiBT9wquYVz09fJf6Q"
+        },
+        {
+          "name": "Jamopyper",
+          "url": "https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188473,
+      "name": "Billion Dollar Chasing",
+      "url": "https://open.spotify.com/track/0NkWmZHOoU1Z6XHA6qmF9r"
     },
     {
       "album": {
@@ -1800,6 +1844,28 @@
     },
     {
       "album": {
+        "name": "Credit Alert",
+        "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
+      },
+      "artists": [
+        {
+          "name": "Kocee",
+          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193718,
+      "name": "Credit Alert",
+      "url": "https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ"
+    },
+    {
+      "album": {
         "name": "D O D O (Adekunle Gold Version)",
         "url": "https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo"
       },
@@ -1877,6 +1943,36 @@
       "duration_ms": 137451,
       "name": "Dagger",
       "url": "https://open.spotify.com/track/7BO9zcAuosnSwmSsXrgiw5"
+    },
+    {
+      "album": {
+        "name": "Dalilah II",
+        "url": "https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Dalilah II",
+      "url": "https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb"
     },
     {
       "album": {
@@ -2007,7 +2103,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 155121,
       "name": "Dey Your Dey",
       "url": "https://open.spotify.com/track/4X1Ae3Y9MEURgckWfrsrI9"
@@ -2501,7 +2597,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 202605,
       "name": "Ex Convict",
       "url": "https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6"
@@ -2519,7 +2615,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 152079,
       "name": "Faaji",
       "url": "https://open.spotify.com/track/1I1UC0ljqNUEHTfVsZNJCU"
@@ -2537,7 +2633,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 168019,
       "name": "FADE AWAY",
       "url": "https://open.spotify.com/track/3FIuvNRbMDueDoYERFy7yg"
@@ -2775,7 +2871,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 194400,
       "name": "FIREGUN (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk"
@@ -2801,7 +2897,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 174417,
       "name": "Flex",
       "url": "https://open.spotify.com/track/61VsQlEKyeL6E4W41F1bYU"
@@ -3235,7 +3331,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 141562,
       "name": "high and sober (go on soun)",
       "url": "https://open.spotify.com/track/2NndR3RtJRruBdk57CPHfp"
@@ -3546,6 +3642,28 @@
     },
     {
       "album": {
+        "name": "Ikw\u00f6 Ufan Ikw\u00f6 Ima",
+        "url": "https://open.spotify.com/album/2t7Yiqnx3iWFhjZf4qaoZk"
+      },
+      "artists": [
+        {
+          "name": "Etuk Ubong",
+          "url": "https://open.spotify.com/artist/1vb5a9BPGYGCGt0zFQ4up7"
+        },
+        {
+          "name": "DOTTi The Deity",
+          "url": "https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129742,
+      "name": "Ikw\u00f6 Ufan Ikw\u00f6 Ima",
+      "url": "https://open.spotify.com/track/3UwBc48rW28XNyZFJmE6G2"
+    },
+    {
+      "album": {
         "name": "Incoming",
         "url": "https://open.spotify.com/album/29IgCJBPJyr5pbhOB7MIvS"
       },
@@ -3737,6 +3855,24 @@
       "duration_ms": 165262,
       "name": "JOY (feat. Olamide)",
       "url": "https://open.spotify.com/track/29JDKOT4cf9fI6B52aTMKm"
+    },
+    {
+      "album": {
+        "name": "Jump Up Skirt",
+        "url": "https://open.spotify.com/album/4fc7TNhO0DWeE9eosCps7D"
+      },
+      "artists": [
+        {
+          "name": "Ninety",
+          "url": "https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118225,
+      "name": "Jump Up Skirt",
+      "url": "https://open.spotify.com/track/5h5owfuUP5Te0LFGJQPBHk"
     },
     {
       "album": {
@@ -4214,6 +4350,24 @@
     },
     {
       "album": {
+        "name": "LEVEL",
+        "url": "https://open.spotify.com/album/6k1z8OgI1ntOHMirMUhozF"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133766,
+      "name": "LEVEL",
+      "url": "https://open.spotify.com/track/5N4dnzpEry6iQ5aicp1nJB"
+    },
+    {
+      "album": {
         "name": "Level Up",
         "url": "https://open.spotify.com/album/4HRPdNNrlFdvye0nyGEfBK"
       },
@@ -4620,6 +4774,28 @@
     },
     {
       "album": {
+        "name": "Minding My Business",
+        "url": "https://open.spotify.com/album/1JlZVS3ByAW0f2cHzv3eRS"
+      },
+      "artists": [
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173635,
+      "name": "Minding My Business",
+      "url": "https://open.spotify.com/track/1qexUMtMWGdP1wGcGYkNJs"
+    },
+    {
+      "album": {
         "name": "Mmadu",
         "url": "https://open.spotify.com/album/0NaxhTNP2kRRjwK5IArwUM"
       },
@@ -4977,7 +5153,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 127242,
       "name": "No Time",
       "url": "https://open.spotify.com/track/0q38R1OzXFPF3lUaAl1sGm"
@@ -4999,6 +5175,24 @@
       "duration_ms": 162285,
       "name": "No Wahala",
       "url": "https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149203,
+      "name": "No Worry",
+      "url": "https://open.spotify.com/track/71prXuK7e8ke8sP1iB6iHW"
     },
     {
       "album": {
@@ -5577,6 +5771,24 @@
       "duration_ms": 132173,
       "name": "PAPILO (Smadumodu)",
       "url": "https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54"
+    },
+    {
+      "album": {
+        "name": "Para",
+        "url": "https://open.spotify.com/album/4WuOzEl2n7TvInsmclmGob"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132757,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/7DLUJXxs8jXuyub7VodFW3"
     },
     {
       "album": {

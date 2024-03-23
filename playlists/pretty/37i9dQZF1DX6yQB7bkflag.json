@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Sal Priadi",
-  "num_followers": 117032,
+  "num_followers": 117043,
   "original_name": "Pop Rising Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTMwNDZmODU3OTVhM2Y0MzkyZGI0MzhmMGZmYWUzMzcwNmRkZGJj",
+  "snapshot_id": "MCxkNmQ2MjdjNjU4ZDJlNGE4YTRmYWFjZWUyY2VkOTc1NmZmZGRkZjFk",
   "tracks": [
     {
       "added_at": "2024-03-21 17:23:01",
@@ -103,6 +103,22 @@
       "duration_ms": 169717,
       "name": "so american",
       "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
+    },
+    {
+      "added_at": "2024-03-22 02:37:09",
+      "album": {
+        "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 237567,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/779mhz1mAry946r91qzR1r"
     },
     {
       "added_at": "2024-03-21 17:23:01",
@@ -780,7 +796,7 @@
       "added_at": "2024-03-21 17:23:01",
       "album": {
         "name": "Rodeo",
-        "url": "https://open.spotify.com/album/6dtXC6Zyw3v3k0BlSIw1p3"
+        "url": "https://open.spotify.com/album/3voR7zaoHVxZSznmu7MXnW"
       },
       "artists": [
         {
@@ -790,7 +806,7 @@
       ],
       "duration_ms": 180236,
       "name": "Rodeo",
-      "url": "https://open.spotify.com/track/6rpzFcfN1hPaVh7ouY4TLo"
+      "url": "https://open.spotify.com/track/7AlouNnZFdsl3KHDfoAX8O"
     },
     {
       "added_at": "2024-03-21 17:23:01",

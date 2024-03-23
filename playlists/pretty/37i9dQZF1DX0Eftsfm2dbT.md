@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: BAD HOP
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,337 likes - 81 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,402 likes - 81 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 17 | [Boss Bitch \- Remix](https://open.spotify.com/track/0BMmYlBRZBel67VcE8mM0q) | [nana](https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [LANA](https://open.spotify.com/artist/6HIxjjBk4Vg0pfnaxBTeOF), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [7 \(Boss Bitch Edition\)](https://open.spotify.com/album/0qWaruyY6ogPiKAcmPWfUM) | 3:32 |
 | 18 | [Nemo](https://open.spotify.com/track/7pv8pecHsyLltcAIkMgONT) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [SUKI](https://open.spotify.com/album/5FtdjnKZr1DPSFCPQQiQeR) | 3:07 |
 | 19 | [Too Much \- Remix](https://open.spotify.com/track/3oupwjWQ9lKoYiEmmNSVG1) | [MuKuRo](https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc), [Leofeel](https://open.spotify.com/artist/7tPUWaEzeUNFKt1oN9vWKj) | [Too Much \(Remix\)](https://open.spotify.com/album/0ti8PwX6qH3D1ViR7CY4py) | 2:20 |
-| 20 | [BEGIN](https://open.spotify.com/track/44rn7NSzDcaylPBiSMzTK0) | [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R) | [BEGIN](https://open.spotify.com/album/5mA6nq0QsmrwoUGqt0xtgI) | 3:04 |
+| 20 | [BEGIN](https://open.spotify.com/track/2puFMGaonKk8wFdGEqoluD) | [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R) | [BEGIN](https://open.spotify.com/album/6aRmlziU38DAn4AFzUJoLZ) | 3:04 |
 | 21 | [HOT BOYZ](https://open.spotify.com/track/6f38jDhKaxNmFE6iQ2WOQz) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [YELLOW CHEDDAR](https://open.spotify.com/album/1nXkyeoVfIGflJNuydV0PL) | 2:13 |
 | 22 | [Kids Return](https://open.spotify.com/track/3JNBBQwg73CyGP1kbtkhZI) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY) | [Kids Return](https://open.spotify.com/album/3sG9iKn22dJKaTX2ZohHmf) | 3:13 |
 | 23 | [Excuse Me](https://open.spotify.com/track/5XGAX53b2t2iv9WkJzBvth) | [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [Excuse Me](https://open.spotify.com/album/1FkXJBykFSoTDuZYkVoF8l) | 3:03 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 80 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 |
 | 81 | [Do u remember me](https://open.spotify.com/track/3M8hUUiLXqKkk4PCh1KZJN) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/0f5URCBlzbh7u7TuSduM6n) | 3:28 |
 
-Snapshot ID: `MCxkZmYzYmE5OTNjZTJjNmE5YzNmNmM0M2RhZjljM2E5YWQyZTAyMzQz`
+Snapshot ID: `MCwxYmRhNWVlYmRkM2VjMzlkNmNkMmM0MjFkNTE0YTZlODFkNDliOTFi`

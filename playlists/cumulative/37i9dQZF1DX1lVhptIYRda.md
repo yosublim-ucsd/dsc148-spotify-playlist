@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Kacey Musgraves
+> Today's top country hits\. Cover: Kenny Chesney
 
-741 songs - 1 day 16 hr 4 min
+743 songs - 1 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 | 2022-05-20 | 2022-07-23 |
 | [Country Boy's Dream Girl](https://open.spotify.com/track/1UlwFwRrb4Kth3TwnjBAJV) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Country Boy's Dream Girl](https://open.spotify.com/album/6M7Cnkdd1zqazDkHJxHxPJ) | 3:03 | 2023-07-07 |  |
 | [Country On](https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country On](https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm) | 3:56 | 2022-07-01 | 2022-12-17 |
+| [Cowboys and Plowboys](https://open.spotify.com/track/1YfyfFBZ7cY7wgwtZEq3tf) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Cowboys and Plowboys](https://open.spotify.com/album/6Yip6MiXMk9wVHomaatQJn) | 3:28 | 2024-03-22 |  |
 | [Creek Will Rise](https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise](https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx) | 2:49 | 2023-04-21 | 2024-03-09 |
 | [Cross Country](https://open.spotify.com/track/2YgwcrRc33vIWgv5n2TNZ9) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/7jXPuZKd5DMTZGzwucgne4) | 3:26 | 2022-01-11 | 2022-03-12 |
 | [Damn Love](https://open.spotify.com/track/7uuMtZ0IkdybIPJvvwfHaI) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Damn Love](https://open.spotify.com/album/1fvyi30P2ZxqMqtxd6wTai) | 3:10 | 2023-04-28 | 2023-07-01 |
@@ -412,7 +413,7 @@
 | [Make It Past Georgia](https://open.spotify.com/track/2jt5TmTYrmdr46cGHrcFjq) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Make It Past Georgia](https://open.spotify.com/album/7z68pYfdYT9aRs15woSgh1) | 3:21 | 2021-09-11 | 2022-02-26 |
 | [Make It Sweet](https://open.spotify.com/track/6Q6pcWl4SZmI5G21PIhKUG) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Make It Sweet](https://open.spotify.com/album/5G1bdkJQ9wyAqtTiWEgEbw) | 3:06 | 2019-05-26\* | 2019-06-15 |
 | [Make Me Want To](https://open.spotify.com/track/2uJwGoHVPStmWV7iTKEhcn) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/1FZ4ysoRQblNEW0uoFk3v0) | 2:52 | 2019-05-26\* | 2020-03-14 |
-| [Mamaw's House](https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Mamaw's House](https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa) | 3:07 | 2023-09-29 |  |
+| [Mamaw's House](https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Mamaw's House](https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa) | 3:07 | 2023-09-29 | 2024-03-23 |
 | [Man Enough Now \- Radio Edit](https://open.spotify.com/track/5ZcGhTRoqRvN5RoWW1MRg3) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Man Enough Now](https://open.spotify.com/album/0NfZ6OpnTi7tOi97Jw2rPx) | 3:04 | 2020-01-13 | 2020-03-28 |
 | [Man Made](https://open.spotify.com/track/1WHUSiJSNgGxi9YGS1J4xe) | [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [Country Things, Vol\. 2](https://open.spotify.com/album/18pN6ovdqBSdM3R8SVnlTe) | 3:13 | 2020-11-27 | 2020-12-06 |
 | [Man Made A Bar \(feat\. Eric Church\)](https://open.spotify.com/track/73zawW1ttszLRgT9By826D) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:11 | 2023-11-09 |  |
@@ -534,7 +535,7 @@
 | [running back](https://open.spotify.com/track/1EYSzrOCc5qrDAu06iu2Px) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [running back / dirt on ‘em](https://open.spotify.com/album/3FPofXNyRlSjcg4tRqFqjt) | 3:07 | 2023-03-17 | 2023-06-17 |
 | [Russell County Line](https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 4:09 | 2023-01-12 | 2023-02-18 |
 | [Same Boat](https://open.spotify.com/track/2VmccNZz4zFmlcXstY8a2D) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Same Boat](https://open.spotify.com/album/3R96aUhMwOqTpQ1EbQvQUl) | 3:10 | 2021-08-07 | 2021-11-27 |
-| [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 | 2023-11-17 |  |
+| [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 | 2023-11-17 | 2024-03-23 |
 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:57 | 2023-09-22 | 2023-11-18 |
 | [Save Me The Trouble](https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:20 | 2023-07-14 | 2024-01-20 |
 | [Seaside](https://open.spotify.com/track/6uLhIbdIXQ4DGeOA8qFesw) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Seaside](https://open.spotify.com/album/4YD0A6DxqXubekaRwZRpl5) | 3:00 | 2020-07-19 | 2020-11-22 |
@@ -559,6 +560,7 @@
 | [Slow Down Summer](https://open.spotify.com/track/1fff5nZGyRJtFLkOrSSwOU) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Slow Down Summer](https://open.spotify.com/album/6uWWkRv3qKdFcFyayL1Vw4) | 3:36 | 2021-11-06 | 2022-06-18 |
 | [Small Town Girl](https://open.spotify.com/track/2QCebkoOldG3sCKxBEX881) | [Seth Alley](https://open.spotify.com/artist/03iUAGyJwZiIhAF6PcSoxt) | [Small Town Girl](https://open.spotify.com/album/5nQeZ867pdGi93dPUmN7js) | 2:58 | 2019-10-19 | 2019-12-21 |
 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 | 2021-04-24 | 2021-07-24 |
+| [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 | 2024-03-22 |  |
 | [Some Girls](https://open.spotify.com/track/54eUv9Q3D9MZuOGS5PSflp) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Jameson Rodgers](https://open.spotify.com/album/52tL6ea7pvC3qgZCMPQAa5) | 3:04 | 2020-08-15 | 2020-11-03 |
 | [Some Of It](https://open.spotify.com/track/3d1qN7AHge6BXuVPutcpI5) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Desperate Man](https://open.spotify.com/album/5TjDN2hfsgNWVtP8Ew56Xx) | 3:15 | 2019-05-26\* | 2019-08-13 |
 | [Somebody Ain't You](https://open.spotify.com/track/5atcLAbdW7d6BOui2DDI9z) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0) | 2:57 | 2019-08-31 | 2020-02-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,976 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,000 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 7 | [Dreemin'](https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Dreemin'](https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0) | 2:11 |
 | 8 | [Memories & Notes](https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Memories & Notes](https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt) | 1:53 |
 | 9 | [stars](https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [stars](https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47) | 2:12 |
-| 10 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 |
-| 11 | [kyoto dreams](https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP) | [WAIIFUU](https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY) | [kyoto dreams](https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT) | 2:24 |
-| 12 | [buffering](https://open.spotify.com/track/56GSCStJ5kWkGg8X2Ofgvp) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [buffering](https://open.spotify.com/album/3syTXC5V5QHDPFMVIbdQ8L) | 2:05 |
-| 13 | [typewriter](https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [typewriter](https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa) | 2:03 |
-| 14 | [falling behind](https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [falling behind](https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK) | 2:17 |
+| 10 | [falling behind](https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [falling behind](https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK) | 2:17 |
+| 11 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 |
+| 12 | [kyoto dreams](https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP) | [WAIIFUU](https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY) | [kyoto dreams](https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT) | 2:24 |
+| 13 | [buffering](https://open.spotify.com/track/56GSCStJ5kWkGg8X2Ofgvp) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [buffering](https://open.spotify.com/album/3syTXC5V5QHDPFMVIbdQ8L) | 2:05 |
+| 14 | [typewriter](https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [typewriter](https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa) | 2:03 |
 | 15 | [no reply](https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [no reply](https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw) | 2:10 |
 | 16 | [fingerlock](https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [fingerlock](https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2) | 2:06 |
 | 17 | [reflections in water](https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [reflections in water](https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI) | 2:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 74 | [talk it out](https://open.spotify.com/track/2KCqN5JT7Q0acXwUj13UFP) | [Rob Smyles](https://open.spotify.com/artist/6KIclyZuF2o55kSUaiRe5P) | [Babymakers](https://open.spotify.com/album/3hFsnrRLJcA7a3uT0DaTip) | 3:31 |
 | 75 | [memories of u](https://open.spotify.com/track/64VWsh5helyoWopibmzXmf) | [drrreems](https://open.spotify.com/artist/5JaZBeFp8gpQZVR20WYQhc) | [memories of u](https://open.spotify.com/album/6rI3ZkZYNY8Sn2l0HL06c9) | 1:56 |
 
-Snapshot ID: `MCw1ZjY2ZWY3N2Q5OGNmM2UxYzY1ZWM3ODc4NzU0NjIzNzI4NDIzOWIx`
+Snapshot ID: `MCxmYmQxMjg2ODgyYjlmYjY3MmViOGQ2NDA5MmZhNTA5OWM2MGRkZjk0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 
 > The essential pop rock songs from the 1990s\. Cover: Matchbox Twenty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,306,985 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,307,170 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 4 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 | 5 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 6 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
-| 7 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
-| 8 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
+| 7 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
+| 8 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
 | 9 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 10 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 |
 | 11 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 18 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 |
 | 19 | [Alright](https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv) | 3:00 |
 | 20 | [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:45 |
-| 21 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 |
-| 22 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
+| 21 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
+| 22 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 |
 | 23 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
 | 24 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
 | 25 | [3AM](https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:45 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 33 | [Undone \- The Sweater Song](https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 5:05 |
 | 34 | [Teenage Dirtbag](https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Songs From Dawson's Creek, Vol\. II](https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj) | 4:01 |
 | 35 | [Walkin' On The Sun](https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Fush Yu Mang \(20th Anniversary Edition\)](https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt) | 3:27 |
-| 36 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
-| 37 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
+| 36 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
+| 37 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
 | 38 | [Sex & Candy](https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:53 |
 | 39 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Finest](https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM) | 3:39 |
 | 40 | [Shine](https://open.spotify.com/track/77YKoNCjP5hWqiXMRG2839) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Hints, Allegations & Things Left Unsaid](https://open.spotify.com/album/2B2KQTgQr3UhQf4n2VtoUG) | 5:06 |
@@ -92,14 +92,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 82 | [Secret Smile](https://open.spotify.com/track/1OhctVvuAU8kVCtzDWsCTj) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Feeling Strangely Fine \(20th Anniversary Edition\)](https://open.spotify.com/album/6KaEKR4KsmFWVrb0ktQo2T) | 4:39 |
 | 83 | [Only Happy When It Rains](https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 3:56 |
 | 84 | [Don't Speak](https://open.spotify.com/track/6JGQ98So2ik5GVI9ydQ2Yh) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2) | 4:22 |
-| 85 | [Ironic](https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) | 3:45 |
-| 86 | [Better Days \(And the Bottom Drops Out\)](https://open.spotify.com/track/460Wn6Dq2uMviG5nPXtPnb) | [Citizen King](https://open.spotify.com/artist/2Ca9nb6MJ3lwyF7dRNJm3M) | [Mobile Estates](https://open.spotify.com/album/74T4OTGbvmJWobgc4ABtMq) | 3:27 |
+| 85 | [Better Days \(And the Bottom Drops Out\)](https://open.spotify.com/track/460Wn6Dq2uMviG5nPXtPnb) | [Citizen King](https://open.spotify.com/artist/2Ca9nb6MJ3lwyF7dRNJm3M) | [Mobile Estates](https://open.spotify.com/album/74T4OTGbvmJWobgc4ABtMq) | 3:27 |
+| 86 | [Ironic](https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) | 3:45 |
 | 87 | [All I Want](https://open.spotify.com/track/2GHYJ0dhVds3PODKnTdiGE) | [Toad The Wet Sprocket](https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC) | [fear](https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch) | 3:16 |
 | 88 | [Novocaine For The Soul](https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Beautiful Freak](https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii) | 3:08 |
 | 89 | [Right Here Right Now](https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC) | [Jesus Jones](https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw) | [Doubt](https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi) | 3:09 |
 | 90 | [She Don't Use Jelly](https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Transmissions From the Satellite Heart](https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw) | 3:42 |
-| 91 | [Beautiful Girl](https://open.spotify.com/track/6N81xlWzMaEYhjHry55OSI) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Welcome to Wherever You Are](https://open.spotify.com/album/66ocxSzZ98wk1rWNfrvU8u) | 3:27 |
-| 92 | [Send Me On My Way](https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [The Best Of / 20th Century Masters The Millennium Collection](https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR) | 4:21 |
+| 91 | [Send Me On My Way](https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [The Best Of / 20th Century Masters The Millennium Collection](https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR) | 4:21 |
+| 92 | [Beautiful Girl](https://open.spotify.com/track/6N81xlWzMaEYhjHry55OSI) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Welcome to Wherever You Are](https://open.spotify.com/album/66ocxSzZ98wk1rWNfrvU8u) | 3:27 |
 | 93 | [Hey Jealousy](https://open.spotify.com/track/1ZoHRnS5U4m7V5pgvFiK1N) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [Outside Looking In: The Best Of The Gin Blossoms](https://open.spotify.com/album/4lTXWu1mQo8m8BKwU8Rp6f) | 3:56 |
 | 94 | [Girl from Mars](https://open.spotify.com/track/0cA41ydiosNCgmmGiCST65) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf) | 3:30 |
 | 95 | [Where It's At](https://open.spotify.com/track/0myfUjrUP8kMrk48nOXAY0) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp) | 5:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 99 | [Who's Gonna Ride Your Wild Horses](https://open.spotify.com/track/4SzIZFruLhiAzhuMtAhIRt) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 5:16 |
 | 100 | [Someday \- Remastered](https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 4:03 |
 
-Snapshot ID: `MCw3ZjZlZGFjZmRkOTY3MTg4MWMwZTQ0NmQzMjk0OWY0MmM5YzRlYTg4`
+Snapshot ID: `MCwyMzE1YzFmNjZiMjU3MjA1MDk5YThhYWMxMDMwNzdlYmI1MmNiZGE2`

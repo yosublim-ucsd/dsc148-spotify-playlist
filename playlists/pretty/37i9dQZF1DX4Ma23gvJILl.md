@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ma23gvJILl.md) - [plain]
 
 > Los temas que nunca paras de escuchar\. En portada: Andy Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,558 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,590 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ma23gvJILl.md) - [plain]
 | 4 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 |
 | 5 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 |
 | 6 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
-| 7 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 |
+| 7 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 |
 | 8 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 |
 | 9 | [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 |
 | 10 | [Vete Aléjate De Mi](https://open.spotify.com/track/5RezYfD4AXj3HNZTRMLKYW) | [El Chico Jaramillo](https://open.spotify.com/artist/0LjmAEc4GMU4SupVPaX8IQ) | [Marcando La Diferencia](https://open.spotify.com/album/3Ch0ZtIkdn02mdSJYC0yW4) | 3:12 |
-| 11 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 |
+| 11 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 |
 | 12 | [Algo Me Gusta De Ti](https://open.spotify.com/track/3nDNXKBb5fRTuQXpeowWTT) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 4:35 |
 | 13 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 |
 | 14 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ma23gvJILl.md) - [plain]
 | 29 | [Devuélveme a mi chica](https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 3:14 |
 | 30 | [Dueles](https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 4:07 |
 | 31 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
-| 32 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 |
+| 32 | [Ojitos Chiquitos](https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 3:49 |
 | 33 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 |
-| 34 | [Ojitos Chiquitos](https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 3:49 |
+| 34 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 |
 | 35 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
 | 36 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 | 37 | [Besos En Guerra](https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ma23gvJILl.md) - [plain]
 | 49 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 |
 | 50 | [De Los Besos Que Te Di](https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:47 |
 
-Snapshot ID: `MCxiOTViNWZlOTRkYTdiZmVlYjFmNGQ3YjgwOGZjZWY4MzlhNTYxODU0`
+Snapshot ID: `MCw4M2FmYjQwNDQ1ZTk4ODBiYmRkMWUyMzhiNjU4NGE1NTY4ZGNhNzVm`

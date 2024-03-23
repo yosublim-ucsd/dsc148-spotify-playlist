@@ -4,7 +4,7 @@
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-117 songs - 6 hr 18 min
+118 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [LONELY](https://open.spotify.com/track/7r9DWgmElZrjI0G8erYKRr) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [JUNGLE](https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo) | 4:25 | 2023-09-20 |  |
 | [Longevity Flow](https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Longevity Flow](https://open.spotify.com/album/0UV7EM6NwjbyINDUwEpQUg) | 3:03 | 2023-09-20 |  |
 | [Lowkey](https://open.spotify.com/track/4FC7fcZ5RexxLbWNrOq6aq) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Streets, Love & Other Stuff](https://open.spotify.com/album/0IRmR8wXEPXWsqy84EbKIh) | 3:21 | 2023-11-20 |  |
-| [Mamgobhozi](https://open.spotify.com/track/6bzWAiIR1YNGcnBeFYQBl5) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mamgobhozi](https://open.spotify.com/album/3stGihwj49yO2EJ6Ovl598) | 3:56 | 2023-09-20 |  |
+| [Mamgobhozi](https://open.spotify.com/track/4RKhOHFaq2uqNRJuYQTnaY) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Piano Republik](https://open.spotify.com/album/5ggKabvYHoNLEyl3x5K4iZ) | 3:56 | 2023-11-20 |  |
+| [Mamgobhozi](https://open.spotify.com/track/6bzWAiIR1YNGcnBeFYQBl5) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mamgobhozi](https://open.spotify.com/album/3stGihwj49yO2EJ6Ovl598) | 3:56 | 2023-09-20 | 2024-03-23 |
 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 | 2023-09-20 |  |
 | [MMM](https://open.spotify.com/track/5ubj4AhuTnQ5qzuhv4CP3P) | [Skinny Local](https://open.spotify.com/artist/2Qqm503Ng7iC2dMxEobQa1), [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3) | [MMM](https://open.spotify.com/album/0Fbc2gf82fyBWrpDQqxnco) | 2:24 | 2023-09-20 |  |
 | [Move On](https://open.spotify.com/track/1uD1DhAEZ2XzU8psOERt54) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Move On](https://open.spotify.com/album/3n3gvdhR2fkx9qXXPrIAi3) | 2:41 | 2023-10-06 | 2023-12-02 |

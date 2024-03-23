@@ -4,7 +4,7 @@
 
 > Upbeat songs that will get the whole family feelin' good!
 
-100 songs - 5 hr 38 min
+101 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,8 +65,9 @@
 | [Magic Day](https://open.spotify.com/track/5X0GFoSX2gq0VfPqgsK3Jf) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt), [Orbit Deen](https://open.spotify.com/artist/17tuJG7gcopBASfFsVr4pb) | [Magic Day](https://open.spotify.com/album/7CdnhWwYTOWWdMKlxJFwcp) | 2:59 | 2022-01-28 |  |
 | [Mamma Mia](https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:33 | 2022-01-28 |  |
 | [Move Your Feet](https://open.spotify.com/track/0DYTsIJg2SsTWbV6YGBqEa) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [Songs for Smiling](https://open.spotify.com/album/42B34LRfKk5xXlcrFx1W10) | 3:00 | 2022-01-28 | 2022-11-13 |
+| [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 | 2023-08-18 |  |
 | [Move Your Feet](https://open.spotify.com/track/7cGfrVoC7G03XeXn7yflx5) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/2mv4iqMpFW99tKHpZwKETJ) | 3:01 | 2022-01-28 | 2022-07-29 |
-| [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 | 2022-01-28 |  |
+| [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 | 2022-01-28 | 2024-03-23 |
 | [Mr\. Blue Sky](https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 5:03 | 2022-01-28 |  |
 | [My Own Drum \(Remix\) \[with Missy Elliott\]](https://open.spotify.com/track/23S9UFWrkq2FcDAU2zUzey) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Vivo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk) | 2:57 | 2022-01-28 |  |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2022-01-28 |  |

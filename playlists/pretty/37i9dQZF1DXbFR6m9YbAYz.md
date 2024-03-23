@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 
 > Country tracks to pump up your gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,476 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,567 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 13 | [Night Shift](https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 2:52 |
 | 14 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 |
 | 15 | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD) | 2:49 |
-| 16 | [Should've Been A Cowboy](https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:31 |
-| 17 | [One Man Band](https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:06 |
+| 16 | [One Man Band](https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:06 |
+| 17 | [Should've Been A Cowboy](https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:31 |
 | 18 | [Hurricane](https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:42 |
 | 19 | [Fall In Love](https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:52 |
 | 20 | [Dirt On My Boots](https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:21 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 29 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
 | 30 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe) | 3:45 |
 | 31 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 |
-| 32 | [Life is a Highway](https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 4:35 |
+| 32 | [Take Me Home, Country Roads](https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol 1: Take Me Home Country Roads](https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU) | 3:17 |
 | 33 | [Need A Favor](https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:17 |
-| 34 | [Take Me Home, Country Roads](https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol 1: Take Me Home Country Roads](https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU) | 3:17 |
+| 34 | [Life is a Highway](https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 4:35 |
 | 35 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
 | 36 | [Knee Deep \(feat\. Jimmy Buffett\)](https://open.spotify.com/track/60IGhnH20N82dNxKnc8jDd) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [You Get What You Give](https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8) | 3:23 |
 | 37 | [Dirt Road Anthem](https://open.spotify.com/track/5ZVGvay4xwgXMnQWffNYeU) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 74 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 |
 | 75 | [The Git Up](https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Honeysuckle & Lightning Bugs](https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12) | 3:20 |
 
-Snapshot ID: `MCxkYmVlMzJmNWU1OWE3MmUzMjlhMGYxYzJjY2UyY2RkNTU5N2ViY2Zj`
+Snapshot ID: `MCw0Mjc2MTIwNTkzMWEyMzI5NDhmMzNhZmU0NzIwNWNjMWQ1ODg0Y2Qw`

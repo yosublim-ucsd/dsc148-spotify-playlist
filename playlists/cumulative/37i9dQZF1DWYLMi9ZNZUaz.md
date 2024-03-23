@@ -4,7 +4,7 @@
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-146 songs - 8 hr 24 min
+147 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Biển Xanh Sâu Thẳm](https://open.spotify.com/track/0CDr4vl3o2TGlsRCwAtxPk) | [LK](https://open.spotify.com/artist/6S0JgJU2l6ds1EhZUJMQFk), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [11](https://open.spotify.com/album/0ZuBeVw9faM6WEWLDHfYP0) | 4:20 | 2023-12-24 | 2024-01-02 |
 | [Blue Tequila](https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh) | [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Blue Tequila](https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU) | 3:22 | 2023-10-19 | 2024-01-24 |
 | [Buồn Hay Vui \(feat\. RPT MCK, Obito, Ronboogz & Boyzed\)](https://open.spotify.com/track/1khMN4Adfi3LrZvxOq4YM5) | [VSOUL](https://open.spotify.com/artist/22MX8BG5870DGzpNricY7q), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e), [Boyzed](https://open.spotify.com/artist/1JPTuJJ7KzpwcDCOWkEjUb) | [Buồn Hay Vui \(feat\. RPT MCK, Obito, Ronboogz & Boyzed\)](https://open.spotify.com/album/5G6By1MBIwE0P4ixJ06x1M) | 4:51 | 2024-01-01 |  |
-| [Bài Này Chill Phết](https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Bài Này Chill Phết](https://open.spotify.com/album/7vjwxcUJGv2cAD584tBDzn) | 4:36 | 2023-10-19 |  |
+| [Bài Này Chill Phết](https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Bài Này Chill Phết](https://open.spotify.com/album/7vjwxcUJGv2cAD584tBDzn) | 4:36 | 2023-10-19 | 2024-03-23 |
 | [Bạn Đời](https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW) | [Bạn Đời](https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2) | 5:00 | 2023-10-19 |  |
 | [Bảo Tàng](https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Bảo Tàng](https://open.spotify.com/album/4ZaeSyWcJmXC2tJgU70q31) | 3:05 | 2023-11-30 | 2024-03-01 |
 | [Bật Nhạc Lên](https://open.spotify.com/track/0hiQvlWSSTr7n1kc1X2Lus) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Harmonie](https://open.spotify.com/artist/5UaJojKyJSqngDfoUw0P01) | [Bật Nhạc Lên](https://open.spotify.com/album/0YuGAT79ULNpdxzxWVXHFH) | 3:20 | 2023-12-11 |  |
@@ -101,6 +101,7 @@
 | [nhắn nhủ](https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [nhắn nhủ](https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE) | 4:01 | 2024-01-08 |  |
 | [NOLOVENOLIFE](https://open.spotify.com/track/4X2vrRE8Pi5hBMbWRjofAU) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u) | 2:50 | 2023-10-19 | 2024-03-09 |
 | [Nói Dối](https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Nói Dối](https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP) | 3:26 | 2024-01-08 |  |
+| [Nói Dối \(feat\. HIEUTHUHAI\)](https://open.spotify.com/track/3LlEZ4J1ORcgP1WmTF9pIX) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Nói Dối \(feat\. HIEUTHUHAI\)](https://open.spotify.com/album/5nQQMbatNcXU1oORUNecxH) | 3:19 | 2024-03-22 |  |
 | [Nước Mắt Đâu Thể Rơi Được](https://open.spotify.com/track/7vG5QPy4Bw79XNGHOR8PJA) | [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [Trap House Live Session](https://open.spotify.com/album/7v3MTXj9UV8Qws6AQmYouN) | 4:28 | 2023-12-11 | 2023-12-16 |
 | [Nước Mắt Đâu Thể Rơi Được](https://open.spotify.com/track/2QQvF5dtJUs6fV5SvmTtIG) | [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Hipz](https://open.spotify.com/artist/3g8l4a4JtYNpYKqSMZMnK0) | [Nội Dung Nhạy Cảm \- Part 1](https://open.spotify.com/album/2StnATXXmw0Ym2R9e2dOLq) | 3:33 | 2024-01-24 | 2024-02-03 |
 | [Nấu ăn cho em](https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [PiaLinh](https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54) | [Nấu ăn cho em](https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t) | 4:01 | 2023-10-19 |  |

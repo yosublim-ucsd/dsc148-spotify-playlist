@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 9216,
+  "2024-03-23": 9233,
   "date_first_scraped": "2023-04-07",
   "description": "Fresh gospel music from Ghana. Cover: MOGMusic",
   "name": "Aseda",
@@ -225,7 +225,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 486295,
       "name": "Awake",
       "url": "https://open.spotify.com/track/4ppSvQRAPYr3sRP9KQPBaD"
@@ -348,6 +348,28 @@
     },
     {
       "album": {
+        "name": "Come and See",
+        "url": "https://open.spotify.com/album/6Le36V9KISl0nz7lJicj5g"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342981,
+      "name": "Come and See",
+      "url": "https://open.spotify.com/track/23GEN8dLBDYRAiDSno0eP2"
+    },
+    {
+      "album": {
         "name": "CYB",
         "url": "https://open.spotify.com/album/0KqMiA8MVuuBsK8KXlCAmy"
       },
@@ -385,7 +407,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 428307,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w"
@@ -487,6 +509,32 @@
       "duration_ms": 433646,
       "name": "Glory Chants",
       "url": "https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb"
+    },
+    {
+      "album": {
+        "name": "God",
+        "url": "https://open.spotify.com/album/6djpZU9KriE1JFGYMFR99p"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "Perez Musik",
+          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
+        },
+        {
+          "name": "Raphiya",
+          "url": "https://open.spotify.com/artist/63kXrkjuF7kSlKZILAOezv"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334577,
+      "name": "God",
+      "url": "https://open.spotify.com/track/2YpfKZUMIZ4MQE9JJR1g6v"
     },
     {
       "album": {
@@ -838,6 +886,24 @@
     },
     {
       "album": {
+        "name": "Medaase",
+        "url": "https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199755,
+      "name": "Medaase",
+      "url": "https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w"
+    },
+    {
+      "album": {
         "name": "Mehyia Yesu",
         "url": "https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp"
       },
@@ -1083,7 +1149,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 385968,
       "name": "Only You(Solo Version)",
       "url": "https://open.spotify.com/track/591apkzyJMsuqxmtPsUd4R"

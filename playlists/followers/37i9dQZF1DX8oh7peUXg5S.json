@@ -1,8 +1,8 @@
 {
-  "2024-03-22": 324252,
+  "2024-03-23": 324301,
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Pedro Pastor.",
-  "name": "Cantautores",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: La Otra.",
+  "name": "Cantautoras",
   "tracks": [
     {
       "album": {
@@ -3027,7 +3027,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 365986,
       "name": "Mi Problema",
       "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
@@ -3760,6 +3760,24 @@
     },
     {
       "album": {
+        "name": "Pelea",
+        "url": "https://open.spotify.com/album/4qdxRH2Bky1scYkme2xAY9"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261224,
+      "name": "Pelea",
+      "url": "https://open.spotify.com/track/6QR5lxnnoHQYp2mzPaQLoA"
+    },
+    {
+      "album": {
         "name": "Poetas Andaluces",
         "url": "https://open.spotify.com/album/04oTnscF3tloAc3mTRYLTt"
       },
@@ -4065,7 +4083,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 281095,
       "name": "Qui\u00e9reme Bien (feat. Leiva)",
       "url": "https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m"
@@ -4988,6 +5006,28 @@
     },
     {
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212019,
+      "name": "T\u00f3came",
+      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
+    },
+    {
+      "album": {
         "name": "T\u00fa Ve",
         "url": "https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4"
       },
@@ -5105,7 +5145,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 308333,
       "name": "Un Solo Corazo\u0301n",
       "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"
@@ -5239,6 +5279,24 @@
       "duration_ms": 213573,
       "name": "Vidas cruzadas (feat. Ivan Ferreiro)",
       "url": "https://open.spotify.com/track/7n3vJc7HYnvqo8Gn7FnXJh"
+    },
+    {
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235032,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/7K1DtfK970Vv59zIVpELCV"
     },
     {
       "album": {

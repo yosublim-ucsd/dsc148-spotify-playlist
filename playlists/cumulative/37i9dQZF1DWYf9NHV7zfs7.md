@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷 Diego Torres
 
-207 songs - 11 hr 21 min
+208 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Corazón Verde](https://open.spotify.com/track/7db88fb0PnqlhoVYS6OTvw) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Santo Entendimiento](https://open.spotify.com/album/270GF8UBhPXwdU6t5IvoZT) | 2:51 | 2023-10-23 | 2023-11-16 |
 | [Cositas](https://open.spotify.com/track/6u0O2Kmx6BxnYUDyVtUY3I) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Cositas](https://open.spotify.com/album/4prSQa2wK7Ge0Pdqc7tPlP) | 2:31 | 2023-11-10 |  |
 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 | 2023-10-23 |  |
+| [Dame Chance \(Rayuela\)](https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Dame Chance \(Rayuela\)](https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL) | 2:32 | 2024-03-22 |  |
 | [De Nada \- Remix](https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Nada \(Remix\)](https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC) | 2:59 | 2023-07-14 | 2023-10-24 |
 | [Departamento](https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Departamento](https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj) | 3:54 | 2023-10-23 |  |
 | [Detox](https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Detox](https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk) | 2:47 | 2023-10-23 |  |
@@ -136,7 +137,7 @@
 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2023-07-14 | 2023-10-24 |
 | [Monoambiente en Capital](https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS), [Nico Cotton](https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc) | [Monoambiente en Capital](https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7) | 3:01 | 2023-10-23 |  |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2023-07-14 | 2023-10-24 |
-| [Moscas en la Casa](https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Mujer & Ego](https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ) | 3:34 | 2023-10-23 |  |
+| [Moscas en la Casa](https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Mujer & Ego](https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ) | 3:34 | 2023-10-23 | 2024-03-23 |
 | [Motivos](https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Abel](https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW) | 3:01 | 2023-10-23 |  |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2023-07-14 | 2023-10-24 |
 | [MYA LIVE P3: Qué Pasará](https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [MYA LIVE P3: Qué Pasará](https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E) | 3:33 | 2023-10-23 |  |

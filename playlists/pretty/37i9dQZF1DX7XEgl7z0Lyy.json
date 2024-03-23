@@ -1,12 +1,12 @@
 {
   "description": "music from the underworld",
-  "num_followers": 376635,
+  "num_followers": 378509,
   "original_name": "hexxed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODcwNzc3ZmM2ZjNiYjg3NDkzNzllZjVkZTgyNGM1YjYzMDk3ODc3",
+  "snapshot_id": "MCxjZjdmMTIwNGEzNDk1NTdiZWRlY2YyNzE1ZTQ3NTIzODY3NmEyOWEz",
   "tracks": [
     {
       "added_at": "2024-03-21 23:05:36",
@@ -23,6 +23,22 @@
       "duration_ms": 120165,
       "name": "DICE AND ROLL",
       "url": "https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"
+    },
+    {
+      "added_at": "2024-03-22 17:31:56",
+      "album": {
+        "name": "touch",
+        "url": "https://open.spotify.com/album/4QwGaVHr7cP7lgFsmuIXBw"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "touch",
+      "url": "https://open.spotify.com/track/4mVjPiUXDBxX63pxnldaBR"
     },
     {
       "added_at": "2024-03-05 18:42:51",
@@ -271,30 +287,6 @@
       "duration_ms": 155028,
       "name": "SHAKE THAT SHIT!",
       "url": "https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "HOW DO YOU DO!",
-        "url": "https://open.spotify.com/album/70IBJhimpfYE60cQg31KTx"
-      },
-      "artists": [
-        {
-          "name": "444pluto",
-          "url": "https://open.spotify.com/artist/3BdIZttBTECpglqzqNjrJO"
-        },
-        {
-          "name": "WASTY",
-          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
-        },
-        {
-          "name": "lunarr",
-          "url": "https://open.spotify.com/artist/0sKYQqfTvN5qmHPfhfHNry"
-        }
-      ],
-      "duration_ms": 120134,
-      "name": "HOW DO YOU DO!",
-      "url": "https://open.spotify.com/track/6qNPWDNcy8ZUJ4JeWAxU2A"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -581,24 +573,24 @@
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2024-03-22 21:07:23",
       "album": {
-        "name": "GMFU (w/ 6arelyhuman)",
-        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
+        "name": "PIE (Mataya Waldenberg Remix)",
+        "url": "https://open.spotify.com/album/1FcvMAJ7qAPPdosb9m7oIq"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+          "name": "Creams",
+          "url": "https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc"
         },
         {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+          "name": "Mataya Waldenberg",
+          "url": "https://open.spotify.com/artist/0rvJ6lbPHPr3eRGUjJv5aq"
         }
       ],
-      "duration_ms": 127741,
-      "name": "GMFU (w/ 6arelyhuman)",
-      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
+      "duration_ms": 314996,
+      "name": "PIE - Mataya Waldenberg Remix",
+      "url": "https://open.spotify.com/track/3yWPDaZ1eScmdKjEWWMoVL"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -771,6 +763,26 @@
       "duration_ms": 64842,
       "name": "Suffocation - Slowed",
       "url": "https://open.spotify.com/track/15uq77MdhAjrnBuumngIsz"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "GMFU (w/ 6arelyhuman)",
+        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 127741,
+      "name": "GMFU (w/ 6arelyhuman)",
+      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1775,22 +1787,6 @@
       "duration_ms": 124735,
       "name": "BREAKING BAD (feat. 9lives)",
       "url": "https://open.spotify.com/track/0ntFxM0eD0OMz4rCgRSoLO"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 129445,
-      "name": "GREEN GOBLIN - Spotify Singles",
-      "url": "https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar"
     },
     {
       "added_at": "2024-01-12 05:00:00",

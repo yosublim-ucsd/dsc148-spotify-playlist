@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "3 new words",
+        "url": "https://open.spotify.com/album/3dCIy3cVrxA4JjlbSUGbCm"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174293,
+      "name": "3 new words",
+      "url": "https://open.spotify.com/track/5M1OsXPtMfVM6hbrwIiZnr"
+    },
+    {
+      "album": {
         "name": "A440",
         "url": "https://open.spotify.com/album/2xTFImWVQRC1PfDMCOxwwe"
       },
@@ -158,7 +176,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 181639,
       "name": "50/50",
       "url": "https://open.spotify.com/track/3ANR48a5B76FjAWpmsHwrF"
@@ -608,7 +626,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 124371,
       "name": "ANGEL",
       "url": "https://open.spotify.com/track/1Hlb5As8d3o1wiWou14m2R"
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 203216,
       "name": "Better Things",
       "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
@@ -1348,6 +1366,24 @@
       "duration_ms": 138888,
       "name": "Bing Bong Love Song",
       "url": "https://open.spotify.com/track/2QaYMOWsraUKljpfSOVJAf"
+    },
+    {
+      "album": {
+        "name": "Birdwatcher",
+        "url": "https://open.spotify.com/album/5jdRIHmKzjrDjvfK6Zf9rZ"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192317,
+      "name": "Birdwatcher",
+      "url": "https://open.spotify.com/track/2poBY9AIHsO7O6MjY4350M"
     },
     {
       "album": {
@@ -1532,7 +1568,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 220550,
       "name": "Blur",
       "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
@@ -2786,7 +2822,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 162020,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3"
@@ -2884,6 +2920,24 @@
       "duration_ms": 211666,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
+    },
+    {
+      "album": {
+        "name": "DIRT",
+        "url": "https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "DIRT",
+      "url": "https://open.spotify.com/track/4yecHdRmT62mztymihKxYK"
     },
     {
       "album": {
@@ -3036,7 +3090,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 137493,
       "name": "Do You Like That?",
       "url": "https://open.spotify.com/track/4iPDeH7j5ukp65ru6Vf7OQ"
@@ -3174,7 +3228,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 165933,
       "name": "Don't Leave Yet",
       "url": "https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD"
@@ -4076,7 +4130,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 181013,
       "name": "Fire Escape",
       "url": "https://open.spotify.com/track/6ioepXJnamsD1iXWOAFKM4"
@@ -6302,7 +6356,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 224940,
       "name": "in my head",
       "url": "https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm"
@@ -6466,6 +6520,24 @@
       "duration_ms": 124751,
       "name": "Irresponsible",
       "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
+    },
+    {
+      "album": {
+        "name": "Is This What Love Is?",
+        "url": "https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223231,
+      "name": "Is This What Love Is?",
+      "url": "https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40"
     },
     {
       "album": {
@@ -7272,7 +7344,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 104850,
       "name": "Locket",
       "url": "https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u"
@@ -9794,7 +9866,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 192079,
       "name": "Remember When",
       "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
@@ -10780,7 +10852,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 192181,
       "name": "Slow (with Ciara)",
       "url": "https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5"
@@ -11654,7 +11726,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 218762,
       "name": "Swapping Socks",
       "url": "https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga"
@@ -11698,6 +11770,36 @@
       "duration_ms": 188000,
       "name": "symphony (feat. JEY)",
       "url": "https://open.spotify.com/track/75HlF3Lupjc6TMwmYR7kjN"
+    },
+    {
+      "album": {
+        "name": "TAKA",
+        "url": "https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "contra",
+          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "TAKA",
+      "url": "https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil"
     },
     {
       "album": {
@@ -12572,7 +12674,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 163253,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw"
@@ -13266,6 +13368,24 @@
       "duration_ms": 150755,
       "name": "WET DREAM",
       "url": "https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms"
+    },
+    {
+      "album": {
+        "name": "What (I Wish) He Said",
+        "url": "https://open.spotify.com/album/3EXsqaNPtQNCdBoXczLKpl"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "What (I Wish) He Said",
+      "url": "https://open.spotify.com/track/4guvT3MyI2ydXSxpW5dxNM"
     },
     {
       "album": {

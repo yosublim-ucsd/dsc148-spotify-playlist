@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152787,
+  "num_followers": 152792,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjBjODM1MjIyYzBjNzhmNzk0ODJlNGNlNWY0MmI0NGExYTIwMzRi",
+  "snapshot_id": "MCw0YjQ5NjcxZDczOTNiY2QxMzU5MTU1ZjE5OGM1YTBmNmI0YzZiMWFl",
   "tracks": [
     {
       "added_at": "2024-01-12 09:52:44",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "Minimum",
-      "url": "https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Stop All the World Now (Special Edition)",
         "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Undiscovered",
-        "url": "https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "You Give Me Something",
-      "url": "https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Unbreakable Smile",
         "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 188946,
       "name": "I Was Made For Loving You",
       "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Undiscovered",
+        "url": "https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "You Give Me Something",
+      "url": "https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Matters of the Heart",
-        "url": "https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw"
-      },
-      "artists": [
-        {
-          "name": "RuthAnne",
-          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "The Vow",
-      "url": "https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 218946,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Matters of the Heart",
+        "url": "https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw"
+      },
+      "artists": [
+        {
+          "name": "RuthAnne",
+          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "The Vow",
+      "url": "https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "Get Here - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "Voicenotes",
         "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 217560,
       "name": "Change (feat. James Taylor)",
       "url": "https://open.spotify.com/track/17RMnDmv5CEo3s0tmipRyb"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Get Here - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
-      },
-      "artists": [
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "The Sun Will Come up, The Seasons Will Change",
         "url": "https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 232800,
       "name": "Is It Really Me You're Missing",
       "url": "https://open.spotify.com/track/2lgyZWQSJWmswrLJyM27kB"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
+      },
+      "artists": [
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Keeping Faith",
         "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD"
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
         }
       ],
-      "duration_ms": 229783,
-      "name": "Flux",
-      "url": "https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy"
+      "duration_ms": 310000,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1599,6 +1583,22 @@
       "duration_ms": 237857,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 229783,
+      "name": "Flux",
+      "url": "https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy"
     },
     {
       "added_at": "2024-01-12 09:52:44",

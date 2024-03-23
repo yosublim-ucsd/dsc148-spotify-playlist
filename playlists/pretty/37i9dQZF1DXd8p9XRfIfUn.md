@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Picus
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,066 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,155 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 53 | [Bendición](https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bendición](https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N) | 3:05 |
 | 54 | [Chakalicious](https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Chakalicious](https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC) | 3:19 |
 | 55 | [COMO TE VEO](https://open.spotify.com/track/0UhTJB22OyfSp4sbYz0MSa) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [COMO TE VEO](https://open.spotify.com/album/7JdT4amYapsoKhOvZYT2tE) | 3:26 |
-| 56 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 |
-| 57 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 |
+| 56 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 |
+| 57 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 |
 | 58 | [Pal' Otro Año](https://open.spotify.com/track/68IONBceV20r5OOr6961PQ) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pal' Otro Año](https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9) | 2:30 |
 | 59 | [Perdonémonos](https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Perdonémonos](https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i) | 2:16 |
 | 60 | [¿Por Qué Te Enojái?](https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [¿Por Qué Te Enojái?](https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc) | 3:37 |
 
-Snapshot ID: `MCw2MDlkZDRhN2I2ZWMzODY2MWY1OGNkOGVjMTEwMzMyNzA5MTYwYzdl`
+Snapshot ID: `MCwwYTBkM2JiOWUzY2MwM2FlY2U1OTY2YjczMzZkYmNjYzAxZDA0MjUw`

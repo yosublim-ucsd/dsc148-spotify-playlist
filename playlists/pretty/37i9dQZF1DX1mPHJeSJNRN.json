@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 14503,
+  "num_followers": 14546,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Nzg3MjU3MDRlOGRhZWUwNTk2OTk3OTNkMzI0Yjk3ZmVlYjc0YzY5",
+  "snapshot_id": "MCw4YTcwODU1MWI4YzcxMTBiZDNlZTQ0ODJkMjZlYzU5OGU4ZmYzNTgy",
   "tracks": [
     {
       "added_at": "2024-03-20 14:51:50",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 477973,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "Straight, No Chaser",
         "url": "https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 1000600,
       "name": "Japanese Folk Song",
       "url": "https://open.spotify.com/track/5H91eWhSKcawShPDWN1Sxw"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 477973,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "The Lost Tapes",
-        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "There'll Be Another Spring",
-      "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "Nothing Standard",
         "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 247149,
       "name": "When the Sun Comes Out",
       "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "There'll Be Another Spring",
+      "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "Here I'll Stay",
-      "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "The Complete Bill Evans On Verve",
         "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 237200,
       "name": "It Must Be Love",
       "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "Here I'll Stay",
+      "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
+        "name": "They Say It's Swing",
+        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
+      },
+      "artists": [
+        {
+          "name": "Clare Teal",
+          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
+        }
+      ],
+      "duration_ms": 249997,
+      "name": "They Say It's Spring",
+      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
         "name": "Let's Face the Music",
         "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
       },
@@ -1027,18 +1043,26 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "They Say It's Swing",
-        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
+        "name": "Den milde dag er lys og lang",
+        "url": "https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC"
       },
       "artists": [
         {
-          "name": "Clare Teal",
-          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
+          "name": "Alex Riel",
+          "url": "https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH"
+        },
+        {
+          "name": "Bo Stief",
+          "url": "https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg"
+        },
+        {
+          "name": "Carsten Dahl",
+          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
         }
       ],
-      "duration_ms": 249997,
-      "name": "They Say It's Spring",
-      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
+      "duration_ms": 146146,
+      "name": "Den milde dag er lys og lang",
+      "url": "https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1067,30 +1091,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Den milde dag er lys og lang",
-        "url": "https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC"
-      },
-      "artists": [
-        {
-          "name": "Alex Riel",
-          "url": "https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH"
-        },
-        {
-          "name": "Bo Stief",
-          "url": "https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg"
-        },
-        {
-          "name": "Carsten Dahl",
-          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
-        }
-      ],
-      "duration_ms": 146146,
-      "name": "Den milde dag er lys og lang",
-      "url": "https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 384360,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/23kcsi6ginGDR2hAL0fxGV"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "Dare That Dream",
         "url": "https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 256972,
       "name": "You Must Believe In Spring",
       "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 384360,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/23kcsi6ginGDR2hAL0fxGV"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1167,22 +1167,6 @@
       "duration_ms": 227960,
       "name": "Take a Giant Step",
       "url": "https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
-        "name": "Come What May",
-        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "I Believe In You",
-      "url": "https://open.spotify.com/track/362GKG5yz5Da5c77jUsR9A"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Origin",
-        "url": "https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE"
+        "name": "Come What May",
+        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
       },
       "artists": [
         {
-          "name": "Joey Alexander",
-          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
         }
       ],
-      "duration_ms": 269856,
-      "name": "Promise of Spring",
-      "url": "https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K"
+      "duration_ms": 178573,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/362GKG5yz5Da5c77jUsR9A"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1251,6 +1235,22 @@
       "duration_ms": 401226,
       "name": "Up Jumped Spring",
       "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "duration_ms": 269856,
+      "name": "Promise of Spring",
+      "url": "https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
-      },
-      "artists": [
-        {
-          "name": "Alma Naidu",
-          "url": "https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE"
-        }
-      ],
-      "duration_ms": 277866,
-      "name": "Something 'bout the Rain",
-      "url": "https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "Let's Sail Away",
         "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 283826,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
+      },
+      "artists": [
+        {
+          "name": "Alma Naidu",
+          "url": "https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE"
+        }
+      ],
+      "duration_ms": 277866,
+      "name": "Something 'bout the Rain",
+      "url": "https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK"
     },
     {
       "added_at": "2024-03-20 14:51:50",

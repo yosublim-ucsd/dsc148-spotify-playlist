@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,342,179 likes - 100 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,342,568 likes - 100 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,18 +13,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 3 | [Wasting Love \(2015 Remaster\)](https://open.spotify.com/track/5VR7R8L5MivClO1VxZdZFx) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH) | 5:51 |
 | 4 | [Lonely Day](https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 2:47 |
 | 5 | [I Don't Want To Miss A Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 4:59 |
-| 6 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 |
-| 7 | [Behind Blue Eyes](https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:29 |
+| 6 | [Behind Blue Eyes](https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:29 |
+| 7 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 |
 | 8 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 |
 | 9 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
 | 10 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 |
 | 11 | [Aerials](https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:55 |
 | 12 | [Zombie](https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Disobey](https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe) | 4:14 |
-| 13 | [Bed Of Roses](https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith](https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq) | 6:34 |
+| 13 | [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:30 |
 | 14 | [Knockin' On Heaven's Door](https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:36 |
-| 15 | [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:30 |
-| 16 | [Cryin'](https://open.spotify.com/track/4t1fWWJQs5V9YErfsrDslC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 5:08 |
-| 17 | [Through Glass](https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[10th Anniversary Edition\]](https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq) | 4:42 |
+| 15 | [Cryin'](https://open.spotify.com/track/4t1fWWJQs5V9YErfsrDslC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 5:08 |
+| 16 | [Through Glass](https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[10th Anniversary Edition\]](https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq) | 4:42 |
+| 17 | [Bed Of Roses](https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith](https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq) | 6:34 |
 | 18 | [Nothing Else Matters \(Remastered\)](https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:28 |
 | 19 | [Send Me An Angel](https://open.spotify.com/track/1bKQ48M9onID2kbSpRy8kK) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:33 |
 | 20 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 72 | [Voice of the Soul](https://open.spotify.com/track/69Yia3qCLw6N9U80WhLwLn) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [The Sound of Perseverance \- Reissue](https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB) | 3:43 |
 | 73 | [Blue on Black](https://open.spotify.com/track/0buT7DERYwcKnNanKwbrUc) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None](https://open.spotify.com/album/1hMjINqA3UZ1ITb47wizsC) | 4:34 |
 | 74 | [The Price](https://open.spotify.com/track/5iF683hJagzos663BxLns9) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:49 |
-| 75 | [Without You](https://open.spotify.com/track/2t8hAwOuHbNOl76LBWMU0R) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe) | 4:28 |
-| 76 | [Alone Again](https://open.spotify.com/track/5Q916vqrwfON21qlJiXpSz) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Tooth and Nail](https://open.spotify.com/album/68bOQyF7s918K2nUIXSGWo) | 4:20 |
+| 75 | [Alone Again](https://open.spotify.com/track/5Q916vqrwfON21qlJiXpSz) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Tooth and Nail](https://open.spotify.com/album/68bOQyF7s918K2nUIXSGWo) | 4:20 |
+| 76 | [Without You](https://open.spotify.com/track/2t8hAwOuHbNOl76LBWMU0R) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe) | 4:28 |
 | 77 | [Hard Luck Woman](https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:34 |
 | 78 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
 | 79 | [Another Day](https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 4:23 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 89 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 |
 | 90 | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3) | 5:01 |
 | 91 | [Heartbreak Station](https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Heartbreak Station](https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA) | 4:28 |
-| 92 | [Have You Ever Needed Someone So Bad](https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 5:24 |
-| 93 | [Love Song](https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [The Great Radio Controversy](https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM) | 5:23 |
+| 92 | [Love Song](https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [The Great Radio Controversy](https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM) | 5:23 |
+| 93 | [Have You Ever Needed Someone So Bad](https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 5:24 |
 | 94 | [The Unforgiven III](https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06) | 7:46 |
 | 95 | [Heart of Steel](https://open.spotify.com/track/4YXhOackOMOlQTMAwsDHo6) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Kings of Metal](https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB) | 5:10 |
 | 96 | [Beyond the Realms of Death](https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Stained Class](https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297) | 6:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 99 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 |
 | 100 | [Return to Serenity](https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Ritual](https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE) | 6:30 |
 
-Snapshot ID: `MCxiOTNlMDk4ZjM4MzZlZTczYWJkY2Q0NmVlNDA1NTNiMDAwZmY0NmEw`
+Snapshot ID: `MCw5NDY3ZTczOTk4ODA5M2ZjNWQ2NDA3NjVlZDZhODJlYjIwNWJkYzI1`

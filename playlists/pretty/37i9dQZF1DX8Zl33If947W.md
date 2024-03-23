@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,463 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,561 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 26 | [1000 und 1 Nacht \(Zoom!\) \- Remastered 2011](https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ) | [Klaus Lage](https://open.spotify.com/artist/2gMAioN7m2k5XulfNClMRB) | [Schweißperlen](https://open.spotify.com/album/6ON8j7fH7Sxr51rYpMb7cm) | 3:20 |
 | 27 | [Alles aus Liebe](https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG) | [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Kauf mich! \(Deluxe\-Edition mit Bonus\-Tracks\)](https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc) | 4:32 |
 | 28 | [Nur ein bisschen](https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Nur ein bisschen](https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA) | 2:41 |
-| 29 | [Kleiner Finger Schwur](https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Kleiner Finger Schwur](https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn) | 2:48 |
-| 30 | [June](https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [June](https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf) | 2:44 |
-| 31 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/030dULvYNT5n8vYpIak51w) | [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy) | 3:33 |
-| 32 | [Katharina](https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:00 |
+| 29 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/030dULvYNT5n8vYpIak51w) | [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy) | 3:33 |
+| 30 | [Kleiner Finger Schwur](https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Kleiner Finger Schwur](https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn) | 2:48 |
+| 31 | [Katharina](https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:00 |
+| 32 | [June](https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [June](https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf) | 2:44 |
 | 33 | [Wenn du tanzt](https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq) | [Grande](https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW) | 3:50 |
 | 34 | [Schönste Zeit](https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Kraniche \(plus Track by Track\)](https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP) | 3:53 |
 | 35 | [Kein Liebeslied](https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Mit K](https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9) | 4:18 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 48 | [Zu dir](https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Zwischen meinen Zeilen \(Deluxe\)](https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd) | 3:03 |
 | 49 | [Kaum Erwarten](https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Irgendwie anders](https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw) | 3:13 |
 | 50 | [Blaue Augen](https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Blaue Augen](https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc) | 2:47 |
-| 51 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 |
-| 52 | [Für Immer](https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Für Immer](https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf) | 2:08 |
+| 51 | [Für Immer](https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Für Immer](https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf) | 2:08 |
+| 52 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 |
 | 53 | [Liebeslieder](https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb) | [Alexander Eder](https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE) | [Liebeslieder](https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL) | 2:27 |
 | 54 | [MISS YOU](https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [MISS YOU](https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB) | 2:09 |
 | 55 | [paris syndrom \- dach session](https://open.spotify.com/track/4cvfB6n4wfSXIvND88VRc1) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [paris syndrom \(dach session\)](https://open.spotify.com/album/5FXulrsss6KsfQ7izfaTdP) | 2:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 59 | [dass liebe schön sein kann](https://open.spotify.com/track/1bTNHPvRgDGe2s19htkcPF) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA), [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [dass liebe schön sein kann](https://open.spotify.com/album/47HTLFj9B6XTFSwaYyP1X9) | 2:39 |
 | 60 | [Demo \(Letzter Tag\)](https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 3:29 |
 
-Snapshot ID: `MCwwYzRjNjEwZjllMWQwNTZhZjYzMWY5NjkwY2ViMjU1OWI1N2I1ZjA2`
+Snapshot ID: `MCwzMmEzODI1NzU3YzIxMmU0NmRhMDBlM2Y0M2Q0ZmUxNjY0YjA3NThm`

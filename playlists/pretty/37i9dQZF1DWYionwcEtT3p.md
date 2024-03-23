@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYionwcEtT3p.md) - [plain]
 
 > Hip hop hits, version dancefloor !
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,473 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,477 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYionwcEtT3p.md) - [plain]
 | 38 | [Wake Up in the Sky](https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Wake Up in the Sky](https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB) | 3:24 |
 | 39 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
 | 40 | [Old Town Road \- Remix](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:37 |
-| 41 | [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 |
-| 42 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/1sNQMj0Dq0UHrryEQqP4OY) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 2:43 |
+| 41 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/1sNQMj0Dq0UHrryEQqP4OY) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 2:43 |
+| 42 | [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 |
 | 43 | [In My Feelings](https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:37 |
 | 44 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
 | 45 | [Black Beatles](https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [SremmLife 2 \(Deluxe\)](https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd) | 4:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYionwcEtT3p.md) - [plain]
 | 49 | [Don't Tell 'Em](https://open.spotify.com/track/0Dc7J9VPV4eOInoxUiZrsL) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 4:26 |
 | 50 | [Controlla](https://open.spotify.com/track/3O8NlPh2LByMU9lSRSHedm) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:05 |
 
-Snapshot ID: `MCxlYzY2YTU3OWQ3YzFlMjgxZTEyOTAzZmE4NDA5ZTE1NjY1ZWRmYjIx`
+Snapshot ID: `MCw0OWQ4YTRjOTlkM2RlZGRmMzliMDJkYjAwNWFkZGE0ODk4M2U4N2Q0`

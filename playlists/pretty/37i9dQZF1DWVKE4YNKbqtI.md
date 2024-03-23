@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 
 > Little Walter, Junior Wells, James Cotton the finest blues harmonica players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,776 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,782 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 11 | [Got The Bottle Up And Gone](https://open.spotify.com/track/1a8JNXclpuzv9Rx8KxBbIO) | [Sonny Boy Williamson I](https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4) | [Sonny Boy Williamson Vol\. 1 \(1937 \- 1938\)](https://open.spotify.com/album/7FJtjm0Fhd7q8n4JkA290L) | 2:33 |
 | 12 | [I Wish You Would](https://open.spotify.com/track/6YSJ7rgjRiO3glbDJrBZR3) | [Billy Boy Arnold](https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o) | [Back Where I Belong](https://open.spotify.com/album/59auu3dHE34dRuCajZ2Kd2) | 3:39 |
 | 13 | [Baby Scratch My Back \- Single Version](https://open.spotify.com/track/4BbLz6pVP5oXl2plR7HLMZ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:53 |
-| 14 | [Hoodoo Man Blues](https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:06 |
-| 15 | [Work With Me Annie](https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Shake My Hand](https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm) | 4:18 |
+| 14 | [Work With Me Annie](https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Shake My Hand](https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm) | 4:18 |
+| 15 | [Hoodoo Man Blues](https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:06 |
 | 16 | [Have A Good Time](https://open.spotify.com/track/0xfzxjWLAsAZB0KC1juVUZ) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Big Walter Horton w/ Carey Bell](https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5) | 3:48 |
 | 17 | [Down Home Blues](https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t), [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Harp Attack!](https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b) | 6:23 |
 | 18 | [Diggin' My Potatoes](https://open.spotify.com/track/7vsJLJHAYHRmovTbRTgRFx) | [Brownie McGhee](https://open.spotify.com/artist/3qXzj7WzBV3kwy1yEV1RcC), [Sonny Terry](https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv) | [Wizard Of The Harmonica](https://open.spotify.com/album/5lDFjfrldTB4HSFWkDYUBw) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 49 | [The Hucklebuck](https://open.spotify.com/track/3HaAIm8CuHSdxxdbv14JkG) | [Marcos Coll](https://open.spotify.com/artist/5mKLyd8tTJxeMvsNXhiHrV), [Keith Dunn](https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL) | [Under the Wings](https://open.spotify.com/album/3TpFzGrkx7auCFdstsj2fL) | 4:10 |
 | 50 | [Bluesy](https://open.spotify.com/track/078lhMIegYPNI58tyFn6o8) | [Louis Myers](https://open.spotify.com/artist/2MHJe9H2p09aSHJm7yrwNh) | [Blues Harp Hero](https://open.spotify.com/album/5lkj3Xw9Xw5VUY38BvTmXL) | 2:44 |
 
-Snapshot ID: `MCxlMWJkZWZmMDBhNmNlNTE0NGJmNDE5MjM5NjdiY2NkMDg0NGUzMWRh`
+Snapshot ID: `MCw1NzVjMGY2YmZiNmVjMWFjZjNjYjg2MzU3OTMzY2ZjMTU3NmNhNDFm`

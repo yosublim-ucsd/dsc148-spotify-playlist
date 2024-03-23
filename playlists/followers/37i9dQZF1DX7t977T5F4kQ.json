@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 20311,
+  "2024-03-23": 20324,
   "date_first_scraped": "2022-12-01",
   "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Ghetto Boy",
   "name": "Ghana Party",
@@ -21,7 +21,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 177067,
       "name": "10 Toes (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
@@ -73,6 +73,32 @@
       "duration_ms": 163111,
       "name": "2 Shots",
       "url": "https://open.spotify.com/track/7D5teOLgUBiDS4LrKIVNGe"
+    },
+    {
+      "album": {
+        "name": "2 whiskey (feat. Medikal & Kweku Flick)",
+        "url": "https://open.spotify.com/album/1FIurcGLJmbilxCcLtqBvO"
+      },
+      "artists": [
+        {
+          "name": "Yaw Tog",
+          "url": "https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198332,
+      "name": "2 whiskey (feat. Medikal & Kweku Flick)",
+      "url": "https://open.spotify.com/track/6Wt3avIFeHmEjEdL3C48WP"
     },
     {
       "album": {
@@ -707,7 +733,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 166885,
       "name": "Atele",
       "url": "https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB"
@@ -2459,7 +2485,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 199934,
       "name": "Gboza",
       "url": "https://open.spotify.com/track/6K9kZQF9mugqUJ47BWf1jL"
@@ -3470,6 +3496,24 @@
     },
     {
       "album": {
+        "name": "Makoma",
+        "url": "https://open.spotify.com/album/27Nr3Bf2wlj1pyPLNodfA5"
+      },
+      "artists": [
+        {
+          "name": "Becca",
+          "url": "https://open.spotify.com/artist/6vMTJy1XlG5FzAuuSLLTAX"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Makoma",
+      "url": "https://open.spotify.com/track/2rnggPpQaIIfH2jlAjluqn"
+    },
+    {
+      "album": {
         "name": "Man Down",
         "url": "https://open.spotify.com/album/0M7Q84WZQSbgYhjDgBpa32"
       },
@@ -3559,6 +3603,46 @@
       "duration_ms": 172000,
       "name": "Masesa",
       "url": "https://open.spotify.com/track/0h6KxX4VJVRUL2lQhCmMFE"
+    },
+    {
+      "album": {
+        "name": "Medaase",
+        "url": "https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199755,
+      "name": "Medaase",
+      "url": "https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w"
+    },
+    {
+      "album": {
+        "name": "Killa Riddim",
+        "url": "https://open.spotify.com/album/5POFszPRMh67b1cImkzLnA"
+      },
+      "artists": [
+        {
+          "name": "KillBeatz",
+          "url": "https://open.spotify.com/artist/2GhMAu306y5q68iXy64Puy"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208365,
+      "name": "Million Style",
+      "url": "https://open.spotify.com/track/1aShenubI5JKdlv1S4Sm7s"
     },
     {
       "album": {
@@ -4807,7 +4891,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 218230,
       "name": "Patek",
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"

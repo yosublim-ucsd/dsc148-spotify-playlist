@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 
 > Abajo y a la izquierda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,738 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,764 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 42 | [Afrikaan Beat](https://open.spotify.com/track/6qCCiF2yLCkKZ1YcY3TzpG) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Afrikaan Beat And Other Favorites \(Expanded Edition\)](https://open.spotify.com/album/6eTlcCnO2PwdmehwWSGMnm) | 2:25 |
 | 43 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 |
 | 44 | [Quien lo diría](https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp) | 4:35 |
-| 45 | [Sonido Amazonico](https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:40 |
-| 46 | [Maré](https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3) | 3:33 |
+| 45 | [Maré](https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3) | 3:33 |
+| 46 | [Sonido Amazonico](https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:40 |
 | 47 | [Tú Ve](https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tú Ve](https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4) | 3:58 |
 | 48 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
 | 49 | [Clandestino](https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Clandestino](https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u) | 3:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 59 | [Guacamole](https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [The Nada](https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX) | 5:00 |
 | 60 | [No Me Llores Más \(2019 \- Remaster\)](https://open.spotify.com/track/1SAsJziZq0N3e8bxH0JXe2) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\) \(2019 Remaster\)](https://open.spotify.com/album/2u9pOUyXvLInVwya0I4hcJ) | 4:58 |
 
-Snapshot ID: `MCw1NWU4NDYyY2VkMGEyODdhYWExMWE4NTkzYTk5ZGE3YWEzYmQ0MDYw`
+Snapshot ID: `MCwxNDVhMGJiNzRlZjRlM2Y3ZGYwNGU4MTE5M2EzNWNhMjQzM2RjMTA5`

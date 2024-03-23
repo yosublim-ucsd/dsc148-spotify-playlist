@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 > Songs that make Paul Mescal feel something \- including some from his new film All Of Us Strangers\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,466 likes - 48 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,578 likes - 48 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 | 27 | [Lose This Number](https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beginners](https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY) | 3:56 |
 | 28 | [Between the Bars](https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:21 |
 | 29 | [Ruined](https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Ruined](https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA) | 4:32 |
-| 30 | [Adios, Florida \(Snippet\)](https://open.spotify.com/track/6ZfHhzYnUPGAcw6IwI4Qvk) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Adam Bryanbaum Wiltzie](https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf) | [AWVFTS 0:5 \(The Undivided Five Story\)](https://open.spotify.com/album/5SEZMNgm3o9tr9FgSJ7EUe) | 0:56 |
+| 30 | [Adios, Florida \(Snippet\)](https://open.spotify.com/track/6ZfHhzYnUPGAcw6IwI4Qvk) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [AWVFTS 0:5 \(The Undivided Five Story\)](https://open.spotify.com/album/5SEZMNgm3o9tr9FgSJ7EUe) | 0:56 |
 | 31 | [Young American](https://open.spotify.com/track/4gcZVTYjOBMh1UVlZy2YJW) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Combat Sports](https://open.spotify.com/album/3lgzoi5buvKM7M01qh6WAY) | 2:01 |
 | 32 | [The Plan](https://open.spotify.com/track/2gqQgZuYZJGB00iSENNxT2) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [The Curtain Hits The Cast](https://open.spotify.com/album/5pX5ShZnrzUk60BUvj1F7G) | 3:40 |
 | 33 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 | 47 | [Trucker Speed](https://open.spotify.com/track/46odp6vkKYlv0fPdRhdk1Y) | [Fred Eaglesmith](https://open.spotify.com/artist/0yv1W9HeASlBRyWrzRMhWh) | [6Volts](https://open.spotify.com/album/0N78nEVS8VFiJXdVxGOBB5) | 5:11 |
 | 48 | [For You](https://open.spotify.com/track/4439aAX3jNkNKx1ygUr9WC) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:57 |
 
-Snapshot ID: `MCw0MjhkNjYzYmMzOWJkOWVkMmI2ZTQ5ZDVhMWJmMTRiMGQxNGVjMzgw`
+Snapshot ID: `MCxmYjMzZjJmOWM0MTAzNDM4OTZkNTNiYmNkOWI2ZGNkMWYyY2FmYTY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,171 likes - 121 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,170 likes - 121 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 81 | [Wasted Youth](https://open.spotify.com/track/6u2GjEYlRJ1INFD11twSFh) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic](https://open.spotify.com/album/5dCc6pEo27JNfXbnDcwwf8) | 4:09 |
 | 82 | [I Don't Have to Sleep to Dream](https://open.spotify.com/track/1kxuKjRiXHCGQRj4AeN3ul) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Closer to the Truth \(Deluxe Edition\)](https://open.spotify.com/album/2nlX67uuNKD2avQ17vItT9) | 4:41 |
 | 83 | [Fast Forward](https://open.spotify.com/track/41hmP8GemZuIKrNJybwXe0) | [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Light Years Away](https://open.spotify.com/album/6F9PZFOFx4YIgF51dXNnw0) | 4:44 |
-| 84 | [Hot City](https://open.spotify.com/track/66xUkAhfgsvwPxG6t0pLGX) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/18Ufdr767Mvd8Vs6YcDn2a) | 3:41 |
-| 85 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
+| 84 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
+| 85 | [Hot City](https://open.spotify.com/track/66xUkAhfgsvwPxG6t0pLGX) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/18Ufdr767Mvd8Vs6YcDn2a) | 3:41 |
 | 86 | [SLAY](https://open.spotify.com/track/0MiKPNG2SFuv8xGCG6Liak) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [SLAY](https://open.spotify.com/album/2UajmvL5HXIk23XEIspQAK) | 3:39 |
 | 87 | [American Youth French Kissing](https://open.spotify.com/track/1kmSbT5S418UVfpxGyMGR0) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [American Youth French Kissing](https://open.spotify.com/album/0TuDB51EX2AACnUfcfyulA) | 3:46 |
 | 88 | [Loco \(House Party\)](https://open.spotify.com/track/2bKE2Eebfh3uZm1KA75DEj) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [NOIR \- The 2nd Mini Album](https://open.spotify.com/album/1mxgEueuASm9eoOZdYOoHZ) | 3:10 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 120 | [Bad Witches](https://open.spotify.com/track/5v1PfygiFLtzkzzDxRUgm0) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 2:49 |
 | 121 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 
-Snapshot ID: `Mjg1MTc5MDAsMDAwMDAwMDAwZTJjNWNlOTAwNzE1YThmODk2ODAxODBmZjFmNjgxNA==`
+Snapshot ID: `Mjg1MTkzNDAsMDAwMDAwMDAwZmVmMmM5OTcxYmU2ODMwMDE4MmU5YTc5YjUyMzFlMg==`

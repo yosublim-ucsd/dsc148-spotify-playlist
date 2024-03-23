@@ -1,12 +1,12 @@
 {
   "description": "nothing but bangers to help you with the grind ",
-  "num_followers": 539413,
+  "num_followers": 539455,
   "original_name": "Homework motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTRkY2JjZWE3NDVjZDliZjQxMWIwMzk4MDg2Nzk3NTg1MjZkNDhk",
+  "snapshot_id": "MCxkYzQ4ZjIzZDI3Yjg3ZGM0NjFkMjE5NjVmZTc5MDEwNGM1NWM1ZDMx",
   "tracks": [
     {
       "added_at": "2024-03-21 14:40:52",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-03-21 14:40:52",
       "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+    },
+    {
+      "added_at": "2024-03-21 14:40:52",
+      "album": {
         "name": "Dial Drunk (with Post Malone)",
         "url": "https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 213817,
       "name": "Dial Drunk (with Post Malone)",
       "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK"
-    },
-    {
-      "added_at": "2024-03-21 14:40:52",
-      "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
     },
     {
       "added_at": "2024-03-21 14:40:52",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2024-03-21 14:40:52",
       "album": {
+        "name": "Dancing In The Moonlight (feat. NEIMY)",
+        "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 164009,
+      "name": "Dancing In The Moonlight (feat. NEIMY)",
+      "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
+    },
+    {
+      "added_at": "2024-03-21 14:40:52",
+      "album": {
         "name": "PARANOIA",
         "url": "https://open.spotify.com/album/1RPJNNRo1WUciegpWfioAc"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 198817,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP"
-    },
-    {
-      "added_at": "2024-03-21 14:40:52",
-      "album": {
-        "name": "Dancing In The Moonlight (feat. NEIMY)",
-        "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 164009,
-      "name": "Dancing In The Moonlight (feat. NEIMY)",
-      "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
     },
     {
       "added_at": "2024-03-21 14:40:52",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-03-21 14:40:52",
       "album": {
-        "name": "Can't Tame Her",
-        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 196939,
-      "name": "Can't Tame Her",
-      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
-    },
-    {
-      "added_at": "2024-03-21 14:40:52",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 167903,
       "name": "Paradise (feat. Dermot Kennedy)",
       "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
+    },
+    {
+      "added_at": "2024-03-21 14:40:52",
+      "album": {
+        "name": "Can't Tame Her",
+        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
     },
     {
       "added_at": "2024-03-21 14:40:52",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2024-03-21 14:40:52",
       "album": {
-        "name": "Levitating (feat. DaBaby)",
-        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
-    },
-    {
-      "added_at": "2024-03-21 14:40:52",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
+    },
+    {
+      "added_at": "2024-03-21 14:40:52",
+      "album": {
+        "name": "Levitating (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
     },
     {
       "added_at": "2024-03-21 14:40:52",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-03-21 14:40:52",
       "album": {
-        "name": "Superache",
-        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 153096,
-      "name": "Disaster",
-      "url": "https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw"
-    },
-    {
-      "added_at": "2024-03-21 14:40:52",
-      "album": {
         "name": "Dancing Feet (feat. DNCE)",
         "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
+    },
+    {
+      "added_at": "2024-03-21 14:40:52",
+      "album": {
+        "name": "Superache",
+        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 153096,
+      "name": "Disaster",
+      "url": "https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw"
     },
     {
       "added_at": "2024-03-21 14:40:52",
@@ -2683,22 +2683,6 @@
     {
       "added_at": "2024-03-21 14:40:52",
       "album": {
-        "name": "BLIND",
-        "url": "https://open.spotify.com/album/4SJLNHToJtakGJw8CwPWfU"
-      },
-      "artists": [
-        {
-          "name": "Alex Sampson",
-          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
-        }
-      ],
-      "duration_ms": 153016,
-      "name": "BLIND",
-      "url": "https://open.spotify.com/track/5zr5aYz9hJJJ25wotnbVzH"
-    },
-    {
-      "added_at": "2024-03-21 14:40:52",
-      "album": {
         "name": "So Far So Good",
         "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
       },
@@ -2711,6 +2695,22 @@
       "duration_ms": 202406,
       "name": "iPad",
       "url": "https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6"
+    },
+    {
+      "added_at": "2024-03-21 14:40:52",
+      "album": {
+        "name": "BLIND",
+        "url": "https://open.spotify.com/album/4SJLNHToJtakGJw8CwPWfU"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "duration_ms": 153016,
+      "name": "BLIND",
+      "url": "https://open.spotify.com/track/5zr5aYz9hJJJ25wotnbVzH"
     },
     {
       "added_at": "2024-03-21 14:40:52",
@@ -2859,6 +2859,22 @@
     {
       "added_at": "2024-03-21 14:40:52",
       "album": {
+        "name": "HATE YOUR GUTS",
+        "url": "https://open.spotify.com/album/0wOwIIsyCvsviyZVMyMkuW"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 156329,
+      "name": "HATE YOUR GUTS",
+      "url": "https://open.spotify.com/track/6x3VbkjJpLygkueOL604cz"
+    },
+    {
+      "added_at": "2024-03-21 14:40:52",
+      "album": {
         "name": "Sweet Goodbye",
         "url": "https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo"
       },
@@ -2871,26 +2887,6 @@
       "duration_ms": 157619,
       "name": "Sweet Goodbye",
       "url": "https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm"
-    },
-    {
-      "added_at": "2024-03-21 14:40:52",
-      "album": {
-        "name": "AM:PM",
-        "url": "https://open.spotify.com/album/6VddpmwRbN12eh98innuj7"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 182950,
-      "name": "AM:PM",
-      "url": "https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P"
     },
     {
       "added_at": "2024-03-21 14:40:52",
@@ -2915,6 +2911,26 @@
     {
       "added_at": "2024-03-21 14:40:52",
       "album": {
+        "name": "AM:PM",
+        "url": "https://open.spotify.com/album/6VddpmwRbN12eh98innuj7"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 182950,
+      "name": "AM:PM",
+      "url": "https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P"
+    },
+    {
+      "added_at": "2024-03-21 14:40:52",
+      "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU"
       },
@@ -2931,18 +2947,18 @@
     {
       "added_at": "2024-03-21 14:40:52",
       "album": {
-        "name": "HATE YOUR GUTS",
-        "url": "https://open.spotify.com/album/0wOwIIsyCvsviyZVMyMkuW"
+        "name": "feelings",
+        "url": "https://open.spotify.com/album/1ScPqJzn6l2a8JdnndMZUV"
       },
       "artists": [
         {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
         }
       ],
-      "duration_ms": 156329,
-      "name": "HATE YOUR GUTS",
-      "url": "https://open.spotify.com/track/6x3VbkjJpLygkueOL604cz"
+      "duration_ms": 140598,
+      "name": "feelings",
+      "url": "https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz"
     },
     {
       "added_at": "2024-03-21 14:40:52",
@@ -2967,22 +2983,6 @@
     {
       "added_at": "2024-03-21 14:40:52",
       "album": {
-        "name": "feelings",
-        "url": "https://open.spotify.com/album/1ScPqJzn6l2a8JdnndMZUV"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 140598,
-      "name": "feelings",
-      "url": "https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz"
-    },
-    {
-      "added_at": "2024-03-21 14:40:52",
-      "album": {
         "name": "Do or Die",
         "url": "https://open.spotify.com/album/3u5w7GyGSddv0OadCcjvR2"
       },
@@ -2995,6 +2995,26 @@
       "duration_ms": 150314,
       "name": "Do or Die",
       "url": "https://open.spotify.com/track/3cbxDXAReyXQj8Ri5cAh5e"
+    },
+    {
+      "added_at": "2024-03-21 14:40:52",
+      "album": {
+        "name": "Head on Fire",
+        "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        },
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 188645,
+      "name": "Head on Fire",
+      "url": "https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj"
     },
     {
       "added_at": "2024-03-21 14:40:52",
@@ -3027,26 +3047,6 @@
       "duration_ms": 178080,
       "name": "Glad U Came",
       "url": "https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX"
-    },
-    {
-      "added_at": "2024-03-21 14:40:52",
-      "album": {
-        "name": "Head on Fire",
-        "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        },
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 188645,
-      "name": "Head on Fire",
-      "url": "https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj"
     },
     {
       "added_at": "2024-03-21 14:40:52",
@@ -3107,6 +3107,22 @@
     {
       "added_at": "2024-03-21 14:40:52",
       "album": {
+        "name": "Not The 1975",
+        "url": "https://open.spotify.com/album/1HVxIc8XOtdFhuIQZdTPx9"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 198022,
+      "name": "Not The 1975",
+      "url": "https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd"
+    },
+    {
+      "added_at": "2024-03-21 14:40:52",
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -3143,22 +3159,6 @@
       "duration_ms": 199090,
       "name": "Don't Forget My Love",
       "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
-    },
-    {
-      "added_at": "2024-03-21 14:40:52",
-      "album": {
-        "name": "Not The 1975",
-        "url": "https://open.spotify.com/album/1HVxIc8XOtdFhuIQZdTPx9"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 198022,
-      "name": "Not The 1975",
-      "url": "https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd"
     },
     {
       "added_at": "2024-03-21 14:40:52",
@@ -3371,22 +3371,6 @@
     {
       "added_at": "2024-03-21 14:40:52",
       "album": {
-        "name": "2ND FULL ALBUM 'REBOOT'",
-        "url": "https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 212901,
-      "name": "BONA BONA",
-      "url": "https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF"
-    },
-    {
-      "added_at": "2024-03-21 14:40:52",
-      "album": {
         "name": "Bad Boy",
         "url": "https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q"
       },
@@ -3403,6 +3387,22 @@
       "duration_ms": 182586,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc"
+    },
+    {
+      "added_at": "2024-03-21 14:40:52",
+      "album": {
+        "name": "2ND FULL ALBUM 'REBOOT'",
+        "url": "https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 212901,
+      "name": "BONA BONA",
+      "url": "https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF"
     },
     {
       "added_at": "2024-03-21 14:40:52",

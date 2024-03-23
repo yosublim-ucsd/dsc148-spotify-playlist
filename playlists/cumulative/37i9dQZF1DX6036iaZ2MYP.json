@@ -2221,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "Eyes Contact",
+        "url": "https://open.spotify.com/album/7jafIOo8vv9z2RI83Z5GKK"
+      },
+      "artists": [
+        {
+          "name": "Chris Lobanzo",
+          "url": "https://open.spotify.com/artist/7u8kz2V293SFXUMzz8FGTi"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Eyes Contact",
+      "url": "https://open.spotify.com/track/3U9dBe1iVc2YpXNOioeOyS"
+    },
+    {
+      "album": {
         "name": "B L U N T",
         "url": "https://open.spotify.com/album/404Hu5CuQHTzgdywua3Uei"
       },

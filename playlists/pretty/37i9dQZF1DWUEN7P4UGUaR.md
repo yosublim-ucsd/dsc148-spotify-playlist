@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: MOGMusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,216 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,233 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 12 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 |
 | 13 | [My Everything](https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Wind of Revival](https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY) | 4:41 |
 | 14 | [W'asem](https://open.spotify.com/track/2P1734fFFj2AG4oekoXtHz) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 3:39 |
-| 15 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 |
+| 15 | [Something New](https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:23 |
 | 16 | [Hossana \(Live\)](https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna \(Live\)](https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8) | 5:44 |
-| 17 | [Something New](https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:23 |
+| 17 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 |
 | 18 | [This Far by Grace](https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD) | [Pastor Edwin Dadson](https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH) | [This Far by Grace](https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR) | 4:53 |
 | 19 | [Matwen 20](https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Matwen 20](https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6) | 6:05 |
 | 20 | [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Niiella](https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou) | [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM) | 3:46 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 27 | [Victory Chant](https://open.spotify.com/track/5NVaZm3jsXN7F678HPbPtB) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Victory Chant](https://open.spotify.com/album/4sOw1diNTuAixNZLNafmXH) | 4:52 |
 | 28 | [Chosen](https://open.spotify.com/track/3D28L1BTQL3erWFIEamyBR) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [The Prodigal Son](https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ) | 2:44 |
 | 29 | [Chale](https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Chale](https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17) | 2:26 |
-| 30 | [Turning Around\(Live\)](https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 4:48 |
-| 31 | [Awurade Ye](https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 4:24 |
+| 30 | [Awurade Ye](https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 4:24 |
+| 31 | [Turning Around\(Live\)](https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 4:48 |
 | 32 | [VICTORY](https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [VICTORY](https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU) | 3:56 |
 | 33 | [Mile \(I Know\)](https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD) | [LUIGI MACLEAN](https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6) | [Mile \(I Know\)](https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2) | 5:42 |
 | 34 | [Se Mekume Ho](https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Golden Oil](https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm) | 4:34 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 36 | [Deeper Medley](https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p) | [Deeper Touch](https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP) | 13:01 |
 | 37 | [Lord Have Your Way](https://open.spotify.com/track/53sEAgeh4Pb2hJETL6IkcE) | [Efe Grace Official](https://open.spotify.com/artist/4sUJ8WsQFdYNsOVuXTZLgS) | [Lord Have Your Way](https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD) | 6:08 |
 | 38 | [Man on a Mission](https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [The Prodigal Son](https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ) | 2:37 |
-| 39 | [Nyansabuakwa Nyame](https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nyansabuakwa Nyame](https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq) | 5:56 |
-| 40 | [Yesu Mo](https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Yesu Mo](https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG) | 4:01 |
+| 39 | [Yesu Mo](https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Yesu Mo](https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG) | 4:01 |
+| 40 | [Nyansabuakwa Nyame](https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nyansabuakwa Nyame](https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq) | 5:56 |
 | 41 | [Me Ko M'Anim](https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Efiri Nyame](https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl) | 4:35 |
 | 42 | [Okasa](https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc) | [Eugene Zuta](https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP) | [Okasa](https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP) | 4:27 |
 | 43 | [Show Them](https://open.spotify.com/track/1bVjodrkljnU6ROYr8PIrz) | [Ewura Abena](https://open.spotify.com/artist/66omcxaARiacfGoXuXiHXQ) | [REBIRTH \(Mary's Child\)](https://open.spotify.com/album/2wdYkIbwZzoEw2L5m29G9t) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 49 | [Glory Chants](https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [MOVE VOL 1](https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck) | 7:13 |
 | 50 | [Amenuveve \(Grace\)](https://open.spotify.com/track/2DX6n0p3S4IZk7PwemK7J9) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Final Say \(Live\)](https://open.spotify.com/album/5ArIzKQKQdpVAQAxY2cZFy) | 6:48 |
 
-Snapshot ID: `MCw2Y2E2NTBlNjMyZTI1ODllNWE3MDRjYjllODk5ZDMzNWQ5NGE5OTQ0`
+Snapshot ID: `MCxmMjUyYjU5NWY4ZjNmZWM0NjM2MzZkYTUxNDUxZDQ0ODAwNTQ5ZmZk`

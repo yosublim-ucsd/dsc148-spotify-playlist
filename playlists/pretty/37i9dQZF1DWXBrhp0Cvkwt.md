@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 
 > soundtracking your ex calling/nothing's working/existential crisis
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,081 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,337 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
-| 2 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
+| 1 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
+| 2 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
 | 3 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 4 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 |
 | 5 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 17 | [Friends](https://open.spotify.com/track/7uDUb37h7Xdhza1eWMkoJv) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Nostalgia \- EP](https://open.spotify.com/album/4hZ8kmFKSmguXiWpGjUzcF) | 3:50 |
 | 18 | [ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 4:25 |
 | 19 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
-| 20 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
-| 21 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 |
+| 20 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 |
+| 21 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
 | 22 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
 | 23 | [champagne problems](https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:04 |
 | 24 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 36 | [Happiness is a butterfly](https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:32 |
 | 37 | [Normal Girl](https://open.spotify.com/track/5fQBa4wkmq28xpSLOQ202K) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:13 |
 | 38 | [worldstar money \(interlude\)](https://open.spotify.com/track/0baNzeUcPQnQSagpe8T0mD) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [In Tongues \(Deluxe\)](https://open.spotify.com/album/6ZksrxRWlJ7ExylPyJwfLJ) | 2:06 |
-| 39 | [The Cut That Always Bleeds](https://open.spotify.com/track/7wTqEW5nrMhvyEhEyTnOMd) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:51 |
+| 39 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 |
 | 40 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 |
-| 41 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 |
+| 41 | [The Cut That Always Bleeds](https://open.spotify.com/track/7wTqEW5nrMhvyEhEyTnOMd) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:51 |
 | 42 | [Afraid](https://open.spotify.com/track/7brQHA2CgQpcMBiOlfiXYb) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:11 |
 | 43 | [Heaven Knows I'm Miserable Now \- 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 3:35 |
 | 44 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 74 | [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 |
 | 75 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 |
 | 76 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 |
-| 77 | [Writer In The Dark](https://open.spotify.com/track/193Dm5SqYy3hTSbuzxbwKc) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:36 |
-| 78 | [Please Notice](https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Hope](https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc) | 1:56 |
+| 77 | [Please Notice](https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Hope](https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc) | 1:56 |
+| 78 | [Writer In The Dark](https://open.spotify.com/track/193Dm5SqYy3hTSbuzxbwKc) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:36 |
 | 79 | [Been Like This](https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:57 |
-| 80 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 |
+| 80 | [Waiting For Never](https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache \(Deluxe\)](https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so) | 3:16 |
 
-Snapshot ID: `MCwzMTVkZWEwYmY1MGMzZGY3MzE5OGI2YjY5OTQ3M2NjOTI5NGI3M2Zi`
+Snapshot ID: `MCwwMTc5ZDAzNTZlMjkzNGI1NTNkYTkxZTI4Njg1NzI4YzZmY2VkZGY4`

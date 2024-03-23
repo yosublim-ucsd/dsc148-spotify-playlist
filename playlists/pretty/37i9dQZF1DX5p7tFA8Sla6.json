@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 55717,
+  "num_followers": 55733,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmVhOWY1N2RlZDE4YzdlNDc2ZDk4M2M4MWVlN2U2NjBkMDFkYjUz",
+  "snapshot_id": "MCw1YmU5YjVhNzhmNmQ3NWI5NWQ3MGQzMmRhN2E3NTQ0MmNiNmI2Mzg0",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -339,22 +339,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 316333,
-      "name": "Get Up (I Feel Like Being A) Sex Machine",
-      "url": "https://open.spotify.com/track/2ivdsb1RcEJjIs5tuHkUC9"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Masterjam",
         "url": "https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 269306,
       "name": "Do You Love What You Feel",
       "url": "https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 316333,
+      "name": "Get Up (I Feel Like Being A) Sex Machine",
+      "url": "https://open.spotify.com/track/2ivdsb1RcEJjIs5tuHkUC9"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -419,22 +419,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Get On The Good Foot",
-        "url": "https://open.spotify.com/album/49ibE9W9vxZBPBV7wtZKFi"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Cold Sweat",
-      "url": "https://open.spotify.com/track/3GWM2gYAWWBrrh1h9F8DEc"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Mothership Connection",
         "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 373213,
       "name": "Mothership Connection (Star Child)",
       "url": "https://open.spotify.com/track/7rLAPi81R7qlVqgXfykdEL"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Get On The Good Foot",
+        "url": "https://open.spotify.com/album/49ibE9W9vxZBPBV7wtZKFi"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Cold Sweat",
+      "url": "https://open.spotify.com/track/3GWM2gYAWWBrrh1h9F8DEc"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -499,22 +499,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Graham Central Station",
-        "url": "https://open.spotify.com/album/4ZYY6rKxpgH76mdF0u3hvj"
-      },
-      "artists": [
-        {
-          "name": "Graham Central Station",
-          "url": "https://open.spotify.com/artist/1OGcRXAY9iO4egWiIBqX8F"
-        }
-      ],
-      "duration_ms": 295146,
-      "name": "Hair",
-      "url": "https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Mothership Connection",
         "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 461160,
       "name": "P-Funk (Wants To Get Funked Up)",
       "url": "https://open.spotify.com/track/0GIfaHgivfBCV67eYF996A"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Graham Central Station",
+        "url": "https://open.spotify.com/album/4ZYY6rKxpgH76mdF0u3hvj"
+      },
+      "artists": [
+        {
+          "name": "Graham Central Station",
+          "url": "https://open.spotify.com/artist/1OGcRXAY9iO4egWiIBqX8F"
+        }
+      ],
+      "duration_ms": 295146,
+      "name": "Hair",
+      "url": "https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -723,22 +723,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Yes We Can Can: The Best Of The Blue Thumb Recordings",
-        "url": "https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 362733,
-      "name": "Yes We Can Can",
-      "url": "https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "What We Got Together",
         "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 155933,
       "name": "Funk That Junk",
       "url": "https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Yes We Can Can: The Best Of The Blue Thumb Recordings",
+        "url": "https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 362733,
+      "name": "Yes We Can Can",
+      "url": "https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Afterlife Vol. 2 - EP",
-        "url": "https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al"
-      },
-      "artists": [
-        {
-          "name": "Turkuaz",
-          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
-        }
-      ],
-      "duration_ms": 226345,
-      "name": "Mister Man",
-      "url": "https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Circle",
         "url": "https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 271054,
       "name": "Liar",
       "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Afterlife Vol. 2 - EP",
+        "url": "https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al"
+      },
+      "artists": [
+        {
+          "name": "Turkuaz",
+          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
+        }
+      ],
+      "duration_ms": 226345,
+      "name": "Mister Man",
+      "url": "https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1451,22 +1451,6 @@
       "duration_ms": 216800,
       "name": "I'm Your Biggest Fan",
       "url": "https://open.spotify.com/track/6UpcqV2QSaMJENWjVkMgAT"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Life In The City",
-        "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
-      },
-      "artists": [
-        {
-          "name": "Turkuaz",
-          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Superstatic",
-      "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Life In The City",
+        "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
+      },
+      "artists": [
+        {
+          "name": "Turkuaz",
+          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "Superstatic",
+      "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "St. Ann",
         "url": "https://open.spotify.com/album/3DOaQqmgxasR3CtsJnnynn"
       },
@@ -1591,6 +1591,26 @@
       "duration_ms": 212065,
       "name": "Wild",
       "url": "https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Lab Experiments, Vol. 2",
+        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Kaiit",
+          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
+        }
+      ],
+      "duration_ms": 211615,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1681,44 +1701,20 @@
       "url": "https://open.spotify.com/track/2xGCKeFRnbg43fQh7TWzB5"
     },
     {
-      "added_at": "2019-09-06 07:01:00",
-      "album": {
-        "name": "TBNH",
-        "url": "https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2"
-      },
-      "artists": [
-        {
-          "name": "The Brand New Heavies",
-          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
-        },
-        {
-          "name": "N'Dea Davenport",
-          "url": "https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT"
-        }
-      ],
-      "duration_ms": 212252,
-      "name": "Wired Up",
-      "url": "https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx"
-    },
-    {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Lab Experiments, Vol. 2",
-        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
+        "name": "Run n' Fly",
+        "url": "https://open.spotify.com/album/6drXWj82IEZkc13NIBtsLw"
       },
       "artists": [
         {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Kaiit",
-          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
+          "name": "Run N' Fly",
+          "url": "https://open.spotify.com/artist/5KWICgITIWooJ8XteleAS3"
         }
       ],
-      "duration_ms": 211615,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
+      "duration_ms": 281200,
+      "name": "Devon",
+      "url": "https://open.spotify.com/track/5AGKCPnzHCxHvdDwqJ03PD"
     }
   ],
   "unique_name": "Funk Drive",

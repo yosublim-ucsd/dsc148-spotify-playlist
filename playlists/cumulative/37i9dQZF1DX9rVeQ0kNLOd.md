@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-286 songs - 17 hr 30 min
+287 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [ネオンライトに呼ばれて](https://open.spotify.com/track/5lsAPbv57oSWetUqP8OKq4) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [ネオンライトに呼ばれて](https://open.spotify.com/album/203EvrZNm2ngyllHX7PqHQ) | 3:25 | 2022-11-23 | 2022-11-24 |
 | [パレットは透明](https://open.spotify.com/track/25e3Pxxt0G1KGvMbYelQMG) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [パレットは透明](https://open.spotify.com/album/23xlWGbhuph9wClaYZqbPg) | 3:17 | 2023-10-17 | 2024-01-16 |
 | [ブラウニー](https://open.spotify.com/track/2R6xQVJCCk1u8rPrxD5SmC) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ブラウニー](https://open.spotify.com/album/5lDjj72VfeaRqvKJ3UYZGG) | 3:30 | 2023-03-14 | 2023-05-09 |
-| [メルヘンを捨てないで](https://open.spotify.com/track/3O1ojkYeGIfbsHwoPnNYVy) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [メルヘンを捨てないで \- Single](https://open.spotify.com/album/5QTY7exTo7bUbckd9HAolP) | 4:52 | 2024-01-10 |  |
+| [メルヘンを捨てないで](https://open.spotify.com/track/1GsZsgGcyDpE4MnGBgN6uo) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 4:51 | 2024-03-05 |  |
+| [メルヘンを捨てないで](https://open.spotify.com/track/3O1ojkYeGIfbsHwoPnNYVy) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [メルヘンを捨てないで \- Single](https://open.spotify.com/album/5QTY7exTo7bUbckd9HAolP) | 4:52 | 2024-01-10 | 2024-03-23 |
 | [メロウ](https://open.spotify.com/track/5Q5r5pGb9l0maFA8RPQW8x) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [メロウ](https://open.spotify.com/album/61fCCjJSfGbgL3yAbES3hD) | 3:26 | 2023-10-03 | 2023-11-22 |
 | [リンジュー・ラヴ](https://open.spotify.com/track/4InoeTKoMnvrcKOAuvbUeT) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [wheel of life](https://open.spotify.com/album/23V4MjO0LO5wMfDg0Al29s) | 3:06 | 2023-03-25 | 2023-04-12 |
 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 | 2023-09-19 |  |

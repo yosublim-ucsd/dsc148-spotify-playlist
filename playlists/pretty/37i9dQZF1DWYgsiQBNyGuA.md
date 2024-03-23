@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,920 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,961 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 56 | [The Way I Feel](https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 5:01 |
 | 57 | [Can't Change Me](https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [A Weird Kinda Wonderful](https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa) | 5:11 |
 | 58 | [Soulman \- New English Version](https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 3:42 |
-| 59 | [BLACCJACK THE MAC](https://open.spotify.com/track/6EVbdSYP4HHdUT06ZFi7Wk) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [BLACCJACK THE MAC](https://open.spotify.com/album/5oPnNNKhqzuQwH9EjDdNVM) | 2:17 |
+| 59 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 |
 | 60 | [Cards](https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 4:14 |
-| 61 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 |
+| 61 | [BLACCJACK THE MAC](https://open.spotify.com/track/6EVbdSYP4HHdUT06ZFi7Wk) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [BLACCJACK THE MAC](https://open.spotify.com/album/5oPnNNKhqzuQwH9EjDdNVM) | 2:17 |
 | 62 | [Who Do You Think You Are](https://open.spotify.com/track/06PqCTjgqD5SLemzSmg5OT) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Land of Possibilities](https://open.spotify.com/album/4w8jFeXUxgHokYQKZwJGsc) | 3:44 |
 | 63 | [Positivity](https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:19 |
 | 64 | [All I Need](https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Emma Jean](https://open.spotify.com/album/3u38Zm1pGlCrGZSsUk2396) | 3:34 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 74 | [My Home \(Love Brings Us Here\)](https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V) | [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf) | [My Home \(Love Brings Us Here\) \- Single](https://open.spotify.com/album/1qsxuAF1ujU6tjtAIYRpqB) | 3:33 |
 | 75 | [Feels So Good Don’t It](https://open.spotify.com/track/2zjgiDtc4dutzztejez29k) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [Feels So Good \(Don’t It\)](https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg) | 3:29 |
 | 76 | [Souvenir](https://open.spotify.com/track/0DIcHQUp4f9j4Gym2Kn8nm) | [Shawn Lee](https://open.spotify.com/artist/47tCcKYrErv1FGvFCgGX8E), [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL) | [Bless My Soul](https://open.spotify.com/album/1rI2tm2skLmDF8Gmj4vjoN) | 3:46 |
-| 77 | [Wishful Thinking](https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd) | [Vivian Green](https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs) | [A Love Story](https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4) | 4:04 |
-| 78 | [Lift Me Up](https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxie Ray](https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG) | [Take from Me](https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3) | 4:29 |
-| 79 | [O\-O\-H Child](https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:05 |
-| 80 | [All For Love](https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [El Camino](https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G) | 4:25 |
+| 77 | [Lift Me Up](https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxie Ray](https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG) | [Take from Me](https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3) | 4:29 |
+| 78 | [Wishful Thinking](https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd) | [Vivian Green](https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs) | [A Love Story](https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4) | 4:04 |
+| 79 | [All For Love](https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [El Camino](https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G) | 4:25 |
+| 80 | [O\-O\-H Child](https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:05 |
 
-Snapshot ID: `MCwzZTdmODBjOTFjNDc2YmVhYjY5M2IwODA4NTI1NjhhODg0OTE0MzA1`
+Snapshot ID: `MCw0MDI5MzE2YWI0NzY1YjIzZGZiM2FjM2Q1MjYwMDkzM2E3MTY0ZGU2`

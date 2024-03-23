@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 
 > This is Slipmami\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,171 likes - 32 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,183 likes - 32 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 6 | [Malvadeza](https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvadeza](https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy) | 2:00 |
 | 7 | [PALHAÇADA](https://open.spotify.com/track/4ZoCo1ETO88Ywu6NBQUVMQ) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym) | [EU GOSTO DE GAROTAS](https://open.spotify.com/album/6pR1Ki8v3x7jPXbSFqRmAU) | 2:27 |
 | 8 | [8x5](https://open.spotify.com/track/42LoQtPvGxvZMRD9ltWkaa) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB) | [Malvatrem](https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL) | 2:55 |
-| 9 | [Molho](https://open.spotify.com/track/0vnMKXdO0LsTXTjI5gjeu0) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Molho](https://open.spotify.com/album/0H7TgZyBTY2DNBx7mwHWUX) | 2:47 |
-| 10 | [geada](https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [geada](https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5) | 2:34 |
+| 9 | [geada](https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [geada](https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5) | 2:34 |
+| 10 | [Molho](https://open.spotify.com/track/0vnMKXdO0LsTXTjI5gjeu0) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Molho](https://open.spotify.com/album/0H7TgZyBTY2DNBx7mwHWUX) | 2:47 |
 | 11 | [me dá dinheiro ou me faz gozar](https://open.spotify.com/track/6dX7MYD8SXum7KFgcfdxdT) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [me dá dinheiro ou me faz gozar](https://open.spotify.com/album/6inLM6jekV3HXn8IW3AYWS) | 2:00 |
 | 12 | [acha que a vida é um morango](https://open.spotify.com/track/4ZiwvRBx6kNjd6mkGdPLBQ) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Malvatrem](https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL) | 2:36 |
 | 13 | [Potranca](https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 3:36 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 31 | [Mizuno ;7](https://open.spotify.com/track/28ADTthzHzF8xSiGhOreFj) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [1berto](https://open.spotify.com/artist/0yHRY5xBM1KF0DbtXRY9DV) | [SENSITIVO ;7](https://open.spotify.com/album/5Lk1RcTvugXvIinZpFMLJl) | 4:18 |
 | 32 | [Preso na Minha BCT](https://open.spotify.com/track/0LeAkijREFI8nnHK2xIQ5H) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [HG RealTrem](https://open.spotify.com/artist/5GtA2XrucPK4gSSD9G1sKs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:48 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBkNmM3M2NiZDc0ZDcxYzkwMjlhYzg1NjA0ZDI4MGIwZg==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBmMzU1MGJmN2VhNDExYzcxN2Y4MGRmZTU0NzliMTg1YQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 
 > ¡Estos son los hits de la electrónica en el 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,834 likes - 150 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,258 likes - 150 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 | 149 | [Lovefool \- Nicky Romero Remix](https://open.spotify.com/track/7iydGgbqWUwYQNKiUXaoWq) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Lovefool \(Nicky Romero Remix\)](https://open.spotify.com/album/5WrYRX2Ov8kYFfCVJTOSkq) | 3:29 |
 | 150 | [REACT](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [REACT](https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv) | 3:21 |
 
-Snapshot ID: `MCxiZTZhMWJmNzZmZDA2YTBjNzg4ODNhZGQ0NDY1NDAxODAwOTFhYzdk`
+Snapshot ID: `MCwxMzU3ZDVhNTIzYTcyMDVjMmE3YzkwYTg3MDZmNzU1M2EzOWUwMzJj`

@@ -1,12 +1,12 @@
 {
   "description": "Meet the future. New artists on the horizon. Cover: Ege Can Sal.",
-  "num_followers": 59516,
+  "num_followers": 59543,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTAzMjIyN2Y2MzJlZWMwODc2MjZiNmRhZjljYWNmNTNkODlmNWZm",
+  "snapshot_id": "MCxmZGM2OGI0MzFiMzQ0YzhjZGJjNjAwOTA0MTk4YzkyYTI0MGM2YzVi",
   "tracks": [
     {
       "added_at": "2024-03-17 21:01:15",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Wil Je Dat Ik Blijf",
-        "url": "https://open.spotify.com/album/7l16ZGPtMRoVMwAJPxFI1o"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        }
-      ],
-      "duration_ms": 178695,
-      "name": "Wil Je Dat Ik Blijf",
-      "url": "https://open.spotify.com/track/1OHmMT2JfYPqKJs6NAq8PY"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "B\u00fcy\u00fcklere Ninniler",
         "url": "https://open.spotify.com/album/2zviwzygpyVqqab20KQC5T"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 197869,
       "name": "Yaln\u0131zl\u0131k Bana Kalan",
       "url": "https://open.spotify.com/track/1MLVv52wh7QmiW0mQEKKuV"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Wil Je Dat Ik Blijf",
+        "url": "https://open.spotify.com/album/7l16ZGPtMRoVMwAJPxFI1o"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "duration_ms": 178695,
+      "name": "Wil Je Dat Ik Blijf",
+      "url": "https://open.spotify.com/track/1OHmMT2JfYPqKJs6NAq8PY"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "NANA",
-        "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "NANA",
-      "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "How Many Nights",
         "url": "https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "OIK",
-        "url": "https://open.spotify.com/album/42DetgJYUEjFsXM1rSD3a1"
+        "name": "NANA",
+        "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
       },
       "artists": [
         {
-          "name": "163 braces",
-          "url": "https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         }
       ],
-      "duration_ms": 159069,
-      "name": "OIK",
-      "url": "https://open.spotify.com/track/1p8XXEIjVHIqS6EKXG5qhb"
+      "duration_ms": 146086,
+      "name": "NANA",
+      "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -727,6 +711,22 @@
       "duration_ms": 138946,
       "name": "BINBO",
       "url": "https://open.spotify.com/track/3jLoBEYECqYA1kzlt5UTBL"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "OIK",
+        "url": "https://open.spotify.com/album/42DetgJYUEjFsXM1rSD3a1"
+      },
+      "artists": [
+        {
+          "name": "163 braces",
+          "url": "https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ"
+        }
+      ],
+      "duration_ms": 159069,
+      "name": "OIK",
+      "url": "https://open.spotify.com/track/1p8XXEIjVHIqS6EKXG5qhb"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "The Whole Story",
+        "url": "https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal"
+      },
+      "artists": [
+        {
+          "name": "Astral Bakers",
+          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "Beautiful Everything",
+      "url": "https://open.spotify.com/track/7y2FybBAX1q90Z5QYpfqy1"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "Teaser",
         "url": "https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA"
       },
@@ -991,18 +1007,18 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Mujhe Le Chal (From \"Meryem\")",
-        "url": "https://open.spotify.com/album/7qNMiJoulUjrnisg5eQeEN"
+        "name": "Unpredictable",
+        "url": "https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa"
       },
       "artists": [
         {
-          "name": "Annural Khalid",
-          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
         }
       ],
-      "duration_ms": 209693,
-      "name": "Mujhe Leh Chal",
-      "url": "https://open.spotify.com/track/4odsSGg1pT5Qrpj3ZOqQx0"
+      "duration_ms": 197036,
+      "name": "Unpredictable",
+      "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1023,34 +1039,18 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "The Whole Story",
-        "url": "https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal"
+        "name": "Mujhe Le Chal (From \"Meryem\")",
+        "url": "https://open.spotify.com/album/7qNMiJoulUjrnisg5eQeEN"
       },
       "artists": [
         {
-          "name": "Astral Bakers",
-          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
         }
       ],
-      "duration_ms": 258560,
-      "name": "Beautiful Everything",
-      "url": "https://open.spotify.com/track/7y2FybBAX1q90Z5QYpfqy1"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "Unpredictable",
-        "url": "https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 197036,
-      "name": "Unpredictable",
-      "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
+      "duration_ms": 209693,
+      "name": "Mujhe Leh Chal",
+      "url": "https://open.spotify.com/track/4odsSGg1pT5Qrpj3ZOqQx0"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "Hielo",
         "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
       },
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+        "name": "Dancing Shoes",
+        "url": "https://open.spotify.com/album/36RBvUCtqxCicTxGnOqD2X"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+          "name": "Andy Goodwin",
+          "url": "https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB"
         }
       ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+      "duration_ms": 143513,
+      "name": "Dancing Shoes",
+      "url": "https://open.spotify.com/track/4qw8WbxYmjOUzKl0Oe8Ccr"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1169,23 +1185,7 @@
       "url": "https://open.spotify.com/track/79cmiNPdQVHeu2qs6x4JMp"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "Dancing Shoes",
-        "url": "https://open.spotify.com/album/36RBvUCtqxCicTxGnOqD2X"
-      },
-      "artists": [
-        {
-          "name": "Andy Goodwin",
-          "url": "https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB"
-        }
-      ],
-      "duration_ms": 143513,
-      "name": "Dancing Shoes",
-      "url": "https://open.spotify.com/track/4qw8WbxYmjOUzKl0Oe8Ccr"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
+      "added_at": "2024-03-22 06:00:00",
       "album": {
         "name": "Avasa",
         "url": "https://open.spotify.com/album/07iHCQyQ69gc8c13fdmqhh"
@@ -1231,22 +1231,6 @@
       "duration_ms": 97422,
       "name": "Azul Zafiro",
       "url": "https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "WE'LL DIE THIS WAY",
-        "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
-      },
-      "artists": [
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "PRO",
-      "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1327,22 +1311,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "The Pain",
-        "url": "https://open.spotify.com/album/7joUWLYVbBN7QllFU1hTsD"
-      },
-      "artists": [
-        {
-          "name": "Another Sky",
-          "url": "https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "The Pain",
-      "url": "https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "Mi\u0142o\u015b\u0107 w czasach",
         "url": "https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU"
       },
@@ -1363,6 +1331,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "The Pain",
+        "url": "https://open.spotify.com/album/7joUWLYVbBN7QllFU1hTsD"
+      },
+      "artists": [
+        {
+          "name": "Another Sky",
+          "url": "https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "The Pain",
+      "url": "https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "Ud Ke Chali",
         "url": "https://open.spotify.com/album/2hkVPBR8j7cZWNmCdWer5f"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "Bad Timing",
+        "url": "https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 208978,
+      "name": "Bad Timing",
+      "url": "https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "Cover Up My Face",
         "url": "https://open.spotify.com/album/4vj7dl0foafvI0OOVmB4s2"
       },
@@ -1391,6 +1391,42 @@
       "duration_ms": 204587,
       "name": "Cover Up My Face",
       "url": "https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Flowers In Mourning",
+        "url": "https://open.spotify.com/album/07ERyFTIZ7BKH50XMt3y5U"
+      },
+      "artists": [
+        {
+          "name": "MRCY",
+          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
+        }
+      ],
+      "duration_ms": 253768,
+      "name": "Flowers In Mourning",
+      "url": "https://open.spotify.com/track/1rSxecJEITBOFcthNRIkgy"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Son of Zeus",
+        "url": "https://open.spotify.com/album/6GhXHLKieoeh9LHLsBrDeN"
+      },
+      "artists": [
+        {
+          "name": "Tyler Daley",
+          "url": "https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr"
+        },
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "duration_ms": 187575,
+      "name": "Small Circles",
+      "url": "https://open.spotify.com/track/0opklJaLUcFJs2oGVoS1Oa"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1431,42 +1467,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Son of Zeus",
-        "url": "https://open.spotify.com/album/6GhXHLKieoeh9LHLsBrDeN"
-      },
-      "artists": [
-        {
-          "name": "Tyler Daley",
-          "url": "https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr"
-        },
-        {
-          "name": "Children of Zeus",
-          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
-        }
-      ],
-      "duration_ms": 187575,
-      "name": "Small Circles",
-      "url": "https://open.spotify.com/track/0opklJaLUcFJs2oGVoS1Oa"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "Flowers In Mourning",
-        "url": "https://open.spotify.com/album/07ERyFTIZ7BKH50XMt3y5U"
-      },
-      "artists": [
-        {
-          "name": "MRCY",
-          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
-        }
-      ],
-      "duration_ms": 253768,
-      "name": "Flowers In Mourning",
-      "url": "https://open.spotify.com/track/1rSxecJEITBOFcthNRIkgy"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "Two Cents",
         "url": "https://open.spotify.com/album/1aXviDV63VHVx0bYgySnvf"
       },
@@ -1483,18 +1483,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Bad Timing",
-        "url": "https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo"
+        "name": "DOGHOUSE",
+        "url": "https://open.spotify.com/album/5nUioUacb3Nwt3nMDPi9Jx"
       },
       "artists": [
         {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+          "name": "TraviS",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        },
+        {
+          "name": "Elzzz",
+          "url": "https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7"
         }
       ],
-      "duration_ms": 208978,
-      "name": "Bad Timing",
-      "url": "https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26"
+      "duration_ms": 133500,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/5tENmXDE0dCYIT4H0K5a8t"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1531,26 +1535,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "DOGHOUSE",
-        "url": "https://open.spotify.com/album/5nUioUacb3Nwt3nMDPi9Jx"
-      },
-      "artists": [
-        {
-          "name": "TraviS",
-          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
-        },
-        {
-          "name": "Elzzz",
-          "url": "https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7"
-        }
-      ],
-      "duration_ms": 133500,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/5tENmXDE0dCYIT4H0K5a8t"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "WE STILL YOUNG",
         "url": "https://open.spotify.com/album/2UlMKNVdCbVxTG4LwxpiTz"
       },
@@ -1583,22 +1567,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Prepare Yourself!",
-        "url": "https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
-          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
-        }
-      ],
-      "duration_ms": 125887,
-      "name": "Exclamation Mark",
-      "url": "https://open.spotify.com/track/5OaXyd4vZLJE4pdFkerhxK"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "Babylon",
         "url": "https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h"
       },
@@ -1611,6 +1579,38 @@
       "duration_ms": 220632,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "\u96e2\u5a5a\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/1s4jmPayW30yQFFOjehEFB"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Prepare Yourself!",
+        "url": "https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "duration_ms": 125887,
+      "name": "Exclamation Mark",
+      "url": "https://open.spotify.com/track/5OaXyd4vZLJE4pdFkerhxK"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/51oLr3DGob1mhKVtDfDYq4"
+      },
+      "artists": [
+        {
+          "name": "Valencia Grace",
+          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/7IR6eTDsqLvKPv0gCf7baZ"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "Back The Way We Came",
         "url": "https://open.spotify.com/album/1rzUKBVxC07E37ikpWRZcH"
       },
@@ -1727,6 +1743,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "tbh",
+        "url": "https://open.spotify.com/album/6HjV1YoD29GqhlpcYV3Lym"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Yen",
+          "url": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
+        }
+      ],
+      "duration_ms": 161612,
+      "name": "idk",
+      "url": "https://open.spotify.com/track/12swMq56NGWq4yf0bRFyKx"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "Una Cumbia Triste",
         "url": "https://open.spotify.com/album/5HmM3U9Y5OIoloBfHAbza6"
       },
@@ -1747,22 +1779,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "tbh",
-        "url": "https://open.spotify.com/album/6HjV1YoD29GqhlpcYV3Lym"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Yen",
-          "url": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
-        }
-      ],
-      "duration_ms": 161612,
-      "name": "idk",
-      "url": "https://open.spotify.com/track/12swMq56NGWq4yf0bRFyKx"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "Sensible",
         "url": "https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ"
       },
@@ -1779,34 +1795,18 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/51oLr3DGob1mhKVtDfDYq4"
+        "name": "BUTCHER'S BIN",
+        "url": "https://open.spotify.com/album/6g3mKpbEDt09TZLmuvdd7R"
       },
       "artists": [
         {
-          "name": "Valencia Grace",
-          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
         }
       ],
-      "duration_ms": 202360,
-      "name": "Speechless",
-      "url": "https://open.spotify.com/track/7IR6eTDsqLvKPv0gCf7baZ"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "\u96e2\u5a5a\u4f1d\u8aac",
-        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
-      "url": "https://open.spotify.com/track/1s4jmPayW30yQFFOjehEFB"
+      "duration_ms": 240630,
+      "name": "BUTCHER'S BIN",
+      "url": "https://open.spotify.com/track/0fRtRBeaVneVSDFAZ7yIiK"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1823,22 +1823,6 @@
       "duration_ms": 130220,
       "name": "Assaji",
       "url": "https://open.spotify.com/track/7tq3hGN4cKQq9BSRJDtaRc"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "BUTCHER'S BIN",
-        "url": "https://open.spotify.com/album/6g3mKpbEDt09TZLmuvdd7R"
-      },
-      "artists": [
-        {
-          "name": "BIG SPECIAL",
-          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
-        }
-      ],
-      "duration_ms": 240630,
-      "name": "BUTCHER'S BIN",
-      "url": "https://open.spotify.com/track/0fRtRBeaVneVSDFAZ7yIiK"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1887,6 +1871,22 @@
       "duration_ms": 162353,
       "name": "MY I ONI",
       "url": "https://open.spotify.com/track/0SUsodImdu1cqFd12GwVcc"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Sorry To Tell You But You Felt Like Hell",
+        "url": "https://open.spotify.com/album/2TEt6tkhFpIAijAehHj1tl"
+      },
+      "artists": [
+        {
+          "name": "Sophia Veraz",
+          "url": "https://open.spotify.com/artist/5MCKCM0EPBoVHTJCGOcybJ"
+        }
+      ],
+      "duration_ms": 183998,
+      "name": "Highways",
+      "url": "https://open.spotify.com/track/6SGkkODfeLLZu3NI0BdFh6"
     }
   ],
   "unique_name": "RADAR Global ",

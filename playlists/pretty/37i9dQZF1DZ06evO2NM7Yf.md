@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141 likes - 19 songs - 56 min 24 sec
+[Spotify](https://open.spotify.com/user/spotify) - 144 likes - 19 songs - 56 min 24 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 2 | [jesus christ in a mini skirt](https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [jesus christ in a mini skirt](https://open.spotify.com/album/5ft44XKk2lkY2JX95a7drT) | 3:00 |
 | 3 | [All the Things You'd Ruin \(Sad Girl Version\)](https://open.spotify.com/track/1DCbAm69IGPADwg1OCwgX8) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin \(Sad Girl Version\)](https://open.spotify.com/album/1wntTNCxnhr8FeMr6i52jx) | 2:59 |
 | 4 | [Joni](https://open.spotify.com/track/1UDFP4KgbKTu0XniQImZfq) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Joni](https://open.spotify.com/album/0HvAo553wbaQJCMuyeZVgr) | 3:50 |
-| 5 | [guitar center](https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [guitar center](https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0) | 3:07 |
-| 6 | [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/track/2xNA8H73R4vlxqpRnM8Kyg) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/album/2WjkgxbJKQtAudi52NGEqw) | 2:39 |
+| 5 | [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/track/2xNA8H73R4vlxqpRnM8Kyg) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/album/2WjkgxbJKQtAudi52NGEqw) | 2:39 |
+| 6 | [guitar center](https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [guitar center](https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0) | 3:07 |
 | 7 | [Emotional Punching Bag](https://open.spotify.com/track/00mXO5pZSGrXQKyqkaI56b) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional punching bag](https://open.spotify.com/album/2h8fMB5OeSth65ZiJl4ixZ) | 2:56 |
 | 8 | [breakup with a friend](https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [breakup with a friend](https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i) | 2:42 |
 | 9 | [You Make Bad Things Not Suck <3](https://open.spotify.com/track/3JcdYdKEo1mVvU4rGHl738) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [You Make Bad Things Not Suck <3](https://open.spotify.com/album/3Fu52oawbUjlB6z3MzH6t3) | 2:33 |
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 18 | [Who Not to Love](https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v) | 3:03 |
 | 19 | [Because of Me](https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb) | 3:02 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDAwMWNkNTQ1ZDRhMjEzZjRiZGUwZGIwNTA1MTUxZGRiNQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA5Njc2ZjMyYWU2N2E4YjMwYWMwZGJlNTlmMWIxN2U4NA==`

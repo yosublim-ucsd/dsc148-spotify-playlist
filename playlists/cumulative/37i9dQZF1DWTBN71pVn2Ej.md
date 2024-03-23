@@ -4,7 +4,7 @@
 
 > The shape of noise to come.
 
-560 songs - 1 day 8 hr 9 min
+564 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Alone for You](https://open.spotify.com/track/2HPSoQGW4Bw5k75Xa1VP1E) | [Audiobaton](https://open.spotify.com/artist/6YPHnmq7vyzfmHtuHj6PEB) | [Alone for You](https://open.spotify.com/album/1O6psTl2N99gIKkswuiBqD) | 3:13 | 2024-01-03 |  |
 | [Always](https://open.spotify.com/track/0ZgyEfWfzDXZL6gA9SAKbU) | [Gender Roles](https://open.spotify.com/artist/62Qr6xBUFiFSOyhR4UKCKf) | [PRANG](https://open.spotify.com/album/59mc4yrw0wJYE1B9QCT2Qn) | 4:12 | 2021-12-16 | 2022-06-24 |
 | [Always Selfish](https://open.spotify.com/track/0UOGPZbzujIHSj2rIA3fMB) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Always Selfish](https://open.spotify.com/album/4jjts5SIHUlvo78hwGUIGi) | 2:40 | 2023-03-10 | 2023-04-09 |
-| [Amanita](https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:01 | 2024-01-12 |  |
+| [Amanita](https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:01 | 2024-01-12 | 2024-03-23 |
 | [And So Two \- Single Version](https://open.spotify.com/track/7jkSS54l6UR6UvlfcmHA3G) | [Voiid](https://open.spotify.com/artist/5k1Hr3VeI3TXHwBh9ohm0b) | [And So Two](https://open.spotify.com/album/72dOXSe1wPuRohTdPGPBSJ) | 3:49 | 2022-11-25 | 2022-12-16 |
 | [Applause](https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Applause](https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4) | 2:44 | 2022-12-15 | 2023-03-18 |
 | [asuka](https://open.spotify.com/track/0iYp1IQm4xoBTvHbJ0H53i) | [Futureheaven](https://open.spotify.com/artist/1ISFYRGSoDBgHUmARPMoiB) | [Colourwaves](https://open.spotify.com/album/4Ostle1eqw1kYAmJ8PTp22) | 3:33 | 2023-06-02 | 2023-09-09 |
@@ -199,6 +199,7 @@
 | [Gelled Water](https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Gelled Water](https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW) | 3:46 | 2023-10-13 | 2023-11-11 |
 | [Get in the Car](https://open.spotify.com/track/2CWJDVIBBIFQlJvesGdxvP) | [Semantics](https://open.spotify.com/artist/3ulcHuTU6eBcORZBJDhG6m) | [Get in the Car](https://open.spotify.com/album/0wuVKMqNcc5Dzsvs8oNtqM) | 3:28 | 2022-03-24 | 2022-09-01 |
 | [Ghost of Me](https://open.spotify.com/track/13h4nnoCFSoViZg6qkbB06) | [Whatever, Forever](https://open.spotify.com/artist/7cSHROK79syPPup9vExJrJ) | [Ghost of Me](https://open.spotify.com/album/6t57vk4AnlqKEKVReNSund) | 3:47 | 2021-12-16 | 2022-03-22 |
+| [Giant's Despair](https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Giant's Despair](https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz) | 3:40 | 2024-03-22 |  |
 | [GIMME](https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [GIMME](https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi) | 1:40 | 2023-01-27 | 2023-02-25 |
 | [Girl Named Place](https://open.spotify.com/track/7fg9CRzSF4oaLrYe6Oqe1c) | [Bad Honey](https://open.spotify.com/artist/5F8BrlUsXFFAAFU2dFkmXQ) | [Help Yourself](https://open.spotify.com/album/2DvRU5pgxrcixphF4MKEXy) | 5:17 | 2021-12-16 | 2022-03-25 |
 | [Give Yourself Away](https://open.spotify.com/track/24Pj0f5dm7zkJovEvqqRL5) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [Give Yourself Away](https://open.spotify.com/album/1URP5HXenatIMNI5y2kRCR) | 2:54 | 2024-01-12 | 2024-02-10 |
@@ -234,7 +235,7 @@
 | [Her Favorite Dress](https://open.spotify.com/track/3s36qJjFzPoBhal1yY2lpj) | [Settle](https://open.spotify.com/artist/6XSX0gIHHFN7MG7ppupJbr) | [Her Favorite Dress](https://open.spotify.com/album/1j7T5X2MkqU87bdXRjJkOD) | 4:11 | 2023-06-16 | 2023-08-22 |
 | [Hey Sis](https://open.spotify.com/track/18BngYNbP0xadmssigycDH) | [Labradors](https://open.spotify.com/artist/4kf8k9dopDL5PK5q0ufGkG) | [Retriever](https://open.spotify.com/album/7mWI8Asn8rQqYX0lXgHNhk) | 3:18 | 2022-01-13 | 2022-02-04 |
 | [hi mute](https://open.spotify.com/track/7BV3MrFwC8WKMIjzT47S8K) | [Stock Manager](https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3) | [hi mute](https://open.spotify.com/album/17YD0zrDbHikRWnEUveUgD) | 2:44 | 2024-03-01 |  |
-| [High In The Clouds](https://open.spotify.com/track/2wfU1QHCNHng11dGKDiOph) | [Dude Safari](https://open.spotify.com/artist/6u86o2rCOh2saTMgsYFvzX) | [High In The Clouds](https://open.spotify.com/album/2xNWZ76q9h8ZPPbFJ7gZNf) | 3:46 | 2024-01-12 |  |
+| [High In The Clouds](https://open.spotify.com/track/2wfU1QHCNHng11dGKDiOph) | [Dude Safari](https://open.spotify.com/artist/6u86o2rCOh2saTMgsYFvzX) | [High In The Clouds](https://open.spotify.com/album/2xNWZ76q9h8ZPPbFJ7gZNf) | 3:46 | 2024-01-12 | 2024-03-23 |
 | [Hiraeth](https://open.spotify.com/track/7J1rx8Kkbuagoi3EYuyEl1) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn) | [Hiraeth](https://open.spotify.com/album/3iih8XrFxJMaDEjW6DEvON) | 3:45 | 2023-09-15 | 2024-01-27 |
 | [Hold On You](https://open.spotify.com/track/3ML65FJl6LE3s0e7SXevwm) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/2ALvJNxFwqPtzq22hnPp0s) | 3:24 | 2022-12-02 | 2022-12-16 |
 | [Hold Tight](https://open.spotify.com/track/7CiyeZlOh8hFfym58E8yv3) | [Codeseven](https://open.spotify.com/artist/2jYQN7gUHmIyLsIuLUbq9M) | [Go Let It In](https://open.spotify.com/album/3qWkL17gQBEOyLzENHeXlU) | 4:08 | 2024-01-12 | 2024-02-17 |
@@ -278,6 +279,7 @@
 | [JOY](https://open.spotify.com/track/1th9pHQFEu9scMGLQ6JIUX) | [CHIG](https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i) | [JOY](https://open.spotify.com/album/2a4MBOEXbXtV8UbrweOkDG) | 3:46 | 2024-02-09 |  |
 | [Joy Thief](https://open.spotify.com/track/0TvVyjWvb13ZMm9aquJkdy) | [Dosser](https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB) | [Joy Thief](https://open.spotify.com/album/1j3gt3dSyuzOxHhNxXWOGR) | 3:57 | 2022-09-06 | 2023-02-10 |
 | [Just like always](https://open.spotify.com/track/3C5wUsfpsyU6BfVqKkNK4r) | [Parti!](https://open.spotify.com/artist/1b17pNackw7aDoGd6NIZzK) | [Just like always](https://open.spotify.com/album/1XuDfkh2AuGgum4G685EbE) | 4:39 | 2024-01-19 |  |
+| [Kaleidoscope](https://open.spotify.com/track/7cEYiQ8uOjIN9I6Za7U1qT) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Ceremonia](https://open.spotify.com/album/3OfFo9Ufl8u7fMKb29Ru75) | 4:01 | 2024-03-22 |  |
 | [Kamikaze](https://open.spotify.com/track/2sqNP3eZQzEaiy2cSrMKC6) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Kamikaze](https://open.spotify.com/album/1Mkw4WVQayaOJUOQDnhv8T) | 3:22 | 2022-09-06 | 2023-02-10 |
 | [Karma](https://open.spotify.com/track/3bVpADrmV8LWwreYBRkfJl) | [Sunfish](https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J) | [Karma](https://open.spotify.com/album/3fleYtZ7Ittr0UD0o5yEnQ) | 3:28 | 2024-01-19 |  |
 | [Keep Me Sane](https://open.spotify.com/track/2WOICHVDt9A9xDwWG4i8Jw) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Keep Me Sane](https://open.spotify.com/album/2qgPRNfb783lWEpKc3Gmpj) | 3:10 | 2023-03-17 | 2023-04-01 |
@@ -294,7 +296,7 @@
 | [Laugh](https://open.spotify.com/track/2adbCG7wkQRHHvVZIe5bLN) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi), [MightyMacFluff](https://open.spotify.com/artist/7eI9L2dsuHooxUOcp6ATMf) | [Laugh](https://open.spotify.com/album/0OIDcAIHVAaxGc7ngpwN91) | 3:30 | 2022-09-08 | 2022-10-01 |
 | [Lava Lamp Pisco](https://open.spotify.com/track/142WFjtY5Pww6AmoLpLCNE) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Lava Lamp Pisco](https://open.spotify.com/album/6OxduyVLmp55HliX26j59W) | 4:01 | 2021-12-16 | 2022-02-04 |
 | [Lean Into It](https://open.spotify.com/track/6jXiMMb5Hvz1NwITFVblZV) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Lean Into It](https://open.spotify.com/album/5fduGd0WmVCmD3O9w2EcbS) | 4:09 | 2023-11-10 | 2024-03-02 |
-| [Leap Years](https://open.spotify.com/track/5VaWu5KxCmOdp7RDLodofW) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Leap Years](https://open.spotify.com/album/4wzM7nTc1gGCQheDLFRRqo) | 2:39 | 2024-03-01 |  |
+| [Leap Years](https://open.spotify.com/track/5VaWu5KxCmOdp7RDLodofW) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Leap Years](https://open.spotify.com/album/4wzM7nTc1gGCQheDLFRRqo) | 2:39 | 2024-03-01 | 2024-03-23 |
 | [Leash](https://open.spotify.com/track/3jV6xQbRfeYUgwCZEsz1sJ) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Pollen](https://open.spotify.com/album/74nbOeJlCrxhAkyPdjqrXj) | 3:13 | 2021-12-16 | 2022-02-11 |
 | [Leave Me Be](https://open.spotify.com/track/3KaMmABQSuoGCtmpOcRzPh) | [Giveaway](https://open.spotify.com/artist/4kwtZRR88YHWOMWhvb5M5A) | [Leave Me Be](https://open.spotify.com/album/1XfyZCM5UPmYfpreFU7S9h) | 3:48 | 2023-05-26 | 2023-09-01 |
 | [Leave This Place](https://open.spotify.com/track/6NAjfD8F26BcBP3E9D6VY5) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Leave This Place](https://open.spotify.com/album/4ilfyeO8iIQGWMO4Dqd20u) | 3:26 | 2023-03-10 | 2023-06-24 |
@@ -360,7 +362,7 @@
 | [Nothing Is Real](https://open.spotify.com/track/63QGDqeDMOdQe9j06GYLRd) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nothing Is Real](https://open.spotify.com/album/3Zvib0aCBmAwaJIeAQu4mb) | 4:33 | 2022-03-31 | 2022-08-11 |
 | [Nothing Left.](https://open.spotify.com/track/2SDZ5EAdckFpSbuSh6dMdr) | [Crossing i's Dotting t's](https://open.spotify.com/artist/7eNA56CKDh8uHvdk3Dsdbc) | [Nothing Left.](https://open.spotify.com/album/533m6q2gaHi7sIfrqGfyXp) | 2:58 | 2023-03-31 | 2023-07-04 |
 | [Nothing Like](https://open.spotify.com/track/3qVRAYhHqf9LzaYQvtdqOd) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Nothing Like](https://open.spotify.com/album/5gttolwoxCFbYQV8T30p3z) | 4:09 | 2024-02-09 | 2024-03-13 |
-| [Nothing Like](https://open.spotify.com/track/7sWKIQsoW2dlKMNobxXoXp) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 4:09 | 2024-03-08 |  |
+| [Nothing Like](https://open.spotify.com/track/7sWKIQsoW2dlKMNobxXoXp) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 4:09 | 2024-03-08 | 2024-03-23 |
 | [Nothing's Stopping Me Now](https://open.spotify.com/track/4UjQm1Qfdjh4NXdisHSuve) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Nothing's Stopping Me Now](https://open.spotify.com/album/7KwlS3OCShHi4ArDNFyyRf) | 3:06 | 2023-06-23 | 2023-10-21 |
 | [Novum Vetus](https://open.spotify.com/track/1OlbUQSGl2vsB1S7CaprIw) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Novum Vetus](https://open.spotify.com/album/4N2GpoFW3zt6YEyxyblsNZ) | 7:29 | 2024-02-09 |  |
 | [Now, Life is Living You](https://open.spotify.com/track/2hsUzg683EDNgfLFcSE1Od) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Now, Life is Living You](https://open.spotify.com/album/3ZTMgdRwjtAQMEEXaY8cod) | 3:36 | 2021-12-16 | 2022-02-18 |
@@ -455,6 +457,7 @@
 | [Spell](https://open.spotify.com/track/4Un8vcXds1r5WuRknRlycI) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Black Box](https://open.spotify.com/album/6FWVzZ70IkIbYjySKrThTI) | 3:37 | 2022-11-04 | 2022-11-26 |
 | [Spell](https://open.spotify.com/track/3M5a73GseVS617KuBHxj8t) | [Twin Mill](https://open.spotify.com/artist/4yObbeDn9QW3dGWIVdcalo) | [Different Skies](https://open.spotify.com/album/1R7btULxWxGIIfShLr4nua) | 3:28 | 2024-01-19 |  |
 | [spiralling](https://open.spotify.com/track/310DWtC6vJzSPdexKb0Dnq) | [Exit Dream](https://open.spotify.com/artist/1vjClLSU7owOEFgBruZVWs) | [spiralling](https://open.spotify.com/album/1aHO2uXq0zKcauZi2NjcV4) | 3:53 | 2022-06-30 | 2022-10-15 |
+| [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 | 2024-03-22 |  |
 | [Star](https://open.spotify.com/track/3htTIczJijYQUMhuExSOED) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Star](https://open.spotify.com/album/57wIEJkgUzg17Qyns6JvXz) | 3:35 | 2022-10-07 | 2023-02-22 |
 | [Starchild](https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY) | 3:49 | 2023-09-29 |  |
 | [Stay Sane](https://open.spotify.com/track/7IhqfL5O6ODzo3GvsJWfPp) | [Chlorine](https://open.spotify.com/artist/3JUz5tz4Whdo5kaW8uOKjF) | [Stay Sane](https://open.spotify.com/album/1bV5jcaO8VJ1axYqK77MTE) | 3:03 | 2022-06-09 | 2022-06-17 |
@@ -530,6 +533,7 @@
 | [UGLY BUG](https://open.spotify.com/track/1ZcDbE8gp4GnmcfVJWdjcs) | [Downward](https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU) | [The Brass Tax](https://open.spotify.com/album/0Gk4iJWdsWeKLW29qk5hzT) | 3:54 | 2022-02-24 | 2022-07-01 |
 | [Under Sound](https://open.spotify.com/track/30Rr0DHxZSrwds8QmxGopf) | [Prize Horse](https://open.spotify.com/artist/4pIntP5eVpHl5B8jHXUDtD) | [Under Sound](https://open.spotify.com/album/0TP4Dcx8E8VLkNTkZe90pU) | 4:28 | 2024-02-16 |  |
 | [Under The Knife](https://open.spotify.com/track/3XtlCUDgBJaPbK0S4LKPbA) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Under The Knife](https://open.spotify.com/album/7t8h0W6FsxiFFE4EHeBc5S) | 2:56 | 2022-09-22 | 2023-04-15 |
+| [Under Your Wing](https://open.spotify.com/track/1pBKpzy2FDH0l5Q6Hq3VcW) | [New Age Thief](https://open.spotify.com/artist/5wPi7eY4GvQnUzrkvkgVpM) | [Under Your Wing](https://open.spotify.com/album/25hQeJwnw537NONFAWuPsT) | 2:44 | 2024-03-22 |  |
 | [Undertow](https://open.spotify.com/track/5v3bNY9RlHiv1Otplrmr9s) | [Capsule 9](https://open.spotify.com/artist/6IYuuT4OmtT8w4lnQohDNO) | [Take As Prescribed](https://open.spotify.com/album/6tAuUa4KEZRcWUhfphkVww) | 2:47 | 2023-11-23 | 2024-02-17 |
 | [Unlovable](https://open.spotify.com/track/43wZfR5xALfBTKWolvDmya) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Unlovable](https://open.spotify.com/album/3feABk2LYfvJgfSXyjgqU8) | 3:30 | 2022-08-31 | 2022-09-09 |
 | [Up Against It](https://open.spotify.com/track/4cwhDJiQ3vhbcxOapza2MB) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Up Against It](https://open.spotify.com/album/5qpNqPxwizc4AKeVjAPPpD) | 3:06 | 2023-01-20 | 2023-04-01 |

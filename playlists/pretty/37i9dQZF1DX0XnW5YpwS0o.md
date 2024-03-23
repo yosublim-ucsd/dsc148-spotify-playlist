@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 
 > 2016 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,626 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,666 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 44 | [Daydreaming](https://open.spotify.com/track/1Rd5OVjqDAr5xC96MHt448) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 6:24 |
 | 45 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 |
 | 46 | [Guru](https://open.spotify.com/track/1bHEcHv3lUkLFAebNnaPNE) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/7oU1JaPIxWfpCFyvIZyiZL) | 3:24 |
-| 47 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 |
-| 48 | [California](https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ) | [The Lagoons](https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd) | [California](https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc) | 4:21 |
+| 47 | [California](https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ) | [The Lagoons](https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd) | [California](https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc) | 4:21 |
+| 48 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 |
 | 49 | [Daft Pretty Boys \(Explicit\)](https://open.spotify.com/track/2ZRQixbe1MCJxpcO96Zj1y) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Disappear Here](https://open.spotify.com/album/3fSYQvcrQJJhTv9PYYMkY5) | 3:07 |
 | 50 | [Threat of Joy](https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:24 |
 | 51 | [On Hold](https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:44 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 59 | [Burn the Witch](https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 3:40 |
 | 60 | [Old Friends](https://open.spotify.com/track/4ykQ18swXrkrrbwsZKxQo7) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Cardinal \(Expanded Edition\)](https://open.spotify.com/album/4hsC5IvasDOCrWwM8UQ3N4) | 3:27 |
 | 61 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 |
-| 62 | [A Little While](https://open.spotify.com/track/1ahzHj4rfljE8w4ZwpEjOM) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Harmless Melodies](https://open.spotify.com/album/5CPwacWmIAaA5DLUq7EHUC) | 5:18 |
-| 63 | [For Elise](https://open.spotify.com/track/6i40XRqEwHAnSxwZWasMRp) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:23 |
+| 62 | [For Elise](https://open.spotify.com/track/6i40XRqEwHAnSxwZWasMRp) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:23 |
+| 63 | [A Little While](https://open.spotify.com/track/1ahzHj4rfljE8w4ZwpEjOM) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Harmless Melodies](https://open.spotify.com/album/5CPwacWmIAaA5DLUq7EHUC) | 5:18 |
 | 64 | [Someone To Stay](https://open.spotify.com/track/7tMbZ0RGW0jFsBw7ipEPEV) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Someone To Stay](https://open.spotify.com/album/0JT94KA15duapEYHVQkq1l) | 4:14 |
 | 65 | [Twice](https://open.spotify.com/track/2sewj0rFvlr3aEM3bGy12n) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 3:16 |
 | 66 | [Something to Believe In](https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Home of the Strange](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 99 | [Coins](https://open.spotify.com/track/53I7CviVHhNYEKth717RLG) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:57 |
 | 100 | [Loving Someone](https://open.spotify.com/track/4p1pxmqtPtPHqWbOd2RgXu) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 4:20 |
 
-Snapshot ID: `MCw2MThiNzM5MjExNjUyOTc0MjJlNzJiZjMxNjBmOGM2ZjM2MGZmM2Mz`
+Snapshot ID: `MCxjZTA5Nzg3ODRmMTdlOWNjMTNmOGQzYzhiOTRhOTU0N2FjMjYxYjAz`

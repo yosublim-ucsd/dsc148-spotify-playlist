@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/zackbia/">Zack Bia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,830 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,831 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 | 49 | [Backend](https://open.spotify.com/track/4YQSpaf4dVmwB4PAb8kDU6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Backend](https://open.spotify.com/album/0JoNVaga3yMJLnBJPuoI7Z) | 3:51 |
 | 50 | [Backhand](https://open.spotify.com/track/2Ud9396nsChHWRJ88De6mJ) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [Welcome to Heaven](https://open.spotify.com/album/70W7Bb4eXlfcKY0s0vnZxD) | 1:46 |
 
-Snapshot ID: `MCxkN2JlODE5YTViMTM2M2EyZTc0N2ExZTViNmUzZDA4YThjZjI3NzU0`
+Snapshot ID: `MCxmZTAwNGU1NWM4NTk0NGQ5MDQ4ZDZkMzIzNTcwYWZjNjYyZjYyOTg5`

@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 144112,
+  "num_followers": 144150,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGM2YzZmY2Y1YmMxZmVkNTYwMTY4ZmY4MDczYzJmZjQ2ZTNjYThh",
+  "snapshot_id": "MCwwOTcwYzA3OTZmOWM3NWFmM2MxZTU5NTM0MGQ1MTU0YWM5NGExNmNk",
   "tracks": [
     {
       "added_at": "2024-01-19 03:01:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "No Pagode",
-        "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Andan\u00e7a",
-      "url": "https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Gal Costa",
         "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 214933,
       "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
       "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "No Pagode",
+        "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Andan\u00e7a",
+      "url": "https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "Aquarela",
+        "url": "https://open.spotify.com/album/1euIjDzEYPFCuEHT2XJSp3"
+      },
+      "artists": [
+        {
+          "name": "KARINE",
+          "url": "https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8"
+        }
+      ],
+      "duration_ms": 203907,
+      "name": "Aquarela",
+      "url": "https://open.spotify.com/track/43xNkQNoTEzwmbRtrUlKq1"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "Ind\u00edcio de Amor",
         "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
       },
@@ -1339,6 +1355,26 @@
       "duration_ms": 208736,
       "name": "Ind\u00edcio de Amor",
       "url": "https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Onde Voc\u00ea N\u00e3o T\u00e1?",
+        "url": "https://open.spotify.com/album/2BFqi3hWedEha3eIYKGSpm"
+      },
+      "artists": [
+        {
+          "name": "Revna",
+          "url": "https://open.spotify.com/artist/5euRHFqQ2U4fCCctRKkpf0"
+        },
+        {
+          "name": "Ponds",
+          "url": "https://open.spotify.com/artist/6q3e7UEHUXK8mepTyndg7h"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "Onde Voc\u00ea N\u00e3o T\u00e1?",
+      "url": "https://open.spotify.com/track/4yJDBC3erIPsVsXHJ1Zovk"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1395,42 +1431,6 @@
       "duration_ms": 202021,
       "name": "Santo Toque",
       "url": "https://open.spotify.com/track/1owJVm7Cbq3Fv68LPMON0v"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Onde Voc\u00ea N\u00e3o T\u00e1?",
-        "url": "https://open.spotify.com/album/2BFqi3hWedEha3eIYKGSpm"
-      },
-      "artists": [
-        {
-          "name": "Revna",
-          "url": "https://open.spotify.com/artist/5euRHFqQ2U4fCCctRKkpf0"
-        },
-        {
-          "name": "Ponds",
-          "url": "https://open.spotify.com/artist/6q3e7UEHUXK8mepTyndg7h"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "Onde Voc\u00ea N\u00e3o T\u00e1?",
-      "url": "https://open.spotify.com/track/4yJDBC3erIPsVsXHJ1Zovk"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Aquarela",
-        "url": "https://open.spotify.com/album/1euIjDzEYPFCuEHT2XJSp3"
-      },
-      "artists": [
-        {
-          "name": "KARINE",
-          "url": "https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8"
-        }
-      ],
-      "duration_ms": 203907,
-      "name": "Aquarela",
-      "url": "https://open.spotify.com/track/43xNkQNoTEzwmbRtrUlKq1"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1515,46 +1515,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "C\u00e2ncer Com Touro",
-        "url": "https://open.spotify.com/album/0vvr3GmtsWOq8EDBFG1xtp"
-      },
-      "artists": [
-        {
-          "name": "Sambaiana",
-          "url": "https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a"
-        },
-        {
-          "name": "Grace Profeta",
-          "url": "https://open.spotify.com/artist/6UvvBk4jun0UH6IiMAZCko"
-        },
-        {
-          "name": "Rayra Mayara",
-          "url": "https://open.spotify.com/artist/2JxBztEP6d5277y39owSBb"
-        },
-        {
-          "name": "Ju Moraes",
-          "url": "https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ"
-        },
-        {
-          "name": "Lal\u00e1 Evangelista",
-          "url": "https://open.spotify.com/artist/5wTHY9NhwtH1Q84hJcwJHr"
-        },
-        {
-          "name": "Marcinha BB",
-          "url": "https://open.spotify.com/artist/4KGopYW2G8P41kyEXlYLU7"
-        },
-        {
-          "name": "Mar\u00edlia Sodr\u00e9",
-          "url": "https://open.spotify.com/artist/4vFvo1osQ1NCjyKnFD6hVh"
-        }
-      ],
-      "duration_ms": 179891,
-      "name": "C\u00e2ncer Com Touro",
-      "url": "https://open.spotify.com/track/3uupLgLlD2ZIe6D1CuRVjW"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Samba Jazz, de Raiz Cl\u00e1udio Jorge 70",
         "url": "https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4"
       },
@@ -1603,22 +1563,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Onze (M\u00fasicas In\u00e9ditas de Adoniran Barbosa)",
-        "url": "https://open.spotify.com/album/5XhVm7loNdz3YTAkTgDPgF"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 206541,
-      "name": "Vaso Quebrado",
-      "url": "https://open.spotify.com/track/5xlsorPYXsFijrO57RSe0n"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Dia De Gl\u00f3ria",
         "url": "https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH"
       },
@@ -1635,6 +1579,62 @@
       "duration_ms": 242589,
       "name": "Dia De Gl\u00f3ria",
       "url": "https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Onze (M\u00fasicas In\u00e9ditas de Adoniran Barbosa)",
+        "url": "https://open.spotify.com/album/5XhVm7loNdz3YTAkTgDPgF"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 206541,
+      "name": "Vaso Quebrado",
+      "url": "https://open.spotify.com/track/5xlsorPYXsFijrO57RSe0n"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "C\u00e2ncer Com Touro",
+        "url": "https://open.spotify.com/album/0vvr3GmtsWOq8EDBFG1xtp"
+      },
+      "artists": [
+        {
+          "name": "Sambaiana",
+          "url": "https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a"
+        },
+        {
+          "name": "Grace Profeta",
+          "url": "https://open.spotify.com/artist/6UvvBk4jun0UH6IiMAZCko"
+        },
+        {
+          "name": "Rayra Mayara",
+          "url": "https://open.spotify.com/artist/2JxBztEP6d5277y39owSBb"
+        },
+        {
+          "name": "Ju Moraes",
+          "url": "https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ"
+        },
+        {
+          "name": "Lal\u00e1 Evangelista",
+          "url": "https://open.spotify.com/artist/5wTHY9NhwtH1Q84hJcwJHr"
+        },
+        {
+          "name": "Marcinha BB",
+          "url": "https://open.spotify.com/artist/4KGopYW2G8P41kyEXlYLU7"
+        },
+        {
+          "name": "Mar\u00edlia Sodr\u00e9",
+          "url": "https://open.spotify.com/artist/4vFvo1osQ1NCjyKnFD6hVh"
+        }
+      ],
+      "duration_ms": 179891,
+      "name": "C\u00e2ncer Com Touro",
+      "url": "https://open.spotify.com/track/3uupLgLlD2ZIe6D1CuRVjW"
     },
     {
       "added_at": "2024-01-19 03:01:00",

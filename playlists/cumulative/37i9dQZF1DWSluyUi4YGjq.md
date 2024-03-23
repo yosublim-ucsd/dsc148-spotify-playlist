@@ -4,7 +4,7 @@
 
 > The state of shoegaze\. Gazing at pedals, soaring celestially high\. Cover: Wisp
 
-573 songs - 1 day 13 hr 18 min
+577 songs - 1 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [In The Hanging Gardens](https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 5:15 | 2021-10-19 | 2022-07-28 |
 | [In Your Room](https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE) | 9:26 | 2021-10-19 | 2023-06-17 |
 | [In Your Room](https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 9:26 | 2021-10-19 | 2023-03-18 |
-| [In Your Wake](https://open.spotify.com/track/5yjzzcXAbxczlL1Ywb4M9w) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [In Your Wake](https://open.spotify.com/album/0a4jMRhtddxzyaUs0J1LKE) | 3:54 | 2023-07-26 |  |
+| [In Your Wake](https://open.spotify.com/track/5yjzzcXAbxczlL1Ywb4M9w) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [In Your Wake](https://open.spotify.com/album/0a4jMRhtddxzyaUs0J1LKE) | 3:54 | 2023-07-26 | 2024-03-23 |
 | [In Your Way](https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Here at All](https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU) | 3:54 | 2023-02-09 | 2023-10-21 |
 | [Inevitable](https://open.spotify.com/track/0uBBAHfiu4Rxzr8smE36ly) | [Puesta De Sol](https://open.spotify.com/artist/0S84S0DTAsJYag1dSMDd1Z) | [Inevitable / Abrazo](https://open.spotify.com/album/0nxikgaZCaac69akWTGbeR) | 3:46 | 2022-09-09 | 2022-10-28 |
 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 | 2023-09-29 | 2023-10-21 |
@@ -328,6 +328,7 @@
 | [Life in Color](https://open.spotify.com/track/4TdpOtzVF7aeh7EhvOk377) | [Floral Tattoo](https://open.spotify.com/artist/5A9WRVGRY9QQf7RVJxVnSS) | [You Can Never Have a Long Enough Head Start](https://open.spotify.com/album/3F9nzTMzXo2rOpyYn5YrY1) | 3:47 | 2021-10-19 | 2022-07-29 |
 | [Life Waits For Nothing](https://open.spotify.com/track/0nRmLHNJHEbKuGDXK6SnqE) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Life Waits For Nothing](https://open.spotify.com/album/0d481wq1lt7lsE45B6eEja) | 2:45 | 2023-06-30 | 2023-07-29 |
 | [Lift Your Head](https://open.spotify.com/track/6JFHZtIgmm8mtYbS5OC8J6) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Dimensional Bleed](https://open.spotify.com/album/1P7aLqfoIPEfSO6GiOFI5z) | 5:03 | 2023-02-17 | 2023-07-22 |
+| [Light Your Way Home](https://open.spotify.com/track/0XnIeYVEFtUNSfNM1faHDj) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Light Your Way Home](https://open.spotify.com/album/3rCLhXwnkKB7v2zMe3UvT4) | 5:08 | 2024-03-22 |  |
 | [Like Stars In The Firmament](https://open.spotify.com/track/0QpBFwWXoSfrdPtEYjiYyr) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Like Stars In The Firmament](https://open.spotify.com/album/5AmHK2cvlnbjo6PaXCqqpU) | 5:24 | 2023-12-01 | 2024-03-08 |
 | [Like Stars In The Firmament](https://open.spotify.com/track/0rCLd0wFQQPqDNsJ1aTNZU) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:24 | 2023-12-01 |  |
 | [Lime \- Elliott Frazier remix](https://open.spotify.com/track/28CohxX0xYGKWdKsHKvDaV) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf), [Elliott Frazier](https://open.spotify.com/artist/2h5Ha3Cr7HoTCp82TQdUDO) | [Lime](https://open.spotify.com/album/6jRYJfOVHjixKyxZC7ZRSC) | 3:39 | 2022-08-31 | 2022-09-29 |
@@ -440,7 +441,7 @@
 | [Scapa Flow](https://open.spotify.com/track/4oaLvyUUF7poPuAZSKnNT9) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Hard Light](https://open.spotify.com/album/3GzUPre1YjcoEjvV3cv6kB) | 3:59 | 2023-11-14 |  |
 | [scars](https://open.spotify.com/track/016z46SJwcRosW9Xb8JKmF) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [scars](https://open.spotify.com/album/3nVunTBVbJO5fiCP6YlhuB) | 1:35 | 2023-12-14 |  |
 | [season](https://open.spotify.com/track/0tyZQfY6yHmfLsoOdJc8bd) | [Otherside](https://open.spotify.com/artist/1tgCXu3R4Q87v25CaUKaJf) | [season/everblue](https://open.spotify.com/album/1tpA5j4ugBgRdiv0QHeDbj) | 4:37 | 2023-11-10 |  |
-| [Second Space Song](https://open.spotify.com/track/3ivkORJmP12B3fxXkDszyY) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [Starflyer 59](https://open.spotify.com/album/7eTETj3EROBg3aGhulEuwk) | 3:20 | 2024-02-23 |  |
+| [Second Space Song](https://open.spotify.com/track/3ivkORJmP12B3fxXkDszyY) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [Starflyer 59](https://open.spotify.com/album/7eTETj3EROBg3aGhulEuwk) | 3:20 | 2024-02-23 | 2024-03-23 |
 | [See you soon](https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [See you soon](https://open.spotify.com/album/5zHP6l5Pc7gtmqwiXjb8bV) | 3:38 | 2024-01-24 |  |
 | [Send the Pain Below](https://open.spotify.com/track/6OxubR1H6gRz3VzYt37Sex) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Send the Pain Below](https://open.spotify.com/album/6L0Z8t0A1iZhcAtJRfpXnh) | 4:42 | 2023-02-17 | 2023-09-30 |
 | [Seven of Cups](https://open.spotify.com/track/0fk0PlLPH4ko6acyM6ajPY) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Fairy Rust](https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7) | 3:53 | 2022-08-03 | 2022-12-16 |
@@ -453,6 +454,7 @@
 | [SHOEGAZING \(feat\. No Rome\)](https://open.spotify.com/track/5hXgfUWMLWpZjtSrDP0Efp) | [MISOGI](https://open.spotify.com/artist/778Snztf3N5DXp0kHGFl3g), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [SHOEGAZING \(feat\. No Rome\)](https://open.spotify.com/album/7zc4AIdY7gsbZvcDtL9Oty) | 3:44 | 2023-06-20 | 2023-07-01 |
 | [Showers](https://open.spotify.com/track/5lJDgnn9Wq06dBoEdMyXuz) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Showers](https://open.spotify.com/album/2BOX9sptUqhm34flUnHuM0) | 3:40 | 2021-10-19 | 2022-12-16 |
 | [Sigh In My Ear](https://open.spotify.com/track/7lvtC5scO2e6fjk8vakUVq) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Sigh In My Ear](https://open.spotify.com/album/0RoDxdxaHbp73JB56oSBzf) | 5:22 | 2023-07-21 | 2023-10-13 |
+| [Silver Strings](https://open.spotify.com/track/4q3kmQlkbe0v4NfWElYeS2) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Glasgow Eyes](https://open.spotify.com/album/537Y3cd2bKYcMTakW8b7YL) | 3:28 | 2024-03-22 |  |
 | [sin\. \(feat\. Yunjin\)](https://open.spotify.com/track/7kFgDnOMb1AEKmOnofnylh) | [gozeuneok:](https://open.spotify.com/artist/5GDl6PFdx0n7rPIDgTlSrV), [Yunjin](https://open.spotify.com/artist/4v1XwaMgeiN8T1wrxG6Gfq) | [Things to be Left Behind:](https://open.spotify.com/album/07xp4gVIHOlrdxzfiCHhiV) | 4:08 | 2022-09-29 | 2022-10-28 |
 | [Sink](https://open.spotify.com/track/59oSaOV2RMpdcWzlPsvy42) | [Dog Ears](https://open.spotify.com/artist/3JIof4HxulwCqTMAUdJQO1) | [Sink](https://open.spotify.com/album/3gdzC6RB8QGu2rulkyD6aI) | 2:41 | 2023-02-21 | 2023-10-21 |
 | [skin in the game](https://open.spotify.com/track/2EpduTUFSZfeb0GI4CaCQD) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:52 | 2023-07-21 | 2023-10-21 |
@@ -468,6 +470,7 @@
 | [Sour Punch](https://open.spotify.com/track/13pNdu3UOvwz0NxU2EEgVD) | [Blushing](https://open.spotify.com/artist/27rWdoCAtvpwChpCDz9PK0) | [Possessions](https://open.spotify.com/album/1sZkGikz7VbeytHdaBgWhr) | 2:32 | 2023-02-17 | 2023-10-21 |
 | [South](https://open.spotify.com/track/6EC1Hkr4hqHXIylbwnNEu1) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [South](https://open.spotify.com/album/1CfNY3GnYDN6P2yoLFOdGd) | 3:31 | 2023-11-08 | 2023-12-12 |
 | [Spiral](https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Spiral](https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie) | 2:48 | 2023-09-01 |  |
+| [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 | 2024-03-22 |  |
 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 | 2023-08-11 |  |
 | [Spring and by Summer Fall](https://open.spotify.com/track/3plzNcg0RAtFKTR3y7uPRy) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 4:15 | 2021-10-19 | 2022-12-16 |
 | [Spring and by Summer Fall](https://open.spotify.com/track/4H1WerRdoDxPnra8SJtW3R) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/7iOloZrq72k9GsuJUUo1pO) | 4:15 | 2021-10-19 | 2022-07-29 |
@@ -488,6 +491,7 @@
 | [Suficiente](https://open.spotify.com/track/6Gzt3wNcTpZMV9wA97IvdB) | [Sadfields](https://open.spotify.com/artist/21EFkTCquqEqYOWXi19fDF) | [Suficiente](https://open.spotify.com/album/3A8kSYi3x2IZwKaxGGAFVZ) | 3:58 | 2022-05-04 | 2022-07-24 |
 | [suicide note](https://open.spotify.com/track/1EEruLYtWxRth8sKWjrJos) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [suicide note](https://open.spotify.com/album/0q1ALc0MK3r8UEMsTRTTxp) | 3:17 | 2024-01-12 |  |
 | [sunday](https://open.spotify.com/track/7nRKMmuZnngrUrC5LOEhjk) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [What Kind of Blue Are You?](https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF) | 4:24 | 2023-03-13 | 2023-09-30 |
+| [sunspot](https://open.spotify.com/track/7MvQlWCsnEKbXpjTrNOwfc) | [dottie](https://open.spotify.com/artist/40grr46nSRIMZm8h4wdyKY) | [sunspot](https://open.spotify.com/album/0MiGYQ25SK12QAJButNdMy) | 3:36 | 2024-03-22 |  |
 | [Surprise](https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe) | [Laveda](https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7) | [Surprise](https://open.spotify.com/album/3NEmbK6tB99MY5Xbl9KaQS) | 3:31 | 2022-09-03 | 2022-12-16 |
 | [Sálvame](https://open.spotify.com/track/27tshI1j4jX347xUP8zFeZ) | [Memory Leak](https://open.spotify.com/artist/0i9cI6V5ZvmADyZcqLk8PJ) | [Sálvame](https://open.spotify.com/album/2ybfm8UkHqZOLw1vvF2hfd) | 4:45 | 2023-10-19 | 2023-12-02 |
 | [T.W.I.N.](https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [T.W.I.N.](https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz) | 3:07 | 2022-10-27 | 2023-08-15 |

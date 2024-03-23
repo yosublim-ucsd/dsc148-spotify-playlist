@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 
 > The biggest songs in Latin America in 2015\. Cover: Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,489 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,523 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 | 21 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
 | 22 | [Encantadora](https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 4:00 |
 | 23 | [La Mordidita \(feat\. Yotuel\)](https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [A Quien Quiera Escuchar \(Deluxe Edition\)](https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9) | 3:31 |
-| 24 | [Nota de Amor \(feat\. Daddy Yankee\)](https://open.spotify.com/track/4YW2Fr25fHwUt6qgvM1iE1) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Los Vaqueros: La Trilogía](https://open.spotify.com/album/7vUJAdvDYXhjf1p0P2yIxh) | 3:52 |
-| 25 | [Sígueme Y Te Sigo](https://open.spotify.com/track/7F7kL3i6SDEIbDcoJZGiig) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sígueme Y Te Sigo](https://open.spotify.com/album/0hi7qqQbGUV5Vm6OtUlE1J) | 3:29 |
+| 24 | [Sígueme Y Te Sigo](https://open.spotify.com/track/7F7kL3i6SDEIbDcoJZGiig) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sígueme Y Te Sigo](https://open.spotify.com/album/0hi7qqQbGUV5Vm6OtUlE1J) | 3:29 |
+| 25 | [Nota de Amor \(feat\. Daddy Yankee\)](https://open.spotify.com/track/4YW2Fr25fHwUt6qgvM1iE1) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Los Vaqueros: La Trilogía](https://open.spotify.com/album/7vUJAdvDYXhjf1p0P2yIxh) | 3:52 |
 | 26 | [Mayor Que Yo 3](https://open.spotify.com/track/4777sGsOdoM89vPH3CVoLe) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mayor Que Yo 3](https://open.spotify.com/album/571drPm82JNSynpu9yhEEX) | 5:04 |
 | 27 | [Si Pudiera](https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 4:16 |
 | 28 | [Tuyo \(Narcos Theme\) \- A Netflix Original Series Soundtrack](https://open.spotify.com/track/6Dc2tCivms1s2X9myWe4ni) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Tuyo \(Narcos Theme\) \[A Netflix Original Series Soundtrack\]](https://open.spotify.com/album/3GelLDk6XCrXCT4ok0jjGU) | 1:29 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 | 43 | [Si No Te Quiere](https://open.spotify.com/track/5BHd0eLqg3c58QwyohoYga) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:46 |
 | 44 | [Me Voy Enamorando \- Remix](https://open.spotify.com/track/0SUukeNYkHMk8bxwgGQKJa) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arbise González](https://open.spotify.com/artist/15siq5yPjIUocpME8lz02m) | [Radio Universo](https://open.spotify.com/album/6JRDbgNUSL0I38UMocyBS1) | 3:35 |
 | 45 | [Más Que Amigos](https://open.spotify.com/track/06PcFr42yEwK5Dv2cdkcC0) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Sube](https://open.spotify.com/album/4G2BGiu4lG5GNW6LR9oWb0) | 2:57 |
-| 46 | [Locuras contigo](https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [De Fiesta](https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf) | 2:11 |
+| 46 | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA) | 3:47 |
 | 47 | [Cobarde](https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:04 |
-| 48 | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA) | 3:47 |
+| 48 | [Locuras contigo](https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [De Fiesta](https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf) | 2:11 |
 | 49 | [Eres la Persona Correcta en el Momento Equivocado](https://open.spotify.com/track/6xk3FU1mFeImh4U5Mo7fKu) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Eres la Persona Correcta en el Momento Equivocado \(Deluxe Edition\)](https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr) | 3:56 |
 | 50 | [Nena](https://open.spotify.com/track/347TStOSY6IOqMB84Rpxwk) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Todo Comenzó Bailando](https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S) | 2:10 |
 
-Snapshot ID: `MCw2NzQ0ZjBmOTc0MWQ3YjQ4OGQ0YTFmNzFkZGIyZGQzOGQyNjFkYzcx`
+Snapshot ID: `MCxlNzhkZDI0MmJjOTYzYTM4MDFlMjM5ZGVhMmM0ZjYyYmEyMjQ1NjEz`

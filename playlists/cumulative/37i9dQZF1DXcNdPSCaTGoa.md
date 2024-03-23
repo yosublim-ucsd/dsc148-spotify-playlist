@@ -2,15 +2,15 @@
 
 ### [SA Gold](https://open.spotify.com/playlist/37i9dQZF1DXcNdPSCaTGoa)
 
-> Mzansi's musical wealth and heritage in one playlist.
+> Celebrating 20 years of  <a href="https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=RA5rgdt2RX\-n7beSCAHzBQ">Thandiswa's</a>  Zabalaza.
 
-174 songs - 14 hr 52 min
+176 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Seconds](https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY) | [Blackwhole](https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi) | [Durbans Finest](https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd) | 6:08 | 2020-04-13 |  |
 | [Accuse](https://open.spotify.com/track/7mt1pC7uZq63Unv0adIZKB) | [Alaska](https://open.spotify.com/artist/1b8WR71sV1J4qIOEC25XX9) | [Kalawa Jazmee 2012 Pre\-Release](https://open.spotify.com/album/1d2LRuYBx8Ne97H6lJqiLJ) | 4:22 | 2018-09-23 | 2022-07-28 |
-| [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 | 2019-02-03 |  |
+| [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 | 2019-02-03 | 2024-03-23 |
 | [African Dream](https://open.spotify.com/track/2Bncf7rDhtusa8qtW0Pfqc) | [Vicky Sampson](https://open.spotify.com/artist/4P1SQkSIocRnR7FJLBbeRO) | [Zai](https://open.spotify.com/album/7w8gocIWH3eYMc45rwDmYZ) | 6:01 | 2023-01-23 | 2023-11-18 |
 | [Afrikan Dream](https://open.spotify.com/track/72CSmXeBKl17SWNsUew8qX) | [Vicky Sampson](https://open.spotify.com/artist/4P1SQkSIocRnR7FJLBbeRO) | [Zai](https://open.spotify.com/album/2lSZ4Fv8bdzGEarCrrRcoa) | 6:01 | 2018-09-23 | 2022-07-29 |
 | [All Eyes on Me \(feat\. Burna Boy, Da L.E.S\. & JR\)](https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Da Les](https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy), [JR](https://open.spotify.com/artist/1a0Wc4pzPAFe5ZFiL1glrr) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 4:18 | 2019-02-03 |  |
@@ -68,6 +68,7 @@
 | [Kaptein](https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Uit Die Diepte Van My Hart](https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp) | 3:49 | 2019-02-03 |  |
 | [Khona](https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2) | [Evo Mix](https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc) | 4:55 | 2018-09-23 | 2023-12-09 |
 | [Kortes \(Kasi Luv\)](https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws) | [Mshoza](https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44) | [BullDawgz First Lady](https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g) | 5:01 | 2019-02-03 |  |
+| [Kum Nakum](https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Ntumba](https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR) | 5:56 | 2024-03-22 |  |
 | [La Vida](https://open.spotify.com/track/23vA0eA8kepqP6qS3S3y9a) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/1IRqLL1Bsaz158w1DkqpwJ) | 6:34 | 2019-02-03 | 2022-11-08 |
 | [La Vida](https://open.spotify.com/track/6jSsEnwJ0LlKqxLYtDVj1U) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu) | 6:34 | 2019-02-03 |  |
 | [La Vida](https://open.spotify.com/track/7gQksloWyQsHviHltJZ10Z) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/2kpVZngXLffWpxHE6qIIpV) | 6:34 | 2019-02-03 | 2022-07-28 |
@@ -116,7 +117,7 @@
 | [Palafala \(feat\. S'bu\)](https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [S'bu](https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:15 | 2019-02-03 |  |
 | [Pata Pata \- Stereo Version](https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:00 | 2019-02-03 |  |
 | [Picture Perfect](https://open.spotify.com/track/0hlIkI7YTpYJFMAGZKKbFW) | [Perez](https://open.spotify.com/artist/4SrJRmTXw8bKcphnkrQEAo) | [Picture Perfect](https://open.spotify.com/album/78Q5aDuPhtvKDMMjaWDlIX) | 4:05 | 2019-02-12 | 2022-07-16 |
-| [Pluto \(Remember You\) \- Radio Edit](https://open.spotify.com/track/0MITF6fx2O1ClZnkC8jSfr) | [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Pluto \(Remember You\)](https://open.spotify.com/album/5alvUiKME4gVY3qv6UlSwd) | 4:27 | 2018-09-23 |  |
+| [Pluto \(Remember You\) \- Radio Edit](https://open.spotify.com/track/0MITF6fx2O1ClZnkC8jSfr) | [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Pluto \(Remember You\)](https://open.spotify.com/album/5alvUiKME4gVY3qv6UlSwd) | 4:27 | 2018-09-23 | 2024-03-23 |
 | [Pot Belly](https://open.spotify.com/track/3mYsWA2ClF84ZLroBpreo1) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Ma'cheri](https://open.spotify.com/album/19n9b6PD8x6clAdrqEXaWe) | 4:11 | 2018-09-23 | 2022-11-13 |
 | [Roba Letheka](https://open.spotify.com/track/5Y3V1EP3PhEuriQnsloibv) | [Ishmael](https://open.spotify.com/artist/23kwDDCo3lIQQvjuWf1b08) | [Roba Letheka](https://open.spotify.com/album/6rIrhFTuKliZLJEubiBkre) | 5:39 | 2020-09-30 | 2022-12-24 |
 | [Sana Luma \(That's The Way Love Is\)](https://open.spotify.com/track/6UiuOhWSurVn1DUcpdA6Vf) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/5xmeO5jAS6KCMByzQD8Fdg) | 5:17 | 2023-01-23 | 2023-11-11 |
@@ -182,5 +183,6 @@
 | [Y\-Tjukuja](https://open.spotify.com/track/2V63tXAalMiOveSc3pRLJp) | [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2), [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [DJ Bucks](https://open.spotify.com/artist/541TdTVsd11rQV6CLPiB4J) | [Our Father](https://open.spotify.com/album/1dI9dADANjMtU5qfwkjbzc) | 5:10 | 2023-01-23 |  |
 | [Yehlisan'umoya Ma Africa](https://open.spotify.com/track/0axBrl3OJbqYoYBMBQ1ZIp) | [Busi Mhlongo](https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf) | [Urbanzulu](https://open.spotify.com/album/27Nh3R2uDfwuje1HJtjS7o) | 5:25 | 2019-02-12 | 2022-07-29 |
 | [Zabalaza](https://open.spotify.com/track/0pKIVNpVSFRxGF7TJ6vubs) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [Zabalaza: Project B](https://open.spotify.com/album/2pwF2yxPiB1sHMkJcDNRnD) | 6:47 | 2019-02-03 | 2022-07-24 |
+| [Zabalaza](https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:42 | 2024-03-22 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

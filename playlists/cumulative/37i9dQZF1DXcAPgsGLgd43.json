@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffd\ud83d\udc83\ud83c\udffd",
+  "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
   "name": "Latin House",
   "tracks": [
     {
@@ -290,6 +290,32 @@
       "duration_ms": 211200,
       "name": "Bailar Riddim",
       "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
+    },
+    {
+      "album": {
+        "name": "Baile Go",
+        "url": "https://open.spotify.com/album/1IOIYo8oJtYEGY4EKjTrYT"
+      },
+      "artists": [
+        {
+          "name": "Nicole Fiallo",
+          "url": "https://open.spotify.com/artist/73UetSYlADQU9aDYjakZsc"
+        },
+        {
+          "name": "Jungle Punk",
+          "url": "https://open.spotify.com/artist/02Ul6F8yJslGTFZNtSp2mk"
+        },
+        {
+          "name": "Skillaton",
+          "url": "https://open.spotify.com/artist/2erqQ0nRNkcR29J1Qtutkk"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390013,
+      "name": "Baile Go",
+      "url": "https://open.spotify.com/track/66sIS8GvfZxKQ2v6bNc2RY"
     },
     {
       "album": {
@@ -1835,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "Guataqui",
+        "url": "https://open.spotify.com/album/6JfaLOnI9Q6K31FoHPADyY"
+      },
+      "artists": [
+        {
+          "name": "Jimmi Rider",
+          "url": "https://open.spotify.com/artist/1cd0IMgYU4aMsi2fSh8jJV"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136875,
+      "name": "Guataqui",
+      "url": "https://open.spotify.com/track/1j5ocYQRNSZRoj7L5ekkqn"
+    },
+    {
+      "album": {
         "name": "Hag\u00fce",
         "url": "https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH"
       },
@@ -2324,7 +2368,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 201720,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
@@ -2690,7 +2734,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 170625,
       "name": "Morena",
       "url": "https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE"
@@ -2778,6 +2822,28 @@
       "duration_ms": 177142,
       "name": "Musica",
       "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
+    },
+    {
+      "album": {
+        "name": "Nicotina",
+        "url": "https://open.spotify.com/album/3RPabycr55t7BDwUOzwhE0"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        },
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188819,
+      "name": "Nicotina",
+      "url": "https://open.spotify.com/track/6oWPpW3OWrypVoCHB2Cpw0"
     },
     {
       "album": {
@@ -2909,7 +2975,7 @@
     },
     {
       "album": {
-        "name": "Patadas de Ahogado / LATIN MAFIA (Rework)",
+        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
         "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
       },
       "artists": [
@@ -2922,7 +2988,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186341,
-      "name": "Patadas de Ahogado / LATIN MAFIA - Rework",
+      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
@@ -3186,7 +3252,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 163144,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/7ek1DEzAizK2hYsOI1xQsN"
@@ -3940,7 +4006,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188538,
-      "name": "Vai Caralho - Do togo",
+      "name": "Vai Caralho (Do togo)",
       "url": "https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W"
     },
     {

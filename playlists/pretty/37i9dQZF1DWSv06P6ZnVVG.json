@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 35101,
+  "num_followers": 35162,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWNiZmEyNzAzNTRhMWI2MzI2YjM0MWE0ODMxNDcyM2JjZTkzNDA0",
+  "snapshot_id": "MCw3ZjcyYTdlZWVhYzY4ODZiOWM5ZjFmOWJkNjgwODQzYmFhODNhN2U3",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -455,26 +455,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Mujer Alegre",
-        "url": "https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        },
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "Mujer Alegre",
-      "url": "https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Zapateado Perron",
         "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
       },
@@ -495,6 +475,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "El Toro Meko (Serie Titanium)",
+        "url": "https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo"
+      },
+      "artists": [
+        {
+          "name": "La Super Banda de Chilacachapa, Gro",
+          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "El Huitzuque\u00f1o",
+      "url": "https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Contra Viento y Marea",
         "url": "https://open.spotify.com/album/3UeYQORMpoP5hGyn0udUBo"
       },
@@ -511,18 +507,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "El Toro Meko (Serie Titanium)",
-        "url": "https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo"
+        "name": "Mujer Alegre",
+        "url": "https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat"
       },
       "artists": [
         {
-          "name": "La Super Banda de Chilacachapa, Gro",
-          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        },
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
         }
       ],
-      "duration_ms": 187680,
-      "name": "El Huitzuque\u00f1o",
-      "url": "https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd"
+      "duration_ms": 217894,
+      "name": "Mujer Alegre",
+      "url": "https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 253015,
-      "name": "El Carretero",
-      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Y Seguimos Loqueando!",
         "url": "https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 244680,
       "name": "El Torito de Petate - La Fiesta del Carnaval",
       "url": "https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 253015,
+      "name": "El Carretero",
+      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "El Novillo Despuntado / Toro Pinto",
-        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 277796,
-      "name": "El Novillo Despuntado / Toro Pinto",
-      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Arriba Mi Rancho",
         "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
       },
@@ -683,22 +667,6 @@
       "duration_ms": 225410,
       "name": "El Tecolotito",
       "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Puras De Viento En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 145103,
-      "name": "Arriba Pichataro - En Vivo",
-      "url": "https://open.spotify.com/track/7zB01FOcB5PzeuPKv8XPIb"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -719,22 +687,34 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Las Mamirriquis",
-        "url": "https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I"
+        "name": "Puras De Viento En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
       },
       "artists": [
         {
-          "name": "Banda Trancazo",
-          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
-        },
-        {
-          "name": "Arturo Camarillo",
-          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 164087,
-      "name": "La Burra Orejona",
-      "url": "https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt"
+      "duration_ms": 145103,
+      "name": "Arriba Pichataro - En Vivo",
+      "url": "https://open.spotify.com/track/7zB01FOcB5PzeuPKv8XPIb"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "El Novillo Despuntado / Toro Pinto",
+        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 277796,
+      "name": "El Novillo Despuntado / Toro Pinto",
+      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -751,6 +731,26 @@
       "duration_ms": 218893,
       "name": "El Pistolero - Son, Huapangobanda",
       "url": "https://open.spotify.com/track/3M7XEXe5lVM1jHgGrNTkUz"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Las Mamirriquis",
+        "url": "https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I"
+      },
+      "artists": [
+        {
+          "name": "Banda Trancazo",
+          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
+        },
+        {
+          "name": "Arturo Camarillo",
+          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
+        }
+      ],
+      "duration_ms": 164087,
+      "name": "La Burra Orejona",
+      "url": "https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Puros Popurris De Sones",
-        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 199307,
-      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
-      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "El Chavo del Ocho (The Elephant Never Forgets)",
         "url": "https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 166876,
       "name": "El Chavo del Ocho (The Elephant Never Forgets)",
       "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Las m\u00e1s muerteras",
+        "url": "https://open.spotify.com/album/3gjCOwINDNAOi3VIk8PbZ8"
+      },
+      "artists": [
+        {
+          "name": "Los Oaxapen\u00b4S",
+          "url": "https://open.spotify.com/artist/3ZrpEqKME1c5ZXm6g4ZLI8"
+        }
+      ],
+      "duration_ms": 214674,
+      "name": "Carnavalezco",
+      "url": "https://open.spotify.com/track/0kk8kIdLalXbrl3DaFrXPM"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Las m\u00e1s muerteras",
-        "url": "https://open.spotify.com/album/3gjCOwINDNAOi3VIk8PbZ8"
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
       },
       "artists": [
         {
-          "name": "Los Oaxapen\u00b4S",
-          "url": "https://open.spotify.com/artist/3ZrpEqKME1c5ZXm6g4ZLI8"
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
         }
       ],
-      "duration_ms": 214674,
-      "name": "Carnavalezco",
-      "url": "https://open.spotify.com/track/0kk8kIdLalXbrl3DaFrXPM"
+      "duration_ms": 199307,
+      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
+      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
     },
     {
       "added_at": "2022-08-02 22:31:47",

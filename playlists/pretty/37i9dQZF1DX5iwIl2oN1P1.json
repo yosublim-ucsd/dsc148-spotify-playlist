@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 102395,
+  "num_followers": 102448,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzU0ZTY4NzJmN2JmZTBjM2QyMDI2NmVhOTk1Mzc3NGQ4OGQyN2Jk",
+  "snapshot_id": "MCwzMTUzMTI4ZGE3NGM2NzExZjcxNTU1NDg2ZWJjZTAxOGVhMmQ5ZWI4",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -915,22 +915,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Deitrick Haddon & Hill City Worship Camp",
-        "url": "https://open.spotify.com/album/6RxiG7W0vmgkCdx0M2Kre6"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 458498,
-      "name": "A Billion People",
-      "url": "https://open.spotify.com/track/2RzL4rCsY8aJp4oi0sS76K"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 249173,
       "name": "Kind God",
       "url": "https://open.spotify.com/track/42lwMiKlH2nVmvnOtVFTHy"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Deitrick Haddon & Hill City Worship Camp",
+        "url": "https://open.spotify.com/album/6RxiG7W0vmgkCdx0M2Kre6"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 458498,
+      "name": "A Billion People",
+      "url": "https://open.spotify.com/track/2RzL4rCsY8aJp4oi0sS76K"
     },
     {
       "added_at": "2020-06-03 14:33:10",

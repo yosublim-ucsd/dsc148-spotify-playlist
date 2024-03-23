@@ -1,13 +1,29 @@
 {
   "description": "bringing you all things house!! follow me on tour <a href=\"http://www.instagram.com/curbi\">here</a> and don't forget to <a href=\"https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT\">follow my artist profile</a>..",
-  "num_followers": 4203,
+  "num_followers": 4204,
   "original_name": "ALL THINGS HOUSE - CURBI PRESENTS",
   "owner": {
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "MTY2NywyODdiYzA1OGIzMDY3N2NiMTRlOGQwNDI5NmQ0MWY3NjlhMzJiNjYw",
+  "snapshot_id": "MTY4OCwxYzljYzI5Nzc1ZDFkYmI2MjM1MmJiOGYzYzRiMDc2NjM0NTgyZTQ3",
   "tracks": [
+    {
+      "added_at": "2024-03-22 15:16:13",
+      "album": {
+        "name": "Four Symbols EP",
+        "url": "https://open.spotify.com/album/3QW1M8WQPnzcJHpP2rtSOn"
+      },
+      "artists": [
+        {
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Azure Dragon",
+      "url": "https://open.spotify.com/track/61EcOtWCcbIIduDSlpRneD"
+    },
     {
       "added_at": "2024-03-18 02:27:56",
       "album": {
@@ -101,6 +117,42 @@
       "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
     },
     {
+      "added_at": "2024-03-22 16:18:47",
+      "album": {
+        "name": "D\u00eddymoi",
+        "url": "https://open.spotify.com/album/1RmuUaqgU0WQQv63NLfkyJ"
+      },
+      "artists": [
+        {
+          "name": "Ark Nomads",
+          "url": "https://open.spotify.com/artist/1Ur133dmPPstSi5RbGPKaD"
+        },
+        {
+          "name": "Frankllin",
+          "url": "https://open.spotify.com/artist/60O3861cpmpuxxtYhKuKkV"
+        }
+      ],
+      "duration_ms": 280975,
+      "name": "Ragas",
+      "url": "https://open.spotify.com/track/1rfPjCvDZ4gtGyguweb6Vo"
+    },
+    {
+      "added_at": "2024-03-22 15:16:15",
+      "album": {
+        "name": "Four Symbols EP",
+        "url": "https://open.spotify.com/album/3QW1M8WQPnzcJHpP2rtSOn"
+      },
+      "artists": [
+        {
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
+        }
+      ],
+      "duration_ms": 253791,
+      "name": "Vermillion Bird",
+      "url": "https://open.spotify.com/track/6DeknAlFWNlHj2L8J0Trgu"
+    },
+    {
       "added_at": "2024-03-18 02:27:56",
       "album": {
         "name": "Kill The Lights",
@@ -177,6 +229,22 @@
       "url": "https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j"
     },
     {
+      "added_at": "2024-03-22 15:16:18",
+      "album": {
+        "name": "Four Symbols EP",
+        "url": "https://open.spotify.com/album/3QW1M8WQPnzcJHpP2rtSOn"
+      },
+      "artists": [
+        {
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
+        }
+      ],
+      "duration_ms": 213500,
+      "name": "Black Tortoise",
+      "url": "https://open.spotify.com/track/6MdWhXZwdSRqQ2EWApxiii"
+    },
+    {
       "added_at": "2024-03-18 02:27:56",
       "album": {
         "name": "Just Like You",
@@ -227,26 +295,6 @@
     {
       "added_at": "2024-03-18 02:27:56",
       "album": {
-        "name": "Where R U Now?",
-        "url": "https://open.spotify.com/album/4MjxW1a58loQAR90I7x9dd"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        },
-        {
-          "name": "Eirik N\u00e6ss",
-          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
-        }
-      ],
-      "duration_ms": 189441,
-      "name": "Where R U Now?",
-      "url": "https://open.spotify.com/track/6ZcJBxBI0xenp4XoJ2VwTc"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
         "name": "Move With Tha",
         "url": "https://open.spotify.com/album/35YXlOPsyhZtgcELZcN4nJ"
       },
@@ -259,6 +307,22 @@
       "duration_ms": 186933,
       "name": "Move With Tha",
       "url": "https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK"
+    },
+    {
+      "added_at": "2024-03-22 16:21:44",
+      "album": {
+        "name": "In My Zone",
+        "url": "https://open.spotify.com/album/7jfNQKl9UVhkE2jphNILY5"
+      },
+      "artists": [
+        {
+          "name": "Actimax",
+          "url": "https://open.spotify.com/artist/4R9Bm1J23wbXOK3oxpjKau"
+        }
+      ],
+      "duration_ms": 147619,
+      "name": "In My Zone",
+      "url": "https://open.spotify.com/track/129YtWvauG535qN5dr7YKO"
     },
     {
       "added_at": "2024-03-18 02:27:56",
@@ -275,26 +339,6 @@
       "duration_ms": 196875,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/59Up9bvTzye1JE1fueCjER"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Leaving",
-        "url": "https://open.spotify.com/album/1bXfdsuhUKLUyiHambDUFO"
-      },
-      "artists": [
-        {
-          "name": "BUTTER",
-          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
-        },
-        {
-          "name": "Single Spark",
-          "url": "https://open.spotify.com/artist/2CHQJ8gVz5R8GPjcV1V7P9"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/1jMYyomHmE32xaSifYDego"
     },
     {
       "added_at": "2024-03-18 02:27:56",
@@ -371,26 +415,6 @@
     {
       "added_at": "2024-03-18 02:27:56",
       "album": {
-        "name": "Shake That Ass",
-        "url": "https://open.spotify.com/album/7elfSXV9csx47iV6b5qAcu"
-      },
-      "artists": [
-        {
-          "name": "Tamash",
-          "url": "https://open.spotify.com/artist/2FeLfiGktGsFKdg9toHB9s"
-        },
-        {
-          "name": "Dino Mileta",
-          "url": "https://open.spotify.com/artist/2wxCWN0Nc1mCCC9PoKYAvB"
-        }
-      ],
-      "duration_ms": 134395,
-      "name": "Shake That Ass",
-      "url": "https://open.spotify.com/track/1BorJKjZlH26aeIBiuUfsR"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
         "name": "Ain't No Mountain",
         "url": "https://open.spotify.com/album/71ODnsWScGKqVcMLaVpskY"
       },
@@ -431,22 +455,6 @@
     {
       "added_at": "2024-03-18 02:27:56",
       "album": {
-        "name": "Oldskool",
-        "url": "https://open.spotify.com/album/1z8f4TO7hSS6ZIVzQR3QZ3"
-      },
-      "artists": [
-        {
-          "name": "No Thanks",
-          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "Oldskool",
-      "url": "https://open.spotify.com/track/2eEhqIjo81t9CrLFbvSOhK"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI"
       },
@@ -463,26 +471,6 @@
       "duration_ms": 192755,
       "name": "365",
       "url": "https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Rhythm Machine",
-        "url": "https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Rhythm Machine",
-      "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
     },
     {
       "added_at": "2024-03-18 02:27:56",
@@ -539,46 +527,6 @@
       "duration_ms": 165333,
       "name": "XTC",
       "url": "https://open.spotify.com/track/4RMOH93IUkNUjEKcvZCzq0"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Velocity",
-        "url": "https://open.spotify.com/album/31mB1eD5hefJpH5HO787IT"
-      },
-      "artists": [
-        {
-          "name": "AKSOM",
-          "url": "https://open.spotify.com/artist/6boN82ubGZg1A9zktXrR0s"
-        },
-        {
-          "name": "Luke Alexander",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Velocity",
-      "url": "https://open.spotify.com/track/7Fsegmc6WJr0Zq6VNG45Xw"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/0LwjDsTpoKoTEK8ulfu9sI"
-      },
-      "artists": [
-        {
-          "name": "Amero",
-          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
-        },
-        {
-          "name": "Jack Allenn",
-          "url": "https://open.spotify.com/artist/6KLdWyicJrMtXbZzGXbfs9"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/0C2PDXjRIl5y6bqxewBXoL"
     },
     {
       "added_at": "2024-03-18 02:27:56",
@@ -831,22 +779,6 @@
       "duration_ms": 293333,
       "name": "KUMBAYA",
       "url": "https://open.spotify.com/track/1xSYEWTIvedPRL8IG6Thk9"
-    },
-    {
-      "added_at": "2024-03-18 02:34:47",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2k37hvLuyorPNfPl3BSRct"
-      },
-      "artists": [
-        {
-          "name": "Zeesa",
-          "url": "https://open.spotify.com/artist/2nc1X3IBmrwe0VvtsyexyD"
-        }
-      ],
-      "duration_ms": 151436,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0QaFXsFGwmXF6OgdJ6a1Uj"
     }
   ],
   "unique_name": "ALL THINGS HOUSE - CURBI PRESENTS",

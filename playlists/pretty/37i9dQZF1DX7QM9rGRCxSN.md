@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Estrella del Sol en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,077 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,088 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 8 | [Vuelta en U](https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Vuelta en U](https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy) | 3:02 |
 | 9 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
 | 10 | [De Viaje](https://open.spotify.com/track/5Alh9ZUF8clLNm1UmFLcSv) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Super 8](https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu) | 4:14 |
-| 11 | [Jupiter and Beyond the Infinite](https://open.spotify.com/track/2naI19G3CIvBAa6fdyN9Wv) | [Viva Belgrado](https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK), [Erik Urano](https://open.spotify.com/artist/4UGlbaxTr9BPv4YLD6iWRN) | [Cancionero de los Cielos](https://open.spotify.com/album/02gQo1cLO7MUjVn94lnRGR) | 3:55 |
+| 11 | [Hazy Youth](https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:02 |
 | 12 | [te odio](https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt) | 2:50 |
-| 13 | [Hazy Youth](https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:02 |
+| 13 | [Jupiter and Beyond the Infinite](https://open.spotify.com/track/2naI19G3CIvBAa6fdyN9Wv) | [Viva Belgrado](https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK), [Erik Urano](https://open.spotify.com/artist/4UGlbaxTr9BPv4YLD6iWRN) | [Cancionero de los Cielos](https://open.spotify.com/album/02gQo1cLO7MUjVn94lnRGR) | 3:55 |
 | 14 | [Wow](https://open.spotify.com/track/5nO4n8RClXZg2ugsBU9hXy) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t) | 5:19 |
 | 15 | [Ver a Través de tus Ojos](https://open.spotify.com/track/1vyqlRBQeFFfbL1l6d43yD) | [Estrella del Sol](https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Ver a Través de tus Ojos](https://open.spotify.com/album/3LyFxQOJRwWCzhHjqp4fHL) | 2:40 |
 | 16 | [Viajar en Metro](https://open.spotify.com/track/7FDjq6dp6gUjsqsSWchDZ1) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Los Movimientos](https://open.spotify.com/album/5y42cHtbjVLQhuLWbcEwja) | 5:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 49 | [La Carretera](https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [La Carretera](https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko) | 4:11 |
 | 50 | [Como Rei Ayanami](https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Como Rei Ayanami](https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW) | 2:57 |
 
-Snapshot ID: `MCwwN2ZmNmQ2Y2NlNWE3Yzc0YjNjNGJiMDE1MmVhZTBhMTFiNWMyYmMy`
+Snapshot ID: `MCxmNTczM2IxNjIzMzIzMjAzNjJjMmFkNmM0ZjU5NjA0ODE3NDgzZDRk`

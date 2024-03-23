@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: YG",
-  "num_followers": 165392,
+  "num_followers": 165446,
   "original_name": "I Love My 2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWYyMTY2NjE0YjYyNDFkMjljOWFjYjE0ZTI0Mjk4ZjhjNTk0YzU5",
+  "snapshot_id": "MCw5OTM1OTI5OTRiZjVjZjM5MzhkNGRlNzk3YzcwMDNhZTRlMWUwMzY3",
   "tracks": [
     {
       "added_at": "2024-03-15 04:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 154424,
-      "name": "No Idea",
-      "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
         "name": "IGOR",
         "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },
@@ -539,18 +523,38 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 182706,
-      "name": "XO Tour Llif3",
-      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
+      "duration_ms": 154424,
+      "name": "No Idea",
+      "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Power Trip (feat. Miguel)",
+      "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -575,22 +579,18 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "Born Sinner (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 241160,
-      "name": "Power Trip (feat. Miguel)",
-      "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
+      "duration_ms": 182706,
+      "name": "XO Tour Llif3",
+      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -811,8 +811,8 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "Artist",
-        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 128156,
-      "name": "My Shit",
-      "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
+      "duration_ms": 179449,
+      "name": "Look Back at It",
+      "url": "https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -939,8 +939,8 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 179449,
-      "name": "Look Back at It",
-      "url": "https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8"
+      "duration_ms": 128156,
+      "name": "My Shit",
+      "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 180434,
-      "name": "Ballin' (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
         "name": "Chill Bill (feat. J. Davi$ & Spooks)",
         "url": "https://open.spotify.com/album/5qBu7Ab6alstSCAzxTJMb1"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 177184,
       "name": "Chill Bill (feat. J. Davi$ & Spooks)",
       "url": "https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "AT.LONG.LAST.A$AP",
-        "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 126960,
-      "name": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
-      "url": "https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
         "name": "2014 Forest Hills Drive",
         "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 301064,
       "name": "G.O.M.D",
       "url": "https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "AT.LONG.LAST.A$AP",
+        "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
+      "url": "https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm"
     },
     {
       "added_at": "2024-03-15 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 
 > A compilation of the all\-time biggest hits in Country Music\. Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,648 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,365 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,16 +43,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 33 | [Strawberry Wine](https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Deana Carter Collection](https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd) | 4:50 |
 | 34 | [Carrying Your Love With Me](https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Carrying Your Love With Me](https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ) | 3:52 |
 | 35 | [Body Like A Back Road](https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road](https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz) | 2:45 |
-| 36 | [Live Like You Were Dying](https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live Like You Were Dying](https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs) | 5:00 |
+| 36 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
 | 37 | [Blue Ain't Your Color](https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:50 |
 | 38 | [Folsom Prison Blues \- Live at Folsom State Prison, Folsom, CA \- January 1968](https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [At Folsom Prison](https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh) | 2:42 |
 | 39 | [Achy Breaky Heart](https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 3:23 |
 | 40 | [Kiss an Angel Good Mornin'](https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [The Essential Charley Pride](https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75) | 2:03 |
-| 41 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
-| 42 | [My Maria](https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:28 |
+| 41 | [My Maria](https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:28 |
+| 42 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
 | 43 | [Watching You](https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:55 |
 | 44 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
-| 45 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
+| 45 | [Live Like You Were Dying](https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live Like You Were Dying](https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs) | 5:00 |
 | 46 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
 | 47 | [Burnin' It Down](https://open.spotify.com/track/32FcjEWPn4aSRqJ6loL01b) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Old Boots, New Dirt](https://open.spotify.com/album/5i2qu2FGIYy2BMhHDKST43) | 3:39 |
 | 48 | [The Night The Lights Went Out In Georgia](https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 4:17 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 96 | [A Good Hearted Woman \- Live at Western Place, Dallas, Texas \- September 25, 1974](https://open.spotify.com/track/1B3wswoDyVdEbWO9lmEzSk) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Greatest Hits](https://open.spotify.com/album/5Fx4B1UYRtbc3sbhca9OZo) | 2:58 |
 | 97 | [Behind Closed Doors](https://open.spotify.com/track/4NRFiS0pHjTFDjOm1LWTZj) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Behind Closed Doors \(Expanded Edition\)](https://open.spotify.com/album/79s7QjTPGEFwbpQsMhAYGw) | 2:54 |
 | 98 | [XXX's And OOO's \(An American Girl\)](https://open.spotify.com/track/7b05yUcjnxPDUhWNL4nE3K) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Greatest Hits](https://open.spotify.com/album/2p6Kod7VSlWtuQG5N6K2qF) | 2:47 |
-| 99 | [All the Gold In California](https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526) | [Larry Gatlin & The Gatlin Brothers](https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS) | [Straight Ahead \(Expanded Edition\)](https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ) | 2:37 |
-| 100 | [Lesson In Leavin'](https://open.spotify.com/track/0xo5dRgtkZlR2zNJwSYB37) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [All\-Time Greatest Hits](https://open.spotify.com/album/2W0uJ9ehsjiInD1CDvVHHX) | 3:40 |
+| 99 | [Lesson In Leavin'](https://open.spotify.com/track/0xo5dRgtkZlR2zNJwSYB37) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [All\-Time Greatest Hits](https://open.spotify.com/album/2W0uJ9ehsjiInD1CDvVHHX) | 3:40 |
+| 100 | [All the Gold In California](https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526) | [Larry Gatlin & The Gatlin Brothers](https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS) | [Straight Ahead \(Expanded Edition\)](https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ) | 2:37 |
 
-Snapshot ID: `MCwxOTc2NmFlZGFmMzFhNDYzN2Y1MTNiZDZiYzVlMWM5OGM5NmU2NjA5`
+Snapshot ID: `MCxmZDg5Mjk5ZTM3NTRmOTNjZjQ5YzA1YjZkN2U1Mzg0NzQ2MmViZjgz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Ana Castela e os artistas mais ouvidos no Brasil em 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,686 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,797 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 49 | [Diferentão \- Ao Vivo](https://open.spotify.com/track/3PLdcrfVesYKyTpS1EXsxO) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Diferentão \(Ao Vivo\)](https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK) | 2:43 |
 | 50 | [20 Ligações](https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 3:13 |
 
-Snapshot ID: `MCxiNGRlN2EzMjUxMGNkNThmNjUzZmRiNzJiZTNmZDI5ZDk0NTA2ZDA0`
+Snapshot ID: `MCw0M2Y1MDQ5M2EwNGZkMzU5MDBlNzdlMWE0N2E5ZjJmYTdhODlkZDNh`

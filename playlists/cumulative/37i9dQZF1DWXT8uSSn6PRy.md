@@ -4,7 +4,7 @@
 
 > The hottest tracks in the North\. Cover: Ariana Grande
 
-623 songs - 1 day 8 hr 52 min
+624 songs - 1 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Love Me](https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Love Me](https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel) | 3:27 | 2022-02-18 | 2022-03-18 |
 | [Love Me More](https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Me More](https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe) | 3:10 | 2022-05-06 | 2022-06-18 |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2021-12-31 | 2022-03-05 |
-| [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-23 |  |
+| [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-23 | 2024-03-23 |
 | [Love Turns Lonely](https://open.spotify.com/track/0HB4qYEELiwPoSzcG5kQj2) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Love Turns Lonely](https://open.spotify.com/album/73gPLcREEBeTaX81GEup7e) | 2:47 | 2022-02-04 | 2022-07-09 |
 | [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 | 2023-02-24 | 2023-04-01 |
 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw) | 2:30 | 2022-02-25 | 2022-09-24 |
@@ -403,6 +403,7 @@
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-06-10 | 2023-05-20 |
 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-02-04 | 2022-03-18 |
 | [Obomi Nga](https://open.spotify.com/track/1YthsroKCm3ebScYHHjoEo) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [MC Azas](https://open.spotify.com/artist/4NoFJgUGH2LMOt2MtC6Vhx) | [Obomi Nga](https://open.spotify.com/album/52dGCyEMkAX9f2QVTUPdx0) | 6:14 | 2022-06-03 | 2022-06-18 |
+| [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-03-22 |  |
 | [Obsessed \(with Charlie Puth & Shenseea\)](https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:46 | 2022-08-05 | 2022-10-22 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-12-31 | 2022-09-24 |
 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 | 2023-06-23 | 2023-09-09 |

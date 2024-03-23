@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-526 songs - 1 day 3 hr 34 min
+527 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Beautiful Love \- Free Fire](https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Beautiful Love \(Free Fire\)](https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0) | 3:27 | 2022-09-02 | 2022-11-26 |
 | [Beauty In The Madness](https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Beauty In The Madness](https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8) | 3:43 | 2022-06-24 | 2023-02-11 |
 | [BEBE](https://open.spotify.com/track/6g66M8kCsTHH62T7oT0K3I) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [BEBE/CINNAMON](https://open.spotify.com/album/1xNUH2MsviQz6p4firxKHR) | 2:45 | 2024-03-22 |  |
+| [Believe](https://open.spotify.com/track/5La0PaI1xX4VbbA4LI4kxz) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [Purple Lens](https://open.spotify.com/album/1Ycr1L7hKGVBLVygx1mG8l) | 2:35 | 2024-03-22 |  |
 | [Beside You](https://open.spotify.com/track/2yyi0FijxXpUqNoO7Q6m8j) | [Black Girls Glow](https://open.spotify.com/artist/2rzelYNts2hxyccqXrIESK), [Lindsey Abudei](https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg), [Lor](https://open.spotify.com/artist/0qB2kln0DEhQW99YeSgVPK), [Lily Asia](https://open.spotify.com/artist/5UzCUtrwz4xfsQYoA9toYu) | [Tapestry](https://open.spotify.com/album/3bP6xutBMEXvmVbecXNF6u) | 3:47 | 2022-10-13 | 2022-12-02 |
 | [Better Than This \(feat\. Tellaman\)](https://open.spotify.com/track/50PMuNQuMKQHCzxonOeDHE) | [Select Play](https://open.spotify.com/artist/5bJTdzjq8dZRcVjJ8FkAiU), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Better Than This \(feat\. Tellaman\)](https://open.spotify.com/album/4gXWlYFDwStgusk7cnXv0A) | 3:54 | 2023-06-30 | 2023-08-08 |
 | [Biggo](https://open.spotify.com/track/3ObgktkhFwYk4HCksIBHRv) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Biggo](https://open.spotify.com/album/5MbFksPaxBZuSTvlLeJ1Px) | 2:56 | 2023-08-10 | 2023-09-15 |
@@ -438,7 +439,7 @@
 | [Stay \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS II](https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX) | 3:38 | 2022-08-12 | 2022-10-01 |
 | [Stranger](https://open.spotify.com/track/1ySzohfiLo3l12pcqW40p3) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Stranger](https://open.spotify.com/album/4Q4uGd58eng0BxY3aAF7Bo) | 3:08 | 2023-06-09 | 2023-09-10 |
 | [Stuck \(Your Heart\)](https://open.spotify.com/track/6v1MYdTTNt0mJNZ6NEDnQ6) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Mayten](https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [Stuck \(Your Heart\)](https://open.spotify.com/album/6DUNvxsja1HRJWSTdaoK5O) | 4:10 | 2023-03-14 | 2023-04-15 |
-| [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2023-06-09 |  |
+| [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2023-06-09 | 2024-03-23 |
 | [Summer Too Hot](https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Summer Too Hot](https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN) | 3:08 | 2023-06-22 | 2023-09-15 |
 | [Sun/Son](https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sun/Son](https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24) | 2:56 | 2024-01-12 |  |
 | [Sunday Drive](https://open.spotify.com/track/04XP2KJlsyIBKyIzFBPVEQ) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Sunday Drive](https://open.spotify.com/album/4DQy1HVcbexyp8AXaTn12x) | 3:00 | 2023-03-17 | 2023-06-17 |

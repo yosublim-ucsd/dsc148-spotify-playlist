@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 
 > This is The Kid LAROI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,195 likes - 37 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,231 likes - 37 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 | 36 | [Speak](https://open.spotify.com/track/6MiklcQlQKHGqM7VV1mWKo) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [B4 The Storm \(Expanded Edition\)](https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY) | 2:02 |
 | 37 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA3Y2JkMzkzMzEwODQyOWI4NmEwNzY5NDQ2NGI5MTg3OA==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA2NWNhZDFjZTBlZDAxODhhN2IxYjYzMGFhYmFmODIyZQ==`

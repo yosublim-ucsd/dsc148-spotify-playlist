@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,188 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,190 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 12 | [Yeshua \(Ao Vivo\)](https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 6:06 |
 | 13 | [Em tua Presença](https://open.spotify.com/track/4CLyiUczxtE9eHVwpZPIIR) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Apenas um Toque](https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel) | 6:41 |
 | 14 | [Suas Digitais](https://open.spotify.com/track/0IRSfwWSF4uQiYe6cxQWsV) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:50 |
-| 15 | [Desciende](https://open.spotify.com/track/3Yz6iMlTsghB92Qy06XcPj) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Atmosfera](https://open.spotify.com/album/3edUQbB5rV3udn3miMBa7a) | 6:17 |
+| 15 | [Aos Teus Pés](https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 3:32 |
 | 16 | [Toca\-me \(Ao Vivo\)](https://open.spotify.com/track/2QGt42CpPjWz3YBgArrhXD) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 3:51 |
-| 17 | [Aos Teus Pés](https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 3:32 |
+| 17 | [Desciende](https://open.spotify.com/track/3Yz6iMlTsghB92Qy06XcPj) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Atmosfera](https://open.spotify.com/album/3edUQbB5rV3udn3miMBa7a) | 6:17 |
 | 18 | [Coração que Sangra](https://open.spotify.com/track/41AZy4CW6HyXc3eBG3S16J) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 4:23 |
 | 19 | [O Amor Que Cura \- Ao Vivo](https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB) | 4:21 |
 | 20 | [Rasgando o Coração](https://open.spotify.com/track/5zZwoproPHsIgob7Qco75l) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Liberta\-me](https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT) | 5:01 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 24 | [Feliz De Vez](https://open.spotify.com/track/3DrIFTV0EvCGiI4vH38lHm) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Feliz De Vez](https://open.spotify.com/album/1zSWKGWQ3VUPP76F6Ya8RO) | 4:39 |
 | 25 | [Vaso de Alabastro](https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 3:25 |
 | 26 | [Como Se Cura a Ferida](https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 4:33 |
-| 27 | [Alto Preço \- Ao Vivo](https://open.spotify.com/track/0hBqI20YJBtrQvAUUh3CMI) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Sóstenes Mendes](https://open.spotify.com/artist/5py5BssQzmRfIo2CBA0dbb) | [Rastros de Amor \(ao Vivo\)](https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF) | 4:22 |
-| 28 | [Vinho e Pão](https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Paixão de Cristo \- O Musical](https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO) | 3:13 |
+| 27 | [Vinho e Pão](https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Paixão de Cristo \- O Musical](https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO) | 3:13 |
+| 28 | [Alto Preço \- Ao Vivo](https://open.spotify.com/track/0hBqI20YJBtrQvAUUh3CMI) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Sóstenes Mendes](https://open.spotify.com/artist/5py5BssQzmRfIo2CBA0dbb) | [Rastros de Amor \(ao Vivo\)](https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF) | 4:22 |
 | 29 | [Deus Está me Construindo](https://open.spotify.com/track/43HJMNRjdq4XHHlWvsWNHd) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:19 |
 | 30 | [Alguém](https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 3:48 |
 | 31 | [Ouço Deus Me Chamar](https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Ouço Deus Me Chamar](https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd) | 4:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 49 | [Peniel](https://open.spotify.com/track/33SjnQdGNOhQMtk6wSp6Bu) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 4:27 |
 | 50 | [Fazendo o Impossível \(Ao Vivo\)](https://open.spotify.com/track/4IhFmvBx9bOynhtLCEOjVA) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 4:28 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBiYTg1MTZjNmE0ZDViZTA2MmFlYmFjMWY3NTBkY2QwYw==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA0MTU0NGM3NTE3ZWY1Y2QxMmI4M2Q3NmE1MzcxMDViYg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,257 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,319 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 49 | [Amor Que Muere \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/2NHZp87Eo4QbgSTYwcFAcs) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 2:52 |
 | 50 | [Mi Virgencita](https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:25 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBkMDdiZDRkMTE2MDhlOWNjOWEzNWRjMjFjN2U5NjkwYw==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA1NDMwNjU5Y2Y3NTU3NjQwNTJmZWZlYTE0ODJiMjEyNQ==`

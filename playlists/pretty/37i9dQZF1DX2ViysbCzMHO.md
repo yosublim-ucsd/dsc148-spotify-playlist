@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,019 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,084 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 77 | [Save The Roses \(Acoustic\)](https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Save The Roses \(Acoustic\)](https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N) | 3:17 |
 | 78 | [That's Why \(Acoustic Version\)](https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why \(Acoustic Version\)](https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx) | 2:57 |
 | 79 | [For A Day](https://open.spotify.com/track/29LtoylY7DDpmY2hMdEVkx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini) | 2:47 |
-| 80 | [Gone Too Soon \- Acoustic](https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon \(Acoustic\)](https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i) | 2:47 |
-| 81 | [I'm Not Pretty \- Acoustic](https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I'm Not Prettier](https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy) | 2:58 |
-| 82 | [Cowboy Forever \(Acoustic Version\)](https://open.spotify.com/track/0NWLt71QlmsCPEgLF2NSMS) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Cowboy Forever \(Acoustic Version\)](https://open.spotify.com/album/06oFPRkliY6amtTA188tk8) | 2:50 |
-| 83 | [Pretty Little Poison \- Piano Version](https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison \(Piano Version\)](https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb) | 3:36 |
-| 84 | [Waves \(Live\)](https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Live from Layman](https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL) | 4:20 |
+| 80 | [I'm Not Pretty \- Acoustic](https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I'm Not Prettier](https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy) | 2:58 |
+| 81 | [Gone Too Soon \- Acoustic](https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon \(Acoustic\)](https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i) | 2:47 |
+| 82 | [Pretty Little Poison \- Piano Version](https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison \(Piano Version\)](https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb) | 3:36 |
+| 83 | [Waves \(Live\)](https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Live from Layman](https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL) | 4:20 |
+| 84 | [Cowboy Forever \(Acoustic Version\)](https://open.spotify.com/track/0NWLt71QlmsCPEgLF2NSMS) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Cowboy Forever \(Acoustic Version\)](https://open.spotify.com/album/06oFPRkliY6amtTA188tk8) | 2:50 |
 | 85 | [Something's Gonna Kill Me \- Piano](https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me \(Piano\)](https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS) | 3:02 |
 | 86 | [Yearbook](https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:32 |
 | 87 | [Heart Shut \(feat\. Tenille Townes\)](https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Six Strings](https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 |
 | 100 | [Somebody Like That \(Acoustic\)](https://open.spotify.com/track/4nuVBNUB669f4Csdb0ml7b) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Somebody Like That \(Acoustic\)](https://open.spotify.com/album/0LNVrlvKTXZt9XuO6FBrX9) | 3:14 |
 
-Snapshot ID: `MCxmMWEzNDAxNTI2MTRmNmYxYTU4ZWYwZmM4MmVmYWJiY2M0MjFjYWI2`
+Snapshot ID: `MCxkNDQ5YzAyMThhN2E0Mzg5N2VkMjljMjk0MTIxNDhiZWRiZjMxM2Ux`

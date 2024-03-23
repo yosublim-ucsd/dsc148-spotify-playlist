@@ -4,7 +4,7 @@
 
 > ✨ life in plastic is fantastic ✨
 
-109 songs - 5 hr 46 min
+110 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,10 +92,11 @@
 | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:37 | 2023-06-13 |  |
 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-07-07 |  |
 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 | 2023-07-25 |  |
-| [Stars Are Blind](https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Paris \(U.S\. Standard Version\)](https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs) | 3:56 | 2023-06-13 |  |
+| [Stars Are Blind](https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Paris \(U.S\. Standard Version\)](https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs) | 3:56 | 2023-06-13 | 2024-03-23 |
 | [Super Bass](https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Complete Edition\)](https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw) | 3:20 | 2023-06-13 |  |
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2023-06-13 |  |
 | [TASTY](https://open.spotify.com/track/4XqpRH4wcNna6H1fEaSghG) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [TASTY](https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB) | 2:24 | 2023-06-13 | 2023-07-08 |
+| [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 | 2024-03-22 |  |
 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2024-01-12 |  |
 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 | 2023-07-07 |  |
 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 | 2023-09-22 | 2024-02-27 |

@@ -2,7 +2,7 @@
 
 ### [Front Page Indie](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> The best in modern indie\. Cover: St\. Vincent
+> The best in modern indie\. Cover: Waxahatchee
 
 2,070 songs - 5 day 4 hr 19 min
 

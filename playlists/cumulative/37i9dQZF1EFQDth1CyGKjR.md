@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RTTLdL3NCtCsfLjytOimU">Timbaland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-404 songs - 1 day 2 hr 21 min
+406 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Long Way Down \(Featuring Daughtry\)](https://open.spotify.com/track/5fSYgPwbFMJQhOIJf43sQe) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Shock Value II \(Deluxe\)](https://open.spotify.com/album/2a8Sh6tRZgKM5oQ2KRTfaj) | 4:23 | 2024-01-29 |  |
 | [Lose Control \(Featuring JoJo\)](https://open.spotify.com/track/2nIfbCNzrRmUlMaEwLe9Ua) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Shock Value II](https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H) | 4:27 | 2024-01-29 |  |
 | [Losing My Way](https://open.spotify.com/track/1Ou4q1gX3QAvKhAFd3xsXT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 5:22 | 2024-01-29 |  |
+| [Love & War](https://open.spotify.com/track/5b7bLfTz2AtmfKdF1BQHxs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:34 | 2024-03-22 |  |
 | [LoveStoned / I Think She Knows \(Interlude\)](https://open.spotify.com/track/5iyE2d4U3Vc5cqY9mPTlpy) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 7:24 | 2024-01-29 |  |
 | [Luv 2 Luv U \(feat\. Shaunta, Playa & St\. Nick\)](https://open.spotify.com/track/7dgIWlNcbKat7SBAuStJlX) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Magoo](https://open.spotify.com/artist/3zVQJ3L7xUlFqPpmi16Lim), [Shaunta](https://open.spotify.com/artist/4QLCHjXhvd17Rv5iEITQEb), [Playa](https://open.spotify.com/artist/3bIAUCN08OjlkGrqRjJDji), [St\. Nick](https://open.spotify.com/artist/48YWO7DPrM3Bc58FRze0Gj) | [Welcome To Our World](https://open.spotify.com/album/4nr8ymBFfv0tVg5igWBw6B) | 4:27 | 2024-01-29 |  |
 | [Magic](https://open.spotify.com/track/3vwr1bki3FvNFo1KVz5Qv5) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Doll Domination \(Deluxe\)](https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5) | 3:41 | 2024-01-29 |  |
@@ -250,6 +251,7 @@
 | [Outta My Head \(Ay Ya Ya\) \- New Edit](https://open.spotify.com/track/2blea1tKeCBK8VM5DgX7UY) | [Ashlee Simpson](https://open.spotify.com/artist/4hqDqHtBlgxXpLXVYf7c8L) | [Bittersweet World \(ALT BP Version\)](https://open.spotify.com/album/4p8sOPvvEo9YDPcQJiNjJS) | 3:37 | 2024-01-29 |  |
 | [Overcome](https://open.spotify.com/track/7BHXGpB18DxSP6lamLEVQo) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Deliverance](https://open.spotify.com/album/1Su7jQECJV3scrqYw55XvD) | 4:54 | 2024-01-29 |  |
 | [Paper, Scissors, Rock \(feat\. Big Sean & Timbaland\)](https://open.spotify.com/track/18RA9MjGxcps8ZBBNBEgUs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 3:44 | 2024-01-29 |  |
+| [Paradise \(feat\. \*NSYNC\)](https://open.spotify.com/track/58SAJo2ZxqMirQl41CHCN6) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 4:26 | 2024-03-22 |  |
 | [Parent Trap \(feat\. Justin Timberlake\)](https://open.spotify.com/track/4obgLgDkkjoGpRMa9lyFWW) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Come Home The Kids Miss You](https://open.spotify.com/album/7mN3UTHLfQh3ui4Opuiu3g) | 3:09 | 2024-01-29 |  |
 | [Part II \(On The Run\)](https://open.spotify.com/track/2gSh6B45bWv4gDOhawR8C2) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi) | 5:33 | 2024-01-29 |  |
 | [Part Of Me](https://open.spotify.com/track/5xx7aS4hUsUrM89Eg0IZUE) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Scream \(International Version\)](https://open.spotify.com/album/6UHuRVLnjYlPewQzV4I8ot) | 5:14 | 2024-01-29 |  |

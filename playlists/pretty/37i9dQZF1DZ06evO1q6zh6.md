@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 
 > This is Judas Priest\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,836 likes - 51 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,886 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 45 | [Screaming for Vengeance](https://open.spotify.com/track/5xmmAlr7JqT53WqacPRhLA) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance \(Expanded Edition\)](https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi) | 4:43 |
 | 46 | [Prisoner of Your Eyes](https://open.spotify.com/track/2VLwPKY2gaBxGxwgmwRDUf) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 7:10 |
 | 47 | [Johnny B\. Goode](https://open.spotify.com/track/307B0j257d72HTyAiohF8N) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Ram It Down](https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l) | 4:39 |
-| 48 | [Rock Hard Ride Free](https://open.spotify.com/track/5KQY3KDpQ3tO29W7iJNfFq) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Defenders Of The Faith](https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl) | 5:33 |
+| 48 | [Love Bites](https://open.spotify.com/track/36IWziKKiPQ65IU4cBQ5l2) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Defenders Of The Faith](https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl) | 4:47 |
 | 49 | [Better by You, Better Than Me](https://open.spotify.com/track/0GpBFY4Mb7fZVyQgaWirNG) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Stained Class](https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297) | 3:22 |
 | 50 | [Bloodstone](https://open.spotify.com/track/0njgMX72ZFD9oZnhpFLsn8) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 3:50 |
-| 51 | [\(Take These\) Chains](https://open.spotify.com/track/3fV1eQ8KNKGF18SYY6UYIr) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance \(Expanded Edition\)](https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi) | 3:05 |
+| 51 | [Hot Rockin'](https://open.spotify.com/track/3Rd4UGMRy3WWY9rcSvpvlG) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Point Of Entry](https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP) | 3:15 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA4NDczZmNmZjg2NTk0NjQzMjU3MmRmZDNjODkwYjEwNQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDAwNDYzNjZlNjhkNDY1YWUzOGFhMzM2NDM2NGNkMjcyNg==`

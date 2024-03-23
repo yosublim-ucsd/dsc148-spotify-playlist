@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 
 > Les plus belles chansons d'amour de la variété française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,397 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,452 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 44 | [Je t'aime moi non plus](https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo), [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Comic Strip](https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG) | 4:28 |
 | 45 | [Je sais pas](https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:33 |
 | 46 | [1,2,3](https://open.spotify.com/track/7uCLrBdy5FH6T7vcJzqRd7) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [1,2,3](https://open.spotify.com/album/484D9KRWoTWTzghknHQd1Q) | 3:45 |
-| 47 | [Quelques mots d'amour \- Remasterisé en 2002](https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Beauséjour \(Remasterisé en 2002\)](https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA) | 3:37 |
-| 48 | [Pour de vrai](https://open.spotify.com/track/6ixKI6i2vg8mTVtdzsGHYD) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [N'attendons pas](https://open.spotify.com/album/3iW7wfF8uocwH8Q6fqTK8Y) | 4:01 |
+| 47 | [Pour de vrai](https://open.spotify.com/track/6ixKI6i2vg8mTVtdzsGHYD) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [N'attendons pas](https://open.spotify.com/album/3iW7wfF8uocwH8Q6fqTK8Y) | 4:01 |
+| 48 | [Quelques mots d'amour \- Remasterisé en 2002](https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Beauséjour \(Remasterisé en 2002\)](https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA) | 3:37 |
 | 49 | [La javanaise](https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:29 |
 | 50 | [Caroline](https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy) | [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Qui sème le vent récolte le tempo](https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH) | 4:43 |
 | 51 | [Message personnel \- Remasterisé en 2013](https://open.spotify.com/track/1E1fwQ5Wmls13iEf4QjL9y) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Message personnel \(Version Deluxe\)](https://open.spotify.com/album/6tU1iGwcfWjFasYGnoVj6k) | 4:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 74 | [Toi mon amour](https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf), [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Best Of \- Morceaux d’amour](https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce) | 3:40 |
 | 75 | [Femmes..\. Je vous aime](https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Femmes, indiscrétion, blasphème](https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f) | 4:23 |
 
-Snapshot ID: `MCw0NDM1ZDc3MjI4Mjg4OTgwY2MwNDRlMzZmYTkzMDAwY2IwOWY0NzFl`
+Snapshot ID: `MCw2YTkzMDc4M2FhNjQ1OTJiYTYzYzQ1OTMwNjhlODY2MTJjYzlmYjll`

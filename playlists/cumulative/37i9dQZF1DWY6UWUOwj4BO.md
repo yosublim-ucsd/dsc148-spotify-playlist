@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment en version acoustique.
 
-108 songs - 5 hr 43 min
+109 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [I Leave Again \- Acoustic](https://open.spotify.com/track/6XnmPBOZfmvRHW1BSbwugJ) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [I Leave Again](https://open.spotify.com/album/15yBff9ZnXVgnO3v6vfCw5) | 2:57 | 2022-12-21 | 2023-02-03 |
 | [I Sent My Therapist To Therapy \- Acoustic](https://open.spotify.com/track/3h0yZkd3cbDXKAR4eb1bsL) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Sent My Therapist To Therapy \(Acoustic\)](https://open.spotify.com/album/5Lwg53mX2B56t694xYZzuc) | 3:08 | 2024-01-05 | 2024-02-23 |
 | [I'm Good \(Blue\) \- Acoustic](https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\) \[Acoustic\]](https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY) | 2:18 | 2023-01-05 |  |
-| [I'm Sorry \- Live Version](https://open.spotify.com/track/4kjlQ7qSPLHjgxJTSmJIJv) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [I'm Sorry \(Live Version\)](https://open.spotify.com/album/6XkjRKuAMUKLH22JRqUMqR) | 3:43 | 2024-01-11 |  |
+| [I'm Sorry \- Live Version](https://open.spotify.com/track/4kjlQ7qSPLHjgxJTSmJIJv) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [I'm Sorry \(Live Version\)](https://open.spotify.com/album/6XkjRKuAMUKLH22JRqUMqR) | 3:43 | 2024-01-11 | 2024-03-23 |
 | [If We Ever Broke Up \- Acoustic](https://open.spotify.com/track/4EmQjaL9qkniq3YO1EKmCR) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up \(Acoustic\)](https://open.spotify.com/album/6TiPoqyrGIzXke5FLATpAj) | 2:27 | 2023-04-13 | 2024-02-16 |
 | [In the Stars \- \(French Version\) \[Acoustique\]](https://open.spotify.com/track/3ZHKBOIFBtFM0HFpAwQRbe) | [Philippine Lavrey](https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY) | [In the Stars \[\(French Version\) \[Acoustique\]\]](https://open.spotify.com/album/3LNJA1b8J3s59MELa8u5BV) | 3:45 | 2023-06-16 |  |
 | [Is It Love \- Orchestral Version](https://open.spotify.com/track/2lRhyOicN7ePTFC2fI5XiD) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love \(Orchestral Version\)](https://open.spotify.com/album/1R3WqFfbwCstl1DsOFUMAT) | 4:09 | 2024-02-15 |  |
@@ -110,6 +110,7 @@
 | [The Ballet Girl \(Adagio\)](https://open.spotify.com/track/0dsqEnxjtvkUan8zePPjLT) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl EP \- Part 2](https://open.spotify.com/album/3LGjHu7cfkesscGwoUP5gV) | 2:56 | 2023-04-27 | 2023-10-01 |
 | [The Ballet Girl \(Adagio\)](https://open.spotify.com/track/6D3t3tNZNcyxAdbH38IEfd) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0) | 2:56 | 2023-09-26 |  |
 | [THIS YEAR \(Blessings\) \- Acoustic Version](https://open.spotify.com/track/3TawMDALb9pwBKoBWkZWLE) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Acoustic Version\]](https://open.spotify.com/album/3Zqrx0J4rWBHXpv4HZIlea) | 2:18 | 2023-06-02 |  |
+| [Training Season \- Acoustic Version](https://open.spotify.com/track/1Zp65ER4CfD0a7ylF87Z1F) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season \(Acoustic Version\)](https://open.spotify.com/album/5fqAByatp1mCnkckiH8jYy) | 3:56 | 2024-03-22 |  |
 | [Trying \- Live Version](https://open.spotify.com/track/0G7yKhzehjrEwMWYmINXPH) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Trying \(Live Version\)](https://open.spotify.com/album/2okKFrbb0aI61Id07GRVdZ) | 2:06 | 2023-12-22 |  |
 | [Wasted Love \(feat\. Lagique\) \- Acoustic](https://open.spotify.com/track/5Zn1K7j3DkB1akPiBLwKR9) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\) \[Acoustic\]](https://open.spotify.com/album/2CgvyrhuhDiXBAmXQz52Js) | 2:07 | 2022-12-21 | 2023-12-23 |
 | [Where Are You Now \- Acoustic](https://open.spotify.com/track/4jU6qkh8stB9uqXEPMqnJL) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now \(Acoustic\)](https://open.spotify.com/album/4Am155SZjwvCP6zPnnVZqH) | 2:42 | 2022-12-21 |  |

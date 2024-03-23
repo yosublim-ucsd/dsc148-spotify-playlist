@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 
 > 70s rock to fuel your ride\. Cover: Aerosmith
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,145 likes - 70 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,275 likes - 70 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 | 69 | [Fox On The Run](https://open.spotify.com/track/4uip0lLkMKl1nwchsdXs1r) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Desolation Boulevard](https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54) | 3:27 |
 | 70 | [Free Ride](https://open.spotify.com/track/4DhbiXEuV7JxSR0wuqetTa) | [The Edgar Winter Group](https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI) | [They Only Come Out At Night](https://open.spotify.com/album/4CNEJF5wYGqhOYEKq8ciu8) | 3:07 |
 
-Snapshot ID: `MCw0MjNkZTM4MjZlMjRjN2Y4MjMzYmVlYTgzYWE0YTE0Y2ZjNzNhYTFl`
+Snapshot ID: `MCxmYzhmYWU3Njk5ZTQ3ZDE4YTM5YzYwZDMzYWRjZDRjZmViZDkyYmZh`

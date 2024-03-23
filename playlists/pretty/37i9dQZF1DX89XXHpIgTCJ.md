@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,247 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,292 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 57 | [Fuck Dying](https://open.spotify.com/track/2Qq2O47kcBU3FksKmDSiPn) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [War & Peace Vol\. 1 \(The War Disc\)](https://open.spotify.com/album/3WZoJdkb9NSvZqkUShSKv4) | 4:03 |
 | 58 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 |
 | 59 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
-| 60 | [Wretches and Kings](https://open.spotify.com/track/4uqacT1xJ7UhPJAMAcb25A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo) | 4:10 |
+| 60 | [Rip It Up](https://open.spotify.com/track/0EcdmJCR4pURncLgeeBYvl) | [28 Days](https://open.spotify.com/artist/0NXVGrFkPu0Cohh3BJV5Wx) | [Up Style Down](https://open.spotify.com/album/6OT8sbDrxyACRi1mzzkj9M) | 3:39 |
 
-Snapshot ID: `MCw2N2M1ZGFhZWVhNjc3YmYxY2VkZDJjOWQ2MjY1YmM1M2Q3Yjk4NTRl`
+Snapshot ID: `MCxlMmNiMDBmN2IxMWZhOTcwYmY4ZmZmMTA3ODg2NDdmMWJhYzgzMDRk`

@@ -2,9 +2,9 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> from Stillwater to Nashville with Wyatt Flores
+> somewhere between with Dylan Gossett
 
-275 songs - 16 hr 34 min
+276 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Smell Like Smoke](https://open.spotify.com/track/6hWUxgcCGGCd17i2eZ5qbJ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 2:48 | 2023-11-17 |  |
 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 | 2024-03-01 |  |
 | [Snow](https://open.spotify.com/track/6K4336phprB3Mj8qwYxibR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:58 | 2023-02-24 |  |
+| [Somewhere Between](https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Somewhere Between](https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej) | 3:40 | 2024-03-22 |  |
 | [Space Cowboy](https://open.spotify.com/track/5bum4HbCDFoB9wpsc0sQky) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:36 | 2023-09-26 | 2023-12-09 |
 | [Spin You Around \(1/24\)](https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Spin You Around \(1/24\)](https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It) | 3:29 | 2024-03-20 |  |
 | [Stayin' Quit](https://open.spotify.com/track/5mt0XIGAbYidztqDQxv0DH) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [Stayin' Quit](https://open.spotify.com/album/6dMpzHaEE4fND0GXkqHMc7) | 3:06 | 2023-02-24 | 2024-01-19 |

@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-501 songs - 1 day 6 hr 3 min
+502 songs - 1 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Franca Barona](https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Franca Barona](https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL) | 3:35 | 2022-02-01 | 2022-07-20 |
 | [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 | 2022-08-11 | 2022-10-04 |
 | [Frente al Mar](https://open.spotify.com/track/5FfoOol6bSXoO1FnnkhjeI) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 6:07 | 2022-03-09 | 2022-04-18 |
+| [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 | 2024-03-22 |  |
 | [Fu Manchú](https://open.spotify.com/track/24IaEbKousVV3Rip3o5BQk) | [Achilifunk Sound System](https://open.spotify.com/artist/4yizsieShlGiLVWStpSt5t), [The Oldians](https://open.spotify.com/artist/4B6xk9HVjlWYmJRJoBhTAx) | [Fu Manchú](https://open.spotify.com/album/7wFkUkAQzKKUn0ZArwa0Qb) | 3:00 | 2022-09-30 | 2022-10-28 |
 | [Fue para Más](https://open.spotify.com/track/0rF7gxB7pEN5fRS0qR7Drj) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Fue para Más](https://open.spotify.com/album/2T0ZKbb8PxFCRil3rWK4vj) | 3:32 | 2022-04-01 | 2022-07-20 |
 | [Fuego De Colores](https://open.spotify.com/track/1cRf7IzjhtVbTrfOl53aAS) | [MPeach](https://open.spotify.com/artist/6c19R5IDtOeICXsve9caUQ), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc) | [Fuego De Colores](https://open.spotify.com/album/414uMOHOXvsmlaCnpUoX74) | 3:36 | 2021-10-20 | 2022-07-17 |
@@ -450,7 +451,7 @@
 | [Ta Que Tiembla \- Pachyman Remix](https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Ta Que Tiembla \(Pachyman Remix\)](https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6) | 3:21 | 2021-10-20 |  |
 | [Tabaibas](https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Tabaibas](https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3) | 3:52 | 2021-10-20 | 2022-07-29 |
 | [Te Crees Tú](https://open.spotify.com/track/1FT5c0bdVWkgPctocSQywO) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Te Crees Tú](https://open.spotify.com/album/26toS8EEQOsP65CWSnkksd) | 3:32 | 2022-04-17 | 2022-04-21 |
-| [Te Queria](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 | 2021-10-20 |  |
+| [Te Queria](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 | 2021-10-20 | 2024-03-23 |
 | [Te Queria](https://open.spotify.com/track/4nkStFVaOEAz6BEtoNb3YN) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Te Queria](https://open.spotify.com/album/14hqEl8VjNWqXfBWW7hmJX) | 4:02 | 2021-10-20 | 2022-07-27 |
 | [Temes](https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:16 | 2021-10-20 |  |
 | [Tengo Lo Que Tengo](https://open.spotify.com/track/1uu604md59h9zaP27tegVV) | [Jimena Angel](https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E) | [Tengo Lo Que Tengo](https://open.spotify.com/album/0a0wCIf6hmgpvnLO6RrMhE) | 3:23 | 2021-10-20 | 2022-07-29 |

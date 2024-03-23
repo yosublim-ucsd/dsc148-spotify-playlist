@@ -1593,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/0AGTYuKIZpklJih6pEmoWp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263928,
+      "name": "scared of my guitar",
+      "url": "https://open.spotify.com/track/6tpBEsBlKw3tWbARSpnXgp"
+    },
+    {
+      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
       },

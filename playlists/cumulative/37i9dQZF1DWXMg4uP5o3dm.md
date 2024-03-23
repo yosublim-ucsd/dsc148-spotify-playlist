@@ -2,9 +2,9 @@
 
 ### [Alternative Beats](https://open.spotify.com/playlist/37i9dQZF1DWXMg4uP5o3dm)
 
-> alternative meets electronic Cover: ZHU & UPSAHL
+> alternative meets electronic Cover: Artemas
 
-296 songs - 15 hr 30 min
+297 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Clique](https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 2:19 | 2021-07-16 | 2022-03-05 |
 | [Coke Nose](https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled Vol\. 1](https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a) | 2:44 | 2022-06-17 | 2023-04-09 |
 | [Coke Nose](https://open.spotify.com/track/6Y9ZB2eeYmbEYm7XifqTcg) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Coke Nose](https://open.spotify.com/album/5oWj59uOrqYDxfChyrlRM6) | 2:44 | 2021-05-21 | 2022-07-29 |
-| [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 | 2021-04-23 | 2024-03-20 |
+| [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 | 2021-04-23 |  |
 | [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx) | 3:00 | 2022-04-15 | 2023-09-30 |
 | [Crown](https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Crown](https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh) | 2:51 | 2022-05-30 | 2023-08-09 |
 | [Crown](https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Crown](https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ) | 2:51 | 2023-08-18 |  |
@@ -78,7 +78,7 @@
 | [Devil](https://open.spotify.com/track/1xKqbhFvRsZsSJa68zwN8a) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Shape & Form](https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL) | 2:40 | 2022-10-14 |  |
 | [Devil](https://open.spotify.com/track/4zvRdQWreRSHm8siX9cvzO) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Devil](https://open.spotify.com/album/6YqhEb5DxHRuzW2slbnNay) | 2:40 | 2021-07-23 | 2022-10-13 |
 | [Did It To Myself \(feat\. Lights\)](https://open.spotify.com/track/5Ye012XK2vXqZyyihlqWHy) | [Robert DeLong](https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Did It To Myself \(feat\. Lights\)](https://open.spotify.com/album/66malf4KPHZOEcdmCwAVr7) | 3:09 | 2021-07-02 | 2022-07-28 |
-| [Die For A Night](https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [A R I Z O N A](https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED) | 3:15 | 2023-04-28 |  |
+| [Die For A Night](https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [A R I Z O N A](https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED) | 3:15 | 2023-04-28 | 2024-03-23 |
 | [Die For A Night](https://open.spotify.com/track/5by79t0saDZCGImchg8oSY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Die For A Night](https://open.spotify.com/album/67aoFiHyWWl1N15nMxbQoP) | 3:15 | 2023-04-28 | 2023-06-07 |
 | [DIE4MYBITCH](https://open.spotify.com/track/1IvwVTbMP2SlolQEV2kbrc) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [DIE4MYBITCH](https://open.spotify.com/album/1WJz78bBh6rU9L3KYkWmVV) | 2:48 | 2022-10-14 | 2022-12-04 |
 | [Dirty Little Animals \(From the series Arcane League of Legends\)](https://open.spotify.com/track/2ZuDGsKSJpQdJmpknJ7ypF) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Dirty Little Animals \(From the series Arcane League of Legends\)](https://open.spotify.com/album/2OGZHtCzPL6uk1kEPvFqIC) | 3:25 | 2021-12-07 | 2022-10-15 |
@@ -104,7 +104,7 @@
 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 | 2022-06-17 |  |
 | [Fear You](https://open.spotify.com/track/2QN88XWB8FkZ1oqGNfODL9) | [Kat Von D](https://open.spotify.com/artist/0eLQCmRxdnxAK9rchhAFlU) | [Fear You](https://open.spotify.com/album/0vRrXDcnH9qEtyjPf9zBxd) | 4:45 | 2021-08-06 | 2022-01-15 |
 | [Feel Alive](https://open.spotify.com/track/3A7MuetzfV2cDtLZbEmXMw) | [USS \(Ubiquitous Synergy Seeker\)](https://open.spotify.com/artist/2gWNtwxO5mOAmjE8EWw2qt) | [Feel Alive](https://open.spotify.com/album/0YL8dobBzKj2V1lcx4tTKV) | 3:46 | 2020-11-27 | 2022-07-29 |
-| [Feel It](https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:51 | 2022-06-17 |  |
+| [Feel It](https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:51 | 2022-06-17 | 2024-03-23 |
 | [Feel Real Pretty](https://open.spotify.com/track/2nRcQbL9FZYFii3fFLKPSp) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty \(Remixes\)](https://open.spotify.com/album/5uM5JzzgYV0obfBY4Ebm2b) | 3:03 | 2022-06-17 | 2022-09-18 |
 | [Feel Real Pretty](https://open.spotify.com/track/3RcoIYZ9HOJ8nhKLRV9c4e) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty](https://open.spotify.com/album/6zLwTLoaEO41zOMSY64MSD) | 3:03 | 2022-06-17 | 2023-04-09 |
 | [Feel Real Pretty](https://open.spotify.com/track/58L9BLQuOAwAzHhCvTpp3l) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty](https://open.spotify.com/album/0m2MtmlY7kOaQq5cVAg4DN) | 3:03 | 2020-08-17 | 2022-08-26 |
@@ -155,6 +155,7 @@
 | [Hurricane](https://open.spotify.com/track/6fMZJZqhauwGrwobkPZVJ7) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Hurricane](https://open.spotify.com/album/0nhR7pihu2lJDAvVfXqBcH) | 3:01 | 2022-03-04 | 2023-04-22 |
 | [I Don't Like It When You're Lonely](https://open.spotify.com/track/2BFQ1wZQZrZj4e2C8DvsfD) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [I Am Sad](https://open.spotify.com/album/7jpY82CCpKIxcycDg7JR7V) | 3:21 | 2023-04-09 | 2023-04-22 |
 | [I Feel Like I'm Falling](https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [I Feel Like I'm Falling](https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe) | 2:24 | 2021-11-12 | 2022-07-28 |
+| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-22 |  |
 | [I Like to Party](https://open.spotify.com/track/3LYdr3p3aJHCFSgEWwcXAx) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [33](https://open.spotify.com/album/1FDNmr1WNyQ0Ag27IBAc06) | 2:57 | 2022-10-14 | 2023-04-22 |
 | [I Like to Party](https://open.spotify.com/track/51cjBkdTwUsoZMz0XcPNd7) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [I Like to Party](https://open.spotify.com/album/0LQmcDlQQFV27k6pxm7rab) | 2:57 | 2022-06-17 | 2022-10-03 |
 | [I Like To Party](https://open.spotify.com/track/73V7yBqIrvcmjkqagcXBMx) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [I Like To Party](https://open.spotify.com/album/4ShnGGAoi1xTnCNaOG0eEL) | 3:05 | 2021-07-23 | 2022-07-29 |

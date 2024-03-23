@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 
 > L'unica party playlist di cui hai bisogno, sempre aggiornata 🍾 Top hit italiane e internazionali!
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,942 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,973 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 | 61 | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw) | 2:51 |
 | 62 | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8) | 2:44 |
 | 63 | [Memories \(feat\. Kid Cudi\) \- 2021 Remix](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Memories \(feat\. Kid Cudi\) \[2021 Remix\]](https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX) | 2:42 |
-| 64 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 |
-| 65 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 |
-| 66 | [Cynical](https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/5RJagY9ID50QgTadJyTLuF) | 3:11 |
+| 64 | [Cynical](https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/5RJagY9ID50QgTadJyTLuF) | 3:11 |
+| 65 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 |
+| 66 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 |
 | 67 | [Échame La Culpa](https://open.spotify.com/track/0mlAOSILGRys2IbvyOT5VJ) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 2:53 |
 | 68 | [Marianela \(Que Pasa\)](https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela \(Que Pasa\)](https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0) | 2:25 |
 | 69 | [Mwaki](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki](https://open.spotify.com/album/4L43UqvSZKiiKwc1wa89Gz) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 | 74 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
 | 75 | [Love Tonight \(Edit\)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 |
 
-Snapshot ID: `MCxkYTEyYjJiYjRlMzg0NjA5YzhlNzZmNmQzZTg4ZTg2YzEzMWYwZmJj`
+Snapshot ID: `MCwyOTBiZDBjMjhlNzc2NjI5ZGFkZjkyZDMyMzYwZmM5YzY4YjJiNjQz`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best of Latin Trap. Cover: Brytiago, Noriel, Juhn, Baby Rasta, Anonimus",
+  "description": "The best of Latin Trap. Cover: Jhayco, Bryant Myers, Luar La L",
   "name": "Trap Land",
   "tracks": [
     {
@@ -42,6 +42,36 @@
       "duration_ms": 164092,
       "name": "100 TRACKS",
       "url": "https://open.spotify.com/track/4Aljhc4Fbs5HnkvqMD50U0"
+    },
+    {
+      "album": {
+        "name": "100xCiento",
+        "url": "https://open.spotify.com/album/0ftjfi9ePDKKe3JI7IxqEy"
+      },
+      "artists": [
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219682,
+      "name": "100xCiento",
+      "url": "https://open.spotify.com/track/52qI65Ek66LV3evWVDf1ET"
     },
     {
       "album": {
@@ -104,7 +134,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 161073,
       "name": "2seater",
       "url": "https://open.spotify.com/track/79I3HVYg5wXqlB9jjRCrWF"
@@ -148,7 +178,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 249130,
       "name": "5 Estrellas",
       "url": "https://open.spotify.com/track/3lN1fgtcVeToWt1H6AEVAM"
@@ -250,7 +280,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 236124,
       "name": "7D",
       "url": "https://open.spotify.com/track/3n9kzmIGnkYf3WCxC2cO1I"
@@ -560,7 +590,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 223469,
       "name": "Amandita",
       "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
@@ -790,7 +820,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 328148,
       "name": "Baby Schai - Remix",
       "url": "https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y"
@@ -1152,7 +1182,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 191052,
       "name": "Big Booty",
       "url": "https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon"
@@ -1276,7 +1306,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 205500,
       "name": "Bouncy",
       "url": "https://open.spotify.com/track/34Iws89e3FCdzB19r4kyX4"
@@ -2600,7 +2630,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 150000,
       "name": "Enchule",
       "url": "https://open.spotify.com/track/1f86KiScZ2Pwdz6T3oLPbk"
@@ -3270,7 +3300,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 212000,
       "name": "Guarida",
       "url": "https://open.spotify.com/track/19FjaZwowlzROovPliZty2"
@@ -3622,7 +3652,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 134048,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/076GBcif3AM1IHfBJs545o"
@@ -3864,6 +3894,32 @@
       "duration_ms": 270508,
       "name": "Kong",
       "url": "https://open.spotify.com/track/5qJBRW4DEL0kVi7wdzM8hc"
+    },
+    {
+      "album": {
+        "name": "KTM",
+        "url": "https://open.spotify.com/album/4tLv0V8sA8pwzlOBwGJgcF"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366760,
+      "name": "KTM",
+      "url": "https://open.spotify.com/track/3EPIt4FqsVQLM48HozrcFr"
     },
     {
       "album": {
@@ -4952,7 +5008,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 162253,
       "name": "Nadie Como Yo",
       "url": "https://open.spotify.com/track/6h0rEgIXXwAhnAMu6GbWox"
@@ -5084,7 +5140,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 188108,
       "name": "Neymar - Remix",
       "url": "https://open.spotify.com/track/1pkfnn0nqvaBaoiT29pvwF"
@@ -5804,7 +5860,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 219705,
       "name": "QSY",
       "url": "https://open.spotify.com/track/2HOjq5fN9BN9nWwm0LHT1G"
@@ -6060,7 +6116,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 174916,
       "name": "ROBERT DE NIRO",
       "url": "https://open.spotify.com/track/3cR23eAZcjukbKtb9knlL4"
@@ -6082,7 +6138,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 173729,
       "name": "RoCKSTAR 2.0",
       "url": "https://open.spotify.com/track/4xUtTQuVT6UBF76SPsgOsr"
@@ -6254,7 +6310,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 210500,
       "name": "SALVAJE",
       "url": "https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx"
@@ -6892,7 +6948,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 182000,
       "name": "Trending",
       "url": "https://open.spotify.com/track/0WY20ugVpmNX68kKtORl8i"

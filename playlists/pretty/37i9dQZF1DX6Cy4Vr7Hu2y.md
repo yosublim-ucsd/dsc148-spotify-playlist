@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: \(G\)I\-DLE\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,832 likes - 64 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,714 likes - 64 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 63 | [HEAT](https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:14 |
 | 64 | [The day was beautiful](https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The day was beautiful](https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF) | 3:55 |
 
-Snapshot ID: `MCw1YWYxMjg1N2UyZDEwODEzZWZkMTBlOGQ2ZTFkOTgxODNiZGFlMDVm`
+Snapshot ID: `MCwyMDU3ZTY1YzM1YTYyMjhiMjY0NWJjZDFkNmIwNmZjNmQyZTc2ZjI5`

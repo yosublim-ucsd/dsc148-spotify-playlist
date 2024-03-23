@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 
 > 偷練不是罪、抖音無所謂、最新曲目讓你全台包廂任意走跳！
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,838 likes - 65 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,877 likes - 65 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 64 | [雨愛](https://open.spotify.com/track/553GNiNqcudWfsF55RBDqz) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [雨愛](https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8) | 4:21 |
 | 65 | [挪威的森林](https://open.spotify.com/track/5KdZLYyoBP0qsjDTDP28do) | [Wu Bai](https://open.spotify.com/artist/5H8TJITZE1sPjVR2ACzXNS) | [愛情的盡頭](https://open.spotify.com/album/37APLKUvRzY9200fwrpAR6) | 6:31 |
 
-Snapshot ID: `MCwzZTJjMTEwYjA3ZDdhYzcyODMyNjUyMzNkYzdhZjM0Yjc4ZjBkYTU4`
+Snapshot ID: `MCxmMGNjYmNjMjhjMmMwOTgwMzM3MTI4ODRmZmQyOTA0YjM4ZWM0MzNh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 El Club Audiovisual
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,575 likes - 95 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,585 likes - 95 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 12 | [febrero](https://open.spotify.com/track/48htFaGFraVtzHSv3YeB4O) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [aeropuerto](https://open.spotify.com/album/3ugKv9ex4bNGJAEsBs8Igu) | 3:33 |
 | 13 | [Mentiroso Miente](https://open.spotify.com/track/3mCiPbSvvOgkhwfunAqmxL) | [Socorro](https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA) | [Mentiroso Miente](https://open.spotify.com/album/6fr6AARElMTnBKHTziuWPK) | 2:46 |
 | 14 | [Pulso](https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Pulso](https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV) | 2:26 |
-| 15 | [Qué Más Puedo Hacer?](https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [El Club Audiovisual](https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ) | 2:52 |
+| 15 | [En los Parques](https://open.spotify.com/track/3IRj8U0Lt8bPdlW6GXBK5q) | [Mizuki Amapola](https://open.spotify.com/artist/1i1q599ea4CdgaVtomARti), [La Lauri Fire](https://open.spotify.com/artist/7Ku8lMIIWZ2fGXSVdzbM84) | [Calendario](https://open.spotify.com/album/25yfGAtfakJoBCIKE0K7AZ) | 2:12 |
 | 16 | [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 |
 | 17 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 |
 | 18 | [Ideograma](https://open.spotify.com/track/0h5zsbK2qdJo079qgLtp9q) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE) | [Ideograma](https://open.spotify.com/album/5AZFPqMNLc85eO8FoKGSnY) | 4:22 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 94 | [Simulando Esperar](https://open.spotify.com/track/29NlMSR1PJstmIksMhLMKt) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Simulando Esperar](https://open.spotify.com/album/2nxDLdVzUcWSQQG7Qi0pme) | 3:59 |
 | 95 | [Nuevo Plano](https://open.spotify.com/track/7cA4kcht49w4hcC6YYG0Ce) | [Entidad Animada](https://open.spotify.com/artist/2fa4MkhFQbeYbxkvHF3M7P) | [Nuevo Plano](https://open.spotify.com/album/6F5WoawljfNJDKEFQHNVKr) | 2:25 |
 
-Snapshot ID: `MCw5NmM0NmZmMzk4ODcxMTViMTk1ODg4OWIyNzM0NTY5NmExYWY3MmZi`
+Snapshot ID: `MCxlM2UwM2VmZmQyMmVjNDNkYzIwYzMxMzgyMjhjZGE1ZjQ1NTc0YTI2`

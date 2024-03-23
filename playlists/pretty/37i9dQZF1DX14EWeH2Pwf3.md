@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Tony Effe
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,546 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,887 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu) | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4v2vbwWe9ongpkfgLJDbir) | 2:54 |
 | 50 | [trueno \(feat\. Salmo\)](https://open.spotify.com/track/72CfmqTiImbgi0BTeJWFiP) | [STABBER](https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [trueno \(feat\. Salmo\)](https://open.spotify.com/album/3lPfwFIo0d2O2qjVIO6FsX) | 2:23 |
 
-Snapshot ID: `MCxmMjU4ZjFiZjhjYzRmNGMwY2QzM2IyNTQ4M2U0YmJkODg0ZDM5ZThl`
+Snapshot ID: `MCw2NjZmY2E2NTg5NTQ2ZGY3MGI5YzM5NWQxMGI4ZmJhOGU0OTZmYzdk`

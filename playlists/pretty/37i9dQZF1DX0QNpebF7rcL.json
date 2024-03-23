@@ -1,13 +1,49 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 55456,
+  "num_followers": 55483,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTUzODBhYjQ1YWE5NTcyMDQxOWQ0ODgzZWVjMTA1OWM3M2E5ZmQ3",
+  "snapshot_id": "MCw2ZDJiZTVjNjE5YzIxODgwZGIyNjJlMjU2Mjk4MTgzMzBmY2Y2ZTlh",
   "tracks": [
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Testifyin'",
+        "url": "https://open.spotify.com/album/0zNY2rhuQ5b3MLYFjqfNtp"
+      },
+      "artists": [
+        {
+          "name": "Altered Five Blues Band",
+          "url": "https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg"
+        }
+      ],
+      "duration_ms": 231829,
+      "name": "Whiskey Got Me Married",
+      "url": "https://open.spotify.com/track/1LlJhzftKCr4SVRfOgIYXN"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "So Sad (The World's in a Tangle)",
+        "url": "https://open.spotify.com/album/02nG6wsgYkbS5Uj4alFnlI"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 351533,
+      "name": "So Sad (The World's in a Tangle)",
+      "url": "https://open.spotify.com/track/2lGG0ypdFl6MYccu3PEPJ1"
+    },
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
@@ -61,6 +97,22 @@
       "url": "https://open.spotify.com/track/640wmLH8Gum9QbtadiRL1H"
     },
     {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Try A Little Hound Dog",
+        "url": "https://open.spotify.com/album/6yRwzs70BHWTtGX2i9fQHD"
+      },
+      "artists": [
+        {
+          "name": "Son Of Dave",
+          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
+        }
+      ],
+      "duration_ms": 160120,
+      "name": "Try A Little Hound Dog",
+      "url": "https://open.spotify.com/track/4JLAMd4e50ko2bSHIz7Ric"
+    },
+    {
       "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Closer",
@@ -93,22 +145,6 @@
       "url": "https://open.spotify.com/track/3EaXr0cXcIDgjjzXNGt7Bs"
     },
     {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "One Last Boogie",
-        "url": "https://open.spotify.com/album/5clpmV8UmjOao0GkclTH09"
-      },
-      "artists": [
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "One Last Boogie",
-      "url": "https://open.spotify.com/track/2SY1hcVPAgzugC7F5lzNMZ"
-    },
-    {
       "added_at": "2024-02-23 05:01:00",
       "album": {
         "name": "Life Is Hard",
@@ -123,22 +159,6 @@
       "duration_ms": 309653,
       "name": "These Eyes",
       "url": "https://open.spotify.com/track/0OmQOtewFFJX5Mmnu3siNk"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "Brand New Bone",
-        "url": "https://open.spotify.com/album/6ufWHuaTQfwuR8r5eX8kTE"
-      },
-      "artists": [
-        {
-          "name": "Altered Five Blues Band",
-          "url": "https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg"
-        }
-      ],
-      "duration_ms": 198601,
-      "name": "Brand New Bone",
-      "url": "https://open.spotify.com/track/3xFZLwKxEBFAssWUKcvju9"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1587,22 +1607,6 @@
       "duration_ms": 258680,
       "name": "You Know My Love",
       "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Call Me King",
-        "url": "https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp"
-      },
-      "artists": [
-        {
-          "name": "Son Of Dave",
-          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Call Me King",
-      "url": "https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l"
     },
     {
       "added_at": "2022-03-25 04:01:00",

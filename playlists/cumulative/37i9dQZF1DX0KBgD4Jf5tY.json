@@ -6175,6 +6175,24 @@
     },
     {
       "album": {
+        "name": "Ero Oro",
+        "url": "https://open.spotify.com/album/2cLKtzACjrJa1ScOBoXIpe"
+      },
+      "artists": [
+        {
+          "name": "Sidy",
+          "url": "https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148529,
+      "name": "Ero Oro",
+      "url": "https://open.spotify.com/track/79h0p7LxmMZahCWA2CLt3N"
+    },
+    {
+      "album": {
         "name": "ERRORI",
         "url": "https://open.spotify.com/album/64j02x8T8B3F7d0rs87jMZ"
       },
@@ -19068,7 +19086,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 291891,
       "name": "SPIRITO",
       "url": "https://open.spotify.com/track/6IZp7TxrMCj1e7gLnCHjxy"
@@ -19568,6 +19586,24 @@
       "duration_ms": 175578,
       "name": "Stupido cielo",
       "url": "https://open.spotify.com/track/5BMtEGrwyx2FXnOPxm9CKA"
+    },
+    {
+      "album": {
+        "name": "su//gi\u00f9 (fuoco)",
+        "url": "https://open.spotify.com/album/3ikPXBTfSbzhgy0AcZCnuf"
+      },
+      "artists": [
+        {
+          "name": "Jaroslav",
+          "url": "https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199578,
+      "name": "su//gi\u00f9 (fuoco)",
+      "url": "https://open.spotify.com/track/2DsfDZz9Omn56haGBha1UQ"
     },
     {
       "album": {
@@ -20692,7 +20728,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 128571,
       "name": "Uccide",
       "url": "https://open.spotify.com/track/0r3qP7AjiZoMRwjKYY56Z5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,561 likes - 68 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,563 likes - 68 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 13 | [Splinters](https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [iShal](https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS) | 3:36 |
 | 14 | [Wotless](https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr) | [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH) | [Wotless Carnival Album](https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr) | 3:38 |
 | 15 | [Split in De Middle](https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i) | [Freezy](https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF) | [Split in De Middle](https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4) | 2:19 |
-| 16 | [Beat Dem Bad](https://open.spotify.com/track/2K7lwIM77amplCz8FCA0RA) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Street Shots 2020: Streets of Kingston](https://open.spotify.com/album/3StTdYfwlRuTvgjDfM00nk) | 2:24 |
+| 16 | [Heaven Passport](https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ) | 3:07 |
 | 17 | [I Wish](https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [I Wish](https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h) | 2:55 |
-| 18 | [Heaven Passport](https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ) | 3:07 |
+| 18 | [Beat Dem Bad](https://open.spotify.com/track/2K7lwIM77amplCz8FCA0RA) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Street Shots 2020: Streets of Kingston](https://open.spotify.com/album/3StTdYfwlRuTvgjDfM00nk) | 2:24 |
 | 19 | [Monster Winer](https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [King Bubba Mashup Volume 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 2:39 |
 | 20 | [Tic It & Tac It](https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2) | [BoBo](https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK) | [Tic It & Tac It](https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W) | 2:03 |
 | 21 | [Dear Promoter](https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Dear Promoter](https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe) | 4:04 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 40 | [Guh Down](https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2011](https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0) | 3:07 |
 | 41 | [Wrong Again](https://open.spotify.com/track/3TVWXE8hUeSzoAC3xCrErX) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Wrong Again](https://open.spotify.com/album/45cwc8M8DQrrAcfjTDog4b) | 2:46 |
 | 42 | [Rate Who Rate You](https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Rate Who Rate You](https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU) | 3:36 |
-| 43 | [Private Zess](https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN) | [K Lion](https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi), [LR](https://open.spotify.com/artist/3TkImpONkqVur05k1iIe7l) | [Private Zess](https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6) | 2:48 |
+| 43 | [Like Dat](https://open.spotify.com/track/4jawyoaIAYoHq2gKnWQv5o) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Arch & Bend Riddim Reloaded](https://open.spotify.com/album/7h79kRBzlhskqbE84TTOzy) | 2:16 |
 | 44 | [Shots \(One for Di Road\)](https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:17 |
-| 45 | [Like Dat](https://open.spotify.com/track/4jawyoaIAYoHq2gKnWQv5o) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Arch & Bend Riddim Reloaded](https://open.spotify.com/album/7h79kRBzlhskqbE84TTOzy) | 2:16 |
+| 45 | [Private Zess](https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN) | [K Lion](https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi), [LR](https://open.spotify.com/artist/3TkImpONkqVur05k1iIe7l) | [Private Zess](https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6) | 2:48 |
 | 46 | [Go Hard](https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Lifestyle Riddim](https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb) | 2:44 |
 | 47 | [Conch Shell](https://open.spotify.com/track/6NVR4oBAlPuuvpsYSZcyJF) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Conch Shell](https://open.spotify.com/album/2HAyottRa9yxUIiZXx2xLQ) | 3:12 |
 | 48 | [Ba Ba Ben \(Wine & Ben Pt\. 2\)](https://open.spotify.com/track/1QNYJ6R4zW90nEyjvWnTjt) | [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ) | [Ba Ba Ben \(Wine & Ben Pt\. 2\)](https://open.spotify.com/album/4PHvt5nQcyhapIxtD9rcT7) | 2:26 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [Soak Me Good](https://open.spotify.com/track/0IC3SSV31lfYGQ6thjYcoP) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [The Jakson Bay Project](https://open.spotify.com/album/2Bsph4DDOen4CEGpesiBhl) | 3:19 |
 | 68 | [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 |
 
-Snapshot ID: `MCwyZDY2NGZkNGJiOWUyMmMxZmZiMzI2MWJjYTBiZDk2YzE5ODcyNjBj`
+Snapshot ID: `MCxhZjYwYzRlNDk1YTM5YzVhMDljNmEyOTczODViYzkyZjhjZjZhZGNk`

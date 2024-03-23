@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,784 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,793 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 38 | [Aking Pahinga](https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi) | [Dro Perez](https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa), [I\-Ghie](https://open.spotify.com/artist/0nR2iHBD1IJVJhRpzA5nFf) | [Aking Pahinga](https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb) | 4:34 |
 | 39 | [Oks Lang](https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Oks Lang](https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf) | 5:36 |
 | 40 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 |
-| 41 | [Weak](https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [Weak](https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed) | 3:31 |
-| 42 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 |
-| 43 | [Pity Ya](https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Pity Ya](https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4) | 3:12 |
-| 44 | [Balang Araw \- Single Version](https://open.spotify.com/track/2f0Z6I0fDfgDI3htl2RoTd) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Balang Araw](https://open.spotify.com/album/1WTaHQ1ulKruduEtwyRLDD) | 4:48 |
-| 45 | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc) | 2:47 |
-| 46 | [Ex](https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Ex](https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA) | 4:39 |
-| 47 | [Ngiti](https://open.spotify.com/track/2086mMaH4riDyU13MSYzzx) | [Ronnie Liang](https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0) | [Ang Aking Awitin](https://open.spotify.com/album/04kUFHCYtia8N4oqq0XeVJ) | 3:32 |
+| 41 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 |
+| 42 | [Weak](https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [Weak](https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed) | 3:31 |
+| 43 | [Balang Araw \- Single Version](https://open.spotify.com/track/2f0Z6I0fDfgDI3htl2RoTd) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Balang Araw](https://open.spotify.com/album/1WTaHQ1ulKruduEtwyRLDD) | 4:48 |
+| 44 | [Pity Ya](https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Pity Ya](https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4) | 3:12 |
+| 45 | [Ex](https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Ex](https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA) | 4:39 |
+| 46 | [Ngiti](https://open.spotify.com/track/2086mMaH4riDyU13MSYzzx) | [Ronnie Liang](https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0) | [Ang Aking Awitin](https://open.spotify.com/album/04kUFHCYtia8N4oqq0XeVJ) | 3:32 |
+| 47 | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc) | 2:47 |
 | 48 | [Huwag Na Lang Kaya](https://open.spotify.com/track/6v5gynE8gZcLwipN1UjCaD) | [True Faith](https://open.spotify.com/artist/6RV3CKY0UJIPKXyGs85Thm) | [Beyond Doubt](https://open.spotify.com/album/7AetQy7fe8Nt13bSJCELXH) | 3:31 |
 | 49 | [Tulog Na](https://open.spotify.com/track/5ZPlhCh8KnB0bEnElxm1Et) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Dramachine](https://open.spotify.com/album/6eQSE3asJwkxro63orNwjk) | 4:00 |
 | 50 | [With a Smile \(feat\. Kelly Badon\)](https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv), [Kelly Badon](https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26) | [Ultraelectromagnetic Jam](https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o) | 4:24 |
 
-Snapshot ID: `MCw5Yjg4MDc3YmU4YmU0ZmQ0MDkzZTRiMzYxZmVkZTJhZDNiY2ZiZjk3`
+Snapshot ID: `MCw0MTZiMjIyNTI2MjRhNjFkMzE5Yjk5MGUwNjQ5MWQzNTk5YzAxMmZk`

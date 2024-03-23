@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Including Trance, House, Techno, Dance, Afro\-House, Melodic Techno \| Tracks from Armin van Buuren, ARTY, D.O.D., Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Armin van Buuren, Gryffin
 
-967 songs - 2 day 3 hr 42 min
+968 songs - 2 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [Immortal](https://open.spotify.com/track/0nzVN0Ln1nnN5eSSUSmztb) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Visions, Vol\. 1](https://open.spotify.com/album/4u118aJAyUdQmQAmyTdSyb) | 3:30 | 2023-12-07 |  |
 | [In And Out Of Love \- Innellea Remix](https://open.spotify.com/track/13z0WuyNhDPQlwXSr8EY4S) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Sharon Den Adel](https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi) | [In And Out Of Love \(Innellea Remix\)](https://open.spotify.com/album/0usEDxtDCBWHx3cfPceoYD) | 3:38 | 2023-07-27 | 2024-02-09 |
 | [In My Head \(On My Mind\)](https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [In My Head \(On My Mind\)](https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA) | 2:33 | 2022-06-09 | 2023-04-29 |
+| [In My Mind](https://open.spotify.com/track/68CdFrdUAV9PssCcdw8osM) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [In My Mind](https://open.spotify.com/album/1Qto7lizycldyzI0jvi0qE) | 3:09 | 2024-03-22 |  |
 | [In Your Eyes](https://open.spotify.com/track/4LZtJRxcce5RPdSNmfa9AT) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [In Your Eyes](https://open.spotify.com/album/0O24SqzRbDIS8W4xqwHrG4) | 3:12 | 2022-06-23 | 2023-02-10 |
 | [In Your Eyes](https://open.spotify.com/track/5BiAz84wghZEkFqWskxaaZ) | [DJ San](https://open.spotify.com/artist/1Y8P0vLzajnOdJkHjy34nb), [Sebastian Moore](https://open.spotify.com/artist/02TAkwj2y9yf1NS20zwshS) | [In Your Eyes](https://open.spotify.com/album/6CsftUvt81HIiwWuOSC9HE) | 3:14 | 2023-03-02 | 2023-05-13 |
 | [Inner Light](https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Inner Light](https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z) | 3:28 | 2022-10-20 | 2023-02-24 |

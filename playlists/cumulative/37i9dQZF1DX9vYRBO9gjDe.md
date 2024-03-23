@@ -2,7 +2,7 @@
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。3月19日付。
+> Spotify Japanのデイリー急上昇チャート。3月20日付。
 
 2,559 songs - 6 day 10 hr 29 min
 

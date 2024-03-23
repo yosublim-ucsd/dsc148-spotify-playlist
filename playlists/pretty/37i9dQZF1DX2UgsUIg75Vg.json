@@ -1,28 +1,64 @@
 {
-  "description": "Chill r&b vibes for your most relaxed moods. Cover: Elmiene",
-  "num_followers": 2354115,
+  "description": "Chill r&b vibes for your most relaxed moods. Cover: SiR",
+  "num_followers": 2354314,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTJhMGE3MjZjNTUyNDdjZmY2YjYxYWI3OTQ4YjUzZjE3YmI3YjU4",
+  "snapshot_id": "MCxhYmE4YTNkZGZjY2E2ODUwNDQ1ZDllOGZjOGM2NzVhOWI3YTk0NzY5",
   "tracks": [
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 239384,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+      "duration_ms": 191888,
+      "name": "POETRY IN MOTION",
+      "url": "https://open.spotify.com/track/6vZRq9JIOGTl3b9dmEgeZV"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "IS IT WORTH IT",
+        "url": "https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf"
+      },
+      "artists": [
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "duration_ms": 220839,
+      "name": "IS IT WORTH IT",
+      "url": "https://open.spotify.com/track/4Nh0JxNzagptVbxUUbrcyW"
+    },
+    {
+      "added_at": "2024-01-26 05:01:00",
+      "album": {
+        "name": "SUBMISSIVE2",
+        "url": "https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "IT'S ONLY YOU",
+      "url": "https://open.spotify.com/track/1LWfSjRW9AS4mWnO67bdYp"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -57,20 +93,36 @@
       "url": "https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "IS IT WORTH IT",
-        "url": "https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf"
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
       },
       "artists": [
         {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 220839,
-      "name": "IS IT WORTH IT",
-      "url": "https://open.spotify.com/track/4Nh0JxNzagptVbxUUbrcyW"
+      "duration_ms": 239384,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/3dcCGh01JOXtrefNVmOpsk"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/0yJIF1o3HggZCMgTSGWlEj"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -89,22 +141,6 @@
       "url": "https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY"
     },
     {
-      "added_at": "2024-01-26 05:01:00",
-      "album": {
-        "name": "SUBMISSIVE2",
-        "url": "https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "IT'S ONLY YOU",
-      "url": "https://open.spotify.com/track/1LWfSjRW9AS4mWnO67bdYp"
-    },
-    {
       "added_at": "2023-10-20 21:56:24",
       "album": {
         "name": "Phases III - EP",
@@ -119,6 +155,54 @@
       "duration_ms": 160581,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2ZqOCKuFkKhAZDRYI90EHb"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "One Night Stand",
+        "url": "https://open.spotify.com/album/3S2wJtXUAyA87jlBVxJMN4"
+      },
+      "artists": [
+        {
+          "name": "Marsha Ambrosius",
+          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
+        }
+      ],
+      "duration_ms": 256924,
+      "name": "One Night Stand",
+      "url": "https://open.spotify.com/track/2CDGP4sWDuaYkRB8C48dJA"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 225829,
+      "name": "HEAVY",
+      "url": "https://open.spotify.com/track/5H5jTG6mK1Jd0mL6vLP1SU"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 162764,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/4BIYpulTUkEj3gb0WWb9OV"
     },
     {
       "added_at": "2023-10-20 21:56:24",
@@ -139,6 +223,22 @@
       "duration_ms": 250221,
       "name": "Drifted (feat. Jayla Darden)",
       "url": "https://open.spotify.com/track/562S3M4AGzUZcZ6G1WorfN"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 188314,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -239,6 +339,26 @@
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Hundred Million Reasons",
+        "url": "https://open.spotify.com/album/6sbcg3Ab1Ts57F12QWKkVA"
+      },
+      "artists": [
+        {
+          "name": "Paperboy Fabe",
+          "url": "https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 182357,
+      "name": "Hundred Million Reasons",
+      "url": "https://open.spotify.com/track/4YTHJMz3yiR6PRnjdlP2jZ"
     },
     {
       "added_at": "2024-02-03 22:39:04",
@@ -351,6 +471,22 @@
       "duration_ms": 156500,
       "name": "When You're Lonely",
       "url": "https://open.spotify.com/track/0cGzG9CFE3l6HygfUzr6Uo"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "11th Hour",
+        "url": "https://open.spotify.com/album/0hZoP4o7c995gK0cEIssHK"
+      },
+      "artists": [
+        {
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "11th Hour",
+      "url": "https://open.spotify.com/track/63E8fk3JnHd5kEpL29tA8w"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -499,6 +635,22 @@
       "duration_ms": 198300,
       "name": "Young Rich & In Love",
       "url": "https://open.spotify.com/track/2R6tflIwv19qoYxg5hYLVh"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "No More Lonely Nights",
+        "url": "https://open.spotify.com/album/6oghy5BL3k36IYHUI3VHV4"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 166857,
+      "name": "Rent Free - Acoustic",
+      "url": "https://open.spotify.com/track/79lnq17i7L4AeFNfJO9Jaq"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2075,22 +2227,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "6.9.4.2",
-        "url": "https://open.spotify.com/album/5o1xMeUQ9cLNq9rX5ftrrx"
-      },
-      "artists": [
-        {
-          "name": "AMARIA BB",
-          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
-        }
-      ],
-      "duration_ms": 170943,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/00T6rpXshMv5TkcAmvGARr"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "When I Hear Your Name",
         "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
       },
@@ -2247,26 +2383,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Breaking Point (feat. Victoria Mon\u00e9t) [Remix]",
-        "url": "https://open.spotify.com/album/6iHkadl6ouedA4nFKffFjz"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 310892,
-      "name": "Breaking Point (feat. Victoria Mon\u00e9t) [Remix]",
-      "url": "https://open.spotify.com/track/6thKLyOEc4LXkfWTRLmyq6"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "As You Are - A COLORS SHOW",
         "url": "https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc"
       },
@@ -2351,26 +2467,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Ready For It",
-        "url": "https://open.spotify.com/album/42fWXOdXkh3M5872YHc9zS"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 147394,
-      "name": "Ready For It",
-      "url": "https://open.spotify.com/track/3TZaeEmGv6HsdARIAwvdIs"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/2k5NXdSqKdDcAFFPzTouet"
       },
@@ -2399,26 +2495,6 @@
       "duration_ms": 185666,
       "name": "These Four Walls",
       "url": "https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "RUSH",
-        "url": "https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl"
-      },
-      "artists": [
-        {
-          "name": "Hamzaa",
-          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
-        },
-        {
-          "name": "1SRAEL",
-          "url": "https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy"
     },
     {
       "added_at": "2023-09-15 04:00:00",

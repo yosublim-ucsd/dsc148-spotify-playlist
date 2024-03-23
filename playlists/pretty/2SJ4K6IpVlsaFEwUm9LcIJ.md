@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 18,600 likes - 24 songs - 1 hr 18 min
+[margeaux](https://open.spotify.com/user/1220511975) - 18,608 likes - 27 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,5 +32,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 22 | [Make My Bed](https://open.spotify.com/track/1st16i7UZSXuNteGAJ5pMR) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [i.v](https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF) | [100% PROD I.V.](https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y) | 2:00 |
 | 23 | [Oil Change](https://open.spotify.com/track/1HWvG3032Yvd6pmOD0ePFy) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [i.v](https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF) | [100% PROD I.V.](https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y) | 1:32 |
 | 24 | [I Care](https://open.spotify.com/track/7tHxfAiPYN5357A49tY5p2) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P), [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [I Can't Dream Anymore](https://open.spotify.com/album/2nWfaWfDYIEMeckjUAfDCZ) | 4:18 |
+| 25 | [Blank Time](https://open.spotify.com/track/1aXDrYTE5igJKUygBgrPWN) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:57 |
+| 26 | [I Can't Dream Anymore](https://open.spotify.com/track/0bZN26ShHJhG1NERwNs7LP) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [I Can't Dream Anymore](https://open.spotify.com/album/2nWfaWfDYIEMeckjUAfDCZ) | 3:12 |
+| 27 | [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 |
 
-Snapshot ID: `MjU5MyxiOWEzYTNmNjJhYjA5YTdkMjAzNDliNDkwNzAzNGNmNTc2ZDQ5N2I2`
+Snapshot ID: `MjU5Niw0M2MwNDIzODE0YzBlYTJjNDllZTEzYTNiYmMwOGEyYjZmYzllNWU5`

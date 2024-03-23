@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-90 songs - 5 hr 29 min
+91 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Sheldon Churchyard](https://open.spotify.com/track/5Ic08EW0Dn1v4s6FNzRIWZ) | [Larry Jon Wilson](https://open.spotify.com/artist/1BqH9nNwDO7dfvFjKSxr5X) | [Let Me Sing My Song to You](https://open.spotify.com/album/411qPiWonTI13X7t37XuLv) | 3:58 | 2021-02-17 |  |
 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 | 2021-02-17 |  |
 | [Simple Life](https://open.spotify.com/track/0dHodhXJPnhuHPIrF0i10b) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 4:43 | 2021-02-17 |  |
+| [Stealing A Kiss](https://open.spotify.com/track/5kdZiJ0KIPEyQ42xLj61Gt) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stealing A Kiss](https://open.spotify.com/album/5i9nk8WvKRe0d78UaCba9u) | 4:55 | 2024-03-22 |  |
 | [Stockholm Syndrome](https://open.spotify.com/track/35PvBFZRh58hFbqWBwjBZn) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Singing for My Supper](https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw) | 3:14 | 2021-02-17 |  |
 | [Sun Come Ease Me In](https://open.spotify.com/track/0xGgtbsW3ynbaqR1eUczst) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 2:55 | 2021-02-17 | 2022-07-29 |
 | [Sun Come Ease Me In](https://open.spotify.com/track/19IrqW4afAqPLpfpPXF3qV) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 2:55 | 2021-02-17 | 2022-09-15 |

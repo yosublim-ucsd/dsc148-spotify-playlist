@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 86737,
+  "num_followers": 86790,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDA1YzA2NWVmMGIzOTBkY2I5YjhiNzUzN2NiYTQwNWExZmFmNTQz",
+  "snapshot_id": "MCw2ZWVhNGUzODc5MDk2NGVmMWQ2OTRkZDk5YTk5MzBkYzg3YTQ2ODY0",
   "tracks": [
     {
       "added_at": "2024-03-20 13:47:42",
@@ -947,30 +947,6 @@
     {
       "added_at": "2024-03-20 13:47:42",
       "album": {
-        "name": "Vital Techtones",
-        "url": "https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed"
-      },
-      "artists": [
-        {
-          "name": "Steve Smith",
-          "url": "https://open.spotify.com/artist/7pnpCbCBCIHvkCqrXSib0z"
-        },
-        {
-          "name": "Scott Henderson",
-          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
-        },
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        }
-      ],
-      "duration_ms": 345706,
-      "name": "Giant Steps",
-      "url": "https://open.spotify.com/track/74c8OtmpOrPtwjroiriM54"
-    },
-    {
-      "added_at": "2024-03-20 13:47:42",
-      "album": {
         "name": "Night Songs",
         "url": "https://open.spotify.com/album/254W9qONgZ1Px5Acsdczzx"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 443720,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/3krZ5BbhXLJ67pGjkTnobD"
+    },
+    {
+      "added_at": "2024-03-20 13:47:42",
+      "album": {
+        "name": "Vital Techtones",
+        "url": "https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed"
+      },
+      "artists": [
+        {
+          "name": "Steve Smith",
+          "url": "https://open.spotify.com/artist/7pnpCbCBCIHvkCqrXSib0z"
+        },
+        {
+          "name": "Scott Henderson",
+          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
+        },
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 345706,
+      "name": "Giant Steps",
+      "url": "https://open.spotify.com/track/74c8OtmpOrPtwjroiriM54"
     },
     {
       "added_at": "2024-03-20 13:47:42",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-03-20 13:47:42",
       "album": {
+        "name": "Good Pickin's",
+        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
+      },
+      "artists": [
+        {
+          "name": "Howard Roberts",
+          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
+        }
+      ],
+      "duration_ms": 255280,
+      "name": "When The Sun Comes Out",
+      "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
+    },
+    {
+      "added_at": "2024-03-20 13:47:42",
+      "album": {
         "name": "Hand-Crafted Swing",
         "url": "https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 370866,
       "name": "The Nearness Of You - Instrumental",
       "url": "https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr"
-    },
-    {
-      "added_at": "2024-03-20 13:47:42",
-      "album": {
-        "name": "Good Pickin's",
-        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
-      },
-      "artists": [
-        {
-          "name": "Howard Roberts",
-          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
-        }
-      ],
-      "duration_ms": 255280,
-      "name": "When The Sun Comes Out",
-      "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
     },
     {
       "added_at": "2024-03-20 13:47:42",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-03-20 13:47:42",
       "album": {
-        "name": "Bill Frisell, Ron Carter, Paul Motian",
-        "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 356533,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
-    },
-    {
-      "added_at": "2024-03-20 13:47:42",
-      "album": {
         "name": "Dialogues",
         "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 371200,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF"
+    },
+    {
+      "added_at": "2024-03-20 13:47:42",
+      "album": {
+        "name": "Bill Frisell, Ron Carter, Paul Motian",
+        "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 356533,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
     },
     {
       "added_at": "2024-03-20 13:47:42",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-03-20 13:47:42",
       "album": {
-        "name": "Concierto (CTI Records 40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0"
-      },
-      "artists": [
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 447026,
-      "name": "You'd Be So Nice To Come Home To - alt. take",
-      "url": "https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV"
-    },
-    {
-      "added_at": "2024-03-20 13:47:42",
-      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/4juJmyC6vE1k4KYZVSJYMQ"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 432093,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv"
+    },
+    {
+      "added_at": "2024-03-20 13:47:42",
+      "album": {
+        "name": "Concierto (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 447026,
+      "name": "You'd Be So Nice To Come Home To - alt. take",
+      "url": "https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV"
     },
     {
       "added_at": "2024-03-20 13:47:42",

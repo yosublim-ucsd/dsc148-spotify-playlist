@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,652 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,695 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 19 | [Palabritas](https://open.spotify.com/track/1OLipTUWDrz67unieZgkdD) | [El Jeffrey](https://open.spotify.com/artist/0WfG4KbWJJoxomK5HH1kSX) | [Mi Tierra](https://open.spotify.com/album/7vld1FYKOT0Rdo6bEfur8V) | 3:44 |
 | 20 | [Si Algún Día la Ves](https://open.spotify.com/track/28rvnECjh1GrqsHKwkDRVi) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados de Sergio Vargas](https://open.spotify.com/album/3B3k2YlC02MqT2t8mkOMQf) | 4:44 |
 | 21 | [Noches de Fantasia](https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu) | [Roberto Antonio](https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx) | [Mentirosa](https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4) | 3:51 |
-| 22 | [Otra Como Tu](https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De Toño Rosario](https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp) | 4:32 |
-| 23 | [Tu Me Vas a Dejar](https://open.spotify.com/track/1xJXSAosZHRwMiaeYxIpyV) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6MSQpN5C6I4Rb0Vec5h2wi) | 4:25 |
+| 22 | [Tu Me Vas a Dejar](https://open.spotify.com/track/1xJXSAosZHRwMiaeYxIpyV) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6MSQpN5C6I4Rb0Vec5h2wi) | 4:25 |
+| 23 | [Otra Como Tu](https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De Toño Rosario](https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp) | 4:32 |
 | 24 | [Si Tú Eres Mi Hombre y Yo Tu Mujer](https://open.spotify.com/track/3t1KSw84bP0zIRryUD4VgQ) | [The New York Band](https://open.spotify.com/artist/29JDaAuJb2JrhbpQs6BXHr) | [Los Años Dorados](https://open.spotify.com/album/7zODnd44iBkdZUziXFsUnS) | 4:31 |
 | 25 | [Entre Tu Cuerpo y el Mio](https://open.spotify.com/track/20js1xS9eDxHcHVoVQASPO) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Los Vecinos](https://open.spotify.com/artist/3wwEkvc5v1R19fMX5fCj7a) | [20 Exitos Originales](https://open.spotify.com/album/76bNdLqQnSnzU145Com1b1) | 4:58 |
 | 26 | [Cuando Estés Con Él](https://open.spotify.com/track/6BOhbcfVzsNpIJ1dJYa47X) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Vida, Canción y Suerte](https://open.spotify.com/album/7o1Fi1ND2r1XMfpyi1Zrwf) | 3:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 59 | [Llego Tu Marido](https://open.spotify.com/track/7agCLiP3Q8MqFvxQu7WA9B) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Caliente](https://open.spotify.com/album/0gEYiU9xYpARpvTMRitIw1) | 5:06 |
 | 60 | [Popurri de Exitos](https://open.spotify.com/track/0efgwb66083LCAI2OQb1C6) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [El Torito](https://open.spotify.com/artist/1pbzjrJpvYl4xN0uaBGLsS) | [Homenaje a Benny Sadel](https://open.spotify.com/album/1FBkxyRCgqPiua8ZPAwIk5) | 6:03 |
 
-Snapshot ID: `MCw2NDk5ODdiOTk3NGZiYmZiN2NiOGVkZGZhYWVhMmE2ZGU3ZjA3NmVm`
+Snapshot ID: `MCxiMTg1NTg2NDI3MzZiZmFkMTJlZTc1MGNjNjQzNGFhYjhjZjhmN2Jk`

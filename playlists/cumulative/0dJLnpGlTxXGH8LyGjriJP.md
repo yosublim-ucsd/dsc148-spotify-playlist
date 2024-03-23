@@ -4,7 +4,7 @@
 
 > 
 
-762 songs - 1 day 14 hr 56 min
+765 songs - 1 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,8 +153,10 @@
 | [Christopher Walking](https://open.spotify.com/track/2IT0T0EqPaUxasjl2o8J2G) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 3:10 | 2022-07-20 |  |
 | [Christopher Wallace](https://open.spotify.com/track/5BbcQLtODc36HoVAbwp5WF) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [East Haiti Baby](https://open.spotify.com/album/29zIx0zEEOHHy7wYqKrcyo) | 2:09 | 2023-01-07 |  |
 | [Chromosomes](https://open.spotify.com/track/2o310aLkmwXLlrS1O5qZv2) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2](https://open.spotify.com/album/1ARkB4oJ3MskiUhXcxaFtC) | 2:30 | 2023-02-28 |  |
+| [Cinderella](https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 2:49 | 2024-03-22 |  |
 | [Circo Loco](https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:56 | 2022-11-04 |  |
 | [City of God \(feat\. Chris Brown\)](https://open.spotify.com/track/0PmM2q7VEi2Sw6IO9CLn79) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Tee's Coney Island](https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP) | 2:15 | 2023-12-15 |  |
+| [Claustrophobic](https://open.spotify.com/track/57ELn9TPDIhrpl0dasS465) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:42 | 2024-03-22 |  |
 | [Clicc Clacc](https://open.spotify.com/track/1kf1bFBZpcRpfvbay4smTD) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood](https://open.spotify.com/album/3pDWtiwshSUkWVkJ4rLkgq) | 1:53 | 2023-04-05 |  |
 | [Clueless \(with Pop Smoke & Fivio Foreign\)](https://open.spotify.com/track/4CPcZHzSvIBM8AKhdHUwnL) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 | 2022-10-25 |  |
 | [Commercial \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1cyAB7KGiNHIqY6A9SyFaU) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 3:34 | 2022-09-29 |  |
@@ -721,6 +723,7 @@
 | [Turks \(with Gunna & ft\. Travis Scott\)](https://open.spotify.com/track/7IMwEtpAiJanqF6vQteZN2) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:41 | 2022-12-28 |  |
 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/2IHdMccpnU0PGHGltqM2Sq) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:50 | 2023-12-23 |  |
 | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/track/5B40Td13cDQ4adeAiLf8Z4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz) | 2:28 | 2022-11-14 |  |
+| [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 | 2024-03-22 |  |
 | [U\-Turn](https://open.spotify.com/track/3QPtcDBumS3qC7ZQJpDxBP) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Growth & Development](https://open.spotify.com/album/2toa1qSFYevlVwt9LOG5id) | 2:24 | 2022-05-25 |  |
 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 | 2023-07-08 |  |
 | [Umbrella \(with 21 Savage & Young Nudy\)](https://open.spotify.com/track/31De8hk4QgDsbS26w06h21) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:42 | 2022-12-02 |  |

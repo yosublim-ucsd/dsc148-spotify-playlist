@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Jagwar Twin
 
-343 songs - 18 hr 26 min
+344 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Shake It](https://open.spotify.com/track/7G1CCmpXUbjkH9nBZoaHj3) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr) | [Shake It](https://open.spotify.com/album/2VxVieuLHtGN4jOFtgKsgu) | 2:25 | 2023-09-15 | 2023-11-11 |
 | [She Wants Me \(To Be Loved\)](https://open.spotify.com/track/0owmJNkGcGNq4hb6qt3ufd) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/7FhH5nGululV6EAqwf6X0c) | 3:19 | 2022-07-07 | 2022-12-01 |
 | [She Wants Me \(To Be Loved\)](https://open.spotify.com/track/1yS9wpv8GW2c8tHC7P85JJ) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1) | 3:19 | 2022-10-21 | 2023-02-17 |
-| [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 | 2024-02-23 |  |
+| [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 | 2024-02-23 | 2024-03-23 |
 | [Should've Been Me](https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:11 | 2022-05-17 | 2023-09-23 |
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2023-08-22 | 2023-09-23 |
 | [SLEEP PARALYSIS DEMON](https://open.spotify.com/track/7ArCnzvsDjjLort2k4lELX) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [SLEEP PARALYSIS DEMON](https://open.spotify.com/album/6VaeeTZaX6qAcG0iJWTnNj) | 2:34 | 2023-12-08 |  |
@@ -321,6 +321,7 @@
 | [Too Precious](https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Too Precious](https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk) | 2:49 | 2022-05-20 | 2022-06-07 |
 | [Top of My School](https://open.spotify.com/track/5OKyAO31eOeJV5qEx2lv4k) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ) | [Top of My School](https://open.spotify.com/album/5B5JRU1bu2uvI8ZG5zx9yQ) | 2:37 | 2022-05-17 | 2023-06-03 |
 | [Touch\-Tone Telephone](https://open.spotify.com/track/1tmRlF5pFo8G5OfJYUjWrR) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 4:42 | 2022-05-17 | 2023-02-17 |
+| [Trouble Is a Friend](https://open.spotify.com/track/2mxT8OWvZSjAzmYYGeBjoY) | [Lenka](https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC) | [Lenka \(Expanded Edition\)](https://open.spotify.com/album/4RDt6hhOexGpinuMYkhpBE) | 3:35 | 2024-03-22 |  |
 | [TUNNEL VISION](https://open.spotify.com/track/183WuVX0zsr0dHydHkKtGQ) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG) | 4:44 | 2023-12-29 |  |
 | [Turn the Lights Off](https://open.spotify.com/track/3xpdefOloYCBXd3UR6MVyM) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 2:56 | 2022-05-17 | 2022-12-10 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 | 2022-12-10 |

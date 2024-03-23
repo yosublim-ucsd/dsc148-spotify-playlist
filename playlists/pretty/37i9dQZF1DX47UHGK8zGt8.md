@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Aquelas pra começar o dia de alma leve
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,907 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,090 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 34 | [Sorte \- Ao Vivo](https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Silva & Liniker \(Ao Vivo\)](https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG) | 3:50 |
 | 35 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 |
 | 36 | [Garotos II \- Ao Vivo](https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Garotos II \(Ao Vivo\)](https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk) | 3:18 |
-| 37 | [Quando Amanhecer](https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt) | [Lado de Cá](https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD) | [Lado de Cá](https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d) | 2:51 |
-| 38 | [Velha Infância \- Acústico](https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Ensaio Acústico](https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1) | 3:01 |
-| 39 | [Ainda Lembro](https://open.spotify.com/track/6lNJX51MnEY2BB9EHBL3XP) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Mais](https://open.spotify.com/album/3hPEISGlVahSAoFUDE5m7M) | 4:10 |
+| 37 | [Velha Infância \- Acústico](https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Ensaio Acústico](https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1) | 3:01 |
+| 38 | [Ainda Lembro](https://open.spotify.com/track/6lNJX51MnEY2BB9EHBL3XP) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Mais](https://open.spotify.com/album/3hPEISGlVahSAoFUDE5m7M) | 4:10 |
+| 39 | [Quando Amanhecer](https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt) | [Lado de Cá](https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD) | [Lado de Cá](https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d) | 2:51 |
 | 40 | [Poemas Que Colori](https://open.spotify.com/track/2bgJsZVwVMxwPPOJFmvgte) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco](https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr) | 3:30 |
 | 41 | [Zero a Cem](https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Zero a Cem](https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG) | 3:10 |
 | 42 | [Mais Bonito Não Há](https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Mais Bonito Não Há](https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 49 | [Transforma\(dor\)](https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Transforma\(dor\)](https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc) | 2:23 |
 | 50 | [Só Mais Um Pouquinho](https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Só Mais Um Pouquinho](https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll) | 3:13 |
 
-Snapshot ID: `MCw1OTFlMTFlYjU5OGJmMTUwM2Y4ZGFmOWIxOGU1MjVjMTkzMDMxMWM4`
+Snapshot ID: `MCw3Zjk4MzJmOGEwZTcwMzZjOGIzMGVjY2I5MDVhNTJlNTVjNTBhYjIz`

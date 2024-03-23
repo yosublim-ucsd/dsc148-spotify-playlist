@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 79846,
+  "num_followers": 79899,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmQzZjBmMWU5NDg2OWIxZDQ1NGY0ZGQ1OWY2YzE2NDEzZTBiN2M5",
+  "snapshot_id": "MCw1NDU3NzFkOWQyNDk1MzIxMjNjMWIzZThlMzMwOGU2Yjc3M2ZmOWY5",
   "tracks": [
     {
       "added_at": "2021-12-16 01:11:32",
@@ -419,6 +419,26 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
+        "name": "Asesina",
+        "url": "https://open.spotify.com/album/5HfLVrLABowoW9EoCavQld"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 187312,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/5lZaM4985p0t3YfizlQWUz"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
         "name": "Toda (Remix)",
         "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 367680,
       "name": "Toda (Remix)",
       "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
-        "name": "Asesina",
-        "url": "https://open.spotify.com/album/5HfLVrLABowoW9EoCavQld"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 187312,
-      "name": "Asesina",
-      "url": "https://open.spotify.com/track/5lZaM4985p0t3YfizlQWUz"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -627,26 +627,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Los Campeones del Pueblo \"The Big Leagues\"",
-        "url": "https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Aullando",
-      "url": "https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 250840,
       "name": "No Es Justo",
       "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Los Campeones del Pueblo \"The Big Leagues\"",
+        "url": "https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "Aullando",
+      "url": "https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 150027,
-      "name": "MALAMENTE - Cap.1: Augurio",
-      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Adictiva",
         "url": "https://open.spotify.com/album/7Eeyj4vopzd7c1aAhwXFGU"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 207853,
       "name": "Adictiva",
       "url": "https://open.spotify.com/track/6MJUCumnQsQEKbCy28tbCP"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 150027,
+      "name": "MALAMENTE - Cap.1: Augurio",
+      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
     },
     {
       "added_at": "2021-12-16 01:11:32",

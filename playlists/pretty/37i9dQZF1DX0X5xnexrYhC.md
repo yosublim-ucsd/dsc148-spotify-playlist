@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 48 | [Twinkle Twinkle](https://open.spotify.com/track/1ngmuX9jhz3YqvLI8q5pso) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle](https://open.spotify.com/album/5X2sTkbON3MPA4rXZZlXSW) | 2:36 |
 | 49 | [Middle Fingers](https://open.spotify.com/track/0zMjJjBTngvWZqZ9AAUOpF) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Aston](https://open.spotify.com/album/2Xn3gGhbeH3PwqBjboWr1V) | 3:38 |
 | 50 | [Holding Back](https://open.spotify.com/track/0X6hQ8VqX1bKNn5eyT9sNF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN) | 3:52 |
-| 51 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 |
-| 52 | [A Dangerous Thing](https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:35 |
+| 51 | [A Dangerous Thing](https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:35 |
+| 52 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 |
 | 53 | [counting crimes](https://open.spotify.com/track/3EsFsEIcsdf4r5Y9UuW0yC) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [counting crimes](https://open.spotify.com/album/1v48gFxTeyWAeZDcB06sQW) | 3:02 |
 | 54 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 |
 | 55 | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R) | 3:42 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 79 | [Baby](https://open.spotify.com/track/4KNk5VS4bR4nUVvnJwVmUE) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Baby](https://open.spotify.com/album/7guVedOngStKyoYMzMdWzj) | 2:39 |
 | 80 | [indieedgycool](https://open.spotify.com/track/1wo8pUckwcg6yQmwSuepvX) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [hello this is the setlist for my tour](https://open.spotify.com/album/1jUrf0KNgZirx7g7672X0s) | 2:26 |
 
-Snapshot ID: `MCxjOTQ2YjhjNGNiMjBlNWE3MDFjMjM1Y2NkZDY2Y2ZmZmNiY2QwYWEx`
+Snapshot ID: `MCxhMDFlY2NlZjZhYzE4NDFmMThkNjViOTQxYTEyOGIzMTJlMGI0NzI0`

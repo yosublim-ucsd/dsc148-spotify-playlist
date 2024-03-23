@@ -4,7 +4,7 @@
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-125 songs - 7 hr 17 min
+126 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Black Girl Magic](https://open.spotify.com/track/6CVUbSUCw5SeWk2S7f7vTN) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:21 | 2021-12-28 | 2022-04-18 |
 | [Blessed \- Remix](https://open.spotify.com/track/28CK6XonxLP2z48QwNXezY) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Blessed More Blessed \(The Remixes\)](https://open.spotify.com/album/5PBxaktc70K6Fe8P9APQKB) | 3:05 | 2022-02-25 | 2023-08-08 |
 | [Bwana Mdogo \(feat\. Patoranking\)](https://open.spotify.com/track/7MsF2wr8ZVkZoT6Xi5BQ14) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 3:25 | 2021-12-28 |  |
-| [Celebrate Me](https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Celebrate Me](https://open.spotify.com/album/6PmMID2Cb2rHTfsJ9Wme56) | 3:59 | 2021-12-29 |  |
+| [Celebrate Me](https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Celebrate Me](https://open.spotify.com/album/6PmMID2Cb2rHTfsJ9Wme56) | 3:59 | 2021-12-29 | 2024-03-23 |
 | [Champion](https://open.spotify.com/track/1MgeahgsOalFDm0cdsqnMu) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Wilmer](https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc) | 3:34 | 2021-12-28 | 2022-02-01 |
 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 | 2021-12-28 |  |
 | [Clean and Pure](https://open.spotify.com/track/4FfweIA6z8WoNKGMv6G2S0) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:10 | 2021-12-31 | 2024-01-17 |
@@ -123,6 +123,7 @@
 | [Tonight](https://open.spotify.com/track/7BwkvLDMcBX6cMjvsbjvlQ) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [TONIGHT](https://open.spotify.com/album/5S1jcA8VvY8XRyW9VRUelb) | 3:16 | 2023-07-15 |  |
 | [Tonight SPED UP](https://open.spotify.com/track/7BdYlZyuqWGtW5fD31fMNM) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [TONIGHT \(SPED UP\)](https://open.spotify.com/album/35G3wbgsPubiXVaUV73MXb) | 1:13 | 2023-09-15 |  |
 | [Twerk Nam](https://open.spotify.com/track/2DGqBPqO06GpfBWhu8LEVv) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi), [Tony X](https://open.spotify.com/artist/5JCtawfBeAUB4UKzxRE8sR), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Stamina](https://open.spotify.com/album/0Ka05Dg15vP2Sc4VbRstVo) | 3:11 | 2023-11-10 | 2024-02-18 |
+| [Wait Refix](https://open.spotify.com/track/62NcIDnYukwleoEHIJYvdL) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [W.E.E.D.](https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY) | 4:41 | 2024-03-22 |  |
 | [Wait Refix](https://open.spotify.com/track/630ORw8FxlwBCIK3uGPb22) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [W.E.E.D.](https://open.spotify.com/album/23BR88E4ycb1L19PLZbEuP) | 4:41 | 2021-12-28 | 2023-09-10 |
 | [We Run The Road](https://open.spotify.com/track/29zDAYgVf05ipZ8mndZzmJ) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [We Run The Road](https://open.spotify.com/album/74DfDzN8aWJRVVfRKSSBIG) | 3:41 | 2022-09-10 | 2023-02-01 |
 | [Whine It \(feat\. Sauti Sol\)](https://open.spotify.com/track/5mFGk1g417gDhAvrafXjEK) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:37 | 2021-12-28 | 2024-03-04 |

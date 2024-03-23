@@ -1,12 +1,12 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 116024,
+  "num_followers": 116031,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWFjY2ZlOTllYjg2NTAxOTM5ZTBkOTUyZjJiNTFhZDA0NGExYTRj",
+  "snapshot_id": "MCwxNGQ2ODYwYmMzZTY3ZjZjNjk3MmMxYTU4OTBkOWU4MzkzOTAwYWVm",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-03-28 19:25:04",
       "album": {
-        "name": "Quicksilver Messenger Service",
-        "url": "https://open.spotify.com/album/2jQEpak8oXYb6dh9sCZqqY"
-      },
-      "artists": [
-        {
-          "name": "Quicksilver Messenger Service",
-          "url": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
-        }
-      ],
-      "duration_ms": 403533,
-      "name": "Gold And Silver",
-      "url": "https://open.spotify.com/track/6qwwAbxSYq9MTEIn0UMFNA"
-    },
-    {
-      "added_at": "2022-03-28 19:25:04",
-      "album": {
         "name": "Electric Music For The Mind And Body",
         "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 266000,
       "name": "Death Sound",
       "url": "https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R"
+    },
+    {
+      "added_at": "2022-03-28 19:25:04",
+      "album": {
+        "name": "Quicksilver Messenger Service",
+        "url": "https://open.spotify.com/album/2jQEpak8oXYb6dh9sCZqqY"
+      },
+      "artists": [
+        {
+          "name": "Quicksilver Messenger Service",
+          "url": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
+        }
+      ],
+      "duration_ms": 403533,
+      "name": "Gold And Silver",
+      "url": "https://open.spotify.com/track/6qwwAbxSYq9MTEIn0UMFNA"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -403,18 +403,18 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "The History Of Blue Cheer: Good Times Are So Hard To Find",
-        "url": "https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9"
+        "name": "Power Plant",
+        "url": "https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb"
       },
       "artists": [
         {
-          "name": "Blue Cheer",
-          "url": "https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL"
+          "name": "The Golden Dawn",
+          "url": "https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx"
         }
       ],
-      "duration_ms": 198866,
-      "name": "Good Times Are So Hard To Find",
-      "url": "https://open.spotify.com/track/1RCaB8ZclzAsuw9jRi0SIx"
+      "duration_ms": 172946,
+      "name": "Starvation",
+      "url": "https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -435,18 +435,18 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Power Plant",
-        "url": "https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb"
+        "name": "The History Of Blue Cheer: Good Times Are So Hard To Find",
+        "url": "https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9"
       },
       "artists": [
         {
-          "name": "The Golden Dawn",
-          "url": "https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx"
+          "name": "Blue Cheer",
+          "url": "https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL"
         }
       ],
-      "duration_ms": 172946,
-      "name": "Starvation",
-      "url": "https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX"
+      "duration_ms": 198866,
+      "name": "Good Times Are So Hard To Find",
+      "url": "https://open.spotify.com/track/1RCaB8ZclzAsuw9jRi0SIx"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -599,22 +599,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Don't Call Us, We'll Call You (Re-Recorded)",
-        "url": "https://open.spotify.com/album/6uQESzHRJ2UBK9EEK5Hvic"
-      },
-      "artists": [
-        {
-          "name": "Sugarloaf",
-          "url": "https://open.spotify.com/artist/1T3RPiMH711kvoXymKUTYH"
-        }
-      ],
-      "duration_ms": 202304,
-      "name": "Don't Call Us, We'll Call You (Re-Recorded / Remastered)",
-      "url": "https://open.spotify.com/track/6Hrik94vQpSpxSjMfFKGfC"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "The Crazy World of Arthur Brown",
         "url": "https://open.spotify.com/album/2MOklupP8q76rVakZOlEDj"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 224600,
       "name": "I Put a Spell on You",
       "url": "https://open.spotify.com/track/2HlO7aYhiN86NBC9j4l3SO"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Don't Call Us, We'll Call You (Re-Recorded)",
+        "url": "https://open.spotify.com/album/6uQESzHRJ2UBK9EEK5Hvic"
+      },
+      "artists": [
+        {
+          "name": "Sugarloaf",
+          "url": "https://open.spotify.com/artist/1T3RPiMH711kvoXymKUTYH"
+        }
+      ],
+      "duration_ms": 202304,
+      "name": "Don't Call Us, We'll Call You (Re-Recorded / Remastered)",
+      "url": "https://open.spotify.com/track/6Hrik94vQpSpxSjMfFKGfC"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -775,22 +775,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Apple Pie",
-        "url": "https://open.spotify.com/album/0eom2ZJPDeUyS4XTaDpAXR"
-      },
-      "artists": [
-        {
-          "name": "The Apple Pie Motherhood Band",
-          "url": "https://open.spotify.com/artist/174pJcct3i25tITNgPxnFO"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Grandmother Hooker",
-      "url": "https://open.spotify.com/track/6LzjPE9lvGc6xCXdvgf0VO"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Level with Me",
         "url": "https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 159133,
       "name": "I Can't Dance",
       "url": "https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Apple Pie",
+        "url": "https://open.spotify.com/album/0eom2ZJPDeUyS4XTaDpAXR"
+      },
+      "artists": [
+        {
+          "name": "The Apple Pie Motherhood Band",
+          "url": "https://open.spotify.com/artist/174pJcct3i25tITNgPxnFO"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Grandmother Hooker",
+      "url": "https://open.spotify.com/track/6LzjPE9lvGc6xCXdvgf0VO"
     },
     {
       "added_at": "2018-02-28 19:55:41",

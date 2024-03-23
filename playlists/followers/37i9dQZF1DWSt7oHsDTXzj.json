@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 181966,
+  "2024-03-23": 181949,
   "date_first_scraped": "2021-12-28",
   "description": "The ultimate seasonal (indie) playlist. ",
   "name": "Indie Christmas",
@@ -913,6 +913,24 @@
       "duration_ms": 135693,
       "name": "Christmas Kids",
       "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
+    },
+    {
+      "album": {
+        "name": "I Can't Handle Change",
+        "url": "https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX"
+      },
+      "artists": [
+        {
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135693,
+      "name": "Christmas Kids",
+      "url": "https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8"
     },
     {
       "album": {
@@ -2827,7 +2845,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 218706,
       "name": "Merry Xmas Everybody",
       "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"

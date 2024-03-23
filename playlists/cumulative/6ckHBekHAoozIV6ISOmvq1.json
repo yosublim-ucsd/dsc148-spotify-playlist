@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:2xfCdpmPmRtGgNyuk1zawd\">Edge</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:18NVIhicUeOGx6Ag3x491U\">2023</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a> or <a href=\"spotify:playlist:5uQQu2RC80Ku5AjSpCtrJF\">Madrigal</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:2xfCdpmPmRtGgNyuk1zawd\">Edge</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:18NVIhicUeOGx6Ag3x491U\">2023</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a> or <a href=\"spotify:playlist:5uQQu2RC80Ku5AjSpCtrJF\">Madrigal</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "tracks": [
     {
@@ -76,7 +76,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 876013,
       "name": "A Chantar",
       "url": "https://open.spotify.com/track/53IDumFHPm0UcQbT1uSc0B"
@@ -2290,7 +2290,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 232226,
       "name": "Baros, de mon dan covit",
       "url": "https://open.spotify.com/track/1U3otmteHYCdAG6uypylkA"
@@ -4941,6 +4941,28 @@
     },
     {
       "album": {
+        "name": "G\u00f6ttliches Licht: Antiphone & Psalmen",
+        "url": "https://open.spotify.com/album/19EE1yIJX7UY9uk8eg3j6z"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Ensemble F\u00fcr Fruhe Musik Augsburg",
+          "url": "https://open.spotify.com/artist/20MBM0nqGVrsUjWEcUnQgi"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241986,
+      "name": "Clara sonent organa [12th Century]",
+      "url": "https://open.spotify.com/track/55dRxVcqNvTshshxcAoMiP"
+    },
+    {
+      "album": {
         "name": "Neidhart: A Minnesinger and His \"Vale of Tears\" - Songs and Interludes",
         "url": "https://open.spotify.com/album/3CEygYpmnYvuQIMIC42t5h"
       },
@@ -5994,7 +6016,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 311986,
       "name": "Das nachthorn",
       "url": "https://open.spotify.com/track/51kl04J72ncbROeuCfj9MD"
@@ -6372,7 +6394,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 362000,
       "name": "Deo gratias",
       "url": "https://open.spotify.com/track/4UgNHC53diBeFlh8XEdbqh"
@@ -7352,7 +7374,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 443693,
       "name": "En mai, quant li rossignolez (In May, when nightingales sing clear)",
       "url": "https://open.spotify.com/track/6q8MFib4qRWMWjAbbIwN0Q"
@@ -8402,7 +8424,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 404000,
       "name": "Gar starc bekannt ist der helffant",
       "url": "https://open.spotify.com/track/6AkrDT8gUeQOvyVm9cJ9PU"
@@ -10108,7 +10130,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 194746,
       "name": "Ir alten weib un Frewt ew",
       "url": "https://open.spotify.com/track/130oPMih4HG97UUVKjuzqD"
@@ -10758,7 +10780,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 241920,
       "name": "Je ne vis onques",
       "url": "https://open.spotify.com/track/7kcuiZa6lmq0OBd6RahlbU"
@@ -12888,7 +12910,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 189600,
       "name": "Lucas vns melt im anderen capitel",
       "url": "https://open.spotify.com/track/0EgMYJXj7QvN5ib2L2WLva"
@@ -14798,7 +14820,7 @@
       ],
       "date_added": "2020-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 301960,
       "name": "Nu rue mit sorgen",
       "url": "https://open.spotify.com/track/3zhYNpsRX5Oqy7Ux0ErpwX"
@@ -17454,7 +17476,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 194533,
       "name": "Quand je voy yver...",
       "url": "https://open.spotify.com/track/1dtFpdFr4hsboiZHCxWeHr"
@@ -18142,7 +18164,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 273933,
       "name": "Requiem: Kyrie",
       "url": "https://open.spotify.com/track/0ccnwSwBtYMgiszKl9GaIT"
@@ -19460,7 +19482,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 395013,
       "name": "Super flumina",
       "url": "https://open.spotify.com/track/7r4Ipcjb6RaySdxJKrv1H7"

@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 78050,
+  "2024-03-23": 78115,
   "date_first_scraped": "2021-12-29",
   "description": "Our editor\u2019s picks for best Afro songs of the year.\n Cover: <a href=\"https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh?si=W7_-S51jTRChnzEEFX68bQ\">Davido</a> ",
   "name": "African Heat Presents...Best Afro Songs of 2023",
@@ -1553,7 +1553,7 @@
     {
       "album": {
         "name": "Ex Convict",
-        "url": "https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh"
+        "url": "https://open.spotify.com/album/0j4TScmifAmAFxOYpzCVCH"
       },
       "artists": [
         {
@@ -1564,6 +1564,24 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202605,
+      "name": "Ex Convict",
+      "url": "https://open.spotify.com/track/5O7fTE396BVFRTkQv5ENSo"
+    },
+    {
+      "album": {
+        "name": "Ex Convict",
+        "url": "https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-22",
       "duration_ms": 202605,
       "name": "Ex Convict",
       "url": "https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6"

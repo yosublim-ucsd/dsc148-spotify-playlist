@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 36524,
+  "2024-03-23": 36535,
   "date_first_scraped": "2022-11-02",
   "description": "Silvana Estrada le dedica su canto a La Catrina, para mantener nuestra tradici\u00f3n viva.",
   "name": "La Catrina",
@@ -884,6 +884,24 @@
     },
     {
       "album": {
+        "name": "30 cantos populares de Chile",
+        "url": "https://open.spotify.com/album/01l8wvg4eCkrLd9oFZICCA"
+      },
+      "artists": [
+        {
+          "name": "Violeta Parra",
+          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232523,
+      "name": "Maldigo del alto cielo",
+      "url": "https://open.spotify.com/track/2grnhzoN2ZpgYgtWaTbrgn"
+    },
+    {
+      "album": {
         "name": "Violeta Parra, sus grandes \u00e9xitos (Remastered)",
         "url": "https://open.spotify.com/album/5o9xZyOQKZ5eyb2u3KWszi"
       },
@@ -895,7 +913,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 224070,
       "name": "Maldigo el alto cielo - Remastered",
       "url": "https://open.spotify.com/track/4w6AfPvVsRHdaJRGN2uhXj"

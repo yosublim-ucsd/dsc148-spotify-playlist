@@ -1,13 +1,77 @@
 {
-  "description": "Underground indie rock gems. Cover: Been Stellar",
-  "num_followers": 294717,
+  "description": "Underground indie rock gems. Cover: Francis of Delirium",
+  "num_followers": 294712,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGI0ODNlNmFlNDMwOTNhMjM5ZDU4MTI4ZmQwNjQxOTU3NjUwNjVj",
+  "snapshot_id": "MCw5NjY5MjE1OThhMWMyOGJiMmMxZmU5YzQ4ODBjOTM5OTM4YWUyMmJm",
   "tracks": [
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/386OkomCq7KFjusVqI1E78"
+      },
+      "artists": [
+        {
+          "name": "Francis of Delirium",
+          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/1aDt9pruckWVn6lllJtVgc"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/4RLQovCB3cnnrVxGAGdpaO"
+      },
+      "artists": [
+        {
+          "name": "Alex Siegel",
+          "url": "https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS"
+        }
+      ],
+      "duration_ms": 148941,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/133l3HlaTfwwVagRZfSbbF"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Zodiac 13",
+        "url": "https://open.spotify.com/album/5pnrPb0afNwHXXG78XeHWQ"
+      },
+      "artists": [
+        {
+          "name": "No Windows",
+          "url": "https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr"
+        }
+      ],
+      "duration_ms": 172565,
+      "name": "Zodiac 13",
+      "url": "https://open.spotify.com/track/79U8WWKFkPFaKhCk0VPkWE"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Baggage",
+        "url": "https://open.spotify.com/album/5Bf4XBYCI8Bo9GLHCaNoBR"
+      },
+      "artists": [
+        {
+          "name": "TTSSFU",
+          "url": "https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Baggage",
+      "url": "https://open.spotify.com/track/6sENeBQkymXyZDmwSXUVFS"
+    },
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
@@ -59,6 +123,22 @@
       "duration_ms": 154520,
       "name": "sex symbol",
       "url": "https://open.spotify.com/track/76EwM6rI3b6DxcsE473IOA"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Monday Monday Monday",
+        "url": "https://open.spotify.com/album/38ZNQkiwxrTaGOhqrUyOxO"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 184233,
+      "name": "Monday Monday Monday",
+      "url": "https://open.spotify.com/track/7481d65jalWyqW7J42Q39k"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1515,70 +1595,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "towncryer",
-        "url": "https://open.spotify.com/album/78NnVni8Nz8nkXfnlKajjr"
-      },
-      "artists": [
-        {
-          "name": "untitled (halo)",
-          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
-        }
-      ],
-      "duration_ms": 396000,
-      "name": "oblique butterfly",
-      "url": "https://open.spotify.com/track/5dd9ebFTVkmdf0QH5DA6i9"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "shoelaces",
-        "url": "https://open.spotify.com/album/1iHBSEzbep9OWbgZaawGqh"
-      },
-      "artists": [
-        {
-          "name": "joey maxwell",
-          "url": "https://open.spotify.com/artist/24HpqK3rYuuJgdh2WkNtTq"
-        }
-      ],
-      "duration_ms": 179780,
-      "name": "shoelaces",
-      "url": "https://open.spotify.com/track/2cPndAZPxgZgXHPAT20xUE"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Greg Abbott's Maxi Pad",
-        "url": "https://open.spotify.com/album/5i4YyMtdpLfa9aMrszZL5D"
-      },
-      "artists": [
-        {
-          "name": "Farmer's Wife",
-          "url": "https://open.spotify.com/artist/01epJHd4z4JfvkUBWHD5Os"
-        }
-      ],
-      "duration_ms": 188138,
-      "name": "Greg Abbott's Maxi Pad",
-      "url": "https://open.spotify.com/track/21JwaGcxPE1KuAWgoasLL1"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "tapeworm / natural devotion 2",
-        "url": "https://open.spotify.com/album/4TJBJOEp2oEQnjz30ZECfO"
-      },
-      "artists": [
-        {
-          "name": "SPIRIT OF THE BEEHIVE",
-          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "natural devotion 2",
-      "url": "https://open.spotify.com/track/126S4GL29vBOGJBcgIIvBu"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "exit girl",
         "url": "https://open.spotify.com/album/39yddITr5Zid1HdG611km6"
       },
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Hang Up the Lights",
-        "url": "https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb"
-      },
-      "artists": [
-        {
-          "name": "White China",
-          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
-        }
-      ],
-      "duration_ms": 160437,
-      "name": "Hang Up The Lights",
-      "url": "https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Theatre",
         "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
       },
@@ -1639,22 +1639,6 @@
       "duration_ms": 179037,
       "name": "Theatre",
       "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Here Forever",
-        "url": "https://open.spotify.com/album/3gahadLXizRTaPjvdTDGKh"
-      },
-      "artists": [
-        {
-          "name": "buffchick",
-          "url": "https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn"
-        }
-      ],
-      "duration_ms": 140278,
-      "name": "Here Forever",
-      "url": "https://open.spotify.com/track/5cfMeTRIX6feTG6JOMCd3V"
     },
     {
       "added_at": "2024-03-01 05:00:00",

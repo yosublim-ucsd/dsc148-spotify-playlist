@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 54345,
+  "2024-03-23": 54383,
   "date_first_scraped": "2023-09-29",
   "description": "Laissez-moi plonger je suis m\u00e9decin !",
   "name": "Balec !",
@@ -1152,6 +1152,24 @@
     },
     {
       "album": {
+        "name": "MORE",
+        "url": "https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187699,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0"
+    },
+    {
+      "album": {
         "name": "Sticks And Stones",
         "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
       },
@@ -1815,7 +1833,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 192786,
       "name": "When Your Heart Stops Beating",
       "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"

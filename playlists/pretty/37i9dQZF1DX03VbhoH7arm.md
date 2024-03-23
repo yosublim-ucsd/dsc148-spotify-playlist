@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 
 > Grandes hits do BR e do 🌎  / Anitta, Brray, Bad Gyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,569,427 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,570,331 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Double Team](https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Double Team](https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V) | 3:51 |
 | 2 | [CAVALINHO](https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Gasparzinho](https://open.spotify.com/artist/2OhGFAwMFjVYGWXgUKgxQG) | [CAVALINHO](https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4) | 2:18 |
 | 3 | [Rolé na Favela de Nave](https://open.spotify.com/track/1m5nbZiPpCIi9J2irLNoxh) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Didi](https://open.spotify.com/artist/15bTpg6S948FjSiOhB7eXi), [Dj Lc da Roça](https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag), [MC Smith](https://open.spotify.com/artist/6OUIY1hXVxeiAw6K7rDerM), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Rolé na Favela de Nave](https://open.spotify.com/album/1m42RnQb6QKdchutofb4mH) | 3:12 |
-| 4 | [Mtg Quero Te Encontrar](https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c) | [DJ JZ](https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Mininin](https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE), [Silvanno Salles](https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B), [DJ LG PROD](https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA) | [Mtg Quero Te Encontrar](https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh) | 2:57 |
+| 4 | [Mtg Quero Te Encontrar](https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c) | [DJ JZ](https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Mininin](https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE), [DJ LG PROD](https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA), [Silvanno Salles](https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B) | [Mtg Quero Te Encontrar](https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh) | 2:57 |
 | 5 | [Perna Bamba](https://open.spotify.com/track/4o9xV6DC9CrWuT7HJ2eQpX) | [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Perna Bamba](https://open.spotify.com/album/3ZF2KGQ1nS7xSLkS3RNr4i) | 2:07 |
 | 6 | [recadin no espelho](https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [recadin no espelho](https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT) | 2:04 |
 | 7 | [RAM TCHUM](https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [RAM TCHUM](https://open.spotify.com/album/4Z5EJkqY3ZiXIux4noy34c) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 | 49 | [Não Para](https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9) | [Belle Kaffer](https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Charles New](https://open.spotify.com/artist/7CK5FIA9viaFGVnDnfbuw8) | [Não Para](https://open.spotify.com/album/4CijUEw802sAukzjveQ0Re) | 3:00 |
 | 50 | [Tá OK](https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK](https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp) | 1:32 |
 
-Snapshot ID: `MCw0MWQ4MDg0YzU3MzE3MDYzNjUyNWYwNDE5M2RhYjYxNjczZTZlYjQx`
+Snapshot ID: `MCw5ZDNmMWM4YzA3ZDU5NGJiY2JhN2MzMTE0NWJiZTA1MDQ5ZTU2ZDky`

@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 66368,
+  "num_followers": 66409,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2Y4NWM5MjE2NDJmNzMxZjFiY2NjMTdkYTkxNmJjZDhlZTllMzBm",
+  "snapshot_id": "MCw0ZTQzYTY3NjE2YzliZDI2NGQ3YTNlMTcxMTRlMGRmYmQ5MzRjNGQ4",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "Minimum",
-      "url": "https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Muchacho",
         "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 370200,
       "name": "Song for Zula",
       "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "Ancient Transition",
+        "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Our Remains",
+      "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "No Rain, No Rose",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 313078,
       "name": "I Am California",
       "url": "https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "Ancient Transition",
-        "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Our Remains",
-      "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Philharmonics",
-        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 228546,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 264320,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Philharmonics",
+        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Undercurrent",
-        "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Love Songs For Robots",
         "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 217606,
       "name": "Love Songs For Robots",
       "url": "https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C"
     },
     {
       "added_at": "2022-02-04 21:53:01",

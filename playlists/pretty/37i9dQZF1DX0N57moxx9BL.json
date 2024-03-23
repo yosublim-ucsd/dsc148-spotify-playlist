@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 146886,
+  "num_followers": 146928,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2M3YTdlZDI5OTEzODVlM2I2ZWE2MDNhOTNlMWRkOGVjZmQ4YTk4",
+  "snapshot_id": "MCw2MjBkNzJiMDZlYjM2MWU5ZjJlNzZkNzNmNzgzOWYzMDU4ODc1NmIw",
   "tracks": [
     {
       "added_at": "2023-11-17 22:08:15",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Kenotic Metanoia",
-        "url": "https://open.spotify.com/album/0yZGwoSScfeRA5dbZ6NGy3"
-      },
-      "artists": [
-        {
-          "name": "Lacey Sturm",
-          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "State of Me",
-      "url": "https://open.spotify.com/track/7rSW52PJGbeFMwIdk5kEmB"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
         "url": "https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 194721,
       "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
       "url": "https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Kenotic Metanoia",
+        "url": "https://open.spotify.com/album/0yZGwoSScfeRA5dbZ6NGy3"
+      },
+      "artists": [
+        {
+          "name": "Lacey Sturm",
+          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "State of Me",
+      "url": "https://open.spotify.com/track/7rSW52PJGbeFMwIdk5kEmB"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Eulogies",
-        "url": "https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU"
-      },
-      "artists": [
-        {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
-        }
-      ],
-      "duration_ms": 166575,
-      "name": "Weight of Glory",
-      "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Three Nails",
         "url": "https://open.spotify.com/album/544EtjtqYdmqkar16e8xtc"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 210511,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/5lb9lMxW4p4Wm0Ecdv8W7f"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Eulogies",
+        "url": "https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "duration_ms": 166575,
+      "name": "Weight of Glory",
+      "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Surviving The Wasteland",
-        "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
-      },
-      "artists": [
-        {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Surviving The Wasteland",
-      "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/0oCKybhWiSlHxy9V2YQlvk"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 166920,
       "name": "What Else You Got?",
       "url": "https://open.spotify.com/track/2d1feQVlJUOJBMhbxltBRO"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Surviving The Wasteland",
+        "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Surviving The Wasteland",
+      "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I"
-      },
-      "artists": [
-        {
-          "name": "House of Heroes",
-          "url": "https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB"
-        }
-      ],
-      "duration_ms": 200176,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Rhema",
         "url": "https://open.spotify.com/album/1UMemAsPkhn8gtMvv9nq9f"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 209128,
       "name": "No Altars",
       "url": "https://open.spotify.com/track/1ENnp7zs9kMq701EluEbKA"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I"
+      },
+      "artists": [
+        {
+          "name": "House of Heroes",
+          "url": "https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB"
+        }
+      ],
+      "duration_ms": 200176,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Faith Over Fear",
-        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Michaels",
-          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
-        }
-      ],
-      "duration_ms": 194298,
-      "name": "Faith Over Fear",
-      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/5L4XEDTwh2E0wTEW84oPMm"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 225490,
       "name": "Fear",
       "url": "https://open.spotify.com/track/1wadt2E2tdVBtijuvWykHz"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+        }
+      ],
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Into the Sea",
-        "url": "https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr"
-      },
-      "artists": [
-        {
-          "name": "Attalus",
-          "url": "https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ"
-        }
-      ],
-      "duration_ms": 245080,
-      "name": "Coming Clean",
-      "url": "https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 271159,
       "name": "Fear of Missing Out",
       "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Into the Sea",
+        "url": "https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr"
+      },
+      "artists": [
+        {
+          "name": "Attalus",
+          "url": "https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ"
+        }
+      ],
+      "duration_ms": 245080,
+      "name": "Coming Clean",
+      "url": "https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
-      },
-      "artists": [
-        {
-          "name": "Living Scars",
-          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
-        }
-      ],
-      "duration_ms": 253740,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Death Stare",
         "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Real Emotion",
-        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
       },
       "artists": [
         {
-          "name": "Paper Route",
-          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
+          "name": "Living Scars",
+          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
         }
       ],
-      "duration_ms": 254866,
-      "name": "Balconies",
-      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
+      "duration_ms": 253740,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1295,6 +1279,22 @@
       "duration_ms": 199933,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Real Emotion",
+        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
+      },
+      "artists": [
+        {
+          "name": "Paper Route",
+          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "Balconies",
+      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1331,22 +1331,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "No Fear In Love",
-        "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
+        "name": "Pariah",
+        "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
       "artists": [
         {
-          "name": "WorshipMob",
-          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
+          "name": "Glasslands",
+          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
         },
         {
-          "name": "White Flag",
-          "url": "https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg"
+          "name": "Ryan Kirby",
+          "url": "https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h"
         }
       ],
-      "duration_ms": 515318,
-      "name": "No Fear In Love",
-      "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
+      "duration_ms": 237522,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1383,38 +1383,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Pariah",
-        "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
+        "name": "No Fear In Love",
+        "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
       },
       "artists": [
         {
-          "name": "Glasslands",
-          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
+          "name": "WorshipMob",
+          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
         },
         {
-          "name": "Ryan Kirby",
-          "url": "https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h"
+          "name": "White Flag",
+          "url": "https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg"
         }
       ],
-      "duration_ms": 237522,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "I'm Only Dreaming",
-        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
-      },
-      "artists": [
-        {
-          "name": "Eisley",
-          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
-        }
-      ],
-      "duration_ms": 236969,
-      "name": "Louder Than a Lion",
-      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
+      "duration_ms": 515318,
+      "name": "No Fear In Love",
+      "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1435,6 +1419,22 @@
       "duration_ms": 369191,
       "name": "Salvation For 100%",
       "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "I'm Only Dreaming",
+        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
+      },
+      "artists": [
+        {
+          "name": "Eisley",
+          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
+        }
+      ],
+      "duration_ms": 236969,
+      "name": "Louder Than a Lion",
+      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
     },
     {
       "added_at": "2023-11-17 22:08:15",

@@ -2,9 +2,9 @@
 
 ### [es funk y el cuerpo lo sabe 🇧🇷](https://open.spotify.com/playlist/37i9dQZF1DXd96wQHeeDYo)
 
-> Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonitoooo Foto: KAROL G
+> Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonitoooo Foto: Anitta, Brrray, Bad Gyal
 
-92 songs - 4 hr 5 min
+93 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [CULPA](https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:35 | 2023-11-29 |  |
 | [CÓMO CHILLA ELLA](https://open.spotify.com/track/0W3TCDzYM7xFrZSaXnQvs4) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:14 | 2023-11-29 |  |
 | [DESCENDO E REBOLANDO](https://open.spotify.com/track/3pAITIfLPZ2QJJJhlzH3jO) | [mmedina](https://open.spotify.com/artist/4J5axD0Q4m933iNQbSrEQL), [17Beats](https://open.spotify.com/artist/3KVLe0uzCtCqJktfpCvLNZ) | [DESCENDO E REBOLANDO](https://open.spotify.com/album/7vFhdfy1URRddUhKHrW02G) | 2:36 | 2024-03-15 |  |
+| [Double Team](https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Double Team](https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V) | 3:51 | 2024-03-22 |  |
 | [ELEMENTO](https://open.spotify.com/track/5KOftKE33lf7qbp6nX58Bo) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz) | [ELEMENTO](https://open.spotify.com/album/0KlPB9P2HLb2EA03s8l9mB) | 2:29 | 2023-11-29 | 2024-03-16 |
 | [Eléctrica](https://open.spotify.com/track/63vtmiipQfllmqykpm6PyY) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:12 | 2023-11-29 |  |
 | [Esperanza](https://open.spotify.com/track/4wI8SWCSBNfg3YI4TGJbTC) | [Pema](https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D), [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A) | [Esperanza](https://open.spotify.com/album/57cjzCSClgmDTME2P20zRC) | 3:14 | 2024-03-15 |  |

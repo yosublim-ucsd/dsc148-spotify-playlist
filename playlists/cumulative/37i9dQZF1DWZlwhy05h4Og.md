@@ -4,7 +4,7 @@
 
 > The sweetest bops\. Cover: WENDY
 
-141 songs - 7 hr 6 min
+142 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [PANDORA](https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [PANDORA'S BOX](https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz) | 3:16 | 2023-03-22 |  |
 | [Paper Rings](https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:42 | 2023-03-29 |  |
 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 | 2023-07-26 | 2024-01-20 |
-| [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2023-10-27 |  |
+| [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2023-10-27 | 2024-03-23 |
 | [Piña Colada](https://open.spotify.com/track/165zBGOKD78nTRSVT3tYjh) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Piña Colada](https://open.spotify.com/album/3gpmO832AwEfy1t5MFceOE) | 3:05 | 2023-08-18 |  |
 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2023-03-22 |  |
 | [POPPY \- Japanese Ver.](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY \(Japanese Ver.\)](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) | 2:59 | 2023-03-22 | 2023-06-10 |
@@ -124,6 +124,7 @@
 | [SET ME FREE \(ENG\)](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-22 |  |
 | [SHOOTING STAR](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:23 | 2023-03-22 | 2023-07-01 |
 | [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 | 2023-03-22 |  |
+| [Smart \(English ver.\)](https://open.spotify.com/track/0Q8NdNYJUr07b2ZX4y8EXR) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Smart \(Remixes\)](https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh) | 2:46 | 2024-03-22 |  |
 | [SO WHAT](https://open.spotify.com/track/1kMGYdQmHWU8uiBo8h9yez) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [SO WHAT](https://open.spotify.com/album/3D6M63EmnCN1v4owYNnwFW) | 2:16 | 2023-03-22 | 2023-06-03 |
 | [SOLO](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) | 2:49 | 2023-03-22 | 2024-02-21 |
 | [Soñar \(Breaker\)](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) | 2:53 | 2023-12-08 |  |

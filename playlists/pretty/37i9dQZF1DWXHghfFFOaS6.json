@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 328372,
+  "num_followers": 328471,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTE3ZGRjYmNjMWM5NDFiMDg1MTRkMmUzNDhlM2QxY2U1YzMwNzgx",
+  "snapshot_id": "MCxkN2U4OTgyY2JkODNmZGQ3NzVmOTJiYmI1ZjI5YmY3OWI4NDgxNTk1",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "To The Sky (Remastered)",
-        "url": "https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj"
-      },
-      "artists": [
-        {
-          "name": "Black Mighty Orchestra",
-          "url": "https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI"
-        }
-      ],
-      "duration_ms": 196682,
-      "name": "Ocean Beach",
-      "url": "https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "urban lounge",
         "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Funkhaus Studio Sessions",
-        "url": "https://open.spotify.com/album/5LOoEv25jD7VHMcoaEcnbg"
+        "name": "To The Sky (Remastered)",
+        "url": "https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj"
       },
       "artists": [
         {
-          "name": "Jazzanova",
-          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+          "name": "Black Mighty Orchestra",
+          "url": "https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI"
         }
       ],
-      "duration_ms": 300186,
-      "name": "No Use - Funkhaus Sessions",
-      "url": "https://open.spotify.com/track/6QwMs7pvzxGhriqoy3ofHc"
+      "duration_ms": 196682,
+      "name": "Ocean Beach",
+      "url": "https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4"
     },
     {
       "added_at": "2022-07-18 17:17:22",
@@ -1343,6 +1327,22 @@
       "duration_ms": 256133,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Funkhaus Studio Sessions",
+        "url": "https://open.spotify.com/album/5LOoEv25jD7VHMcoaEcnbg"
+      },
+      "artists": [
+        {
+          "name": "Jazzanova",
+          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "No Use - Funkhaus Sessions",
+      "url": "https://open.spotify.com/track/6QwMs7pvzxGhriqoy3ofHc"
     },
     {
       "added_at": "2022-07-14 19:24:43",

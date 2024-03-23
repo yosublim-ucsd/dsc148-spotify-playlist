@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SaVGyZ9hsv.md) - [plain]
 
 > Congratulations to all the nominees for Best New Artist and the 2024 winner Victoria Monét!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,989 likes - 18 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,987 likes - 18 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SaVGyZ9hsv.md) - [plain]
 | 17 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 | 18 | [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 |
 
-Snapshot ID: `MCw3Y2M4YTM0ZTMxN2Q4OGU4ZWFiNzA1MTM0YjkyZGI2N2M4ZDVhMGFi`
+Snapshot ID: `MCwwMTU1ZTRjMTZkODEwZTQyYTY1ZWNlNWFjMjdhYWZkZGI1NjhlNGVl`

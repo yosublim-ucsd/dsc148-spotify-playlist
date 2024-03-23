@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: La Otra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,252 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,301 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,17 +51,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 41 | [Aquellas Pequeñas Cosas](https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 1:50 |
 | 42 | [Todo Cambia](https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [¿Será Posible El Sur?](https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj) | 4:44 |
 | 43 | [Siete Vidas](https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 4:02 |
-| 44 | [Estadio Azteca](https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 3:37 |
-| 45 | [Anoche Soñé Contigo](https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Logo](https://open.spotify.com/album/571r33emaklRI3YlPioelt) | 4:04 |
-| 46 | [Toda una Vida](https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Contigo En La Distancia](https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui) | 1:55 |
+| 44 | [Con Los Dos En La Cabeza](https://open.spotify.com/track/3YqdSVK0ZxdObTyLSWVjnn) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Con Los Dos En La Cabeza](https://open.spotify.com/album/6Y6bDQlBAnCaxOdPsBaYon) | 3:52 |
+| 45 | [Estadio Azteca](https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 3:37 |
+| 46 | [Anoche Soñé Contigo](https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Logo](https://open.spotify.com/album/571r33emaklRI3YlPioelt) | 4:04 |
 | 47 | [Querría](https://open.spotify.com/track/5Yf4Dxfo4cQK2WJtMrblr7) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [De Pana y Rubí](https://open.spotify.com/album/4Au1uBJOkLcsLf9WLWVif9) | 4:09 |
 | 48 | [El Sitio De Mi Recreo](https://open.spotify.com/track/0uWLyUK9WECq0nKz0DiA4A) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Oceano De Sol](https://open.spotify.com/album/0Bh08k9p3L0X9mUU3iDUyp) | 3:10 |
 | 49 | [Contigo](https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Yo, Mi, Me, Contigo](https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI) | 4:39 |
 | 50 | [La Puerta Violeta](https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:22 |
-| 51 | [Con Los Dos En La Cabeza](https://open.spotify.com/track/3YqdSVK0ZxdObTyLSWVjnn) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Con Los Dos En La Cabeza](https://open.spotify.com/album/6Y6bDQlBAnCaxOdPsBaYon) | 3:52 |
+| 51 | [Yo no soy esa](https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Escúchame](https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu) | 2:32 |
 | 52 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 |
-| 53 | [Yo no soy esa](https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Escúchame](https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu) | 2:32 |
-| 54 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 |
+| 53 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 |
+| 54 | [Toda una Vida](https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Contigo En La Distancia](https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui) | 1:55 |
 | 55 | [Humo](https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [50 Palos](https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB) | 3:05 |
 | 56 | [Unicornio](https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Unicornio](https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT) | 5:08 |
 | 57 | [No Se por Que Te Quiero](https://open.spotify.com/track/7GITdJq0WUdMk2NgHIDFFq) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Mirame](https://open.spotify.com/album/0kCoPtVjOcbKXsgBSaCmVs) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [Contigo](https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Contigo](https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ) | 4:54 |
 | 100 | [Qué bonito](https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Qué bonito](https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX) | 3:50 |
 
-Snapshot ID: `MCxiNDVjYWMyYTMzZWZiZjE2Njc4NWE4ZDU3MDY1N2M1MWQyMmUxZDFl`
+Snapshot ID: `MCxiNGEzZDZlNWJhMWQ0OTI3MDJhNjQ1MWQ3MWZkYTEwMjdkNWU4NWU1`

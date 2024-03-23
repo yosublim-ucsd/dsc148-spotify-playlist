@@ -4,7 +4,7 @@
 
 > Relaxing classical piano.
 
-96 songs - 6 hr 16 min
+97 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Liebeslied, S\. 566 \(After Schumann’s Widmung, Op\. 25 No\. 1\)](https://open.spotify.com/track/7KijjTN8CKMBWOiAPwsWbp) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Rudolf Buchbinder](https://open.spotify.com/artist/7bdwlNOPsycFColkPRlNxY) | [Soirée de Vienne](https://open.spotify.com/album/6jfqsh1cY9rpcXWwSyfONL) | 3:26 | 2022-11-25 |  |
 | [Lieder ohne Worte \(Songs without Words\), Book 2, Op\. 30: No\. 7 in E\-Flat Major, Op\. 30, No\. 1](https://open.spotify.com/track/00CXUMREit80f2McJsjcIz) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Péter Nagy](https://open.spotify.com/artist/4Hv8naKkLxWrfxkRMPz5bM) | [Mendelssohn, Felix: Songs Without Words, Vol\. 1](https://open.spotify.com/album/4oPL5qL3uEurG2nu1MsVwT) | 4:42 | 2021-12-06 |  |
 | [Lyric Pieces, Book 1, Op\. 12: I\. Arietta](https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Grieg: Piano Concerto; Lyric Pieces](https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n) | 1:25 | 2021-12-06 |  |
+| [Lyric Pieces, Book III, Op\. 43: No\. 5, Erotikon](https://open.spotify.com/track/4Fr1EjBybRVAeHyEW8xoXv) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Andrey Gugnin](https://open.spotify.com/artist/4xhMm2D1MNNpLdXKGd7CYe) | [Grieg: Lyric Pieces, Book III, Op\. 43: No\. 5, Erotikon](https://open.spotify.com/album/3sSsJvmJ2deZICQkB6Vrpe) | 3:44 | 2024-03-22 |  |
 | [Mahler / Transcr\. Tharaud: Symphony No\. 5 in C\-Sharp Minor, Pt\. 3: IV\. Adagietto](https://open.spotify.com/track/2wRDxGoCJWiWVNgjC8eHwJ) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Le Poète du piano](https://open.spotify.com/album/5e0hqGrjuazjIvaCNLGKVk) | 10:36 | 2021-12-06 | 2022-03-18 |
 | [Minuet in A major, D\. 334](https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 3:13 | 2021-12-06 |  |
 | [Montero: Adagio \(After Bach's Violin Concerto No\. 2, BWV 1042\)](https://open.spotify.com/track/1v3gGmcneK1QzYyBFiBXG0) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Gabriela Montero](https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr) | [Bach and Beyond](https://open.spotify.com/album/5IOSn5wePFXjdss00TdTe7) | 5:01 | 2022-01-17 |  |

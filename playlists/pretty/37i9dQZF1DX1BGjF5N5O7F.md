@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > sensual roots & indie folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,952 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,919 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 40 | [Forever](https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Forever](https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt) | 3:28 |
 | 41 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
 | 42 | [Wicked Game \- Live at Killkenny Arts Festival, Ireland, 2011](https://open.spotify.com/track/4aCkYwVrMbaXJkHzatneeh) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/4nQ38LqHw2CLMPysxTtfeK) | 4:31 |
-| 43 | [Tomb](https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 4:18 |
+| 43 | [Burn](https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 2:51 |
 | 44 | [Volcano](https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:38 |
-| 45 | [Burn](https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 2:51 |
+| 45 | [Tomb](https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 4:18 |
 | 46 | [Let Me Get There](https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Until the Hunter](https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU) | 7:30 |
 | 47 | [Nobody Loves Me Like You](https://open.spotify.com/track/21jx7ZJ9bH0xQugaPa1wG0) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [0](https://open.spotify.com/album/4G3ZBFg8MpTSDxDQ3m2BCb) | 5:55 |
-| 48 | [Last Night](https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 5:58 |
-| 49 | [Slow Mover](https://open.spotify.com/track/2lfr66vjbblfcA12mv0O9P) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Salt](https://open.spotify.com/album/2ALvcYeRWEyQ5CMh0OtMcY) | 3:10 |
+| 48 | [Slow Mover](https://open.spotify.com/track/2lfr66vjbblfcA12mv0O9P) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Salt](https://open.spotify.com/album/2ALvcYeRWEyQ5CMh0OtMcY) | 3:10 |
+| 49 | [Last Night](https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 5:58 |
 | 50 | [Never Tear Us Apart](https://open.spotify.com/track/5LfyeUdF28bljfTmVmD7gm) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Never Tear Us Apart](https://open.spotify.com/album/7jLRehwciXcJKo5IYeii8k) | 3:50 |
 
-Snapshot ID: `MCw3ODI5MzFlMDk0ZDU5OTNiZTJiOTU2YTFhMWJjNDZhOTA1NWE0MDVi`
+Snapshot ID: `MCxhMWY3YjNmZDdjNTMwNzM3MzhmYzFhN2JiMGIzOTA4Y2M1ZTBlY2U1`

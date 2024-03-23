@@ -4067,6 +4067,24 @@
     },
     {
       "album": {
+        "name": "EXIST",
+        "url": "https://open.spotify.com/album/2zTQjSM2dWS9k38inEYbbq"
+      },
+      "artists": [
+        {
+          "name": "Great Good Fine Ok",
+          "url": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212632,
+      "name": "Led Me to You",
+      "url": "https://open.spotify.com/track/59J9lAoSprTlkc05U4azSJ"
+    },
+    {
+      "album": {
         "name": "Let Love Surround You",
         "url": "https://open.spotify.com/album/2UgIk5RETm4f25Gl0VYCWt"
       },
@@ -5673,6 +5691,24 @@
     },
     {
       "album": {
+        "name": "Cortados (Edit)",
+        "url": "https://open.spotify.com/album/4TvhcQ8jpcSeWXcNMjlzG2"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Our Way - Edit",
+      "url": "https://open.spotify.com/track/4IC1Sx6gOC9PSx5EYJR8yi"
+    },
+    {
+      "album": {
         "name": "Simulcast",
         "url": "https://open.spotify.com/album/09kooFexe8JArV583iIkaj"
       },
@@ -7164,7 +7200,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 244202,
       "name": "Sunlight (feat. Years and Years) - Darius Remix",
       "url": "https://open.spotify.com/track/2FsGvAxjBVUCaFrm3uDmHV"
@@ -8698,7 +8734,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 234228,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/58K9hOJ2NmtcNywdFIy1AL"

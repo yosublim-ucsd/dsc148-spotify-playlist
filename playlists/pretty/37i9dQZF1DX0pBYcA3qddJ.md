@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,741 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,764 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 85 | [Lost at Sea](https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ) | 3:07 |
 | 86 | [Song Book: The Man I Love\. Slow and in singing style](https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frank Braley](https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl) | [Gershwin: Piano Works](https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU) | 2:25 |
 | 87 | [Johannes Brahms : Piano Trio No.1 in B Major, Op.8 \(Revised Version\) I\. Allegro con brio](https://open.spotify.com/track/6iWKc9Q1wEiHzohzaXcPCe) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [中村太地](https://open.spotify.com/artist/3NCVteZ4MxcZFZOHMBJIrQ), [辻󠄀本玲](https://open.spotify.com/artist/0uuUSlQkhniHDw2v3ziUHg), [佐藤卓史](https://open.spotify.com/artist/4KBVGFOgBM0fFaX5naFYr3) | [Johannes Brahms & Clara Schumann : Piano Trios](https://open.spotify.com/album/4q9E2QfI3TEwnyjXzUMSrN) | 14:20 |
-| 88 | [Nocturnes op.3](https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT) | 2:34 |
+| 88 | [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 |
 | 89 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 |
-| 90 | [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 |
+| 90 | [Nocturnes op.3](https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT) | 2:34 |
 | 91 | [City Lights](https://open.spotify.com/track/0VJAIkt9hYubij6WfLdxr0) | [katsuya mouri](https://open.spotify.com/artist/59aeG5GFkFLzdEzJEZ5yz2) | [City Lights](https://open.spotify.com/album/23ga5xwu3OEsKE6mfP66Yg) | 3:42 |
 | 92 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
 | 93 | [Útdautt lag](https://open.spotify.com/track/4c2ZfeVn6yfmRGG0Iox06s) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Útdautt lag](https://open.spotify.com/album/0oR164CmvsVSVENz3p5GK5) | 3:40 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 97 | [Piano Sonata No\. 14 in C\-Sharp Minor, Op\. 27 No\. 2 "Moonlight": I\. Adagio sostenuto](https://open.spotify.com/track/1I0lEXj5H3siZaa9300aqz) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Beethoven: Piano Sonata No\. 14 in C\-Sharp Minor, Op\. 27 No\. 2 "Moonlight": I\. Adagio sostenuto](https://open.spotify.com/album/5oFks9ZFUYBv8Ia3pkmtuX) | 5:23 |
 | 98 | [Laudate Dominum \(from Vespers, K\. 339\) \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [From Afar](https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll) | 4:57 |
 | 99 | [drip&trip](https://open.spotify.com/track/4OfEynGcmC1MPHT7XRMfS3) | [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW), [一服track](https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed) | [drip&trip](https://open.spotify.com/album/3ucbmnrGL2KCldRy3LZaVB) | 2:45 |
-| 100 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
+| 100 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2) | 3:39 |
 
-Snapshot ID: `MCw5NTUwYzQ2OWNjYTBlMDE2YWQ5ZGExYmNkMTJiNTQwMjI5MmVjZDM3`
+Snapshot ID: `MCwyZTgzOGY4NGQyN2UyNThlNGQxZjE1NzhjOTJiOWFlMWVmMjE5OTY2`

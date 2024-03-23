@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 820919,
+  "2024-03-23": 820913,
   "date_first_scraped": "2021-12-21",
   "description": "Is it your favorite oppa or dongsaeng? (Cover: xikers(\uc2f8\uc774\ucee4\uc2a4)) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 192240,
       "name": "BODY",
       "url": "https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5"
@@ -2955,7 +2955,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 208965,
       "name": "Fall In Love Again",
       "url": "https://open.spotify.com/track/7e2t41hCiR0sV4Lgv555v3"
@@ -5240,6 +5240,24 @@
     },
     {
       "album": {
+        "name": "Lonely Stars",
+        "url": "https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246120,
+      "name": "Lonely Stars (Korean Ver.)",
+      "url": "https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m"
+    },
+    {
+      "album": {
         "name": "Eyes On You",
         "url": "https://open.spotify.com/album/5aCJKuo69SGbveapvkSYMW"
       },
@@ -5449,7 +5467,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 167386,
       "name": "Love or Die",
       "url": "https://open.spotify.com/track/4mNYuIZVcHy6TUBoaCnGpF"
@@ -6383,6 +6401,24 @@
       "duration_ms": 187466,
       "name": "NANANA",
       "url": "https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ"
+    },
+    {
+      "album": {
+        "name": "THE BOYZ 2ND ALBUM [PHANTASY] Pt.3 Love Letter",
+        "url": "https://open.spotify.com/album/2DcHBijnoFP2tjuRGJ1L6F"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184373,
+      "name": "Nectar",
+      "url": "https://open.spotify.com/track/6MEtGumgTXWquxH35osvEC"
     },
     {
       "album": {
@@ -8608,6 +8644,24 @@
     },
     {
       "album": {
+        "name": "The knight who can't die and the silk cradle",
+        "url": "https://open.spotify.com/album/2AuUWIKUhxvxoD2gS7Z2mG"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248613,
+      "name": "The knight who can't die and the silk cradle",
+      "url": "https://open.spotify.com/track/7liPa1ogr6uKLBBfuKuCJh"
+    },
+    {
+      "album": {
         "name": "Villain : The End",
         "url": "https://open.spotify.com/album/1Qm9lf5OrCzl3x9trdVMhD"
       },
@@ -9153,7 +9207,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
@@ -9395,6 +9449,24 @@
       "duration_ms": 183293,
       "name": "We Go Up",
       "url": "https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW"
+    },
+    {
+      "album": {
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217067,
+      "name": "Welcome to the Show",
+      "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
     },
     {
       "album": {

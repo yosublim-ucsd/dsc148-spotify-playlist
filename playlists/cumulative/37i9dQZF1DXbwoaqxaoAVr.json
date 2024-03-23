@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 150320,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/7CgedTnm0Ehh8O1Iaa8OwM"
@@ -2338,6 +2338,24 @@
       "duration_ms": 239066,
       "name": "No Other Love (feat. Estelle)",
       "url": "https://open.spotify.com/track/0FsqhyyHNZJfK29IpHihMK"
+    },
+    {
+      "album": {
+        "name": "No Place Like Home",
+        "url": "https://open.spotify.com/album/1uJXAAzmPFrPsI3annAzNG"
+      },
+      "artists": [
+        {
+          "name": "Max Romeo",
+          "url": "https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294480,
+      "name": "No Place Like Home",
+      "url": "https://open.spotify.com/track/6uZ9H9olsQNKj4t0sw0M8T"
     },
     {
       "album": {
@@ -2914,6 +2932,24 @@
       "duration_ms": 185359,
       "name": "Soon Come",
       "url": "https://open.spotify.com/track/2FgAvIPnk7PEx8IGSpe3NF"
+    },
+    {
+      "album": {
+        "name": "Sunset Vibes",
+        "url": "https://open.spotify.com/album/2Uarc007On3dQRXg3SIxiW"
+      },
+      "artists": [
+        {
+          "name": "Pinky Dread",
+          "url": "https://open.spotify.com/artist/0Y876qrI6O3kItxH3ycwaQ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211031,
+      "name": "Sorry Seems to Be the Hardest Word",
+      "url": "https://open.spotify.com/track/5igaKt1NT2dLq2BGbKO1nz"
     },
     {
       "album": {
@@ -3572,7 +3608,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 213082,
       "name": "Ya Ya",
       "url": "https://open.spotify.com/track/30xQOGi9kqeGU24U0VIjG0"

@@ -2023,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "Tudo por Causa de um Grande Amor",
+        "url": "https://open.spotify.com/album/7Cf3DMZZ741h4SqMvQSoN4"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171394,
+      "name": "Isaias 53",
+      "url": "https://open.spotify.com/track/1Ar5adUxUwxmwkW7LgNOd4"
+    },
+    {
+      "album": {
         "name": "\u00danico (Live)",
         "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
       },
@@ -2946,7 +2964,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 339373,
       "name": "O Nazareno",
       "url": "https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z"

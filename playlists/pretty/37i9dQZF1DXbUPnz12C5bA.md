@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar\. Conmemorando la vida de Diomedes Díaz este 22 de Diciembre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,749 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,886 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 49 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 |
 | 50 | [Que No Se enteren](https://open.spotify.com/track/5T2P1coKuUoCwN6PR6ihF5) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [El Original](https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P) | 4:30 |
 
-Snapshot ID: `MCw5MmZjYzMyM2E2MGQ4NWM3ZTNlZWIwODJkODYyMTdjZmQ1ODg0YWI3`
+Snapshot ID: `MCxmNTg1YzY2ZDQwODExMGVhMTY3ZDEyNGI4ZWM1ZjJmOTViYTY1MTE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,791 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,811 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 30 | [美](https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [美](https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG) | 2:24 |
 | 31 | [Mojito](https://open.spotify.com/track/2RvetPNMoaOJbBo7FtCV0J) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 3:05 |
 | 32 | [心引力](https://open.spotify.com/track/57izWRQXkuKYpQ4RHNYi24) | [王俊凱](https://open.spotify.com/artist/0rVLyv4xouX9M4GCq3VuP5), [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [心引力](https://open.spotify.com/album/5oy4TAALay9YdGkPP292sS) | 4:17 |
-| 33 | [万有引力](https://open.spotify.com/track/7qZzCq7IxhKKZA4tIrYxxy) | [F\*yy](https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE) | [万有引力](https://open.spotify.com/album/55cnNNhAHp5JQx3fV8XqnX) | 4:03 |
-| 34 | [黏黏 \(feat\. 許瑋甯\)](https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [許瑋甯](https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:05 |
+| 33 | [黏黏 \(feat\. 許瑋甯\)](https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [許瑋甯](https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:05 |
+| 34 | [万有引力](https://open.spotify.com/track/7qZzCq7IxhKKZA4tIrYxxy) | [F\*yy](https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE) | [万有引力](https://open.spotify.com/album/55cnNNhAHp5JQx3fV8XqnX) | 4:03 |
 | 35 | [小时光](https://open.spotify.com/track/6R3HSoob9oDK60aNFDkOtE) | [胡期皓](https://open.spotify.com/artist/7LWH3zy213l4E37464t1CO) | [小时光](https://open.spotify.com/album/4JNSZfS5N1L2eXSkanU0Cu) | 2:35 |
 | 36 | [腦公](https://open.spotify.com/track/50ZM3drEKbAIKDfrbRYvX8) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 2:52 |
 | 37 | [Fall in Love](https://open.spotify.com/track/406KPQqXM4AQlT5KSmFcvG) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Fall in Love](https://open.spotify.com/album/0VVLT0MV0GlFNKLYjxmgP7) | 3:21 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 65 | [猜（电影《热辣滚烫》热辣心动曲）](https://open.spotify.com/track/58OKa3g5rRVpFer06Z1Ahw) | [希林娜依•高](https://open.spotify.com/artist/2BzEJybfRAL6DxCeYW2e7G) | [猜（电影《热辣滚烫》热辣心动曲）](https://open.spotify.com/album/5VWDiAI2suDaU34y5xnJsu) | 4:09 |
 | 66 | [心跳的证明](https://open.spotify.com/track/6bw3pxp4Pb5LYdRhpVKp6g) | [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [心跳的证明](https://open.spotify.com/album/6dejStq75Dg4p2u1LCQA7o) | 3:48 |
 | 67 | [我會很愛你](https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [我會很愛你](https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx) | 3:35 |
-| 68 | [海绵宝宝](https://open.spotify.com/track/71dfmgOUiooQLv7ty0utOO) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [海绵宝宝](https://open.spotify.com/album/5W7iavXoJXfMRL9rhTQWCi) | 3:18 |
-| 69 | [像是中了你的毒](https://open.spotify.com/track/3K9ZM3USNMJOLjJ2xBz6iE) | [Ginger](https://open.spotify.com/artist/4jD5dWcrFo81LgODawZv5k) | [像是中了你的毒](https://open.spotify.com/album/6wKMx1vYfKxc9qa4STUAeA) | 2:54 |
+| 68 | [像是中了你的毒](https://open.spotify.com/track/3K9ZM3USNMJOLjJ2xBz6iE) | [Ginger](https://open.spotify.com/artist/4jD5dWcrFo81LgODawZv5k) | [像是中了你的毒](https://open.spotify.com/album/6wKMx1vYfKxc9qa4STUAeA) | 2:54 |
+| 69 | [海绵宝宝](https://open.spotify.com/track/71dfmgOUiooQLv7ty0utOO) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [海绵宝宝](https://open.spotify.com/album/5W7iavXoJXfMRL9rhTQWCi) | 3:18 |
 | 70 | [氧化氢](https://open.spotify.com/track/2D4N00Ouvj4GxUEsE6ht0B) | [李尖尖](https://open.spotify.com/artist/6Vn7mFBllddgTwUeGDXKVs) | [氧化氢](https://open.spotify.com/album/21ZxcTSff8GoFutdIzzCoL) | 2:15 |
 | 71 | [美丽的妳](https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D), [Caven Tang](https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF) | [美丽的妳](https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC) | 3:09 |
 | 72 | [等著你，夢著你 \- 影集《美食無間》插曲](https://open.spotify.com/track/333r96VxBYJVGrn4XWJauE) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [等著你，夢著你 \(影集《美食無間》插曲\)](https://open.spotify.com/album/2OS0vHafdJcPPGSruzlV7Y) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 74 | [一整个爱住你](https://open.spotify.com/track/7qS8UCNhleIWbdiPVntVNm) | [陈一彤](https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d) | [一整个爱住你](https://open.spotify.com/album/1dSG6cHr8dCZCLzVvpWmDt) | 3:27 |
 | 75 | [給你意外的甜](https://open.spotify.com/track/1GAG6OIPYa02KAUWBfuByF) | [蔡明仁](https://open.spotify.com/artist/1v2EIlY1RxGD5b6eYNcyBo) | [給你意外的甜](https://open.spotify.com/album/0nFrWgXz7YP94HOu37UUEO) | 4:06 |
 
-Snapshot ID: `MCxlMzI5MThiOGQ0ZGYwMjk5MDU0NjE0ODdiYzE0ZGZiMmJjN2ZlZTRj`
+Snapshot ID: `MCxjODg4YTJkNDk2Yjg1MTc2OGE5M2QwOWY2NzUzMDFkYjM5YjhkZDdh`

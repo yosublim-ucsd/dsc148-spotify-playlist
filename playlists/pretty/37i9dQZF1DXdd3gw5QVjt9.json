@@ -1,12 +1,12 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1184324,
+  "num_followers": 1184317,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGRjYjMzYmI5ODlhNDBjZmM2ZTkyNmJmYzZkYjRlMzg5NThkYjli",
+  "snapshot_id": "MCw2NmVmZjg1ZTA4ZTdiOTZmMTI4Zjg5OTE3NjRjZDAyMTFhMzZmNDdl",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Celeste EP",
-        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
-      },
-      "artists": [
-        {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
-        }
-      ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 198026,
       "name": "Like Real People Do",
       "url": "https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Celeste EP",
+        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
+      },
+      "artists": [
+        {
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+        }
+      ],
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 188982,
-      "name": "Cinnamon Bread",
-      "url": "https://open.spotify.com/track/5mo3EVm7FmmqRnLg2ipBGN"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Nina Cried Power - EP",
         "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 300706,
       "name": "Shrike",
       "url": "https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 188982,
+      "name": "Cinnamon Bread",
+      "url": "https://open.spotify.com/track/5mo3EVm7FmmqRnLg2ipBGN"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Oh Ohio",
-        "url": "https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 178106,
-      "name": "Oh Ohio",
-      "url": "https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/082rp6GZPVNdrzmCGppvuW"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 243973,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Oh Ohio",
+        "url": "https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 178106,
+      "name": "Oh Ohio",
+      "url": "https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl"
     },
     {
       "added_at": "2023-10-27 04:00:00",

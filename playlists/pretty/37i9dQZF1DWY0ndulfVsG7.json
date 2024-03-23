@@ -1,12 +1,12 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Geisha",
-  "num_followers": 52202,
+  "num_followers": 52242,
   "original_name": "Jiran Akrab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjg1NjM3Y2IwYzk0N2RiNDFkNjJhYWFjYWI5NzliOWM5ZjdmN2Y1",
+  "snapshot_id": "MCxhNGQ2NjAyYzExYjBlZDJiNzJhNjMzNTM3NDVkYmVjYjQ4YjA3ZDNl",
   "tracks": [
     {
       "added_at": "2024-01-12 06:34:07",
@@ -711,18 +711,22 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Taman Langit",
-        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
+        "name": "Seluruh Cinta",
+        "url": "https://open.spotify.com/album/0aAj6CHe9yPHglz0e0H2sW"
       },
       "artists": [
         {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+          "name": "Cakra Khan",
+          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
+        },
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
         }
       ],
-      "duration_ms": 199138,
-      "name": "Yang Terdalam",
-      "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
+      "duration_ms": 250920,
+      "name": "Seluruh Cinta",
+      "url": "https://open.spotify.com/track/2FKvy1aWWazofWPRD9nNnP"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -743,18 +747,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI"
+        "name": "Taman Langit",
+        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
       },
       "artists": [
         {
-          "name": "Once Mekel",
-          "url": "https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE"
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
         }
       ],
-      "duration_ms": 264853,
-      "name": "Dealova",
-      "url": "https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi"
+      "duration_ms": 199138,
+      "name": "Yang Terdalam",
+      "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -775,22 +779,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Seluruh Cinta",
-        "url": "https://open.spotify.com/album/0aAj6CHe9yPHglz0e0H2sW"
+        "name": "Once",
+        "url": "https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI"
       },
       "artists": [
         {
-          "name": "Cakra Khan",
-          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
-        },
-        {
-          "name": "Dato' Sri Siti Nurhaliza",
-          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+          "name": "Once Mekel",
+          "url": "https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE"
         }
       ],
-      "duration_ms": 250920,
-      "name": "Seluruh Cinta",
-      "url": "https://open.spotify.com/track/2FKvy1aWWazofWPRD9nNnP"
+      "duration_ms": 264853,
+      "name": "Dealova",
+      "url": "https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi"
     },
     {
       "added_at": "2024-01-12 06:34:07",

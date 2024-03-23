@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner.
 
-371 songs - 1 day 0 hr 4 min
+372 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Feelings](https://open.spotify.com/track/02dMF381tQaidG17In1Tt2) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [Travelin' In Heavy Traffic](https://open.spotify.com/album/4XZbP8SrKj0dyxt4Lbxrde) | 6:01 | 2023-01-09 | 2023-06-28 |
 | [Fell In Love With A Boy](https://open.spotify.com/track/4FEAmHZ3UXRAzP5354CErS) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Best Of Joss Stone 2003 \- 2009](https://open.spotify.com/album/6Z8HL0drVRDIGrqIrSM1Ad) | 3:39 | 2023-06-27 |  |
 | [Fool](https://open.spotify.com/track/6eHnPw5KKP151NTRtIZhfc) | [Al Matthews](https://open.spotify.com/artist/0BZWNS1lyxj4BBsLN2BUY9) | [The Masters Series: 70's Soul Vol\. 2](https://open.spotify.com/album/5e1K2tC5jjyUuJk9zWiOHN) | 3:41 | 2023-01-09 | 2023-06-28 |
-| [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 | 2023-01-09 |  |
+| [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 | 2023-01-09 | 2024-03-23 |
 | [For the Love of You, Pts\. 1 & 2](https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:37 | 2023-01-09 | 2023-06-28 |
 | [Freddie's Dead](https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:29 | 2023-01-09 | 2023-06-28 |
 | [Free](https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Love Songs](https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg) | 5:56 | 2023-06-27 |  |
@@ -177,7 +177,7 @@
 | [Inspiration Information](https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Inspiration Information/ Wings Of Love](https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S) | 4:12 | 2023-06-27 |  |
 | [It Seems To Hang On \- Single Version](https://open.spotify.com/track/1j6Zoilc4AQFqcC7JPPUvO) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi) | [The Best of Ashford & Simpson](https://open.spotify.com/album/3YkK371EOh3Rs7sroGUYxv) | 3:39 | 2023-01-09 | 2023-06-28 |
 | [It's A Shame](https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [2nd Time Around \(Expanded Edition\)](https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG) | 3:10 | 2023-01-09 |  |
-| [It's All Over Your Body](https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End](https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW) | 5:29 | 2023-08-15 | 2024-03-02 |
+| [It's All Over Your Body](https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End](https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW) | 5:29 | 2023-08-15 |  |
 | [It's Love](https://open.spotify.com/track/2U7X7mPD4wSp0capCGfpmM) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 5:54 | 2023-06-27 |  |
 | [I’m So Glad \(Part 1\)](https://open.spotify.com/track/1IibRWHZZj3piR7fHM1wyd) | [Brian Holland](https://open.spotify.com/artist/4XPpkQyvnxglukLPiqL3bp) | [Love And Beauty…plus \(The Complete Invictus Masters\)](https://open.spotify.com/album/4vnnYkH9s4srcV5hHImJqh) | 3:59 | 2023-01-09 | 2023-06-28 |
 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU) | 2:30 | 2023-06-27 |  |
@@ -195,6 +195,7 @@
 | [Let Me Down Easy \- Remastered 2022](https://open.spotify.com/track/6XNXgwoz0bYMWt1VIAuSmH) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Let Me Down Easy: Bettye LaVette In Memphis \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/6U3CYjgNkTs2EUnQ30favQ) | 2:52 | 2023-08-15 | 2023-12-30 |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2023-01-09 |  |
 | [Let's Take a Walk](https://open.spotify.com/track/7izNjJmJNskhSEFGMUacfl) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB) | 2:28 | 2023-06-27 |  |
+| [Lift My Blues](https://open.spotify.com/track/0OKGYoLV41gGrNyfNpWlsa) | [Sherry Dyanne](https://open.spotify.com/artist/2JACl2MnidXPb6QeRrsaVB) | [Sing Me a Song](https://open.spotify.com/album/0N6sFugBivjG1IEUlriDHN) | 4:04 | 2023-08-15 |  |
 | [Like a Ship](https://open.spotify.com/track/4Oq0AUVncfWa2rD0idz6oV) | [Pastor T.L\. Barrett and the Youth for Christ Choir](https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA) | [Like a Ship \(Without a Sail\)](https://open.spotify.com/album/3NbIhR8hfscuwmD7MWBXpz) | 4:38 | 2023-06-27 |  |
 | [Little Bit of Feel Good](https://open.spotify.com/track/28jg9LDVwisxGNGN8Wl2UD) | [Jamie Lidell](https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI) | [Jim](https://open.spotify.com/album/1tLJLTMFumKOyXQ9Cwnb0g) | 4:02 | 2023-06-27 |  |
 | [Long Weekend](https://open.spotify.com/track/0BLyr2LI3CJACYcP6xbFMY) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Say That To Say This](https://open.spotify.com/album/2cyzBFOHQep4sOuKHpTaBq) | 4:07 | 2023-06-27 | 2024-02-08 |
@@ -302,7 +303,7 @@
 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 | 2023-06-27 |  |
 | [Street Life \- Single Edit](https://open.spotify.com/track/6Llr9PVC1cirKUwu7Fle83) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [Gold](https://open.spotify.com/album/49oDv0OMQgI3bZvY5AshBQ) | 5:32 | 2023-01-09 | 2023-06-28 |
 | [Supernatural Thing, Pt\. 1](https://open.spotify.com/track/62dhSmROhppvuWyeCeC730) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Supernatural Thing](https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD) | 4:11 | 2023-01-09 | 2023-06-28 |
-| [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 | 2023-01-09 |  |
+| [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 | 2023-01-09 | 2024-03-23 |
 | [Superwoman \- Edit](https://open.spotify.com/track/5iUGRvlnBtz9D1rmR3Sc9x) | [Karyn White](https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F) | [Love Jams Volume Two](https://open.spotify.com/album/5VsuiqM0wEpysi8KctGdEG) | 4:32 | 2023-01-09 | 2023-06-28 |
 | [Sweet Baby](https://open.spotify.com/track/38705PDjZZVeWxfTRsTlJr) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05), [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [The Clarke/Duke Project](https://open.spotify.com/album/0epO2c4fFaUPdcIdqIAtOI) | 3:47 | 2023-01-09 | 2023-06-28 |
 | [Sweet Love](https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Sweet Love](https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD) | 4:22 | 2023-01-09 | 2023-06-28 |

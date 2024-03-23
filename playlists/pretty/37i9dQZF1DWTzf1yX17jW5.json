@@ -1,12 +1,12 @@
 {
   "description": "Our editor\u2019s picks for best Jersey Club songs of the year. Cover: kanii",
-  "num_followers": 7909,
+  "num_followers": 7924,
   "original_name": "Jersey Club Heat Presents Best Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGFhNWYxMzMwZmIxZDFjODljMDkwNTc0YzBiMTkwZjEyNjdiMDRk",
+  "snapshot_id": "MCxmZDA2MTczN2VmYjQ1NjIxZmVkYTMyMjA5ZTExMTUyYTlhZTY1NzIx",
   "tracks": [
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/5giY2G75GmuOICcyhxk2iG"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 135831,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/2tcpUWETIBdjfXCHd8AsAm"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "Stuck With You But I Like It",
         "url": "https://open.spotify.com/album/3zggNDtiAUq04EhX6gF3Vo"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 178164,
       "name": "Running Back",
       "url": "https://open.spotify.com/track/6zwvwHMmXy9zCzNBR3FHwB"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "Pretty Girl",
-        "url": "https://open.spotify.com/album/5giY2G75GmuOICcyhxk2iG"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 135831,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/2tcpUWETIBdjfXCHd8AsAm"
     },
     {
       "added_at": "2023-12-01 14:44:59",

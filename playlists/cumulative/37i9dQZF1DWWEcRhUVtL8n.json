@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "New and approved indie pop. Cover: Lava La Rue",
+  "description": "New and approved indie pop. Cover: Empress Of",
   "name": "Indie Pop",
   "tracks": [
     {
@@ -5509,6 +5509,24 @@
     },
     {
       "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243952,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
+    },
+    {
+      "album": {
         "name": "Classic",
         "url": "https://open.spotify.com/album/2PYKaf5p9Ot4IHx2MFkWUh"
       },
@@ -5808,7 +5826,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 170899,
       "name": "Collateral Damage",
       "url": "https://open.spotify.com/track/32G0XbpBnYGUhUdkOp8tJh"
@@ -11235,6 +11253,24 @@
     },
     {
       "album": {
+        "name": "Real Power",
+        "url": "https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175117,
+      "name": "Give It Up For Love",
+      "url": "https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI"
+    },
+    {
+      "album": {
         "name": "Give Mama A Hug",
         "url": "https://open.spotify.com/album/0Got69C44jINtFiu9cNvBy"
       },
@@ -14422,7 +14458,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 148533,
       "name": "i wanna be your right hand",
       "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
@@ -15438,7 +15474,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 209787,
       "name": "Into Your Room",
       "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
@@ -15460,7 +15496,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 211235,
       "name": "Into Your Room (with MUNA)",
       "url": "https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo"
@@ -15864,7 +15900,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 266400,
       "name": "James Dean",
       "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
@@ -16748,7 +16784,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 176861,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/1kRi2A08loSg8oZmHbvxWG"
@@ -17668,6 +17704,24 @@
       "duration_ms": 178617,
       "name": "Looking For Somebody (To Love)",
       "url": "https://open.spotify.com/track/0eNfURq0r0oNSwFyw1VuVT"
+    },
+    {
+      "album": {
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ"
     },
     {
       "album": {
@@ -21424,6 +21478,24 @@
       "duration_ms": 244368,
       "name": "Oh, But Lover",
       "url": "https://open.spotify.com/track/3bHeVMbA84wmuHr5p2POrp"
+    },
+    {
+      "album": {
+        "name": "Oh, Gemini",
+        "url": "https://open.spotify.com/album/1REr4nKLgAAe1GoKIDG2c9"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164971,
+      "name": "Oh, Gemini",
+      "url": "https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh"
     },
     {
       "album": {
@@ -25733,6 +25805,24 @@
     },
     {
       "album": {
+        "name": "Shotput",
+        "url": "https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170698,
+      "name": "Shotput",
+      "url": "https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh"
+    },
+    {
+      "album": {
         "name": "should i get my ears pierced?",
         "url": "https://open.spotify.com/album/7DNALWifdczn56CQ0IrAa9"
       },
@@ -26329,6 +26419,24 @@
     },
     {
       "album": {
+        "name": "So Sick Of Dreaming",
+        "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232080,
+      "name": "So Sick Of Dreaming",
+      "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
+    },
+    {
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/6i3ypMIWdzE0YeFHw84Yh9"
       },
@@ -26464,6 +26572,24 @@
       "duration_ms": 169386,
       "name": "Some Things You\u2019ll Never Know",
       "url": "https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b"
+    },
+    {
+      "album": {
+        "name": "Some Type Of Skin",
+        "url": "https://open.spotify.com/album/4kfH7Wzr6p646dTIulVQQS"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192573,
+      "name": "Some Type Of Skin",
+      "url": "https://open.spotify.com/track/5CguvtN2MvxSmtSR23UNOd"
     },
     {
       "album": {
@@ -30752,7 +30878,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"

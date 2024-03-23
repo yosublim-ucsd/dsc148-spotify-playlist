@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Helena Deland
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,005 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,019 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 99 | [Misnomer](https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:43 |
 | 100 | [Rising Sun](https://open.spotify.com/track/7vlCerwYf78YVK23WdN2qu) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Know Your Mind](https://open.spotify.com/album/0T1lAytyrT0Qkb7qfdQgaX) | 3:22 |
 
-Snapshot ID: `MCxlZDNmYjEzNTNlMWEwN2M2ZTA2YzJjNWJlZjM5YmU0MmVkOTBlNmIy`
+Snapshot ID: `MCwxZTY2YTE4Yjk0NDVmZGVmMWJlNTJkMzk1MTNkOWNkNTIxYjhmOTc0`

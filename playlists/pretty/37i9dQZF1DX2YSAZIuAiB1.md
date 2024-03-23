@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Good Vibes only mit Latin, Afrobeats, Hip\-Hop und mehr 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,945 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,009 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 69 | [Kissing Strangers](https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:08 |
 | 70 | [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 |
 
-Snapshot ID: `MCw2MmQyNzNhZjk4ZjI5YzRjMTIxYTQ1MTlmZDc4MzI5OWQyMzczNDFh`
+Snapshot ID: `MCxjOTg0NGY3OTg5NmU3NDRiODI1ZmNmMGU1MTU3YjVhMDk5ZWU4MDQz`

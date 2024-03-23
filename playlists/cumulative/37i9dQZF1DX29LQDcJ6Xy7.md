@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-210 songs - 14 hr 58 min
+211 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Drug Against War](https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Angst](https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY) | 3:35 | 2022-08-12 |  |
 | [A Lovely Day \- Combichrist Remix](https://open.spotify.com/track/11uHy5357PCMtPosATQtJr) | [Pure Obsessions & Red Nights](https://open.spotify.com/artist/6m9fysdVTyH0KxNhG3DDaT), [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [A Lovely Day \(Combichrist Remix\)](https://open.spotify.com/album/1htenv8mn6GSc3ONcORknK) | 6:16 | 2022-07-01 | 2022-07-29 |
 | [A Matter of Time](https://open.spotify.com/track/2evoS3lDuKhiTACNU8T3ny) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [A Matter of Time](https://open.spotify.com/album/13YojjYoqTGSmHASOXUUra) | 6:02 | 2022-07-01 | 2022-07-29 |
-| [A Matter of Time](https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 6:02 | 2022-10-21 | 2024-03-22 |
+| [A Matter of Time](https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 6:02 | 2022-10-21 |  |
 | [A Violent Reaction](https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk) | [American Head Charge](https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau) | [The War Of Art](https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl) | 4:12 | 2022-07-01 |  |
 | [After the Flesh](https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 2:59 | 2022-08-12 |  |
 | [Alert Level \(Quarantined Mix\)](https://open.spotify.com/track/5qR6Na1PE0Q2s0i2nkvmER) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Alert Level \(Quarantined Mix\)](https://open.spotify.com/album/05hx91BgMBOcBKxR0QdwmZ) | 6:06 | 2022-07-01 | 2022-07-29 |
@@ -71,7 +71,7 @@
 | [End Of The Line](https://open.spotify.com/track/25gdaVFJL17lx7sysc8Pul) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Rebirth](https://open.spotify.com/album/0KNQf80HEtQ4EXQKg0MSD6) | 4:03 | 2023-07-14 |  |
 | [End Of The Line](https://open.spotify.com/track/7sOtLB5pwbLOa74X8g8BjK) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Rebirth](https://open.spotify.com/album/1CThwFm5smJHLmHflckMkD) | 4:03 | 2022-07-01 | 2023-07-10 |
 | [Endzeit](https://open.spotify.com/track/3YwmrqN6NMxPL5HyjojEOi) | [Schwarzer Engel](https://open.spotify.com/artist/15g7I4KWNHNSPdcCtm6dpk) | [Sieben](https://open.spotify.com/album/3nnX9wWAHFLYun9ylDAhUJ) | 4:10 | 2022-07-01 | 2022-10-12 |
-| [Enough](https://open.spotify.com/track/4D4wh1GyvA4gSxBN7e7ysN) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:16 | 2024-01-30 |  |
+| [Enough](https://open.spotify.com/track/4D4wh1GyvA4gSxBN7e7ysN) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:16 | 2024-01-30 | 2024-03-23 |
 | [Every Day Is Exactly The Same](https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 4:54 | 2022-08-12 |  |
 | [Extinction](https://open.spotify.com/track/6JqvqbDADxVZ8Ld9SWt1Ia) | [Erik Ekholm](https://open.spotify.com/artist/2ILC8RBzrhyAE3MPfBe9sQ), [Morbid Fears](https://open.spotify.com/artist/5mFOd8Ia2DMdXesbZkuFqU) | [Hellwalker](https://open.spotify.com/album/4wiwsQ8xxJk84cLzLXB2ap) | 4:03 | 2022-07-01 | 2022-11-27 |
 | [Extinction](https://open.spotify.com/track/6lMYWulkz9tC1OR9xHiE9Q) | [Erik Ekholm](https://open.spotify.com/artist/2ILC8RBzrhyAE3MPfBe9sQ), [Morbid Fears](https://open.spotify.com/artist/5mFOd8Ia2DMdXesbZkuFqU) | [Extinction](https://open.spotify.com/album/1mo22GWeScTlVGNJv9D8UH) | 4:03 | 2022-07-01 | 2022-07-29 |
@@ -83,7 +83,8 @@
 | [For the Beaten](https://open.spotify.com/track/6JcSvWld739CV14RqZyt9u) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [For the Beaten](https://open.spotify.com/album/4uiRHyMCLnJvQ09oMIha5T) | 3:31 | 2022-10-14 | 2023-06-30 |
 | [Genius](https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51) | [Pitchshifter](https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i) | [www.pitchshifter.com](https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun) | 4:06 | 2022-07-01 |  |
 | [God's Creatures \- Jimmy Urine Remix](https://open.spotify.com/track/0oMC1XzzCa9IGFXMiUp9WW) | [Pure Obsessions & Red Nights](https://open.spotify.com/artist/6m9fysdVTyH0KxNhG3DDaT), [Jimmy Urine](https://open.spotify.com/artist/6eKPGZXPzhW8SOu8RoAQKl) | [God's Creatures \(Jimmy Urine Remix\)](https://open.spotify.com/album/4fVmiwKxtTJVNZaQV2O2LN) | 4:44 | 2022-07-01 | 2022-07-27 |
-| [Goddamn White Trash](https://open.spotify.com/track/0JqtLoPU1i47itdwKRg2Zo) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Goddamn White Trash](https://open.spotify.com/album/2cpZVQFBguPlaCoQMQcOh6) | 4:43 | 2023-11-14 |  |
+| [Goddamn White Trash](https://open.spotify.com/track/0JqtLoPU1i47itdwKRg2Zo) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Goddamn White Trash](https://open.spotify.com/album/2cpZVQFBguPlaCoQMQcOh6) | 4:43 | 2023-11-14 | 2024-03-23 |
+| [Goddamn White Trash](https://open.spotify.com/track/5Pw0WYcFMkMnnQsII5nMOe) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [HOPIUMFORTHEMASSES](https://open.spotify.com/album/04Z322o7T5mwSnFVtUGAaV) | 4:43 | 2024-01-30 |  |
 | [Golgotha Tenement Blues](https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol) | [Machines Of Loving Grace](https://open.spotify.com/artist/7p8Z7MmqMYCa7ZKQKxRBKO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:00 | 2022-08-12 |  |
 | [Guilty](https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:02 | 2022-07-01 |  |
 | [Hate Like Me](https://open.spotify.com/track/51GIPw8fk0mEg63IEnVHcs) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [One Fire](https://open.spotify.com/album/7AxB5F98Vr647vnLNtbYrR) | 4:15 | 2022-12-01 |  |

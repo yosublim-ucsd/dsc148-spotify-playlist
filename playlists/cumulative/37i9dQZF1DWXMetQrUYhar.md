@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-257 songs - 15 hr 53 min
+258 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Always Be My Baby \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Spotify Singles](https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie) | 4:14 | 2021-10-27 |  |
 | [Bambi \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/47evLuPUpZPpfUzdlt0Xnb) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Spotify Singles](https://open.spotify.com/album/3R31GRbf0XVpBTfIzpkBHa) | 3:22 | 2021-10-27 | 2022-07-29 |
 | [Bambi \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4yiYXXfIPwb4u6gdvLNhCv) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Spotify Singles](https://open.spotify.com/album/1ghdZvVVCMbTkf6BDsEg78) | 3:22 | 2022-03-30 |  |
-| [Be Sweet \- Spotify Singles](https://open.spotify.com/track/4oObZd0IEcMNcmVLwpeeTo) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:14 | 2023-01-11 |  |
+| [Be Sweet \- Spotify Singles](https://open.spotify.com/track/4oObZd0IEcMNcmVLwpeeTo) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:14 | 2023-01-11 | 2024-03-23 |
 | [Believe \- Spotify Singles](https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 4:08 | 2023-01-11 |  |
 | [Bike Dream \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4RG0sBO0bb7Ddkdg8rF2vE) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Spotify Singles](https://open.spotify.com/album/2awjquCIUPcDdcWaBWcEnY) | 3:57 | 2021-10-27 | 2023-06-03 |
 | [Bittersweet Symphony \- Jim Eno Sessions](https://open.spotify.com/track/0Bi1yywe4x2EpWgcuCZ1Hb) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Spotify Singles](https://open.spotify.com/album/0nuevVEmgZ7meuFGnFn5AA) | 5:23 | 2022-03-30 |  |
@@ -70,6 +70,7 @@
 | [Everything Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Spotify Singles](https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz) | 5:37 | 2021-10-27 |  |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 | 2023-01-11 |  |
 | [f\*ck everything! \- Spotify Singles \(feat\. The Drums\)](https://open.spotify.com/track/3oE4zL430c18NuiRWDHRLY) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [f\*ck everything! \- Spotify Singles \(feat\. The Drums\)](https://open.spotify.com/album/4pH6JKPaFwEyuSfw6IPEQ8) | 3:01 | 2021-10-27 | 2024-03-22 |
+| [f\*ck everything! \- Spotify Singles \(feat\. The Drums\)](https://open.spotify.com/track/76MRnkmmdb86BioWnUCsEI) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [f\*ck everything! \- Spotify Singles \(feat\. The Drums\)](https://open.spotify.com/album/0JK7dsEDgSM5KYY1FOD8zx) | 3:01 | 2023-01-11 |  |
 | [Face Like Thunder](https://open.spotify.com/track/5kw9jb88rFkh8F5vFkAI9l) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Single Sessions](https://open.spotify.com/album/5CQZHRx66NBFLheNYh1XGM) | 4:14 | 2021-10-27 | 2022-07-29 |
 | [Face Like Thunder \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0OKn9iHjJ8ZNfCRff1mLJA) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 4:14 | 2022-03-30 | 2023-01-12 |
 | [Feel It Still \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 2:49 | 2021-10-27 |  |

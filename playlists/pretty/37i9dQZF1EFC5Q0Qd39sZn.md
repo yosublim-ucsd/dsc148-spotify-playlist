@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,625 likes - 508 songs - 1 day 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,626 likes - 508 songs - 1 day 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,8 +171,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 161 | [I'm Still Breathing](https://open.spotify.com/track/7r3ZDv5CoIvWH0fDWMizJQ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Heat](https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi) | 4:15 |
 | 162 | [I Am](https://open.spotify.com/track/25Pvx66yRLQ6mfwQAEzY2D) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Hilary Duff](https://open.spotify.com/album/3PkUFix54f7aKr6Jbqnsom) | 3:43 |
 | 163 | [I'll Fight \- From "RBG" Soundtrack](https://open.spotify.com/track/7ELxtyrasiOfwsRUJiEMGR) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I'll Fight \(From "RBG" Soundtrack\)](https://open.spotify.com/album/4xUSPYluy7p9aYTobDT3du) | 3:19 |
-| 164 | [Nothing Broken But My Heart](https://open.spotify.com/track/03xpqxQ2tCUuDAKNLThmGO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 5:55 |
-| 165 | [Here In My Heart](https://open.spotify.com/track/13rVu8eRwoCb14fAHea824) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [New Inside](https://open.spotify.com/album/6JjjIH7QBynrssqyphngYi) | 4:08 |
+| 164 | [Here In My Heart](https://open.spotify.com/track/13rVu8eRwoCb14fAHea824) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [New Inside](https://open.spotify.com/album/6JjjIH7QBynrssqyphngYi) | 4:08 |
+| 165 | [Nothing Broken But My Heart](https://open.spotify.com/track/03xpqxQ2tCUuDAKNLThmGO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 5:55 |
 | 166 | [New Love](https://open.spotify.com/track/4qVCAQpmMHrorwQI6L7FAI) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:32 |
 | 167 | [Feels Like Forever](https://open.spotify.com/track/0ygfFhs5y9Zr9eWAxDfFV1) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Night Calls](https://open.spotify.com/album/61HuqPzUcoc940Bf7Ss0ob) | 4:41 |
 | 168 | [Why Goodbye](https://open.spotify.com/track/5QHCpzyo4arFLPPpM2UnwP) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Through The Fire](https://open.spotify.com/album/7trZWGxj0elTVSBisiuCqy) | 4:23 |
@@ -200,8 +200,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 190 | [My First Night With You](https://open.spotify.com/track/0VXzpNAbCLTkNngCzHaYIx) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Mya](https://open.spotify.com/album/4O1WKiIEXNy7iycHEI681e) | 5:38 |
 | 191 | [Rosie](https://open.spotify.com/track/3lf07xbXUAdsYlSJpRYQOp) | [Richie Sambora](https://open.spotify.com/artist/6uNjT2PKDfR7t48JKhajkh) | [Stranger In This Town](https://open.spotify.com/album/1iHo9sJ9iZ8JKQDJMwAGyj) | 4:50 |
 | 192 | [Walk Away](https://open.spotify.com/track/6U0N0iII20TyI3KJbCdwbp) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The Hunger](https://open.spotify.com/album/6MQWMbtrLuuwjzfFLSJbhu) | 4:11 |
-| 193 | [No Living Without Loving You](https://open.spotify.com/track/5lRALu97xWoZws3ZUl84wx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:22 |
-| 194 | [Found \(From the Netflix Film The Magician's Elephant\)](https://open.spotify.com/track/4klRYIrW589OcfpGeWHR4M) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Found \(From the Netflix Film The Magician's Elephant\)](https://open.spotify.com/album/5owLRl1o3dNIzGQfi1d180) | 3:29 |
+| 193 | [Found \(From the Netflix Film The Magician's Elephant\)](https://open.spotify.com/track/4klRYIrW589OcfpGeWHR4M) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Found \(From the Netflix Film The Magician's Elephant\)](https://open.spotify.com/album/5owLRl1o3dNIzGQfi1d180) | 3:29 |
+| 194 | [No Living Without Loving You](https://open.spotify.com/track/5lRALu97xWoZws3ZUl84wx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:22 |
 | 195 | [World Without You](https://open.spotify.com/track/7CjkKfZv5ks3SLajSj1m7S) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 4:42 |
 | 196 | [I'll Still Love You More](https://open.spotify.com/track/2BQ3U6cCECj2ULc7vUUVcO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Where Your Road Leads](https://open.spotify.com/album/6l9KppfaP2OOV7SFDwmKNz) | 4:24 |
 | 197 | [Emotional Fire](https://open.spotify.com/track/74dOVbgf0hlCvsbFRLoSnV) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:54 |
@@ -479,8 +479,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 469 | [I Confess \- 12" Dance Mix](https://open.spotify.com/track/6yUbtzcCh0EMMD2cgqv090) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Hot On the Trail \(Expanded Edition\)](https://open.spotify.com/album/0loDN6STZdp57R5dSPyFhl) | 5:02 |
 | 470 | [Your Obsession](https://open.spotify.com/track/1zQkpt3TuwduNZrQ4U0T07) | [Joanna](https://open.spotify.com/artist/509TH9RYrGomXzXwSVeaQP) | [This Crazy Life](https://open.spotify.com/album/36w2dambPh1D43TPTPoKRY) | 3:49 |
 | 471 | [Tha Erthi I Stigmi](https://open.spotify.com/track/1jDo9nKix9y305VlicOFu9) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [Ola Kala](https://open.spotify.com/album/39GdeRL0leLnxKMP2zom9w) | 4:03 |
-| 472 | [Healing Hands](https://open.spotify.com/track/45S5Lg9vVbT4algYHRk97K) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t) | [On & On](https://open.spotify.com/album/5F5bq9xgTMfKk9F1gzNsZh) | 6:08 |
-| 473 | [Heartbreak of Love \(with June Pointer\)](https://open.spotify.com/track/6GoMP2s1Wo4eQSR0VCqzHB) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp), [June Pointer](https://open.spotify.com/artist/4FkLqg6EECxmLfBtLfpBSN) | [Reservations for Two](https://open.spotify.com/album/4OYS3PgRPMXTLVTCKgEUZF) | 3:54 |
+| 472 | [Heartbreak of Love \(with June Pointer\)](https://open.spotify.com/track/6GoMP2s1Wo4eQSR0VCqzHB) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp), [June Pointer](https://open.spotify.com/artist/4FkLqg6EECxmLfBtLfpBSN) | [Reservations for Two](https://open.spotify.com/album/4OYS3PgRPMXTLVTCKgEUZF) | 3:54 |
+| 473 | [Healing Hands](https://open.spotify.com/track/45S5Lg9vVbT4algYHRk97K) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t) | [On & On](https://open.spotify.com/album/5F5bq9xgTMfKk9F1gzNsZh) | 6:08 |
 | 474 | [Unchained](https://open.spotify.com/track/0T4Ryrgc36gWWCrKQwaHaQ) | [Silent Rage](https://open.spotify.com/artist/3PC3r6mBJjbYD8MaMoloZs) | [Still Alive](https://open.spotify.com/album/58pkZZiIZsy4qQez8yKLY1) | 4:36 |
 | 475 | [Unspoken Love](https://open.spotify.com/track/3PkgOEgZJb7WxTeaPAOu37) | [Paul Michiels](https://open.spotify.com/artist/09kd4GXvKYEHyVRqNGunTB) | [The Inner Child](https://open.spotify.com/album/0GOqu4nOTog5yVjCga8vhc) | 3:20 |
 | 476 | [You Redeem Me](https://open.spotify.com/track/1mm1fuhhCOwm92R3VP0fF6) | [Ace Young](https://open.spotify.com/artist/1yb4zX0BZ7Ohe0lDcULddT) | [Ace Young](https://open.spotify.com/album/2apCW9jexUmIGSzWZbEV9J) | 3:54 |
@@ -517,4 +517,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 507 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 508 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `Mjg1MTc4OTAsMDAwMDAwMDBjNzM3YzhiNTM1YTFjODU4Zjc4YWU2M2VjNDNlNmRkYw==`
+Snapshot ID: `Mjg1MTkzMzAsMDAwMDAwMDA1OGZhYjViMTQ1ZGRiNjJkMjhlNzU4OGEyYWUzM2IwZQ==`

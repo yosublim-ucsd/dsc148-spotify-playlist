@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,292 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,425 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 26 | [Quiero Saber De Ti](https://open.spotify.com/track/6St9CXbwvRkP9gHgbuC0mY) | [Xochilt](https://open.spotify.com/artist/2aHIy41xJKMsudwVFxCfoB) | [Lo Nuevo Y Lo Mejor](https://open.spotify.com/album/5zowtYibiMVyn3VjPUp3I5) | 3:48 |
 | 27 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 |
 | 28 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 |
-| 29 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 |
-| 30 | [Felicidad](https://open.spotify.com/track/5BAbezIjIvHR4VOMECrIv9) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Felicidad](https://open.spotify.com/album/62sFaXABrQ6potGL10NAtl) | 3:17 |
+| 29 | [Felicidad](https://open.spotify.com/track/5BAbezIjIvHR4VOMECrIv9) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Felicidad](https://open.spotify.com/album/62sFaXABrQ6potGL10NAtl) | 3:17 |
+| 30 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 |
 | 31 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
 | 32 | [Vida No Te Vayas](https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5) | 3:48 |
 | 33 | [Vienes y Te Vas](https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Con la Fuerza de un Volcán](https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y) | 3:48 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 40 | [Mal de Amores](https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal de Amores](https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW) | 3:08 |
 | 41 | [El Baile de San Juan](https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [El Baile de San Juan](https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta) | 4:14 |
 | 42 | [El Gigante De Hierro](https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Lo Nuevo Y…Lo Mejor](https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ) | 3:36 |
-| 43 | [Amor De Tres](https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [Amor De 3](https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF) | 3:08 |
-| 44 | [Agua De Vida](https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z) | [Grupo Perla Colombiana](https://open.spotify.com/artist/559JHjpDxj6SYy8kwGoa5V) | [Agua De Vida](https://open.spotify.com/album/7I9KOeQ3uj3CMRcRg5Sf2l) | 3:34 |
+| 43 | [Agua De Vida](https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z) | [Grupo Perla Colombiana](https://open.spotify.com/artist/559JHjpDxj6SYy8kwGoa5V) | [Agua De Vida](https://open.spotify.com/album/7I9KOeQ3uj3CMRcRg5Sf2l) | 3:34 |
+| 44 | [Amor De Tres](https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [Amor De 3](https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF) | 3:08 |
 | 45 | [Que Levante La Mano](https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:50 |
 | 46 | [El Diario De Un Borracho](https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [El Condor Legendario](https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG) | 4:26 |
 | 47 | [Pero Tu Mirada](https://open.spotify.com/track/5vePtAKApe4o16JIXCcHeS) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5) | 3:46 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 92 | [Lagrimas de Escarcha](https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379) | [Tiberio Y Sus Gatos Negros](https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1) | [Los Exitos de Tiberio y Sus Gatos Negros](https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj) | 3:44 |
 | 93 | [Pedir Permiso](https://open.spotify.com/track/1pUD2zi5taWDeHbYsw2wLv) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Pedir Permiso](https://open.spotify.com/album/6EzfwzcnHgoCQNDrYYwDKe) | 3:06 |
 | 94 | [Pa' La Paloma](https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [Éxitos de la Sonora Matancera: Pa' la Paloma](https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ) | 6:06 |
-| 95 | [Corazon Enamorado](https://open.spotify.com/track/51KykeJrnWtNyDoNcJelcZ) | [Alberto Pedraza Con Su Ritmo Y Sabor](https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl) | [Antologia](https://open.spotify.com/album/22gKrOfQu54UShnskCA7Fr) | 4:40 |
+| 95 | [Carola](https://open.spotify.com/track/5ruhUADQWwKmsaFBZH4yFO) | [Rodolfo Su Tipica](https://open.spotify.com/artist/5qBFpNp9zx5aihCltUNxAJ) | [A Bailar Tropical](https://open.spotify.com/album/4jsWeqoxStBEjucGK7Quuv) | 2:53 |
 | 96 | [Cumbia Barulera](https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:00 |
-| 97 | [Carola](https://open.spotify.com/track/5ruhUADQWwKmsaFBZH4yFO) | [Rodolfo Su Tipica](https://open.spotify.com/artist/5qBFpNp9zx5aihCltUNxAJ) | [A Bailar Tropical](https://open.spotify.com/album/4jsWeqoxStBEjucGK7Quuv) | 2:53 |
-| 98 | [Vuela Mariposa](https://open.spotify.com/track/0Bug1bbPyzpXmS0o0X878J) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [Lo Nuevo y Lo Mejor](https://open.spotify.com/album/7IOXamyEMVDDWuF37WM1gH) | 3:56 |
-| 99 | [Cumbia del cuervo](https://open.spotify.com/track/5KluSQOD7MMDVVfTwnjaAo) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Espectaculares de Los Guacharacos de Colombia y Super Grupo Colombia](https://open.spotify.com/album/0KTpweQvBj4M1RTuJDWWsJ) | 2:47 |
+| 97 | [Corazon Enamorado](https://open.spotify.com/track/51KykeJrnWtNyDoNcJelcZ) | [Alberto Pedraza Con Su Ritmo Y Sabor](https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl) | [Antologia](https://open.spotify.com/album/22gKrOfQu54UShnskCA7Fr) | 4:40 |
+| 98 | [Cumbia del cuervo](https://open.spotify.com/track/5KluSQOD7MMDVVfTwnjaAo) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Espectaculares de Los Guacharacos de Colombia y Super Grupo Colombia](https://open.spotify.com/album/0KTpweQvBj4M1RTuJDWWsJ) | 2:47 |
+| 99 | [Vuela Mariposa](https://open.spotify.com/track/0Bug1bbPyzpXmS0o0X878J) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [Lo Nuevo y Lo Mejor](https://open.spotify.com/album/7IOXamyEMVDDWuF37WM1gH) | 3:56 |
 | 100 | [Los sabanales](https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 2:43 |
 
-Snapshot ID: `MCwzNTkwMzhkYTYxNGIwY2EzZTM5NTIwYzcwNGYyZGRmZDcwNGM0NmY1`
+Snapshot ID: `MCw3NmEwZjBiYjEwNjE4YWZhNDllMmQ5MmU1NjZiNjg0OGQ4N2YzNjM0`

@@ -2,7 +2,7 @@
 
 ### [Acoustic Pop](https://open.spotify.com/playlist/37i9dQZF1DWWxrt1tiKYiX)
 
-> Lovely, acoustic pop\. Cover: Benson Boone
+> Lovely, acoustic pop\. Cover: Taylor Swift
 
 244 songs - 13 hr 28 min
 

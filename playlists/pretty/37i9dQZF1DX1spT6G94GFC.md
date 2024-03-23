@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 
 > These songs rocked the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,826,492 likes - 80 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,827,138 likes - 80 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 29 | [Pour Some Sugar On Me \- Remastered 2017](https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 4:27 |
 | 30 | [Separate Ways \(Worlds Apart\) \[2023 Remaster\]](https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers \(2023 Remaster\)](https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh) | 5:23 |
 | 31 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
-| 32 | [We're Not Gonna Take It](https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:39 |
-| 33 | [Runaway](https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi](https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz) | 3:50 |
+| 32 | [Runaway](https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi](https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz) | 3:50 |
+| 33 | [We're Not Gonna Take It](https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:39 |
 | 34 | [Ace of Spades](https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 2:48 |
 | 35 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 |
 | 36 | [Love Is A Long Road](https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:07 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 45 | [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:29 |
 | 46 | [Rock You Like A Hurricane](https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:12 |
 | 47 | [Beds Are Burning \- Remastered](https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV) | 4:15 |
-| 48 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 |
-| 49 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |
+| 48 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |
+| 49 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 |
 | 50 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
 | 51 | [Mother](https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig](https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW) | 3:24 |
 | 52 | [Girls, Girls, Girls](https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8) | 4:30 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 63 | [Dude \(Looks Like A Lady\)](https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 |
 | 64 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
 | 65 | [Bad Medicine](https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey \(Deluxe Edition\)](https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR) | 5:16 |
-| 66 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 |
-| 67 | [18 and Life](https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E) | 3:49 |
+| 66 | [18 and Life](https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E) | 3:49 |
+| 67 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 |
 | 68 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
 | 69 | [Epic](https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 4:53 |
 | 70 | [The Stroke \- Remastered 2010](https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Don't Say No \(Remastered 2010\)](https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 79 | [Addicted To Love](https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu), [Eric 'ET' Thorngren](https://open.spotify.com/artist/0tO3KaRy0ZACd8XJYT3IX2) | [Riptide](https://open.spotify.com/album/73bPiJRwVPkE8dpyCikfFd) | 6:03 |
 | 80 | [Runnin' Down A Dream](https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:52 |
 
-Snapshot ID: `MCw1YjEyOTk5NTEzZDQyOTRiNWQ5MzUzMDlhNTFlMmUzMTBhOGU5Yjdi`
+Snapshot ID: `MCwyZWU1ZGI1ZDRjZmI2NGVlMzFhYjBmODVjYjcyNjg1MjNiZTA3YTI0`

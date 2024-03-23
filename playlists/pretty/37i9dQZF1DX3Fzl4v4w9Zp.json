@@ -1,18 +1,18 @@
 {
   "description": "Keep your finger on the pulse of Americana. Cover: The Dead South",
-  "num_followers": 609207,
+  "num_followers": 609281,
   "original_name": "The Pulse of Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmYzZGQ4Njg3ZDYwYWRiY2NiYzFhY2I3ZDBkNGQzOGRlMzEyMTg3",
+  "snapshot_id": "MCw5MDczYTAxNjcxYjM4YzAxNDI4Y2RkOWFjZWY5M2E0ZDJhNjE2ZjI0",
   "tracks": [
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Dollar Bill Bar",
-        "url": "https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47"
+        "name": "American Dreaming",
+        "url": "https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 209176,
-      "name": "Dollar Bill Bar",
-      "url": "https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU"
+      "duration_ms": 237691,
+      "name": "American Dreaming - Single Edit",
+      "url": "https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/1gWd9YGWMxVoEH9pSVCBon"
     },
     {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Tigers Blood",
+        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Crimes of the Heart",
+      "url": "https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "The Past Is Still Alive",
@@ -93,6 +109,22 @@
       "url": "https://open.spotify.com/track/3EYuaUD1h9poig88XzuBp3"
     },
     {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Hunt You Down",
@@ -107,6 +139,22 @@
       "duration_ms": 204000,
       "name": "Hunt You Down",
       "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Big Dream",
+        "url": "https://open.spotify.com/album/4tDLw9FLXRaZI2VFk6iP1F"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 143402,
+      "name": "Big Dream",
+      "url": "https://open.spotify.com/track/5lo4zC5rGaW50u2vWOAmRK"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -143,26 +191,6 @@
       "duration_ms": 199200,
       "name": "Thelma & Louise",
       "url": "https://open.spotify.com/track/3lYADLFdj2pvQV1PNEwZGn"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Right Back to It",
-        "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        },
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 273026,
-      "name": "Right Back to It",
-      "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -211,6 +239,22 @@
       "duration_ms": 219186,
       "name": "Fire in the Sky",
       "url": "https://open.spotify.com/track/21KtzK2Ca651OjwqmSLuLF"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Wanting and Waiting",
+        "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 255560,
+      "name": "Wanting and Waiting",
+      "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -283,22 +327,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Wanting and Waiting",
-        "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 255560,
-      "name": "Wanting and Waiting",
-      "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Love Of A Girl",
         "url": "https://open.spotify.com/album/4IQ0aUYSOhj8kcLuWKcU3g"
       },
@@ -327,6 +355,22 @@
       "duration_ms": 214413,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/7oFBgQjVnW81PX2ng3dbPX"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Million Eyes",
+        "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 186635,
+      "name": "Dancing in the Sky",
+      "url": "https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -379,6 +423,26 @@
       "duration_ms": 225671,
       "name": "Back To Then",
       "url": "https://open.spotify.com/track/14z9BKQQJnnn9WdcfR6RrF"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Right Back to It",
+        "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 273026,
+      "name": "Right Back to It",
+      "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -499,6 +563,22 @@
       "duration_ms": 244773,
       "name": "Burial Ground",
       "url": "https://open.spotify.com/track/1Xzyo31tkXB53PaRnPziLR"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Dollar Bill Bar",
+        "url": "https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 209176,
+      "name": "Dollar Bill Bar",
+      "url": "https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -815,22 +895,6 @@
       "duration_ms": 198274,
       "name": "Jersey Giant",
       "url": "https://open.spotify.com/track/0Mq6UjfEgvHkNDv6DPow94"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Million Eyes",
-        "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 186635,
-      "name": "Dancing in the Sky",
-      "url": "https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1263,22 +1327,6 @@
       "duration_ms": 214453,
       "name": "The Crowd Goes Wild",
       "url": "https://open.spotify.com/track/6kAl28NPp8AFgGZM8ycyx4"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Fox Hunt",
-        "url": "https://open.spotify.com/album/2bLNZHyv1itJ94dG8Ob5Nq"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "Fox Hunt",
-      "url": "https://open.spotify.com/track/32TjTdbpM9dv5gBVFXbU8S"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2159,22 +2207,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 250801,
-      "name": "Seven Spanish Angels (Recorded at Luck Reunion) - Spotify Singles",
-      "url": "https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "North Georgia Rounder",
         "url": "https://open.spotify.com/album/5WD3kJqvqnnEGl3B2pVh2U"
       },
@@ -2251,22 +2283,6 @@
       "duration_ms": 257087,
       "name": "Winnemucca",
       "url": "https://open.spotify.com/track/4nl1hkf6OVqYRNioo2pyXk"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Down Rounder",
-        "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Mystic Light",
-      "url": "https://open.spotify.com/track/6gOvh97w99JIolVwNRzmkI"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2355,22 +2371,6 @@
       "duration_ms": 242261,
       "name": "Pilgrim",
       "url": "https://open.spotify.com/track/3GFMyPDzQjo2jxDSuaHEhK"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "I'm Just a Clown",
-        "url": "https://open.spotify.com/album/2oDPcHYdkOy9pP7advhkVS"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "I'm Just a Clown",
-      "url": "https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut"
     },
     {
       "added_at": "2024-03-15 04:00:00",

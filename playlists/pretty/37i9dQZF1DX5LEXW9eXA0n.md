@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:Kim Jong Kook\(김종국\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,944 likes - 101 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,967 likes - 101 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 8 | [Because There Is Love](https://open.spotify.com/track/70oz4lCNYc3v3p1prvisYO) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Because There Is Love](https://open.spotify.com/album/1YFEA7tMipoZp6C2kFWBwq) | 4:35 |
 | 9 | [The Reasons of My Smiles](https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [Queen of Tears \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF) | 3:33 |
 | 10 | [Love Fool](https://open.spotify.com/track/78ArztlRnP0iatNE9GJNJB) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Full Bloom](https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y) | 3:11 |
-| 11 | [Agony](https://open.spotify.com/track/4kFgtNqcmwoQmFEwiv6f1C) | [Minjeong](https://open.spotify.com/artist/61tWd17tvt3qHk7PlrTVpv) | [Agony](https://open.spotify.com/album/50dC1dEnN1tRIHRqniF6vV) | 3:58 |
+| 11 | [Agony](https://open.spotify.com/track/4kFgtNqcmwoQmFEwiv6f1C) | [Minjeong](https://open.spotify.com/artist/7A7ednJZLOPLtUtLVmUmrd) | [Agony](https://open.spotify.com/album/50dC1dEnN1tRIHRqniF6vV) | 3:58 |
 | 12 | [Let’s Breathe for a While](https://open.spotify.com/track/26haC2I4xS8KIqPMZVHEIO) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [maum.ondo 36.5 Part.1](https://open.spotify.com/album/3iX2cNfIPF5uUAelM4dQNj) | 4:40 |
 | 13 | [Tunnel](https://open.spotify.com/track/2rgjOD5RmUh3V6rmx3eLkm) | [Im Ga Young](https://open.spotify.com/artist/6BgU40lKJzHwS6AzWzjEue) | [Tunnel](https://open.spotify.com/album/5uUDQGaLeElTjvLNlnza8H) | 3:25 |
 | 14 | [Weird](https://open.spotify.com/track/0MUJdif0DqzHsJCpBnD3PN) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Weird](https://open.spotify.com/album/09nEHFRgp3gWym7gvqlu2y) | 4:08 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 100 | [Goodbye \(2023\)](https://open.spotify.com/track/4K6gyjsl6AZsvsryJctOs8) | [Park Pil kyu](https://open.spotify.com/artist/5tx0AkevgDrqnlBMbd86Na) | [Goodbye \(2023\)](https://open.spotify.com/album/6lnY1n3Wixe2hnTNAMmYSQ) | 3:52 |
 | 101 | [One Man](https://open.spotify.com/track/1hFTr9dmT578FKelJDCVFc) | [Park Je Up](https://open.spotify.com/artist/0eAiU3cVCE1QcQyjPuCHSq) | [One Man](https://open.spotify.com/album/3gKxXpP1y1GnAyFMJyLCJ6) | 4:08 |
 
-Snapshot ID: `MCw1NjRiYTEzYmNlODVhNzYxNTRhYjdlY2M3ZjQxNzM2OWY0NGJlNDEw`
+Snapshot ID: `MCxhNGNlMGFiMGIwNjBlMzJiYzE2ZjgzMzgxODVlMGQzYjQ0ZWI3Mzkx`

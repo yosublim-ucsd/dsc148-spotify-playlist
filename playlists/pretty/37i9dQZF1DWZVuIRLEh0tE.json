@@ -1,64 +1,124 @@
 {
-  "description": "Porque no to' e' Dembow en RD loco. Portada: Lismar",
-  "num_followers": 229613,
+  "description": "Porque no to' e' Dembow en RD loco. Portada: Yomel El Meloso",
+  "num_followers": 229677,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTRiZjA0MzBkYzgxZjYxZDhmMTcxMmQ0ZGQ4N2M4M2EwNzk3MjVh",
+  "snapshot_id": "MCwwMWExM2Y1Y2NkZmNhOTc4ZjQxYjY4MjM0ZTg0NGQ0MmI5YWI1Njgx",
   "tracks": [
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "COCO (feat. Yailin la Mas Viral)",
-        "url": "https://open.spotify.com/album/2x5xdWg8y5lZgEQkOfokPp"
+        "name": "En Manada",
+        "url": "https://open.spotify.com/album/4GRWtFeComKH2ArqIgCsRT"
       },
       "artists": [
         {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        },
-        {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
         }
       ],
-      "duration_ms": 158214,
-      "name": "COCO (feat. Yailin la Mas Viral)",
-      "url": "https://open.spotify.com/track/4ha1GYdpaquNwEe0WAj7eN"
+      "duration_ms": 127988,
+      "name": "En Manada",
+      "url": "https://open.spotify.com/track/71GL1EVxnJQhrZaNX3ZrMM"
     },
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Nota",
-        "url": "https://open.spotify.com/album/69WYi6VDkwlyoHfv5SO5b7"
+        "name": "Divino",
+        "url": "https://open.spotify.com/album/6DAidc3PnHFfZRcNDCpILu"
       },
       "artists": [
         {
-          "name": "Lismar",
-          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
         }
       ],
-      "duration_ms": 146938,
-      "name": "Nota",
-      "url": "https://open.spotify.com/track/18xTLZz0jnxFCz0krVzFme"
+      "duration_ms": 163514,
+      "name": "Divino",
+      "url": "https://open.spotify.com/track/2pVgmby0wfULOytCtpmaQK"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Tu Va Dobla ?",
-        "url": "https://open.spotify.com/album/6Kow2FcIp5CNwLqZ2QIy2r"
+        "name": "Una Chuky",
+        "url": "https://open.spotify.com/album/0iLqKQ5K3fIYH70llIl3hC"
       },
       "artists": [
         {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+          "name": "El Jhota",
+          "url": "https://open.spotify.com/artist/0YX8LuMQAh6ousnyhwXbkz"
+        },
+        {
+          "name": "Menor Queen",
+          "url": "https://open.spotify.com/artist/1MsuHuJMhPWFbzl2KWLyzz"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Tu Va Dobla ?",
-      "url": "https://open.spotify.com/track/3pjh4rGnTgLPOUb2diydH9"
+      "duration_ms": 158400,
+      "name": "Una Chuky",
+      "url": "https://open.spotify.com/track/6T1335enI8UZIz9N0VABb5"
+    },
+    {
+      "added_at": "2024-02-15 16:52:33",
+      "album": {
+        "name": "Tiki Tiki",
+        "url": "https://open.spotify.com/album/17Hmvcc0QZCowX7ut7D2Td"
+      },
+      "artists": [
+        {
+          "name": "Chocoleyrol",
+          "url": "https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2"
+        },
+        {
+          "name": "Yeral El De Lo Palo",
+          "url": "https://open.spotify.com/artist/0gNBwt2gBwViwnZKRYoPJb"
+        }
+      ],
+      "duration_ms": 121344,
+      "name": "Tiki Tiki",
+      "url": "https://open.spotify.com/track/1JnRfqRvQN2sjQJlINz6cl"
+    },
+    {
+      "added_at": "2024-01-12 21:24:53",
+      "album": {
+        "name": "Salida",
+        "url": "https://open.spotify.com/album/1a6tdnMxKaseyvfzhiAiUy"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Salida",
+      "url": "https://open.spotify.com/track/4iXYOa1juyX4ovosDzNSMv"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Sushi",
+        "url": "https://open.spotify.com/album/7g4edTQkCDWUEjM3D7f6Xx"
+      },
+      "artists": [
+        {
+          "name": "Yuriel Es Musica",
+          "url": "https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK"
+        },
+        {
+          "name": "Real Unidad",
+          "url": "https://open.spotify.com/artist/7nC9Qq3c3RisY9vYcwItzT"
+        }
+      ],
+      "duration_ms": 163977,
+      "name": "Sushi",
+      "url": "https://open.spotify.com/track/09GpTKIbVAYdVBalUf5Piz"
     },
     {
       "added_at": "2024-01-12 21:24:53",
@@ -77,20 +137,100 @@
       "url": "https://open.spotify.com/track/4BEcJvyMdI4ux7WlNCzo3R"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Tiguere DK",
-        "url": "https://open.spotify.com/album/6jbBGfodtFwVCd3lK9WnTn"
+        "name": "Malvado",
+        "url": "https://open.spotify.com/album/79DXeWADUqphU3qkPaXabU"
       },
       "artists": [
         {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+          "name": "Hemphil Otra Nota",
+          "url": "https://open.spotify.com/artist/60fXztK8e403cLtMzAl0C9"
+        },
+        {
+          "name": "Uriel Produce",
+          "url": "https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC"
+        },
+        {
+          "name": "G-Unit",
+          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
         }
       ],
-      "duration_ms": 272532,
-      "name": "Tiguere DK",
-      "url": "https://open.spotify.com/track/51TtkQklDfojAEDEF2l8zM"
+      "duration_ms": 170000,
+      "name": "Malvado",
+      "url": "https://open.spotify.com/track/74WtDxylY6UvqQlSwILKjn"
+    },
+    {
+      "added_at": "2023-07-18 04:00:00",
+      "album": {
+        "name": "3730",
+        "url": "https://open.spotify.com/album/3Q2EYfVHIPBtcwrs6IKkpP"
+      },
+      "artists": [
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "duration_ms": 137810,
+      "name": "3730",
+      "url": "https://open.spotify.com/track/2nlbKSzDPYUmU8F2npLFak"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Que Loquera",
+        "url": "https://open.spotify.com/album/0GFNrY0qedQtorVxREdrLN"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Three Seven Music",
+          "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "Que Loquera",
+      "url": "https://open.spotify.com/track/2QOSj9QzA1szxKhM3ehYxc"
+    },
+    {
+      "added_at": "2023-09-29 02:04:59",
+      "album": {
+        "name": "Bebi Demasiado",
+        "url": "https://open.spotify.com/album/1g8IVrqLI8ZwCvBSp0UoCZ"
+      },
+      "artists": [
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "duration_ms": 148453,
+      "name": "Bebi Demasiado",
+      "url": "https://open.spotify.com/track/6vfjbHTiVh68wj6XioqhdA"
+    },
+    {
+      "added_at": "2023-07-18 04:00:00",
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 177240,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -109,6 +249,22 @@
       "url": "https://open.spotify.com/track/5wrDKWZ7HMZxcDswYN8m5n"
     },
     {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Tiguere DK",
+        "url": "https://open.spotify.com/album/6jbBGfodtFwVCd3lK9WnTn"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 272532,
+      "name": "Tiguere DK",
+      "url": "https://open.spotify.com/track/51TtkQklDfojAEDEF2l8zM"
+    },
+    {
       "added_at": "2024-01-12 21:24:53",
       "album": {
         "name": "Voy Despu\u00e9s",
@@ -123,6 +279,22 @@
       "duration_ms": 202814,
       "name": "Voy Despu\u00e9s",
       "url": "https://open.spotify.com/track/2FjjWl25GW1MPVIgHgZcyD"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Nota",
+        "url": "https://open.spotify.com/album/69WYi6VDkwlyoHfv5SO5b7"
+      },
+      "artists": [
+        {
+          "name": "Lismar",
+          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "Nota",
+      "url": "https://open.spotify.com/track/18xTLZz0jnxFCz0krVzFme"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -149,22 +321,6 @@
       "url": "https://open.spotify.com/track/1j2BZHUubKyu398MZLSE8p"
     },
     {
-      "added_at": "2023-09-29 02:04:59",
-      "album": {
-        "name": "Bebi Demasiado",
-        "url": "https://open.spotify.com/album/1g8IVrqLI8ZwCvBSp0UoCZ"
-      },
-      "artists": [
-        {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
-        }
-      ],
-      "duration_ms": 148453,
-      "name": "Bebi Demasiado",
-      "url": "https://open.spotify.com/track/6vfjbHTiVh68wj6XioqhdA"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Explicito (Deluxe)",
@@ -187,6 +343,22 @@
       "duration_ms": 121263,
       "name": "Explicito - Deluxe",
       "url": "https://open.spotify.com/track/5ykJEBmfZuSv6h4eeqVFEQ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Tu Va Dobla ?",
+        "url": "https://open.spotify.com/album/6Kow2FcIp5CNwLqZ2QIy2r"
+      },
+      "artists": [
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tu Va Dobla ?",
+      "url": "https://open.spotify.com/track/3pjh4rGnTgLPOUb2diydH9"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -215,26 +387,6 @@
       "duration_ms": 238268,
       "name": "El Coquero",
       "url": "https://open.spotify.com/track/0CAiugQfyGMtnMUhVLzsd0"
-    },
-    {
-      "added_at": "2024-02-15 16:52:33",
-      "album": {
-        "name": "Tiki Tiki",
-        "url": "https://open.spotify.com/album/17Hmvcc0QZCowX7ut7D2Td"
-      },
-      "artists": [
-        {
-          "name": "Chocoleyrol",
-          "url": "https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2"
-        },
-        {
-          "name": "Yeral El De Lo Palo",
-          "url": "https://open.spotify.com/artist/0gNBwt2gBwViwnZKRYoPJb"
-        }
-      ],
-      "duration_ms": 121344,
-      "name": "Tiki Tiki",
-      "url": "https://open.spotify.com/track/1JnRfqRvQN2sjQJlINz6cl"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -273,36 +425,24 @@
       "url": "https://open.spotify.com/track/22uq5Te3TotHZnTV3mWjWc"
     },
     {
-      "added_at": "2023-07-18 04:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8"
+        "name": "COCO (feat. Yailin la Mas Viral)",
+        "url": "https://open.spotify.com/album/2x5xdWg8y5lZgEQkOfokPp"
       },
       "artists": [
         {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 177240,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Divino",
-        "url": "https://open.spotify.com/album/6DAidc3PnHFfZRcNDCpILu"
-      },
-      "artists": [
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
         {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
         }
       ],
-      "duration_ms": 163514,
-      "name": "Divino",
-      "url": "https://open.spotify.com/track/2pVgmby0wfULOytCtpmaQK"
+      "duration_ms": 158214,
+      "name": "COCO (feat. Yailin la Mas Viral)",
+      "url": "https://open.spotify.com/track/4ha1GYdpaquNwEe0WAj7eN"
     },
     {
       "added_at": "2024-02-29 19:27:26",
@@ -335,26 +475,6 @@
       "duration_ms": 176400,
       "name": "Te quiero - Special Version",
       "url": "https://open.spotify.com/track/1wRCb3pUMVPhXavUKSPuVI"
-    },
-    {
-      "added_at": "2024-01-12 21:24:53",
-      "album": {
-        "name": "Salida",
-        "url": "https://open.spotify.com/album/1a6tdnMxKaseyvfzhiAiUy"
-      },
-      "artists": [
-        {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
-        },
-        {
-          "name": "Foreign Teck",
-          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Salida",
-      "url": "https://open.spotify.com/track/4iXYOa1juyX4ovosDzNSMv"
     },
     {
       "added_at": "2024-02-23 07:01:51",
@@ -433,22 +553,6 @@
       "url": "https://open.spotify.com/track/6AJFywxgDicFxyhBRmNUbr"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Mi Esposa",
-        "url": "https://open.spotify.com/album/09d06Rqk3juXxRXrQ4Dbo1"
-      },
-      "artists": [
-        {
-          "name": "Poeta Callejero",
-          "url": "https://open.spotify.com/artist/1m82A2YUjBaQnLAFi9vjJv"
-        }
-      ],
-      "duration_ms": 224095,
-      "name": "Mi Esposa",
-      "url": "https://open.spotify.com/track/36qU5s412GZ7FExUMevWyZ"
-    },
-    {
       "added_at": "2024-02-23 07:01:51",
       "album": {
         "name": "Si Tu Quieres",
@@ -483,78 +587,6 @@
       "duration_ms": 210359,
       "name": "Un Da\u00f1ao",
       "url": "https://open.spotify.com/track/7rqcbCQBQkGOPqNc8lgYmx"
-    },
-    {
-      "added_at": "2024-03-05 14:44:28",
-      "album": {
-        "name": "Nadie Que No Seas Tu (Remix)",
-        "url": "https://open.spotify.com/album/5Y5oxTxFrbic5LBi4ihjPv"
-      },
-      "artists": [
-        {
-          "name": "Militantes del Se\u00f1or",
-          "url": "https://open.spotify.com/artist/4FHtjiMGEzmSHAwFSAyv7Z"
-        },
-        {
-          "name": "Militante Bierd",
-          "url": "https://open.spotify.com/artist/733gVnl0NSCkPdvdGUrH7F"
-        },
-        {
-          "name": "Alfareros",
-          "url": "https://open.spotify.com/artist/587JnFfQGfMBcDeAIR5MG3"
-        }
-      ],
-      "duration_ms": 177428,
-      "name": "Nadie Que No Seas Tu - Remix",
-      "url": "https://open.spotify.com/track/662FdmcTh4qq4HG9lVK9i5"
-    },
-    {
-      "added_at": "2024-02-15 16:52:33",
-      "album": {
-        "name": "Soy de la Calle",
-        "url": "https://open.spotify.com/album/158gh6DuAj5QIckvZ1WA7J"
-      },
-      "artists": [
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        }
-      ],
-      "duration_ms": 181124,
-      "name": "Soy de la Calle",
-      "url": "https://open.spotify.com/track/5O1wqBKLhNxGMb7C1vjV0X"
-    },
-    {
-      "added_at": "2024-02-29 19:27:26",
-      "album": {
-        "name": "Ciento y Pico",
-        "url": "https://open.spotify.com/album/5HEp4xcylStZYleL13t8OH"
-      },
-      "artists": [
-        {
-          "name": "Tunin Slow",
-          "url": "https://open.spotify.com/artist/0UzxcbI6rrP3qxTebnUBcY"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Ciento y Pico",
-      "url": "https://open.spotify.com/track/7ue6vgZHsPpMYnRxhh6WZb"
-    },
-    {
-      "added_at": "2024-03-05 14:44:28",
-      "album": {
-        "name": "LA YERBA ALTA",
-        "url": "https://open.spotify.com/album/4i1P5vOn8vcp9tFvN4wHul"
-      },
-      "artists": [
-        {
-          "name": "Ce Qei",
-          "url": "https://open.spotify.com/artist/6hvy5R4OHFkZBLMgCUqOG1"
-        }
-      ],
-      "duration_ms": 115606,
-      "name": "LA YERBA ALTA",
-      "url": "https://open.spotify.com/track/2K2ojouHeSQXGDmsFIbCqI"
     },
     {
       "added_at": "2023-07-18 04:00:00",
@@ -1007,22 +1039,6 @@
       "duration_ms": 136271,
       "name": "Talco",
       "url": "https://open.spotify.com/track/5jNMVx3mv3gj3ShJfJj57g"
-    },
-    {
-      "added_at": "2023-07-18 04:00:00",
-      "album": {
-        "name": "3730",
-        "url": "https://open.spotify.com/album/3Q2EYfVHIPBtcwrs6IKkpP"
-      },
-      "artists": [
-        {
-          "name": "Treintisiete",
-          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
-        }
-      ],
-      "duration_ms": 137810,
-      "name": "3730",
-      "url": "https://open.spotify.com/track/2nlbKSzDPYUmU8F2npLFak"
     },
     {
       "added_at": "2023-07-18 04:00:00",

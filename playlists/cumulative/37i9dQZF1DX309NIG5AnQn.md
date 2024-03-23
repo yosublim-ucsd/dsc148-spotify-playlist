@@ -4,7 +4,7 @@
 
 > rock alternativo argentino\. <br/>📷 El Club Audiovisual
 
-201 songs - 11 hr 26 min
+202 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [El Primer Color](https://open.spotify.com/track/6qkSVGEDjdBmhQccU7CWaD) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [El Primer Color](https://open.spotify.com/album/4dp1QJTGojYEDSmdtzAG1M) | 5:25 | 2023-03-23 |  |
 | [El Próximo Verano](https://open.spotify.com/track/6Ff9Z5bPflRCCRFBt6jtk0) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [La Ciudad Que Dejamos](https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey) | 4:29 | 2023-03-23 |  |
 | [El Viaje](https://open.spotify.com/track/4CZzNgqOqB8nvcJz1sG3AE) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [La Gracia De No Estar Solas](https://open.spotify.com/album/788Pukbo3xwJXaSBPzYEBh) | 2:45 | 2023-03-23 |  |
+| [En los Parques](https://open.spotify.com/track/3IRj8U0Lt8bPdlW6GXBK5q) | [Mizuki Amapola](https://open.spotify.com/artist/1i1q599ea4CdgaVtomARti), [La Lauri Fire](https://open.spotify.com/artist/7Ku8lMIIWZ2fGXSVdzbM84) | [Calendario](https://open.spotify.com/album/25yfGAtfakJoBCIKE0K7AZ) | 2:12 | 2024-03-22 |  |
 | [Entre el Cielo y el Infierno](https://open.spotify.com/track/5gIwsOOF5mY18gyrGXr0Zb) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Entre el Cielo y el Infierno](https://open.spotify.com/album/3xew3ijgKqFp4YtkfuA55f) | 3:54 | 2023-10-27 |  |
 | [Era un Día Perfecto](https://open.spotify.com/track/2p4q16NmSsr8vobCRfigQl) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC), [Chary Loquero](https://open.spotify.com/artist/2js5TqocdHmmCV22px3iDE) | [Era un Día Perfecto](https://open.spotify.com/album/2I4sJxvwWdkpeIJ6Y8UboE) | 2:58 | 2022-03-25 | 2023-03-25 |
 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 | 2023-03-23 |  |
@@ -168,7 +169,7 @@
 | [Pussy Pancake](https://open.spotify.com/track/0EGe09LoBpYKRXQaoOltXM) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [Pussy Pancake](https://open.spotify.com/album/22gi3ijlL33ge8zqEBV6F0) | 2:36 | 2023-08-18 |  |
 | [Pájaros](https://open.spotify.com/track/40r8exebu3RCPZsM8CGUly) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n), [Julieta Salas](https://open.spotify.com/artist/3hD02itkArv5tzcKIZYpgt) | [Por última vez](https://open.spotify.com/album/6551YKhH5mVEgrJhLIWTar) | 2:57 | 2022-03-25 | 2023-03-25 |
 | [Qué me importa](https://open.spotify.com/track/24h868TwxJicgv2geeijAv) | [Pelopincho](https://open.spotify.com/artist/14V8tDnnDCXIVaJctOamBG) | [Loop Adolescente](https://open.spotify.com/album/1OGDMGGnVTOkj8NxpvMMMb) | 2:33 | 2022-03-25 | 2023-03-25 |
-| [Qué Más Puedo Hacer?](https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [El Club Audiovisual](https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ) | 2:52 | 2023-08-11 |  |
+| [Qué Más Puedo Hacer?](https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [El Club Audiovisual](https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ) | 2:52 | 2023-08-11 | 2024-03-23 |
 | [Regalos](https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM) | [Cometas](https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF) | [Regalos](https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO) | 3:30 | 2023-06-30 |  |
 | [Salir del Confort](https://open.spotify.com/track/4ObAtoz13OZ8uN2g5ADVyX) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Salir del Confort](https://open.spotify.com/album/2uk2MSf9s40VYEMD3C3CM5) | 3:16 | 2023-08-25 |  |
 | [SALTEMOS MOLINETES](https://open.spotify.com/track/5zwfDBnoWSMDUeIaefJvQH) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [SALTEMOS MOLINETES](https://open.spotify.com/album/3BlTPafpEOmDaCLdQAoyat) | 2:46 | 2024-03-08 |  |

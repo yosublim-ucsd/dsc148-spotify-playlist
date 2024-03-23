@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-685 songs - 1 day 15 hr 38 min
+686 songs - 1 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,6 +630,7 @@
 | [Trust Issues](https://open.spotify.com/track/5nAcDjHi1Sn9d24ZPwYpZc) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Trust Issues](https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF) | 3:02 | 2022-02-22 | 2022-05-04 |
 | [Try Me](https://open.spotify.com/track/0QyD3WGQ1yYy01fpZYMl93) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [On The Run](https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs) | 3:14 | 2022-11-04 | 2022-11-22 |
 | [Try Me](https://open.spotify.com/track/2x4X4bn0hzj2AJLC7jPfJa) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Try Me](https://open.spotify.com/album/2rZztGcRl9pUAbSfEQshRC) | 3:14 | 2022-09-02 | 2022-11-05 |
+| [Turmoil](https://open.spotify.com/track/2oJxVoQI9QxXRt8EYN8mEA) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF) | [Emergence](https://open.spotify.com/album/1FufCHcrLgdogsuq7JVsxh) | 3:32 | 2024-03-22 |  |
 | [Turn Back The Clocks](https://open.spotify.com/track/1YSpczovBtz4fk8BxWrhvn) | [Alex H](https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB) | [Eagle Rock](https://open.spotify.com/album/6uvex7L4oOshBeTbgtlzQN) | 3:28 | 2022-11-19 | 2023-02-17 |
 | [Turn It Up](https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Turn It Up](https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf) | 3:13 | 2021-12-02 | 2022-03-08 |
 | [Turn It Up \- Slushii & Afinity VIP](https://open.spotify.com/track/1Z0sPQusIl7lmuIcee9HYa) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf) | [Turn It Up \(Slushii & Afinity VIP\)](https://open.spotify.com/album/76T0t1HbJ8nNieSaJ8nKLb) | 3:58 | 2023-12-08 | 2024-03-22 |
@@ -685,7 +686,7 @@
 | [Words Left Unsaid](https://open.spotify.com/track/56cuxHVeq2EtTpaRBZgrnX) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Words Left Unsaid](https://open.spotify.com/album/7nxvvQ5nrkO4aa5rlgCzyG) | 4:08 | 2022-09-07 | 2022-11-08 |
 | [WYGD](https://open.spotify.com/track/2TRhRhzp9xGrS7yWtDJili) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [WYGD](https://open.spotify.com/album/0nuPNR9F9QyfuxtOT0Fqhs) | 2:28 | 2022-03-01 | 2022-05-13 |
 | [Yesterday](https://open.spotify.com/track/6Wz9kNEppcp9U6jHptH6sQ) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Yesterday](https://open.spotify.com/album/0MU0ovgIP5zFj9CJLbkTaM) | 4:33 | 2022-09-02 | 2022-11-05 |
-| [Yesterday \- Voicians Remix](https://open.spotify.com/track/7Mr4FBVQtgiv92xG2S8H68) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Yesterday \(Voicians Remix\)](https://open.spotify.com/album/5sbwe27UyyTgGl77szrT86) | 3:52 | 2023-12-11 |  |
+| [Yesterday \- Voicians Remix](https://open.spotify.com/track/7Mr4FBVQtgiv92xG2S8H68) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Yesterday \(Voicians Remix\)](https://open.spotify.com/album/5sbwe27UyyTgGl77szrT86) | 3:52 | 2023-12-11 | 2024-03-23 |
 | [You Fill My Soul](https://open.spotify.com/track/0IOG53eZR3vo0HtmfKkyG5) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [You Fill My Soul](https://open.spotify.com/album/29hikAxjTpTa0hO5wAi1vL) | 4:18 | 2022-08-05 | 2022-10-19 |
 | [You Found Me](https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Clara Park](https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2) | [You Found Me](https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu) | 4:29 | 2023-05-18 | 2023-08-20 |
 | [You Want Me](https://open.spotify.com/track/3lOsvOCeClwEFv0Ezo1if7) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [You Want Me](https://open.spotify.com/album/6MJap9B5ypAfH5UCb65A4V) | 4:45 | 2024-03-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FbSX4ewlys.md) - [plain]
 
 > la generación del discman y el walkman
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,931 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,972 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FbSX4ewlys.md) - [plain]
 | 79 | [Bidi Bidi Bom Bom \- 1994 Version](https://open.spotify.com/track/08rj3keDexxAbhXnRM86ri) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 3:30 |
 | 80 | [Amor De Papel](https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 4:08 |
 
-Snapshot ID: `MCw3OGI1OTUwMWMwMzA0MTU3YjdkODQwZjA5OWU3ZGU2MTc3Y2Y4MDE1`
+Snapshot ID: `MCxkOTQ4ZDIwZWUzZTI2ZmFlYzIyOTQ3OTJhYTkyYzc3YTVmYTU4OGQz`

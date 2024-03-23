@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kubi Producent, bambi, Fukaj, stickxr
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,904 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,178 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Must Have](https://open.spotify.com/track/5mUOcI1Ev8fYx6epZrstxz) | [Słoń](https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV), [Devv](https://open.spotify.com/artist/0uihSUoQ89CEHeTbue4h0A) | [Must Have](https://open.spotify.com/album/6dSTOhZcfMtEVCNoOIHT05) | 2:54 |
 | 50 | [Ostatni kieliszek](https://open.spotify.com/track/5CEYkx8yKy3jqHdgyxTx8F) | [Sarius](https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S), [Sokół](https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot), [Faded Dollars](https://open.spotify.com/artist/7d16c3NgSNVAKr6ADZVSX6) | [Ostatni kieliszek](https://open.spotify.com/album/1BUd8Njzd7v31CXkeM3Tjc) | 3:52 |
 
-Snapshot ID: `MCxhODczZTcwNDVjNGU5NmFlNTVjZTAzZTVlODQ3MzU2MGZmNTA2NDE0`
+Snapshot ID: `MCw1ZTE1MGRjMWRiZjEwMGQzZTYxNTJmMmYxMDQ0YzA5YWVjNjhjYjMz`

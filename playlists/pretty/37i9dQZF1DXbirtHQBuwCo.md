@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: Seori\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 997,376 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,752 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 30 | [I'm Gonna Love You](https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:31 |
 | 31 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 |
 | 32 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 |
-| 33 | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u) | 3:11 |
+| 33 | [The Weekend](https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd) | 2:47 |
 | 34 | [For Us](https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:51 |
-| 35 | [The Weekend](https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd) | 2:47 |
+| 35 | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u) | 3:11 |
 | 36 | [Thirsty](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:13 |
 | 37 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 |
 | 38 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:25 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 46 | [Bambi](https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:33 |
 | 47 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
 | 48 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 |
-| 49 | [Forever Only](https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Forever Only \- SM STATION : NCT LAB](https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8) | 3:16 |
-| 50 | [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 |
+| 49 | [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 |
+| 50 | [Forever Only](https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Forever Only \- SM STATION : NCT LAB](https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8) | 3:16 |
 | 51 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
 | 52 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 |
 | 53 | [Nerves](https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 74 | [Click Like \(Prod\. Crush\) \(Feat\. Paul Blanco\)](https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 2:45 |
 | 75 | [ONCE AGAIN](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [Our Blues, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) | 2:49 |
 
-Snapshot ID: `MCxjM2EyZmM0YmUzNjc0YTlkMDRiMjhhNDI0MTYwZTYzOTA1MzA0MThm`
+Snapshot ID: `MCxlZGMxNGI2MDM5NmYzOWRlMDM4NjNkNjMwMmM1YTU5ODJiZTY5ZjFl`

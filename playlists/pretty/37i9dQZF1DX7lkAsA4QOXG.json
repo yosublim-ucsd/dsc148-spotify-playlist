@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 124110,
+  "num_followers": 124173,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjY4OTFiMTJlOGQ4NGVhMzI5ZGFiMWFmMDAwNjNmNjU2Y2UwZmQy",
+  "snapshot_id": "MCwwNTU0NjVmMzI0ZTEyMTA2M2UwNDRkMWU1Y2FjMmI0ZDdhNjg1MjJl",
   "tracks": [
     {
       "added_at": "2024-03-20 13:48:17",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Steer Your Way",
-        "url": "https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 288880,
-      "name": "Steer Your Way (feat. Norah Jones)",
-      "url": "https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Karen Souza Essentials",
         "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 214080,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/3pMwgThbs4lcXs9h4EAIJg"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Steer Your Way",
+        "url": "https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 288880,
+      "name": "Steer Your Way (feat. Norah Jones)",
+      "url": "https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1127,46 +1127,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "A Modern Songbook",
-        "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
-      },
-      "artists": [
-        {
-          "name": "William Withers",
-          "url": "https://open.spotify.com/artist/5pBACm8DbZ0ewugKBwgbrZ"
-        },
-        {
-          "name": "Thomas Enhco",
-          "url": "https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK"
-        },
-        {
-          "name": "St\u00e9phane Kerecki",
-          "url": "https://open.spotify.com/artist/4G14nUJ2VqZfvjmSlmot8B"
-        }
-      ],
-      "duration_ms": 265546,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/2jNw83C2mRYWCLNiqGZ4GQ"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
-        "name": "Joshua Redman",
-        "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        }
-      ],
-      "duration_ms": 279573,
-      "name": "I Got You - I Feel Good",
-      "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Give Us These Days",
         "url": "https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3"
       },
@@ -1187,6 +1147,46 @@
       "duration_ms": 361813,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/4UpSPiCAeE8Wjzs71LiXnK"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Joshua Redman",
+        "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 279573,
+      "name": "I Got You - I Feel Good",
+      "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "A Modern Songbook",
+        "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
+      },
+      "artists": [
+        {
+          "name": "William Withers",
+          "url": "https://open.spotify.com/artist/5pBACm8DbZ0ewugKBwgbrZ"
+        },
+        {
+          "name": "Thomas Enhco",
+          "url": "https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK"
+        },
+        {
+          "name": "St\u00e9phane Kerecki",
+          "url": "https://open.spotify.com/artist/4G14nUJ2VqZfvjmSlmot8B"
+        }
+      ],
+      "duration_ms": 265546,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/2jNw83C2mRYWCLNiqGZ4GQ"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
+        "name": "Jazz Plays The Beatles",
+        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Can't Buy Me Love",
+      "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
         "name": "Follow the White Rabbit",
         "url": "https://open.spotify.com/album/5OCGFTXS1TWGk6d94pK4VM"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Jazz Plays The Beatles",
-        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Can't Buy Me Love",
-      "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Don't Know Why",
         "url": "https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8"
       },
@@ -1279,26 +1279,6 @@
       "duration_ms": 179198,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/16F8ZSX2jOtcBQrKdVryWe"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
-        "name": "Still We Dream",
-        "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
-      },
-      "artists": [
-        {
-          "name": "Donatella Montinaro",
-          "url": "https://open.spotify.com/artist/0C4L4Wip7dcoY9jYr5gn6G"
-        },
-        {
-          "name": "Danilo Tarso",
-          "url": "https://open.spotify.com/artist/0HlyGInx05IRKHKDRVVaTY"
-        }
-      ],
-      "duration_ms": 353941,
-      "name": "Vincent",
-      "url": "https://open.spotify.com/track/6adWVN7hPrztmftktK3zES"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1319,6 +1299,26 @@
       "duration_ms": 324960,
       "name": "River",
       "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Still We Dream",
+        "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
+      },
+      "artists": [
+        {
+          "name": "Donatella Montinaro",
+          "url": "https://open.spotify.com/artist/0C4L4Wip7dcoY9jYr5gn6G"
+        },
+        {
+          "name": "Danilo Tarso",
+          "url": "https://open.spotify.com/artist/0HlyGInx05IRKHKDRVVaTY"
+        }
+      ],
+      "duration_ms": 353941,
+      "name": "Vincent",
+      "url": "https://open.spotify.com/track/6adWVN7hPrztmftktK3zES"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Elles",
-        "url": "https://open.spotify.com/album/053PhX5KlVX5SJTueWiuyc"
-      },
-      "artists": [
-        {
-          "name": "Youn Sun Nah",
-          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
-        }
-      ],
-      "duration_ms": 262053,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/4QyNMirtHB7dwDkXW73hX3"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
       },
@@ -1379,18 +1363,34 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "You Should Have Told Me",
-        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
+        "name": "Elles",
+        "url": "https://open.spotify.com/album/053PhX5KlVX5SJTueWiuyc"
       },
       "artists": [
         {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+          "name": "Youn Sun Nah",
+          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
         }
       ],
-      "duration_ms": 239186,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/616tU4nb5DfY40tHVlHkP1"
+      "duration_ms": 262053,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/4QyNMirtHB7dwDkXW73hX3"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Jazz Volume: Herbie Hancock",
+        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 456480,
+      "name": "A Case Of You - Short Version",
+      "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Jazz Volume: Herbie Hancock",
-        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
+        "name": "You Should Have Told Me",
+        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
         }
       ],
-      "duration_ms": 456480,
-      "name": "A Case Of You - Short Version",
-      "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
+      "duration_ms": 239186,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/616tU4nb5DfY40tHVlHkP1"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
+        "name": "What Took You so Long",
+        "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 271922,
+      "name": "We Don\u00b4t Need Another Hero",
+      "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
         "name": "Remember to Remember",
         "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
       },
@@ -1751,22 +1767,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "What Took You so Long",
-        "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 271922,
-      "name": "We Don\u00b4t Need Another Hero",
-      "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Who Used To Dance",
         "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
       },
@@ -1779,22 +1779,6 @@
       "duration_ms": 413240,
       "name": "Mr. Tambourine Man",
       "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
-        "name": "Ink on a Pin - A Celebration of Joni Mitchell",
-        "url": "https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk"
-      },
-      "artists": [
-        {
-          "name": "Sara Colman",
-          "url": "https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa"
-        }
-      ],
-      "duration_ms": 232522,
-      "name": "Chelsea Morning",
-      "url": "https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1819,6 +1803,22 @@
       "duration_ms": 210593,
       "name": "When Most I Wink - Sonnet 43",
       "url": "https://open.spotify.com/track/7Lo8oj9nSXy6DWCpbd4mGb"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Ink on a Pin - A Celebration of Joni Mitchell",
+        "url": "https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk"
+      },
+      "artists": [
+        {
+          "name": "Sara Colman",
+          "url": "https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa"
+        }
+      ],
+      "duration_ms": 232522,
+      "name": "Chelsea Morning",
+      "url": "https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -2067,26 +2067,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "River Man (feat. Sara Caswell)",
-        "url": "https://open.spotify.com/album/2XpXbabfXk62IKCdfdsMSy"
-      },
-      "artists": [
-        {
-          "name": "Dave Stryker",
-          "url": "https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6"
-        },
-        {
-          "name": "Sara Caswell",
-          "url": "https://open.spotify.com/artist/5vWTZJJWBwmB2b5Nl2FWxm"
-        }
-      ],
-      "duration_ms": 538160,
-      "name": "River Man (feat. Sara Caswell)",
-      "url": "https://open.spotify.com/track/2kw0EpoNg4LzYV6Sui31jM"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Technically Acceptable",
         "url": "https://open.spotify.com/album/1ogZptaphgAJyfiG9eBkRL"
       },
@@ -2103,18 +2083,22 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Rock Swings",
-        "url": "https://open.spotify.com/album/68hTTrAwPFA0dWrxkAUMVl"
+        "name": "River Man (feat. Sara Caswell)",
+        "url": "https://open.spotify.com/album/2XpXbabfXk62IKCdfdsMSy"
       },
       "artists": [
         {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+          "name": "Dave Stryker",
+          "url": "https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6"
+        },
+        {
+          "name": "Sara Caswell",
+          "url": "https://open.spotify.com/artist/5vWTZJJWBwmB2b5Nl2FWxm"
         }
       ],
-      "duration_ms": 216093,
-      "name": "Wonderwall",
-      "url": "https://open.spotify.com/track/0qjQ47pkjxL9Oodg8lp0os"
+      "duration_ms": 538160,
+      "name": "River Man (feat. Sara Caswell)",
+      "url": "https://open.spotify.com/track/2kw0EpoNg4LzYV6Sui31jM"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -2139,6 +2123,22 @@
       "duration_ms": 273946,
       "name": "With a Little Help from My Friends",
       "url": "https://open.spotify.com/track/0ERlVIKsXiZvr3Ijj5IgEA"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Rock Swings",
+        "url": "https://open.spotify.com/album/68hTTrAwPFA0dWrxkAUMVl"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 216093,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/0qjQ47pkjxL9Oodg8lp0os"
     },
     {
       "added_at": "2024-03-20 13:48:17",

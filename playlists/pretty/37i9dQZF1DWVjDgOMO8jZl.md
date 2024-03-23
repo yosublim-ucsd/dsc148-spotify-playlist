@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:3HRSdDvPAE54ocmaq0JRrJ">Camilla Magli</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,646 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,650 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MALEDETTO TI AMO](https://open.spotify.com/track/6uIelKqZn0fR7AUL7ixNIt) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Mameli](https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [MALEDETTO TI AMO](https://open.spotify.com/album/35g3bYMHoEfG5VWXfSXjcj) | 2:48 |
+| 1 | [MALEDETTO TI AMO \(feat\. Mameli\)](https://open.spotify.com/track/6uIelKqZn0fR7AUL7ixNIt) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF), [Mameli](https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu) | [MALEDETTO TI AMO \(feat\. Mameli\)](https://open.spotify.com/album/35g3bYMHoEfG5VWXfSXjcj) | 2:48 |
 | 2 | [Alta Tensione](https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Alta Tensione](https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw) | 2:33 |
 | 3 | [Baby Don't Cry](https://open.spotify.com/track/1FH5kQE84G1aY17BO5U2Ei) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Baby Don't Cry](https://open.spotify.com/album/7zPSn1s2DdZVLTLCRi9zFz) | 3:04 |
 | 4 | [VENERE](https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [VENERE](https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql) | 2:48 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 39 | [Flora](https://open.spotify.com/track/1JoU93qhttHC3wBXWAdPLR) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Flora](https://open.spotify.com/album/2GJ2PdGfXMM1w4Y68djdGt) | 3:16 |
 | 40 | [KANYE WEST \(feat\. Bresh\)](https://open.spotify.com/track/76V4fmBYiVqpOJB6GC3SHA) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [KANYE WEST \(feat\. Bresh\)](https://open.spotify.com/album/599Ef02IOqtzkVBd1sFlfo) | 3:08 |
 
-Snapshot ID: `MCw4ZDhjOGY0NjYyNmI1MjNlZmJhM2Y0MGY2NzgyYTM1MGRkODNlYjc2`
+Snapshot ID: `MCwzNjRmZTIzMzAwMjU2YTYzZjEyMGZkZTNhNzY5ZTJlYzMzNGE4MzA3`

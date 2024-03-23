@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,952 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,999 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All Life Long](https://open.spotify.com/track/3WEN5hlpjc09yo0J6IuQBE) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0unji0xUcEGgNFyokzF5p5) | 3:19 |
+| 1 | [All Life Long](https://open.spotify.com/track/2R2fEymz4psIZb2Ic3lBIy) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0ISpTOqbSEzzY0Kt4JsTTq) | 3:19 |
 | 2 | [I Get High](https://open.spotify.com/track/3fbmrIE49XTFLEwm5TQUB9) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Get High](https://open.spotify.com/album/6kb7iyiFPdPEAJ59c08P8J) | 4:20 |
 | 3 | [WOW!](https://open.spotify.com/track/2ncvbvkVzRqy2xjvge55r0) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [WOW!](https://open.spotify.com/album/36z6FDQ2tT2GTIoFSPeplG) | 2:52 |
 | 4 | [pick me up](https://open.spotify.com/track/3gWtBd5U14O4JyRqte3ijm) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [pick me up](https://open.spotify.com/album/0UAsFgBzXsHBT8ovfLnYzr) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 74 | [BIG](https://open.spotify.com/track/3mDQ77Q75GikKUBfxcDoCt) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [BIG!](https://open.spotify.com/album/6vyYj5PBZCQK4IWQnxDZZX) | 3:36 |
 | 75 | [feel it now \(alive\)](https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [chapter of me](https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol) | 3:31 |
 
-Snapshot ID: `MCw2MTFhZTc3ZTAwMzQzMmM2MWIzODNjOGExNGI5MWQ3MmYyZTIxOTA0`
+Snapshot ID: `MCxhMzY4OWYxMDE2ZTBjOTc4NGQxNTQ3MWMyMjgzOGI4NGRlOGE2ZGNi`

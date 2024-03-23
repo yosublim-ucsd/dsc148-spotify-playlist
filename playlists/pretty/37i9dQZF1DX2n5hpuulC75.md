@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,423 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,432 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 31 | [I'm Right Here](https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0), [E\. Mosseri](https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI) | [Unusable Love](https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p) | 4:41 |
 | 32 | [Naps](https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl) | 3:58 |
 | 33 | [Homegrown \- Empty Woods Remix](https://open.spotify.com/track/6hBLjkIOP23jWYcPsrJM43) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Empty Woods](https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM) | [Homegrown \(Remixes\)](https://open.spotify.com/album/1I1hFpUraLXdCtDnMXSh6N) | 4:05 |
-| 34 | [another time \(world$tar money\)](https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy) | [simon eng](https://open.spotify.com/artist/0YXc5Rre8iZ6CfxNtzBJhC), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [another time \(world$tar money\)](https://open.spotify.com/album/0bMuRzy7dDIfKgliEaw4DV) | 3:01 |
-| 35 | [The Falls](https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS) | [Brother Mynor](https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq) | [Passionfruit Falls](https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l) | 1:41 |
+| 34 | [The Falls](https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS) | [Brother Mynor](https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq) | [Passionfruit Falls](https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l) | 1:41 |
+| 35 | [another time \(world$tar money\)](https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy) | [simon eng](https://open.spotify.com/artist/0YXc5Rre8iZ6CfxNtzBJhC), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [another time \(world$tar money\)](https://open.spotify.com/album/0bMuRzy7dDIfKgliEaw4DV) | 3:01 |
 | 36 | [Needy Bees](https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Green Twins](https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV) | 3:31 |
 | 37 | [Frozen Away](https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [frozenthere](https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T) | 2:48 |
 | 38 | [I've Always Been](https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Zach Berro](https://open.spotify.com/artist/6t13QrSLbiVtlvksmoBgfH) | [I've Always Been](https://open.spotify.com/album/1p0q7Jmjsqwkt8xXmE9OcV) | 1:54 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 43 | [Together Alone](https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB) | [Nuit Oceān](https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4) | [Island \-EP](https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W) | 3:05 |
 | 44 | [Yellow Dust](https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Small Clan](https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J) | 3:52 |
 | 45 | [Your Own Truth](https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM) | [James Forest](https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4) | [Your Own Truth](https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7) | 4:53 |
-| 46 | [Fleur](https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44) | 4:19 |
-| 47 | [After the Tone with Lossapardo](https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [After the Tone with Lossapardo](https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm) | 2:33 |
-| 48 | [Holiday \- Kyson Remix](https://open.spotify.com/track/4k9izZqQMgE5nSGYFXQSHZ) | [Drinker](https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Holiday \(Kyson Remix\)](https://open.spotify.com/album/47zoz7TyC4OsXUTOSZiMRx) | 4:41 |
+| 46 | [Holiday \- Kyson Remix](https://open.spotify.com/track/4k9izZqQMgE5nSGYFXQSHZ) | [Drinker](https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Holiday \(Kyson Remix\)](https://open.spotify.com/album/47zoz7TyC4OsXUTOSZiMRx) | 4:41 |
+| 47 | [Fleur](https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44) | 4:19 |
+| 48 | [After the Tone with Lossapardo](https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [After the Tone with Lossapardo](https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm) | 2:33 |
 | 49 | [Brother](https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Brother](https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5) | 3:38 |
 | 50 | [Home \(feat\. LEES\)](https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s), [LEES](https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5) | [Home \(feat\. LEES\)](https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt) | 3:18 |
 | 51 | [White Gemini](https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Aisle of Palm](https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr) | 3:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 59 | [With You](https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus) | [Oddysseys](https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd) | [With You](https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu) | 2:25 |
 | 60 | [They Came Along](https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [They Came Along](https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5) | 5:57 |
 
-Snapshot ID: `MCxkYjRhYWIwOGE3MzllM2I3NTlkMjU2ZThhNjkyZTliOGY5ZTNkYWIy`
+Snapshot ID: `MCw4YTU5YmQ1ZjZhNWRjODZhOGY3MjI0YzY2NzNiNjM0ZjZjMzEyOTFj`

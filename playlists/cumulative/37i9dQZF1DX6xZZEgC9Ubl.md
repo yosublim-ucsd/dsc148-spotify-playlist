@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: iann dior
 
-941 songs - 1 day 18 hr 39 min
+943 songs - 1 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Cigarettes](https://open.spotify.com/track/42Xba467wgGvYrR2EE6s0i) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Cigarettes](https://open.spotify.com/album/5OI7dLXwSZFtOnB3aQtCGi) | 3:47 | 2022-02-04 | 2022-07-29 |
 | [Clear Bones](https://open.spotify.com/track/21NVIBYBZIp7oa0OONZBZo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 2:46 | 2021-04-07 | 2022-04-20 |
 | [CLOSE FRIENDS](https://open.spotify.com/track/32KxZ5fSFEVZa8ca4UWZP5) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [CLOSE FRIENDS](https://open.spotify.com/album/70msNpVDwWvEjtsSKZgDti) | 3:17 | 2020-12-13\* | 2021-01-15 |
+| [coastin \(night\)](https://open.spotify.com/track/14GWTkIaPwzB4ynhNWloRS) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [coastin \(day+night\)](https://open.spotify.com/album/2Jvgg3goBIeIhKemZw5M5O) | 2:45 | 2024-03-22 |  |
 | [Cocaine & Fireworks](https://open.spotify.com/track/4lfvNi0IvY5hUJE8yotgGD) | [Turbo](https://open.spotify.com/artist/0TYydMAKPBYjZB0jgGCN7h) | [Cocaine & Fireworks](https://open.spotify.com/album/3KTvbJHKlAQmRATXsnc7RJ) | 2:25 | 2021-06-12 | 2022-04-18 |
 | [cocaine shawty](https://open.spotify.com/track/0AeoPi4FxIJudR7GL6wZrX) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Yunggoth✰](https://open.spotify.com/artist/2Wpsydr0xZekaBFNQ0OSKd) | [Friends](https://open.spotify.com/album/1h40XPxsqMxv1guXkyqHOL) | 3:48 | 2021-11-05 | 2022-03-07 |
 | [Coke Nose](https://open.spotify.com/track/6Y9ZB2eeYmbEYm7XifqTcg) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Coke Nose](https://open.spotify.com/album/5oWj59uOrqYDxfChyrlRM6) | 2:44 | 2021-05-22 | 2022-07-26 |
@@ -880,6 +881,7 @@
 | [weak](https://open.spotify.com/track/54aOKrInbwtLdxRUa711Lv) | [Guard](https://open.spotify.com/artist/5T9M6oY1Nf9z6tPSV9XLGl) | [RAT KING](https://open.spotify.com/album/7vFEwu8EGrKg9CRsvhZmOT) | 2:38 | 2021-12-17 | 2021-12-19 |
 | [weekends](https://open.spotify.com/track/6rCgN00t4al5TAqo4pNGOk) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Quantum Jumping](https://open.spotify.com/album/1XAzH6OVdH1BlpBEnjMcPk) | 2:52 | 2022-04-29 | 2022-05-07 |
 | [welcome to my world](https://open.spotify.com/track/0TujvmfSqowyT2OiimLaBY) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Flooding the Gates](https://open.spotify.com/album/3qb2iS8suNWXclQEoAQJUJ) | 2:25 | 2023-06-30 |  |
+| [What Came Over Me](https://open.spotify.com/track/4fEho04weRWwqqg1m3XHoy) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [What Came Over Me](https://open.spotify.com/album/0ab1TmYN0QyeramQ2hVY82) | 2:21 | 2024-03-22 |  |
 | [what's left unsaid says it all](https://open.spotify.com/track/4cduUgRcyVvA4q5clFEPyy) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [forever yours](https://open.spotify.com/album/3x7J0VPQYCPncG8ehjRZU5) | 3:25 | 2021-11-12 | 2022-05-11 |
 | [Whatsinsideyourhead](https://open.spotify.com/track/3HXpRH2rsybwLYg1sCZvC3) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [BEACHxBUMS!](https://open.spotify.com/album/2m0b4mQasB4Frf5cxG7H0t) | 2:34 | 2021-07-10 | 2022-04-05 |
 | [when i met you](https://open.spotify.com/track/309SX04ykf1aJpbk1QBSKn) | [conscience](https://open.spotify.com/artist/4SDZGbRR9IjhHG5i3cZEQC) | [when i met you](https://open.spotify.com/album/6p9iAXClChpB0alAcWMHL4) | 3:00 | 2024-03-08 |  |

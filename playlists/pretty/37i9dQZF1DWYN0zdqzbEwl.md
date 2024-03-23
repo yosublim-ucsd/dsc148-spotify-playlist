@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 
 > Legendarios del rock en español\. Cover: Maná
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,166,024 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,166,441 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,13 +76,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 | 66 | [Venezia](https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:30 |
 | 67 | [Aunque no sea conmigo](https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Hijos del pueblo](https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl) | 3:32 |
 | 68 | [Te Quiero Comer La Boca](https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Buenos Muchachos](https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM) | 3:24 |
-| 69 | [Manuel Santillán, el León \(Versión Reggae\) \- Remasterizado 2008](https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 3:57 |
-| 70 | [El Microbito](https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Fobia](https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G) | 2:37 |
+| 69 | [El Microbito](https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Fobia](https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G) | 2:37 |
+| 70 | [Manuel Santillán, el León \(Versión Reggae\) \- Remasterizado 2008](https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 3:57 |
 | 71 | [La chispa adecuada \(Bendecida 3\)](https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 5:27 |
 | 72 | [Luna de Miel en la Mano](https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 5:16 |
 | 73 | [Corazon Espinado \(feat\. Mana\)](https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:34 |
-| 74 | [El Día Que Tú Te Marches](https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [El Día Que Tú Te Marches](https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC) | 3:28 |
-| 75 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 |
+| 74 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 |
+| 75 | [El Día Que Tú Te Marches](https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [El Día Que Tú Te Marches](https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC) | 3:28 |
 | 76 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
 | 77 | [Antes de que cuente diez](https://open.spotify.com/track/3xiNRrrVROKlHrflHGNTfG) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Antes de que cuente diez](https://open.spotify.com/album/5YByMSqR8kLoigJ3h8xgGD) | 4:45 |
 | 78 | [Obsesión](https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe) | [Miguel Mateos](https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 | 99 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
 | 100 | [Aún](https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u) | [Coda](https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy) | [Veinte Para Las Doce](https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI) | 4:54 |
 
-Snapshot ID: `MCw0OTMzYTgxY2M3YTMxM2IwZjMyNzAzMTEwOWUwZmZkMmYzMzVhNmU4`
+Snapshot ID: `MCwxYzhiNTk1ZmM1Yjc1ZmVlOGFkNDcyZjU4OTNmYWI4YzM3ZGI3OGFm`

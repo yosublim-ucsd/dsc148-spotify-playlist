@@ -4,7 +4,7 @@
 
 > Get your gaming session going with this rap mix.
 
-409 songs - 22 hr 28 min
+410 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Coupe](https://open.spotify.com/track/4wNKxMbE3n1gRm4F6OaCP1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:03 | 2021-09-03 | 2022-07-21 |
 | [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:47 | 2022-10-28 | 2024-01-12 |
 | [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:47 | 2022-10-28 | 2022-12-01 |
-| [Dark Knight Dummo \(feat\. Travis Scott\)](https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 4:16 | 2022-10-28 |  |
+| [Dark Knight Dummo \(feat\. Travis Scott\)](https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 4:16 | 2022-10-28 | 2024-03-23 |
 | [DEALER \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/2Phy6PupYrV7yn1cjV8kTL) | [RMR](https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [DEALER \(feat\. Future & Lil Baby\)](https://open.spotify.com/album/5T8tAKBlBK2y8WlfG2Dr4u) | 3:12 | 2021-09-03 | 2022-04-19 |
 | [Deep End Freestyle](https://open.spotify.com/track/4zTPYAf5scZdp0LnwPPeWK) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Deep End Freestyle](https://open.spotify.com/album/39sypxAyq6TZFqz8CMK3tJ) | 1:55 | 2021-09-03 | 2024-01-12 |
 | [Deep Reverence \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/7MRCoIgpn1if1BcH9QpI9G) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Deep Reverence](https://open.spotify.com/album/4RCSDGVMSrMZXgHre4W3oa) | 3:50 | 2022-03-25 | 2022-04-20 |
@@ -220,6 +220,7 @@
 | [MICHAEL](https://open.spotify.com/track/1LHymgSIeKtoJs3NbLX5XC) | [KAS](https://open.spotify.com/artist/4AUPalZalhZyyd6kwhBiL5), [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [MICHAEL](https://open.spotify.com/album/4eoAFGvhfdgf3WASMLPwIY) | 2:51 | 2021-09-03 | 2022-07-28 |
 | [MIDDLE CHILD](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc) | 3:33 | 2022-10-28 |  |
 | [Miss The Rage](https://open.spotify.com/track/46NzAxDzsE443IsyZndZfP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Trip At Knight](https://open.spotify.com/album/4d5LU2n3zJVMuILwMEiQG5) | 3:56 | 2022-10-28 | 2024-03-03 |
+| [Miss The Rage](https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Trip At Knight](https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX) | 3:56 | 2024-01-11 |  |
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A) | 3:56 | 2022-10-28 | 2023-10-25 |
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/5gZYpjakt37G3c58FKcQwJ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Trip At Knight \(Complete Edition\)](https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz) | 3:56 | 2021-10-18 | 2022-10-29 |
 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 | 2021-09-03 |  |

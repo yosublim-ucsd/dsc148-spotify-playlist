@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Gunna, Cardi B and Flo Milli.",
+  "description": "New music from Future and Metro Boomin. ",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -1295,6 +1295,28 @@
     },
     {
       "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "album": {
         "name": "Girl Code",
         "url": "https://open.spotify.com/album/45TU0GIOO5AxFoiOPk08i1"
       },
@@ -1620,7 +1642,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 130479,
       "name": "All Caps",
       "url": "https://open.spotify.com/track/21O0XXPEWPtePt5RMY93Ob"
@@ -2246,7 +2268,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 240916,
       "name": "As We Speak (feat. Drake)",
       "url": "https://open.spotify.com/track/6uFG0BRd3BaonWjEGuHYAh"
@@ -2670,7 +2692,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 241533,
       "name": "Bachelor",
       "url": "https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y"
@@ -2798,6 +2820,24 @@
       "duration_ms": 184489,
       "name": "Back In Blood (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW"
+    },
+    {
+      "album": {
+        "name": "THE BIGGEST",
+        "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94426,
+      "name": "Back On My BS",
+      "url": "https://open.spotify.com/track/7hrFCoyWwKep7qp1lP4oga"
     },
     {
       "album": {
@@ -7235,6 +7275,28 @@
     },
     {
       "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169840,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
+    },
+    {
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
       },
@@ -8030,7 +8092,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 192000,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/73f5rpLgydSRIvHzRLcJFF"
@@ -10054,7 +10116,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 176000,
       "name": "Edible (feat. Gunna)",
       "url": "https://open.spotify.com/track/0PloZ9T7XT9NSVwzf56u8f"
@@ -12674,7 +12736,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 133705,
       "name": "Fuck Niggaz",
       "url": "https://open.spotify.com/track/7t0oBwFmXk5Ly7RIuf9c18"
@@ -15372,7 +15434,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 159749,
       "name": "Himothy",
       "url": "https://open.spotify.com/track/00p23Uw776hxaIGNWL9S1Y"
@@ -16898,6 +16960,24 @@
       "duration_ms": 172035,
       "name": "I'm Geekin (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/2DBKeJkULv46sb1XaJKS8i"
+    },
+    {
+      "album": {
+        "name": "Not Now I'm Busy",
+        "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193334,
+      "name": "I'm Ill",
+      "url": "https://open.spotify.com/track/4HxTGZozygOK2oXsI4RbIs"
     },
     {
       "album": {
@@ -20067,6 +20147,28 @@
     },
     {
       "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267706,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+    },
+    {
+      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/35obNd6fbY65iCgIOSkyN7"
       },
@@ -20966,7 +21068,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 159066,
       "name": "LWRW",
       "url": "https://open.spotify.com/track/00KKtPfUBjO1k8Yn8dmJKZ"
@@ -23543,6 +23645,24 @@
     },
     {
       "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS"
+    },
+    {
+      "album": {
         "name": "Never Lose Me",
         "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
       },
@@ -23602,7 +23722,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 165754,
       "name": "Never Lose Me (feat. SZA & Cardi B)",
       "url": "https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy"
@@ -27504,6 +27624,24 @@
       "duration_ms": 226652,
       "name": "Praise God",
       "url": "https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK"
+    },
+    {
+      "album": {
+        "name": "Precision",
+        "url": "https://open.spotify.com/album/1DNvuu85Qyu95qxWCY8jTO"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167477,
+      "name": "Precision",
+      "url": "https://open.spotify.com/track/0jYYthUDGsJrYMCrtdHYtJ"
     },
     {
       "album": {
@@ -38031,6 +38169,28 @@
     },
     {
       "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Type Shit",
+      "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
+    },
+    {
+      "album": {
         "name": "U Played (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/0gpeQVeYLbbBrhnfbOEqjE"
       },
@@ -39328,6 +39488,28 @@
       "duration_ms": 132238,
       "name": "Way Too Petty",
       "url": "https://open.spotify.com/track/5ObUmPrfvyC7IEOe3n8Z3J"
+    },
+    {
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226213,
+      "name": "We Don't Trust You",
+      "url": "https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1"
     },
     {
       "album": {
@@ -40760,7 +40942,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 113121,
       "name": "WONDER WOMAN",
       "url": "https://open.spotify.com/track/0MCHjl3LM30HHru55EupsD"

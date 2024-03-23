@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Daniel Avery
 
-328 songs - 1 day 1 hr 50 min
+329 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,8 @@
 | [Rozelle](https://open.spotify.com/track/326uipdZGAmMexRjE5OE0X) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Rozelle](https://open.spotify.com/album/42dSwkUU5IcNbw1sETw9TK) | 6:06 | 2023-11-27 |  |
 | [RRR+1](https://open.spotify.com/track/1S4SzvAhnPid5WeCOOqf1s) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [RRR+1](https://open.spotify.com/album/3Bpu0JrjM7ALnPY6vm8o8L) | 5:25 | 2023-01-20 | 2023-03-15 |
 | [RRR+1](https://open.spotify.com/track/2ogYAW8UveCqjO24py3lgx) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [RRR+1](https://open.spotify.com/album/6puplqfxGxOSVrbcj3WaS3) | 5:25 | 2022-11-11 | 2023-02-03 |
-| [Running](https://open.spotify.com/track/23a8sZQihpGchTB8ordsLP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Wonderland / Running](https://open.spotify.com/album/1GHtn56z5l7TGf7COQJgOo) | 5:03 | 2024-03-22 |  |
+| [Running](https://open.spotify.com/track/23a8sZQihpGchTB8ordsLP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Wonderland / Running](https://open.spotify.com/album/1GHtn56z5l7TGf7COQJgOo) | 5:03 | 2024-03-22 | 2024-03-23 |
+| [Running](https://open.spotify.com/track/4zw3xwoXdGw50VKlHGDF6H) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Wonderland / Running](https://open.spotify.com/album/3mR3Wi3c4sI64d1rkKllEL) | 5:03 | 2024-03-22 |  |
 | [Running Man](https://open.spotify.com/track/7irrCOHmsuQve6JLGCMB0w) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Running Man](https://open.spotify.com/album/5f97vFiQaKNaPWJmm7wsCf) | 3:11 | 2024-01-12 |  |
 | [Saint Laurent \- Edit](https://open.spotify.com/track/74P8aG2JMc4zEjukAehBsq) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Steel City Dance Discs Volume 26](https://open.spotify.com/album/0jr9JA5xqnDWwua5iIAzoE) | 4:38 | 2022-04-15 | 2022-11-11 |
 | [Samba Soccer 2001](https://open.spotify.com/track/7wcacHDJCcVOjGYICN9rea) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [G\-TOWN 004](https://open.spotify.com/album/6ZjDUentC0nfycxUrOrOJi) | 5:31 | 2022-11-11 | 2023-08-11 |

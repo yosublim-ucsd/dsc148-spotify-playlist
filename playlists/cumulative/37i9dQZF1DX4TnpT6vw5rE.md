@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-269 songs - 15 hr 56 min
+271 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2020-12-08\* | 2023-07-29 |
 | [Aquarium](https://open.spotify.com/track/1u4qLLYs866O1PArVR5pPs) | [Casino Versus Japan](https://open.spotify.com/artist/5xMtVcziLHpIwD9iNWPOM6) | [Whole Numbers Play The Basics](https://open.spotify.com/album/4HcmQ7of1IgRFzdp0dnrFY) | 4:59 | 2020-12-25 | 2021-05-27 |
 | [Arp Of Life](https://open.spotify.com/track/7fP6eS6gtTs0xSAE9LvyEq) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:18 | 2020-12-08\* |  |
-| [Astrolabe](https://open.spotify.com/track/3WoGNWSOstLosLTgT8NxdC) | [Zilliondust](https://open.spotify.com/artist/1p2sIdnqZZodZjG4nharRM) | [Slowly Floating Through Space](https://open.spotify.com/album/372wf1vVLL9okON5afmUxV) | 2:31 | 2022-11-22 |  |
+| [Astrolabe](https://open.spotify.com/track/3WoGNWSOstLosLTgT8NxdC) | [Zilliondust](https://open.spotify.com/artist/1p2sIdnqZZodZjG4nharRM) | [Slowly Floating Through Space](https://open.spotify.com/album/372wf1vVLL9okON5afmUxV) | 2:31 | 2022-11-22 | 2024-03-23 |
 | [Atlantis](https://open.spotify.com/track/7MQiicIO6sDUPX47tA7gUY) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Atlantis](https://open.spotify.com/album/1exDhAU4sMwTHjDbFFE9nA) | 4:18 | 2022-09-02 |  |
 | [Autumnal](https://open.spotify.com/track/2DR3RcQLkcx9KqBEx9Raf7) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacier](https://open.spotify.com/album/3dHqf7HmYlEfJQNp0RL7mg) | 5:28 | 2020-12-08\* | 2021-05-27 |
 | [Avori](https://open.spotify.com/track/2Fq3ZwxleE9ahYEAvcZSji) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Avori](https://open.spotify.com/album/4pWrxItDLygNwhM6pHIgeO) | 2:51 | 2022-12-30 |  |
@@ -74,9 +74,10 @@
 | [Concept 1](https://open.spotify.com/track/55bFnrLvc4tUvHVngYhMV3) | [Kodomo](https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU) | [Still Life](https://open.spotify.com/album/7wwHgF0T6VcyxF4JkVU3eM) | 5:07 | 2020-12-08\* | 2021-05-27 |
 | [Conception](https://open.spotify.com/track/24zHMJlukUkCZDYMHtdsmH) | [Sunstone Peaks](https://open.spotify.com/artist/4vJrDzGliiXij2qOHiMdqk) | [Conception](https://open.spotify.com/album/6JY6AYRDVvnIPkTzYpvLQf) | 2:58 | 2021-11-13 |  |
 | [Conclusions](https://open.spotify.com/track/0XAITZHrtlpUeRo00FoTLP) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Conclusions](https://open.spotify.com/album/5ZpLZtogYfd4enMphrDFVt) | 3:22 | 2022-11-11 |  |
+| [Configuration](https://open.spotify.com/track/66QmlqypHwaune2fOlptt5) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Configuration](https://open.spotify.com/album/0DM9y4ZJrfzrh9M3tItUZk) | 2:50 | 2024-03-14 |  |
 | [Contrails](https://open.spotify.com/track/6mInCiYvOXj9jKXJKKMUTG) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [The Coachlight Woods](https://open.spotify.com/album/5rvAkp5i9TmfeLkzfV1Ig4) | 4:21 | 2021-01-07 | 2021-05-27 |
 | [Crystal Clear](https://open.spotify.com/track/66GTXFs0Q12Z2xsk4Uvc8e) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Marimba Morning](https://open.spotify.com/album/7tFKm8g3vPBaV5GBPu3Had) | 2:15 | 2022-04-21 |  |
-| [Dalam Masa Ini](https://open.spotify.com/track/3MsXF2oAtKZnb859w0OjRs) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Dalam Masa Ini](https://open.spotify.com/album/0AMQ4QUXFOThLoI76UxKVA) | 2:14 | 2023-06-23 |  |
+| [Dalam Masa Ini](https://open.spotify.com/track/3MsXF2oAtKZnb859w0OjRs) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Dalam Masa Ini](https://open.spotify.com/album/0AMQ4QUXFOThLoI76UxKVA) | 2:14 | 2023-06-23 | 2024-03-23 |
 | [Dancing In](https://open.spotify.com/track/72yToKzlUefPZOmYFd18Ai) | [La Dormilona](https://open.spotify.com/artist/4T6ME5iuu0IEJYNUldQ1u1) | [Dancing In My Dreams](https://open.spotify.com/album/29qcsRC2UteeNJ6qFWvmIK) | 3:08 | 2022-02-04 |  |
 | [Daphine](https://open.spotify.com/track/0XwJ2kXGE6glUGOg7BrCPB) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Daphine](https://open.spotify.com/album/75JLBXA0qS480JSDRo10ey) | 3:33 | 2021-10-09 | 2023-10-29 |
 | [Darashinai Beach](https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW) | [Kenichiban](https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva) | [Darashinai Beach](https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc) | 3:39 | 2020-12-08\* | 2021-09-17 |
@@ -207,6 +208,7 @@
 | [Retreat Bubble](https://open.spotify.com/track/1M7KwdBtaGsBNzUcOyidzy) | [Rombos Aran](https://open.spotify.com/artist/5urp8Oh8Gq6I7H53TgRjpi) | [Retreat Bubble](https://open.spotify.com/album/4dwdIrQLJUn0tmpwFtUhKe) | 1:55 | 2021-12-09 | 2023-07-29 |
 | [Reveries](https://open.spotify.com/track/2Vjjo1WB2m1YBYyJqrcA9u) | [Dream City](https://open.spotify.com/artist/0xKWlgGQrGhZgWxhbQlBSE) | [Somnolent Summer](https://open.spotify.com/album/7lvhfPxqTsvbM5ZFKPinq2) | 2:02 | 2022-05-26 |  |
 | [Reversoothes](https://open.spotify.com/track/61JqDmHZeYLK2RclRBSr9F) | [Selma Moore](https://open.spotify.com/artist/2JMWh2t6eo5FgtnVUTX7Im) | [Reversoothes](https://open.spotify.com/album/2RNjKIjMIo0FXWk71vzadZ) | 3:07 | 2021-09-30 | 2024-03-07 |
+| [Royal Cubit](https://open.spotify.com/track/1PhMMm4HZgwJI97RXAuFg6) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Royal Cubit](https://open.spotify.com/album/0iShyFMcuswRzJDvV9ATz8) | 3:22 | 2024-03-14 |  |
 | [Rêves](https://open.spotify.com/track/415qfvQLevoRRug7NsTPxy) | [Ignace Lamar](https://open.spotify.com/artist/1isXKlJdwhM1qWvvIMxZja) | [Rêves](https://open.spotify.com/album/5eM0EWZ2ZqFxihXtzQQirS) | 3:18 | 2021-05-27 |  |
 | [Santa Rosa](https://open.spotify.com/track/3xATEhxjTSArvaWteLLtZg) | [Trifonic](https://open.spotify.com/artist/2TDsrZZt4XXF7iQlr5l20Z) | [Ninth Wave](https://open.spotify.com/album/4NJb6SsQSl8kbTPGdMmwgp) | 6:13 | 2020-12-08\* | 2021-02-16 |
 | [sapphire soul](https://open.spotify.com/track/6nCdkMcXgi5Dgb4sdwXq77) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [ivory comet & sapphire soul](https://open.spotify.com/album/0ktKJDZnePFCxsB7FNBUEx) | 2:47 | 2022-06-16 |  |

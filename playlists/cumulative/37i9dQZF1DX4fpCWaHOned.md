@@ -4,13 +4,13 @@
 
 > You're on top of the world\. Don't forget it\. Cover: Miley Cyrus
 
-486 songs - 1 day 2 hr 57 min
+487 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Doves](https://open.spotify.com/track/62hTXlVQacy3pjBW4ntRPl) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:35 | 2020-06-12 | 2021-10-16 |
 | [1950](https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [1950](https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN) | 3:45 | 2020-05-08 | 2021-10-16 |
-| [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-15 |  |
+| [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-15 | 2024-03-23 |
 | [22 \(Taylor's Version\)](https://open.spotify.com/track/3yII7UwgLF6K5zW3xad3MP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:50 | 2022-05-20 | 2022-07-29 |
 | [2step](https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 2:33 | 2021-10-30 | 2022-02-04 |
 | [7 rings](https://open.spotify.com/track/14msK75pk3pA33pzPVNtBF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [7 rings](https://open.spotify.com/album/03D36t8ODrA8ATvoTStU9P) | 2:58 | 2019-07-29\* | 2021-10-13 |
@@ -307,6 +307,7 @@
 | [No Excuses](https://open.spotify.com/track/7fCNUWi6uflDTQ08srxMZk) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [No Excuses](https://open.spotify.com/album/4qq2wMyCT0xIFiO9MkUWOW) | 2:32 | 2019-07-29\* | 2021-10-13 |
 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 | 2020-06-12 | 2022-04-19 |
 | [no tears left to cry](https://open.spotify.com/track/5SxkdsY1ufZzoq9iXceLw9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [no tears left to cry](https://open.spotify.com/album/2AkKk7DFnT2IV1gPcq7RCQ) | 3:25 | 2019-07-29\* | 2021-10-14 |
+| [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-03-22 |  |
 | [Not A Love Song](https://open.spotify.com/track/45iMwUi9OBJlEIsTJ4AStR) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Damaged Vol\. 1](https://open.spotify.com/album/5bXNAkjUFzkJNLZ5JmAq2m) | 3:12 | 2019-07-29\* | 2021-07-27 |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:50 | 2024-01-04 |  |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2023-12-15 | 2024-01-15 |

@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 382080,
       "name": "Algo-Rhythm",
       "url": "https://open.spotify.com/track/0d0sOLCfbxF9dLy5gihuir"
@@ -202,7 +202,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 165000,
       "name": "Arabian",
       "url": "https://open.spotify.com/track/1pvzyztDDh7pfsSsRlCNFf"
@@ -639,6 +639,32 @@
     },
     {
       "album": {
+        "name": "Close To Me (Outflux & Voltech Remix)",
+        "url": "https://open.spotify.com/album/63ad58NcycYW7SEvood8Xf"
+      },
+      "artists": [
+        {
+          "name": "Elekfantz",
+          "url": "https://open.spotify.com/artist/2qPvJviDwokwrQtNzR1Udv"
+        },
+        {
+          "name": "Outflux",
+          "url": "https://open.spotify.com/artist/1aZrHGcyFNnEEE79aRU4jT"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Close To Me - Outflux & Voltech Remix",
+      "url": "https://open.spotify.com/track/0IwHxkDoXNYusArSBdNXoG"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/3cABtJ6Rakb7cYl862nJql"
       },
@@ -814,6 +840,24 @@
       "duration_ms": 187257,
       "name": "C\u00e9u e Mar",
       "url": "https://open.spotify.com/track/1WtaYIG5cJyBzqfCmgTbKY"
+    },
+    {
+      "album": {
+        "name": "Demons From My Past",
+        "url": "https://open.spotify.com/album/4k1sfjAwz4m2fRY7a8VaTZ"
+      },
+      "artists": [
+        {
+          "name": "Bolth",
+          "url": "https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353280,
+      "name": "Demons From My Past",
+      "url": "https://open.spotify.com/track/0yWoYsYcPJsiNC4mr3crsr"
     },
     {
       "album": {
@@ -1318,7 +1362,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 183154,
       "name": "Girl",
       "url": "https://open.spotify.com/track/0zRVIO4GWFugJk5taaym0f"
@@ -1810,10 +1854,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 179047,
       "name": "Lay Down",
       "url": "https://open.spotify.com/track/2xjPXHyvzpg1cFzBPpjd2J"
+    },
+    {
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/26f0ptxMyoGAe3UPvOB5fT"
+      },
+      "artists": [
+        {
+          "name": "BAF",
+          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/2qrFFXf4BDUEPJr1mSJvnd"
     },
     {
       "album": {
@@ -1922,6 +1984,28 @@
       "duration_ms": 156000,
       "name": "Lost In This Moment",
       "url": "https://open.spotify.com/track/47hYgdz8TKrHqcoapO6U5P"
+    },
+    {
+      "album": {
+        "name": "Lost In This Moment (The Remixes)",
+        "url": "https://open.spotify.com/album/7d0QJdsZ58d59DfeJm8i2w"
+      },
+      "artists": [
+        {
+          "name": "Dropack",
+          "url": "https://open.spotify.com/artist/2KyCVyWufNDwx3XKKZIbXg"
+        },
+        {
+          "name": "Moonphazes",
+          "url": "https://open.spotify.com/artist/5B6a4tvHuhbxL5sNHRbbKH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322378,
+      "name": "Lost In This Moment - Moonphazes Remix",
+      "url": "https://open.spotify.com/track/2GxlKckOxqhqDfbyEgxmjY"
     },
     {
       "album": {
@@ -2342,7 +2426,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 252213,
       "name": "Ordinary World",
       "url": "https://open.spotify.com/track/250Xm7kH7epgWv5oUhKADC"
@@ -2502,6 +2586,24 @@
       "duration_ms": 160650,
       "name": "Please Press Play - Radio Edit",
       "url": "https://open.spotify.com/track/37JCQAFq3xloM2QraYGUUk"
+    },
+    {
+      "album": {
+        "name": "Plus Size",
+        "url": "https://open.spotify.com/album/22Q9jkMY2gfwHZhLkxkabP"
+      },
+      "artists": [
+        {
+          "name": "Almek",
+          "url": "https://open.spotify.com/artist/0OWFz4qVgVrnaPpvhOAZYa"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213582,
+      "name": "Plus Size",
+      "url": "https://open.spotify.com/track/2oDoCmwlsUIHyZ4VE0VM8t"
     },
     {
       "album": {
@@ -2720,7 +2822,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 235753,
       "name": "Savage",
       "url": "https://open.spotify.com/track/5nZAfBlMVSaJtbZy2DVqzm"
@@ -3028,6 +3130,24 @@
       "duration_ms": 330491,
       "name": "So Beautiful",
       "url": "https://open.spotify.com/track/1yLkoxMWyzo39M5AIeEceQ"
+    },
+    {
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/0iLV8CmOpT9Erfag3hUShp"
+      },
+      "artists": [
+        {
+          "name": "Sterium",
+          "url": "https://open.spotify.com/artist/6mZFMQ4sBi39W9dXCLH77s"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315000,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3H7J7Gyk2HUMdwm2LiBJst"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,969 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,006 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 59 | [La Flotadera](https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 4:25 |
 | 60 | [Mermaid Sashimi](https://open.spotify.com/track/1gFGPXCwLydEkk7FcBAff0) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG) | [Mermaid Sashimi](https://open.spotify.com/album/0f8IDWiMd1xAnmlIxTfmKy) | 4:52 |
 | 61 | [Sastre Del Diablo](https://open.spotify.com/track/7cfIzSgAEYUW4geo3jXduo) | [Nortec Collective](https://open.spotify.com/artist/7uoHvGlnMzDKOlPrmGCTNK) | [Border Revolver](https://open.spotify.com/album/0kL29ZyygPwNIkTxf7gpiN) | 2:50 |
-| 62 | [Kiosko](https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Kiosko](https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY) | 4:13 |
-| 63 | [El Micrófono](https://open.spotify.com/track/2hfGuADMk6YBgciFuJnv5s) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Piñata](https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu) | 3:34 |
+| 62 | [El Micrófono](https://open.spotify.com/track/2hfGuADMk6YBgciFuJnv5s) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Piñata](https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu) | 3:34 |
+| 63 | [Kiosko](https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Kiosko](https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY) | 4:13 |
 | 64 | [Horror Amor](https://open.spotify.com/track/4yG7J0NdjBVsM77nw24WIz) | [$6 Million Dollar Weirdo](https://open.spotify.com/artist/1s0oZV9v5zH3A9exHV7RlL) | [Ep1](https://open.spotify.com/album/0A506zY9EIXw9KeCm4x6nY) | 3:47 |
 | 65 | [Corazon](https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu) | [Elevator](https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9) | 4:37 |
 | 66 | [Amor Prohibido II](https://open.spotify.com/track/6e0R0ZhqkRvh0yVXM0LUxq) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Ha Sido](https://open.spotify.com/album/5d8kc4RkQim1IXtL3QwxnK) | 3:16 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 90 | [Dancing In The Dark](https://open.spotify.com/track/2Dsc3Cx6d9qr19aoXi6Fqm) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Dancing In The Dark](https://open.spotify.com/album/0blCS4K4dzy4hfLa6xOwUb) | 3:27 |
 | 91 | [Pistache](https://open.spotify.com/track/6hNCdAhUeH2JKFfr7lcfkl) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Bosque de San Marcos](https://open.spotify.com/album/4XQnB0Go4T6UunJgPTIaSf) | 4:12 |
 | 92 | [Tarde O Temprano](https://open.spotify.com/track/4XA2bWf1gbyETv4p0x3KHF) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [EXPRESS](https://open.spotify.com/album/5X6VPdxmPVASY9SuQJHR6n) | 2:40 |
-| 93 | [Vidas Paralelas](https://open.spotify.com/track/3PLbGRy1TcQJd8AGnw9TdD) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Vidas Paralelas](https://open.spotify.com/album/6Vghn6zs5r9r8XFnxRMPZN) | 3:57 |
-| 94 | [Dias Perfectos](https://open.spotify.com/track/4urHBS1qKGZ5b4TRDpsONJ) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [El Techo es el Suelo](https://open.spotify.com/album/203Q63gFcoKrppI1TcQee1) | 4:40 |
+| 93 | [Dias Perfectos](https://open.spotify.com/track/4urHBS1qKGZ5b4TRDpsONJ) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [El Techo es el Suelo](https://open.spotify.com/album/203Q63gFcoKrppI1TcQee1) | 4:40 |
+| 94 | [Vidas Paralelas](https://open.spotify.com/track/3PLbGRy1TcQJd8AGnw9TdD) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Vidas Paralelas](https://open.spotify.com/album/6Vghn6zs5r9r8XFnxRMPZN) | 3:57 |
 | 95 | [El Ultimo](https://open.spotify.com/track/1LnHgQUu6IBqDLlXH4A3Vq) | [Los Odio!](https://open.spotify.com/artist/0tqpmKIKOBpH3PESt3W93v) | [Los Odio](https://open.spotify.com/album/4jnjFnZIJ7kHm2VIfQwQFC) | 3:35 |
 | 96 | [Lo Que Puedes Dar](https://open.spotify.com/track/6UKas8a0cOxZjptZi26GWV) | [Los Fascinantes](https://open.spotify.com/artist/5uOmmoQtUqCtXiTGv2qpFQ) | [Lo Que Puedes Dar](https://open.spotify.com/album/2vhtpNGqAkUnfz8Jwg6JkV) | 2:52 |
 | 97 | [Fiesta Permanente](https://open.spotify.com/track/2IWmJTCkFBafsl702cwURa) | [Pau y Amigos](https://open.spotify.com/artist/46jXSb4Q3RLlT5M1nWCKMD) | [El Bar de Peter Pan](https://open.spotify.com/album/3uzJdTLK0NfNbkKnsusZII) | 4:40 |
 | 98 | [Sentado Aquí](https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [Sentado Aquí](https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp) | 4:20 |
-| 99 | [Vámonos](https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh) | [Súper Tigre](https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3) | [Súper Tigre](https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3) | 3:26 |
-| 100 | [Miente](https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR) | [Los Marty](https://open.spotify.com/artist/5seqHZItOVyRw65m6CgiNx) | [Historias De Un Cowboy](https://open.spotify.com/album/3heymgUjbF6Z9o8CGKC8Kg) | 2:46 |
+| 99 | [Minutos de Aire \(feat\. Jorge Gonzalez\)](https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 5 Coyote Nights](https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F) | 4:37 |
+| 100 | [Vámonos](https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh) | [Súper Tigre](https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3) | [Súper Tigre](https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3) | 3:26 |
 
-Snapshot ID: `MCw1YmUzMzRmYjM5MmE5OTk1NDU1MzNiMjE3YjhhYjBhODA1Y2VmN2Y3`
+Snapshot ID: `MCxiZGY1MzA2MjZhZjBlM2YzNzU4Yzg0NjVmNjJiYzhlNmUwNTc4MDgz`

@@ -7858,7 +7858,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 202507,
       "name": "Have It In You",
       "url": "https://open.spotify.com/track/0sHou6HBAx8c7ipaOnab6r"
@@ -8740,6 +8740,24 @@
       "duration_ms": 193776,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/5ipnKWzT9dxir2vQre0Y77"
+    },
+    {
+      "album": {
+        "name": "hurt like it should",
+        "url": "https://open.spotify.com/album/2z9tnFVrBzgvj1NR98ccBY"
+      },
+      "artists": [
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203467,
+      "name": "hurt like it should",
+      "url": "https://open.spotify.com/track/1GeQUUhVdGjPZTSONOhkmr"
     },
     {
       "album": {

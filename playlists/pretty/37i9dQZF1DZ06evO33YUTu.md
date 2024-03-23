@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,547 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,572 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 37 | [A Mí No](https://open.spotify.com/track/5UJ0ekAw8exus0fvaUWSZ8) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:09 |
 | 38 | [Química](https://open.spotify.com/track/3f4GVrbME6OfGJqlaxR6aF) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap\. 2 \- I Try For You / Química](https://open.spotify.com/album/2MwlMWtZzYtqfUxhiYCCfM) | 2:17 |
 | 39 | [Jacuzzi](https://open.spotify.com/track/68AFwp0MnkWketMmnfvzR8) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Jacuzzi](https://open.spotify.com/album/6hourrBLixE67puzTocZUh) | 3:04 |
-| 40 | [Cartagena ft\. Greeicy](https://open.spotify.com/track/4LeXtJq2kY4Htg8K7Juw1t) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Cartagena ft\. Greeicy](https://open.spotify.com/album/7itQ1pyZFriXBV2IzJ1rCU) | 2:43 |
-| 41 | [I Try For You](https://open.spotify.com/track/4OZ6TtvvAM4LZUi6UDJIzu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:16 |
+| 40 | [I Try For You](https://open.spotify.com/track/4OZ6TtvvAM4LZUi6UDJIzu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:16 |
+| 41 | [Cartagena ft\. Greeicy](https://open.spotify.com/track/4LeXtJq2kY4Htg8K7Juw1t) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Cartagena ft\. Greeicy](https://open.spotify.com/album/7itQ1pyZFriXBV2IzJ1rCU) | 2:43 |
 | 42 | [Error](https://open.spotify.com/track/7eOs4mwrf7rp7lGEF2tjGu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Error](https://open.spotify.com/album/7eRvVezqELiJfp1vSrDx0u) | 3:29 |
 | 43 | [Contigo](https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 2:51 |
-| 44 | [Antídoto](https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Antídoto](https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd) | 3:26 |
-| 45 | [Lokita](https://open.spotify.com/track/4i0OTkKDtOhSNgVb57mexh) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:06 |
+| 44 | [Lokita](https://open.spotify.com/track/4i0OTkKDtOhSNgVb57mexh) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:06 |
+| 45 | [Antídoto](https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Antídoto](https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd) | 3:26 |
 | 46 | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI) | 4:34 |
 | 47 | [Domingo \(Reykon, Cosculluela, Greeicy & Rauw Alejandro\) \- Remix](https://open.spotify.com/track/2RcvZFouLOTFZbQHr3nhOj) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Domingo \(Reykon, Cosculluela, Greeicy & Rauw Alejandro\) \[Remix\]](https://open.spotify.com/album/3hqnnuMqi7Q5CTWLHnnnVD) | 4:12 |
 | 48 | [Los Besos \- Versión Piano](https://open.spotify.com/track/7mekhXCiEHT9yCTfL2JvfO) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Los Besos \(Versión Piano\)](https://open.spotify.com/album/4wIHfk91jr0IaqsPoAcP2g) | 3:50 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 50 | [Si te hubiera](https://open.spotify.com/track/5d7IxEBgNeHsJaR3IO4DQV) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 1:42 |
 | 51 | [Contigo](https://open.spotify.com/track/7f8FPVZ0frAO4aWtgzGrXr) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Contigo](https://open.spotify.com/album/6eaeqYb01HV1kwgA0GSiS6) | 2:50 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDAxYmVlYTg5MTIxNDg5MzcwMjNiNmM0YzMxZWE2Njc2ZQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDAwYzA2NjE3YWQ4OGRjY2YyOTViOTc0ZjBkN2E0M2Y1Zg==`

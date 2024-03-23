@@ -4,7 +4,7 @@
 
 > Lo que diga el corazón ❤️💔 Cover: Gustavo Palafox
 
-58 songs - 2 hr 56 min
+59 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [CCC \- Remix](https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CCC \(Remix\)](https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo) | 2:27 | 2024-03-15 |  |
 | [CHANEL](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [CHANEL](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 | 2024-03-15 |  |
 | [CHULA](https://open.spotify.com/track/3X39TEP3dMfJzvYJrp18UH) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [CHULA](https://open.spotify.com/album/4KblreEPyinh0NwO6TjTSa) | 2:48 | 2024-03-15 |  |
+| [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 | 2024-03-22 |  |
 | [Dormir No He Podido](https://open.spotify.com/track/5sRv4AqGhldtlXHmCmM57h) | [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Dormir No He Podido](https://open.spotify.com/album/6pLIBusy2DZAWfm9c77F0M) | 2:57 | 2024-03-15 |  |
 | [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 | 2024-03-15 |  |
 | [DOS JOVENES](https://open.spotify.com/track/7lNvXFcxTeLalvSIdZac0J) | [Pandemia 702](https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM) | [PANDEMIA](https://open.spotify.com/album/63T0LpVVcekwfnRrryviWx) | 3:09 | 2024-03-15 |  |

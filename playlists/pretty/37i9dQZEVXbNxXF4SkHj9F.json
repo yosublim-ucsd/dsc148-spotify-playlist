@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - South Korea.",
-  "num_followers": 113239,
+  "num_followers": 113274,
   "original_name": "Top 50 - South Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzY0Mzg1NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzY0NDcyMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "3D : The Remixes",
         "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
@@ -81,39 +81,7 @@
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
-      "album": {
-        "name": "Closer Than This",
-        "url": "https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 223302,
-      "name": "Closer Than This",
-      "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
-    },
-    {
-      "added_at": "2024-03-21 10:09:33",
-      "album": {
-        "name": "Set Me Free Pt.2",
-        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 200929,
-      "name": "Set Me Free Pt.2",
-      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
-    },
-    {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -129,7 +97,39 @@
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
+      "album": {
+        "name": "Set Me Free Pt.2",
+        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 200929,
+      "name": "Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
+    },
+    {
+      "added_at": "2024-03-22 10:49:20",
+      "album": {
+        "name": "Closer Than This",
+        "url": "https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 223302,
+      "name": "Closer Than This",
+      "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
+    },
+    {
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "FRI(END)S",
         "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "TWS 1st Mini Album 'Sparkling Blue'",
         "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "Bam Yang Gang",
         "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
@@ -241,23 +241,7 @@
       "url": "https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
-      "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 211250,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG"
-    },
-    {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "Do or Die",
         "url": "https://open.spotify.com/album/0vZCxyaV5c4lcHqds3xfts"
@@ -273,23 +257,23 @@
       "url": "https://open.spotify.com/track/21ewxM3YvcdTj7cC0XwznO"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+      "duration_ms": 211250,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "Grain of Sand",
         "url": "https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc"
@@ -305,7 +289,23 @@
       "url": "https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/3OdIiWnYRHPYtC313Z0Bwy"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/0dIwHWpQXBKVOuP9CJsY4E"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/6auT8cRBu3BgPRBrdVBY15"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "Perfect Night",
         "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/0dIwHWpQXBKVOuP9CJsY4E"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/2tA3NP12r4niSRhb9Y6AoY"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "To. X - The 5th Mini Album",
         "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "IM HERO",
         "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/2gkVEnpahpE3bQuvGuCpAV"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "Fourever",
         "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -465,23 +465,7 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
-      "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 130996,
-      "name": "Interlude : Dive",
-      "url": "https://open.spotify.com/track/2qg2jy3v50RwfV5FAqG3a2"
-    },
-    {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "FRI(END)S",
         "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
@@ -497,23 +481,7 @@
       "url": "https://open.spotify.com/track/0v6wAlWCzHYj1OuJrVuH7J"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
-      "album": {
-        "name": "FRI(END)S",
-        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "FRI(END)S (Slowed Down)",
-      "url": "https://open.spotify.com/track/4njgp1LC4XoUsnF3pN0WXX"
-    },
-    {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "FRI(END)S",
         "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
@@ -529,23 +497,7 @@
       "url": "https://open.spotify.com/track/6G3myAs4HemIdtLYhhjGLP"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
-      "album": {
-        "name": "Love 119",
-        "url": "https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 173489,
-      "name": "Love 119",
-      "url": "https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9"
-    },
-    {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
@@ -561,55 +513,39 @@
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
-        "name": "IM HERO",
-        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
       },
       "artists": [
         {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 196400,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/50xSycnGMDy0Wg5jJcOv3S"
+      "duration_ms": 162000,
+      "name": "FRI(END)S (Slowed Down)",
+      "url": "https://open.spotify.com/track/4njgp1LC4XoUsnF3pN0WXX"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
-        "name": "Love wins all",
-        "url": "https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T"
+        "name": "Love 119",
+        "url": "https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
         }
       ],
-      "duration_ms": 271080,
-      "name": "Love wins all",
-      "url": "https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o"
+      "duration_ms": 173489,
+      "name": "Love 119",
+      "url": "https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
-      "album": {
-        "name": "Drama - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
-    },
-    {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "NewJeans 'Super Shy'",
         "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
@@ -625,7 +561,71 @@
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 130996,
+      "name": "Interlude : Dive",
+      "url": "https://open.spotify.com/track/2qg2jy3v50RwfV5FAqG3a2"
+    },
+    {
+      "added_at": "2024-03-22 10:49:20",
+      "album": {
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
+    },
+    {
+      "added_at": "2024-03-22 10:49:20",
+      "album": {
+        "name": "Love wins all",
+        "url": "https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 271080,
+      "name": "Love wins all",
+      "url": "https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o"
+    },
+    {
+      "added_at": "2024-03-22 10:49:20",
+      "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/50xSycnGMDy0Wg5jJcOv3S"
+    },
+    {
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "IM HERO",
         "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
@@ -641,91 +641,7 @@
       "url": "https://open.spotify.com/track/2jidjmWNeRmKgLjXhW52Gz"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
-      "album": {
-        "name": "IM HERO",
-        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 256372,
-      "name": "A bientot",
-      "url": "https://open.spotify.com/track/4Cr43xPo7bwyCcL1g3yVCu"
-    },
-    {
-      "added_at": "2024-03-21 10:09:33",
-      "album": {
-        "name": "Get A Guitar",
-        "url": "https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 160371,
-      "name": "Get A Guitar",
-      "url": "https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4"
-    },
-    {
-      "added_at": "2024-03-21 10:09:33",
-      "album": {
-        "name": "Bling-Bang-Bang-Born",
-        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
-      },
-      "artists": [
-        {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
-        }
-      ],
-      "duration_ms": 168135,
-      "name": "Bling-Bang-Bang-Born",
-      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
-    },
-    {
-      "added_at": "2024-03-21 10:09:33",
-      "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 175911,
-      "name": "Too Sad to Dance",
-      "url": "https://open.spotify.com/track/3bNNvJA7hsGw0wSpGkfOBm"
-    },
-    {
-      "added_at": "2024-03-21 10:09:33",
-      "album": {
-        "name": "AK47",
-        "url": "https://open.spotify.com/album/4EjOYpSg7rQvMxz74rb4mc"
-      },
-      "artists": [
-        {
-          "name": "Men's Tear",
-          "url": "https://open.spotify.com/artist/3Kf9OnmHudWe9wrpPOtEtc"
-        },
-        {
-          "name": "\ubdf0\ud2f0\ud480\ub108\ub4dc",
-          "url": "https://open.spotify.com/artist/7pA8ZjAUu7fzSOd8uQgQJY"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "AK47",
-      "url": "https://open.spotify.com/track/58JkIC1jK1NZNSJeLXfpWt"
-    },
-    {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "NewJeans 2nd EP 'Get Up'",
         "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
@@ -741,7 +657,39 @@
       "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
+      "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 256372,
+      "name": "A bientot",
+      "url": "https://open.spotify.com/track/4Cr43xPo7bwyCcL1g3yVCu"
+    },
+    {
+      "added_at": "2024-03-22 10:49:20",
+      "album": {
+        "name": "Bling-Bang-Bang-Born",
+        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "duration_ms": 168135,
+      "name": "Bling-Bang-Bang-Born",
+      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
+    },
+    {
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -752,28 +700,28 @@
           "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
         }
       ],
-      "duration_ms": 154236,
-      "name": "Hate You",
-      "url": "https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E"
+      "duration_ms": 175911,
+      "name": "Too Sad to Dance",
+      "url": "https://open.spotify.com/track/3bNNvJA7hsGw0wSpGkfOBm"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
-        "name": "The Winning",
-        "url": "https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj"
+        "name": "Get A Guitar",
+        "url": "https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
         }
       ],
-      "duration_ms": 190786,
-      "name": "Holssi",
-      "url": "https://open.spotify.com/track/0UTtK6hregIBOsefavRI26"
+      "duration_ms": 160371,
+      "name": "Get A Guitar",
+      "url": "https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "Yes or No",
         "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
@@ -797,7 +745,79 @@
       "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"
     },
     {
-      "added_at": "2024-03-21 10:09:33",
+      "added_at": "2024-03-22 10:49:20",
+      "album": {
+        "name": "AK47",
+        "url": "https://open.spotify.com/album/4EjOYpSg7rQvMxz74rb4mc"
+      },
+      "artists": [
+        {
+          "name": "Men's Tear",
+          "url": "https://open.spotify.com/artist/3Kf9OnmHudWe9wrpPOtEtc"
+        },
+        {
+          "name": "\ubdf0\ud2f0\ud480\ub108\ub4dc",
+          "url": "https://open.spotify.com/artist/7pA8ZjAUu7fzSOd8uQgQJY"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "AK47",
+      "url": "https://open.spotify.com/track/58JkIC1jK1NZNSJeLXfpWt"
+    },
+    {
+      "added_at": "2024-03-22 10:49:20",
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 154236,
+      "name": "Hate You",
+      "url": "https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E"
+    },
+    {
+      "added_at": "2024-03-22 10:49:20",
+      "album": {
+        "name": "LOVE IN STEREO",
+        "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 173336,
+      "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
+      "url": "https://open.spotify.com/track/3W2kGv8CcwRl2MWQN5vxKL"
+    },
+    {
+      "added_at": "2024-03-22 10:49:20",
+      "album": {
+        "name": "The Winning",
+        "url": "https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 190786,
+      "name": "Holssi",
+      "url": "https://open.spotify.com/track/0UTtK6hregIBOsefavRI26"
+    },
+    {
+      "added_at": "2024-03-22 10:49:20",
       "album": {
         "name": "NewJeans 'Super Shy'",
         "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
@@ -811,22 +831,6 @@
       "duration_ms": 108986,
       "name": "New Jeans",
       "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
-    },
-    {
-      "added_at": "2024-03-21 10:09:33",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     }
   ],
   "unique_name": "Top 50 - South Korea",

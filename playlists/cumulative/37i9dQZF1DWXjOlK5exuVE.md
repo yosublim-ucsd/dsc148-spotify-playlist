@@ -4,7 +4,7 @@
 
 > ¡Bienvenidos a La Tierra del Corrido! Historias que hacen historia\. Ramón Ayala en portada.
 
-199 songs - 10 hr 23 min
+200 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [Pistoleros Famosos](https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:39 | 2023-08-22 |  |
 | [Pixelados](https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:55 | 2024-02-14 |  |
 | [Poco A Poco](https://open.spotify.com/track/4loIMejzvt11s97SGVEat8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Poco A Poco](https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl) | 2:36 | 2023-10-23 |  |
-| [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 | 2024-02-14 |  |
+| [Porte de Scarface](https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX) | 2:52 | 2024-03-08 |  |
+| [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 | 2024-02-14 | 2024-03-23 |
 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-08-22 |  |
 | [Prueba De Fuego](https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx) | 3:51 | 2024-02-14 |  |
 | [Punto y Aparte](https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0) | 2:38 | 2023-08-22 |  |

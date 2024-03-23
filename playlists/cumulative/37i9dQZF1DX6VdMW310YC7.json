@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 255789,
       "name": "Another Time",
       "url": "https://open.spotify.com/track/67f7gMWZ2PJI7IsUBs3mNQ"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 169180,
       "name": "Another You",
       "url": "https://open.spotify.com/track/0GZ6PpNaMiViu3J0MDZztp"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 196562,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/6ADZbTdA2DLTI0iXWgxB6q"
@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 326000,
       "name": "Assassin",
       "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
@@ -2958,7 +2958,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 313586,
       "name": "Beyond Beliefs",
       "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
@@ -3432,7 +3432,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 230074,
       "name": "Brave",
       "url": "https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f"
@@ -4132,7 +4132,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 208185,
       "name": "Can't Help But Think About You",
       "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
@@ -5330,7 +5330,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 162338,
       "name": "Company",
       "url": "https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz"
@@ -5628,7 +5628,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 220000,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q"
@@ -6510,7 +6510,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 232131,
       "name": "Do You Feel The Same? - OCULA Remix",
       "url": "https://open.spotify.com/track/7MNXk2wXG0NNrNWT7grUyC"
@@ -8510,6 +8510,24 @@
     {
       "album": {
         "name": "Falling",
+        "url": "https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224140,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE"
+    },
+    {
+      "album": {
+        "name": "Falling",
         "url": "https://open.spotify.com/album/78fdgPy1jMWv2qxs53lXVI"
       },
       "artists": [
@@ -10071,6 +10089,24 @@
     },
     {
       "album": {
+        "name": "Friday Lake",
+        "url": "https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Friday Lake",
+      "url": "https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY"
+    },
+    {
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39"
       },
@@ -10082,7 +10118,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 186643,
       "name": "Friends",
       "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
@@ -11920,7 +11956,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 220625,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch"
@@ -12248,7 +12284,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 174545,
       "name": "HOLD YOU",
       "url": "https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"
@@ -12580,7 +12616,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 248432,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
@@ -13090,7 +13126,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 262221,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b"
@@ -13464,7 +13500,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 228094,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/1Swh2Td4N7mpMG9xyG09gA"
@@ -16834,7 +16870,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 222813,
       "name": "Lost In Space",
       "url": "https://open.spotify.com/track/67ck64BdbfbWZDEcgNdP6a"
@@ -16860,10 +16896,28 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 182444,
       "name": "Lost In The Melody",
       "url": "https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz"
+    },
+    {
+      "album": {
+        "name": "Lost In Time",
+        "url": "https://open.spotify.com/album/3WF0tSjsDIbYgdttZTWO8f"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Lost In Time",
+      "url": "https://open.spotify.com/track/3NgS3hX9JXheEU0g7c1H7T"
     },
     {
       "album": {
@@ -18884,7 +18938,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 233644,
       "name": "Must Be Dreaming",
       "url": "https://open.spotify.com/track/16ux7RA90OUcVqhgrad44r"
@@ -21124,7 +21178,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 171598,
       "name": "Original Sin",
       "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
@@ -21650,7 +21704,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 210000,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw"
@@ -22768,7 +22822,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 284563,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
@@ -24170,7 +24224,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 283953,
       "name": "See You",
       "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
@@ -25271,6 +25325,28 @@
     },
     {
       "album": {
+        "name": "snowfall",
+        "url": "https://open.spotify.com/album/77vLEdWiuJQt9oyPG84csK"
+      },
+      "artists": [
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141785,
+      "name": "snowfall",
+      "url": "https://open.spotify.com/track/2e3KEsdhY5S2RDl593dbOE"
+    },
+    {
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
       },
@@ -25736,7 +25812,7 @@
       ],
       "date_added": "2020-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 222528,
       "name": "Something Was Real",
       "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
@@ -26679,6 +26755,28 @@
     },
     {
       "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/2P0ApHEYZEpv1qa6hzI7bM"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229484,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/595M3e9mqepEd19NGVEABi"
+    },
+    {
+      "album": {
         "name": "Sunny Days (Michael Brun Remix)",
         "url": "https://open.spotify.com/album/1YyqdaeHMionFgZnttKz6P"
       },
@@ -27184,7 +27282,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 291125,
       "name": "Tal",
       "url": "https://open.spotify.com/track/0i15aMXiEJd6IOBOJ0JtiH"
@@ -27206,7 +27304,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 209178,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
@@ -29134,6 +29232,28 @@
       "duration_ms": 261538,
       "name": "Turning Away - Parra for Cuva Remix",
       "url": "https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o"
+    },
+    {
+      "album": {
+        "name": "Turtle Jazz",
+        "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193613,
+      "name": "Turtle Jazz",
+      "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
     },
     {
       "album": {

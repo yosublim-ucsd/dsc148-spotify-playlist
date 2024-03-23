@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 111031,
+  "2024-03-23": 111023,
   "date_first_scraped": "2022-01-02",
   "description": "Unearthing up-and-coming Korean acts. Cover: Zior Park",
   "name": "RADAR Korea",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 180733,
       "name": "12:45 (Our Secret Diary X Kim Seungmin, Cosmic Boy)",
       "url": "https://open.spotify.com/track/6ouTnX0kt4EiXtiDlPXBjn"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 189880,
       "name": "awry (Prod. Epitone Project)",
       "url": "https://open.spotify.com/track/0ktw1LzsWYvKaLLIGHWvZW"
@@ -351,10 +351,32 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 202653,
       "name": "B**ch (Feat. CHANGMO)",
       "url": "https://open.spotify.com/track/2ueLsqwiIflzdH8STALWRV"
+    },
+    {
+      "album": {
+        "name": "BLESSED",
+        "url": "https://open.spotify.com/album/7wTEF0FR8kVEtPTV5cjRzd"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165213,
+      "name": "Baby PLZ (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/0KBQZCNDLOPLFNZ17Q8CQg"
     },
     {
       "album": {
@@ -431,6 +453,24 @@
       "duration_ms": 198169,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/0adySBJEfMd5xAWkzEOVTb"
+    },
+    {
+      "album": {
+        "name": "BXX",
+        "url": "https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw"
+      },
+      "artists": [
+        {
+          "name": "PURPLE KISS",
+          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166053,
+      "name": "BBB",
+      "url": "https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB"
     },
     {
       "album": {
@@ -1151,7 +1191,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 185719,
       "name": "DANG! (hocus pocus)",
       "url": "https://open.spotify.com/track/2pNxufMWgPp8I7m6zPChq6"
@@ -1209,6 +1249,24 @@
       "duration_ms": 221533,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/6URocvg9wGd4RXPcX55xCJ"
+    },
+    {
+      "album": {
+        "name": "Default",
+        "url": "https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u"
+      },
+      "artists": [
+        {
+          "name": "Kim Sawol",
+          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232773,
+      "name": "Default",
+      "url": "https://open.spotify.com/track/7a9JYapvSZ6jYu2TaG7BRU"
     },
     {
       "album": {
@@ -1285,7 +1343,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 165986,
       "name": "Do",
       "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
@@ -1553,7 +1611,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 185538,
       "name": "Eve, Psyche & The Bluebeard\u2019s wife",
       "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
@@ -1611,7 +1669,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 174186,
       "name": "Fact or Cap",
       "url": "https://open.spotify.com/track/3DnAB732qa64xvE1PZWaYq"
@@ -1687,6 +1745,24 @@
       "duration_ms": 168437,
       "name": "FEARLESS (2023 Ver.)",
       "url": "https://open.spotify.com/track/4K8jDTlNhZWEdnzZVGRMtN"
+    },
+    {
+      "album": {
+        "name": "NEW CHAPTER : LUCEAT",
+        "url": "https://open.spotify.com/album/3Fq9Q9R4JeietWxlin6Xiy"
+      },
+      "artists": [
+        {
+          "name": "BAE173",
+          "url": "https://open.spotify.com/artist/60315n11JElel8KhdHg8jM"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "Fifty-Fifty",
+      "url": "https://open.spotify.com/track/3NFerWk1oRz10rpCPqKclw"
     },
     {
       "album": {
@@ -1849,6 +1925,24 @@
       "duration_ms": 207626,
       "name": "FRESH",
       "url": "https://open.spotify.com/track/4Az5BSC0ud7E5Dx3xoI8Mh"
+    },
+    {
+      "album": {
+        "name": "FUEGO",
+        "url": "https://open.spotify.com/album/6KizwQiaESv5h3FIhcr8ta"
+      },
+      "artists": [
+        {
+          "name": "THE NEW SIX",
+          "url": "https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192586,
+      "name": "FUEGO",
+      "url": "https://open.spotify.com/track/2iCy2qfDdWN8duitTHeHSm"
     },
     {
       "album": {
@@ -2091,7 +2185,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 142386,
       "name": "Gummy Bear (feat. BIGONE)",
       "url": "https://open.spotify.com/track/4OPgqi6IPWuntmy7woOKaA"
@@ -2254,6 +2348,24 @@
     },
     {
       "album": {
+        "name": "XOUL DAY",
+        "url": "https://open.spotify.com/album/2YZ7DBAGSwldjnLRP6zHSd"
+      },
+      "artists": [
+        {
+          "name": "XODIAC",
+          "url": "https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208346,
+      "name": "HEYDAY",
+      "url": "https://open.spotify.com/track/4F06nQOQWNVREhOU8iax6Y"
+    },
+    {
+      "album": {
         "name": "Voice tool tip.txt",
         "url": "https://open.spotify.com/album/4ZjyTLpfGTTDl8lfZUulGx"
       },
@@ -2339,6 +2451,32 @@
       "duration_ms": 263893,
       "name": "HOP ON THE TRUCK (Prod. Padi)",
       "url": "https://open.spotify.com/track/3P8LJzc8QBtHqmLQCyoCQe"
+    },
+    {
+      "album": {
+        "name": "How Time Flies (feat. BIGONE & Dive)",
+        "url": "https://open.spotify.com/album/6hVKC1sx3OZ8GIi4g2ernc"
+      },
+      "artists": [
+        {
+          "name": "DOHANSE",
+          "url": "https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v"
+        },
+        {
+          "name": "BIGONE",
+          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
+        },
+        {
+          "name": "Dive",
+          "url": "https://open.spotify.com/artist/1FqFb3OhgJhXPOdg3Rzocd"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177853,
+      "name": "How Time Flies (feat. BIGONE & Dive)",
+      "url": "https://open.spotify.com/track/033StetXuelKeMeQ7JWEgI"
     },
     {
       "album": {
@@ -2768,6 +2906,24 @@
     },
     {
       "album": {
+        "name": "TEMPEST Voyage",
+        "url": "https://open.spotify.com/album/5oDe8KM2IkcIVw9jhHjtkX"
+      },
+      "artists": [
+        {
+          "name": "TEMPEST",
+          "url": "https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206053,
+      "name": "LIGHTHOUSE",
+      "url": "https://open.spotify.com/track/6Zv31tXdpqXPuMXIT4Pq7p"
+    },
+    {
+      "album": {
         "name": "Like a Miracle",
         "url": "https://open.spotify.com/album/1cTU6taR9eLQGgnaYnurhq"
       },
@@ -3029,6 +3185,24 @@
       "duration_ms": 190257,
       "name": "Lovelylove (feat. CHOI NAKTA)",
       "url": "https://open.spotify.com/track/0tyXMBNyUjV5oSuctNXZaw"
+    },
+    {
+      "album": {
+        "name": "Lucky Draw",
+        "url": "https://open.spotify.com/album/33vU457wPoEegve2qevifQ"
+      },
+      "artists": [
+        {
+          "name": "EXN",
+          "url": "https://open.spotify.com/artist/5s57OpnkDtehlRDTZcLGFE"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154733,
+      "name": "Lucky Draw",
+      "url": "https://open.spotify.com/track/6jW721XvMV5SMNLAqMf4Sl"
     },
     {
       "album": {
@@ -3602,6 +3776,24 @@
     },
     {
       "album": {
+        "name": "Foggy",
+        "url": "https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167853,
+      "name": "No Jam",
+      "url": "https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9"
+    },
+    {
+      "album": {
         "name": "RE:ALIZE",
         "url": "https://open.spotify.com/album/3uHB6cLFlt4u4M6HTbSLfy"
       },
@@ -3849,6 +4041,24 @@
       "duration_ms": 212733,
       "name": "ONE LAST TIME",
       "url": "https://open.spotify.com/track/4ZovI1p2Z6LbWhEFEEWbyT"
+    },
+    {
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/3CDMv5m8ffHTAXidBmY2XQ"
+      },
+      "artists": [
+        {
+          "name": "VCHA",
+          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176030,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/20zQ5Kf2lZA1awa8csGNdJ"
     },
     {
       "album": {
@@ -4543,7 +4753,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 203360,
       "name": "RUCKUS",
       "url": "https://open.spotify.com/track/6X17eeNgCoYfNPOwHfTsSv"
@@ -4597,7 +4807,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 192453,
       "name": "S.O.S",
       "url": "https://open.spotify.com/track/6PgEf0OBaMnN4V4CDBvcvN"
@@ -5273,7 +5483,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 237532,
       "name": "Still love (feat. SO HYUN)",
       "url": "https://open.spotify.com/track/1DXtneuKeU3pfxhBTHrTr5"
@@ -5482,6 +5692,24 @@
     },
     {
       "album": {
+        "name": "text me",
+        "url": "https://open.spotify.com/album/2o3ha2VKOY0gbP9IThu2TY"
+      },
+      "artists": [
+        {
+          "name": "YOU DAYEON",
+          "url": "https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155714,
+      "name": "text me",
+      "url": "https://open.spotify.com/track/7Cu3roszCR6enOjFpN9f2U"
+    },
+    {
+      "album": {
         "name": "The Flash",
         "url": "https://open.spotify.com/album/10NFGCJ5fzJwMadKyBcqfr"
       },
@@ -5559,6 +5787,24 @@
       "duration_ms": 189693,
       "name": "The Little Name",
       "url": "https://open.spotify.com/track/5tdzH8IkV62pyL1BHXrfmv"
+    },
+    {
+      "album": {
+        "name": "The Most",
+        "url": "https://open.spotify.com/album/0MPZZIVL9G3pbDe0UBVOjI"
+      },
+      "artists": [
+        {
+          "name": "WH3N",
+          "url": "https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194426,
+      "name": "The Most",
+      "url": "https://open.spotify.com/track/2zKE0UQw17joNPV8Miji2o"
     },
     {
       "album": {
@@ -5711,7 +5957,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 203649,
       "name": "To My Boyfriend",
       "url": "https://open.spotify.com/track/2WuD4tAn8iCscm1EuZvVWr"
@@ -5855,7 +6101,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 191682,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1KE1eG1NQ5uPRcvthP6eEZ"
@@ -6221,7 +6467,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 186693,
       "name": "Wave in my heart (feat. YUNHWAY)",
       "url": "https://open.spotify.com/track/2POnJrG4QgjHycZJ7t4gRG"
@@ -6275,7 +6521,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 222293,
       "name": "What Should I do",
       "url": "https://open.spotify.com/track/4BZuHDcmgmRaAwPd6IO7MY"
@@ -6340,6 +6586,24 @@
     },
     {
       "album": {
+        "name": "Winter Blossom",
+        "url": "https://open.spotify.com/album/0BfnFb5Q5FduZgF4qcJur0"
+      },
+      "artists": [
+        {
+          "name": "OuiOui",
+          "url": "https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188020,
+      "name": "Winter Blossom",
+      "url": "https://open.spotify.com/track/4GatbexP76ZWIKLG48xMPq"
+    },
+    {
+      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/2CEtkvdTUlrdXn93Whpzr2"
       },
@@ -6376,6 +6640,24 @@
     },
     {
       "album": {
+        "name": "With You Back Then",
+        "url": "https://open.spotify.com/album/7ErveJVCxFgPDk0PVqk5VR"
+      },
+      "artists": [
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161893,
+      "name": "With You Back Then",
+      "url": "https://open.spotify.com/track/1yp7CNSVBSjrXrRdS7EWUX"
+    },
+    {
+      "album": {
         "name": "INSIDE OUT",
         "url": "https://open.spotify.com/album/791UCNthor64Y8rgUk8UaL"
       },
@@ -6409,6 +6691,24 @@
       "duration_ms": 204346,
       "name": "WOULD YOU RUN",
       "url": "https://open.spotify.com/track/1PyRHSdxEZgJpN3vWSGNFw"
+    },
+    {
+      "album": {
+        "name": "XXL EP",
+        "url": "https://open.spotify.com/album/0EbH9upNSg6zsdFZ8g11Yl"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152865,
+      "name": "XXL",
+      "url": "https://open.spotify.com/track/05QXjyZgsAq6J84J6SlbyV"
     },
     {
       "album": {
@@ -6603,7 +6903,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 167272,
       "name": "\uce6b\ucc57 chit-chat",
       "url": "https://open.spotify.com/track/1utBMrImtsgShJ6HpkUl5E"

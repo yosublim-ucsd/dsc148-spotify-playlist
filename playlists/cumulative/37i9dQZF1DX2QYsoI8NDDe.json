@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Mariana Oviedo",
+  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Janeth Valenzuela ",
   "name": "Las Chacalosas",
   "tracks": [
     {
@@ -511,6 +511,28 @@
     },
     {
       "album": {
+        "name": "BBYKTAL",
+        "url": "https://open.spotify.com/album/3gimlSSjfk3bKeMQOW2XEl"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        },
+        {
+          "name": "Deny K",
+          "url": "https://open.spotify.com/artist/14l5S8E3j7RgPY5Q6Nlnbw"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147263,
+      "name": "BBYKTAL",
+      "url": "https://open.spotify.com/track/3pJFmgY5LJtR1Z8OyHM7MI"
+    },
+    {
+      "album": {
         "name": "Besarte As\u00ed",
         "url": "https://open.spotify.com/album/6CDWPWI412WyN0vgZFtgPw"
       },
@@ -836,7 +858,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 233360,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/6RO01uGuxwCoJnGwrZqbRN"
@@ -962,7 +984,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 274920,
       "name": "Cuando Te Acuerdes de M\u00ed - Live Session",
       "url": "https://open.spotify.com/track/78sgRUUe099BRWVyAWYseP"
@@ -1024,7 +1046,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Cu\u00e9ntenle Mentiras",
       "url": "https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR"
@@ -1046,6 +1068,46 @@
       "duration_ms": 201428,
       "name": "C\u00fabreme",
       "url": "https://open.spotify.com/track/6YCsNv4f9cHSuWRKWZ2Car"
+    },
+    {
+      "album": {
+        "name": "DDC",
+        "url": "https://open.spotify.com/album/73kfcjW3oBTvxHiY1X7p61"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186983,
+      "name": "DDC",
+      "url": "https://open.spotify.com/track/4IaMG4UOgitE01E6pYN9ZE"
+    },
+    {
+      "album": {
+        "name": "Terca",
+        "url": "https://open.spotify.com/album/3VsZuGjic5VTjiNrXfbAlp"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        },
+        {
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140554,
+      "name": "De Mal En Peor",
+      "url": "https://open.spotify.com/track/0zNj2vBwUPu7jP26S9SPGh"
     },
     {
       "album": {
@@ -1292,6 +1354,24 @@
       "duration_ms": 164226,
       "name": "El Honor",
       "url": "https://open.spotify.com/track/06ertwHm6GfQSd7h5j9gTw"
+    },
+    {
+      "album": {
+        "name": "El Jessy (En Vivo)",
+        "url": "https://open.spotify.com/album/3Ngx7p0l05OfeGYru824iz"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179256,
+      "name": "El Jessy (En Vivo)",
+      "url": "https://open.spotify.com/track/5HMqqH3biqgksrHFmOTuci"
     },
     {
       "album": {
@@ -2105,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "La Atrevida",
+        "url": "https://open.spotify.com/album/1hBuK0wcd0dXlG9fJaLZfv"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164276,
+      "name": "La Atrevida",
+      "url": "https://open.spotify.com/track/6Z31cRAUoYyKP41rtpbA8K"
+    },
+    {
+      "album": {
         "name": "La Bruja",
         "url": "https://open.spotify.com/album/5Z4EYnTJp3voZ3WJfGC4qN"
       },
@@ -2572,7 +2670,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 155374,
       "name": "Le Gusta",
       "url": "https://open.spotify.com/track/3Z3tUJIewkGw9zSIR9kted"
@@ -2626,7 +2724,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 212812,
       "name": "Lindo G\u00fcerito - En Vivo",
       "url": "https://open.spotify.com/track/2O9fhXMbU6pAFUM8JMYM7k"
@@ -2714,6 +2812,28 @@
       "duration_ms": 250670,
       "name": "Lo Busqu\u00e9",
       "url": "https://open.spotify.com/track/1N1CJ0PkWvsK2Rd7JqtlJV"
+    },
+    {
+      "album": {
+        "name": "Lo Dijiste Todo (En Vivo)",
+        "url": "https://open.spotify.com/album/5jixjiAZPDfJx893OhWZyW"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        },
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Lo Dijiste Todo - En Vivo",
+      "url": "https://open.spotify.com/track/6x431KgZOM8WOq4w37CpPe"
     },
     {
       "album": {
@@ -3385,6 +3505,24 @@
     },
     {
       "album": {
+        "name": "Mujeres al Tiro",
+        "url": "https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145962,
+      "name": "Mujeres al Tiro",
+      "url": "https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8"
+    },
+    {
+      "album": {
         "name": "Pa' Nosotras 8M",
         "url": "https://open.spotify.com/album/134W5TBnMj7LOuxl0LfT01"
       },
@@ -3468,7 +3606,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 150935,
       "name": "Ni El Dinero Ni Nada - En Vivo",
       "url": "https://open.spotify.com/track/70Z5TUJaJ3G9335olKP7SL"
@@ -3490,7 +3628,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 179160,
       "name": "NI MUERTA",
       "url": "https://open.spotify.com/track/3e4GF58G6ilRXhqLG4fl64"
@@ -4805,6 +4943,24 @@
     },
     {
       "album": {
+        "name": "Rosa Pastel",
+        "url": "https://open.spotify.com/album/1Rv252BlB3FncjXuOv3SEK"
+      },
+      "artists": [
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185040,
+      "name": "Rosa Pastel",
+      "url": "https://open.spotify.com/track/7JBVvPuKETheoyCOqQ2y2P"
+    },
+    {
+      "album": {
         "name": "San Mike",
         "url": "https://open.spotify.com/album/49o87APRm62j0t13TMOB4E"
       },
@@ -4986,7 +5142,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 200864,
       "name": "Si Dej\u00f3 de Quererte",
       "url": "https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU"
@@ -5434,7 +5590,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 162037,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
@@ -5586,7 +5742,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 155121,
       "name": "Tu Mama",
       "url": "https://open.spotify.com/track/4sT2ok1MLTcvLC2YocPuJU"

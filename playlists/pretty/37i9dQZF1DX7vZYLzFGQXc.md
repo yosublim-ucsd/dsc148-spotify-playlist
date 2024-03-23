@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: IMI\_BLUE\(이미블루\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,531 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,545 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 80 | [L FOR LOVE](https://open.spotify.com/track/4Ruc5qusSWMYOZfJ2DHoKn) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [L FOR LOVE](https://open.spotify.com/album/0qHlEPGihwWsEISpKG7jCT) | 3:17 |
 | 81 | [Ghost](https://open.spotify.com/track/0qzqb9nibxhCxICYlRoqBK) | [Lim Ha Ram](https://open.spotify.com/artist/5p6Mh4sfmGYFGE4BwNVBrO) | [Ghost](https://open.spotify.com/album/4AmYveZNBWWuQzfHTafJCW) | 3:25 |
 | 82 | [Night Sea](https://open.spotify.com/track/7zkut02u2ekBqbZeT395YF) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Trip: playlist \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0n8M5xkvlhZSd8t7Mxp38s) | 4:14 |
-| 83 | [칫챗 chit\-chat](https://open.spotify.com/track/1utBMrImtsgShJ6HpkUl5E) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [칫챗 chit\-chat](https://open.spotify.com/album/6oYxwXE8cigILBPADV34G3) | 2:47 |
+| 83 | [chit\-chat](https://open.spotify.com/track/1utBMrImtsgShJ6HpkUl5E) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [chit\-chat](https://open.spotify.com/album/6oYxwXE8cigILBPADV34G3) | 2:47 |
 | 84 | [refraction of water](https://open.spotify.com/track/3F5mzzJscBpAkw3NujfC6A) | [Mool](https://open.spotify.com/artist/67Wv3fgZWdwgg4Reln59OV) | [refraction of water](https://open.spotify.com/album/4vHbpyloMoR1cTGZGtRE7n) | 3:25 |
 | 85 | [awry \(Prod\. Epitone Project\)](https://open.spotify.com/track/0ktw1LzsWYvKaLLIGHWvZW) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Blossom with Love, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/06G2atOgnViq1WwdbQM6MN) | 3:09 |
 | 86 | [Plastic Candy](https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [Rainbow](https://open.spotify.com/track/12ku60Vbv6CkBal4Bq4u2Y) | [Heon](https://open.spotify.com/artist/4AfVKxP48OYzRXuAz2d3XO) | [Rainbow](https://open.spotify.com/album/1wxJKyH69bCA7zkJRjvqoM) | 3:32 |
 | 100 | [Ride \(Feat\. Jueun\)](https://open.spotify.com/track/1cCszH5E4C3U01CaLFsuVR) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Dear.R](https://open.spotify.com/album/3tqu6xDwjAStZh0A8oiXKH) | 3:12 |
 
-Snapshot ID: `MCw0ODVmOWFlYmY5NGUzNTg4MDdhN2RkMDcwZGJkYjUyMWM4NDE1MzY2`
+Snapshot ID: `MCxhY2U2ZWQ5MTVkN2QwMGE4YTQyMDE2OGNjYzI3ZDliNmY3NWIyZjVl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,151 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,169 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 40 | [ARE YOU ALRiGHT?](https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [ARE YOU ALRiGHT?](https://open.spotify.com/album/6hICsM6NMQHck05IjUGsWZ) | 4:40 |
 | 41 | [Take Me Home](https://open.spotify.com/track/4XRXPj54gXpXQjJ2nckf47) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Enjoy Your Life](https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL) | 2:51 |
 | 42 | [MONICA](https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [GEMINI](https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul) | 3:51 |
-| 43 | [Bad B](https://open.spotify.com/track/405M8OiaiMjWyJ92jF9uPF) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Osapa London](https://open.spotify.com/album/0GOFqam9eSaFZ3gVdQ7PP3) | 2:53 |
-| 44 | [Catching a Wav](https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Passionfruit Summers](https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt) | 3:15 |
+| 43 | [Catching a Wav](https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Passionfruit Summers](https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt) | 3:15 |
+| 44 | [Bad B](https://open.spotify.com/track/405M8OiaiMjWyJ92jF9uPF) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Osapa London](https://open.spotify.com/album/0GOFqam9eSaFZ3gVdQ7PP3) | 2:53 |
 | 45 | [Magic](https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Magic](https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A) | 3:11 |
 | 46 | [Desire \(feat\. Funbi & Tay Iwar\)](https://open.spotify.com/track/1MJJ9lXWKHjRdWxSk3BpTo) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Desire \(feat\. Funbi & Tay Iwar\)](https://open.spotify.com/album/4MHuKMcLChLqDdbLtwlmqm) | 4:05 |
 | 47 | [Shaken](https://open.spotify.com/track/1MGQJITgxRkZITT6aqcqfo) | [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Shaken](https://open.spotify.com/album/2teAt8iFXCBkjdiEuNqJgF) | 3:33 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 53 | [Monica](https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [Monica](https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo) | 2:08 |
 | 54 | [My Wave](https://open.spotify.com/track/7FbmKPvnVKpyd45jDsRhlF) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sona](https://open.spotify.com/artist/2Z4SIKdYcugWq0fyvPpA7w), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Leap of Faith](https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl) | 4:19 |
 | 55 | [Aiya](https://open.spotify.com/track/5pldaGwSTIgiNoJ5bOxSjT) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [Sunsets in Lagos](https://open.spotify.com/album/3mbHTOgBQgcuOEjzdaAwgb) | 3:43 |
-| 56 | [Still II](https://open.spotify.com/track/7fVEkRuAjRlEWd6GPSdSuP) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Still II](https://open.spotify.com/album/4suYeq2z1bGkU9AftrlMU7) | 2:09 |
-| 57 | [Godzilla](https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [La Meme Tape](https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT) | 3:21 |
+| 56 | [Godzilla](https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [La Meme Tape](https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT) | 3:21 |
+| 57 | [Still II](https://open.spotify.com/track/7fVEkRuAjRlEWd6GPSdSuP) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Still II](https://open.spotify.com/album/4suYeq2z1bGkU9AftrlMU7) | 2:09 |
 | 58 | [Feel Alright](https://open.spotify.com/track/45oXGtNuG81jUcwmk73xLh) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Poe](https://open.spotify.com/artist/2ll3lU5iepPghkEc9c6dK2) | [Feel Alright](https://open.spotify.com/album/2Cgvi847HBc0gsamKi0Do4) | 4:18 |
 | 59 | [Supa Sigh](https://open.spotify.com/track/6mESvUo6c4KILTSt0tv7Em) | [BrisB](https://open.spotify.com/artist/5hsqUG0HzeF5qurzzanUWa), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Supa Sigh](https://open.spotify.com/album/0Ozr5RbURs53qS2LPBq3eS) | 3:32 |
 | 60 | [SPACE](https://open.spotify.com/track/2pdBq0lWsGjSiDP2T6NSZ0) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [GEMINI](https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul) | 3:13 |
 
-Snapshot ID: `MCxmMTJkMWI3NGUzZTVhZTRjMDhlY2ExZTcxNjYwMjk2YjZmY2ZlYTNm`
+Snapshot ID: `MCxmMmNlYTBkYjY2NGVlNDg2OWVmNThhZmQ0NTNlN2NmYTMxZWFiNDJl`

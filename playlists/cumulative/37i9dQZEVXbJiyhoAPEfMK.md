@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-2,375 songs - 5 day 3 hr 17 min
+2,376 songs - 5 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2075,6 +2075,7 @@
 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 | 2022-02-16 | 2022-02-24 |
 | [The Remorse](https://open.spotify.com/track/1cCXT1cErAY6tmIqHbodrt) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:51 | 2021-09-05 | 2021-09-06 |
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2023-07-02 | 2023-07-06 |
+| [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 | 2024-03-22 |  |
 | [Theater★](https://open.spotify.com/track/0SGtCOR4G9fx9PQq9shKkw) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [Theater★](https://open.spotify.com/album/2VqZQpC4erfX9dNVkE5AZS) | 2:35 | 2023-08-19 | 2023-08-28 |
 | [This Is Halloween](https://open.spotify.com/track/4a9RlnJ0v1T7HgLtps1HvI) | [Disney Characters](https://open.spotify.com/artist/6utdPEv71mR0DnGp74cJIz) | [Nightmare Before Christmas](https://open.spotify.com/album/2qmppQg4IgJRMFbWuwQLw7) | 3:16 | 2021-11-02 | 2022-11-03 |
 | [This Is Halloween](https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r) | [The Nightmare Before Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc) | 3:16 | 2023-11-01 | 2023-11-03 |
@@ -2118,7 +2119,7 @@
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-25 | 2023-06-25 |
 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-26 | 2023-09-02 |
 | [Tracksuit \(feat\. Bonez MC\)](https://open.spotify.com/track/2thijD7RBpT6rUwR9ogFAa) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Tracksuit \(feat\. Bonez MC\)](https://open.spotify.com/album/5fXkNE85RPtJTmkYOXuY7S) | 1:58 | 2022-11-12 | 2022-11-14 |
-| [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-17 |  |
+| [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-17 | 2024-03-23 |
 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 | 2023-03-14 | 2023-04-09 |
 | [Tranova](https://open.spotify.com/track/0LT8JOx0FxzQnZ7zhTKD84) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Tranova](https://open.spotify.com/album/5soKdCzymaz2fL3xFGparT) | 2:26 | 2022-04-02 | 2022-04-04 |
 | [Traum\_V2](https://open.spotify.com/track/714u8kwDsxE4Jdv5QVmMkt) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Traum\_V2](https://open.spotify.com/album/4eag3eCSJ9p9MLhweWhMdf) | 1:30 | 2023-07-22 | 2023-07-24 |

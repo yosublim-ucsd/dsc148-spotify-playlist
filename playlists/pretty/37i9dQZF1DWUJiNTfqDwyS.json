@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 366175,
+  "num_followers": 366261,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDMyYmJhMjgzOGFhM2VhMzAzZWRiODFiZWRiYWViYTZmNDlmZmI0",
+  "snapshot_id": "MCwzYjUxNGE1Zjc4MjBkMmE0OGE1YmEyYWFiNjAxNjBhNTg4NmU3ZmY1",
   "tracks": [
     {
       "added_at": "2023-08-23 14:56:37",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Felons and Revolutionaries",
-        "url": "https://open.spotify.com/album/70qlX6W0tE04QAwKQuv1db"
-      },
-      "artists": [
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "You Spin Me Round (Like A Record)",
-      "url": "https://open.spotify.com/track/0Hxty2K8F2DrrCXQyQVpBo"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "The Strength / The Sound / The Songs",
         "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 164093,
       "name": "I Only Wanna Be With You",
       "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Felons and Revolutionaries",
+        "url": "https://open.spotify.com/album/70qlX6W0tE04QAwKQuv1db"
+      },
+      "artists": [
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "You Spin Me Round (Like A Record)",
+      "url": "https://open.spotify.com/track/0Hxty2K8F2DrrCXQyQVpBo"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Awaken the Fire",
-        "url": "https://open.spotify.com/album/0Si0TtlRSqqwWRe4DnVVmk"
-      },
-      "artists": [
-        {
-          "name": "Like A Storm",
-          "url": "https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF"
-        }
-      ],
-      "duration_ms": 207753,
-      "name": "Gangsters Paradise",
-      "url": "https://open.spotify.com/track/6xPD22JavtFYbyHl2AMVsn"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Skeletons in the Closet (Japan Edition)",
         "url": "https://open.spotify.com/album/24kO281Ejj7HwIJKibKwpd"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 200173,
       "name": "Oops!...I Did It Again",
       "url": "https://open.spotify.com/track/06wKZYu5dpve2WRS5O34MI"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Awaken the Fire",
+        "url": "https://open.spotify.com/album/0Si0TtlRSqqwWRe4DnVVmk"
+      },
+      "artists": [
+        {
+          "name": "Like A Storm",
+          "url": "https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF"
+        }
+      ],
+      "duration_ms": 207753,
+      "name": "Gangsters Paradise",
+      "url": "https://open.spotify.com/track/6xPD22JavtFYbyHl2AMVsn"
     },
     {
       "added_at": "2023-08-23 14:56:37",

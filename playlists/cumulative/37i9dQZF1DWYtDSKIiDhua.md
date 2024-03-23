@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: LOONY
 
-667 songs - 1 day 12 hr 3 min
+668 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 | 2023-02-03 | 2024-03-16 |
 | [Those Three Words](https://open.spotify.com/track/46oWdPcyZ3IyUfd4Kb0sG2) | [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [Those Three Words](https://open.spotify.com/album/54HN5wbo5TEEjLwgdAXBzO) | 3:08 | 2022-12-22 | 2023-01-20 |
 | [THREE STRIKES \(feat\. Khalid\)](https://open.spotify.com/track/5s0R5zybi2MKaJxf0og3hM) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO?](https://open.spotify.com/album/4sih9lWIIKldL1n5kcotjI) | 3:24 | 2022-06-08 | 2022-09-23 |
+| [threeAM](https://open.spotify.com/track/7EIgAzIwV8FeYTcTOIGQgt) | [NIVKOM](https://open.spotify.com/artist/2BwqjjKkM8McmEUbzDTXpZ) | [threeAM](https://open.spotify.com/album/7GFpPOUyuojXgKVBJWWO4w) | 2:13 | 2024-03-21 |  |
 | [Tiger Eye](https://open.spotify.com/track/7dZlrLBC2ADnv5H8z7XxVX) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Tiger Eye](https://open.spotify.com/album/3LwicJyt2YKBim3P4oxzvM) | 2:36 | 2024-02-22 |  |
 | [time](https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [balaclava](https://open.spotify.com/album/225BhK3notA8fEXeJ4oHtX) | 3:20 | 2023-02-17 | 2023-03-18 |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-06-22 |  |

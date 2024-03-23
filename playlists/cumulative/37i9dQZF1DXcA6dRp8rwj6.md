@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Mac Miller\)
 
-1,893 songs - 3 day 23 hr 45 min
+1,894 songs - 3 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1792,6 +1792,7 @@
 | [WDGAF \(feat\. G\-Eazy\)](https://open.spotify.com/track/5E24FVNvb8mXpBAySTTr24) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [WDGAF](https://open.spotify.com/album/3o2X7lfauFKDAXIRAxox6Q) | 2:24 | 2023-06-30 | 2023-08-11 |
 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/11pzZVbS8g6g2tfgSQR4uG) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 4:05 | 2023-11-29 | 2024-01-05 |
 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 | 2023-01-06 | 2023-03-03 |
+| [We Don't Trust You](https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:46 | 2024-03-21 |  |
 | [We Go Up \(feat\. Fivio Foreign\)](https://open.spotify.com/track/3zQ61IRdlSbEyYQlwQZZxS) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [We Go Up](https://open.spotify.com/album/5IfknrZnkcbBcT7KQuDZXI) | 4:15 | 2022-03-28 | 2022-05-06 |
 | [WE GON' BE ALRIGHT](https://open.spotify.com/track/0nBeVZqcRrWlldgC3uBlKc) | [Januarta The Goat](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [EBENEZER](https://open.spotify.com/album/0NstPIuOHEPDZ0i8SMIwwr) | 3:03 | 2024-01-05 | 2024-02-16 |
 | [We Good \(From The TV Show "DAVE"\)](https://open.spotify.com/track/2rKPqxCmMQ68wYV1ArFvNy) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr), [GaTa](https://open.spotify.com/artist/5eJwzR2zzh5zkXcUjZAvDL) | [We Good \(From The TV Show "DAVE"\)](https://open.spotify.com/album/7r12oLHbuBAhYcEFAklRYE) | 2:47 | 2022-01-20 | 2022-01-28 |

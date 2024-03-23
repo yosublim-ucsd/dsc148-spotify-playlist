@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-439 songs - 1 day 0 hr 29 min
+441 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Been in Between](https://open.spotify.com/track/0tV5enCGP261xTxW1Lhk80) | [Footprint Project](https://open.spotify.com/artist/4t7eLqngSabfN9Ip8X1Dto) | [Been in Between](https://open.spotify.com/album/3VXn1NGgVuD6TdKErh0qYM) | 4:37 | 2022-05-06 | 2022-05-15 |
 | [Berlin 1](https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Berlin 1](https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j) | 5:02 | 2022-07-29 | 2023-08-19 |
 | [Bet On Me](https://open.spotify.com/track/1rBtX2UbcSY9jizKtmnu6C) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Bet On Me](https://open.spotify.com/album/1HIGB8Hl480Du1r7nP3ISx) | 3:11 | 2021-09-21 | 2022-07-20 |
-| [Better Days \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5zvJABAyFbNEhdMTr0cCtT) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Better Days \(feat\. Aloe Blacc\)](https://open.spotify.com/album/3k8hV5JyJKOjBG1xiuLpT5) | 2:36 | 2022-09-23 |  |
+| [Better Days \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5zvJABAyFbNEhdMTr0cCtT) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Better Days \(feat\. Aloe Blacc\)](https://open.spotify.com/album/3k8hV5JyJKOjBG1xiuLpT5) | 2:36 | 2022-09-23 | 2024-03-23 |
 | [Better Man](https://open.spotify.com/track/0V46zmNoXDwkefMNQhR87Q) | [Rayowa](https://open.spotify.com/artist/6awgjbEndbfu3IpwqKhIFo) | [Better Man](https://open.spotify.com/album/0DEeN73MO5qqBkPgwYW0Wl) | 3:16 | 2021-09-21 | 2022-12-25 |
 | [Better Man](https://open.spotify.com/track/7i0P4yzw6arbmE7LHDM3vY) | [Rayowa](https://open.spotify.com/artist/6awgjbEndbfu3IpwqKhIFo) | [Better Man](https://open.spotify.com/album/2ukuwykWA5AatwuGHjZ7XT) | 3:16 | 2021-09-21 | 2023-02-18 |
 | [Better Now \[Remix\]](https://open.spotify.com/track/3cLA64aQAhxDRQvSp3IBiJ) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Reggie Got Beats](https://open.spotify.com/artist/23tus21ldeakyJwF2NMRhQ), [RickyAtoms](https://open.spotify.com/artist/2pXL1201Xrd659BNMtUG6J) | [Better Now \[Remix\]](https://open.spotify.com/album/730b82WMFGJzq0pZ0eSc3R) | 3:28 | 2021-09-21 | 2022-07-09 |
@@ -84,6 +84,7 @@
 | [Chicken Wings \- Remix](https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/7MdK6WWMMy9V2w8prCgycb) | 2:45 | 2022-01-21 |  |
 | [Ciao](https://open.spotify.com/track/0j0UjKoSgmyacWQgo08iYL) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP), [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Ciao](https://open.spotify.com/album/7oFHqkWQ8oD9WE0OttidjJ) | 2:58 | 2023-05-26 |  |
 | [Ciao](https://open.spotify.com/track/5m7iT2XPqtkRDPoDNF5TRG) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP), [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Ciao](https://open.spotify.com/album/54N3zI6n5WzpAe7PXUyGuF) | 2:58 | 2023-05-26 | 2023-11-05 |
+| [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 | 2024-03-22 |  |
 | [Citrus](https://open.spotify.com/track/1q6vmLQcqhMfvzWmQYxl1K) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Citrus](https://open.spotify.com/album/04GX57XcprIl7mxLyoLXDm) | 3:38 | 2021-04-30 | 2022-05-23 |
 | [closure](https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [closure](https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb) | 3:02 | 2022-05-06 | 2023-04-29 |
 | [Coffee](https://open.spotify.com/track/5v3KxBlTAFHAR5wKxHz87v) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Coffee](https://open.spotify.com/album/3lwy2PkY9ySC5xj0teYHiH) | 2:56 | 2021-09-21 | 2022-07-21 |
@@ -184,6 +185,7 @@
 | [Honesty \- Cool Company Remix](https://open.spotify.com/track/7fxTweRQLu5xIKWSajN7GS) | [Linda Diaz](https://open.spotify.com/artist/0GyNf8GO6wlbCrReIREot3), [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Honesty \(Cool Company Remixes\)](https://open.spotify.com/album/7MTHZnqXV5bL1Am1Mq1fAN) | 2:55 | 2021-09-21 | 2023-02-18 |
 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 | 2022-04-01 |  |
 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 | 2022-08-26 | 2023-10-21 |
+| [Human](https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Human](https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR) | 3:31 | 2024-03-22 |  |
 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 | 2022-04-01 | 2023-10-25 |
 | [I Can't Help But Feel](https://open.spotify.com/track/4zgGNKt9YQGUQHRu9FgZPM) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Hidden Youth](https://open.spotify.com/album/0p6lFaFEpTcukkXu793jXB) | 2:58 | 2022-04-08 |  |
 | [I Don't Mind \(feat\. Ben Chandler\) \- Tim Atlas Remix](https://open.spotify.com/track/1GnPvCbotk6yCBGDLijet9) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH), [Ben Chandler](https://open.spotify.com/artist/5spCYJNfwMEdTpMrir8dJF) | [I Don't Mind \(feat\. Ben Chandler\) \[Tim Atlas Remix\]](https://open.spotify.com/album/7obRDpFWQB79fhmpFaJvbT) | 2:11 | 2021-10-01 | 2022-05-23 |

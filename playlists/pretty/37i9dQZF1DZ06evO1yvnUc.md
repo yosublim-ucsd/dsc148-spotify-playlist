@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1yvnUc.md) - [plain]
 
 > This is PARTYNEXTDOOR\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,808 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,867 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1yvnUc.md) - [plain]
 | 38 | [Still Got Time \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/000xQL6tZNLJzIrtIgxqSl) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Still Got Time \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/album/2kGUeTGnkLOYlinKRJe47G) | 3:08 |
 | 39 | [Don't Run](https://open.spotify.com/track/4rKlOGw7Q0si6csx1Xq2IQ) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 4:03 |
 | 40 | [PEACE OF MIND](https://open.spotify.com/track/3FA8JpHhWwDXkroqRFLLFe) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 5:03 |
-| 41 | [NOTHING LESS](https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:28 |
-| 42 | [H e r O l d F r i e n d s](https://open.spotify.com/track/73xrwYHl6nMMGVVFyqRcOD) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 4:16 |
+| 41 | [H e r O l d F r i e n d s](https://open.spotify.com/track/73xrwYHl6nMMGVVFyqRcOD) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 4:16 |
+| 42 | [NOTHING LESS](https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:28 |
 | 43 | [Temptations](https://open.spotify.com/track/1bgpUVB4gPYYNpMBLeyiid) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 2:43 |
 | 44 | [No Fuss](https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [No Fuss](https://open.spotify.com/album/2HEjp4r9NGBGLtXxk5TxsA) | 3:10 |
-| 45 | [ANOTHER DAY](https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 2:32 |
-| 46 | [CANDY \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:51 |
+| 45 | [CANDY \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:51 |
+| 46 | [ANOTHER DAY](https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 2:32 |
 | 47 | [Joy](https://open.spotify.com/track/0SLNmZFeGw1wInZCzF415n) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:15 |
 | 48 | [Run Up \(feat\. PARTYNEXTDOOR & Nicki Minaj\)](https://open.spotify.com/track/49zMj9UjQ0IGksOO2VuhZX) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Major Lazer Essentials](https://open.spotify.com/album/16vOvSLYIZO8xZOpBBQnBZ) | 3:23 |
 | 49 | [That's What I Like \- PARTYNEXTDOOR Remix](https://open.spotify.com/track/64TkpV7m7f09JY7K436pju) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [That's What I Like \(PARTYNEXTDOOR Remix\)](https://open.spotify.com/album/2xclonI4faQWl6lhqecGM5) | 3:26 |
 | 50 | [One I Want \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/5MuhncU8rh6xe894EKjX2P) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [The Space Between](https://open.spotify.com/album/6tHcEzChizk2IXd5Kxl5hs) | 3:32 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBjYWZhN2MwZDQ4MzI2ODQ3ZTMxN2U2Mjk3ZjA5OTRlMg==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBhYzA0YTUwZTkyNGFmZmE0MzAwMDM3MWFjNmFiZWVhMQ==`

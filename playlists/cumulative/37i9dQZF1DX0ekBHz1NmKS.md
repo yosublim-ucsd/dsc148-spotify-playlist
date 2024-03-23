@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,107 songs - 2 day 10 hr 6 min
+1,108 songs - 2 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,7 +631,7 @@
 | [Metal Firecracker](https://open.spotify.com/track/7tzifC2bbcUfLz1RoH2zeR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Metal Firecracker](https://open.spotify.com/album/3v8exQFqsuCKKi1nWHgJND) | 3:03 | 2022-08-11 | 2022-10-05 |
 | [Midnatt](https://open.spotify.com/track/2WbFll5FxW0JEKIyijHNcb) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Midnatt](https://open.spotify.com/album/3suLV5WJS3L9v7kG3IKAbM) | 3:04 | 2022-09-29 | 2022-12-16 |
 | [Mildest High](https://open.spotify.com/track/6YCe7aJVBWDEkJklrjVwmy) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Mildest High](https://open.spotify.com/album/5V7zY5PJ0sl5hgT7Jow9pQ) | 3:03 | 2022-06-23 | 2022-07-23 |
-| [Miles away](https://open.spotify.com/track/3F222sKuqRhPDVWX3zFrsF) | [Carl :Cries](https://open.spotify.com/artist/6B1HBD8SBFMKAimyjUFesP) | [Miles away](https://open.spotify.com/album/1IJ0AewQmGV57xx81FMF1B) | 2:34 | 2024-02-24 |  |
+| [Miles away](https://open.spotify.com/track/3F222sKuqRhPDVWX3zFrsF) | [Carl :Cries](https://open.spotify.com/artist/6B1HBD8SBFMKAimyjUFesP) | [Miles away](https://open.spotify.com/album/1IJ0AewQmGV57xx81FMF1B) | 2:34 | 2024-02-24 | 2024-03-23 |
 | [MIN MARIE](https://open.spotify.com/track/5ZyZnWoQiMk2qoNt2HyDdN) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [MIN MARIE](https://open.spotify.com/album/1R0rgizcdTQsGbWTMokGa0) | 2:33 | 2024-02-22 |  |
 | [Minimum](https://open.spotify.com/track/4JkY9nv1oRlj9OYfOlOVna) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Minimum](https://open.spotify.com/album/7ntbKzzrRi4jgxNoPCKMjb) | 2:13 | 2024-01-04 | 2024-02-23 |
 | [Minnet Av Ett Hav](https://open.spotify.com/track/17xpeHftsvBZRt9OYfNZ00) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Minnet Av Ett Hav](https://open.spotify.com/album/7KWH3xa5MMcXvqW4CgnxMd) | 3:46 | 2021-12-16 | 2022-04-02 |
@@ -657,6 +657,7 @@
 | [Motståndarlaget](https://open.spotify.com/track/3ioh5HIKMK8vxGODjey2iE) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Tacka motståndarlaget](https://open.spotify.com/album/5gMTYjjjgZ8n30ArisfIAv) | 3:42 | 2024-03-14 |  |
 | [Moving Like That](https://open.spotify.com/track/780E9OsxVwOjhwxCxTurU3) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Moving Like That](https://open.spotify.com/album/32FC7UO1DuuzlTgkoLP7VJ) | 2:49 | 2022-02-05 | 2022-04-28 |
 | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/track/6SNLVpwJXem00Ku9XizbPA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/album/4rkc0m2fJ9RvXsgoIhYMV5) | 3:48 | 2022-05-12 | 2023-02-11 |
+| [Musiken i dur](https://open.spotify.com/track/3etnGyPFA9Rt2CfjRZ6czg) | [Akvarell](https://open.spotify.com/artist/2kQMxBR942zS9OYjRhH5CO) | [Musiken i dur](https://open.spotify.com/album/5jZw26m3vlWx2IaNJbN8iD) | 3:26 | 2024-03-21 |  |
 | [My Friends](https://open.spotify.com/track/5G4xG632nZ9b3l9L4eI1hK) | [Nadja Kasanesh](https://open.spotify.com/artist/11VSQqCvMHu2UNkfyuIoXa) | [My Friends](https://open.spotify.com/album/0sgJCD4bUVQi7cbTb0jWUQ) | 2:57 | 2022-04-07 | 2022-05-08 |
 | [My Love](https://open.spotify.com/track/7z1w4IrnedvSTn5GZ2P5qm) | [Ess Bogale](https://open.spotify.com/artist/0iR8N3LhYx9AqADZL9RKd7) | [My Love](https://open.spotify.com/album/3BntMcd0jqbsXgRfseNuAy) | 2:49 | 2022-03-24 | 2022-04-19 |
 | [My Name](https://open.spotify.com/track/382xlBIkKxzIhpOobszUCE) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [My Name](https://open.spotify.com/album/5yqYKtzpJhpsqN1666cQXt) | 2:14 | 2021-12-16 | 2022-05-13 |

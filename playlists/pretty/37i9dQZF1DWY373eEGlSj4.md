@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 
 > The most unforgettable love songs from the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,413,822 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,414,238 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 18 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:34 |
 | 19 | [I'm Not In Love](https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj) | 6:06 |
 | 20 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
-| 21 | [The Air That I Breathe \- 2008 Remaster](https://open.spotify.com/track/6yLIqXX9edg1x0HZS7cZEv) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [Hollies](https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H) | 4:17 |
-| 22 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:38 |
+| 21 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:38 |
+| 22 | [The Air That I Breathe \- 2008 Remaster](https://open.spotify.com/track/6yLIqXX9edg1x0HZS7cZEv) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [Hollies](https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H) | 4:17 |
 | 23 | [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:53 |
 | 24 | [Let's Get It On](https://open.spotify.com/track/627teoJpK7qZOxRRY8TNnv) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On](https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b) | 4:51 |
 | 25 | [Mandy](https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Barry Manilow II](https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks) | 3:33 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 29 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
 | 30 | [You've Got a Friend \- 2019 Remaster](https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Mud Slide Slim and the Blue Horizon \(2019 Remaster\)](https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX) | 4:28 |
 | 31 | [Reminiscing \- Remastered 2010](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 |
-| 32 | [Sailing](https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:37 |
-| 33 | [After the Love Has Gone](https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:38 |
+| 32 | [After the Love Has Gone](https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:38 |
+| 33 | [Sailing](https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:37 |
 | 34 | [I'd Love You to Want Me](https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [Of A Simple Man](https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u) | 4:07 |
 | 35 | [Love Is in the Air](https://open.spotify.com/track/4v2K1ZcRXUc87CLtEXI3Pf) | [John Paul Young](https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN) | [Classic Hits](https://open.spotify.com/album/03T5bXMySvcTGqm8RpIJsV) | 3:28 |
 | 36 | [Do That To Me One More Time](https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Make Your Move](https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 49 | [How Sweet It Is \(To Be Loved By You\) \- 2019 Remaster](https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla \(2019 Remaster\)](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny) | 3:36 |
 | 50 | [Babe](https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Cornerstone](https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh) | 4:25 |
 
-Snapshot ID: `MCw4NDI2MGMxMTQzY2M1NmVkYzFiNjk4ZTQ5OTMwMTA0ZjZmM2VmY2Jl`
+Snapshot ID: `MCw0NzdmZTllMDcyOTdjODg3ZTU1OWUwNTI1MjI3OWZiY2EyOTFlMDI0`

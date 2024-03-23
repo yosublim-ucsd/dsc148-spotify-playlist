@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > Los corridos más placosos y perrones del 2023\. Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,598 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,721 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 | 41 | [Belicamente De Acción](https://open.spotify.com/track/5fyWAm1MYH2zZ9BGR5iPFp) | [La Autorización](https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ), [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Belicamente De Acción](https://open.spotify.com/album/2zd2JBVZaaXjMlMVdfhhgu) | 2:55 |
 | 42 | [Todo Se Va](https://open.spotify.com/track/17wCAQqinJDfxVWwYQjftn) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Don't Stop The Magic](https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7) | 3:02 |
 | 43 | [El De Las Mieles](https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El De Las Mieles](https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp) | 3:25 |
-| 44 | [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 |
+| 44 | [Porte de Scarface](https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX) | 2:52 |
 | 45 | [La Bolsa Gucci](https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Bolsa Gucci](https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C) | 2:16 |
 | 46 | [Tronando Ligas](https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Tronando Ligas](https://open.spotify.com/album/7idHMYzKwME3BmhHiusrJ3) | 2:35 |
 | 47 | [El Selectivo](https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Selectivo](https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 | 49 | [El Pickles](https://open.spotify.com/track/24QFCrOqc9XKHO1gXBtQwG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Don't Stop The Magic](https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7) | 3:02 |
 | 50 | [En Corto](https://open.spotify.com/track/6PlLiHoRcjCgK5som2T3ph) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:02 |
 
-Snapshot ID: `MCxlMTIyNTdlZWYzNDRhYzQ2MDY1NWFjZjllNTcyYzcxYWJhYWZkMTdk`
+Snapshot ID: `MCwwYjExYzY1NzgxMjNlOGJmYTI1MjJmZjVhZWRlNTAzOWE3YmY3OGQ4`

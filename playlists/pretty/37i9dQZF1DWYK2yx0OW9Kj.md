@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK2yx0OW9Kj.md) - [plain]
 
 > Ritmo latino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,594 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,913 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK2yx0OW9Kj.md) - [plain]
 | 47 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 |
 | 48 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 |
 | 49 | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x) | 4:30 |
-| 50 | [Otra vez \(feat\. J Balvin\)](https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:29 |
-| 51 | [El Perdón \(with Enrique Iglesias\)](https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:25 |
+| 50 | [El Perdón \(with Enrique Iglesias\)](https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:25 |
+| 51 | [Otra vez \(feat\. J Balvin\)](https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:29 |
 | 52 | [Medallo](https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Hecho En Medellín](https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh) | 3:53 |
 | 53 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 |
 | 54 | [La Gozadera \(feat\. Marc Anthony\)](https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Visualízate](https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK2yx0OW9Kj.md) - [plain]
 | 74 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 |
 | 75 | [Reloj](https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:51 |
 
-Snapshot ID: `MCwzODc5NzA5NDU5Y2IyNDM1NGEzMjYxMTg1YzcwMGFkMzdiYWQ5MGZk`
+Snapshot ID: `MCwyYTU1YzU1MGU5NDQ4YzU3YTkwOGMwNTdmOGVlZTlkZWMyODNjZDYw`

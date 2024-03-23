@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,980 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,999 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 35 | [Cure](https://open.spotify.com/track/7u5Bd9mzvZJLSuNSArnMLd) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Voyager](https://open.spotify.com/album/50lDM3nvxgVdMQJOtuL4ZJ) | 4:06 |
 | 36 | [Sent From Heaven](https://open.spotify.com/track/5cBRyRRr3UKgdbzXFfVGyN) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Heroes & Gods](https://open.spotify.com/album/4NPRs8vlkIBYavNSNvdt9x) | 3:59 |
 | 37 | [Deep Waters](https://open.spotify.com/track/0XCigmR8QYuE1hz9jSv8Eh) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs) | [Positivity](https://open.spotify.com/album/45BNZeFrf7HSGAogA2CZ5M) | 6:34 |
-| 38 | [Nice & Slow \- Ryan James Carr Remake](https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1) | [My Way \(25th Anniversary Edition\)](https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81) | 3:12 |
-| 39 | [Make Me a Believer](https://open.spotify.com/track/1GwsrKwWdhU7iUpaB4eaIn) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Busy Body](https://open.spotify.com/album/5Ql0BSlDT1AqZTZEzA8o3a) | 5:25 |
+| 38 | [Make Me a Believer](https://open.spotify.com/track/1GwsrKwWdhU7iUpaB4eaIn) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Busy Body](https://open.spotify.com/album/5Ql0BSlDT1AqZTZEzA8o3a) | 5:25 |
+| 39 | [Nice & Slow \- Ryan James Carr Remake](https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1) | [My Way \(25th Anniversary Edition\)](https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81) | 3:12 |
 | 40 | [Forever, For Always, For Love](https://open.spotify.com/track/6tQX9qDeJ88Vhk7uZfFvNo) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Outrun The Sky](https://open.spotify.com/album/6owHkIavlncFxnnbUMJwbE) | 5:52 |
 | 41 | [Still](https://open.spotify.com/track/36tR7kGlYwgi9IWpuUSbp1) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [The Transition of Mali](https://open.spotify.com/album/00kU4HzJ0Uvr3PGBxrqt14) | 4:50 |
 | 42 | [Never Felt This Way](https://open.spotify.com/track/3ETM5bHqW8RtMsP9PauI6S) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Brian McKnight](https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG) | 5:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 49 | [Superstar \- Live at Radio City Music Hall, New York \- Feb\. 12, 2003](https://open.spotify.com/track/3pAiTAdDCvqWECwRmUlxvi) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Live Radio City Music Hall 2003](https://open.spotify.com/album/5wq0AUenn2o3RXoBelNsxu) | 12:49 |
 | 50 | [The Ingredients Of Love \(feat\. Musiq Soulchild\)](https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 3:56 |
 
-Snapshot ID: `MCwxNmQ5ZDU3YjYzY2NjNGZkNGExMDJjMWJhYzNlZjEzOTQ0NTJiMjQ2`
+Snapshot ID: `MCwwMGFhMzQ1ZjAyNDMwOWFlOGM1ZmMyYTdmMDViODlkMzUzMzBkMGY3`

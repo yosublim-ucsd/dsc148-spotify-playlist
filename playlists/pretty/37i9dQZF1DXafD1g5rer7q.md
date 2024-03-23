@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,774 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,922 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 34 | [2 Die 4](https://open.spotify.com/track/1VYlIU9IpVa4MHUqzKHyOb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6) | 3:05 |
 | 35 | [I Was Made](https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE) | [I Was Made](https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV) | 2:35 |
 | 36 | [Summer In New York](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 2:38 |
-| 37 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 |
-| 38 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 |
+| 37 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 |
+| 38 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 |
 | 39 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:36 |
 | 40 | [The Mack](https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ) | [Nevada](https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT), [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [The Mack](https://open.spotify.com/album/38E9SU3aWcymyFDmyJwaGn) | 2:47 |
 | 41 | [Hear Me Tonight](https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Hear Me Tonight](https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 49 | [On My Mind](https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [On My Mind](https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq) | 3:09 |
 | 50 | [Weekend \(feat\. Emelie Cyréus\)](https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Emelie Cyréus](https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O) | [Weekend \(feat\. Emelie Cyréus\)](https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm) | 2:12 |
 
-Snapshot ID: `MCwwYjhlZGI5YTY1YTUyYjZlZDZkYjAzMzVmNTI3NjYwNWUzMTlkM2Ew`
+Snapshot ID: `MCw3NDJhNzY0NjA4MDA5ODlkYTQwZTg0MGQ4NjM0NDM0YmM1MjUzNDQy`

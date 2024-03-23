@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 
 > Aquí le ponemos ritmo a las tareas del hogar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,150 likes - 90 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,275 likes - 90 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 44 | [Idilio](https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:08 |
 | 45 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:57 |
 | 46 | [Dos Locos](https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Confesiones](https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e) | 4:06 |
-| 47 | [Humanos a Marte](https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [En Todo Estaré \(Deluxe Edition\)](https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2) | 3:45 |
-| 48 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 4:07 |
+| 47 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 4:07 |
+| 48 | [Humanos a Marte](https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [En Todo Estaré \(Deluxe Edition\)](https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2) | 3:45 |
 | 49 | [Tu Eres Ajena](https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:53 |
 | 50 | [Laura no està](https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Nek \(spanish version\)](https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP) | 3:45 |
 | 51 | [Cuando Calienta El Sol](https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:56 |
@@ -71,13 +71,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 61 | [Nada Fue Un Error](https://open.spotify.com/track/1Ev18ptTlc3CBQMmKsIfjY) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Coti](https://open.spotify.com/album/7wv093HeXvQuJZvOD6m2gG) | 3:27 |
 | 62 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
 | 63 | [Caminar de Tu Mano \(feat\. Fonseca\)](https://open.spotify.com/track/0IWBTieCc6wQZ0C4kCHP9q) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Eres la Persona Correcta en el Momento Equivocado \(Deluxe Edition\)](https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr) | 3:26 |
-| 64 | [Pasos de cero](https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 3:54 |
-| 65 | [Si Me Ves Llorar](https://open.spotify.com/track/2CQJlWoNln1bdobttQ4znq) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:26 |
+| 64 | [Si Me Ves Llorar](https://open.spotify.com/track/2CQJlWoNln1bdobttQ4znq) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:26 |
+| 65 | [Pasos de cero](https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 3:54 |
 | 66 | [Como Decirte Adios](https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5) | 3:27 |
 | 67 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
 | 68 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 |
-| 69 | [Qué Hay de Malo](https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:58 |
-| 70 | [Corazón En La Maleta](https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
+| 69 | [Corazón En La Maleta](https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
+| 70 | [Qué Hay de Malo](https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:58 |
 | 71 | [Perderme Contigo](https://open.spotify.com/track/7mHFWWfVlhqGjeIQ5qt9i2) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [¿Dónde Nos Quedamos?](https://open.spotify.com/album/3jcXAJvWPnHyDsUtrFqBIx) | 4:06 |
 | 72 | [Lloviendo Estrellas](https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:16 |
 | 73 | [Vienes y Te Vas](https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Con la Fuerza de un Volcán](https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y) | 3:48 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 80 | [A fuego lento](https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:40 |
 | 81 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
 | 82 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 |
-| 83 | [No Podras Escapar De Mi](https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:31 |
-| 84 | [Bonita](https://open.spotify.com/track/6HNsJQihjxODgGWQafAJau) | [Cabas](https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i) | [Amores Difíciles](https://open.spotify.com/album/01oAsRFo8FXUuvGt16vI8P) | 3:57 |
+| 83 | [Bonita](https://open.spotify.com/track/6HNsJQihjxODgGWQafAJau) | [Cabas](https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i) | [Amores Difíciles](https://open.spotify.com/album/01oAsRFo8FXUuvGt16vI8P) | 3:57 |
+| 84 | [No Podras Escapar De Mi](https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:31 |
 | 85 | [Ella](https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO) | [Bebe](https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts) | [Pafuera Telarañas](https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB) | 3:35 |
 | 86 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
 | 87 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 89 | [Amor y Control](https://open.spotify.com/track/303cDwi274kSEH0NSR73AX) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Amor Y Control](https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj) | 5:52 |
 | 90 | [Es Mejor Así](https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Un Segundo En El Tiempo](https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw) | 3:57 |
 
-Snapshot ID: `MCxlYWRkMDE0ZjBiNmIyOTdhOWZiN2FlZjhlNjI4ZjRiMWEwNGJiNzAx`
+Snapshot ID: `MCxmNjEyMWY2ZjI3YjE0ZWY4ODc0OWMzOTM3NDM1OWY3OGMzNzcwNDA4`

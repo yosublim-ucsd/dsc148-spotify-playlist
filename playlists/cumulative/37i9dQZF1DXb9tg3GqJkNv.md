@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Rewind](https://open.spotify.com/playlist/37i9dQZF1DXb9tg3GqJkNv)
 
-> A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Planet Giza
+> A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: AR Paisley, Chani Nattan, Inderpal Moga
 
 109 songs - 5 hr 30 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 離婚伝説 \*👉 <a href="https://spice.eplus.jp/articles/327269?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,012 likes - 63 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,062 likes - 63 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 11 | [Your Light](https://open.spotify.com/track/0YhbPVTWIDYUVNmiv3fglD) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [KENTO NAGATSUKA \(WONK\)](https://open.spotify.com/artist/6JneWS8m6ZNGjIO4LA8zHQ), [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Your Light](https://open.spotify.com/album/1UcUnoMrYaaqH1ygzUM8qa) | 4:09 |
 | 12 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 |
 | 13 | [BANDAGE](https://open.spotify.com/track/14A4jC5UJzjqr8nWW5jFqe) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [BANDAGE](https://open.spotify.com/album/6n2pGYbSxV3RtXgJHcqMxz) | 3:08 |
-| 14 | [春になれば](https://open.spotify.com/track/75NeiNCxqUojF1evdQflZL) | [中村一義](https://open.spotify.com/artist/6CDWsKfcYG186QjwxKL3GB) | [春になれば](https://open.spotify.com/album/6fGG2mcYVxIEjT8scSUCTO) | 5:23 |
+| 14 | [春になれば](https://open.spotify.com/track/75NeiNCxqUojF1evdQflZL) | [Kazuyoshi Nakamura](https://open.spotify.com/artist/48aqLKlBaCPTEvASwohn9F) | [春になれば](https://open.spotify.com/album/6fGG2mcYVxIEjT8scSUCTO) | 5:23 |
 | 15 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 |
 | 16 | [DUNE](https://open.spotify.com/track/1w3YQYNtn2SsJuhkQlDFcz) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [DUNE](https://open.spotify.com/album/6ZK3tzbIjcVkdWqBNYMdmv) | 4:26 |
 | 17 | [long good\-bye](https://open.spotify.com/track/4SahYiM0uX40YnDt5jTLDZ) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Terminal](https://open.spotify.com/album/2eYXYU8WPrnucyQsfAqpgr) | 4:38 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 62 | [Loud Land](https://open.spotify.com/track/5V6v1a5W9AMUouu0UwHSf7) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [Loud Land](https://open.spotify.com/album/5NoTZDS0Z0bVsaQ6uGtmjz) | 3:02 |
 | 63 | [family](https://open.spotify.com/track/2PrSxo7E5pqBa9lFNJt1pz) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [family](https://open.spotify.com/album/633aHjnFz7OKOA1hPslzyo) | 2:45 |
 
-Snapshot ID: `MCw5MDUxYWFlMzljMWU4ZmY0ZmZkM2FhMjY3OGUzMzJkYzRkMmE5Zjdk`
+Snapshot ID: `MCw0YjNlZmE0NWQ4YTEwZTI3OWIwNTIxMjJkMDU1MDk3YmY1MjZiNTNk`

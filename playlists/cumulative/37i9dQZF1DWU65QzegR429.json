@@ -1967,6 +1967,32 @@
     },
     {
       "album": {
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/7fxoiLhdWnKxOniIaN1IPn"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/6IYJaB2xU1tqIzAIF6pHxk"
+    },
+    {
+      "album": {
         "name": "Jenn Morel",
         "url": "https://open.spotify.com/album/191I4m4Z4rbDUXvpvdpn6H"
       },
@@ -3916,6 +3942,28 @@
       "duration_ms": 335148,
       "name": "When I Was Your Girl",
       "url": "https://open.spotify.com/track/07mj6o8oLIYbMSvwlQGMUB"
+    },
+    {
+      "album": {
+        "name": "Who Who",
+        "url": "https://open.spotify.com/album/5YwNXkTwhwBv1dZE5pbE11"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183653,
+      "name": "Who Who",
+      "url": "https://open.spotify.com/track/5chbw52W6N0FMq7hFsdQyU"
     },
     {
       "album": {

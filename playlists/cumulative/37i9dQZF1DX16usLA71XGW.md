@@ -4,7 +4,7 @@
 
 > East Africa queens in their music bag\. Cover: Muthoni Drummer Queen
 
-124 songs - 6 hr 31 min
+125 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Skia](https://open.spotify.com/track/5UpnIhGL7UfPcgnLmsmbZU) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Skia](https://open.spotify.com/album/1lZCh8wawVRNTa5scsx3JY) | 2:58 | 2022-07-18 |  |
 | [Slow Dancing](https://open.spotify.com/track/6Qyi7tjYfQf3jSc2DjgVMC) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC \(Deluxe\)](https://open.spotify.com/album/7HDi7WEWMN9ZhnNPo2lMx8) | 3:22 | 2022-07-18 |  |
 | [Southwards](https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:24 | 2023-09-01 |  |
-| [Tattoo](https://open.spotify.com/track/2pV5l0fHPD4tb2z5QDJjYn) | [Crystal Asige](https://open.spotify.com/artist/0I7ji8NGTX35KNbnCi2IoQ) | [Tattoo](https://open.spotify.com/album/5By0YmA84p9qNjutfiVKEx) | 3:41 | 2024-02-23 |  |
+| [Tattoo](https://open.spotify.com/track/2pV5l0fHPD4tb2z5QDJjYn) | [Crystal Asige](https://open.spotify.com/artist/0I7ji8NGTX35KNbnCi2IoQ) | [Tattoo](https://open.spotify.com/album/5By0YmA84p9qNjutfiVKEx) | 3:41 | 2024-02-23 | 2024-03-23 |
 | [Te Quiero](https://open.spotify.com/track/420JxzIQL7fiH7hAAJAvsk) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Te Quiero](https://open.spotify.com/album/28I2Cswf6Ha0dOd6Yer1Ef) | 2:58 | 2022-07-18 | 2023-05-14 |
 | [Te Quiero](https://open.spotify.com/track/6PtSPngdTdpXCirFEyEGHG) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Te Quiero](https://open.spotify.com/album/0e7I2Jwq5O4MLDVd3oCPxJ) | 2:58 | 2023-05-11 | 2023-06-02 |
 | [Toola](https://open.spotify.com/track/6ckQHJ3Q1UjduZtkp6t5N4) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb), [Angella Katatumba](https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH) | [Osobola](https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC) | 2:44 | 2022-09-08 | 2023-07-01 |
@@ -119,6 +119,7 @@
 | [Unanikosha](https://open.spotify.com/track/6gHk7bjniGrFzZeIWuut7t) | [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH) | [Unanikosha](https://open.spotify.com/album/3O0zOnmqZcMapWxGooBzVu) | 3:02 | 2022-07-18 | 2023-04-14 |
 | [Unanimaliza](https://open.spotify.com/track/67F4XuZS8JXs8t5UZBjEFg) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 2:55 | 2022-08-19 |  |
 | [Undercover](https://open.spotify.com/track/5Uy3sc1qolZIq16vURqlH7) | [HSKE](https://open.spotify.com/artist/0GHHtw39P3sS8MqYuuR4j8), [Mayonde](https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr), [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB), [Polaris](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA) | [Undercover](https://open.spotify.com/album/72JE0lfLPQLzA0wVkJqU6B) | 4:02 | 2023-06-30 | 2024-01-30 |
+| [Ungwana](https://open.spotify.com/track/33VeVtw389nnxyXapuhZnk) | [Nina Ogot](https://open.spotify.com/artist/70vJ4IvBtlCutfLNkxqoSu) | [Ungwana](https://open.spotify.com/album/3SQzdcSMRPaK3hSjf1K8mF) | 5:09 | 2024-03-22 |  |
 | [Utaniua](https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Utaniua](https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb) | 3:36 | 2023-02-10 |  |
 | [Wandiisa Ki](https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Wandiisa Ki](https://open.spotify.com/album/6SYvCQHJcZBBJKkADXL32z) | 3:13 | 2022-07-18 |  |
 | [WANO](https://open.spotify.com/track/7smBB3wQQe6eGZMMVVF4mv) | [NTAATE](https://open.spotify.com/artist/2pjlyuBujBWpkiqpoZTOB9) | [WANO](https://open.spotify.com/album/3XIZCSSFUdzPvxMJOcC32t) | 3:31 | 2022-07-18 | 2023-02-11 |

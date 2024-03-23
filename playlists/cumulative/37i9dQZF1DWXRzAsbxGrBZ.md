@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-116 songs - 13 hr 15 min
+117 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Confident \- China The Charmeleon The Animal Remix](https://open.spotify.com/track/4ZMAP1fr4QvcIfF0B440MZ) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Confindent](https://open.spotify.com/album/7JrsF96D0q5Zm9tEoqMG0u) | 7:43 | 2022-09-14 | 2023-09-15 |
 | [Dark Snow \- Bones Remix](https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T) | [The Rudeman](https://open.spotify.com/artist/4Dqd0M9FVObaErF14Tgj2z), [Keegs Bantom](https://open.spotify.com/artist/1XgMCVnnBJvz7djvk86Ry6), [Bones](https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn) | [Dark Snow](https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV) | 6:07 | 2023-03-17 | 2024-01-02 |
 | [Day And Night \(Mmawe\) \- Original Mix](https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM) | [Chymamusique](https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI) | [3 By 3](https://open.spotify.com/album/4T4acJ3hbsdQG6lvuJIOqV) | 6:32 | 2022-09-14 | 2023-03-18 |
+| [Deep Within](https://open.spotify.com/track/0voE1Kh5SUOiTUiSq4XbYS) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Deep Within](https://open.spotify.com/album/6OcILwpGGNkbvXlzB6KECP) | 7:16 | 2024-03-15 |  |
 | [Deep Within](https://open.spotify.com/track/5I2QPKhv9d28heg8tzlvMt) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Deep Within](https://open.spotify.com/album/3AwIbt10sltXXgVPBJKYCi) | 7:16 | 2023-03-17 | 2024-03-21 |
 | [Different You](https://open.spotify.com/track/7DKC7x1wGVEhex4r5b0FDC) | [DJ Hloni](https://open.spotify.com/artist/0zsgveyOjZ0R4EVtx4NjNu), [MacZito](https://open.spotify.com/artist/2thqWGNDvNBDTetSDqquhC), [YBE](https://open.spotify.com/artist/5M7Y8ONhBfgoR2nC5VuJvz) | [Different You](https://open.spotify.com/album/0EoAED2djxx2kPF6RgWk89) | 6:59 | 2022-09-14 | 2022-11-18 |
 | [Do 4 Love](https://open.spotify.com/track/59NwccvTdS0bjuQ0akCojn) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j) | [Back 2 Basics](https://open.spotify.com/album/54A8PyTjNlFchRt3KBjEa9) | 7:19 | 2022-11-10 | 2023-03-18 |
@@ -54,7 +55,7 @@
 | [Ingoma \- Original Mix](https://open.spotify.com/track/7oyMweIaDux964WgeejCf7) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Mr.Cantata](https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0), [Bikie](https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu) | [Ingoma](https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0) | 7:10 | 2022-09-14 |  |
 | [It Is Well](https://open.spotify.com/track/3SajhWMnXhX2RaLeEdqXHq) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Oliphant Gold](https://open.spotify.com/artist/1UeEFhpijQMngJrzoPiPXV), [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew) | [It Is Well](https://open.spotify.com/album/7nom4Vze0mmtc6e0HcKzYa) | 7:10 | 2023-03-17 | 2024-01-26 |
 | [It Is Well](https://open.spotify.com/track/4wPGakZ5g4ZjReeTjbo6SA) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Oliphant Gold](https://open.spotify.com/artist/1UeEFhpijQMngJrzoPiPXV), [Romeo ThaGreatWhite](https://open.spotify.com/artist/3ZCdk8KQtyV9ZbB6okOx0Q) | [It Is Well](https://open.spotify.com/album/6hJ2QxpWc8eMbwwOgfFkpY) | 7:10 | 2024-01-25 |  |
-| [Ivar the Boneless](https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm) | [Gigg Cosco](https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o) | [Ivar the Boneless](https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I) | 6:44 | 2022-09-14 |  |
+| [Ivar the Boneless](https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm) | [Gigg Cosco](https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o) | [Ivar the Boneless](https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I) | 6:44 | 2022-09-14 | 2024-03-23 |
 | [Joker](https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Joker EP](https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE) | 5:23 | 2023-03-17 | 2024-03-21 |
 | [Ksasenjalo \(Exte C Remix\)](https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Ksasenjalo \(Re\-Imagined\)](https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ) | 6:41 | 2024-02-15 |  |
 | [Lately I Found Myself](https://open.spotify.com/track/5ZfIMcsmsB5wVnkGh112Bn) | [HisKing](https://open.spotify.com/artist/0j01TxMt3NFKTOCy2ob4Qj), [The Poetic Manic](https://open.spotify.com/artist/56VBl9X48ovh8FBNieoYxF) | [Lately I Found Myself](https://open.spotify.com/album/0mB5VErDZoHjWvzBfqddGP) | 7:28 | 2023-03-23 | 2023-11-18 |

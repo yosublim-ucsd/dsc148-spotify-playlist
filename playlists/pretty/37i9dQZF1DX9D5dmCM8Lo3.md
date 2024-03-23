@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,980 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,102 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 15 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 |
 | 16 | [Browser History](https://open.spotify.com/track/71K5XMKY9Q3GWTIVQWrPRj) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [An Obsession With Kit](https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4) | 2:19 |
 | 17 | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/album/3jEWqAIIlHymIW7oVbRCME) | 1:46 |
-| 18 | [lain](https://open.spotify.com/track/0miB2Y7zYt8DMx8biwooN2) | [C4FF31N3](https://open.spotify.com/artist/2nfx8RFGKqdv3gFCYrODVy) | [lain](https://open.spotify.com/album/46hmpGRHhtVWAlc5HmvfCC) | 3:46 |
-| 19 | [Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:48 |
+| 18 | [Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:48 |
+| 19 | [lain](https://open.spotify.com/track/0miB2Y7zYt8DMx8biwooN2) | [C4FF31N3](https://open.spotify.com/artist/2nfx8RFGKqdv3gFCYrODVy) | [lain](https://open.spotify.com/album/46hmpGRHhtVWAlc5HmvfCC) | 3:46 |
 | 20 | [C3L3STIAL\_CITY](https://open.spotify.com/track/3A65Lka539xAGXoNNAN1Bs) | [bliss3three](https://open.spotify.com/artist/5tP9MksSHHb59vV4N6HMHI) | [C3L3STIAL天の](https://open.spotify.com/album/3fRYgemQ0936FpVBvUjEgk) | 1:08 |
 | 21 | [I Saw an Angel](https://open.spotify.com/track/4PqdOR9uAfyNp67P9k3bH2) | [Puzzle](https://open.spotify.com/artist/3JDZy6EWo6V8yABANunf6V) | [Soaring](https://open.spotify.com/album/3piPM3MXYU1wmB9yz7UHcQ) | 2:43 |
 | 22 | [Dreamscape](https://open.spotify.com/track/5fp6m6Zo4LetiWaMMrPjy5) | [009 Sound System](https://open.spotify.com/artist/0BjppA384A5QT9kRKCJOyb) | [009 Sound System](https://open.spotify.com/album/5W3etTwlyw2ykgwk5sW8K3) | 4:37 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 38 | [Reduplicate](https://open.spotify.com/track/64PKCSw5Jg7grMo9MnlFoO) | [Mayo.](https://open.spotify.com/artist/5qXBdxoTjNzrAmy3fpASbX) | [Aether](https://open.spotify.com/album/2FeYIfCmI3kGAJt1SAdTpV) | 1:17 |
 | 39 | [ultra](https://open.spotify.com/track/60aMDjOxTTjf3UJp1SElQd) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [ultra](https://open.spotify.com/album/6PBMIPRU5YjTjQdlcHdssk) | 1:24 |
 | 40 | [DesktopBuddy](https://open.spotify.com/track/5QmxtHllxowtR7XYQgrFri) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [TILT](https://open.spotify.com/album/0NzidGgZeCQW934e8LOyYa) | 3:00 |
-| 41 | [Missed Kiss](https://open.spotify.com/track/6FkJImUqOt3DfH0MuCp4Gr) | [Digigurl](https://open.spotify.com/artist/0gVS8zVAMZ6KJd6LHUsv2Z) | [Missed Kiss](https://open.spotify.com/album/4iNQn6nR8GzzA32YFGJwx8) | 3:22 |
-| 42 | [ƪ\. ◖ƪ❍⊁◞.\|◗щ \(\*ᄋ△+⁎❝᷀ົཽ\*ೃ:\(꒡͡ ❝᷀ົཽ ꉺ ̈.·\*:・✧⃛\(ཽ๑](https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\)✧⃛\*](https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz) | 3:10 |
+| 41 | [ƪ\. ◖ƪ❍⊁◞.\|◗щ \(\*ᄋ△+⁎❝᷀ົཽ\*ೃ:\(꒡͡ ❝᷀ົཽ ꉺ ̈.·\*:・✧⃛\(ཽ๑](https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\)✧⃛\*](https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz) | 3:10 |
+| 42 | [Missed Kiss](https://open.spotify.com/track/6FkJImUqOt3DfH0MuCp4Gr) | [Digigurl](https://open.spotify.com/artist/0gVS8zVAMZ6KJd6LHUsv2Z) | [Missed Kiss](https://open.spotify.com/album/4iNQn6nR8GzzA32YFGJwx8) | 3:22 |
 | 43 | [Eternal.Temp](https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:36 |
 | 44 | [VOCALOID UTOPIA](https://open.spotify.com/track/2zMfxTNwPbkI7IYmhBqWFa) | [dennokop](https://open.spotify.com/artist/3rOrXW6Tv20yUlonxXgSPP) | [VOCALOID DYSTOPIA](https://open.spotify.com/album/3NpInFPUzlghneOmTDSxsx) | 2:24 |
 | 45 | [WIGGLECORE](https://open.spotify.com/track/0OSkkfKiaPnmlL9ocLVgs9) | [FLOOR BABA](https://open.spotify.com/artist/3J4heSMiOqE9MpbyGTtNHA) | [DIRT BIRD](https://open.spotify.com/album/3S64ZdqDFMAq4KoltiR1Sc) | 1:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 49 | [Avenues](https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx) | [Drive45](https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB) | [Avenues](https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71) | 2:55 |
 | 50 | [Laptop !!](https://open.spotify.com/track/0eCmMzl0p3QkP1KiwjXYyA) | [dreamcache](https://open.spotify.com/artist/0lg1OxkQBe6Jb8HmdtLZYN) | [Laptop !!](https://open.spotify.com/album/4sbn5EHU8f7dpAU7C2WkYx) | 1:51 |
 
-Snapshot ID: `MCxiZGM5MDNjYzllYTZhZjI3YTdlMGRmZDRjMDg2ZDAyZjNmNmJiMjll`
+Snapshot ID: `MCxlZGVlOWJhOTQ2YTRlODQ0YTU4YmU3MTk3YTQyNzI2ZmRiZTcxNzYx`

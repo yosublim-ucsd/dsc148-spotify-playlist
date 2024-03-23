@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,218 likes - 36 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,226 likes - 36 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 | 32 | [Dil Jalaney Ki Baat](https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Qais Essar](https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD) | [Revolution \(Remix\)](https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm) | 10:35 |
 | 33 | [Naja](https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc) | [Pawas](https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Naja](https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU) | 9:02 |
 | 34 | [Ovid's Metamorphoses](https://open.spotify.com/track/2XDK6xpeeESGknHrfXW9Od) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl) | 15:11 |
-| 35 | [Rainy Streets](https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 6:50 |
+| 35 | [Seawall](https://open.spotify.com/track/0bhwDHpQN2yqBgTxXxPfp4) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 0:56 |
 | 36 | [Island No\. 3](https://open.spotify.com/track/0E4l6jS1tqDw8QCdtoclMz) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl) | 17:44 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBhZWQ4Yzk1YTY2ZjgwY2Q3NjRjZDZkNzkxOTk5MTI5Zg==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA5YmJiMDU5NDAxYWUyYzQ2ZTIyMDNkMDc4OWYyYWVkMw==`

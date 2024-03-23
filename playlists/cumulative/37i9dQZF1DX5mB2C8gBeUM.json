@@ -7751,6 +7751,24 @@
     },
     {
       "album": {
+        "name": "Vegas",
+        "url": "https://open.spotify.com/album/2RUdZVnTQeSGB0QVffPJ7m"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180400,
+      "name": "Vegas",
+      "url": "https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V"
+    },
+    {
+      "album": {
         "name": "Boots x Beats",
         "url": "https://open.spotify.com/album/6yTa2jxGNCiQsdsLAu3888"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Moglii
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,313 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,348 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 5 | [New World \(Flow\)](https://open.spotify.com/track/3EYkvUWZoysixyAYDDxsbA) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor) | [New World \(Flow\)](https://open.spotify.com/album/7mqb47mEFEIcVYJmiZUlKk) | 5:23 |
 | 6 | [Crush](https://open.spotify.com/track/58Fkphee9r7xCQmKj4SMar) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Crush](https://open.spotify.com/album/7GFnomhPOTcD3hexX6GNRn) | 4:59 |
 | 7 | [It's Over](https://open.spotify.com/track/4Yqni3x2tardecTnYrS7TH) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [It's Over](https://open.spotify.com/album/5BhWfrNZib2MCLdjEwDqdw) | 4:12 |
-| 8 | [Fantasy \- Sofia Kourtesis Remix](https://open.spotify.com/track/3ETFK4bJe6LOJRuTnoR4Nl) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Fantasy Remixes](https://open.spotify.com/album/7KSknfmHoGrBd4pXYLxziO) | 4:08 |
+| 8 | [Fantasy \- Sofia Kourtesis Remix](https://open.spotify.com/track/0rm385SIdp7KV248WA3yI4) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Fantasy Remixes](https://open.spotify.com/album/2RwQ0yrsnvl3YRx1FfkKsH) | 4:08 |
 | 9 | [Nowhere To Go \(feat\. Brian Molko\)](https://open.spotify.com/track/6pWspjFl1IMggzIT70M6fm) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Brian Molko](https://open.spotify.com/artist/6stFJpRU2haAAmJjSZEuVW) | [Cold Enough For Snow](https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi) | 5:19 |
 | 10 | [Midnight Serenade](https://open.spotify.com/track/4V2u9MWP2wgSCSkDSo4ZjZ) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Midnight Serenade](https://open.spotify.com/album/4oZIgxd1pGHSEEEHxjdfI7) | 3:38 |
 | 11 | [So Much](https://open.spotify.com/track/1Os8fwzZHklVPTXLu0CIiQ) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Woolfy](https://open.spotify.com/artist/115rMfffKYQgrhzmGT7fTw) | [So Much](https://open.spotify.com/album/0KG6VrRVbdATdYeLpvP78S) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [mr useless](https://open.spotify.com/track/1HogDCzANgKv9mE8MgeYKg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [mr useless](https://open.spotify.com/album/2nORxS6P2LcQHuTHbH8rgZ) | 2:29 |
 | 75 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 |
 
-Snapshot ID: `MCxlZGU4Mzk1MDFkZDdhY2E5Yzc3YTYxOGE4MWM2Yjg2NTA4MzE5M2Rm`
+Snapshot ID: `MCwwYzQ5MWYwN2YzM2M0YjMyZWI1NzE3ZGUxMmU3ZDVkYzIwMGU4MWI4`

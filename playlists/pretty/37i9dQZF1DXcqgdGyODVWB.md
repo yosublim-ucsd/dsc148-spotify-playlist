@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 
 > Cumbia Norteña y Norteño Sax para las vibras de verano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,939 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,002 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 28 | [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 |
 | 29 | [Ojos Marrones](https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Ojos Marrones](https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb) | 2:43 |
 | 30 | [Fuentes de Ortiz](https://open.spotify.com/track/4vvxsS3eN7EGJf1Ejdbmz6) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Fuentes de Ortiz](https://open.spotify.com/album/6fcrLDiVt4ukz1j7UBoHss) | 3:51 |
-| 31 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 |
-| 32 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
+| 31 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
+| 32 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 |
 | 33 | [Chiquita Bonita](https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Chiquita Bonita](https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB) | 2:36 |
 | 34 | [Acurrucar](https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Acurrucar](https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK) | 2:58 |
 | 35 | [Huapango Amor Ranchero](https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Huapango Amor Ranchero](https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl) | 3:19 |
@@ -77,23 +77,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 67 | [La Ética](https://open.spotify.com/track/5lme9vHMk1a85L6bEUvp6G) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [A La Caza](https://open.spotify.com/album/5B0wpHiMb1YSmiC4TGwbb4) | 2:53 |
 | 68 | [Celoso](https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN) | [Secretto](https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD) | [Celoso](https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR) | 3:21 |
 | 69 | [Bonita](https://open.spotify.com/track/6Rx86i8mwD37V7LB2RJrIl) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Bonita](https://open.spotify.com/album/5OCwrv3QDZ49BpNnhVDu49) | 3:25 |
-| 70 | [Otra Vez](https://open.spotify.com/track/68dyhT3QFybWKDSRBDgKof) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:41 |
-| 71 | [Los Ángeles Existen](https://open.spotify.com/track/7rPDko8WpB988ygHq0avaz) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Diez](https://open.spotify.com/album/7o5Z3DrisXdFmrfel292Hi) | 3:18 |
+| 70 | [Los Ángeles Existen](https://open.spotify.com/track/7rPDko8WpB988ygHq0avaz) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Diez](https://open.spotify.com/album/7o5Z3DrisXdFmrfel292Hi) | 3:18 |
+| 71 | [Otra Vez](https://open.spotify.com/track/68dyhT3QFybWKDSRBDgKof) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:41 |
 | 72 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
 | 73 | [La Del Moño Colorado](https://open.spotify.com/track/4fkCG6ZvZ4oFHnNJQmD0lE) | [Los Pedernales](https://open.spotify.com/artist/2t9iBcBG9KoBeOZHevRzsc) | [La Del Moño Colorado](https://open.spotify.com/album/6I8NtD0YFtJn6osq3YPadR) | 5:00 |
 | 74 | [Muchacha de los Ojos Tristes](https://open.spotify.com/track/04YgriwmHLTTFvTbv3deyA) | [Retoños Del Rio](https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF) | [Se Abre el Telón](https://open.spotify.com/album/7gDU8W7H50vfNL4Dlw9MRt) | 3:45 |
 | 75 | [Locamente Enamorado](https://open.spotify.com/track/4flttXINh6lGchVRSlEBGC) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Locamente Enamorado](https://open.spotify.com/album/1Fw0OFwTabn8QsGocoV82P) | 3:37 |
 | 76 | [Popurrí Cumbias: Se Murió De Amor/Desvelado/Otra Vez \- En Vivo](https://open.spotify.com/track/2rNksx1mb49Vb35MiKgUiJ) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [En Vivo Desde El Rancho](https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh) | 8:41 |
-| 77 | [Bésame Morenita](https://open.spotify.com/track/0oyYP7CW5V4wwU9KkrCdY4) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Tú](https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc) | 3:15 |
-| 78 | [De Cuando Acá](https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [De Cuando Acá](https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki) | 2:58 |
+| 77 | [De Cuando Acá](https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [De Cuando Acá](https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki) | 2:58 |
+| 78 | [Bésame Morenita](https://open.spotify.com/track/0oyYP7CW5V4wwU9KkrCdY4) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Tú](https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc) | 3:15 |
 | 79 | [Lo Dice El Corazón](https://open.spotify.com/track/45WKHzA7KeJtQFLkDHxcCS) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Lo Dice El Corazón](https://open.spotify.com/album/0tELO6VB2M4J9Egbk3ENZl) | 2:50 |
 | 80 | [Voy a Conquistarte](https://open.spotify.com/track/4wR1PmSCcxNMjP9koGWWd8) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Voy a Conquistarte](https://open.spotify.com/album/5tb09wCXY5tZr1Xz6Obul4) | 3:18 |
 | 81 | [Piquetitos](https://open.spotify.com/track/6G2VETYnLl1Psobu809yQY) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Un Sueño](https://open.spotify.com/album/3Qx23oTyQnS2tYthd6ihEs) | 3:08 |
 | 82 | [Total que más da](https://open.spotify.com/track/0XAocBz2uu1P0SKru9TpKz) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Pídeme](https://open.spotify.com/album/1TGPYyBwqTXBovx6vxjJ9t) | 3:50 |
 | 83 | [Por las Mañanas \- En Vivo](https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 3:08 |
-| 84 | [Molinos de Viento](https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Que Se Arme la Fiesta](https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO) | 4:00 |
+| 84 | [El Pávido Návido](https://open.spotify.com/track/2uLCHFZczr8mQpdGbk30DT) | [Los Igualados](https://open.spotify.com/artist/6H9GCi2trd6KkKlGrGuDfj) | [A Bailar Huapangos](https://open.spotify.com/album/4rAl5BSej3ygV2BWk8yQbg) | 4:12 |
 | 85 | [Y Lo Busqué](https://open.spotify.com/track/2tUS7pJAfKcOS84ncN5D3o) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Olvídala](https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh) | 3:56 |
-| 86 | [El Pávido Návido](https://open.spotify.com/track/2uLCHFZczr8mQpdGbk30DT) | [Los Igualados](https://open.spotify.com/artist/6H9GCi2trd6KkKlGrGuDfj) | [A Bailar Huapangos](https://open.spotify.com/album/4rAl5BSej3ygV2BWk8yQbg) | 4:12 |
+| 86 | [Molinos de Viento](https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Que Se Arme la Fiesta](https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO) | 4:00 |
 | 87 | [Quiero Saber de Ti](https://open.spotify.com/track/5EYvfSYETZF8vBAuQV9OET) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Nunca Imaginé](https://open.spotify.com/album/4rGVMonf0nBGkWWR8nnuEL) | 3:52 |
 | 88 | [Un Cariño Como Tú](https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño, Vol\. 2](https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R) | 2:47 |
 | 89 | [A Ver Si Capea](https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 99 | [Por las Noches](https://open.spotify.com/track/0p8lGoIPQESNxb79UOt80R) | [La Zona X](https://open.spotify.com/artist/6CREnDoHW0llPJeNfOJYUI), [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [On The Road](https://open.spotify.com/album/1ix9kL2uDaBIf1HDhiSLhG) | 2:52 |
 | 100 | [Fuiste Mala](https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Fuiste Mala](https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw) | 3:24 |
 
-Snapshot ID: `MCwwZGY2ZDkyYzBmMjQ5YTk2NTRmZTZhMDg2MjgxZTNlNzI1M2Q1OGMw`
+Snapshot ID: `MCwxYzk2Zjk2ZjdmM2IwMDFhOTE1MmIzMjUzMDk3NmEyMmI2YTEyNmVm`

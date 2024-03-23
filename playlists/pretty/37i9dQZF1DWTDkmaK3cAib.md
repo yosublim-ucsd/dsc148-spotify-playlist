@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 
 > let's get it on
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,951 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,979 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 | 59 | [Bye](https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Bye](https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI) | 2:37 |
 | 60 | [Malibú](https://open.spotify.com/track/4GR2VDGNBpGyE4wZy0VTSj) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Malibú](https://open.spotify.com/album/62bGLItJa7M2TGq4WMhvlz) | 3:40 |
 | 61 | [Double Cheese & Bacon \(feat\. Willie DeVille & Veztalone\)](https://open.spotify.com/track/6t6VYuRaisYZLynvLhizsF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5) | [Double Cheese & Bacon \(feat\. Willie DeVille & Veztalone\)](https://open.spotify.com/album/1zZxxzuPxKHMiQypEx54yx) | 4:13 |
-| 62 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 |
-| 63 | [Versos de Placer](https://open.spotify.com/track/4z11brnmIkePDnP3L1siz5) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Versos de Placer](https://open.spotify.com/album/3rJcFj3XgniFRAUpgEbcX0) | 2:48 |
+| 62 | [Versos de Placer](https://open.spotify.com/track/4z11brnmIkePDnP3L1siz5) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Versos de Placer](https://open.spotify.com/album/3rJcFj3XgniFRAUpgEbcX0) | 2:48 |
+| 63 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 |
 | 64 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
 | 65 | [Aire](https://open.spotify.com/track/6KD13DHZyT3hRvcVg1sZfZ) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Aire](https://open.spotify.com/album/3JUzKnPSx25f6XGmFlmOQM) | 2:54 |
 | 66 | [DameLove \(feat\. Cuco\)](https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:46 |
 | 67 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
 | 68 | [COLTRANE](https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:43 |
-| 69 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 |
-| 70 | [Religiosa](https://open.spotify.com/track/33IHBjSXpamVSajAQ3wSER) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:40 |
+| 69 | [Religiosa](https://open.spotify.com/track/33IHBjSXpamVSajAQ3wSER) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:40 |
+| 70 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 |
 | 71 | [No Fue](https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [No Fue](https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD) | 3:15 |
 | 72 | [CAMA KING \(feat\. Chita\)](https://open.spotify.com/track/1EOyHhh5uOwNrDhiUNnH2u) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 |
 | 73 | [lento](https://open.spotify.com/track/6y9gnJMwDfwJZrxyCd3Q6s) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [idek](https://open.spotify.com/album/3WOcKu6D3jHEPkWW28SGN1) | 2:32 |
 | 74 | [Commitment](https://open.spotify.com/track/66wc0nPLPztqdyjEdWzPRP) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Carousel](https://open.spotify.com/album/6VgqpgAkaud6KjgkXiKPMY) | 4:07 |
 | 75 | [Naturaleza](https://open.spotify.com/track/2OlxJKrbyLmzAO14EgV53K) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 2:42 |
 
-Snapshot ID: `MCxlZGI3N2RmNzM3NGQwODI1ZGEzNjMxMGIyMjZhNzQzYzc5MTA0OWI2`
+Snapshot ID: `MCw0MjZlMDczZjJhNTgxYWE2NTQ5YWNiMmEzYWRhZmMwYzM4MWQ4NThi`

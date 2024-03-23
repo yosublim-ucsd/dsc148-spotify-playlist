@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-606 songs - 1 day 12 hr 6 min
+607 songs - 1 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Another You](https://open.spotify.com/track/3OKan3IZFHAYCPd0DlsD96) | [Drew Fish Band](https://open.spotify.com/artist/0zYSaMFTNzN0Y8a8Zv5oD5) | [Another You](https://open.spotify.com/album/0dcheBteHIIiY9n6DBjTSI) | 4:27 | 2022-03-18 | 2022-07-29 |
 | [Any Other Guy](https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Any Other Guy](https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw) | 4:18 | 2021-12-17 | 2022-05-28 |
 | [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 | 2022-03-25 |  |
+| [Anywhere But Here](https://open.spotify.com/track/641AMRjvcagUyc04njDJOs) | [Silverada](https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44) | [Anywhere But Here](https://open.spotify.com/album/1PUJWUBjUtz60hCuYpydmd) | 3:26 | 2024-03-22 |  |
 | [Anywhere The Wind Blows](https://open.spotify.com/track/3EkzYs8jjEjQ2He4Pb8HOY) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Anywhere The Wind Blows](https://open.spotify.com/album/3P8m3DPo4k52m57HXwEKzf) | 2:57 | 2023-03-03 | 2023-04-12 |
 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 | 2022-04-08 | 2023-09-02 |
 | [Ask Me To Dance \(feat\. Hayes Carll\)](https://open.spotify.com/track/6cbUXmdoD6mgh7Cs6o0xQz) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Ask Me To Dance \(feat\. Hayes Carll\)](https://open.spotify.com/album/4PRPnlKErEf5LqTdiwmJqJ) | 2:36 | 2023-08-25 |  |
@@ -305,7 +306,7 @@
 | [Know That by Now](https://open.spotify.com/track/1yL8k3wylADawLh7T5BzbO) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Know That by Now](https://open.spotify.com/album/6tZ6olAlfKCuB3ZWr741LC) | 4:01 | 2022-09-23 | 2023-02-01 |
 | [Last American Summer](https://open.spotify.com/track/1yah3M7TFAlX4jc3Cpa1Op) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 3:51 | 2023-11-03 |  |
 | [Last American Summer](https://open.spotify.com/track/75YFljzpMBKPICS0UhktL3) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Last American Summer](https://open.spotify.com/album/1ELbgyymPeozN3fYiKIZEJ) | 3:51 | 2023-06-30 | 2023-11-08 |
-| [Last Goodbye](https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7), [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Last Goodbye](https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA) | 3:32 | 2023-06-09 |  |
+| [Last Goodbye](https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7), [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Last Goodbye](https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA) | 3:32 | 2023-06-09 | 2024-03-23 |
 | [Learnin' my Lesson](https://open.spotify.com/track/0BbB09Svr2wBTYERsUJ10b) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD), [Wes Bayliss](https://open.spotify.com/artist/4HVDdibCfau9ebwkNxDp0f) | [Learnin' my Lesson](https://open.spotify.com/album/7GUnsUVz27ZchZ7vmtm1Mn) | 3:07 | 2023-07-07 | 2023-09-12 |
 | [Legends](https://open.spotify.com/track/3tMySztcJ2hrYLHOAXpCVc) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Legends](https://open.spotify.com/album/7fw5CcuAmxFL4eSwoDa69u) | 3:31 | 2022-10-28 | 2023-01-06 |
 | [Let Him In](https://open.spotify.com/track/1Ksas5Umdnh7rLfBhK4wNi) | [Seth Ward](https://open.spotify.com/artist/55kr1RaQ3UONiM6f2AzeHt) | [Let Him In](https://open.spotify.com/album/10Am8PcY3Z0DokMgDBmldJ) | 3:59 | 2021-12-17 | 2022-03-19 |

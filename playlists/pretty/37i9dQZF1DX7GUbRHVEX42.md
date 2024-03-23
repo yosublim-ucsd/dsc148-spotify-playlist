@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\. Welcome To Jamrock Reggae Cruise\. Cover: Kabaka Pyramid
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,315 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,371 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 63 | [Final Warning](https://open.spotify.com/track/1jBmIONvgPrALQhRL6AgHe) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [Skank N Prod](https://open.spotify.com/artist/4rK98VLS3BkgpGFeWO6OI0) | [Final Warning](https://open.spotify.com/album/7lLoUQrpBTGAfW4Wu7cqmk) | 3:42 |
 | 64 | [Helping Hand \(with Anthony B\)](https://open.spotify.com/track/6PjLeKjVLdN76GcBcDXn82) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Thankful \(with Chronic Law\)](https://open.spotify.com/album/5LM9OTMQ4ub6exdf9E8h23) | 4:13 |
 | 65 | [Allow Me to Live](https://open.spotify.com/track/1qTfGeXfINLj01VmuchXcr) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM) | [Allow Me to Live](https://open.spotify.com/album/1KWipvpvLEgb0Lnozzyhib) | 3:03 |
-| 66 | [Fill My Cup](https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm) | [Iotosh](https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log) | [Fill My Cup](https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE) | 3:22 |
-| 67 | [Born A Rebel](https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Born A Rebel](https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY) | 3:37 |
+| 66 | [Born A Rebel](https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Born A Rebel](https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY) | 3:37 |
+| 67 | [Fill My Cup](https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm) | [Iotosh](https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log) | [Fill My Cup](https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE) | 3:22 |
 | 68 | [Dirty Money](https://open.spotify.com/track/0beUa4YmnC5oMtWqzoeNYt) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Dirty Money](https://open.spotify.com/album/04Och1XUiZ5tcwFRcTwAx5) | 4:13 |
 | 69 | [Oh Jah](https://open.spotify.com/track/74iQyrji8Tbu5VDffj9rgZ) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT) | [Oh Jah](https://open.spotify.com/album/7aVMzB3MdZyZkLXu7pJ1Oj) | 4:01 |
 | 70 | [Zulu Gang](https://open.spotify.com/track/1wNRSCOeKbLJrmYAmJqx0O) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Blame It On The Youts](https://open.spotify.com/album/5SV7FBn5PvryAIPZ4iPblN) | 2:46 |
 
-Snapshot ID: `MCxmYTUxOGRkY2E4MjU3NDJjYzZkY2QxNzNlNzY1ZTY2YmFkNWNmN2Q3`
+Snapshot ID: `MCw0MGZkZjI5YmVmZDAxZjAzMWMwZTE5ZWY2OTM5MzY5YTM1ZWRiYTgy`

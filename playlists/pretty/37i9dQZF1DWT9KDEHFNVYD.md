@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,827 likes - 100 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,828 likes - 100 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 53 | [Han\-Tyumi, The Confused Cyborg](https://open.spotify.com/track/0ygAoz3haF1jLcHHB7NWf4) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Murder of the Universe](https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS) | 2:21 |
 | 54 | [キュー](https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [BGM](https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4) | 4:32 |
 | 55 | [melody in high feedback tones](https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g) | 3:53 |
-| 56 | [Asteroid Witch](https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
-| 57 | [Drop Out](https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh) | [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX), [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO) | [Gnod Drop Out With White Hills II](https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN) | 11:01 |
+| 56 | [Drop Out](https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh) | [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX), [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO) | [Gnod Drop Out With White Hills II](https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN) | 11:01 |
+| 57 | [Asteroid Witch](https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
 | 58 | [To the East](https://open.spotify.com/track/1OfR8T0YBBwKXxt7nbAJaT) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [No Shouts, No Calls](https://open.spotify.com/album/0l9mVAWNzHKX0B7o9IEIeB) | 4:55 |
 | 59 | [Record Still Spinning](https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB) | [Fröst](https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE) | [Matters](https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5) | 3:29 |
 | 60 | [All Your Love is Gone](https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT) | [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh) | [Boxed In](https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ) | 5:10 |
-| 61 | [Like Foxes Through Fences](https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:37 |
-| 62 | [No Spell](https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 4:26 |
+| 61 | [No Spell](https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 4:26 |
+| 62 | [Like Foxes Through Fences](https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:37 |
 | 63 | [Super\-Electric](https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Switched On](https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS) | 5:22 |
 | 64 | [Pendulum](https://open.spotify.com/track/6hbP2Xs5W0SVvepjLWnTeL) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP) | 4:21 |
 | 65 | [C.Rock](https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X) | [Krisma](https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb) | [Chinese Restaurant](https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X) | 5:29 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 87 | [Negativland](https://open.spotify.com/track/4IBOCVRedkQ3obCIaTqcxm) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU!](https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH) | 9:47 |
 | 88 | [Saturnine Night](https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Find The Sun](https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI) | 7:06 |
 | 89 | [Conductor 71](https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Transparent Things](https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI) | 4:10 |
-| 90 | [Mother Sky \(from Deep End\)](https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Anthology \(Remastered Version\)](https://open.spotify.com/album/6XFyzX1oEpqQl6TPf0nhpH) | 6:36 |
-| 91 | [Sandtrommel](https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 6:26 |
-| 92 | [Quakenbrück \- version](https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [QUAKENBRÜCK \[Version\]](https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7) | 4:39 |
+| 90 | [Quakenbrück \- version](https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [QUAKENBRÜCK \[Version\]](https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7) | 4:39 |
+| 91 | [Mother Sky \(from Deep End\)](https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Anthology \(Remastered Version\)](https://open.spotify.com/album/6XFyzX1oEpqQl6TPf0nhpH) | 6:36 |
+| 92 | [Sandtrommel](https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 6:26 |
 | 93 | [Bells](https://open.spotify.com/track/7MeZ2vkj3UNOsMiekKRbGM) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [Axes](https://open.spotify.com/album/6URJwDxKSs8MWXm8WnMcTk) | 4:38 |
 | 94 | [The Sound of all Things](https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Balance](https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp) | 6:21 |
 | 95 | [State of Clear](https://open.spotify.com/track/1RpcIabGrqPQQe1jSHwpna) | [Trees Speak](https://open.spotify.com/artist/7Bw4KOeFdVW8DGMn8OBQB3) | [Ohms](https://open.spotify.com/album/1uubGVQSGD0SR09BT0unJO) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 99 | [Yatton](https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>](https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7) | 5:19 |
 | 100 | [I'm Not Living in the Past Anymore](https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1) | [Holy Wave](https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b) | [Interloper](https://open.spotify.com/album/0xUuUfioatY8J7dbskVOfs) | 4:07 |
 
-Snapshot ID: `MCxmNTRlOTRlYTM4NTBiZjBlYjFlMTkxNmQwM2IyZmNiNWYwZmUwNzFj`
+Snapshot ID: `MCw4ZTZmZTdhNTZmYzgyODAwZDM1Njk5MmFjYTViMDVkMmQ1ZWQwNDA3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,558 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,581 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 34 | [It's Our Love](https://open.spotify.com/track/4A6zEXlSk7xIIqDh92iZ26) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/6Bq78nvB8jyxF9dQIdCahr) | 3:47 |
 | 35 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 |
 | 36 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 |
-| 37 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
-| 38 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
+| 37 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
+| 38 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
 | 39 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
 | 40 | [Tomorrow](https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Tomorrow](https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj) | 4:00 |
 | 41 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 52 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
 | 53 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 |
 | 54 | [Low](https://open.spotify.com/track/4RJYhQEGxI42b2OkiA6eYP) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq) | 4:34 |
-| 55 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 |
-| 56 | [Is It Any Wonder?](https://open.spotify.com/track/3sXAAkkejrZAs57QHjnuZf) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Durand Jones & The Indications](https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme) | 4:36 |
+| 55 | [Is It Any Wonder?](https://open.spotify.com/track/3sXAAkkejrZAs57QHjnuZf) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Durand Jones & The Indications](https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme) | 4:36 |
+| 56 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 |
 | 57 | [Lancaster Nights](https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Lancaster Nights](https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl) | 3:10 |
 | 58 | [There Is Something on Your Mind](https://open.spotify.com/track/2zBY88nji53AVJ2kczRvBO) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Nervous](https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri) | 3:22 |
 | 59 | [lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G) | 3:58 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 89 | [Sunblind](https://open.spotify.com/track/308prODCCD0O660tIktbUi) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:13 |
 | 90 | [Our Way to Fall](https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:18 |
 | 91 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
-| 92 | [Ayayai](https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Tamale](https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn) | 2:50 |
-| 93 | [Coolest fucking bitch in town](https://open.spotify.com/track/4itvVGU4tjNOiaAv4TrzsZ) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 4:56 |
-| 94 | [Smile](https://open.spotify.com/track/12GZjzbMyuHyWQTrLvNmtG) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications](https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme) | 3:49 |
+| 92 | [Smile](https://open.spotify.com/track/12GZjzbMyuHyWQTrLvNmtG) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications](https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme) | 3:49 |
+| 93 | [Ayayai](https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Tamale](https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn) | 2:50 |
+| 94 | [Coolest fucking bitch in town](https://open.spotify.com/track/4itvVGU4tjNOiaAv4TrzsZ) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 4:56 |
 | 95 | [Run It](https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Waterfall II](https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh) | 4:37 |
 | 96 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 |
 | 97 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 99 | [Juniper](https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE) | 2:39 |
 | 100 | [Out Of The Blue](https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:12 |
 
-Snapshot ID: `MCw3ZDRmZGMyOTQ2YjMyYzIyNTA1MTFmYWYzOWUxOWJkOWJhMjk3MWM4`
+Snapshot ID: `MCw3NDYyODA3M2NjZWMyNmQ5OGZjMGNjZGU1YTNmMGYxZDFiOTE3OGNm`

@@ -1963,6 +1963,32 @@
     },
     {
       "album": {
+        "name": "Ayomaya (From \"Blink\")",
+        "url": "https://open.spotify.com/album/3q80kqta2k0KiJ7atJPD5R"
+      },
+      "artists": [
+        {
+          "name": "Prasanna Kumar M S",
+          "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
+        },
+        {
+          "name": "Jayanth Kumar",
+          "url": "https://open.spotify.com/artist/6ty4Ss97oWULNkJa18TOY0"
+        },
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "Ayomaya (From \"Blink\")",
+      "url": "https://open.spotify.com/track/2N7HPBLPgi8i8oeAcTH9aj"
+    },
+    {
+      "album": {
         "name": "Ayyayyo (From \"Abbabba\")",
         "url": "https://open.spotify.com/album/0FkuAAQh3BtUjmYmO3oK2d"
       },
@@ -13160,16 +13186,20 @@
       },
       "artists": [
         {
+          "name": "Bruthuva Caleb",
+          "url": "https://open.spotify.com/artist/07ABY32b4waim4zjiFgI0E"
+        },
+        {
+          "name": "Chethan Shetty",
+          "url": "https://open.spotify.com/artist/4qKB79xGsxZ6s3RCfSWgeM"
+        },
+        {
           "name": "Chandan Shetty",
           "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
         },
         {
           "name": "Deepak Doddera",
           "url": "https://open.spotify.com/artist/0SGmikcgmj4djshtt85Nh0"
-        },
-        {
-          "name": "Chethan Shetty",
-          "url": "https://open.spotify.com/artist/4qKB79xGsxZ6s3RCfSWgeM"
         }
       ],
       "date_added": "2024-01-19",
@@ -24406,6 +24436,28 @@
       "duration_ms": 271291,
       "name": "Thumbane Kelalaare (from\"Mafia\")",
       "url": "https://open.spotify.com/track/1hLgsE5vtSB4WGa6G254md"
+    },
+    {
+      "album": {
+        "name": "Tilimoda Baanali (From \"Garuda Purana\")",
+        "url": "https://open.spotify.com/album/70K5BK6L8JGah2WUxYhrwC"
+      },
+      "artists": [
+        {
+          "name": "Rakesh Acharya",
+          "url": "https://open.spotify.com/artist/6AueyJq6aqbvnRw0zpTSVD"
+        },
+        {
+          "name": "Vijetha Vishwanath",
+          "url": "https://open.spotify.com/artist/5jjDgsBACoPk9w7w03qbFN"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Tilimoda Baanali (From \"Garuda Purana\")",
+      "url": "https://open.spotify.com/track/4kDCPi3wq2ObWTS8ks6KEP"
     },
     {
       "album": {

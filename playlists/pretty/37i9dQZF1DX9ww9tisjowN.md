@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: HoneyWorks
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,778 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,417 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [Dodonpa](https://open.spotify.com/track/2AndL1gnrkjtzoxIy2AG8Y) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Candy Racer](https://open.spotify.com/album/1i5J264nc9xYsroDS3FTHx) | 4:37 |
 | 75 | [SHIBUYA!](https://open.spotify.com/track/6mm77b97f45vAHWvQWjX0t) | [半熟卵っち](https://open.spotify.com/artist/41X6FS6g9dLuOGghju7Qb1) | [SHIBUYA!](https://open.spotify.com/album/6iv4BaaVSRqPxV3eTHKSPi) | 2:17 |
 
-Snapshot ID: `MCxmOGRlM2M2OWE2OWU2NmQwYmJkMjIxNTJhMDQ5N2Q0OTE0MDcxZTIx`
+Snapshot ID: `MCwwZjEyY2QzOGZhNjliMWQ5YTU5OWU1YjIwNjRhNmQ3MTc0ODFmYTg1`

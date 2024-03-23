@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 
 > bien inventadas 💅🏼✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,981 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,983 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 | 26 | [Una Noche en Medellín](https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw) | 2:33 |
 | 27 | [Dia de Enero](https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 2:53 |
 | 28 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:13 |
-| 29 | [No Es Por Acá](https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:47 |
-| 30 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
+| 29 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
+| 30 | [No Es Por Acá](https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:47 |
 | 31 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
 | 32 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 |
 | 33 | [LOKERA](https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:17 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 | 57 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 |
 | 58 | [Calidad](https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Calidad](https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb) | 2:50 |
 | 59 | [Nataaoki](https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:30 |
-| 60 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 |
-| 61 | [Sálvame](https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:44 |
+| 60 | [Sálvame](https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:44 |
+| 61 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 |
 | 62 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
 | 63 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 | 64 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 | 99 | [Estoy Aquí](https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:52 |
 | 100 | [LOKERA](https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [LOKERA](https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU) | 3:17 |
 
-Snapshot ID: `MCw1OTZlNGRiMmFkMzYyMjIyZjQ3OGEyM2EyMmU0NzRmNjBkMDVjZDVh`
+Snapshot ID: `MCw3ZjlmYTBlNzRlYThjZmUyOWQ2Mzc1MjE2ZmI4MTEzZDUzNDRlOTEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,825 likes - 58 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,917 likes - 58 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 23 | [Key To The Highway](https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:43 |
 | 24 | [Little Red Rooster](https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:51 |
 | 25 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:17 |
-| 26 | [Baby, What You Want Me To Do \- Live At The New Era Club,1963](https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Rocks The House](https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk) | 4:14 |
-| 27 | [Walkin' Blues](https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [East West](https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3) | 3:19 |
+| 26 | [Walkin' Blues](https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [East West](https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3) | 3:19 |
+| 27 | [Baby, What You Want Me To Do \- Live At The New Era Club,1963](https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Rocks The House](https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk) | 4:14 |
 | 28 | [I'm Ready](https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:04 |
 | 29 | [Mystery Train \- Remastered 2022](https://open.spotify.com/track/5lgo86IFpVmZkP2tllm5eX) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM), [The Blue Flames](https://open.spotify.com/artist/6v2b0J4pJj4uQhyL9Onz2A) | [Sun Records Originals: Mystery Train](https://open.spotify.com/album/6ah1LPcA93TpiesTgaLUsy) | 2:24 |
 | 30 | [Farther Up The Road](https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:57 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 57 | [Ain't Nobody's Business](https://open.spotify.com/track/4aD3d9kzxY8MXAssMQ3c6v) | [Jimmy Whiterspoon](https://open.spotify.com/artist/6Jsv53pu1yK3Q9ZuHcfhsH) | [Presenting Jimmy Whitherspoon](https://open.spotify.com/album/6NVixVUSc6EtmvWzJM8vZf) | 3:38 |
 | 58 | [See See Rider Blues](https://open.spotify.com/track/71foFS0nD6tAZC9BdsVc9G) | [Bea Booze](https://open.spotify.com/artist/47PKMyeVDaFasSwGibmoSk) | [Country Blues 101](https://open.spotify.com/album/0A2ttGOhKCGIVzLXtSgajJ) | 3:09 |
 
-Snapshot ID: `MCxjMTM5NmVjOWMzYzBhMmJlMzU2YjBiMDA1YzkzY2U2YzQ1NTE1MjU5`
+Snapshot ID: `MCwwNTlkODI1YWJlNzQwYTBiNWJkOTNlMGU4OTU2ZDQzYTI1N2JkN2Vj`

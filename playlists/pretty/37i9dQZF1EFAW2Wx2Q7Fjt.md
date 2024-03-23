@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,833 likes - 113 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,835 likes - 114 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 73 | [Beautiful Boy](https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [28 \(Songs for Cooper\)](https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY) | 2:38 |
 | 74 | [Lucky Charms](https://open.spotify.com/track/1Cwg5W2pW4aDvgUnb0PAvL) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Feeling For My Life](https://open.spotify.com/album/5iABQiExFiKUfLj2LKH59m) | 3:10 |
 | 75 | [Sex & cigarettes](https://open.spotify.com/track/4bJM6SNVyvzgcJR0f5QtYo) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 3:05 |
-| 76 | [Forever](https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Forever](https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc) | 3:16 |
-| 77 | [Damn Near Normal](https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Damn Near Normal](https://open.spotify.com/album/3lhyhLiN82xxpLH85BCGz7) | 3:44 |
+| 76 | [Damn Near Normal](https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Damn Near Normal](https://open.spotify.com/album/3lhyhLiN82xxpLH85BCGz7) | 3:44 |
+| 77 | [Forever](https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Forever](https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc) | 3:16 |
 | 78 | [Too Bad](https://open.spotify.com/track/3bFUSbKteIXulMNkwywOQI) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 2:53 |
 | 79 | [Thrill of the Chase \(feat\. R.I.Pablo\)](https://open.spotify.com/track/5iIGjnYdSOa1K0EcFTTxqk) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 3:18 |
 | 80 | [Heaven](https://open.spotify.com/track/451zgY3T1avOqREfcio9WX) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Heaven](https://open.spotify.com/album/6clTUHFKfFoea1lEfYysCl) | 2:43 |
@@ -117,9 +117,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 107 | [A Woman's World](https://open.spotify.com/track/5jLw9MlAjLGVDFVx3739eQ) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [A Woman's World](https://open.spotify.com/album/6FARllTFyAyPTIhowt7GlX) | 2:38 |
 | 108 | [1000 WAYS](https://open.spotify.com/track/0ngYMrAGctxpwJ4PWJFH8m) | [WESLEY](https://open.spotify.com/artist/1XYpi8swds1ve699iHIuXL) | [1000 WAYS](https://open.spotify.com/album/1hzCTG4RI6eaHms3sNX2bT) | 3:06 |
 | 109 | [The Rope](https://open.spotify.com/track/7tCTdByZk73LFnicVAr08k) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Little Bit of Sun](https://open.spotify.com/album/2IIZUA4Ey5voQpvhhrOw71) | 2:29 |
-| 110 | [Tom Brady](https://open.spotify.com/track/0QAX1RS572BeBITLfC0NBA) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:16 |
-| 111 | [Staircase](https://open.spotify.com/track/5TsO44gSxSL2s6ksqZChoR) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 2:37 |
-| 112 | [Unsatisfied](https://open.spotify.com/track/51lD9CXjQZlG3GwRRw1MLl) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:39 |
-| 113 | [All The Time](https://open.spotify.com/track/3t4RGPHFVjFv24e81KEZ9r) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Little Bit of Sun](https://open.spotify.com/album/2IIZUA4Ey5voQpvhhrOw71) | 4:10 |
+| 110 | [scared of my guitar](https://open.spotify.com/track/6tpBEsBlKw3tWbARSpnXgp) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/0AGTYuKIZpklJih6pEmoWp) | 4:23 |
+| 111 | [Tom Brady](https://open.spotify.com/track/0QAX1RS572BeBITLfC0NBA) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:16 |
+| 112 | [Staircase](https://open.spotify.com/track/5TsO44gSxSL2s6ksqZChoR) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 2:37 |
+| 113 | [Unsatisfied](https://open.spotify.com/track/51lD9CXjQZlG3GwRRw1MLl) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:39 |
+| 114 | [All The Time](https://open.spotify.com/track/3t4RGPHFVjFv24e81KEZ9r) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Little Bit of Sun](https://open.spotify.com/album/2IIZUA4Ey5voQpvhhrOw71) | 4:10 |
 
-Snapshot ID: `Mjg1MTc4OTAsMDAwMDAwMDA4NDMwNGI0NTVmMzVmMmRkMGNmNDgyY2JlM2M4YWEyZA==`
+Snapshot ID: `Mjg1MTkzMzAsMDAwMDAwMDBlMTkzMzVhZTljYmZiNWU1YzE2ODcyMDY0NDg5NDBlNw==`

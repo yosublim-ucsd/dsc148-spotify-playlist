@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: Slash",
-  "num_followers": 198165,
+  "num_followers": 198290,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2NlMTczMDYyOWMxZjhiYjBmMWQ4NjA5OGEwZDM5MTJhNGI1NmQy",
+  "snapshot_id": "MCw1Nzk2NDBhZGYyZGEwNTEwNmM3N2ZjZDgwN2Y2MDA3YjA3NWI4MDk2",
   "tracks": [
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Put Your Money On Me",
+        "url": "https://open.spotify.com/album/7MyvRRf3JcTp4R4J3iXC0B"
+      },
+      "artists": [
+        {
+          "name": "The Answer",
+          "url": "https://open.spotify.com/artist/3STTKsLP1gSzGvOVCtNlWS"
+        }
+      ],
+      "duration_ms": 187960,
+      "name": "Put Your Money On Me",
+      "url": "https://open.spotify.com/track/3nFZSnjeCfNLVFPK1nnXZF"
+    },
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
@@ -1227,22 +1243,6 @@
       "duration_ms": 282906,
       "name": "I'm Gone",
       "url": "https://open.spotify.com/track/1ZbVqL2ErCQH26Zj4JkHy0"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "This Land",
-        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 258200,
-      "name": "Low Down Rolling Stone",
-      "url": "https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g"
     },
     {
       "added_at": "2020-10-16 04:02:00",

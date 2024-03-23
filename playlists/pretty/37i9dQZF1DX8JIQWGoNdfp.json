@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 42218,
+  "num_followers": 42271,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmNkYTZmNTQ3MjljNTZkYjJiMmZlODk0ZGFiMjUyYTlhNWM0ZTAw",
+  "snapshot_id": "MCxiMmNjNWMzM2ZmOGVlMDIzMjZhM2E2ZDQ1N2Q0NmFlY2QwNTdlMGQx",
   "tracks": [
     {
       "added_at": "2022-10-02 01:51:23",
@@ -27,6 +27,22 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 194613,
+      "name": "Exchange",
+      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 241160,
       "name": "Power Trip (feat. Miguel)",
       "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 194613,
-      "name": "Exchange",
-      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
     },
     {
       "added_at": "2022-10-02 01:51:23",

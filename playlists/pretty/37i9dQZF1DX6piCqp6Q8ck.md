@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,628 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,610 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 3 | [Holly Jolly Christmas](https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 1:59 |
 | 4 | [Frosty The Snowman](https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 |
 | 5 | [Happy Holiday / The Holiday Season](https://open.spotify.com/track/3sDdyBHQ60Cs1opmIyRvhp) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:36 |
-| 6 | [Christmas Is Coming](https://open.spotify.com/track/69hH2X1SjculOZEOahrWQQ) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 3:25 |
-| 7 | [Skating](https://open.spotify.com/track/1rGZUPEI3iq6HYmI0V6a98) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [The Definitive Vince Guaraldi](https://open.spotify.com/album/1sn69oro0vmwuAu1iwCu7d) | 2:24 |
+| 6 | [Skating](https://open.spotify.com/track/1rGZUPEI3iq6HYmI0V6a98) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [The Definitive Vince Guaraldi](https://open.spotify.com/album/1sn69oro0vmwuAu1iwCu7d) | 2:24 |
+| 7 | [Christmas Is Coming](https://open.spotify.com/track/69hH2X1SjculOZEOahrWQQ) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 3:25 |
 | 8 | [Cool Yule](https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [The Commanders](https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:56 |
 | 9 | [Caroling, Caroling](https://open.spotify.com/track/11Z7sdkpC5IaaydoIvDn74) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:01 |
 | 10 | [A Marshmallow World](https://open.spotify.com/track/3szI9hDVbyOYU0yd77G35n) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:40 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 30 | [Jolly Holiday](https://open.spotify.com/track/1nNmGXc4dcQHvteyiwjWv9) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Jolly Holiday](https://open.spotify.com/album/6Bq0rkBNkUOFwGwMCPFHuN) | 3:18 |
 | 31 | [The Merriest](https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [This Time Of The Year](https://open.spotify.com/album/0szcykJDXIrks6ETFZF6Zw) | 2:09 |
 | 32 | [All I Want For Christmas Is You](https://open.spotify.com/track/78buvo4nEf1G7ir4QubyuN) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Song Society Playlist](https://open.spotify.com/album/2FrMkEgtQ6uITrWSoO07zX) | 4:13 |
-| 33 | [Diddly Squat](https://open.spotify.com/track/5QeFN5OzkgWTVo9zO799ph) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7) | 3:05 |
-| 34 | [When We Kissed Under The Mistletoe](https://open.spotify.com/track/5vt00tH4PyhiAuV4kGIUAK) | [Gus Anderson](https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX) | [When We Kissed Under The Mistletoe](https://open.spotify.com/album/43omzeS1WIBkcVZuPkh3zs) | 2:24 |
+| 33 | [When We Kissed Under The Mistletoe](https://open.spotify.com/track/5vt00tH4PyhiAuV4kGIUAK) | [Gus Anderson](https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX) | [When We Kissed Under The Mistletoe](https://open.spotify.com/album/43omzeS1WIBkcVZuPkh3zs) | 2:24 |
+| 34 | [Diddly Squat](https://open.spotify.com/track/5QeFN5OzkgWTVo9zO799ph) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7) | 3:05 |
 | 35 | [Mr\. Christmas](https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Mr\. Christmas](https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B) | 3:36 |
 | 36 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/79Vow814grawUCdrBlYZbs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 2:44 |
 | 37 | [Christmas Waltz](https://open.spotify.com/track/3fHIRYjmv46IC9ZBZIdw1W) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Christmas Wish](https://open.spotify.com/album/41CTZeexSebAHGNeLiEdon) | 3:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [The Last Day of the Year](https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 5:05 |
 | 70 | [Christmas Never Gets Old](https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 2:42 |
 
-Snapshot ID: `MCwxNzE0NzIwM2M1OGZlZmM3NTRkY2I4Y2I0OWViYzkxMzNjMWQ0YTEz`
+Snapshot ID: `MCwxYzE1NmRkNzkwY2M0MWY1ZGZjYzRiZWMyMmMxODllZjYzYzJiMjNi`

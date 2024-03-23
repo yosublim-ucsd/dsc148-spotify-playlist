@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 17426,
+  "num_followers": 17421,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDFlZjRjOTU2OWYwMDJjZjNlZTQ1ODRiYzQ5YjU0YjJlMjBjMjNm",
+  "snapshot_id": "MCxiZWU2NjUyMGE5MzVmNzhmNDBhNGE4NTZhMzU2ZDEzOGYzYmUyZGU0",
   "tracks": [
     {
       "added_at": "2024-03-20 08:24:11",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-03-20 08:24:11",
       "album": {
+        "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
+    },
+    {
+      "added_at": "2024-03-20 08:24:11",
+      "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
       },
@@ -115,22 +131,6 @@
     {
       "added_at": "2024-03-20 08:24:11",
       "album": {
-        "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
-    },
-    {
-      "added_at": "2024-03-20 08:24:11",
-      "album": {
         "name": "Only Then",
         "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
       },
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-03-20 08:24:11",
       "album": {
-        "name": "180\u02da",
-        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 229187,
-      "name": "180 Degree",
-      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
-    },
-    {
-      "added_at": "2024-03-20 08:24:11",
-      "album": {
         "name": "Me After You",
         "url": "https://open.spotify.com/album/3Zvz3DnPC7UgRyiO8LprUt"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 280358,
       "name": "Me After You",
       "url": "https://open.spotify.com/track/3gucipmp9z0bf7pjEbtTX0"
+    },
+    {
+      "added_at": "2024-03-20 08:24:11",
+      "album": {
+        "name": "180\u02da",
+        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 229187,
+      "name": "180 Degree",
+      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
     },
     {
       "added_at": "2024-03-20 08:24:11",

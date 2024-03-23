@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 
 > ¡De vuelta a los 2000s con los mejores éxitos! Shakira en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,351 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,455 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 | 6 | [Ella Y Yo \- Featuring Don Omar](https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:27 |
 | 7 | [Lo Que Pasó, Pasó](https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:30 |
 | 8 | [Ven Conmigo \(Solamente Tú\)](https://open.spotify.com/track/2PYJnUWEPPP8C6b79UiwIl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:10 |
-| 9 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 |
-| 10 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 |
+| 9 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 |
+| 10 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 |
 | 11 | [Para No Verte Más](https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Visperas De Carnaval](https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W) | 3:11 |
 | 12 | [La Tortura \(feat\. Alejandro Sanz\)](https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:32 |
 | 13 | [Don](https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:03 |
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 | 24 | [Mi Primer Millon](https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 3:57 |
 | 25 | [Tú No Eres Para Mi](https://open.spotify.com/track/3df4fSoW5zsdNi5Wf3K5RP) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Dos](https://open.spotify.com/album/1PKBHS23j0Hujx8C2sCbqo) | 3:25 |
 | 26 | [Na De Na](https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Gocho "El Lápiz De Platino"](https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA), [John Eric](https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2) | [Showtime](https://open.spotify.com/album/26YeHRhZt1HHM0Ed9I9YFw) | 3:22 |
-| 27 | [La Botella](https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R) | 2:57 |
+| 27 | [El Amor](https://open.spotify.com/track/7e6PEtKY008duLXsAJ3TVQ) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [El Patrón \(La Victoria\)](https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU) | 4:06 |
 | 28 | [Me Enamora](https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [La Vida Es Un Ratico](https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY) | 3:12 |
-| 29 | [El Amor](https://open.spotify.com/track/7e6PEtKY008duLXsAJ3TVQ) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [El Patrón \(La Victoria\)](https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU) | 4:06 |
+| 29 | [La Botella](https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R) | 2:57 |
 | 30 | [¿Qué Tengo Que Hacer?](https://open.spotify.com/track/0Xfo7PfltbOrAiBs0eSCTH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Talento de Barrio](https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6) | 3:38 |
 | 31 | [5 Letras](https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Sobrenatural](https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf) | 3:15 |
 | 32 | [Tu Amor Me Hace Bien \- Salsa Version](https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 | 49 | [Culo](https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [M.I.A.M.I.](https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32) | 3:39 |
 | 50 | [Verano Azul](https://open.spotify.com/track/0dgwWXkfcWyB2a2qTgEc0F) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Verano Azul](https://open.spotify.com/album/687yvcM8ZmPohOsrrXh8Zu) | 3:10 |
 
-Snapshot ID: `MCxmNTBmYzU5ZjcyOWQ1MTQ1ZjU1Mzc4ZWFjYWMxNjcwZjBhOGIzZjdh`
+Snapshot ID: `MCw1YWM4ZTg5NTJhMzQ2YjJkNGJiNDY4ZTMzYmFlYjJiNzdlZjcyNmQ1`

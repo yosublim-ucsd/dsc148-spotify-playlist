@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: MRCY\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,264 likes - 85 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,291 likes - 85 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 84 | [Outside](https://open.spotify.com/track/1ozbAvJ5hZmycQbh4GQGjI) | [Jordan Nash](https://open.spotify.com/artist/3FdBkTRuQog4cyBE1FRR7A) | [Outside](https://open.spotify.com/album/0baK4pePflG8hjaOPxiyiJ) | 2:36 |
 | 85 | [He Don't](https://open.spotify.com/track/4AFJ1Wr1pee9bpWT5PgKN0) | [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [He Don't](https://open.spotify.com/album/6L7wHBVw78HrnYxxZuZzlm) | 2:28 |
 
-Snapshot ID: `MCxjYmZhOGIzYzgzYTdjYmRiZjZjYWI2ODVmNjNmOTM3MzAxMGM2Mzc4`
+Snapshot ID: `MCwzM2EzMmRjYmMwYWMyMmQ3M2E1ODcwMTA5ZGQ4YzQ4ZDAzYzcyYzU3`

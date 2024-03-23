@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Fanny Soegi
 
-3,220 songs - 8 day 5 hr 48 min
+3,221 songs - 8 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,6 +472,7 @@
 | [call girl](https://open.spotify.com/track/5Kz4nqErWiTY7SL8lvpR8k) | [Brokenboys](https://open.spotify.com/artist/4v3rJMjQBXbWw3AA9Wt4xH), [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi), [naldooo](https://open.spotify.com/artist/5HItG5yxx5fYjpRfrveHyi) | [call girl](https://open.spotify.com/album/67jz6N6JJd9emmGAVStor5) | 2:59 | 2023-01-26 | 2023-02-10 |
 | [Call Me](https://open.spotify.com/track/0tXoFDvnWyLi5MGB7l2DIy) | [Dhipa Pramudya](https://open.spotify.com/artist/1ChgMF6QgfNquRkguZopoQ) | [Call Me](https://open.spotify.com/album/7MAeY9kzQCau9cbOuRxokg) | 3:04 | 2023-01-12 | 2023-01-27 |
 | [Call Me](https://open.spotify.com/track/1r46gTl42s29EKA15XTWJ8) | [Joe Dennis](https://open.spotify.com/artist/3GAkCdMLFDghiaIc9V8o92) | [Call Me](https://open.spotify.com/album/5MuiRhtsp67rcJTtPAIWD7) | 3:14 | 2023-08-31 | 2023-09-20 |
+| [Call Me Now](https://open.spotify.com/track/3vP4JaeNIMkWhNZ2hsgLSx) | [Joy Manifesto](https://open.spotify.com/artist/4aou5HcW4h4huBPg0wSeOA) | [Call Me Now](https://open.spotify.com/album/2en7QHAxa9i8XwTtvYPpey) | 3:20 | 2024-03-21 |  |
 | [Call My Name](https://open.spotify.com/track/7ktJnb4s0kY2Uqo02tvgyl) | [Yell Ow](https://open.spotify.com/artist/1GxcHI0VE7cuxBJEev1iPE) | [Call My Name](https://open.spotify.com/album/07B8nC7cYuAi4xhVHVcIUu) | 3:24 | 2022-01-20 | 2022-02-04 |
 | [Call You Mine](https://open.spotify.com/track/0vNtQANZtg9MCB8DhHbuP6) | [LAVIE](https://open.spotify.com/artist/3JsIOT6tNWD3VhHKQ5D2WO) | [Call You Mine](https://open.spotify.com/album/5VMVpEWVq4QzQbTbSF7FEa) | 3:45 | 2022-03-04 | 2022-03-18 |
 | [Calling You](https://open.spotify.com/track/2lWKBcWsRzVUVrPEqkg1YA) | [DIMINISHED](https://open.spotify.com/artist/70cI5rTdmeyuPXBAbDNMJz) | [Calling You](https://open.spotify.com/album/4lYN8sZLEHhDrOTdHmPXM0) | 3:12 | 2023-11-23 | 2023-12-15 |

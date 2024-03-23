@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 
 > pov: you're crying and dancing at the same time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,420 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,439 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 | 18 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 |
 | 19 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
 | 20 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 |
-| 21 | [La Última Canción](https://open.spotify.com/track/2mRwodUOATBk5spcUsEidB) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 3:04 |
-| 22 | [Desenfocao'](https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:50 |
+| 21 | [Desenfocao'](https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:50 |
+| 22 | [La Última Canción](https://open.spotify.com/track/2mRwodUOATBk5spcUsEidB) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 3:04 |
 | 23 | [¿Qué Nos Pasó?](https://open.spotify.com/track/7k3qWn8D43a5ISa3x8lJux) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [¿Qué Nos Pasó?](https://open.spotify.com/album/4q4kJrDt0OcTP2of4YUuHR) | 4:05 |
 | 24 | [Si Veo a Tu Mamá](https://open.spotify.com/track/41wtwzCZkXwpnakmwJ239F) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:50 |
 | 25 | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx) | 3:27 |
 | 26 | [11 PM](https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 2:55 |
 | 27 | [ULTRA SOLO REMIX](https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [ULTRA SOLO REMIX](https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm) | 5:22 |
-| 28 | [Todavía](https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI) | [DJ Pablito](https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5), [La Factoria](https://open.spotify.com/artist/00Lc7Ok0Grodr365KFTSi3), [Joycee](https://open.spotify.com/artist/7IjPW8bcW8D5mccCuVxbEC) | [Dj Pablito Presenta\- La Factoría](https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb) | 3:23 |
-| 29 | [Cosa Guapa](https://open.spotify.com/track/7aWiJeMyxxPEyjwvZyauAF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 4:15 |
+| 28 | [Cosa Guapa](https://open.spotify.com/track/7aWiJeMyxxPEyjwvZyauAF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 4:15 |
+| 29 | [Todavía](https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI) | [DJ Pablito](https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5), [La Factoria](https://open.spotify.com/artist/00Lc7Ok0Grodr365KFTSi3), [Joycee](https://open.spotify.com/artist/7IjPW8bcW8D5mccCuVxbEC) | [Dj Pablito Presenta\- La Factoría](https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb) | 3:23 |
 | 30 | [Tú Me Dejaste De Querer](https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:18 |
 | 31 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 |
 | 32 | [SI TÚ SUPIERAS \- Bonus Track](https://open.spotify.com/track/1SCYfmGM5ueb6YiiQbLXVn) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [INTER SHIBUYA \- LA MAFIA](https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G) | 3:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 | 59 | [Fingías](https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Fingías](https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn) | 3:45 |
 | 60 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 |
 
-Snapshot ID: `MCxlY2I1MWM1YzNmZDFkM2QzYmE3ZDBiM2U5OWU3ODhhNzc1OTBlYTZj`
+Snapshot ID: `MCxkYmQwNGNlNDliZWMxMzEyZDA3YTEzZjk3YWIxNGVlMTNmZWVhMjY3`

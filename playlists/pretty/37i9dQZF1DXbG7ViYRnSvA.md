@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,771 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,786 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 49 | [Finding Home in Rwanda](https://open.spotify.com/track/3B8VmjKKdmkT2XByRT6Kq4) | [J\. Ivy](https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn), [Munyakazi Deo](https://open.spotify.com/artist/7wndHqMTZ3IVrMpR0WKcMD), [1key](https://open.spotify.com/artist/2OnqtAUmwkWba2VqkfnFKt) | [Catching Dreams](https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu) | 6:14 |
 | 50 | [Just Chill](https://open.spotify.com/track/4kPslnT97Uo6YdNpFcnrk4) | [Project Mayhem](https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl) | [The Mayhem Machine](https://open.spotify.com/album/35EJ8kPWBRUpQH7gKSkSSK) | 4:17 |
 
-Snapshot ID: `MCxlMTdlNGUyN2U3NGVlNjVkNjE0Mzc5MjhkNmY1MGU3YmI4ODE4MTYy`
+Snapshot ID: `MCw4N2M4NTgxMWRiMGJhNmNlMzgwYzMwMmFmYjRlMmJkZjgxZDIxYmQ3`

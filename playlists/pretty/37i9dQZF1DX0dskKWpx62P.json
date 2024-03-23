@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 42262,
+  "num_followers": 42291,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWUyYzI1NjQ5MWU2YTQ4ODQ3YWY4ODI3MTdhOTVkZmQzMWIzN2Rm",
+  "snapshot_id": "MCxmNTVmMzUzZDk0NjM2MzIzNjRiMmQ2MjRiNGFkMmQ5NjAzZTkzOTdl",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Soy Provinciano",
-        "url": "https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt"
-      },
-      "artists": [
-        {
-          "name": "Pumita Cazador",
-          "url": "https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks"
-        }
-      ],
-      "duration_ms": 382876,
-      "name": "Soy Provinciano",
-      "url": "https://open.spotify.com/track/3ZkFqIPa7HL9ijEiONlUpf"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Conjunto Condemayta de Acomayo",
         "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Soy Provinciano",
+        "url": "https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt"
+      },
+      "artists": [
+        {
+          "name": "Pumita Cazador",
+          "url": "https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks"
+        }
+      ],
+      "duration_ms": 382876,
+      "name": "Soy Provinciano",
+      "url": "https://open.spotify.com/track/3ZkFqIPa7HL9ijEiONlUpf"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Mis \u00c9xitos Eternos Vol. 2",
         "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 210560,
       "name": "Adi\u00f3s Pueblo De Ayacucho",
       "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
-        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
-      },
-      "artists": [
-        {
-          "name": "Estudiantina Per\u00fa",
-          "url": "https://open.spotify.com/artist/5etoNGyzurcPYsyeLgVnDC"
-        }
-      ],
-      "duration_ms": 177653,
-      "name": "Convoycito de Huancayo",
-      "url": "https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -755,6 +739,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
+        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
+      },
+      "artists": [
+        {
+          "name": "Estudiantina Per\u00fa",
+          "url": "https://open.spotify.com/artist/5etoNGyzurcPYsyeLgVnDC"
+        }
+      ],
+      "duration_ms": 177653,
+      "name": "Convoycito de Huancayo",
+      "url": "https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Lo Mejor del Incomparable...Mario Mendoza",
         "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "De Colores",
-        "url": "https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00"
-      },
-      "artists": [
-        {
-          "name": "Yawar",
-          "url": "https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Linda Warmisitay",
-      "url": "https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Sobreviviendo",
         "url": "https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 377280,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "De Colores",
+        "url": "https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00"
+      },
+      "artists": [
+        {
+          "name": "Yawar",
+          "url": "https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Linda Warmisitay",
+      "url": "https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -851,22 +851,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "T\u00fa Puedes Volar",
-        "url": "https://open.spotify.com/album/6Mfa1vsbXf1sIRg4GMtpXw"
+        "name": "El Imperio de los Apus",
+        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
       },
       "artists": [
         {
-          "name": "Damaris",
-          "url": "https://open.spotify.com/artist/2zcBBdC0mMH60MMglRpHod"
-        },
-        {
-          "name": "Raices de Jauja",
-          "url": "https://open.spotify.com/artist/4GBwdePu8Ym2dbI6P72zi9"
+          "name": "Los Apus",
+          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
         }
       ],
-      "duration_ms": 250533,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV"
+      "duration_ms": 239853,
+      "name": "Sirwana",
+      "url": "https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -887,18 +883,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "El Imperio de los Apus",
-        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
+        "name": "T\u00fa Puedes Volar",
+        "url": "https://open.spotify.com/album/6Mfa1vsbXf1sIRg4GMtpXw"
       },
       "artists": [
         {
-          "name": "Los Apus",
-          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
+          "name": "Damaris",
+          "url": "https://open.spotify.com/artist/2zcBBdC0mMH60MMglRpHod"
+        },
+        {
+          "name": "Raices de Jauja",
+          "url": "https://open.spotify.com/artist/4GBwdePu8Ym2dbI6P72zi9"
         }
       ],
-      "duration_ms": 239853,
-      "name": "Sirwana",
-      "url": "https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ"
+      "duration_ms": 250533,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV"
     },
     {
       "added_at": "2022-02-04 14:45:56",

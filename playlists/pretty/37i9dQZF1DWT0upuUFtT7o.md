@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Zsela
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,545 likes - 101 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,597 likes - 101 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 100 | [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 |
 | 101 | [Profusion](https://open.spotify.com/track/2U1R61eI6fLxzYmgmRjdiJ) | [Posie Pocket](https://open.spotify.com/artist/58Oo6N7a9xlUrW0gduxOrR) | [Profusion](https://open.spotify.com/album/2wmCsWXXilKjBH8c4e80a2) | 3:36 |
 
-Snapshot ID: `MCwwMTIxOTBjMDA2NzZlZjFjZWEzNTdmM2JlZjU2ZGQ0Y2ZhOTQ5NmZh`
+Snapshot ID: `MCxiZjgxMmEwNzEwYzMyYjM2MjI2NzVlMzEzYzc3OTE0MGEyZjBjZmVi`

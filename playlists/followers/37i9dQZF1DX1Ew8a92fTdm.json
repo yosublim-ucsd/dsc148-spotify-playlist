@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 281790,
+  "2024-03-23": 281779,
   "date_first_scraped": "2022-04-19",
   "description": "Peaceful music box tunes for sleepy babies. ",
   "name": "Music Box Lullabies",
@@ -1950,6 +1950,24 @@
     },
     {
       "album": {
+        "name": "Home on the Range",
+        "url": "https://open.spotify.com/album/7kxakvXkc47e2hFQQBvGyF"
+      },
+      "artists": [
+        {
+          "name": "Maisy Meadows",
+          "url": "https://open.spotify.com/artist/4qrdfPAxLCLe0EFw38JhjN"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90953,
+      "name": "Home on the Range",
+      "url": "https://open.spotify.com/track/5TlklBaH6dDuGWfQCIqQXl"
+    },
+    {
+      "album": {
         "name": "Ding Dong Song-MusicBox",
         "url": "https://open.spotify.com/album/29YbyfLUPrNzyup3w3U5Ww"
       },
@@ -2501,7 +2519,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 78208,
       "name": "Mango Sticky Rice",
       "url": "https://open.spotify.com/track/3xc20F7YzKVbSSFLjVdMnh"

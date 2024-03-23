@@ -4,7 +4,7 @@
 
 > The best and latest rock and alternative\. Cover: Bon Jovi
 
-121 songs - 7 hr 14 min
+123 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [dead end kids](https://open.spotify.com/track/54w5kOv00WeffHtdNs6Ut4) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [dead end kids](https://open.spotify.com/album/1teNbZLz3PUefD4NXLocTl) | 3:17 | 2023-11-03 |  |
 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 | 2023-11-03 |  |
 | [Dial Drunk](https://open.spotify.com/track/28iuT1dYxVCazkNrFoSahf) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/3aaVxygUPKEQMIpXPgAUrJ) | 3:33 | 2023-11-03 | 2024-02-03 |
-| [do you think it was the last time?](https://open.spotify.com/track/0htfRkYdvFdjhZOz3YCp1A) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [do you think it was the last time?](https://open.spotify.com/album/5GF1z8ApTTX7CgBk9Q31O4) | 2:41 | 2023-11-03 |  |
+| [do you think it was the last time?](https://open.spotify.com/track/0htfRkYdvFdjhZOz3YCp1A) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [do you think it was the last time?](https://open.spotify.com/album/5GF1z8ApTTX7CgBk9Q31O4) | 2:41 | 2023-11-03 | 2024-03-23 |
 | [Dragon](https://open.spotify.com/track/52qhXwLTCCCkwUTlQYxNRR) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Dragon](https://open.spotify.com/album/4MUC8QXONbx7lkgp6MO3f5) | 9:44 | 2023-11-03 |  |
 | [Dreams](https://open.spotify.com/track/7azQ8ywcwrdupUojmscy2o) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Dreams](https://open.spotify.com/album/3yI9NW1y3Fy6RnGtxnKOCo) | 3:34 | 2023-11-03 | 2023-11-25 |
 | [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 | 2024-01-26 | 2024-03-02 |
@@ -80,12 +80,14 @@
 | [Pages](https://open.spotify.com/track/6j6OD4QQ2jRuvss0ssZSOK) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Pages](https://open.spotify.com/album/7jMiaQZa1FqzmQcj91JStf) | 2:34 | 2023-11-03 | 2023-11-11 |
 | [People Pleaser](https://open.spotify.com/track/23poOrvCs7LgiluX0Bcye0) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:10 | 2023-11-03 | 2024-02-10 |
 | [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 | 2023-11-03 | 2024-01-27 |
+| [Pieces](https://open.spotify.com/track/4T5tvbFPk4pqxQYT78cADG) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Pieces](https://open.spotify.com/album/7xJmAVR7LCKfvQXt6uSMYM) | 4:04 | 2024-03-22 |  |
 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 | 2024-01-26 |  |
 | [Projection](https://open.spotify.com/track/3gCdkpqpaY4rxjKzViYjE7) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [Projection](https://open.spotify.com/album/7LU5eT7MANlvTJ1EDm8sey) | 3:48 | 2023-11-03 | 2024-01-27 |
 | [Red Light](https://open.spotify.com/track/7n4rC8cbUnTl19y2L31Y7U) | [Basement Revolver](https://open.spotify.com/artist/2xaBaFw60ET6GJVxFLOc4s) | [Red Light](https://open.spotify.com/album/5vNtKyUbvXRy6BbZbxe3FS) | 2:39 | 2024-03-01 |  |
 | [Ricochet](https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Ricochet](https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ) | 2:57 | 2023-11-03 | 2023-12-09 |
 | [rot in love](https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [why aren't you laughing?](https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh) | 4:13 | 2023-12-08 |  |
 | [Run Run Run](https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Run Run Run](https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K) | 2:53 | 2023-11-03 |  |
+| [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 | 2024-03-22 |  |
 | [S!CK](https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [S!CK](https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs) | 3:12 | 2024-02-02 |  |
 | [Sad Sugar](https://open.spotify.com/track/4YBRbPgnOiv9cz78HC8CT7) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Sad Sugar](https://open.spotify.com/album/5OvMdAdEOoSY2W6OKyjHBn) | 2:55 | 2023-11-03 | 2024-02-10 |
 | [Saturday](https://open.spotify.com/track/0PVraNcaWR9Efy43ayGqpG) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Saturday](https://open.spotify.com/album/6zocDspAImGf6QR05LY8hm) | 3:02 | 2023-11-03 | 2023-12-09 |
@@ -100,7 +102,7 @@
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2023-11-03 |  |
 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2023-11-03 |  |
 | [Suckerpunch](https://open.spotify.com/track/0qAQSimwmmOw6WYdP4Vov8) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Suckerpunch](https://open.spotify.com/album/23Kwa0jNDhxqpPNk2fOp03) | 3:01 | 2024-03-08 |  |
-| [Suffer](https://open.spotify.com/track/3RHMaRzMWlxDTdQXuZJ3rT) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Suffer](https://open.spotify.com/album/6Cc95ql1nixjAuvOGfRPYi) | 3:31 | 2023-11-10 |  |
+| [Suffer](https://open.spotify.com/track/3RHMaRzMWlxDTdQXuZJ3rT) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Suffer](https://open.spotify.com/album/6Cc95ql1nixjAuvOGfRPYi) | 3:31 | 2023-11-10 | 2024-03-23 |
 | [Summerlong](https://open.spotify.com/track/7IUte1tdLC9W6ptSIx9lQA) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [Pages](https://open.spotify.com/album/5PVK4onrU7Kx4afooqOdtN) | 4:53 | 2023-11-24 |  |
 | [S’old](https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [S'old](https://open.spotify.com/album/1jsyRZ5yUSQGOigC50bNef) | 2:43 | 2023-11-03 |  |
 | [The American Dream Is Killing Me](https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The American Dream Is Killing Me](https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC) | 3:06 | 2023-11-10 | 2024-02-03 |

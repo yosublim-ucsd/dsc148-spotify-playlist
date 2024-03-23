@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,974 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,013 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 14 | [Energy](https://open.spotify.com/track/6GxsePQAbaPlzWefozE62n) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:01 |
 | 15 | [Ojuelegba](https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:36 |
 | 16 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 |
-| 17 | [Ebelebe \(feat\. Wizkid\)](https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Legend Or No Legend](https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ) | 3:29 |
-| 18 | [Borrowed Love \(feat\. Swae Lee & WizKid\)](https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:50 |
+| 17 | [Borrowed Love \(feat\. Swae Lee & WizKid\)](https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:50 |
+| 18 | [Ebelebe \(feat\. Wizkid\)](https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Legend Or No Legend](https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ) | 3:29 |
 | 19 | [Joro](https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Joro](https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh) | 4:22 |
 | 20 | [Bad To Me](https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 2:58 |
 | 21 | [True Love \(feat\. Tay Iwar & Projexx\)](https://open.spotify.com/track/4204hwPYuToiuSunPFUoML) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [Boom \(feat\. MOTi, Ty Dolla $ign, Wizkid & Kranium\)](https://open.spotify.com/track/6kBXZ8j8IuJeRjb6kV6fol) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Peace Is The Mission : Extended](https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya) | 3:06 |
 | 50 | [Can't Believe \(feat\. Ty Dolla $ign & WizKid\)](https://open.spotify.com/track/10C1ZwdAwSEmMeYAFvuTtv) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Can't Believe \(feat\. Ty Dolla $ign & WizKid\)](https://open.spotify.com/album/7fvnfIXtw00lgcCncIhoJv) | 3:33 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBmZjQyMDAwYjdiZWNmZTdjYjkyZDY5MzdhOTA5OTA0MQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDA2NTJiMDNiYzhlYjRjMjk2M2JlZmQyMjMyZjg3ZDQ2Ng==`

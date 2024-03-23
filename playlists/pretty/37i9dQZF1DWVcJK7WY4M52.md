@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcJK7WY4M52.md) - [plain]
 
 > From the decade that brought us Britney, Spice Girls, Coolio and so many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,482 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,806 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcJK7WY4M52.md) - [plain]
 | 12 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 |
 | 13 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
 | 14 | [MMMBop](https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:28 |
-| 15 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
+| 15 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
 | 16 | [Gettin' Jiggy Wit It](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 |
-| 17 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
+| 17 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
 | 18 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 19 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 |
 | 20 | [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:23 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcJK7WY4M52.md) - [plain]
 | 45 | [All I Wanna Do](https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 4:32 |
 | 46 | [Breakfast At Tiffany's](https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn) | [Deep Blue Something](https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407) | [Home](https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO) | 4:17 |
 | 47 | [Boombastic](https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 4:09 |
-| 48 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/5QRAfvKPyQpwt897Jc0glg) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf) | 4:43 |
-| 49 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
+| 48 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
+| 49 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/5QRAfvKPyQpwt897Jc0glg) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf) | 4:43 |
 | 50 | [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 |
 | 51 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 |
 | 52 | [Breathless](https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [In Blue](https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY) | 3:27 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcJK7WY4M52.md) - [plain]
 | 69 | [Maria](https://open.spotify.com/track/7bOYOD0d7ByMTXvJnQVl8d) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits](https://open.spotify.com/album/4pIYJsJ8GkYWM1rvqy45ug) | 4:09 |
 | 70 | [Un\-Break My Heart](https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:30 |
 | 71 | [I'll Be There for You \- Theme From "Friends"](https://open.spotify.com/track/15tHagkk8z306XkyOHqiip) | [The Rembrandts](https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4) | [L.P.](https://open.spotify.com/album/6koDBGMqurYl3EZnaxCF7N) | 3:08 |
-| 72 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
-| 73 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 |
+| 72 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 |
+| 73 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
 | 74 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 |
 | 75 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 |
 | 76 | [Stop](https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcJK7WY4M52.md) - [plain]
 | 99 | [Heartbreaker \(feat\. Jay\-Z\)](https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:45 |
 | 100 | [Real Love](https://open.spotify.com/track/3XG801WWhqC753dekEBkMt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:29 |
 
-Snapshot ID: `MCxiMDllNTMxODI3M2EwYTg5NTdiYTkxZmE1MWNhYzgxNDYyMDIyNzE3`
+Snapshot ID: `MCwwOGQwYTQ4ODQxN2ZiYmZjOTM1MzMyNjMyZDhiNjE5NjliM2RhYjZh`

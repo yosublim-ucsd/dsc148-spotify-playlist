@@ -4,7 +4,7 @@
 
 > Les hits de demain sont déjà ici\. Photo : Shakira
 
-285 songs - 14 hr 9 min
+286 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-02-08 |  |
 | [Prends\-moi la tête](https://open.spotify.com/track/2UHfcwiOIeiy3J6si9OSUn) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 3:00 | 2023-11-09 | 2023-11-24 |
 | [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 | 2023-10-13 | 2023-12-08 |
+| [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 | 2024-03-22 |  |
 | [QLONA](https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:52 | 2023-10-05 | 2023-12-22 |
 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 | 2023-12-21 | 2024-02-02 |
 | [quel type de vibe?](https://open.spotify.com/track/7iospt7wmXY3BdoHsK666Y) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [quel type de vibe?](https://open.spotify.com/album/5jNKxTnotbnb8azNL0jm3l) | 1:56 | 2023-10-20 | 2023-11-24 |

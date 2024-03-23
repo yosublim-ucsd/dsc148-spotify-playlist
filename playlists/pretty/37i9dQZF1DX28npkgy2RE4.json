@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 417120,
+  "num_followers": 417145,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWZiNTk5M2RkZTdjZjYwNmNhNzAzNTEwYzM3NzY0Y2M3ZjA3MjE2",
+  "snapshot_id": "MCw5Njk1YjNiOWZjYWFjMTNkMzAwNDk0ZDIxNjY1ZWNiOTg4YzhlNWU3",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 238613,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Jaime",
         "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 191395,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 238613,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "The Pool",
+        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 242562,
+      "name": "The Pool",
+      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 263754,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "The Pool",
-        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 242562,
-      "name": "The Pool",
-      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 219013,
-      "name": "Don't Go Far",
-      "url": "https://open.spotify.com/track/5mslFLg97Oelh0rGpt82yQ"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Half Moon Light (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 231880,
       "name": "Dried Up River",
       "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 219013,
+      "name": "Don't Go Far",
+      "url": "https://open.spotify.com/track/5mslFLg97Oelh0rGpt82yQ"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Joy'All",
-      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Fun House",
         "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 228000,
       "name": "Dancing Away In Tears",
       "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Joy'All",
+      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 156333,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Optimism",
         "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 119372,
       "name": "Optimism",
       "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 156333,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2283,6 +2283,38 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "the sum of the in-between",
+        "url": "https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "eight hours",
+      "url": "https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "PAINLESS",
+        "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "midnight sun",
+      "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Thrilled To Be Here",
         "url": "https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ"
       },
@@ -2331,22 +2363,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "the sum of the in-between",
-        "url": "https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ"
-      },
-      "artists": [
-        {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "eight hours",
-      "url": "https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Cosmic Dancer",
         "url": "https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn"
       },
@@ -2359,38 +2375,6 @@
       "duration_ms": 265995,
       "name": "Cosmic Dancer",
       "url": "https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "PAINLESS",
-        "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "midnight sun",
-      "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Baby Roe",
-        "url": "https://open.spotify.com/album/5CX31s6MUWs5DsSuU7s20G"
-      },
-      "artists": [
-        {
-          "name": "Ani DiFranco",
-          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
-        }
-      ],
-      "duration_ms": 186946,
-      "name": "Baby Roe",
-      "url": "https://open.spotify.com/track/5uxTlayhGSIwr8SjEqVQQ9"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2411,22 +2395,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Subtitles",
-        "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 245172,
-      "name": "Subtitles",
-      "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Warm Chris",
         "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
       },
@@ -2443,6 +2411,38 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Baby Roe",
+        "url": "https://open.spotify.com/album/5CX31s6MUWs5DsSuU7s20G"
+      },
+      "artists": [
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "duration_ms": 186946,
+      "name": "Baby Roe",
+      "url": "https://open.spotify.com/track/5uxTlayhGSIwr8SjEqVQQ9"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Subtitles",
+        "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 245172,
+      "name": "Subtitles",
+      "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "LIFE ON EARTH",
         "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
       },
@@ -2455,22 +2455,6 @@
       "duration_ms": 242053,
       "name": "PIERCED ARROWS",
       "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Cala",
-        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 148773,
-      "name": "Collar of Fur",
-      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2495,6 +2479,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Cala",
+        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 148773,
+      "name": "Collar of Fur",
+      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Wayfinder",
         "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
       },
@@ -2511,22 +2511,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Don't Want Your Love",
-        "url": "https://open.spotify.com/album/01VhhE9VOeFoBlKYRUv87d"
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
       },
       "artists": [
         {
-          "name": "Haiva Ru",
-          "url": "https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA"
-        },
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
         }
       ],
-      "duration_ms": 212376,
-      "name": "Don't Want Your Love",
-      "url": "https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0"
+      "duration_ms": 218740,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
     }
   ],
   "unique_name": "Modern Eclectic",

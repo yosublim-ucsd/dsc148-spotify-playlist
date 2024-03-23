@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,909 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,900 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 30 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 |
 | 31 | [CROWN](https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz) | 3:50 |
 | 32 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 |
-| 33 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 |
-| 34 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 |
+| 33 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 |
+| 34 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 |
 | 35 | [HOME](https://open.spotify.com/track/6Yc3tjFCVR2bfAQFRTZBef) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:54 |
 | 36 | [LION](https://open.spotify.com/track/40OyiVO9NtBg9R2Gpwxs3u) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:30 |
 | 37 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 49 | [See U Later](https://open.spotify.com/track/2REoTZjaB3jyAt5dgkV5GK) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:18 |
 | 50 | [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 |
 
-Snapshot ID: `MCxjNjk5OWM5NmI1ZjI0YzUyMDUxNzg5YmE4ODRkMjY4MmVjZGQzZDkw`
+Snapshot ID: `MCxjZWUzZGI3MTY2NzE2ODRlY2VlMThiMzZkOWIyOTY3ZWNkNmU4Y2Ji`

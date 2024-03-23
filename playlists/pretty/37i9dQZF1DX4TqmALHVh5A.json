@@ -1,12 +1,12 @@
 {
   "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : St Graal",
-  "num_followers": 44332,
+  "num_followers": 44351,
   "original_name": "Courant Alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWQ3ZTlhYjA4ZjU4MjhlNDE3MDE2MjJlMjdlNDA0NDJiZDMwYWE5",
+  "snapshot_id": "MCwyN2NiYzAxYzYyMDMyMmI0ZGUwZTI0OThlZmJhZDk2MWE3OGEwZTRl",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -352,7 +352,7 @@
       "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Z",
-        "url": "https://open.spotify.com/album/7ndSxLdXc07HwAkQZoApye"
+        "url": "https://open.spotify.com/album/3xE9Bn8qRkX8JKJl0IdQJI"
       },
       "artists": [
         {
@@ -362,7 +362,7 @@
       ],
       "duration_ms": 179007,
       "name": "Z",
-      "url": "https://open.spotify.com/track/72ICHo3ZgL8uUieTCdIpfF"
+      "url": "https://open.spotify.com/track/2qHnWuRtnBLgumhptqdkLs"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "babyBB",
-        "url": "https://open.spotify.com/album/3WMUtz1selQxoqGxCHbh7j"
-      },
-      "artists": [
-        {
-          "name": "Of\u00e9",
-          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
-        }
-      ],
-      "duration_ms": 199230,
-      "name": "babyBB",
-      "url": "https://open.spotify.com/track/0W701OYHjDCdIs8G3LR5CJ"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "My Way (with Creams)",
         "url": "https://open.spotify.com/album/1oWzOh4biDkSnj0ZITjuYo"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 213093,
       "name": "Papier cigarette",
       "url": "https://open.spotify.com/track/3mLFOvEDHJHAycMoaNJmVw"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "babyBB",
+        "url": "https://open.spotify.com/album/3WMUtz1selQxoqGxCHbh7j"
+      },
+      "artists": [
+        {
+          "name": "Of\u00e9",
+          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
+        }
+      ],
+      "duration_ms": 199230,
+      "name": "babyBB",
+      "url": "https://open.spotify.com/track/0W701OYHjDCdIs8G3LR5CJ"
     },
     {
       "added_at": "2024-03-21 23:00:00",

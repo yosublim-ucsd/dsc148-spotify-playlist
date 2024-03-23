@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 29793,
+  "num_followers": 29827,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDhjMDg3NmQwNjFkNGI0YmJiZTljMWNmMGMwMmIzYzkwMzZjOWJl",
+  "snapshot_id": "MCwwMDQ5ZmY3N2FiMzk3MGEzM2ExYTFkZGYxZGQxMjg3MTRmZGI0NmQ1",
   "tracks": [
     {
       "added_at": "2024-03-22 00:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "LOVE AND CHAOS",
-        "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Clear Road",
         "url": "https://open.spotify.com/album/2Lfm01wQBl5vHrzxtO093x"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 159961,
       "name": "Clear Road",
       "url": "https://open.spotify.com/track/57aQqUWaQZzF4V8wtp5eIz"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "LOVE AND CHAOS",
+        "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -803,22 +803,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Walking Dead",
-        "url": "https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq"
+        "name": "Minding My Business",
+        "url": "https://open.spotify.com/album/1JlZVS3ByAW0f2cHzv3eRS"
       },
       "artists": [
         {
-          "name": "Ayox",
-          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
         },
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
         }
       ],
-      "duration_ms": 150863,
-      "name": "Walking Dead",
-      "url": "https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5"
+      "duration_ms": 173635,
+      "name": "Minding My Business",
+      "url": "https://open.spotify.com/track/1qexUMtMWGdP1wGcGYkNJs"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -839,22 +839,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Minding My Business",
-        "url": "https://open.spotify.com/album/1JlZVS3ByAW0f2cHzv3eRS"
+        "name": "Walking Dead",
+        "url": "https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq"
       },
       "artists": [
         {
-          "name": "Korede Bello",
-          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
         },
         {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 173635,
-      "name": "Minding My Business",
-      "url": "https://open.spotify.com/track/1qexUMtMWGdP1wGcGYkNJs"
+      "duration_ms": 150863,
+      "name": "Walking Dead",
+      "url": "https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Kpe Paso",
-        "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
       },
       "artists": [
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 177915,
-      "name": "Kpe Paso",
-      "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
+      "duration_ms": 140339,
+      "name": "GoodSin",
+      "url": "https://open.spotify.com/track/6JTpnAzRctuyc6qhUimpMW"
     }
   ],
   "unique_name": "Keep Fit Club ",

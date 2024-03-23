@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,637 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,640 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 57 | [Three Little Birds \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Three Little Birds \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u) | 4:01 |
 | 58 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 59 | [A melody that flies beyond time](https://open.spotify.com/track/3LYgqJcS9EVUht3PUuknU8) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [A melody that flies beyond time](https://open.spotify.com/album/5jxccF7FKF9shTKQAd5MdI) | 3:11 |
-| 60 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 |
+| 60 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 |
 | 61 | [丘](https://open.spotify.com/track/5YTiEQOoG3PqoKj7IeyDfS) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq) | [丘](https://open.spotify.com/album/2qWjqMRDMNfS570rMUrhbJ) | 4:10 |
-| 62 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 |
+| 62 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 |
 | 63 | [Boku Wa Chotto](https://open.spotify.com/track/1RMnWyL9KlDgmAhirqNxin) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Boku Wa Chotto](https://open.spotify.com/album/6GAmwk5VqC7XgArdzwPicy) | 2:51 |
 | 64 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 |
 | 65 | [Three Floors, Three Doors](https://open.spotify.com/track/3uwHIuMc53EssxvxQlVbil) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Rot](https://open.spotify.com/album/42HRGEN5ltCezgopFl609S) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 99 | [Fool](https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Fool](https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb) | 2:54 |
 | 100 | [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 |
 
-Snapshot ID: `MCwyOTUwM2E5YWIyMGQ5M2RmZWRlOTQ0ZDMyYmE0YzkzOGU3ZTc2Yzlk`
+Snapshot ID: `MCxkMTlhMWQ3Y2E4N2UwODU4OTNhNWM3ZjZmMWI2NzExOTQ3YmFjM2M3`

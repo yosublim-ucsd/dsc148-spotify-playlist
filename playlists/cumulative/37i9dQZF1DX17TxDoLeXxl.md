@@ -4,7 +4,7 @@
 
 > for wandering through nature's playground 🏔️
 
-196 songs - 11 hr 57 min
+198 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 | 2023-05-12 |  |
 | [Heaven Up There](https://open.spotify.com/track/3Rl26h1HiMCV0HFHHVb2IM) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Life After](https://open.spotify.com/album/2gnr57XaEBXSDlfbkowBP8) | 7:17 | 2023-05-12 |  |
 | [Highs & Lows](https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Highs & Lows](https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8) | 3:29 | 2023-06-23 |  |
+| [Highway Queen](https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Highway Queen](https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv) | 3:32 | 2024-03-22 |  |
 | [Hitchhiking](https://open.spotify.com/track/4Xus7PhuqSihGgFJJZ1Ayu) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [We're Starting to Look Like Each Other](https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w) | 4:03 | 2023-11-10 |  |
 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 | 2023-05-12 |  |
 | [Holy Smokes \(2021 Version\)](https://open.spotify.com/track/5tdavyxilr2oXe80ZQe4vt) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Holy Smokes \(2021 Version\)](https://open.spotify.com/album/4KQLETRe9JT8AGxHGPOBU8) | 2:36 | 2023-05-15 |  |
@@ -94,7 +95,8 @@
 | [I Think I Like When It Rains](https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3DRdTebuRYHafp1XJKJ0g2) | 4:38 | 2023-05-12 |  |
 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2023-05-15 |  |
 | [In Dreams \- Alternative Version](https://open.spotify.com/track/0xJDTRuEuSlP95wHnrLnLx) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [In Dreams \(Alternative Version\)](https://open.spotify.com/album/0CvZulEryG0ohlt1QFVHhM) | 2:43 | 2023-05-12 |  |
-| [Ingrid](https://open.spotify.com/track/3b0W6ug1PR4THfn1WZ4uix) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Vivien Vaucher](https://open.spotify.com/artist/6vxUFxsCMM6r1sFrdMXeJY) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:13 | 2023-05-12 |  |
+| [Ingrid](https://open.spotify.com/track/3b0W6ug1PR4THfn1WZ4uix) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Vivien Vaucher](https://open.spotify.com/artist/6vxUFxsCMM6r1sFrdMXeJY) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:13 | 2023-05-12 | 2024-03-23 |
+| [Ingrid \(feat\. Vivien Vaucher\)](https://open.spotify.com/track/09SB2CPvN3bEtfnF3x3io8) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Vivien Vaucher](https://open.spotify.com/artist/6vxUFxsCMM6r1sFrdMXeJY) | [Fruit from the Trees](https://open.spotify.com/album/69Dt5SjS6dSCmlPfqMhWwv) | 4:13 | 2024-03-15 |  |
 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 | 2023-05-12 |  |
 | [Jersey Giant](https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Jersey Giant](https://open.spotify.com/album/7HwlzPe0rapJWoSeLp9KDn) | 3:18 | 2023-05-12 |  |
 | [Just A Little While](https://open.spotify.com/track/4ofr8ORQ9w1QuxGLBwRiQk) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/3epIoUnC4FeVi8g59Hxd9F) | 2:42 | 2023-05-12 |  |

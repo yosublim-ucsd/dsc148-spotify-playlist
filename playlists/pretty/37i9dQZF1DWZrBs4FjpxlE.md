@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 
 > we got you bro\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,395 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,545 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 | 20 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
 | 21 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 |
 | 22 | [Falling Down \- Bonus Track](https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:16 |
-| 23 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 |
-| 24 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 |
+| 23 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 |
+| 24 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 |
 | 25 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 |
 | 26 | [Robbery](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:00 |
 | 27 | [Chicago Freestyle \(feat\. Giveon\)](https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 | 49 | [Happiest Year](https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something \(Deluxe\)](https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p) | 3:48 |
 | 50 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 |
 
-Snapshot ID: `MCwwOGZhMDQxYzM5OWUyM2NhNzE5N2VjYzU5Y2JiNGM0ODM5ZTc5ODll`
+Snapshot ID: `MCw5MGY1ZTg3YjQyNzNiNWExNDI0YjljNTM1NDBmMWI0OGNhNGMwYjdk`

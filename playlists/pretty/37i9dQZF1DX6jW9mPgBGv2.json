@@ -1,12 +1,12 @@
 {
   "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Anuel AA plantando cara.",
-  "num_followers": 216715,
+  "num_followers": 217050,
   "original_name": "FRONTEO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmNkZWZjNjI2N2JmNjhkMWY0ZWNkNTFkYTg2MTNlYmMyYmJlYmMz",
+  "snapshot_id": "MCwyOGEyZDY1YmI2NDlhZjNlZTBhMTU5ZWY1NzNlMzQwOGU4NDU0MWUx",
   "tracks": [
     {
       "added_at": "2024-03-15 19:20:20",
@@ -131,6 +131,26 @@
       "duration_ms": 216857,
       "name": "Brindemos",
       "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
+    },
+    {
+      "added_at": "2024-03-15 19:20:20",
+      "album": {
+        "name": "Rich Rappers",
+        "url": "https://open.spotify.com/album/2SoYdGUSBOlc2tBLBW9G84"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 193764,
+      "name": "Rich Rappers",
+      "url": "https://open.spotify.com/track/3AqBgjuLAErzEWVnDWxNCS"
     },
     {
       "added_at": "2024-03-15 19:20:20",

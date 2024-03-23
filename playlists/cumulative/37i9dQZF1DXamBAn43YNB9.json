@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/0l5oFlpX6trx8fiIY4Zczz"
+      },
+      "artists": [
+        {
+          "name": "Mason & Julez",
+          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189034,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/4YLO83LbtAuI7kwSe9mMjQ"
+    },
+    {
+      "album": {
         "name": "Freight Man",
         "url": "https://open.spotify.com/album/3khIXfE6StiZSkmsfGEw6k"
       },

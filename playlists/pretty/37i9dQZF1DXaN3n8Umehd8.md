@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > Canciones para emocionarnos, reflexionar y celebrar, elegidas por <a href="spotify:show:5GfRxX2kl2BJVB1e7AgcDh"> Marco Antonio Regil</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,577 likes - 45 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,579 likes - 45 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 32 | [Hijo de la Luna](https://open.spotify.com/track/7g3g2sqevicvurLTZ75JTA) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9) | 4:19 |
 | 33 | [Papa Don't Preach](https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:28 |
 | 34 | [Can't Help Falling In Love](https://open.spotify.com/track/4hAUynwghvrqDXs1ejKNEq) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:57 |
-| 35 | [Somos Novios](https://open.spotify.com/track/4dr2h9rnEW6OBxm8LvRBW2) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 3:11 |
+| 35 | [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1HmzAZUvhQLhLo2z3ocpZI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 5:48 |
 | 36 | [Kilómetros](https://open.spotify.com/track/0AcFsf9FGjL1Al2RBQ1Crq) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Sin Bandera](https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73) | 3:41 |
-| 37 | [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1HmzAZUvhQLhLo2z3ocpZI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 5:48 |
+| 37 | [Somos Novios](https://open.spotify.com/track/4dr2h9rnEW6OBxm8LvRBW2) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 3:11 |
 | 38 | [En la Ciudad de la Furia](https://open.spotify.com/track/5wjiZSbxaLyLpGimpwqh1H) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Obras Cumbres](https://open.spotify.com/album/7MqDgagaBfm7Cjlg7uzlAa) | 5:45 |
 | 39 | [Jump](https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Best of Volume 1](https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St) | 3:59 |
 | 40 | [Wrapped Around Your Finger \- Remastered 2003](https://open.spotify.com/track/400ZJAUFuEuIGXhr7ie4xf) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:13 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 44 | [Perdóname](https://open.spotify.com/track/3gO8mvkxIcyF9N7Vd1WM2i) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo Superstar](https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS) | 3:52 |
 | 45 | [With Or Without You](https://open.spotify.com/track/6QPhpvO1pWDS91EsEmzsbc) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [U218 Singles](https://open.spotify.com/album/0pYUq4UiXNgq8mO23rlHVU) | 4:56 |
 
-Snapshot ID: `MCxlY2ZkYmJjNzMxNWE1Mzc1ZTcxNTA1ZTQ0NmFmZGM4MDcyN2M5NGUz`
+Snapshot ID: `MCw2YjQwNDBjNTdlYWJhYTJjYjRmNGZhYjZiMTg1NzhhMzI0ZDI4YWJl`

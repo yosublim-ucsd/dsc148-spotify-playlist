@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-265 songs - 21 hr 56 min
+266 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Fantas for Saxophone and Voice](https://open.spotify.com/track/6t7dqTSiUgR0WANDNLyHFC) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Fantas for Saxophone and Voice](https://open.spotify.com/album/45focVBvv4bXhAfrJhj82J) | 7:16 | 2022-01-21 |  |
 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 | 2022-01-21 |  |
 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 | 2022-01-21 |  |
+| [Floating Through Time and Space](https://open.spotify.com/track/28nJQ9XzkcAirC5edOewp5) | [The Last Days of Our Past](https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX) | [Digressions](https://open.spotify.com/album/5dzNjLlC4M35rakoVQr6SU) | 2:55 | 2023-12-01 |  |
 | [Floor Position](https://open.spotify.com/track/0vYvVrMjN1gzzAxqobT6i1) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [Everything is Already There](https://open.spotify.com/album/1he2AlYOWu58VJxZQPzdJK) | 2:56 | 2022-01-21 |  |
 | [Frozen Plains](https://open.spotify.com/track/3czI9Tjuim4boa9KwizjvQ) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Baba Gnohm](https://open.spotify.com/artist/2emlnsOgKrMMwXqpgpBMLF) | [Frozen Plains](https://open.spotify.com/album/6NP6uRqDzvNfSmJZi4uqx7) | 5:38 | 2023-01-27 | 2023-11-02 |
 | [Full Av Tomhet](https://open.spotify.com/track/0tOAVxzcetDy2wzrJ0Hmk8) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Bansull](https://open.spotify.com/album/1HhptIM5EglrNcLOtaZXRj) | 3:24 | 2023-03-10 |  |
@@ -222,7 +223,7 @@
 | [Ten Days Of Silence](https://open.spotify.com/track/6btH0bYdGH6JAzK4T2XW1y) | [Voice Of Art](https://open.spotify.com/artist/43uNO2fINUuRLZLgqo9Fwk), [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Troels Hammer](https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR) | [Sleeping Sculptures](https://open.spotify.com/album/5ih2VXZzQpPUmCNeC8v5iq) | 4:01 | 2023-04-21 |  |
 | [Ten Days Of Silence](https://open.spotify.com/track/7MKDDopU4Sc64SORGL3qY5) | [Voice Of Art](https://open.spotify.com/artist/43uNO2fINUuRLZLgqo9Fwk), [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Troels Hammer](https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR) | [Ten Days of Silence](https://open.spotify.com/album/1gqCn9PPhEg5FCx0luN0uu) | 4:01 | 2022-03-25 | 2022-04-20 |
 | [Thaw](https://open.spotify.com/track/6B37IfOOUpVWjxYXkW5Fir) | [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [Evighet](https://open.spotify.com/album/7Cd5dCtulmThozmYAv1I9s) | 7:54 | 2022-01-21 | 2022-07-28 |
-| [The Arrival](https://open.spotify.com/track/43hoTnsjs3Vsx8P1SCQLlP) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [Soundtracks for Winter Departures](https://open.spotify.com/album/4ktjEssT9GeVlNhhliA269) | 4:48 | 2023-10-06 |  |
+| [The Arrival](https://open.spotify.com/track/43hoTnsjs3Vsx8P1SCQLlP) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [Soundtracks for Winter Departures](https://open.spotify.com/album/4ktjEssT9GeVlNhhliA269) | 4:48 | 2023-10-06 | 2024-03-23 |
 | [The Aurae Loops](https://open.spotify.com/track/19dF9aQX9Kn5lTt5VJv7pF) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 5:42 | 2022-01-21 | 2024-03-19 |
 | [The Canonization](https://open.spotify.com/track/0qnPb51JWtWmUdNt97ODnO) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:10 | 2022-12-30 | 2023-02-13 |
 | [The Church](https://open.spotify.com/track/4F7ezw5Lid54Yo7xQ5v4U0) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Men \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EoXQyNGzvmUFgVkIMnidn) | 4:25 | 2023-10-06 | 2023-10-26 |

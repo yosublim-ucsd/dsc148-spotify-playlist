@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 1569427,
+  "2024-03-23": 1570331,
   "date_first_scraped": "2022-05-27",
-  "description": "Grandes hits do BR e do \ud83c\udf0e  / Lu\u00edsa Sonza",
+  "description": "Grandes hits do BR e do \ud83c\udf0e  / Anitta, Brray, Bad Gyal",
   "name": "Hot Hits Brasil",
   "tracks": [
     {
@@ -975,7 +975,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 233760,
       "name": "Boto Meu Povo Na Rua - Ao Vivo",
       "url": "https://open.spotify.com/track/27V26rKVYxMA095hZmjajc"
@@ -1606,6 +1606,36 @@
     },
     {
       "album": {
+        "name": "De 10 Mulher 11 \u00c9 Maluca",
+        "url": "https://open.spotify.com/album/5geYQEhBL2t9iqTsBKgkPe"
+      },
+      "artists": [
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "MC Fahah",
+          "url": "https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq"
+        },
+        {
+          "name": "DJ Sammer",
+          "url": "https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs"
+        },
+        {
+          "name": "Dj Lc",
+          "url": "https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115384,
+      "name": "De 10 Mulher 11 \u00c9 Maluca",
+      "url": "https://open.spotify.com/track/1jN0ysNJ2d9VZwVdlgspjr"
+    },
+    {
+      "album": {
         "name": "Dengo",
         "url": "https://open.spotify.com/album/4YzaJCrhY1JAiPfU1BqgOu"
       },
@@ -1831,6 +1861,50 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
+    },
+    {
+      "album": {
+        "name": "Dono da Porsche (Bom Dia Princesa)",
+        "url": "https://open.spotify.com/album/3DJCxAao78RWA21d2LUEWD"
+      },
+      "artists": [
+        {
+          "name": "MC Reino",
+          "url": "https://open.spotify.com/artist/5VYxsvivVgcLrPjgLUFRG1"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156731,
+      "name": "Dono da Porsche (Bom Dia Princesa)",
+      "url": "https://open.spotify.com/track/6XQ87rq4dZpaNG8aVi99Jg"
+    },
+    {
+      "album": {
+        "name": "Double Team",
+        "url": "https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231628,
+      "name": "Double Team",
+      "url": "https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx"
     },
     {
       "album": {
@@ -2707,7 +2781,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 153766,
       "name": "J CHRIST",
       "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
@@ -3662,6 +3736,40 @@
     },
     {
       "album": {
+        "name": "Mtg Quero Te Encontrar",
+        "url": "https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh"
+      },
+      "artists": [
+        {
+          "name": "DJ JZ",
+          "url": "https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB"
+        },
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        },
+        {
+          "name": "Mc Mininin",
+          "url": "https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE"
+        },
+        {
+          "name": "Silvanno Salles",
+          "url": "https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B"
+        },
+        {
+          "name": "DJ LG PROD",
+          "url": "https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Mtg Quero Te Encontrar",
+      "url": "https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c"
+    },
+    {
+      "album": {
         "name": "MY HOUSE",
         "url": "https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs"
       },
@@ -3843,7 +3951,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 167076,
       "name": "Nu",
       "url": "https://open.spotify.com/track/74myq4QbO9E8bTtLQuOWYY"
@@ -3957,7 +4065,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 135892,
       "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
       "url": "https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk"
@@ -4537,6 +4645,32 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "album": {
+        "name": "RAM TCHUM",
+        "url": "https://open.spotify.com/album/4Z5EJkqY3ZiXIux4noy34c"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129418,
+      "name": "RAM TCHUM",
+      "url": "https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD"
     },
     {
       "album": {
@@ -5361,7 +5495,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 147868,
       "name": "T\u00e1 Gostosin",
       "url": "https://open.spotify.com/track/0NRBzSfzuF9jtJiXKpVZPo"

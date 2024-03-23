@@ -1,12 +1,12 @@
 {
   "description": "The songs we've been partying to in 2023. Cover:  #SpotifyWrapped",
-  "num_followers": 61180,
+  "num_followers": 61198,
   "original_name": "Top Party Hits of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjhkOGJmMzRjZDQ5ODhhNWJkNzA2MDFkNWMxYjE1Zjk5MmIzZWFm",
+  "snapshot_id": "MCw3ODY2N2U1MTk5MWExYzc4M2UxYTUwOTAzNGU5Mzk5MDgzYTYxNWY0",
   "tracks": [
     {
       "added_at": "2023-11-29 12:15:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -703,6 +703,26 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "duration_ms": 164914,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
         "name": "One in a Million",
         "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 139325,
       "name": "Area Codes",
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
-        "name": "Disconnect",
-        "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        }
-      ],
-      "duration_ms": 164914,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "IT'S GETTING HOT",
-        "url": "https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 134424,
-      "name": "IT'S GETTING HOT",
-      "url": "https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "Mercy (feat. Jacob Lusk)",
         "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "IT'S GETTING HOT",
+        "url": "https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 134424,
+      "name": "IT'S GETTING HOT",
+      "url": "https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz"
     },
     {
       "added_at": "2023-11-29 12:15:00",

@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 491733,
+  "num_followers": 491813,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjFiMDM3ZjViMTRjOGZiZjlkM2IzZGRiOWFlM2QzYmM1MjA3NTc0",
+  "snapshot_id": "MCwzYTJjZjU1NTQ3ODE0OGQ2ZWFiNjQ2MzdhZGJmOGI3NzU1ZTBhOWE3",
   "tracks": [
     {
       "added_at": "2023-09-22 00:56:58",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "I'm A King Bee",
-        "url": "https://open.spotify.com/album/57q06NuEHVw0MAqZT3hEUV"
-      },
-      "artists": [
-        {
-          "name": "The Stone Foxes",
-          "url": "https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t"
-        }
-      ],
-      "duration_ms": 199597,
-      "name": "I'm A King Bee",
-      "url": "https://open.spotify.com/track/01RPOnIW38TuFv0CvHdVmz"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Hollow Bones",
         "url": "https://open.spotify.com/album/7hKJMKE01FvUJEVxY8bBOT"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 207359,
       "name": "Tied Up",
       "url": "https://open.spotify.com/track/08yhz3ei8jgCmwcsHZTSAa"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "I'm A King Bee",
+        "url": "https://open.spotify.com/album/57q06NuEHVw0MAqZT3hEUV"
+      },
+      "artists": [
+        {
+          "name": "The Stone Foxes",
+          "url": "https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t"
+        }
+      ],
+      "duration_ms": 199597,
+      "name": "I'm A King Bee",
+      "url": "https://open.spotify.com/track/01RPOnIW38TuFv0CvHdVmz"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Pressure & Time",
+        "url": "https://open.spotify.com/album/7uVg7wY0NO9dtxGQOgxZgA"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 196773,
+      "name": "Pressure and Time",
+      "url": "https://open.spotify.com/track/01qLRZjy5hnWDdqKuM6AJh"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Hear Me Out",
         "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Pressure & Time",
-        "url": "https://open.spotify.com/album/7uVg7wY0NO9dtxGQOgxZgA"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 196773,
-      "name": "Pressure and Time",
-      "url": "https://open.spotify.com/track/01qLRZjy5hnWDdqKuM6AJh"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Every Hour Is A Dollar Gone",
         "url": "https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 202687,
       "name": "daphne did it",
       "url": "https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Skinny",
         "url": "https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "ROCKISDEAD",
-        "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 189769,
-      "name": "Dark Nights",
-      "url": "https://open.spotify.com/track/5cwZFTdktFh5XjRglkqJYr"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Phosphene Dream",
         "url": "https://open.spotify.com/album/3FEcbSaWwrVFglM8lD9RRZ"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 218560,
       "name": "Entrance Song",
       "url": "https://open.spotify.com/track/0Bm4fjn2AeXeA1x12hoySt"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "ROCKISDEAD",
+        "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 189769,
+      "name": "Dark Nights",
+      "url": "https://open.spotify.com/track/5cwZFTdktFh5XjRglkqJYr"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Night People",
-        "url": "https://open.spotify.com/album/1snS7GPKcsbRHihG1ug2VN"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "Night People",
-      "url": "https://open.spotify.com/track/0deuG8hdDyPJCsT3qovhF0"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Patient Number 9",
         "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 250274,
       "name": "Degradation Rules (feat. Tony Iommi)",
       "url": "https://open.spotify.com/track/6pLzzki6vNk6EZO0cSVpPl"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Night People",
+        "url": "https://open.spotify.com/album/1snS7GPKcsbRHihG1ug2VN"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "Night People",
+      "url": "https://open.spotify.com/track/0deuG8hdDyPJCsT3qovhF0"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 202917,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
         "url": "https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B"
       },
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Rumble And Sway EP",
-        "url": "https://open.spotify.com/album/7MpGww78i1qn7ZPZBT27jH"
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
       "artists": [
         {
-          "name": "Jamie N Commons",
-          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 185866,
-      "name": "Rumble And Sway",
-      "url": "https://open.spotify.com/track/6qxQLXOAboXpXHcHTMYC1K"
+      "duration_ms": 202917,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1555,6 +1539,22 @@
       "duration_ms": 215480,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/4lEnkalPpZEYgTzV5t9oJL"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Rumble And Sway EP",
+        "url": "https://open.spotify.com/album/7MpGww78i1qn7ZPZBT27jH"
+      },
+      "artists": [
+        {
+          "name": "Jamie N Commons",
+          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
+        }
+      ],
+      "duration_ms": 185866,
+      "name": "Rumble And Sway",
+      "url": "https://open.spotify.com/track/6qxQLXOAboXpXHcHTMYC1K"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 195358,
+      "name": "Bad Spell",
+      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Girl Sports",
         "url": "https://open.spotify.com/album/4GhmoNO1PAmFUoAoPoKUz2"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 194588,
       "name": "Girl Sports",
       "url": "https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 253599,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
     }
   ],
   "unique_name": "Dirty Rock",

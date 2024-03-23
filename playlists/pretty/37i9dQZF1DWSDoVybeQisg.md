@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,972 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,147,154 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 27 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 |
 | 28 | [Eight Miles High](https://open.spotify.com/track/2BGNomqCxEDcXyxf8bg27k) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Fifth Dimension](https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb) | 3:34 |
 | 29 | [Time Has Come Today](https://open.spotify.com/track/5qA1ZrjjVLh1cL9GZOFdNm) | [The Chambers Brothers](https://open.spotify.com/artist/0OwaxYpG77PWKSLtj1QzG8) | [Time Has Come: The Best Of The Chambers Brothers](https://open.spotify.com/album/5ZFPnWBCasn1DZRGk1Qpdu) | 4:50 |
-| 30 | [The Pusher](https://open.spotify.com/track/29HbMTL672MugzhklYvStz) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 5:52 |
+| 30 | [Manic Depression](https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:42 |
 | 31 | [In\-A\-Gadda\-Da\-Vida \- Single Version](https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b) | [Iron Butterfly](https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS) | [Light and Heavy/The Best of...](https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X) | 2:53 |
-| 32 | [Manic Depression](https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:42 |
+| 32 | [The Pusher](https://open.spotify.com/track/29HbMTL672MugzhklYvStz) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 5:52 |
 | 33 | [I Can See For Miles \- Mono Version](https://open.spotify.com/track/7B9F9nLxe7MZgZ68Jj86Fn) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 4:07 |
 | 34 | [My Back Pages](https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Younger Than Yesterday](https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1) | 3:08 |
 | 35 | [You're Gonna Miss Me \(2008 Remastered Original Mono LP Version\)](https://open.spotify.com/track/34miSNKQ0xN7EG8zzzaFzI) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [The Psychedelic Sounds of the 13th Floor Elevators \- 2008 Remaster](https://open.spotify.com/album/2afQ7u8n1CzNBAHjl6OQCG) | 2:26 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 70 | [Sit With The Guru](https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Wake Up...It's Tomorrow](https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm) | 3:02 |
 | 71 | [Evil \- Single Version](https://open.spotify.com/track/1MlsQwhm6MU3PYMHNIc2YS) | [Cactus](https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj), [Gene Paul](https://open.spotify.com/artist/1q8e6StM7uuBBH7YWqjVto), [Jackson Howe](https://open.spotify.com/artist/1RJRMqWL8u5u1xSjjWG9tA) | [Cactology "The Cactus Collection"](https://open.spotify.com/album/17c5c9QwjWsNg0N7zX7EBQ) | 3:16 |
 | 72 | [Flight of the Psychedelic Bumble Bee](https://open.spotify.com/track/27aeWRq1h65omUnS16hciN) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [Spreading from the Ashes](https://open.spotify.com/album/4szjmnQyAMKfYA509zvLyc) | 2:02 |
-| 73 | [My Woman's Head](https://open.spotify.com/track/1IuGT2KA8frxhR24zefSFe) | [Sly Stone & The Mojo Men](https://open.spotify.com/artist/6ihpa5zgHEYPbYr27mSAuj) | [Sly Stone & The Mojo Men](https://open.spotify.com/album/326pahjImcoU1SNI2KYomQ) | 3:01 |
-| 74 | [Morning Sunshine](https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W) | [The Idle Race](https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G) | [Back To The Story](https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW) | 1:48 |
+| 73 | [Morning Sunshine](https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W) | [The Idle Race](https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G) | [Back To The Story](https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW) | 1:48 |
+| 74 | [My Woman's Head](https://open.spotify.com/track/1IuGT2KA8frxhR24zefSFe) | [Sly Stone & The Mojo Men](https://open.spotify.com/artist/6ihpa5zgHEYPbYr27mSAuj) | [Sly Stone & The Mojo Men](https://open.spotify.com/album/326pahjImcoU1SNI2KYomQ) | 3:01 |
 | 75 | [Thing in E](https://open.spotify.com/track/6yUIyHqIrx854Jief095VE) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 3:06 |
 
-Snapshot ID: `MCw2NDhkMjNlNWNhZmViYTYxZTQ4NjRkZjZlZGRjMzE2OWQxYzNmODc3`
+Snapshot ID: `MCw2OGEwZWJlMDQ5ZjMxNDM0YjZhMGNjNzM1ZGQ1YTk1YjI0NTVlMzMw`

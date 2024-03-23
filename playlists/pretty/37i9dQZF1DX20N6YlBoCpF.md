@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq?si=8wUipIzmT1yQhRptg8GOBA">VAN WEST</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,213 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,283 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 28 | [Maak My Mal](https://open.spotify.com/track/582DmIHtYxwvLOpzTFH3Mm) | [Pieter Marcato](https://open.spotify.com/artist/5Aam1RqgWsQpwMJsG7TNzA) | [Maak My Mal](https://open.spotify.com/album/4c0HNq7zGWgA9bX4l0d9IN) | 3:04 |
 | 29 | [Na 12](https://open.spotify.com/track/4IsPJrQGoHNrnHwsb6Does) | [J4KES](https://open.spotify.com/artist/2x24fY1ymNIm4mG5O2lc1I) | [Na 12](https://open.spotify.com/album/31CxYYxQq0LbqxAKKvT5vv) | 2:42 |
 | 30 | [Katryn](https://open.spotify.com/track/0cNvN35zCMzzhQMXaXPuG7) | [John Rock Prophet](https://open.spotify.com/artist/00UBWcI4O1TYxYXKrc7Fbw) | [Katryn](https://open.spotify.com/album/6sON5ohKeZacsrdHehrj65) | 2:53 |
-| 31 | [Bon Voyage](https://open.spotify.com/track/0NrSDP2mXZs6qYMOJD39vs) | [Frieda van den Heever](https://open.spotify.com/artist/39GnCS0FNh3jBO81XCyKSZ), [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Spoorsny](https://open.spotify.com/album/6cfkfFuG6AQNE77E0h4w45) | 3:29 |
-| 32 | [Liewe Lulu](https://open.spotify.com/track/27qmSe0uQBRIdq73pGAEk8) | [Christiaan Baartman](https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ) | [Liewe Lulu](https://open.spotify.com/album/0O4avMqb6IuHCwKkRbLbhx) | 3:34 |
-| 33 | [Ek Wens](https://open.spotify.com/track/6PSTOYpl8cgAlaUbbMi8PJ) | [Wynand Strydom](https://open.spotify.com/artist/513hBvcWaf7eEc1il4Q7Pj) | [Ek Wens](https://open.spotify.com/album/3wkh0Y44aA6jTHCLeQ7unU) | 2:56 |
-| 34 | [Toe Die Engel Aan Die Water Raak](https://open.spotify.com/track/4xPpFrmBwVfpKpXOXdAiOL) | [Dozi](https://open.spotify.com/artist/46hYfC7ROSU1sxGMK0pKXf), [Nádine](https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U) | [Toe Die Engel Aan Die Water Raak](https://open.spotify.com/album/1LkcnNbrxQvrVQYzVLN9Db) | 3:50 |
-| 35 | [Neem My Op Vlerke \- SENSASIE Remix](https://open.spotify.com/track/5d759QCP2C5N2jsFYb79HO) | [Anneli Van Rooyen](https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Neem My Op Vlerke \(SENSASIE Remix\)](https://open.spotify.com/album/0FFaZbNOjCRU9oJLWfcAPW) | 3:22 |
-| 36 | [Elke Troep](https://open.spotify.com/track/6e8tmQKrN28evqkXYMrdau) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Elke Troep](https://open.spotify.com/album/0IVTaJa5i6fU8qQyoszTr4) | 3:48 |
-| 37 | [Kinders van die Warrelwind \(Remix\)](https://open.spotify.com/track/0XGFXFb3cNh6hUfWPYNUP0) | [Dirk Van Der Westhuizen](https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz) | [Kinders van die Warrelwind \(Remix\)](https://open.spotify.com/album/2KOtOUE6rZ50sgTOEU9iHx) | 4:05 |
+| 31 | [Liewe Lulu](https://open.spotify.com/track/27qmSe0uQBRIdq73pGAEk8) | [Christiaan Baartman](https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ) | [Liewe Lulu](https://open.spotify.com/album/0O4avMqb6IuHCwKkRbLbhx) | 3:34 |
+| 32 | [Toe Die Engel Aan Die Water Raak](https://open.spotify.com/track/4xPpFrmBwVfpKpXOXdAiOL) | [Dozi](https://open.spotify.com/artist/46hYfC7ROSU1sxGMK0pKXf), [Nádine](https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U) | [Toe Die Engel Aan Die Water Raak](https://open.spotify.com/album/1LkcnNbrxQvrVQYzVLN9Db) | 3:50 |
+| 33 | [Jy](https://open.spotify.com/track/6IaTS50A4HGZnIObFDNTWY) | [Velvet and Veneer](https://open.spotify.com/artist/7I7HWy1WrwvQqGdQJkIhh1) | [Jy](https://open.spotify.com/album/71C5AuRNIMSBH1Fi5i56ht) | 3:57 |
+| 34 | [Neem My Op Vlerke \- SENSASIE Remix](https://open.spotify.com/track/5d759QCP2C5N2jsFYb79HO) | [Anneli Van Rooyen](https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Neem My Op Vlerke \(SENSASIE Remix\)](https://open.spotify.com/album/0FFaZbNOjCRU9oJLWfcAPW) | 3:22 |
+| 35 | [Elke Troep](https://open.spotify.com/track/6e8tmQKrN28evqkXYMrdau) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Elke Troep](https://open.spotify.com/album/0IVTaJa5i6fU8qQyoszTr4) | 3:48 |
+| 36 | [Kinders van die Warrelwind \(Remix\)](https://open.spotify.com/track/0XGFXFb3cNh6hUfWPYNUP0) | [Dirk Van Der Westhuizen](https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz) | [Kinders van die Warrelwind \(Remix\)](https://open.spotify.com/album/2KOtOUE6rZ50sgTOEU9iHx) | 4:05 |
+| 37 | [wies nie weird nie?](https://open.spotify.com/track/4u4fiRQEA7ZoOUmrANQa8H) | [Skrikkeljaar](https://open.spotify.com/artist/62F3uYbEowDVVfkWcwP8Az) | [wies nie weird nie?](https://open.spotify.com/album/6PlptlQbUZ7CELQDeL2BYH) | 3:49 |
 | 38 | [Daai Liedjie](https://open.spotify.com/track/6ulxkVna1ruGAKxdT3TwsY) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Daai Liedjie](https://open.spotify.com/album/5BntrXoj48jWuJvtcbo8WV) | 2:54 |
 | 39 | [Gewoond](https://open.spotify.com/track/6RaV6anj9whhIksFmrYSYy) | [Esmé Fox](https://open.spotify.com/artist/2soXQDHomd9ZOGEEPMrswb) | [Gewoond](https://open.spotify.com/album/3E5bE4MktwaJFj7Fl960K9) | 3:26 |
 | 40 | [Dis Raak](https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v) | [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Dis Raak](https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [In My Oë](https://open.spotify.com/track/0mTqau9DRQi9w9hTZUqFrr) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Estetika](https://open.spotify.com/album/0F5JB3HCxOrNuB2mIQqKjS) | 2:30 |
 | 50 | [Ons Sal Jonk Bly](https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/4VT7eCzFTDo2iXaEDREPVP) | 4:25 |
 
-Snapshot ID: `MCwwMmRmMDJkZDRhMWNhMzFhMGZjN2UwNTFiMjYwYjUzNzBhNDhhOTE1`
+Snapshot ID: `MCw5Y2Y0OTZkYWUyYzFiNTk0OTQxZDAyOTgyMTYyMmZkNTE5NWU1OGE1`

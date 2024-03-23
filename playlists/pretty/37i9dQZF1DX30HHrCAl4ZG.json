@@ -1,13 +1,77 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Mount Kimbie",
-  "num_followers": 833946,
+  "description": "Explore all things indie rock right now. Featuring music from Wallows",
+  "num_followers": 833978,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2ExNjAzMmJlOGNjMzcxNThkNmQxNzUwNDQyZWY5MmZjNmYzN2E0",
+  "snapshot_id": "MCwwYjZhZjcxOGYwODAxY2U1MWMzYWMwZjY3MGI3NDBhNzE1NTYzMTY1",
   "tracks": [
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Real Or Magic",
+        "url": "https://open.spotify.com/album/0b6XUCiA0QGgHDQPVZQGfL"
+      },
+      "artists": [
+        {
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Real Or Magic",
+      "url": "https://open.spotify.com/track/2CRHRuOY2KW0gdr6g1VMxd"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
+    },
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
@@ -23,6 +87,138 @@
       "duration_ms": 219498,
       "name": "Hammer",
       "url": "https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Empty And Silent (feat. King Krule)",
+        "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 367954,
+      "name": "Empty And Silent (feat. King Krule)",
+      "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/386OkomCq7KFjusVqI1E78"
+      },
+      "artists": [
+        {
+          "name": "Francis of Delirium",
+          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/1aDt9pruckWVn6lllJtVgc"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Monaco",
+        "url": "https://open.spotify.com/album/1k354Se3RqTtkSksFBqm7P"
+      },
+      "artists": [
+        {
+          "name": "Ride",
+          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+        }
+      ],
+      "duration_ms": 255440,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/26RTUhEet5Kr9Wzts8Pxzt"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Two Things at Once",
+        "url": "https://open.spotify.com/album/4K3fG6A3UzqivRCPtRNaKl"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 173074,
+      "name": "Tough Season",
+      "url": "https://open.spotify.com/track/78bqL0hABVqTi0ju2JWBVK"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Still Can\u2019t Believe",
+        "url": "https://open.spotify.com/album/5F7uDJ4UYbSyqLd1qODIGB"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "duration_ms": 202891,
+      "name": "Still Can\u2019t Believe",
+      "url": "https://open.spotify.com/track/1qCiSESOXPmjgVeuC6UH3o"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Good Morning Seven",
+        "url": "https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "duration_ms": 132013,
+      "name": "As The Dogs Were Playing",
+      "url": "https://open.spotify.com/track/3G3mzsZRaLMOuNH2cT0IG2"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "see you again?",
+        "url": "https://open.spotify.com/album/0DtuwIeF8lkXZPFVlmiK7R"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "see you again?",
+      "url": "https://open.spotify.com/track/1gH2MYoWRJwmNxC49zWwgq"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Pon P\u00f3n",
+        "url": "https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 178436,
+      "name": "Pon P\u00f3n",
+      "url": "https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -55,42 +251,6 @@
       "duration_ms": 280511,
       "name": "In Yr Head (1818)",
       "url": "https://open.spotify.com/track/3G4wmv9JBImo4Zumz9Hnh7"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Empty And Silent (feat. King Krule)",
-        "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 367954,
-      "name": "Empty And Silent (feat. King Krule)",
-      "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Monaco",
-        "url": "https://open.spotify.com/album/1k354Se3RqTtkSksFBqm7P"
-      },
-      "artists": [
-        {
-          "name": "Ride",
-          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
-        }
-      ],
-      "duration_ms": 255440,
-      "name": "Monaco",
-      "url": "https://open.spotify.com/track/26RTUhEet5Kr9Wzts8Pxzt"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -205,6 +365,22 @@
       "url": "https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW"
     },
     {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Invader",
+        "url": "https://open.spotify.com/album/2hHnfjljMltHgDhkJPOyqk"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "duration_ms": 265080,
+      "name": "In Denial",
+      "url": "https://open.spotify.com/track/1wvS4ezPVmuxNgn9O6BaDG"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Worst Case Scenario",
@@ -289,22 +465,6 @@
       "url": "https://open.spotify.com/track/4JoSsFIJVUuNB7thBqxA6z"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Sweater Club",
-        "url": "https://open.spotify.com/album/0uLHEY4gk0YYp1DHNr7Qgm"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 176921,
-      "name": "Sweater Club",
-      "url": "https://open.spotify.com/track/4nEoYjvVzrEz0IVDru6xRc"
-    },
-    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Underdressed at the Symphony",
@@ -383,6 +543,22 @@
       "duration_ms": 220320,
       "name": "Psychedelic Orgasm",
       "url": "https://open.spotify.com/track/5z8H0o98dlKANCnDlKsjkY"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "I'm in Love",
+        "url": "https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 196724,
+      "name": "I'm in Love",
+      "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -465,22 +641,6 @@
       "url": "https://open.spotify.com/track/084PPi63VMViMv7qrp2Ipz"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Invader",
-        "url": "https://open.spotify.com/album/2hHnfjljMltHgDhkJPOyqk"
-      },
-      "artists": [
-        {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
-        }
-      ],
-      "duration_ms": 265080,
-      "name": "In Denial",
-      "url": "https://open.spotify.com/track/1wvS4ezPVmuxNgn9O6BaDG"
-    },
-    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Capricorn / Gen-X Cops",
@@ -543,22 +703,6 @@
       "duration_ms": 181658,
       "name": "This Time",
       "url": "https://open.spotify.com/track/1n6kvOFn2qK5iTS5QJcaAV"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Sweet Tooth",
-        "url": "https://open.spotify.com/album/7p5JzjQqCDR84m0HlHsk9F"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 239366,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/64hxSQpLelfhMPF7cjVIUS"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -785,22 +929,6 @@
       "url": "https://open.spotify.com/track/30eZI7pnpdWKgk1UmUAxoF"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "All the Same",
-        "url": "https://open.spotify.com/album/0S2YEpV52VFK78Gq1ynuz2"
-      },
-      "artists": [
-        {
-          "name": "The Voidz",
-          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
-        }
-      ],
-      "duration_ms": 336816,
-      "name": "All the Same",
-      "url": "https://open.spotify.com/track/2OPoTZy4WtLZeBuJpwmqh4"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Weird",
@@ -897,22 +1025,6 @@
       "url": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "I'm in Love",
-        "url": "https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 196724,
-      "name": "I'm in Love",
-      "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
-    },
-    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "PRATTS & PAIN",
@@ -961,20 +1073,20 @@
       "url": "https://open.spotify.com/track/4ftPxD0WFVI6VoySxh05Gd"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/6TnnmPtPOhpd5KWjWSuGba"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
       },
       "artists": [
         {
-          "name": "Dreamer Boy",
-          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
         }
       ],
-      "duration_ms": 208112,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/5w6i7gourKgjzOvd7lVi4M"
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1023,22 +1135,6 @@
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "They Don't Know How To Fall In Place",
-        "url": "https://open.spotify.com/album/0T87UZzjKqpOeXnrLPznB2"
-      },
-      "artists": [
-        {
-          "name": "The Lemon Twigs",
-          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "They Don't Know How To Fall In Place",
-      "url": "https://open.spotify.com/track/2tfuZBeGLj63wrBUnwXiGk"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1105,20 +1201,20 @@
       "url": "https://open.spotify.com/track/0699x8orNRyAhiYxyDjxdH"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
       },
       "artists": [
         {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
         }
       ],
-      "duration_ms": 208440,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1223,22 +1319,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/1vM3k1nzp5CL2dsIHgPA2x"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 249751,
-      "name": "Bleach",
-      "url": "https://open.spotify.com/track/71hZZmCpeIly6IDECDKDun"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/4UBSEvuaR4v2zJkC0aroby"
       },
@@ -1251,22 +1331,6 @@
       "duration_ms": 206533,
       "name": "Fly",
       "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Crying Over U",
-        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 234231,
-      "name": "Crying Over U",
-      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1397,22 +1461,6 @@
       "url": "https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "My Golden Years",
-        "url": "https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj"
-      },
-      "artists": [
-        {
-          "name": "The Lemon Twigs",
-          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
-        }
-      ],
-      "duration_ms": 193906,
-      "name": "My Golden Years",
-      "url": "https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "the record",
@@ -1457,22 +1505,6 @@
       "url": "https://open.spotify.com/track/5FxmV25XctzXjuHNaQPpBz"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Cheerleader",
-        "url": "https://open.spotify.com/album/459oCp5mTlqwSpFDKrdtAg"
-      },
-      "artists": [
-        {
-          "name": "carpetgarden",
-          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
-        }
-      ],
-      "duration_ms": 201776,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/25cnulf8xul2rIfLxKLyre"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Superbloomer",
@@ -1507,22 +1539,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 243946,
-      "name": "Eat Your Young",
-      "url": "https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "It's In My Head",
         "url": "https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 241447,
       "name": "River",
       "url": "https://open.spotify.com/track/3MdfiTYyZLFxWHwHf4gDsu"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Sunday / Medicine",
-        "url": "https://open.spotify.com/album/2q3V5Ylh479x0bTRCJeHC1"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/3OB5WUE1dbsTAs7kYjgNkP"
     },
     {
       "added_at": "2023-10-27 04:00:00",

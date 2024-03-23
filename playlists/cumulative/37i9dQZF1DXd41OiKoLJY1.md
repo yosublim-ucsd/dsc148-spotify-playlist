@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Tamara\. Artwork: Isu Kim
 
-2,209 songs - 5 day 10 hr 17 min
+2,210 songs - 5 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1756,6 +1756,7 @@
 | [SAYAW](https://open.spotify.com/track/6Bj2hZtlVV3Q2X0HgZJw0k) | [Mazeboiii](https://open.spotify.com/artist/3DFM7ya81iULbYzrxvXzo2), [Jeo$ Giftmerc](https://open.spotify.com/artist/7eis0nkDtxnpVDFByjRQiW), [BJ Esporma](https://open.spotify.com/artist/5RT5e3yj9Ap4eAJ3iMyXS5) | [SAYAW](https://open.spotify.com/album/1VBn3hRR98XutpwZhsriF8) | 3:18 | 2022-07-07 | 2022-08-27 |
 | [Sayawan Na](https://open.spotify.com/track/6tKC5WvQcX1RqyM9Ina1HS) | [End Street](https://open.spotify.com/artist/1tDu9QYGiRTIVCnw5tn2pE) | [Sayawan Na](https://open.spotify.com/album/2tKmR4MfTXEr56bgK111Fj) | 3:15 | 2023-09-07 | 2023-09-29 |
 | [Sayo \- Live](https://open.spotify.com/track/2i1f6kHRmU2rvle5FvvZpB) | [I.V.X.N](https://open.spotify.com/artist/2OCTaDYhI6ZqXmplfXdtmw) | [Sayo \(Live\)](https://open.spotify.com/album/1Rvwyzo7w6tcWjOd5C7w9K) | 4:17 | 2023-03-16 | 2023-04-07 |
+| [Sayo Lang](https://open.spotify.com/track/2UHmQQFOypsJqXvEkJQqCv) | [YoungBoy Nuke](https://open.spotify.com/artist/3l2K93sbR0mB8JkN59oVQF) | [Sayo Lang](https://open.spotify.com/album/2tbpKuqot6zwF3zNPsGdKk) | 3:22 | 2024-03-21 |  |
 | [Sayun Ra](https://open.spotify.com/track/2BL6LQjOSqFWnOTRvGGEeA) | [Ace P](https://open.spotify.com/artist/5tfXFW91zvyONYtXu3ZPPT) | [Sayun Ra](https://open.spotify.com/album/0EQgOBwtwoOVPjPKJ7FA3k) | 3:00 | 2023-06-22 | 2023-07-14 |
 | [SA’KIN](https://open.spotify.com/track/5Eidg7rbb3D7Mv8Pc2wI4b) | [Milly](https://open.spotify.com/artist/5RksQDkJDgKtjKu2T9RQd3) | [SA’KIN](https://open.spotify.com/album/0bAEIEKzZeuXnJSwNr4WVr) | 4:16 | 2023-07-06 | 2023-07-28 |
 | [Sa’Yong Piling](https://open.spotify.com/track/46sQZkM5vKrpkOtHTGaA2I) | [Von Lucero](https://open.spotify.com/artist/4F87JbbPHYAjW97YGRbSQF) | [Sa’Yong Piling](https://open.spotify.com/album/2UJGV6O0mNpmmrtaDSq2sR) | 4:04 | 2022-02-17 | 2022-04-01 |

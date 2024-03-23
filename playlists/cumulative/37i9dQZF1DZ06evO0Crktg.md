@@ -4,7 +4,7 @@
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 58 min
+54 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Creature](https://open.spotify.com/track/5yqKUU2DUyilP2TvOrjEzT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 3:59 | 2023-12-13 |  |
 | [Dance With Ghosts](https://open.spotify.com/track/0BnkfcPXRPqxiqk593hnD9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 2:41 | 2023-12-13 |  |
 | [Dead Man Walking](https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 3:21 | 2023-12-13 |  |
-| [Double Crown](https://open.spotify.com/track/7CxWLI6FDroqte3DbucNx9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Crosses and Crossroads](https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX) | 2:57 | 2023-12-13 |  |
+| [Double Crown](https://open.spotify.com/track/7CxWLI6FDroqte3DbucNx9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Crosses and Crossroads](https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX) | 2:57 | 2023-12-13 | 2024-03-23 |
 | [Echoes](https://open.spotify.com/track/51OjUIiXdsPCr52oB5ntX8) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Cub da CookUpBoss](https://open.spotify.com/artist/6sJKJYlNaVSirnhSyVg4Ps) | [Goodnight Nashville](https://open.spotify.com/album/4BEol4SQk5NthGSNpaxIal) | 3:57 | 2023-12-13 | 2024-01-30 |
 | [Fall in the Fall](https://open.spotify.com/track/6bXSfLBuqFQtVHNLxXbqbk) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie 2](https://open.spotify.com/album/4o9I622N2dNhGOiaHqjwad) | 4:09 | 2023-12-13 |  |
 | [Glitter](https://open.spotify.com/track/7JR4hNrjNTS9FOTAbfmr4k) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie](https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1) | 3:49 | 2023-12-13 |  |
@@ -32,6 +32,7 @@
 | [Heaven](https://open.spotify.com/track/2t4m6SHDH2BEZ7hZa0b3QX) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Addiction Kills](https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP) | 2:49 | 2023-12-13 |  |
 | [House Of Mirrors \(feat\. Jelly Roll\)](https://open.spotify.com/track/7iANbpnadfUepWAYDrBqDb) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hotel Kalifornia \(Deluxe Version\)](https://open.spotify.com/album/2QmovINf6cQMuNTTZYNBWi) | 3:25 | 2023-12-13 |  |
 | [I Need You](https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 2:51 | 2023-12-13 |  |
+| [I Went To College / I Went To Jail \(feat\. Jelly Roll\)](https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/4aD7IAPv6OlCGoYWrUJZ3K) | 3:34 | 2024-03-22 |  |
 | [Johnny and June](https://open.spotify.com/track/5CViEqt2O688DBBlr4dBNJ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 2:47 | 2023-12-13 |  |
 | [Kamikaze](https://open.spotify.com/track/3aohNUmAixSr12gJxaR2wE) | [Benny Holiday](https://open.spotify.com/artist/4YMAnaqA8h3Djt7Z5SPgbL), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [Kamikaze](https://open.spotify.com/album/38Xgxs0gyMoxftBuTrV83I) | 2:35 | 2023-12-15 | 2024-03-21 |
 | [Life](https://open.spotify.com/track/1fnHcFqvzsTtXNDnm1rVf9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Brix](https://open.spotify.com/artist/4LsrAQY9ShOYMMZEhZ2tN2) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 4:14 | 2023-12-13 |  |

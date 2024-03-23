@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,555 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,563 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 26 | [heaven from here \(with Penny and Sparrow\)](https://open.spotify.com/track/14zduMrtXG6iAyoozpQhDA) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:03 |
 | 27 | [Wild Enough](https://open.spotify.com/track/3nq6KWRl5C0aedpJTYbKWV) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:46 |
 | 28 | [Count On Me](https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [The Hating Game \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5) | 3:16 |
-| 29 | [The Hard Way](https://open.spotify.com/track/4ZWK6VyzlXUb2n96pXDIsE) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 4:00 |
+| 29 | [judas](https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM) | 2:41 |
 | 30 | [i see america](https://open.spotify.com/track/6hi7QmxdXBbgdFSnQjCiaK) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 2:44 |
-| 31 | [judas](https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM) | 2:41 |
+| 31 | [The Hard Way](https://open.spotify.com/track/4ZWK6VyzlXUb2n96pXDIsE) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 4:00 |
 | 32 | [Out on the Weekend](https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 4:02 |
 | 33 | [Sober](https://open.spotify.com/track/0VTJh1k8GwxCOdSHpcDe9s) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Sober](https://open.spotify.com/album/2LAq8CGSyEPEWDadcMmMRs) | 3:21 |
 | 34 | [Spotlight](https://open.spotify.com/track/6Vg2zBT0AFSoKhV7L5csFf) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 3:15 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 50 | [No Turning Back](https://open.spotify.com/track/6XwtP51GmM6r09dVouba1W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [No Turning Back](https://open.spotify.com/album/4QWBRmlZjIolh4WBq84jy0) | 3:48 |
 | 51 | [Hope](https://open.spotify.com/track/2cid9gPwIOMa4fYTreyLtl) | [Dominic Balli](https://open.spotify.com/artist/2QCtK2hdxxcU1BU5Npa8Zu), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Give Me the Truth](https://open.spotify.com/album/3yOlYe0Rc57s41Te9z1JPY) | 4:03 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBhOGEyNTNiNWNjZDkzOTE2MDk0M2Q4YWI3ZjBiNzMxNQ==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBiNmUzY2NjNzM5MjkzYzk2YWQ4YmYxNmUyOTdiYzY3ZA==`

@@ -1,12 +1,12 @@
 {
   "description": "Grandes hits do BR e do \ud83c\udf0e  / Anitta, Brray, Bad Gyal",
-  "num_followers": 1569427,
+  "num_followers": 1570331,
   "original_name": "Hot Hits Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWQ4MDg0YzU3MzE3MDYzNjUyNWYwNDE5M2RhYjYxNjczZTZlYjQx",
+  "snapshot_id": "MCw5ZDNmMWM4YzA3ZDU5NGJiY2JhN2MzMTE0NWJiZTA1MDQ5ZTU2ZDky",
   "tracks": [
     {
       "added_at": "2024-03-22 00:01:00",
@@ -108,12 +108,12 @@
           "url": "https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE"
         },
         {
-          "name": "Silvanno Salles",
-          "url": "https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B"
-        },
-        {
           "name": "DJ LG PROD",
           "url": "https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA"
+        },
+        {
+          "name": "Silvanno Salles",
+          "url": "https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B"
         }
       ],
       "duration_ms": 177230,

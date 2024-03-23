@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,690 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,958 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [Wrong or Right \(The Riddle\)](https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wrong or Right \(The Riddle\)](https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm) | 2:34 |
 | 50 | [Out Of My Head](https://open.spotify.com/track/3B2SIeekeNUDeszphD3deS) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [y\_x](https://open.spotify.com/artist/1mntvQYpOHDTcAlSG8bmqM) | [Out Of My Head](https://open.spotify.com/album/35SgzMPyciNuNT0oK6NtdB) | 2:52 |
 
-Snapshot ID: `MCxkMzQwZDdjZmQzNmNiNmZjZTUwYjllYzI3NzNiYWMxZTNkMDI2NmQ4`
+Snapshot ID: `MCxlMDdiNGU4NzllOTliN2QyNjVhODg2Mjk3NWMzNjliZjAxNjgxODlj`

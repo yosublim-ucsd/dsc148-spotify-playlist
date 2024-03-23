@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,166 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,202 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 82 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 |
 | 83 | [HASTA ABAJO](https://open.spotify.com/track/54FoR5osiOJtVae7SCdSnq) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [HASTA ABAJO](https://open.spotify.com/album/2eM85kZYl1Lz7tjp0MTGo1) | 3:49 |
 | 84 | [Loquita](https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loquita](https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ) | 3:19 |
-| 85 | [Give Me](https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Give Me](https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z) | 2:45 |
-| 86 | [Siempre](https://open.spotify.com/track/4U7cplCdwTjHjrcTaNZx9u) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 1:32 |
+| 85 | [Siempre](https://open.spotify.com/track/4U7cplCdwTjHjrcTaNZx9u) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 1:32 |
+| 86 | [Give Me](https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Give Me](https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z) | 2:45 |
 | 87 | [Ponte Pa' Mi](https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu) | [Ponte Pa' Mi](https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1) | 3:22 |
 | 88 | [Agua de Jamaica](https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [\#7DJ \(7 Días En Jamaica\)](https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98) | 2:56 |
 | 89 | [Fumando](https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Fumando](https://open.spotify.com/album/26gxlnGOcwQsUheyskEuMV) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 99 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 |
 | 100 | [Fanático \(feat\. Feid & De La Ghetto\) \- Remix](https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Fanático \(feat\. Feid & De La Ghetto\) \[Remix\]](https://open.spotify.com/album/7BA2zaBLTBByNwceB6klnO) | 5:10 |
 
-Snapshot ID: `MCxmZjZmYzFhOTU2ZDJhM2JmZGFhNmJiNTBiOWU4NTk2MjlkOGViYWJk`
+Snapshot ID: `MCw3ZWFlOTMzZmQzNjBkODM4NTJlYTQ2NGMyOGEzZTA4OThkNTVkNTMx`

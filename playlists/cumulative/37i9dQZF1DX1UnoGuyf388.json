@@ -372,7 +372,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 200814,
       "name": "Be The One (with Khalid)",
       "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
@@ -760,7 +760,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 204750,
       "name": "Charm",
       "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 223702,
       "name": "Favorite Song (with Khalid) [Remix]",
       "url": "https://open.spotify.com/track/5f2pD2WaRRe1rmsyzQDcpl"
@@ -2559,6 +2559,24 @@
     },
     {
       "album": {
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/3qgNnYfoYLmt9a8Uduru7d"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171544,
+      "name": "In Your Hands",
+      "url": "https://open.spotify.com/track/2wq5tNWrGnqtLOhmmI1g4K"
+    },
+    {
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -3018,7 +3036,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 188785,
       "name": "Love Under The Influence",
       "url": "https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl"
@@ -3389,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "My Future",
+        "url": "https://open.spotify.com/album/0XsZ7ulN5Qqeyn3buHrn23"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ajudha",
+          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142349,
+      "name": "My Future",
+      "url": "https://open.spotify.com/track/1r5ScrTm9vynVcUal1HDii"
+    },
+    {
+      "album": {
         "name": "MY HOUSE",
         "url": "https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs"
       },
@@ -3588,6 +3624,28 @@
       "duration_ms": 186134,
       "name": "No Evil",
       "url": "https://open.spotify.com/track/1zEZfF6NB9OwvnPDFFUCJI"
+    },
+    {
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147046,
+      "name": "No.1 (feat. Tems)",
+      "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
     },
     {
       "album": {
@@ -4360,10 +4418,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34"
+    },
+    {
+      "album": {
+        "name": "RYL0VE Song",
+        "url": "https://open.spotify.com/album/6HBRUgWffKMaS8pWYfzKEN"
+      },
+      "artists": [
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "RYL0VE Song",
+      "url": "https://open.spotify.com/track/09Sksb6alLvHMiHsa200n6"
     },
     {
       "album": {
@@ -4566,7 +4642,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 236291,
       "name": "Somebody Like Me",
       "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
@@ -5300,7 +5376,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,334 likes - 125 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,391 likes - 125 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 52 | [F\*ck My Life Up Again](https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [F\*ck My Life Up Again](https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g) | 4:18 |
 | 53 | [Electric Indigo](https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [twelvefour](https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t) | 3:43 |
 | 54 | [Bloodstream](https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3) | [Stateless](https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH) | [Stateless](https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS) | 5:13 |
-| 55 | [What Now](https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:46 |
-| 56 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
+| 55 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
+| 56 | [What Now](https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:46 |
 | 57 | [It Won't Always Be Like This](https://open.spotify.com/track/61YcJKRn2y1si5jGc7LUIN) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/5TCW5XPhG21i4XXfcYJVDg) | 4:04 |
 | 58 | [You and I](https://open.spotify.com/track/6mIHP19RfAUXTPdxxUqtfn) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [White Noise \(Deluxe Version\)](https://open.spotify.com/album/68kO84eoAPgWxQB1mJ2P1w) | 4:30 |
 | 59 | [We’re All Gonna Die \(with Noah Kahan\)](https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [We’re All Gonna Die](https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4) | 2:59 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 88 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 |
 | 89 | [Hoops](https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Hoops](https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut) | 2:38 |
 | 90 | [Box in a Heart \(with renforshort\)](https://open.spotify.com/track/3tZXR1QTZihYHLIdByiNh3) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Box in a Heart \(with renforshort\)](https://open.spotify.com/album/0jzapUf2Ges18ftQlgKuJ3) | 2:51 |
-| 91 | [Meshuggah](https://open.spotify.com/track/7FpD6W73sZuEEp4dNRCwy9) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:37 |
-| 92 | [Violet City](https://open.spotify.com/track/3EMovq7Gu8VH9Z86wEVVHn) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 3:33 |
+| 91 | [Violet City](https://open.spotify.com/track/3EMovq7Gu8VH9Z86wEVVHn) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 3:33 |
+| 92 | [Meshuggah](https://open.spotify.com/track/7FpD6W73sZuEEp4dNRCwy9) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:37 |
 | 93 | [Just Say When \- Version 2.0](https://open.spotify.com/track/1D1yuEDp0EqvX1yFxWqeuS) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/7LkSukso0Smyx9sMGl8R2d) | 3:44 |
 | 94 | [Something Here](https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Days We Had](https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r) | 4:05 |
 | 95 | [Show Me How](https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Show Me How](https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz) | 4:53 |
@@ -109,12 +109,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 99 | [Darlin'](https://open.spotify.com/track/4Ppc2CyPzXObEOLgDkP5ZR) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Magic Valley](https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL) | 5:00 |
 | 100 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 |
 | 101 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 |
-| 102 | [Cry Baby](https://open.spotify.com/track/3epaLFj2ClmXnvcuxHsih5) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Never Had to Leave](https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7) | 3:41 |
-| 103 | [Like A Stone \(feat\. Tom Morello\) \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Spotify Singles](https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU) | 4:19 |
+| 102 | [Like A Stone \(feat\. Tom Morello\) \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Spotify Singles](https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU) | 4:19 |
+| 103 | [Cry Baby](https://open.spotify.com/track/3epaLFj2ClmXnvcuxHsih5) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Never Had to Leave](https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7) | 3:41 |
 | 104 | [Stars Are on Your Side](https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Stars Are on Your Side](https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar) | 3:38 |
 | 105 | [Help Me To Feel Again](https://open.spotify.com/track/6eYJIGCwT3hFY5Fz8KI8c6) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Help Me To Feel Again](https://open.spotify.com/album/7JaJz2pFwuOs6XdjydJqAR) | 4:22 |
-| 106 | [West Coast](https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [West Coast](https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6) | 4:11 |
-| 107 | [Temporary Love](https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W) | [The Brinks](https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz) | [Temporary Love](https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc) | 3:25 |
+| 106 | [Temporary Love](https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W) | [The Brinks](https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz) | [Temporary Love](https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc) | 3:25 |
+| 107 | [West Coast](https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [West Coast](https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6) | 4:11 |
 | 108 | [Set Yourself Free](https://open.spotify.com/track/4w7XRsCWPzXiC7HZUEVLFl) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Set Yourself Free](https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr) | 3:05 |
 | 109 | [Fountain Of Youth](https://open.spotify.com/track/46exzPPGwXU9Xcoz5u618b) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:53 |
 | 110 | [Jungle \(Radio Edit\)](https://open.spotify.com/track/5h4GbIUEktzI91FCSpyNsY) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle \(Radio Edit\)](https://open.spotify.com/album/5TmgoVsKLOru5zOxVZnB5e) | 3:56 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 122 | [The Way We Say Goodbye](https://open.spotify.com/track/7sZG4nOCgGfXE00SCuyngO) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [What's It Like Over There?](https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu) | 4:03 |
 | 123 | [Hollow](https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Hollow](https://open.spotify.com/album/5xR0eMPlArJWzoLcJzpTf7) | 3:38 |
 | 124 | [Nearer My God](https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Nearer My God](https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8) | 3:35 |
-| 125 | [Come Follow Me Down](https://open.spotify.com/track/5RPx9i0nwUdzpvJcYFTe1D) | [George Taylor](https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5) | [Come Follow Me Down](https://open.spotify.com/album/45qH3mYvEOhFYrCVJC8QZn) | 3:12 |
+| 125 | [Us & Them](https://open.spotify.com/track/2t3h6d4xlWyx7pXahLc7Yq) | [MONA](https://open.spotify.com/artist/4AKwIU9B31J3L41DuJfFym) | [In the Middle](https://open.spotify.com/album/0YDrA3TGJMhCOwF9ptj18p) | 3:20 |
 
-Snapshot ID: `MCxlYjljMDc0OWRjOGRhMWNhOGQ2NTQ2MjVlZGRhZDkzY2FiYzNlNDJl`
+Snapshot ID: `MCxkY2FmODRiMzE2NWQxNDYyMzcyZjRiYzBmNjQ3YjAxZTg5M2Q3YmIy`

@@ -2,9 +2,9 @@
 
 ### [Rap Internazionale](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> Il rap più forte del mondo in una sola playlist\. Cover: Cardi B
+> Il rap più forte del mondo in una sola playlist\. Cover: Future, Metro Boomin
 
-591 songs - 1 day 6 hr 54 min
+592 songs - 1 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Dancer \(feat\. Noizy, Rondodasosa & Capo Plaza\)](https://open.spotify.com/track/5092WBFsPhz41OsJJL6HRa) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Dancer \(feat\. Noizy, Rondodasosa & Capo Plaza\)](https://open.spotify.com/album/5iYD4DOP1xbIf03042AraN) | 3:11 | 2023-08-18 | 2024-01-21 |
 | [Dans le noir](https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 2:40 | 2023-10-25 | 2023-11-24 |
 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 | 2023-09-22 | 2023-12-13 |
-| [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-04-28 |  |
+| [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-04-28 | 2024-03-23 |
 | [Deep in the Water](https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Deep in the Water](https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF) | 2:50 | 2024-03-15 |  |
 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 | 2023-07-26 | 2024-01-19 |
 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 | 2023-11-09 | 2023-11-24 |
@@ -559,6 +559,7 @@
 | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/track/5B40Td13cDQ4adeAiLf8Z4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz) | 2:28 | 2022-11-18 | 2023-03-18 |
 | [Twirlanta](https://open.spotify.com/track/3DHB4RzX7kWcpjjFtcmWqh) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [The Blixky Tape 2](https://open.spotify.com/album/42eCvSjk8vGZP9hKEXUsYI) | 2:58 | 2023-08-21 | 2024-02-02 |
 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 | 2023-02-01 | 2023-07-27 |
+| [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 | 2024-03-22 |  |
 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 | 2023-06-09 |  |
 | [Umm Hmm](https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:12 | 2022-08-05 | 2022-10-15 |
 | [Understand](https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:02 | 2024-03-15 |  |

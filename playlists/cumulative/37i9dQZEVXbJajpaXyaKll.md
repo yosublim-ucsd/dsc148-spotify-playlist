@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-181 songs - 9 hr 34 min
+182 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Cuarteto Sessions \#3](https://open.spotify.com/track/28v5fIoIa2Y07nqAXgBcXC) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Cuarteto Sessions \#3](https://open.spotify.com/album/2iDxLzsD09N23JARBiIGPA) | 8:20 | 2024-01-29 |  |
 | [Cómo Te Atreves](https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 4:00 | 2024-03-01 | 2024-03-10 |
 | [Dance You Outta My Head](https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Dance You Outta My Head](https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG) | 3:22 | 2024-02-09 | 2024-03-11 |
+| [Diabólica](https://open.spotify.com/track/4IJWhehNLXru5WfS71EWSx) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 3:12 | 2024-03-22 |  |
 | [DOM1NGO](https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:08 | 2024-01-30 | 2024-02-07 |
 | [Donde Te Pillemos Tarara Tarara Rkt](https://open.spotify.com/track/4zYWtqpOzMlBeyyIvD9IIF) | [FACUU DJ](https://open.spotify.com/artist/6IvYk2Vx3G6VY6AXBqDudt) | [Donde Te Pillemos Tarara Tarara Rkt](https://open.spotify.com/album/1YjrqGTdjvrobcwxv89Ggo) | 2:25 | 2024-01-29 | 2024-03-21 |
 | [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz) | 3:46 | 2024-01-29 | 2024-03-03 |
@@ -70,7 +71,7 @@
 | [Fama de Diabla](https://open.spotify.com/track/4Pl9kwSv46QMwk4MtTttBd) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Fama de Diabla](https://open.spotify.com/album/5uNqPD84blDNKuRxdDwnF1) | 3:28 | 2024-03-05 | 2024-03-13 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2024-02-11 | 2024-02-23 |
 | [Felicidad \(De la serie 'Berlin' de Netflix\)](https://open.spotify.com/track/1oANTqqfbOVwOX59aAeQOO) | [Pedro Alonso](https://open.spotify.com/artist/3ZKd5UA8cotv3Zx6DKl2PO), [Tristan Ulloa](https://open.spotify.com/artist/6SeRILwpI0BvkRbAbVeq8M) | [Felicidad \(De la serie 'Berlín' de Netflix\)](https://open.spotify.com/album/5YeZ6BoqHtO60NLH1R1pkQ) | 3:20 | 2024-01-29 | 2024-02-28 |
-| [Femme Fatale](https://open.spotify.com/track/2qip7HSHkrMyCvRrnYZUAE) | [The Sistars](https://open.spotify.com/artist/3aF1PR6CAzeVXwYKDlIkPa), [Brenda Asnicar](https://open.spotify.com/artist/0E8wKk7IC4Se6Z3gS7S3Uv) | [Femme Fatale](https://open.spotify.com/album/1EYk3E8HDqF2vn6AviJW7k) | 3:01 | 2024-03-19 |  |
+| [Femme Fatale](https://open.spotify.com/track/2qip7HSHkrMyCvRrnYZUAE) | [The Sistars](https://open.spotify.com/artist/3aF1PR6CAzeVXwYKDlIkPa), [Brenda Asnicar](https://open.spotify.com/artist/0E8wKk7IC4Se6Z3gS7S3Uv) | [Femme Fatale](https://open.spotify.com/album/1EYk3E8HDqF2vn6AviJW7k) | 3:01 | 2024-03-19 | 2024-03-23 |
 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 | 2024-01-29 | 2024-03-20 |
 | [From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [From the Start](https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v) | 2:30 | 2024-03-20 |  |
 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-02-23 | 2024-02-28 |

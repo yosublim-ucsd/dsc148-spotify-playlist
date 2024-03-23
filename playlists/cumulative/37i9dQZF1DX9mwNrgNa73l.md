@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-172 songs - 19 hr 25 min
+174 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Allah Ke Bande \- Live](https://open.spotify.com/track/4MGTYzFHCVehaWLdvLlvSi) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa](https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD) | 4:35 | 2022-08-02 | 2022-10-25 |
 | [Allahu Akbar](https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 8:39 | 2022-06-21 | 2024-01-06 |
 | [Arziyan](https://open.spotify.com/track/3V80Iv04B9XAqGHbXdtRT1) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 8:39 | 2022-10-25 |  |
+| [Balaghal\-Ula Bi\-Kamaalihi](https://open.spotify.com/track/05rGKExmwZcwIvia1YVr8C) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Balaghal\-Ula Bi\-Kamaalihi](https://open.spotify.com/album/45xKWqxlWWRdb3rk3jHjHz) | 8:44 | 2024-03-22 |  |
 | [Banda \- From "Sam Bahadur"](https://open.spotify.com/track/4jg4emrgDIwuJwAyGQSEge) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Sam Bahadur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4XCmGQKLUg0jr3uPQEhXQH) | 3:59 | 2024-01-05 |  |
 | [Bhar Do Jholi Meri](https://open.spotify.com/track/52qnHAlqWpo3kgEteAPjRf) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 8:19 | 2022-06-21 |  |
 | [Bhar Do Jholi Meri](https://open.spotify.com/track/5etuDMYaAMqK2mREqcTpep) | [Sabri Brothers](https://open.spotify.com/artist/0sbtGmW8r5bxfXzla8a7eI) | [50 Greatest Sufi Hits](https://open.spotify.com/album/0Zk3ZjRiCKB0wizNHmm7CI) | 19:53 | 2022-08-02 |  |
@@ -170,6 +171,7 @@
 | [Tu Hi Ik Tu](https://open.spotify.com/track/4I9GFoZJ0L3GKYC7v5Jlsr) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Vikram Sahney](https://open.spotify.com/artist/5n5qsQrQAeMJUkEptJKQdR) | [Tu Hi Ik Tu](https://open.spotify.com/album/1pj17dHNe6aWIyvjYx9fmI) | 7:49 | 2022-08-02 | 2023-08-01 |
 | [Tu Jhoom](https://open.spotify.com/track/0X5jMLCYWZjuXHRc1zp0G6) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a) | [Tu Jhoom](https://open.spotify.com/album/61yLyqdz6hdZiAHMk4Bxxi) | 6:37 | 2022-06-21 | 2022-07-29 |
 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 | 2022-07-18 |  |
+| [Tu Kuja Man Kuja](https://open.spotify.com/track/0P39jvplTOS0eLSBWxmlHx) | [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy) | [Tu Kuja Man Kuja](https://open.spotify.com/album/1lmGcDNyECCYqVUI7fAGaR) | 6:52 | 2024-03-22 |  |
 | [Uddi Ja \(Coke Studio Season 9\)](https://open.spotify.com/track/4zppewvc7dMM9P7fwywsGR) | [Mohsin Abbas Haider](https://open.spotify.com/artist/3AkuJRCDsbBy5tftVMtJOT) | [Uddi Ja \(Coke Studio Season 9\)](https://open.spotify.com/album/3zgwUPaPsKjTvDmIetSIm3) | 7:02 | 2022-08-02 | 2024-01-06 |
 | [Wah Jo Kalaam](https://open.spotify.com/track/7B4rv8RrlWr5qTIQ5UCrQk) | [Asrar](https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn), [Vishnu](https://open.spotify.com/artist/3C6fEluNfcYDBAy6nBQpdS), [Shamu Bai](https://open.spotify.com/artist/6ImUiMuTiMjlhRKfMCXe8Q) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 5:20 | 2024-01-05 |  |
 | [Wiladat](https://open.spotify.com/track/6UOAT4Jsf4ItaFPnIHeEeC) | [Kashif Tari](https://open.spotify.com/artist/0ZDi4KcZzdjWTpPsvx72xk) | [Wiladat](https://open.spotify.com/album/17mOIJ1Gmrx1pNqqQJMPYh) | 4:58 | 2024-01-05 |  |

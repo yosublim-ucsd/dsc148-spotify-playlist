@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: march-april 2024 (previous playlists archived on my profile)",
-  "num_followers": 18600,
+  "num_followers": 18608,
   "original_name": "innocence and panic",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "MjU5MyxiOWEzYTNmNjJhYjA5YTdkMjAzNDliNDkwNzAzNGNmNTc2ZDQ5N2I2",
+  "snapshot_id": "MjU5Niw0M2MwNDIzODE0YzBlYTJjNDllZTEzYTNiYmMwOGEyYjZmYzllNWU5",
   "tracks": [
     {
       "added_at": "2024-03-09 23:04:11",
@@ -415,6 +415,54 @@
       "duration_ms": 258499,
       "name": "I Care",
       "url": "https://open.spotify.com/track/7tHxfAiPYN5357A49tY5p2"
+    },
+    {
+      "added_at": "2024-03-22 14:25:24",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Blank Time",
+      "url": "https://open.spotify.com/track/1aXDrYTE5igJKUygBgrPWN"
+    },
+    {
+      "added_at": "2024-03-22 18:07:58",
+      "album": {
+        "name": "I Can't Dream Anymore",
+        "url": "https://open.spotify.com/album/2nWfaWfDYIEMeckjUAfDCZ"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Palladino",
+          "url": "https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "I Can't Dream Anymore",
+      "url": "https://open.spotify.com/track/0bZN26ShHJhG1NERwNs7LP"
+    },
+    {
+      "added_at": "2024-03-22 19:16:30",
+      "album": {
+        "name": "Good Morning Seven",
+        "url": "https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "duration_ms": 205240,
+      "name": "Excalibur",
+      "url": "https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS"
     }
   ],
   "unique_name": "innocence and panic",

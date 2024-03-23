@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: VALENTINO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,014 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,023 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 3 | [Linda](https://open.spotify.com/track/6pMdIKGurG5V9agptjptpx) | [Sanju](https://open.spotify.com/artist/6bYIsGX90Q8lPMeGRE28XD), [Pröz](https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX) | [Linda](https://open.spotify.com/album/1lKue1jVBIqOQ97rhSNLj7) | 2:02 |
 | 4 | [Meu Cariño](https://open.spotify.com/track/4UITA4ilKbjmekZ2Qys6OD) | [The Rapants](https://open.spotify.com/artist/6n9E45r5Ewzy1qXMqSVMA7) | [La Máquina Del Buen Rollo](https://open.spotify.com/album/3IjzjTNCTLxybVKTdNfqQ1) | 2:35 |
 | 5 | [¿Y si volvemos a vernos?](https://open.spotify.com/track/25ipaPiwMJSwqJi43OMJV8) | [Anselmos](https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO) | [¿Y si volvemos a vernos?](https://open.spotify.com/album/0spZHf62MU06NXFfXuHQGB) | 2:13 |
-| 6 | [Esku Burdin](https://open.spotify.com/track/2UPzdnrp23Nl0ZCD3OfBRU) | [J Martina](https://open.spotify.com/artist/2n5oKnRt4i2SfKUPw3sX8R) | [Esku Burdin](https://open.spotify.com/album/1PxCSh8I08RRPz3PB1Eltw) | 2:46 |
+| 6 | [Esku Burdin](https://open.spotify.com/track/2rjsK0psyIVOQWqzXselcQ) | [J Martina](https://open.spotify.com/artist/2n5oKnRt4i2SfKUPw3sX8R) | [Esku Burdin](https://open.spotify.com/album/5Wc3INw8Ou9FgS3dtftoO6) | 2:46 |
 | 7 | [Bigotets](https://open.spotify.com/track/3jXH4EKbrX9LysozCpZO0F) | [YPNOSI](https://open.spotify.com/artist/44M0hyVT612DWap1qhOUNY), [Calagher](https://open.spotify.com/artist/3ffpiODsUFT0nYlOborFVI) | [Bigotets](https://open.spotify.com/album/0ch56kQJW76vt93XYfr8YT) | 3:07 |
 | 8 | [Acid Superstar](https://open.spotify.com/track/1HJ0p5JgggcQ03nRIbZxkC) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln), [NENU](https://open.spotify.com/artist/3WbLhFZjEEcfOeyNcn9o9C) | [SoBlack / +Dti / AcidSuperstar](https://open.spotify.com/album/6SJENbjHrI4Q82Iz31JiUM) | 2:33 |
 | 9 | [TRATO](https://open.spotify.com/track/1lauW8d8jqknKo92T0DANv) | [Menend](https://open.spotify.com/artist/7s2SDZOabRitXKgUdoXmXC) | [TRATO](https://open.spotify.com/album/6PyGGG0zonjwDP9KUwrhK0) | 2:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 59 | [sin:querer](https://open.spotify.com/track/5BhcuTnhDxX6OWRSGX3Hkt) | [garbí](https://open.spotify.com/artist/0VqZ86s4Z8DHDNHFwYf0oM) | [sin:querer](https://open.spotify.com/album/2Etms9Ah27s4YeHiT6eskG) | 4:36 |
 | 60 | [Palabras BLA BLA BLA](https://open.spotify.com/track/7rZbrBE2HjNs6VbEoGX6QL) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Palabras BLA BLA BLA](https://open.spotify.com/album/5pOuKO8gUoOJ6wDQf8TWxs) | 2:22 |
 
-Snapshot ID: `MCw3ZmViYjE2NjdiZTI0ZmM2ZmM1YjA1Nzk3NzAyZGZjYzM4MGNjMWI2`
+Snapshot ID: `MCwyN2M3NjcyNDhlZTI4MzZiZTM5ZGE4N2Q0NGNlMWIyNDA2ZTcxYjhh`

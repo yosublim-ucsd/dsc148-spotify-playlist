@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjZiNDg0YmJlYjRiZTllMWQyZTVkZGRjYTRhYWUyNWM4NGU2YjQ3",
+  "snapshot_id": "MCxhMGMxZGZmN2ExZjA1ZWRiNDYxNmJkM2E1YjY5ZjAyMWQyYzQ5MzBl",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -619,18 +619,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "All I Have To Do Is Dream",
-        "url": "https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo"
+        "name": "Open up Babe (Perry twins remix)",
+        "url": "https://open.spotify.com/album/7rYucvcu1gCVuPffMT5wmx"
       },
       "artists": [
         {
-          "name": "Polartropica",
-          "url": "https://open.spotify.com/artist/594UCPHorID2NPzhboCuWl"
+          "name": "Wils",
+          "url": "https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn"
+        },
+        {
+          "name": "Perry Twins",
+          "url": "https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K"
         }
       ],
-      "duration_ms": 221820,
-      "name": "All I Have To Do Is Dream",
-      "url": "https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE"
+      "duration_ms": 267000,
+      "name": "Open up Babe - Perry twins remix",
+      "url": "https://open.spotify.com/track/64juiILJDA5pLdP2nV0Dvz"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -667,22 +671,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Open up Babe (Perry twins remix)",
-        "url": "https://open.spotify.com/album/7rYucvcu1gCVuPffMT5wmx"
+        "name": "All I Have To Do Is Dream",
+        "url": "https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo"
       },
       "artists": [
         {
-          "name": "Wils",
-          "url": "https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn"
-        },
-        {
-          "name": "Perry Twins",
-          "url": "https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K"
+          "name": "Polartropica",
+          "url": "https://open.spotify.com/artist/594UCPHorID2NPzhboCuWl"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Open up Babe - Perry twins remix",
-      "url": "https://open.spotify.com/track/64juiILJDA5pLdP2nV0Dvz"
+      "duration_ms": 221820,
+      "name": "All I Have To Do Is Dream",
+      "url": "https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE"
     },
     {
       "added_at": "2023-06-30 23:59:00",

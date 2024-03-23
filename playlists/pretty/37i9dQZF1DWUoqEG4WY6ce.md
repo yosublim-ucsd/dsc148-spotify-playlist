@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 
 > Hop in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,548 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,678 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,28 +85,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 75 | [Satanist](https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:50 |
 | 76 | [Empress](https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [A Little Lift](https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2) | 3:19 |
 | 77 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
-| 78 | [Tessellate](https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:01 |
-| 79 | [Supalonely \(feat\. Gus Dapperton\)](https://open.spotify.com/track/3GZoWLVbmxcBys6g0DLFLf) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:43 |
+| 78 | [Supalonely \(feat\. Gus Dapperton\)](https://open.spotify.com/track/3GZoWLVbmxcBys6g0DLFLf) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:43 |
+| 79 | [Tessellate](https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:01 |
 | 80 | [Eyes](https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc) | 2:28 |
-| 81 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
-| 82 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
+| 81 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
+| 82 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
 | 83 | [All The Time](https://open.spotify.com/track/0qI1W6chJgvrSAzAkX9JBa) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 3:54 |
-| 84 | [Oxford Comma](https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:15 |
-| 85 | [The Ghost Inside](https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:18 |
+| 84 | [The Ghost Inside](https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:18 |
+| 85 | [Oxford Comma](https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:15 |
 | 86 | [Brazil](https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Brazil](https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4) | 4:12 |
 | 87 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 |
-| 88 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 |
-| 89 | [California](https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ) | [The Lagoons](https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd) | [California](https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc) | 4:21 |
+| 88 | [California](https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ) | [The Lagoons](https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd) | [California](https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc) | 4:21 |
+| 89 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 |
 | 90 | [Coffee](https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL) | 4:28 |
 | 91 | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:39 |
 | 92 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
 | 93 | [Everlasting Light](https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:23 |
 | 94 | [I Need Never Get Old](https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 4:13 |
 | 95 | [Salute Your Solution](https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg) | 2:59 |
-| 96 | [Pressure To Party](https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 3:02 |
-| 97 | [When They Fight, They Fight](https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A) | 3:20 |
-| 98 | [Missed the Boat](https://open.spotify.com/track/4asjU3sDnn3002bTJIg2vZ) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:24 |
-| 99 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 |
+| 96 | [When They Fight, They Fight](https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A) | 3:20 |
+| 97 | [Pressure To Party](https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 3:02 |
+| 98 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 |
+| 99 | [Missed the Boat](https://open.spotify.com/track/4asjU3sDnn3002bTJIg2vZ) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:24 |
 | 100 | [Wraith Pinned to the Mist and Other Games](https://open.spotify.com/track/0Ensfv1iBDcsOF6xNok14N) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Sunlandic Twins](https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE) | 4:15 |
 
-Snapshot ID: `MCxkM2UzM2M4MTM4MGFkM2JkYWVlYzI1ZTk2MmE0MWYzNzEzOTMwMzMx`
+Snapshot ID: `MCwxNGFiM2U1NTE2MzdmOGVkNWUxZTNkOGU3ZjBlOGE4MGEzZDMwNjAw`

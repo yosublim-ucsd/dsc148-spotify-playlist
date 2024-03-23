@@ -144,7 +144,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 407295,
       "name": "Adi\u00f3s Batata - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/1VJi7PtheTX2oJYIJZ7bWD"
@@ -802,6 +802,28 @@
       "duration_ms": 300338,
       "name": "B\u00faho",
       "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
+    },
+    {
+      "album": {
+        "name": "DANZAAA",
+        "url": "https://open.spotify.com/album/5qTwb1KGly0bTI9KhBr1OT"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        },
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210989,
+      "name": "CACHITO",
+      "url": "https://open.spotify.com/track/1mTsiEqpM76pUo1nn8bkGz"
     },
     {
       "album": {
@@ -2762,7 +2784,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 235418,
       "name": "Mano de Fatima",
       "url": "https://open.spotify.com/track/1823wxCop81BdNRMKcfygg"
@@ -3674,7 +3696,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 348009,
       "name": "Pua",
       "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"

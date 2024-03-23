@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 
 > Versos y barras de alto poder, con un takeover por Faruz Feet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,709 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,765 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 | 47 | [P.I.M.P.](https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:09 |
 | 48 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 |
 | 49 | [Cuidando El Territorio](https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Cuidando El Territorio](https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb) | 3:06 |
-| 50 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
+| 50 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
 | 51 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 |
-| 52 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
+| 52 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
 | 53 | [Ojos Tumbados](https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ojos Tumbados](https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9) | 4:22 |
 | 54 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 |
 | 55 | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8) | 2:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 | 59 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 |
 | 60 | [Why We Thugs](https://open.spotify.com/track/5880eYQmXx3c3oD22IljIt) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Laugh Now, Cry Later](https://open.spotify.com/album/6M1IwZsOOyBgmpKO75XPRj) | 3:44 |
 
-Snapshot ID: `MCxkOGI5NTlhMzI2Y2Y1MTgxOGNmZDE4MjBlM2FhZjQ0YjI1Y2E1OTVl`
+Snapshot ID: `MCw1YzhlYzkyYzIyNWYxNTgzNTQ0ZWY1ZTY2NmU4NTJjNWRmYTBlODMx`

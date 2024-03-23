@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Too $hort
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,981 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,185 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,17 +35,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 25 | [You Know How We Do It](https://open.spotify.com/track/2Ih217RCGAmyQR68Nn7Cqo) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Lethal Injection](https://open.spotify.com/album/7JlCbNWZszAdVKZdtHFQ5p) | 3:52 |
 | 26 | [Dear Mama](https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:40 |
 | 27 | [This D.J.](https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [O.G.L.B.](https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 3:23 |
-| 28 | [Blow the Whistle](https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Blow The Whistle](https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp) | 2:43 |
-| 29 | [Fuck Wit Dre Day \(And Everybody's Celebratin'\)](https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:51 |
+| 28 | [Fuck Wit Dre Day \(And Everybody's Celebratin'\)](https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:51 |
+| 29 | [Blow the Whistle](https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Blow The Whistle](https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp) | 2:43 |
 | 30 | [No Vaseline](https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj) | 5:13 |
 | 31 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 |
 | 32 | [Express Yourself](https://open.spotify.com/track/52IuMfbQa9aqRPz2oYPAI8) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 4:25 |
 | 33 | [The Humpty Dance](https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Sex Packets](https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL) | 6:31 |
 | 34 | [Bitch Please](https://open.spotify.com/track/5Sm1X46tna50RstHZvw072) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [No Limit Top Dogg](https://open.spotify.com/album/2evskaXutnTkQAaZeT4PQb) | 3:54 |
 | 35 | [How I Could Just Kill a Man](https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Cypress Hill](https://open.spotify.com/album/4tQSV1ZGpwlo3dBiTRuKvM) | 4:12 |
-| 36 | [Gettin' It \(feat\. Parliament Funkadelic\)](https://open.spotify.com/track/5K5dQsYdSdo2LKdepxbYAd) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [Parliament Funkadelic](https://open.spotify.com/artist/6XswoC68grx55in1WQnJ7E) | [Gettin' It \(Album Number Ten\)](https://open.spotify.com/album/27q3JlNTwpv5Zvf7yDReHH) | 5:41 |
+| 36 | [Let Me Ride](https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:20 |
 | 37 | [Fantastic Voyage](https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [It Takes a Thief](https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb) | 5:34 |
-| 38 | [Let Me Ride](https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:20 |
+| 38 | [Gettin' It \(feat\. Parliament Funkadelic\)](https://open.spotify.com/track/5K5dQsYdSdo2LKdepxbYAd) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [Parliament Funkadelic](https://open.spotify.com/artist/6XswoC68grx55in1WQnJ7E) | [Gettin' It \(Album Number Ten\)](https://open.spotify.com/album/27q3JlNTwpv5Zvf7yDReHH) | 5:41 |
 | 39 | [Streiht Up Menace](https://open.spotify.com/track/2sXMYMpvGVJJBIwrzNf0Lr) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [When We Wuz Bangin](https://open.spotify.com/album/3pmtX0h9cMvyBcwWx5oz3w) | 4:34 |
 | 40 | [Ghetto Bird \- Remastered](https://open.spotify.com/track/6M3lqzrkzSKrBehkeAxTXc) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Lethal Injection](https://open.spotify.com/album/7JlCbNWZszAdVKZdtHFQ5p) | 3:51 |
 | 41 | [Playaz Club](https://open.spotify.com/track/4ZYM6R5nOZywxACY90Bsla) | [Rappin' 4\-Tay](https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C) | [Don't Fight The Feelin'](https://open.spotify.com/album/1VUlxoPvDA8PfUDHTic793) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 49 | [Pimp Of The Year](https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC) | [Dru Down](https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk) | [Explicit Game](https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P) | 4:14 |
 | 50 | [Face the World](https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:57 |
 
-Snapshot ID: `MCxkNzUwMzdiY2RlMmUxNTY4Y2RjZWY3MjVmMDRmZGZhZmZlMWY5ZWEz`
+Snapshot ID: `MCw2YTljZWVjZTgzOGM1MmM4Y2UzOTBmN2VjY2ZlY2ViNmQ0Nzc5NTUy`

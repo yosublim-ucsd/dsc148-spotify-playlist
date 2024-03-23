@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Daniel Avery
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,044 likes - 110 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,097 likes - 110 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 6 | [Losing Control](https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Losing Control](https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB) | 2:45 |
 | 7 | [What I Do](https://open.spotify.com/track/5Xi4xwLls4A7J0NqOfkWID) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [What I Do](https://open.spotify.com/album/22m4OKMTuFzHdZG4e4DUrQ) | 2:28 |
 | 8 | [New Life](https://open.spotify.com/track/2C5RSCwLW5EknVBkRMsakA) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [HOF](https://open.spotify.com/artist/6g18j6U5EYDMoIAmEAstGI) | [New Life](https://open.spotify.com/album/1geFIf5KqaxEWxBcv928AG) | 5:27 |
-| 9 | [Running](https://open.spotify.com/track/23a8sZQihpGchTB8ordsLP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Wonderland / Running](https://open.spotify.com/album/1GHtn56z5l7TGf7COQJgOo) | 5:03 |
+| 9 | [Running](https://open.spotify.com/track/4zw3xwoXdGw50VKlHGDF6H) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Wonderland / Running](https://open.spotify.com/album/3mR3Wi3c4sI64d1rkKllEL) | 5:03 |
 | 10 | [Control](https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Control](https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA) | 2:55 |
 | 11 | [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 |
 | 12 | [Shelter](https://open.spotify.com/track/2scX5RdL0wByroF3sCBzDX) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Belonging](https://open.spotify.com/album/3HOoATRaFgwq2VsAaWvmbh) | 4:14 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 109 | [Don't Stop](https://open.spotify.com/track/0BFA5NJfdlg5xvQ2w6Ulyc) | [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Don't Stop](https://open.spotify.com/album/4E2kGTJZNQ8ssgwz81Pg5y) | 4:08 |
 | 110 | [Shook](https://open.spotify.com/track/3pvthFHMfvalSNxcnSJgUM) | [David Lowe](https://open.spotify.com/artist/52dT7EHXa4b74ozIjFISzD), [Brad Edgar](https://open.spotify.com/artist/32zsdaR0kbqUOgHwMAtiTx) | [Shook](https://open.spotify.com/album/5V9YlNz4b31CggAtQ5ubhV) | 3:39 |
 
-Snapshot ID: `MCxkOWRiOGQyZTJjNDNmYjY2MTU4ZTRkYjRkY2NlZGU5MjA4MDBlZDZl`
+Snapshot ID: `MCxlNWM4ZjYwYjRiNzI2NGQyYjYxNDQ1MzY4YTVmYjI2NjJhN2E5ZDg2`

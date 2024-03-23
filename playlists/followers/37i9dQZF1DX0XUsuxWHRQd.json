@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 15819355,
+  "2024-03-23": 15825607,
   "date_first_scraped": "2019-05-26",
   "description": "New music from Gunna, Cardi B and Flo Milli.",
   "name": "RapCaviar",
@@ -1599,6 +1599,32 @@
       "duration_ms": 207738,
       "name": "All Bad (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/021lWIHJrURZrmvYQ1xcM8"
+    },
+    {
+      "album": {
+        "name": "Madvillainy",
+        "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
+      },
+      "artists": [
+        {
+          "name": "Madvillain",
+          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130479,
+      "name": "All Caps",
+      "url": "https://open.spotify.com/track/21O0XXPEWPtePt5RMY93Ob"
     },
     {
       "album": {

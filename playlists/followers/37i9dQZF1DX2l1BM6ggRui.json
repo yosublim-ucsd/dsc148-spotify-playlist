@@ -1,5 +1,5 @@
 {
-  "2024-03-22": 6499,
+  "2024-03-23": 6499,
   "date_first_scraped": "2023-11-04",
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
   "name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 214000,
       "name": "A Perfect Ending",
       "url": "https://open.spotify.com/track/15itaSEmDZt9PVygMrIpTN"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 217678,
       "name": "Again",
       "url": "https://open.spotify.com/track/1ZcASz9kDktzYeA7WwnW7u"
@@ -1632,6 +1632,28 @@
     },
     {
       "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171967,
+      "name": "SKIP (Feat. Wonstein)",
+      "url": "https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK"
+    },
+    {
+      "album": {
         "name": "Some Day in the 21century",
         "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"
       },
@@ -1781,6 +1803,24 @@
       "duration_ms": 231586,
       "name": "Traffic light",
       "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
+    },
+    {
+      "album": {
+        "name": "Visible World",
+        "url": "https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX"
+      },
+      "artists": [
+        {
+          "name": "Fishingirls",
+          "url": "https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192274,
+      "name": "Tutorial",
+      "url": "https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V"
     },
     {
       "album": {

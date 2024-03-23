@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 
 > The sweetest bops\. Cover: WENDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,154 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,193 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wish You Hell](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) | 2:50 |
-| 2 | [EASY \(English ver.\)](https://open.spotify.com/track/3y5nzCgwQPoaYWTdoKxWTo) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY \(English ver.\)](https://open.spotify.com/album/5jdhMhfZ5gdaQnLsrFgcw4) | 2:44 |
-| 3 | [ONE SPARK \(English ver.\)](https://open.spotify.com/track/7F19uqFPfI9vToJplQPwid) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [ONE SPARK](https://open.spotify.com/album/0aKGDywT16N2AgQMLNlDJO) | 3:03 |
-| 4 | [Only One](https://open.spotify.com/track/20zQ5Kf2lZA1awa8csGNdJ) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Only One](https://open.spotify.com/album/3CDMv5m8ffHTAXidBmY2XQ) | 2:56 |
-| 5 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 |
-| 6 | [Diamond](https://open.spotify.com/track/4SjL5rKPVxe2K2FnjluuVa) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Diamond](https://open.spotify.com/album/5MM3zQXvFmpTBDe45rVida) | 3:03 |
-| 7 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 |
-| 8 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
-| 9 | [I GOT YOU \(Original\)](https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 2:53 |
-| 10 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 |
-| 11 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 |
-| 12 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 |
-| 13 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Debut Digital Single \[BATTER UP\]](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 |
-| 14 | [Dance Again](https://open.spotify.com/track/79ypLbXeRsgNgd3uZTOcY4) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Dance Again](https://open.spotify.com/album/1Z7QoKOpqAWfiHnurlsiti) | 3:11 |
-| 15 | [The aisle](https://open.spotify.com/track/6SjxVgMjH3b3AI4wVviZfi) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:45 |
-| 16 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
+| 2 | [Smart \(English ver.\)](https://open.spotify.com/track/0Q8NdNYJUr07b2ZX4y8EXR) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Smart \(Remixes\)](https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh) | 2:46 |
+| 3 | [Only One](https://open.spotify.com/track/20zQ5Kf2lZA1awa8csGNdJ) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Only One](https://open.spotify.com/album/3CDMv5m8ffHTAXidBmY2XQ) | 2:56 |
+| 4 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 |
+| 5 | [EASY \(English ver.\)](https://open.spotify.com/track/3y5nzCgwQPoaYWTdoKxWTo) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY \(English ver.\)](https://open.spotify.com/album/5jdhMhfZ5gdaQnLsrFgcw4) | 2:44 |
+| 6 | [ONE SPARK \(English ver.\)](https://open.spotify.com/track/7F19uqFPfI9vToJplQPwid) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [ONE SPARK](https://open.spotify.com/album/0aKGDywT16N2AgQMLNlDJO) | 3:03 |
+| 7 | [Diamond](https://open.spotify.com/track/4SjL5rKPVxe2K2FnjluuVa) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Diamond](https://open.spotify.com/album/5MM3zQXvFmpTBDe45rVida) | 3:03 |
+| 8 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 |
+| 9 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
+| 10 | [I GOT YOU \(Original\)](https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 2:53 |
+| 11 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 |
+| 12 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 |
+| 13 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 |
+| 14 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Debut Digital Single \[BATTER UP\]](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 |
+| 15 | [Dance Again](https://open.spotify.com/track/79ypLbXeRsgNgd3uZTOcY4) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Dance Again](https://open.spotify.com/album/1Z7QoKOpqAWfiHnurlsiti) | 3:11 |
+| 16 | [The aisle](https://open.spotify.com/track/6SjxVgMjH3b3AI4wVviZfi) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:45 |
 | 17 | [Soñar \(Breaker\)](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) | 2:53 |
 | 18 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 |
 | 19 | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/track/2VqXiJCKjkEKbI1SChyG4m) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d) | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/album/3By2H5WNB4ZpLN5Llmwrr8) | 2:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 | 79 | [Potential Breakup Song](https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Potential Breakup Song](https://open.spotify.com/album/49mFTJkOKu0labagCQyURy) | 3:38 |
 | 80 | [Touch](https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:33 |
 
-Snapshot ID: `MCxjOTk4ODFjZjc2M2QyMDQ5MTdjYTA1MTYwZTNkZDFjOWYxZTMwYzFl`
+Snapshot ID: `MCwzNTJjOGEyMzgyOTQzNTE1OTA3NGM2OTc5ZGM3ZTU3NjI2NWRjYzZm`

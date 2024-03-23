@@ -4,7 +4,7 @@
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-212 songs - 12 hr 8 min
+213 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Sailing](https://open.spotify.com/track/5BhlE0di2Qeey289ECk9IF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Sailing](https://open.spotify.com/album/4JC0wgDAIou1Q0005eCXb4) | 3:25 | 2023-10-12 |  |
 | [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 | 2022-12-21 | 2023-04-01 |
 | [Seasons](https://open.spotify.com/track/0jzuoUYtIxSMJLUktZXV9o) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [one](https://open.spotify.com/album/1tZ2W5PW2lyAf1K7sTM6iW) | 3:24 | 2022-12-21 | 2023-03-11 |
-| [See Ya There](https://open.spotify.com/track/4KXd5UAFuHok5tfUXBP2fQ) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 4:39 | 2023-10-03 |  |
+| [See Ya There](https://open.spotify.com/track/4KXd5UAFuHok5tfUXBP2fQ) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 4:39 | 2023-10-03 | 2024-03-23 |
 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 | 2023-03-10 | 2023-09-22 |
 | [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 | 2023-08-24 | 2024-02-22 |
 | [Sign Out](https://open.spotify.com/track/7xR9nZWkuINxV2jcbCplu9) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Sign Out](https://open.spotify.com/album/6zk2wMyaFUHRkoxRNDL1Ds) | 3:58 | 2023-01-19 | 2023-06-20 |
@@ -204,6 +204,7 @@
 | [Three Little Birds \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Three Little Birds \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u) | 4:01 | 2024-01-25 |  |
 | [Together Together](https://open.spotify.com/track/1cJuew45cBdyPnXyBipX17) | [Courtney Farren](https://open.spotify.com/artist/3nX6SFnMj80b4JUcc76GzT), [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Together Together](https://open.spotify.com/album/28hYmqMM8w65i3Yrg6im0c) | 2:52 | 2023-12-08 |  |
 | [Tonight the Streets Are Ours](https://open.spotify.com/track/4tNTYxKPa8yWpoxpBEueIF) | [Richard Hawley](https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut) | [False Lights From the Land EP](https://open.spotify.com/album/2eswYuox4Rj1UKy40yUGDp) | 3:41 | 2023-07-17 | 2024-01-03 |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-22 |  |
 | [Tramp Like You](https://open.spotify.com/track/0rNww8SMuGZm8GkDWeHtLi) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 5:24 | 2023-04-27 | 2023-05-26 |
 | [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 | 2023-01-19 | 2023-04-30 |
 | [Turn Away](https://open.spotify.com/track/3iYfXX61UYS2fZPA16amzL) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Walking On the Line \(Extended\)](https://open.spotify.com/album/58MszPAmQJIbDklhdMCv7I) | 3:46 | 2024-01-11 | 2024-01-19 |

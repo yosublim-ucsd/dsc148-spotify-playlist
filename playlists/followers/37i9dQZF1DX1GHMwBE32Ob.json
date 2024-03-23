@@ -1,7 +1,7 @@
 {
-  "2024-03-22": 49340,
+  "2024-03-23": 49421,
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Bella Shmurda",
+  "description": "From the trenches. Through the streets.\nCover: Candy Bleakz",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 202605,
       "name": "Ex Convict",
       "url": "https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6"
@@ -1375,7 +1375,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 198347,
       "name": "Feeling Funny",
       "url": "https://open.spotify.com/track/73MwJHhrrDbOlzWTCziVJr"
@@ -1787,6 +1787,32 @@
       "duration_ms": 138750,
       "name": "HOV",
       "url": "https://open.spotify.com/track/3jtPLQ4eBEcfyry5148T9x"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/4OBeWqpDm9s3hfaoVAj1Ni"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/0VIRUXHBdO0Uo2U6MbVOmn"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "I Don't Care (feat. Bella Shmurda & Vector)",
+      "url": "https://open.spotify.com/track/7B1yc3t9hnNj9Uq2LBnAz4"
     },
     {
       "album": {
@@ -3001,6 +3027,28 @@
       "duration_ms": 160746,
       "name": "On Fire (From 'Gangs of Lagos')",
       "url": "https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41"
+    },
+    {
+      "album": {
+        "name": "One or Two",
+        "url": "https://open.spotify.com/album/4mtmWSfOnpFJ7oVSkw4BTP"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "AXAD",
+          "url": "https://open.spotify.com/artist/1zfpuNNxBF5qjwbi4LCXig"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152880,
+      "name": "One or Two",
+      "url": "https://open.spotify.com/track/39677hmgIO3QESf9ensp8p"
     },
     {
       "album": {

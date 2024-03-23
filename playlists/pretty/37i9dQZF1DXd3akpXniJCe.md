@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 
 > Come on down to the waters ye sinner and dig deep into this collection of songs and stories steeped in struggle, hope, darkness, light, sin and salvation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,863 likes - 41 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,874 likes - 41 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 | 40 | [Haunted](https://open.spotify.com/track/6i8lkIyU8XiCIzfPwRtMPE) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [No Glory](https://open.spotify.com/album/4YaWyI6imvYaPnrd96kemb) | 3:33 |
 | 41 | [O Children Come](https://open.spotify.com/track/5UlOGXhDP4qXbSKHyLnQoM) | [JJ Weeks Band](https://open.spotify.com/artist/6fXIdyfCq00oaElvH64eri) | [O Children Come](https://open.spotify.com/album/1MlHJSY1EH0AQaYYUnTNga) | 3:41 |
 
-Snapshot ID: `MCwzNTE2OTY1ZjM1Y2ZkM2M0MzIxODU1ZmI4NWQyYmZmNGQyZWQ3MTA1`
+Snapshot ID: `MCxiN2Y3ZjdiM2ExMzEyYmVjMDUzN2ZmNzZkYzg0Y2U3M2EyOWEyOGU0`

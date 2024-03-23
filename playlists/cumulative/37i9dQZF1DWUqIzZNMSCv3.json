@@ -1277,6 +1277,28 @@
     },
     {
       "album": {
+        "name": "Grieg: Lyric Pieces, Book III, Op. 43: No. 5, Erotikon",
+        "url": "https://open.spotify.com/album/3sSsJvmJ2deZICQkB6Vrpe"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Andrey Gugnin",
+          "url": "https://open.spotify.com/artist/4xhMm2D1MNNpLdXKGd7CYe"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Lyric Pieces, Book III, Op. 43: No. 5, Erotikon",
+      "url": "https://open.spotify.com/track/4Fr1EjBybRVAeHyEW8xoXv"
+    },
+    {
+      "album": {
         "name": "Le Po\u00e8te du piano",
         "url": "https://open.spotify.com/album/5e0hqGrjuazjIvaCNLGKVk"
       },

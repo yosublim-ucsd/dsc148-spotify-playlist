@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Prinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,289 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,285 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 23 | [Someone Else](https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Someone Else](https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1) | 3:25 |
 | 24 | [Again](https://open.spotify.com/track/0oBMJ4PEkiU6jSabrP3Z82) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Again](https://open.spotify.com/album/2VPnkehP5dgUJ2UDaQswKO) | 2:14 |
 | 25 | [Talking Stage](https://open.spotify.com/track/2wqit987hOdo26WWk95BIK) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Talking Stage](https://open.spotify.com/album/5NLili28W2k9Uei0PLB0fd) | 3:00 |
-| 26 | [Why you gotta lie?](https://open.spotify.com/track/492G9mKNRkoTJFybP2BItb) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/7HFZ5BPoa353YG5EOGXVLE) | 2:36 |
-| 27 | [Mad About Bars \- S5\-E8 Pt 2](https://open.spotify.com/track/5w0OFvbgCjnbq9TK4vzVXL) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [Mad About Bars \- S5\-E8](https://open.spotify.com/album/1APQzz72dkxKKhwWyJF1tb) | 2:05 |
+| 26 | [Mad About Bars \- S5\-E8 Pt 2](https://open.spotify.com/track/5w0OFvbgCjnbq9TK4vzVXL) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [Mad About Bars \- S5\-E8](https://open.spotify.com/album/1APQzz72dkxKKhwWyJF1tb) | 2:05 |
+| 27 | [Why you gotta lie?](https://open.spotify.com/track/492G9mKNRkoTJFybP2BItb) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/7HFZ5BPoa353YG5EOGXVLE) | 2:36 |
 | 28 | [Paro\(noia\)](https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I) | [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD) | [In The Loop](https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS) | 3:15 |
 | 29 | [Better With You Than On My Own](https://open.spotify.com/track/32M9aAAuuhybp33wiLWtes) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Better With You Than On My Own](https://open.spotify.com/album/7L5a0opz3RoRKg7e3683D7) | 2:20 |
 | 30 | [Love Letter](https://open.spotify.com/track/6SHx5TR6SqJdGiwi8tlObe) | [Noaah](https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX) | [Love Letter](https://open.spotify.com/album/7mpsV2aW4vyw9OQymNQFOL) | 2:32 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 55 | [I Thought I’d Die In Your Arms](https://open.spotify.com/track/4b3pxifcb2ZdFWcutsC5Ik) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrogress \(Season 1\)](https://open.spotify.com/album/1FyznQmJjIIXuFybKnQaQu) | 2:56 |
 | 56 | [Up all night](https://open.spotify.com/track/76ldXW0puAk2q8YhpFASxH) | [LBSZN](https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff) | [Up all night](https://open.spotify.com/album/5hRXQWmzDZiFPdt878nWF4) | 2:41 |
 | 57 | [5 AM](https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr) | [AMB](https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7) | [5 AM](https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy) | 1:36 |
-| 58 | [My Girl \(Gemini\)](https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb) | [Stan](https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v) | [My Girl \(Gemini\)](https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN) | 2:33 |
-| 59 | [Day and Night](https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx) | [Otis Lloyid](https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk) | [Day and Night](https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5) | 3:11 |
+| 58 | [Day and Night](https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx) | [Otis Lloyid](https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk) | [Day and Night](https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5) | 3:11 |
+| 59 | [My Girl \(Gemini\)](https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb) | [Stan](https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v) | [My Girl \(Gemini\)](https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN) | 2:33 |
 | 60 | [House Invasions](https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [House Invasions](https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG) | 3:29 |
 | 61 | [No Emotions](https://open.spotify.com/track/5iSCp2kkb7UzpZavOMXhbA) | [Ddotz x Dice](https://open.spotify.com/artist/3bekb1Bww1qdnXpGN6uUsd) | [No Emotions](https://open.spotify.com/album/17K4yH8Z5TxBVc5F49J5wQ) | 2:50 |
 | 62 | [One Mic Freestyle \(S3\-EP1\)](https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [One Mic Freestyle \(S3\-EP1\)](https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe) | 2:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 99 | [Who Am I?\(I Dont Know\)](https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Who Am I?\(I Dont Know\)](https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch) | 2:42 |
 | 100 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 
-Snapshot ID: `MCw0YWVlZjdhZTJhYjBkYzhhY2YwZTVhMzA2ZGE1MWYwZGJjYjc1ZTI1`
+Snapshot ID: `MCw5MTQzN2RmMWQ4YWY0NmMwNzkxMDdkMzg1YzBkMzFlMDdkZjVjOTc3`

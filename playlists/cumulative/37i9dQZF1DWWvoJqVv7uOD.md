@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Justin Timberlake
 
-644 songs - 1 day 11 hr 10 min
+645 songs - 1 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [See Me](https://open.spotify.com/track/4rmboUXxyv5FhkqdSwiBeG) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [See Me](https://open.spotify.com/album/6YgCC8d3DSJVDYPBDkPsEb) | 2:48 | 2023-05-05 | 2023-07-01 |
 | [Selfish](https://open.spotify.com/track/6RjdyJoKIxX8eNbYE5WWBK) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [WHO HURT YOU? \(Deluxe\)](https://open.spotify.com/album/0Y5fofxLKT5mqVsprWjbn5) | 3:03 | 2022-10-21 | 2022-11-26 |
 | [Serotonin](https://open.spotify.com/track/7qGTqLLIHXStOkmnSkZAbY) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Serotonin](https://open.spotify.com/album/6oS7LtKPVdN19IfhaVnsqK) | 2:57 | 2022-04-29 | 2023-01-28 |
+| [Shadow](https://open.spotify.com/track/1ZbqAYqiaqA9aegBxFyWax) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [A Hometown Odyssey](https://open.spotify.com/album/5uKhWGoRFaENvmmdmCN99K) | 2:37 | 2024-03-22 |  |
 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 | 2022-06-29 | 2022-10-01 |
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-20 |  |
 | [She's Not You](https://open.spotify.com/track/6zkwvT8jjhtrTxNuebFgfz) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She’s Not You](https://open.spotify.com/album/5G2gwyWYBDnOeh7BT3cj3j) | 3:07 | 2022-07-22 | 2022-10-01 |
@@ -541,7 +542,7 @@
 | [Speak](https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Speak](https://open.spotify.com/album/3ZSfzqjAgOZv7S23jASBdt) | 2:53 | 2022-04-01 | 2022-04-23 |
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-10 | 2023-05-06 |
 | [Speeding](https://open.spotify.com/track/3bgi6jmYXxdEyUq3buRRr3) | [David Arlo](https://open.spotify.com/artist/0p5H44Hufi4BrG8PyaH7rK) | [Speeding](https://open.spotify.com/album/3xUNzOaYhCQT3GarYKpWG6) | 2:53 | 2023-06-09 | 2023-07-01 |
-| [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 | 2023-11-10 |  |
+| [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 | 2023-11-10 | 2024-03-23 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-07-11 | 2022-09-10 |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2023-11-10 |  |
 | [Still Have Love For You](https://open.spotify.com/track/2Lt4bMUuokKyC4r1puqefa) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Love Over Fear](https://open.spotify.com/album/173IyxzOdHpenFKug42nGh) | 3:05 | 2023-10-24 | 2023-12-02 |
@@ -554,7 +555,7 @@
 | [Sunday](https://open.spotify.com/track/7xxmW8ieHp9YnACGc0PfNz) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sunday](https://open.spotify.com/album/34Pax5tBAPlhxGXfmfypNO) | 2:58 | 2023-10-20 |  |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-02-04 | 2022-04-02 |
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-10-14 | 2022-11-05 |
-| [Sweet Sounds Of Heaven \(feat\. Lady Gaga\) \- Edit](https://open.spotify.com/track/6HCUMOcGa4LyjcBXjl7z0Y) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Sweet Sounds Of Heaven](https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK) | 5:06 | 2023-09-29 |  |
+| [Sweet Sounds Of Heaven \(feat\. Lady Gaga\) \- Edit](https://open.spotify.com/track/6HCUMOcGa4LyjcBXjl7z0Y) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Sweet Sounds Of Heaven](https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK) | 5:06 | 2023-09-29 | 2024-03-23 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-12-01 | 2024-03-02 |
 | [Talking to Yourself](https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4) | 2:53 | 2022-09-27 | 2022-10-22 |
 | [Talking to Yourself](https://open.spotify.com/track/1sEBlj6fYXiiaGR8XrLSbr) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/03O3E9D52ADAd2nzr3wCtb) | 2:53 | 2022-09-16 | 2022-09-28 |

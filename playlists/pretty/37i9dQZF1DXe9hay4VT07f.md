@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Valiant
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,681 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,796 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 33 | [Tek Buddy](https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Vibes Don't Lie](https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU) | 2:28 |
 | 34 | [Gimme the Light](https://open.spotify.com/track/5WavgurgGX48eZv1q1E3on) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock \(20th Anniversary\)](https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV) | 3:48 |
 | 35 | [Bruk off Yuh Back](https://open.spotify.com/track/2O8oFfQOzt6Q9G69XBQdIG) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Bruk off Yuh Back](https://open.spotify.com/album/1yDKRNLbUWFF68muRwElC0) | 2:53 |
-| 36 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 |
-| 37 | [Foreplay](https://open.spotify.com/track/3QFOdlIjY2EyjLij20OjdB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Foreplay](https://open.spotify.com/album/7fMMeGFAPp2upuxTKqofYp) | 2:46 |
+| 36 | [Foreplay](https://open.spotify.com/track/3QFOdlIjY2EyjLij20OjdB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Foreplay](https://open.spotify.com/album/7fMMeGFAPp2upuxTKqofYp) | 2:46 |
+| 37 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 |
 | 38 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 |
 | 39 | [Wild n Rich](https://open.spotify.com/track/2ZLcrPOWX3wTnj2h4NdEWx) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Wild n Rich](https://open.spotify.com/album/4F8cagn4gHpHk8tPA8SPfR) | 2:47 |
 | 40 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
@@ -96,11 +96,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 86 | [Breaking News](https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [VENT](https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0) | 3:27 |
 | 87 | [Waistline](https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Waistline](https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR) | 2:46 |
 | 88 | [Pon Di Cocky](https://open.spotify.com/track/38CECqycscktTYRq4yKMXc) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Pon Di Cocky](https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4) | 3:10 |
-| 89 | [Gyal Bruk Out](https://open.spotify.com/track/6aHhMN1QoYiDttlyOoa9Ck) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Raw as Eva](https://open.spotify.com/album/3WWCe11tMBN6nM26gMIeha) | 2:42 |
-| 90 | [Unfaithful Games](https://open.spotify.com/track/1kZ5wCFlcuV7qN2abxU3LO) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Unfaithful Games](https://open.spotify.com/album/0QDzewuAi0KMRc1oYzQCc9) | 2:42 |
+| 89 | [Unfaithful Games](https://open.spotify.com/track/1kZ5wCFlcuV7qN2abxU3LO) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Unfaithful Games](https://open.spotify.com/album/0QDzewuAi0KMRc1oYzQCc9) | 2:42 |
+| 90 | [Gyal Bruk Out](https://open.spotify.com/track/6aHhMN1QoYiDttlyOoa9Ck) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Raw as Eva](https://open.spotify.com/album/3WWCe11tMBN6nM26gMIeha) | 2:42 |
 | 91 | [Gal A Bubble](https://open.spotify.com/track/3Ib4YrvFEug9vY4JaCmBBw) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Strictly The Best Vol\. 51](https://open.spotify.com/album/6EFR4aXlC8CtacHf30uOnH) | 3:31 |
-| 92 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
-| 93 | [Ganja Farmer](https://open.spotify.com/track/4IPQwZBtK0B2DabP0rQvV0) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/6vCafqC9POiyyLxqC4kdpf) | 3:56 |
+| 92 | [Ganja Farmer](https://open.spotify.com/track/4IPQwZBtK0B2DabP0rQvV0) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/6vCafqC9POiyyLxqC4kdpf) | 3:56 |
+| 93 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
 | 94 | [Beautiful](https://open.spotify.com/track/5tLDX5Z50VZAvga5695enB) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 4:47 |
 | 95 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
 | 96 | [Verified Choppa 2](https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 99 | [Expensive](https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Expensive](https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR) | 3:55 |
 | 100 | [Settle Down \(Destiny\)](https://open.spotify.com/track/3No90yqhFHg1vcFCHrCR6b) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/5wqSokkE06joXVP6Pe3tlf) | 3:09 |
 
-Snapshot ID: `MCxiMjAwOTFmZWUyOGZiMGU3MThlZjZiOTg5ZDg2MjAyZWQ3NTU3NWI1`
+Snapshot ID: `MCwzYzhiZjQ3Nzk4MzA4NGQ0YjFkNjEzMWNkMzZmZWEwYjM4YzkwYTJh`

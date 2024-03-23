@@ -16594,7 +16594,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 199967,
       "name": "Remember (feat. Stevie Appleton)",
       "url": "https://open.spotify.com/track/5Cv9UBYh2VkiCspwh4Wog5"
@@ -18139,6 +18139,24 @@
     },
     {
       "album": {
+        "name": "Sippin' Yak",
+        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146230,
+      "name": "Sippin' Yak",
+      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
+    },
+    {
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/3amvTG1sQqcGwCE1vOsDNg"
       },
@@ -18216,7 +18234,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 170706,
       "name": "Smash My Heart",
       "url": "https://open.spotify.com/track/4f9iU6U8XBqlzZyoEHirXS"
@@ -19016,7 +19034,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 158549,
       "name": "Summer In New York",
       "url": "https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q"
@@ -19166,7 +19184,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 173658,
       "name": "Sunroof - Loud Luxury Remix",
       "url": "https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj"
@@ -19272,6 +19290,32 @@
       "duration_ms": 210853,
       "name": "Sweet Caroline",
       "url": "https://open.spotify.com/track/6YtUe8dzZ357QD4t56nG00"
+    },
+    {
+      "album": {
+        "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
+        "url": "https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251904,
+      "name": "Sweet Disposition - John Summit & Silver Panda Remix",
+      "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
     },
     {
       "album": {
@@ -21621,6 +21665,32 @@
     },
     {
       "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Tom Breu",
+          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
+    },
+    {
+      "album": {
         "name": "Weak (Nicolas Julian Remix)",
         "url": "https://open.spotify.com/album/4Yhf7ybeRFrhCX6a8NsVha"
       },
@@ -21852,7 +21922,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
@@ -21940,7 +22010,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
@@ -22510,7 +22580,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 194310,
       "name": "Yeah The Girls",
       "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"

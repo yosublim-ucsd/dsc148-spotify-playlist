@@ -4,7 +4,7 @@
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-49 songs - 3 hr 13 min
+50 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Esto Revienta](https://open.spotify.com/track/0eAgZ5JyKuowgYO9aZYsL9) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Esto Revienta](https://open.spotify.com/album/7sIju5560ZxxmUtY7Ah3bO) | 2:51 | 2024-01-21 |  |
 | [Hey Morra](https://open.spotify.com/track/0q7l3V8Hlbwvs2u9UN6w6P) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 3:53 | 2023-11-10 |  |
 | [Hipocresía](https://open.spotify.com/track/4OElCXKZqbE8MhHvhrKX1z) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 4:11 | 2023-11-10 |  |
+| [Infierno](https://open.spotify.com/track/3frBPrmiJfJ8Oowb4kbRIb) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Estilo Fino](https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh) | 3:08 | 2024-03-22 |  |
 | [Inhala](https://open.spotify.com/track/19U70d6IpR3x8XRBfGMXXI) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Yayo](https://open.spotify.com/artist/74ygGK6cTqo0Q7UadJytEJ) | [Inhala](https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS) | 4:05 | 2023-11-10 |  |
 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 | 2023-11-10 |  |
 | [La Forty \(feat\. Efeblunts\)](https://open.spotify.com/track/5jYUWTBEKSk8hkAD2OidqX) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Efeblunts](https://open.spotify.com/artist/1nlQxtUgZL8DKBWo24VkDr) | [La Forty \(feat\. Efeblunts\)](https://open.spotify.com/album/2MonKwkwHnYduDrWJRW8uG) | 3:41 | 2023-11-10 | 2024-01-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 70899,
+  "num_followers": 70906,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzM0ZDFkZGZlNGE0NmZjOTE5NzU2MTA2NzBiNzBiYjJiMzQ1Y2Zl",
+  "snapshot_id": "MCwzMWMwNjhjZjgzMGVjYTlhYjE5ZDA0YmEzZTlkMGE0NWMzYjcwMmNm",
   "tracks": [
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
+        "name": "Mucho",
+        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 240520,
+      "name": "Como Eran Las Cosas",
+      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+    },
+    {
+      "added_at": "2023-12-15 20:05:00",
+      "album": {
         "name": "Hello Nasty (Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 208079,
       "name": "Estamos Bien",
       "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
-    },
-    {
-      "added_at": "2023-12-15 20:05:00",
-      "album": {
-        "name": "Mucho",
-        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 240520,
-      "name": "Como Eran Las Cosas",
-      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "El Loco",
+      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
+    },
+    {
+      "added_at": "2023-12-15 20:05:00",
+      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 236215,
-      "name": "NI BIEN NI MAL",
-      "url": "https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8"
-    },
-    {
-      "added_at": "2023-12-15 20:05:00",
-      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
       },
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 185826,
-      "name": "El Loco",
-      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
+      "duration_ms": 236215,
+      "name": "NI BIEN NI MAL",
+      "url": "https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1475,18 +1475,22 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "TRES PUNTOS SUSPENSIVOS",
-        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
+        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
       },
       "artists": [
         {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
         }
       ],
-      "duration_ms": 173913,
-      "name": "ALMA DINAMITA",
-      "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
+      "duration_ms": 146341,
+      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1515,22 +1519,18 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+        "name": "TRES PUNTOS SUSPENSIVOS",
+        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 146341,
-      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+      "duration_ms": 173913,
+      "name": "ALMA DINAMITA",
+      "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "Morad: Bzrp Music Sessions, Vol. 47",
-        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 177583,
-      "name": "Morad: Bzrp Music Sessions, Vol. 47",
-      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
-    },
-    {
-      "added_at": "2023-12-15 20:05:00",
-      "album": {
         "name": "La Dulzura",
         "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
       },
@@ -1695,6 +1675,26 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
+        "name": "Morad: Bzrp Music Sessions, Vol. 47",
+        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 177583,
+      "name": "Morad: Bzrp Music Sessions, Vol. 47",
+      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
+    },
+    {
+      "added_at": "2023-12-15 20:05:00",
+      "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
@@ -1731,26 +1731,6 @@
       "duration_ms": 157133,
       "name": "Had Enough (feat. Quavo & Offset)",
       "url": "https://open.spotify.com/track/6SPgp2qK3fb4wPX1SldrNf"
-    },
-    {
-      "added_at": "2023-12-15 20:05:00",
-      "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 198850,
-      "name": "Plegarias",
-      "url": "https://open.spotify.com/track/4DfhsWuqZonO5URxvwkBSK"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1863,6 +1843,26 @@
       "duration_ms": 225919,
       "name": "BIG",
       "url": "https://open.spotify.com/track/7cyeGclH71MayOuQ7qtLFl"
+    },
+    {
+      "added_at": "2023-12-15 20:05:00",
+      "album": {
+        "name": "El Disco de Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Perfecta - Versi\u00f3n con Julieta Venegas",
+      "url": "https://open.spotify.com/track/4Ol6lxivp7pR7voovl8vKI"
     }
   ],
   "unique_name": "Antidomingo",

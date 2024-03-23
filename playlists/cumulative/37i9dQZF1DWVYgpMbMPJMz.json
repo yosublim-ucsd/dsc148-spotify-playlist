@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:26T4yOaOoFJvUvxR87Y9HO\">Bethel Music</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:57YsESW6BGZLHQgOg8AiAq\">Charity Gayle</a> x <a href=\"spotify:artist:79GBRmCCcohvXbXLvsv3nO\">Ryan Kennedy</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -726,7 +726,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 264379,
       "name": "Because of Jesus - Live",
       "url": "https://open.spotify.com/track/3zNDRUtDFSTheuLNrmwo0o"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 218080,
       "name": "Boxes",
       "url": "https://open.spotify.com/track/1BCA4gZZCLT8tYDyqUJcc4"
@@ -3505,6 +3505,28 @@
     },
     {
       "album": {
+        "name": "Heaven's Frequency",
+        "url": "https://open.spotify.com/album/6f1Jkfs8tfgM7G2tmUXxbj"
+      },
+      "artists": [
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+        },
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255598,
+      "name": "Heaven's Frequency",
+      "url": "https://open.spotify.com/track/5iJViNLHsoOlulhrDVDJCH"
+    },
+    {
+      "album": {
         "name": "Worship in The Word, Vol. 2 (Live)",
         "url": "https://open.spotify.com/album/7HmiWfc5xCGC5pUoZrP7IC"
       },
@@ -3564,7 +3586,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 289738,
       "name": "His Mercy Is More - Live",
       "url": "https://open.spotify.com/track/6hB0AGk240Qkhag10ZtSr9"
@@ -5627,6 +5649,24 @@
     },
     {
       "album": {
+        "name": "Let Revival In",
+        "url": "https://open.spotify.com/album/1rnP5peOPIIrW7D0uxNIOm"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218155,
+      "name": "Let Revival In",
+      "url": "https://open.spotify.com/track/6cXwtvNwOX1CxkoiF8iAax"
+    },
+    {
+      "album": {
         "name": "Why Not Right Now? (Live)",
         "url": "https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0"
       },
@@ -7100,6 +7140,28 @@
       "duration_ms": 414859,
       "name": "Open - Live",
       "url": "https://open.spotify.com/track/0mmcXH66QN5K2VPFjD50bF"
+    },
+    {
+      "album": {
+        "name": "Our God Will Go Before Us - The Hymns Of Matt Boswell And Matt Papa Vol. 3 (Live)",
+        "url": "https://open.spotify.com/album/200Hd3HTaC3sS2I0zS8uyU"
+      },
+      "artists": [
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        },
+        {
+          "name": "Matt Papa",
+          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271145,
+      "name": "Our God Will Go Before Us - Live",
+      "url": "https://open.spotify.com/track/5bDsETW4IEzLsfBcMus0Ez"
     },
     {
       "album": {
@@ -9142,7 +9204,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 283071,
       "name": "The Lamb, The Lion, The King",
       "url": "https://open.spotify.com/track/0Ca2E2ULgxYOkldsff6YRh"
@@ -10890,6 +10952,28 @@
       "duration_ms": 354756,
       "name": "You Have My Yes",
       "url": "https://open.spotify.com/track/4qiVh3U2Qgd5RPOWjZcbLU"
+    },
+    {
+      "album": {
+        "name": "You Keep Your Promises (Live)",
+        "url": "https://open.spotify.com/album/2MAjwkjMoI5T1mohul4DDn"
+      },
+      "artists": [
+        {
+          "name": "Charity Gayle",
+          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
+        },
+        {
+          "name": "Ryan Kennedy",
+          "url": "https://open.spotify.com/artist/79GBRmCCcohvXbXLvsv3nO"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304864,
+      "name": "You Keep Your Promises - Live",
+      "url": "https://open.spotify.com/track/0QgO8EeFMktU1vQUCduzFJ"
     },
     {
       "album": {

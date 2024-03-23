@@ -4,7 +4,7 @@
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Nia Archives
 
-112 songs - 6 hr 22 min
+113 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Alive \- Kumarion Remix](https://open.spotify.com/track/59KZgvG9AGQfsjxeIERwZm) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Alive \(Remixes\)](https://open.spotify.com/album/4Di7x7FhQepa3DNVdjRIMe) | 4:09 | 2023-12-01 |  |
 | [Alive \- One True God Remix](https://open.spotify.com/track/72B9xPjLnAYyigLEgy1Z2E) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o), [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Alive \(One True God Remix\)](https://open.spotify.com/album/572eGkvBysIHmsXZFNQst0) | 3:27 | 2023-12-01 | 2024-03-16 |
 | [All Night](https://open.spotify.com/track/68udexWA5NqZQh8YXJkHky) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [All Night](https://open.spotify.com/album/5crYO6MbmHmFPHW9G6hr3p) | 3:28 | 2023-12-22 |  |
-| [Anyway](https://open.spotify.com/track/0PhsygvObAaqJ62sP3nmdD) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh) | [Who Is HEYZ](https://open.spotify.com/album/2FmH2zuGYNbcof8068MQo1) | 2:41 | 2023-12-01 |  |
+| [Anyway](https://open.spotify.com/track/0PhsygvObAaqJ62sP3nmdD) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh) | [Who Is HEYZ](https://open.spotify.com/album/2FmH2zuGYNbcof8068MQo1) | 2:41 | 2023-12-01 | 2024-03-23 |
 | [Aura](https://open.spotify.com/track/538IL5DHWHdD0vRUFIfMoM) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Aura](https://open.spotify.com/album/44eYFSuXEyETT7OHV0dCZg) | 3:47 | 2023-12-01 |  |
 | [Aurora](https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [ÆON:TWO](https://open.spotify.com/album/6EJ9Vyo8NAzOLy3BhwQc4w) | 3:18 | 2023-12-01 |  |
 | [Automaton](https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [Parallel: S](https://open.spotify.com/album/59h7GpKrIO5bFUDE2ZoPfw) | 3:51 | 2023-12-01 | 2024-02-17 |
@@ -104,6 +104,7 @@
 | [SUNSHiNE OF YOUR WUB](https://open.spotify.com/track/413ir53trC0Nfh4Mhdmgws) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [SUNSHiNE OF YOUR WUB](https://open.spotify.com/album/5tght1mFiO2ezt5lz9L2IS) | 1:33 | 2024-02-16 |  |
 | [Superstars](https://open.spotify.com/track/7FbdXyyZOknEfjHxGmdQVp) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Superstars](https://open.spotify.com/album/6dvGmNFspBMuwkM09pJqkj) | 2:52 | 2023-12-01 | 2024-02-17 |
 | [Take ft\. Kimbra](https://open.spotify.com/track/65GMJ7KrLhUi8ya8uO9jJe) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Take ft\. Kimbra](https://open.spotify.com/album/40vNmeAq90YxNen2h1COXQ) | 2:50 | 2023-12-01 |  |
+| [Takedown](https://open.spotify.com/track/1w57rbbZmsbeMpeDiQoaHx) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Takedown](https://open.spotify.com/album/62Nx27SgklKgnjIDB1A99T) | 2:51 | 2024-03-22 |  |
 | [Techno Prank](https://open.spotify.com/track/2JqbTRtUZmkTIHxPyBkurQ) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Techno Prank](https://open.spotify.com/album/7GXvOmUgon63BfUk3AB5fS) | 3:23 | 2023-12-01 |  |
 | [Tell Me](https://open.spotify.com/track/31qDXfNdobsc8nGIt6ue9B) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1) | [We Are Deadbeats Vol\. 5](https://open.spotify.com/album/4Y406A1WDA2ao3rRSQTSpZ) | 2:34 | 2023-12-01 |  |
 | [The Cycle \- Breaka Remix](https://open.spotify.com/track/3gONus1BmzvnmGZ22LYm5t) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [Breaka](https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq) | [The Cycle \(Breaka Remix\)](https://open.spotify.com/album/4ZItZwGqBX5XtKGte6vpq7) | 5:13 | 2023-12-01 |  |

@@ -4,7 +4,7 @@
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-115 songs - 5 hr 42 min
+116 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,11 +54,12 @@
 | [Já Era](https://open.spotify.com/track/3A1tt0SbAa8FJAu3SUDcpw) | [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [DJ Caetano](https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ) | [Já Era](https://open.spotify.com/album/5L5tyAQX0cihzOp4d5q2JZ) | 2:36 | 2023-09-15 | 2024-01-20 |
 | [Jé Ka Sóró](https://open.spotify.com/track/4R4sLlLQ1Spt62pe8ce0fj) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Moikas](https://open.spotify.com/artist/2iKmQwzpWTpQ98t84WZ73C), [Tunde Sparrow](https://open.spotify.com/artist/0j6qf5oiRTM5yejXE1ZJVH) | [Jé Ka Sóró](https://open.spotify.com/album/3TkDRjv287cJL9Y7UEnUsL) | 2:40 | 2023-09-15 |  |
 | [larissa](https://open.spotify.com/track/3CgVFbz5OQDGuRURKKTvmE) | [Matheus Queiroz](https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [larissa](https://open.spotify.com/album/22pTsHQr1PEdldt3nqp0Ig) | 3:07 | 2023-09-15 | 2023-10-07 |
+| [Lembra?](https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV) | [Lembra?](https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU) | 2:07 | 2024-03-22 |  |
 | [Lembra?](https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC) | [D'Castelo](https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR), [BRUNNOASH](https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd) | [Lembra?](https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD) | 3:40 | 2023-09-15 |  |
 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2023-09-15 | 2023-10-28 |
 | [Luar](https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Luar](https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk) | 3:14 | 2024-01-12 |  |
 | [MAIS VERDE](https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4) | [MAIS VERDE](https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl) | 3:28 | 2024-03-01 |  |
-| [Mano Brown](https://open.spotify.com/track/14I2fRIAoRQRWK5AA07N4C) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Mano Brown](https://open.spotify.com/album/3h5F25cpPZx9zLu9Rlw2X3) | 3:45 | 2024-01-26 |  |
+| [Mano Brown](https://open.spotify.com/track/14I2fRIAoRQRWK5AA07N4C) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Mano Brown](https://open.spotify.com/album/3h5F25cpPZx9zLu9Rlw2X3) | 3:45 | 2024-01-26 | 2024-03-23 |
 | [Me Deixa](https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Me Deixa](https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk) | 2:29 | 2023-09-15 | 2023-12-09 |
 | [Me Diz](https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL) | [Neittan](https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n), [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns), [AlmaViva Música](https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG) | [Me Diz](https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP) | 2:42 | 2024-01-12 |  |
 | [Me Leva Pra Salvador](https://open.spotify.com/track/15kvE9e86WFN8ax2wEXbGo) | [NATH](https://open.spotify.com/artist/6dAUWqdIfuQKFV9i2kMiFx), [Malaca](https://open.spotify.com/artist/3pHKREKpBSNUJ9KAgwXAHg), [Fomo Jagun](https://open.spotify.com/artist/1ckaQGnfErMhzrL2RrQXIZ) | [Farol](https://open.spotify.com/album/2mlddzWgsslOC8nyUsNaLH) | 2:38 | 2024-03-08 |  |

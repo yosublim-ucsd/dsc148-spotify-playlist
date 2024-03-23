@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,351 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,526 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 10 | [Devil's Dance Floor](https://open.spotify.com/track/1QxiAWrrZ2uFrjyzsC5jFg) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 3:59 |
 | 11 | [If I Should Fall from Grace with God](https://open.spotify.com/track/1Z5rTFsClLFgsIGuZ7Ymt2) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 2:20 |
 | 12 | [The Foggy Dew](https://open.spotify.com/track/5wXGCPZNAuz0nOOQHGlvKp) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect: The Irish Sessions](https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B) | 3:11 |
-| 13 | [Botany Bay](https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 3:30 |
+| 13 | [Drunken Sailor](https://open.spotify.com/track/4CkIURmNRubxc12llcAiuh) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 2:38 |
 | 14 | [Johnny Jump Up/Morrison's Jig](https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 5:00 |
 | 15 | [A Fistful O' Roses](https://open.spotify.com/track/34m9v482iwNV9QHWfzNFq0) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Sleepin' Rough](https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW) | 4:47 |
 | 16 | [The Cruel Wars](https://open.spotify.com/track/6BadR8UdEijDv01ZafyO62) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Uncle Touchy Goes to College](https://open.spotify.com/album/3AtaamrqosM5VdORJN2WR9) | 3:07 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 18 | [Yesterday's Rebel](https://open.spotify.com/track/3rldsE7VbNG5jXv2LGNKF8) | [The O'Reillys and the Paddyhats](https://open.spotify.com/artist/5rY2KJh3KVITvw9bAz74pQ) | [Green Blood](https://open.spotify.com/album/4AAQCgvQvR3RRpJdxRvNCl) | 2:54 |
 | 19 | [The State Of Massachusetts](https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:52 |
 | 20 | [Salty Dog](https://open.spotify.com/track/5cttYnhe480emw7rofGZQ6) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 2:21 |
-| 21 | [Drunken Sailor](https://open.spotify.com/track/4CkIURmNRubxc12llcAiuh) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 2:38 |
+| 21 | [Botany Bay](https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 3:30 |
 | 22 | [I'll Tell Me Ma!](https://open.spotify.com/track/072N99XFVMb4e1iaYe63Tq) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hung, Drawn & Portered](https://open.spotify.com/album/5tRQ2XHBad9UiESyXihm3v) | 1:57 |
 | 23 | [The Tempest](https://open.spotify.com/track/6gXLYsEkqlhe41lWPdBKOx) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Westwinds](https://open.spotify.com/album/2XRertV5XG54s3PAiMBRlO) | 4:08 |
 | 24 | [Tura Lu](https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:44 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 42 | [Drink Some More](https://open.spotify.com/track/71MLYxrDVR7PjGmOPqghp9) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:19 |
 | 43 | [The Foreman O'rourke](https://open.spotify.com/track/5His2KyaJt6tuKCdeXCtcn) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Saints Preserve Us](https://open.spotify.com/album/0WcoMbjC7kzJJpqP488gTc) | 4:31 |
 | 44 | [Orange and the Green](https://open.spotify.com/track/3Czlbc2EbEiaIjSrWY5zKA) | [The Kreellers](https://open.spotify.com/artist/39ljFcdvjH7BB9OsVJwnBn) | [Sixth and Porter](https://open.spotify.com/album/7tn0ug4ECBWSrNSBxGVVo8) | 2:53 |
-| 45 | [Fuck You, I'm Drunk](https://open.spotify.com/track/5h5F15pdoLR3jhiC3JInsf) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Rats on Board](https://open.spotify.com/album/25N5DFrbDiyYepxO38maDT) | 2:46 |
-| 46 | [I'll Fly Away](https://open.spotify.com/track/7b1C6mz6egDlaZWavyKJv6) | [Flatfoot 56](https://open.spotify.com/artist/7eQrNqwmiIvFKEMvHRvPLB) | [Toil](https://open.spotify.com/album/301aLfcteHHAyyJUyC6ysY) | 2:44 |
+| 45 | [I'll Fly Away](https://open.spotify.com/track/7b1C6mz6egDlaZWavyKJv6) | [Flatfoot 56](https://open.spotify.com/artist/7eQrNqwmiIvFKEMvHRvPLB) | [Toil](https://open.spotify.com/album/301aLfcteHHAyyJUyC6ysY) | 2:44 |
+| 46 | [Fuck You, I'm Drunk](https://open.spotify.com/track/5h5F15pdoLR3jhiC3JInsf) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Rats on Board](https://open.spotify.com/album/25N5DFrbDiyYepxO38maDT) | 2:46 |
 | 47 | [Follow Me Up To Carlow](https://open.spotify.com/track/0FDTn9eV0JeoRYBcVP0Pdp) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect: The Irish Sessions](https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B) | 3:37 |
 | 48 | [Uncle Tommy](https://open.spotify.com/track/5UqIk0AUqq3AMrdk2cYiCJ) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 2:34 |
 | 49 | [The Beer Song](https://open.spotify.com/track/6ei9tbLjSdYpZatWSQfzQd) | [Seamus Kennedy](https://open.spotify.com/artist/0mOdLsbUeEcEy7ADN3Hhuf) | [On the Rocks](https://open.spotify.com/album/2aIBq4cJweU84E0PZuXa05) | 1:54 |
 | 50 | [Drunken Lazy Bastard](https://open.spotify.com/track/4FapNfUUsJMjiVQ30dhOH9) | [The Mahones](https://open.spotify.com/artist/1aTLhV7R5gUjrR60ubjz6V) | [Draggin' the Days](https://open.spotify.com/album/7jbaaaxYdLPSPjqYSCnAk7) | 3:27 |
 
-Snapshot ID: `MCxkNTMzOWY5MGNlMjZhOGJmY2ZjNWE4Y2QxNzVmN2NkODU3ZGYxMzA3`
+Snapshot ID: `MCxkMDE2ZTdiZDNiYWQ4OWZhZGZhZmRiMjE2ODU1Y2YwNTIyOGVmNjgw`

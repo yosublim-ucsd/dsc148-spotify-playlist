@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: ALDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,632 likes - 55 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,636 likes - 55 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [GTA](https://open.spotify.com/track/1EkP53aFoR5pZK9NA5PCR3) | [Joejoe](https://open.spotify.com/artist/2SGdTSyPqPFhyv74y6WEiD) | [GTA](https://open.spotify.com/album/0rL9hFfQka99rmouRhWsmr) | 2:46 |
 | 55 | [Acchiappasogni](https://open.spotify.com/track/7EtHLSD4ehwAMFTPEe0yxg) | [rikymp3](https://open.spotify.com/artist/2LynYweTFtq1V5J9HGsbe6), [Ceckpoint](https://open.spotify.com/artist/7bD9c1YU0jcI2dH2hpijwI) | [Acchiappasogni](https://open.spotify.com/album/2KKQiv8HRJcvuttLDfhggZ) | 2:11 |
 
-Snapshot ID: `MCw4NzVjNTcyYTY3MWZlMzUzMTc1MzJmZTY1MGRkNzMwYzU3ODI5YTQy`
+Snapshot ID: `MCw2MDM2MjcxNjNlNzc5NDRlMDU5MTBkZjM0OTVhNjE5N2NhZjM0MmY4`

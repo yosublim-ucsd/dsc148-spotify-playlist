@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 
 > Country tracks to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,387 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,502 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 | 11 | [It Ain't My Fault](https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Pawn Shop](https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT) | 3:36 |
 | 12 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 |
 | 13 | [Somethin' Bad \(with Carrie Underwood\) \- Duet with Carrie Underwood \[Album\]](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 |
-| 14 | [Cowboy Killer](https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [Cowboy Killer](https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf) | 2:12 |
-| 15 | [Don't Come Lookin'](https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 3:07 |
+| 14 | [Don't Come Lookin'](https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 3:07 |
+| 15 | [Cowboy Killer](https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [Cowboy Killer](https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf) | 2:12 |
 | 16 | [The Weekend](https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [The Devil Don't Sleep](https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb) | 3:07 |
 | 17 | [Hold My Horses](https://open.spotify.com/track/2n6YMK1vCr5xkDVJ7MdQHw) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:00 |
 | 18 | [TRUCK](https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:38 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 | 25 | [Poor Everybody Else](https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:45 |
 | 26 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
 | 27 | [Love You Again](https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again](https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p) | 2:53 |
-| 28 | [SOLD OUT](https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SOLD OUT](https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm) | 3:22 |
-| 29 | [Lights Come On](https://open.spotify.com/track/6JLiWJptfEdsz3TW4dnQGy) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [They Don't Know](https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L) | 3:14 |
+| 28 | [Lights Come On](https://open.spotify.com/track/6JLiWJptfEdsz3TW4dnQGy) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [They Don't Know](https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L) | 3:14 |
+| 29 | [SOLD OUT](https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SOLD OUT](https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm) | 3:22 |
 | 30 | [Kerosene](https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:05 |
 | 31 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 |
 | 32 | [Heart On Fire](https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Heart](https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 | 49 | [Rolex® On A Redneck](https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rolex® On A Redneck](https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH) | 2:59 |
 | 50 | [Stick That In Your Country Song](https://open.spotify.com/track/5lH14PEjAXYuMTz0Dd4L1D) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Stick That In Your Country Song](https://open.spotify.com/album/7wWQFNpOLyRK6y4Ch1NaQe) | 3:48 |
 
-Snapshot ID: `MCxmN2ViZTNiMjg3NjZmMjhhMTQ5MzRkMTllNWVmODRlNWEyZmZiZTZk`
+Snapshot ID: `MCw4Zjg3Y2M5ZGVkZWI0Y2UyMDQzZWFmZGYwNjBlNDA0NzZmODljMzVj`

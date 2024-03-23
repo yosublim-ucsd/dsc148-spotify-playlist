@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,125 likes - 235 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,122 likes - 235 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 234 | [Extra](https://open.spotify.com/track/0VQegnPupVm9mEwAMBhylj) | [Nick G](https://open.spotify.com/artist/34JaTpOGE15tJ1cJIfIsdD), [Young Truck](https://open.spotify.com/artist/6icQfbZCZWXEPOwpWrZixw) | [Extra](https://open.spotify.com/album/72wRKVCoeAFKnjUOzva2xL) | 2:53 |
 | 235 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
 
-Snapshot ID: `Mjg1MTc4OTAsMDAwMDAwMDAxYzg2OWVjMWE1ODUzOWJlMTQzMTAxNmU3NWU3ZTM3ZA==`
+Snapshot ID: `Mjg1MTkzMzAsMDAwMDAwMDAyODhhNjQzNDM5YmIwOGIyYTc0MzE3MzViOGYwY2Q4OA==`

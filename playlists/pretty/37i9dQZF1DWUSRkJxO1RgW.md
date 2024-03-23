@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 
 > Canciones que marcaron la década de los 80s en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,834 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,873 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 55 | [La Rubia Tarada](https://open.spotify.com/track/3lO1h0KPfhlXl2fSjaTcnh) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Sí o Sí \- Diario del Rock Argentino \- Sumo](https://open.spotify.com/album/0abeUjNSrovGBaaEavSfRm) | 3:42 |
 | 56 | [Lollipop](https://open.spotify.com/track/6sCc07DOnWLnivJXaYvt6A) | [Viuda E Hijas De Roque Enroll](https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef) | [Perlas y Diamantes](https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt) | 2:31 |
 | 57 | [La Llama de Tu Amor](https://open.spotify.com/track/4UzckxebrukyreeLZGw6z9) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 3:45 |
-| 58 | [Fantasma De Canterville](https://open.spotify.com/track/5o3XTDIlBbl66xPNLj1dol) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [El Fantasma De Canterville](https://open.spotify.com/album/5ftByhg3rSWly4WhsALmh8) | 3:48 |
-| 59 | [Sin Gamulán](https://open.spotify.com/track/3UrNJH307Ij2jarZxijcbc) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 3:14 |
+| 58 | [Sin Gamulán](https://open.spotify.com/track/3UrNJH307Ij2jarZxijcbc) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 3:14 |
+| 59 | [Fantasma De Canterville](https://open.spotify.com/track/5o3XTDIlBbl66xPNLj1dol) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [El Fantasma De Canterville](https://open.spotify.com/album/5ftByhg3rSWly4WhsALmh8) | 3:48 |
 | 60 | [El Ritual De La Banana](https://open.spotify.com/track/1LeGL6sChxxaQbFhKknOcG) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 3:39 |
 
-Snapshot ID: `MCw5OWNmZDQwYTZjZWQyZGU1NDBiMmI5ZjdlYzQ2MTJlM2NiYjUyZmRm`
+Snapshot ID: `MCw1NGNiMDM4ZGY4NjNkZTZmMzA5MGI0MDc5ZmY0ZmQzNzY3NzdiYjg0`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ou vc dança ou o grave t balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,694 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,530 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mtg Quero Te Encontrar](https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c) | [DJ JZ](https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Mininin](https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE), [Silvanno Salles](https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B), [DJ LG PROD](https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA) | [Mtg Quero Te Encontrar](https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh) | 2:57 |
+| 1 | [Mtg Quero Te Encontrar](https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c) | [DJ JZ](https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Mininin](https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE), [DJ LG PROD](https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA), [Silvanno Salles](https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B) | [Mtg Quero Te Encontrar](https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh) | 2:57 |
 | 2 | [Lembra Aquele Cara](https://open.spotify.com/track/4O4zPFoJ5HWnqbGYlCA2qc) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [Mc Pelourinho](https://open.spotify.com/artist/7xjBn5rLzBR2MsY3SN5odx), [DJ Kennedy OBraboo](https://open.spotify.com/artist/0We5nkC71G4o6OHkLfx9uh) | [Vamo de Nova](https://open.spotify.com/album/7EO5s1F4RLF6gS3kycvxAt) | 2:05 |
 | 3 | [De 10 Mulher 11 É Maluca](https://open.spotify.com/track/1jN0ysNJ2d9VZwVdlgspjr) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs), [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY) | [De 10 Mulher 11 É Maluca](https://open.spotify.com/album/5geYQEhBL2t9iqTsBKgkPe) | 1:55 |
 | 4 | [TUMBÁTUM](https://open.spotify.com/track/24R0oyjvhV4HIFFvoK3XkP) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c), [Dj Vitin do Pc](https://open.spotify.com/artist/2GAcS9WZyORyDBzd5bwfU5), [MC JF](https://open.spotify.com/artist/70l3FIdU2mVxemr3ahhgFs), [MC NAHARA](https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS) | [Baile do Bruxo \(DELUXE\)](https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA) | 2:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 69 | [Tipo Hollywood](https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [Tipo Holywood](https://open.spotify.com/album/5W7hjyoWwy2KGEUTCN0L6z) | 1:49 |
 | 70 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 
-Snapshot ID: `MCwxMTI4MGQ4MTRkNTdkMTk0OWZjMGUzN2Y2MGE4ZGNhYTI2NGI1YmY4`
+Snapshot ID: `MCw5NmI5M2NlYjk3YThhZTU3MjllMjM0ZWZiMjdmNDA2YzRkYTM1NDA4`

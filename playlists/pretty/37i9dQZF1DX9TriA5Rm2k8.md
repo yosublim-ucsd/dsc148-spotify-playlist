@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TriA5Rm2k8.md) - [plain]
 
 > Just good energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,920 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,980 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TriA5Rm2k8.md) - [plain]
 | 34 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 |
 | 35 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 |
 | 36 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
-| 37 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:32 |
-| 38 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
+| 37 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
+| 38 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:32 |
 | 39 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 |
 | 40 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 |
 | 41 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TriA5Rm2k8.md) - [plain]
 | 66 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 |
 | 67 | [SOS \(feat\. Aloe Blacc\)](https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 2:37 |
 | 68 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 |
-| 69 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 |
-| 70 | [You Were Right](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 3:59 |
+| 69 | [You Were Right](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 3:59 |
+| 70 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 |
 
-Snapshot ID: `MCxjNjE5YTg0NzUzMjAxZTM5NjEwNGM4YjEyMWY3ZDUwNTI4N2RiMjdi`
+Snapshot ID: `MCw4MGQ1NzMwMmQwNjVmZjk4MzdlOGU0NTdkYzUxNGFjOTQxYTE5Zjhk`

@@ -1,12 +1,12 @@
 {
   "description": "Upbeat songs that will get the whole family feelin' good!",
-  "num_followers": 7370,
+  "num_followers": 7394,
   "original_name": "Feeling Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDNlN2Y0ZmJjNzY1NDE1NWYwMTU3Mjk2NGFjNTM1MmMyMzUwNmNh",
+  "snapshot_id": "MCw1MDMyYzVhNTkxOTQ1NTdjZjQ0YTZlZThiMTdmNmRlMTBjNTVmN2Jm",
   "tracks": [
     {
       "added_at": "2023-08-18 10:08:43",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-08-18 10:08:43",
       "album": {
-        "name": "Better When I'm Dancin'",
-        "url": "https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 176266,
-      "name": "Better When I'm Dancin'",
-      "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
-    },
-    {
-      "added_at": "2023-08-18 10:08:43",
-      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 215093,
       "name": "September",
       "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+      "added_at": "2023-08-18 10:08:43",
+      "album": {
+        "name": "Better When I'm Dancin'",
+        "url": "https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 176266,
+      "name": "Better When I'm Dancin'",
+      "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
     },
     {
       "added_at": "2023-08-18 10:08:43",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-08-18 10:08:43",
       "album": {
+        "name": "D-D-Don't Don't Stop the Beat",
+        "url": "https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7"
+      },
+      "artists": [
+        {
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6"
+    },
+    {
+      "added_at": "2023-08-18 10:08:43",
+      "album": {
         "name": "The Exciting Wilson Pickett",
         "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2023-08-18 10:08:43",
       "album": {
-        "name": "TALKING IS HARD (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2bVVESepVYULITlO6mtmoy"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Shut Up and Dance",
-      "url": "https://open.spotify.com/track/0kzw2tRyuL9rzipi5ntlIy"
-    },
-    {
-      "added_at": "2023-08-18 10:08:43",
-      "album": {
         "name": "18 Months",
         "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-08-18 10:08:43",
       "album": {
+        "name": "TALKING IS HARD (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2bVVESepVYULITlO6mtmoy"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Shut Up and Dance",
+      "url": "https://open.spotify.com/track/0kzw2tRyuL9rzipi5ntlIy"
+    },
+    {
+      "added_at": "2023-08-18 10:08:43",
+      "album": {
         "name": "Hold My Hand",
         "url": "https://open.spotify.com/album/6uZYkBePCdUP1LltEt9Qin"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 227343,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/1i1rNVtxbE7rdFfpHuNq2j"
-    },
-    {
-      "added_at": "2023-08-18 10:08:43",
-      "album": {
-        "name": "Cut To The Feeling",
-        "url": "https://open.spotify.com/album/6S9qcfPMsqtYQXVyeC7Hip"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 207959,
-      "name": "Cut To The Feeling",
-      "url": "https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f"
     },
     {
       "added_at": "2023-08-18 10:08:43",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-08-18 10:08:43",
       "album": {
-        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
-        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
+        "name": "Cut To The Feeling",
+        "url": "https://open.spotify.com/album/6S9qcfPMsqtYQXVyeC7Hip"
       },
       "artists": [
         {
-          "name": "Junior Senior",
-          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 181906,
-      "name": "Move Your Feet",
-      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
+      "duration_ms": 207959,
+      "name": "Cut To The Feeling",
+      "url": "https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f"
     },
     {
       "added_at": "2023-08-18 10:08:43",
@@ -851,6 +851,26 @@
     {
       "added_at": "2023-08-18 10:08:43",
       "album": {
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
+    },
+    {
+      "added_at": "2023-08-18 10:08:43",
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 164000,
       "name": "Sunshine - From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d",
       "url": "https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp"
-    },
-    {
-      "added_at": "2023-08-18 10:08:43",
-      "album": {
-        "name": "Europop",
-        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
     },
     {
       "added_at": "2023-08-18 10:08:43",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-08-18 10:08:43",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 166898,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl"
-    },
-    {
-      "added_at": "2023-08-18 10:08:43",
-      "album": {
         "name": "Link",
         "url": "https://open.spotify.com/album/0fxd2fulWGSw4pFykqbuVR"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 129505,
       "name": "Link",
       "url": "https://open.spotify.com/track/11Yft9qfxqdK9sURatUNZ1"
+    },
+    {
+      "added_at": "2023-08-18 10:08:43",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 166898,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl"
     },
     {
       "added_at": "2023-08-18 10:08:43",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-08-18 10:08:43",
       "album": {
+        "name": "All The Feels",
+        "url": "https://open.spotify.com/album/6Zc4IZIL9HypUUwNi5Xoq4"
+      },
+      "artists": [
+        {
+          "name": "Sam Moran",
+          "url": "https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Sunny Day - Hope",
+      "url": "https://open.spotify.com/track/04KoUwyZYopfOfBFhgqQo9"
+    },
+    {
+      "added_at": "2023-08-18 10:08:43",
+      "album": {
         "name": "Magic Day",
         "url": "https://open.spotify.com/album/7CdnhWwYTOWWdMKlxJFwcp"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 179333,
       "name": "Magic Day",
       "url": "https://open.spotify.com/track/5X0GFoSX2gq0VfPqgsK3Jf"
-    },
-    {
-      "added_at": "2023-08-18 10:08:43",
-      "album": {
-        "name": "All The Feels",
-        "url": "https://open.spotify.com/album/6Zc4IZIL9HypUUwNi5Xoq4"
-      },
-      "artists": [
-        {
-          "name": "Sam Moran",
-          "url": "https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Sunny Day - Hope",
-      "url": "https://open.spotify.com/track/04KoUwyZYopfOfBFhgqQo9"
     },
     {
       "added_at": "2023-08-18 10:08:43",

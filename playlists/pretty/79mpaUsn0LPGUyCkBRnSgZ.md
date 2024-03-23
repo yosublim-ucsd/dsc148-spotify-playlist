@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 471 songs - 1 day 6 hr 35 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 476 songs - 1 day 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -479,5 +479,10 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 469 | [Tarkus \(i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus\) \( 2012 \- Remaster\)](https://open.spotify.com/track/7fLEJNwcW60W74XehVmR5p) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus](https://open.spotify.com/album/5yByhxbOs8FOU2UutO7AGO) | 20:43 |
 | 470 | [I'm Always Saying Sorry](https://open.spotify.com/track/4EIM8gF1NKSIXR2QqRHMuW) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Some Things Break](https://open.spotify.com/album/1QGVFDfyPCVEfKli1J0OSz) | 3:30 |
 | 471 | [Poem \(1\)](https://open.spotify.com/track/0GWFbxN3SyghTvvFu84rTW) | [Bruno Pernadas](https://open.spotify.com/artist/5LEK1kaklDfReP092sVvGd) | [Those Who Throw Objects at the Crocodiles Will Be Asked to Retrieve Them](https://open.spotify.com/album/2NYnAb4TkXGHrY8wZ9uZwT) | 0:27 |
+| 472 | [3 Sisters](https://open.spotify.com/track/0AO3ejChi1gRBWvUDMH2kg) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:10 |
+| 473 | [Sun Girl](https://open.spotify.com/track/4CFHldOcqUuepVyObZXfSb) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 5:52 |
+| 474 | [Real House](https://open.spotify.com/track/62R903SYfJm79xxLhjEhyW) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 5:58 |
+| 475 | [Carry On](https://open.spotify.com/track/4bjvLvKovcWqZwDbXT5QQX) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 4:25 |
+| 476 | [Powderfinger \- 2016 Remaster](https://open.spotify.com/track/5F1CxsOXX6altKaKlEPuox) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Rust Never Sleeps](https://open.spotify.com/album/2QqocFdpBkxOBLcIRo6UuJ) | 5:30 |
 
-Snapshot ID: `MTQ0MSwyZDQ2M2E2ZDgzOGFkNmU1YzljYWU5NjdiODExMzdjYzlhMWRmMTdi`
+Snapshot ID: `MTQ0OCw1MjdhMzlkZTE1MDdkMDJlZTFmMWFhYWM2OWU3OWQ1MDU0YmRkY2Vh`

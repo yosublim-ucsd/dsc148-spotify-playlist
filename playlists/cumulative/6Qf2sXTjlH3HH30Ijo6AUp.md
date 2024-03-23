@@ -4,7 +4,7 @@
 
 > Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower!
 
-253 songs - 14 hr 43 min
+254 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Rhythm Is A Dancer \- 7" Edit](https://open.spotify.com/track/087fGGq27BXXpxKAlbBwNM) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [90s Snap! Hits](https://open.spotify.com/album/5Zcq9W0x0SNbuN9oGp52ub) | 3:45 | 2023-01-03 | 2023-01-18 |
 | [Ride](https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:34 | 2023-12-15 |  |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-06-07 |  |
-| [Rock DJ](https://open.spotify.com/track/7oQSevUCbYs4QawXTHQVV1) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sing When You're Winning](https://open.spotify.com/album/0fpjbJvjq6Zxj8xoIjX31m) | 4:20 | 2024-02-09 |  |
+| [Rock DJ](https://open.spotify.com/track/7oQSevUCbYs4QawXTHQVV1) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sing When You're Winning](https://open.spotify.com/album/0fpjbJvjq6Zxj8xoIjX31m) | 4:20 | 2024-02-09 | 2024-03-23 |
 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 4:11 | 2022-06-07 |  |
 | [Runaway](https://open.spotify.com/track/6csX1JjmeoLhGqMBXGnZF0) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [Forgiven, Not Forgotten](https://open.spotify.com/album/4acB71ZhsfYGdTdqdbpzLK) | 4:25 | 2022-07-18 |  |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/2TUSTQCGVaD40uGblIudyN) | [SMYLES](https://open.spotify.com/artist/7bCRnTi1yDFfLbDFkMqvaS) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/0z9vqXY9cOSeCP6hqgd83J) | 2:50 | 2022-06-13 | 2022-07-19 |
@@ -246,6 +246,7 @@
 | [Vision Thing](https://open.spotify.com/track/1faZr55NQ9PtbhlabTibe9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Vision Thing](https://open.spotify.com/album/42CadEfNVFqeDbviUtGbA8) | 4:39 | 2022-07-18 | 2022-08-25 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2022-06-07 |  |
 | [Viva La Vida](https://open.spotify.com/track/1XdcX3CiU2bikPlZA05uo3) | [SMYLES](https://open.spotify.com/artist/7bCRnTi1yDFfLbDFkMqvaS) | [Viva La Vida](https://open.spotify.com/album/439n8EcF9LtwOL7V5GctdD) | 3:22 | 2023-01-11 | 2023-02-18 |
+| [Voices Are Rising](https://open.spotify.com/track/5MT6upOQpkjvqKwZCSLpnV) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Voices Are Rising](https://open.spotify.com/album/0GvNxN0mM66pWwxH3SZH1l) | 3:13 | 2024-03-22 |  |
 | [Want to Want Me](https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:27 | 2022-06-07 | 2023-02-25 |
 | [Warm](https://open.spotify.com/track/2DCTvd3tTAfyg0a1to4STY) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Warm](https://open.spotify.com/album/0j1wU0GZ4LbqqXxiYQN2Jn) | 3:03 | 2022-06-07 | 2022-06-28 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2022-07-18 |  |

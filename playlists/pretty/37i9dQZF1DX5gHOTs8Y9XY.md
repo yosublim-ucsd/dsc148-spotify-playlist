@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,697 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,784 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 59 | [I Could Write a Book](https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:27 |
 | 60 | [If I Had You](https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers](https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx) | 3:50 |
 | 61 | [Köln, January 24, 1975, Pt\. II C \- Live](https://open.spotify.com/track/4FMI4Ln1LhyxGldkNXan5e) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Köln Concert](https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg) | 6:56 |
-| 62 | [Blue Rondo à la Turk](https://open.spotify.com/track/7CrNF9zL7tIQ2269DVxzST) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 6:43 |
-| 63 | [Visa från Utanmyra](https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 4:33 |
+| 62 | [Mean To Me \- Remastered/1998](https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:10 |
+| 63 | [Blue Rondo à la Turk](https://open.spotify.com/track/7CrNF9zL7tIQ2269DVxzST) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 6:43 |
 | 64 | [Dedicated To You](https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:32 |
-| 65 | [Mean To Me \- Remastered/1998](https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:10 |
-| 66 | [Dindi](https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:41 |
+| 65 | [Dindi](https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:41 |
+| 66 | [Visa från Utanmyra](https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 4:33 |
 | 67 | [Sing, Sing, Sing](https://open.spotify.com/track/61znp1Iy11bdJ2YAbwaqw7) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [Ken Burns Jazz\-Benny Goodman](https://open.spotify.com/album/2fIAk4u4vd8yy8th8ZSlbS) | 8:40 |
 | 68 | [Let's Do It](https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:05 |
 | 69 | [I Remember Clifford \- Rudy Van Gelder Edition; 2007 Digital Remaster](https://open.spotify.com/track/6KawDsALZTY6FA8CE1NLZK) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Volume 3](https://open.spotify.com/album/63pHpN0nqkNbaeP2UEexY0) | 7:09 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 96 | [But Not For Me](https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 3:05 |
 | 97 | [Stevie](https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:22 |
 | 98 | [Tenor Madness \- Rudy Van Gelder Remaster](https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 12:13 |
-| 99 | [Eleanor Rigby \- Remastered](https://open.spotify.com/track/4wZEOJRjsFktnovLtbdNQB) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Motions & Emotions](https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV) | 3:05 |
-| 100 | [Alone Together](https://open.spotify.com/track/7lApnj6eswDJvT8mqGrut6) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [New York Jazz](https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm) | 4:51 |
+| 99 | [Alone Together](https://open.spotify.com/track/7lApnj6eswDJvT8mqGrut6) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [New York Jazz](https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm) | 4:51 |
+| 100 | [Eleanor Rigby \- Remastered](https://open.spotify.com/track/4wZEOJRjsFktnovLtbdNQB) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Motions & Emotions](https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV) | 3:05 |
 
-Snapshot ID: `MCw5NDBmMmZiMzViNGQ4ODg4MzBiNWIyNmQzMDE4NzQ0Njk0ZWI3NGRk`
+Snapshot ID: `MCwzODUzZmFjNmNjODQ5NGIwNjViZGVjOTIyYjU4MTEwNDNmOWU4ZDEx`

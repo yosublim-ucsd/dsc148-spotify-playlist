@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: CUBE",
-  "num_followers": 9572,
+  "num_followers": 9580,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmFlMTcyYThlZjA1ZmQ2NzgxNmQ0MGFiMjEwNWU5NWRkMThmZjQw",
+  "snapshot_id": "MCw0OGQ3ODBiMjNjYzc2NzQ4ZDBkNTkzNTk2ZWRiMDZlM2Q3NzUwNDkw",
   "tracks": [
     {
       "added_at": "2024-03-21 15:39:29",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-03-21 15:39:29",
       "album": {
+        "name": "SEPT 5TH",
+        "url": "https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 200223,
+      "name": "Too Deep",
+      "url": "https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x"
+    },
+    {
+      "added_at": "2024-03-21 15:39:29",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 152250,
       "name": "West",
       "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
-    },
-    {
-      "added_at": "2024-03-21 15:39:29",
-      "album": {
-        "name": "SEPT 5TH",
-        "url": "https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 200223,
-      "name": "Too Deep",
-      "url": "https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x"
     },
     {
       "added_at": "2024-03-21 15:39:29",
@@ -1183,18 +1183,22 @@
     {
       "added_at": "2024-03-21 15:39:29",
       "album": {
-        "name": "Good People / Afterhours",
-        "url": "https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4"
+        "name": "Last One",
+        "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
       },
       "artists": [
         {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        },
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
         }
       ],
-      "duration_ms": 171858,
-      "name": "Chill Pad Deluxe",
-      "url": "https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM"
+      "duration_ms": 181823,
+      "name": "Last One",
+      "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
     },
     {
       "added_at": "2024-03-21 15:39:29",
@@ -1219,22 +1223,18 @@
     {
       "added_at": "2024-03-21 15:39:29",
       "album": {
-        "name": "Last One",
-        "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
+        "name": "Good People / Afterhours",
+        "url": "https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4"
       },
       "artists": [
         {
-          "name": "Savannah R\u00e9",
-          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
-        },
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
         }
       ],
-      "duration_ms": 181823,
-      "name": "Last One",
-      "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
+      "duration_ms": 171858,
+      "name": "Chill Pad Deluxe",
+      "url": "https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM"
     },
     {
       "added_at": "2024-03-21 15:39:29",

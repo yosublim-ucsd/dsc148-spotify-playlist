@@ -4,7 +4,7 @@
 
 > Il meglio della musica indipendente italiana, aggiornata il terzo mercoledì di ogni mese\. Cover: <a href="spotify:artist:1ByonnOisC5Owt0tfsyzGc">Coca Puma</a>
 
-1,168 songs - 2 day 10 hr 6 min
+1,170 songs - 2 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Equinox Fall](https://open.spotify.com/track/7idhTgLH1JA6n5rVwSCt9P) | [Sunmei](https://open.spotify.com/artist/4cRFw0VPFmwucWCPXoJ36M) | [Equinox Fall](https://open.spotify.com/album/1sREiONOGG50UdW0E3Mhj1) | 3:14 | 2023-05-24 | 2023-06-21 |
 | [erasmus](https://open.spotify.com/track/5rm5BSRzvB22JIzYohX8ag) | [polare](https://open.spotify.com/artist/6U6S3xGYUwp8garTHJiYcJ) | [erasmus](https://open.spotify.com/album/7BILEEBYoTNGYgFc0xiu8K) | 2:57 | 2022-09-11 | 2022-10-15 |
 | [Erkeysette](https://open.spotify.com/track/24oKu2ajsqXAhB351IH1S2) | [Enfores](https://open.spotify.com/artist/3AehfYV3tDVbHMU8SlV77u) | [Erkeysette](https://open.spotify.com/album/4UzkJ6UTSfSw1vdY0d1lHo) | 2:30 | 2024-03-20 |  |
+| [Ero Oro](https://open.spotify.com/track/79h0p7LxmMZahCWA2CLt3N) | [Sidy](https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT) | [Ero Oro](https://open.spotify.com/album/2cLKtzACjrJa1ScOBoXIpe) | 2:28 | 2024-03-22 |  |
 | [ERRORI](https://open.spotify.com/track/1tz8tATjdVNvwvkPOl0U4K) | [PARIDE](https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv) | [ERRORI](https://open.spotify.com/album/64j02x8T8B3F7d0rs87jMZ) | 3:02 | 2023-01-26 | 2023-02-24 |
 | [ESAGERATA](https://open.spotify.com/track/7w6ywduIXKd5NvQiZzduju) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [ESAGERATA](https://open.spotify.com/album/3YJWHl0WUHIDErzwuna4l0) | 2:34 | 2024-01-24 | 2024-02-22 |
 | [ESAGERO EMOZIONI](https://open.spotify.com/track/4LwFRgfMW5LCStueaVtGh8) | [FDP](https://open.spotify.com/artist/5vX1tbFG6NuGSbwWO420JO), [Zerbo](https://open.spotify.com/artist/3cxzA1W08BBDKlAtVG09Zg) | [ESAGERO EMOZIONI](https://open.spotify.com/album/5PPlMx6qAuRLiIm8IEYpqJ) | 3:30 | 2022-05-19 | 2022-06-03 |
@@ -1004,7 +1005,7 @@
 | [Spettro](https://open.spotify.com/track/7pmb6GbnwFNU9uUsBoF7wG) | [GBRESCI](https://open.spotify.com/artist/3rDfIbUdjA6QL4Y32wEpb2) | [Giochi Stupidi](https://open.spotify.com/album/7c9FpQId8Hvbw0i3hHeV3m) | 2:52 | 2023-06-20 | 2023-08-30 |
 | [Spiffero](https://open.spotify.com/track/0ey0FRonzZU005CDAU13Cz) | [Noverte](https://open.spotify.com/artist/3dF6GB27ak4klpdCEHlUro) | [Con uno sguardo solo](https://open.spotify.com/album/1z8qX6mJ6GHrAYmJvP0RZN) | 1:47 | 2023-09-26 | 2023-10-19 |
 | [Spine](https://open.spotify.com/track/10zfYjJzNKvomxNm4um2Jh) | [Camylla Sky](https://open.spotify.com/artist/3YjXf4ZX1PQnCO5W5hdV1L), [Tiasnow](https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe) | [Spine](https://open.spotify.com/album/1OTNRPf0jih4DRvWbaAcKz) | 2:37 | 2023-04-26 | 2023-05-24 |
-| [SPIRITO](https://open.spotify.com/track/6IZp7TxrMCj1e7gLnCHjxy) | [Foriero](https://open.spotify.com/artist/4MI0uLVTwd4pOKNXMha2FL) | [SPIRITO](https://open.spotify.com/album/5JBEg4lSHVqkBr45YKiY9G) | 4:51 | 2024-03-20 |  |
+| [SPIRITO](https://open.spotify.com/track/6IZp7TxrMCj1e7gLnCHjxy) | [Foriero](https://open.spotify.com/artist/4MI0uLVTwd4pOKNXMha2FL) | [SPIRITO](https://open.spotify.com/album/5JBEg4lSHVqkBr45YKiY9G) | 4:51 | 2024-03-20 | 2024-03-23 |
 | [Spirito della Domenica](https://open.spotify.com/track/49BcVeFV0VuU9v73JxQFL1) | [Arieti Rilassati](https://open.spotify.com/artist/6TWgi8oIy1OFh9P7EglVUt) | [Vacanza Tranquilla](https://open.spotify.com/album/4Sh3OGcoT7T8ViG262Wgwf) | 4:58 | 2022-08-18 | 2022-11-04 |
 | [Splenderò](https://open.spotify.com/track/3deYxvbyqmeJkV7NV2LgBE) | [Guayota](https://open.spotify.com/artist/71BVmpmb7W3zGyDIv2ScZZ) | [Splenderò](https://open.spotify.com/album/1Dj64PdyyTZRouXVhdDtZA) | 3:21 | 2023-10-18 | 2023-11-23 |
 | [Spunta Blu](https://open.spotify.com/track/40ifRw1z1s0gPZmiPkFYgc) | [Il Conte Biagio](https://open.spotify.com/artist/375HNJaEHOTNzJiTY3yrNB) | [Spunta Blu](https://open.spotify.com/album/3YeeLx8JiL85Y9HyGxikVq) | 2:25 | 2022-02-24 | 2022-03-18 |
@@ -1031,6 +1032,7 @@
 | [Struggle](https://open.spotify.com/track/4y38EplYu8PVUqowLUPjql) | [Ngawa](https://open.spotify.com/artist/0k1NRT7Wbw1bjbjygEBtE7), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [Struggle](https://open.spotify.com/album/2ZXPPqe1v28BrhhBfAOmvT) | 3:30 | 2022-04-08 | 2022-05-06 |
 | [Stupido](https://open.spotify.com/track/1HbeSRRvgFWCRg7B6GAG7o) | [Voglio Tutto](https://open.spotify.com/artist/0l7l0zslmsXWkHCM6hZ34C) | [Stupido](https://open.spotify.com/album/3x5ls4mKI2qM6AGl4hPSCx) | 2:19 | 2022-10-27 | 2022-12-01 |
 | [Stupido cielo](https://open.spotify.com/track/5BMtEGrwyx2FXnOPxm9CKA) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG), [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Stupido cielo](https://open.spotify.com/album/55eX2Z5Nm3Dv6uaS01NkXX) | 2:55 | 2022-07-04 | 2023-01-06 |
+| [su//giù \(fuoco\)](https://open.spotify.com/track/2DsfDZz9Omn56haGBha1UQ) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [su//giù \(fuoco\)](https://open.spotify.com/album/3ikPXBTfSbzhgy0AcZCnuf) | 3:19 | 2024-03-22 |  |
 | [Sui sedili della metro](https://open.spotify.com/track/0KlAZX612EFzgAfojYvN3L) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Sui sedili della metro](https://open.spotify.com/album/1Zp0SNFItqjRJxuyRD0ors) | 2:55 | 2022-06-02 | 2022-07-08 |
 | [suitable](https://open.spotify.com/track/0xLaFN3LOpWkVoKSKhPqD7) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [suitable](https://open.spotify.com/album/19GdwqMEVjVVQzUZQxrUez) | 3:18 | 2022-08-23 | 2023-01-06 |
 | [sumikko gurashi](https://open.spotify.com/track/0pBXe49nzIs7AxOZFQKLTC) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [sumikko gurashi](https://open.spotify.com/album/6G9I4Zx3jbGzkMXW8wBviE) | 1:37 | 2022-02-17 | 2022-02-23 |
@@ -1090,7 +1092,7 @@
 | [TUTUFAFA](https://open.spotify.com/track/456e9P13jSXqux9ENfZI32) | [Rosolo Roso](https://open.spotify.com/artist/4v6IUouJ3henBgdkXXBfLg), [G Coal](https://open.spotify.com/artist/2vvXqIv6N4huXqIngC3ces) | [TUTUFAFA](https://open.spotify.com/album/6FVUY8bQuCWv63VzbC8OOw) | 3:01 | 2023-07-04 | 2023-08-23 |
 | [Twenty Something](https://open.spotify.com/track/172v9IHQI0hCOjq8AI2cnC) | [Six Impossible Things](https://open.spotify.com/artist/0pqpvyGrvayjTd66nAD3I7) | [Twenty Something](https://open.spotify.com/album/7iCLcQ9JCgxsQHOfjnBemZ) | 3:50 | 2023-09-26 | 2023-10-19 |
 | [Ubriaca](https://open.spotify.com/track/4QmdX30DPcnVPnN2mJxxNz) | [Kahlo](https://open.spotify.com/artist/7pR2B1Mq25ns1ZTfFND45F) | [Ubriaca](https://open.spotify.com/album/4xWzCOWzO1QYLZHiUoidpS) | 2:45 | 2022-05-27 | 2022-08-24 |
-| [Uccide](https://open.spotify.com/track/0r3qP7AjiZoMRwjKYY56Z5) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [Uccide](https://open.spotify.com/album/2GubA9NB8y3n2M5HLlucPm) | 2:08 | 2024-03-20 |  |
+| [Uccide](https://open.spotify.com/track/0r3qP7AjiZoMRwjKYY56Z5) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [Uccide](https://open.spotify.com/album/2GubA9NB8y3n2M5HLlucPm) | 2:08 | 2024-03-20 | 2024-03-23 |
 | [Ucciderò](https://open.spotify.com/track/37U1dpnnOPunrt7sXoA7Zh) | [Kinder Garden](https://open.spotify.com/artist/7By2W4RhZGhK9wCYGQr1Q1) | [Ucciderò](https://open.spotify.com/album/4Ff1liKfmFMWViEw1wPxdE) | 3:36 | 2022-03-03 | 2022-05-20 |
 | [Ultima Fila](https://open.spotify.com/track/3pXbDo10ewaknGSSAwy2mY) | [Asma](https://open.spotify.com/artist/6nVowfGUUSzVhpFyb7JEkP) | [Ultima Fila](https://open.spotify.com/album/2qqiW5N4cXLMO3CP9JlAXK) | 2:22 | 2022-11-10 | 2022-12-01 |
 | [Ultima Volta](https://open.spotify.com/track/2JmznHCl5H3yxPy0djtb7L) | [Sunken](https://open.spotify.com/artist/167oxjyR82Rs8XinJirzvm), [K beezy 28](https://open.spotify.com/artist/5SbWJnRRbZQU024VlOPWly) | [Ultima Volta](https://open.spotify.com/album/48bb7vDwxbvadcnpR5gRt2) | 3:29 | 2023-07-18 | 2023-09-27 |

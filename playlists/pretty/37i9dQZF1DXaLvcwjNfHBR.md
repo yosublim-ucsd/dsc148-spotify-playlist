@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,715 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,765 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 |
 | 2 | [Beautiful Eyes](https://open.spotify.com/track/6kBIuwSSt72PeCSMIYwQw6) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Beautiful Eyes](https://open.spotify.com/album/3udwcj1SRGUKxWCgYPanR4) | 2:49 |
-| 3 | [Nostalgia](https://open.spotify.com/track/0hhvzMnYVZuCt0pwsAgxyp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/4BAVhpH8KMzD5cqlGmS3Db) | 2:44 |
+| 3 | [Nostalgia](https://open.spotify.com/track/3AgHs7svu3fb2d5NguwfXY) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt) | 2:44 |
 | 4 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
 | 5 | [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 |
 | 6 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 49 | [Empty](https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Empty](https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ) | 3:18 |
 | 50 | [Holy Smokes](https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holy Smokes](https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP) | 3:15 |
 
-Snapshot ID: `MCxiOTZiZGVhYTgzNjc2ZjU2NTMzY2I4ZDgwZjliN2VkNDBiZDQ2YmY3`
+Snapshot ID: `MCw5ZjJmNDYzZTYzYTViNGViMGJlNjc3Y2VlNDk4ZTg2MWNhYzYzYjc1`

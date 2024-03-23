@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 
 > Move your body with your favorite 90s songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,935 likes - 75 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,319 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 35 | [Waiting for Tonight](https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:06 |
 | 36 | [I Wish \- Radio Edit](https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE) | 4:12 |
 | 37 | [Ride on Time](https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:32 |
-| 38 | [The Power \(7" Version\)](https://open.spotify.com/track/0gRhXiFgrIz8OfSW4up1k1) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [The Power](https://open.spotify.com/album/02RKBqDzmc2uSo3L1CZM04) | 3:47 |
-| 39 | [Be My Lover](https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Sweet Dreams](https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ) | 4:00 |
+| 38 | [Be My Lover](https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Sweet Dreams](https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ) | 4:00 |
+| 39 | [The Power \(7" Version\)](https://open.spotify.com/track/0gRhXiFgrIz8OfSW4up1k1) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [The Power](https://open.spotify.com/album/02RKBqDzmc2uSo3L1CZM04) | 3:47 |
 | 40 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 |
 | 41 | [My Boo \- Hitman's Club Mix](https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU) | [Ghost Town DJs](https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT) | [My Boo \(Hitman's Club Mix\)](https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi) | 5:46 |
 | 42 | [More And More \- Single Version](https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Love Is Not Sex](https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo) | 4:13 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 45 | [Mr\. Vain Recall \- Radio Edit](https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok) | [Culture Beat](https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8) | [Mr\. Vain Recall](https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO) | 3:33 |
 | 46 | [You Got The Love \- New Voyager Radio Edit](https://open.spotify.com/track/1otmOO4ilwTSIUDBnR6wCF) | [The Source & Candi Staton](https://open.spotify.com/artist/2xkmkfqXFQHMk0zhFXMUq6), [The Source](https://open.spotify.com/artist/25EAVXsff9L7LHy7UIsPbR), [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et), [Now Voyager](https://open.spotify.com/artist/5xC2m2EMWiVEgnAToVZku0) | [You Got the Love](https://open.spotify.com/album/2FkSbzjwgmF6KvU2tQCOgs) | 3:13 |
 | 47 | [Get Ready](https://open.spotify.com/track/4tvOVmc2jorV20Z2hFDtDg) | [2 Unlimited](https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC) | [Get Ready](https://open.spotify.com/album/6NhL15fEltVRFpld3hvaWV) | 3:42 |
-| 48 | [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:12 |
-| 49 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
+| 48 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
+| 49 | [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:12 |
 | 50 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 |
 | 51 | [Now That We Found Love](https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Peaceful Journey](https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY) | 4:18 |
 | 52 | [Whoomp! There It Is \- Radio Edit](https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb) | [Tag Team](https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g) | [Whoomp! There It Is \(Radio Edit\)](https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw) | 3:45 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 59 | [I'm Your Baby Tonight](https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 4:59 |
 | 60 | [Dreamer \- Janice Robinson Vocal](https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:43 |
 | 61 | [The Rhythm of the Night](https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS) | 4:24 |
-| 62 | [This Is How We Do It](https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ) | 4:37 |
-| 63 | [Free](https://open.spotify.com/track/0kqatfl1V116n4U2gKZQuV) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Free \- The Strictly Collection](https://open.spotify.com/album/22lrjYvBGWwOfZ535fJXlT) | 5:53 |
+| 62 | [Free](https://open.spotify.com/track/0kqatfl1V116n4U2gKZQuV) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Free \- The Strictly Collection](https://open.spotify.com/album/22lrjYvBGWwOfZ535fJXlT) | 5:53 |
+| 63 | [This Is How We Do It](https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ) | 4:37 |
 | 64 | [Lollipop \(Candyman\)](https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:36 |
 | 65 | [Poison](https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison \(Expanded Edition\)](https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi) | 4:21 |
 | 66 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 71 | [Strike It Up](https://open.spotify.com/track/742hY2twqAjwNYnKkQdilj) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:58 |
 | 72 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
 | 73 | [100% Pure Love](https://open.spotify.com/track/66X03EIfE1zm99rd4SfL71) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Storyteller](https://open.spotify.com/album/2xDEMlTlGMbTjZgpIcSfs5) | 4:40 |
-| 74 | [Escapade](https://open.spotify.com/track/5HAv1Ckfe50DUjv8ghwTrz) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 4:43 |
-| 75 | [The Bomb! \(These Sound Fall into My Mind\) \- Radio Edit](https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU) | 3:23 |
+| 74 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Europop](https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV) | 4:43 |
+| 75 | [Escapade](https://open.spotify.com/track/5HAv1Ckfe50DUjv8ghwTrz) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 4:43 |
 
-Snapshot ID: `MCwyNTVjMTQ1MjE3ODRkN2ZjY2I2YzQyZjhjOGNjNzljMzQwOWY4NGQ5`
+Snapshot ID: `MCxjZGU3OTc0Y2FmMDIxMjNlMWU0NDRiMjY0YjkxYTRkYzM4MzgwY2Jm`

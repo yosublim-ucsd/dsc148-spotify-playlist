@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,493 likes - 48 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,691 likes - 49 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 21 | [The Hindu Times](https://open.spotify.com/track/7IuCCezGsyTH9LU4IVL57s) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 3:46 |
 | 22 | [Roll With It \- Remastered](https://open.spotify.com/track/3czgcbI4YZ4Gg29DOYFAnd) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:00 |
 | 23 | [Fuckin' in the Bushes](https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 3:18 |
-| 24 | [Rock 'n' Roll Star \- Remastered](https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 5:22 |
+| 24 | [Slide Away \- Remastered](https://open.spotify.com/track/1AvavliFQoc2l0ZCCWa5VG) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 6:32 |
 | 25 | [Lyla](https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 5:10 |
 | 26 | [She Is Love](https://open.spotify.com/track/78BHYuPCnUBh9wlbNWTCqC) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T) | 3:09 |
 | 27 | [Go Let It Out](https://open.spotify.com/track/7kFbTUR31qyzrjjary7llr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 4:38 |
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 46 | [My Big Mouth \(Live at Knebworth, 10 August '96\)](https://open.spotify.com/track/7rkqDEXEdL0zg9B7IDakLF) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 5:10 |
 | 47 | [I Am The Walrus – Live Glasgow Cathouse June '94 \- Remastered](https://open.spotify.com/track/71vIYl6DeQH8cXggFt38wN) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan \(Remastered Edition\)](https://open.spotify.com/album/3TOqth4BResSHzsrnREbbh) | 6:25 |
 | 48 | [Don't Stop… \- Demo](https://open.spotify.com/track/6lwWNrZ5nufGhTu5JQg0Hv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Stop… \(Demo\)](https://open.spotify.com/album/40aKKEG4XwBNjVSW5zSA6h) | 4:56 |
+| 49 | [Waiting For The Rapture](https://open.spotify.com/track/1lwJ1fYnkOhLc2xTO2klQ2) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 3:02 |
 
-Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBjNzhlNjM3MDkwNTM0YWE2NDNjMTg3YjE2MzI4OTdjMg==`
+Snapshot ID: `Mjg1MTg1NjEsMDAwMDAwMDBkNGFhYTBmZDllZjUyYTQzODY5YTUzZTJkZDM1MzRmOA==`

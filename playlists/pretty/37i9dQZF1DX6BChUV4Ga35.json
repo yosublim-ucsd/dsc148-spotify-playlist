@@ -1,12 +1,12 @@
 {
   "description": "Your family can visit all of the animals at the zoo with this fun playlist.",
-  "num_followers": 22415,
+  "num_followers": 22479,
   "original_name": "At The Zoo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Njg0MjE4YjYzMDZiMjUzODgyYzg0N2JiYzAxYTVhMGEwMjQ5Y2Y0",
+  "snapshot_id": "MCxjMDIwMmFiNWM4YTU2ZDUzNjZlNjg5ZDZjMGM5MDlhYjRhNjY4Yjkw",
   "tracks": [
     {
       "added_at": "2024-03-15 04:01:00",
@@ -27,6 +27,22 @@
       "duration_ms": 197402,
       "name": "Walking in the Jungle (Noodle & Pals)",
       "url": "https://open.spotify.com/track/4oEVDEWT1NhOY1eroalRWq"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "ChuChu TV Endangered Animals",
+        "url": "https://open.spotify.com/album/4pVBwDxNqF8kVYILOmI8iJ"
+      },
+      "artists": [
+        {
+          "name": "ChuChu TV",
+          "url": "https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ"
+        }
+      ],
+      "duration_ms": 81735,
+      "name": "Asian Elephant",
+      "url": "https://open.spotify.com/track/5nF2GOCZ73TWio4Jk5SyJL"
     },
     {
       "added_at": "2022-07-25 13:08:22",

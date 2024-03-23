@@ -1,12 +1,12 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 534907,
+  "num_followers": 535090,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTFlMTFlYjU5OGJmMTUwM2Y4ZGFmOWIxOGU1MjVjMTkzMDMxMWM4",
+  "snapshot_id": "MCw3Zjk4MzJmOGEwZTcwMzZjOGIzMGVjY2I5MDVhNTJlNTVjNTBhYjIz",
   "tracks": [
     {
       "added_at": "2024-03-18 14:02:13",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-03-18 14:02:13",
       "album": {
-        "name": "Lado de C\u00e1",
-        "url": "https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d"
-      },
-      "artists": [
-        {
-          "name": "Lado de C\u00e1",
-          "url": "https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD"
-        }
-      ],
-      "duration_ms": 171594,
-      "name": "Quando Amanhecer",
-      "url": "https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt"
-    },
-    {
-      "added_at": "2024-03-18 14:02:13",
-      "album": {
         "name": "Ensaio Ac\u00fastico",
         "url": "https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 250186,
       "name": "Ainda Lembro",
       "url": "https://open.spotify.com/track/6lNJX51MnEY2BB9EHBL3XP"
+    },
+    {
+      "added_at": "2024-03-18 14:02:13",
+      "album": {
+        "name": "Lado de C\u00e1",
+        "url": "https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d"
+      },
+      "artists": [
+        {
+          "name": "Lado de C\u00e1",
+          "url": "https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD"
+        }
+      ],
+      "duration_ms": 171594,
+      "name": "Quando Amanhecer",
+      "url": "https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt"
     },
     {
       "added_at": "2024-03-18 14:02:13",

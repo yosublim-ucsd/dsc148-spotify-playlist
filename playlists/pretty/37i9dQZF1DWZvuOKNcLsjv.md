@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: V
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,853 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,884 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Dog House](https://open.spotify.com/track/6IkdHPacNBeOdGkePazW1D) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Growing Pains](https://open.spotify.com/album/3VJPWZfdKv6BALZ0b9TxRr) | 3:32 |
 | 100 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 
-Snapshot ID: `MCxkNTBmMTg1ZWVjMDA1ZDI3NzkyMjU2YTlkZTM2OTA5OWI4ZDIyYjQy`
+Snapshot ID: `MCw0MDA4M2I1MjgxYzFmNmFkMWZmNzAyYTVjYTJkZDgxYzZiMTQ0YWIz`

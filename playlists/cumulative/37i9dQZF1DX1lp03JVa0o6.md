@@ -4,7 +4,7 @@
 
 > Today's biggest Dance hits! Cover: Fred again..
 
-543 songs - 1 day 4 hr 19 min
+545 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [BURNA FONE](https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [BURNA FONE](https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg) | 2:39 | 2023-06-29 | 2023-08-25 |
 | [Call on Me](https://open.spotify.com/track/6NAeCHRuzqURCsUpYTQbjK) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Call on Me](https://open.spotify.com/album/32cDkCyVQFR8M4QtatNhGU) | 2:50 | 2023-03-30 | 2023-07-07 |
 | [Call Your Name](https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Call Your Name](https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO) | 2:50 | 2023-07-20 | 2023-10-27 |
-| [Can't Let Go](https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Let Go](https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS) | 3:59 | 2024-03-21 |  |
+| [Can't Let Go](https://open.spotify.com/track/2WpiqjVC1CP89KVQfxOfol) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Mother](https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I) | 3:59 | 2024-03-21 |  |
+| [Can't Let Go](https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Let Go](https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS) | 3:59 | 2024-03-21 | 2024-03-23 |
 | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35) | 2:54 | 2023-10-12 | 2024-02-23 |
 | [Candle Flame](https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Candle Flame](https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH) | 2:54 | 2023-04-06 | 2023-07-07 |
 | [Candy](https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4) | [Candy](https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m) | 3:15 | 2023-08-17 | 2023-11-10 |
@@ -344,7 +345,8 @@
 | [Nikes On](https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Nikes On](https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH) | 2:35 | 2024-02-16 |  |
 | [Ninacamina](https://open.spotify.com/track/7mnnneke9KNVkwjPmMB7EY) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Ninacamina](https://open.spotify.com/album/3ZbOtABntVluWh1wtzmGMv) | 3:07 | 2024-02-08 |  |
 | [No Man's Land](https://open.spotify.com/track/1pzcBd8A2f2pnVCGWro0fo) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [No Man's Land](https://open.spotify.com/album/1FgHLHfin6Vvv1WrMWm6L4) | 2:18 | 2024-01-11 | 2024-02-23 |
-| [Nostalgia](https://open.spotify.com/track/0hhvzMnYVZuCt0pwsAgxyp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/4BAVhpH8KMzD5cqlGmS3Db) | 2:44 | 2024-03-21 |  |
+| [Nostalgia](https://open.spotify.com/track/3AgHs7svu3fb2d5NguwfXY) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt) | 2:44 | 2024-03-21 |  |
+| [Nostalgia](https://open.spotify.com/track/0hhvzMnYVZuCt0pwsAgxyp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/4BAVhpH8KMzD5cqlGmS3Db) | 2:44 | 2024-03-21 | 2024-03-23 |
 | [Not Fair](https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Not Fair](https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ) | 2:43 | 2023-08-24 | 2024-02-09 |
 | [NRG](https://open.spotify.com/track/79Ojf7CxxJw04NP4d8hrf8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [NRG](https://open.spotify.com/album/3S6FlsCt2FK6saAarcRoyy) | 2:26 | 2023-10-05 | 2024-02-02 |
 | [Number 1](https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Number 1](https://open.spotify.com/album/0vkYGGLv8iwyQWdccl46j3) | 2:25 | 2023-07-20 | 2023-11-03 |

@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: Blake Shelton and Gwen Stefani
 
-280 songs - 14 hr 37 min
+282 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Girls Like You](https://open.spotify.com/track/14oK2do8KogXF21nfI9uOS) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 3:01 | 2023-06-09 |  |
 | [Giving You Up](https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up](https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p) | 3:50 | 2021-12-17 |  |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-12-17 |  |
-| [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 | 2022-01-07 |  |
+| [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 | 2022-01-07 | 2024-03-23 |
 | [Good Day](https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 3:25 | 2021-12-17 |  |
 | [Good Person](https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d) | 2:54 | 2022-04-15 | 2022-07-29 |
 | [Good Times Go By Too Fast](https://open.spotify.com/track/7INk3focyW89pATBgageU7) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life](https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0) | 2:49 | 2023-06-23 |  |
@@ -141,6 +141,7 @@
 | [Kiss Her](https://open.spotify.com/track/6qyHEaztEydyWCEOZjJSOv) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Kiss Her](https://open.spotify.com/album/4CR78cQqMeAlOVbmWswvOe) | 2:52 | 2021-12-17 | 2022-07-27 |
 | [Know My Way Around](https://open.spotify.com/track/5CtXnj47Mr0ZXGjTbnd7Aj) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Know My Way Around](https://open.spotify.com/album/3R61ViOGcEiAk1mkBQMhy4) | 2:54 | 2022-01-14 | 2022-07-29 |
 | [la di da](https://open.spotify.com/track/6doGgaQHLno4lTLbgkWd6b) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Mood Swings](https://open.spotify.com/album/3psE2QZTcNFhLGUpY76F4s) | 2:58 | 2022-10-07 | 2023-06-03 |
+| [last one to love me](https://open.spotify.com/track/3yD9M6hIAudzN8HVfBmfln) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [last one to love me](https://open.spotify.com/album/33V8IILExjWEcG090y219U) | 2:26 | 2024-03-22 |  |
 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2022-06-01 | 2023-07-15 |
 | [Learning Curves](https://open.spotify.com/track/0gZXSJychgezeHXoxH2y2N) | [CB30](https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611) | [Learning Curves](https://open.spotify.com/album/2QBhD9Pa0PfOUWyt0BcVrj) | 2:41 | 2021-12-17 | 2022-01-08 |
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-05-06 | 2023-06-24 |
@@ -172,7 +173,7 @@
 | [Need To Not](https://open.spotify.com/track/4Ls9R1CiOmiBe8A3U2WFNR) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Need To Not](https://open.spotify.com/album/7EpUZf3Ke5aEpn4CJct3O8) | 3:02 | 2021-12-17 | 2022-07-29 |
 | [Nervous](https://open.spotify.com/track/3AMUgKRaujIuutpMw4K7Zn) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Nervous](https://open.spotify.com/album/460txPWcdGTABVidLLDuiW) | 2:55 | 2022-03-11 | 2022-11-02 |
 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 | 2022-04-01 | 2023-06-10 |
-| [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/track/0Z36IMMSzdvXlfBu8fwgmR) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/album/4iTNzA2KHqSKeO1xR46INx) | 2:25 | 2024-03-08 |  |
+| [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/track/0Z36IMMSzdvXlfBu8fwgmR) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/album/4iTNzA2KHqSKeO1xR46INx) | 2:25 | 2024-03-08 | 2024-03-23 |
 | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/track/2ZX3qn7oFWV8vZbBTsz48W) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/album/2s8PwYZk8iDjHhhZXCrnzr) | 2:25 | 2022-12-16 | 2024-01-20 |
 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:42 | 2021-12-17 |  |
 | [Not Yet](https://open.spotify.com/track/0WVvn1HeAGVcnMnQcKPAQg) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Not Yet](https://open.spotify.com/album/5yhE9I7y2sfvB83vBkIRVJ) | 2:54 | 2021-12-17 | 2022-07-28 |
@@ -220,6 +221,7 @@
 | [Somewhere Cool With You](https://open.spotify.com/track/2F29A4pp7XDo9X4sunH4LZ) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Somewhere Cool With You](https://open.spotify.com/album/1aUS3qejwUaANXTHdJRiT0) | 2:48 | 2021-12-17 | 2022-10-08 |
 | [Son of a Bitch](https://open.spotify.com/track/5EyxR5yEN3mohQ5EycOpII) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Son of a Bitch](https://open.spotify.com/album/4QBpgWspmECfxr201lGim4) | 2:35 | 2024-02-23 |  |
 | [Sorry](https://open.spotify.com/track/23eLnI8GBwNOVQJJmhbLpS) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Russell Dickerson](https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8) | 3:08 | 2022-11-04 | 2023-07-29 |
+| [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 | 2024-03-22 |  |
 | [Steal My Love](https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:42 | 2021-12-17 |  |
 | [Still Blue](https://open.spotify.com/track/62vpsN08w8XSO73994WT7a) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Caleb Mitchell](https://open.spotify.com/artist/6JkbFE2ZN13DVR1Z0lXZ7Z) | [Still Blue](https://open.spotify.com/album/6B8HBAbpcpOT5eOvmauebn) | 3:39 | 2023-07-07 | 2024-02-14 |
 | [Stop Coming Over](https://open.spotify.com/track/0aU4TRPwmyeIp9Au0mfdJi) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Stop Coming Over](https://open.spotify.com/album/3B5uozvXEhL4bUzv91pqJt) | 2:18 | 2022-01-07 | 2023-03-12 |
