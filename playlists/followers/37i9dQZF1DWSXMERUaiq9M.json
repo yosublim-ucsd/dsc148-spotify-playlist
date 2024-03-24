@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 229533,
+  "2024-03-24": 229826,
   "date_first_scraped": "2023-03-14",
   "description": "love peace techno",
   "name": "rave",
@@ -356,6 +356,54 @@
     },
     {
       "album": {
+        "name": "BEEZ IN THE TRAP",
+        "url": "https://open.spotify.com/album/5j79Xb6tUJe2FV5T3fhaHu"
+      },
+      "artists": [
+        {
+          "name": "Promis3",
+          "url": "https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166750,
+      "name": "BEEZ IN THE TRAP",
+      "url": "https://open.spotify.com/track/0lgkdXfvjW9XbbkdK9mCmk"
+    },
+    {
+      "album": {
+        "name": "Berghain In Berlin (with SMACK)",
+        "url": "https://open.spotify.com/album/5wXSYWE44yMtGpsmsMlW9F"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        },
+        {
+          "name": "2 Engel & Charlie",
+          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108006,
+      "name": "Berghain In Berlin (with SMACK)",
+      "url": "https://open.spotify.com/track/1O7pI4ybNEMxp4LlHvs3Wt"
+    },
+    {
+      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf"
       },
@@ -509,7 +557,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 194558,
       "name": "Buurman Uit Berlijn - Radio Edit",
       "url": "https://open.spotify.com/track/22OehECsOcoKPjcLkLzBBr"
@@ -865,7 +913,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 277563,
       "name": "Daddy's Issue",
       "url": "https://open.spotify.com/track/6vzN8Hr9rJ8Bk5OnHAxei0"
@@ -2884,6 +2932,24 @@
     },
     {
       "album": {
+        "name": "NEED ME",
+        "url": "https://open.spotify.com/album/16ViikQ9O2zvUsYOxC3nhu"
+      },
+      "artists": [
+        {
+          "name": "JANNICK",
+          "url": "https://open.spotify.com/artist/1ekJQRvsXujUbEtMYEBUns"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170370,
+      "name": "NEED ME",
+      "url": "https://open.spotify.com/track/3C1Ulqf87XI0fBAdlVsIGV"
+    },
+    {
+      "album": {
         "name": "Neo Eros",
         "url": "https://open.spotify.com/album/6ouucH3hin2Y2IKUUAi3cD"
       },
@@ -2921,6 +2987,24 @@
       "duration_ms": 324663,
       "name": "Neon Bliss",
       "url": "https://open.spotify.com/track/6p7Xa2jRoOgcV5g0ZVuR4g"
+    },
+    {
+      "album": {
+        "name": "NETFLIX & KILL",
+        "url": "https://open.spotify.com/album/31Rxxv9rb8WwJYEoBZWuQa"
+      },
+      "artists": [
+        {
+          "name": "TEER",
+          "url": "https://open.spotify.com/artist/6DAoPIKbym8tpSn4cAffWv"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167263,
+      "name": "NETFLIX & KILL",
+      "url": "https://open.spotify.com/track/7Fx8c3lhRQZesFHgdFjXbN"
     },
     {
       "album": {
@@ -3029,7 +3113,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 203684,
       "name": "No Type",
       "url": "https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU"
@@ -3693,7 +3777,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 268000,
       "name": "Run",
       "url": "https://open.spotify.com/track/2yMTcvYrD4aN0Eeyngy9QZ"
@@ -3901,7 +3985,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 198098,
       "name": "Still Need U",
       "url": "https://open.spotify.com/track/2z0aTFF696oXVdN1sfzKi7"
@@ -4309,7 +4393,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 240510,
       "name": "Us Two",
       "url": "https://open.spotify.com/track/13JRjckFdJGsmk75YWCpF8"
@@ -4415,6 +4499,50 @@
       "duration_ms": 236068,
       "name": "We Are The People - southstar Remix",
       "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
+    },
+    {
+      "album": {
+        "name": "We Can't Stop",
+        "url": "https://open.spotify.com/album/1y2DoC55DuTBDQ108GE7RK"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230300,
+      "name": "We Can't Stop",
+      "url": "https://open.spotify.com/track/32nlM6EqRoBQYJDer9AA34"
+    },
+    {
+      "album": {
+        "name": "Whatcha Say",
+        "url": "https://open.spotify.com/album/5avrElnK0zHZvzW77xBnsN"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Kickbait",
+          "url": "https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139401,
+      "name": "Whatcha Say",
+      "url": "https://open.spotify.com/track/4SPTxHzln31EU9u45IjgMU"
     },
     {
       "album": {

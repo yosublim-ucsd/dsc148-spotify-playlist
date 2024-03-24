@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-407 songs - 1 day 4 hr 53 min
+408 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Florida Man](https://open.spotify.com/track/2W8Equ4ngAucJi9ngHdaox) | [Sgt Slime](https://open.spotify.com/artist/5uJKlkS0xqYIFiav3tPzqm) | [Florida Man](https://open.spotify.com/album/1QMXl4s8q30ESwNotSuYjq) | 2:40 | 2021-12-17 | 2022-07-12 |
 | [For the Horde](https://open.spotify.com/track/1KOKew94NrIZITnpQAMa6p) | [Exmortus](https://open.spotify.com/artist/3jxlXqh6SD2hMUgYEHUNwG) | [Ride Forth](https://open.spotify.com/album/5BIzHmMiJJoHFo8tLL9S87) | 4:40 | 2021-12-17 | 2022-11-13 |
 | [For Whom The Bell Tolls \(Remastered\)](https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 5:09 | 2022-12-15 |  |
-| [Forever and Beyond Despair](https://open.spotify.com/track/06JTEv291uEs4VcUVcuy3S) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Forever And Beyond Despair](https://open.spotify.com/album/6Soxbrj9VpGteJYUYCbhNQ) | 3:02 | 2024-03-08 |  |
+| [Forever and Beyond Despair](https://open.spotify.com/track/06JTEv291uEs4VcUVcuy3S) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Forever And Beyond Despair](https://open.spotify.com/album/6Soxbrj9VpGteJYUYCbhNQ) | 3:02 | 2024-03-08 | 2024-03-24 |
+| [Forever and Beyond Despair](https://open.spotify.com/track/22wCXpyHaTQDM5odduUeIJ) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Defectum Omnium](https://open.spotify.com/album/6DdMUdrcN1y5IjJ6P71R7B) | 3:02 | 2024-03-08 |  |
 | [Friendly Fire](https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Friendly Fire](https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R) | 3:36 | 2021-12-17 | 2022-07-29 |
 | [Fuel for Fire](https://open.spotify.com/track/6KXZXc8GC0hNMirU7U1Osh) | [EXA](https://open.spotify.com/artist/1h7Hmq4S3N6KmKYhCs4J6P) | [Cut the Past](https://open.spotify.com/album/2xQVSFMtpz9g3sjhPWeBPD) | 4:00 | 2021-12-17 | 2022-03-04 |
 | [Fuel the Fire](https://open.spotify.com/track/0buwvmO1V7DoStjJF9KJbI) | [Tonic Breed](https://open.spotify.com/artist/77xERzMN8ghZCov8PRbCVR), [Bernt Jansen](https://open.spotify.com/artist/2mxHsWZS5kzzF5KjFfmpUb), [Dirk Verbeuren](https://open.spotify.com/artist/4zG9AWbdwEqp2pjrjDnYNV) | [Fuel the Fire](https://open.spotify.com/album/2S93hqoq2uVn0yfihm5NIi) | 4:56 | 2022-07-22 | 2022-07-26 |

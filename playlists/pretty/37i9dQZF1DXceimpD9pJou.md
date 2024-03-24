@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:1isLgyF8G4bJdJzTrQPxV9">Free Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,600 likes - 119 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,649 likes - 119 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 30 | [Por Confiar en Ti](https://open.spotify.com/track/1NCoUErYkv5yYjw2Bm7p0D) | [Elí Abella](https://open.spotify.com/artist/6KU2DLkQkyLfzK7Ht2fP2x), [Luz y Vida Music](https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v) | [Por Confiar en Ti](https://open.spotify.com/album/6fZycSItppapCJzNuZfZEX) | 3:44 |
 | 31 | [Ama A Tu Señor \(Love The Lord Your God\) \- Bilingual](https://open.spotify.com/track/4brPhMf9B4xddjBLu2csoN) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu), [Dana Catherine](https://open.spotify.com/artist/7KyHfhz6Z3MYJYiMpHYkfS), [Via Cantus](https://open.spotify.com/artist/69sPIyuRT6adJGWHUQsSi0) | [Ama A Tu Señor \(Love The Lord Your God\) \[Bilingual\]](https://open.spotify.com/album/3OhkDJjIisk7q7UI60h3hW) | 3:08 |
 | 32 | [El Alfa y La Omega](https://open.spotify.com/track/0IPtVC4ckFbnXvtuIHciYA) | [Dariel Noel](https://open.spotify.com/artist/5RF3Mpcs2RXyheE0hzngPk), [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [El Alfa y La Omega](https://open.spotify.com/album/36qAlSmWkyPENEcBXyOYPd) | 4:19 |
-| 33 | [Te Amo Buen Jesús](https://open.spotify.com/track/5QQwHEOjiFvKxDWiIk4RsJ) | [Dúo Devia](https://open.spotify.com/artist/31W0FnCteCOIanwu9x4DGe), [Emanuel Devia](https://open.spotify.com/artist/7LIoF7w0NZHuc42GpDTHv0), [Juan Carlos Devia](https://open.spotify.com/artist/52LfguGDxwovxDoSXCrHbJ) | [Te Amo Buen Jesús](https://open.spotify.com/album/2nvH7eFPLSt2uViv4G7HD8) | 4:02 |
+| 33 | [Te Amo Buen Jesús](https://open.spotify.com/track/5QQwHEOjiFvKxDWiIk4RsJ) | [Dúo Devia](https://open.spotify.com/artist/31W0FnCteCOIanwu9x4DGe), [Emanuel Devia](https://open.spotify.com/artist/7LIoF7w0NZHuc42GpDTHv0), [Juan Carlos Devia](https://open.spotify.com/artist/52LfguGDxwovxDoSXCrHbJ) | [Te Amo Buen Jesús](https://open.spotify.com/album/2nvH7eFPLSt2uViv4G7HD8) | 4:04 |
 | 34 | [En Tu Altar](https://open.spotify.com/track/3opNYYDuwxoZPlXWbLITHS) | [Marcela Gael](https://open.spotify.com/artist/3TifTnauGsDPu1cPGER7hv), [Walmir Alencar](https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN) | [En Tu Altar](https://open.spotify.com/album/72JlBlRj7LSnXPXSkCq6qq) | 4:48 |
 | 35 | [En Él](https://open.spotify.com/track/23qcR1fwbFsopZYkwLMIyR) | [Kayrós](https://open.spotify.com/artist/4xBFysOYB8cBNVkZu0tHBL) | [Ocaso](https://open.spotify.com/album/34i3zKXBadEx7X3blL5v5D) | 6:48 |
 | 36 | [Sentidos](https://open.spotify.com/track/7Lwz3FLYCMB31aWnhXnpzb) | [Maxi Larghi](https://open.spotify.com/artist/6jXQYWM55xKpAFPAYZcryE) | [Sentidos](https://open.spotify.com/album/6cnKyzceCa4IRFNEXLXoWP) | 5:26 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 118 | [Gratitud \(Gratitude\)](https://open.spotify.com/track/76ezjBwHQnwiqYdN4YQB8H) | [Anthem Worship Español](https://open.spotify.com/artist/32P5BFOjACzqsAvzeJkR9A), [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [Gratitud \(Gratitude\)](https://open.spotify.com/album/1TGukNWY23vTxOY9XJfDR8) | 4:20 |
 | 119 | [La Bondad de Dios](https://open.spotify.com/track/2DlwtBJFsmw0y8srtBGBZt) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [La Bondad de Dios](https://open.spotify.com/album/77GwBhQL38M2KLcmpEL6cv) | 4:50 |
 
-Snapshot ID: `MCw1OTg0ZWJiMDVhMmZjNmMxOTRjNjNlNjE0YjYxOTk5NGVmNWM1Zjg0`
+Snapshot ID: `MCxkMWQxNWU1OTE5Mzk4OWM5ZmQ4MmIyYmRiNThiNjI2MmVhMzhhYjVm`

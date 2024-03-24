@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh?si=rRDfEgn\-TceuQnjuKCD8Kw"> Odeal </a>\. Updates every Wednesday.
 
-2,177 songs - 4 day 15 hr 41 min
+2,179 songs - 4 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,7 +704,8 @@
 | [Garden](https://open.spotify.com/track/4nCQ22BkCrnLwNlJUUneTc) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0) | 2:55 | 2022-11-30 | 2023-02-11 |
 | [Garden](https://open.spotify.com/track/3XtWA4Qn0oNgG1MgzdZoOM) | [Dylan Guy](https://open.spotify.com/artist/6TlZX4lrvQ3LsHQz6h6mRL), [Edája](https://open.spotify.com/artist/6TTI4TbSp1raahsulxWqYe) | [Garden](https://open.spotify.com/album/6HcibLQcsVd57FlPgrip4E) | 2:21 | 2023-05-05 | 2023-08-04 |
 | [Garden](https://open.spotify.com/track/7tqncrBGsGJQqc24e5Ffiv) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Garden](https://open.spotify.com/album/2AZjeSF9UHQkPhyjMXP9aa) | 2:28 | 2022-06-02 | 2022-09-03 |
-| [Gaslight 101](https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl) | 2:59 | 2024-03-22 |  |
+| [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 | 2024-03-22 |  |
+| [Gaslight 101](https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl) | 2:59 | 2024-03-22 | 2024-03-24 |
 | [Gateway Drug](https://open.spotify.com/track/7ajMHPi55sVjqunyK7Kj32) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Gateway Drug](https://open.spotify.com/album/2Icsn7gs28Yplr9cNLy1N1) | 2:38 | 2023-04-26 | 2023-08-04 |
 | [GEEK OUT!](https://open.spotify.com/track/5BHJAKnYZ4GGlxTmpnPGab) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES), [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [GEEK OUT!](https://open.spotify.com/album/0pcNZasBNHBCU8MilSUv1X) | 3:04 | 2023-03-24 | 2023-08-04 |
 | [Gemini Guy](https://open.spotify.com/track/4FrHTjt1GcPcsxv0TD73OA) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Gemini Guy](https://open.spotify.com/album/4ZGvKDHg9bmlNTVqmQhyJR) | 3:23 | 2024-01-10 | 2024-03-23 |
@@ -952,7 +953,8 @@
 | [INSIDE](https://open.spotify.com/track/1j1KbCOTYAGdfDJ0hsuLhc) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [INSIDE](https://open.spotify.com/album/3K1RiDgcaxkA2NctK2jdID) | 3:54 | 2022-02-02 | 2022-04-28 |
 | [Inside](https://open.spotify.com/track/2F5IXlnz0CcA5pbLPfkvNp) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [London Rhodes](https://open.spotify.com/artist/0xOc1dxgxm7uqzHoq0yS7l) | [Comma](https://open.spotify.com/album/2h2XSOe208XHaiaP4Ska3r) | 3:30 | 2022-10-28 | 2022-12-01 |
 | [Insomnia](https://open.spotify.com/track/1B1yI9b6rrv1v2jA0uMzjK) | [Lendryx](https://open.spotify.com/artist/0bJfSHjZh1XhddFfXr8zvQ) | [Insomnia](https://open.spotify.com/album/5mneR2SjhNjLpiyV80HzqY) | 3:56 | 2023-11-08 | 2023-11-30 |
-| [Intergalactic Janet](https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/3vS1oa8XAK2I4BLsMPEsK2) | 2:40 | 2024-03-08 |  |
+| [Intergalactic Janet](https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/3vS1oa8XAK2I4BLsMPEsK2) | 2:40 | 2024-03-08 | 2024-03-24 |
+| [Intergalactic Janet](https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj) | 2:40 | 2024-03-08 |  |
 | [INTERWEBS!](https://open.spotify.com/track/0IkS6pBPX2lEZMACNLpbtU) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [ICE CREAM CLONES 2](https://open.spotify.com/album/0F5obDWo7KyKgLWfDnJowH) | 1:10 | 2023-10-03 | 2023-11-30 |
 | [Into Nirvana](https://open.spotify.com/track/3c5vdnAI4NMrTDwBvEOmoh) | [SPIRITSAVER](https://open.spotify.com/artist/3DbCiwrbBPRRuCo4UvLl8c) | [Into Nirvana](https://open.spotify.com/album/23yroNvqRYGmbbl0YXPsS5) | 2:39 | 2023-03-10 | 2023-05-06 |
 | [Intoxicated Truth](https://open.spotify.com/track/52iaQGkgAtc4bwr1iAiVaq) | [Masati](https://open.spotify.com/artist/6Ca21SJ709vzZufDLMQakl) | [Intoxicated Truth](https://open.spotify.com/album/2XKDY407hdliXUT6i3Bcxm) | 2:56 | 2021-12-01 | 2022-01-13 |

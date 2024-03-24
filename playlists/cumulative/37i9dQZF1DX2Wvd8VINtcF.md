@@ -4,7 +4,7 @@
 
 > the pearls of an oyster\. Cover: Matt Champion
 
-1,161 songs - 2 day 15 hr 54 min
+1,162 songs - 2 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1076,7 +1076,8 @@
 | [U & I](https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [The NightBirds](https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 3:36 | 2023-11-16 | 2024-01-26 |
 | [U FOR A MINUTE](https://open.spotify.com/track/2GczmDFawjKmIcTwrIq6Lz) | [LUCIIA](https://open.spotify.com/artist/4wstpJTWcoASedbusTGfjd) | [WITH II EYES](https://open.spotify.com/album/4q7EnLSTFP5sTadg6lMNc1) | 4:04 | 2023-11-23 | 2023-12-01 |
 | [U R The 1 ♡](https://open.spotify.com/track/2EKX3ThB7qGBKQZ6elcJmM) | [sonic girl](https://open.spotify.com/artist/31vO4IuGYTlzTeEPIVw8TR) | [STARBORN \(mixtape\)](https://open.spotify.com/album/0yPEAiOzEmWEDeRd1tj78N) | 2:17 | 2023-04-20 | 2023-05-26 |
-| [u.](https://open.spotify.com/track/31YKmnHqN03fMd8XhEy6Et) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP), [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [u.](https://open.spotify.com/album/6QhYWeJu70SNRcKnVCGcPQ) | 2:39 | 2024-03-14 |  |
+| [u.](https://open.spotify.com/track/1II7Rpz0ILbz3YfeWi8Nov) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP), [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 2:39 | 2024-03-21 |  |
+| [u.](https://open.spotify.com/track/31YKmnHqN03fMd8XhEy6Et) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP), [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [u.](https://open.spotify.com/album/6QhYWeJu70SNRcKnVCGcPQ) | 2:39 | 2024-03-14 | 2024-03-24 |
 | [Uncomfortable](https://open.spotify.com/track/4ZS5mXMgeivMQP1iMkOI8v) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Uncomfortable](https://open.spotify.com/album/0l8JJVTe3tiswMr86tMf2S) | 1:58 | 2022-10-28 | 2022-11-25 |
 | [UNDER THE ILLUSION](https://open.spotify.com/track/6c0dPWNb18BL7RLwwlZ717) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [UNDER THE ILLUSION](https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP) | 3:56 | 2023-09-28 | 2023-10-06 |
 | [UNDERSTAND \(feat\. Baby Rose\)](https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [UNDERSTAND](https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX) | 4:03 | 2023-04-20 | 2023-07-21 |

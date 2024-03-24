@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,644 likes - 128 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,919 likes - 128 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 75 | [Into the Ooze](https://open.spotify.com/track/1zQt5176sy24KXYMZAvMcG) | [Brimheim](https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J) | [RATKING](https://open.spotify.com/album/6y8cj46k6QCUuRZdT4tUSK) | 4:16 |
 | 76 | [Eremiten](https://open.spotify.com/track/3nfXGdx2HfhypGySvmpQyI) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Eremiten](https://open.spotify.com/album/5SID8oaQLDedeSkEpnW7od) | 3:24 |
 | 77 | [Getting Reminders](https://open.spotify.com/track/5cDyOIGlxy8OEZ2xJEa1UJ) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU), [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Getting Reminders](https://open.spotify.com/album/3JcAt7K6ZONTWl6e1Bc23X) | 2:40 |
-| 78 | [ID feat\. Smerz](https://open.spotify.com/track/5p8TnQQFEEC7rvrjozlcKX) | [Hekt](https://open.spotify.com/artist/0SOn6FeWwXGHcF9JEGM4Y1), [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [ID feat\. Smerz](https://open.spotify.com/album/6FVjU1pTz0n57teBT1HS6n) | 3:16 |
+| 78 | [ID feat\. Smerz](https://open.spotify.com/track/73vd9RPInhU84pK2MtVj9T) | [Hekt](https://open.spotify.com/artist/0SOn6FeWwXGHcF9JEGM4Y1), [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Lens](https://open.spotify.com/album/0jxO0Uldxx8O2wKtGtKCsb) | 3:16 |
 | 79 | [Always Ballin](https://open.spotify.com/track/0gfF1aSUYR2CIZPuHaF2gm) | [Benji](https://open.spotify.com/artist/3neUCGkPr49wZFy3UXaYpg) | [Always Ballin](https://open.spotify.com/album/2XM2Yt2IqrxUgQ26uJ0vVL) | 3:15 |
 | 80 | [Crush Me Up](https://open.spotify.com/track/6YFEYclecVFUsvZ4dKoqjh) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Crush Me Up](https://open.spotify.com/album/4iwkw4bGIapRyVEc0WzwBm) | 2:30 |
 | 81 | [drowning](https://open.spotify.com/track/7KoHHJTeFTQLFsHILil8zZ) | [Ariana Celaeno](https://open.spotify.com/artist/3Igpr26HgdrjS1nf4ePyPX) | [drowning](https://open.spotify.com/album/2CEbmNL92uwByxOVzssiDH) | 2:15 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 127 | [DREAMING](https://open.spotify.com/track/401gRMsxqq2I1sbVMfj0FM) | [CHRIS LYNN](https://open.spotify.com/artist/6ZVcRPWf6D8PmUH2uFpcWp) | [DREAMING](https://open.spotify.com/album/115wQuGSLSvvpP1HPzGY3I) | 2:36 |
 | 128 | [Double Team](https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Double Team](https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V) | 3:51 |
 
-Snapshot ID: `MCxjM2Y4MjkyY2ZlNTJjNjZjYjcyMThhODU1YzQ5ZmRkYmM2ZmMxY2Zk`
+Snapshot ID: `MCw1YWM5NTBkMzBmYTg0YWI3MWJjNDJhYjJiMTFlN2ZmNDVjODc1ODg4`

@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 147835,
+  "2024-03-24": 147873,
   "date_first_scraped": "2022-02-20",
-  "description": "gems by artists carving their own lane. cover: KROY",
+  "description": "gems by artists carving their own lane. cover: Marie Davidson",
   "name": "outliers",
   "tracks": [
     {
@@ -123,6 +123,24 @@
       "duration_ms": 193812,
       "name": "2 SIDES",
       "url": "https://open.spotify.com/track/2yhHAImrFn7x2wHRKpGJno"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352472,
+      "name": "31 Bloom",
+      "url": "https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y"
     },
     {
       "album": {
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 165360,
       "name": "Aphid (feat. Dijon)",
       "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 186468,
       "name": "BANGUK",
       "url": "https://open.spotify.com/track/1GWaIEbioQsRV6Yaq8VwmO"
@@ -2025,6 +2043,24 @@
       "duration_ms": 203299,
       "name": "Bento Box",
       "url": "https://open.spotify.com/track/1tUdhJYNkVlIeeww7m33DJ"
+    },
+    {
+      "album": {
+        "name": "Come With Me If You Want To Live",
+        "url": "https://open.spotify.com/album/0lI2VuGSXvIhcax83psXiQ"
+      },
+      "artists": [
+        {
+          "name": "Devon Welsh",
+          "url": "https://open.spotify.com/artist/7yGm0QgT6pUFP7LRgsIRiC"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255416,
+      "name": "Best Laid Plans",
+      "url": "https://open.spotify.com/track/4xpIfw6xzUcdL12Mo67SiB"
     },
     {
       "album": {
@@ -3882,6 +3918,28 @@
     },
     {
       "album": {
+        "name": "Consume",
+        "url": "https://open.spotify.com/album/1kKjsmADxnPEjoY75Ye4lk"
+      },
+      "artists": [
+        {
+          "name": "Kyle Wildfern",
+          "url": "https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR"
+        },
+        {
+          "name": "Julles",
+          "url": "https://open.spotify.com/artist/59RKDymdV7jSSYMk7kLdko"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Consume",
+      "url": "https://open.spotify.com/track/1xfDL6kiwXdsbHyDCBImBr"
+    },
+    {
+      "album": {
         "name": "Coochie (a bedtime story)",
         "url": "https://open.spotify.com/album/2cQKZRfGU3kSnxyNCHZuiZ"
       },
@@ -4345,7 +4403,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 287540,
       "name": "Dancing in the Club",
       "url": "https://open.spotify.com/track/6WM7lXStlVKnYpeM6Q5EIA"
@@ -5131,6 +5189,24 @@
       "duration_ms": 143093,
       "name": "Dog Years - weird inside Remix",
       "url": "https://open.spotify.com/track/15zSGbZomfOYEJJdZ55OAs"
+    },
+    {
+      "album": {
+        "name": "Mika's Laundry",
+        "url": "https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114853,
+      "name": "Dogfish",
+      "url": "https://open.spotify.com/track/0TVMOi7iwDYpgJexAlNtm9"
     },
     {
       "album": {
@@ -6613,7 +6689,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 183133,
       "name": "Femenine",
       "url": "https://open.spotify.com/track/3hPVr4qMFJqnObkzACLwQ2"
@@ -6933,7 +7009,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 130742,
       "name": "Fly god manners",
       "url": "https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom"
@@ -9989,7 +10065,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 222750,
       "name": "It's In The Wrapping",
       "url": "https://open.spotify.com/track/27i69fwrHk51zdZcRS335g"
@@ -10185,6 +10261,32 @@
       "duration_ms": 116324,
       "name": "JUICE",
       "url": "https://open.spotify.com/track/75sl0pvqANavsWCFEZeSBv"
+    },
+    {
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147071,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
     },
     {
       "album": {
@@ -11137,7 +11239,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 182233,
       "name": "limbo",
       "url": "https://open.spotify.com/track/0JFUAuI5jrh7xHaY0kRFW1"
@@ -11394,6 +11496,24 @@
     },
     {
       "album": {
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ"
+    },
+    {
+      "album": {
         "name": "Losing My Mind",
         "url": "https://open.spotify.com/album/1MNlElK1BLXdfKR3H3vGo7"
       },
@@ -11503,7 +11623,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 243263,
       "name": "Loved",
       "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
@@ -11525,6 +11645,24 @@
       "duration_ms": 401280,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/2LV41Ak7cWNsFXVDELb2AE"
+    },
+    {
+      "album": {
+        "name": "Lover\u2019s Rock",
+        "url": "https://open.spotify.com/album/7oeGRapHeKODWlsNGdOZ8Z"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Lover\u2019s Rock",
+      "url": "https://open.spotify.com/track/7eLIyJ632oXGozoLiGB1Ik"
     },
     {
       "album": {
@@ -11579,6 +11717,32 @@
       "duration_ms": 204826,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0MuGa3SwwVYIeOpOzTOxzj"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/6mTRA7XqtzXcQOqB9hnezC"
+      },
+      "artists": [
+        {
+          "name": "Varg\u00b2\u2122",
+          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
+        },
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        },
+        {
+          "name": "Earth",
+          "url": "https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203257,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/3W39iQwxBdXs0YwWidsxeF"
     },
     {
       "album": {
@@ -15078,6 +15242,28 @@
     },
     {
       "album": {
+        "name": "A Forsaken Lover's Plea",
+        "url": "https://open.spotify.com/album/02MmFj3ONHFwvZMfZXWtPy"
+      },
+      "artists": [
+        {
+          "name": "Chuck Strangers",
+          "url": "https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180588,
+      "name": "Polish Jazz",
+      "url": "https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR"
+    },
+    {
+      "album": {
         "name": "Poppyseed",
         "url": "https://open.spotify.com/album/6gorqLIe62IVJVrFa9FBVn"
       },
@@ -15921,6 +16107,24 @@
       "duration_ms": 235714,
       "name": "ros\u00e9",
       "url": "https://open.spotify.com/track/75gzWTLyQ16z05lsRiZqqe"
+    },
+    {
+      "album": {
+        "name": "Rouge \u00e0 l\u00e8vres",
+        "url": "https://open.spotify.com/album/1kZoT8CcY3Yrva4uAwGN1R"
+      },
+      "artists": [
+        {
+          "name": "Alix Fernz",
+          "url": "https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206259,
+      "name": "Rouge \u00e0 l\u00e8vres",
+      "url": "https://open.spotify.com/track/0HgHk6fXRi0CuYnhahRtxH"
     },
     {
       "album": {
@@ -18321,7 +18525,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 192000,
       "name": "Subindo e Descendo",
       "url": "https://open.spotify.com/track/4F3XVx6fmZvWLBqmBG1gxg"
@@ -19321,7 +19525,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 214615,
       "name": "the life and death of a dog",
       "url": "https://open.spotify.com/track/2NLCeLeI1E4psDqwE7CZEX"
@@ -21912,6 +22116,24 @@
     },
     {
       "album": {
+        "name": "Y.A.A.M.",
+        "url": "https://open.spotify.com/album/6JJtyxHWSChD2JSw7ilsbf"
+      },
+      "artists": [
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195308,
+      "name": "Y.A.A.M.",
+      "url": "https://open.spotify.com/track/1HhAkXeH56SVZiYFJrMJ49"
+    },
+    {
+      "album": {
         "name": "Year to Year / 29",
         "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
       },
@@ -21963,7 +22185,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 208244,
       "name": "You Can Do Anything",
       "url": "https://open.spotify.com/track/07tAjh5F3HTOFumG2XqMbc"

@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 325043,
+  "2024-03-24": 325078,
   "date_first_scraped": "2021-12-21",
   "description": "Rock with a Drop. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/",
   "name": "Rocktronic",
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 195000,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/06KgkNaJPuhFTkiwsLr0xX"
@@ -1099,6 +1099,24 @@
       "duration_ms": 170769,
       "name": "Cash Machine (Remix) [feat. Dillon Francis & grandson]",
       "url": "https://open.spotify.com/track/6FqS20S6qXlbL3o2htqszT"
+    },
+    {
+      "album": {
+        "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237567,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/779mhz1mAry946r91qzR1r"
     },
     {
       "album": {
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 219789,
       "name": "come around",
       "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
@@ -1861,7 +1879,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 184620,
       "name": "dejavu (INHUMAN Remix)",
       "url": "https://open.spotify.com/track/0qnhIqzMmLHukErvnNZi7u"
@@ -6282,6 +6300,28 @@
     },
     {
       "album": {
+        "name": "Round n' Round",
+        "url": "https://open.spotify.com/album/5TYEdOgG9hs13w8x7tPjab"
+      },
+      "artists": [
+        {
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        },
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178616,
+      "name": "Round n' Round",
+      "url": "https://open.spotify.com/track/3hWiZ3HbvygE8GSjVZklhw"
+    },
+    {
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/5RlCAUxavSAavaI9Fowb3X"
       },
@@ -8353,6 +8393,28 @@
       "duration_ms": 276480,
       "name": "Won't Make A Sound",
       "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
+    },
+    {
+      "album": {
+        "name": "Won't Take The Blame",
+        "url": "https://open.spotify.com/album/1khRdB4SaLyWQKwbZvLRA1"
+      },
+      "artists": [
+        {
+          "name": "Draeden",
+          "url": "https://open.spotify.com/artist/7tZV4FXJNO8FzjgrAToCln"
+        },
+        {
+          "name": "Add1ction",
+          "url": "https://open.spotify.com/artist/4RDLjBccKYkC5mJqxDEbt6"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196166,
+      "name": "Won't Take The Blame",
+      "url": "https://open.spotify.com/track/4QFYCB4YuTGMuc61IFrA6G"
     },
     {
       "album": {

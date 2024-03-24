@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Dolly Parton and Lainey Wilson",
-  "num_followers": 107938,
+  "num_followers": 108020,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmRkNjViYTMwNTIxNjBkNWIzMDdkNDc1ODAwOWY5MTExNTgzNTk1",
+  "snapshot_id": "MCw0NjFhYjIyOTkyYWYwNDFmMzc5YjE2YTcyZmQ4MjBjYjJiMTMwOWI2",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Acoustic Covers (Deluxe)",
+        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 271771,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
         "url": "https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV"
       },
@@ -1679,26 +1695,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
-        "url": "https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
-      "url": "https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "It's Only Rock 'N' Roll (But I Like It)",
         "url": "https://open.spotify.com/album/1GCjwU2CejKwooZG68QBqb"
       },
@@ -1719,18 +1715,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Acoustic Covers (Deluxe)",
-        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
+        "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
+        "url": "https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 271771,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
+      "duration_ms": 216546,
+      "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
+      "url": "https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0"
     },
     {
       "added_at": "2024-03-22 04:00:00",

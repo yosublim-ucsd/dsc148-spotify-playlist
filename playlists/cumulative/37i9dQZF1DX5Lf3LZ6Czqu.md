@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-136 songs - 10 hr 21 min
+137 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Tempest Pulse](https://open.spotify.com/track/73i8HclsPcSmyXwwLmVTFp) | [Greg Howe](https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV) | [Wheelhouse](https://open.spotify.com/album/1JkBVjeznFK9Bb3xasp6un) | 5:20 | 2021-05-04 |  |
 | [The 12th Hour](https://open.spotify.com/track/1S7LDIJFVGYDZVuuU5IbD7) | [Marco Sfogli](https://open.spotify.com/artist/3DH5T3XE9zij8BRWAxW6SF) | [Homeland](https://open.spotify.com/album/3qpPGP9Zmkab4GEMSLyWLl) | 4:43 | 2021-05-04 |  |
 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 | 2021-05-04 |  |
-| [The Roaring Twenties](https://open.spotify.com/track/7jrR6S8gfJyVrWZ8K5FmsB) | [Maarten Ouweneel](https://open.spotify.com/artist/4tZfjyeyjqlORFxtCYJdjG) | [The Roaring Twenties](https://open.spotify.com/album/6Sy81CHsix5Idl3jkXs5sw) | 4:58 | 2022-04-08 |  |
+| [The Roaring Twenties](https://open.spotify.com/track/59WxaLSXFGTh2WzNdPivDf) | [Maarten Ouweneel](https://open.spotify.com/artist/4tZfjyeyjqlORFxtCYJdjG) | [Ebb & Flow](https://open.spotify.com/album/5vcC3uWAui0WNr3P1HWhUx) | 4:58 | 2022-04-08 |  |
+| [The Roaring Twenties](https://open.spotify.com/track/7jrR6S8gfJyVrWZ8K5FmsB) | [Maarten Ouweneel](https://open.spotify.com/artist/4tZfjyeyjqlORFxtCYJdjG) | [The Roaring Twenties](https://open.spotify.com/album/6Sy81CHsix5Idl3jkXs5sw) | 4:58 | 2022-04-08 | 2024-03-24 |
 | [Theme from a Perfect World](https://open.spotify.com/track/5s25dl6bXuRn6nyGJMgwe5) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Theme from a Perfect World](https://open.spotify.com/album/62bvGtckemXfkTyTs0sFbi) | 7:26 | 2021-05-04 | 2024-01-05 |
 | [Together](https://open.spotify.com/track/23R5kepMliUvCaq5hsug04) | [Sterfry](https://open.spotify.com/artist/2ZRvR99Cg42zMNIfEnP5HK), [Go Yama](https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum), [Jason Leech](https://open.spotify.com/artist/1RPNr9u1LyyIjFVrXdIq1G) | [Together](https://open.spotify.com/album/77ya30BnZ7Kat4yD8KCEN4) | 2:47 | 2022-11-11 |  |
 | [Tumescent](https://open.spotify.com/track/3YrsPyrXHkV5EZnSuyLpCN) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/0MUOKjKpJOWr9PFwgt4OtN) | 4:02 | 2021-05-04 | 2022-07-29 |

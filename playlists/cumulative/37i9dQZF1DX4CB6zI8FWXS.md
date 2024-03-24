@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: SiR
 
-381 songs - 20 hr 27 min
+382 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-03-21 |  |
 | [None Of My Business](https://open.spotify.com/track/3bx5C4deeuHmGyR066Hccc) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BB/ANG3L](https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM) | 2:31 | 2023-09-07 | 2023-12-08 |
 | [Not Worthy \(feat\. Nonso Amadi\)](https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Not Worthy \(feat\. Nonso Amadi\)](https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g) | 3:12 | 2023-05-11 | 2023-08-18 |
-| [Nothing Else Feels The Same](https://open.spotify.com/track/7AEdIhy2GLcoJ3nqqEjmjT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Nothing Else Feels The Same](https://open.spotify.com/album/5qBY1K1C7QoXWlmZ2yvV5L) | 3:04 | 2023-12-07 |  |
+| [Nothing Else Feels The Same](https://open.spotify.com/track/56iCLbDrPWYZ4nMkY8s1qj) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Nothing Else Feels The Same](https://open.spotify.com/album/5Y0aJrnGAdlWxvNzTTdyBH) | 3:03 | 2024-03-21 |  |
+| [Nothing Else Feels The Same](https://open.spotify.com/track/7AEdIhy2GLcoJ3nqqEjmjT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Nothing Else Feels The Same](https://open.spotify.com/album/5qBY1K1C7QoXWlmZ2yvV5L) | 3:04 | 2023-12-07 | 2024-03-24 |
 | [Nowhere](https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Nowhere](https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu) | 2:57 | 2023-11-16 | 2023-12-08 |
 | [Obvious \(feat\. Muni Long\)](https://open.spotify.com/track/2HXb9BYC7dPcrmcJi18GrZ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [22 \(Deluxe\)](https://open.spotify.com/album/3d34rQj5U6GoBSr1EqPkPd) | 3:39 | 2023-03-16 | 2023-03-25 |
 | [Often](https://open.spotify.com/track/3IcKY1xunfGXlYy9BMUEkt) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Often](https://open.spotify.com/album/4lc5ULEJzRFmnhRVqlyg86) | 2:35 | 2023-11-09 | 2023-11-17 |

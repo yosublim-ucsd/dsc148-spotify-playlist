@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 804565,
+  "2024-03-24": 804610,
   "date_first_scraped": "2019-09-29",
-  "description": "Smooth joints. Cover: Rhyan Douglas",
+  "description": "Smooth joints. Cover: Khruangbin",
   "name": "BUTTER",
   "tracks": [
     {
@@ -453,7 +453,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 255100,
       "name": "A Love International",
       "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
@@ -533,10 +533,28 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 231427,
       "name": "Afro Blue",
       "url": "https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/4qnV1lETL7Q41TaqiKqSiN"
+      },
+      "artists": [
+        {
+          "name": "Rhyan Douglas",
+          "url": "https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231427,
+      "name": "Afro Blue",
+      "url": "https://open.spotify.com/track/74URiG6anoH3ahw3SeDrZ4"
     },
     {
       "album": {
@@ -953,6 +971,28 @@
       "duration_ms": 249520,
       "name": "All the Noise",
       "url": "https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d"
+    },
+    {
+      "album": {
+        "name": "All The Same",
+        "url": "https://open.spotify.com/album/0PJURdQhTdpGqgEJ60SZHq"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Ria Moran",
+          "url": "https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324920,
+      "name": "All The Same",
+      "url": "https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk"
     },
     {
       "album": {
@@ -2220,6 +2260,24 @@
     },
     {
       "album": {
+        "name": "kokon",
+        "url": "https://open.spotify.com/album/2zckcXgFYNW53mXVfKlwLK"
+      },
+      "artists": [
+        {
+          "name": "KOFFIE",
+          "url": "https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Bessa",
+      "url": "https://open.spotify.com/track/1GClY6s7tBT9BnSWU1231A"
+    },
+    {
+      "album": {
         "name": "Best Feature (feat. Devin Morrison)",
         "url": "https://open.spotify.com/album/1GcA64V8B5DPt5QxVj7aF3"
       },
@@ -2993,7 +3051,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 306880,
       "name": "Bordeaux",
       "url": "https://open.spotify.com/track/7F80jeq0Nn8QeyNufWeV3D"
@@ -3395,6 +3453,24 @@
       "duration_ms": 283406,
       "name": "C-Side",
       "url": "https://open.spotify.com/track/6GvAM8oyVApQHGMgpBt8yl"
+    },
+    {
+      "album": {
+        "name": "Echologia",
+        "url": "https://open.spotify.com/album/7bIVzNE03KtbfwnSoqHZRX"
+      },
+      "artists": [
+        {
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247424,
+      "name": "Caldera",
+      "url": "https://open.spotify.com/track/5D46bBp3uBW53ZHuS04ERu"
     },
     {
       "album": {
@@ -3813,7 +3889,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 195038,
       "name": "CHANTE'S GROOVE",
       "url": "https://open.spotify.com/track/2qMKGSiQvgJAT7J94kloTB"
@@ -4101,7 +4177,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 205367,
       "name": "Closer Than We Can Get",
       "url": "https://open.spotify.com/track/2yurfRcpU4wa5ot5PL0mEE"
@@ -4567,7 +4643,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 198578,
       "name": "Counting Thunder",
       "url": "https://open.spotify.com/track/2KNqYDH4eHT15G6pzYreYO"
@@ -6623,7 +6699,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 158133,
       "name": "FAMJAM4000",
       "url": "https://open.spotify.com/track/6FDNS9i86Il7ZeGBf7H2Aa"
@@ -10864,6 +10940,24 @@
     },
     {
       "album": {
+        "name": "VELVET SOUL: SIDE A",
+        "url": "https://open.spotify.com/album/7lDhFYEScJqHq9UUEoxoct"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190623,
+      "name": "JAI'S SONG (FALLING)",
+      "url": "https://open.spotify.com/track/1iHTOugH78NYT5RUNGG0wn"
+    },
+    {
+      "album": {
         "name": "Jasmine",
         "url": "https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ"
       },
@@ -11783,7 +11877,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 241560,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
@@ -14292,7 +14386,7 @@
     },
     {
       "album": {
-        "name": "No Evil",
+        "name": "NO EVIL",
         "url": "https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R"
       },
       "artists": [
@@ -14305,7 +14399,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 145267,
-      "name": "No Evil",
+      "name": "NO EVIL",
       "url": "https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs"
     },
     {
@@ -14998,6 +15092,24 @@
     },
     {
       "album": {
+        "name": "One Night Stand",
+        "url": "https://open.spotify.com/album/3S2wJtXUAyA87jlBVxJMN4"
+      },
+      "artists": [
+        {
+          "name": "Marsha Ambrosius",
+          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256924,
+      "name": "One Night Stand",
+      "url": "https://open.spotify.com/track/2CDGP4sWDuaYkRB8C48dJA"
+    },
+    {
+      "album": {
         "name": "One Step at a Time",
         "url": "https://open.spotify.com/album/5M8qwElAbAHisdS1HgEeaB"
       },
@@ -15670,6 +15782,24 @@
     },
     {
       "album": {
+        "name": "Peach Optimo",
+        "url": "https://open.spotify.com/album/3Thk2OpOq4xLIg3Qmetarj"
+      },
+      "artists": [
+        {
+          "name": "Brainstory",
+          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170819,
+      "name": "Peach Optimo",
+      "url": "https://open.spotify.com/track/3RNLKLJyNYLh9t6ojhxN7B"
+    },
+    {
+      "album": {
         "name": "Pelota",
         "url": "https://open.spotify.com/album/2zX0TMRVNyesrH6kciPrQZ"
       },
@@ -16031,6 +16161,24 @@
       "duration_ms": 271063,
       "name": "Poke Bowl",
       "url": "https://open.spotify.com/track/4dbWZ8TTDOlf1rXjLXT52d"
+    },
+    {
+      "album": {
+        "name": "Pon P\u00f3n",
+        "url": "https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178436,
+      "name": "Pon P\u00f3n",
+      "url": "https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC"
     },
     {
       "album": {
@@ -16751,6 +16899,24 @@
       "duration_ms": 189257,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
+    },
+    {
+      "album": {
+        "name": "release! (THE KRAKEN)",
+        "url": "https://open.spotify.com/album/7tX0YPMk6534CBiqHDpY0D"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164493,
+      "name": "release! (THE KRAKEN)",
+      "url": "https://open.spotify.com/track/1io6ZvYgR23E6HEEkfza6G"
     },
     {
       "album": {
@@ -18133,7 +18299,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 186157,
       "name": "Smoke (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx"
@@ -18891,7 +19057,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 173246,
       "name": "Stars at Midnight",
       "url": "https://open.spotify.com/track/11BoVe8hJPrRWB5OcC1F2i"
@@ -18993,6 +19159,24 @@
       "duration_ms": 164620,
       "name": "Steady",
       "url": "https://open.spotify.com/track/1mC3szr3FGsSzPBcvjweEI"
+    },
+    {
+      "album": {
+        "name": "Stealing A Kiss",
+        "url": "https://open.spotify.com/album/5i9nk8WvKRe0d78UaCba9u"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295696,
+      "name": "Stealing A Kiss",
+      "url": "https://open.spotify.com/track/5kdZiJ0KIPEyQ42xLj61Gt"
     },
     {
       "album": {
@@ -22092,6 +22276,32 @@
     },
     {
       "album": {
+        "name": "Weak (Mav's Version)",
+        "url": "https://open.spotify.com/album/56v6sdACC0SuLiSvtsilLN"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Tom Breu",
+          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164475,
+      "name": "Weak - Mav's Version",
+      "url": "https://open.spotify.com/track/3j6Zfk3H6v9IO6r48YdKVo"
+    },
+    {
+      "album": {
         "name": "Weep, No More",
         "url": "https://open.spotify.com/album/2nw55c24zEeo0RAhQhkWxB"
       },
@@ -22143,7 +22353,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 221702,
       "name": "Welcome to Nostalgia",
       "url": "https://open.spotify.com/track/42ES1zVyBVYY0oLeLTJK5Q"

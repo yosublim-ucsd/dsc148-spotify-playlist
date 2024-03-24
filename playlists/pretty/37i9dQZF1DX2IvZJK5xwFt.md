@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,750 likes - 66 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,819 likes - 66 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 65 | [Pull Me Through](https://open.spotify.com/track/4EmnzJLkWYI9JyYTWtnOVT) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:08 |
 | 66 | [blame me for everything](https://open.spotify.com/track/5gdiHedipHaBBXcp7TkPmK) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [blame me for everything](https://open.spotify.com/album/1t8JBCtRzQaHY6ZQXEt3Z1) | 2:13 |
 
-Snapshot ID: `MCw3MmYwNWNkMzI4ZTM1MjliODhlZjhiOWQ0ZTE2Nzc2OTdjYWI1NzA5`
+Snapshot ID: `MCxlOTlhYTkzN2QxYWExMmI0MzI3MTcxYzBjNWU4YzA2ZmYxMzgyNThi`

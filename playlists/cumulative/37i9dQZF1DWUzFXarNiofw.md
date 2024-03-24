@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Bryson Tiller
 
-2,203 songs - 4 day 21 hr 6 min
+2,204 songs - 4 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,7 +700,8 @@
 | [GARDEN](https://open.spotify.com/track/4MYWrbhij9Hzw0uiISC22V) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [GARDEN](https://open.spotify.com/album/4wMv9aiDF7X54OsuoorW6O) | 2:26 | 2024-02-23 | 2024-03-23 |
 | [Garden Party](https://open.spotify.com/track/7166FiVEnGCG27MITo4kXC) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Garden Party](https://open.spotify.com/album/7p0R9IR7TOzFe7rENEKQn9) | 3:49 | 2021-12-17 | 2022-02-05 |
 | [Gaslight](https://open.spotify.com/track/64jK5HLnuxyCv4tYODdBXx) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [Gaslight](https://open.spotify.com/album/4FxyBQB6mQTPWcyxoVZSrY) | 2:36 | 2021-12-17 | 2022-01-15 |
-| [Gaslight 101](https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl) | 2:59 | 2024-03-15 |  |
+| [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 | 2024-03-15 |  |
+| [Gaslight 101](https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl) | 2:59 | 2024-03-15 | 2024-03-24 |
 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 | 2023-11-24 | 2024-03-02 |
 | [GEMINI](https://open.spotify.com/track/34Sk8GspB5vPnht7zz1jB3) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv), [Sergio Mauve](https://open.spotify.com/artist/0dbDzy4nFeyVqSvOZtGCmg) | [TANGERINE](https://open.spotify.com/album/3Lgv3tNI5QAdRVzBOBq5YT) | 2:47 | 2023-09-01 | 2023-10-21 |
 | [Gemini Guy](https://open.spotify.com/track/4FrHTjt1GcPcsxv0TD73OA) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Gemini Guy](https://open.spotify.com/album/4ZGvKDHg9bmlNTVqmQhyJR) | 3:23 | 2023-12-08 | 2024-02-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Öykü Dörter  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,161 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,229 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 49 | [Hevesini Kaçırdım](https://open.spotify.com/track/1vCbcWL0Ktbo5hY9nTUTfq) | [Pagos](https://open.spotify.com/artist/2zSXEgUGkBrR8dDM15Wn7G) | [Hevesini Kaçırdım](https://open.spotify.com/album/4uJXqtlpqfGjUNKyvObkdP) | 4:17 |
 | 50 | [Ahenk](https://open.spotify.com/track/5BVUF8zdjyZ5g6mjPDSiMc) | [Babafonik](https://open.spotify.com/artist/3h2qbz8i6hX5d1d1VWI4p8), [Miray Kolat](https://open.spotify.com/artist/10dz3FIpFRyMMUWnnMX81r) | [Ahenk](https://open.spotify.com/album/4AI8tq9uxk3pRSkivCFIes) | 4:52 |
 
-Snapshot ID: `MCwxODAwOTIxOTg3YTc1YmQyNmU2M2I0NjFhOWE1NjgzNzMyZWIxZTJi`
+Snapshot ID: `MCwwYjQxMjc0YjlhYWZiYzM3YTdlYjI0MDhmNWJiOGYxNjhlM2Y4NTdl`

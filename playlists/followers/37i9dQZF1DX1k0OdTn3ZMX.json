@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 36329,
+  "2024-03-24": 36503,
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Graphic Nature.",
+  "description": "n\u00fc-metal revival is happening here and now with P.O.D.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -1736,6 +1736,24 @@
     },
     {
       "album": {
+        "name": "The Far Side",
+        "url": "https://open.spotify.com/album/5zaUnNofkyCxciWctoPush"
+      },
+      "artists": [
+        {
+          "name": "Vended",
+          "url": "https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298834,
+      "name": "The Far Side",
+      "url": "https://open.spotify.com/track/2SFT6AM3747gFDvuSlzFk4"
+    },
+    {
+      "album": {
         "name": "A Wonderful Life",
         "url": "https://open.spotify.com/album/6r09VreaN9XExE5fS6NoTv"
       },
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 190434,
       "name": "\u0442\u0432\u043e\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0431\u0443\u0434\u0435 \u0437\u0440\u0443\u0439\u043d\u043e\u0432\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/4xilakhsg8Sofck34wpRvV"

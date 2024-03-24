@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pGqUCAZhrO.md) - [plain]
 
 > Live by your own rules\. Listen to the official playlist inspired by Bel\-Air, streaming now exclusively on  <a href="https://www.peacocktv.com/stream\-tv/bel\-air">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,888 likes - 57 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,909 likes - 57 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pGqUCAZhrO.md) - [plain]
 | 26 | [GHOST RIDE](https://open.spotify.com/track/15KqIJ5Kc3vC8KRi57cMY7) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [BLK VINTAGE](https://open.spotify.com/album/6psFVVvkFCxIvS8j4N3DkF) | 2:30 |
 | 27 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 |
 | 28 | [DAYDREAM](https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 3:01 |
-| 29 | [Life Is Good \(feat\. Scribz Riley\)](https://open.spotify.com/track/4bxr2sOVZSLjIN7tQx53ir) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Life Is Good \(feat\. Scribz Riley\)](https://open.spotify.com/album/6rdfmpRVrUn1B7Q8rSCHZj) | 4:16 |
+| 29 | [Life is Good \(feat\. Scribz Riley\)](https://open.spotify.com/track/1nY6jXOGR1ZQyUXDyRHWDc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Life Is Good \(feat\. Scribz Riley\)](https://open.spotify.com/album/0tkCUMBnkXcc3L9hN9gNbz) | 4:16 |
 | 30 | [Bag \(with Lucky Daye\)](https://open.spotify.com/track/5snvaaFZTahc1OGkBvhgrn) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Lush Life](https://open.spotify.com/album/4Z3clJrBFpORXTaP6D5t2v) | 3:31 |
 | 31 | [Dango](https://open.spotify.com/track/3X7JVx8CYnFwVGiyU6hFhl) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Hits No Mrs](https://open.spotify.com/album/5D2gr5bZhNnVZZqXQ7SbSA) | 2:49 |
 | 32 | [Hotline](https://open.spotify.com/track/7AY5raqt9cEligkpFETuAa) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Hummingbird](https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy) | 2:28 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pGqUCAZhrO.md) - [plain]
 | 34 | [Something New](https://open.spotify.com/track/1DIiweLAaNKsvmsqIAvvlT) | [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS), [Dom Chronicles](https://open.spotify.com/artist/7mgK6KML8KMHLtGO0vYlYS), [See Dee](https://open.spotify.com/artist/52T6Q1CeTYIl17Wif4KsAu) | [Something New](https://open.spotify.com/album/7ErhmToVStzzwX3XvNl0A6) | 3:14 |
 | 35 | [Woah](https://open.spotify.com/track/5E8MF5ELxfCxRWifMTWRsw) | [aroomfullofmirrors](https://open.spotify.com/artist/4CxaPxktjqoN6F9nyftKYW) | [Money Bags](https://open.spotify.com/album/1L8HxyYlmretDqwSWzuZCS) | 3:20 |
 | 36 | [This Morning \(feat\. Arin Ray & Smino\)](https://open.spotify.com/track/4jpYCWEXF3tYlWrIEyVnxm) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [DRONES](https://open.spotify.com/album/4hUrJlyPeYFNhUanFrwBFc) | 3:43 |
-| 37 | [Satisfaction](https://open.spotify.com/track/3XLDQwrRn2gC73UA2b9Bnc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Satisfaction](https://open.spotify.com/album/78X3MDElRpnb0R0zZxwfys) | 2:10 |
+| 37 | [Satisfaction](https://open.spotify.com/track/3Dk7R9wRA9Y9uTk8IVnuDi) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Satisfaction](https://open.spotify.com/album/2BYmwYfn4GAalGxMmhp0nM) | 2:10 |
 | 38 | [Kool Aid](https://open.spotify.com/track/5Gcvy4sBxYdpWj2f54K2ua) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis.](https://open.spotify.com/album/5udBfaGdflGiQRkL9TORN2) | 2:33 |
 | 39 | [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 |
 | 40 | [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pGqUCAZhrO.md) - [plain]
 | 56 | [Swagg Talk](https://open.spotify.com/track/3uGoSNkxwxEgoxhaYkF6F9) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [Swagg Talk](https://open.spotify.com/album/3Y7iKUxDQ2xcCYMFu4HsR2) | 2:58 |
 | 57 | [MiNi VaN](https://open.spotify.com/track/1jnJ0EKN5QbukBo8qkwmCv) | [Amaru Son](https://open.spotify.com/artist/1j4IqKoo9teP3cGdB5d1Ut) | [MiNi VaN](https://open.spotify.com/album/7vJO9gTpNEQsBqXA1DtrPe) | 2:08 |
 
-Snapshot ID: `MCwxZGFkM2Y4MjVmOTJkYWMwYzlhNDdjODAyMzNhZjY4YjhiYjJhNWM5`
+Snapshot ID: `MCw3M2VkYWIzNDJlZDBlZDk4ZGJkMzYzZDc5MzViZTM1MmY2OTM3NWYy`

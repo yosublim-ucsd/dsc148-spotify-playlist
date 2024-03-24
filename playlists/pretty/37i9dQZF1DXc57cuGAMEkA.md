@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Tyla, Olivia Rodrigo, JVKE,  PNAU and more! cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,041 likes - 84 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,050 likes - 84 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 83 | [Something in the Room She Moves](https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 6:18 |
 | 84 | [Jukebox Johnny](https://open.spotify.com/track/2QfIPh7c5QrP0mfXWpAA7Y) | [Diane Birch](https://open.spotify.com/artist/5m2sKBa2fJAm4P2MWfopum) | [Jukebox Johnny](https://open.spotify.com/album/5K8vHM9q5Zbw5sSif2xSmQ) | 4:18 |
 
-Snapshot ID: `MCw5ODRmMjQ3Yjg4MmYzOTU2YjJkMDY1YjA2MzA5ZGQwYWMzMTc5MDEz`
+Snapshot ID: `MCw4YzM4NGJkZTdjMTc4MjI2NTQ0N2MxM2Q2MDc3ODNiMmE5YWMwMzc1`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Kenya Vaun
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,538 likes - 97 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,565 likes - 97 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yesterday](https://open.spotify.com/track/2KU6NNHXLbXPDgzwzuc4d9) | [Kenya Vaun](https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk) | [The Honeymoon Phase](https://open.spotify.com/album/4WfYXkR5ufqGEyZteQHzkT) | 3:27 |
 | 2 | [Beggin'](https://open.spotify.com/track/0yJIF1o3HggZCMgTSGWlEj) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Beggin'](https://open.spotify.com/album/3dcCGh01JOXtrefNVmOpsk) | 3:57 |
-| 3 | [Intergalactic Janet](https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/3vS1oa8XAK2I4BLsMPEsK2) | 2:40 |
+| 3 | [Intergalactic Janet](https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj) | 2:40 |
 | 4 | [Move](https://open.spotify.com/track/5g6Oon5f65EzBXHpIM3quE) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Move](https://open.spotify.com/album/00f6VPIgwapHjGZWxkAeKq) | 3:39 |
 | 5 | [11th Hour](https://open.spotify.com/track/63E8fk3JnHd5kEpL29tA8w) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [11th Hour](https://open.spotify.com/album/0hZoP4o7c995gK0cEIssHK) | 2:45 |
 | 6 | [Show You Why](https://open.spotify.com/track/3muePZbjLu66YSChxJY5WZ) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 3:53 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 96 | [TODAY](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [TODAY](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 |
 | 97 | [Psycho Bitch](https://open.spotify.com/track/3DRBBbiVNkHlRrfalETplk) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Bet That](https://open.spotify.com/album/7mmBqDdCZwqn4g30GAuteH) | 3:07 |
 
-Snapshot ID: `MCxiMGU5YjY5YWE2MzI5MDI3ZDI3M2YwZGYzNGQ1ZDMzYzk3NjQwOTBm`
+Snapshot ID: `MCw5ZTkxOGJiNzZkZmVlN2M2MGQ3Y2E5ZTEzNDZjZDMwNDU2YmJiNTY3`

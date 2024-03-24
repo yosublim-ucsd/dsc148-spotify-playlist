@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > AUS ALT CLASSICS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,157 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,156 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 49 | [Forever Young](https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi) | [Youth Group](https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq) | [Casino Twilight Dogs](https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd) | 3:59 |
 | 50 | [Good Dancers](https://open.spotify.com/track/1cgaecAot8h0u3rKnKsK1n) | [The Sleepy Jackson](https://open.spotify.com/artist/4p8paFuSiFNTvYFXNr5kIr) | [Beers On The Balcony](https://open.spotify.com/album/065JK2w3G9AUdXcXRj5Ti7) | 4:14 |
 
-Snapshot ID: `MCxkNjZkNjQwOTdlZmYyOGFhMDZmMzkzYjlkOThhZmJhYjY2NmYwMzM1`
+Snapshot ID: `MCw1NjE0NmYwMWExYjdiYjVlOWM2MzE4MjhkN2Y2YzZiMGY0N2M1NDIz`

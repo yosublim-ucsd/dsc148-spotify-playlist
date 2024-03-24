@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,263 likes - 151 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,473 likes - 151 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 55 | [Ethereal Nocturne](https://open.spotify.com/track/1bFtBuRwJXKiDfZ7ZYbtrg) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Alleviation](https://open.spotify.com/artist/35tzlkReXUs4XX5hXtaPpw), [Soothing Buzz](https://open.spotify.com/artist/7c6K2xsxh9HtmnzpNb4NIx) | [Ethereal Nocturne](https://open.spotify.com/album/1hdW4BXsPwsK21WjY95sB9) | 2:07 |
 | 56 | [Immersed In Dreams](https://open.spotify.com/track/1zv82sM9K7nEGh2aJ71r7b) | [Heart 2 Heart Relaxing Music](https://open.spotify.com/artist/5z0DWZhG5UimahCQNsszXe) | [Immersed In Dreams](https://open.spotify.com/album/3PrhDThftipDfJZO203rmH) | 2:25 |
 | 57 | [illusions](https://open.spotify.com/track/698R7hMTRpd8ZfxJN6PkyM) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [illusions](https://open.spotify.com/album/0Y7P4AdRAfhZXGDJOD6Gl5) | 3:43 |
-| 58 | [Tender Love](https://open.spotify.com/track/7p6lihQg27Oj3epadrLBZ9) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Tender Love](https://open.spotify.com/album/55kdd6zXr1be4yQCmJHdPJ) | 2:09 |
+| 58 | [Tender Love](https://open.spotify.com/track/7p6lihQg27Oj3epadrLBZ9) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Tender Love](https://open.spotify.com/album/55kdd6zXr1be4yQCmJHdPJ) | 2:09 |
 | 59 | [Luminosity](https://open.spotify.com/track/1PVLc2tNYxxrgyHI2s4FM6) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Luminosity](https://open.spotify.com/album/2OrA9ivt5bPKHqc8Yrq3tf) | 3:05 |
 | 60 | [W\(e\) ave](https://open.spotify.com/track/2c7iYzP1tXuWYZinkscVXn) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [W\(e\) ave](https://open.spotify.com/album/6KmOntC15CAQj0cmWyuAZJ) | 3:44 |
 | 61 | [Eclipse](https://open.spotify.com/track/7BnfMue7oWPC0PO7zfPQAE) | [iamrw](https://open.spotify.com/artist/6Oo1b13eDooVjwNQHiFd5c) | [That Summer When We Met](https://open.spotify.com/album/4P5p2R8KInwS7VrVtBV1o2) | 2:12 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 150 | [Matinaka](https://open.spotify.com/track/0fyvaevkqF24i9laNCyvgl) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Zanzou](https://open.spotify.com/album/7y23NtZPMebkQxHL8YY144) | 3:02 |
 | 151 | [Bohemian Paradise](https://open.spotify.com/track/6IdB80rkZp5uaKooVoxpjA) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In the Age of Aristrocracy \(2 Year Anniversary Extended Edition\)](https://open.spotify.com/album/0x6TBcRG1kyb1Rh5RvXfUL) | 4:54 |
 
-Snapshot ID: `MCxmZWQ1NGQyNzZlNzcwYzM0ZjQ4OWVkNDBkZTNiYzhkOGYzOTA1ZDY3`
+Snapshot ID: `MCw0Y2FiODQ1YTE2NmViMzhkNzZiNjhlYzMxMWUxYmRjYTQ2M2Q0ZWQ3`

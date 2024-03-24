@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 137224,
+  "num_followers": 137259,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjMxMTE4Y2E3OTFhMTMwMzg2YmU5Y2RmY2Q3NjllMWQzNzcxNmUw",
+  "snapshot_id": "MCw2MTkwMzk5NmMxMGUxZDMwNzFhZGU3NjIwNjZlNDljMWRhNzJmYzI5",
   "tracks": [
     {
       "added_at": "2023-10-06 04:04:27",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Sua Paz",
-        "url": "https://open.spotify.com/album/1EtfVJ2AQkFGwIrRquN00y"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Sua Paz",
-      "url": "https://open.spotify.com/track/6V0fI11nicirapOakPVLO4"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Al\u00e9m do Que Se V\u00ea",
         "url": "https://open.spotify.com/album/4ysGU8xBKFVw1aB1kowUQ2"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 301704,
       "name": "Al\u00e9m do Que Se V\u00ea",
       "url": "https://open.spotify.com/track/0x8YDLkajRloMiTP8UO9uM"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Sua Paz",
+        "url": "https://open.spotify.com/album/1EtfVJ2AQkFGwIrRquN00y"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Sua Paz",
+      "url": "https://open.spotify.com/track/6V0fI11nicirapOakPVLO4"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
-        "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
-      "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "comigo",
         "url": "https://open.spotify.com/album/3fx98vrazoPSCNfiDtjQUn"
       },
@@ -367,22 +351,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Rastros e Trilha",
-        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
-      },
-      "artists": [
-        {
-          "name": "Os Arrais",
-          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "Deserto",
-      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Tantos Mares",
         "url": "https://open.spotify.com/album/18fvdisM9gH3ZWH6ETAGBd"
       },
@@ -399,6 +367,38 @@
       "duration_ms": 280266,
       "name": "Tantos Mares",
       "url": "https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Rastros e Trilha",
+        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
+        "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
+      "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Vai Ficar Tudo Bem",
+        "url": "https://open.spotify.com/album/6Jn1wSFx0bo4GYCc66mslN"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Vai Ficar Tudo Bem",
+      "url": "https://open.spotify.com/track/2CYlC1aTQZW5YuXz5xIXAJ"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "Dear God (Acoustic)",
         "url": "https://open.spotify.com/album/3gxqjuUVhBQ0Gb3tRZyD2m"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 217373,
       "name": "Dear God - Acoustic",
       "url": "https://open.spotify.com/track/4qCv9ASsTJ4kg8gsUWUaAD"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Vai Ficar Tudo Bem",
-        "url": "https://open.spotify.com/album/6Jn1wSFx0bo4GYCc66mslN"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Vai Ficar Tudo Bem",
-      "url": "https://open.spotify.com/track/2CYlC1aTQZW5YuXz5xIXAJ"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Eu Quero Voltar",
-        "url": "https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW"
-      },
-      "artists": [
-        {
-          "name": "Lancellote",
-          "url": "https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K"
-        }
-      ],
-      "duration_ms": 213762,
-      "name": "Eu Quero Voltar",
-      "url": "https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "O Banquete",
         "url": "https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Descansar em Ti",
-        "url": "https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef"
+        "name": "Eu Quero Voltar",
+        "url": "https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW"
       },
       "artists": [
         {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+          "name": "Lancellote",
+          "url": "https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K"
         }
       ],
-      "duration_ms": 225230,
-      "name": "Descansar em Ti",
-      "url": "https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ"
+      "duration_ms": 213762,
+      "name": "Eu Quero Voltar",
+      "url": "https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -975,6 +959,22 @@
       "duration_ms": 210495,
       "name": "M\u00e3o No Arado",
       "url": "https://open.spotify.com/track/5ugXpVjpBle03j9zWdl42w"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Descansar em Ti",
+        "url": "https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Descansar em Ti",
+      "url": "https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Louvor IV",
+        "url": "https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9"
+      },
+      "artists": [
+        {
+          "name": "O Bairro Novo",
+          "url": "https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD"
+        },
+        {
+          "name": "Joyce Carnassale",
+          "url": "https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z"
+        }
+      ],
+      "duration_ms": 292788,
+      "name": "Louvor IV",
+      "url": "https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "Leidy Murilho Ac\u00fastico",
         "url": "https://open.spotify.com/album/2MS6GGTpTl5CcgqkvU0CGu"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 265982,
       "name": "Coragem",
       "url": "https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Louvor IV",
-        "url": "https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9"
-      },
-      "artists": [
-        {
-          "name": "O Bairro Novo",
-          "url": "https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD"
-        },
-        {
-          "name": "Joyce Carnassale",
-          "url": "https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z"
-        }
-      ],
-      "duration_ms": 292788,
-      "name": "Louvor IV",
-      "url": "https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf"
     },
     {
       "added_at": "2023-10-06 04:04:27",

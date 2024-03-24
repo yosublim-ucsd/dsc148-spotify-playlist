@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: VALENTINO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,023 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,031 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 59 | [sin:querer](https://open.spotify.com/track/5BhcuTnhDxX6OWRSGX3Hkt) | [garbí](https://open.spotify.com/artist/0VqZ86s4Z8DHDNHFwYf0oM) | [sin:querer](https://open.spotify.com/album/2Etms9Ah27s4YeHiT6eskG) | 4:36 |
 | 60 | [Palabras BLA BLA BLA](https://open.spotify.com/track/7rZbrBE2HjNs6VbEoGX6QL) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Palabras BLA BLA BLA](https://open.spotify.com/album/5pOuKO8gUoOJ6wDQf8TWxs) | 2:22 |
 
-Snapshot ID: `MCwyN2M3NjcyNDhlZTI4MzZiZTM5ZGE4N2Q0NGNlMWIyNDA2ZTcxYjhh`
+Snapshot ID: `MCw3ZmViYjE2NjdiZTI0ZmM2ZmM1YjA1Nzk3NzAyZGZjYzM4MGNjMWI2`

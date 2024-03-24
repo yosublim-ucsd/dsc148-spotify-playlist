@@ -4,7 +4,7 @@
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-88 songs - 4 hr 57 min
+89 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,8 +77,9 @@
 | [Somebody](https://open.spotify.com/track/6uRLeaoBrxr8AaTXnLSlgS) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Somebody](https://open.spotify.com/album/45EqNmQsfluL4ePkiYiK2R) | 3:29 | 2021-06-02 | 2022-11-13 |
 | [Somebody](https://open.spotify.com/track/6nVEkpMdoxA1xjcur12B7V) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/5ALipDbGrV5mJxJqt1MNN1) | 3:29 | 2021-06-02 | 2022-07-29 |
 | [Spellbound](https://open.spotify.com/track/3ePwkVyUDNo4UnITQWZcRS) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju \(Remastered & Expanded\)](https://open.spotify.com/album/5ShmAjEGEkWROooVfA0Amb) | 3:17 | 2021-06-02 | 2022-07-29 |
-| [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 | 2021-06-02 |  |
+| [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 | 2021-06-02 | 2024-03-24 |
 | [Spellbound](https://open.spotify.com/track/145n1vo3ytXLjgHMqeCKaE) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Halloween Songs](https://open.spotify.com/album/6gkjZRDaSatdlwp9ZMtIzu) | 3:17 | 2021-06-02 | 2022-11-13 |
+| [Spellbound](https://open.spotify.com/track/28rmYerSDjX81r5KCevY7G) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Best Of...](https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX) | 3:17 | 2021-06-02 |  |
 | [Standing In the Way of Control](https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW) | 4:16 | 2021-06-02 |  |
 | [Standing In the Way of Control](https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr) | 4:16 | 2021-06-02 | 2023-04-29 |
 | [Swimming](https://open.spotify.com/track/26waIACYioi2N1iZ1MAuno) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Manifesto](https://open.spotify.com/album/1ZxUVlOjWCsORB6WKpCMpI) | 3:21 | 2021-06-02 |  |

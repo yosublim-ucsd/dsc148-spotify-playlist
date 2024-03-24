@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: Matt Champion
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,477 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,492 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 36 | [Troubled Ones](https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Troubled Ones](https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn) | 2:40 |
 | 37 | [Jag vill ha allt](https://open.spotify.com/track/5LQqxkVZnA5kvbzHOMFjde) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Orion](https://open.spotify.com/album/5JvejhNPdxVVPTP9P8bxXf) | 3:26 |
 | 38 | [symptom of life](https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [symptom of life](https://open.spotify.com/album/7geRIwdu4x2plurupRu4GA) | 3:09 |
-| 39 | [u.](https://open.spotify.com/track/31YKmnHqN03fMd8XhEy6Et) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP), [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [u.](https://open.spotify.com/album/6QhYWeJu70SNRcKnVCGcPQ) | 2:39 |
+| 39 | [u.](https://open.spotify.com/track/1II7Rpz0ILbz3YfeWi8Nov) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP), [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 2:39 |
 | 40 | [31 Bloom](https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 5:52 |
 | 41 | [Atlantis](https://open.spotify.com/track/7cSWxKJOYcIj7orwt0pUsW) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN) | [Atlantis / Drift](https://open.spotify.com/album/0PrL6tpjj9q7IcBveZjrCf) | 3:33 |
 | 42 | [ROOM IS ON FIRE \(feat\. AG Club\)](https://open.spotify.com/track/1LgfBZnwX0IDLNrVbMZbzV) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [ROOM IS ON FIRE \(feat\. AG Club\)](https://open.spotify.com/album/7m5a2dvnmwnce97spFC8Fy) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 99 | [27AM](https://open.spotify.com/track/0btuN3Oea2yRolMgI67uPO) | [zivve](https://open.spotify.com/artist/4uBfAtQBqmCA5dwvU6cq7v) | [27AM](https://open.spotify.com/album/7IEniMglg0CFSh8bKfGJen) | 1:35 |
 | 100 | [Gold Rush \- Primum Mobile Mix](https://open.spotify.com/track/5dAtzYqP0L1WKwrBmM4xhv) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Absolute Music 2/5](https://open.spotify.com/album/25bS2Xce1Dsjl2yaewiRhP) | 4:09 |
 
-Snapshot ID: `MCw1MzMxMDJiZDJjMDM3N2E5MWZlM2ZjZjJhY2EwYTYyZjY5NmFiNzE0`
+Snapshot ID: `MCwyNTNhYTBiNDc3OTc0MzE1MDgyY2VlNjZiMTZmZWNjN2RlMGI5ZTM0`

@@ -1,12 +1,12 @@
 {
   "description": "pra entrar e ficar na onda",
-  "num_followers": 12017,
+  "num_followers": 12039,
   "original_name": "Jersey BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjE5ZGVjOWI5MGIwZDg3YjI0OTE4YjJkZmFlNjg1ZTA5MDU3MGRk",
+  "snapshot_id": "MCw2NDkxOTc2MDRiNTVjYTQxNTg5MjE3Y2JjMmY1MDZmYTkxMjdiMWUz",
   "tracks": [
     {
       "added_at": "2024-03-22 03:01:00",
@@ -262,6 +262,10 @@
         {
           "name": "Gu$t",
           "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
+        },
+        {
+          "name": "Eliefe",
+          "url": "https://open.spotify.com/artist/2VHOlZANAKceDEEKlzSf4U"
         }
       ],
       "duration_ms": 150400,

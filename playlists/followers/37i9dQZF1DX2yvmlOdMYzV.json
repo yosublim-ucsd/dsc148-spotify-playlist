@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 934038,
+  "2024-03-24": 934104,
   "date_first_scraped": "2021-12-30",
   "description": "Indie soul that's highkey fire ",
   "name": "Lowkey",
@@ -973,6 +973,28 @@
       "duration_ms": 206608,
       "name": "Better Care",
       "url": "https://open.spotify.com/track/0ObifqYUwrZOSDSkgJMGLf"
+    },
+    {
+      "album": {
+        "name": "Better Care (Remix)",
+        "url": "https://open.spotify.com/album/45CNxXO0n5ZWhp1RtquSLR"
+      },
+      "artists": [
+        {
+          "name": "UNA MIA",
+          "url": "https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0"
+        },
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219652,
+      "name": "Better Care - Remix",
+      "url": "https://open.spotify.com/track/0vxQhrAQYLElaXMh2EFB4l"
     },
     {
       "album": {
@@ -3978,6 +4000,24 @@
     },
     {
       "album": {
+        "name": "Gaslight 101",
+        "url": "https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Gaslight 101",
+      "url": "https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs"
+    },
+    {
+      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -5851,7 +5891,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 177786,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/4fECQCAJRoonwoGXi898an"
@@ -7648,6 +7688,32 @@
     },
     {
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/00f6VPIgwapHjGZWxkAeKq"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        },
+        {
+          "name": "Grimm Lynn",
+          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
+        },
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/5g6Oon5f65EzBXHpIM3quE"
+    },
+    {
+      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/78CsycL5yFdeyd8h9o37U6"
       },
@@ -9207,7 +9273,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 284266,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/2JydmjbQ7nGdVI6HbumkLA"
@@ -9251,7 +9317,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 149343,
       "name": "ROAD RAGE (feat. Wakai)",
       "url": "https://open.spotify.com/track/6VxLtT1zcFnQ9BnTXQqFo5"
@@ -11027,7 +11093,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 160554,
       "name": "the evidence",
       "url": "https://open.spotify.com/track/4jeT6Z5VHsmx4EEG3kED7n"
@@ -11329,6 +11395,24 @@
       "duration_ms": 169019,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/0qEeRTvWCUZ9PaCaS1ehwK"
+    },
+    {
+      "album": {
+        "name": "The Burden of Fever Dreams",
+        "url": "https://open.spotify.com/album/5uLDLgEEZgACeR6JiCeg9H"
+      },
+      "artists": [
+        {
+          "name": "Ethel",
+          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160475,
+      "name": "Time Apart",
+      "url": "https://open.spotify.com/track/7Bi4OrBlggm1PaobdxW9Up"
     },
     {
       "album": {

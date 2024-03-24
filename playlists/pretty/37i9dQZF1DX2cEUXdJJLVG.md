@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,495 likes - 157 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,512 likes - 157 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 3 | [Re\-Up](https://open.spotify.com/track/7yThFb95n51KWFbwbfb3P0) | [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [Re\-Up](https://open.spotify.com/album/4oGuEHTCrs3ZAAL4yzaQEH) | 3:19 |
 | 4 | [Manifesting](https://open.spotify.com/track/2XdZMTKMHb3Je7Prcmxtps) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [1STVIRGINIA](https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Manifesting](https://open.spotify.com/album/4ObW0M1vdnhLmFlwSTxu4P) | 2:48 |
 | 5 | [Time Machine \(feat\. Thundercat & James Fauntleroy\)](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine \(feat\. Thundercat & James Fauntleroy\)](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 |
-| 6 | [circles](https://open.spotify.com/track/26EQGfXXAxCnrNA3d5BpfC) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [circles](https://open.spotify.com/album/5QQyX1Cc3XJ4oxLK3Wvpzc) | 2:28 |
+| 6 | [circles](https://open.spotify.com/track/5snFgC1DedpQ5yhJINZ70A) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 2:28 |
 | 7 | [Celebrate](https://open.spotify.com/track/61PmSBnABgBhqKhv33P27n) | [Ebony Winter](https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk) | [Celebrate](https://open.spotify.com/album/6w6fnwF3to11WEGJCzM715) | 3:03 |
 | 8 | [be like that](https://open.spotify.com/track/0m3vkFhDCpZfkh0Si3AEEt) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD) | [no sleep in LA \- deluxe edition](https://open.spotify.com/album/5WDCUqOIXtmhICXT1c9fYl) | 2:29 |
 | 9 | [Lighthouse](https://open.spotify.com/track/46788befoNH7QS8zLZbfJT) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Lighthouse](https://open.spotify.com/album/2Xl05sxgAvqCXhQo4A1SQ4) | 3:40 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 156 | [Hey Amy!](https://open.spotify.com/track/64x6DYFIlWKRtGMeOdNkfN) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Ketta](https://open.spotify.com/artist/23iAWqyfMe6hnEkfI6UFTe), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Hey Amy!](https://open.spotify.com/album/7AFsIiFME2aS8qccETnkBp) | 2:57 |
 | 157 | [Drowning in Your Love \- Gold Edit](https://open.spotify.com/track/3HYanTbvNE4gyjnbjgxOoO) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze) | [ICARUS](https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p) | 3:47 |
 
-Snapshot ID: `MCw2ZmJkZmU5ZTFkZjgyNGQzYWI3NjYzY2QzNzkzNTUxYmM3ZmU4Njdl`
+Snapshot ID: `MCxkZjRlM2RhYzVlMTU2OTExMDU5NDVjYTEyYjM2YTI2MzZmNTcxNWMw`

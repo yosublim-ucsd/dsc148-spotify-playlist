@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\.  Cover: Clairo
 
-930 songs - 2 day 0 hr 17 min
+931 songs - 2 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 | 2021-10-08 |  |
 | [Amtrak](https://open.spotify.com/track/5F6ekGcdu623mkhTVgk64Z) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Looking Back](https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z) | 2:56 | 2021-05-01 | 2022-12-15 |
 | [Amtrak](https://open.spotify.com/track/5qAfSmdzTbYQmFUQUN2scR) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Amtrak](https://open.spotify.com/album/55UJtm6GzBNM9wjR6twP5g) | 2:56 | 2021-05-01 | 2022-04-17 |
-| [another day](https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [another day](https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym) | 2:09 | 2023-09-08 |  |
+| [another day](https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [another day](https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym) | 2:09 | 2023-09-08 | 2024-03-24 |
 | [Another Moment \(That Hurt Me More Than Any Moment\)](https://open.spotify.com/track/42AsCRWwmQ1jNFwc7umFkR) | [Billy Uomo](https://open.spotify.com/artist/5sy7urwVs9FG9U82yvwmkY) | [All Trash No Love](https://open.spotify.com/album/3n619cmyhuoWFVwhTmRmDf) | 3:49 | 2019-09-18 | 2021-05-23 |
 | [Antidote](https://open.spotify.com/track/7GdGBGwFMg21mY9kNpNKXI) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/3fUfLlnvi1phe0vKhDBKwM) | 2:49 | 2019-07-30\* | 2022-07-29 |
 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 | 2021-02-27 |  |
@@ -158,6 +158,7 @@
 | [childish](https://open.spotify.com/track/3DjoJbtUyKN2ydYbVZq4Gg) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [childish / sanctuary](https://open.spotify.com/album/2CnVGmUmGV68rcg2ec9Jw9) | 2:27 | 2021-05-23 | 2021-05-28 |
 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 | 2020-06-12 | 2023-06-10 |
 | [Circles](https://open.spotify.com/track/4KxRDX5ora3JaeXn2ie1w8) | [Folk9](https://open.spotify.com/artist/4rZltXRJKOJfrMb94wvBbL), [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Circles](https://open.spotify.com/album/4nQ4ccQz4BEtVkRIZOT06t) | 3:42 | 2021-02-28 | 2021-05-23 |
+| [cirrostratus](https://open.spotify.com/track/6bYMqPOoKowrOAUlboVcEi) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [cirrostratus](https://open.spotify.com/album/6KoqPWFxw1UWqYWMEbw3Al) | 2:32 | 2024-01-12 |  |
 | [Cleaner Air](https://open.spotify.com/track/3RNHSxHnAIdMAHtMsVNqlS) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Cleaner Air](https://open.spotify.com/album/2DSu8njxwzY0bNvc029jNf) | 2:08 | 2019-07-30\* | 2020-04-24 |
 | [Clear Water](https://open.spotify.com/track/4VkcLBrVk0rjcbSvEIjyix) | [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR), [Phlowerie](https://open.spotify.com/artist/4gnXAbCkJgPL3Pd2D79B5A) | [Pretty Boy](https://open.spotify.com/album/327jlRWWT2vjxbTIHGVWFX) | 2:22 | 2021-10-25 | 2022-04-19 |
 | [Cloud 9](https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Cloud 9](https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq) | 2:22 | 2021-06-04 | 2023-08-26 |

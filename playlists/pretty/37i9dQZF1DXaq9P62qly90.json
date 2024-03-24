@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12662,
+  "num_followers": 12664,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDA1ZTY2OWViZjBhZjgxMDI5Y2ViNzdiNWFmYmE4ZDZjNDAwNWVj",
+  "snapshot_id": "MCxiNGEyYzlmMzI0ODFkOTBjODE2NjRlYmIzOGU5NWM5NTExMWFkZTM2",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "Angels Above Me",
+        "url": "https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 266746,
+      "name": "Angels Above Me",
+      "url": "https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "Everyday Life, Everyday People",
         "url": "https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 241306,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "Angels Above Me",
-        "url": "https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 266746,
-      "name": "Angels Above Me",
-      "url": "https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4"
     },
     {
       "added_at": "2023-01-03 17:09:40",

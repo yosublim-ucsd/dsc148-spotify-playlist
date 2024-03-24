@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 304618,
+  "num_followers": 304747,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTg4MjFlMDVlMjc0M2VjNjNlYjcxYjUzODNjMWRhYzg3MDE3OWY0",
+  "snapshot_id": "MCw3NGU3NWUzNTM2YTdkM2E0MDk3YTcwYmI5YmQyMjA3N2EwNzVmOTE5",
   "tracks": [
     {
       "added_at": "2024-03-22 03:01:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
         "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 185295,
       "name": "Liberdade",
       "url": "https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Our Love",
+        "url": "https://open.spotify.com/album/1GhDBChURERKoa0hIcJkIf"
+      },
+      "artists": [
+        {
+          "name": "Voraz",
+          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
+        }
+      ],
+      "duration_ms": 164150,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/1unAQNaxmur5SxDEHJvqNL"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Sess\u00e3o Aberta Ac\u00fastico",
         "url": "https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 245312,
       "name": "Sem Medo",
       "url": "https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Ascenda",
-        "url": "https://open.spotify.com/album/17vkIbWTbSp2oy4ZlXn0y8"
-      },
-      "artists": [
-        {
-          "name": "Pilar",
-          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
-        }
-      ],
-      "duration_ms": 217941,
-      "name": "Tchau Querido",
-      "url": "https://open.spotify.com/track/5YRYqGDj8I2QVq9hihSZA8"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Our Love",
-        "url": "https://open.spotify.com/album/1GhDBChURERKoa0hIcJkIf"
+        "name": "Ascenda",
+        "url": "https://open.spotify.com/album/17vkIbWTbSp2oy4ZlXn0y8"
       },
       "artists": [
         {
-          "name": "Voraz",
-          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
+          "name": "Pilar",
+          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
         }
       ],
-      "duration_ms": 164150,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/1unAQNaxmur5SxDEHJvqNL"
+      "duration_ms": 217941,
+      "name": "Tchau Querido",
+      "url": "https://open.spotify.com/track/5YRYqGDj8I2QVq9hihSZA8"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Jah Bless",
-        "url": "https://open.spotify.com/album/3DM0LwaeVcO4SrobtimYxB"
-      },
-      "artists": [
-        {
-          "name": "Gaiuna",
-          "url": "https://open.spotify.com/artist/7DbjEZyIXYZy7q7563s90d"
-        }
-      ],
-      "duration_ms": 207345,
-      "name": "Jah Bless",
-      "url": "https://open.spotify.com/track/5WTkJOM7RYui9Fj7OGzWch"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Revolvendo as Raizes",
         "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Jah Bless",
+        "url": "https://open.spotify.com/album/3DM0LwaeVcO4SrobtimYxB"
+      },
+      "artists": [
+        {
+          "name": "Gaiuna",
+          "url": "https://open.spotify.com/artist/7DbjEZyIXYZy7q7563s90d"
+        }
+      ],
+      "duration_ms": 207345,
+      "name": "Jah Bless",
+      "url": "https://open.spotify.com/track/5WTkJOM7RYui9Fj7OGzWch"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Filho do Mar",
         "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
       },
@@ -927,26 +927,6 @@
       "duration_ms": 215172,
       "name": "Filho do Mar",
       "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Enquanto Houver",
-        "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
-      },
-      "artists": [
-        {
-          "name": "Walace Fonseca",
-          "url": "https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW"
-        },
-        {
-          "name": "Bruno Harry",
-          "url": "https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF"
-        }
-      ],
-      "duration_ms": 180481,
-      "name": "Enquanto Houver",
-      "url": "https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -967,6 +947,26 @@
       "duration_ms": 153253,
       "name": "Terra do Sol",
       "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Enquanto Houver",
+        "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
+      },
+      "artists": [
+        {
+          "name": "Walace Fonseca",
+          "url": "https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW"
+        },
+        {
+          "name": "Bruno Harry",
+          "url": "https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF"
+        }
+      ],
+      "duration_ms": 180481,
+      "name": "Enquanto Houver",
+      "url": "https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj"
     },
     {
       "added_at": "2024-03-22 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,173 likes - 89 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,194 likes - 89 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 88 | [GET UP!](https://open.spotify.com/track/2iOj3L29Yx2Ljk4ETcpa6z) | [Timmy Albert](https://open.spotify.com/artist/4acGozsQZscrP4YKMg2Xwn) | [GET UP!](https://open.spotify.com/album/65uwn9RCsDRo3yTyCRZd2I) | 2:53 |
 | 89 | [Close To Me](https://open.spotify.com/track/4uqrNjosNZKTxtsEUpjkIm) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Close To Me](https://open.spotify.com/album/5OOea733uhyneBGd5UKDRS) | 3:29 |
 
-Snapshot ID: `MCxhOTZkYWM1N2U3MWYxOTUxMmFlZWNiYzI3NDFiNjkwMTEwMWZmY2E1`
+Snapshot ID: `MCxkOGFkMWZkYTE5M2MzYWVlYmNhNmFhOGIyNjg0NWU4NDYyYjNiNzhj`

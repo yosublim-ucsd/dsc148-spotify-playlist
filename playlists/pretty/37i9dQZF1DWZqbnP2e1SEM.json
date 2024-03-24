@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 320968,
+  "num_followers": 320966,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGExOGE2MDg3MzA2NjA2NTBhZDdhOTAzNzg0ZWU2Y2RkZmUwYzUw",
+  "snapshot_id": "MCwyZmFlZDdkMzdkNjVmMmE4NmY5NmVmNDVmY2NlNjczOGI4Mzg0OTNk",
   "tracks": [
     {
       "added_at": "2023-11-22 17:23:28",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2023-11-22 17:23:28",
       "album": {
+        "name": "OUTSIDER",
+        "url": "https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        {
+          "name": "Charlotte X",
+          "url": "https://open.spotify.com/artist/5KEaTilneqGJ2SUc6ilfDS"
+        }
+      ],
+      "duration_ms": 145649,
+      "name": "LIGHTS (feat. Charlotte X)",
+      "url": "https://open.spotify.com/track/7uuevg7Jk7TKuEfwc0kVS7"
+    },
+    {
+      "added_at": "2023-11-22 17:23:28",
+      "album": {
         "name": "Mushrooms",
         "url": "https://open.spotify.com/album/3kCdR5MEFKLMft8GmAGxD3"
       },
@@ -1815,26 +1835,6 @@
       "duration_ms": 190194,
       "name": "Mushrooms",
       "url": "https://open.spotify.com/track/15B1cDTWSXF4t3rmALOtyU"
-    },
-    {
-      "added_at": "2023-11-22 17:23:28",
-      "album": {
-        "name": "OUTSIDER",
-        "url": "https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        },
-        {
-          "name": "Charlotte X",
-          "url": "https://open.spotify.com/artist/5KEaTilneqGJ2SUc6ilfDS"
-        }
-      ],
-      "duration_ms": 145649,
-      "name": "LIGHTS (feat. Charlotte X)",
-      "url": "https://open.spotify.com/track/7uuevg7Jk7TKuEfwc0kVS7"
     },
     {
       "added_at": "2023-11-22 17:23:28",

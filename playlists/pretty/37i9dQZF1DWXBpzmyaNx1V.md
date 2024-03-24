@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos del 6 al 10 de Marzo! Cinco días de música en recintos icónicos de la CDMX\. Compra tus boletos <a href="https://lnk.bio/pitchforkcdmx"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,563 likes - 65 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,556 likes - 65 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 55 | [Goldie](https://open.spotify.com/track/0NwKqhgmPMrhELT4zlE1eR) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Junior](https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N) | 4:43 |
 | 56 | [Itaca Tropical](https://open.spotify.com/track/06hXume0bdbFHdbdl7BTbG) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA) | [Habits EP](https://open.spotify.com/album/0GMbhSy7bxfov0ZbiJcoMm) | 3:01 |
 | 57 | [The Peter Pan Syndrome](https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [Il Visore Lunatique](https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ) | 3:06 |
-| 58 | [Easy](https://open.spotify.com/track/1kCj1xjrJSldhN6bSfkDLF) | [Glasser](https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0) | [Crux](https://open.spotify.com/album/2GvEyAvxiEyNu0Os14cZk7) | 4:02 |
-| 59 | [Ascenso \- Descenso](https://open.spotify.com/track/28sv0FiGwBpFS34FPKrgfR) | [Vyctoria](https://open.spotify.com/artist/2x3wpxbrl6sfLzQYaGTDgW) | [Ahora Veo Más Claro](https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD) | 4:54 |
+| 58 | [Ascenso \- Descenso](https://open.spotify.com/track/28sv0FiGwBpFS34FPKrgfR) | [Vyctoria](https://open.spotify.com/artist/2x3wpxbrl6sfLzQYaGTDgW) | [Ahora Veo Más Claro](https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD) | 4:54 |
+| 59 | [Easy](https://open.spotify.com/track/1kCj1xjrJSldhN6bSfkDLF) | [Glasser](https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0) | [Crux](https://open.spotify.com/album/2GvEyAvxiEyNu0Os14cZk7) | 4:02 |
 | 60 | [Hallucinogen](https://open.spotify.com/track/5OKRhphQqMrtWLMfcbiail) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/5Olw4XubTcqIBtKt3U8poM) | 2:20 |
 | 61 | [Pulpos \- Los Alan Anaya Remix](https://open.spotify.com/track/6tUVqheajV2blIRHvRX5Ob) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX), [Los Alan Anaya](https://open.spotify.com/artist/6AWqdfPztHbCcAk3JH2rQS) | [Pulpos](https://open.spotify.com/album/1nJyg4XvniLvxu2ibVfP1r) | 3:50 |
 | 62 | [Celebra](https://open.spotify.com/track/1PuaidNUXQxNcW1MdksTkE) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [GOLLY](https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3) | 1:26 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 64 | [reveal yourself](https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA) | [gisela](https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR) | 3:10 |
 | 65 | [Pantitlán](https://open.spotify.com/track/0d0HTxy6Exc4mzaDjdj8mh) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [GOLLY](https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3) | 5:25 |
 
-Snapshot ID: `MCwyNjI0OTAyOWU4OWI1MTg4MTA0MmE4MDkxZmZlNmUzNzk3NjQwZGFi`
+Snapshot ID: `MCw3MDZhMTU3NGEwZTkyNTRmZjZiYTM5NzBiODMwMTE5ZjlkZTVjNGJh`

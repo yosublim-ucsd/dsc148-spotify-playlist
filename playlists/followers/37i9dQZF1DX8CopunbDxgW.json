@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 860169,
+  "2024-03-24": 860191,
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: Machinedrum & Tinashe",
+  "description": "The best indie dance tracks of the moment. Cover: jigitz",
   "name": "metropolis",
   "tracks": [
     {
@@ -1171,6 +1171,28 @@
       "duration_ms": 243790,
       "name": "Ano Kute",
       "url": "https://open.spotify.com/track/7AVo8r39yuGyTE9MWxRweE"
+    },
+    {
+      "album": {
+        "name": "Another 9 Days",
+        "url": "https://open.spotify.com/album/2bODVf6xNDlocDP0tqb3z3"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        },
+        {
+          "name": "Ethan P. Flynn",
+          "url": "https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186361,
+      "name": "Another 9 Days",
+      "url": "https://open.spotify.com/track/5ep94VV9J0bZEYMtzjAaRZ"
     },
     {
       "album": {
@@ -3806,6 +3828,32 @@
     },
     {
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/1ca9y7OQxBv0bXUXGKIFYP"
+      },
+      "artists": [
+        {
+          "name": "Glimji",
+          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
+        },
+        {
+          "name": "Elphi",
+          "url": "https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY"
+        },
+        {
+          "name": "Soak XP",
+          "url": "https://open.spotify.com/artist/6SuyywE4h5N9XvfPzfwACl"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160587,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/3y8Vm5FfhIxMaacpS2IShA"
+    },
+    {
+      "album": {
         "name": "CLASH",
         "url": "https://open.spotify.com/album/3teqPCjiUVKdmTONZZrrcv"
       },
@@ -4105,7 +4153,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 344998,
       "name": "Coma",
       "url": "https://open.spotify.com/track/1fr2ip2dkCpckGFdRZQKBn"
@@ -4828,6 +4876,24 @@
     },
     {
       "album": {
+        "name": "die for you",
+        "url": "https://open.spotify.com/album/6XEyg8afWgcWOb3PKMcUPt"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118026,
+      "name": "die for you",
+      "url": "https://open.spotify.com/track/2VYRw09BrrRLcUoilTLN43"
+    },
+    {
+      "album": {
         "name": "Die For You",
         "url": "https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx"
       },
@@ -5031,7 +5097,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 195415,
       "name": "Dollar $hort",
       "url": "https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw"
@@ -8133,7 +8199,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 294400,
       "name": "Gold In Autumn",
       "url": "https://open.spotify.com/track/5s507gLJJBAAyTkZMKBQVB"
@@ -8798,6 +8864,28 @@
     },
     {
       "album": {
+        "name": "Hearts Are Opening Up (Passion Pit Remix)",
+        "url": "https://open.spotify.com/album/1GB8ib0VZcC9YA47akhnMR"
+      },
+      "artists": [
+        {
+          "name": "Casper Caan",
+          "url": "https://open.spotify.com/artist/0dtmnZBKsEGpSCpdcr3pRc"
+        },
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258280,
+      "name": "Hearts Are Opening Up - Passion Pit Remix",
+      "url": "https://open.spotify.com/track/3wFZYXt9ZUpyuCpkzY7eTW"
+    },
+    {
+      "album": {
         "name": "Heavier",
         "url": "https://open.spotify.com/album/2f7U1Mz1SxgAr88KdCRT1a"
       },
@@ -8980,6 +9068,28 @@
     },
     {
       "album": {
+        "name": "Hey Mami (Rick Wade Remix)",
+        "url": "https://open.spotify.com/album/5oljwPmA185kdMAtIdRc02"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        },
+        {
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418038,
+      "name": "Hey Mami - Rick Wade Remix",
+      "url": "https://open.spotify.com/track/3HKu3DTebFhJyvZZkSYuBm"
+    },
+    {
+      "album": {
         "name": "Hey Papi",
         "url": "https://open.spotify.com/album/0rVHwUMBfiXNgnwO8FHPJY"
       },
@@ -9145,7 +9255,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 150600,
       "name": "HIGH STAKES",
       "url": "https://open.spotify.com/track/6sMuiuVIpCf9xiHRQ9l5zm"
@@ -9453,7 +9563,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 167639,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/5SfOiw8SfnZhCRRARbMiRa"
@@ -10725,6 +10835,24 @@
       "duration_ms": 239213,
       "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
       "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
+    },
+    {
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/5mC2E9hKpEq5Inih02LUw4"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219834,
+      "name": "Infra",
+      "url": "https://open.spotify.com/track/47YPV1UH5Xx6EVd8kMohJI"
     },
     {
       "album": {
@@ -12247,7 +12375,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 220000,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/46788befoNH7QS8zLZbfJT"
@@ -12668,6 +12796,24 @@
     },
     {
       "album": {
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ"
+    },
+    {
+      "album": {
         "name": "LOSER",
         "url": "https://open.spotify.com/album/15FzltfVg1eFjGvSVNLUOA"
       },
@@ -13079,7 +13225,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 277561,
       "name": "Love Will Save Me",
       "url": "https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw"
@@ -14586,6 +14732,28 @@
     },
     {
       "album": {
+        "name": "Need To Talk (Kordz Remix)",
+        "url": "https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go"
+      },
+      "artists": [
+        {
+          "name": "Creams",
+          "url": "https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc"
+        },
+        {
+          "name": "kordz",
+          "url": "https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218431,
+      "name": "Need To Talk - Kordz Remix",
+      "url": "https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz"
+    },
+    {
+      "album": {
         "name": "Need Ya",
         "url": "https://open.spotify.com/album/2zzrYkg0dyumu7Ey37wB4D"
       },
@@ -15490,6 +15658,24 @@
     },
     {
       "album": {
+        "name": "ok :/",
+        "url": "https://open.spotify.com/album/6GHR4Qrtr4GXc7RfGVh8Qv"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "ok :/",
+      "url": "https://open.spotify.com/track/7ELz2ls9JCvT5DyVL8aWRh"
+    },
+    {
+      "album": {
         "name": "ok",
         "url": "https://open.spotify.com/album/23YHyxWe8nTsFFHvV2WFLZ"
       },
@@ -16075,7 +16261,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 195560,
       "name": "Over",
       "url": "https://open.spotify.com/track/68hMlnUaIdjJfpFogolkUG"
@@ -16609,7 +16795,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 145298,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/36gRhO8ZVp0GhiSgWNuxI8"
@@ -17337,6 +17523,28 @@
       "duration_ms": 197640,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/7n74B8CVy1kWH0IOXnbrj2"
+    },
+    {
+      "album": {
+        "name": "repeat to fade",
+        "url": "https://open.spotify.com/album/1e1rX5fl19FjR9jubh7ymg"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        },
+        {
+          "name": "Pollena",
+          "url": "https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174026,
+      "name": "repeat to fade",
+      "url": "https://open.spotify.com/track/4AddhPZvZZgZDS41YH4Q8k"
     },
     {
       "album": {
@@ -18433,6 +18641,28 @@
       "duration_ms": 274267,
       "name": "Shapeless",
       "url": "https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME"
+    },
+    {
+      "album": {
+        "name": "Shine Love In",
+        "url": "https://open.spotify.com/album/5cITFIW9CxttK24F0wyWXn"
+      },
+      "artists": [
+        {
+          "name": "Jai Piccone",
+          "url": "https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC"
+        },
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189293,
+      "name": "Shine Love In",
+      "url": "https://open.spotify.com/track/6oX2fvFiYdxpVXhvUiUPX0"
     },
     {
       "album": {
@@ -20997,7 +21227,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 224303,
       "name": "The Path Less Travelled",
       "url": "https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe"
@@ -21348,6 +21578,24 @@
     },
     {
       "album": {
+        "name": "Before It's Gone",
+        "url": "https://open.spotify.com/album/4bz0SLNCeqWSNeYjY56Dvq"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321856,
+      "name": "Thinking ('bout you, 'bout me)",
+      "url": "https://open.spotify.com/track/3JE7ZfeFprq4FlBdwqsjYL"
+    },
+    {
+      "album": {
         "name": "The Friends You Made Along The Way",
         "url": "https://open.spotify.com/album/1Sw2RWBcBOFIpWabO8Ftin"
       },
@@ -21619,7 +21867,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 251546,
       "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
@@ -22113,7 +22361,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 231316,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/4P2KkAmQ6lP0mlc1yriTXU"
@@ -22135,7 +22383,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 156097,
       "name": "turn it all the way up",
       "url": "https://open.spotify.com/track/40FhKFG0SIUpxE7doxifpZ"

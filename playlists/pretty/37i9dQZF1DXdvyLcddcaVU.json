@@ -1,12 +1,12 @@
 {
   "description": "#fyp\n",
-  "num_followers": 492642,
+  "num_followers": 493594,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTczMGIyMGU0NTBmMDJhYjcyMGEzZThiZWE5NDg2YmQyMWQxOGVk",
+  "snapshot_id": "MCxhZTNjMDAxZDIxNmFiYzFjOTdlOGUzMjhjZjdjODJjMzJlNjVlZThm",
   "tracks": [
     {
       "added_at": "2023-11-24 17:25:20",
@@ -911,22 +911,18 @@
     {
       "added_at": "2024-03-08 17:39:36",
       "album": {
-        "name": "Made in Romeni\u00e1 (Sahmiir Officiall Remix)",
-        "url": "https://open.spotify.com/album/2Kn8N2Et2cb3xny4jjBuBy"
+        "name": "Sapte trandafiri",
+        "url": "https://open.spotify.com/album/6Pr1PMiL3fc6EHRmRVRmoh"
       },
       "artists": [
         {
-          "name": "Sahmiir Official",
-          "url": "https://open.spotify.com/artist/3CXyRvkXdBR1Dqk96vcYLq"
-        },
-        {
-          "name": "Sahmiir Officiall",
-          "url": "https://open.spotify.com/artist/43xc9kEoIRMxrIf0CCxOqQ"
+          "name": "Ionut Cercel",
+          "url": "https://open.spotify.com/artist/3nEGbFFQiHXnjhbJVwzega"
         }
       ],
-      "duration_ms": 243600,
-      "name": "Made in Romeni\u00e1 - Sahmiir Officiall Remix",
-      "url": "https://open.spotify.com/track/3Er2CGuUZlGKQ1puctyYsB"
+      "duration_ms": 245026,
+      "name": "Made in Romania",
+      "url": "https://open.spotify.com/track/58U2OeaIAkQ6scuGNVazuT"
     },
     {
       "added_at": "2024-01-12 16:29:46",

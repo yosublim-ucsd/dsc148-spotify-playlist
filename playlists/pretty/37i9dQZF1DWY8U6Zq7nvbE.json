@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1720157,
+  "num_followers": 1720144,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmViYzVjMzZmOGFkYjNjZjg5MThlNTc5MTNlYzE2MmJhZGVjN2E1",
+  "snapshot_id": "MCxmODk0NWUzNDIxM2MxNWVlYjRlYWIzNTNlYjg4M2RjMGE1ZjA2ZTQx",
   "tracks": [
     {
       "added_at": "2024-03-21 08:22:30",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "what if",
-        "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
-      },
-      "artists": [
-        {
-          "name": "JML",
-          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "what if",
-      "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
       },
@@ -331,18 +315,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Latch",
-        "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
+        "name": "what if",
+        "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
       },
       "artists": [
         {
-          "name": "Mel & Macy",
-          "url": "https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk"
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
         }
       ],
-      "duration_ms": 197684,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U"
+      "duration_ms": 201666,
+      "name": "what if",
+      "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -359,6 +343,22 @@
       "duration_ms": 189732,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Latch",
+        "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
+      },
+      "artists": [
+        {
+          "name": "Mel & Macy",
+          "url": "https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk"
+        }
+      ],
+      "duration_ms": 197684,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Call Me Maybe - Acoustic",
-        "url": "https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr"
-      },
-      "artists": [
-        {
-          "name": "Scottie",
-          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
-        }
-      ],
-      "duration_ms": 210473,
-      "name": "Call Me Maybe - Acoustic",
-      "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 166019,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Call Me Maybe - Acoustic",
+        "url": "https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr"
+      },
+      "artists": [
+        {
+          "name": "Scottie",
+          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
+        }
+      ],
+      "duration_ms": 210473,
+      "name": "Call Me Maybe - Acoustic",
+      "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Love Or Something Like It",
-        "url": "https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz"
-      },
-      "artists": [
-        {
-          "name": "Jenny Thorn",
-          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
-        }
-      ],
-      "duration_ms": 172741,
-      "name": "Love Or Something Like It",
-      "url": "https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Chasing Cars (Acoustic)",
         "url": "https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 221762,
       "name": "Chasing Cars (Acoustic)",
       "url": "https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Love Or Something Like It",
+        "url": "https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "duration_ms": 172741,
+      "name": "Love Or Something Like It",
+      "url": "https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64"
-      },
-      "artists": [
-        {
-          "name": "Abbie Parker",
-          "url": "https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko"
-        }
-      ],
-      "duration_ms": 187830,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Lose You To Love Me (Acoustic)",
         "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 254871,
       "name": "Lose You To Love Me - Acoustic",
       "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64"
+      },
+      "artists": [
+        {
+          "name": "Abbie Parker",
+          "url": "https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko"
+        }
+      ],
+      "duration_ms": 187830,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Cold Heart",
-        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
-      },
-      "artists": [
-        {
-          "name": "Clementine Duo",
-          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
-        }
-      ],
-      "duration_ms": 188742,
-      "name": "Cold Heart",
-      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 242011,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Cold Heart",
+        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
+      },
+      "artists": [
+        {
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+        }
+      ],
+      "duration_ms": 188742,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 192461,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Too Good At Goodbyes",
         "url": "https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "I Ain't Worried",
-        "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
       },
       "artists": [
         {
-          "name": "Mother's Daughter",
-          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
         }
       ],
-      "duration_ms": 164647,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7"
+      "duration_ms": 192461,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1031,6 +1015,22 @@
       "duration_ms": 157611,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "I Ain't Worried",
+        "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        }
+      ],
+      "duration_ms": 164647,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
+        "name": "You Raise Me Up",
+        "url": "https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd"
+      },
+      "artists": [
+        {
+          "name": "Shelby Park",
+          "url": "https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet"
+        }
+      ],
+      "duration_ms": 140617,
+      "name": "You Raise Me Up",
+      "url": "https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
         "name": "Kissing Other People (Acoustic)",
         "url": "https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 190561,
       "name": "Out Of My Head And Back In My Bed",
       "url": "https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
-        "name": "You Raise Me Up",
-        "url": "https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd"
-      },
-      "artists": [
-        {
-          "name": "Shelby Park",
-          "url": "https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet"
-        }
-      ],
-      "duration_ms": 140617,
-      "name": "You Raise Me Up",
-      "url": "https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "~how i'm feeling~ (the extras)",
-        "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 252681,
-      "name": "Modern Loneliness - acoustic",
-      "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 212624,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "~how i'm feeling~ (the extras)",
+        "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 252681,
+      "name": "Modern Loneliness - acoustic",
+      "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
+        "name": "Glad He's Gone",
+        "url": "https://open.spotify.com/album/2mVO7VhmBHjYpgjOiwX9sa"
+      },
+      "artists": [
+        {
+          "name": "POOL KIDS",
+          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Glad He's Gone",
+      "url": "https://open.spotify.com/track/1FJsp3bXsiAk3ivX92czw0"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 181111,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
-        "name": "Glad He's Gone",
-        "url": "https://open.spotify.com/album/2mVO7VhmBHjYpgjOiwX9sa"
-      },
-      "artists": [
-        {
-          "name": "POOL KIDS",
-          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "Glad He's Gone",
-      "url": "https://open.spotify.com/track/1FJsp3bXsiAk3ivX92czw0"
     },
     {
       "added_at": "2024-03-21 08:22:30",

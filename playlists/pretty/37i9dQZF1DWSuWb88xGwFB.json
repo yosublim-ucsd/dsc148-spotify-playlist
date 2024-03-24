@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 33525,
+  "num_followers": 33546,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzI5YTk5ZjU3NzgxODY3MzJmYzU5NjRmMWUyMzA2YzU2MjJmNzIz",
+  "snapshot_id": "MCwyYjRlZGZlNDYzYWVjNjdjNDJiNWUxNjdlY2EwMDU2YWU4Mjg3NjAy",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Love Trax",
+        "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
+      },
+      "artists": [
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        }
+      ],
+      "duration_ms": 406131,
+      "name": "Love Trax (Love Izz)",
+      "url": "https://open.spotify.com/track/3XlsIeTlYuDf78ol5mc6t2"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Set My Spirit Free",
         "url": "https://open.spotify.com/album/26niUzngjZz2T00CSUek56"
       },
@@ -875,38 +891,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Stay Together",
-        "url": "https://open.spotify.com/album/0xrqODIep7KKo2vidLXRwa"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 777623,
-      "name": "Stay Together (Armand's ''Crazy'' Trauma Mix)",
-      "url": "https://open.spotify.com/track/3WRopB0zlN46JeckfHUF3G"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Love Trax",
-        "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
-      },
-      "artists": [
-        {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
-        }
-      ],
-      "duration_ms": 406131,
-      "name": "Love Trax (Love Izz)",
-      "url": "https://open.spotify.com/track/3XlsIeTlYuDf78ol5mc6t2"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 410967,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Stay Together",
+        "url": "https://open.spotify.com/album/0xrqODIep7KKo2vidLXRwa"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 777623,
+      "name": "Stay Together (Armand's ''Crazy'' Trauma Mix)",
+      "url": "https://open.spotify.com/track/3WRopB0zlN46JeckfHUF3G"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Justify",
-        "url": "https://open.spotify.com/album/6PhheNrljrGFJyhGe6RQSH"
-      },
-      "artists": [
-        {
-          "name": "M&S",
-          "url": "https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT"
-        }
-      ],
-      "duration_ms": 545040,
-      "name": "Justify (Vocal Mix)",
-      "url": "https://open.spotify.com/track/4Eo3NoZQN7K4q8DJd3a2v9"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "This Way / Boy",
-        "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
+        "name": "Justify",
+        "url": "https://open.spotify.com/album/6PhheNrljrGFJyhGe6RQSH"
       },
       "artists": [
         {
-          "name": "K.E.L.S.E.Y.",
-          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
+          "name": "M&S",
+          "url": "https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT"
         }
       ],
-      "duration_ms": 428757,
-      "name": "Boy (MK Deep Dub)",
-      "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
+      "duration_ms": 545040,
+      "name": "Justify (Vocal Mix)",
+      "url": "https://open.spotify.com/track/4Eo3NoZQN7K4q8DJd3a2v9"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1019,6 +1003,22 @@
       "duration_ms": 472984,
       "name": "Choices (Choices Vocal Mix)",
       "url": "https://open.spotify.com/track/5N7cwa4semi11gavRLxWGu"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "This Way / Boy",
+        "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
+      },
+      "artists": [
+        {
+          "name": "K.E.L.S.E.Y.",
+          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
+        }
+      ],
+      "duration_ms": 428757,
+      "name": "Boy (MK Deep Dub)",
+      "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "In Da Clouds",
-        "url": "https://open.spotify.com/album/62sUlFutPV4Txj0H1NyDun"
-      },
-      "artists": [
-        {
-          "name": "Sneak Essentials",
-          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
-        }
-      ],
-      "duration_ms": 518960,
-      "name": "In Da Clouds (Da Dub)",
-      "url": "https://open.spotify.com/track/7iKcjAQmWCTSEOKiL2krbm"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Rhythms, Vol. 1",
         "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
       },
@@ -1239,22 +1223,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Keep On Jumpin' (feat. Chazzie)",
-        "url": "https://open.spotify.com/album/3uDbWkbSKipKALdmI8ZOUE"
+        "name": "In Da Clouds",
+        "url": "https://open.spotify.com/album/62sUlFutPV4Txj0H1NyDun"
       },
       "artists": [
         {
-          "name": "Beatboxx",
-          "url": "https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs"
-        },
-        {
-          "name": "Chazzie",
-          "url": "https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV"
+          "name": "Sneak Essentials",
+          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
         }
       ],
-      "duration_ms": 381076,
-      "name": "Keep On Jumpin' (feat. Chazzie) (Egotrip Mix)",
-      "url": "https://open.spotify.com/track/7kz21a3f03ZDNBGARMCnnM"
+      "duration_ms": 518960,
+      "name": "In Da Clouds (Da Dub)",
+      "url": "https://open.spotify.com/track/7iKcjAQmWCTSEOKiL2krbm"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1271,6 +1251,26 @@
       "duration_ms": 260065,
       "name": "Shine (Sundown Dub)",
       "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Keep On Jumpin' (feat. Chazzie)",
+        "url": "https://open.spotify.com/album/3uDbWkbSKipKALdmI8ZOUE"
+      },
+      "artists": [
+        {
+          "name": "Beatboxx",
+          "url": "https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs"
+        },
+        {
+          "name": "Chazzie",
+          "url": "https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV"
+        }
+      ],
+      "duration_ms": 381076,
+      "name": "Keep On Jumpin' (feat. Chazzie) (Egotrip Mix)",
+      "url": "https://open.spotify.com/track/7kz21a3f03ZDNBGARMCnnM"
     },
     {
       "added_at": "2022-03-03 13:59:16",

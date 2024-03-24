@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: Laufey.",
-  "num_followers": 285146,
+  "num_followers": 285156,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjliODRkYzhjOGQwOWRmNzQ0NzJjMGY4NmQ0OGU0YzNiZGIzY2Qy",
+  "snapshot_id": "MCxjYjkwZDAxM2Y1NzRjNjYyMGFhNjI2ODJkYTAwYTIwMTBkNDI3NzZl",
   "tracks": [
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "to love in the 21st century: the epilogue",
-        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "july",
-      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Sunny",
         "url": "https://open.spotify.com/album/5FyY9wYLHeJoFzPl0tOU5k"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 211406,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/2PQNbNPuSfNa3B3r447fbL"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "to love in the 21st century: the epilogue",
+        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "july",
+      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Cold Rain",
+        "url": "https://open.spotify.com/album/1OTzEYnHyxSdrFeDmHuUQf"
+      },
+      "artists": [
+        {
+          "name": "Raine Cloud",
+          "url": "https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Cold Rain",
+      "url": "https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Self Soothing",
         "url": "https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Cold Rain",
-        "url": "https://open.spotify.com/album/1OTzEYnHyxSdrFeDmHuUQf"
-      },
-      "artists": [
-        {
-          "name": "Raine Cloud",
-          "url": "https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Cold Rain",
-      "url": "https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "APESHIT",
         "url": "https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y"
       },
@@ -1511,6 +1511,38 @@
       "duration_ms": 151400,
       "name": "APESHIT",
       "url": "https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/4kbbT0b2ORMOulej4sdUON"
+      },
+      "artists": [
+        {
+          "name": "Emily Mei",
+          "url": "https://open.spotify.com/artist/3PPvyQnDRHIwwzCWwONgRk"
+        }
+      ],
+      "duration_ms": 147387,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/2pJBg4Qxgj7Rl7y4HPGTUw"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "After You",
+        "url": "https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL"
+      },
+      "artists": [
+        {
+          "name": "Julius Black",
+          "url": "https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj"
+        }
+      ],
+      "duration_ms": 203058,
+      "name": "After You",
+      "url": "https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1559,22 +1591,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/4kbbT0b2ORMOulej4sdUON"
-      },
-      "artists": [
-        {
-          "name": "Emily Mei",
-          "url": "https://open.spotify.com/artist/3PPvyQnDRHIwwzCWwONgRk"
-        }
-      ],
-      "duration_ms": 147387,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/2pJBg4Qxgj7Rl7y4HPGTUw"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "TRAVELIN'",
         "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
       },
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "After You",
-        "url": "https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL"
-      },
-      "artists": [
-        {
-          "name": "Julius Black",
-          "url": "https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj"
-        }
-      ],
-      "duration_ms": 203058,
-      "name": "After You",
-      "url": "https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Trigger Warning (feat. Wolftyla & MIYACHI)",
         "url": "https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH"
       },
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "sole outlet",
+        "url": "https://open.spotify.com/album/0Xmtrxgeg2ivd3874Nn9fL"
+      },
+      "artists": [
+        {
+          "name": "juno roome",
+          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
+        }
+      ],
+      "duration_ms": 227538,
+      "name": "sole outlet",
+      "url": "https://open.spotify.com/track/3Axrk0m3aMkCz2D7R3GT5D"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "can't get over it",
         "url": "https://open.spotify.com/album/6xLPohqLN8vpblQedDyEi5"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 132902,
       "name": "can't get over it",
       "url": "https://open.spotify.com/track/3Y8fpZ2FAU2ghW3YXUxYd3"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "sole outlet",
-        "url": "https://open.spotify.com/album/0Xmtrxgeg2ivd3874Nn9fL"
-      },
-      "artists": [
-        {
-          "name": "juno roome",
-          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
-        }
-      ],
-      "duration_ms": 227538,
-      "name": "sole outlet",
-      "url": "https://open.spotify.com/track/3Axrk0m3aMkCz2D7R3GT5D"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "PRIMAL",
-        "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
-      },
-      "artists": [
-        {
-          "name": "Chloe Tang",
-          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
-        }
-      ],
-      "duration_ms": 160357,
-      "name": "PRIMAL",
-      "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "scenic route",
         "url": "https://open.spotify.com/album/05HfFNIDwT3mknFofyORNE"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 180592,
       "name": "scenic route",
       "url": "https://open.spotify.com/track/34LhJDEt54G9Ba8P5hsgOm"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "PRIMAL",
+        "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
+      },
+      "artists": [
+        {
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+        }
+      ],
+      "duration_ms": 160357,
+      "name": "PRIMAL",
+      "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Invited",
-        "url": "https://open.spotify.com/album/4Kyw6l5l1o0nC6jWIYOhbU"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        }
-      ],
-      "duration_ms": 141364,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/53qXTnllCBKcPZel26XAvL"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Wallpaper",
         "url": "https://open.spotify.com/album/7fZTcKJrYUYt3zCPyswbSH"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 127706,
       "name": "Wallpaper",
       "url": "https://open.spotify.com/track/5l0sy0tEDxW4lUI2zQMzXf"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Invited",
+        "url": "https://open.spotify.com/album/4Kyw6l5l1o0nC6jWIYOhbU"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "duration_ms": 141364,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/53qXTnllCBKcPZel26XAvL"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "the roaring twenties",
-        "url": "https://open.spotify.com/album/61royB3qzaFhXLp8e0gCtY"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 227927,
-      "name": "the american dream",
-      "url": "https://open.spotify.com/track/6m8SllgidQW1MIn6x8DFEb"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "MEIGUANXIDEYO",
         "url": "https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 220000,
       "name": "MEIGUANXIDEYO",
       "url": "https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "the roaring twenties",
+        "url": "https://open.spotify.com/album/61royB3qzaFhXLp8e0gCtY"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 227927,
+      "name": "the american dream",
+      "url": "https://open.spotify.com/track/6m8SllgidQW1MIn6x8DFEb"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -2227,6 +2227,22 @@
       "duration_ms": 181806,
       "name": "oh my, summer love",
       "url": "https://open.spotify.com/track/05Yt5EhyMukLkcFkvegkh8"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "What (I Wish) He Said",
+        "url": "https://open.spotify.com/album/3EXsqaNPtQNCdBoXczLKpl"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "What (I Wish) He Said",
+      "url": "https://open.spotify.com/track/4guvT3MyI2ydXSxpW5dxNM"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -2279,6 +2295,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "the roaring twenties",
+        "url": "https://open.spotify.com/album/61royB3qzaFhXLp8e0gCtY"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 169222,
+      "name": "deadline",
+      "url": "https://open.spotify.com/track/21piSaSVcmB8Q5juvINegj"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "I Think I Kinda Like You!",
         "url": "https://open.spotify.com/album/2mIE3Vc41N9SsbPORv1UJd"
       },
@@ -2327,34 +2359,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "the roaring twenties",
-        "url": "https://open.spotify.com/album/61royB3qzaFhXLp8e0gCtY"
+        "name": "Birdwatcher",
+        "url": "https://open.spotify.com/album/5jdRIHmKzjrDjvfK6Zf9rZ"
       },
       "artists": [
         {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
         }
       ],
-      "duration_ms": 169222,
-      "name": "deadline",
-      "url": "https://open.spotify.com/track/21piSaSVcmB8Q5juvINegj"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "What (I Wish) He Said",
-        "url": "https://open.spotify.com/album/3EXsqaNPtQNCdBoXczLKpl"
-      },
-      "artists": [
-        {
-          "name": "mindfreakkk",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "What (I Wish) He Said",
-      "url": "https://open.spotify.com/track/4guvT3MyI2ydXSxpW5dxNM"
+      "duration_ms": 192317,
+      "name": "Birdwatcher",
+      "url": "https://open.spotify.com/track/2poBY9AIHsO7O6MjY4350M"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -2375,22 +2391,6 @@
       "duration_ms": 278613,
       "name": "Have You Ever Seen The Rain?",
       "url": "https://open.spotify.com/track/2KGcEUHgC2NcXH5i7lu6CO"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Birdwatcher",
-        "url": "https://open.spotify.com/album/5jdRIHmKzjrDjvfK6Zf9rZ"
-      },
-      "artists": [
-        {
-          "name": "Kaleah Lee",
-          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
-        }
-      ],
-      "duration_ms": 192317,
-      "name": "Birdwatcher",
-      "url": "https://open.spotify.com/track/2poBY9AIHsO7O6MjY4350M"
     }
   ],
   "unique_name": "Jasmine",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,225 likes - 175 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,264 likes - 175 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 31 | [E.T.A \(Get Right Back\)](https://open.spotify.com/track/09abawUj7uJofB9UPZ0Kzx) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [E.T.A \(Get Right Back\)](https://open.spotify.com/album/6zloNacrj00xGZ2Jn7MfJ5) | 2:35 |
 | 32 | [Spinn On You](https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Spinn On You](https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w) | 2:20 |
 | 33 | [Feels Good \- A COLORS SHOW](https://open.spotify.com/track/5sufqLTHrxCbXhRDeYownS) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Feels Good \- A COLORS SHOW](https://open.spotify.com/album/1cwSgENMx2F7DOJgVANJ6o) | 2:27 |
-| 34 | [Gaslight 101](https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl) | 2:59 |
+| 34 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 |
 | 35 | [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 |
 | 36 | [Maybe](https://open.spotify.com/track/6wQtyoObNKwlt6M9Zvl202) | [MaKenzie](https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0), [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Maybe](https://open.spotify.com/album/1dFTN7Y4BMzak07Xlo8CUu) | 3:47 |
 | 37 | [QUIET TYPE](https://open.spotify.com/track/5MeyBFQGinr5PDLqTjZdEM) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [donSMITH](https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M) | [QUIET TYPE](https://open.spotify.com/album/42lOTQiNtcQmB6D8W9yoVY) | 2:57 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 |
 | 175 | [Smoke + Mirrors](https://open.spotify.com/track/01XlfD9gD7LPpm65rhSPQh) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [Smoke + Mirrors](https://open.spotify.com/album/6QmEMg5ikjjN5XVAwFvH9W) | 2:02 |
 
-Snapshot ID: `MCxhNmRlMzhkMzUxNjQxNzNmZDZkMzAyNzRiMDNjMGRhY2FlMzI1MzUx`
+Snapshot ID: `MCxkNDA4YzkwYzgwY2VhNmFmZWY4M2NjMjUzN2JkNTE1OTNhOTIyMDM1`

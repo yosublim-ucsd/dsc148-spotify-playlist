@@ -4,7 +4,7 @@
 
 > The bassline keeps you moving.
 
-279 songs - 12 hr 5 min
+280 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Coming Home](https://open.spotify.com/track/7JSXDanOpcFoeCtolRUtT6) | [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf), [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R), [Dammak](https://open.spotify.com/artist/4XdPUDuuXYWpE56nmKLUac) | [Coming Home](https://open.spotify.com/album/4fOJVLmUNqkQKD7Wkuxv1p) | 2:31 | 2022-01-17 | 2022-02-11 |
 | [Connections](https://open.spotify.com/track/1PYNtr2ZLCInK7wsXbLFmZ) | [TRFN](https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp), [Siadou](https://open.spotify.com/artist/6P4MaYD97c9CnGibMPf4rd) | [Connections](https://open.spotify.com/album/1sfVvWFY6yHlVi1Xpm1beo) | 2:09 | 2022-03-25 | 2022-04-21 |
 | [Cradles](https://open.spotify.com/track/5vvzQCWYPzFX0qKoDLGcGx) | [Svniivan](https://open.spotify.com/artist/4Tjvp7fDrim8wlo9fDgqGx), [Edwince](https://open.spotify.com/artist/48rkpyQm9d7rM4tDC8r2Ff), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Cradles](https://open.spotify.com/album/5aTrScucI9Tkj6K5Yz3sdk) | 2:33 | 2022-03-25 | 2022-04-19 |
-| [Cups \(Drunk in Love Pt\. 2\)](https://open.spotify.com/track/2Se4VxJe5qbNAHLgGsUW9Z) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ), [Edward V](https://open.spotify.com/artist/0X2qyBhthrsezMgKjMaDFY) | [Cups \(Drunk in Love Pt\. 2\)](https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x) | 2:43 | 2023-03-11 |  |
+| [Cups \(Drunk in Love Pt\. 2\)](https://open.spotify.com/track/2Se4VxJe5qbNAHLgGsUW9Z) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ), [Edward V](https://open.spotify.com/artist/0X2qyBhthrsezMgKjMaDFY) | [Cups \(Drunk in Love Pt\. 2\)](https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x) | 2:43 | 2023-03-11 | 2024-03-24 |
 | [Cutting The Cords](https://open.spotify.com/track/2B1zNUo0DEkwHWMTjkfqmY) | [YUNA](https://open.spotify.com/artist/7unfyHphLkqeFODqHAgvr2), [Flip Capella](https://open.spotify.com/artist/7ISVMXRseDXG6dgN78y6Dz), [Martin van Lectro](https://open.spotify.com/artist/0goAkRbqjvGdCHsTN0ToOL) | [Cutting The Cords](https://open.spotify.com/album/0U1eJWjeEDGzTYcgAJh5EB) | 2:12 | 2022-04-01 | 2022-04-21 |
 | [Dance Again](https://open.spotify.com/track/1iObkel3ZEmeqAnOQJs5ky) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Dance Again](https://open.spotify.com/album/6pzKYeH4CorXYDL8rOOZOC) | 2:32 | 2023-09-08 |  |
 | [Dance Again](https://open.spotify.com/track/5mG9iopQWcGtc3SnrV3dA5) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Dance Again](https://open.spotify.com/album/2TMMSOhG0eydMUUhrFspPT) | 2:32 | 2022-01-17 | 2023-08-26 |
@@ -76,6 +76,7 @@
 | [Drunk in Love](https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Slap House Party](https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX) | 2:45 | 2022-01-17 |  |
 | [EAT MY BRAIN](https://open.spotify.com/track/6uN2YTWoQjzuRcVaaSrlXp) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [EAT MY BRAIN](https://open.spotify.com/album/37UKJuQpCGgqtYMdM61TaA) | 2:56 | 2022-01-17 | 2022-05-18 |
 | [Eat Sleep Repeat \(feat\. Nethy Aber\)](https://open.spotify.com/track/5UEsKg7v5m0l0e37q7CTYj) | [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP), [Nethy Aber](https://open.spotify.com/artist/4tqEIuplzwTXtKp9jnvZ3O) | [Eat Sleep Repeat \(feat\. Nethy Aber\)](https://open.spotify.com/album/3YnETFpf0RXW2O7OTA7Y3z) | 2:37 | 2022-01-31 | 2022-07-22 |
+| [Electricity](https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Electricity](https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H) | 2:40 | 2024-03-22 |  |
 | [Enough Of You](https://open.spotify.com/track/0mDINHqydpdNSyPKPCxB7z) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Enough Of You](https://open.spotify.com/album/3VTbSW7HLWr6WCwEHphVCZ) | 2:26 | 2022-01-17 | 2022-02-05 |
 | [Everybody Cries](https://open.spotify.com/track/2522T0x7yLWMwA5Uw0s2A7) | [Cleez](https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj) | [Everybody Cries](https://open.spotify.com/album/6Mhb8yybeWrddHI0fLPhky) | 2:50 | 2022-08-26 | 2022-10-01 |
 | [Everybody Cries](https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8) | [Cleez](https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj) | [Everybody Cries](https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu) | 2:50 | 2022-01-17 | 2022-07-29 |

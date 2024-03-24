@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Remers
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,877 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,896 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 6 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 |
 | 7 | [Hablarte Claro 2.0](https://open.spotify.com/track/4Ss3QPfS26HEoH0RIqAMqG) | [JEYYFF](https://open.spotify.com/artist/6aH9igPZf8ShUGL3ITPQhA), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI), [Jay PR](https://open.spotify.com/artist/57D1lkvRfIcw4ewZyusZqB), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [Hablarte Claro 2.0](https://open.spotify.com/album/1ad9iQ4AWdH4ki7GekjZ3l) | 5:45 |
 | 8 | [Sparta](https://open.spotify.com/track/7EEKaGdamO34oYDAh61UeE) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7) | [Sparta](https://open.spotify.com/album/3WhKjg8HjKMvsbpImu0bEZ) | 2:31 |
-| 9 | [Bellakita](https://open.spotify.com/track/5pdaMvOqvNPxEOgyKnej38) | [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [Bellakita](https://open.spotify.com/album/6TQTbHsOuOqUW5CVlFhvPk) | 3:02 |
+| 9 | [BELLAKITA](https://open.spotify.com/track/0rT7rchVaPauZBkxreFcEy) | [C Dobleta](https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE) | [BELLAKITA](https://open.spotify.com/album/3W0OEMGP4LGbJ1VlHntIhQ) | 3:02 |
 | 10 | [Manhattan](https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Manhattan](https://open.spotify.com/album/1Hg5PSA16edGh2KZXxMpjN) | 2:10 |
 | 11 | [hiato](https://open.spotify.com/track/0fOeSrtlEk9WGxrG5SBFQh) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [La Secta AllStar](https://open.spotify.com/artist/5WTJgmKTxGTi6N9KpGH9Yr) | [CAPICÚ](https://open.spotify.com/album/14nxqQmgXadFt4KHCLxf4s) | 3:27 |
 | 12 | [En Esta Boca](https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [En Esta Boca](https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 49 | [Cual es el Problema](https://open.spotify.com/track/0I77c8JqNLdihoGeO7uah8) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Freestyle Mania](https://open.spotify.com/artist/0bK53vxFcHrFiBJuZqZ4xp) | [Cual es el Problema](https://open.spotify.com/album/0PPYr90kRAaYMjy2oE3voP) | 2:35 |
 | 50 | [Muñeca \- Remix](https://open.spotify.com/track/4nCFetlMi0TgG6bwbORg8B) | [Josephlee](https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Muñeca \(Remix\)](https://open.spotify.com/album/4XhJvgJr7UWOnw6rWFMIJe) | 5:10 |
 
-Snapshot ID: `MCxiYTA4ZGRjNmVjMzdkMjE3OTgxYTkxMTgyYWRjOTI2NTQxYWE0ZDYx`
+Snapshot ID: `MCwwZDM5OThkOWVjOGMyOTIzMjM4NTUwYjE2YjAwNDc5MTU2ZThlOWY5`

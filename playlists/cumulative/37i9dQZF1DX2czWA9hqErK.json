@@ -2242,7 +2242,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 173686,
       "name": "Crying",
       "url": "https://open.spotify.com/track/3lpLpwUF7KTJVj9yoySNwM"
@@ -6673,6 +6673,24 @@
     },
     {
       "album": {
+        "name": "Me Again",
+        "url": "https://open.spotify.com/album/7FxtSVqKixyRA2jNje12ZP"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Me Again",
+      "url": "https://open.spotify.com/track/1Ao1Q1gDv36N3nfa0ZlnXc"
+    },
+    {
+      "album": {
         "name": "Me Against My Head",
         "url": "https://open.spotify.com/album/0tmn7v8vBOhVIksEpxJ2uh"
       },
@@ -10467,6 +10485,28 @@
     },
     {
       "album": {
+        "name": "every night was the same",
+        "url": "https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        },
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159702,
+      "name": "u.",
+      "url": "https://open.spotify.com/track/1II7Rpz0ILbz3YfeWi8Nov"
+    },
+    {
+      "album": {
         "name": "u.",
         "url": "https://open.spotify.com/album/6QhYWeJu70SNRcKnVCGcPQ"
       },
@@ -10482,7 +10522,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 159702,
       "name": "u.",
       "url": "https://open.spotify.com/track/31YKmnHqN03fMd8XhEy6Et"

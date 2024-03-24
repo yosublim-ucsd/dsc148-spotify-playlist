@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 50 min
+54 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Me Tuve Que Pelar Pa Culiacán](https://open.spotify.com/track/1Ltvt6fkT1Pq6t9r70Qe94) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Me Tuve Que Pelar Pa Culiacán](https://open.spotify.com/album/60L8KEOT1XsBxkni1EiAlR) | 3:31 | 2024-01-29 |  |
 | [Me Veran Contento \(Happy\)](https://open.spotify.com/track/0GvDKP9zy2Zpj7Dl3J9GJu) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 3:45 | 2024-01-29 |  |
 | [Mr\. Seal The Deal](https://open.spotify.com/track/2IJX1dBzsM09wga4cpivNB) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Mr\. Seal The Deal](https://open.spotify.com/album/4tMN3VLZRAUczIq3uuqFly) | 4:35 | 2024-01-29 |  |
+| [Naci En Pacoima](https://open.spotify.com/track/3GRIO9xmYBoxbrEw8Fq5KC) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Naci En Pacoima](https://open.spotify.com/album/3UTutRO58SE8ISyzb0fNP6) | 3:42 | 2024-03-23 |  |
 | [Nos Acoplamos Macizo](https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Nos Acoplamos Macizo](https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl) | 4:06 | 2024-01-29 |  |
 | [Payonazo Exoticos](https://open.spotify.com/track/6Sr29vvXfxPaV8wlfW6If8) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Payonazo Exoticos](https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR) | 3:53 | 2024-01-29 |  |
 | [Pistas Clandestinas](https://open.spotify.com/track/721gbr72vRMoHmc9GBLt1w) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Edgar Quintero](https://open.spotify.com/artist/0dNujNfEABFYHmE50TIlWr) | [Pistas Clandestinas](https://open.spotify.com/album/3WylmnpOtxGbYQxzLCwbzo) | 2:09 | 2024-03-18 |  |

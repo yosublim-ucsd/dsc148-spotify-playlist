@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 567222,
+  "2024-03-24": 567240,
   "date_first_scraped": "2021-12-21",
   "description": "Jazzy blips and blops",
   "name": "Jazztronica",
@@ -2605,6 +2605,28 @@
       "duration_ms": 152000,
       "name": "Figures",
       "url": "https://open.spotify.com/track/6Rh95LODQfId7hlJcheddl"
+    },
+    {
+      "album": {
+        "name": "First Lemonade",
+        "url": "https://open.spotify.com/album/54FufUN5eZagqdaM3Zc9xs"
+      },
+      "artists": [
+        {
+          "name": "ddddeeeellllaaa",
+          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
+        },
+        {
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "First Lemonade",
+      "url": "https://open.spotify.com/track/6qhHMnTIFQ5ZJbzXTP36tP"
     },
     {
       "album": {
@@ -5655,7 +5677,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 164817,
       "name": "re:pass - Edit",
       "url": "https://open.spotify.com/track/5ZcGOKLKg1y5IKxpcqezv1"

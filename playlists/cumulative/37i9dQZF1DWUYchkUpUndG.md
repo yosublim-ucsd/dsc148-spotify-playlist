@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/6uDsL3665JpJrYZUBih0HN?si=PXIfrLDVRFeEv27pPv3cTQ>Solomon Lange</a>
 
-2,239 songs - 6 day 19 hr 31 min
+2,240 songs - 6 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [Forever](https://open.spotify.com/track/0BuP8m0u9Bf0vMkBaBol0J) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Earlvis](https://open.spotify.com/artist/55xR4YGpMUbmYUZbm7k7I7) | [Forever](https://open.spotify.com/album/18Zw79gDcVWWxoGrAz7P22) | 2:47 | 2023-11-24 | 2023-12-08 |
 | [Forever It Is Done](https://open.spotify.com/track/5cavGaWguVUsTiOrWE7sgX) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Forever It Is Done](https://open.spotify.com/album/7ll7f71ilVwO1TPVa8LAJ7) | 5:15 | 2024-02-02 | 2024-02-16 |
 | [Forever the Same God](https://open.spotify.com/track/0dbJk5b3LNd3MOfsPWi7zf) | [Jaycee Manny](https://open.spotify.com/artist/7G7e40XZe3ApXZyrqjlhlA) | [Forever the Same God](https://open.spotify.com/album/40ATTRRm90qm2vuGeDMCd6) | 3:06 | 2023-08-18 | 2023-09-01 |
+| [Forgive me](https://open.spotify.com/track/5WGFaqNvvivqrB1AlFf86B) | [Tam D](https://open.spotify.com/artist/3RjctV2yPW8EFZmckoV33X), [Chilu](https://open.spotify.com/artist/4yajcBOS5sEgdeDUZrygf2) | [Forgive me](https://open.spotify.com/album/5ZtDOC1CDgbAgLUi3kCCNl) | 4:28 | 2024-03-22 |  |
 | [Forgive Me](https://open.spotify.com/track/2pIXHSsMzzIyk7wcxF1W1G) | [Teswess](https://open.spotify.com/artist/5f3qHCq4P6DLiWOrdI6Xeq) | [Potatoes In My Dream](https://open.spotify.com/album/6nBQnkVYsZFzVtiLl9B85V) | 3:17 | 2023-11-10 | 2023-11-24 |
 | [Formula 1](https://open.spotify.com/track/7qJtU5f9m6yulehi4GjktK) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Formula 1](https://open.spotify.com/album/5tEiXnkdcYcSGZyGPuaDDH) | 2:38 | 2023-11-24 | 2023-12-08 |
 | [Found](https://open.spotify.com/track/3eHiUte3rNC9lK2rh2uLEW) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [Found](https://open.spotify.com/album/0nbtsOnA6Vj0LQZgWl17Y7) | 2:27 | 2023-07-28 | 2023-08-11 |

@@ -4,7 +4,7 @@
 
 > Summertime sadness everyday
 
-432 songs - 1 day 0 hr 2 min
+433 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Burn](https://open.spotify.com/track/2GgxS8bUT5G25QJTsfSv0R) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/2Dw4fYqDQnxsgoXDdMbqh3) | 3:51 | 2022-04-01 | 2022-04-09 |
 | [Burn](https://open.spotify.com/track/5lF0pHbsJ0QqyIrLweHJPW) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Nights](https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4) | 3:51 | 2022-09-15 |  |
 | [Burn](https://open.spotify.com/track/43CoIjJAKxjknG9k0YKGo9) | [RRILEY](https://open.spotify.com/artist/5uIwzjKbKHiTiRCShromkj) | [Burn](https://open.spotify.com/album/6gLArLiq7SaVYni1UbqIdq) | 3:04 | 2022-04-01 | 2022-04-16 |
-| [Burn](https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:51 | 2022-04-01 |  |
+| [Burn](https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:51 | 2022-04-01 | 2024-03-24 |
 | [Burn It](https://open.spotify.com/track/6vcJyCa9NgFQer7O6X1NY7) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [Golden Child 5th Mini Album \[YES.\]](https://open.spotify.com/album/0UHpoOOB9NC0joJKAWuYgi) | 3:29 | 2022-04-01 | 2022-04-11 |
 | [Burn It Down \- Radio Edit](https://open.spotify.com/track/2ynhi2iBbE089laVgfyGgB) | [Ahzee](https://open.spotify.com/artist/4J1SxSh3FGBAMAkuiY5sye), [Faydee](https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g) | [Burn It Down](https://open.spotify.com/album/3AqGjgaLPD7CFHOZvV2et4) | 2:52 | 2022-04-01 | 2022-04-21 |
 | [Burn It Up](https://open.spotify.com/track/44u6id0tBroYZPLSNCHMnl) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [1\-1=0 \(NOTHING WITHOUT YOU\)](https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8) | 3:34 | 2022-04-01 | 2022-04-19 |
@@ -344,6 +344,7 @@
 | [Sun Kissed Skin](https://open.spotify.com/track/4VbdDpeUcqveGtJwgAPQok) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Strawberry Feels](https://open.spotify.com/album/3haj6qOs7ycjWUZft8HuHu) | 4:05 | 2022-04-01 | 2022-04-18 |
 | [Sunday](https://open.spotify.com/track/1xC8KNH4EqU5BLB8SPRy9m) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Sunday](https://open.spotify.com/album/6WKLcyxc89SFBuHWNPVky4) | 3:32 | 2022-04-01 | 2022-04-20 |
 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 | 2022-04-01 | 2023-06-26 |
+| [Sunday Best](https://open.spotify.com/track/1qYKWcEOrh2tM8PlgIm8K1) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/5nX3zwIAgHttSudEHLTsAW) | 2:38 | 2022-09-15 |  |
 | [Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Sundress](https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl) | 2:38 | 2022-04-01 |  |
 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 | 2022-04-01 | 2022-09-09 |
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 | 2022-04-01 |  |

@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-638 songs - 1 day 11 hr 53 min
+639 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,7 +622,8 @@
 | [Where Do You Go](https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Where Do You Go](https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL) | 3:57 | 2020-10-13\* | 2021-07-10 |
 | [Where U Belong](https://open.spotify.com/track/2myef7k6ycOeDwRuC9pAGc) | [Midsplit](https://open.spotify.com/artist/5FDIxEGRvg8QrMoNr9BoFl), [BRDGS](https://open.spotify.com/artist/3yHcgChNW7jVTvgBfgrTeT) | [Where U Belong](https://open.spotify.com/album/0RicE717prGI2LHVBrQEod) | 3:58 | 2020-11-18 | 2021-07-10 |
 | [Who](https://open.spotify.com/track/0qTBo7ExHHGI7RLCk3CwDS) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Who](https://open.spotify.com/album/4d1xo2PYAhvn7Udjo1rBxs) | 3:08 | 2020-10-13\* | 2021-06-19 |
-| [Wild Things](https://open.spotify.com/track/24HWZczGAczojNdUnupoo4) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Wild Things](https://open.spotify.com/album/5KIbd4Narbp6OAITLmr9Wv) | 3:36 | 2024-03-01 |  |
+| [Wild Things](https://open.spotify.com/track/24HWZczGAczojNdUnupoo4) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Wild Things](https://open.spotify.com/album/5KIbd4Narbp6OAITLmr9Wv) | 3:36 | 2024-03-01 | 2024-03-24 |
+| [Wild Things](https://open.spotify.com/track/5zSblOkvmMVYmaXbDRXbFg) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Wild Things](https://open.spotify.com/album/2bcXBtpp2hrgJrCqbi06PA) | 3:36 | 2024-03-22 |  |
 | [Window Shopping](https://open.spotify.com/track/1tYBsN62rh9ssKUeam2uKX) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N), [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [Window Shopping](https://open.spotify.com/album/6NXFgZ3pHn8ftXaaT03Trs) | 3:22 | 2021-07-18 | 2022-04-16 |
 | [Winterbreak](https://open.spotify.com/track/4B6BiC4TZUbvXMbrdx2rhq) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:57 | 2020-10-13\* | 2021-06-26 |
 | [Wish You Were Sober](https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:48 | 2021-07-17 | 2022-02-19 |

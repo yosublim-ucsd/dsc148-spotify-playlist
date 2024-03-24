@@ -4,7 +4,7 @@
 
 > \#fyp
 
-322 songs - 17 hr 10 min
+323 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [Ma mélodie \(feat\. Maître Gims\)](https://open.spotify.com/track/0BU5e8rDml803bp7mbouC0) | [Dry](https://open.spotify.com/artist/5h0VUGq3Pn45E3rcz9oe66), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Tôt ou tard](https://open.spotify.com/album/3LvJrErdpL9v0qE85ZcgAE) | 3:42 | 2024-02-16 |  |
 | [Madame](https://open.spotify.com/track/2owjILiTibvZNB348YYQzv) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Le Rat Luciano](https://open.spotify.com/artist/5QuZ9HdvnXcX8kEG782Phv) | [La tête dans les nuages](https://open.spotify.com/album/2UyUeMDqCwENnLIU7EQ3We) | 4:01 | 2023-05-05 | 2023-12-14 |
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-02-23 |  |
-| [Made in Romeniá \- Sahmiir Officiall Remix](https://open.spotify.com/track/3Er2CGuUZlGKQ1puctyYsB) | [Sahmiir Official](https://open.spotify.com/artist/3CXyRvkXdBR1Dqk96vcYLq), [Sahmiir Officiall](https://open.spotify.com/artist/43xc9kEoIRMxrIf0CCxOqQ) | [Made in Romeniá \(Sahmiir Officiall Remix\)](https://open.spotify.com/album/2Kn8N2Et2cb3xny4jjBuBy) | 4:03 | 2024-03-08 |  |
+| [Made in Romania](https://open.spotify.com/track/58U2OeaIAkQ6scuGNVazuT) | [Ionut Cercel](https://open.spotify.com/artist/3nEGbFFQiHXnjhbJVwzega) | [Sapte trandafiri](https://open.spotify.com/album/6Pr1PMiL3fc6EHRmRVRmoh) | 4:05 | 2024-03-08 |  |
+| [Made in Romeniá \- Sahmiir Officiall Remix](https://open.spotify.com/track/3Er2CGuUZlGKQ1puctyYsB) | [Sahmiir Official](https://open.spotify.com/artist/3CXyRvkXdBR1Dqk96vcYLq), [Sahmiir Officiall](https://open.spotify.com/artist/43xc9kEoIRMxrIf0CCxOqQ) | [Made in Romeniá \(Sahmiir Officiall Remix\)](https://open.spotify.com/album/2Kn8N2Et2cb3xny4jjBuBy) | 4:03 | 2024-03-08 | 2024-03-24 |
 | [Mafiosi](https://open.spotify.com/track/7jcjYSBmI689kmemyRZS7g) | [Iss](https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd) | [Libre 2.0](https://open.spotify.com/album/1fnDgjS0KI9L7G4zpdkNJj) | 3:02 | 2023-07-27 | 2023-11-11 |
 | [Mahmouma](https://open.spotify.com/track/3miLA8urFK78rpi4sHb5te) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [Mahmouma](https://open.spotify.com/album/0B1kHxnsb0xVsu2zee5U2u) | 2:22 | 2023-09-15 | 2024-01-27 |
 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-06 | 2023-08-26 |

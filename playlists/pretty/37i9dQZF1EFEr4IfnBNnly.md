@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/369gjhNQa5gezV4nHOIQFT">Lauren Faith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38 likes - 43 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 40 likes - 43 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 7 | [21 Seconds](https://open.spotify.com/track/23QGl89duiLAngpPCcbBSt) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [started in college \(mixtape\)](https://open.spotify.com/album/3HfPgsV9182o2KraJHNQ83) | 3:17 |
 | 8 | [Messed Up \(feat\. LK Faith\)](https://open.spotify.com/track/3rwvx3YnglHg9Y2VHFem01) | [Louis Mattrs](https://open.spotify.com/artist/7qevodTHcV0rtg9O7ih6nn), [LK Faith](https://open.spotify.com/artist/7p4qGFqH7a0Eittt17TOt1) | [Slow Waves \- EP](https://open.spotify.com/album/6nZteuYubXw8vNCt7pgXyz) | 3:59 |
 | 9 | [Sink or Swim](https://open.spotify.com/track/5Ir63UHpJuydc7frFGS7vs) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:21 |
-| 10 | [High \(feat\. Lauren Faith\)](https://open.spotify.com/track/0jwGWqhXgfS8KAg4CkHEAh) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Cervendos](https://open.spotify.com/artist/3DZRro0HzRPtZ5UxJzf6gZ), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [High \(feat\. Lauren Faith\)](https://open.spotify.com/album/3U9B6PXoVMTvtpK7mHzUnG) | 6:41 |
-| 11 | [So Deep](https://open.spotify.com/track/0Yg0203arYkcNlL9M41D9s) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [So Deep](https://open.spotify.com/album/1OnZwt3geJVKCSq952WdIa) | 2:52 |
+| 10 | [So Deep](https://open.spotify.com/track/0Yg0203arYkcNlL9M41D9s) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [So Deep](https://open.spotify.com/album/1OnZwt3geJVKCSq952WdIa) | 2:52 |
+| 11 | [High \(feat\. Lauren Faith\)](https://open.spotify.com/track/0jwGWqhXgfS8KAg4CkHEAh) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Cervendos](https://open.spotify.com/artist/3DZRro0HzRPtZ5UxJzf6gZ), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [High \(feat\. Lauren Faith\)](https://open.spotify.com/album/3U9B6PXoVMTvtpK7mHzUnG) | 6:41 |
 | 12 | [Feels](https://open.spotify.com/track/79Ek1YkhUkeD0Xv1PRPVt0) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 4:01 |
 | 13 | [River Runs Deep](https://open.spotify.com/track/0iaiyqBHImnn3BRcmPaJMG) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [River Runs Deep](https://open.spotify.com/album/1R8orAQgeQ1srNeqiRbHgh) | 4:08 |
-| 14 | [Nowhere To Hide](https://open.spotify.com/track/7eokNjEK64bAw6Cr7OoKP5) | [Josh Daniel](https://open.spotify.com/artist/2a2d2tEf1DleP1l10YZutF) | [Nowhere To Hide](https://open.spotify.com/album/4DfQbHMk3ECvTeNIoiyTXJ) | 3:05 |
-| 15 | [Sugar](https://open.spotify.com/track/0g0M9J3y1LIJ5iVZBu8ko6) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 4:32 |
+| 14 | [Sugar](https://open.spotify.com/track/0g0M9J3y1LIJ5iVZBu8ko6) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 4:32 |
+| 15 | [Nowhere To Hide](https://open.spotify.com/track/7eokNjEK64bAw6Cr7OoKP5) | [Josh Daniel](https://open.spotify.com/artist/2a2d2tEf1DleP1l10YZutF) | [Nowhere To Hide](https://open.spotify.com/album/4DfQbHMk3ECvTeNIoiyTXJ) | 3:05 |
 | 16 | [Hold You Close](https://open.spotify.com/track/6XUqh81UVxLLp9AUGoUW0E) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:47 |
 | 17 | [Plan B](https://open.spotify.com/track/47NALPlJmO9heUjMBwmGBt) | [Hollie Carmen](https://open.spotify.com/artist/3mGhGYX5tURxYEtKYauuYr) | [Plan B](https://open.spotify.com/album/6lug1N0hS94VcxQGY9ekng) | 3:40 |
 | 18 | [You Can Go](https://open.spotify.com/track/5L8VFI43vnr1n9O1t2xYOn) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [You Can Go](https://open.spotify.com/album/2GkcEIhJfO93IB4XF80jPR) | 2:22 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 42 | [Reason in You](https://open.spotify.com/track/3qR86AzbWJLO6dZcsgBsXE) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 3:32 |
 | 43 | [Sorry Not Sorry](https://open.spotify.com/track/6sYDCx3rQZsadayyAuh8U8) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 2:55 |
 
-Snapshot ID: `Mjg1MTkzMzAsMDAwMDAwMDAyNjc2MmE1ODE3ZmU4ZGZlMmFiY2E2NThlZWNlZjFkMA==`
+Snapshot ID: `Mjg1MjA3NzAsMDAwMDAwMDA2NzdhMTdiYTlhNDY1OGE4YjgxMzg1YmM5NzkwYzE4NA==`

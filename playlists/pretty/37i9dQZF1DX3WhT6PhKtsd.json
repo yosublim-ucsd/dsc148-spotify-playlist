@@ -1,12 +1,12 @@
 {
   "description": "For those whose year was full of angst and anger #SpotifyWrapped",
-  "num_followers": 114313,
+  "num_followers": 114341,
   "original_name": "Songs To Rage To In 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTQ4MWM3MjRlOGVjNzNiZjhhOGZlNzU1ODg0ZTY2NGI4MzBhMjNj",
+  "snapshot_id": "MCxhNjlhNmU1MjI1YjliN2FlNDljOGFjZTA1ODVmZGMxNTk3MWYxZDE2",
   "tracks": [
     {
       "added_at": "2023-11-29 12:29:47",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-11-29 12:29:47",
       "album": {
+        "name": "QUEEN DEGENERATE",
+        "url": "https://open.spotify.com/album/4ZDAY6ZwhHKpy3W7e6Yo4g"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 149391,
+      "name": "AMERICAN HORROR SHOW",
+      "url": "https://open.spotify.com/track/7lmmtMx2dEnF7WW4EAJomw"
+    },
+    {
+      "added_at": "2023-11-29 12:29:47",
+      "album": {
         "name": "We Go Down Together (with Khalid)",
         "url": "https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 184963,
       "name": "We Go Down Together (with Khalid)",
       "url": "https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r"
-    },
-    {
-      "added_at": "2023-11-29 12:29:47",
-      "album": {
-        "name": "QUEEN DEGENERATE",
-        "url": "https://open.spotify.com/album/4ZDAY6ZwhHKpy3W7e6Yo4g"
-      },
-      "artists": [
-        {
-          "name": "SNOW WIFE",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
-        }
-      ],
-      "duration_ms": 149391,
-      "name": "AMERICAN HORROR SHOW",
-      "url": "https://open.spotify.com/track/7lmmtMx2dEnF7WW4EAJomw"
     },
     {
       "added_at": "2023-11-29 12:29:47",

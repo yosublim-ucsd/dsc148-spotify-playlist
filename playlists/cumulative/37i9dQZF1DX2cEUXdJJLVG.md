@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-318 songs - 19 hr 2 min
+319 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [CHANTE'S GROOVE](https://open.spotify.com/track/2qMKGSiQvgJAT7J94kloTB) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [CHANTE'S GROOVE](https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X) | 3:15 | 2024-01-11 |  |
 | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/track/3LCZyDlOXrGPzTESP4PqXt) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/album/1dOzRhBdpIFjBJXxGWJnyg) | 2:55 | 2023-11-02 | 2024-02-02 |
 | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1) | 2:55 | 2023-02-02 | 2023-11-04 |
-| [circles](https://open.spotify.com/track/26EQGfXXAxCnrNA3d5BpfC) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [circles](https://open.spotify.com/album/5QQyX1Cc3XJ4oxLK3Wvpzc) | 2:28 | 2024-03-07 |  |
+| [circles](https://open.spotify.com/track/26EQGfXXAxCnrNA3d5BpfC) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [circles](https://open.spotify.com/album/5QQyX1Cc3XJ4oxLK3Wvpzc) | 2:28 | 2024-03-07 | 2024-03-24 |
+| [circles](https://open.spotify.com/track/5snFgC1DedpQ5yhJINZ70A) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 2:28 | 2024-03-21 |  |
 | [Clinging On Me](https://open.spotify.com/track/2EGyiht9vLt5NQ2KOdWOml) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [On My Way](https://open.spotify.com/album/0QsRnX70CLkR37iaYpqoLG) | 5:04 | 2022-12-01 | 2023-12-12 |
 | [Clouds](https://open.spotify.com/track/5bfuYOSY3lC5KRjKaPs7hx) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Benjamin Fro](https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6) | [Clouds](https://open.spotify.com/album/0bd4sxHpZedop36TTS5Mkd) | 4:09 | 2022-09-09 |  |
 | [Colours](https://open.spotify.com/track/7s94DZ7wrUSlDvPZasqEux) | [NTEIBINT](https://open.spotify.com/artist/6fJxi0zWcEG0argPVsSrXw) | [Colours](https://open.spotify.com/album/0CRsO4ZeFqnjp2vX7dn7O0) | 5:11 | 2022-09-09 | 2023-07-08 |

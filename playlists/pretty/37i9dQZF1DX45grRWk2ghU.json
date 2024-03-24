@@ -1,12 +1,12 @@
 {
   "description": "\u2728 life in plastic is fantastic \u2728",
-  "num_followers": 430221,
+  "num_followers": 430902,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWZkNjI5M2FiNDAwYzhmMzMxMzBjZmE2OWFhNDc4MWVhOGVkODFi",
+  "snapshot_id": "MCw1ZGRhNjE4Njk2YzI3ZjhlYzgyNDRhNjEwMjE0NDMzOTliNDMxNDJj",
   "tracks": [
     {
       "added_at": "2024-03-17 18:21:24",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-03-17 18:21:24",
       "album": {
+        "name": "Tortura",
+        "url": "https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 132400,
+      "name": "Tortura",
+      "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
+    },
+    {
+      "added_at": "2024-03-17 18:21:24",
+      "album": {
         "name": "Doll Domination (Deluxe)",
         "url": "https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 211013,
       "name": "Tia Tamera (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
-    },
-    {
-      "added_at": "2024-03-17 18:21:24",
-      "album": {
-        "name": "Tortura",
-        "url": "https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 132400,
-      "name": "Tortura",
-      "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
     },
     {
       "added_at": "2024-03-17 18:21:24",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-03-17 18:21:24",
       "album": {
-        "name": "Not Your Barbie Girl",
-        "url": "https://open.spotify.com/album/0V4a4xYECICWUCzgoxfIYF"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 186520,
-      "name": "Not Your Barbie Girl",
-      "url": "https://open.spotify.com/track/4fkM7M4Uo5AUASnnsRC7EZ"
-    },
-    {
-      "added_at": "2024-03-17 18:21:24",
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "added_at": "2024-03-17 18:21:24",
+      "album": {
+        "name": "Not Your Barbie Girl",
+        "url": "https://open.spotify.com/album/0V4a4xYECICWUCzgoxfIYF"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 186520,
+      "name": "Not Your Barbie Girl",
+      "url": "https://open.spotify.com/track/4fkM7M4Uo5AUASnnsRC7EZ"
     },
     {
       "added_at": "2024-03-17 18:21:24",

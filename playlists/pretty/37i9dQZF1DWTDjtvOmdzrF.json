@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 565149,
+  "num_followers": 565179,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDlkMTQ3MDU5MjI4ZTFiNzQwNWQxOWQzN2JiNzZiNzgwMWFiYzU3",
+  "snapshot_id": "MCxlZjJiMzhmNzFkYzAwYmVhNjliNzVlMDYzODY3NTViYmE1MWI0MTE2",
   "tracks": [
     {
       "added_at": "2024-03-05 21:45:32",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-03-05 21:45:32",
       "album": {
+        "name": "1st (Special Edition)",
+        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
+    },
+    {
+      "added_at": "2024-03-05 21:45:32",
+      "album": {
         "name": "The 2000's Greatest",
         "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 279289,
       "name": "Selimut Hati",
       "url": "https://open.spotify.com/track/112PgZaSiXk8Mqem2Krgtq"
-    },
-    {
-      "added_at": "2024-03-05 21:45:32",
-      "album": {
-        "name": "Rumpang",
-        "url": "https://open.spotify.com/album/3StxBwbZwtipjzs3ZfldlJ"
-      },
-      "artists": [
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
-        }
-      ],
-      "duration_ms": 323571,
-      "name": "Rumpang",
-      "url": "https://open.spotify.com/track/2TRGNVokPnC2a2oHg5iv1H"
     },
     {
       "added_at": "2024-03-05 21:45:32",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-03-05 21:45:32",
       "album": {
-        "name": "1st (Special Edition)",
-        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
+        "name": "Rumpang",
+        "url": "https://open.spotify.com/album/3StxBwbZwtipjzs3ZfldlJ"
       },
       "artists": [
         {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
         }
       ],
-      "duration_ms": 245400,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
+      "duration_ms": 323571,
+      "name": "Rumpang",
+      "url": "https://open.spotify.com/track/2TRGNVokPnC2a2oHg5iv1H"
     },
     {
       "added_at": "2024-03-05 21:45:32",

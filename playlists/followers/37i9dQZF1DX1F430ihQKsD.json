@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 109220,
+  "2024-03-24": 109224,
   "date_first_scraped": "2022-03-28",
   "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: En St\u00e9r\u00e9o",
   "name": "Montr\u00e9al Chill",
@@ -141,7 +141,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 206720,
       "name": "5AM",
       "url": "https://open.spotify.com/track/3riOdbVB5Ma1SrhKjBt7bl"
@@ -896,6 +896,24 @@
     },
     {
       "album": {
+        "name": "Bleeding Me Dry - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0tT4aJMUh0ToD5vEFhhPnh"
+      },
+      "artists": [
+        {
+          "name": "Alicia Creti",
+          "url": "https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213956,
+      "name": "Bleeding Me Dry - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4bBjJXHNQPiUdY0L90dO4D"
+    },
+    {
+      "album": {
         "name": "Another Self",
         "url": "https://open.spotify.com/album/4sLpFVoB0AxlKo5W1O60l0"
       },
@@ -1269,6 +1287,28 @@
       "duration_ms": 153890,
       "name": "Carr\u00e9 Saint-Louis",
       "url": "https://open.spotify.com/track/1YkNLHS0VUiLL9nKOID14Q"
+    },
+    {
+      "album": {
+        "name": "Catastrophe",
+        "url": "https://open.spotify.com/album/6usNleCrPYLoXJA1K77XrG"
+      },
+      "artists": [
+        {
+          "name": "Mada Mada",
+          "url": "https://open.spotify.com/artist/71nppOJgBwJ7V2gjyHGtA5"
+        },
+        {
+          "name": "C\u00e9drik St-Onge",
+          "url": "https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177019,
+      "name": "Catastrophe",
+      "url": "https://open.spotify.com/track/7IwbWjzcNGy7VIAygSMGda"
     },
     {
       "album": {
@@ -3391,7 +3431,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 222205,
       "name": "iridescence",
       "url": "https://open.spotify.com/track/3urtX8ukzRA1uco5FqHpYE"
@@ -4743,7 +4783,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 156272,
       "name": "Moneytree",
       "url": "https://open.spotify.com/track/0BjPVKGaC2j99Xfn9xbqBU"
@@ -7505,6 +7545,24 @@
       "duration_ms": 189510,
       "name": "Tracer des lignes",
       "url": "https://open.spotify.com/track/37nelpJO6CHNhl9tOvuTDB"
+    },
+    {
+      "album": {
+        "name": "Tragique d\u00e9c\u00e8s d'une \u00e2me sensible",
+        "url": "https://open.spotify.com/album/3T2wv9f7sN7aDI7EtGvR2l"
+      },
+      "artists": [
+        {
+          "name": "Matt Moln",
+          "url": "https://open.spotify.com/artist/7ANHFWaXJtG963OePSX29C"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200147,
+      "name": "Tragique d\u00e9c\u00e8s d'une \u00e2me sensible",
+      "url": "https://open.spotify.com/track/0D831XchPdlfTwvaPQz6IL"
     },
     {
       "album": {

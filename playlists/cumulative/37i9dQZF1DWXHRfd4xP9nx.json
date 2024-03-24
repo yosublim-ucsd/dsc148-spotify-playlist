@@ -3310,7 +3310,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 175833,
       "name": "Rain All Night",
       "url": "https://open.spotify.com/track/4Xo8r5FeWsiJSuku38tVAH"
@@ -5856,6 +5856,28 @@
       "duration_ms": 182153,
       "name": "Warm Summer Rain",
       "url": "https://open.spotify.com/track/4PYcFKKiVUp92libw3naT1"
+    },
+    {
+      "album": {
+        "name": "Nature's Rainfall Melodies",
+        "url": "https://open.spotify.com/album/2L4ZTUZNAvkyo3d1G3Nu5c"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192527,
+      "name": "Washington Rain Reverie",
+      "url": "https://open.spotify.com/track/1AfbsmFhOpX9GZHFd8Cb9l"
     },
     {
       "album": {

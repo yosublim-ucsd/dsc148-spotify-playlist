@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-217 songs - 12 hr 17 min
+218 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 | 2024-03-08 |  |
 | [IS THIS LOVE](https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.2](https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS) | 3:24 | 2022-08-12 | 2024-01-28 |
 | [I′ll tell you today](https://open.spotify.com/track/3mOQFlfQMDlJWp8AK4aTKj) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [I'll tell you today \(PRIENDS Original Soundtrack Part 2\)](https://open.spotify.com/album/0ahqw51XhfIX7Eevi5NtmW) | 2:41 | 2022-05-11 | 2022-07-28 |
+| [JUST RIGHT \(feat\. SOLE\)](https://open.spotify.com/track/6wevHkyjRNc6B92Mt4mHaC) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 2:58 | 2024-03-21 |  |
 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 | 2022-08-09 | 2024-03-09 |
 | [L.O.V.E](https://open.spotify.com/track/4cRAQZ8SzbTlqhD6jxhNFD) | [DANI \(Park Hyuck Jin\)](https://open.spotify.com/artist/1UzO0KpLhB7BGq2ejDKkpQ) | [Oh My Wedding OST Part.3](https://open.spotify.com/album/6nEZwWK3EoGPCbBcynPJOb) | 3:02 | 2022-07-04 | 2022-07-19 |
 | [Let's Love](https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Let's Love](https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P) | 3:40 | 2023-03-02 | 2023-11-23 |
@@ -132,7 +133,7 @@
 | [Night Walk](https://open.spotify.com/track/4vjPhD54kvJTZCdk0Eguob) | [Yoon Jisung](https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM) | [Temperature of Love](https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV) | 3:33 | 2022-05-11 | 2022-07-13 |
 | [Not In Public](https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD) | [SUMMER CAKE](https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm) | [3rd Digital Single 'Not In Public'](https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy) | 2:51 | 2022-05-11 | 2024-03-09 |
 | [Oh My Boy](https://open.spotify.com/track/3qsxjwVRHAu69j7LoglBEz) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Oh My Boy](https://open.spotify.com/album/3wB6o7osE6fIGUBNG4dk1F) | 3:03 | 2022-07-08 | 2022-09-26 |
-| [On You \(feat\. 1ho & Mabinc\)](https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#4](https://open.spotify.com/album/5y0wDDGEiUlgEj0LX4sc1B) | 3:32 | 2024-03-08 |  |
+| [On You \(feat\. 1ho & Mabinc\)](https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#4](https://open.spotify.com/album/5y0wDDGEiUlgEj0LX4sc1B) | 3:32 | 2024-03-08 | 2024-03-24 |
 | [Only in the evening](https://open.spotify.com/track/2o87KX4RWcjQbikKl7MZIA) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [aftersunset](https://open.spotify.com/album/3P7ArYxQfuMfjL9eF122Ka) | 3:10 | 2022-05-11 | 2022-07-21 |
 | [Only You Don't Know](https://open.spotify.com/track/135WOs0CpjMrYcMKomk1pk) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Only You Don't Know \(The Spies Who Loved Me OST Part.2\)](https://open.spotify.com/album/1IDZhuzclqbwEk5zxo1d30) | 3:19 | 2022-05-11 | 2022-07-28 |
 | [Ordinary Confession](https://open.spotify.com/track/6JIm38KbaDGfi65VGETDi9) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Ordinary Confession](https://open.spotify.com/album/45oQjPValwYlPUeOQKUd68) | 3:48 | 2024-03-08 |  |

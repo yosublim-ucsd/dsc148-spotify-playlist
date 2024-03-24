@@ -1189,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
+        "url": "https://open.spotify.com/album/2ROfbD4W4CGTbpNvmX3r9T"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184900,
+      "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
+      "url": "https://open.spotify.com/track/31da0q3cqam9HPhatn9C9A"
+    },
+    {
+      "album": {
         "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
         "url": "https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y"
       },

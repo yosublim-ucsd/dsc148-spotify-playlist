@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 
 > 一夜限りのスペシャルアレンジでお届けした<a href="https://www.sonymusic.co.jp/artist/SoundTrackInt/info/552938">「スタジオ地図シネマティックオーケストラ2022」</a>をライブ収録したアルバムが発売！スタジオ地図作品の映画を彩る音楽をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,804 likes - 111 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,820 likes - 111 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 | 13 | [雨上がりの家 \- 「おおかみこどもの雨と雪」より](https://open.spotify.com/track/7x5MKJ3bNcsADXbNpLMk32) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N), [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [STUDIO CHIZU Music Journey Vol\. 1 \- Cinematic Orchestra 2022](https://open.spotify.com/album/5smAOm1KBol1RqR9QJttcw) | 4:30 |
 | 14 | [Home After Rain](https://open.spotify.com/track/2P0Vz9pjdTnq6iRDnFXavr) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Wolf Children \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q) | 4:51 |
 | 15 | [おかあさんの唄 \- 「おおかみこどもの雨と雪」より](https://open.spotify.com/track/6WTWhDnfh4D8CYjq445aqk) | [Ann Sally](https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx), [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N), [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [STUDIO CHIZU Music Journey Vol\. 1 \- Cinematic Orchestra 2022](https://open.spotify.com/album/5smAOm1KBol1RqR9QJttcw) | 5:21 |
-| 16 | [Mother's Song](https://open.spotify.com/track/3pkVDKAPIhrpsAR79fa05P) | [Ann Sally](https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx) | [Wolf Children \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q) | 5:10 |
+| 16 | [Okasan no Uta](https://open.spotify.com/track/0MYKOAdsWx6srCKbjK3lcr) | [Ann Sally](https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx) | [Okasan no Uta](https://open.spotify.com/album/0NDSYLowRJYa7OiQpqjKQP) | 5:13 |
 | 17 | [仮想都市OZ \- 「サマーウォーズ」より](https://open.spotify.com/track/0zy1WKzpEE1yQKrzcU14bH) | [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [STUDIO CHIZU Music Journey Vol\. 1 \- Cinematic Orchestra 2022](https://open.spotify.com/album/5smAOm1KBol1RqR9QJttcw) | 2:27 |
 | 18 | [仮想都市OZ](https://open.spotify.com/track/3LToQzRfeZ9eB2zjUEMMFP) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [サマーウォーズ オリジナル・サウンドトラック](https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa) | 2:53 |
 | 19 | [KING KAZMA \- 「サマーウォーズ」より](https://open.spotify.com/track/5CR1rzapyH13JesfGOROLy) | [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [STUDIO CHIZU Music Journey Vol\. 1 \- Cinematic Orchestra 2022](https://open.spotify.com/album/5smAOm1KBol1RqR9QJttcw) | 1:23 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 | 110 | [Swarms of Song \- English Version](https://open.spotify.com/track/3G7lL3qz3jYYG8dfvyYpjn) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 1:38 |
 | 111 | [A Million Miles Away \(reprise\) \- English Version](https://open.spotify.com/track/3LGIequcwZQo02cskDxXVS) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 6:27 |
 
-Snapshot ID: `MCxjZWRhNTJhOGJiYTEzOTY5MjhlNzNjODYwMjg0YjM0YTkwMTc2Yzcz`
+Snapshot ID: `MCxmNDMwY2I2YTE2ZmUxMjUzNmQ3NjEzM2U3ZWUyNDAyMTE5M2YzOTg3`

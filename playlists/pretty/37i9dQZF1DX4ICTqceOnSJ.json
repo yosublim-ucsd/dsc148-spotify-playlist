@@ -1,12 +1,12 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Leiva en portada.",
-  "num_followers": 399861,
+  "num_followers": 399907,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmY2ZjBiZDk1ZGEzOWJjM2M3MDY5NDlkYWJlYmEzNWE4NWVmYTBm",
+  "snapshot_id": "MCxkMzJmYWM5ODk4YTg1ZjcwYjU1ZmYzYjlhZDRjMmUwZTM0YTlhOWMx",
   "tracks": [
     {
       "added_at": "2024-03-08 20:04:23",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "S\u00ed, Yo Soy",
-        "url": "https://open.spotify.com/album/55xfAVi9VsvzxmZBTwCBUe"
+        "name": "Detroit",
+        "url": "https://open.spotify.com/album/4OjdqmQYAJvbb7OvkdiMtT"
       },
       "artists": [
         {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+          "name": "Miss Caffeina",
+          "url": "https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb"
         }
       ],
-      "duration_ms": 218840,
-      "name": "No",
-      "url": "https://open.spotify.com/track/32QNjBLycSMFSpY0pJ1Hau"
+      "duration_ms": 189360,
+      "name": "Mira c\u00f3mo vuelo",
+      "url": "https://open.spotify.com/track/0q26YkYooQjbNyNXzGcHGP"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "Detroit",
-        "url": "https://open.spotify.com/album/4OjdqmQYAJvbb7OvkdiMtT"
+        "name": "S\u00ed, Yo Soy",
+        "url": "https://open.spotify.com/album/55xfAVi9VsvzxmZBTwCBUe"
       },
       "artists": [
         {
-          "name": "Miss Caffeina",
-          "url": "https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb"
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
         }
       ],
-      "duration_ms": 189360,
-      "name": "Mira c\u00f3mo vuelo",
-      "url": "https://open.spotify.com/track/0q26YkYooQjbNyNXzGcHGP"
+      "duration_ms": 218840,
+      "name": "No",
+      "url": "https://open.spotify.com/track/32QNjBLycSMFSpY0pJ1Hau"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 269346,
-      "name": "Algo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
-    },
-    {
-      "added_at": "2024-03-08 20:04:23",
-      "album": {
         "name": "Los A\u00f1os Futuros",
         "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 187824,
       "name": "Extranjero",
       "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
+    },
+    {
+      "added_at": "2024-03-08 20:04:23",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 269346,
+      "name": "Algo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "Si Me Voy",
-        "url": "https://open.spotify.com/album/1IucviBb2OOIZsrb49NJEq"
-      },
-      "artists": [
-        {
-          "name": "Salvapantallas",
-          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Si Me Voy",
-      "url": "https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak"
-    },
-    {
-      "added_at": "2024-03-08 20:04:23",
-      "album": {
         "name": "El Peor Grupo del Mundo",
         "url": "https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 266623,
       "name": "Carreteras Infinitas",
       "url": "https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG"
+    },
+    {
+      "added_at": "2024-03-08 20:04:23",
+      "album": {
+        "name": "Si Me Voy",
+        "url": "https://open.spotify.com/album/1IucviBb2OOIZsrb49NJEq"
+      },
+      "artists": [
+        {
+          "name": "Salvapantallas",
+          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Si Me Voy",
+      "url": "https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "Hice Todo Mal",
-        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Hice Todo Mal",
-      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
-    },
-    {
-      "added_at": "2024-03-08 20:04:23",
-      "album": {
         "name": "Santacruz",
         "url": "https://open.spotify.com/album/6F0M6o2oFl8pf52SbckNWf"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 286920,
       "name": "De las Dudas Infinitas",
       "url": "https://open.spotify.com/track/2lfwPw1lQ2ITeneLe7xm22"
+    },
+    {
+      "added_at": "2024-03-08 20:04:23",
+      "album": {
+        "name": "Hice Todo Mal",
+        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Hice Todo Mal",
+      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "Guandanara",
-        "url": "https://open.spotify.com/album/48mgLSOZ2CI3E6FdHg1vWQ"
-      },
-      "artists": [
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        },
-        {
-          "name": "Perras on the beach",
-          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
-        }
-      ],
-      "duration_ms": 262978,
-      "name": "La Pibita",
-      "url": "https://open.spotify.com/track/5y1fGA0357uOjtoN3iPsnF"
-    },
-    {
-      "added_at": "2024-03-08 20:04:23",
-      "album": {
         "name": "Pel\u00edcula",
         "url": "https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr"
       },
@@ -1575,22 +1555,22 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "Nada Personal",
-        "url": "https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1"
+        "name": "Guandanara",
+        "url": "https://open.spotify.com/album/48mgLSOZ2CI3E6FdHg1vWQ"
       },
       "artists": [
         {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
         },
         {
-          "name": "Catalina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
+          "name": "Perras on the beach",
+          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
         }
       ],
-      "duration_ms": 281960,
-      "name": "Nada Personal",
-      "url": "https://open.spotify.com/track/3BCayFOh2xF0AuYjcWgSVd"
+      "duration_ms": 262978,
+      "name": "La Pibita",
+      "url": "https://open.spotify.com/track/5y1fGA0357uOjtoN3iPsnF"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -1655,6 +1635,22 @@
       "duration_ms": 216226,
       "name": "Az\u00facar del Estero",
       "url": "https://open.spotify.com/track/7Ku6mTfNvQYzDyFt4LBpVC"
+    },
+    {
+      "added_at": "2024-03-08 20:04:23",
+      "album": {
+        "name": "Cripta y Vida",
+        "url": "https://open.spotify.com/album/2NPjtiiEGnw8KLA9potJqH"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Vacaciones en el M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6UbAzavTNvySHWrETLFryF"
     },
     {
       "added_at": "2024-03-08 20:04:23",

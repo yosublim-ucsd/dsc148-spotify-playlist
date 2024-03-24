@@ -1,12 +1,12 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 753130,
+  "num_followers": 753453,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWMzZDJjYjMxYjdhMWE3NzA0MzBjYTdkZDlkMDY0YTU0NDJkNmJh",
+  "snapshot_id": "MCxiZTUxZWIzOTNhNzAzODRmNDc4MTM3NTMwMzU5MTQyNzI4YzhkYjU5",
   "tracks": [
     {
       "added_at": "2022-06-03 16:36:24",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Juju",
-        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 334666,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/1gnZ2VCdVUHSgiBKrzdeK8"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "The Botanic Verses",
         "url": "https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh"
       },
@@ -891,22 +875,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Some Great Reward (2006 Remaster)",
-        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 381560,
-      "name": "Blasphemous Rumours - 2006 Remaster",
-      "url": "https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Only Theatre of Pain",
         "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
       },
@@ -919,6 +887,22 @@
       "duration_ms": 175800,
       "name": "Spiritual Cramp",
       "url": "https://open.spotify.com/track/3jSTCf4oCzZ2yhKNbmfl5k"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Some Great Reward (2006 Remaster)",
+        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 381560,
+      "name": "Blasphemous Rumours - 2006 Remaster",
+      "url": "https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -959,22 +943,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Poverty",
-        "url": "https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb"
-      },
-      "artists": [
-        {
-          "name": "Motorama",
-          "url": "https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3"
-        }
-      ],
-      "duration_ms": 211510,
-      "name": "Red Drop",
-      "url": "https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Tocsin",
         "url": "https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv"
       },
@@ -991,6 +959,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "Poverty",
+        "url": "https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb"
+      },
+      "artists": [
+        {
+          "name": "Motorama",
+          "url": "https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3"
+        }
+      ],
+      "duration_ms": 211510,
+      "name": "Red Drop",
+      "url": "https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Closer (Collector's Edition)",
         "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 268013,
       "name": "Twenty Four Hours - 2007 Remaster",
       "url": "https://open.spotify.com/track/36HznXQNGoen7dwq4Vv6nP"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Only Theatre of Pain",
+        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
+      },
+      "artists": [
+        {
+          "name": "Christian Death",
+          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1067,22 +1067,6 @@
       "duration_ms": 291600,
       "name": "I Walk the Line",
       "url": "https://open.spotify.com/track/6kJoVUIqzlkjNeVGatlGKB"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Only Theatre of Pain",
-        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
-      },
-      "artists": [
-        {
-          "name": "Christian Death",
-          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1183,22 +1167,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Isn't Anything",
-        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Bad Ambient",
         "url": "https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK"
       },
@@ -1211,6 +1179,22 @@
       "duration_ms": 295280,
       "name": "One by One",
       "url": "https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1291,6 +1275,22 @@
       "duration_ms": 353106,
       "name": "Heart and Soul - 2007 Remaster",
       "url": "https://open.spotify.com/track/4SDscXJTjdF2YgSkYADyU0"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Is Nothing Sacred?",
+        "url": "https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8"
+      },
+      "artists": [
+        {
+          "name": "Lords Of The New Church",
+          "url": "https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV"
     }
   ],
   "unique_name": "Dark & Gothic",

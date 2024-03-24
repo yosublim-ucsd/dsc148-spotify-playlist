@@ -1,12 +1,12 @@
 {
   "description": "Corridos aesthetic y rolitas pa' las buchifresas \ud83c\udf53\ud83c\udf51",
-  "num_followers": 64941,
+  "num_followers": 65038,
   "original_name": "Corridos Aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2UzMWEwNzBhYzc4NGFjYTYyNWJlNzNhZjQ3MWQ5ZTk0ODE3NGJh",
+  "snapshot_id": "MCxhMjFlMjZmNjBiOGIyNjQzZjA4NzMxZjE1ZGQ4Mjk4YWJjOWY3MmUw",
   "tracks": [
     {
       "added_at": "2024-02-20 19:26:32",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/0GWovdEPvpI0iq4kgAop1c"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 170646,
-      "name": "Se Te Olvid\u00f3",
-      "url": "https://open.spotify.com/track/6FAQen0CdjEnMlUS84XMBy"
-    },
-    {
-      "added_at": "2024-02-20 19:26:32",
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/7kRqoAgwxx9miEyVIfoqBS"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 182696,
       "name": "Normal",
       "url": "https://open.spotify.com/track/7zW4YRpp2nzhdbaPNG3WcL"
+    },
+    {
+      "added_at": "2024-02-20 19:26:32",
+      "album": {
+        "name": "Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/0GWovdEPvpI0iq4kgAop1c"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 170646,
+      "name": "Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/6FAQen0CdjEnMlUS84XMBy"
     },
     {
       "added_at": "2024-02-20 19:26:32",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "\u00a1Corre!",
-        "url": "https://open.spotify.com/album/2MqawFf2jM9H5TJej3vCyK"
+        "name": "Neverita",
+        "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
       },
       "artists": [
         {
-          "name": "Israel Morales",
-          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
         }
       ],
-      "duration_ms": 227800,
-      "name": "\u00a1Corre!",
-      "url": "https://open.spotify.com/track/6ilNwC7wduo4SwKndbAVMs"
+      "duration_ms": 191296,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1"
     },
     {
       "added_at": "2024-02-20 19:26:32",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "Neverita",
-        "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
+        "name": "\u00a1Corre!",
+        "url": "https://open.spotify.com/album/2MqawFf2jM9H5TJej3vCyK"
       },
       "artists": [
         {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+          "name": "Israel Morales",
+          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
         }
       ],
-      "duration_ms": 191296,
-      "name": "Neverita",
-      "url": "https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1"
+      "duration_ms": 227800,
+      "name": "\u00a1Corre!",
+      "url": "https://open.spotify.com/track/6ilNwC7wduo4SwKndbAVMs"
     },
     {
       "added_at": "2024-02-20 19:26:32",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/4jvCAFWDZlrQx8RFNMamCU"
+      },
+      "artists": [
+        {
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+        }
+      ],
+      "duration_ms": 207463,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/6ed7qZf6Z4HNSEU5vuF75W"
+    },
+    {
+      "added_at": "2024-02-20 19:26:32",
+      "album": {
         "name": "El Primer Dia Sin Ti",
         "url": "https://open.spotify.com/album/5cecIDuiscrYS6zTwjwG0O"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 243448,
       "name": "Los Santos",
       "url": "https://open.spotify.com/track/0JgFV5s9UNFEArrjhPXDGk"
-    },
-    {
-      "added_at": "2024-02-20 19:26:32",
-      "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/4jvCAFWDZlrQx8RFNMamCU"
-      },
-      "artists": [
-        {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
-        }
-      ],
-      "duration_ms": 207463,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/6ed7qZf6Z4HNSEU5vuF75W"
     },
     {
       "added_at": "2024-02-20 19:26:32",

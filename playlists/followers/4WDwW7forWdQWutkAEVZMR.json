@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 8234,
+  "2024-03-24": 8233,
   "date_first_scraped": "2022-06-10",
-  "description": "Your go-to playlist for this week's hottest music featuring Vampire Weekend, Beyonc\u00e9, Harry Styles &amp; more! Cover: Vampire Weekend",
+  "description": "Your go-to playlist for this week's hottest music featuring  girl in red and Sabrina Carpenter, Beyonc\u00e9, Harry Styles &amp; more! Cover: girl in red and Sabrina Carpenter",
   "name": "Columbia Records: Weekly Mix",
   "tracks": [
     {
@@ -155,6 +155,24 @@
       "duration_ms": 216000,
       "name": "28",
       "url": "https://open.spotify.com/track/5IamsVoRYgCuO13ukiTtTN"
+    },
+    {
+      "album": {
+        "name": "28th of June",
+        "url": "https://open.spotify.com/album/0inH63xl0GHnMm9cYmiGWX"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225363,
+      "name": "28th of June",
+      "url": "https://open.spotify.com/track/0ZQdCsqlVRqqImNqkRz9ct"
     },
     {
       "album": {
@@ -1255,6 +1273,24 @@
       "duration_ms": 163598,
       "name": "Bitter Sweet Love - Acoustic",
       "url": "https://open.spotify.com/track/0OKRjdVDhc7IM6bbhkMxjJ"
+    },
+    {
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3OvQIzuh1gb6NiTMkkMAas"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Sterling",
+          "url": "https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178640,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/2tmzXjrJMBrbDfZJ8g9mcF"
     },
     {
       "album": {
@@ -2641,6 +2677,24 @@
       "duration_ms": 181223,
       "name": "Crush",
       "url": "https://open.spotify.com/track/1qpMpd6otkEvU1X8o4rN54"
+    },
+    {
+      "album": {
+        "name": "Cry at the Moon",
+        "url": "https://open.spotify.com/album/0FUlMafsW5YS0OPPAra5IB"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "Cry at the Moon",
+      "url": "https://open.spotify.com/track/0TY9m3iHAO4I0VflhnuFJI"
     },
     {
       "album": {
@@ -6210,6 +6264,24 @@
     },
     {
       "album": {
+        "name": "It Ain't Austin",
+        "url": "https://open.spotify.com/album/6G5V9cVY38NOL9JwcMdNaY"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "It Ain't Austin",
+      "url": "https://open.spotify.com/track/3lSS8lGZEXH8zd2p6wUUil"
+    },
+    {
+      "album": {
         "name": "itch",
         "url": "https://open.spotify.com/album/44qiPtIwkpzB1CWjyD2JxE"
       },
@@ -7111,6 +7183,32 @@
       "duration_ms": 160650,
       "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
       "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
+    },
+    {
+      "album": {
+        "name": "Lovers In A Past Life (Westend Remix)",
+        "url": "https://open.spotify.com/album/4iIX8tATPedKUMG0dmsKMJ"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205846,
+      "name": "Lovers In A Past Life (with Rag'n'Bone Man) - Westend Remix",
+      "url": "https://open.spotify.com/track/1mEsNYnNvLyG7enKUZ6l83"
     },
     {
       "album": {
@@ -8072,6 +8170,24 @@
     },
     {
       "album": {
+        "name": "nicotine",
+        "url": "https://open.spotify.com/album/2v0JLejYwSc81UPDU1cI4v"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216440,
+      "name": "nicotine",
+      "url": "https://open.spotify.com/track/0fKAYdwDXbyhHnveCLxHxR"
+    },
+    {
+      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
       },
@@ -8087,6 +8203,24 @@
       "duration_ms": 296906,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1a Bonita",
+        "url": "https://open.spotify.com/album/0L7eKbKPmzFTUQeTrqXsBR"
+      },
+      "artists": [
+        {
+          "name": "Angel Arevalo",
+          "url": "https://open.spotify.com/artist/5M89S2BaLeDuU8URGIdDWV"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205055,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/4Cw14ICQ0gkTVm3nZYiBaS"
     },
     {
       "album": {
@@ -11304,6 +11438,24 @@
     },
     {
       "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
+      "album": {
         "name": "touch tank",
         "url": "https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh"
       },
@@ -11482,6 +11634,24 @@
     },
     {
       "album": {
+        "name": "Tu C\u00e1rcel",
+        "url": "https://open.spotify.com/album/7y91LphJdXnffzem6Gh6Wk"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226986,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6nGFs4LS1OAFisgl8TnoRP"
+    },
+    {
+      "album": {
         "name": "Only the Strong Survive",
         "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
       },
@@ -11605,6 +11775,24 @@
       "duration_ms": 160866,
       "name": "twenty something",
       "url": "https://open.spotify.com/track/3qBvuUilp4ETbeE12DKPxG"
+    },
+    {
+      "album": {
+        "name": "Ten Total",
+        "url": "https://open.spotify.com/album/1EQ4JquFxRPX36J3MmxOIg"
+      },
+      "artists": [
+        {
+          "name": "1010benja",
+          "url": "https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183225,
+      "name": "Twin",
+      "url": "https://open.spotify.com/track/1Baclns5t6diyC7UfWsGJp"
     },
     {
       "album": {
@@ -12775,6 +12963,28 @@
       "duration_ms": 190893,
       "name": "you don't deserve a country song",
       "url": "https://open.spotify.com/track/6Ucd3amMzVE9d4UeimUUUS"
+    },
+    {
+      "album": {
+        "name": "You Need Me Now? (feat. Sabrina Carpenter)",
+        "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186377,
+      "name": "You Need Me Now? (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
     },
     {
       "album": {

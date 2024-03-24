@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 22180,
+  "2024-03-24": 22207,
   "date_first_scraped": "2022-01-09",
   "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: KIMLONG",
   "name": "Fresh Finds Vietnam",
@@ -370,6 +370,24 @@
     },
     {
       "album": {
+        "name": "2037",
+        "url": "https://open.spotify.com/album/7q5vYalDZgsG4npeeBKssI"
+      },
+      "artists": [
+        {
+          "name": "Tu\u1ea5n V\u00f5",
+          "url": "https://open.spotify.com/artist/4EItpzIGBsSBfsp9MWJieQ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226542,
+      "name": "2037",
+      "url": "https://open.spotify.com/track/3kS0VFP7m6M3JMqLAPukhY"
+    },
+    {
+      "album": {
         "name": "22nd Summer",
         "url": "https://open.spotify.com/album/1CnonWsJBPiyPjROHW4UOF"
       },
@@ -637,7 +655,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 238711,
       "name": "99db",
       "url": "https://open.spotify.com/track/5nCeBQzWQUeHgh4nTLtjpr"
@@ -7535,7 +7553,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 219000,
       "name": "C\u1ea3m Gi\u00e1c",
       "url": "https://open.spotify.com/track/6rwZG0j0Kj3E9ZRjkNggrj"
@@ -24261,7 +24279,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 185324,
       "name": "Th\u00e2n M\u1eadt",
       "url": "https://open.spotify.com/track/4VPH156XiOHsQ1UcbvWupA"
@@ -26657,6 +26675,24 @@
       "duration_ms": 322696,
       "name": "T\u1eadp",
       "url": "https://open.spotify.com/track/5xMFav8sLFOCk9n94foNHp"
+    },
+    {
+      "album": {
+        "name": "Ng\u01b0\u1eddi M\u01a1",
+        "url": "https://open.spotify.com/album/7m8BhmovQDD2kfNR6SE5di"
+      },
+      "artists": [
+        {
+          "name": "Mi ch\u01a1i nh\u1ea1c",
+          "url": "https://open.spotify.com/artist/1JffEN8eY4bET6EiLNvy7f"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236259,
+      "name": "T\u1ec9nh Gi\u1ea5c",
+      "url": "https://open.spotify.com/track/3oaqPPnxgRsyCmYsZcAbVb"
     },
     {
       "album": {

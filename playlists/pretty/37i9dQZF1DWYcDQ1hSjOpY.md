@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,893,383 likes - 295 songs - 14 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,893,468 likes - 295 songs - 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 3 | [Switching Dimension](https://open.spotify.com/track/0MIUg7h0Py7PUxUWQpN556) | [Fabio Secci](https://open.spotify.com/artist/1hYkH9ClWy5ZfmmTTntt2K) | [Switching Dimension](https://open.spotify.com/album/0F6yQC1hTnFVwvvpmUxqm0) | 2:49 |
 | 4 | [Aqua Aura](https://open.spotify.com/track/1ZC0NlMKMU0t3dtSdCnDf8) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aqua Aura](https://open.spotify.com/album/5NdiSoyeQn9WL8rMB219xC) | 2:45 |
 | 5 | [Wider Purpose](https://open.spotify.com/track/4R5tfiuzHBNvUh71998qJM) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Wider Purpose](https://open.spotify.com/album/7hAwWhV1BZVOql2EPChZVk) | 2:43 |
-| 6 | [Falling Leaves](https://open.spotify.com/track/17dcWX6eiecq3XqErZT7ea) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Falling Leaves](https://open.spotify.com/album/7D0sXnzyjZ4nVof7Qm1MF4) | 2:19 |
+| 6 | [Falling Leaves](https://open.spotify.com/track/17dcWX6eiecq3XqErZT7ea) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Falling Leaves](https://open.spotify.com/album/7D0sXnzyjZ4nVof7Qm1MF4) | 2:19 |
 | 7 | [Falling Blue Stars](https://open.spotify.com/track/4tauiyO1Y1svU1U63XjXWw) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Falling Blue Stars](https://open.spotify.com/album/6rQOYH3uadzIulsBwlX1Js) | 2:48 |
 | 8 | [By The Coastline](https://open.spotify.com/track/1sf2W9dHuYaVB8O47cQ0lf) | [Meadowsweet](https://open.spotify.com/artist/2LvDYoVgXkWs04t60YxK9z) | [By The Coastline](https://open.spotify.com/album/1QMnLDEhNxLGTJFmif7kCs) | 2:49 |
 | 9 | [Zenlume](https://open.spotify.com/track/6hHtrP0WMbClC6O4ayu630) | [Arctic Whispers](https://open.spotify.com/artist/0c1z1KTtxnIZNed7WofH4J) | [Zenlume](https://open.spotify.com/album/0tRkzjZbdKzi3gItqw3Lzk) | 2:45 |
@@ -304,4 +304,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 294 | [Des rêves sans fin](https://open.spotify.com/track/7vGRko4f6X3H4EfhwPsIJY) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [Des rêves sans fin](https://open.spotify.com/album/6x5YvwCzCxoLyME5L24xPL) | 3:02 |
 | 295 | [Open Fields](https://open.spotify.com/track/4bCf42P2k4fg2bARV81dqt) | [Timothy Byrne](https://open.spotify.com/artist/2DGtEENrN5vjB1DXzRaL58) | [Open Fields](https://open.spotify.com/album/6snbZP5VYpnecxN5TZqtSk) | 2:29 |
 
-Snapshot ID: `MCw1OWM0MTRhMDMzNTliMjAzNjU5MGZiZDc5NjM0NzkzNGQ0NjBhOTJh`
+Snapshot ID: `MCwxMWNmYTU2ODM2OGZhYTcwOTE2OGFkMzM3ODU4MDI1MDBlMjY2NDQ3`

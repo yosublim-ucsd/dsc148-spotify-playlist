@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 75362,
+  "num_followers": 75371,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmQzNTIwNzNlODExMzBjZTc2NjhlNmM0NDg3YTgwNjhmNDNlOGNk",
+  "snapshot_id": "MCxjNWVjOGJkZTgwYTlkNjQzOGZhNzdjMjBiMzQwOTQ1YmQzYzA1NzQ1",
   "tracks": [
     {
       "added_at": "2023-11-30 13:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Caught Up In The Wire, No More",
-        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
-      },
-      "artists": [
-        {
-          "name": "Tay Oskee",
-          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
-        }
-      ],
-      "duration_ms": 195324,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Jan Juc Moon",
         "url": "https://open.spotify.com/album/0zXonPXtpDEb32sy6PkTsw"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 277053,
       "name": "Stoney Creek",
       "url": "https://open.spotify.com/track/0ik7YpGVcjTkXBrUv4SaqR"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Caught Up In The Wire, No More",
+        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
+      },
+      "artists": [
+        {
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
+        }
+      ],
+      "duration_ms": 195324,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Half Awake, Half Asleep",
-        "url": "https://open.spotify.com/album/7cHSI1g84HZbJ2GwauTahA"
+        "name": "Feel Like Clarity",
+        "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
       },
       "artists": [
         {
-          "name": "Terrible Sons",
-          "url": "https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g"
+          "name": "Gaudion",
+          "url": "https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI"
         }
       ],
-      "duration_ms": 190546,
-      "name": "Tears Don\u2019t Fall",
-      "url": "https://open.spotify.com/track/2T3whAdkzXCT58yFXsZgjm"
+      "duration_ms": 188004,
+      "name": "Feel Like Clarity",
+      "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Feel Like Clarity",
-        "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
+        "name": "Half Awake, Half Asleep",
+        "url": "https://open.spotify.com/album/7cHSI1g84HZbJ2GwauTahA"
       },
       "artists": [
         {
-          "name": "Gaudion",
-          "url": "https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI"
+          "name": "Terrible Sons",
+          "url": "https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g"
         }
       ],
-      "duration_ms": 188004,
-      "name": "Feel Like Clarity",
-      "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
+      "duration_ms": 190546,
+      "name": "Tears Don\u2019t Fall",
+      "url": "https://open.spotify.com/track/2T3whAdkzXCT58yFXsZgjm"
     }
   ],
   "unique_name": "Summer Daze",

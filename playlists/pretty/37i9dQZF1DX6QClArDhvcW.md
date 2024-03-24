@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,631 likes - 289 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,716 likes - 289 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [morning coffee](https://open.spotify.com/track/22YaZEoX2OiG5yA2O3cHDv) | [bearé](https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK) | [morning coffee](https://open.spotify.com/album/77rJWwqP3W0MxO8Nb8fxsl) | 2:28 |
 | 2 | [happy moggie](https://open.spotify.com/track/6mnuzqUm6MObdHHk59Tg4E) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [happy moggie](https://open.spotify.com/album/5HRw1jjjlShVFhlyNlyjpi) | 2:18 |
-| 3 | [reading](https://open.spotify.com/track/3w2Yi3R4KMv4XvYTbMDxgR) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/6PVQb5IcN1NBMA3dTMflEL) | 2:41 |
+| 3 | [reading](https://open.spotify.com/track/5cnwPn0MKDPnu2rUamIRgb) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/2YVst3ngUsry3PB4Gz3JWN) | 2:41 |
 | 4 | [balloons](https://open.spotify.com/track/5CV5jyDKLVCpdGCQtGN5Hb) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [balloons](https://open.spotify.com/album/1LAiK1K98pnv3rJ87R9XvM) | 1:40 |
 | 5 | [marzipan shuffle](https://open.spotify.com/track/5wdv54IxFDvxTjln9p9P17) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [marzipan shuffle](https://open.spotify.com/album/0uBNw4DJM0MPKqwg8EcYCF) | 2:36 |
 | 6 | [courgetti](https://open.spotify.com/track/3V9GidOZeEPa1DeC2JDLzF) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [courgetti](https://open.spotify.com/album/0D1Vfcbo0xuG4q9dpBOlvz) | 2:39 |
@@ -298,4 +298,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 288 | [Morning Routine](https://open.spotify.com/track/5qVqfRxmtlXQFPpW5836Nf) | [bedroom lofi](https://open.spotify.com/artist/2LrcxltMHRqQBYByx4rtW2) | [Morning Routine](https://open.spotify.com/album/0wDM3yMZuPRHEXVypsjhZV) | 0:59 |
 | 289 | [Misty](https://open.spotify.com/track/482jgUtNalNOBuOC9XAuJu) | [Phil Gori](https://open.spotify.com/artist/0dAq0AU9wC4mgrz09aPo0e), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Misty](https://open.spotify.com/album/28l4AuuySCumrAxCvlic76) | 1:57 |
 
-Snapshot ID: `MCw3MTgzZDU2MzRmMjRjNWVjZTAwOTJlNGRhMGU4MGQ0ZGFiOTdlNTc4`
+Snapshot ID: `MCxjNGM2MzUyNTU5ZDczMGYxMDliMGRlYjI5ZmY5NDQwMzI3MzUyNThj`

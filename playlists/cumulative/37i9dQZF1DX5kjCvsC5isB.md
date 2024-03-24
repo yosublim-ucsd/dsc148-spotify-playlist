@@ -4,7 +4,7 @@
 
 > Women who rock our world\. Cover: The Last Dinner Party
 
-434 songs - 22 hr 31 min
+435 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,8 @@
 | [Monster](https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Monster](https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL) | 2:58 | 2021-07-30 | 2023-06-10 |
 | [Mood Ring](https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Mood Ring](https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS) | 2:57 | 2024-02-28 |  |
 | [Mood Swings](https://open.spotify.com/track/4uM9jXse2J95M11yAiSJLB) | [New Dialogue](https://open.spotify.com/artist/1LrZbHRZ3WMonnXy9NU3Vj) | [Mood Swings](https://open.spotify.com/album/2lRVdFl1XZmQWyt0Mkny08) | 3:03 | 2021-09-10 | 2023-06-10 |
-| [Moonstruck](https://open.spotify.com/track/1kM0YPEPUmZfV7WAl6HH0i) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Moonstruck](https://open.spotify.com/album/03TpK5HO3kLKg7jSTsKjoD) | 3:05 | 2024-02-28 |  |
+| [Moonstruck](https://open.spotify.com/track/1kM0YPEPUmZfV7WAl6HH0i) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Moonstruck](https://open.spotify.com/album/03TpK5HO3kLKg7jSTsKjoD) | 3:05 | 2024-02-28 | 2024-03-24 |
+| [Moonstruck](https://open.spotify.com/track/4jKvi79CDhecACVRUVwOx3) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Playing Favorites](https://open.spotify.com/album/2R7crs7YbXoJrjzb7IOEEq) | 3:05 | 2024-02-28 |  |
 | [MORE](https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MORE](https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS) | 3:07 | 2023-06-09 | 2024-02-29 |
 | [Motel \#27](https://open.spotify.com/track/1Y3ljpiOvGbiXRGo60DMLT) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:48 | 2022-06-24 | 2023-06-10 |
 | [Motel \#27](https://open.spotify.com/track/74e2qzhkn66GvgTLJAicFR) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Motel \#27](https://open.spotify.com/album/5R6iPKAslcZJBhP9r6IqNJ) | 2:48 | 2021-08-27 | 2022-07-29 |

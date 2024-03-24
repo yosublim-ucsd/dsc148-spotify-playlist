@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 1400902,
+  "2024-03-24": 1402201,
   "date_first_scraped": "2022-03-24",
   "description": "o melhor do trap d\u00e1 o play e aumenta! Foto: MD Chefe, Filipe Ret",
   "name": "Trapperz Brasil",
@@ -2556,6 +2556,40 @@
     },
     {
       "album": {
+        "name": "Coisas da Vida",
+        "url": "https://open.spotify.com/album/3qu0ZoRCKAa7YSBT8Iff8u"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "LeodoKick",
+          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Coisas da Vida",
+      "url": "https://open.spotify.com/track/5N4GjhAmq0A0jZ8zXbWJUt"
+    },
+    {
+      "album": {
         "name": "Combate",
         "url": "https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC"
       },
@@ -3567,7 +3601,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 173538,
       "name": "DIOR",
       "url": "https://open.spotify.com/track/5DuoTr0y7FL2FDvn5YQQ3w"
@@ -3747,6 +3781,36 @@
       "duration_ms": 187680,
       "name": "Do Seu Lado",
       "url": "https://open.spotify.com/track/1a1CZOOOgsm1bGf0G92Zrn"
+    },
+    {
+      "album": {
+        "name": "DO ZERO",
+        "url": "https://open.spotify.com/album/4jU0Er1pO1NiKlq7rXliqS"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158608,
+      "name": "DO ZERO",
+      "url": "https://open.spotify.com/track/47BjMDOzXTz5tgAtx2x6jE"
     },
     {
       "album": {
@@ -10809,7 +10873,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 172918,
       "name": "SURF",
       "url": "https://open.spotify.com/track/5wIeMse9hiDCEyOGylFbIe"

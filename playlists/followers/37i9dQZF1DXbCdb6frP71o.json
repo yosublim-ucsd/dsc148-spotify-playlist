@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 11810,
+  "2024-03-24": 12047,
   "date_first_scraped": "2024-03-12",
   "description": "Devotional tracks for an immersive Ramadan.",
   "name": "Hamd-o-Naat",
@@ -191,6 +191,24 @@
       "duration_ms": 425175,
       "name": "Allah Hoo Allah Hoo Allah Hoo",
       "url": "https://open.spotify.com/track/6FCaGllztK5XnlofbDsIGY"
+    },
+    {
+      "album": {
+        "name": "Allah Hu Allah (Slowed)",
+        "url": "https://open.spotify.com/album/2fl3HYj9C7REYt5cQqgmRD"
+      },
+      "artists": [
+        {
+          "name": "Nasheed Partner",
+          "url": "https://open.spotify.com/artist/2afpTqcm0WlhFSxCBUq9L0"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150372,
+      "name": "Allah Hu Allah (Slowed)",
+      "url": "https://open.spotify.com/track/4EtSg9oIHSAhdWPYGbFkQO"
     },
     {
       "album": {
@@ -594,6 +612,24 @@
     },
     {
       "album": {
+        "name": "Kabe Ki Ronak (Slowed+Reverab)",
+        "url": "https://open.spotify.com/album/4o4gq8NxlVm7EBXabhgWg0"
+      },
+      "artists": [
+        {
+          "name": "TOMA",
+          "url": "https://open.spotify.com/artist/00ndjxEQhVagP7fPcwlzBc"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487735,
+      "name": "Kabe Ki Ronak (Slowed+Reverab)",
+      "url": "https://open.spotify.com/track/603HA5YQ8QX00bWfrfWb2e"
+    },
+    {
+      "album": {
         "name": "Kalam E Iqbal",
         "url": "https://open.spotify.com/album/2BRaEghBFdq71LgoZcrMID"
       },
@@ -726,6 +762,40 @@
     },
     {
       "album": {
+        "name": "Lamyati Nazeero Kafi Nazarin",
+        "url": "https://open.spotify.com/album/5yh3CIbaSO1hWyGRtI7auw"
+      },
+      "artists": [
+        {
+          "name": "Waseem Ahmed",
+          "url": "https://open.spotify.com/artist/3hxAEnme2cH02IX91bOQaA"
+        },
+        {
+          "name": "Danish Ahmed",
+          "url": "https://open.spotify.com/artist/0hnSNpwhbXNbo2T1tkt9EJ"
+        },
+        {
+          "name": "Wajahat Ali",
+          "url": "https://open.spotify.com/artist/7v6SqMFyHCxtY4Ox3AChg4"
+        },
+        {
+          "name": "Junaid Rehmani",
+          "url": "https://open.spotify.com/artist/0vgVXrXIVzbeuuHTfZ3tg1"
+        },
+        {
+          "name": "Waqar Hussain",
+          "url": "https://open.spotify.com/artist/25guS5j6KqfntMgtWakAdU"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442777,
+      "name": "Lamyati Nazeero Kafi Nazarin",
+      "url": "https://open.spotify.com/track/4Ro9g1K81Xn2JzbvTJCxLR"
+    },
+    {
+      "album": {
         "name": "Madina Madina",
         "url": "https://open.spotify.com/album/2LOVb8bLCz8TYF17VknOLg"
       },
@@ -741,6 +811,24 @@
       "duration_ms": 329600,
       "name": "Madina Madina",
       "url": "https://open.spotify.com/track/2bdN1sxueKxLTi0tCN7zcq"
+    },
+    {
+      "album": {
+        "name": "Madine Walay Aaqa",
+        "url": "https://open.spotify.com/album/126YBZmRktl6lA9Ur3vuaf"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445778,
+      "name": "Madine Walay Aaqa",
+      "url": "https://open.spotify.com/track/3AqH9fJL6R1fmwwbGOcH8l"
     },
     {
       "album": {
@@ -925,6 +1013,24 @@
       "duration_ms": 339767,
       "name": "Meraj Ki Ratiya",
       "url": "https://open.spotify.com/track/6af7ozhB7rqnJJkTx4sAyn"
+    },
+    {
+      "album": {
+        "name": "Hamada Helal Collection",
+        "url": "https://open.spotify.com/album/3X7CyGVcbSUGO0yN5aB0sL"
+      },
+      "artists": [
+        {
+          "name": "Hamada Helal",
+          "url": "https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271728,
+      "name": "Mohamed Nabeina",
+      "url": "https://open.spotify.com/track/5sK6ASFSHrXAQdHfsMID13"
     },
     {
       "album": {

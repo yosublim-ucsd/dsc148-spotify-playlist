@@ -4530,6 +4530,24 @@
     {
       "album": {
         "name": "Nothing Else Feels The Same",
+        "url": "https://open.spotify.com/album/5Y0aJrnGAdlWxvNzTTdyBH"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183729,
+      "name": "Nothing Else Feels The Same",
+      "url": "https://open.spotify.com/track/56iCLbDrPWYZ4nMkY8s1qj"
+    },
+    {
+      "album": {
+        "name": "Nothing Else Feels The Same",
         "url": "https://open.spotify.com/album/5qBY1K1C7QoXWlmZ2yvV5L"
       },
       "artists": [
@@ -4540,7 +4558,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 184827,
       "name": "Nothing Else Feels The Same",
       "url": "https://open.spotify.com/track/7AEdIhy2GLcoJ3nqqEjmjT"

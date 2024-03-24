@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 60281,
+  "2024-03-24": 60306,
   "date_first_scraped": "2020-10-20",
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
   "name": "The Good Cup",
@@ -653,7 +653,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 291242,
       "name": "dust to dust/lose myself (undone)",
       "url": "https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD"
@@ -1293,6 +1293,24 @@
       "duration_ms": 232293,
       "name": "I Won't Let Go",
       "url": "https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq"
+    },
+    {
+      "album": {
+        "name": "I Won't Let Go",
+        "url": "https://open.spotify.com/album/2VA6K5Fan0mXPpBuZs5ZBv"
+      },
+      "artists": [
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232293,
+      "name": "I Won't Let Go",
+      "url": "https://open.spotify.com/track/706slEZ03AMqpvUAAI95zs"
     },
     {
       "album": {

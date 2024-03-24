@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-553 songs - 1 day 18 hr 37 min
+555 songs - 1 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Always a Lady](https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:03 | 2023-03-10 |  |
 | [Americans in Paris](https://open.spotify.com/track/6SLB7RAVXvNdvzBFMy1Pyc) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [My History of Jazz](https://open.spotify.com/album/7ahVUrtlbmVq29CPbt1J85) | 4:30 | 2022-02-10 | 2022-11-12 |
 | [And I Love Her](https://open.spotify.com/track/72m3jr8pROw5WQM3cJAy1k) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK) | [And I Love Her](https://open.spotify.com/album/5Ug4R1QkqfUDsufwLymttu) | 6:43 | 2022-02-10 |  |
+| [Asking You Out](https://open.spotify.com/track/0QCyenIbvoll6CIjDstGSj) | [Quinn Perry Trio](https://open.spotify.com/artist/16azKEAxILijPKm6gQf9Rb) | [Asking You Out](https://open.spotify.com/album/034e3pSqJygDVB8tMsXck0) | 3:04 | 2024-03-22 |  |
 | [At A Glance](https://open.spotify.com/track/6ZVjpala82zQqrzorpZcP4) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Changing Places](https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g) | 4:18 | 2022-02-10 | 2022-11-09 |
 | [At Dusk](https://open.spotify.com/track/0XVdTFUuT5GpxURuICaFKK) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [At Dusk](https://open.spotify.com/album/5uRwkihneepvVSGokwLDNO) | 3:24 | 2022-11-12 |  |
 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-11-12 |  |
@@ -260,7 +261,7 @@
 | [Let's go uptown](https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Let's go uptown](https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3) | 2:20 | 2023-01-26 |  |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-11-12 |  |
 | [Life In Paradise](https://open.spotify.com/track/7DhwU4DOhVLPI30Rj2X6e4) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [Life In Paradise](https://open.spotify.com/album/5TNHvnh6yY5FwDBqo3g59W) | 4:34 | 2022-11-12 |  |
-| [Life is a Beautiful Thing](https://open.spotify.com/track/5E2naT4wvGkEhYj9US26GQ) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN) | [The Artist](https://open.spotify.com/album/4RlmJEPHL2p0QMaSsvJqVn) | 5:24 | 2022-05-13 |  |
+| [Life is a Beautiful Thing](https://open.spotify.com/track/5E2naT4wvGkEhYj9US26GQ) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN) | [The Artist](https://open.spotify.com/album/4RlmJEPHL2p0QMaSsvJqVn) | 5:24 | 2022-05-13 | 2024-03-24 |
 | [Light Wave](https://open.spotify.com/track/7F3h33seOeoDMEW65Vz2mj) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Light Wave](https://open.spotify.com/album/04WmEv2QCADVuxTOEKKIb9) | 3:45 | 2022-11-12 |  |
 | [Lighter](https://open.spotify.com/track/3ME6wz09uMm4wdzyQ4mQb0) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Lighter](https://open.spotify.com/album/58ofYRb4CTqH3UBL6loe3M) | 3:23 | 2023-03-10 |  |
 | [Links](https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Links](https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn) | 3:52 | 2022-07-07 |  |
@@ -270,6 +271,7 @@
 | [Living In Paradise](https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 4:48 | 2022-11-12 |  |
 | [Lonely as a Cloud](https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Lonely as a Cloud](https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11) | 2:47 | 2022-12-01 |  |
 | [Lookin' Up](https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Lookin' Up](https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk) | 3:02 | 2023-03-10 |  |
+| [Looking To The Stars](https://open.spotify.com/track/0NQNWmHu9ysgBp4Ya5rZZX) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Looking To The Stars](https://open.spotify.com/album/6fE0TuQ3KW5TIFRaaB7Twb) | 2:49 | 2024-03-22 |  |
 | [Lost In Your Eyes](https://open.spotify.com/track/6LbXoojfOKm6iW4VIztDAT) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Lost In Your Eyes](https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh) | 4:02 | 2023-03-10 |  |
 | [Lost Time](https://open.spotify.com/track/3dDxEGkjwYrzifo9TGAOzb) | [Matthew Fries](https://open.spotify.com/artist/0aUW5XnNwhMnYzJOUyiQTV) | [Lost Time](https://open.spotify.com/album/6MSX6DJKrXDNkOndHTexxW) | 5:51 | 2022-09-20 |  |
 | [Love Is in the Air](https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Love Is in the Air](https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y) | 3:45 | 2023-06-01 | 2023-08-26 |
@@ -451,7 +453,7 @@
 | [Tender Love](https://open.spotify.com/track/1FePXz2POgqbRHXyvTaatk) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [Tender Love](https://open.spotify.com/album/1yJMv0eQnnqlkXdtP4tc8w) | 2:13 | 2022-04-07 | 2024-01-19 |
 | [Tenderly](https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Tenderly](https://open.spotify.com/album/5rEcJC5idMYjO6mq3eJFeC) | 3:23 | 2022-11-12 |  |
 | [Terrassedør](https://open.spotify.com/track/57tJTC6pmYgKWmc4Jo9Mz0) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Orbit](https://open.spotify.com/album/1rEFeHf8hGrb2YiSPBMr0U) | 2:52 | 2022-05-26 | 2022-09-15 |
-| [That Was Then](https://open.spotify.com/track/4hAzpVLnohaPrgwC4lIOxh) | [Roelofs](https://open.spotify.com/artist/6FMjIGodIpXfHq3X5Mfry4) | [That Was Then](https://open.spotify.com/album/68LKBJ6tGkv0SgrF1yVb42) | 5:34 | 2024-02-23 |  |
+| [That Was Then](https://open.spotify.com/track/4hAzpVLnohaPrgwC4lIOxh) | [Roelofs](https://open.spotify.com/artist/6FMjIGodIpXfHq3X5Mfry4) | [That Was Then](https://open.spotify.com/album/68LKBJ6tGkv0SgrF1yVb42) | 5:34 | 2024-02-23 | 2024-03-24 |
 | [The Art of Flying](https://open.spotify.com/track/0g0f3eeqmzgd0yO24yYdng) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [A Brand New Silver Dollar](https://open.spotify.com/album/5PenfsMGMK0o9L7kNHqW8G) | 5:23 | 2022-08-30 | 2023-09-14 |
 | [The Art of Flying \- Edit](https://open.spotify.com/track/38j4V8qkda6o4ta0BCJvKJ) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [The Art of Flying \(Edit\)](https://open.spotify.com/album/63PWCBZVpIcVFJkH3godc5) | 4:08 | 2022-06-03 | 2023-07-22 |
 | [The Art of Letting Go](https://open.spotify.com/track/5ZlwYoMgai25EVMUPKMBr8) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [The Art of Letting Go](https://open.spotify.com/album/0FsvqEQCqEHrI7qhkVlULW) | 3:20 | 2023-05-11 |  |

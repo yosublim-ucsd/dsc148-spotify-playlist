@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 101296,
+  "2024-03-24": 101299,
   "date_first_scraped": "2021-12-29",
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
   "name": "This Is Celia Cruz",
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 180207,
       "name": "Az\u00facar, Az\u00facar",
       "url": "https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 224293,
       "name": "Cao Cao Man\u00ed Picao",
       "url": "https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt"
@@ -1261,7 +1261,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 189600,
       "name": "Guede Zaina",
       "url": "https://open.spotify.com/track/6HxrX0t2TnBbrAYTaV3zj0"
@@ -1655,7 +1655,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 167400,
       "name": "Me Voy A Pinar Del R\u00edo",
       "url": "https://open.spotify.com/track/14uucuWFa78hDSkfqq0uoE"
@@ -2661,7 +2661,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 168475,
       "name": "Ven Bernabe - Remastered",
       "url": "https://open.spotify.com/track/5v5QvuADGTmk9D0rST4s0e"
@@ -2753,7 +2753,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 159266,
       "name": "Y Mi Negro Esta Cansao",
       "url": "https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj"

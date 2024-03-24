@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: CERES
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,314 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,320 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Running](https://open.spotify.com/track/5K59VdBAhtTYIxBlne1WT2) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Francesca Sardi](https://open.spotify.com/artist/1qI2ett9td7YVX6C1eiq1Z) | [Running](https://open.spotify.com/album/5JMbsiPcxRBVNztGimHvyw) | 2:39 |
 | 50 | [Love Goes](https://open.spotify.com/track/3uAFwegcb4Vavx5BNgzXT9) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Jae Walters](https://open.spotify.com/artist/2kAm3LwfVyqbufmusOcanD) | [Love Goes](https://open.spotify.com/album/3vGHDvBv1PAtzQCnD00eAO) | 3:21 |
 
-Snapshot ID: `MCxkY2RhNDJiNzI5YmRjY2M4MDA0ZjU3OWMwMjYzOTZkYTQ3YmMzMDI3`
+Snapshot ID: `MCxhNTllNmMzMzY4N2M0YTE1N2UwMzdmYmM1Y2U4NTE2M2VkZGNlZWE1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,652 likes - 85 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,656 likes - 85 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 84 | [Subzero \- Original Mix](https://open.spotify.com/track/7p6oXzBSPAXXz8Xb8gBPki) | [Ben Klock](https://open.spotify.com/artist/1vJHfCreWAS46V8RZ67ojo) | [Before One EP](https://open.spotify.com/album/6nDabvimKikHWteZsybtEd) | 6:23 |
 | 85 | [Cos Of You](https://open.spotify.com/track/7nAbkjtxvS00NBcOlapI9V) | [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Cos Of You](https://open.spotify.com/album/1N4eo5yQdprG0nLBJ7UlhM) | 6:13 |
 
-Snapshot ID: `MCwyMDEzNmZhZGM4MGQwZGRhYTliMTNiNjAzNTc4ZGNiMzQwODBlMDQ4`
+Snapshot ID: `MCw2MjgzODBhMTk2OTMzZmQ0OTI0ODZlMGUzNGIzMjE4NzBlNzEwMjIw`

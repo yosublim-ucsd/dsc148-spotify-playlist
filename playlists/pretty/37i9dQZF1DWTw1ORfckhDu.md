@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa william.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,655 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,668 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 27 | [Sydän](https://open.spotify.com/track/0XSSEF9WEa4wo4UOil9LSS) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Kestävää \- EP](https://open.spotify.com/album/4TL1Bik2Md7x72LfF8sPvA) | 2:08 |
 | 28 | [Love Song](https://open.spotify.com/track/6bPCYlgOrobxmSSNMAIUdW) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Love Song](https://open.spotify.com/album/4A9rrxbyaLqJsyzjuB72UW) | 2:26 |
 | 29 | [Exät](https://open.spotify.com/track/4q5Rnu71pstT3z6kklETEP) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Exät](https://open.spotify.com/album/53bEIVj0CT6OyfBQCij33B) | 2:34 |
-| 30 | [Lentoon](https://open.spotify.com/track/3bDHdPqcCD1qu8Yy58KCsF) | [Aivovuoto](https://open.spotify.com/artist/0vIwzLRr3uDumTBaCmU0fm) | [SEITSEMAN](https://open.spotify.com/album/6epynlBanMUlrqlzmGc40X) | 3:26 |
+| 30 | [Lentoon](https://open.spotify.com/track/3bDHdPqcCD1qu8Yy58KCsF) | [Aivovuoto](https://open.spotify.com/artist/0vIwzLRr3uDumTBaCmU0fm), [Shaka](https://open.spotify.com/artist/1VAeoyXiJfFPPsljLAtC3i) | [SEITSEMAN](https://open.spotify.com/album/6epynlBanMUlrqlzmGc40X) | 3:26 |
 | 31 | [Väärässä](https://open.spotify.com/track/4UCFMr1gZ2inY9KzZn3wJv) | [Sipe](https://open.spotify.com/artist/3E7bCbwpFw5rgvOD28C1XZ) | [Väärässä](https://open.spotify.com/album/2oVv0BEObK6mAwKq1UftuX) | 2:34 |
 | 32 | [Kauniimpaa](https://open.spotify.com/track/4irfK07MeE3ApyLru8VZed) | [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw), [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [Kauniimpaa](https://open.spotify.com/album/7kr9O7dvZKrgC6pFUnSffN) | 2:27 |
 | 33 | [OMAKUVA](https://open.spotify.com/track/1Uj1Tda2aIvIP3qNRNMvDN) | [D1 DANI](https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx) | [OMAKUVA](https://open.spotify.com/album/2WutggA7sbLfixqKBWRv3j) | 3:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Sun puolesta](https://open.spotify.com/track/6vQsDGaqm6A0qpydE2GL9z) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Sun puolesta](https://open.spotify.com/album/400wyoAJHxbFJvJXGBcz4K) | 2:59 |
 | 60 | [MURDV](https://open.spotify.com/track/1AWpTnYMAIyuENulfwT0j4) | [MJ](https://open.spotify.com/artist/6DuYuCr5tT6QMfDVjjivcj) | [MURDV](https://open.spotify.com/album/4Ht1Eiy3hAjV1RJ53486Sq) | 2:01 |
 
-Snapshot ID: `MCxjYzk5MDZjZjJlM2YyNzlmNTMzYTg4YzdlMDYzN2JmYWYyMDYzNzlm`
+Snapshot ID: `MCwyZTc2Y2IxMTBhYzIzMDZjZGNmZWIyMmVkNzc4NzQzMmIwMTRjOWQ2`

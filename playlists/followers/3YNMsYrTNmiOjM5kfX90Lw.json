@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 407471,
+  "2024-03-24": 407628,
   "date_first_scraped": "2023-12-14",
   "description": "Hip-hop favorites. Songs distributed by DistroKid, playlist curated by the public. To vote, head to: distrokid.com/spotlight",
   "name": "DistroKid Rap Scallion",
@@ -21,7 +21,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 39145,
       "name": "... an Interlude",
       "url": "https://open.spotify.com/track/0ZisrQEomfaJiUnHnjjVjU"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 214177,
       "name": "Big Shit",
       "url": "https://open.spotify.com/track/33ABawsXB7kQr5pNr6TJkl"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 308297,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/0pTmH1pcEnoP2DJpYDWYEL"
@@ -538,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Dove Sei",
+        "url": "https://open.spotify.com/album/4NOLcWyGu3vBHVLSORFS6M"
+      },
+      "artists": [
+        {
+          "name": "ECED",
+          "url": "https://open.spotify.com/artist/1VnmP2Q7nkFgRLSghTu5Mk"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161392,
+      "name": "Dove Sei",
+      "url": "https://open.spotify.com/track/4NpZBZDxdPoCtxN7sgtnwi"
+    },
+    {
+      "album": {
         "name": "Ek Waqt",
         "url": "https://open.spotify.com/album/4QDPECqHt2crHBNCc4S2PT"
       },
@@ -571,6 +589,24 @@
       "duration_ms": 216191,
       "name": "Estilo Calle",
       "url": "https://open.spotify.com/track/3XMjhqUbO9qL1fvglte0DK"
+    },
+    {
+      "album": {
+        "name": "Eu resolvo",
+        "url": "https://open.spotify.com/album/6Q1NSld6uZNju3c05oy1Ne"
+      },
+      "artists": [
+        {
+          "name": "DONTBREAKIARA",
+          "url": "https://open.spotify.com/artist/0TF3dBAstve4DQV6ZDHbwt"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170218,
+      "name": "Eu resolvo",
+      "url": "https://open.spotify.com/track/4VrsePMGKngZtCOUF5dH9G"
     },
     {
       "album": {
@@ -625,7 +661,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 147888,
       "name": "Forte",
       "url": "https://open.spotify.com/track/3tz7Po4E0q5bcsQhIU6uja"
@@ -694,6 +730,28 @@
     },
     {
       "album": {
+        "name": "##loveletter2u",
+        "url": "https://open.spotify.com/album/0x8lGAa470CAmXKsyi9IT5"
+      },
+      "artists": [
+        {
+          "name": "vanish shawty",
+          "url": "https://open.spotify.com/artist/7ebNvpVbONk1HiqJa9dBWZ"
+        },
+        {
+          "name": "plastic",
+          "url": "https://open.spotify.com/artist/5k6HgzpAVinXbZJlNtTLsE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97033,
+      "name": "hina",
+      "url": "https://open.spotify.com/track/1X5CSLIUs8s6i9v1agbe7k"
+    },
+    {
+      "album": {
         "name": "Hip Hop Is What Made Me (feat. DJ ACE NYC & Larissa Lambert)",
         "url": "https://open.spotify.com/album/0rF7WiRHOcPDhzFZpeeHFR"
       },
@@ -752,6 +810,28 @@
     },
     {
       "album": {
+        "name": "ICE BOX",
+        "url": "https://open.spotify.com/album/7weOM8cZeoHaxycYc0z9sb"
+      },
+      "artists": [
+        {
+          "name": "shadow",
+          "url": "https://open.spotify.com/artist/2WrsQkNaiC2knY6m8vPSt5"
+        },
+        {
+          "name": "Twando",
+          "url": "https://open.spotify.com/artist/2W3XfoxZUtQuAUQFXseL71"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132771,
+      "name": "ICE BOX",
+      "url": "https://open.spotify.com/track/2OKkGpUXyTaYOzbZxKxpCM"
+    },
+    {
+      "album": {
         "name": "incredible",
         "url": "https://open.spotify.com/album/1INdDw2nceRoLuCO8C0SsE"
       },
@@ -781,7 +861,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 171966,
       "name": "Intro",
       "url": "https://open.spotify.com/track/0VnadZNK2yej0BCnIuhZqu"
@@ -843,10 +923,28 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 155744,
       "name": "It's My Turn",
       "url": "https://open.spotify.com/track/3RlpB2VD99yysb0KmEATVA"
+    },
+    {
+      "album": {
+        "name": "Japon",
+        "url": "https://open.spotify.com/album/7rHdo00p7sFB8c6H2YU1GC"
+      },
+      "artists": [
+        {
+          "name": "Adanah",
+          "url": "https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153040,
+      "name": "Japon",
+      "url": "https://open.spotify.com/track/05Z7ZrbnyG3MFTzMEncw72"
     },
     {
       "album": {
@@ -923,6 +1021,24 @@
       "duration_ms": 245200,
       "name": "King Life",
       "url": "https://open.spotify.com/track/2OrUMzP1iHrkrUJ0Y7Sf6h"
+    },
+    {
+      "album": {
+        "name": "N\u00c3O \u00c9 SUFICIENTE",
+        "url": "https://open.spotify.com/album/6LNMbbgRJwI1d8qhn8pbli"
+      },
+      "artists": [
+        {
+          "name": "ZepiNess",
+          "url": "https://open.spotify.com/artist/3IjxMVDrSXnoQTHLGudMjr"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136158,
+      "name": "LAR",
+      "url": "https://open.spotify.com/track/4duLMOnGkMRjSYjQzt4mAW"
     },
     {
       "album": {
@@ -1173,7 +1289,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 225436,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/3M10IV8Ax1Kpyo2rQfypg7"
@@ -1191,7 +1307,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 161336,
       "name": "Mi Veneno",
       "url": "https://open.spotify.com/track/5DsSwRHRKAXPRdSbhLPc34"
@@ -1459,7 +1575,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7BoMhnDLYJuADwsfSKKRwf"
@@ -1671,6 +1787,24 @@
       "duration_ms": 218148,
       "name": "Third Base",
       "url": "https://open.spotify.com/track/2TD0v4GilM4ZB15GtU2AoC"
+    },
+    {
+      "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/35d6N9H7tBBH7Mndw1zKyn"
+      },
+      "artists": [
+        {
+          "name": "ILLUMINIZE",
+          "url": "https://open.spotify.com/artist/6fSJze6JfYzSMQxrVUxP77"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87118,
+      "name": "Touch Turns Gold",
+      "url": "https://open.spotify.com/track/0Z8QIxQUTRmn4uexZmQwLJ"
     },
     {
       "album": {

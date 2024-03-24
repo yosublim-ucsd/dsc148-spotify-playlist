@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,145 songs - 1 day 19 hr 27 min
+1,146 songs - 1 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Astral Projection](https://open.spotify.com/track/5JpOdFmdumMpJ6WYovtLt4) | [forest.io](https://open.spotify.com/artist/0VJePSpgCmiXyZXJuM1qNM), [Audiorealm](https://open.spotify.com/artist/6CxmksukboadF6WqD1KuE1) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:53 | 2022-12-16 | 2023-03-18 |
 | [At Ease](https://open.spotify.com/track/643ygflRTKiZFZd626f7jR) | [droemsk](https://open.spotify.com/artist/1BCaWmZ5a7IMTP5EFSPkfL), [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n) | [At Ease](https://open.spotify.com/album/3RFhA80PjKe46KuJr5Cm3C) | 2:56 | 2022-12-16 | 2023-08-04 |
 | [Aura](https://open.spotify.com/track/4CM1loeQHmVpQQbqAHfz9N) | [L.Rey](https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM) | [Aura](https://open.spotify.com/album/0mmiqgEMX3yvKH04dFSa2q) | 2:11 | 2022-11-25 |  |
-| [Autumn Haze](https://open.spotify.com/track/4mZxtbtBIEAyhif5WaXA9q) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Autumn Haze](https://open.spotify.com/album/1X5Pl4XgeUHlUr0SQLp9ao) | 2:03 | 2023-07-13 |  |
+| [Autumn Haze](https://open.spotify.com/track/4mZxtbtBIEAyhif5WaXA9q) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Autumn Haze](https://open.spotify.com/album/1X5Pl4XgeUHlUr0SQLp9ao) | 2:03 | 2023-07-13 | 2024-03-24 |
 | [Autumn Lies](https://open.spotify.com/track/56Trob6SO6aJt6GLNACrfq) | [States Of Matter](https://open.spotify.com/artist/0zL5nus6xyjc2UbkjBgxaz) | [Seaweather](https://open.spotify.com/album/6Md6MVyHr8AlBayPkYSoB6) | 2:54 | 2022-01-27 | 2023-04-28 |
 | [Aviato](https://open.spotify.com/track/1cEdLUmlJNXQoazp48jxVg) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [Aviato](https://open.spotify.com/album/4DBH0MPVET1AFcds7LSVcu) | 2:08 | 2022-10-01 |  |
 | [awareness](https://open.spotify.com/track/4fkuzFLzXSzslhrHWSGGhI) | [threefourfive](https://open.spotify.com/artist/6Egl0PesupE35TTNF6OF1X) | [awareness](https://open.spotify.com/album/0YErBks7Y3JioAcB3RHZDd) | 2:12 | 2021-11-10 | 2022-05-20 |
@@ -1151,6 +1151,7 @@
 | [Yellow Mornings](https://open.spotify.com/track/2RUqbOHOiHEytATL8ia66F) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow) | [The View From The Tree House](https://open.spotify.com/album/59QF8BGS1UOX1l0NsluIYe) | 2:01 | 2022-09-16 | 2023-10-06 |
 | [Yoga](https://open.spotify.com/track/75UOrI1wOhL7BoDq0IqEMf) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [Rubber Plant](https://open.spotify.com/album/5vdfLPKSeOM4IxT0m5M9ol) | 2:54 | 2021-11-10 | 2022-07-22 |
 | [You Can Have It](https://open.spotify.com/track/1xTo1SwN5FswdeBXyq9Xfa) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [You Can Have It](https://open.spotify.com/album/1aaqe1wHZzy9dO9Altzn3U) | 1:36 | 2023-03-16 |  |
+| [Your Eyes](https://open.spotify.com/track/1kR1zMHBceL0bhbtGnyrkP) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Your Eyes](https://open.spotify.com/album/3koTAiq6tJJg5usPYNiKDf) | 2:06 | 2024-03-22 |  |
 | [yours](https://open.spotify.com/track/40jnfHn8DfFbTY09IWQm9u) | [rchie](https://open.spotify.com/artist/3RtQcltuh6uzO6ilFGIKFI) | [yours](https://open.spotify.com/album/2FIeWVhDmSt2R4JRPskb7Q) | 2:29 | 2021-11-10 | 2022-07-29 |
 | [Zazz](https://open.spotify.com/track/2JxVoQRes6La0QsgdVKkpc) | [Kirsi Aimée](https://open.spotify.com/artist/74RWlGT8fQPqVvXSLuxL4j) | [Zazz](https://open.spotify.com/album/2pBdMy5MvrwanC0vgHGxtJ) | 3:02 | 2022-04-22 | 2022-07-08 |
 

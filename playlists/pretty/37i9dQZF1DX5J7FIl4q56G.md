@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Wage War
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,960 likes - 59 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,067 likes - 59 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 58 | [Everything is Ending](https://open.spotify.com/track/6KFq0jpFnXClDR6FZObNPO) | [Mastiff](https://open.spotify.com/artist/75zyZ3UpFvliAyHnwhs6X1) | [Deprecipice](https://open.spotify.com/album/3JVN9HTcHmpoto94eCr1qs) | 4:49 |
 | 59 | [No Man's Savior](https://open.spotify.com/track/54SGJx61HJAXdMSJ60CyTM) | [Pale Path](https://open.spotify.com/artist/7guXfR9IZ23NkaKn0OdpvD) | [No Man's Savior](https://open.spotify.com/album/2HmaHNF7FRVqT8GL7GkQe9) | 4:11 |
 
-Snapshot ID: `MCwzZTg5NmRkZWE1MzU3ZjljMjFmMjJkODUxYzEwMWVmNDU1NjU4NDEw`
+Snapshot ID: `MCw4MDk1NGYyMzNlYWI4MjU5NDVkZWU0Y2ZjZjRlNjY1NDA5YzQ0N2Ey`

@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-657 songs - 1 day 12 hr 6 min
+658 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [From You](https://open.spotify.com/track/52cMqFjKP9O7fwyTS0uAQQ) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [From You](https://open.spotify.com/album/0WEBDFGiPBFoDx55iNQU7M) | 2:55 | 2023-09-15 | 2024-02-03 |
 | [Frontier Pass](https://open.spotify.com/track/24G6qIFgmj40koUyIv2TfB) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Frontier Pass](https://open.spotify.com/album/1fcs0XDucXzC3Ns541p9Lr) | 2:59 | 2023-04-07 | 2023-05-03 |
 | [Frontier Pass](https://open.spotify.com/track/4hAjg6ywZNaJKIPhAym6eV) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Frontier Pass](https://open.spotify.com/album/6M55EdqF90P7KWsnwV9q0p) | 2:59 | 2023-04-07 | 2023-09-20 |
-| [Gaslight 101](https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl) | 2:59 | 2024-03-22 |  |
+| [Gaslight 101](https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl) | 2:59 | 2024-03-22 | 2024-03-24 |
 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 | 2024-03-01 |  |
 | [Gay Face](https://open.spotify.com/track/0bDSviyAcNpCiIOipNDLhU) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Gay Face](https://open.spotify.com/album/0O0Hp49Ql9EKpcVPYxVzlf) | 3:01 | 2023-06-02 | 2023-06-10 |
 | [Gemini Guy](https://open.spotify.com/track/4FrHTjt1GcPcsxv0TD73OA) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Gemini Guy](https://open.spotify.com/album/4ZGvKDHg9bmlNTVqmQhyJR) | 3:23 | 2023-12-08 | 2024-02-16 |
@@ -294,7 +294,8 @@
 | [Insecure](https://open.spotify.com/track/7EUuhh62g6QUoLh1etEBfS) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Daydreams & Endless Nights](https://open.spotify.com/album/5a1zVo7jV6ctwLQt2vqAFb) | 4:01 | 2023-06-16 | 2023-10-11 |
 | [Inside Out](https://open.spotify.com/track/5K0kxnRaObm0I8ocGBE0pA) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Inside Out](https://open.spotify.com/album/1vt7X7XyjmXidzZqmL8Sz2) | 2:33 | 2023-08-11 | 2023-11-11 |
 | [Intense](https://open.spotify.com/track/5UGuFkPQl7p6dmhZuPPaT9) | [Cero Ismael](https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo) | [Blue Man](https://open.spotify.com/album/3CP4mtGs1g4EuhVaaHtFnE) | 2:21 | 2021-12-15 | 2022-07-29 |
-| [Intergalactic Janet](https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/3vS1oa8XAK2I4BLsMPEsK2) | 2:40 | 2024-03-08 |  |
+| [Intergalactic Janet](https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/3vS1oa8XAK2I4BLsMPEsK2) | 2:40 | 2024-03-08 | 2024-03-24 |
+| [Intergalactic Janet](https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj) | 2:40 | 2024-03-08 |  |
 | [Intimate](https://open.spotify.com/track/3xuPUpjqfUsrninuhRhs5K) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Intimate](https://open.spotify.com/album/3B2c2NCZnXAOivUJyIUMTn) | 4:32 | 2023-07-14 | 2023-08-05 |
 | [Is It Any Wonder?](https://open.spotify.com/track/5dnvWWkwwFJoDDc0QoSbvf) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E) | 4:36 | 2021-12-15 | 2022-07-28 |
 | [Is It Any Wonder?](https://open.spotify.com/track/6kle4XS7gyiUIb0tmsyCf4) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 4:36 | 2022-06-30 | 2023-03-25 |
@@ -482,7 +483,7 @@
 | [Relax](https://open.spotify.com/track/2WFLsBTMjMMWBLOiTGvFFq) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Baw Baw Black Sheep](https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k) | 3:51 | 2021-12-15 | 2023-01-28 |
 | [Remember Me](https://open.spotify.com/track/630Ug0XtmhhFvAKo0PNuEI) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Remember Me](https://open.spotify.com/album/4iLi0ZWdcYtCZvsXZHTRLx) | 3:19 | 2021-12-15 | 2022-09-17 |
 | [Repercussions](https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Repercussions](https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu) | 3:00 | 2023-08-04 |  |
-| [Requiem](https://open.spotify.com/track/2JydmjbQ7nGdVI6HbumkLA) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 4:44 | 2023-05-26 | 2024-03-23 |
+| [Requiem](https://open.spotify.com/track/2JydmjbQ7nGdVI6HbumkLA) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 4:44 | 2023-05-26 |  |
 | [Risk](https://open.spotify.com/track/2QDFsehUg5Fui2LOVpCw3Q) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Risk](https://open.spotify.com/album/2yCpdo20DhxBEPsyt8RUz6) | 3:58 | 2021-12-15 | 2022-05-09 |
 | [ROAD RAGE \(feat\. Wakai\)](https://open.spotify.com/track/6VxLtT1zcFnQ9BnTXQqFo5) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT), [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx) | [PINS & NEEDLES](https://open.spotify.com/album/5j2Q1mmOJY7LOfDJvcWS2u) | 2:29 | 2024-03-01 | 2024-03-23 |
 | [Rodeo Clown](https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Rodeo Clown](https://open.spotify.com/album/53EOHuMzRCZOaN62bzwQ4i) | 3:30 | 2023-02-16 | 2023-12-09 |

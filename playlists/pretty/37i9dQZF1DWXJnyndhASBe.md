@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kubi Producent, bambi, Fukaj, stickxr
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,178 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,445 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 21 | [Ciapakwybujany](https://open.spotify.com/track/2PF5O4wQHtD9KpxNALuoBD) | [GM2L](https://open.spotify.com/artist/5a6bf006Dgf5kk2OxvpVYY), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8), [Alberto](https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni), [OLEK](https://open.spotify.com/artist/4nRJJWVfbPAULHZl7VYVE8) | [GM2L Mixtape](https://open.spotify.com/album/6yL5hla6R4evgV5kiT9BJe) | 1:40 |
 | 22 | [POWRÓT DO ŚWIATŁA](https://open.spotify.com/track/3WNKymQ8cbSnWcvA8EfluF) | [Miszel](https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4), [Premixm](https://open.spotify.com/artist/08AkoNEWCc8MeFeONaqAKI) | [POWRÓT DO ŚWIATŁA](https://open.spotify.com/album/6Bms4O6BiEFxpfoAq9TPUQ) | 4:17 |
 | 23 | [RING RING](https://open.spotify.com/track/3VjDhZl73eK9VgvRQovsmw) | [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [YARSKI](https://open.spotify.com/artist/1TY6oc7uiXgpqiiJEidPD6) | [RING RING](https://open.spotify.com/album/4qmp6ahoR0Qhb3JN2wtSPc) | 2:36 |
-| 24 | [Kalkulator](https://open.spotify.com/track/0mAyfU5ZxQgoL0nGLOJ7i9) | [Bonus RPK](https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3), [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [Steez83](https://open.spotify.com/artist/4g7qv7lHOtGfUio9BMBE1u) | [Kalkulator](https://open.spotify.com/album/7hvRTbMyOfPVIrEy4wi4u2) | 3:07 |
+| 24 | [Kalkulator](https://open.spotify.com/track/0mAyfU5ZxQgoL0nGLOJ7i9) | [Bonus RPK](https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3), [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [Steez83](https://open.spotify.com/artist/4g7qv7lHOtGfUio9BMBE1u), [Wowo](https://open.spotify.com/artist/1EBJRC9rAAPpR2Ru3O6OY0), [Czaha](https://open.spotify.com/artist/4QnVEkkzc4FkISFmri44MW) | [Kalkulator](https://open.spotify.com/album/7hvRTbMyOfPVIrEy4wi4u2) | 3:07 |
 | 25 | [Miyabi](https://open.spotify.com/track/2lCNJCCu7eiBeGVu9AevkW) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [PROXL3M](https://open.spotify.com/album/5RXFK1MabLZM3SEGlidoqs) | 3:00 |
 | 26 | [Ameryka](https://open.spotify.com/track/1y6BLlPX3H2i9ziz4OMZTs) | [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [Bartek Kubicki](https://open.spotify.com/artist/02Yk29Tllx7M1saf5PiAPo), [Przemek.pro](https://open.spotify.com/artist/0c5F4dAWCo7429DSHz0IhE), [Trzech Króli](https://open.spotify.com/artist/12RbToPJopBHcXGKez6EDQ) | [Ameryka](https://open.spotify.com/album/4neFszc7DEG67Y1BxUbi8h) | 2:22 |
 | 27 | [Dopamina](https://open.spotify.com/track/7n9yIgajIVzhOzl0MDCezD) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [Dopamina](https://open.spotify.com/album/40BdPN1IjFV262w9xXmPTP) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Must Have](https://open.spotify.com/track/5mUOcI1Ev8fYx6epZrstxz) | [Słoń](https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV), [Devv](https://open.spotify.com/artist/0uihSUoQ89CEHeTbue4h0A) | [Must Have](https://open.spotify.com/album/6dSTOhZcfMtEVCNoOIHT05) | 2:54 |
 | 50 | [Ostatni kieliszek](https://open.spotify.com/track/5CEYkx8yKy3jqHdgyxTx8F) | [Sarius](https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S), [Sokół](https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot), [Faded Dollars](https://open.spotify.com/artist/7d16c3NgSNVAKr6ADZVSX6) | [Ostatni kieliszek](https://open.spotify.com/album/1BUd8Njzd7v31CXkeM3Tjc) | 3:52 |
 
-Snapshot ID: `MCw1ZTE1MGRjMWRiZjEwMGQzZTYxNTJmMmYxMDQ0YzA5YWVjNjhjYjMz`
+Snapshot ID: `MCxhODczZTcwNDVjNGU5NmFlNTVjZTAzZTVlODQ3MzU2MGZmNTA2NDE0`

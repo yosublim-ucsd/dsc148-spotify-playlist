@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 211877,
+  "2024-03-24": 211898,
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: jxdn",
+  "description": "make it pop! cover: Wallows",
   "name": "soda",
   "tracks": [
     {
@@ -1000,6 +1000,24 @@
     },
     {
       "album": {
+        "name": "ASHED US OUT",
+        "url": "https://open.spotify.com/album/4miL6vINwLZQJ2dbABzDrP"
+      },
+      "artists": [
+        {
+          "name": "Braden Bales",
+          "url": "https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140412,
+      "name": "ASHED US OUT",
+      "url": "https://open.spotify.com/track/1QcVUxIZ9LNvpYbVaMzJxP"
+    },
+    {
+      "album": {
         "name": "S3",
         "url": "https://open.spotify.com/album/4xSi4wMxTSvvr8UnDnJT5R"
       },
@@ -1908,6 +1926,24 @@
     },
     {
       "album": {
+        "name": "brown eyes*",
+        "url": "https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163346,
+      "name": "brown eyes*",
+      "url": "https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD"
+    },
+    {
+      "album": {
         "name": "Bruise",
         "url": "https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx"
       },
@@ -2107,6 +2143,24 @@
       "duration_ms": 145894,
       "name": "Call my name",
       "url": "https://open.spotify.com/track/2XKjhJbd57Jiqdy5SCZNWh"
+    },
+    {
+      "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
       "album": {
@@ -2681,6 +2735,24 @@
       "duration_ms": 216086,
       "name": "Closure (feat. Calica)",
       "url": "https://open.spotify.com/track/4sE5BzWDrAVNZzuslCi6K5"
+    },
+    {
+      "album": {
+        "name": "clouds",
+        "url": "https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162615,
+      "name": "clouds",
+      "url": "https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en"
     },
     {
       "album": {
@@ -4189,7 +4261,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 168668,
       "name": "Eras Of Us",
       "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
@@ -4565,6 +4637,24 @@
       "duration_ms": 150756,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/1jTxFF7FjIW4USQnnoplX9"
+    },
+    {
+      "album": {
+        "name": "Feet On The Ceiling",
+        "url": "https://open.spotify.com/album/1EjnS1tbiIOalEtxI5IWaN"
+      },
+      "artists": [
+        {
+          "name": "YAOUND\u00c9BOXINGCLUB",
+          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204460,
+      "name": "Feet On The Ceiling",
+      "url": "https://open.spotify.com/track/242rm4cMmaaPkxe2f1y5Re"
     },
     {
       "album": {
@@ -5247,6 +5337,24 @@
       "duration_ms": 201653,
       "name": "Golden",
       "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
+    },
+    {
+      "album": {
+        "name": "Crashing Into Your Living Room, Vol. 1",
+        "url": "https://open.spotify.com/album/2J0j78yYjUb4R62LgnqL31"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156233,
+      "name": "Good & Bad",
+      "url": "https://open.spotify.com/track/48aOK7d3ILprSttYWNWKJh"
     },
     {
       "album": {
@@ -8696,6 +8804,24 @@
     },
     {
       "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/63a9YKa0yTquyvq3O1Ce5W"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166008,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/1mXtEf59XtQ8mQtHL3Had6"
+    },
+    {
+      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/0R2Ijf5W4axyqOlNXT0unj"
       },
@@ -10152,6 +10278,24 @@
     },
     {
       "album": {
+        "name": "My Mouth (la la la)",
+        "url": "https://open.spotify.com/album/41JIT907XyLYcUYlyXWAj7"
+      },
+      "artists": [
+        {
+          "name": "ISHAN",
+          "url": "https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "My Mouth (la la la)",
+      "url": "https://open.spotify.com/track/7kuF2t0nCCcDw1L7o1NwzY"
+    },
+    {
+      "album": {
         "name": "My Stupid Heart",
         "url": "https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39"
       },
@@ -10351,6 +10495,24 @@
       "duration_ms": 167232,
       "name": "Never A Good Time",
       "url": "https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c"
+    },
+    {
+      "album": {
+        "name": "Suddenly Okay",
+        "url": "https://open.spotify.com/album/1Xuv9oEVILCRQ7j5iugfPs"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156008,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/0nQbr0lYWUHWjeW7i1lscI"
     },
     {
       "album": {
@@ -11770,6 +11932,24 @@
     },
     {
       "album": {
+        "name": "In Search Of The Antidote",
+        "url": "https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182320,
+      "name": "Pretending",
+      "url": "https://open.spotify.com/track/57mgEbIR86es2FBvQmxZ7t"
+    },
+    {
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -12863,6 +13043,24 @@
       "duration_ms": 189487,
       "name": "Skeleton Man",
       "url": "https://open.spotify.com/track/7uZXeExokDVRMeSlR4Mquo"
+    },
+    {
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/5oeAizWMabulSRyY3mMjEB"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214282,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 210854,
+  "2024-03-24": 210888,
   "date_first_scraped": "2022-05-14",
   "description": "A new take on a classic sound. Cover: Britti",
   "name": "Retro Soul",
@@ -79,7 +79,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 236498,
       "name": "About Love",
       "url": "https://open.spotify.com/track/1MzIUuIxjrfUIlwFytoIok"
@@ -413,6 +413,24 @@
       "duration_ms": 233853,
       "name": "bend yr ear",
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+    },
+    {
+      "album": {
+        "name": "Better Than This",
+        "url": "https://open.spotify.com/album/4QgY2HVCC3Ljwprc7cjQqE"
+      },
+      "artists": [
+        {
+          "name": "The Slim Kings",
+          "url": "https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179100,
+      "name": "Better Than This",
+      "url": "https://open.spotify.com/track/0uJcPad9H1tQzxslEBQtlu"
     },
     {
       "album": {
@@ -2437,6 +2455,24 @@
     {
       "album": {
         "name": "Hold On",
+        "url": "https://open.spotify.com/album/0cLxZPKM7QjIItprbOw2E4"
+      },
+      "artists": [
+        {
+          "name": "Kenny Sharp",
+          "url": "https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208760,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2Wr8VlaALAoCINplD16qwh"
+    },
+    {
+      "album": {
+        "name": "Hold On",
         "url": "https://open.spotify.com/album/4Nq2Ke47oMd8acKVgPFyMB"
       },
       "artists": [
@@ -2451,7 +2487,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 279988,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2XsA2KMlFQeIhTSHABWvdH"
@@ -5570,6 +5606,28 @@
     },
     {
       "album": {
+        "name": "Sinseerly Yours",
+        "url": "https://open.spotify.com/album/7lNj0BxtEBKhQNtYVqpby6"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        },
+        {
+          "name": "Joey Quinones",
+          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173776,
+      "name": "Sinseerly Yours",
+      "url": "https://open.spotify.com/track/228Ap7fHnb2BUsdopPrjxx"
+    },
+    {
+      "album": {
         "name": "Sticking With It",
         "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
       },
@@ -6377,7 +6435,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 210329,
       "name": "The Way That I Do",
       "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
@@ -7058,6 +7116,24 @@
     },
     {
       "album": {
+        "name": "Where Is the Peace",
+        "url": "https://open.spotify.com/album/3Yv75Tv8dMqxt6uHWsXikC"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Valbrun",
+          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216135,
+      "name": "Where Is the Peace",
+      "url": "https://open.spotify.com/track/1ACBSADdmaiAcvVB5Yzd2F"
+    },
+    {
+      "album": {
         "name": "Who Knew",
         "url": "https://open.spotify.com/album/7IaACPFHMwbiF97M8ddEuo"
       },
@@ -7243,7 +7319,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 169390,
       "name": "World Stand Still",
       "url": "https://open.spotify.com/track/4YXBQ8X4DNVTjco4lUpSFx"

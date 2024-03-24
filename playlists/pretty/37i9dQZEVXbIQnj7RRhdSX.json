@@ -1,15 +1,35 @@
 {
   "description": "Your daily update of the most played tracks right now - Italy.",
-  "num_followers": 1068553,
+  "num_followers": 1068815,
   "original_name": "Top 50 - Italy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzY0NDcyMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzY0NTU4NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
+      "album": {
+        "name": "L'ULTIMA POESIA",
+        "url": "https://open.spotify.com/album/5ikSXCKTvR5dkvbKLEfFTG"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 228378,
+      "name": "L'ULTIMA POESIA",
+      "url": "https://open.spotify.com/track/0vjcqQVb6nhk1A4lvW6ytN"
+    },
+    {
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "100 MESSAGGI",
         "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "RADIO SAKURA",
         "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
@@ -45,7 +65,7 @@
       "url": "https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "I P\u2019 ME, TU P\u2019 TE",
         "url": "https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13"
@@ -61,7 +81,7 @@
       "url": "https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "NEI LETTI DEGLI ALTRI",
         "url": "https://open.spotify.com/album/5uYRRiyE4BsOIIeu3y1o1F"
@@ -77,7 +97,7 @@
       "url": "https://open.spotify.com/track/371l4ekF9cDC2D5WuuabU6"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "I Nomi del Diavolo",
         "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
@@ -101,7 +121,7 @@
       "url": "https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
@@ -125,23 +145,7 @@
       "url": "https://open.spotify.com/track/5wU2NUt1pSAeTIWfXnRRkQ"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
-      "album": {
-        "name": "E POI SIAMO FINITI NEL VORTICE",
-        "url": "https://open.spotify.com/album/4GIt1yQFoBhEi3wOrgZDbg"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 215714,
-      "name": "Sinceramente",
-      "url": "https://open.spotify.com/track/60QN1JrgYM7jcfW8pdQFqT"
-    },
-    {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
@@ -165,7 +169,23 @@
       "url": "https://open.spotify.com/track/2mU3I4jfQp1K14JO2PmmQA"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
+      "album": {
+        "name": "E POI SIAMO FINITI NEL VORTICE",
+        "url": "https://open.spotify.com/album/4GIt1yQFoBhEi3wOrgZDbg"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 215714,
+      "name": "Sinceramente",
+      "url": "https://open.spotify.com/track/60QN1JrgYM7jcfW8pdQFqT"
+    },
+    {
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "La noia",
         "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
@@ -181,7 +201,39 @@
       "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
+      "album": {
+        "name": "RADIO SAKURA",
+        "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "duration_ms": 225561,
+      "name": "CLICK BOOM!",
+      "url": "https://open.spotify.com/track/1HCwbTHBvC4XCIC417NB5k"
+    },
+    {
+      "added_at": "2024-03-23 10:06:23",
+      "album": {
+        "name": "Casa Mia",
+        "url": "https://open.spotify.com/album/4xFy5R5epCv3JQj92m7lHJ"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 210541,
+      "name": "Casa Mia",
+      "url": "https://open.spotify.com/track/4cWrKV5SN7AknqPy4ryBDG"
+    },
+    {
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
@@ -205,39 +257,7 @@
       "url": "https://open.spotify.com/track/2HIv4bKTCULRZ2eZIkVB3N"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
-      "album": {
-        "name": "RADIO SAKURA",
-        "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
-      },
-      "artists": [
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        }
-      ],
-      "duration_ms": 225561,
-      "name": "CLICK BOOM!",
-      "url": "https://open.spotify.com/track/1HCwbTHBvC4XCIC417NB5k"
-    },
-    {
-      "added_at": "2024-03-22 10:49:10",
-      "album": {
-        "name": "Casa Mia",
-        "url": "https://open.spotify.com/album/4xFy5R5epCv3JQj92m7lHJ"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 210541,
-      "name": "Casa Mia",
-      "url": "https://open.spotify.com/track/4cWrKV5SN7AknqPy4ryBDG"
-    },
-    {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "I Nomi del Diavolo",
         "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
@@ -253,7 +273,23 @@
       "url": "https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
+      "album": {
+        "name": "EL MATADOR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+        "url": "https://open.spotify.com/album/6UDBnsOcte6GwhTBLZ75kK"
+      },
+      "artists": [
+        {
+          "name": "Elmatadormc7",
+          "url": "https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "EL MATADOR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+      "url": "https://open.spotify.com/track/11HeOLoW2cnWZzGHWnllYq"
+    },
+    {
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
@@ -269,7 +305,39 @@
       "url": "https://open.spotify.com/track/0ZjxK3xSqyFEDKMMnA7fyl"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
+      "album": {
+        "name": "Non so chi ha creato il mondo ma so che era innamorato",
+        "url": "https://open.spotify.com/album/5I60YSIaGjXDuR7TOIiHgl"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Vai!",
+      "url": "https://open.spotify.com/track/2aptSWAkwTLva4188FFrjE"
+    },
+    {
+      "added_at": "2024-03-23 10:06:23",
+      "album": {
+        "name": "UN RAGAZZO UNA RAGAZZA",
+        "url": "https://open.spotify.com/album/3tNnKTFodG4lOLiGM39yvV"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "duration_ms": 217031,
+      "name": "UN RAGAZZO UNA RAGAZZA",
+      "url": "https://open.spotify.com/track/60NDVF7fFIq13aO9rIN80c"
+    },
+    {
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
@@ -289,55 +357,7 @@
       "url": "https://open.spotify.com/track/6uN0PQk9GLI4ze5Vr9hOX3"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
-      "album": {
-        "name": "Non so chi ha creato il mondo ma so che era innamorato",
-        "url": "https://open.spotify.com/album/5I60YSIaGjXDuR7TOIiHgl"
-      },
-      "artists": [
-        {
-          "name": "Alfa",
-          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Vai!",
-      "url": "https://open.spotify.com/track/2aptSWAkwTLva4188FFrjE"
-    },
-    {
-      "added_at": "2024-03-22 10:49:10",
-      "album": {
-        "name": "EL MATADOR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
-        "url": "https://open.spotify.com/album/6UDBnsOcte6GwhTBLZ75kK"
-      },
-      "artists": [
-        {
-          "name": "Elmatadormc7",
-          "url": "https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "EL MATADOR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
-      "url": "https://open.spotify.com/track/11HeOLoW2cnWZzGHWnllYq"
-    },
-    {
-      "added_at": "2024-03-22 10:49:10",
-      "album": {
-        "name": "UN RAGAZZO UNA RAGAZZA",
-        "url": "https://open.spotify.com/album/3tNnKTFodG4lOLiGM39yvV"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 217031,
-      "name": "UN RAGAZZO UNA RAGAZZA",
-      "url": "https://open.spotify.com/track/60NDVF7fFIq13aO9rIN80c"
-    },
-    {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "Tu No",
         "url": "https://open.spotify.com/album/73tk3YTX5XnmuZtUwcIPED"
@@ -353,7 +373,7 @@
       "url": "https://open.spotify.com/track/5mQTzYTDDob48mOP3U9k7Q"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -369,7 +389,7 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "Ma non tutta la vita",
         "url": "https://open.spotify.com/album/404Id5xZDXzT3yc85GiZxG"
@@ -385,23 +405,23 @@
       "url": "https://open.spotify.com/track/1bZIs6zAOtFJLORZVojCUH"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
-        "name": "Acqua Passata",
-        "url": "https://open.spotify.com/album/18gBtYf9XjFqf2m0Sk7cnT"
+        "name": "SOUVENIR",
+        "url": "https://open.spotify.com/album/1kR8WkIVdTVt0Bec7ccDvj"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
         }
       ],
-      "duration_ms": 189120,
-      "name": "Acqua Passata",
-      "url": "https://open.spotify.com/track/52eHiUKvh9btZMY8M3JD03"
+      "duration_ms": 180923,
+      "name": "APNEA",
+      "url": "https://open.spotify.com/track/1F2rElyIiwgnq3TM2LN3ag"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "PRIMO",
         "url": "https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t"
@@ -417,47 +437,7 @@
       "url": "https://open.spotify.com/track/6KM80DJGk9gehJMDmKuzfv"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
-      "album": {
-        "name": "Tutto Qui",
-        "url": "https://open.spotify.com/album/7c4WZWTbWCodNxtex7owQN"
-      },
-      "artists": [
-        {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
-        }
-      ],
-      "duration_ms": 211783,
-      "name": "Tutto Qui",
-      "url": "https://open.spotify.com/track/2cpZJsQFxwHvBF0KB5dCaB"
-    },
-    {
-      "added_at": "2024-03-22 10:49:10",
-      "album": {
-        "name": "In Italia 2024 (feat. Emma & Baby Gang)",
-        "url": "https://open.spotify.com/album/312tEWGsN8ssJGl3aHZWuU"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        },
-        {
-          "name": "Emma",
-          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 245292,
-      "name": "In Italia 2024 (feat. Emma & Baby Gang)",
-      "url": "https://open.spotify.com/track/6nxQV4fJgfvyfZRPPJm1mO"
-    },
-    {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "X2VR",
         "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
@@ -485,59 +465,39 @@
       "url": "https://open.spotify.com/track/6bN41HjY008ggroMFxNLaa"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
-        "name": "SOUVENIR",
-        "url": "https://open.spotify.com/album/1kR8WkIVdTVt0Bec7ccDvj"
+        "name": "Tutto Qui",
+        "url": "https://open.spotify.com/album/7c4WZWTbWCodNxtex7owQN"
       },
       "artists": [
         {
-          "name": "Emma",
-          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
         }
       ],
-      "duration_ms": 180923,
-      "name": "APNEA",
-      "url": "https://open.spotify.com/track/1F2rElyIiwgnq3TM2LN3ag"
+      "duration_ms": 211783,
+      "name": "Tutto Qui",
+      "url": "https://open.spotify.com/track/2cpZJsQFxwHvBF0KB5dCaB"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
-        "name": "ICON",
-        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+        "name": "Acqua Passata",
+        "url": "https://open.spotify.com/album/18gBtYf9XjFqf2m0Sk7cnT"
       },
       "artists": [
         {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 128759,
-      "name": "ICON",
-      "url": "https://open.spotify.com/track/0AxRJk8LTx7w4xQWw9NIFF"
+      "duration_ms": 189120,
+      "name": "Acqua Passata",
+      "url": "https://open.spotify.com/track/52eHiUKvh9btZMY8M3JD03"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
-      "album": {
-        "name": "MA CHE IDEA (feat. Pino D'Angi\u00f2)",
-        "url": "https://open.spotify.com/album/0j4VujrvdWsDMO4b1jQFzI"
-      },
-      "artists": [
-        {
-          "name": "bnkr44",
-          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
-        },
-        {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        }
-      ],
-      "duration_ms": 226464,
-      "name": "MA CHE IDEA (feat. Pino D'Angi\u00f2)",
-      "url": "https://open.spotify.com/track/1kKccj5wYXTj3gTpUIMoac"
-    },
-    {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
         "url": "https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs"
@@ -565,7 +525,127 @@
       "url": "https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
+      "album": {
+        "name": "In Italia 2024 (feat. Emma & Baby Gang)",
+        "url": "https://open.spotify.com/album/312tEWGsN8ssJGl3aHZWuU"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 245292,
+      "name": "In Italia 2024 (feat. Emma & Baby Gang)",
+      "url": "https://open.spotify.com/track/6nxQV4fJgfvyfZRPPJm1mO"
+    },
+    {
+      "added_at": "2024-03-23 10:06:23",
+      "album": {
+        "name": "MA CHE IDEA (feat. Pino D'Angi\u00f2)",
+        "url": "https://open.spotify.com/album/0j4VujrvdWsDMO4b1jQFzI"
+      },
+      "artists": [
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        },
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        }
+      ],
+      "duration_ms": 226464,
+      "name": "MA CHE IDEA (feat. Pino D'Angi\u00f2)",
+      "url": "https://open.spotify.com/track/1kKccj5wYXTj3gTpUIMoac"
+    },
+    {
+      "added_at": "2024-03-23 10:06:23",
+      "album": {
+        "name": "X2VR",
+        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Anche Stasera",
+      "url": "https://open.spotify.com/track/5WssaPhjCCUFBMk9PpnHYj"
+    },
+    {
+      "added_at": "2024-03-23 10:06:23",
+      "album": {
+        "name": "Petit Fou Fou (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 113737,
+      "name": "Petit Fou Fou (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
+    },
+    {
+      "added_at": "2024-03-23 10:06:23",
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 128759,
+      "name": "ICON",
+      "url": "https://open.spotify.com/track/0AxRJk8LTx7w4xQWw9NIFF"
+    },
+    {
+      "added_at": "2024-03-23 10:06:23",
+      "album": {
+        "name": "X2VR",
+        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "15 Piani",
+      "url": "https://open.spotify.com/track/05wb6MEyJeG2z1MVCIXxC8"
+    },
+    {
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "I Nomi del Diavolo",
         "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
@@ -585,7 +665,7 @@
       "url": "https://open.spotify.com/track/2SEAbXqFtdTwkzgAb5Ci80"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "I Nomi del Diavolo",
         "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
@@ -609,47 +689,43 @@
       "url": "https://open.spotify.com/track/1LcAwUvsiWJqTgV9vDs0oq"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
-        "name": "X2VR",
-        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+        "name": "Ciao America",
+        "url": "https://open.spotify.com/album/2k5f61zin5MPVPJUMsFbsY"
       },
       "artists": [
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+          "name": "Dargen D'Amico",
+          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Anche Stasera",
-      "url": "https://open.spotify.com/track/5WssaPhjCCUFBMk9PpnHYj"
+      "duration_ms": 214556,
+      "name": "Onda Alta",
+      "url": "https://open.spotify.com/track/5rmWxr4qgejVuLWwxNzISC"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
-        "name": "X2VR",
-        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
       },
       "artists": [
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
         },
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 206896,
-      "name": "15 Piani",
-      "url": "https://open.spotify.com/track/05wb6MEyJeG2z1MVCIXxC8"
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
@@ -673,127 +749,27 @@
       "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
-        "name": "Petit Fou Fou (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
+        "name": "Devastante",
+        "url": "https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n"
       },
       "artists": [
         {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
         },
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
         }
       ],
-      "duration_ms": 113737,
-      "name": "Petit Fou Fou (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
+      "duration_ms": 190122,
+      "name": "Devastante",
+      "url": "https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
-      "album": {
-        "name": "Ciao America",
-        "url": "https://open.spotify.com/album/2k5f61zin5MPVPJUMsFbsY"
-      },
-      "artists": [
-        {
-          "name": "Dargen D'Amico",
-          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
-        }
-      ],
-      "duration_ms": 214556,
-      "name": "Onda Alta",
-      "url": "https://open.spotify.com/track/5rmWxr4qgejVuLWwxNzISC"
-    },
-    {
-      "added_at": "2024-03-22 10:49:10",
-      "album": {
-        "name": "ICON",
-        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 164192,
-      "name": "VERO TONY VERO SOSA",
-      "url": "https://open.spotify.com/track/2tADvI8RnFhYln3GVvqGds"
-    },
-    {
-      "added_at": "2024-03-22 10:49:10",
-      "album": {
-        "name": "Pianeta di Miller",
-        "url": "https://open.spotify.com/album/3Y88LAOJxcLSiqfztL6HGO"
-      },
-      "artists": [
-        {
-          "name": "Mr.Rain",
-          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "DUE ALTALENE",
-      "url": "https://open.spotify.com/track/4QRWBM7LFWHhIUU8b1O6GK"
-    },
-    {
-      "added_at": "2024-03-22 10:49:10",
-      "album": {
-        "name": "ICON",
-        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 167740,
-      "name": "PARTICOLARI SPORCHI",
-      "url": "https://open.spotify.com/track/5ALGkFTsKo8CGnFjBlAAZI"
-    },
-    {
-      "added_at": "2024-03-22 10:49:10",
-      "album": {
-        "name": "ICON",
-        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 128796,
-      "name": "GTA (feat. Ghali)",
-      "url": "https://open.spotify.com/track/2rWPeV0Wvjx8VpAyOsfgir"
-    },
-    {
-      "added_at": "2024-03-22 10:49:10",
-      "album": {
-        "name": "Maliciosa (From the Netflix Rap Show \u201cNuova Scena\u201d)",
-        "url": "https://open.spotify.com/album/0k7qh6Op4gcUmlT6rrJUH3"
-      },
-      "artists": [
-        {
-          "name": "Elmatadormc7",
-          "url": "https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu"
-        }
-      ],
-      "duration_ms": 127200,
-      "name": "Maliciosa (From the Netflix Rap Show \u201cNuova Scena\u201d)",
-      "url": "https://open.spotify.com/track/6KJ57PY7fIIRlaweLnNbXj"
-    },
-    {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "INVISIBILI",
         "url": "https://open.spotify.com/album/6Tb86ggEL6cikzQwCzkrbK"
@@ -809,23 +785,7 @@
       "url": "https://open.spotify.com/track/3ki4qt24MTfhk0iruUCpSR"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "Le cose cambiano",
         "url": "https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9"
@@ -845,27 +805,39 @@
       "url": "https://open.spotify.com/track/2gGq8fqoGuKpCjuV7p2dd3"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
-        "name": "Gata Only",
-        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
       },
       "artists": [
         {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Gata Only",
-      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+      "duration_ms": 164192,
+      "name": "VERO TONY VERO SOSA",
+      "url": "https://open.spotify.com/track/2tADvI8RnFhYln3GVvqGds"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
+      "album": {
+        "name": "Pianeta di Miller",
+        "url": "https://open.spotify.com/album/3Y88LAOJxcLSiqfztL6HGO"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "DUE ALTALENE",
+      "url": "https://open.spotify.com/track/4QRWBM7LFWHhIUU8b1O6GK"
+    },
+    {
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "AUTODISTRUTTIVO",
         "url": "https://open.spotify.com/album/1M06XJqOcsMo0kCroZzl0q"
@@ -881,7 +853,43 @@
       "url": "https://open.spotify.com/track/3ZcpVnBJguv1WVeMG44i2M"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
+      "album": {
+        "name": "Plaza Freestyle",
+        "url": "https://open.spotify.com/album/6wi7ySINUoSx25FTEyTDv3"
+      },
+      "artists": [
+        {
+          "name": "El Chapo Junior",
+          "url": "https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc"
+        },
+        {
+          "name": "DJ Princex",
+          "url": "https://open.spotify.com/artist/1pipFnAOzhlbkEXc4WsBHl"
+        }
+      ],
+      "duration_ms": 88363,
+      "name": "Plaza Freestyle",
+      "url": "https://open.spotify.com/track/0eLYWoIuuNzaR26eynemYM"
+    },
+    {
+      "added_at": "2024-03-23 10:06:23",
+      "album": {
+        "name": "Maliciosa (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+        "url": "https://open.spotify.com/album/0k7qh6Op4gcUmlT6rrJUH3"
+      },
+      "artists": [
+        {
+          "name": "Elmatadormc7",
+          "url": "https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "Maliciosa (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+      "url": "https://open.spotify.com/track/6KJ57PY7fIIRlaweLnNbXj"
+    },
+    {
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -897,7 +905,7 @@
       "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
@@ -908,41 +916,29 @@
           "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
         },
         {
-          "name": "Pyrex",
-          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
-        },
-        {
-          "name": "Side Baby",
-          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
         }
       ],
-      "duration_ms": 163841,
-      "name": "LAP DANCE (feat. Side Baby & Pyrex)",
-      "url": "https://open.spotify.com/track/65O89pZFy6JhVcfomPuJ1s"
+      "duration_ms": 128796,
+      "name": "GTA (feat. Ghali)",
+      "url": "https://open.spotify.com/track/2rWPeV0Wvjx8VpAyOsfgir"
     },
     {
-      "added_at": "2024-03-22 10:49:10",
+      "added_at": "2024-03-23 10:06:23",
       "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 179863,
-      "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
-      "url": "https://open.spotify.com/track/4midGjEpVz0mYkIdQMFX3l"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     }
   ],
   "unique_name": "Top 50 - Italy",

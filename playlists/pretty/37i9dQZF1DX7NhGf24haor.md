@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Nico Moreno & Warface
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,006 likes - 97 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,166 likes - 97 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sound Of The Blade](https://open.spotify.com/track/1baZhM2jNlihmXJEWSjdlG) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Blademasterz](https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv) | [Sound Of The Blade](https://open.spotify.com/album/3JVAxmPTdF4ZzPaksZrcXp) | 3:05 |
-| 2 | [2 Be High](https://open.spotify.com/track/3uJu9affvKImT1msXqFwTj) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [2 Be High](https://open.spotify.com/album/3pOAMb992z14oz7MCjvm1M) | 4:13 |
-| 3 | [REVELATION](https://open.spotify.com/track/76VDWzdfYhfv2S1nuOZTJY) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [Disarray](https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke) | [REVELATION](https://open.spotify.com/album/7nFID6F6iyZK8YT5sq84m5) | 2:55 |
+| 2 | [REVELATION](https://open.spotify.com/track/76VDWzdfYhfv2S1nuOZTJY) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [Disarray](https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke) | [REVELATION](https://open.spotify.com/album/7nFID6F6iyZK8YT5sq84m5) | 2:55 |
+| 3 | [2 Be High](https://open.spotify.com/track/3uJu9affvKImT1msXqFwTj) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [2 Be High](https://open.spotify.com/album/3pOAMb992z14oz7MCjvm1M) | 4:13 |
 | 4 | [Classical Music](https://open.spotify.com/track/5ZsnPZX0aPg5xIxhlkkoOt) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Classical Music](https://open.spotify.com/album/4dxaPGViPXY0eAYiraYq57) | 2:37 |
 | 5 | [Fire](https://open.spotify.com/track/5Oh48t8W8xH1GTZ6fa6502) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Fire](https://open.spotify.com/album/57EpV6zP8Zz4NymmFBKdFS) | 3:33 |
 | 6 | [Electricity](https://open.spotify.com/track/31Ga0NFKXegEWnoF7q3CzE) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Electricity](https://open.spotify.com/album/0Vgrsf93VWqzbbqQbhi70K) | 3:33 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 96 | [We Won't Stop \(For Eternity\)](https://open.spotify.com/track/3VpHxjjTRdyFH8MMSPR5Ws) | [Odium](https://open.spotify.com/artist/6J2T1atTrazMhACALYdA5Q) | [We Won't Stop \(For Eternity\)](https://open.spotify.com/album/4OXThgRK0LJLpSPnPokYko) | 2:32 |
 | 97 | [One Day Left](https://open.spotify.com/track/6j7c7qxP1BXBzbF6B9uxSz) | [Tweekacore](https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [One Day Left](https://open.spotify.com/album/6Gcq9YBTwpOsZxKXtZosrG) | 3:26 |
 
-Snapshot ID: `MCwzNWIwOTNlZTQzZjY5NWU4YjA2ZmQ2MTI0NDI3YjFhYzMwNTZhZTYz`
+Snapshot ID: `MCxkMTVkNzE1YTcxNjZmNjhjZjRhMmM4OTUyYjA1NzM2YmRjZjg3Zjkw`

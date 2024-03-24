@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 166161,
+  "2024-03-24": 166237,
   "date_first_scraped": "2022-03-24",
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only",
   "name": "Gospel Flow",
@@ -1723,7 +1723,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 250000,
       "name": "Deus \u00e9 Mais, Pt.3",
       "url": "https://open.spotify.com/track/06f1IqY7uJ7bGT8OOEfaIC"
@@ -3487,7 +3487,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 165000,
       "name": "Ladr\u00e3o",
       "url": "https://open.spotify.com/track/1S2LdnCSPrV9xxlGEefNDn"
@@ -3667,6 +3667,24 @@
       "duration_ms": 187235,
       "name": "Lord Jesus (Speed)",
       "url": "https://open.spotify.com/track/08eDRWIuA9mBKKMBK20cmg"
+    },
+    {
+      "album": {
+        "name": "Louis V",
+        "url": "https://open.spotify.com/album/7gNGNQO10NyQPnq1ytUbLF"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132047,
+      "name": "Louis V",
+      "url": "https://open.spotify.com/track/2zikGG28kMmAy13xQOYHPs"
     },
     {
       "album": {
@@ -5562,6 +5580,32 @@
     },
     {
       "album": {
+        "name": "Prova de Amor",
+        "url": "https://open.spotify.com/album/6dfDgXJMUgUsrQpezheP6j"
+      },
+      "artists": [
+        {
+          "name": "Duardin",
+          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Prova de Amor",
+      "url": "https://open.spotify.com/track/6bgB5B1Ak8wR22z58TNkuK"
+    },
+    {
+      "album": {
         "name": "Qual Sua Dor",
         "url": "https://open.spotify.com/album/47SKnflX6FLrj9zAAG7Xme"
       },
@@ -6109,7 +6153,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 303667,
       "name": "Se Deus \u00c9 Por Mim (Set Da B\u00ean\u00e7\u00e3o)",
       "url": "https://open.spotify.com/track/7nmVhG1XDaxVRFEGQX2PEJ"
@@ -7807,6 +7851,36 @@
       "duration_ms": 186713,
       "name": "\u00caxodo Mental",
       "url": "https://open.spotify.com/track/4xQJZ7P1w28duY4IJu08kY"
+    },
+    {
+      "album": {
+        "name": "\u00d3bvio",
+        "url": "https://open.spotify.com/album/55dZ240YXFA6Qf4SGBamfq"
+      },
+      "artists": [
+        {
+          "name": "Luna Garcez",
+          "url": "https://open.spotify.com/artist/7EL0yj5j2H7vN6Xu1fKB5p"
+        },
+        {
+          "name": "Moskitto",
+          "url": "https://open.spotify.com/artist/3okdXZyurX68tcNnjx0HQM"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "\u00d3bvio",
+      "url": "https://open.spotify.com/track/30jBlVVcTR1cw9qV0tc46H"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc6PRIxq2w5v"

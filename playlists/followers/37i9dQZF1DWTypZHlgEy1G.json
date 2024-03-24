@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 535725,
+  "2024-03-24": 535849,
   "date_first_scraped": "2021-12-21",
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : Jacques Brel",
   "name": "Standards de la Chanson Fran\u00e7aise",
@@ -294,6 +294,24 @@
     },
     {
       "album": {
+        "name": "Capri C'Est Fini",
+        "url": "https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7"
+      },
+      "artists": [
+        {
+          "name": "Herv\u00e9 Vilard",
+          "url": "https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "Capri c'est fini",
+      "url": "https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H"
+    },
+    {
+      "album": {
         "name": "Niagara",
         "url": "https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU"
       },
@@ -582,6 +600,24 @@
     },
     {
       "album": {
+        "name": "Mon homme",
+        "url": "https://open.spotify.com/album/0wttZ0qGZeO95j5NOIDRF5"
+      },
+      "artists": [
+        {
+          "name": "Arletty",
+          "url": "https://open.spotify.com/artist/5ouVGmB18Ok71seyDU6g91"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159026,
+      "name": "C\u0153ur de parisienne",
+      "url": "https://open.spotify.com/track/16bV2DdifOepotmlnEjNQZ"
+    },
+    {
+      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4WDKGsDi7616S6Egs0quLq"
       },
@@ -780,6 +816,60 @@
     },
     {
       "album": {
+        "name": "Chante",
+        "url": "https://open.spotify.com/album/1g18yXxYwQ1N660N5HFJpt"
+      },
+      "artists": [
+        {
+          "name": "Berthe Sylva",
+          "url": "https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182253,
+      "name": "Frou-Frou",
+      "url": "https://open.spotify.com/track/2Ucg35BqNQWSNnBossVGVZ"
+    },
+    {
+      "album": {
+        "name": "Les Plus Belles Chansons De Fernandel (The Most Beautiful Songs Of Fernandel)",
+        "url": "https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW"
+      },
+      "artists": [
+        {
+          "name": "Fernandel",
+          "url": "https://open.spotify.com/artist/0H7kQmHnDWX4a2AYOKb6rN"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166240,
+      "name": "F\u00e9licie Aussi",
+      "url": "https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw"
+    },
+    {
+      "album": {
+        "name": "Que c'est triste Venise (Remastered 2014)",
+        "url": "https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "Hier encore",
+      "url": "https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0"
+    },
+    {
+      "album": {
         "name": "En Vogue",
         "url": "https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm"
       },
@@ -867,6 +957,24 @@
       "duration_ms": 176493,
       "name": "Il venait d'avoir 18 ans - Japanese Version",
       "url": "https://open.spotify.com/track/7pIQ2FwtwwntxMMxiMN3Ok"
+    },
+    {
+      "album": {
+        "name": "J'ai Deux Amours",
+        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9phine Baker",
+          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191053,
+      "name": "J'ai Deux Amours",
+      "url": "https://open.spotify.com/track/52NUhRcTRhpRj4NCkLd6Ys"
     },
     {
       "album": {
@@ -1266,6 +1374,50 @@
     },
     {
       "album": {
+        "name": "Les Choses De La Vie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV"
+      },
+      "artists": [
+        {
+          "name": "Michel Piccoli",
+          "url": "https://open.spotify.com/artist/2QsRmnoI00agPNYw1umyEy"
+        },
+        {
+          "name": "Philippe Sarde",
+          "url": "https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK"
+        },
+        {
+          "name": "Romy Schneider",
+          "url": "https://open.spotify.com/artist/2DbluJLyOOKvRcZFN22lY9"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171640,
+      "name": "La chanson d'H\u00e9l\u00e8ne",
+      "url": "https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9"
+    },
+    {
+      "album": {
+        "name": "L'\u00e9tonnant Serge Gainsbourg (N\u00b03)",
+        "url": "https://open.spotify.com/album/5sMMhisGphUYvtb9jmdydj"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182013,
+      "name": "La chanson de Pr\u00e9vert",
+      "url": "https://open.spotify.com/track/0Y04xGwKImCqVSFZQI5All"
+    },
+    {
+      "album": {
         "name": "Le disque d'or",
         "url": "https://open.spotify.com/album/7Dvjf9rOxGq28HOTSM9Thm"
       },
@@ -1317,6 +1469,42 @@
       "duration_ms": 178840,
       "name": "La foule",
       "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
+    },
+    {
+      "album": {
+        "name": "Fr\u00e9hel [Collection disques Path\u00e9]",
+        "url": "https://open.spotify.com/album/4ikZGhHqdMf24sWQA4v4UI"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9hel",
+          "url": "https://open.spotify.com/artist/0ike8zNDzesj4aOoyZMKho"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165893,
+      "name": "La Java bleue",
+      "url": "https://open.spotify.com/track/1vveZRFXBiFrnO4wUpgArq"
+    },
+    {
+      "album": {
+        "name": "N\u00b04",
+        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149240,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
     },
     {
       "album": {
@@ -1479,6 +1667,24 @@
       "duration_ms": 132213,
       "name": "La mauvaise r\u00e9putation",
       "url": "https://open.spotify.com/track/1CXcTLzJ3b2KJylbsbF0cE"
+    },
+    {
+      "album": {
+        "name": "1943 - 1948 (Remasteris\u00e9 en 2017)",
+        "url": "https://open.spotify.com/album/2vo9j3dgK07xfGodOH11gZ"
+      },
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201626,
+      "name": "La mer - Remasteris\u00e9 en 2017",
+      "url": "https://open.spotify.com/track/1n29R9nsoyeFbUuvmnmw1y"
     },
     {
       "album": {
@@ -1954,6 +2160,42 @@
     },
     {
       "album": {
+        "name": "Les Copains D'Abord",
+        "url": "https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn"
+      },
+      "artists": [
+        {
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180240,
+      "name": "Les amoureux des bancs publics",
+      "url": "https://open.spotify.com/track/3sySoSz1tI6IDt7qDkecnQ"
+    },
+    {
+      "album": {
+        "name": "The Aristocats Original Soundtrack",
+        "url": "https://open.spotify.com/album/4xP8YdX6dIi649dxAH2PXO"
+      },
+      "artists": [
+        {
+          "name": "Maurice Chevalier",
+          "url": "https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140853,
+      "name": "Les Aristochats",
+      "url": "https://open.spotify.com/track/2SDU9Ls1XkvkbmlUgzyx2x"
+    },
+    {
+      "album": {
         "name": "Les Champs-\u00c8lys\u00e9es",
         "url": "https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX"
       },
@@ -2023,6 +2265,24 @@
       "duration_ms": 241906,
       "name": "Les copains d'abord",
       "url": "https://open.spotify.com/track/5MRyPM2k1lvwt3noWp0GXJ"
+    },
+    {
+      "album": {
+        "name": "Yves Montand - Les feuilles mortes",
+        "url": "https://open.spotify.com/album/0te0uNKFId8mR70yBOgEVE"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203382,
+      "name": "Les feuilles mortes",
+      "url": "https://open.spotify.com/track/30bqPdEUBZhn44u10awaup"
     },
     {
       "album": {
@@ -2116,6 +2376,42 @@
     },
     {
       "album": {
+        "name": "Chante",
+        "url": "https://open.spotify.com/album/1g18yXxYwQ1N660N5HFJpt"
+      },
+      "artists": [
+        {
+          "name": "Berthe Sylva",
+          "url": "https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "Les roses blanches",
+      "url": "https://open.spotify.com/track/7ydTfhNqTm76kd23L0RJrQ"
+    },
+    {
+      "album": {
+        "name": "Heritage - Jolie M\u00f4me - Philips (1961)",
+        "url": "https://open.spotify.com/album/3cmSgfLLDmlPguaIk8L4A9"
+      },
+      "artists": [
+        {
+          "name": "Catherine Sauvage",
+          "url": "https://open.spotify.com/artist/4NjkPdOPwWlQBF59ff6YoV"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166573,
+      "name": "Les rupins",
+      "url": "https://open.spotify.com/track/4hOj5cF3vQ6lNOKkOLQdef"
+    },
+    {
+      "album": {
         "name": "Love Me Please Love Me",
         "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
       },
@@ -2170,6 +2466,24 @@
     },
     {
       "album": {
+        "name": "Mon amant de St Jean",
+        "url": "https://open.spotify.com/album/0AHaLXmXUR6OYAjbWMndUB"
+      },
+      "artists": [
+        {
+          "name": "Lucienne Delyle",
+          "url": "https://open.spotify.com/artist/3EgEPntANThgR5WDgznAmM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189640,
+      "name": "Mon amant de Saint-Jean",
+      "url": "https://open.spotify.com/track/1WvtVTM9dEtinNSbRtRTED"
+    },
+    {
+      "album": {
         "name": "CD Story",
         "url": "https://open.spotify.com/album/46GKFEQCo19hb1wwEXuZXT"
       },
@@ -2203,6 +2517,24 @@
       "duration_ms": 212466,
       "name": "Mon vieux",
       "url": "https://open.spotify.com/track/05GcBfZY8Zno2DkWToHyIw"
+    },
+    {
+      "album": {
+        "name": "20 chansons d'or",
+        "url": "https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b"
+      },
+      "artists": [
+        {
+          "name": "Gilbert B\u00e9caud",
+          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247560,
+      "name": "Nathalie",
+      "url": "https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I"
     },
     {
       "album": {
@@ -2293,6 +2625,60 @@
       "duration_ms": 143653,
       "name": "Non, je ne regrette rien - 2012 Remastered",
       "url": "https://open.spotify.com/track/6MqxXla8FnO99tgQ9vUHGd"
+    },
+    {
+      "album": {
+        "name": "Edith Piaf - The Best Of",
+        "url": "https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162226,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/2ALK3U3XsDzz85bynK1hnt"
+    },
+    {
+      "album": {
+        "name": "Fleur De Paris",
+        "url": "https://open.spotify.com/album/0Z5YgfnmXWZM6KVw3pkdAc"
+      },
+      "artists": [
+        {
+          "name": "Maurice Chevalier",
+          "url": "https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194933,
+      "name": "Paris sera toujours Paris",
+      "url": "https://open.spotify.com/track/4YpmjnVzUfbPfbDguayy22"
+    },
+    {
+      "album": {
+        "name": "Parlez-moi d'amour",
+        "url": "https://open.spotify.com/album/7w5tAsVVbOdWgIEhKkSNzG"
+      },
+      "artists": [
+        {
+          "name": "Lucienne Boyer",
+          "url": "https://open.spotify.com/artist/5KIyBfTJdvEzz2OxfVvsE6"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180640,
+      "name": "Parlez-moi d'amour",
+      "url": "https://open.spotify.com/track/3iznKcLLjWek1s329iuTxh"
     },
     {
       "album": {
@@ -2434,6 +2820,24 @@
     },
     {
       "album": {
+        "name": "Que c'est triste Venise (Remastered 2014)",
+        "url": "https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157240,
+      "name": "Que c'est triste Venise",
+      "url": "https://open.spotify.com/track/5paHM9dgKmjUGy8n7HufaH"
+    },
+    {
+      "album": {
         "name": "20 Chansons D'or",
         "url": "https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h"
       },
@@ -2560,6 +2964,24 @@
     },
     {
       "album": {
+        "name": "Yves Montand",
+        "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176200,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
+    },
+    {
+      "album": {
         "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
         "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
       },
@@ -2593,6 +3015,24 @@
       "duration_ms": 116666,
       "name": "Tout L'Amour",
       "url": "https://open.spotify.com/track/3IpN4w5HAStXjJ1PNihtlc"
+    },
+    {
+      "album": {
+        "name": "Du Caf' Conc' au Music Hall",
+        "url": "https://open.spotify.com/album/0HDHNxKK6IUuF1QLnGYYHe"
+      },
+      "artists": [
+        {
+          "name": "Ray Ventura",
+          "url": "https://open.spotify.com/artist/49B3AeUtYjr0iqzc2NwvPO"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205133,
+      "name": "Tout va tr\u00e8s bien madame la marquise",
+      "url": "https://open.spotify.com/track/3CbCvxfRVk0Ba0Z761Ys12"
     },
     {
       "album": {
@@ -2867,6 +3307,28 @@
       "duration_ms": 163040,
       "name": "\u00c0 bicyclette",
       "url": "https://open.spotify.com/track/18dwyNRkzzggWGBPWKH5Uh"
+    },
+    {
+      "album": {
+        "name": "Les 100 plus belles chansons d'Edith Piaf",
+        "url": "https://open.spotify.com/album/52Djt5ovSZlf5o2pfRFsdN"
+      },
+      "artists": [
+        {
+          "name": "Theo Sarapo",
+          "url": "https://open.spotify.com/artist/1LLt7Ip3DCW2oAP4Z1V1zj"
+        },
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "\u00c0 quoi \u00e7a sert l'amour ?",
+      "url": "https://open.spotify.com/track/2oqwC0tbMG9fs37V1Jw6xd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTypZHlgEy1G"

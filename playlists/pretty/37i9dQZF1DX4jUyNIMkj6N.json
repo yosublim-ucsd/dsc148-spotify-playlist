@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 200339,
+  "num_followers": 200382,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGM1YTZkOTIwY2IzNGRmMmZlYmQwZGEyMDkyOTRlNjE5OWM4NTQ4",
+  "snapshot_id": "MCw2MjA0ZjVjYzg1ZDEzNjMzNjMxZjcwOTVjOTFhNzRjMWMxYzMzZjU5",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Desert",
+        "url": "https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf"
+      },
+      "artists": [
+        {
+          "name": "Ask Carol",
+          "url": "https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR"
+        }
+      ],
+      "duration_ms": 331785,
+      "name": "Desert",
+      "url": "https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Svarteboka",
         "url": "https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 240360,
       "name": "Svarteboka",
       "url": "https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Desert",
-        "url": "https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf"
-      },
-      "artists": [
-        {
-          "name": "Ask Carol",
-          "url": "https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR"
-        }
-      ],
-      "duration_ms": 331785,
-      "name": "Desert",
-      "url": "https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "Viking Fair",
-        "url": "https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4"
-      },
-      "artists": [
-        {
-          "name": "forfedre",
-          "url": "https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW"
-        }
-      ],
-      "duration_ms": 67112,
-      "name": "Viking Fair",
-      "url": "https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/2VKGfsdRfoQ9o8ci3TXzhx"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "Viking Fair",
+        "url": "https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4"
+      },
+      "artists": [
+        {
+          "name": "forfedre",
+          "url": "https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW"
+        }
+      ],
+      "duration_ms": 67112,
+      "name": "Viking Fair",
+      "url": "https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Magic Chairs",
         "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
       },
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM"
+        "name": "The State of the World",
+        "url": "https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39"
       },
       "artists": [
         {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
         }
       ],
-      "duration_ms": 128280,
-      "name": "Lou Lou",
-      "url": "https://open.spotify.com/track/5JZWiZ8ePCWYqoX99fdUbB"
+      "duration_ms": 258880,
+      "name": "The State of the World",
+      "url": "https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N"
     },
     {
       "added_at": "2024-03-21 23:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 128280,
+      "name": "Lou Lou",
+      "url": "https://open.spotify.com/track/5JZWiZ8ePCWYqoX99fdUbB"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
         "name": "Never Gonna Last",
         "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 234000,
       "name": "Never Gonna Last - Radio Edit",
       "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa"
-      },
-      "artists": [
-        {
-          "name": "Red Langur",
-          "url": "https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9"
-        }
-      ],
-      "duration_ms": 172007,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
     }
   ],
   "unique_name": "Nordic Folk",

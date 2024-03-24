@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 466687,
+  "2024-03-24": 466882,
   "date_first_scraped": "2022-08-18",
   "description": "Relax to the roaring sound of crashing waves.",
   "name": "Sounds of the Ocean",
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 227477,
       "name": "Beach Waves",
       "url": "https://open.spotify.com/track/06KQAXLO7Uk2R1nhgrIFGt"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 241374,
       "name": "Chill Waves & Wind in Leaves",
       "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 166000,
       "name": "Comforting Ocean Waves 2",
       "url": "https://open.spotify.com/track/6KYhFSDw4ioZB0sKnlnOB5"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 168614,
       "name": "Distant Waves Pt. 2",
       "url": "https://open.spotify.com/track/6gj55yZkNA0UA9XDO4PXof"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 170155,
       "name": "Empty Beach",
       "url": "https://open.spotify.com/track/3CwAf6F0wwS7sMSk4sDb69"
@@ -1065,6 +1065,46 @@
       "duration_ms": 128000,
       "name": "Float Me To Sleep",
       "url": "https://open.spotify.com/track/43hRFRjcErwjh2s5iZH0MK"
+    },
+    {
+      "album": {
+        "name": "Seascape Symphony",
+        "url": "https://open.spotify.com/album/6CJnZvl8KEoWDQ2fD1494m"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205848,
+      "name": "Florida Oceanic Overture",
+      "url": "https://open.spotify.com/track/5EThZxQGJNe9SiasbX0JuD"
+    },
+    {
+      "album": {
+        "name": "Calming Pacific Waves",
+        "url": "https://open.spotify.com/album/4o6pmUXodqlqtTso0JbG81"
+      },
+      "artists": [
+        {
+          "name": "Ocean in HD",
+          "url": "https://open.spotify.com/artist/2SveYJjEGhckzCzGg3J9Xq"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168019,
+      "name": "Focus Waves",
+      "url": "https://open.spotify.com/track/0KHYbzaDMiMKkw9Uchjzxk"
     },
     {
       "album": {
@@ -1295,7 +1335,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 187000,
       "name": "Inlet Sounds",
       "url": "https://open.spotify.com/track/1itzz7FVImAN5qBr1Qw4HX"
@@ -1353,6 +1393,24 @@
       "duration_ms": 183322,
       "name": "Isora Waves",
       "url": "https://open.spotify.com/track/34NDWHHEGKH8NQBLjUNlv9"
+    },
+    {
+      "album": {
+        "name": "Jutlandica Sleep (432 Hz Mild Boost)",
+        "url": "https://open.spotify.com/album/1u7L8PbF6c1iA4vzu69bmQ"
+      },
+      "artists": [
+        {
+          "name": "Naturalis",
+          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173509,
+      "name": "Jutlandica Sleep (432 Hz Mild Boost)",
+      "url": "https://open.spotify.com/track/6JxqdNuRIAwcIu8vBzSpbG"
     },
     {
       "album": {
@@ -1421,7 +1479,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 279998,
       "name": "Majestic Ocean",
       "url": "https://open.spotify.com/track/1ocx24cg3X119MilyogyCd"
@@ -1608,6 +1666,24 @@
     },
     {
       "album": {
+        "name": "Ocean Dreams",
+        "url": "https://open.spotify.com/album/40kzA9PJTw3WsbUhG1HjLe"
+      },
+      "artists": [
+        {
+          "name": "Waveseekers",
+          "url": "https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180650,
+      "name": "Ocean Dreams",
+      "url": "https://open.spotify.com/track/2VhxisRDxlAS8kcHgMzbl2"
+    },
+    {
+      "album": {
         "name": "California Ocean Sounds",
         "url": "https://open.spotify.com/album/3or8OyLPvGttkcdl1TwXtQ"
       },
@@ -1677,6 +1753,28 @@
       "duration_ms": 153000,
       "name": "Ocean Sounds For relaxing",
       "url": "https://open.spotify.com/track/0cDQ3SqNWg87FTsEv5k8Pm"
+    },
+    {
+      "album": {
+        "name": "Colombian Melodies Across Seas",
+        "url": "https://open.spotify.com/album/51e25tx6ywSL7gBWYfL0wC"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148928,
+      "name": "Ocean Sounds La Boquilla",
+      "url": "https://open.spotify.com/track/43rJoqHfJClYrb3KHirb48"
     },
     {
       "album": {
@@ -2004,6 +2102,28 @@
     },
     {
       "album": {
+        "name": "Seascape Symphony",
+        "url": "https://open.spotify.com/album/6CJnZvl8KEoWDQ2fD1494m"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189126,
+      "name": "Patagonian Oceanic Echoes",
+      "url": "https://open.spotify.com/track/4mQareZaah9Nvu7027FIjI"
+    },
+    {
+      "album": {
         "name": "Luxury Ocean Sounds Vol. 1",
         "url": "https://open.spotify.com/album/5CgEMFNlqJ0jdzhevzK96F"
       },
@@ -2249,7 +2369,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 160000,
       "name": "Rocking Waves",
       "url": "https://open.spotify.com/track/6RAlemH3wuNmuIT07DlMOa"
@@ -2400,6 +2520,24 @@
     },
     {
       "album": {
+        "name": "Serenade of the Waves",
+        "url": "https://open.spotify.com/album/1KL7HUjAh0uxeKskI4DghD"
+      },
+      "artists": [
+        {
+          "name": "Coastal Sounds",
+          "url": "https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212925,
+      "name": "Serenade of the Waves",
+      "url": "https://open.spotify.com/track/0y9dzBchEdp1mqQ9orujZH"
+    },
+    {
+      "album": {
         "name": "Oceanica",
         "url": "https://open.spotify.com/album/2JnaHhOZcU1tooGoRBxfaP"
       },
@@ -2415,6 +2553,24 @@
       "duration_ms": 133562,
       "name": "Serene Waves of Italy",
       "url": "https://open.spotify.com/track/70RGIeFa4554dLELIf8akG"
+    },
+    {
+      "album": {
+        "name": "Soft Ocean Waves",
+        "url": "https://open.spotify.com/album/6hV7AFtm1OBdtnGvKNH5u9"
+      },
+      "artists": [
+        {
+          "name": "World Recorders",
+          "url": "https://open.spotify.com/artist/1kG5S2MLYLuZUFlQb72rxE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161926,
+      "name": "Shore Roaring and Undulating",
+      "url": "https://open.spotify.com/track/2SMaQVNDeKXGhoh6JHsBmy"
     },
     {
       "album": {
@@ -2483,7 +2639,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 152661,
       "name": "Sleep Refreshed",
       "url": "https://open.spotify.com/track/73zohs74P55sdkTRIzIuqN"
@@ -3005,7 +3161,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 167750,
       "name": "Stormy Sea",
       "url": "https://open.spotify.com/track/5STiJhJ8wVjofGiEah0Izu"
@@ -3419,7 +3575,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 160128,
       "name": "Water World",
       "url": "https://open.spotify.com/track/3afBEoeEUWcXZzo7geFCcH"
@@ -3833,7 +3989,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 179391,
       "name": "Waves of Mallorca",
       "url": "https://open.spotify.com/track/5JOcmV3Vss8NB0ohtaIfgc"
@@ -4139,7 +4295,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 159010,
       "name": "\u30aa\u30fc\u30b7\u30e3\u30f3\u30a6\u30a7\u30fc\u30d6",
       "url": "https://open.spotify.com/track/4iWk0xghJ3A4RGqqv7GDKH"

@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 600985,
+  "2024-03-24": 601356,
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:7n2Ycct7Beij7Dj7meI4X0\">TWICE</a> ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:202VnAr2CvQpJJrYXK78jk\">Sarai Rivera</a> y <a href=\"spotify:artist:3SKza3YPBri1k43LB1Tqy4\">Tauren Wells</a> ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -3629,6 +3629,24 @@
       "duration_ms": 216585,
       "name": "El Cielo Nos Sonr\u00ede",
       "url": "https://open.spotify.com/track/18vSbMdCHXpbvnRRixYsKq"
+    },
+    {
+      "album": {
+        "name": "El Dios de lo imposible (Live)",
+        "url": "https://open.spotify.com/album/160ozK0qNJp7JPXzkvxvG7"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Reyes",
+          "url": "https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361353,
+      "name": "El Dios De Lo Imposible - Live",
+      "url": "https://open.spotify.com/track/4MNQonR3jV5gp70KqWu3d3"
     },
     {
       "album": {
@@ -9834,6 +9852,24 @@
     },
     {
       "album": {
+        "name": "Suelto (I give you my dreams)",
+        "url": "https://open.spotify.com/album/1xrugty1f3HPpYITsbHatD"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228435,
+      "name": "Suelto (I give you my dreams)",
+      "url": "https://open.spotify.com/track/0vrKtAUNi7cyaWmYlcm41O"
+    },
+    {
+      "album": {
         "name": "Suerte Divina \u2618\ufe0f (En Vivo desde Bogot\u00e1, Colombia)",
         "url": "https://open.spotify.com/album/5E99xK6yYWB8ovl0hoHkYO"
       },
@@ -10259,6 +10295,24 @@
       "duration_ms": 245998,
       "name": "Tiempo de la Cruz",
       "url": "https://open.spotify.com/track/2Iv7OJEEfkgOIvp7mwL0HE"
+    },
+    {
+      "album": {
+        "name": "Tienes El Control (Ac\u00fastico, En Vivo)",
+        "url": "https://open.spotify.com/album/6dgTNLjDgmlwIg8oU2uxeu"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306666,
+      "name": "Tienes El Control - Ac\u00fastico, En Vivo",
+      "url": "https://open.spotify.com/track/1BTsCk6t5XfCVySWgg4gJX"
     },
     {
       "album": {

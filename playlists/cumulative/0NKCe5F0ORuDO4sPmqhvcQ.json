@@ -7215,6 +7215,28 @@
     },
     {
       "album": {
+        "name": "Nightmare (Slow Magic Remix)",
+        "url": "https://open.spotify.com/album/4Tw8A51yCuX1Slnhs6BC75"
+      },
+      "artists": [
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+        },
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189103,
+      "name": "Nightmare - Slow Magic Remix",
+      "url": "https://open.spotify.com/track/4VIoiBMQpsIyGH79z1bTKo"
+    },
+    {
+      "album": {
         "name": "Nightmares In NYC",
         "url": "https://open.spotify.com/album/5aOwEJun2fyoIIFpftCmph"
       },

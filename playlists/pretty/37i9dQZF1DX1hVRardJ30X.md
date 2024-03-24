@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Xavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,194 likes - 57 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,259 likes - 57 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 56 | [De noche me cuesta más](https://open.spotify.com/track/1wKatnmF8t1Lt1rt7Ele0C) | [Pol](https://open.spotify.com/artist/0di3IdbM04Sd886p1steuf) | [De noche me cuesta más](https://open.spotify.com/album/1G5R8Vx4NhbZcLecnNjQ79) | 3:44 |
 | 57 | [Culpa Mía](https://open.spotify.com/track/1RyuhFhNyHlIMCdp8rtk3E) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Culpa Mía](https://open.spotify.com/album/5m4pSuQqNA69VsB9n1cwDQ) | 2:45 |
 
-Snapshot ID: `MCxkOWUwODA4NmMyZDhiODZlYTU2ZDVmNWJjZmJiNWNkYzgyNzRjZGQ5`
+Snapshot ID: `MCxjYzkwY2FiOGY1NDg2OGNjYTIxMGQzNWE1N2FlM2VlYzM0YzIyOTA1`

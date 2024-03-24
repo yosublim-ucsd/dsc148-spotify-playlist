@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 577,
+  "2024-03-24": 577,
   "date_first_scraped": "2022-05-30",
   "description": "This is Pauline Oliveros. The essential tracks, all in one playlist.",
   "name": "This Is Pauline Oliveros",
@@ -291,7 +291,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 363520,
       "name": "Altamirage III",
       "url": "https://open.spotify.com/track/5ELBzwjfg5WfTWQ9zlZfQL"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 193194,
       "name": "Altamirage V",
       "url": "https://open.spotify.com/track/62hehnD0OcI7pCM26KZGN9"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 165138,
       "name": "Deep-Sea Rendez-Vous",
       "url": "https://open.spotify.com/track/0ZsN5BFNEOO0dbOQVKh6Fz"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 263826,
       "name": "Desposition",
       "url": "https://open.spotify.com/track/4ZWr04cqxx5RP5N0OlfZek"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 172791,
       "name": "Digitalis Purpurea",
       "url": "https://open.spotify.com/track/0Nk4CmbqK4QDvJhPIcqFrB"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 733447,
       "name": "Festival of the Cicada - Live",
       "url": "https://open.spotify.com/track/2T3OJMfoUPV3zK08Jjs5DB"
@@ -1689,7 +1689,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 999400,
       "name": "IV Of IV",
       "url": "https://open.spotify.com/track/4wgoRq5FxguolBfMGdz4n3"
@@ -2813,7 +2813,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 284673,
       "name": "Room At the Inn",
       "url": "https://open.spotify.com/track/6ngAUMaLLjcje2iU17j4Wp"
@@ -2873,7 +2873,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 215360,
       "name": "Sanora",
       "url": "https://open.spotify.com/track/3jw74OQCoOisAdPAdY4vJr"
@@ -3059,7 +3059,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 243653,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/5UtlbbhPS9yHx3ujQ2SRwW"
@@ -3745,7 +3745,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 364080,
       "name": "Then we were not there",
       "url": "https://open.spotify.com/track/3rEw3Qnam3kvW2wTAnpQr3"
@@ -3913,7 +3913,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 319532,
       "name": "Trientalis Europaea",
       "url": "https://open.spotify.com/track/3DlkpH9BmBI9FAmIFFOUkq"
@@ -4325,7 +4325,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 427695,
       "name": "Vaccinium Myrtillus",
       "url": "https://open.spotify.com/track/04iUS6mYbmKESivrKn1HtD"
@@ -4573,7 +4573,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 263053,
       "name": "With Certainty",
       "url": "https://open.spotify.com/track/03NS51lOGoLhesZPQEL6BP"

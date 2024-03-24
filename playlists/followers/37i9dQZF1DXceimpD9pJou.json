@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 139600,
+  "2024-03-24": 139649,
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones Cristianas.  Foto: <a href=\"spotify:artist:6toUclayfnCvKyLtLSmyqb\">Grupo Grace</a> y <a href=\"spotify:artist:1TUE0gRfWpl13nW1PQOBK9\">Isabelle Valdez</a> ",
+  "description": "Las mejores nuevas canciones Cristianas.  Foto: <a href=\"spotify:artist:1isLgyF8G4bJdJzTrQPxV9\">Free Worship</a>",
   "name": "Novedades Cristianas",
   "tracks": [
     {
@@ -2356,6 +2356,36 @@
     },
     {
       "album": {
+        "name": "Apuestas",
+        "url": "https://open.spotify.com/album/4eXCDIH2oZ9hk8sNg6IYWA"
+      },
+      "artists": [
+        {
+          "name": "Barajas",
+          "url": "https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw"
+        },
+        {
+          "name": "Jaime Barcel\u00f3",
+          "url": "https://open.spotify.com/artist/28UO8tynmvF8KvZWBa0iI1"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324476,
+      "name": "Apuestas",
+      "url": "https://open.spotify.com/track/63MzOQMNemHoTQ13JJmlOJ"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed Estamos (feat. Ale Fdz)",
         "url": "https://open.spotify.com/album/3GHZ5ZZqdCB0ETjFoIRGej"
       },
@@ -3954,6 +3984,32 @@
     },
     {
       "album": {
+        "name": "Calle sin Salida",
+        "url": "https://open.spotify.com/album/77BzZKbA7w8Y0X4II7qCyr"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Gallego",
+          "url": "https://open.spotify.com/artist/6P9Adm5Ne2YtzhV1hOjQcC"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252257,
+      "name": "Calle sin Salida",
+      "url": "https://open.spotify.com/track/6F2MjmxfMgZo6vxKjx7PYd"
+    },
+    {
+      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/2HJDfS7JE1jHLJzG8vJSwg"
       },
@@ -5113,6 +5169,24 @@
       "duration_ms": 216000,
       "name": "Como Vuelvo A Ti",
       "url": "https://open.spotify.com/track/7A3gGBSNIYZi6SWibd4dPW"
+    },
+    {
+      "album": {
+        "name": "Compasi\u00f3n",
+        "url": "https://open.spotify.com/album/3BI8ExcG0XqaSvlEWIpWgw"
+      },
+      "artists": [
+        {
+          "name": "Fernando Durso",
+          "url": "https://open.spotify.com/artist/6YVjcjeMD6ljmqBfo6L6vC"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237226,
+      "name": "Compasi\u00f3n",
+      "url": "https://open.spotify.com/track/6v9FpgfRCaRuklqnIVJkZM"
     },
     {
       "album": {
@@ -8864,6 +8938,24 @@
     },
     {
       "album": {
+        "name": "El Dios de lo imposible (Live)",
+        "url": "https://open.spotify.com/album/160ozK0qNJp7JPXzkvxvG7"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Reyes",
+          "url": "https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361353,
+      "name": "El Dios De Lo Imposible - Live",
+      "url": "https://open.spotify.com/track/4MNQonR3jV5gp70KqWu3d3"
+    },
+    {
+      "album": {
         "name": "El Dios Que Cambia Nombre",
         "url": "https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO"
       },
@@ -9173,6 +9265,28 @@
       "duration_ms": 208000,
       "name": "El Nombre de Jes\u00fas",
       "url": "https://open.spotify.com/track/3qcfwaXbHtluMq2qEhkYGK"
+    },
+    {
+      "album": {
+        "name": "El Pecador",
+        "url": "https://open.spotify.com/album/3zAU3t2Tpy9NuiBLt2diKo"
+      },
+      "artists": [
+        {
+          "name": "Gpo El Tiempo",
+          "url": "https://open.spotify.com/artist/40A7N1vaaoVjQkTMukUAYn"
+        },
+        {
+          "name": "El Tiempo",
+          "url": "https://open.spotify.com/artist/4mKF9sU49S24j9spalTw4y"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "El Pecador",
+      "url": "https://open.spotify.com/track/7bOKAg14G73JrpAmoKOWLg"
     },
     {
       "album": {
@@ -9871,6 +9985,28 @@
       "duration_ms": 328533,
       "name": "En Lo Profundo",
       "url": "https://open.spotify.com/track/6KwNxcAMdD8Cm665dPKcj7"
+    },
+    {
+      "album": {
+        "name": "En Lo Secreto",
+        "url": "https://open.spotify.com/album/4uwf0wQR2ZQV6watjWdFvj"
+      },
+      "artists": [
+        {
+          "name": "Emir Sensini",
+          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
+        },
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230440,
+      "name": "En Lo Secreto",
+      "url": "https://open.spotify.com/track/5ABGINtBPt4siL4XtRfoca"
     },
     {
       "album": {
@@ -12163,6 +12299,72 @@
       "duration_ms": 165875,
       "name": "G63",
       "url": "https://open.spotify.com/track/3E2aYBCPmf8kTq1Ug5E1sN"
+    },
+    {
+      "album": {
+        "name": "Gangster de Dios 4",
+        "url": "https://open.spotify.com/album/0QLXd6RzkGbN76shElZlbI"
+      },
+      "artists": [
+        {
+          "name": "Propiedad De Dios",
+          "url": "https://open.spotify.com/artist/4sx4kT4GCXYSw6Cs8Bf9t4"
+        },
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        },
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        },
+        {
+          "name": "Misael J",
+          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
+        },
+        {
+          "name": "Brayan Booz",
+          "url": "https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD"
+        },
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        },
+        {
+          "name": "Peter Metivier",
+          "url": "https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg"
+        },
+        {
+          "name": "R.E.A.L",
+          "url": "https://open.spotify.com/artist/2Q7QfdUIxSSnodTdVzm1Lv"
+        },
+        {
+          "name": "Ricky Webber",
+          "url": "https://open.spotify.com/artist/7oTXI03tSnUMTETGaLc3cN"
+        },
+        {
+          "name": "Mayo Music",
+          "url": "https://open.spotify.com/artist/1ezbDLKNVEautrYggZnnAU"
+        },
+        {
+          "name": "RL y Vanessa",
+          "url": "https://open.spotify.com/artist/0S2YiqHLKfvY5BRLxFLl3b"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 654850,
+      "name": "Gangster de Dios 4",
+      "url": "https://open.spotify.com/track/4CkQiDcuC9WUF2s669yZlQ"
     },
     {
       "album": {
@@ -17822,6 +18024,24 @@
     },
     {
       "album": {
+        "name": "Mi Alma Clama (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3sYQqCVVc0dXCS81a3KdfV"
+      },
+      "artists": [
+        {
+          "name": "Free Worship",
+          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419477,
+      "name": "Me Aferrar\u00e9 (feat. Isaac Orellana)",
+      "url": "https://open.spotify.com/track/6Y5G3cTv500012sAikXTyn"
+    },
+    {
+      "album": {
         "name": "Me Asombra",
         "url": "https://open.spotify.com/album/5hRBFK64LhCRQMnuTAJ8yZ"
       },
@@ -21678,6 +21898,24 @@
     },
     {
       "album": {
+        "name": "No Todo Termin\u00f3 en la Cruz",
+        "url": "https://open.spotify.com/album/09yzhVaJdL4gBcnhKgayhv"
+      },
+      "artists": [
+        {
+          "name": "Semillas De Vida",
+          "url": "https://open.spotify.com/artist/5wzQXPEWdkh3PCkxoceoP2"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304005,
+      "name": "No Todo Termin\u00f3 en la Cruz",
+      "url": "https://open.spotify.com/track/06ssKx6DfazYuQzXtNp3Z2"
+    },
+    {
+      "album": {
         "name": "No yo, sino Cristo",
         "url": "https://open.spotify.com/album/2aj1MTq3fawslSGrdWcwa9"
       },
@@ -22409,6 +22647,28 @@
       "duration_ms": 193956,
       "name": "Pa' que Son Las Guitarras",
       "url": "https://open.spotify.com/track/2I6G5TABjMu7RVntToFDwk"
+    },
+    {
+      "album": {
+        "name": "Padre Nuestro (feat. Le Dolce Vita)",
+        "url": "https://open.spotify.com/album/1V04pCyXyOgTptEKBTf3oT"
+      },
+      "artists": [
+        {
+          "name": "Natalino",
+          "url": "https://open.spotify.com/artist/563WRI9dfOxQmHUooyJgW8"
+        },
+        {
+          "name": "Le Dolce Vita",
+          "url": "https://open.spotify.com/artist/10Sw5qKHKOmZwa3ZbSXPfD"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127594,
+      "name": "Padre Nuestro (feat. Le Dolce Vita)",
+      "url": "https://open.spotify.com/track/6tvC1NF8jD4y9x7EGg1oRL"
     },
     {
       "album": {
@@ -23655,6 +23915,24 @@
       "duration_ms": 211875,
       "name": "Primero Nos Am\u00f3 (Remix)",
       "url": "https://open.spotify.com/track/7ce9jioYfUJFAgxVISdNEY"
+    },
+    {
+      "album": {
+        "name": "Primero Nos Am\u00f3 (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2XzXQDi8djpEgoGe8SaFRl"
+      },
+      "artists": [
+        {
+          "name": "Matthew Hotton",
+          "url": "https://open.spotify.com/artist/62veW3YYWKSHx6sDGnDpNQ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285765,
+      "name": "Primero Nos Am\u00f3 - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/2Tz6jH71Qb0xMq7WeQxylc"
     },
     {
       "album": {
@@ -25958,6 +26236,24 @@
     },
     {
       "album": {
+        "name": "Seguir Vale la Pena",
+        "url": "https://open.spotify.com/album/4vy47A6YR6TookikLal5v5"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191799,
+      "name": "Seguir Vale la Pena",
+      "url": "https://open.spotify.com/track/0WKPxHb8syTjMV3dXaiSIv"
+    },
+    {
+      "album": {
         "name": "Segura",
         "url": "https://open.spotify.com/album/6Uq8ENEKaaL0rhv2OGR6i1"
       },
@@ -27540,6 +27836,28 @@
     },
     {
       "album": {
+        "name": "Sopla Vida (Chapel Sessions en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/2JqTc3KqBeixHuiAHj8rgC"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Armando S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/0u5GpuQQC8Vr2l648shvcC"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251042,
+      "name": "Sopla Vida - Chapel Sessions en Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/6clpBBne6tXqgOOYdc5FDP"
+    },
+    {
+      "album": {
         "name": "Sopla Vida (Live)",
         "url": "https://open.spotify.com/album/3rNdSltuZkHEjCNkmdcxQg"
       },
@@ -27909,6 +28227,24 @@
       "duration_ms": 261213,
       "name": "Suelto",
       "url": "https://open.spotify.com/track/4gzdXnYl4s10PXMZn1XSlF"
+    },
+    {
+      "album": {
+        "name": "Suelto (I give you my dreams)",
+        "url": "https://open.spotify.com/album/1xrugty1f3HPpYITsbHatD"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228435,
+      "name": "Suelto (I give you my dreams)",
+      "url": "https://open.spotify.com/track/0vrKtAUNi7cyaWmYlcm41O"
     },
     {
       "album": {
@@ -29222,6 +29558,24 @@
     },
     {
       "album": {
+        "name": "Aguadulce Ac\u00fastico En Vivo",
+        "url": "https://open.spotify.com/album/5F2VUXBcaeh1dzvD67lCYO"
+      },
+      "artists": [
+        {
+          "name": "Isra y Vale",
+          "url": "https://open.spotify.com/artist/6gv84Nihr8Dg93KuxArFxl"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276094,
+      "name": "Tiempo - Ac\u00fastica, En Vivo",
+      "url": "https://open.spotify.com/track/63dv2CX0q6M5jAGb242gr0"
+    },
+    {
+      "album": {
         "name": "Tienes El Control",
         "url": "https://open.spotify.com/album/11tDPyDgAPcbXKgatSfeTq"
       },
@@ -29237,6 +29591,24 @@
       "duration_ms": 303730,
       "name": "Tienes El Control",
       "url": "https://open.spotify.com/track/34EJcT1UxyRQj09zsFxmzI"
+    },
+    {
+      "album": {
+        "name": "Tienes El Control (Ac\u00fastico, En Vivo)",
+        "url": "https://open.spotify.com/album/6dgTNLjDgmlwIg8oU2uxeu"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306666,
+      "name": "Tienes El Control - Ac\u00fastico, En Vivo",
+      "url": "https://open.spotify.com/track/1BTsCk6t5XfCVySWgg4gJX"
     },
     {
       "album": {
@@ -29626,6 +29998,40 @@
     },
     {
       "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/5qdw8eAovCRBv0LTTqVgIZ"
+      },
+      "artists": [
+        {
+          "name": "Zomoz",
+          "url": "https://open.spotify.com/artist/5vAQQZvuj5BKH1wDwrRV2Y"
+        },
+        {
+          "name": "Silvia Jimenez",
+          "url": "https://open.spotify.com/artist/5X8hSxYKsscu97UQM7U3EE"
+        },
+        {
+          "name": "Samu Robles",
+          "url": "https://open.spotify.com/artist/2fvKekLjq0z3TzIljRraPl"
+        },
+        {
+          "name": "LUISFER",
+          "url": "https://open.spotify.com/artist/3UDUwxXkYG6a6drtZm4CUN"
+        },
+        {
+          "name": "Dariana",
+          "url": "https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224378,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/2ImJ6DqPkXLp97mR4xoMZL"
+    },
+    {
+      "album": {
         "name": "Transparente",
         "url": "https://open.spotify.com/album/7d9ouCkRWJRZgbsaWRLkGs"
       },
@@ -29779,6 +30185,24 @@
       "duration_ms": 500693,
       "name": "Tu Amor Me Hace Fuerte",
       "url": "https://open.spotify.com/track/25SpOejWtcY82K1eYaON7C"
+    },
+    {
+      "album": {
+        "name": "Gracia Sobre Gracia",
+        "url": "https://open.spotify.com/album/3eZRYHChaQQsQu1F18xEla"
+      },
+      "artists": [
+        {
+          "name": "Emi Cant\u00fa",
+          "url": "https://open.spotify.com/artist/0ylFwnceqgOCxLj84Iiv1T"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298010,
+      "name": "Tu Amor por M\u00ed",
+      "url": "https://open.spotify.com/track/5tmoa1UpQiTlC1gFSpFxvc"
     },
     {
       "album": {
@@ -31253,6 +31677,28 @@
       "duration_ms": 181266,
       "name": "Valor",
       "url": "https://open.spotify.com/track/1HRxYEsZog4p6x8gRbrFqG"
+    },
+    {
+      "album": {
+        "name": "Valor (En Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2BLo0DcpdWhuVQ4lbrIoAZ"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        },
+        {
+          "name": "Belu Rodriguez Kuhn",
+          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185170,
+      "name": "Valor - En Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4VEUHUUwX0iMSs7bIcVevp"
     },
     {
       "album": {

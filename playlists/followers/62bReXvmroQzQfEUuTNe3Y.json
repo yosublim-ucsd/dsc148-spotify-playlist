@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 1188334,
+  "2024-03-24": 1189343,
   "date_first_scraped": "2020-09-13",
   "description": "Chill tracks to vibe or dance for 2024. Updated weekly. | \ud83c\udf08 <a href=\"https://www.instagram.com/selectedofficial\">Instagram</a>",
   "name": "Chill House 2024",
@@ -1362,6 +1362,24 @@
     },
     {
       "album": {
+        "name": "Cry For Me",
+        "url": "https://open.spotify.com/album/5TnCTrun94MPp92pUNTLzI"
+      },
+      "artists": [
+        {
+          "name": "Touring",
+          "url": "https://open.spotify.com/artist/1DKSHZmGXSlYlbUKFb6KXZ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253212,
+      "name": "Cry For Me",
+      "url": "https://open.spotify.com/track/3cxgp575v709HjOLSHubBw"
+    },
+    {
+      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/51ojuOytuRkxxusdPjwIJs"
       },
@@ -1672,6 +1690,28 @@
     },
     {
       "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/5W23C2gErmU9mf8BHEPdhr"
+      },
+      "artists": [
+        {
+          "name": "MR TOUT LE MONDE",
+          "url": "https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn"
+        },
+        {
+          "name": "MidnightSun",
+          "url": "https://open.spotify.com/artist/7LvDaiMjUn5YgZPX3MEwf1"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194428,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3o3OvVUrJeRefep6zMDpH7"
+    },
+    {
+      "album": {
         "name": "Frost",
         "url": "https://open.spotify.com/album/5bjn5UoB5fAEY5n1bMhO2T"
       },
@@ -1893,6 +1933,32 @@
       "duration_ms": 218290,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/00KPugdklpcrFNnjWlXjj2"
+    },
+    {
+      "album": {
+        "name": "Every Time I Fall (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/0bek3r8hzm4BQOWWCDTFoW"
+      },
+      "artists": [
+        {
+          "name": "Me & George",
+          "url": "https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "KATYA",
+          "url": "https://open.spotify.com/artist/6ARtMKoXQvZclVIxRqMFBQ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150195,
+      "name": "Every Time I Fall - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/3ryyZmnPduJRgchZYmBAxN"
     },
     {
       "album": {
@@ -5363,6 +5429,28 @@
       "duration_ms": 258254,
       "name": "No Sympathy",
       "url": "https://open.spotify.com/track/4wySt0Tw3gCiybsPeXScGA"
+    },
+    {
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/59NaZf5szsgzHSG6tYLOAp"
+      },
+      "artists": [
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261250,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb"
     },
     {
       "album": {

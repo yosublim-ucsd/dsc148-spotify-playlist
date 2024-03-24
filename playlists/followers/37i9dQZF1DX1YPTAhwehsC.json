@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 454194,
+  "2024-03-24": 454195,
   "date_first_scraped": "2021-12-21",
   "description": "Up and down I-95. Cover: Cardi B",
   "name": "State of Mind",
@@ -327,7 +327,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 208838,
       "name": "24 hours to live",
       "url": "https://open.spotify.com/track/5ia8VbDkfzWBjC6f3bOTt1"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 122251,
       "name": "2Deep (feat. Kenzo B)",
       "url": "https://open.spotify.com/track/6Zj3a93pZzni1VZNhxkFt3"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 169703,
       "name": "3AM in the Yams (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/00a6BqGzSkW1fXz39aJpEO"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 160120,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/3gw2cdej8K6EaLEzAgs4U0"
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 220408,
       "name": "Another One Of Me (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
@@ -1666,6 +1666,24 @@
     },
     {
       "album": {
+        "name": "MEMENTO (DELUXE)",
+        "url": "https://open.spotify.com/album/4ENhG6dvD8niF3TgWaqpER"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95872,
+      "name": "BEAUTY / L(EYES)",
+      "url": "https://open.spotify.com/track/4b4z7C0Fe8anKZSQnug3qp"
+    },
+    {
+      "album": {
         "name": "Becky (feat. 41)",
         "url": "https://open.spotify.com/album/4qxJ6ZOmgNoOZGgnspy9SG"
       },
@@ -1703,7 +1721,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 147469,
       "name": "Beep Beep (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/6Hn4RAq9DerZedTzgyCgvC"
@@ -1747,7 +1765,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 198706,
       "name": "Bend It Ova (feat. A Boogie Wit da Hoodie & Big Freedia)",
       "url": "https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y"
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 217600,
       "name": "Bent (Remix) (with Kyle Richh, Jenn Carter, TaTa & Sexyy Red)",
       "url": "https://open.spotify.com/track/3dbk5pvQlJagP6VJP9vHzq"
@@ -2387,7 +2405,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 169411,
       "name": "Blood Moon (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj"
@@ -2931,7 +2949,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 78419,
       "name": "Bryce Maximus",
       "url": "https://open.spotify.com/track/4BVMNx3KFSLJXmMkrDn6Ai"
@@ -3553,7 +3571,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 128731,
       "name": "Chillen With A Star",
       "url": "https://open.spotify.com/track/5p9JuCORAJOTseMFl3ENh7"
@@ -3711,7 +3729,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 176620,
       "name": "Clocking U",
       "url": "https://open.spotify.com/track/4hNdFY5XiWlcdVY8zBoE8b"
@@ -3863,7 +3881,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 143941,
       "name": "Contacts",
       "url": "https://open.spotify.com/track/0EKNlEfWLUUlXFV2Xv5Ynj"
@@ -4644,6 +4662,32 @@
     },
     {
       "album": {
+        "name": "DM",
+        "url": "https://open.spotify.com/album/4GjpK08h1VbatqEgiWSKsJ"
+      },
+      "artists": [
+        {
+          "name": "Dee Billz",
+          "url": "https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224881,
+      "name": "DM",
+      "url": "https://open.spotify.com/track/50uZI42IaLYngPSHkycMuI"
+    },
+    {
+      "album": {
         "name": "Do Not Disturb ft. NAV and Yung Bleu",
         "url": "https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS"
       },
@@ -5353,6 +5397,24 @@
       "duration_ms": 87272,
       "name": "Drill Foot",
       "url": "https://open.spotify.com/track/2Iz7wAaXmO35sgKqMiLeWG"
+    },
+    {
+      "album": {
+        "name": "From The Can",
+        "url": "https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138767,
+      "name": "Drum Dummy",
+      "url": "https://open.spotify.com/track/6A7wOQGuZYq4v6ISlcopcq"
     },
     {
       "album": {
@@ -6595,7 +6657,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 119274,
       "name": "For You (feat. TaTa)",
       "url": "https://open.spotify.com/track/3rFNqqOjPeAcTn1P2i0FiV"
@@ -6621,6 +6683,24 @@
       "duration_ms": 110471,
       "name": "Foreign Shit",
       "url": "https://open.spotify.com/track/6ARRF0o0moDLS7coAp2xDS"
+    },
+    {
+      "album": {
+        "name": "Hood Mona Lisa",
+        "url": "https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar"
+      },
+      "artists": [
+        {
+          "name": "BreezyLYN",
+          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108530,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI"
     },
     {
       "album": {
@@ -7409,7 +7489,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 207567,
       "name": "Giving Chanel",
       "url": "https://open.spotify.com/track/1wMxLpODBBQMC6CiIBIV8e"
@@ -7661,6 +7741,24 @@
       "duration_ms": 142911,
       "name": "Good Girls Ain't No Fun",
       "url": "https://open.spotify.com/track/0eVVwxPYBzVMFOGDUpaw2f"
+    },
+    {
+      "album": {
+        "name": "Good Look",
+        "url": "https://open.spotify.com/album/0ZCidOeCHqEjLxtetrELo1"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114418,
+      "name": "Good Look",
+      "url": "https://open.spotify.com/track/6c098Yt8Mr2UN7EwTG8w5F"
     },
     {
       "album": {
@@ -8133,7 +8231,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 154800,
       "name": "Her Birthday",
       "url": "https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd"
@@ -8822,6 +8920,28 @@
     },
     {
       "album": {
+        "name": "MEMENTO (DELUXE)",
+        "url": "https://open.spotify.com/album/4ENhG6dvD8niF3TgWaqpER"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156981,
+      "name": "I KNOW (feat. Blxst)",
+      "url": "https://open.spotify.com/track/6IfwJM8m3aaRT3J2GInvuf"
+    },
+    {
+      "album": {
         "name": "Play For The Mavericks",
         "url": "https://open.spotify.com/album/1wysf1PmgDVK6l3EqLuIfK"
       },
@@ -8837,7 +8957,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 110027,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/55JcOyfUKaD77CyWtTXAec"
@@ -9485,7 +9605,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 120917,
       "name": "Jenn Jenn Jenn",
       "url": "https://open.spotify.com/track/09A7OM0R7yazApSFe0v1SA"
@@ -10069,7 +10189,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 142262,
       "name": "Lamar Jackson",
       "url": "https://open.spotify.com/track/797OROVgjej4RShjgKGTE7"
@@ -10623,7 +10743,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 166071,
       "name": "Live from the Roxy (feat. Boldy James)",
       "url": "https://open.spotify.com/track/2iNyc3IgiqZ1oIAHoSA8ed"
@@ -10895,7 +11015,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 81515,
       "name": "Luv 4 My Block",
       "url": "https://open.spotify.com/track/7M1kT1qfYZjE8L2Bik8eUO"
@@ -11019,7 +11139,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 100975,
       "name": "Lyrical Eazy",
       "url": "https://open.spotify.com/track/6xVdq7lcNHpELteLBfrkY2"
@@ -11349,7 +11469,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 197197,
       "name": "Maybach Music (feat. Shawny Binladen)",
       "url": "https://open.spotify.com/track/5RJjUe2LR9jJigIaE6Odso"
@@ -11795,7 +11915,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 72013,
       "name": "MOOD SWING",
       "url": "https://open.spotify.com/track/5UYi5ZBJR1rnEyNjOkOdMD"
@@ -13715,7 +13835,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 143493,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5SqPTvrFYSwhaKm5kk4EOi"
@@ -13957,7 +14077,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 208695,
       "name": "Parker",
       "url": "https://open.spotify.com/track/3MLhEDEFdhVu4VA8uBZckm"
@@ -13979,7 +14099,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 169933,
       "name": "Passports & Suitcases (feat. KayCyy)",
       "url": "https://open.spotify.com/track/0A0ZpEwDk5iNNfxUSYeJCt"
@@ -14129,7 +14249,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 187319,
       "name": "Pillow Talk & Slander (with Jadakiss & Babyface Ray)",
       "url": "https://open.spotify.com/track/3XPSsUdXZvkoh7E2ROzdLO"
@@ -14319,6 +14439,24 @@
       "duration_ms": 136176,
       "name": "PMR (feat. A Boogie wit da Hoodie)",
       "url": "https://open.spotify.com/track/72etwrPRuhvISzuCc9w81f"
+    },
+    {
+      "album": {
+        "name": "PNW",
+        "url": "https://open.spotify.com/album/4YdEQj0jlsKJTLH5R99igR"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267096,
+      "name": "PNW",
+      "url": "https://open.spotify.com/track/1OdakIOGXoXMISY5TFYvMa"
     },
     {
       "album": {
@@ -14906,6 +15044,24 @@
     },
     {
       "album": {
+        "name": "Not Now I'm Busy",
+        "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217224,
+      "name": "Put Me On",
+      "url": "https://open.spotify.com/track/2DW5fYkobgMLvnsHkswg2h"
+    },
+    {
+      "album": {
         "name": "Back Outside",
         "url": "https://open.spotify.com/album/3VLvNs02uHEhNzv49mTlQy"
       },
@@ -15455,7 +15611,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 176027,
       "name": "Remember",
       "url": "https://open.spotify.com/track/47AnQOnGJsW36cWmYtKB5u"
@@ -16175,7 +16331,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 89145,
       "name": "Said It\u2019s Smoke",
       "url": "https://open.spotify.com/track/5eDON3gRZqbe7dUhjHXTBV"
@@ -16223,7 +16379,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 232000,
       "name": "Same 24 (feat. Meek Mill)",
       "url": "https://open.spotify.com/track/2d95OanRucycsY2kOKgZmU"
@@ -16560,6 +16716,24 @@
     },
     {
       "album": {
+        "name": "Not Now I'm Busy",
+        "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204259,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/0gLtDwooPO6YDFxITjvpdV"
+    },
+    {
+      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/5arhOeNsH3P6LCD69z2rAo"
       },
@@ -16641,7 +16815,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 219617,
       "name": "SHAQ & KOBE",
       "url": "https://open.spotify.com/track/02K2VtGdUG5fUlAQATEgE6"
@@ -17491,7 +17665,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 179562,
       "name": "Spin The Block (feat. Styles P & 50 Cent)",
       "url": "https://open.spotify.com/track/7Cp8NGy4IqrJiefzZoSG0w"
@@ -17813,7 +17987,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 188595,
       "name": "Stomp Stomp (with Kyle Richh, Jenn Carter, TaTa & Dee Billz)",
       "url": "https://open.spotify.com/track/30TEsD9nJfrJSRL1RTJMDg"
@@ -18518,6 +18692,24 @@
     },
     {
       "album": {
+        "name": "The Quest",
+        "url": "https://open.spotify.com/album/59h4HNypq1jgCHOkYUtyoW"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233323,
+      "name": "The Quest",
+      "url": "https://open.spotify.com/track/4ZhOSdcezNOSI8StRRqqik"
+    },
+    {
+      "album": {
         "name": "THE REV3NGE",
         "url": "https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1"
       },
@@ -18751,7 +18943,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 169014,
       "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
       "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
@@ -19109,6 +19301,24 @@
       "duration_ms": 105693,
       "name": "Treesha",
       "url": "https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ"
+    },
+    {
+      "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/3L1xj7PMZrMrIYjsW4fbLx"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/4NG6oAo2311NJ2Kva95adA"
     },
     {
       "album": {
@@ -20957,7 +21167,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 134265,
       "name": "YEH",
       "url": "https://open.spotify.com/track/30WeTbgrLddzKH2BEAEswe"

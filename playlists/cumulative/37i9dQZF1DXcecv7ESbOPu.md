@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-12,577 songs - 27 day 3 hr 31 min
+12,578 songs - 27 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5393,7 +5393,8 @@
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-17 | 2022-03-25 |
 | [Iconic](https://open.spotify.com/track/2SIfQ3zJERPHwKUX0xRSmS) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Iconic](https://open.spotify.com/album/3xbqi7wwvKwuTKC99hKLiW) | 2:28 | 2022-09-29 | 2022-10-01 |
 | [Iconic](https://open.spotify.com/track/4oVWH6Jo0vpDY3qusXMj5w) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Iconic](https://open.spotify.com/album/2odTVHhrNcmaKYnoiQ46yP) | 2:28 | 2022-10-28 | 2022-11-04 |
-| [ID feat\. Smerz](https://open.spotify.com/track/5p8TnQQFEEC7rvrjozlcKX) | [Hekt](https://open.spotify.com/artist/0SOn6FeWwXGHcF9JEGM4Y1), [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [ID feat\. Smerz](https://open.spotify.com/album/6FVjU1pTz0n57teBT1HS6n) | 3:16 | 2024-03-21 |  |
+| [ID feat\. Smerz](https://open.spotify.com/track/5p8TnQQFEEC7rvrjozlcKX) | [Hekt](https://open.spotify.com/artist/0SOn6FeWwXGHcF9JEGM4Y1), [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [ID feat\. Smerz](https://open.spotify.com/album/6FVjU1pTz0n57teBT1HS6n) | 3:16 | 2024-03-21 | 2024-03-24 |
+| [ID feat\. Smerz](https://open.spotify.com/track/73vd9RPInhU84pK2MtVj9T) | [Hekt](https://open.spotify.com/artist/0SOn6FeWwXGHcF9JEGM4Y1), [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Lens](https://open.spotify.com/album/0jxO0Uldxx8O2wKtGtKCsb) | 3:16 | 2024-03-21 |  |
 | [IDGAF](https://open.spotify.com/track/3umPlMokEzAFxJO33tNdlY) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [IDGAF](https://open.spotify.com/album/2NC8n49lFlTCONmjtGb2fI) | 2:18 | 2022-08-18 | 2022-08-26 |
 | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE) | 3:15 | 2023-09-08 | 2023-09-15 |
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-03-17 | 2022-03-25 |

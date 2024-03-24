@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 289852,
+  "2024-03-24": 290126,
   "date_first_scraped": "2021-12-28",
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
   "name": "80s Rock Drive",
@@ -165,6 +165,24 @@
       "duration_ms": 294826,
       "name": "Cult of Personality",
       "url": "https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH"
+    },
+    {
+      "album": {
+        "name": "Vivid (2023 Remaster)",
+        "url": "https://open.spotify.com/album/0Itv01cUzRusmyNcEgEmOA"
+      },
+      "artists": [
+        {
+          "name": "Living Colour",
+          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294532,
+      "name": "Cult of Personality (2023 Remaster)",
+      "url": "https://open.spotify.com/track/4WG7Z3bNM3iE4vCYcXsxNx"
     },
     {
       "album": {
@@ -809,7 +827,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 318226,
       "name": "Modern Day Cowboy",
       "url": "https://open.spotify.com/track/5ZIU2kT1wNjQNclQeVCz5O"

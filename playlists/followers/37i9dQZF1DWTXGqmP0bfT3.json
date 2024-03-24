@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 345157,
+  "2024-03-24": 345496,
   "date_first_scraped": "2021-12-30",
   "description": "brutal breakdowns and riffs to amp you up.",
   "name": "Energy Booster: Metal",
@@ -1875,10 +1875,28 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 283293,
       "name": "Goddamn White Trash",
       "url": "https://open.spotify.com/track/0JqtLoPU1i47itdwKRg2Zo"
+    },
+    {
+      "album": {
+        "name": "HOPIUMFORTHEMASSES",
+        "url": "https://open.spotify.com/album/04Z322o7T5mwSnFVtUGAaV"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283293,
+      "name": "Goddamn White Trash",
+      "url": "https://open.spotify.com/track/5Pw0WYcFMkMnnQsII5nMOe"
     },
     {
       "album": {

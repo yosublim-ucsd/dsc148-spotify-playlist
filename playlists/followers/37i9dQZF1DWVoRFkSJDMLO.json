@@ -1,9 +1,27 @@
 {
-  "2024-03-23": 55742,
+  "2024-03-24": 55787,
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Cover: Pheelz \ud83c\uddf3\ud83c\uddec",
+  "description": "Inspired by African drums. Cover: Tyla \ud83c\uddff\ud83c\udde6 ",
   "name": "Crxss Current",
   "tracks": [
+    {
+      "album": {
+        "name": "+44",
+        "url": "https://open.spotify.com/album/4aYW78gBLVZgQsKNT5K194"
+      },
+      "artists": [
+        {
+          "name": "Miles from Kinshasa",
+          "url": "https://open.spotify.com/artist/6ZWpMqNWzoiiQScsuzeBaE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "+44",
+      "url": "https://open.spotify.com/track/4cDnX3cMVIVRg8wKO1fCjW"
+    },
     {
       "album": {
         "name": "1 On 1",
@@ -851,6 +869,24 @@
       "duration_ms": 139706,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c"
+    },
+    {
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148517,
+      "name": "ART",
+      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
     },
     {
       "album": {
@@ -2195,7 +2231,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 157060,
       "name": "BODY TOUCHING BODY (feat. Victoria Mon\u00e9t)",
       "url": "https://open.spotify.com/track/2NKUIkh9fZLR7C7PXiJIsP"
@@ -2820,6 +2856,24 @@
     },
     {
       "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188314,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
+    },
+    {
+      "album": {
         "name": "Calypso",
         "url": "https://open.spotify.com/album/28mPLM5kXhLb0dLA8WGdhA"
       },
@@ -3375,6 +3429,36 @@
       "duration_ms": 280424,
       "name": "Dalie (feat. Baby S.O.N)",
       "url": "https://open.spotify.com/track/4URabg9AGHasjFEVdTbWcC"
+    },
+    {
+      "album": {
+        "name": "Dalilah II",
+        "url": "https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Dalilah II",
+      "url": "https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb"
     },
     {
       "album": {
@@ -4537,7 +4621,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 182142,
       "name": "Fakosi",
       "url": "https://open.spotify.com/track/3yFntP1ZfDbHkNWWOCZt7O"
@@ -5337,6 +5421,24 @@
       "duration_ms": 137554,
       "name": "Gi Dem",
       "url": "https://open.spotify.com/track/2hs5Giu9o1BesmesouAx7l"
+    },
+    {
+      "album": {
+        "name": "Dancehall Riddim: Candle Wax",
+        "url": "https://open.spotify.com/album/1WbNYaqYmiNMzAAV23ZVEI"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200801,
+      "name": "Gi Dem A Page - 2024 Remaster",
+      "url": "https://open.spotify.com/track/0wATrROXnALhEImfSES9GN"
     },
     {
       "album": {
@@ -6534,6 +6636,28 @@
     },
     {
       "album": {
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/2vgFyo552EBubP22pg0Wyr"
+      },
+      "artists": [
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        },
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214373,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/22USf4j0JNMxr9nZvrq2E4"
+    },
+    {
+      "album": {
         "name": "Hunter",
         "url": "https://open.spotify.com/album/5u64PWOWjEEuNkb4NzOgix"
       },
@@ -6987,7 +7111,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 209275,
       "name": "Is It Real?",
       "url": "https://open.spotify.com/track/4L5Gj9HqAEKMfCofzlAcMz"
@@ -7434,6 +7558,32 @@
     },
     {
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147071,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
+    },
+    {
+      "album": {
         "name": "Jump Off",
         "url": "https://open.spotify.com/album/2MNQyEcTDvGJ0qXQ975dhK"
       },
@@ -7641,7 +7791,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 142719,
       "name": "Khartoum (with Adekunle Gold)",
       "url": "https://open.spotify.com/track/5RizFQe3Uvf12S2WE83IBr"
@@ -7815,7 +7965,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 112279,
       "name": "Kompet",
       "url": "https://open.spotify.com/track/5xsXZb32iVcnWrjSURBCkC"
@@ -8801,7 +8951,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 173810,
       "name": "Lova",
       "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
@@ -9567,7 +9717,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 391888,
       "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy"
@@ -9585,7 +9735,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 111844,
       "name": "Moddest Life",
       "url": "https://open.spotify.com/track/3Y0PxZA7jE4MeT5ZZnezWk"
@@ -9633,6 +9783,28 @@
       "duration_ms": 191505,
       "name": "Money & Love",
       "url": "https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu"
+    },
+    {
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/5WmnV6pBu5QMLyYxup8Qes"
+      },
+      "artists": [
+        {
+          "name": "Pablo YG",
+          "url": "https://open.spotify.com/artist/0JFNiVq6LHCFEJk9ilmh9K"
+        },
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "Money - Raw",
+      "url": "https://open.spotify.com/track/1Mtu0THbZVFOoaS6vzd1WF"
     },
     {
       "album": {
@@ -9699,7 +9871,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 219266,
       "name": "Mood 111",
       "url": "https://open.spotify.com/track/5ZcyKNKvNX5ZJofCwvTArU"
@@ -10537,6 +10709,32 @@
       "duration_ms": 188372,
       "name": "NSV",
       "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
+    },
+    {
+      "album": {
+        "name": "NUMBA 1",
+        "url": "https://open.spotify.com/album/6vsqF5uWNdWr8xkUUHJvtJ"
+      },
+      "artists": [
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "X-Man",
+          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "NUMBA 1",
+      "url": "https://open.spotify.com/track/37cfWnwQVm7vES4DrQOz9n"
     },
     {
       "album": {
@@ -11984,6 +12182,32 @@
     },
     {
       "album": {
+        "name": "Position",
+        "url": "https://open.spotify.com/album/3hjz0n4uH86XEROsOuuJsC"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        },
+        {
+          "name": "Mafio House",
+          "url": "https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140834,
+      "name": "Position",
+      "url": "https://open.spotify.com/track/3VrKl2d7BARsapf9IELR6x"
+    },
+    {
+      "album": {
         "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
         "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
       },
@@ -12682,6 +12906,28 @@
     },
     {
       "album": {
+        "name": "Risk (feat. Moliy)",
+        "url": "https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh"
+      },
+      "artists": [
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Risk (feat. Moliy)",
+      "url": "https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB"
+    },
+    {
+      "album": {
         "name": "Rive Sou Mwen",
         "url": "https://open.spotify.com/album/2cvNO3NpcAJDLT4xYB1oe7"
       },
@@ -13263,6 +13509,24 @@
       "duration_ms": 156428,
       "name": "Say Salud",
       "url": "https://open.spotify.com/track/3LaMO5jj65HG15NqlJsI3I"
+    },
+    {
+      "album": {
+        "name": "Say Yes",
+        "url": "https://open.spotify.com/album/2zhz35R1n3DwNbS6j98ueD"
+      },
+      "artists": [
+        {
+          "name": "Tifa",
+          "url": "https://open.spotify.com/artist/0SC0umMk5cSHBN8zAVc4TA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242648,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/7cN7nadgEpbvASzdml2WbB"
     },
     {
       "album": {
@@ -13905,6 +14169,24 @@
       "duration_ms": 173329,
       "name": "Sixteen",
       "url": "https://open.spotify.com/track/2HZphTYchmvBQL2ejpNSoq"
+    },
+    {
+      "album": {
+        "name": "Skin Out Di Red",
+        "url": "https://open.spotify.com/album/1QET6IVmDnpzXC3mbyi3AB"
+      },
+      "artists": [
+        {
+          "name": "Tina (Hoodcelebrityy)",
+          "url": "https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140944,
+      "name": "Skin Out Di Red",
+      "url": "https://open.spotify.com/track/7Mt9mLh72huTNBfLLU41ZL"
     },
     {
       "album": {
@@ -14579,7 +14861,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 382533,
       "name": "STINGRAY",
       "url": "https://open.spotify.com/track/4kqo0IFFJgf2pvvKQG5FUD"
@@ -15405,7 +15687,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 196000,
       "name": "That Thang (feat. Jada Kingdom)",
       "url": "https://open.spotify.com/track/4o74PvFcj51SGKRTZtzPXT"
@@ -15549,7 +15831,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 160239,
       "name": "THIS YEAR (Blessings) - Remix",
       "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
@@ -16059,7 +16341,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"

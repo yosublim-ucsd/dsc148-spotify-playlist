@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > co\-curadoria com IZA em celebração ao Mês Internacional da Mulher!
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,231 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,223 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 21 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
 | 22 | [Abismo](https://open.spotify.com/track/56JVZMurnXPoy1HbB4dcNV) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Abismo](https://open.spotify.com/album/4zYjj0oRteBn9X6QdCmU57) | 3:27 |
 | 23 | [SAUDADE DE VOCÊ](https://open.spotify.com/track/35GWqTSabXuqbfVxHeM8Or) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [SAUDADE DE VOCÊ](https://open.spotify.com/album/08lJ5G87tJYD81MOC0jSbo) | 3:55 |
-| 24 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
-| 25 | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/track/2BZvNHHo8bxS90MoKwRPAc) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/album/13Q7kbWqa4y3atnMHDKvuw) | 2:36 |
-| 26 | [OLHAR HD](https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Olhar HD](https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv) | 2:47 |
+| 24 | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/track/2BZvNHHo8bxS90MoKwRPAc) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/album/13Q7kbWqa4y3atnMHDKvuw) | 2:36 |
+| 25 | [OLHAR HD](https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Olhar HD](https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv) | 2:47 |
+| 26 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
 | 27 | [Baile Charme \- Ao Vivo](https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:30 |
 | 28 | [Melaço](https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7) | [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Melaço](https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT) | 2:43 |
 | 29 | [PREPARADA](https://open.spotify.com/track/1KRRVMgrqrwlAp4loIRPfE) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [PREPARADA](https://open.spotify.com/album/5XveVns4NMlHm6rQUlBqQP) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Todo Todo](https://open.spotify.com/track/5Jzo0zaXPQM7Zo6Dld3yip) | [Bia Maia](https://open.spotify.com/artist/3JWRPvTKuPzGYNjELUvQ5S) | [Todo Todo](https://open.spotify.com/album/534Fl2g5FpAPlJYhkhvTpH) | 3:09 |
 | 50 | [Me Leva Pra Casa](https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Me Leva Pra Casa](https://open.spotify.com/album/4Vf8NtFMlx2Ftw7iyymGZs) | 2:44 |
 
-Snapshot ID: `MCwwMWFkZDEwZTZjNTYxNjlkN2E3NjcyNzIyODRkZDIyYTBhNzcyMjIx`
+Snapshot ID: `MCxkM2Y2YTgzNTI0ZTFiNWNkOGU2Yjg1N2FlMjYwNGFkYTQyMmE4Yzc0`

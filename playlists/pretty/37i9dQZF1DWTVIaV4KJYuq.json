@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 685143,
+  "num_followers": 685217,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzJiZTViNDM2ZjkwZmMxMzE0MjM2N2MwYTA4YTk3NWNmZjlmOGZj",
+  "snapshot_id": "MCw4NDE5MzBiZTZjZTBjYTBjZTY5MTRiZjQzN2MwZDU0MDhhMWIxNTUw",
   "tracks": [
     {
       "added_at": "2024-01-09 15:49:37",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Between the Bars",
-        "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 260053,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 329086,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "Between the Bars",
+        "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 260053,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Tribute To (Reissue)",
-        "url": "https://open.spotify.com/album/0t7vqfhPuV8Zqs3l2G7lxA"
-      },
-      "artists": [
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        }
-      ],
-      "duration_ms": 213013,
-      "name": "My Sweet Lord",
-      "url": "https://open.spotify.com/track/6R5OmhK7k3kLCBpF7ZsRBS"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Right Down the Line",
         "url": "https://open.spotify.com/album/6muAMiiU4vXRCckuoT29Dl"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 206508,
       "name": "Right Down the Line",
       "url": "https://open.spotify.com/track/4zcnVd6AAUtklIm1F2LruM"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "Tribute To (Reissue)",
+        "url": "https://open.spotify.com/album/0t7vqfhPuV8Zqs3l2G7lxA"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "duration_ms": 213013,
+      "name": "My Sweet Lord",
+      "url": "https://open.spotify.com/track/6R5OmhK7k3kLCBpF7ZsRBS"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 212186,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
         "name": "Folkocracy",
         "url": "https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2"
       },
@@ -1819,34 +1835,18 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc"
+        "name": "More Than a Woman",
+        "url": "https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "The Shadowboxers",
+          "url": "https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4"
         }
       ],
-      "duration_ms": 212186,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
-        "name": "You'll Never Walk Alone",
-        "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 118476,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
+      "duration_ms": 224666,
+      "name": "More Than a Woman",
+      "url": "https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC"
     }
   ],
   "unique_name": "Classic Covers",

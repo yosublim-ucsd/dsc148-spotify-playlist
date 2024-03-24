@@ -4,7 +4,7 @@
 
 > indie tunes to make you shine bby :\)
 
-228 songs - 12 hr 46 min
+229 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [muero x ti](https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [muero x ti](https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4) | 3:57 | 2022-06-15 |  |
 | [muero x ti](https://open.spotify.com/track/195jacyDVOr5rZ0A1bewsX) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [muero x ti](https://open.spotify.com/album/6uvsxkxGnTmNWgjZ8QmvUG) | 3:57 | 2021-12-29 | 2022-07-29 |
 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2021-12-29 |  |
-| [Nada Que Me Guste Más](https://open.spotify.com/track/24ZdWvvNirs87VDxSMDU9u) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Nada Que Me Guste Más](https://open.spotify.com/album/1TvWgVEEt5UMrodGdtZ7O7) | 3:28 | 2023-10-06 |  |
+| [Nada Que Me Guste Más](https://open.spotify.com/track/24ZdWvvNirs87VDxSMDU9u) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Nada Que Me Guste Más](https://open.spotify.com/album/1TvWgVEEt5UMrodGdtZ7O7) | 3:28 | 2023-10-06 | 2024-03-24 |
+| [Nada Que Me Guste Más](https://open.spotify.com/track/3V3xs6NMWRxy958Gd23Lsp) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Más Normal De Lo Normal](https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh) | 3:28 | 2024-03-22 |  |
 | [Nada va a quedar](https://open.spotify.com/track/7JSuVdzogccF5zuudGEZAo) | [Jorge Prada](https://open.spotify.com/artist/7MNJy93yO4MA7MWAzfAMGo) | [Nada va a quedar](https://open.spotify.com/album/64zQT3GwCnWEDzvkVBRFaF) | 2:43 | 2023-11-09 | 2023-11-21 |
 | [Nawebona](https://open.spotify.com/track/699gDcpwPjEIySd499EG7s) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Nawebona](https://open.spotify.com/album/4m3GE6peH6zuduZJhnxNTw) | 3:15 | 2023-05-05 | 2023-09-03 |
 | [Neon](https://open.spotify.com/track/5D0cMtWT1lDXrEAM0ylifs) | [Patterns](https://open.spotify.com/artist/3tJL2NbxEnJgYjo3LBdDQ9) | [Neon](https://open.spotify.com/album/0AVAqTZaiAhJBAAPlFU7g4) | 4:09 | 2022-01-26 | 2022-12-07 |

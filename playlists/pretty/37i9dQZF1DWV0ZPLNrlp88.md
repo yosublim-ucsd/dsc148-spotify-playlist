@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,250 likes - 30 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,252 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 29 | [Long Goodbye](https://open.spotify.com/track/3rDMyMsgD4uRB9UqSRLGZW) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Long Goodbye](https://open.spotify.com/album/3UXqNCcxNrJ8RFpUjWPITi) | 5:04 |
 | 30 | [Haru Ni Sasowarete](https://open.spotify.com/track/349SgsalsvB3SdWSy7aVqO) | [peeto](https://open.spotify.com/artist/2o7CvH7hLj3c3XbkFmnLXA) | [Haru Ni Sasowarete](https://open.spotify.com/album/7I25nhKgcQ2lHzXM7Wj1xr) | 3:59 |
 
-Snapshot ID: `MCwxZTBlZGJkYjYyMDNlNDU3ODJlOGFmMjFkYWYxZTJiM2UwMmY2M2Vi`
+Snapshot ID: `MCxiNzJkZmFmYTg4MjdlYTdiM2Q0Mzg3MzA4MmQ0OTFiZTFjNDg2ZjIy`

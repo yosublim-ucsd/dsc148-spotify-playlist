@@ -1,12 +1,12 @@
 {
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
-  "num_followers": 131890,
+  "num_followers": 132021,
   "original_name": "Retro Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODFjZDI1NTIzYTdhMDZlMzk4Yjc4ZGEyZGIzMWZlM2RkYmRhZDI2",
+  "snapshot_id": "MCw3NjY0Y2RiYzMyMDFhZWM3MGFiZDFlOWVkNmMwMDM4NjlkNmY1MTRh",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 160760,
-      "name": "Put Me Thru",
-      "url": "https://open.spotify.com/track/70SjyVMzhmMeJQD8hOmIBp"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 269173,
       "name": "Turnin' Me Up",
       "url": "https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 160760,
+      "name": "Put Me Thru",
+      "url": "https://open.spotify.com/track/70SjyVMzhmMeJQD8hOmIBp"
     },
     {
       "added_at": "2022-12-13 18:45:33",
@@ -833,6 +833,22 @@
       "url": "https://open.spotify.com/track/3wZqS73n0ivz3o6yPZPjxI"
     },
     {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Call It Home, Vol. 1",
+        "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 275346,
+      "name": "Live Learn",
+      "url": "https://open.spotify.com/track/1pRjwKEEx9ddfevbXNyJdi"
+    },
+    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "It's Only Us",
@@ -851,22 +867,6 @@
       "duration_ms": 298973,
       "name": "It's Only Us",
       "url": "https://open.spotify.com/track/5z4Yope4ol84bdZtw1Eo4D"
-    },
-    {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Call It Home, Vol. 1",
-        "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 275346,
-      "name": "Live Learn",
-      "url": "https://open.spotify.com/track/1pRjwKEEx9ddfevbXNyJdi"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Black Joe Lewis & The Honeybears",
-        "url": "https://open.spotify.com/album/090X467JS4xj4diMdewTZs"
-      },
-      "artists": [
-        {
-          "name": "Black Joe Lewis & The Honeybears",
-          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
-        }
-      ],
-      "duration_ms": 164306,
-      "name": "Bitch, I Love You",
-      "url": "https://open.spotify.com/track/6XxsaUGWRXc30HgewJ10M8"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Young Sick Camellia",
         "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 290422,
       "name": "GotItBad",
       "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Black Joe Lewis & The Honeybears",
+        "url": "https://open.spotify.com/album/090X467JS4xj4diMdewTZs"
+      },
+      "artists": [
+        {
+          "name": "Black Joe Lewis & The Honeybears",
+          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
+        }
+      ],
+      "duration_ms": 164306,
+      "name": "Bitch, I Love You",
+      "url": "https://open.spotify.com/track/6XxsaUGWRXc30HgewJ10M8"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1173,6 +1173,22 @@
       "url": "https://open.spotify.com/track/0Y36El0k8fS2myogTVGXKP"
     },
     {
+      "added_at": "2023-07-11 18:58:28",
+      "album": {
+        "name": "A River's Invitation",
+        "url": "https://open.spotify.com/album/6VgqRIhVmPYJwgacWQqhFU"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 214306,
+      "name": "When It Was Wrong",
+      "url": "https://open.spotify.com/track/07idVCxylGXwdspLpgxkf7"
+    },
+    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Black Velvet",
@@ -1191,22 +1207,6 @@
       "duration_ms": 168053,
       "name": "Can't Fight the Feeling",
       "url": "https://open.spotify.com/track/419J8whWlrbG1sA0ezN0IV"
-    },
-    {
-      "added_at": "2023-07-11 18:58:28",
-      "album": {
-        "name": "A River's Invitation",
-        "url": "https://open.spotify.com/album/6VgqRIhVmPYJwgacWQqhFU"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "When It Was Wrong",
-      "url": "https://open.spotify.com/track/07idVCxylGXwdspLpgxkf7"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1315,30 +1315,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM"
-      },
-      "artists": [
-        {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        },
-        {
-          "name": "The Sha La Das",
-          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
-        }
-      ],
-      "duration_ms": 208418,
-      "name": "Things We Do for Love",
-      "url": "https://open.spotify.com/track/6f3hzGasIjbHOjvwmylCze"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Face Your Fear",
         "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
       },
@@ -1367,6 +1343,30 @@
       "duration_ms": 207524,
       "name": "If It Ain't Broke",
       "url": "https://open.spotify.com/track/1j0HKSgtePIKdk8HNFlmkX"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        },
+        {
+          "name": "The Sha La Das",
+          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
+        }
+      ],
+      "duration_ms": 208418,
+      "name": "Things We Do for Love",
+      "url": "https://open.spotify.com/track/6f3hzGasIjbHOjvwmylCze"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1469,6 +1469,22 @@
       "url": "https://open.spotify.com/track/1dy31zSEQsyAv4HVKRmUOB"
     },
     {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "If Words Were Flowers",
+        "url": "https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Can't Hide It",
+      "url": "https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7"
+    },
+    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Something to Say",
@@ -1487,22 +1503,6 @@
       "duration_ms": 232040,
       "name": "Happy Days",
       "url": "https://open.spotify.com/track/0XXgkLA2n6wpTlMG3V3VDm"
-    },
-    {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "If Words Were Flowers",
-        "url": "https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "Can't Hide It",
-      "url": "https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "Underneath the Surface",
+        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "duration_ms": 254680,
+      "name": "Cards",
+      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "Homemade Lemonade",
         "url": "https://open.spotify.com/album/3hfSYIoxxgWQ8JtFVEuvQm"
       },
@@ -1585,20 +1601,20 @@
       "url": "https://open.spotify.com/track/73v1hXWxpIHMPfVG6tnPI7"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
+      "added_at": "2022-12-13 18:45:33",
       "album": {
-        "name": "Underneath the Surface",
-        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
+        "name": "Fighting for Peace",
+        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
       },
       "artists": [
         {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         }
       ],
-      "duration_ms": 254680,
-      "name": "Cards",
-      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
+      "duration_ms": 202058,
+      "name": "Fighting for Peace",
+      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -1631,22 +1647,6 @@
       "duration_ms": 199026,
       "name": "Someday",
       "url": "https://open.spotify.com/track/41xg3SjdwFyAp0kao72944"
-    },
-    {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Fighting for Peace",
-        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Fighting for Peace",
-      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
     },
     {
       "added_at": "2022-12-13 18:45:33",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "Hit the Floor",
+        "url": "https://open.spotify.com/album/5LB6qc1BVvnigKvBeUIoqO"
+      },
+      "artists": [
+        {
+          "name": "Breakestra",
+          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/6MfFc289i2TeCvYDDXmjui"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "Medicine Man",
         "url": "https://open.spotify.com/album/4lWBwTzsdHz0fZqAl369FL"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 268040,
       "name": "The Wilhelm Scream (feat. Meg Washington)",
       "url": "https://open.spotify.com/track/1GShu7jYDAFp1YqZgD5xtC"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Hit the Floor",
-        "url": "https://open.spotify.com/album/5LB6qc1BVvnigKvBeUIoqO"
-      },
-      "artists": [
-        {
-          "name": "Breakestra",
-          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/6MfFc289i2TeCvYDDXmjui"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1983,18 +1983,18 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "The Long - EP",
-        "url": "https://open.spotify.com/album/0UO14h8YsBVpz9GgkllwMo"
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/34Qst6FA4Af9CogPQN3LSv"
       },
       "artists": [
         {
-          "name": "Eric Kufs",
-          "url": "https://open.spotify.com/artist/18KeavvXnAdX2lYib7wgyr"
+          "name": "Breakestra",
+          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
         }
       ],
-      "duration_ms": 257778,
-      "name": "Drop of Honey",
-      "url": "https://open.spotify.com/track/6e2RwVYEGnsH20GsRBVlNW"
+      "duration_ms": 266186,
+      "name": "Come On Over feat. Afrodyete",
+      "url": "https://open.spotify.com/track/4Q0Qx5khaN6qJZ5AN7durj"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -2015,18 +2015,18 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/1wtPKN1ppxjJT7ywdcnvzy"
+        "name": "The Long - EP",
+        "url": "https://open.spotify.com/album/0UO14h8YsBVpz9GgkllwMo"
       },
       "artists": [
         {
-          "name": "Jeangu Macrooy",
-          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+          "name": "Eric Kufs",
+          "url": "https://open.spotify.com/artist/18KeavvXnAdX2lYib7wgyr"
         }
       ],
-      "duration_ms": 203488,
-      "name": "High On You",
-      "url": "https://open.spotify.com/track/6Vbv1NYbnegCxzWx1hC65b"
+      "duration_ms": 257778,
+      "name": "Drop of Honey",
+      "url": "https://open.spotify.com/track/6e2RwVYEGnsH20GsRBVlNW"
     }
   ],
   "unique_name": "Retro Road Trip",

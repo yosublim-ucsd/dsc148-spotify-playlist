@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: WOLVEs GROOVY
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,923 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,929 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [春の夜](https://open.spotify.com/track/4gdbnu2YHpYoBRcHTnOmxh) | [東京センチメンタル馬鹿野郎](https://open.spotify.com/artist/5nCYpkieNwNDzzxKnuSqbI) | [春の夜](https://open.spotify.com/album/5Ysxi8PGQJYd2vIq6GlBZP) | 5:03 |
 | 80 | [dream of dreaming](https://open.spotify.com/track/6siPLNrUpbSKo7JNicBmq9) | [capo2](https://open.spotify.com/artist/46lQpGZYqzkNtdVXhiTBal), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [dream of dreaming](https://open.spotify.com/album/2k5cDqHaHcjg6USUCuzTEq) | 3:08 |
 
-Snapshot ID: `MCw5YmJjODMyNDA0MGM5MzhmMWExM2U0NGY5ZDE3ZWU4N2Q1Y2M1MWMw`
+Snapshot ID: `MCwxODYxODQ0N2RhNGVkNGI1Y2JkN2VmOWI3OThlNTE4ZDJlODU3OGJl`

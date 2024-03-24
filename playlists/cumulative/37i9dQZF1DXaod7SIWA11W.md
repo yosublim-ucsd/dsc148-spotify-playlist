@@ -4,11 +4,12 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="spotify:artist:03qM4LmPCrR7CuHTE0WAIW">Koryn Hawthorne</a>
 
-350 songs - 21 hr 19 min
+351 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Names](https://open.spotify.com/track/740a4rwTRLEUTRP0Z1iwVL) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Revive](https://open.spotify.com/album/16JL6rDC3VCsKJkIciBXUP) | 3:56 | 2024-03-20 |  |
+| [365](https://open.spotify.com/track/6jXGfwxPCXDzKa4JS9ySR1) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg) | [365](https://open.spotify.com/album/6Yj082yvPaZh6Zut0es12f) | 3:16 | 2024-03-20 |  |
 | [6:41PM](https://open.spotify.com/track/0QHQXfQJWYHNqiCAerKsVY) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [6:41PM](https://open.spotify.com/album/3vJyEXyyULmw8gupmsV58o) | 2:46 | 2024-03-20 |  |
 | [828](https://open.spotify.com/track/0c2yBZksQI0aW0ARsMO6yS) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [828](https://open.spotify.com/album/03YoXLU2Aw8y5u2xVJVTUE) | 5:26 | 2024-02-02 |  |
 | [Abba](https://open.spotify.com/track/7giTK6DqwQcqIFWFLPfx75) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Forever](https://open.spotify.com/album/0BhDTtUjBtRHpovk2MbIK7) | 3:08 | 2022-12-16 | 2023-12-16 |
@@ -268,7 +269,7 @@
 | [Rocky Road](https://open.spotify.com/track/4FGj20G3ceuu0y5tdPPcPl) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Rocky Road](https://open.spotify.com/album/0aJGfLXFLhudd3uUOAleIK) | 2:33 | 2022-09-03 | 2022-12-17 |
 | [Rollin'](https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Rollin'](https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN) | 3:18 | 2023-02-02 |  |
 | [Ruins](https://open.spotify.com/track/6IXuHgU2eVFswThevTgJWS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Ruins](https://open.spotify.com/album/1BSsNsRslloDm0wZ4Aoznl) | 4:33 | 2022-02-18 | 2022-05-24 |
-| [Safe](https://open.spotify.com/track/1mkANYnNwWgdBhC81QQdZz) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [The Prodigal Son](https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ) | 3:10 | 2023-12-15 |  |
+| [Safe](https://open.spotify.com/track/1mkANYnNwWgdBhC81QQdZz) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [The Prodigal Son](https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ) | 3:10 | 2023-12-15 | 2024-03-24 |
 | [Saved You Too](https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ) | [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t) | [Saved You Too](https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9) | 1:58 | 2024-03-20 |  |
 | [Sho' Been Good](https://open.spotify.com/track/4rG8r3XYn7FUH9t6An0tLD) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Sho' Been Good](https://open.spotify.com/album/1QCLxqOKzbrWv68bl8ithr) | 3:45 | 2024-02-02 | 2024-03-21 |
 | [SLEEPIN!](https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [SLEEPIN!](https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P) | 2:40 | 2022-09-30 | 2023-02-03 |

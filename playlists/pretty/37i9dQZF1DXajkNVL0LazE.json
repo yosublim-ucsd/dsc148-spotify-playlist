@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 92991,
+  "num_followers": 93089,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDIzOWYwMmY2YThmOTM3ZjJiZDgyNDU3NGQ0ZjQ5ZTU1NmI0N2Ri",
+  "snapshot_id": "MCwxM2Q1NTNiYjUyYzk1NmYzMDUyNjJmY2M0MmE3NThiYjhkMjM0OGQ5",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Ghosts of the Great Highway",
-        "url": "https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ"
-      },
-      "artists": [
-        {
-          "name": "Sun Kil Moon",
-          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Carry Me Ohio",
-      "url": "https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "All Hail West Texas (Remastered)",
         "url": "https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 156960,
       "name": "The Best Ever Death Metal Band in Denton",
       "url": "https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Ghosts of the Great Highway",
+        "url": "https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ"
+      },
+      "artists": [
+        {
+          "name": "Sun Kil Moon",
+          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Carry Me Ohio",
+      "url": "https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Dongs Of Sevotion",
-        "url": "https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27"
-      },
-      "artists": [
-        {
-          "name": "Smog",
-          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
-        }
-      ],
-      "duration_ms": 330133,
-      "name": "Dress Sexy At My Funeral",
-      "url": "https://open.spotify.com/track/2lTnA8Z6rmjIvQRcEy3XLH"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3YDgcFDTqU755BsfAtBVQS"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 298666,
       "name": "Inside Of Love",
       "url": "https://open.spotify.com/track/3xWHYLJMnhwpXYb3oq1KU3"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Dongs Of Sevotion",
+        "url": "https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27"
+      },
+      "artists": [
+        {
+          "name": "Smog",
+          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
+        }
+      ],
+      "duration_ms": 330133,
+      "name": "Dress Sexy At My Funeral",
+      "url": "https://open.spotify.com/track/2lTnA8Z6rmjIvQRcEy3XLH"
     },
     {
       "added_at": "2022-02-04 22:01:34",

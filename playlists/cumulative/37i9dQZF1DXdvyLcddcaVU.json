@@ -3757,6 +3757,24 @@
     },
     {
       "album": {
+        "name": "Sapte trandafiri",
+        "url": "https://open.spotify.com/album/6Pr1PMiL3fc6EHRmRVRmoh"
+      },
+      "artists": [
+        {
+          "name": "Ionut Cercel",
+          "url": "https://open.spotify.com/artist/3nEGbFFQiHXnjhbJVwzega"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245026,
+      "name": "Made in Romania",
+      "url": "https://open.spotify.com/track/58U2OeaIAkQ6scuGNVazuT"
+    },
+    {
+      "album": {
         "name": "Made in Romeni\u00e1 (Sahmiir Officiall Remix)",
         "url": "https://open.spotify.com/album/2Kn8N2Et2cb3xny4jjBuBy"
       },
@@ -3772,7 +3790,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 243600,
       "name": "Made in Romeni\u00e1 - Sahmiir Officiall Remix",
       "url": "https://open.spotify.com/track/3Er2CGuUZlGKQ1puctyYsB"

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 35418,
+  "num_followers": 35440,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDZkNTRhMzIyMzQ1Zjg5NmYzOWIwZjNjNzQwMGVjMzQ0NzA4MTQz",
+  "snapshot_id": "MCwyY2YwZjkyNjllZWMzYjBlYmFjZDA2Mzc0ZDc4MjFmYTcyMjA2ZDYz",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Stay Down",
-        "url": "https://open.spotify.com/album/3bhiDPhFZQWkuH5YXMsN22"
-      },
-      "artists": [
-        {
-          "name": "Lewie",
-          "url": "https://open.spotify.com/artist/7tvCXmeh7MlNtmfKMN2H8Q"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Stay Down",
-      "url": "https://open.spotify.com/track/1avJ6Pip6R7XPYbgbx6VA5"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 235720,
       "name": "Give It to Me",
       "url": "https://open.spotify.com/track/4w7P5OaLfcinkb0RTMNxqh"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "Stay Down",
+        "url": "https://open.spotify.com/album/3bhiDPhFZQWkuH5YXMsN22"
+      },
+      "artists": [
+        {
+          "name": "Lewie",
+          "url": "https://open.spotify.com/artist/7tvCXmeh7MlNtmfKMN2H8Q"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Stay Down",
+      "url": "https://open.spotify.com/track/1avJ6Pip6R7XPYbgbx6VA5"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
+        "name": "MOMMAE",
+        "url": "https://open.spotify.com/album/1kgzGqeJbY7gwiheabVk1L"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 226278,
+      "name": "Sex Trip",
+      "url": "https://open.spotify.com/track/6dJ4jLQMM8SXGYrM0eRCNm"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
         "name": "SLAY HOUSE REMIX",
         "url": "https://open.spotify.com/album/1nXs500bOOyoZJiLjQvD0b"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 459853,
       "name": "BLUE CHECK REMIX (Feat. Blase, 365LIT, JUPITER, KHAN, XINSAYNE, Roh Yun Ha, sokodomo, KOALA, Jambino, Lee Young Ji, Chillin Homie, NSW yoon)",
       "url": "https://open.spotify.com/track/2mqnyDbLObaEBnvGv5Ok5Z"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "MOMMAE",
-        "url": "https://open.spotify.com/album/1kgzGqeJbY7gwiheabVk1L"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 226278,
-      "name": "Sex Trip",
-      "url": "https://open.spotify.com/track/6dJ4jLQMM8SXGYrM0eRCNm"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 209633,
-      "name": "\uacc1\uc5d0 \uc788\uc5b4\uc8fc\uae38",
-      "url": "https://open.spotify.com/track/0nHB8bNZtg3BuAkWr7uJNc"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 280320,
       "name": "How We Rock",
       "url": "https://open.spotify.com/track/7kvmOl9he8v0649CG1KjLL"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 209633,
+      "name": "\uacc1\uc5d0 \uc788\uc5b4\uc8fc\uae38",
+      "url": "https://open.spotify.com/track/0nHB8bNZtg3BuAkWr7uJNc"
     },
     {
       "added_at": "2023-11-27 14:05:19",

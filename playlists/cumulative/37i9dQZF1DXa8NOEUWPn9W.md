@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Cloonee.
 
-833 songs - 2 day 1 hr 46 min
+833 songs - 2 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -793,7 +793,7 @@
 | [We Don’t Need \- Club Edit](https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need \(Club Edit\)](https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7) | 2:38 | 2022-04-17 | 2023-06-24 |
 | [We Give Thee Honor](https://open.spotify.com/track/0ZNail0sBLDyANc8rboHhs) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [We Give Thee Honor / Makes Me Wanna](https://open.spotify.com/album/40wa0Bn4YAM1uPCt0CqVsp) | 3:11 | 2023-02-17 | 2023-06-24 |
 | [We Groovin \(with Jazzy\)](https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin \(with Jazzy\)](https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH) | 3:01 | 2024-03-01 |  |
-| [We Like To Party \- Rework](https://open.spotify.com/track/4SPFAQb1lkCOOcPsKdi80J) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [ForgiveMeTommy!](https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA) | [We Like To Party \(Rework\)](https://open.spotify.com/album/7gafiaoKORqaJ3VwYw8UAu) | 3:13 | 2024-03-22 |  |
+| [We Like To Party \- Rework](https://open.spotify.com/track/4SPFAQb1lkCOOcPsKdi80J) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [ForgiveMeTommy!](https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA) | [We Like To Party \(Rework\)](https://open.spotify.com/album/7gafiaoKORqaJ3VwYw8UAu) | 2:24 | 2024-03-22 |  |
 | [We Still Believe](https://open.spotify.com/track/0uoaYBn3prfGyWQR59wkeQ) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jamie Principle](https://open.spotify.com/artist/5obQFNrkFoWB51hm1JTHMw) | [We Still Believe](https://open.spotify.com/album/4U5Eel8ZnGcI15TLj33QYe) | 3:50 | 2023-02-17 | 2023-02-25 |
 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 | 2024-02-16 |  |
 | [Weapon of Choice \(feat\. Bootsy Collins\) \- KiNK Remix](https://open.spotify.com/track/44BR4jcL2Sz0gE5htNInkf) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Weapon of Choice \(feat\. Bootsy Collins\) \[KiNK Remixes\]](https://open.spotify.com/album/7inkdWfOlzP95EOS717CVW) | 5:27 | 2021-07-04 | 2022-04-19 |

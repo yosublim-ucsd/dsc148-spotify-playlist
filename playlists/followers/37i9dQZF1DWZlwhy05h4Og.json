@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 51193,
+  "2024-03-24": 51225,
   "date_first_scraped": "2023-03-23",
   "description": "The sweetest bops. Cover: WENDY",
   "name": "SUGAR",
@@ -1845,7 +1845,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 159080,
       "name": "Perfect Night",
       "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
@@ -2155,6 +2155,24 @@
       "duration_ms": 217258,
       "name": "SHOULD I BE OK?",
       "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
+    },
+    {
+      "album": {
+        "name": "Smart (Remixes)",
+        "url": "https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166384,
+      "name": "Smart (English ver.)",
+      "url": "https://open.spotify.com/track/0Q8NdNYJUr07b2ZX4y8EXR"
     },
     {
       "album": {

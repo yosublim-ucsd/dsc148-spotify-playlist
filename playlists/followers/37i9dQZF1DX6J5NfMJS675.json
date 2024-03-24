@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 2409814,
+  "2024-03-24": 2410403,
   "date_first_scraped": "2020-04-18",
   "description": "Welcome to the dark side of the club.",
   "name": "TECHNO BUNKER",
@@ -429,6 +429,24 @@
       "duration_ms": 352617,
       "name": "Adrenaline Machine",
       "url": "https://open.spotify.com/track/0Z3Gina2XKfyjv46VJEInp"
+    },
+    {
+      "album": {
+        "name": "ADSR",
+        "url": "https://open.spotify.com/album/2EfUzfZYAFNTrowrzyMh1C"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261617,
+      "name": "ADSR",
+      "url": "https://open.spotify.com/track/57ZYpG5xaMC5kpimwjztr3"
     },
     {
       "album": {
@@ -1306,6 +1324,24 @@
     },
     {
       "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/3IUe0mNaxYzyzSuKCm6CRn"
+      },
+      "artists": [
+        {
+          "name": "Anna Tur",
+          "url": "https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/2EeVfaoyAjOWQjI4yv3X0e"
+    },
+    {
+      "album": {
         "name": "Bonafide",
         "url": "https://open.spotify.com/album/2VQST6FOP9ggFgxQEq3T29"
       },
@@ -1317,7 +1353,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 277333,
       "name": "Bonafide",
       "url": "https://open.spotify.com/track/1GDhF1mSlxcsFFSOX9hsRj"
@@ -1383,6 +1419,24 @@
     {
       "album": {
         "name": "Breathe",
+        "url": "https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223248,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji"
+    },
+    {
+      "album": {
+        "name": "Breathe",
         "url": "https://open.spotify.com/album/4PvcOkn8eOkoWwnxs8oKWg"
       },
       "artists": [
@@ -1411,7 +1465,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 326885,
       "name": "Brennende Erde",
       "url": "https://open.spotify.com/track/5TnFD95yJxM3z2Mem86Dcg"
@@ -3413,6 +3467,24 @@
       "duration_ms": 187583,
       "name": "Eckstein Eckstein",
       "url": "https://open.spotify.com/track/2EMukdf4zK0H27I35Vvpmi"
+    },
+    {
+      "album": {
+        "name": "Ego Is The Enemy",
+        "url": "https://open.spotify.com/album/7FrQOPp4y98Cvf6NXQfggr"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "Ego Is The Enemy",
+      "url": "https://open.spotify.com/track/2omtwYPfscqQc2XjOSmJOy"
     },
     {
       "album": {
@@ -6466,6 +6538,24 @@
     },
     {
       "album": {
+        "name": "Rave Luv",
+        "url": "https://open.spotify.com/album/52pIgveH3h0BFRiEn2A78a"
+      },
+      "artists": [
+        {
+          "name": "Ellen Allien",
+          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313500,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/3MCDgpQ2QV0tZf5v1z8f4Z"
+    },
+    {
+      "album": {
         "name": "RK5",
         "url": "https://open.spotify.com/album/4wxcLVfRrCebsZaBdBctne"
       },
@@ -7029,6 +7119,24 @@
       "duration_ms": 399000,
       "name": "Mission District",
       "url": "https://open.spotify.com/track/2RiZgmjVu0rcRUfguevcAy"
+    },
+    {
+      "album": {
+        "name": "MOraaaa",
+        "url": "https://open.spotify.com/album/3fpIkXNqg8X8F09nhkewCf"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245142,
+      "name": "MOraaaa",
+      "url": "https://open.spotify.com/track/0ChdUVqCF3hzzirWAhiX7t"
     },
     {
       "album": {
@@ -8019,7 +8127,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 375523,
       "name": "Paulus",
       "url": "https://open.spotify.com/track/4LNMpGnLPMy44Ojm1ME9I9"
@@ -8226,6 +8334,24 @@
     },
     {
       "album": {
+        "name": "Play My Game",
+        "url": "https://open.spotify.com/album/2GBAmjW60rUzK5he5RMV9S"
+      },
+      "artists": [
+        {
+          "name": "Spartaque",
+          "url": "https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "Play My Game",
+      "url": "https://open.spotify.com/track/7LrXEv1zmvkdiU1XHeJ2AO"
+    },
+    {
+      "album": {
         "name": "Pop Gun",
         "url": "https://open.spotify.com/album/0UevOiKSqBIWYqURvqA1it"
       },
@@ -8407,6 +8533,24 @@
       "duration_ms": 411433,
       "name": "Purpose Of Life",
       "url": "https://open.spotify.com/track/7HezUa1nL8m0awuNpNWtnL"
+    },
+    {
+      "album": {
+        "name": "Push",
+        "url": "https://open.spotify.com/album/7iWsiflV8QGYjsxJ9nHOPG"
+      },
+      "artists": [
+        {
+          "name": "Martin Books",
+          "url": "https://open.spotify.com/artist/7gljeFp0b7NCkCg6G5O7u6"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/3Cl9gRgqS1CjGWJrjCd251"
     },
     {
       "album": {
@@ -8755,6 +8899,24 @@
       "duration_ms": 401165,
       "name": "Reddo",
       "url": "https://open.spotify.com/track/6TDGXhuLnKwiSQ5WxRufAo"
+    },
+    {
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/5ftHU8c3OPkWMmKdtIll18"
+      },
+      "artists": [
+        {
+          "name": "FJAAK",
+          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323829,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/5bVBdOVX77LPQLUKm8MPkj"
     },
     {
       "album": {
@@ -9149,6 +9311,24 @@
       "duration_ms": 181054,
       "name": "Rudeboi",
       "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
+    },
+    {
+      "album": {
+        "name": "Running Out Of Time",
+        "url": "https://open.spotify.com/album/6tkcZb0pHyJp9q0lw7WIQ4"
+      },
+      "artists": [
+        {
+          "name": "Julien Riess",
+          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295152,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/1vKVjhIaV2Gyl8U0yHtMWu"
     },
     {
       "album": {
@@ -9947,7 +10127,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 341064,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/41b4lcycluHxxhQJ1Xtb1o"
@@ -10467,7 +10647,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 323636,
       "name": "Thanos",
       "url": "https://open.spotify.com/track/3rN3iZWMekzls3yWUCbMni"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Boistory
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,523 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,536 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 16 | [Blood Tonic](https://open.spotify.com/track/5JiTgli1D3CpDsFpDFDgyJ) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Blood Tonic](https://open.spotify.com/album/7kIoxsjk34Il4LwfY89E4A) | 2:47 |
 | 17 | [Swear, I Tried](https://open.spotify.com/track/4RGWcopCHddLdBw6bvznOn) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6) | [Swear, I Tried](https://open.spotify.com/album/5z5GhsGANxjU9jVoCrBR8W) | 2:28 |
 | 18 | [Tension](https://open.spotify.com/track/3tZsUsu3PZ1V48hpApVOFF) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Fed Up / Tension](https://open.spotify.com/album/12l63NT7yZ7bFf0mRJ9Y0l) | 2:36 |
-| 19 | [Silly Nigga 2](https://open.spotify.com/track/5UnZUMR2DZ5h2bgYlP9zEw) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [Steph](https://open.spotify.com/artist/6UPkSQN7knaKxLngLB4wIE) | [Silly Nigga](https://open.spotify.com/album/705KvjIMj0OvDjb0skxNKa) | 2:55 |
+| 19 | [Silly Nigga 2](https://open.spotify.com/track/5UnZUMR2DZ5h2bgYlP9zEw) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [Steph](https://open.spotify.com/artist/7noY4JrCn1YjpKEobbIo6C) | [Silly Nigga](https://open.spotify.com/album/705KvjIMj0OvDjb0skxNKa) | 2:55 |
 | 20 | [Running Over](https://open.spotify.com/track/7ddO2IAJRp8JUNpISskFMG) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [THE MANDATE](https://open.spotify.com/album/2TwGUBLCc4gMW37ANmWdvi) | 2:46 |
 | 21 | [I'm Here](https://open.spotify.com/track/7joutRkcXCkujSPf9x5WB3) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [I'm Here](https://open.spotify.com/album/2Rj3tI88QYmUcSiC1Mqsp6) | 3:25 |
 | 22 | [Word Up](https://open.spotify.com/track/589ZFynTSRwiASVGyWqim8) | [Marioking XXXL](https://open.spotify.com/artist/4EFTG0qBZ4unFS4ovjeNtm) | [High Landn](https://open.spotify.com/album/0kL4omDuEk3KRAkjOyvSau) | 2:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [MY EX](https://open.spotify.com/track/6s4xvKwFL4x5gueZUtE2Cp) | [Tobi Adu](https://open.spotify.com/artist/16o16zAhWJZGxny53h8TaU) | [MY EX + DELILAH](https://open.spotify.com/album/7geTCSDldvSXv9VhNypsnm) | 2:41 |
 | 80 | [Proverbs 31 Woman](https://open.spotify.com/track/4fi5eKXzsVMDo5lSxqWx6X) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Proverbs 31 Woman](https://open.spotify.com/album/4ZFXhqhJQ01oYZiMk8pC63) | 2:47 |
 
-Snapshot ID: `MCwwNDUwZDkyMWQ3OGQ5ZDI3NmZjZTJlOWI0OWRjZDY2NTZkMzU4YjYw`
+Snapshot ID: `MCxjYTdjYTY2NGQ2ZDFmMmQ4NDZjYzdjMmVlNTNiMjIzOTc1NjgxYjky`

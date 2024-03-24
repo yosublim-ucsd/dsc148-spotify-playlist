@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 1927575,
+  "2024-03-24": 1927802,
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring Jazzy & Jamie Jones.",
+  "description": "House music lives here. United under one roof, featuring Cloonee.",
   "name": "Housewerk",
   "tracks": [
     {
@@ -11842,7 +11842,7 @@
     },
     {
       "album": {
-        "name": "Patadas de Ahogado / LATIN MAFIA (Rework)",
+        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
         "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
       },
       "artists": [
@@ -11855,7 +11855,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186341,
-      "name": "Patadas de Ahogado / LATIN MAFIA - Rework",
+      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
@@ -12633,7 +12633,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 163409,
       "name": "Ride Out",
       "url": "https://open.spotify.com/track/7o4psLIggxOLOIW1DOfzqM"
@@ -14191,7 +14191,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 193075,
       "name": "Stop Time",
       "url": "https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ"
@@ -14427,6 +14427,36 @@
       "duration_ms": 176372,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
+    },
+    {
+      "album": {
+        "name": "TAKA",
+        "url": "https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "contra",
+          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "TAKA",
+      "url": "https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil"
     },
     {
       "album": {
@@ -16479,6 +16509,28 @@
       "duration_ms": 181935,
       "name": "We Groovin (with Jazzy)",
       "url": "https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv"
+    },
+    {
+      "album": {
+        "name": "We Like To Party (Rework)",
+        "url": "https://open.spotify.com/album/7gafiaoKORqaJ3VwYw8UAu"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "ForgiveMeTommy!",
+          "url": "https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193541,
+      "name": "We Like To Party - Rework",
+      "url": "https://open.spotify.com/track/4SPFAQb1lkCOOcPsKdi80J"
     },
     {
       "album": {

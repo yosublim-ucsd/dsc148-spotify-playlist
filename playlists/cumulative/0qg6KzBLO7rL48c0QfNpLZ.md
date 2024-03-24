@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-235 songs - 10 hr 47 min
+237 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [BLUE](https://open.spotify.com/track/79Vz5MNH7Qe4F7hPKT8tPz) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [BLUE](https://open.spotify.com/album/1WjspDqwIlXKkI7QWGifZ2) | 2:47 | 2022-07-20 |  |
 | [Blue Jeans](https://open.spotify.com/track/5ZlpYvcud5gxmAbbuLDiYR) | [Conner Fox](https://open.spotify.com/artist/5pzmyLQtEyHVHfz9snWDmn) | [Blue Jeans](https://open.spotify.com/album/5bTFFjJBr95X5I37EyjwEi) | 2:09 | 2024-03-01 |  |
 | [Breaking Me](https://open.spotify.com/track/2tRJVRP57kSSRDJTIcv80f) | [Alosa](https://open.spotify.com/artist/7tLZj7bBitwASeMgNlqWVC), [Catching Sunrises](https://open.spotify.com/artist/1ZRHglRvKYNVcLjp1YAsSz) | [Breaking Me](https://open.spotify.com/album/69HKdAFZWEphSo2IOxgK5z) | 2:58 | 2024-01-26 | 2024-03-02 |
+| [Breathing](https://open.spotify.com/track/41RbAt0rssNBvW6J8M2nFS) | [the Giver](https://open.spotify.com/artist/7a280rjEjRHBvzYpCbFkc9) | [Breathing](https://open.spotify.com/album/1VOqXx7mOhXTf2AIVZ9ent) | 2:41 | 2024-03-23 |  |
 | [Brighter Days](https://open.spotify.com/track/0HBSO5V3OGp9YYNxu8vfM1) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt), [SAINT WKND](https://open.spotify.com/artist/4vO1cl2ndGrUPSl6IYTHs6), [lune et soleil](https://open.spotify.com/artist/43Nm0JAuMOnHVmFlaLRR3z) | [Brighter Days](https://open.spotify.com/album/3fD6AG4DJ7VK2df22HPvmj) | 1:57 | 2024-03-08 |  |
 | [Brown Eyed Girl](https://open.spotify.com/track/6vqqKcmf2gV1qcR3tfvULK) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Brown Eyed Girl](https://open.spotify.com/album/16zEG3fRYo75oTNtUdcJ3o) | 2:37 | 2023-12-21 |  |
 | [Burn](https://open.spotify.com/track/2gcOD9Q2iWBVxZEeZiMWig) | [Fdma](https://open.spotify.com/artist/0hPAeoseSOSk4S7CWkU6vt), [Freja](https://open.spotify.com/artist/0b39WnHUSyFv0h76cjpgzt) | [Burn](https://open.spotify.com/album/10oqy6CXg2JR8Z4NPzPATo) | 2:35 | 2024-02-23 |  |
@@ -100,6 +101,7 @@
 | [Honest](https://open.spotify.com/track/0jb7asCfeo6sZZ2BVsUjxn) | [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Honest](https://open.spotify.com/album/0B0bRT09B8QF1RTQAgmIw9) | 3:20 | 2024-03-15 |  |
 | [Hope](https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:00 | 2024-01-02 |  |
 | [How Hard I Try](https://open.spotify.com/track/0OfZ9imMwFU03zc2wl8pBt) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Dawn EP](https://open.spotify.com/album/6r12F8ZnMQxGdUVBWoBjqM) | 3:18 | 2023-12-29 |  |
+| [I Ain't Worried](https://open.spotify.com/track/2rHPxiKqtpUZeYDQ62RD7S) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ), [Mike Archangelo](https://open.spotify.com/artist/57s7w1webL3pulJxxZVILi) | [I Ain't Worried](https://open.spotify.com/album/1ktiuWhPbdzM2VnhgJMoYS) | 2:15 | 2024-03-23 |  |
 | [I Can't Be](https://open.spotify.com/track/5UkOSMN4mcGZ4Y1StTkoUw) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [I Can't Be](https://open.spotify.com/album/4kySdq1tnWOcPIJcqzLSgm) | 2:24 | 2024-01-18 |  |
 | [i let you](https://open.spotify.com/track/7Iwc8sxR4SRiwMfitkuR85) | [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [i let you](https://open.spotify.com/album/4xIjNp9VOESGgR29hXgGAU) | 1:56 | 2024-01-14 |  |
 | [I Took A Pill In Ibiza \- Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [At Night, Alone.](https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO) | 3:17 | 2022-09-02 |  |

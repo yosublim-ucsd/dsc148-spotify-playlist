@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 687857,
+  "num_followers": 688062,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmQwYjc1ZGE2OTlmNzQ1ODQzMmVhYzk4YTAyZjZiZjUxNWFhNzM5",
+  "snapshot_id": "MCxjMWRiMzhjMTA3ZGU4MDE3ODJiY2RjNDZiNThlMTc5MGRjNDFkYTNl",
   "tracks": [
     {
       "added_at": "2024-01-25 17:05:45",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
+        "name": "Running in Circles",
+        "url": "https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe"
+      },
+      "artists": [
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+        }
+      ],
+      "duration_ms": 191358,
+      "name": "Running in Circles",
+      "url": "https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
         "name": "tonight",
         "url": "https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Running in Circles",
-        "url": "https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe"
-      },
-      "artists": [
-        {
-          "name": "FIL BO RIVA",
-          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
-        }
-      ],
-      "duration_ms": 191358,
-      "name": "Running in Circles",
-      "url": "https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "searching for freedom",
         "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "The Last Exit",
-        "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "The Last Exit",
+        "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
+        "name": "Ocean Wide",
+        "url": "https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R"
+      },
+      "artists": [
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 184515,
+      "name": "Ocean Wide",
+      "url": "https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
         "name": "Around The Sun",
         "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 271593,
       "name": "Rio Grande",
       "url": "https://open.spotify.com/track/0dxauDDDoSPJqmKJlNRjPu"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
-        "name": "Ocean Wide",
-        "url": "https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R"
-      },
-      "artists": [
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 184515,
-      "name": "Ocean Wide",
-      "url": "https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "That Golden Time",
-        "url": "https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 290632,
-      "name": "That Golden Time",
-      "url": "https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "I'm Around",
         "url": "https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 301346,
       "name": "Black & Thunder",
       "url": "https://open.spotify.com/track/2oJDtsC8StI3UIX1zEGiAr"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "That Golden Time",
+        "url": "https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 290632,
+      "name": "That Golden Time",
+      "url": "https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 200693,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 200693,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
     },
     {
       "added_at": "2024-01-25 17:05:45",

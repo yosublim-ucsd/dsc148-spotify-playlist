@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Moktar
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,723 likes - 85 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,728 likes - 85 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 84 | [ACID GUARACHA](https://open.spotify.com/track/0YxKcbJpkwxQB0KAaeGsNA) | [INVT](https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D) | [CALENTÓN](https://open.spotify.com/album/2EFtwUfSoDzPC35bJs4UIC) | 4:15 |
 | 85 | [3 x a charm](https://open.spotify.com/track/5uqYrDYLxtBRnqT08iTDMr) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [3 x a charm](https://open.spotify.com/album/1Mw8z8T0iLyNuONtc6Qqad) | 5:31 |
 
-Snapshot ID: `MCw5NWExYzlkMzY5NzBlMDcyMGExYjdjYWYzMTZlYWYxZDIzMzBmNGNk`
+Snapshot ID: `MCxmMDE0ZDhhNTU0YTAzMjA5NTlkZDJmNTZmNjBkYWQ1MWUxMmYxNTU1`

@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Inayah",
-  "num_followers": 43228,
+  "num_followers": 43223,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODhmMTcwZmM2ZDY3YmZmMWQ1YmFkMjliM2ZiN2UyM2RjYWM5NDA4",
+  "snapshot_id": "MCw1NGQ0ZDRiNTNmYmM2ZTljNWEyNDA5MWY5Nzc2YzZkN2M4ODRjNjFk",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -557,6 +557,22 @@
       "url": "https://open.spotify.com/track/1tGpqc786ulINUeRFK9iV4"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Spinn On You",
+        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 140663,
+      "name": "Spinn On You",
+      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Sin on Purpose",
@@ -571,22 +587,6 @@
       "duration_ms": 143360,
       "name": "Sin on Purpose",
       "url": "https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Thanks 4 Nothing",
-        "url": "https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 205369,
-      "name": "Fake Love",
-      "url": "https://open.spotify.com/track/4WKCqaRaYMKbDhw9rSdIUI"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -609,20 +609,20 @@
       "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Spinn On You",
-        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
+        "name": "Thanks 4 Nothing",
+        "url": "https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi"
       },
       "artists": [
         {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
         }
       ],
-      "duration_ms": 140663,
-      "name": "Spinn On You",
-      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
+      "duration_ms": 205369,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/4WKCqaRaYMKbDhw9rSdIUI"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/12P1Scb3vywGXUU5LdJIxi"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Hardlife",
+      "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
+    },
+    {
       "added_at": "2023-07-28 08:00:10",
       "album": {
         "name": "Mixed Emotions",
@@ -675,22 +691,6 @@
       "duration_ms": 195464,
       "name": "Hate Me (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Hardlife",
-      "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -973,6 +973,26 @@
       "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Love It Here",
+        "url": "https://open.spotify.com/album/1p6Lg8hsLgtd5AnVmy3VWu"
+      },
+      "artists": [
+        {
+          "name": "Shantel May",
+          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "duration_ms": 247912,
+      "name": "Love It Here",
+      "url": "https://open.spotify.com/track/4kV6qAPbj0lzykZekhfjzE"
+    },
+    {
       "added_at": "2023-05-05 04:18:58",
       "album": {
         "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
@@ -1009,24 +1029,24 @@
       "url": "https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Love It Here",
-        "url": "https://open.spotify.com/album/1p6Lg8hsLgtd5AnVmy3VWu"
+        "name": "Lost In Melody (Deluxe)",
+        "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
       },
       "artists": [
         {
-          "name": "Shantel May",
-          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         },
         {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 247912,
-      "name": "Love It Here",
-      "url": "https://open.spotify.com/track/4kV6qAPbj0lzykZekhfjzE"
+      "duration_ms": 144869,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1051,26 +1071,6 @@
       "duration_ms": 154552,
       "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
       "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Lost In Melody (Deluxe)",
-        "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 144869,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "They Gon Lie",
-        "url": "https://open.spotify.com/album/2nZfTjkq0HQprN86XdcK5w"
-      },
-      "artists": [
-        {
-          "name": "Lyrica Anderson",
-          "url": "https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh"
-        }
-      ],
-      "duration_ms": 137260,
-      "name": "They Gon Lie",
-      "url": "https://open.spotify.com/track/2YMBu5oURKQ0uSKW8x80o3"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Heads Up",
         "url": "https://open.spotify.com/album/7lFrudJN1swTpUTt1QJCfQ"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "They Gon Lie",
+        "url": "https://open.spotify.com/album/2nZfTjkq0HQprN86XdcK5w"
+      },
+      "artists": [
+        {
+          "name": "Lyrica Anderson",
+          "url": "https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh"
+        }
+      ],
+      "duration_ms": 137260,
+      "name": "They Gon Lie",
+      "url": "https://open.spotify.com/track/2YMBu5oURKQ0uSKW8x80o3"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Ye Ali & Chill 3",
         "url": "https://open.spotify.com/album/0oGvQ5RhqcDjVLp4bvMOb9"
       },
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/6PZRy35ohzFTVfrpAEzmHf"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Fkn Him Too",
-        "url": "https://open.spotify.com/album/5j4weAU6Kpktlx2fD5gHua"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        }
-      ],
-      "duration_ms": 170079,
-      "name": "Fkn Him Too",
-      "url": "https://open.spotify.com/track/1PQ3QK3tTsknvnw1LppFv1"
-    },
-    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "7",
@@ -1347,6 +1331,22 @@
       "duration_ms": 198620,
       "name": "Luv To A Fck Song",
       "url": "https://open.spotify.com/track/6qDNh0axas6ZxjnMraUasM"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Fkn Him Too",
+        "url": "https://open.spotify.com/album/5j4weAU6Kpktlx2fD5gHua"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "duration_ms": 170079,
+      "name": "Fkn Him Too",
+      "url": "https://open.spotify.com/track/1PQ3QK3tTsknvnw1LppFv1"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1421,22 +1421,6 @@
       "url": "https://open.spotify.com/track/1qHwfmane0e7tMGnnMM1jo"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Needs & Wants",
-        "url": "https://open.spotify.com/album/0zkjSOELuXwL9w41jcf2WA"
-      },
-      "artists": [
-        {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        }
-      ],
-      "duration_ms": 185719,
-      "name": "Needs & Wants",
-      "url": "https://open.spotify.com/track/0X0bYJxGG2NBLH93PQvOi3"
-    },
-    {
       "added_at": "2022-10-14 05:33:57",
       "album": {
         "name": "Love Jones (feat. Ty Dolla $ign)",
@@ -1457,26 +1441,6 @@
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
-      "added_at": "2023-07-28 08:00:10",
-      "album": {
-        "name": "Just Like Me",
-        "url": "https://open.spotify.com/album/4GwFV6yUGdX5sJBJILATNZ"
-      },
-      "artists": [
-        {
-          "name": "Ivory Scott",
-          "url": "https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Just Like Me",
-      "url": "https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Tripolar 3",
@@ -1495,6 +1459,42 @@
       "duration_ms": 219500,
       "name": "Strip for You (feat. Vedo)",
       "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Needs & Wants",
+        "url": "https://open.spotify.com/album/0zkjSOELuXwL9w41jcf2WA"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        }
+      ],
+      "duration_ms": 185719,
+      "name": "Needs & Wants",
+      "url": "https://open.spotify.com/track/0X0bYJxGG2NBLH93PQvOi3"
+    },
+    {
+      "added_at": "2023-07-28 08:00:10",
+      "album": {
+        "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/4GwFV6yUGdX5sJBJILATNZ"
+      },
+      "artists": [
+        {
+          "name": "Ivory Scott",
+          "url": "https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Speak Your Mine",
+        "url": "https://open.spotify.com/album/3e2ZjkaPzsXXsMJzXYQDqG"
+      },
+      "artists": [
+        {
+          "name": "Tre\u0300 Samuels",
+          "url": "https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq"
+        }
+      ],
+      "duration_ms": 207175,
+      "name": "Speak Your Mine",
+      "url": "https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Simple Girls",
         "url": "https://open.spotify.com/album/5c64XM7HgyFkKFK6V5feMY"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 194160,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Speak Your Mine",
-        "url": "https://open.spotify.com/album/3e2ZjkaPzsXXsMJzXYQDqG"
-      },
-      "artists": [
-        {
-          "name": "Tre\u0300 Samuels",
-          "url": "https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq"
-        }
-      ],
-      "duration_ms": 207175,
-      "name": "Speak Your Mine",
-      "url": "https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -1733,22 +1733,6 @@
       "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Cold Toronto",
-        "url": "https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv"
-      },
-      "artists": [
-        {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
-        }
-      ],
-      "duration_ms": 157808,
-      "name": "Fell Asleep",
-      "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
-    },
-    {
       "added_at": "2023-06-16 05:24:07",
       "album": {
         "name": "who's loving you?",
@@ -1763,6 +1747,22 @@
       "duration_ms": 219662,
       "name": "PT. II (DRAKE & DRIVE)",
       "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Cold Toronto",
+        "url": "https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 157808,
+      "name": "Fell Asleep",
+      "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
     },
     {
       "added_at": "2023-04-07 04:00:00",

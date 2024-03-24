@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The stomping ground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,575 likes - 167 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,696 likes - 167 songs - 11 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 14 | [Your Love \- Seth Troxler Remix](https://open.spotify.com/track/1vY3452aVUKq59zjQqmNk7) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B) | [Your Love \(Seth Troxler Remix\)](https://open.spotify.com/album/0H4XPs3byMfSvGTpGGoh15) | 6:33 |
 | 15 | [GURU](https://open.spotify.com/track/2iVfJ11PkyX0Iwg0h2BnoQ) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 4:11 |
 | 16 | [WHATSUP](https://open.spotify.com/track/6fdpRzah5JFrEHQVQr0LBJ) | [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk) | [WHATSUP](https://open.spotify.com/album/0wn013EioXJ0HPt4KXoMU7) | 2:31 |
-| 17 | [We Like To Party \- Rework](https://open.spotify.com/track/4SPFAQb1lkCOOcPsKdi80J) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [ForgiveMeTommy!](https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA) | [We Like To Party \(Rework\)](https://open.spotify.com/album/7gafiaoKORqaJ3VwYw8UAu) | 3:13 |
+| 17 | [We Like To Party \- Rework](https://open.spotify.com/track/4SPFAQb1lkCOOcPsKdi80J) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [ForgiveMeTommy!](https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA) | [We Like To Party \(Rework\)](https://open.spotify.com/album/7gafiaoKORqaJ3VwYw8UAu) | 2:24 |
 | 18 | [To The Beat](https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [To The Beat](https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4) | 3:56 |
 | 19 | [Just Come \- Marco Lys Remix](https://open.spotify.com/track/1fy3nyBffRSXHqvip1Hyo2) | [Cool Jack](https://open.spotify.com/artist/14JwN8sxchomQZS40obpio), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Just Come \(Marco Lys Remix\)](https://open.spotify.com/album/0varLFZ9nR0fjtylPXkJXX) | 3:07 |
 | 20 | [Tu Tu](https://open.spotify.com/track/3LUq5EsyDfbdjMhUBYMQJ8) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX) | [Tu Tu](https://open.spotify.com/album/3dw0eHvyRnuIdIp7LrkOmw) | 3:03 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 166 | [Hot Night](https://open.spotify.com/track/5xcmBLG9VO1ILZtUjNP4q8) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Hot Night](https://open.spotify.com/album/1TsV2l0AtV32o8nQCjsnlv) | 3:58 |
 | 167 | [Only You](https://open.spotify.com/track/6xAGaIRVA3rddnDzzjsb5u) | [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [Picture Perfect EP](https://open.spotify.com/album/0C6LlsjVraJSPkdLZAsMhf) | 2:40 |
 
-Snapshot ID: `MCw0MDMyMWQwOTdjNjY5ODQ5MjJlMjM2MDY1NzY2N2ZkMDJkM2Q0MmFj`
+Snapshot ID: `MCwzNzhlNzlmMmIzYmQ4ZDM3ODIzMmIwZGI1ZGU2NGJiN2VjMTliOWRi`

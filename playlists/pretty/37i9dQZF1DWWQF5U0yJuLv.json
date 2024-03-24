@@ -1,12 +1,12 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 12133,
+  "num_followers": 12138,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTMyYjZhYzc5OTc1OTRiZDYzMjkyZjk2MzM3N2FkM2Y5MTdmZDFk",
+  "snapshot_id": "MCwzOWVmOWYzNWZlMzQ4MTY2ZjQzMjkyMzYzMDAwZDRjMjE5ZGIzMTRj",
   "tracks": [
     {
       "added_at": "2023-02-17 01:10:22",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+      },
+      "artists": [
+        {
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+        }
+      ],
+      "duration_ms": 266640,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "21 Again Collaborations, Pt. 1",
         "url": "https://open.spotify.com/album/3bPdgAKQZRbPa9ESQGUsqr"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 170040,
       "name": "Fertilized",
       "url": "https://open.spotify.com/track/25INV7gnl2B502qCvxrluh"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
-      },
-      "artists": [
-        {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/62OTU01ZBggT2ETgT1ju6i"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Continuous Portrait",
-        "url": "https://open.spotify.com/album/51QtuRQyWyidnzs3ZNVue7"
-      },
-      "artists": [
-        {
-          "name": "Inventions",
-          "url": "https://open.spotify.com/artist/356y23wKxVdd7IowNVCSlW"
-        }
-      ],
-      "duration_ms": 210670,
-      "name": "Outlook for the Future",
-      "url": "https://open.spotify.com/track/0nMswZQeNQF96yypz93dwE"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Oasis Sky",
@@ -1067,6 +1051,22 @@
       "duration_ms": 224570,
       "name": "City 66",
       "url": "https://open.spotify.com/track/0LoinP9A7yG0Irl0evvU2b"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Continuous Portrait",
+        "url": "https://open.spotify.com/album/51QtuRQyWyidnzs3ZNVue7"
+      },
+      "artists": [
+        {
+          "name": "Inventions",
+          "url": "https://open.spotify.com/artist/356y23wKxVdd7IowNVCSlW"
+        }
+      ],
+      "duration_ms": 210670,
+      "name": "Outlook for the Future",
+      "url": "https://open.spotify.com/track/0nMswZQeNQF96yypz93dwE"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1141,30 +1141,6 @@
       "url": "https://open.spotify.com/track/0w1P0lcWUKniBbJfcz8Hvy"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Mahi Mahi",
-        "url": "https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC"
-      },
-      "artists": [
-        {
-          "name": "Moonfish",
-          "url": "https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T"
-        },
-        {
-          "name": "Maria Chiara Argir\u00f2",
-          "url": "https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb"
-        },
-        {
-          "name": "Riccardo Chiaberta",
-          "url": "https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1"
-        }
-      ],
-      "duration_ms": 196355,
-      "name": "Mahi Mahi",
-      "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Illusion Of Time",
@@ -1199,6 +1175,30 @@
       "duration_ms": 105026,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Mahi Mahi",
+        "url": "https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC"
+      },
+      "artists": [
+        {
+          "name": "Moonfish",
+          "url": "https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T"
+        },
+        {
+          "name": "Maria Chiara Argir\u00f2",
+          "url": "https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb"
+        },
+        {
+          "name": "Riccardo Chiaberta",
+          "url": "https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1"
+        }
+      ],
+      "duration_ms": 196355,
+      "name": "Mahi Mahi",
+      "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1249,6 +1249,26 @@
       "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
     },
     {
+      "added_at": "2023-03-03 04:31:38",
+      "album": {
+        "name": "Jardines, Vol.1",
+        "url": "https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "lightheart",
+          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
+        }
+      ],
+      "duration_ms": 153162,
+      "name": "jazmin",
+      "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
+    },
+    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Good Places",
@@ -1279,26 +1299,6 @@
       "duration_ms": 182000,
       "name": "Maracuy\u00e1",
       "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
-    },
-    {
-      "added_at": "2023-03-03 04:31:38",
-      "album": {
-        "name": "Jardines, Vol.1",
-        "url": "https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "lightheart",
-          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
-        }
-      ],
-      "duration_ms": 153162,
-      "name": "jazmin",
-      "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1401,22 +1401,6 @@
       "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Drunken Clouds",
-        "url": "https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR"
-      },
-      "artists": [
-        {
-          "name": "rRoxymore",
-          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
-        }
-      ],
-      "duration_ms": 253701,
-      "name": "Drunken Clouds",
-      "url": "https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Strawberry Moon",
@@ -1431,22 +1415,6 @@
       "duration_ms": 187200,
       "name": "Strawberry Moon",
       "url": "https://open.spotify.com/track/416BuAV8EaYxNZ08aaSH9s"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Green (SFX Version)",
-        "url": "https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 321666,
-      "name": "GREEN",
-      "url": "https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1467,6 +1435,38 @@
       "duration_ms": 119649,
       "name": "sol",
       "url": "https://open.spotify.com/track/1x9zn5iITjMAg6rJF5FdoX"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Drunken Clouds",
+        "url": "https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR"
+      },
+      "artists": [
+        {
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+        }
+      ],
+      "duration_ms": 253701,
+      "name": "Drunken Clouds",
+      "url": "https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Green (SFX Version)",
+        "url": "https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 321666,
+      "name": "GREEN",
+      "url": "https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1541,6 +1541,22 @@
       "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
     },
     {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/6WJxRoJgFPTxi9odNrGKKp"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/7oYOdF7lpYvwYNLk3BWNpD"
+    },
+    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "For Beginner Piano",
@@ -1559,34 +1575,18 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/6WJxRoJgFPTxi9odNrGKKp"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
       },
       "artists": [
         {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
         }
       ],
-      "duration_ms": 190213,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/7oYOdF7lpYvwYNLk3BWNpD"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Pure, Impure",
-        "url": "https://open.spotify.com/album/7C3flv2nzeBoNHVrptYz6o"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 347800,
-      "name": "Moodswing",
-      "url": "https://open.spotify.com/track/5lztNaNPhBTrfygH1BO1W2"
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+        "name": "Pure, Impure",
+        "url": "https://open.spotify.com/album/7C3flv2nzeBoNHVrptYz6o"
       },
       "artists": [
         {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
         }
       ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+      "duration_ms": 347800,
+      "name": "Moodswing",
+      "url": "https://open.spotify.com/track/5lztNaNPhBTrfygH1BO1W2"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "The Red Line",
-        "url": "https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w"
-      },
-      "artists": [
-        {
-          "name": "Dualizm",
-          "url": "https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz"
-        }
-      ],
-      "duration_ms": 158620,
-      "name": "The Red Line",
-      "url": "https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Cambio Wechsel",
         "url": "https://open.spotify.com/album/2a5VqPCZr3SFu2aUdQseP2"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 390986,
       "name": "After Gold",
       "url": "https://open.spotify.com/track/3Nr62FFbrwPRAAmKoLbR7a"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "The Red Line",
+        "url": "https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w"
+      },
+      "artists": [
+        {
+          "name": "Dualizm",
+          "url": "https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz"
+        }
+      ],
+      "duration_ms": 158620,
+      "name": "The Red Line",
+      "url": "https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -2297,22 +2297,6 @@
       "url": "https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Out of Reality EP",
-        "url": "https://open.spotify.com/album/7cmS4iTUYbnBXngtlq2br7"
-      },
-      "artists": [
-        {
-          "name": "Lauren Flax",
-          "url": "https://open.spotify.com/artist/1LUYSrytHIC78JbMgFBIG7"
-        }
-      ],
-      "duration_ms": 402024,
-      "name": "Body Control",
-      "url": "https://open.spotify.com/track/2p7F1Vq0oW7B5RKk50RuHC"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "\u307f\u305e\u3046\u3075\u304f",
@@ -2327,6 +2311,22 @@
       "duration_ms": 388373,
       "name": "Ripples",
       "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Out of Reality EP",
+        "url": "https://open.spotify.com/album/7cmS4iTUYbnBXngtlq2br7"
+      },
+      "artists": [
+        {
+          "name": "Lauren Flax",
+          "url": "https://open.spotify.com/artist/1LUYSrytHIC78JbMgFBIG7"
+        }
+      ],
+      "duration_ms": 402024,
+      "name": "Body Control",
+      "url": "https://open.spotify.com/track/2p7F1Vq0oW7B5RKk50RuHC"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2409,22 +2409,6 @@
       "url": "https://open.spotify.com/track/2v2oXIi7utdaPqH7Hz40lo"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Body Riddle (Remastered)",
-        "url": "https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Ted",
-      "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "First Lesson",
@@ -2439,6 +2423,22 @@
       "duration_ms": 135529,
       "name": "Cat Friend",
       "url": "https://open.spotify.com/track/5KqCoQucFcqcUCzpA2MveP"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Body Riddle (Remastered)",
+        "url": "https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Ted",
+      "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2479,6 +2479,22 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "Poly Pointillism",
+        "url": "https://open.spotify.com/album/7zmMRLwzf3PPnzEBWI2cLi"
+      },
+      "artists": [
+        {
+          "name": "Chants",
+          "url": "https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC"
+        }
+      ],
+      "duration_ms": 130416,
+      "name": "Shimmer and Glimmer",
+      "url": "https://open.spotify.com/track/4w7JDDgv13YI0ZiIwplRSy"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "The Indica Gallery - EP",
         "url": "https://open.spotify.com/album/5WVgmKhdv1lao4eNXwWg59"
       },
@@ -2495,22 +2511,6 @@
       "duration_ms": 465058,
       "name": "Indica - Pye Corner Audio Remix - Glok Re-Edit",
       "url": "https://open.spotify.com/track/1nHuJ99bSdi4ZoAfv3VzoW"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Poly Pointillism",
-        "url": "https://open.spotify.com/album/7zmMRLwzf3PPnzEBWI2cLi"
-      },
-      "artists": [
-        {
-          "name": "Chants",
-          "url": "https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC"
-        }
-      ],
-      "duration_ms": 130416,
-      "name": "Shimmer and Glimmer",
-      "url": "https://open.spotify.com/track/4w7JDDgv13YI0ZiIwplRSy"
     }
   ],
   "unique_name": "Quirktronica",

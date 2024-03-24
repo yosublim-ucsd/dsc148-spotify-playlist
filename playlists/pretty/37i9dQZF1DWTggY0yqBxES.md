@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Tierra Whack
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,858 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,967 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 26 | [PULLING UP \(feat\. $uicideboy$\)](https://open.spotify.com/track/30UdcE73xUzIaOPd8EsxrR) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [EVERY DOG HAS ITS DAY](https://open.spotify.com/album/6bAxzhIGK9goBP49UnvbEj) | 3:33 |
 | 27 | [Send You 2 The Afterlife!](https://open.spotify.com/track/1cP0FXEVrkoI0YSVy3HuGw) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Porches](https://open.spotify.com/album/1UtBNRQQjb2fszQd1IXACy) | 2:34 |
 | 28 | [Pole Vaulting](https://open.spotify.com/track/62qfZo0EbE7iTgwQU8gl4A) | [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD), [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Pole Vaulting](https://open.spotify.com/album/5PQECYAgwzYDghXgPeac4T) | 3:36 |
-| 29 | [Run Home](https://open.spotify.com/track/0X3rHWaJJyM5AvVwjfPOzx) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Run Home](https://open.spotify.com/album/1TxyiJUOTL8nNeKzFp5sLx) | 4:40 |
+| 29 | [Run Home](https://open.spotify.com/track/0X3rHWaJJyM5AvVwjfPOzx) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Run Home](https://open.spotify.com/album/1TxyiJUOTL8nNeKzFp5sLx) | 3:19 |
 | 30 | [girls like drugs](https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [girls like drugs](https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9) | 2:54 |
 | 31 | [Shut Shit Down](https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut Shit Down](https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ) | 2:42 |
 | 32 | [Falling](https://open.spotify.com/track/5cF4gR8WHnHgkPFSD6hdC2) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Falling](https://open.spotify.com/album/7FGCBxUHVOvJUEWTwLCA9c) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [For Free?](https://open.spotify.com/track/0rg7DxTa08fGuIONC3mDU3) | [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ) | [For Free?](https://open.spotify.com/album/3uamA6EQVoQzupXpke900F) | 3:13 |
 | 100 | [SHAKIN IT \(feat\. Cash Cobain\)](https://open.spotify.com/track/6fciDfvusfex0xul6qjNjW) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [LVL5 P2](https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm) | 2:54 |
 
-Snapshot ID: `MCxjN2I2ZmY4MjY5NjkyYjg1YjBmNjU5NGQ2ZGE2M2FlZjBkMWE1Mzdi`
+Snapshot ID: `MCw5NTQ2ZTk3MDE5NTI2MTYwZDk4NGZhZWFkN2MxOTgyZmM5Mjk1N2Y2`

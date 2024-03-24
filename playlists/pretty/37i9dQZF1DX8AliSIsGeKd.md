@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Miss Monique
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,419 likes - 90 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,723 likes - 90 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Arambol Lights](https://open.spotify.com/track/7kA3hOc4HPk6JRD3ZBMMLK) | [Axis Of Time](https://open.spotify.com/artist/0y4TXuiPGjA80YqCzEMGfo) | [Evolution Of Mind](https://open.spotify.com/album/0gjODlMRc3Cl49zD8iZDuC) | 6:05 |
 | 90 | [Bottlepop](https://open.spotify.com/track/3iysa7RxuIFnYQPbEfE9IG) | [SUCHI](https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N) | [Ghungroo](https://open.spotify.com/album/0WfAGokfkZ2t4Z528nJl0g) | 4:30 |
 
-Snapshot ID: `MCwxOTQ0OWRmYjgwNjU3ZTEwMTE1MzM0ZTZkMzFmMGEzYThlY2UxY2Mz`
+Snapshot ID: `MCxmMTIwNjRjNmU1NTU0MGMyODA4OWYyNmY4OGM0ZjExMGI3ZWNkNzNj`

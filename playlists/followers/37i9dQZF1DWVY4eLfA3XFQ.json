@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 612583,
+  "2024-03-24": 612727,
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring Noizu. 50% techno, 50% house",
+  "description": "Tech house technicians, featuring Biscits & TOBEHONEST. 50% techno, 50% house",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -2128,6 +2128,24 @@
     },
     {
       "album": {
+        "name": "BAMBITO",
+        "url": "https://open.spotify.com/album/0hb26adq3Kdb9pOaQo2UAP"
+      },
+      "artists": [
+        {
+          "name": "TIEDYE",
+          "url": "https://open.spotify.com/artist/5FTnAWGdw8HMTn5KKYDSox"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "BAMBITO",
+      "url": "https://open.spotify.com/track/41qrV3hsCirBvF4UaABY7Y"
+    },
+    {
+      "album": {
         "name": "Bamboleo",
         "url": "https://open.spotify.com/album/2A98x1rFHHdj1fuPAaluvC"
       },
@@ -2755,7 +2773,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 183750,
       "name": "Bills, Bills (feat. MRYN) - Radio Edit",
       "url": "https://open.spotify.com/track/1bIOPOZlC6SQtyP1gRFZHD"
@@ -2849,7 +2867,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 183750,
       "name": "Blacked Out Rova",
       "url": "https://open.spotify.com/track/0xTVjcrfYAELO1VK1EFVHK"
@@ -3075,6 +3093,24 @@
       "duration_ms": 180000,
       "name": "Boiling Room",
       "url": "https://open.spotify.com/track/5wdAiwQ6QsqH6tHWcE76qM"
+    },
+    {
+      "album": {
+        "name": "Bon Bon",
+        "url": "https://open.spotify.com/album/5FMv7ZCQlJHlMwgLhzvoPU"
+      },
+      "artists": [
+        {
+          "name": "Jack Orley",
+          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161572,
+      "name": "Bon Bon",
+      "url": "https://open.spotify.com/track/0eZq2EICF4Yf7hFuboxnr2"
     },
     {
       "album": {
@@ -6486,6 +6522,24 @@
     },
     {
       "album": {
+        "name": "Welcome to Hell III",
+        "url": "https://open.spotify.com/album/4x5D8GnJE4JoAdZI41Z8PF"
+      },
+      "artists": [
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150461,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/7qsyyhllSvwoJl4I1O4VZW"
+    },
+    {
+      "album": {
         "name": "Disconnected",
         "url": "https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP"
       },
@@ -7127,6 +7181,32 @@
       "duration_ms": 208569,
       "name": "Don't Wanna Lie",
       "url": "https://open.spotify.com/track/5r5MjmaLklyNOzKXY6Fqm5"
+    },
+    {
+      "album": {
+        "name": "Don't Waste My Time (feat. Sophie Powers)",
+        "url": "https://open.spotify.com/album/6MrYLGdIy6OGW7Pyu0TPE8"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Space Rangers",
+          "url": "https://open.spotify.com/artist/25o5gyj3kk1DUaRkkcEkZy"
+        },
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129373,
+      "name": "Don't Waste My Time (feat. Sophie Powers)",
+      "url": "https://open.spotify.com/track/0a8zTjSM9Fqam9aGQIpTil"
     },
     {
       "album": {
@@ -8639,7 +8719,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 218604,
       "name": "Favela Joint",
       "url": "https://open.spotify.com/track/1ygoSdSGNwK3PIWxizJRnm"
@@ -11339,7 +11419,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 185987,
       "name": "Her",
       "url": "https://open.spotify.com/track/16Vvd690cYoxmMvqaiTBwz"
@@ -12269,6 +12349,28 @@
       "duration_ms": 207370,
       "name": "H\u00e1blame",
       "url": "https://open.spotify.com/track/6BStdQiI7I5uZcnw68Y4y1"
+    },
+    {
+      "album": {
+        "name": "I Am The One",
+        "url": "https://open.spotify.com/album/6EigqdKdQ2B8bxnJrIGLN9"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200624,
+      "name": "I Am The One",
+      "url": "https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd"
     },
     {
       "album": {
@@ -13799,6 +13901,28 @@
       "duration_ms": 195692,
       "name": "Karma",
       "url": "https://open.spotify.com/track/5OErHyr8q2oIDe5qyHL8IO"
+    },
+    {
+      "album": {
+        "name": "Kattapult (James Hype Edit)",
+        "url": "https://open.spotify.com/album/2ZdEIUcfJ6sf61XlDysSiz"
+      },
+      "artists": [
+        {
+          "name": "Adapter",
+          "url": "https://open.spotify.com/artist/4EGRFrnmprB7ikY7EmTQ7V"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120595,
+      "name": "Kattapult (James Hype Edit)",
+      "url": "https://open.spotify.com/track/1bq0odxoXVY7pJbwk6uLcD"
     },
     {
       "album": {
@@ -15909,7 +16033,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 171428,
       "name": "LOVE DESIRE",
       "url": "https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA"
@@ -16771,7 +16895,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 338446,
       "name": "Me Me Me",
       "url": "https://open.spotify.com/track/2VMH2r2jqBpxk5kWjM8HCo"
@@ -18155,7 +18279,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 177142,
       "name": "Musica",
       "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
@@ -19071,7 +19195,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 213750,
       "name": "No Pares",
       "url": "https://open.spotify.com/track/0r2tv5UOCiSyXE0AG98lxQ"
@@ -19151,7 +19275,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 186299,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
@@ -20897,7 +21021,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 191355,
       "name": "Perfect Love - Biscits Remix",
       "url": "https://open.spotify.com/track/6SxpLVRmhMubmYLrvxGp22"
@@ -24377,7 +24501,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 241975,
       "name": "Skydance",
       "url": "https://open.spotify.com/track/00GJyZcLlDgRGFKW0Nzrsa"
@@ -24697,6 +24821,24 @@
       "duration_ms": 212812,
       "name": "So Hot",
       "url": "https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM"
+    },
+    {
+      "album": {
+        "name": "So H\u00ef",
+        "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212139,
+      "name": "So H\u00ef",
+      "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
     },
     {
       "album": {
@@ -25961,6 +26103,28 @@
       "duration_ms": 198545,
       "name": "Tachet\u00e9",
       "url": "https://open.spotify.com/track/32v92N39LOlK2w0GA3u8jl"
+    },
+    {
+      "album": {
+        "name": "Taka",
+        "url": "https://open.spotify.com/album/3rYqcadDaeDm6mF5MDvWLG"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193650,
+      "name": "Taka",
+      "url": "https://open.spotify.com/track/2DxP7y3GFruzMeKdSWFQZ2"
     },
     {
       "album": {
@@ -28755,7 +28919,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 127250,
       "name": "Tututu - Radio Edit",
       "url": "https://open.spotify.com/track/3BRn1Iue3q3VQNwka4Cweq"
@@ -28943,6 +29107,24 @@
       "duration_ms": 225029,
       "name": "Un Beso",
       "url": "https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM"
+    },
+    {
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/4OZkLa9YRSDHvL0jQ8jwyv"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/6pOSx27uLkZBE75JBEWFiE"
     },
     {
       "album": {
@@ -30525,6 +30707,24 @@
       "duration_ms": 368852,
       "name": "Whispers In The Wind",
       "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
+    },
+    {
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134846,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
     },
     {
       "album": {

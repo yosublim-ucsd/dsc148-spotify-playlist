@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Future & Metro Boomin, Big Sean, Mac Miller and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,570 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,722 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 27 | [Son Gohan](https://open.spotify.com/track/13RtnlcO9A13AX6oaoRZLk) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Son Gohan](https://open.spotify.com/album/39EdvibZaks6Vi4ujEXHGA) | 1:40 |
 | 28 | [AMF \(feat\. NLE Choppa\)](https://open.spotify.com/track/7qvUHLCbPdjjnoCU7GK2z4) | [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [AMF \(feat\. NLE Choppa\)](https://open.spotify.com/album/4fp913czITruargu63nuK4) | 3:05 |
 | 29 | [Around The World](https://open.spotify.com/track/1o9S5cM9CEWrh2ZVbvk5VS) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Around The World](https://open.spotify.com/album/0rxn9TDqFlClsXAJBF5Ayc) | 3:03 |
-| 30 | [Run Home](https://open.spotify.com/track/0X3rHWaJJyM5AvVwjfPOzx) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Run Home](https://open.spotify.com/album/1TxyiJUOTL8nNeKzFp5sLx) | 4:40 |
+| 30 | [Run Home](https://open.spotify.com/track/0X3rHWaJJyM5AvVwjfPOzx) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Run Home](https://open.spotify.com/album/1TxyiJUOTL8nNeKzFp5sLx) | 3:19 |
 | 31 | [Blood Ties](https://open.spotify.com/track/7dWVJO0mAxyGO5fhuQJJCr) | [Foolio](https://open.spotify.com/artist/79mgHJytm385Muv7GfaneD), [Wam SpinThaBin](https://open.spotify.com/artist/1vljqWKOCEBTIA9mhCaCCt) | [Blood Ties](https://open.spotify.com/album/2yS13axYqitCYgfQmABCF7) | 2:53 |
 | 32 | [older times](https://open.spotify.com/track/7yLRdxIqQUgEnQ9FXiEoQO) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [older times](https://open.spotify.com/album/7GBNNc3S4muYZUdQdcM9cH) | 2:05 |
 | 33 | [Dear World,](https://open.spotify.com/track/6s80G06MZhA2uBgVgLjyG1) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [Dear World,](https://open.spotify.com/album/6oJBLHwpdl8FwA5df2N12l) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 99 | [Scammer Fresh](https://open.spotify.com/track/6x7UrTvcvFtrIdAd0xr1p3) | [BEO Lil Kenny](https://open.spotify.com/artist/5p2KvjX2qOhaC291qgJc2b) | [Don't Let Up](https://open.spotify.com/album/6gnx6i3JO0EYqZ5YjD0uE0) | 2:37 |
 | 100 | [Bite Size](https://open.spotify.com/track/12DYaQNNZCyDe6mmfMNA2e) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Bite Size](https://open.spotify.com/album/1a4OD0R6DKPBhIayWKArTT) | 2:03 |
 
-Snapshot ID: `MCw5Zjc3ZDM4ZjhkNzc5YzdjZjUxZDE2NzU0YWJmMWJkMjllZGIwYzg3`
+Snapshot ID: `MCw3MDNlMmZhOWY3NWM3N2Q5NDI0YmM1YzhlOGM0Zjg3ZjAyZWQyOTYy`

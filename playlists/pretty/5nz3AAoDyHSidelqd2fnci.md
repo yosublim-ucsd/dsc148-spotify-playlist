@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 49 min 23 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 50 min 11 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Everything Matters](https://open.spotify.com/track/1rMlnD8S0hX7IHZXZDt3gH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [The Gods We Can Touch](https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY) | 3:33 |
-| 2 | [OTRA VEZ CASUALIDAD](https://open.spotify.com/track/1aoTb7gh2k9Bi1mDGQbJq1) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [OTRA VEZ CASUALIDAD](https://open.spotify.com/album/0E6bwR3roTh3n6QBjF9LF2) | 3:48 |
-| 3 | [Rain Fall Down \- Will.I.am Remix](https://open.spotify.com/track/1XASWgO2SiqBBcjTNJd0W7) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [The Rolling Stones Singles Box Set \(1971\-2006\) \[Sampler\]](https://open.spotify.com/album/6In2W0PN0sp3DjhjmbRuQ5) | 4:04 |
-| 4 | [Midwintertears](https://open.spotify.com/track/1Xg9lWAIPhPXa8MOScC7oa) | [Tristania](https://open.spotify.com/artist/2EOmvmVtYMTgn45w9mWUTV) | [Widow's Weeds](https://open.spotify.com/album/1VXLkVfA017Cp5Yq0PZ0Ag) | 8:32 |
-| 5 | [Escape](https://open.spotify.com/track/2ik73mqDU1wIlgTriYTebt) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning](https://open.spotify.com/album/7a1dlwArQK6OCHkr2SNlZR) | 4:23 |
-| 6 | [I Can't Make Your Decisions for You](https://open.spotify.com/track/6U1V1s0MHM56Zeh5cLgbpc) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Understanding What We've Grown to Be \(Deluxe Edition\)](https://open.spotify.com/album/6QmepOn4v046xEUpYEcq1t) | 3:45 |
-| 7 | [It's The End Of The World As We Know It \(And I Feel Fine\)](https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 4:06 |
-| 8 | [Here to Stay](https://open.spotify.com/track/1zSuTmG2vO4eRwoQUIFNCp) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/3NSivK5tIM5k4IiH5wobRr) | 4:31 |
-| 9 | [Fiend](https://open.spotify.com/track/4Jcz9DveYMyNgDxuspZv3r) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Dark Days](https://open.spotify.com/album/1zshtbyPH8rrkqulAbV9V0) | 3:00 |
-| 10 | [Never Meant](https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/3wRBlpk5PRoixwOnLujTal) | 4:28 |
-| 11 | [PALOMINO](https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [PALOMINO](https://open.spotify.com/album/4UElHgLdeGzNnv9d55NYRZ) | 2:21 |
-| 12 | [Ace of Spades](https://open.spotify.com/track/5tFxXs6ECCZFM5HL5nmlJt) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [No Remorse \(Deluxe Edition\)](https://open.spotify.com/album/6NnCvI782a1lKvMAIbzzAG) | 2:46 |
+| 1 | [Someone, Somewhere](https://open.spotify.com/track/5wzV35hpLeZCz9aBSAWBcY) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Reckless And Relentless](https://open.spotify.com/album/3aFx7UfKu9KkyPFRGkgyeD) | 3:36 |
+| 2 | [One Vision \- Remastered 2011](https://open.spotify.com/track/3eRwrwFOamx1TxrMkXlHFb) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II \(2011 Remaster\)](https://open.spotify.com/album/3enuKERSauyNFVTa2n0t7S) | 4:05 |
+| 3 | [La Voz De Los '80](https://open.spotify.com/track/3UWMYVLYo0QwaPw1OI8hDk) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Ni por la Razon, Ni por la Fuerza \- Antologia](https://open.spotify.com/album/3lw3Fh1bzFCGQaDRE1AguX) | 4:08 |
+| 4 | [We Both Know](https://open.spotify.com/track/3Ir8iKCv67pW100PDSgWtk) | [Allison Daniels](https://open.spotify.com/artist/54OOcbHzemUIYga3Z351Kq) | [We Both Know](https://open.spotify.com/album/569MveUgubA2WeTrfmbxnf) | 3:06 |
+| 5 | [Hættemåge](https://open.spotify.com/track/59KfTG60N5wIxgcVAA2vh6) | [Roben Og Knud](https://open.spotify.com/artist/7ALwTQBNt1NhTFu0u4pd2b) | [Morseper](https://open.spotify.com/album/68HUvr3eKqGMnNapK9fcny) | 3:33 |
+| 6 | [The Light That Blinds](https://open.spotify.com/track/2nrYeIMPUyGk19p3uZR4ql) | [Shadows Fall](https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0) | [The War Within](https://open.spotify.com/album/5clRtvETDgoHUdnvz3ANZP) | 4:58 |
+| 7 | [Pathetic](https://open.spotify.com/track/3m3hDVmDjdWY3fU77h7zQT) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/5IlIcdN5FKmqkhZcWNAqoW) | 2:28 |
+| 8 | [Master of Puppets](https://open.spotify.com/track/1c2FRiii9YxnFACFbJVZLg) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Plays Metallica by Four Cellos](https://open.spotify.com/album/22wMPgeOpzduo9VK5uZa7R) | 7:16 |
+| 9 | [What's Your Name What's Your Number](https://open.spotify.com/track/3de2tPprWQcJywXosT7CfD) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [Disco Music History, Vol\. 3](https://open.spotify.com/album/3xHTumHPprOZAAZfLmBaRg) | 6:35 |
+| 10 | [Black Box Messiah](https://open.spotify.com/track/3jMLV1tx7XJmpruB2u0tDB) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Pandoras Pinata](https://open.spotify.com/album/35QqILuoqqywpmYbx3DfF1) | 2:57 |
+| 11 | [Quietus \(Silent Reverie\) \[Single Version\]](https://open.spotify.com/track/4I0cllCqA15hqM5q6d2RdG) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Consign to Oblivion \(Expanded Edition\)](https://open.spotify.com/album/0IUmtDZj4sNXkJzm8Pvske) | 3:55 |
+| 12 | [Want You to Know](https://open.spotify.com/track/4Y3vcZJzevbTEq29vINtYj) | [Backset](https://open.spotify.com/artist/2scPtarNLto2VIiH3qqn7Q) | [Want You to Know](https://open.spotify.com/album/0SdZsJR51FbwCSzR61gXAk) | 3:29 |
 
-Snapshot ID: `NjMsNjNkMWY5ZjE0OGNhOTBiOTE1MzkyOGVhYzcxN2U4ZWVmNzg5MmI4Yg==`
+Snapshot ID: `NjQsYTEyNjkwNmFmYjVhNjM0NzVlMDRmOWFmZjZmY2ZmM2IzZWExODczNg==`

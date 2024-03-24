@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,260 likes - 83 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,289 likes - 83 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 32 | [Louis V, Menina Linda](https://open.spotify.com/track/5NunX2CvtMyvZHdV1CPZsJ) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Louis V, Menina Linda](https://open.spotify.com/album/5eaGuSnryGzU9Z6qg2pXxP) | 3:35 |
 | 33 | [Ela](https://open.spotify.com/track/19A90nikDUdfC8DLPSmrPD) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [World](https://open.spotify.com/album/5bmAakNQkQTopPnicgwWGf) | 3:04 |
 | 34 | [Volúpia](https://open.spotify.com/track/6IxQngYNjrubqG7Zt8rYMa) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh), [fallkee](https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o) | [Volúpia](https://open.spotify.com/album/054nMoCC4u5dCI4vTXWKc3) | 2:31 |
-| 35 | [Cê Tá Bem](https://open.spotify.com/track/1DLwaIqLEMrKz5czGKlI8B) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Cê Tá Bem](https://open.spotify.com/album/46YXJKIzU5bYu7hmu0b6mw) | 3:20 |
+| 35 | [Cê Tá Bem](https://open.spotify.com/track/0LdNETSAKTnzZ64JoOSMiv) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Cê Tá Bem](https://open.spotify.com/album/6I7wRp9Ic9oVpYNvRIS4A8) | 3:20 |
 | 36 | [Seu Desejo](https://open.spotify.com/track/2YcIs0ze3MeObnD9zXTifZ) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X), [DJ Pedro Vieira](https://open.spotify.com/artist/6Nc0KutYK7ABhJ2jC1K2mn), [Nath Fischer](https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Seu Desejo](https://open.spotify.com/album/3adNSP3xdQtHLXDiKt7AMU) | 3:54 |
 | 37 | [Jogo de Sedução](https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Jogo de Sedução](https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX) | 3:45 |
 | 38 | [SUANDO O VIDRO](https://open.spotify.com/track/4td6SxFnMIRnfGlryoZYjn) | [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Fotos de Ontem](https://open.spotify.com/album/1m29A0rgwF3EQktfu9rv7s) | 3:20 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 82 | [Corpo Quente](https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Corpo Quente](https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN) | 4:00 |
 | 83 | [Casting](https://open.spotify.com/track/0AjXz2Myfg84rqki7vnmEk) | [Lionel](https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [Rav1](https://open.spotify.com/artist/7x2rCYvquFbnXpEsKQ0lsp), [JOTA](https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk), [D\-Lex](https://open.spotify.com/artist/5VfxICkBmOXynfEQjSlgUV) | [Casting](https://open.spotify.com/album/5KFVVSCLLBHuWCZxqqY20V) | 2:29 |
 
-Snapshot ID: `MCw5YjNlMjc4ZGM3NTFjZTU0OTc0NTgxMTI2YjIzNTNhMmJhM2RiMDdj`
+Snapshot ID: `MCwzNDI2Yjc0YmIxNjkxN2VmMTQwMzYzYzJmYzQwNmE5OTFjODY4ZDlh`

@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 161091,
+  "2024-03-24": 161092,
   "date_first_scraped": "2022-12-28",
   "description": "Vous aimez la chaleur... Voici le mix id\u00e9al.",
   "name": "Sunny Mix",
@@ -119,7 +119,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 294211,
       "name": "All Night",
       "url": "https://open.spotify.com/track/04jqhpf3oV06HtlmthfcZZ"
@@ -188,6 +188,28 @@
     },
     {
       "album": {
+        "name": "Antonino (Yuksek remix)",
+        "url": "https://open.spotify.com/album/4zdZDhoEN9o3Lg4LZZ1RdF"
+      },
+      "artists": [
+        {
+          "name": "Antonin",
+          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
+        },
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227760,
+      "name": "Antonino - Yuksek remix",
+      "url": "https://open.spotify.com/track/3kvrftjZbR8OITcZzvvuO6"
+    },
+    {
+      "album": {
         "name": "Habemus Paname, Vol. 3",
         "url": "https://open.spotify.com/album/5jakmvZB2zi0oUMyOjUOhS"
       },
@@ -229,7 +251,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 236253,
       "name": "Around The Sun \u2013 Body Music Remix",
       "url": "https://open.spotify.com/track/5qP0Y4KHB2RcxW0ULLvLA1"
@@ -251,7 +273,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 510000,
       "name": "Atewo-Lara Ka Tepa Mo'se - Ben Gomori's J\u00f9ish Edit",
       "url": "https://open.spotify.com/track/07ZU8s3fl4mry8BIFxUtuT"
@@ -291,7 +313,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 284231,
       "name": "Aux larmes - Pilooski Mid-Summer Dub",
       "url": "https://open.spotify.com/track/5pRnyQLZHv40za7htQ1BLp"
@@ -327,7 +349,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 379640,
       "name": "Balearic Incarnation",
       "url": "https://open.spotify.com/track/6HxN4OABi6VovLm3VigN6o"
@@ -455,7 +477,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 380017,
       "name": "Business Acumen (Holy Ghost! Cover Version)",
       "url": "https://open.spotify.com/track/7y4QQ1NdYzJaJbHULP2Tw2"
@@ -521,7 +543,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 266820,
       "name": "Charanga",
       "url": "https://open.spotify.com/track/7CxwPOWDUC26Ia1odk1Mdj"
@@ -547,7 +569,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 263755,
       "name": "Come Back Around - Romain Garcia Remix",
       "url": "https://open.spotify.com/track/1QX9ADgtGC1qnSXRrFRQKx"
@@ -569,7 +591,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 244706,
       "name": "Crossing Paths",
       "url": "https://open.spotify.com/track/5lXOqXFHGPEPvzWVcK97fD"
@@ -587,7 +609,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 388719,
       "name": "Dansakoni",
       "url": "https://open.spotify.com/track/5OtZ6fidRTpFZu0IzI0RVw"
@@ -631,7 +653,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 396482,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/5QiiRVrLieGw72JbMJEY2M"
@@ -763,7 +785,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 194754,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh"
@@ -799,7 +821,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 349795,
       "name": "Epsilon Girls",
       "url": "https://open.spotify.com/track/3mLDrrAL7v2xLZj6PZENL2"
@@ -875,10 +897,32 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 267474,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/1bL5tLYFBvAcbYJ32646Jz"
+    },
+    {
+      "album": {
+        "name": "W",
+        "url": "https://open.spotify.com/album/4dfA4vqVedjn5tCy1Ce5my"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "EMMANUELLE",
+          "url": "https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493760,
+      "name": "Flores No Mar - Album Edit",
+      "url": "https://open.spotify.com/track/6SYH3khYd6Mum1cKf8sRux"
     },
     {
       "album": {
@@ -1339,7 +1383,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 194055,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/6IB77Wc9qKk4eoIMaHTPik"
@@ -1585,7 +1629,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 236129,
       "name": "Madres",
       "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
@@ -1603,7 +1647,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 404000,
       "name": "Manicumbi",
       "url": "https://open.spotify.com/track/4krFTTwq6VAFDZ3P419E8f"
@@ -1669,7 +1713,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 176949,
       "name": "Milkshake 20 (Alex Wann Remix)",
       "url": "https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"
@@ -1735,7 +1779,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 344539,
       "name": "Need",
       "url": "https://open.spotify.com/track/5NwfT0n9gsv08ttQbRgyEs"
@@ -1805,7 +1849,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 239925,
       "name": "Ode Ireti - Nitefreak Remix",
       "url": "https://open.spotify.com/track/40UBIQiUwe6Or8rUKRlG0N"
@@ -1853,7 +1897,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 294000,
       "name": "Oh Chuva",
       "url": "https://open.spotify.com/track/5P0NU0tX9NJ182ZRm8kxRz"
@@ -1893,7 +1937,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 387169,
       "name": "Only Everything",
       "url": "https://open.spotify.com/track/4J1giN8Rlt0YDpGDU4Vsjc"
@@ -1915,7 +1959,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 470863,
       "name": "Only You - Frankie Francis Disco Jam Edit",
       "url": "https://open.spotify.com/track/5UftP5ZuQxlnwDa9CFRD55"
@@ -1995,7 +2039,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 447457,
       "name": "Philosophy! - Crazy P Remix",
       "url": "https://open.spotify.com/track/2xpLZhgffNgDnq7ImKUSuB"
@@ -2087,7 +2131,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 222295,
       "name": "Premier Gaou - Nitefreak Remix",
       "url": "https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp"
@@ -2109,7 +2153,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 168133,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/1AaDIOjJHuUYygQqhaAKkH"
@@ -2193,7 +2237,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 347573,
       "name": "Set It Up",
       "url": "https://open.spotify.com/track/6NyGHuviK1nQgd7BbfKEfW"
@@ -2249,7 +2293,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 262232,
       "name": "Smoking & Drinking",
       "url": "https://open.spotify.com/track/6LdnFBhyghsXBveCio9hkT"
@@ -2307,7 +2351,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 423837,
       "name": "Something Happened - Pitto Instrumental Remix",
       "url": "https://open.spotify.com/track/0pAQUzD33FnYlqHWBJAJPI"
@@ -2333,7 +2377,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 205166,
       "name": "summer on the inside",
       "url": "https://open.spotify.com/track/0IRDLaO3ng5eyl4Po8hZXj"
@@ -2377,7 +2421,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 527566,
       "name": "Sun My Sweet Sun",
       "url": "https://open.spotify.com/track/7lho7sTZBzie1gERq3dEtm"
@@ -2399,7 +2443,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 191261,
       "name": "take your time (feat. Tinashe)",
       "url": "https://open.spotify.com/track/2AvoxIbaR1vmZe6sCmigaF"
@@ -2755,7 +2799,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 489750,
       "name": "Wonky Bassline Disco Banger",
       "url": "https://open.spotify.com/track/2SMQQX11RBFBnTkkZqrDfd"

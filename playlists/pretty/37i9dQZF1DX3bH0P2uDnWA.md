@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,013 likes - 150 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,026 likes - 150 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 102 | [Superhero](https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w) | [Kormac](https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn), [Mc Little Tree](https://open.spotify.com/artist/1WTWYBTjdHuCLJK9YXRbZb) | [Doorsteps](https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w) | 5:28 |
 | 103 | [Scruffy](https://open.spotify.com/track/7yG0SwtX3oxC9NiFuiCN13) | [Dutty Moonshine](https://open.spotify.com/artist/6suC1lu4yyFjKekdrdYvQQ), [Charlie D](https://open.spotify.com/artist/2XeFMwO0MinTqakpkaLrcY), [Fiona Hamilton](https://open.spotify.com/artist/6s1rrIhnIhlLyoUyYxHERv) | [Scruffy EP](https://open.spotify.com/album/4Ed0qIhTwMJ5pbajXiT652) | 3:31 |
 | 104 | [Street Lamp Swing](https://open.spotify.com/track/4Vjc2hFx7GT7YtyfRmomgR) | [Dirty Honkers](https://open.spotify.com/artist/2WbG0sHo7zvYLCFPFSAXXJ) | [Self Portrait in 3 Colors](https://open.spotify.com/album/09g7W6QRRXWNGDvfDtBtJe) | 3:57 |
-| 105 | [Tommy on the Bone](https://open.spotify.com/track/3WeLZpJzE9HTD3piV9KfpD) | [1000streets](https://open.spotify.com/artist/3JYeR3KstaUwBsK0KXYHz1), [Les Babettes](https://open.spotify.com/artist/7cdqNTpJWKqA6rp35tJUrH) | [Electro Way](https://open.spotify.com/album/7lnigrS5NeARD3aLKkXy7a) | 2:39 |
+| 105 | [Tommy on the Bone](https://open.spotify.com/track/3WeLZpJzE9HTD3piV9KfpD) | [1000streets](https://open.spotify.com/artist/3JYeR3KstaUwBsK0KXYHz1), [Les Babettes](https://open.spotify.com/artist/0gCnvI2CcR1Q0ceZBAP3Yq) | [Electro Way](https://open.spotify.com/album/7lnigrS5NeARD3aLKkXy7a) | 2:39 |
 | 106 | [1941 \(feat\. Virian\)](https://open.spotify.com/track/0Mft55GDMuD2rFnrSeFn3U) | [Klaypex](https://open.spotify.com/artist/4HBMToZ4yMR07eiK9IxtjK), [Virian](https://open.spotify.com/artist/5jYBAlIgga7KSy6mZLfHHR) | [Anything Goes](https://open.spotify.com/album/7CksdcNEVK5dAl0hbVAhDQ) | 3:00 |
 | 107 | [Otto Croy](https://open.spotify.com/track/2t9zpAfTNMZbUrDvYos1us) | [OdjBox](https://open.spotify.com/artist/4R61zLFCe9YgQV9MyfMgi7) | [Otto Croy EP](https://open.spotify.com/album/77OHZo2Dvd4fPVvflGlZKI) | 3:49 |
 | 108 | [Swing Delusion](https://open.spotify.com/track/4Xv0OEuS4178t2vEVzdDQO) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF), [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2) | [Wild & Groovy](https://open.spotify.com/album/66tlY8Lw40KgqtOKPAz3Ej) | 3:32 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 149 | [Topsy at the Top](https://open.spotify.com/track/4nJ2EMvjNqxBDrT0s6AK47) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Topsy at the Top](https://open.spotify.com/album/1n9Z8PcktdiG2ccx7CRnCm) | 4:20 |
 | 150 | [Light](https://open.spotify.com/track/6XMLzR52m0SAZfM8WxzQ0w) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Light](https://open.spotify.com/album/1QDrLXAZrhuye2dHxB2fzn) | 3:08 |
 
-Snapshot ID: `MCw4YTFhMWI0YTI2ZjllZjAwMDMxMDQ2M2YwZjdkOWFlMmI4YjgwODdh`
+Snapshot ID: `MCxlMzg4NjRjNDkzZjg0NmU1NmE0YjIzZThjMjdjZTNlODE2ZDllMDVl`

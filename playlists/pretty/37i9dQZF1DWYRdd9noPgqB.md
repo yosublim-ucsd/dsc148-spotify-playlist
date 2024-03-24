@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,955 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,987 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 |
 | 50 | [Countdown](https://open.spotify.com/track/1HhYxHF78fiSUlNAqQNozH) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb) | [Countdown](https://open.spotify.com/album/5cNJnRrIRQ8agjsqtpD8HK) | 2:35 |
 
-Snapshot ID: `MCxlOWNhM2I4NWRkNDBjZWNjYzdiNzI0NWYzNzIxNmNhNjkzMTkyYmYw`
+Snapshot ID: `MCxiMThlMTJkYTVhMTk2NzViMTg5YjM3YzY1ZTJjMzZmZDhjODI2ZDc1`

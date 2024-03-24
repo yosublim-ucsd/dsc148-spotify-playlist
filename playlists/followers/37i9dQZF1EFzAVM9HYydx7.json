@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 1458,
+  "2024-03-24": 1458,
   "date_first_scraped": "2023-12-14",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E\">Boi-1da</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Boi-1da",
@@ -753,6 +753,24 @@
       "duration_ms": 179880,
       "name": "Broke",
       "url": "https://open.spotify.com/track/7A2dius6RtCZDWbJmNe6gQ"
+    },
+    {
+      "album": {
+        "name": "When I Was Dead",
+        "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Burning Rubber",
+      "url": "https://open.spotify.com/track/6rBxl8ZgnXCDZVhzLEBTAG"
     },
     {
       "album": {

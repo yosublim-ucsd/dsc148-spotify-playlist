@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > bright future by adrianne lenker has arrived ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,295 likes - 130 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,364 likes - 130 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 129 | [all in good Time,](https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [all in good Time,](https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh) | 5:01 |
 | 130 | [Summer](https://open.spotify.com/track/3qbWCni1577NA2kQdQHHKR) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Whiplash](https://open.spotify.com/album/7JcEn5RIPlyhPNUtbht9mc) | 3:56 |
 
-Snapshot ID: `MCw5ODk5MjdiY2U1OWM5MTRlNjcwYmY1OGQxNDdmMGQyOTNmYzM1YjNl`
+Snapshot ID: `MCw2ZjlkYWQ4ZTNjZTM4NjQxY2RlYTg3OTJjYmJhNzVlMjE5YjA3ODBm`

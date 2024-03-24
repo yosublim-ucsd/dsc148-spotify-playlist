@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover:  Abby Robertson
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,982 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,979 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 3 | [Sanctuary](https://open.spotify.com/track/3JfZKmChE4YwCVdTKNthxl) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Sanctuary](https://open.spotify.com/album/7lhWkN4foNYWC5zXArlA7H) | 3:42 |
 | 4 | [Take This Slowly // Autumn Sessions](https://open.spotify.com/track/4b6UfKgoBxBLyJBkyHbAvj) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Take This Slowly // Autumn Sessions](https://open.spotify.com/album/0En2HzqrFPmB4eVYFiPa7M) | 4:46 |
 | 5 | [Jesus Is Coming Back](https://open.spotify.com/track/7Dxh2X3k565qoBEnNyqZoa) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 3:33 |
-| 6 | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/track/0HOPZn0IFpZS142x0uClQ0) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Chicago Children's Choir](https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg), [Matt Jones \(Re\-Collective Orchestra\)](https://open.spotify.com/artist/5aIudIa5jdxKBDLH1qVPWC) | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/album/1pFKxPHE8wZ3UsCAAcYO1J) | 3:12 |
+| 6 | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Chicago Children's Choir](https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg), [Matt Jones \(Re\-Collective Orchestra\)](https://open.spotify.com/artist/5aIudIa5jdxKBDLH1qVPWC) | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/album/1lBWCio6Lq0FcZTkyV7GWy) | 3:12 |
 | 7 | [Go Go Go](https://open.spotify.com/track/3FG9G5fK7gLHsu9bjt3ae6) | [Hopp](https://open.spotify.com/artist/4waJr0z0IXdqWmWxZyVfmG) | [\#Whoami](https://open.spotify.com/album/2XTh5jTofXAQQ02KwiUW5T) | 3:09 |
 | 8 | [Miracles](https://open.spotify.com/track/3QzlaToAAD4RAI1NneP6uH) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Cafe Sessions](https://open.spotify.com/album/0y8StZ7GXFcsXq8BIDWG0h) | 3:38 |
 | 9 | [Mark My Hands](https://open.spotify.com/track/6nbwAzMvYE83l8Sp7UlDC2) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Garage Sessions](https://open.spotify.com/album/7rihcgWC15RATcai38bxWW) | 5:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 49 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3O6HQpzeISpCmZ476CbEz5) | [Natalie Forteza](https://open.spotify.com/artist/79TkkUwYexkd0sUjSpfV2l) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/3RBcORvG8ZbTDOGCpaG2G4) | 3:51 |
 | 50 | [Let Me Find Thee](https://open.spotify.com/track/0UodTBf4fjeCEnbTlxLomd) | [Matthew Smith](https://open.spotify.com/artist/5KIdsYHVdOsekNYNValNzK) | [Let Me Find Thee](https://open.spotify.com/album/1GbrKGOpocbsdvzckBqHDe) | 4:01 |
 
-Snapshot ID: `MCw4ZWNhMTk3NjhiYzZkZGFmYzc3MmE4Y2U2YWQ2OTkzMWEwYTRiMzcw`
+Snapshot ID: `MCwyZjY3ODhlZWU5YjBkNzI5ZTM0Y2ZkYzBmNWE1YjM5MWQ2NDI2OGYz`

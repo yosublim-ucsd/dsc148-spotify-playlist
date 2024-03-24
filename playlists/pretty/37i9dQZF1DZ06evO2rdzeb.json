@@ -1,15 +1,31 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 4360,
+  "num_followers": 4420,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MTg1NjEsMDAwMDAwMDBkNzM1ZjU3NmQwZGRlYmZmMjc0NmY2ZjU1Mjk2MDc4NQ==",
+  "snapshot_id": "Mjg1MTk5NTYsMDAwMDAwMDAwN2I1ZTE2YWExZDk0OTE5ZGMwYTk2MmJlMmRmZDMxYg==",
   "tracks": [
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
+      "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/3zGhR60NOVSgtzNEQNcHav"
+    },
+    {
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "Fool",
         "url": "https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "a-sides",
         "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/1Pfc1Qpj0s9vQumI0JvpBp"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "Sadness As A Gift",
         "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/11hEwcy9LMEvzAlOYAFhkK"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "Hours Were the Birds",
         "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/6LSkjULcHSSfzVe7NY5iZJ"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "a-sides",
         "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
@@ -129,39 +145,7 @@
       "url": "https://open.spotify.com/track/4yVrfsUNtc5RS7nbOv8hHA"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
-      "album": {
-        "name": "Free Treasure",
-        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 215514,
-      "name": "Free Treasure",
-      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
-    },
-    {
-      "added_at": "2024-03-22 13:21:57",
-      "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 128700,
-      "name": "half return",
-      "url": "https://open.spotify.com/track/1i8dJGpKO0xQiKGCVslJqB"
-    },
-    {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "abysskiss",
         "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
@@ -177,7 +161,39 @@
       "url": "https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
+      "album": {
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 128700,
+      "name": "half return",
+      "url": "https://open.spotify.com/track/1i8dJGpKO0xQiKGCVslJqB"
+    },
+    {
+      "added_at": "2024-03-23 12:36:51",
+      "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 180495,
+      "name": "No Machine",
+      "url": "https://open.spotify.com/track/07LZPF6LzXu19GhVyqWF81"
+    },
+    {
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "a-sides",
         "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/57qpL2xmsydc04uBmiH2DC"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "Hours Were the Birds",
         "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/0Lix58xJgTxJyrHuSM7Jny"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
@@ -229,7 +245,23 @@
       "url": "https://open.spotify.com/track/5CpH0bwau1sW8vtTBQ8Erc"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
+      "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 154777,
+      "name": "Candleflame",
+      "url": "https://open.spotify.com/track/7lX3MvcB1Rnecn53Z3FTfA"
+    },
+    {
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "Ruined",
         "url": "https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA"
@@ -245,7 +277,7 @@
       "url": "https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "a-sides",
         "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
@@ -265,7 +297,55 @@
       "url": "https://open.spotify.com/track/1zfxhBOhC0qFa5uIhw7P4s"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
+      "album": {
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 189464,
+      "name": "forwards beckon rebound",
+      "url": "https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH"
+    },
+    {
+      "added_at": "2024-03-23 12:36:51",
+      "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 145738,
+      "name": "Donut Seam",
+      "url": "https://open.spotify.com/track/789Uf6zgvPqwbCcpw6zSiI"
+    },
+    {
+      "added_at": "2024-03-23 12:36:51",
+      "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 57679,
+      "name": "To Violet",
+      "url": "https://open.spotify.com/track/3oVNHBpsS6W704YXbIoZaN"
+    },
+    {
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "b-sides",
         "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
@@ -285,7 +365,7 @@
       "url": "https://open.spotify.com/track/2DsQ4PopTlUlheqyPgPwQz"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
@@ -296,15 +376,15 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 189464,
-      "name": "forwards beckon rebound",
-      "url": "https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH"
+      "duration_ms": 164224,
+      "name": "zombie girl",
+      "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
       },
       "artists": [
         {
@@ -312,12 +392,12 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 57679,
-      "name": "To Violet",
-      "url": "https://open.spotify.com/track/3oVNHBpsS6W704YXbIoZaN"
+      "duration_ms": 207822,
+      "name": "Already Lost",
+      "url": "https://open.spotify.com/track/2BSnnyfltzvOkM1hJrsZfj"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "a-sides",
         "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
@@ -337,7 +417,7 @@
       "url": "https://open.spotify.com/track/5axTmQJpmmKAPWUOBTJboB"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "b-sides",
         "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
@@ -357,23 +437,7 @@
       "url": "https://open.spotify.com/track/5qBdd2l8sQZe2270342ap7"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
-      "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 164224,
-      "name": "zombie girl",
-      "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
-    },
-    {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "abysskiss",
         "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
@@ -389,7 +453,23 @@
       "url": "https://open.spotify.com/track/5LrGZi2aSwJfUnP5eE1wBg"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
+      "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 158065,
+      "name": "Cell Phone Says",
+      "url": "https://open.spotify.com/track/2qUoLYCGQGJPlEM99tKd3t"
+    },
+    {
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "Hours Were the Birds",
         "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
@@ -405,7 +485,7 @@
       "url": "https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "b-sides",
         "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
@@ -425,7 +505,7 @@
       "url": "https://open.spotify.com/track/4Op5aSB6JSVzp7Jhi5hQKp"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "a-sides",
         "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
@@ -445,10 +525,10 @@
       "url": "https://open.spotify.com/track/6uSLk87TiYs9uTqf23k0Sw"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
       },
       "artists": [
         {
@@ -456,12 +536,12 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 148133,
-      "name": "what can you say",
-      "url": "https://open.spotify.com/track/3WZWhKFFfIrs6ykt8kO9Ua"
+      "duration_ms": 254263,
+      "name": "Evol",
+      "url": "https://open.spotify.com/track/1GRLxWFbZZZGF8mQw2BKSY"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "Hours Were the Birds",
         "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
@@ -477,7 +557,23 @@
       "url": "https://open.spotify.com/track/0UyXrymHlgh92dmiqgHyz5"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
+      "album": {
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 148133,
+      "name": "what can you say",
+      "url": "https://open.spotify.com/track/3WZWhKFFfIrs6ykt8kO9Ua"
+    },
+    {
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "b-sides",
         "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
@@ -497,39 +593,7 @@
       "url": "https://open.spotify.com/track/5McZ3LHgxlz8Fpea1oo8Ad"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
-      "album": {
-        "name": "instrumentals",
-        "url": "https://open.spotify.com/album/71q46YDkSq6uXS5WJy4WMk"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 1272830,
-      "name": "music for indigo",
-      "url": "https://open.spotify.com/track/1OzuAHfmr8Vg3eVvEbAR0p"
-    },
-    {
-      "added_at": "2024-03-22 13:21:57",
-      "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "abyss kiss",
-      "url": "https://open.spotify.com/track/0aI9eihvBSQRjMjtHQQ6nb"
-    },
-    {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "Hours Were the Birds",
         "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
@@ -545,7 +609,23 @@
       "url": "https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
+      "album": {
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "abyss kiss",
+      "url": "https://open.spotify.com/track/0aI9eihvBSQRjMjtHQQ6nb"
+    },
+    {
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "b-sides",
         "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
@@ -565,23 +645,7 @@
       "url": "https://open.spotify.com/track/2wEFuTCFRBvUTet1gomQGa"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
-      "album": {
-        "name": "instrumentals",
-        "url": "https://open.spotify.com/album/71q46YDkSq6uXS5WJy4WMk"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 972007,
-      "name": "mostly chimes",
-      "url": "https://open.spotify.com/track/26YdNW3yMLfA5NpTB8wzQy"
-    },
-    {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "abysskiss",
         "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
@@ -597,7 +661,7 @@
       "url": "https://open.spotify.com/track/7rc0yk3tTHn4Qkw4MOnxoE"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "b-sides",
         "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
@@ -617,7 +681,7 @@
       "url": "https://open.spotify.com/track/5xjqIJjjrLgTD2GBHkDQtJ"
     },
     {
-      "added_at": "2024-03-22 13:21:57",
+      "added_at": "2024-03-23 12:36:51",
       "album": {
         "name": "abysskiss",
         "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"

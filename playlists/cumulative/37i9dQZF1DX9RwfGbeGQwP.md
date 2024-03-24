@@ -1121,7 +1121,7 @@
 | [Speed Of Tomorrow](https://open.spotify.com/track/7wIr7S0dD59uhCsspA2y7K) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Speed Of Tomorrow](https://open.spotify.com/album/0OO47hC9O9Y9OkuK9y95d6) | 2:04 | 2022-09-02 | 2024-03-17 |
 | [Spinach](https://open.spotify.com/track/3fhiTiCkp2Vb2T5bpNsopZ) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [GRN](https://open.spotify.com/album/6gVEbL9Gpyx2oYIcNAdr7N) | 2:37 | 2022-01-27 | 2022-09-03 |
 | [Spiritual State](https://open.spotify.com/track/5JrPCcTiJMNvQmZ3OAiHNf) | [Jack Dean](https://open.spotify.com/artist/0bCEZwHpCgEfOd5M2ye5mw) | [Spiritual State](https://open.spotify.com/album/1IO6AGIqlwckR4lWUGaVSR) | 1:14 | 2022-11-11 | 2023-09-29 |
-| [springfeel](https://open.spotify.com/track/3tiJSouABGhdavwAdtxaoS) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [springfeel](https://open.spotify.com/album/5B5FChuXQYXVZHXeidfbGM) | 2:12 | 2023-07-13 | 2024-01-31 |
+| [springfeel](https://open.spotify.com/track/3tiJSouABGhdavwAdtxaoS) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [springfeel](https://open.spotify.com/album/5B5FChuXQYXVZHXeidfbGM) | 2:12 | 2023-07-13 |  |
 | [Square](https://open.spotify.com/track/3fRppxMcSzxXIvQwEuMtV4) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Square](https://open.spotify.com/album/7A5kZKRWSNSW3NN16e52da) | 2:04 | 2023-04-11 |  |
 | [Stacks](https://open.spotify.com/track/7eN7K7LEeMS0zC1leXHa2G) | [Puar](https://open.spotify.com/artist/2yvxxt7s9QjwEOZtLQ2yfT) | [Stacks](https://open.spotify.com/album/1contCImnUdQuH7V4sH76R) | 1:28 | 2022-11-11 | 2023-09-29 |
 | [starry night](https://open.spotify.com/track/4CvWJJdqIkE03l4P6PcXLc) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Honeycrisp](https://open.spotify.com/album/25exJu8A2PIVrDg2kXRwov) | 1:41 | 2022-07-01 | 2022-12-10 |
@@ -1393,6 +1393,6 @@
 | [Zeal](https://open.spotify.com/track/7gWksPQCd3aSdB7phjMTXy) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Zeal](https://open.spotify.com/album/1mPNHtXpRMDp6W9Xj2ShMB) | 2:21 | 2022-11-11 | 2023-04-28 |
 | [Zeal, Pt\. 2](https://open.spotify.com/track/1Z3PDHNa9EQHjuJT3mWrqW) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Zeal, Pt\. 2](https://open.spotify.com/album/53mnKSs3Q0K8vXUXk5RV1M) | 2:16 | 2023-05-19 | 2023-10-13 |
 | [Zeeez](https://open.spotify.com/track/6MKV08WI49nZjhC5nqzOvi) | [Dizzy Halos](https://open.spotify.com/artist/4qiOgE9uEz6UkqPEpUA6Md) | [Zeeez](https://open.spotify.com/album/47YQYybeQm0ZQEAYanjOu3) | 3:06 | 2022-01-27 | 2022-06-03 |
-| [Zeppelin Hike](https://open.spotify.com/track/7E5IpTS1Ik9fa1nth6ofer) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Zeppelin Hike](https://open.spotify.com/album/5LEWRbBnaHdB0plAyRH8bX) | 2:12 | 2022-09-16 |  |
+| [Zeppelin Hike](https://open.spotify.com/track/7E5IpTS1Ik9fa1nth6ofer) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Zeppelin Hike](https://open.spotify.com/album/5LEWRbBnaHdB0plAyRH8bX) | 2:12 | 2022-09-16 | 2024-03-24 |
 
 \*This playlist was first scraped on 2022-02-05. Prior content cannot be recovered.

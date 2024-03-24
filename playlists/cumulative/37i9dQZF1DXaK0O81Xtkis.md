@@ -4,7 +4,7 @@
 
 > make it pop! cover: Wallows
 
-933 songs - 1 day 22 hr 21 min
+934 songs - 1 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -908,7 +908,8 @@
 | [Who’s In Control](https://open.spotify.com/track/1GosSlFMwNOZ3tpb5LY3pW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Who's In Control](https://open.spotify.com/album/67FaNxCIc8ZSzeZffbm69l) | 3:05 | 2022-02-18 | 2022-02-26 |
 | [why u gotta be like that \(feat\. Nightly\)](https://open.spotify.com/track/7CRThl2cGDh1o9p3ivaLbG) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [why u gotta be like that \(feat\. Nightly\)](https://open.spotify.com/album/18I1ughAhwfDLtaU9eX3uW) | 2:23 | 2022-08-19 | 2022-11-12 |
 | [Wild Things](https://open.spotify.com/track/23IorJ28ZIRUI7VpKCaTSV) | [EEVAH](https://open.spotify.com/artist/3yJNIN3Ih9pFuG4cgfzCRL) | [Wild Things](https://open.spotify.com/album/1GgOyUSPYBz9682lLJWBWj) | 3:39 | 2022-12-23 | 2023-02-04 |
-| [Wild Things](https://open.spotify.com/track/24HWZczGAczojNdUnupoo4) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Wild Things](https://open.spotify.com/album/5KIbd4Narbp6OAITLmr9Wv) | 3:36 | 2024-03-01 |  |
+| [Wild Things](https://open.spotify.com/track/24HWZczGAczojNdUnupoo4) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Wild Things](https://open.spotify.com/album/5KIbd4Narbp6OAITLmr9Wv) | 3:36 | 2024-03-01 | 2024-03-24 |
+| [Wild Things](https://open.spotify.com/track/5zSblOkvmMVYmaXbDRXbFg) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Wild Things](https://open.spotify.com/album/2bcXBtpp2hrgJrCqbi06PA) | 3:36 | 2024-03-15 |  |
 | [Win Anyway](https://open.spotify.com/track/3ybYCEZBzVasEAHpix0ihF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Win Anyway](https://open.spotify.com/album/4JreOb3v50NkRrGyZxNRXC) | 2:56 | 2021-12-24 | 2022-02-26 |
 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 | 2022-12-23 | 2023-01-06 |
 | [Wish It Was Me](https://open.spotify.com/track/5znIh3KjSph3m7wCJsGgRY) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 2:33 | 2023-10-06 | 2023-12-02 |

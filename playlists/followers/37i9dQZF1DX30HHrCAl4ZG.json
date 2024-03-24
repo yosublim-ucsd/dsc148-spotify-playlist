@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 833978,
+  "2024-03-24": 833983,
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Mount Kimbie",
+  "description": "Explore all things indie rock right now. Featuring music from Wallows",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 336816,
       "name": "All the Same",
       "url": "https://open.spotify.com/track/2OPoTZy4WtLZeBuJpwmqh4"
@@ -1647,6 +1647,24 @@
       "duration_ms": 208773,
       "name": "As Much As I Can",
       "url": "https://open.spotify.com/track/1q6ZIGa9Vg6OV24mazdJ18"
+    },
+    {
+      "album": {
+        "name": "Good Morning Seven",
+        "url": "https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132013,
+      "name": "As The Dogs Were Playing",
+      "url": "https://open.spotify.com/track/3G3mzsZRaLMOuNH2cT0IG2"
     },
     {
       "album": {
@@ -2693,7 +2711,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 249751,
       "name": "Bleach",
       "url": "https://open.spotify.com/track/71hZZmCpeIly6IDECDKDun"
@@ -4020,6 +4038,24 @@
     },
     {
       "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
+    },
+    {
+      "album": {
         "name": "can we change the subject?",
         "url": "https://open.spotify.com/album/3nunKtSZya6RJ1uuaozqYr"
       },
@@ -4525,7 +4561,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 201776,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/25cnulf8xul2rIfLxKLyre"
@@ -5815,6 +5851,24 @@
       "duration_ms": 145059,
       "name": "Dare Me",
       "url": "https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl"
+    },
+    {
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193573,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
     },
     {
       "album": {
@@ -7333,7 +7387,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 243946,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG"
@@ -10247,7 +10301,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 208112,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/5w6i7gourKgjzOvd7lVi4M"
@@ -15693,7 +15747,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 193906,
       "name": "My Golden Years",
       "url": "https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR"
@@ -17656,6 +17710,24 @@
     },
     {
       "album": {
+        "name": "Pon P\u00f3n",
+        "url": "https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178436,
+      "name": "Pon P\u00f3n",
+      "url": "https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC"
+    },
+    {
+      "album": {
         "name": "Pontiac",
         "url": "https://open.spotify.com/album/5n8a6L0rODiSETCLRGeo30"
       },
@@ -18363,6 +18435,24 @@
       "duration_ms": 124373,
       "name": "Real I\u2019m Told",
       "url": "https://open.spotify.com/track/1ZT84SGqCu0So44tSJhG2l"
+    },
+    {
+      "album": {
+        "name": "Real Or Magic",
+        "url": "https://open.spotify.com/album/0b6XUCiA0QGgHDQPVZQGfL"
+      },
+      "artists": [
+        {
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226373,
+      "name": "Real Or Magic",
+      "url": "https://open.spotify.com/track/2CRHRuOY2KW0gdr6g1VMxd"
     },
     {
       "album": {
@@ -19219,6 +19309,24 @@
       "duration_ms": 150510,
       "name": "Seasick",
       "url": "https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S"
+    },
+    {
+      "album": {
+        "name": "see you again?",
+        "url": "https://open.spotify.com/album/0DtuwIeF8lkXZPFVlmiK7R"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "see you again?",
+      "url": "https://open.spotify.com/track/1gH2MYoWRJwmNxC49zWwgq"
     },
     {
       "album": {
@@ -20950,6 +21058,24 @@
     },
     {
       "album": {
+        "name": "Still Can\u2019t Believe",
+        "url": "https://open.spotify.com/album/5F7uDJ4UYbSyqLd1qODIGB"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202891,
+      "name": "Still Can\u2019t Believe",
+      "url": "https://open.spotify.com/track/1qCiSESOXPmjgVeuC6UH3o"
+    },
+    {
+      "album": {
         "name": "Stop Making This Hurt",
         "url": "https://open.spotify.com/album/6Zumf6wFEd0VHxHIUoMXhX"
       },
@@ -21297,7 +21423,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 200453,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/3OB5WUE1dbsTAs7kYjgNkP"
@@ -21495,7 +21621,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 176921,
       "name": "Sweater Club",
       "url": "https://open.spotify.com/track/4nEoYjvVzrEz0IVDru6xRc"
@@ -21531,7 +21657,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 239366,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/64hxSQpLelfhMPF7cjVIUS"
@@ -22639,7 +22765,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 213706,
       "name": "They Don't Know How To Fall In Place",
       "url": "https://open.spotify.com/track/2tfuZBeGLj63wrBUnwXiGk"
@@ -23228,6 +23354,24 @@
     },
     {
       "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
+      "album": {
         "name": "Toothpaste",
         "url": "https://open.spotify.com/album/7ARiMgXSFu7NnKtTXPWs5k"
       },
@@ -23297,6 +23441,24 @@
       "duration_ms": 192903,
       "name": "tough love",
       "url": "https://open.spotify.com/track/2wFmtAhnsyiGkvqV229rfJ"
+    },
+    {
+      "album": {
+        "name": "Two Things at Once",
+        "url": "https://open.spotify.com/album/4K3fG6A3UzqivRCPtRNaKl"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173074,
+      "name": "Tough Season",
+      "url": "https://open.spotify.com/track/78bqL0hABVqTi0ju2JWBVK"
     },
     {
       "album": {
@@ -24941,6 +25103,24 @@
       "duration_ms": 199715,
       "name": "Who Put You Up To This?",
       "url": "https://open.spotify.com/track/0DZ8GaDFNzl7FxNZI0CU4B"
+    },
+    {
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/386OkomCq7KFjusVqI1E78"
+      },
+      "artists": [
+        {
+          "name": "Francis of Delirium",
+          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/1aDt9pruckWVn6lllJtVgc"
     },
     {
       "album": {

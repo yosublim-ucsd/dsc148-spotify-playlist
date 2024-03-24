@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 34122,
+  "num_followers": 34165,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzFhNDNiMzFmZDZlYjQyNWUyYTc2OWMwZTQ2ZDdmMzhlNWMwMzlj",
+  "snapshot_id": "MCw5NGRkZjc4YWFiZjU1NDQxZTljNGYxZDU4ODIwNTFiNmU3MjQwOGI0",
   "tracks": [
     {
       "added_at": "2024-03-22 04:01:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Midtown Playground",
+        "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 222475,
+      "name": "Midtown Playground",
+      "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 337000,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Midtown Playground",
-        "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 222475,
-      "name": "Midtown Playground",
-      "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Provenance",
-        "url": "https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk"
-      },
-      "artists": [
-        {
-          "name": "MANT",
-          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
-        },
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        }
-      ],
-      "duration_ms": 401250,
-      "name": "Provenance",
-      "url": "https://open.spotify.com/track/1Rbrm7ozBLd32dTyhikJhu"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Don't Wanna Go",
         "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 180412,
       "name": "Don't Wanna Go",
       "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Provenance",
+        "url": "https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk"
+      },
+      "artists": [
+        {
+          "name": "MANT",
+          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
+        },
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "duration_ms": 401250,
+      "name": "Provenance",
+      "url": "https://open.spotify.com/track/1Rbrm7ozBLd32dTyhikJhu"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Teki Teki",
-        "url": "https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n"
-      },
-      "artists": [
-        {
-          "name": "Ishimaru",
-          "url": "https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n"
-        }
-      ],
-      "duration_ms": 200307,
-      "name": "Teki Teki",
-      "url": "https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Sete (Carlita Remix)",
         "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 222438,
       "name": "Sete - Carlita Remix",
       "url": "https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Teki Teki",
+        "url": "https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n"
+      },
+      "artists": [
+        {
+          "name": "Ishimaru",
+          "url": "https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n"
+        }
+      ],
+      "duration_ms": 200307,
+      "name": "Teki Teki",
+      "url": "https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1311,46 +1311,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Hand In Hand (Jonathan Kaspar Remix)",
-        "url": "https://open.spotify.com/album/45kxDHNQkSL6mVlac1OAd6"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        },
-        {
-          "name": "Jonathan Kaspar",
-          "url": "https://open.spotify.com/artist/0R3hsihsVWcPQq5H898UP0"
-        }
-      ],
-      "duration_ms": 436309,
-      "name": "Hand In Hand - Jonathan Kaspar Remix",
-      "url": "https://open.spotify.com/track/2X3iHKbejETh1uW08Y1qti"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf"
-      },
-      "artists": [
-        {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 224322,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Sublime Tech House, Vol. 20",
         "url": "https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk"
       },
@@ -1383,6 +1343,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 224322,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Space Is The Place",
         "url": "https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp"
       },
@@ -1399,34 +1375,26 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Noreaga",
-        "url": "https://open.spotify.com/album/43ZR2HJop5IZAboipHGbc1"
+        "name": "Hand In Hand (Jonathan Kaspar Remix)",
+        "url": "https://open.spotify.com/album/45kxDHNQkSL6mVlac1OAd6"
       },
       "artists": [
         {
-          "name": "Jeremy Olander",
-          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
-        }
-      ],
-      "duration_ms": 487218,
-      "name": "Noreaga",
-      "url": "https://open.spotify.com/track/0qKPsIpJdCEUSeoB3JZddK"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/12quZo2PlX4wa0k6S1NveB"
-      },
-      "artists": [
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
         {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Jonathan Kaspar",
+          "url": "https://open.spotify.com/artist/0R3hsihsVWcPQq5H898UP0"
         }
       ],
-      "duration_ms": 201172,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/68qcK1XoQLaaI3NNNEYdaQ"
+      "duration_ms": 436309,
+      "name": "Hand In Hand - Jonathan Kaspar Remix",
+      "url": "https://open.spotify.com/track/2X3iHKbejETh1uW08Y1qti"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1443,6 +1411,22 @@
       "duration_ms": 181054,
       "name": "Rudeboi",
       "url": "https://open.spotify.com/track/4ViEI1gmu2hsyYNPVZnenR"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/12quZo2PlX4wa0k6S1NveB"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 201172,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/68qcK1XoQLaaI3NNNEYdaQ"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Step Forward EP",
-        "url": "https://open.spotify.com/album/6G9EVsvrgPLV34oAxeNx2I"
+        "name": "Noreaga",
+        "url": "https://open.spotify.com/album/43ZR2HJop5IZAboipHGbc1"
       },
       "artists": [
         {
-          "name": "Ben Sterling",
-          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
         }
       ],
-      "duration_ms": 335269,
-      "name": "Step Forward",
-      "url": "https://open.spotify.com/track/0wRlUOHmdlPEzuK1qfbYAm"
+      "duration_ms": 487218,
+      "name": "Noreaga",
+      "url": "https://open.spotify.com/track/0qKPsIpJdCEUSeoB3JZddK"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/5R8jLYuFWZuBkwSfRIBQmw"
+        "name": "Step Forward EP",
+        "url": "https://open.spotify.com/album/6G9EVsvrgPLV34oAxeNx2I"
       },
       "artists": [
         {
-          "name": "X-COAST",
-          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
         }
       ],
-      "duration_ms": 271886,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/3ENcnIB39ek39fUNaXX7ns"
+      "duration_ms": 335269,
+      "name": "Step Forward",
+      "url": "https://open.spotify.com/track/0wRlUOHmdlPEzuK1qfbYAm"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1527,6 +1511,22 @@
       "duration_ms": 190449,
       "name": "No Turning Back",
       "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/5R8jLYuFWZuBkwSfRIBQmw"
+      },
+      "artists": [
+        {
+          "name": "X-COAST",
+          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
+        }
+      ],
+      "duration_ms": 271886,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/3ENcnIB39ek39fUNaXX7ns"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1599,22 +1599,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/0Bg7QNJQrlWzyXIKuOoV3h"
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/0GRAvBOREScwdewiySp05v"
       },
       "artists": [
         {
-          "name": "Dantiez",
-          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
-        },
-        {
-          "name": "The Saunderson Brothers",
-          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
         }
       ],
-      "duration_ms": 189672,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/72Ri6rmuWUuf10a3Vg6v2X"
+      "duration_ms": 195365,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/0HGX3Sk2Wp4ibJDyW9hvdY"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1651,6 +1647,26 @@
       "duration_ms": 196030,
       "name": "World Is Empty",
       "url": "https://open.spotify.com/track/2nXrGRA0qLwXtZ4QtQD6Jg"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/0Bg7QNJQrlWzyXIKuOoV3h"
+      },
+      "artists": [
+        {
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
+        },
+        {
+          "name": "The Saunderson Brothers",
+          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
+        }
+      ],
+      "duration_ms": 189672,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/72Ri6rmuWUuf10a3Vg6v2X"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1743,22 +1759,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Touch Me",
-        "url": "https://open.spotify.com/album/6AGx5r4hGfYYK1uZLpJCUR"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 164340,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "What We Got",
         "url": "https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy"
       },
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/6AGx5r4hGfYYK1uZLpJCUR"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 164340,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "YAP EP",
         "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
       },
@@ -1787,26 +1803,6 @@
       "duration_ms": 246474,
       "name": "YAP",
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "We Bring It",
-        "url": "https://open.spotify.com/album/16kmKC1uHic7yNNY9lQlPd"
-      },
-      "artists": [
-        {
-          "name": "Darius Syrossian",
-          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
-        },
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 368372,
-      "name": "We Bring It",
-      "url": "https://open.spotify.com/track/5klBsW9tLISCWfwJ82jI1l"
     },
     {
       "added_at": "2024-03-22 04:01:00",

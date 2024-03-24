@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,826 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,981 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 99 | [Rudeless](https://open.spotify.com/track/5e6bIB6BGr9Huzj4HlQVFr) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Rudeless EP](https://open.spotify.com/album/4L4LQFTx7G2HGjtnbb9u2X) | 3:16 |
 | 100 | [Undo U \- 4x4 Mix](https://open.spotify.com/track/4Jwmw6mn6D3oUPfptF7Ng7) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Undo U \(4x4 Mix\)](https://open.spotify.com/album/1Pdd6xpnSzMlfUjDogMhgO) | 3:04 |
 
-Snapshot ID: `MCxiNTY4NzQ3M2U1MTAwYTA0NDgyNzI2N2I4OTJjMjE4NWNlMDQxMDM5`
+Snapshot ID: `MCwzNTA2OGYwNDRhNzI5MmU1Y2IxMmQ2ZmY3OGY0NTc3NzMxNGMxYWJk`

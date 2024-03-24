@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,246 likes - 100 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,259 likes - 100 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 57 | [Chonchos](https://open.spotify.com/track/58B9gtBLbeQG55l8whZz2R) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 4:58 |
 | 58 | [Atelier](https://open.spotify.com/track/71mFfICCJkyn4gyYjnoiDL) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP) | 6:47 |
 | 59 | [Atomos VII](https://open.spotify.com/track/2Ax0k7jE4DmGO1q1WJxhAO) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [Atomos](https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z) | 7:49 |
-| 60 | [Cherry Blossom Petals Fall Like Heavy Snow](https://open.spotify.com/track/5xWpxxbOgiVJnveonlraii) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Forgotten Hill](https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf) | 5:21 |
-| 61 | [Moonstone](https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Balsams](https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3) | 9:04 |
+| 60 | [Moonstone](https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Balsams](https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3) | 9:04 |
+| 61 | [Cherry Blossom Petals Fall Like Heavy Snow](https://open.spotify.com/track/5xWpxxbOgiVJnveonlraii) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Forgotten Hill](https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf) | 5:21 |
 | 62 | [Before Meaning Comes](https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [A Turn of Breath \- Extended](https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ) | 3:12 |
 | 63 | [Opening](https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER), [Sebastian Plano](https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr) | [Everything](https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4) | 3:34 |
 | 64 | [To All It](https://open.spotify.com/track/3iHLnn2XiItvL0PD9x87Sp) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 6:02 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 77 | [Equal Ourselves](https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 3:59 |
 | 78 | [Blue Diamond](https://open.spotify.com/track/6DYje8nscLyfBGXDyrF41C) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Goodbye To Language](https://open.spotify.com/album/73ajNnvLxWcPD4dx1TdKIN) | 3:19 |
 | 79 | [Without Motion \- Leandro Fresco Remix](https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY), [Leandro Fresco](https://open.spotify.com/artist/0gJgTQEVl62dN80lQbOBK5) | [Glider 10: Reworks](https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF) | 7:44 |
-| 80 | [Wound](https://open.spotify.com/track/34kYtNP4JkeMHiNFi5OkTe) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Xen](https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe) | 2:09 |
-| 81 | [Diminishing Emotion](https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy) | [Leyland Kirby](https://open.spotify.com/artist/2xr5chbaC1VNbzqOlCYgyC) | [Breaks My Heart Each Time](https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3) | 9:18 |
+| 80 | [Diminishing Emotion](https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy) | [Leyland Kirby](https://open.spotify.com/artist/2xr5chbaC1VNbzqOlCYgyC) | [Breaks My Heart Each Time](https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3) | 9:18 |
+| 81 | [Wound](https://open.spotify.com/track/34kYtNP4JkeMHiNFi5OkTe) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Xen](https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe) | 2:09 |
 | 82 | [An Evening With Dusty](https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx) | [Kyle Bobby Dunn](https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl) | [Bring Me The Head of Kyle Bobby Dunn](https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph) | 8:09 |
 | 83 | [Two Different People](https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt) | [Mark McGuire](https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By) | [Living With Yourself](https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx) | 3:22 |
 | 84 | [Ogives / Redistributed](https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Curious Things](https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF) | 5:28 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 87 | [The Last of Our Time Together](https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [The Last of Our Time Together](https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc) | 16:02 |
 | 88 | [Imprint \(Bonus Track\)](https://open.spotify.com/track/5Uze3DWsfe4DWEIe2KQqBN) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 6:13 |
 | 89 | [AAE\-KZT](https://open.spotify.com/track/6kHS5vk5QLUlxy2qbCMlop) | [Pendant](https://open.spotify.com/artist/3Dwfw1WTW4TyJJim9hblas) | [Make Me Know You Sweet](https://open.spotify.com/album/4cq8lOA5PvprvOw8xpLEFI) | 7:25 |
-| 90 | [This Is Not My City](https://open.spotify.com/track/2992b6Uyw7LjfYyV2gvaFB) | [Dirty Beaches](https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8) | [Drifters / Love Is the Devil](https://open.spotify.com/album/0eKBCl5Qo6ds8hIrY5M6Dl) | 3:42 |
-| 91 | [Luotasi](https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Vantaa](https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP) | 8:10 |
+| 90 | [Luotasi](https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Vantaa](https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP) | 8:10 |
+| 91 | [This Is Not My City](https://open.spotify.com/track/2992b6Uyw7LjfYyV2gvaFB) | [Dirty Beaches](https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8) | [Drifters / Love Is the Devil](https://open.spotify.com/album/0eKBCl5Qo6ds8hIrY5M6Dl) | 3:42 |
 | 92 | [Further Away \- Benoît Pioulard Rework](https://open.spotify.com/track/05ApgAqW3FKoDAR1uDe7zw) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY), [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Glider 10: Reworks](https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF) | 5:48 |
 | 93 | [Search Party](https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP) | [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs) | [American Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1) | 1:46 |
 | 94 | [Constant](https://open.spotify.com/track/7oBD0eIxMO2eCrmdvKnMxN) | [Marcus Fischer](https://open.spotify.com/artist/65XXatfLe9qJ44dCxKH4u9) | [Collected Dust](https://open.spotify.com/album/5f2LBm23k0MEjO1eZV9Pno) | 4:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 99 | [Gentle Flight](https://open.spotify.com/track/71LrMApAHFrst0uRGnp01X) | [White Rainbow](https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq) | [21 Exoticism ESCAP](https://open.spotify.com/album/0ZdjiLjmm4hJyJHsfPyt4h) | 3:17 |
 | 100 | [The Endless Battle of the Maudlin Ballade, Pt\. 2](https://open.spotify.com/track/2oyd6bi7oVJlidyya5dHKQ) | [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs) | [Travels in Constants Volume 24](https://open.spotify.com/album/690BSJU73zkz1gbUJ9AkAE) | 3:24 |
 
-Snapshot ID: `MCxhMzM1MWQ4OTY2ZmQ5YTk0NTQ1NjMwNmYxYWM2YzZiM2ZjOGNlYThm`
+Snapshot ID: `MCw0NmEzZWJhMzlhZTBmZmYzZDdkYWUwNDRhMDYwMTQ2NWQzMjljMTBi`

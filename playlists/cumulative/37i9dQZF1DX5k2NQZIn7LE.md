@@ -4,7 +4,7 @@
 
 > Fusion hits of Coke Studio Pakistan\. Cover: Justin Bibis
 
-119 songs - 13 hr 11 min
+120 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,9 +62,10 @@
 | [Latthay Di Chaadar](https://open.spotify.com/track/58AkcBdW5NpM2TBbkKbdK3) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 4](https://open.spotify.com/album/47IayN7LlLIu6A2RuzhbrX) | 7:58 | 2022-03-15 |  |
 | [Luddi Hay Jamalo](https://open.spotify.com/track/4bgnqcQr1FJ9KX41gdtep5) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Humaira Arshad](https://open.spotify.com/artist/3jJRl9bVaEMShvhvxzlQWh) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 5:30 | 2022-03-15 |  |
 | [Malang](https://open.spotify.com/track/31I8REXZtDjD1J4KrySTN8) | [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 6:37 | 2022-03-15 |  |
-| [Man Aamadeh Am](https://open.spotify.com/track/3PMThMLdTuwWLvlFTeSsrO) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 8:58 | 2022-10-12 |  |
+| [Man Aamadeh Am](https://open.spotify.com/track/3PMThMLdTuwWLvlFTeSsrO) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 8:58 | 2022-10-12 | 2024-03-24 |
 | [Man Aamadeh Am](https://open.spotify.com/track/451lYQUEpLT3AzOsGj6lDn) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 8:58 | 2022-03-15 | 2023-10-08 |
 | [Man Aamadeh Am](https://open.spotify.com/track/7pehqY4MpNJ2Zvs8ocavr3) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 8:58 | 2022-10-12 | 2023-12-09 |
+| [Man Aamadeh Am \- Coke Studio Season 8](https://open.spotify.com/track/5f9WiwgxW63K3qp1rqh3eZ) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Man Aamadeh Am \(Coke Studio Season 8\)](https://open.spotify.com/album/34HGhDM8pL5txbZh3XPUWG) | 8:58 | 2022-10-12 |  |
 | [Meri Meri](https://open.spotify.com/track/2oQSnKHxOqwsakcEUgQZso) | [Sara Haider](https://open.spotify.com/artist/6SAVSCOYe60i9z4XY9O2Rh), [Rizwan Butt](https://open.spotify.com/artist/7EbkUgsmelOvqaXTsXuH1r) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 6:26 | 2022-03-15 |  |
 | [Meri Meri](https://open.spotify.com/track/60sHjeA9m4vJ0yNBUJpyXL) | [Sara Haider](https://open.spotify.com/artist/6SAVSCOYe60i9z4XY9O2Rh), [Rizwan Butt](https://open.spotify.com/artist/7EbkUgsmelOvqaXTsXuH1r), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 6:26 | 2022-03-15 | 2022-07-29 |
 | [Mori Araj Suno](https://open.spotify.com/track/1WbMNqiGwIwVC6VJGmgutg) | [Tina Sani](https://open.spotify.com/artist/4sNVLsdQvZ6RI5Y3C6Yr3B), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 6:35 | 2022-03-15 |  |

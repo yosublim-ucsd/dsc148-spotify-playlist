@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 1547832,
+  "2024-03-24": 1548019,
   "date_first_scraped": "2021-12-21",
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
   "name": "Night Rider",
@@ -4448,6 +4448,24 @@
     },
     {
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW"
+      },
+      "artists": [
+        {
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169528,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
+    },
+    {
+      "album": {
         "name": "Light On",
         "url": "https://open.spotify.com/album/1xmZAdsCwSmgTPdFdvY71Q"
       },
@@ -7507,7 +7525,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 147580,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2"

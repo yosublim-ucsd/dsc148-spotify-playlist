@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,788 likes - 63 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,233 likes - 63 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 62 | [Equivocada \- Ao Vivo](https://open.spotify.com/track/1Jhkk1FIV7tMH9CZATjxrf) | [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Equivocada \(Ao Vivo\)](https://open.spotify.com/album/1DtqMgoWe5pdqFUuk5Bh6n) | 3:27 |
 | 63 | [Fica Light \- Ao Vivo](https://open.spotify.com/track/5CiQPfyBYtsAhqF0CQtfrX) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Diferentão 2 \- Vol\. 1](https://open.spotify.com/album/5VM1mIyytz0CVseJph8zso) | 2:41 |
 
-Snapshot ID: `MCxmZThjODZmNjE1MWQzYjc3ZjVmMjgxNmNkODUyZGE2MzBlNWE3NDBh`
+Snapshot ID: `MCw3YWM3YzlhM2RlZGZiNTJlYzdkNWNmYTY3NGNhMDA0ZGNmNzM5OWVj`

@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-394 songs - 22 hr 54 min
+395 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,13 +368,14 @@
 | [Us](https://open.spotify.com/track/2lmMt4SRDXDma6QkJUox0D) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Us](https://open.spotify.com/album/7pWw6ozRByPfbII3rqDnct) | 3:07 | 2023-02-23 |  |
 | [Used To Have It All \- Acoustic](https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Used To Have It All \(Acoustic Version\)](https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ) | 3:01 | 2023-02-23 |  |
 | [W.E.E.K.E.N.D.](https://open.spotify.com/track/3T2fai9uwHnVrsTzlfFv0c) | [Arling & Cameron](https://open.spotify.com/artist/7vecYSjE3aIdfEGfsCpBsu) | [Music For Imaginary Films](https://open.spotify.com/album/4U8cs4LsMzKpC6dJhnziMv) | 4:15 | 2023-02-23 | 2023-04-13 |
+| [Walk on Water](https://open.spotify.com/track/68obZMzQygdgIFOPyhTAcd) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/73EyE4D0ijagZHApIY7B2a) | 3:34 | 2024-03-21 |  |
 | [Walk on Water](https://open.spotify.com/track/7gJxovbniGxd1capql4YkA) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/05DW2Nhy7weLFZutIO7GCp) | 3:34 | 2023-04-25 | 2023-10-06 |
 | [Walking On A Wire](https://open.spotify.com/track/5T4dlptZuicwu2CENBBTiB) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Walking On A Wire](https://open.spotify.com/album/3lwoMf5HdSl5CeSWCG3UTP) | 3:35 | 2023-02-23 | 2023-04-26 |
 | [Wandering Heart](https://open.spotify.com/track/3nB886s0ieK7TwHFjQgoOz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Wandering Heart](https://open.spotify.com/album/10THMG976Sqzl7Bh5yE7At) | 3:20 | 2023-02-23 |  |
 | [Warwick Avenue](https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:46 | 2023-02-23 | 2023-05-02 |
 | [Wasn't Expecting That](https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR) | 3:21 | 2023-02-23 |  |
 | [Water Under the Bridge](https://open.spotify.com/track/4jL6WWKFDqCOPo2hC3VhSS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:00 | 2023-02-23 | 2023-08-16 |
-| [Waterfall](https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Waterfall](https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e) | 2:46 | 2023-02-23 |  |
+| [Waterfall](https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Waterfall](https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e) | 2:46 | 2023-02-23 | 2024-03-24 |
 | [Waves](https://open.spotify.com/track/3s8GJ1A9ujxsKcLaJ2wY7Q) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Waves](https://open.spotify.com/album/5xHR6285R5JhrTwXIjtP8D) | 2:54 | 2023-02-23 | 2023-04-26 |
 | [We're All Going Home](https://open.spotify.com/track/5cXq69EbEhTaWE7lUTOwsK) | [The Wanderer ](https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK) | [We're All Going Home](https://open.spotify.com/album/5zZjrDAnqhbeslF6OCGqE7) | 3:04 | 2023-02-23 |  |
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2024-03-19 |  |

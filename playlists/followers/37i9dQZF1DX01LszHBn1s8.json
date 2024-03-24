@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 244724,
+  "2024-03-24": 247160,
   "date_first_scraped": "2022-06-05",
   "description": "i'm just a girl updating a playlist",
   "name": "pov (2)",
@@ -3743,7 +3743,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 186111,
       "name": "Can You Remember the Rain",
       "url": "https://open.spotify.com/track/6y4BWzx0SeqZT9KhRD25y6"
@@ -3801,7 +3801,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 186723,
       "name": "Can You Remember the Rain - Sequence Remix",
       "url": "https://open.spotify.com/track/0OMk47yB6vZLECkkHRAEQH"
@@ -19542,12 +19542,12 @@
       "artists": [
         {
           "name": "Home",
-          "url": "https://open.spotify.com/artist/5WTIVcD1k0d5JHsR6LK8Zf"
+          "url": "https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P"
         }
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 212880,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/2BGm83eW9sQfwYfQlpBDNS"
@@ -19565,7 +19565,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 212881,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT"

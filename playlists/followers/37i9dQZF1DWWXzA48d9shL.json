@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 573419,
+  "2024-03-24": 573490,
   "date_first_scraped": "2022-01-10",
-  "description": "Rap from hell. Cover: Scrim from $uicideboy$",
+  "description": "Rap from hell. Cover: 1nonly",
   "name": "TIRADE",
   "tracks": [
     {
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 148645,
       "name": "#scrimjustwannahavefun",
       "url": "https://open.spotify.com/track/2vl8WMaahDYGl4uqYsdxCM"
@@ -237,6 +237,24 @@
       "duration_ms": 140061,
       "name": "100WAYS",
       "url": "https://open.spotify.com/track/7GyAyHMlLXAwY7gwhgsEkz"
+    },
+    {
+      "album": {
+        "name": "10TOES",
+        "url": "https://open.spotify.com/album/5wqtyPHtL5xvBnzfwTscPJ"
+      },
+      "artists": [
+        {
+          "name": "South Strip",
+          "url": "https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133750,
+      "name": "10TOES",
+      "url": "https://open.spotify.com/track/6ZHrDsAJ2EW57xMVlNDhK7"
     },
     {
       "album": {
@@ -3452,6 +3470,28 @@
     },
     {
       "album": {
+        "name": "SCORCHED EARTH",
+        "url": "https://open.spotify.com/album/2zyax7rvYPOdCkh8H7aI0H"
+      },
+      "artists": [
+        {
+          "name": "NIKKO",
+          "url": "https://open.spotify.com/artist/3dnOnDLzcymqwDP7HMEFAC"
+        },
+        {
+          "name": "SCREAM",
+          "url": "https://open.spotify.com/artist/3zBVEBpGRlpnDkjbBrBUnU"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132683,
+      "name": "DogPound",
+      "url": "https://open.spotify.com/track/6zx36E2ZnK55gofGptVgIH"
+    },
+    {
+      "album": {
         "name": "DON'T BREATHE!",
         "url": "https://open.spotify.com/album/0GwJVs8lPoM0uvlaWBesUd"
       },
@@ -3759,6 +3799,24 @@
       "duration_ms": 88429,
       "name": "FAKE",
       "url": "https://open.spotify.com/track/3hmu0jyxSShogL95NOZcLS"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/7FGCBxUHVOvJUEWTwLCA9c"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5cF4gR8WHnHgkPFSD6hdC2"
     },
     {
       "album": {
@@ -4945,7 +5003,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 132384,
       "name": "GUTS!",
       "url": "https://open.spotify.com/track/1TgfuMX9NCHkMTMlAf1yQB"
@@ -5157,6 +5215,28 @@
       "duration_ms": 80016,
       "name": "HELL IS WHEN THE SUNS UP",
       "url": "https://open.spotify.com/track/1GJXtefN6HuDXYD2xV78vX"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/6Cukm7w6ziSd1gZ0RGl8rM"
+      },
+      "artists": [
+        {
+          "name": "Slevpy808",
+          "url": "https://open.spotify.com/artist/0NRPZs1M9XVUcy11A9mkXf"
+        },
+        {
+          "name": "$at.urn",
+          "url": "https://open.spotify.com/artist/5hrM1jc5L5aTr0qoWzEqBk"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100003,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/2XwqfFbo7YQzhFwqwqOaIX"
     },
     {
       "album": {
@@ -6095,7 +6175,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 98823,
       "name": "INTESTINES",
       "url": "https://open.spotify.com/track/619mfsz29H7LB2FMQLdYL0"
@@ -6689,7 +6769,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 195405,
       "name": "KOTA",
       "url": "https://open.spotify.com/track/6eYNLf71cggJ1OKIgu8gnW"
@@ -8309,7 +8389,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 165333,
       "name": "No Gimmix",
       "url": "https://open.spotify.com/track/2xWJfldVUKz8crbk24aYsP"
@@ -9033,6 +9113,24 @@
       "duration_ms": 133333,
       "name": "POPTHATRUNK",
       "url": "https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs"
+    },
+    {
+      "album": {
+        "name": "PRELUDE",
+        "url": "https://open.spotify.com/album/3Ty16jF85SL2KxP1kG5Dh7"
+      },
+      "artists": [
+        {
+          "name": "Terror Reid",
+          "url": "https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137931,
+      "name": "PRELUDE",
+      "url": "https://open.spotify.com/track/7Ab36lIzfV514EAWtjn8j6"
     },
     {
       "album": {
@@ -10320,6 +10418,46 @@
     },
     {
       "album": {
+        "name": "snakes",
+        "url": "https://open.spotify.com/album/50w3jJypacgY733uBdP6BV"
+      },
+      "artists": [
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "snakes",
+      "url": "https://open.spotify.com/track/2d7R3uf4J0RlM2iHI5RttN"
+    },
+    {
+      "album": {
+        "name": "Son Gohan",
+        "url": "https://open.spotify.com/album/39EdvibZaks6Vi4ujEXHGA"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100971,
+      "name": "Son Gohan",
+      "url": "https://open.spotify.com/track/13RtnlcO9A13AX6oaoRZLk"
+    },
+    {
+      "album": {
         "name": "sorry im a haunted house",
         "url": "https://open.spotify.com/album/25oNU5hHbzv3GAF8UfLZUy"
       },
@@ -10357,7 +10495,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 160000,
       "name": "Soul Stealer",
       "url": "https://open.spotify.com/track/7cTsg8KzAYHPU5lRRvUlYG"
@@ -10375,7 +10513,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 113999,
       "name": "Speaker Full of Phonk",
       "url": "https://open.spotify.com/track/5CxT2SFsvdYHh83ih8PZmo"
@@ -10521,7 +10659,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 150674,
       "name": "Step Back!",
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
@@ -11285,7 +11423,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 155555,
       "name": "TOOLIE BEAM",
       "url": "https://open.spotify.com/track/6wjR1iV0PmJRBJGsRyukSY"

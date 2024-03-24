@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,177 likes - 155 songs - 8 hr 57 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,183 likes - 155 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 10 | [Turmoil](https://open.spotify.com/track/2oJxVoQI9QxXRt8EYN8mEA) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF) | [Emergence](https://open.spotify.com/album/1FufCHcrLgdogsuq7JVsxh) | 3:32 |
 | 11 | [I Am The One](https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [I Am The One](https://open.spotify.com/album/6EigqdKdQ2B8bxnJrIGLN9) | 3:20 |
 | 12 | [Throw It Back](https://open.spotify.com/track/6mjAMJjMb5FUvRFOyBLeKv) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Throw It Back](https://open.spotify.com/album/3eKEOVPOf9zuTO66tszH9x) | 2:20 |
-| 13 | [Races \(feat\. Blanco\)](https://open.spotify.com/track/346F7P0kUbfsnVDjoNuBIo) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Blanco](https://open.spotify.com/artist/5wR4qEvBcE4OqSSAIBqAnt) | [Races \(feat\. Blanco\)](https://open.spotify.com/album/54hfDrQUz2ALn962NVjkdj) | 2:20 |
+| 13 | [Races \(feat\. Blanco\)](https://open.spotify.com/track/346F7P0kUbfsnVDjoNuBIo) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Races \(feat\. Blanco\)](https://open.spotify.com/album/54hfDrQUz2ALn962NVjkdj) | 2:20 |
 | 14 | [Silence](https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Silence](https://open.spotify.com/album/7ItctvDW7uwa0Zegbd8rq2) | 2:36 |
 | 15 | [Lovers In A Past Life \(with Rag'n'Bone Man\) \- Westend Remix](https://open.spotify.com/track/1mEsNYnNvLyG7enKUZ6l83) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Lovers In A Past Life \(Westend Remix\)](https://open.spotify.com/album/4iIX8tATPedKUMG0dmsKMJ) | 3:25 |
 | 16 | [GO GO GO \(Feat\. Josman\)](https://open.spotify.com/track/7aVmgoP5zbhgmfyzrhjkt9) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [GO GO GO \(Feat\. Josman\)](https://open.spotify.com/album/7vytsNJbYLRuIIw04DwaP0) | 2:28 |

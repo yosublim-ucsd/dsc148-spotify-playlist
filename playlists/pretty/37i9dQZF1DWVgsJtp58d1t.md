@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Black artists every Friday\. Happy Women's History Month! Cover: <a href="spotify:artist:3SozjO3Lat463tQICI9LcE">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,548 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,673 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 33 | [MONEY](https://open.spotify.com/track/4gGoa5NtwIdsyZ9jY8coU5) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [Change, Change, Change](https://open.spotify.com/album/6yi6vnoFBME61c12lCWDJR) | 3:19 |
 | 34 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
 | 35 | [Hundred Million Reasons](https://open.spotify.com/track/4YTHJMz3yiR6PRnjdlP2jZ) | [Paperboy Fabe](https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Hundred Million Reasons](https://open.spotify.com/album/6sbcg3Ab1Ts57F12QWKkVA) | 3:02 |
-| 36 | [Run Home](https://open.spotify.com/track/0X3rHWaJJyM5AvVwjfPOzx) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Run Home](https://open.spotify.com/album/1TxyiJUOTL8nNeKzFp5sLx) | 4:40 |
+| 36 | [Run Home](https://open.spotify.com/track/0X3rHWaJJyM5AvVwjfPOzx) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Run Home](https://open.spotify.com/album/1TxyiJUOTL8nNeKzFp5sLx) | 3:19 |
 | 37 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 |
 | 38 | [symptom of life](https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [symptom of life](https://open.spotify.com/album/7geRIwdu4x2plurupRu4GA) | 3:09 |
 | 39 | [In Your Hands](https://open.spotify.com/track/2wq5tNWrGnqtLOhmmI1g4K) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [In Your Hands](https://open.spotify.com/album/3qgNnYfoYLmt9a8Uduru7d) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
 | 100 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 |
 
-Snapshot ID: `MCwyZGE1OTZlYTI1ODI1OWNiNDhhNDk4OTRmMzllNDFmN2E0ZDgwZDJi`
+Snapshot ID: `MCxjMmQzZDQyYmUyMTRiMTM3NjdkMTZiNjliMWFhZWQzZWYwMzkyNDA0`

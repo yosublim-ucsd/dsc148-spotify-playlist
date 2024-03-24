@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-573 songs - 1 day 8 hr 28 min
+574 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Juumensou](https://open.spotify.com/track/7wIKr31uQ5ecXbLMDzYDYK) | [YM](https://open.spotify.com/artist/5X62tnENHL02oDZuZwDDqz) | [Exit Tunes Presents Gumism From Megpoid \(Vocaloid\)](https://open.spotify.com/album/6LRbHwDnHpqcLxGfXR0C5c) | 3:42 | 2022-06-09 | 2022-07-29 |
 | [JUVENILE](https://open.spotify.com/track/44c0Lta1UEQ4gUDGjZaq9T) | [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [じん](https://open.spotify.com/artist/7eBDxrGrA7qOeDjn1HZept) | [JUVENILE](https://open.spotify.com/album/6yOptGxZiGjAYownFPeMV7) | 4:33 | 2024-01-04 | 2024-01-31 |
 | [Kafu\-eine](https://open.spotify.com/track/2MtLVsDeMdTsslO6qqmS2h) | [Hiiragi Magnetite](https://open.spotify.com/artist/3wcmaCLMuQjUbID0CNUDOz) | [Kafu\-eine](https://open.spotify.com/album/17k1xca8sGZXwiAJZh8Ild) | 2:32 | 2024-02-29 |  |
-| [Kagerou Days](https://open.spotify.com/track/6c6fQ8k4yIUnLJEPy7zj3z) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [MEKAKUCITYDAYS](https://open.spotify.com/album/6vQOvCYXDXyeEd3cIsXx05) | 3:54 | 2023-08-24 |  |
+| [Kagerou Days](https://open.spotify.com/track/6c6fQ8k4yIUnLJEPy7zj3z) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [MEKAKUCITYDAYS](https://open.spotify.com/album/6vQOvCYXDXyeEd3cIsXx05) | 3:54 | 2023-08-24 | 2024-03-24 |
 | [Kakikeshite,Quartet](https://open.spotify.com/track/1OWgMtoukPCHTBLXbbGwPC) | [Uka Roku](https://open.spotify.com/artist/7hBob8G136429eesHGCbcH) | [Kakikeshite,Quartet](https://open.spotify.com/album/0CWV5tZ9mz6obaqbIySMHs) | 3:58 | 2022-08-16 | 2022-10-05 |
 | [Kashika](https://open.spotify.com/track/5fB9g1BgUXcmsRFr0YgePK) | [Ryo Haruka](https://open.spotify.com/artist/7kzVP3eplt8khwLbV5BKev), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Kashika](https://open.spotify.com/album/36xYHE6YjoI0klBipjeG44) | 3:58 | 2023-01-03 | 2023-02-17 |
 | [Killer Spider](https://open.spotify.com/track/3nOEQq57iGLmixCoGY0rOR) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [Killer Spider](https://open.spotify.com/album/1ZS9h9lLWmMPBNSvbjOmXG) | 3:16 | 2022-10-13 | 2022-10-28 |
@@ -362,6 +362,7 @@
 | [ヒガン](https://open.spotify.com/track/6ar2xVifUQwjHXyRGThlrw) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ミゼラブル](https://open.spotify.com/album/352noHeM2Iq8h1EcguExNC) | 3:34 | 2022-06-14 | 2022-07-07 |
 | [ヒトサマアレルギー](https://open.spotify.com/track/781eCm44DxjVZiln6OjN9G) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [一期一会](https://open.spotify.com/album/0AwjkkarpsHafMLm4om94j) | 3:18 | 2023-02-23 | 2023-03-06 |
 | [ヒトサマアレルギー](https://open.spotify.com/track/5wzZpasFh4cOfFA8LbBMcB) | [かいりきベア feat.flower](https://open.spotify.com/artist/18pfezVicJROB7KoWV74Mc) | [一期一会](https://open.spotify.com/album/5R9hc0gwV3pBoiyz0jM3BM) | 3:18 | 2022-06-09 | 2022-07-28 |
+| [ヒバナ \-Reloaded\-](https://open.spotify.com/track/344GzvZCKY9maqNuDhj3MH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/7gxXuvmdsCaoM4Li1GR9gB) | 3:26 | 2024-03-05 |  |
 | [ヒバナ \-Reloaded\-](https://open.spotify.com/track/3g2jMbl3XTP0k0cYb5rN6p) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:26 | 2022-06-23 | 2024-02-02 |
 | [ヒール](https://open.spotify.com/track/0sXDadhHOfTMgOWITjV3Hk) | [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [ヒール](https://open.spotify.com/album/4BzabrfUSNVwqqTU3TJ1Qx) | 3:40 | 2022-06-14 | 2022-07-29 |
 | [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 | 2022-06-14 |  |

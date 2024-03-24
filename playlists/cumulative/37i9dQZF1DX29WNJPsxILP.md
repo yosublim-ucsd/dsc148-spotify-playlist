@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli featuring Raga
 
-122 songs - 6 hr 22 min
+123 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Tu Hai Kaun](https://open.spotify.com/track/4gJwX0QLUXwjwmQG77ihLS) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Tu Hai Kaun](https://open.spotify.com/album/4YrdmA8BUodffcJGjJnks9) | 3:24 | 2023-03-10 |  |
 | [Tu Tera Dekh](https://open.spotify.com/track/5LQWquv8c8OYCE30SlXLAy) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [Tu Tera Dekh](https://open.spotify.com/album/1xISjdoA7xWaEDkUGEXtL1) | 3:08 | 2023-03-10 | 2024-02-09 |
 | [Up To U](https://open.spotify.com/track/3Boqgxk2tt9FX35cyfcdmU) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/4OxsNm48pvNILoTb5geNfZ) | 3:08 | 2023-03-10 | 2023-06-10 |
-| [Up To U](https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF) | 3:08 | 2023-05-18 |  |
+| [Up To U](https://open.spotify.com/track/5pkOSmSeVo8RfC8555LRHT) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/75E8pKR9gdgdv3xxRyT1o8) | 3:08 | 2024-02-14 |  |
+| [Up To U](https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF) | 3:08 | 2023-05-18 | 2024-03-24 |
 | [Villain](https://open.spotify.com/track/1HCdZjUS2HaXCf7SJpOROy) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:38 | 2023-03-10 |  |
 | [Vision](https://open.spotify.com/track/7ofZEj1C0eRIvUFGfP1p6n) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Trapperx](https://open.spotify.com/artist/4lPuejLfxGcBAOW7T9b4mk) | [Vision](https://open.spotify.com/album/5j1Pzsq3CPv0RncydCxruK) | 2:53 | 2023-08-10 | 2023-11-04 |
 | [Vision](https://open.spotify.com/track/25yiXm2n2wqRLWrx45VASc) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Trapperx](https://open.spotify.com/artist/4lPuejLfxGcBAOW7T9b4mk) | [Vision](https://open.spotify.com/album/0N7CdOxDLpXLLHq5MngCRN) | 2:59 | 2023-10-12 |  |

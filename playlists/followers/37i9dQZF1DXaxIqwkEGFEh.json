@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 1194088,
+  "2024-03-24": 1194196,
   "date_first_scraped": "2021-12-21",
   "description": "Strictly for the streets. Cover: Key Glock",
   "name": "Out The Mud",
@@ -1125,6 +1125,28 @@
       "duration_ms": 210009,
       "name": "AIN'T MY FAULT (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/30An28ovHzHONcqysPKIIs"
+    },
+    {
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182840,
+      "name": "Ain't No Love",
+      "url": "https://open.spotify.com/track/72qABvaqn3TP6drO2tByA6"
     },
     {
       "album": {
@@ -2945,7 +2967,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 184615,
       "name": "Bling (Never Broke Again feat. YoungBoy Never Broke Again & Lil Dump)",
       "url": "https://open.spotify.com/track/3yziqj3fYjXWwzXxGNoa6F"
@@ -2993,6 +3015,28 @@
       "duration_ms": 234869,
       "name": "Blood All On it (feat. Key Glock, Young Dolph)",
       "url": "https://open.spotify.com/track/2DdpOlqObnMU1IcMGLp0nk"
+    },
+    {
+      "album": {
+        "name": "Blood Ties",
+        "url": "https://open.spotify.com/album/2yS13axYqitCYgfQmABCF7"
+      },
+      "artists": [
+        {
+          "name": "Foolio",
+          "url": "https://open.spotify.com/artist/79mgHJytm385Muv7GfaneD"
+        },
+        {
+          "name": "Wam SpinThaBin",
+          "url": "https://open.spotify.com/artist/1vljqWKOCEBTIA9mhCaCCt"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173962,
+      "name": "Blood Ties",
+      "url": "https://open.spotify.com/track/7dWVJO0mAxyGO5fhuQJJCr"
     },
     {
       "album": {
@@ -3153,7 +3197,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 205769,
       "name": "Bonecrusher (feat. Key Glock)",
       "url": "https://open.spotify.com/track/3DmurtaoUILQC8e4XMPW4K"
@@ -3357,7 +3401,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 122994,
       "name": "Brazi Blue Cheese",
       "url": "https://open.spotify.com/track/37XWwswyBuzj1LZGpDQlIu"
@@ -4291,7 +4335,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 236998,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/53RtHfvyr0f6yj1uLy5bxY"
@@ -5613,7 +5657,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 162797,
       "name": "Don't Start Pt. 3",
       "url": "https://open.spotify.com/track/2FOGddqEgiiC0p6dw3HsfP"
@@ -5811,7 +5855,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 136777,
       "name": "Drill Cappers",
       "url": "https://open.spotify.com/track/2NXgBrS8n8L1grmhTXKnKd"
@@ -7393,7 +7437,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 118230,
       "name": "FTO Crazy",
       "url": "https://open.spotify.com/track/0l8UCTwD27stsBhnxEHZHT"
@@ -7897,6 +7941,24 @@
       "duration_ms": 110062,
       "name": "Get Em",
       "url": "https://open.spotify.com/track/5D2d4F9IQkXo6GXbXb4X2K"
+    },
+    {
+      "album": {
+        "name": "The Blue Seasons",
+        "url": "https://open.spotify.com/album/0cO3HVsoNAQu21aQcKip2s"
+      },
+      "artists": [
+        {
+          "name": "Kenny Muney",
+          "url": "https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138520,
+      "name": "Get Em First",
+      "url": "https://open.spotify.com/track/63mI6EwkcCTcX67qP2Wt87"
     },
     {
       "album": {
@@ -8673,6 +8735,28 @@
       "duration_ms": 123464,
       "name": "GTA",
       "url": "https://open.spotify.com/track/0BjnnSOpNQa779935YIE81"
+    },
+    {
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233026,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/4XF9fk0STp9hx8xn5Suwpz"
     },
     {
       "album": {
@@ -12152,6 +12236,28 @@
     },
     {
       "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267706,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+    },
+    {
+      "album": {
         "name": "Like This",
         "url": "https://open.spotify.com/album/5C5ppCQzmnD3FR5YoQAdo9"
       },
@@ -12865,7 +12971,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 177931,
       "name": "Mama Said (feat. SleazyWorld Go)",
       "url": "https://open.spotify.com/track/5BB0wg903UUPfY3k3AGugN"
@@ -12883,7 +12989,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 160000,
       "name": "Mama Tears",
       "url": "https://open.spotify.com/track/7vkobYR10Zmy5XQvKhNkrM"
@@ -14979,7 +15085,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 120958,
       "name": "No Weight",
       "url": "https://open.spotify.com/track/7zq95OMooc0rB3Di5WgG0t"
@@ -15509,6 +15615,24 @@
       "duration_ms": 183463,
       "name": "Old Me",
       "url": "https://open.spotify.com/track/4cSxiWOHD9yYPUWxQ7TwVl"
+    },
+    {
+      "album": {
+        "name": "older times",
+        "url": "https://open.spotify.com/album/7GBNNc3S4muYZUdQdcM9cH"
+      },
+      "artists": [
+        {
+          "name": "BiC Fizzle",
+          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "older times",
+      "url": "https://open.spotify.com/track/7yLRdxIqQUgEnQ9FXiEoQO"
     },
     {
       "album": {
@@ -16352,6 +16476,28 @@
     },
     {
       "album": {
+        "name": "The Blue Seasons",
+        "url": "https://open.spotify.com/album/0cO3HVsoNAQu21aQcKip2s"
+      },
+      "artists": [
+        {
+          "name": "Kenny Muney",
+          "url": "https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162813,
+      "name": "Paper Route (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/56nM2xxlvoqwBDSMJdXkrv"
+    },
+    {
+      "album": {
         "name": "Mention My Name",
         "url": "https://open.spotify.com/album/2yepLQw2fOxkEMfU3gbsWB"
       },
@@ -16579,7 +16725,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 168293,
       "name": "Phil Jackson",
       "url": "https://open.spotify.com/track/5myFWvWVb4ZZW91GiMgE8B"
@@ -17613,6 +17759,24 @@
       "duration_ms": 123680,
       "name": "Rapper Who?",
       "url": "https://open.spotify.com/track/4i1hm094XUhJs838xfQkPs"
+    },
+    {
+      "album": {
+        "name": "Rappin N Trappin",
+        "url": "https://open.spotify.com/album/75dLcQdc2cf9TFDWJ6iNHP"
+      },
+      "artists": [
+        {
+          "name": "Rublow",
+          "url": "https://open.spotify.com/artist/4ldyGaB3s6qWtuhlNfwVZs"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Rappin N Trappin",
+      "url": "https://open.spotify.com/track/1nxoLeQx0GlJ3t7ZYZOVKM"
     },
     {
       "album": {
@@ -19067,6 +19231,24 @@
       "duration_ms": 173987,
       "name": "Save Me (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I"
+    },
+    {
+      "album": {
+        "name": "Saxk Shit",
+        "url": "https://open.spotify.com/album/4l6c1wmUdw6T3JAJmkFRRi"
+      },
+      "artists": [
+        {
+          "name": "Saxkboy KD",
+          "url": "https://open.spotify.com/artist/2ZsCCOFHyJpgDTgyVdRYGT"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179562,
+      "name": "Saxk Shit",
+      "url": "https://open.spotify.com/track/0AgsEtRstRuxUC87JJZXOG"
     },
     {
       "album": {
@@ -20590,6 +20772,28 @@
     },
     {
       "album": {
+        "name": "The Passionate Musician",
+        "url": "https://open.spotify.com/album/3ZW5YTyZiBAivsre1ETyKe"
+      },
+      "artists": [
+        {
+          "name": "Yung Sinn",
+          "url": "https://open.spotify.com/artist/6LAFFVSbnH98HCIvehSG6c"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179255,
+      "name": "SPINN",
+      "url": "https://open.spotify.com/track/5B1GJ8bPh3CEOyUDe5PsaC"
+    },
+    {
+      "album": {
         "name": "Spinnin' (feat. EST Gee / FAST X Soundtrack)",
         "url": "https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb"
       },
@@ -21607,6 +21811,24 @@
       "duration_ms": 173749,
       "name": "Tag Me In",
       "url": "https://open.spotify.com/track/5QQ1zEhxJ4k2zdkcHV2hoT"
+    },
+    {
+      "album": {
+        "name": "The Blue Seasons",
+        "url": "https://open.spotify.com/album/0cO3HVsoNAQu21aQcKip2s"
+      },
+      "artists": [
+        {
+          "name": "Kenny Muney",
+          "url": "https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145800,
+      "name": "Take A Shot",
+      "url": "https://open.spotify.com/track/3g3M1vZY18Mrw8TQaRKmjF"
     },
     {
       "album": {
@@ -23395,7 +23617,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 208979,
       "name": "VICIOUS CYCLE",
       "url": "https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H"
@@ -23475,7 +23697,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 122293,
       "name": "Vitamin Water",
       "url": "https://open.spotify.com/track/5YRKMM7iFt6FUeFU8hMPou"
@@ -24873,6 +25095,46 @@
       "duration_ms": 173458,
       "name": "WTF (feat. Polo G) - Remix",
       "url": "https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc"
+    },
+    {
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292600,
+      "name": "WTFYM",
+      "url": "https://open.spotify.com/track/1xwvjqcwflD2NEqRCNcCo2"
+    },
+    {
+      "album": {
+        "name": "WTW",
+        "url": "https://open.spotify.com/album/1yB5UDDeH7FpNVxvOpbBvU"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200771,
+      "name": "WTW",
+      "url": "https://open.spotify.com/track/728E50EwNhQGdlMWxwTCxn"
     },
     {
       "album": {

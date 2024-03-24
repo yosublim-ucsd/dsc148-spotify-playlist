@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 177438,
+  "2024-03-24": 177546,
   "date_first_scraped": "2022-07-17",
   "description": "Lhast e Chaylan entram na zona. ",
   "name": "Na Zona",
@@ -3573,6 +3573,24 @@
       "duration_ms": 211394,
       "name": "Falam Muito",
       "url": "https://open.spotify.com/track/53mcQ80KjiD78AfkQ7fwJA"
+    },
+    {
+      "album": {
+        "name": "Falsas Promessas",
+        "url": "https://open.spotify.com/album/0j8boNQiLBCOZIpa0ZAtHS"
+      },
+      "artists": [
+        {
+          "name": "Zt35",
+          "url": "https://open.spotify.com/artist/4yEpDApCiftRugkpN2sOVM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144892,
+      "name": "Falsas Promessas",
+      "url": "https://open.spotify.com/track/4df02rGPOOrmAG32URpPHI"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MTgwMDAsMDAwMDAwMDBmZjBhODc2M2JlZmI4NzYzZmE4NmY3YzkyZThmMzBlNw==",
+  "snapshot_id": "Mjg1MTgwMDAsMDAwMDAwMDA4ODVlY2EwY2MxYTU3Mzc4ZjgzYjdhZDljZjY4NzI3ZA==",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -40,9 +40,25 @@
           "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         }
       ],
-      "duration_ms": 502271,
-      "name": "Nardis",
-      "url": "https://open.spotify.com/track/1X0fDxUEsfkaOzfztuBCCN"
+      "duration_ms": 176000,
+      "name": "Straight No Chaser",
+      "url": "https://open.spotify.com/track/2dPo9buiY2Vx1q7zKMCuFE"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Bulls On Parade (Leo Version)",
+        "url": "https://open.spotify.com/album/0AtTBAtCo2iuBwVoEKlEz8"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 224704,
+      "name": "Bulls On Parade (Leo Version)",
+      "url": "https://open.spotify.com/track/1CBsrQuZndub00LTocecoV"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -67,18 +83,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Headless Cross / Anno Mundi (2024 Remaster)",
-        "url": "https://open.spotify.com/album/4ri3S5WAarFrFhVR5f5SF7"
+        "name": "dark days",
+        "url": "https://open.spotify.com/album/4QKdPcQKtrwW8Zhw5LrFps"
       },
       "artists": [
         {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
         }
       ],
-      "duration_ms": 389226,
-      "name": "Headless Cross - 2024 Remaster",
-      "url": "https://open.spotify.com/track/3mp8KmEd9pESHnXmSXDwwp"
+      "duration_ms": 212613,
+      "name": "dark days",
+      "url": "https://open.spotify.com/track/5D1uzv1oRRfkzeilJAwSbO"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -107,62 +127,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "dark days",
-        "url": "https://open.spotify.com/album/4QKdPcQKtrwW8Zhw5LrFps"
+        "name": "Headless Cross / Anno Mundi (2024 Remaster)",
+        "url": "https://open.spotify.com/album/4ri3S5WAarFrFhVR5f5SF7"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Lady Blackbird",
-          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 212613,
-      "name": "dark days",
-      "url": "https://open.spotify.com/track/5D1uzv1oRRfkzeilJAwSbO"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Bulls On Parade (Leo Version)",
-        "url": "https://open.spotify.com/album/0AtTBAtCo2iuBwVoEKlEz8"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 224704,
-      "name": "Bulls On Parade (Leo Version)",
-      "url": "https://open.spotify.com/track/1CBsrQuZndub00LTocecoV"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "My Foolish Heart",
-        "url": "https://open.spotify.com/album/235h5mYqTlpoUnTkzykYgj"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Jean-Louis Rassinfosse",
-          "url": "https://open.spotify.com/artist/50m2KVom2r1LcmDxWWkieg"
-        },
-        {
-          "name": "Philip Catherine",
-          "url": "https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn"
-        }
-      ],
-      "duration_ms": 564823,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/0l9D5O982Szj4C7cqflMBT"
+      "duration_ms": 389226,
+      "name": "Headless Cross - 2024 Remaster",
+      "url": "https://open.spotify.com/track/3mp8KmEd9pESHnXmSXDwwp"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -183,6 +159,26 @@
       "duration_ms": 564000,
       "name": "Mad-Mixes",
       "url": "https://open.spotify.com/track/1lywnyKRe9rRB4wQUyIGtX"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Philip Glass: A Musical Portrait of Chuck Close",
+        "url": "https://open.spotify.com/album/6arbA8usOFGxf5i414NXqQ"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Feico Deutekom",
+          "url": "https://open.spotify.com/artist/3CA6hPrl7Gjs8Kmjvani8r"
+        }
+      ],
+      "duration_ms": 467344,
+      "name": "A Musical Portrait of Chuck Close: Movement II",
+      "url": "https://open.spotify.com/track/3kPHj5AxAP6ilNJiSCN30u"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -211,22 +207,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Philip Glass: A Musical Portrait of Chuck Close",
-        "url": "https://open.spotify.com/album/6arbA8usOFGxf5i414NXqQ"
+        "name": "My Foolish Heart",
+        "url": "https://open.spotify.com/album/235h5mYqTlpoUnTkzykYgj"
       },
       "artists": [
         {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         },
         {
-          "name": "Feico Deutekom",
-          "url": "https://open.spotify.com/artist/3CA6hPrl7Gjs8Kmjvani8r"
+          "name": "Jean-Louis Rassinfosse",
+          "url": "https://open.spotify.com/artist/50m2KVom2r1LcmDxWWkieg"
+        },
+        {
+          "name": "Philip Catherine",
+          "url": "https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn"
         }
       ],
-      "duration_ms": 467344,
-      "name": "A Musical Portrait of Chuck Close: Movement II",
-      "url": "https://open.spotify.com/track/3kPHj5AxAP6ilNJiSCN30u"
+      "duration_ms": 564823,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/0l9D5O982Szj4C7cqflMBT"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 286507,
-      "name": "Devil in Disguise",
-      "url": "https://open.spotify.com/track/4dRPv5zarv9iZ3exYT739x"
+      "duration_ms": 278067,
+      "name": "Gates of Hell",
+      "url": "https://open.spotify.com/track/2XGcAtlohzN8uDENnWT9k1"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -567,26 +567,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Mac & Cheese 5 (Deluxe)",
-        "url": "https://open.spotify.com/album/7fSFi7t5otQ1voycWffHLk"
+        "name": "Real Good Day (with Wax)",
+        "url": "https://open.spotify.com/album/4TLebqBQrKVQFsO6fjpnd2"
       },
       "artists": [
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          "name": "Mihali",
+          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
         },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
         }
       ],
-      "duration_ms": 173861,
-      "name": "Where They At",
-      "url": "https://open.spotify.com/track/1xttwGi6u3k4FjplxqySDJ"
+      "duration_ms": 165653,
+      "name": "Real Good Day (with Wax)",
+      "url": "https://open.spotify.com/track/1g8D5yBx8sPoojlzah8xXa"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -611,46 +607,6 @@
       "duration_ms": 189475,
       "name": "Years Roll By",
       "url": "https://open.spotify.com/track/0pVG9Vj40uY2Z7D4afDEPT"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Real Good Day (with Wax)",
-        "url": "https://open.spotify.com/album/4TLebqBQrKVQFsO6fjpnd2"
-      },
-      "artists": [
-        {
-          "name": "Mihali",
-          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 165653,
-      "name": "Real Good Day (with Wax)",
-      "url": "https://open.spotify.com/track/1g8D5yBx8sPoojlzah8xXa"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Nosebleeds - Other Sides",
-        "url": "https://open.spotify.com/album/5JLWXyfIwYOQKfk9LonDrU"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        },
-        {
-          "name": "Brasstracks",
-          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
-        }
-      ],
-      "duration_ms": 218720,
-      "name": "Nosebleeds",
-      "url": "https://open.spotify.com/track/6FEq97INATuK5ABJneki1y"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -687,30 +643,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Church",
-        "url": "https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        },
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        },
-        {
-          "name": "Charlie Bereal",
-          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
-        }
-      ],
-      "duration_ms": 207630,
-      "name": "Ain't No Use",
-      "url": "https://open.spotify.com/track/3HkhMK5JPJ33Sl5FMqb0XC"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "We Bang",
         "url": "https://open.spotify.com/album/2kOfw3YBg6zpwcY1NHNoBB"
       },
@@ -731,26 +663,6 @@
       "duration_ms": 151657,
       "name": "Brains Blue",
       "url": "https://open.spotify.com/track/2Go7dnNXHwPhQFhBw6gCEF"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "The Four Horsemen (feat. Robert Trujillo)",
-        "url": "https://open.spotify.com/album/0NLcGZRqxmMlgCZqjNMKKw"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Robert Trujillo",
-          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
-        }
-      ],
-      "duration_ms": 286117,
-      "name": "The Four Horsemen (feat. Robert Trujillo)",
-      "url": "https://open.spotify.com/track/5tZHAwrNbJEA0o7jK2nilG"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

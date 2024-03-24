@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ girl in red + sabrina carpenter in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,134 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,140 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 35 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 |
 | 36 | [Io non sono come te](https://open.spotify.com/track/4CkD9zrNzu7xHMZEYM2vWn) | [Lost](https://open.spotify.com/artist/0qJ11kNp8ZxLwFuPf6yGpx) | [Io non sono come te](https://open.spotify.com/album/3GDNMOQ2l08A5RcqMeLU3L) | 2:27 |
 | 37 | [Tutto lo spazio](https://open.spotify.com/track/6hRpJ3JMWepO5bQ48OU6Cu) | [Thru Collected](https://open.spotify.com/artist/2P0hl2Wx1Zb04shTLfdWrv), [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk) | [Il Grande Fulmine](https://open.spotify.com/album/0hc4ffZgsXwCzaOLdFqaCZ) | 2:58 |
-| 38 | [La Musica È Morta](https://open.spotify.com/track/4oHCHhPPm1odadJEAZQk2Z) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8), [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [La Musica È Morta](https://open.spotify.com/album/2nzcAuivdv4cYdUCVRffeg) | 2:18 |
+| 38 | [La Musica È Morta \(feat\. Loomy\)](https://open.spotify.com/track/4oHCHhPPm1odadJEAZQk2Z) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8), [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [La Musica È Morta \(feat\. Loomy\)](https://open.spotify.com/album/2nzcAuivdv4cYdUCVRffeg) | 2:18 |
 | 39 | [Va Bene Lo Stesso](https://open.spotify.com/track/46TvMoOTuSVN2D85sSymYR) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI), [Sunset Radio](https://open.spotify.com/artist/1se8zzXJ2zpzQvdAQIhr4H) | [Va Bene Lo Stesso](https://open.spotify.com/album/0HZqgpeK9zRrG3j48gXMCC) | 2:56 |
 | 40 | [edera](https://open.spotify.com/track/3dLKolGQaxqVEdtWFEm4GQ) | [Foreverboymush](https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE), [Saint Abel](https://open.spotify.com/artist/6xCih2NWSmPw4o1MJ1qnIt), [Moskova Div](https://open.spotify.com/artist/0s7lgcaJpldccLW8kD7Xkk) | [chiaroscuro](https://open.spotify.com/album/15hhbGhDTck2pRtvL5UvZu) | 4:08 |
 | 41 | [guastafeste](https://open.spotify.com/track/1wyiByGeAFNZZP76Rs5GjS) | [leomeconi](https://open.spotify.com/artist/23O1DkFwc3I8fP7QeQqVbE), [LOAD](https://open.spotify.com/artist/1WaHgfCP1XGFdKPnts5yu4) | [guastafeste](https://open.spotify.com/album/01KB4fYdeoCtGsTeqPdaiE) | 2:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 69 | [ALTALENA](https://open.spotify.com/track/5DMuQ5oYNrcIGSEodNJKMU) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq) | [ALTALENA](https://open.spotify.com/album/3TaZgJGHC0w8fHnhrR94Ya) | 2:24 |
 | 70 | [TI HO PORTATO LA LUNA](https://open.spotify.com/track/07xoC8VuSn5ExWMuHsAV6h) | [pablo murphy](https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB) | [TI HO PORTATO LA LUNA](https://open.spotify.com/album/7h8cDINcwdo0bzhG35aVMJ) | 2:51 |
 
-Snapshot ID: `MCxiNWE5MTU1ZDJiOThlNGMyNjUyNTBlNTAzOGI1MmQ1N2E4ODg4YThh`
+Snapshot ID: `MCwzMDFiNGQ2NDM2ZWVhZjZlY2RkZjg0YzQ0ODc0ZjBjOWI5NmZlZWI0`

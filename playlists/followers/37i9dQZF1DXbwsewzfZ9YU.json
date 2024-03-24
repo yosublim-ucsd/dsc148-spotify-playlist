@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 37490,
+  "2024-03-24": 37561,
   "date_first_scraped": "2023-02-25",
   "description": "the best in hardcore. open the pit w/ DRAIN.",
   "name": "the Breakdown",
@@ -39,6 +39,28 @@
       "duration_ms": 153000,
       "name": "1000 Stitches 2000 Cuts",
       "url": "https://open.spotify.com/track/3XAvXYJXtktJl7dPed3C63"
+    },
+    {
+      "album": {
+        "name": "24 Thorns (feat. Kane Gelaznik)",
+        "url": "https://open.spotify.com/album/4bfvIJJyrUPTR0sZuwcS7Y"
+      },
+      "artists": [
+        {
+          "name": "Mugshot",
+          "url": "https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB"
+        },
+        {
+          "name": "Kane Gelaznik",
+          "url": "https://open.spotify.com/artist/6tEcSUj4wC1th01MEOTelB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184356,
+      "name": "24 Thorns (feat. Kane Gelaznik)",
+      "url": "https://open.spotify.com/track/1X2Jxm71xUnqWOXEfOPBFB"
     },
     {
       "album": {
@@ -489,7 +511,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 132799,
       "name": "Burst",
       "url": "https://open.spotify.com/track/5seDapgh8K6TQ3W1M3BBag"
@@ -929,7 +951,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 184904,
       "name": "Ends Meet",
       "url": "https://open.spotify.com/track/45poRdshttXq3rVcRcjTIx"
@@ -1005,6 +1027,24 @@
       "duration_ms": 127933,
       "name": "Evil Finds Light",
       "url": "https://open.spotify.com/track/51ktvRKdU2hi52Ra9Q8rFF"
+    },
+    {
+      "album": {
+        "name": "Extracanonical",
+        "url": "https://open.spotify.com/album/40H2Qkp8eUSk4SvBF3zlmO"
+      },
+      "artists": [
+        {
+          "name": "WORLD PEACE",
+          "url": "https://open.spotify.com/artist/7Mofe7KoNcHsUrgrjJU0gi"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37333,
+      "name": "Extracanonical",
+      "url": "https://open.spotify.com/track/3Nvcw321qdXWhTUkg7Pafj"
     },
     {
       "album": {
@@ -1217,7 +1257,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 80856,
       "name": "Fuck 'Em",
       "url": "https://open.spotify.com/track/6T0UkiNLu35LetDjwQmUP5"
@@ -1397,7 +1437,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 206837,
       "name": "Heavens Gate",
       "url": "https://open.spotify.com/track/6PzTwR5RbSBMhDR3JPSo66"
@@ -1656,6 +1696,24 @@
     },
     {
       "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/74YG8EwAj4KnJtLmkwYKuZ"
+      },
+      "artists": [
+        {
+          "name": "AWOL",
+          "url": "https://open.spotify.com/artist/7GmixEjYEfCEw0Kxr1TM6U"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182840,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/548QJ0CSvCYHUfHmx7L9VN"
+    },
+    {
+      "album": {
         "name": "Knife in the Dirt",
         "url": "https://open.spotify.com/album/2t1hUmT2rDFi5s0P85wyTj"
       },
@@ -1782,6 +1840,24 @@
     },
     {
       "album": {
+        "name": "Low Tech",
+        "url": "https://open.spotify.com/album/38zTXgENqaRonHeghToNje"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140203,
+      "name": "Low Tech",
+      "url": "https://open.spotify.com/track/1G9givRPDFvYoKaMw2OqjK"
+    },
+    {
+      "album": {
         "name": "Good To Feel",
         "url": "https://open.spotify.com/album/3xi1s4oxx0TiyuF6Mulucr"
       },
@@ -1887,6 +1963,24 @@
       "duration_ms": 160784,
       "name": "Modern Fatigue",
       "url": "https://open.spotify.com/track/2noRrGlgsZyGHK8bFaPEke"
+    },
+    {
+      "album": {
+        "name": "Change, Change, Change",
+        "url": "https://open.spotify.com/album/6yi6vnoFBME61c12lCWDJR"
+      },
+      "artists": [
+        {
+          "name": "Ergo, Bria",
+          "url": "https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/4gGoa5NtwIdsyZ9jY8coU5"
     },
     {
       "album": {
@@ -3261,7 +3355,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 231030,
       "name": "Theory of Mind",
       "url": "https://open.spotify.com/track/5rhGZ9qe7qmLFWwW313hnk"

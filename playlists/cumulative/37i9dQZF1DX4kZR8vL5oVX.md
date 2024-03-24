@@ -4,7 +4,7 @@
 
 > Playlist réalisée avec Louane \(du titre \#1 au \#20\) à l’occasion de la Journée internationale des droits des femmes.
 
-1,180 songs - 2 day 13 hr 11 min
+1,181 songs - 2 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Balmain](https://open.spotify.com/track/7v65B7oNtUzS3kV3Q7ftg9) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Balmain](https://open.spotify.com/album/0bZamcYjOZZDDQRqddnTrX) | 2:20 | 2023-04-04 | 2023-05-03 |
 | [Baltimore](https://open.spotify.com/track/0nmxB5hmIGopuFjBATeufO) | [Stéfi Celma](https://open.spotify.com/artist/0fMSqSfAS3Bv91cw1QBkXZ) | [Baltimore](https://open.spotify.com/album/1qkrANE94Hj9VIUT7qzWZr) | 3:02 | 2024-01-09 |  |
 | [Bancale](https://open.spotify.com/track/4By9ybXyyb3WzA6HZ4ZOl2) | [Maroussia](https://open.spotify.com/artist/58G083mCMdDwHg0R9ndgPG) | [Bancale](https://open.spotify.com/album/2gl23hTT1XmSHbFksvicRB) | 3:07 | 2023-09-05 | 2023-10-04 |
-| [Bande organisée](https://open.spotify.com/track/5lOvw1rwphudYBZssRXJPO) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Bande organisée](https://open.spotify.com/album/1EqBkCvjB9r5dwC21tKOU6) | 2:07 | 2024-03-05 |  |
+| [Bande organisée](https://open.spotify.com/track/1vZ9zAIQ9cB386y0E6jcxg) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Bande organisée](https://open.spotify.com/album/2x4sU3PRr3kh5IvwaxiXNQ) | 2:07 | 2024-03-05 |  |
+| [Bande organisée](https://open.spotify.com/track/5lOvw1rwphudYBZssRXJPO) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Bande organisée](https://open.spotify.com/album/1EqBkCvjB9r5dwC21tKOU6) | 2:07 | 2024-03-05 | 2024-03-24 |
 | [Barbie Dreams](https://open.spotify.com/track/4K34wkUKqd7leweceYqPFM) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/4Rh57STD18rbjXbBrx2X65) | 4:39 | 2023-02-28 | 2023-04-05 |
 | [BB](https://open.spotify.com/track/1LuYLVEVdXwHpgnEM7BNeq) | [Dessplora](https://open.spotify.com/artist/3VZU5ip7b3Bwywo1ST9xif) | [BB](https://open.spotify.com/album/1aJnsqQzrqxCvcTxXxM50M) | 2:05 | 2023-05-02 | 2023-06-07 |
 | [bbtumadores](https://open.spotify.com/track/5yqoaf3rsnWWeWhYWVQP17) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [bbtumadores](https://open.spotify.com/album/4WmnQJL9ALfQOetoBXUpdZ) | 2:40 | 2024-02-06 | 2024-02-22 |

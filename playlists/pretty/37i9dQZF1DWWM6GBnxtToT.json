@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 584740,
+  "num_followers": 584810,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODkzMmU0MzI0ZjMwN2ZjY2Q4NjZjYzlmMGZlNzg4N2YyZGI3Nzdi",
+  "snapshot_id": "MCxhNDE0YmMxOGYxOWNmOTg3MWFlYjlmZTBjMTRlNTkzODU2YjU4YmUw",
   "tracks": [
     {
       "added_at": "2024-03-21 18:05:17",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-03-21 18:05:17",
       "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+    },
+    {
+      "added_at": "2024-03-21 18:05:17",
+      "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 215986,
       "name": "Diving - feat. Holly Humberstone",
       "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
-    },
-    {
-      "added_at": "2024-03-21 18:05:17",
-      "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2024-03-21 18:05:17",
@@ -639,26 +639,6 @@
     {
       "added_at": "2024-03-21 18:05:17",
       "album": {
-        "name": "minuit",
-        "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
-      },
-      "artists": [
-        {
-          "name": "Clementine",
-          "url": "https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx"
-        },
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "minuit",
-      "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
-    },
-    {
-      "added_at": "2024-03-21 18:05:17",
-      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 226103,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
+    },
+    {
+      "added_at": "2024-03-21 18:05:17",
+      "album": {
+        "name": "minuit",
+        "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
+      },
+      "artists": [
+        {
+          "name": "Clementine",
+          "url": "https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx"
+        },
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "minuit",
+      "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
     },
     {
       "added_at": "2024-03-21 18:05:17",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-21 18:05:17",
       "album": {
-        "name": "Someone You Love",
-        "url": "https://open.spotify.com/album/3osxMWTR97vYigGuiqVhxM"
-      },
-      "artists": [
-        {
-          "name": "Some Sprouts",
-          "url": "https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp"
-        }
-      ],
-      "duration_ms": 203828,
-      "name": "Someone You Love",
-      "url": "https://open.spotify.com/track/2JUXU13VveY6JMvPgpRJJZ"
-    },
-    {
-      "added_at": "2024-03-21 18:05:17",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/2aiprMxQgmNnlEMRWKdR6n"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 214826,
       "name": "Run Run Run",
       "url": "https://open.spotify.com/track/5BiNNRfucEIJ62KyjDP81B"
+    },
+    {
+      "added_at": "2024-03-21 18:05:17",
+      "album": {
+        "name": "Someone You Love",
+        "url": "https://open.spotify.com/album/3osxMWTR97vYigGuiqVhxM"
+      },
+      "artists": [
+        {
+          "name": "Some Sprouts",
+          "url": "https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp"
+        }
+      ],
+      "duration_ms": 203828,
+      "name": "Someone You Love",
+      "url": "https://open.spotify.com/track/2JUXU13VveY6JMvPgpRJJZ"
     },
     {
       "added_at": "2024-03-21 18:05:17",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-03-21 18:05:17",
       "album": {
-        "name": "Things Are Great",
-        "url": "https://open.spotify.com/album/6oDxFhDxCrSxiPgy6Xlact"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 223053,
-      "name": "Crutch",
-      "url": "https://open.spotify.com/track/1Ft5ivAGXYDmNoKmys13sX"
-    },
-    {
-      "added_at": "2024-03-21 18:05:17",
-      "album": {
         "name": "Walking Like That",
         "url": "https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 149000,
       "name": "Walking Like That",
       "url": "https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN"
+    },
+    {
+      "added_at": "2024-03-21 18:05:17",
+      "album": {
+        "name": "Things Are Great",
+        "url": "https://open.spotify.com/album/6oDxFhDxCrSxiPgy6Xlact"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 223053,
+      "name": "Crutch",
+      "url": "https://open.spotify.com/track/1Ft5ivAGXYDmNoKmys13sX"
     },
     {
       "added_at": "2024-03-21 18:05:17",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-03-21 18:05:17",
       "album": {
-        "name": "Good Mmornin",
-        "url": "https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 336506,
-      "name": "Small Worlds",
-      "url": "https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4"
-    },
-    {
-      "added_at": "2024-03-21 18:05:17",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 262798,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/2Z8UT1hMeJlpCj1p7RUmcH"
+    },
+    {
+      "added_at": "2024-03-21 18:05:17",
+      "album": {
+        "name": "Good Mmornin",
+        "url": "https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 336506,
+      "name": "Small Worlds",
+      "url": "https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4"
     },
     {
       "added_at": "2024-03-21 18:05:17",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-03-21 18:05:17",
       "album": {
-        "name": "Mellow Moon",
-        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Colour Me Blue",
-      "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
-    },
-    {
-      "added_at": "2024-03-21 18:05:17",
-      "album": {
         "name": "A-Train",
         "url": "https://open.spotify.com/album/7fJKR1Kv0kScy3nZHMmjN9"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 215307,
       "name": "A-Train - Edit",
       "url": "https://open.spotify.com/track/3H7koEhZPWmhuBEXVrub04"
+    },
+    {
+      "added_at": "2024-03-21 18:05:17",
+      "album": {
+        "name": "Mellow Moon",
+        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Colour Me Blue",
+      "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
     },
     {
       "added_at": "2024-03-21 18:05:17",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-03-21 18:05:17",
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L"
-      },
-      "artists": [
-        {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "Bleach",
-      "url": "https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN"
-    },
-    {
-      "added_at": "2024-03-21 18:05:17",
-      "album": {
         "name": "Little Lucille",
         "url": "https://open.spotify.com/album/0zPpywiwsbG0vyJAxchY6A"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2024-03-21 18:05:17",
       "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L"
+      },
+      "artists": [
+        {
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+        }
+      ],
+      "duration_ms": 209960,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN"
+    },
+    {
+      "added_at": "2024-03-21 18:05:17",
+      "album": {
         "name": "Saltburn",
         "url": "https://open.spotify.com/album/5siL9F6fBRgdI2UhHfr2aj"
       },
@@ -1455,6 +1455,26 @@
       "duration_ms": 186704,
       "name": "Saltburn",
       "url": "https://open.spotify.com/track/1YlvVgYcPQWNYMt23udKuf"
+    },
+    {
+      "added_at": "2024-03-21 18:05:17",
+      "album": {
+        "name": "Raincoats",
+        "url": "https://open.spotify.com/album/0zP2Syhcw4PzK9igud1t5O"
+      },
+      "artists": [
+        {
+          "name": "Amilli",
+          "url": "https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D"
+        },
+        {
+          "name": "Shelter Boy",
+          "url": "https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV"
+        }
+      ],
+      "duration_ms": 157208,
+      "name": "Raincoats",
+      "url": "https://open.spotify.com/track/2hxAUdQ6YbsvplYpBuYJvy"
     },
     {
       "added_at": "2024-03-21 18:05:17",
@@ -1511,58 +1531,6 @@
     {
       "added_at": "2024-03-21 18:05:17",
       "album": {
-        "name": "Adult Movies",
-        "url": "https://open.spotify.com/album/7IWXZKQU9nUC3ae508E46p"
-      },
-      "artists": [
-        {
-          "name": "Litany",
-          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
-        }
-      ],
-      "duration_ms": 195982,
-      "name": "Adult Movies",
-      "url": "https://open.spotify.com/track/1RPtMkfP5TfnlylnW6LIDd"
-    },
-    {
-      "added_at": "2024-03-21 18:05:17",
-      "album": {
-        "name": "Raincoats",
-        "url": "https://open.spotify.com/album/0zP2Syhcw4PzK9igud1t5O"
-      },
-      "artists": [
-        {
-          "name": "Amilli",
-          "url": "https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D"
-        },
-        {
-          "name": "Shelter Boy",
-          "url": "https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV"
-        }
-      ],
-      "duration_ms": 157208,
-      "name": "Raincoats",
-      "url": "https://open.spotify.com/track/2hxAUdQ6YbsvplYpBuYJvy"
-    },
-    {
-      "added_at": "2024-03-21 18:05:17",
-      "album": {
-        "name": "I Swear It's True",
-        "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
-      },
-      "artists": [
-        {
-          "name": "Mani Orrason",
-          "url": "https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2"
-        }
-      ],
-      "duration_ms": 235784,
-      "name": "I Swear It's True",
-      "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
-    },
-    {
-      "added_at": "2024-03-21 18:05:17",
-      "album": {
         "name": "Like You",
         "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
       },
@@ -1579,18 +1547,34 @@
     {
       "added_at": "2024-03-21 18:05:17",
       "album": {
-        "name": "Young Romance (Deluxe)",
-        "url": "https://open.spotify.com/album/2naZrGbgsZ5YEQS4IZMjUy"
+        "name": "Adult Movies",
+        "url": "https://open.spotify.com/album/7IWXZKQU9nUC3ae508E46p"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Litany",
+          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
         }
       ],
-      "duration_ms": 279676,
-      "name": "Falling Back",
-      "url": "https://open.spotify.com/track/4yC3bN8quQSuJw4vK6AYtW"
+      "duration_ms": 195982,
+      "name": "Adult Movies",
+      "url": "https://open.spotify.com/track/1RPtMkfP5TfnlylnW6LIDd"
+    },
+    {
+      "added_at": "2024-03-21 18:05:17",
+      "album": {
+        "name": "I Swear It's True",
+        "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
+      },
+      "artists": [
+        {
+          "name": "Mani Orrason",
+          "url": "https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2"
+        }
+      ],
+      "duration_ms": 235784,
+      "name": "I Swear It's True",
+      "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
     },
     {
       "added_at": "2024-03-21 18:05:17",
@@ -1639,6 +1623,22 @@
       "duration_ms": 193766,
       "name": "Highness",
       "url": "https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3"
+    },
+    {
+      "added_at": "2024-03-21 18:05:17",
+      "album": {
+        "name": "Young Romance (Deluxe)",
+        "url": "https://open.spotify.com/album/2naZrGbgsZ5YEQS4IZMjUy"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 279676,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/4yC3bN8quQSuJw4vK6AYtW"
     },
     {
       "added_at": "2024-03-21 18:05:17",

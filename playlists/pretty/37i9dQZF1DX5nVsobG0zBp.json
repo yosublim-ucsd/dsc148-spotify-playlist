@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: T-Rex.  ",
-  "num_followers": 59705,
+  "num_followers": 59767,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzc2MjA1MmFjZTZkZWNhZGZlN2FhZDBiMTIxMjRlNDJkMDMxNjI4",
+  "snapshot_id": "MCwyMWY2OGE5MjNiZmMxM2NlN2FhOWU3Y2MzMGUwYTVjN2U0NGEwMTky",
   "tracks": [
     {
       "added_at": "2024-03-08 00:00:00",
@@ -404,7 +404,7 @@
       "added_at": "2024-03-08 00:00:00",
       "album": {
         "name": "M.a.D.H.P.",
-        "url": "https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl"
+        "url": "https://open.spotify.com/album/3gjC8dqA5LfTFOGOug5rUA"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
         }
       ],
-      "duration_ms": 260800,
+      "duration_ms": 260799,
       "name": "Vencedor",
-      "url": "https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy"
+      "url": "https://open.spotify.com/track/7h3rSYFzLQbQy241BVaiTX"
     },
     {
       "added_at": "2024-03-08 00:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-03-08 00:00:00",
       "album": {
-        "name": "Nada a Esconder",
-        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 218258,
-      "name": "Nada a Esconder",
-      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
-    },
-    {
-      "added_at": "2024-03-08 00:00:00",
-      "album": {
         "name": "Na Via",
         "url": "https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 290736,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w"
+    },
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
+        "name": "Nada a Esconder",
+        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 218258,
+      "name": "Nada a Esconder",
+      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
     },
     {
       "added_at": "2024-03-08 00:00:00",

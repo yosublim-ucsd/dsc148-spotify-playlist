@@ -1,12 +1,12 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 451676,
+  "num_followers": 451672,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmE5NDk2OWFjZmQ4NjJhMjhhYWQ4YmFjYTg0MGI1OGIyMTZhNDdl",
+  "snapshot_id": "MCwwNTBhYjk4MmRkZmM3NjhkMzcwZTcxNzY5YjQ5MGEwMDQyMjJiZDJl",
   "tracks": [
     {
       "added_at": "2023-10-13 11:44:55",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Amor Da Sua Cama",
-        "url": "https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        }
-      ],
-      "duration_ms": 188309,
-      "name": "Amor Da Sua Cama",
-      "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 153934,
       "name": "Status Que Eu N\u00e3o Queria - Ao Vivo",
       "url": "https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Amor Da Sua Cama",
+        "url": "https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        }
+      ],
+      "duration_ms": 188309,
+      "name": "Amor Da Sua Cama",
+      "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -523,18 +523,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+        "name": "1 Dois 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6fVTu62HtqwjVwYwidjkVi"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 157460,
-      "name": "Mulher Maravilha - Ao Vivo",
-      "url": "https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb"
+      "duration_ms": 183986,
+      "name": "A Mala \u00c9 Falsa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3dyN3yQuMi2UWKRfRY0ISt"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -555,22 +559,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "1 Dois 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6fVTu62HtqwjVwYwidjkVi"
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
       },
       "artists": [
         {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 183986,
-      "name": "A Mala \u00c9 Falsa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3dyN3yQuMi2UWKRfRY0ISt"
+      "duration_ms": 157460,
+      "name": "Mulher Maravilha - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Rel\u00f3gio Parado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/60uEVgPGWNBFOYH8EcJglb"
-      },
-      "artists": [
-        {
-          "name": "Diego & Arnaldo",
-          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
-        }
-      ],
-      "duration_ms": 180736,
-      "name": "Rel\u00f3gio Parado (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5n8Y78Pl5q8lqS7sJP61qw"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Moleque",
         "url": "https://open.spotify.com/album/4QIhY16gSJ8F2kf2eDvGUt"
       },
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "O Embaixador - The Legacy (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 208383,
+      "name": "De Menina pra Mulher - Ao Vivo",
+      "url": "https://open.spotify.com/track/7snoDTJeoJ2oVMhf7eoF3t"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Mui\u00e9 Brava",
         "url": "https://open.spotify.com/album/2CxiqbhzoS3ZxqiJapoVA5"
       },
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "O Embaixador - The Legacy (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy"
+        "name": "Rel\u00f3gio Parado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/60uEVgPGWNBFOYH8EcJglb"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Diego & Arnaldo",
+          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
         }
       ],
-      "duration_ms": 208383,
-      "name": "De Menina pra Mulher - Ao Vivo",
-      "url": "https://open.spotify.com/track/7snoDTJeoJ2oVMhf7eoF3t"
+      "duration_ms": 180736,
+      "name": "Rel\u00f3gio Parado (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5n8Y78Pl5q8lqS7sJP61qw"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Continua, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
-      },
-      "artists": [
-        {
-          "name": "Luiza Martins",
-          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
-        }
-      ],
-      "duration_ms": 173020,
-      "name": "Desconhecido - Ao Vivo",
-      "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Simone & Simaria (Ao Vivo)",
         "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 190619,
       "name": "Duvido Voc\u00ea N\u00e3o Tomar Uma - Ao Vivo",
       "url": "https://open.spotify.com/track/43SZcLQB8jtHMuDVDHTV5S"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Continua, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
+      },
+      "artists": [
+        {
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
+        }
+      ],
+      "duration_ms": 173020,
+      "name": "Desconhecido - Ao Vivo",
+      "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Sem Contra-Indica\u00e7\u00e3o (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/4cmnBc1SViY9M3Rgh2LgFi"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Prefiro Nem Perguntar - Ao Vivo",
+      "url": "https://open.spotify.com/track/35ivh85cPKwgo3pZQGXa0e"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Surra de Cama",
         "url": "https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 178216,
       "name": "Surra de Cama",
       "url": "https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Sem Contra-Indica\u00e7\u00e3o (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/4cmnBc1SViY9M3Rgh2LgFi"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "Prefiro Nem Perguntar - Ao Vivo",
-      "url": "https://open.spotify.com/track/35ivh85cPKwgo3pZQGXa0e"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1639,38 +1639,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Esquenta Do Felipe Ara\u00fajo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2t0KATEqI2hGmuDy6BzU33"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        }
-      ],
-      "duration_ms": 162391,
-      "name": "Ainda Sou T\u00e3o Seu - Ao Vivo",
-      "url": "https://open.spotify.com/track/07PHNpknqZFw6N3GzNQWB8"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Ws Em Casa 2",
-        "url": "https://open.spotify.com/album/7f45wEiSd2W7zCLM07pvkn"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 165976,
-      "name": "Vai L\u00e1",
-      "url": "https://open.spotify.com/track/0s2DOPKPVg3VBodWBsXwF0"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/2YWSmJ37zzqKI9gqjwDJ0L"
       },
@@ -1691,6 +1659,38 @@
       "duration_ms": 146424,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/6N46P4y6dlnrtAWWCaHu7O"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Ws Em Casa 2",
+        "url": "https://open.spotify.com/album/7f45wEiSd2W7zCLM07pvkn"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 165976,
+      "name": "Vai L\u00e1",
+      "url": "https://open.spotify.com/track/0s2DOPKPVg3VBodWBsXwF0"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Esquenta Do Felipe Ara\u00fajo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2t0KATEqI2hGmuDy6BzU33"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        }
+      ],
+      "duration_ms": 162391,
+      "name": "Ainda Sou T\u00e3o Seu - Ao Vivo",
+      "url": "https://open.spotify.com/track/07PHNpknqZFw6N3GzNQWB8"
     },
     {
       "added_at": "2023-10-13 11:44:55",

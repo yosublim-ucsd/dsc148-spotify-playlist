@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: FAST BOY, R3HAB
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,688 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,781 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 32 | [Ich nehm dich bei der Hand \- Hardstyle](https://open.spotify.com/track/2xylu2773l6wsB0bxDXzwN) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs) | [Ich nehm dich bei der Hand \(SimsalaGrimm\) EP](https://open.spotify.com/album/3bJpS66FJAVvUxe8hQR6tQ) | 2:22 |
 | 33 | [Still Here With You](https://open.spotify.com/track/2JjS5wksKwaAqaB4Tubijz) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Still Here With You](https://open.spotify.com/album/7kMf2MXLqvDBMH6278lRn5) | 2:28 |
 | 34 | [So Hï](https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [So Hï](https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK) | 3:32 |
-| 35 | [PARALYZED \- TC/TC](https://open.spotify.com/track/0MD5dh34wT3D599gkS2VLR) | [TCTC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [PARALYZED \(TC/TC\)](https://open.spotify.com/album/350xyy5gGPc8ibqkgMOsMr) | 4:56 |
+| 35 | [PARALYZED \- TC/TC](https://open.spotify.com/track/0MD5dh34wT3D599gkS2VLR) | [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [PARALYZED \(TC/TC\)](https://open.spotify.com/album/350xyy5gGPc8ibqkgMOsMr) | 4:56 |
 | 36 | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/track/7jZXymh2SwJUGD4juPNVVH) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Laureano](https://open.spotify.com/artist/4Hu88bgyAjHvZZpfBK9ncX), [Bambo Cissokho](https://open.spotify.com/artist/2qjWUEZjsTxLUYI6MNk3Yq) | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/album/39YxZgJhoL9YQfc4lmKwhN) | 2:42 |
 | 37 | [In For The Kill](https://open.spotify.com/track/01vHZ3NIqFavLNMDcqnGQU) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [In For The Kill](https://open.spotify.com/album/28BkLUZKuVfS9SJgbbZz6i) | 3:03 |
 | 38 | [Get Busy](https://open.spotify.com/track/2I0WGckwuCYRoFK1TdkhJ0) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO) | [Get Busy](https://open.spotify.com/album/2ZY7jEqHWHymruFSfIihyK) | 2:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 79 | [Home](https://open.spotify.com/track/4YrB46WduA4TYnSdtk6URa) | [THORE](https://open.spotify.com/artist/3gv3HaxW0wEJLeDymQGXBt), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Home](https://open.spotify.com/album/5e9zMuKIBPtl9CStL34g9Y) | 3:11 |
 | 80 | [Hold](https://open.spotify.com/track/0HVWPPXF5rPXyUKAMNN5K2) | [TwoSides](https://open.spotify.com/artist/1K9jLPrfh7R7jykAV79ivA) | [Hold](https://open.spotify.com/album/6e8nVQU821w444dPdgikQm) | 2:45 |
 
-Snapshot ID: `MCxmZTYzMTY1MzRhNTg1YjVjMzgxOGJlZDUyOGE5NjUzY2ViMDRkNGY4`
+Snapshot ID: `MCxiNjY5ZDE1MjM5MGVhNjg4YWM5ODFkZWQ1ZTVhMWZmMTVkY2U1OGRh`

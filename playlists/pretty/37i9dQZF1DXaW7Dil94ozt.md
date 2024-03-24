@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,005 likes - 120 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,014 likes - 120 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 104 | [Break Down](https://open.spotify.com/track/3HGxunkeya4IUXVhWbx5cN) | [Crackshot](https://open.spotify.com/artist/4OIvtiUAaPgUT1ZzmVc5yb) | [After Midnight](https://open.spotify.com/album/4oy0axmO4T8WAKaKvc4gBC) | 4:25 |
 | 105 | [INFP](https://open.spotify.com/track/53TbTPtP4Dw0zkTevQC4pZ) | [Crackshot](https://open.spotify.com/artist/4OIvtiUAaPgUT1ZzmVc5yb) | [INFP](https://open.spotify.com/album/6VvIurbhKuSuhOVVFY4iXd) | 4:36 |
 | 106 | [Walking On Fire](https://open.spotify.com/track/32RHNN0stv1pEKACXFLPWx) | [Crackshot](https://open.spotify.com/artist/4OIvtiUAaPgUT1ZzmVc5yb) | [New Wave](https://open.spotify.com/album/6QvyLidCTv7IMUN3McGQ4r) | 3:58 |
-| 107 | [사랑에 대하여 About love](https://open.spotify.com/track/3LdgMI3yPlnDztvchoBXIX) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [Soft bench](https://open.spotify.com/album/5inSsD3hBp2Dm71bfvHoqn) | 2:20 |
-| 108 | [달력 Calendar](https://open.spotify.com/track/6aOBMjkUrLukHWOkIyYHGm) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [off the menu](https://open.spotify.com/album/6Jq9SOsXsW6b8x6OHXBsAx) | 4:50 |
+| 107 | [About love](https://open.spotify.com/track/3LdgMI3yPlnDztvchoBXIX) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [Soft bench](https://open.spotify.com/album/5inSsD3hBp2Dm71bfvHoqn) | 2:20 |
+| 108 | [Calendar](https://open.spotify.com/track/6aOBMjkUrLukHWOkIyYHGm) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [off the menu](https://open.spotify.com/album/6Jq9SOsXsW6b8x6OHXBsAx) | 4:50 |
 | 109 | [Lovers in Seoul](https://open.spotify.com/track/4b0DErtWUF6NB1LUvoyDJ1) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [Lovers in Seoul](https://open.spotify.com/album/2eiQzl4dGRZse9PVDc4Ljd) | 3:30 |
 | 110 | [The Wall](https://open.spotify.com/track/1m3UzguI43meDD7MpVwyh2) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [off the menu](https://open.spotify.com/album/6Jq9SOsXsW6b8x6OHXBsAx) | 4:31 |
 | 111 | [Like We Turn the pages \(Remaster\)](https://open.spotify.com/track/4W7MrbhSg8o2v5lBz0wLBV) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [hom'ea'ge](https://open.spotify.com/album/3GZ2bTWjX8d4L4rvtWcagA) | 3:12 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 119 | [Did It For Me](https://open.spotify.com/track/0xLfKXJta9gzJzwzgGJUL9) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [Don't Do It](https://open.spotify.com/album/76YzPru5W3pRbdIYVEy7IS) | 2:57 |
 | 120 | [Autumn Color](https://open.spotify.com/track/0gn5tFa1L4r00MgZHa1GyU) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [Autumn Color](https://open.spotify.com/album/4bacxFhgwgW5p5HWYl88J9) | 4:44 |
 
-Snapshot ID: `MCxmNmZiYmM5Zjg5ODM3Y2U5MDdjNWY5MjIyM2Y2ZmFmYzdhMjY1ZWQ2`
+Snapshot ID: `MCw4YWEzNmJiMDU2MmM0NjJhOTUxMDI0YjYzYWZiNjkwMmM2YjhjYjJi`

@@ -4,7 +4,7 @@
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-285 songs - 13 hr 26 min
+286 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Rainfall Oasis: Journey to Serenity](https://open.spotify.com/track/3yA4BEbG49OFuPHjrR4tbA) | [Sky Fall SF](https://open.spotify.com/artist/5ZYniVpbDvHg0ywuRU8Wb7) | [Rainy Day Zen: Relaxing Rain Soundscape](https://open.spotify.com/album/2CGrdBC5OnBoSbh886WuYH) | 2:40 | 2023-06-16 |  |
 | [Rainfall Retreat: Zen in Your Ears](https://open.spotify.com/track/1N4fgDLtBwOAm9a0IXUCuf) | [Lush Rain Creators](https://open.spotify.com/artist/6NLQjUG8UZlZ3wktExKafd) | [Drizzle Dreams: Sleep to the Sound of Rain](https://open.spotify.com/album/5EykfbEgCviCSoyv7i2h4V) | 2:36 | 2023-06-16 |  |
 | [Rainfall Reverberations: Melodic Rain Sounds](https://open.spotify.com/track/20HUGlsJXMHLAXkW5HDoav) | [Score Of The Poar](https://open.spotify.com/artist/1wF4K9mRRgY5YGI0Jv1HIt) | [Tranquil Showers: Refreshing Rain Sounds](https://open.spotify.com/album/75Z3imNQxLfriwo9X5iWQv) | 2:30 | 2023-06-16 |  |
+| [Rainfall Symphony](https://open.spotify.com/track/45lICfV5vHF9zeVTsXoREP) | [Pax Natura](https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ) | [Rainfall Symphony](https://open.spotify.com/album/21xYLPgL1tcmjJekVbq6UH) | 4:24 | 2024-03-21 |  |
 | [Rainforest Life](https://open.spotify.com/track/5jsF0Abb8ZeWHozhTWlSdF) | [Sacred Nature](https://open.spotify.com/artist/7lAi4aNlwZqQLch98sKi5Z) | [Mellow Forest Rain](https://open.spotify.com/album/1QgH2hp8LfklCAr7h90gEO) | 2:38 | 2023-06-16 |  |
 | [Raining After Midnight](https://open.spotify.com/track/0ngmRlW9zdGf52YSsZfhbM) | [Ray N.Y](https://open.spotify.com/artist/6QOi0WtxrycnPENvP8Rhvz) | [Heavy Rain](https://open.spotify.com/album/5yz3wrR41kYNUrYoQeIzzs) | 2:20 | 2023-06-16 |  |
 | [Raining Coma](https://open.spotify.com/track/3Iz6G9HAuoh31yBriwzMMw) | [Precip](https://open.spotify.com/artist/2MvLKa31qeJOBzobqE10FX) | [Heavy Due](https://open.spotify.com/album/3RcTFyLySVy1aRt1ah2Ytx) | 3:00 | 2023-06-16 |  |
@@ -278,7 +279,7 @@
 | [The Gentle Rains Of Summer](https://open.spotify.com/track/3FVvaFKKyjafGHkwzj73o4) | [Mississippi Nature Recording Society](https://open.spotify.com/artist/3JuC7m69FBuJpCuRLt6HLo) | [Mississippi Rain](https://open.spotify.com/album/3FAYpeYN8lseVewV0dvboL) | 3:24 | 2023-06-16 |  |
 | [The Mystique Sounds Of Nature](https://open.spotify.com/track/2uyrDzMP7uzqURcFfYxn8w) | [Moods & Water sounds](https://open.spotify.com/artist/4S8KHt6NF6LYdzJwba3vMp) | [Moods & Water sounds](https://open.spotify.com/album/3nD55ahX3IQVbzZNEvXKfi) | 2:24 | 2023-06-16 |  |
 | [The Picnic is Over](https://open.spotify.com/track/2ZPtYQNnLHRoKTvtawl4Jy) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Droplets](https://open.spotify.com/album/0YLKhxy0bHRwtBI7EXW6VR) | 3:18 | 2023-06-16 |  |
-| [This Is Rain](https://open.spotify.com/track/0ESBZksvk8Mh4CLkQFJZdD) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Gentle Rain Sounds 2](https://open.spotify.com/album/27xnvpybEbD0nza8kKAkXR) | 3:14 | 2024-03-18 |  |
+| [This Is Rain](https://open.spotify.com/track/0ESBZksvk8Mh4CLkQFJZdD) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Gentle Rain Sounds 2](https://open.spotify.com/album/27xnvpybEbD0nza8kKAkXR) | 3:14 | 2024-03-18 | 2024-03-24 |
 | [Total Rainlax](https://open.spotify.com/track/6V6H6D9oyYKDULYGlRvG2Z) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Total Relax Rain Sounds](https://open.spotify.com/album/2gk3zCG7C6FmrRDXHuiSG1) | 2:26 | 2023-06-16 |  |
 | [Tropic Rain](https://open.spotify.com/track/5gIOLEi9WsMudy3tfGfJNH) | [I See Rainbows](https://open.spotify.com/artist/3gsxqVDwafHaGerSAf235l) | [It's Raining Everywhere](https://open.spotify.com/album/4EZAPSadNgbhz6akdhN5vA) | 2:38 | 2023-06-16 |  |
 | [Tropical Rain Sound](https://open.spotify.com/track/5egT99fn74En0yE997ToIO) | [Regenmaschine](https://open.spotify.com/artist/1GTEiekrEAxZrpOCNMKFAY) | [Rain Sleep Effects](https://open.spotify.com/album/71EhaKqV4TQXMLmhQZFpR4) | 2:56 | 2023-06-16 |  |

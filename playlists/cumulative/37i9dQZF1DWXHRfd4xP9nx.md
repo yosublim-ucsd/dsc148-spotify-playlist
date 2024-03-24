@@ -4,7 +4,7 @@
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-331 songs - 15 hr 31 min
+332 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Rain Again](https://open.spotify.com/track/6SoSVRemix7GmsZZusXXhY) | [Meryl Stream](https://open.spotify.com/artist/7wU4Xw4xqmBzfy2TIej8qa) | [Leaking Clouds](https://open.spotify.com/album/6vJEQDkD0nvKBuEgWiigVh) | 2:33 | 2022-10-27 |  |
 | [Rain all day](https://open.spotify.com/track/4U3kZ08NfzuRTKIjoUzNFD) | [Rayne](https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy) | [Rainy days and rainy nights](https://open.spotify.com/album/31zKedn6ADYfeacflh843e) | 3:28 | 2023-12-20 |  |
 | [Rain all night](https://open.spotify.com/track/28wkhl6dcZCektz1OUEKrs) | [Rayne](https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy) | [Rainy days and rainy nights](https://open.spotify.com/album/31zKedn6ADYfeacflh843e) | 3:28 | 2023-12-20 |  |
-| [Rain All Night](https://open.spotify.com/track/4Xo8r5FeWsiJSuku38tVAH) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Night Rain In The Forest](https://open.spotify.com/album/5Ca1MQvDIbalfiZ7bd9BFu) | 2:55 | 2024-03-21 |  |
+| [Rain All Night](https://open.spotify.com/track/4Xo8r5FeWsiJSuku38tVAH) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Night Rain In The Forest](https://open.spotify.com/album/5Ca1MQvDIbalfiZ7bd9BFu) | 2:55 | 2024-03-21 | 2024-03-24 |
 | [Rain All Night](https://open.spotify.com/track/6jp23kbbjEQDrjjAgx5o4R) | [The Magical Drops](https://open.spotify.com/artist/1o8C2yFA9rciG6M29xiFbw) | [Light the Rain](https://open.spotify.com/album/03FUhz3VcZ8sf66ifivgBZ) | 3:48 | 2024-03-21 |  |
 | [Rain All Year Round](https://open.spotify.com/track/4iwDUEEZHxq7ITcc7DqCCI) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [London Days](https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq) | 3:12 | 2022-10-27 |  |
 | [Rain by Marsh \(Nature\)](https://open.spotify.com/track/5HTFXeKnoLF9uqSHThRuyX) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Tidal Marsh \(Nature\)](https://open.spotify.com/album/5Q50ibdcpK2F1qo6LLdpEc) | 2:44 | 2023-12-20 |  |
@@ -333,6 +333,7 @@
 | [Vienna \(Rain\)](https://open.spotify.com/track/1VFWtXT3a4aCPjq0DXo80v) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Recentered in Nature](https://open.spotify.com/album/454jtT55gdWTo7La069M9j) | 2:48 | 2023-12-20 |  |
 | [Wake Up Rain](https://open.spotify.com/track/726a7JkoT1DetZYi6dGnMF) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H), [Rain Recorders](https://open.spotify.com/artist/5GNSiWmGlKoycbxC8htQaH) | [Non Stop Rain](https://open.spotify.com/album/1SXdfBOoIPb094UtbsLjvP) | 2:10 | 2022-10-27 | 2024-03-22 |
 | [Warm Summer Rain](https://open.spotify.com/track/4PYcFKKiVUp92libw3naT1) | [Criollo Clouds](https://open.spotify.com/artist/2oV0NR81ygDpyfMqZoC4Wz) | [Warm Summer Rain](https://open.spotify.com/album/6yZFQrqbtGNymHCzkczaux) | 3:02 | 2024-03-21 |  |
+| [Washington Rain Reverie](https://open.spotify.com/track/1AfbsmFhOpX9GZHFd8Cb9l) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Nature's Rainfall Melodies](https://open.spotify.com/album/2L4ZTUZNAvkyo3d1G3Nu5c) | 3:12 | 2024-03-21 |  |
 | [Windy Showers](https://open.spotify.com/track/0EFyu4Ayh58pnqFGJXIwij) | [Parapluie](https://open.spotify.com/artist/33DMGJpBsidzfijvdAG8b4) | [Storm Rains](https://open.spotify.com/album/5tepCQ5QVZ5WXF0806PinZ) | 3:04 | 2023-12-20 |  |
 | [Wonderful Rain](https://open.spotify.com/track/4KCIoTO0Wyesf9Ia4VwGgn) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [Stratus](https://open.spotify.com/album/1aOS5vAC50EyCWfEhrAPmX) | 2:31 | 2023-12-20 |  |
 | [Woodnear Forest \(Rain\)](https://open.spotify.com/track/4Ia3PfPXOmDJ5cYPyt6VIi) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Gentle Rainfall](https://open.spotify.com/album/7t3EAck5pBqcys8naib91U) | 3:01 | 2023-12-20 |  |

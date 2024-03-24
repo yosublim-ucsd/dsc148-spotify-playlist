@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: ano + 幾田りら
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,079 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,141 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 59 | [僕だけが愛](https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけが愛](https://open.spotify.com/album/3bdleoxF74CDSzQXLwY8MI) | 5:23 |
 | 60 | [おともだち \- ズッ友 remix feat\. MANON](https://open.spotify.com/track/3TeJxSIKA97S8f29c7xGKb) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [おともだち \(ズッ友 remix feat\. MANON\)](https://open.spotify.com/album/0CG4Vukf1qd19H0Uq8jWuF) | 3:15 |
 
-Snapshot ID: `MCwzNzA4MjkzYjM0YzI5NmM4Y2NlM2U2YTIxZjk0Mzk0NGVjYjdhYjk0`
+Snapshot ID: `MCxlYjI1YjZjOWI2YWM5N2RiMjM0NWI5NmRiMTIwY2JlMmNiMzVhZjgz`

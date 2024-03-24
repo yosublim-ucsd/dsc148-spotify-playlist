@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-336 songs - 1 day 6 hr 8 min
+337 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Detroit Snackbar Dreamer](https://open.spotify.com/track/7tNeVOpu0hYTJKNxWKbFq7) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Stuntman](https://open.spotify.com/album/10lmr6WvEA5l9simbL8pbg) | 6:33 | 2021-02-25 | 2022-09-17 |
 | [Diamond Beach](https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Diamond Beach](https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE) | 3:04 | 2022-02-25 | 2022-07-29 |
 | [Dietrofront](https://open.spotify.com/track/3wiXVSR84GM7qZnorfK7md) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Dietrofront](https://open.spotify.com/album/5VyZvAfaPCj6MVASqP7FnD) | 6:17 | 2020-11-21 | 2022-07-29 |
-| [Dietrofront](https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Esc](https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0) | 6:17 | 2021-10-20 |  |
+| [Dietrofront](https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Esc](https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0) | 6:17 | 2021-10-20 | 2024-03-24 |
 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 | 2024-02-02 |  |
 | [Dream//Expanse](https://open.spotify.com/track/1eZkqX08AurtH7oDQIZjda) | [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Form//Less](https://open.spotify.com/album/4xdbtpK47a0l2QpEpUAEh1) | 6:20 | 2020-12-03 | 2022-07-29 |
 | [Duet 2](https://open.spotify.com/track/6V98lrVuD5LClmIyoDT0jV) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [Duets \| Golden Gate Bridge](https://open.spotify.com/album/177n1B4zIvOyy0UUBSJajw) | 5:02 | 2021-07-26 | 2022-07-29 |
@@ -242,6 +242,7 @@
 | [Polygon Window](https://open.spotify.com/track/74yFgfBjzPASPr3wv79aWe) | [The Dice Man](https://open.spotify.com/artist/67znT4w9oHh5dpk4WAHVCM) | [Artificial Intelligence](https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi) | 5:12 | 2021-01-16 | 2023-02-02 |
 | [Pomme Fritz \(Meat 'N Veg\)](https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Pomme Fritz](https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1) | 9:02 | 2023-04-14 | 2023-05-09 |
 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 | 2021-07-09 |  |
+| [Primo](https://open.spotify.com/track/23mrceVsUn1KdfYlvOXK4C) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/7xvYNj7sI92I93Yan0zcqO) | 2:52 | 2021-10-20 |  |
 | [Primo](https://open.spotify.com/track/4qpnXdgud6uaRMOi6NzAb1) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/58eIjs7Jdv4fsnW10Jwehe) | 2:52 | 2021-10-07 | 2022-07-24 |
 | [Prophecy Theme](https://open.spotify.com/track/63XWBP50fCjsP52MLnIpKm) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Dune](https://open.spotify.com/album/3LijvusGxCVk3luxL9kR6V) | 4:25 | 2020-10-21 | 2020-11-03 |
 | [Prophecy Theme](https://open.spotify.com/track/2FOZhjP4KGNWoLnUb7pkK1) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5C6579KEvJj9AWaZtjSflC) | 4:21 | 2021-10-20 | 2023-12-16 |

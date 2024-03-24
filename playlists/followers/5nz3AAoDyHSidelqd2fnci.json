@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 0,
+  "2024-03-24": 0,
   "date_first_scraped": "2023-03-07",
   "description": "",
   "name": "import of The daily dozen (@pipemanuel10)",
@@ -241,6 +241,24 @@
       "duration_ms": 132189,
       "name": "About It",
       "url": "https://open.spotify.com/track/2jrDrfZImsSBvaDY58ZCHv"
+    },
+    {
+      "album": {
+        "name": "No Remorse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6NnCvI782a1lKvMAIbzzAG"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166866,
+      "name": "Ace of Spades",
+      "url": "https://open.spotify.com/track/5tFxXs6ECCZFM5HL5nmlJt"
     },
     {
       "album": {
@@ -525,7 +543,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 297766,
       "name": "Are you like me?",
       "url": "https://open.spotify.com/track/2LQ46zs84tbUKDktxx00OB"
@@ -597,7 +615,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 235382,
       "name": "awe",
       "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 172000,
       "name": "Busca La Botella (feat. Tony Tun Tun & Endo)",
       "url": "https://open.spotify.com/track/1Ks2Tw5LATWmr9oARlO96Z"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 156733,
       "name": "El Orangut\u00e1n",
       "url": "https://open.spotify.com/track/4hdaF3ad9IrAOs2FRmHjht"
@@ -1834,6 +1852,24 @@
     },
     {
       "album": {
+        "name": "Ride The Lightning",
+        "url": "https://open.spotify.com/album/7a1dlwArQK6OCHkr2SNlZR"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263906,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/2ik73mqDU1wIlgTriYTebt"
+    },
+    {
+      "album": {
         "name": "Every 1's a Winner",
         "url": "https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo"
       },
@@ -1849,6 +1885,28 @@
       "duration_ms": 289266,
       "name": "Every 1's a Winner - Single Version",
       "url": "https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R"
+    },
+    {
+      "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213906,
+      "name": "Everything Matters",
+      "url": "https://open.spotify.com/track/1rMlnD8S0hX7IHZXZDt3gH"
     },
     {
       "album": {
@@ -1899,7 +1957,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 165053,
       "name": "False Sense of Sanity",
       "url": "https://open.spotify.com/track/2IYRr9sTrWUWOQydp2xNBx"
@@ -1960,6 +2018,24 @@
     },
     {
       "album": {
+        "name": "Dark Days",
+        "url": "https://open.spotify.com/album/1zshtbyPH8rrkqulAbV9V0"
+      },
+      "artists": [
+        {
+          "name": "Coal Chamber",
+          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180066,
+      "name": "Fiend",
+      "url": "https://open.spotify.com/track/4Jcz9DveYMyNgDxuspZv3r"
+    },
+    {
+      "album": {
         "name": "The Hunting Party: Acapellas + Instrumentals",
         "url": "https://open.spotify.com/album/6hU9JCoqq4GjYq86dQ1o9b"
       },
@@ -1989,7 +2065,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 297400,
       "name": "First Lance of Spain",
       "url": "https://open.spotify.com/track/6PxYRdOXXXh2KLIjSYNDbA"
@@ -2382,6 +2458,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/3NSivK5tIM5k4IiH5wobRr"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271026,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/1zSuTmG2vO4eRwoQUIFNCp"
+    },
+    {
+      "album": {
         "name": "High Like a Plane",
         "url": "https://open.spotify.com/album/5tMVaUg3Ph1H0SPBWXSqqc"
       },
@@ -2541,6 +2635,24 @@
       "duration_ms": 374440,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/4HbVVd2D3HKYe7PR0uEn1q"
+    },
+    {
+      "album": {
+        "name": "Understanding What We've Grown to Be (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6QmepOn4v046xEUpYEcq1t"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225453,
+      "name": "I Can't Make Your Decisions for You",
+      "url": "https://open.spotify.com/track/6U1V1s0MHM56Zeh5cLgbpc"
     },
     {
       "album": {
@@ -2953,6 +3065,24 @@
       "duration_ms": 275760,
       "name": "Is This Love - 2007 Remastered Version",
       "url": "https://open.spotify.com/track/3k58VAgUkM9cSvRpjIVaC7"
+    },
+    {
+      "album": {
+        "name": "Document (R.E.M. No. 5)",
+        "url": "https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246933,
+      "name": "It's The End Of The World As We Know It (And I Feel Fine)",
+      "url": "https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku"
     },
     {
       "album": {
@@ -3561,7 +3691,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 512106,
       "name": "Midwintertears",
       "url": "https://open.spotify.com/track/1Xg9lWAIPhPXa8MOScC7oa"
@@ -3802,6 +3932,24 @@
     },
     {
       "album": {
+        "name": "American Football",
+        "url": "https://open.spotify.com/album/3wRBlpk5PRoixwOnLujTal"
+      },
+      "artists": [
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268333,
+      "name": "Never Meant",
+      "url": "https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW"
+    },
+    {
+      "album": {
         "name": "Soda Stereo (Remastered)",
         "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
       },
@@ -4030,6 +4178,24 @@
     },
     {
       "album": {
+        "name": "OTRA VEZ CASUALIDAD",
+        "url": "https://open.spotify.com/album/0E6bwR3roTh3n6QBjF9LF2"
+      },
+      "artists": [
+        {
+          "name": "cata rec",
+          "url": "https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228073,
+      "name": "OTRA VEZ CASUALIDAD",
+      "url": "https://open.spotify.com/track/1aoTb7gh2k9Bi1mDGQbJq1"
+    },
+    {
+      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
       },
@@ -4063,6 +4229,24 @@
       "duration_ms": 214293,
       "name": "Painting Shadows",
       "url": "https://open.spotify.com/track/0oAC4zR57vujqTddus6cP6"
+    },
+    {
+      "album": {
+        "name": "PALOMINO",
+        "url": "https://open.spotify.com/album/4UElHgLdeGzNnv9d55NYRZ"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "PALOMINO",
+      "url": "https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4"
     },
     {
       "album": {
@@ -4456,6 +4640,28 @@
     },
     {
       "album": {
+        "name": "The Rolling Stones Singles Box Set (1971-2006) [Sampler]",
+        "url": "https://open.spotify.com/album/6In2W0PN0sp3DjhjmbRuQ5"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244826,
+      "name": "Rain Fall Down - Will.I.am Remix",
+      "url": "https://open.spotify.com/track/1XASWgO2SiqBBcjTNJd0W7"
+    },
+    {
+      "album": {
         "name": "Led Zeppelin II (1994 Remaster)",
         "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
       },
@@ -4647,7 +4853,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 229106,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
@@ -4701,7 +4907,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 440833,
       "name": "Rudy - Remastered 2010",
       "url": "https://open.spotify.com/track/4NZLRuEvCdmXUOdCAbp8dN"
@@ -4755,7 +4961,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 333226,
       "name": "Samba Land\u00f3",
       "url": "https://open.spotify.com/track/0Ielm1wcYet7CWFR9O9beV"
@@ -5657,7 +5863,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
@@ -5693,7 +5899,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 433423,
       "name": "The Obsessive Devotion",
       "url": "https://open.spotify.com/track/1dUsPb4e9L4BxED5fG2Uis"
@@ -5729,7 +5935,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 364186,
       "name": "The Same Deep Water As You - Band Instrumental Demo",
       "url": "https://open.spotify.com/track/0QOo0nMWtEiQw0CJZTvng1"

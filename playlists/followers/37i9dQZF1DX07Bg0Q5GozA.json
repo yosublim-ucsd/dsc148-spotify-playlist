@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 440348,
+  "2024-03-24": 440394,
   "date_first_scraped": "2022-12-29",
   "description": "New music off the beaten track. Cover: Moglii",
   "name": "OFF POP",
@@ -3527,7 +3527,7 @@
     {
       "album": {
         "name": "Fantasy Remixes",
-        "url": "https://open.spotify.com/album/7KSknfmHoGrBd4pXYLxziO"
+        "url": "https://open.spotify.com/album/2RwQ0yrsnvl3YRx1FfkKsH"
       },
       "artists": [
         {
@@ -3542,6 +3542,28 @@
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 248469,
+      "name": "Fantasy - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/0rm385SIdp7KV248WA3yI4"
+    },
+    {
+      "album": {
+        "name": "Fantasy Remixes",
+        "url": "https://open.spotify.com/album/7KSknfmHoGrBd4pXYLxziO"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-23",
       "duration_ms": 248469,
       "name": "Fantasy - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/3ETFK4bJe6LOJRuTnoR4Nl"

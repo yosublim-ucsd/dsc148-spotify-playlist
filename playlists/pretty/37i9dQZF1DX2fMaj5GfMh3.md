@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Olivia Rodrigo op de cover van Fresh Pop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,095 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,103 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 74 | [Perfectly Broken \- Duet Version](https://open.spotify.com/track/3upvbgPrhTRSH7y84AzBQz) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Perfectly Broken \(Duet Version\)](https://open.spotify.com/album/2jNHD7pMPo4mdzGKS78Qoz) | 3:06 |
 | 75 | [Love Should Be Easy](https://open.spotify.com/track/0IjKMUZhLXpypvK4jI0rrO) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/48VXJ1UcddBS5dYoRewoRn) | 3:22 |
 
-Snapshot ID: `MCw4NTVkMzkwM2E5ZTFmMGUxN2U4ZjMxNzgwYmFjNDQ2MWRmZjdmMmFm`
+Snapshot ID: `MCxkOGIzMTNjZGYxNjhjZWIyMmY3NWQyM2FkNWFmYTAxNjJiOTlmYzk5`

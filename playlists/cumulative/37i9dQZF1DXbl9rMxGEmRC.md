@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-608 songs - 2 day 3 hr 47 min
+609 songs - 2 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Cruelty Brought Thee Orchids](https://open.spotify.com/track/4G5P8iFosipk75ka1Zi4ob) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Cruelty & The Beast](https://open.spotify.com/album/1mANCcmAMRlnFIBM7SHBg7) | 7:18 | 2022-07-13 |  |
 | [Cryptic Hatred](https://open.spotify.com/track/34emkkUGkQ0TNhklAMpeG8) | [Bekor Qilish](https://open.spotify.com/artist/3XFes9KaDdpuRTaiPrHCXR) | [Throes of Death from the Dreamed Nihilism](https://open.spotify.com/album/0gck1FDA4mOauf4e6BSbjV) | 4:32 | 2023-02-15 | 2023-04-01 |
 | [Cult of Shaad'oah](https://open.spotify.com/track/1G2gIvViMPVHsjHQ9Cqxkq) | [Horrendous](https://open.spotify.com/artist/1Na6P4MqOassrZtvT9Z12s) | [Cult of Shaad'oah](https://open.spotify.com/album/3TgbVo0JRtM8sXTVtPWxb6) | 5:23 | 2023-06-23 | 2023-07-19 |
-| [Culture of Violence](https://open.spotify.com/track/6001jTk0jdao1oVV4vanVB) | [Extinction A.D.](https://open.spotify.com/artist/1AVn1BUp281M9gQhYCrvGQ) | [Culture of Violence](https://open.spotify.com/album/6RLlW1OIKY7lpwu37ywZMw) | 3:25 | 2022-03-18 |  |
+| [Culture of Violence](https://open.spotify.com/track/6001jTk0jdao1oVV4vanVB) | [Extinction A.D.](https://open.spotify.com/artist/1AVn1BUp281M9gQhYCrvGQ) | [Culture of Violence](https://open.spotify.com/album/6RLlW1OIKY7lpwu37ywZMw) | 3:25 | 2022-03-18 | 2024-03-24 |
 | [Cursed](https://open.spotify.com/track/1TaLL0z52wvVRNcmLl0HJF) | [Naraka](https://open.spotify.com/artist/7Js05ttQyRt4Pczu0F2LRo) | [Cursed](https://open.spotify.com/album/3KWgXdrDm75vJbSxWwZvf2) | 5:11 | 2021-12-17 | 2022-03-11 |
 | [Cut the Cord](https://open.spotify.com/track/1ohdTjNFu2TvMDD74Mp0FU) | [Necrot](https://open.spotify.com/artist/5jWIRPU5rVBm6ky8Atq7AW) | [Drill the Skull](https://open.spotify.com/album/07c4UOdjYSOBIzdfiw2pME) | 5:16 | 2024-03-22 |  |
 | [Cycle of Suffering](https://open.spotify.com/track/33N9eYEFkNqQvFedpH82kU) | [Carnation](https://open.spotify.com/artist/7s6SmrbyQvp26jN5EbnU9u) | [Cycle of Suffering](https://open.spotify.com/album/31JVSJMrlzxxqPQuOJy2AN) | 4:05 | 2023-10-09 | 2023-11-11 |
@@ -296,6 +296,7 @@
 | [Into the Crypts of Rays](https://open.spotify.com/track/4xQO8MVtFZOW2KJMBuAB2p) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales](https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859) | 3:39 | 2022-07-13 | 2022-09-04 |
 | [Into the Night](https://open.spotify.com/track/4nXWnm11xQjnDsgsKtYRti) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Into the Night](https://open.spotify.com/album/4Gbn1jOz5A5YDqOBMkqO2i) | 6:58 | 2022-01-14 | 2022-02-11 |
 | [Invocation \(Chthonic Merge\) X](https://open.spotify.com/track/2rh3w5SIH0wg5AcuS83y28) | [Incantation](https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz) | [Invocation \(Chthonic Merge\) X](https://open.spotify.com/album/66GxXX4cB2JFYdXxwWCqPQ) | 2:52 | 2023-08-25 | 2023-09-18 |
+| [Irjala](https://open.spotify.com/track/4BPwtlhUzUnUhBnt5rMbcC) | [Dödsrit](https://open.spotify.com/artist/1ZR1y4fCztcaoliwAIbEAb) | [Nocturnal Will](https://open.spotify.com/album/1J50ixIRSqfoKckOoxK8EO) | 10:37 | 2024-03-22 |  |
 | [IRMOS I](https://open.spotify.com/track/2ogB6fMaIdNa3cQsEoHrAt) | [Batushka](https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J) | [MARIA](https://open.spotify.com/album/5XRR2Lnc7grEl7FXyrS0qz) | 4:49 | 2022-04-01 | 2023-07-04 |
 | [Island of Dead Men](https://open.spotify.com/track/1n857ftGC4pbJhFjBmf5im) | [Asinhell](https://open.spotify.com/artist/0LDCMz2as9KQgSlX3KJNYx) | [Island of Dead Men](https://open.spotify.com/album/5wpL7nK7eCM33EXe9auPt1) | 3:01 | 2023-08-18 |  |
 | [It's Darker Than You Think](https://open.spotify.com/track/24rgd0Ex8aBpmctVJHbJSF) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Defending the Throne of Evil](https://open.spotify.com/album/4SCjDGytdNcWgtt3cMIBF2) | 4:41 | 2022-07-13 | 2022-07-29 |

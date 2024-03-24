@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now!  Cover: AJICO
 
-1,002 songs - 2 day 18 hr 19 min
+1,003 songs - 2 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [EPISODE 7](https://open.spotify.com/track/0UkJuv4tuSYAq07KW2XUUL) | [SBK](https://open.spotify.com/artist/2zHoXYzIEiq5t25A4dqMDD), [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [THE NEW ALBUM](https://open.spotify.com/album/1oUP4voVB2HB89sPPsXCzO) | 4:59 | 2022-05-17 | 2022-06-15 |
 | [ETA](https://open.spotify.com/track/0XeyTwIqd2GPPcIFpM10IX) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/6KgGPCceeIHDFldBzttiBu) | 4:47 | 2022-05-31 | 2022-06-23 |
 | [ETERNAL](https://open.spotify.com/track/0RGE4u70SFJPtXJFXMojaB) | [Kiyoharu](https://open.spotify.com/artist/1Jt0plJvCjpJ956Y8p1E7A) | [ETERNAL](https://open.spotify.com/album/0M4Y3RHFPZFb1p9UsGEMw0) | 4:47 | 2024-03-05 | 2024-03-07 |
-| [ETERNAL](https://open.spotify.com/track/4MLsKopLnvzWwAwDWnR2op) | [Kiyoharu](https://open.spotify.com/artist/1Jt0plJvCjpJ956Y8p1E7A) | [ETERNAL](https://open.spotify.com/album/2YIeAJSBcMSFPrgGW88nnu) | 4:47 | 2024-03-05 |  |
+| [ETERNAL](https://open.spotify.com/track/3HE753A8uCfdNBPFCRRbmY) | [Kiyoharu](https://open.spotify.com/artist/1Jt0plJvCjpJ956Y8p1E7A) | [ETERNAL](https://open.spotify.com/album/2RoIU7aELUTrkGnN77W4Ns) | 4:47 | 2024-03-12 |  |
+| [ETERNAL](https://open.spotify.com/track/4MLsKopLnvzWwAwDWnR2op) | [Kiyoharu](https://open.spotify.com/artist/1Jt0plJvCjpJ956Y8p1E7A) | [ETERNAL](https://open.spotify.com/album/2YIeAJSBcMSFPrgGW88nnu) | 4:47 | 2024-03-05 | 2024-03-24 |
 | [Everything With You](https://open.spotify.com/track/1Q6e1o8Dy3H8wG0RGahl2t) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 3:58 | 2022-11-22 | 2022-12-14 |
 | [EYE to EYE](https://open.spotify.com/track/0ApdoPhuDTvDBhxlidntLz) | [SHOW\-YA](https://open.spotify.com/artist/1GLStwjGJcUvkHGeCVgBEp) | [EYE to EYE](https://open.spotify.com/album/36m3Q9JB4eguQdVAMsS18O) | 5:04 | 2022-05-19 | 2022-06-08 |
 | [Eye's Sentry](https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry](https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp) | 4:11 | 2024-02-27 |  |

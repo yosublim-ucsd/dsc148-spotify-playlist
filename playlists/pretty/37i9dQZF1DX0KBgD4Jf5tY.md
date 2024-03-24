@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Il meglio della musica indipendente italiana, aggiornata il terzo mercoledì di ogni mese\. Cover: <a href="spotify:artist:1ByonnOisC5Owt0tfsyzGc">Coca Puma</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,133 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,138 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Porta Pia](https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Porta Pia](https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d) | 2:55 |
 | 2 | [Light](https://open.spotify.com/track/6t7ssvIwRyThKBiI9xi85q) | [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb) | [Light](https://open.spotify.com/album/3Y3SK2ySrRdlYccBgHyCki) | 2:51 |
-| 3 | [figliafutura](https://open.spotify.com/track/52terdOzRx9GKRzsGybrns) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [figliafutura](https://open.spotify.com/album/5ic1uVI97CBuguXfwtVgen) | 2:54 |
+| 3 | [figliafutura](https://open.spotify.com/track/7zICTxRBg8BF1JsuHvpGfk) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [figliafutura](https://open.spotify.com/album/5tVGZVMIH8xNqPmwhoLgp5) | 2:54 |
 | 4 | [Scurò](https://open.spotify.com/track/4xo6zNQu2aDpZB1UGXOpqc) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Scurò](https://open.spotify.com/album/7ElwaAIYkB2bBJQxhlTMDb) | 2:13 |
 | 5 | [su//giù \(fuoco\)](https://open.spotify.com/track/2DsfDZz9Omn56haGBha1UQ) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [su//giù \(fuoco\)](https://open.spotify.com/album/3ikPXBTfSbzhgy0AcZCnuf) | 3:19 |
 | 6 | [Ero Oro](https://open.spotify.com/track/79h0p7LxmMZahCWA2CLt3N) | [Sidy](https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT) | [Ero Oro](https://open.spotify.com/album/2cLKtzACjrJa1ScOBoXIpe) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [+ Gatto ␥](https://open.spotify.com/track/6EURiUwW3f08bpSSiQRFUO) | [Alberi Alti](https://open.spotify.com/artist/1I7RPyc2iQvqwHX1XDymUf) | [Mi Prometti Che Starai Bene ? ⍋](https://open.spotify.com/album/2KZnJoFc8hoPCBEfdABsA5) | 2:40 |
 | 50 | [MI PADRE E MI MADRE](https://open.spotify.com/track/25Gyz8oaZhDZwW88db8D3g) | [madze](https://open.spotify.com/artist/0fb1ryrNAVgx2wrWMUKqti) | [MI PADRE E MI MADRE](https://open.spotify.com/album/0cOROLD2s0uLv5l8Q8F0ae) | 2:33 |
 
-Snapshot ID: `MCxmZWVjMGNhOTZiYjE1OTkyYmFjNTMxN2I2NTMwMGRkMjBjYTE3ODk3`
+Snapshot ID: `MCxjZTJiOGQ0ZjNiMjkzMjAzYTRlZDNkOGNjOWZhODExNjE5ZWI1MGI5`

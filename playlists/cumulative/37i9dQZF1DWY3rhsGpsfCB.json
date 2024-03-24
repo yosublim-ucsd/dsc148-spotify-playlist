@@ -3132,6 +3132,24 @@
     {
       "album": {
         "name": "Gaslight 101",
+        "url": "https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179036,
+      "name": "Gaslight 101",
+      "url": "https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs"
+    },
+    {
+      "album": {
+        "name": "Gaslight 101",
         "url": "https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl"
       },
       "artists": [
@@ -3142,7 +3160,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 179500,
       "name": "Gaslight 101",
       "url": "https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs"

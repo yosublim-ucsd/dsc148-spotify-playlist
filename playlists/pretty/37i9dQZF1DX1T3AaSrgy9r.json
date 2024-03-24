@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 122706,
+  "num_followers": 122760,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDk5NDljZWJjNmE2ZmE5NDAxNzE4ZGJhYjA1NDQyNmRmZjhjZTJi",
+  "snapshot_id": "MCxjMGFjMDJiNmRkYjhkZjU0ZjFjOTkxYmM2MjJmNmUwYTJhZTk2YTU5",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -311,6 +311,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Goodbye Country (Hello Nightclub)",
+        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 360426,
+      "name": "Superstylin'",
+      "url": "https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 271520,
       "name": "In The Waiting Line",
       "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Goodbye Country (Hello Nightclub)",
-        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 360426,
-      "name": "Superstylin'",
-      "url": "https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Goodbye Country (Hello Nightclub)",
+        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 300266,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Protection",
         "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 471560,
       "name": "Protection",
       "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Goodbye Country (Hello Nightclub)",
-        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 300266,
-      "name": "My Friend",
-      "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -503,22 +503,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Maxinquaye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
+        "name": "Red Alert",
+        "url": "https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS"
       },
       "artists": [
         {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        },
-        {
-          "name": "Martina Topley-Bird",
-          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
         }
       ],
-      "duration_ms": 227066,
-      "name": "Hell Is Round The Corner",
-      "url": "https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9"
+      "duration_ms": 218026,
+      "name": "Red Alert - Jaxx Radio Mix",
+      "url": "https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -539,18 +535,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Red Alert",
-        "url": "https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS"
+        "name": "Maxinquaye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
       },
       "artists": [
         {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        },
+        {
+          "name": "Martina Topley-Bird",
+          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
         }
       ],
-      "duration_ms": 218026,
-      "name": "Red Alert - Jaxx Radio Mix",
-      "url": "https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO"
+      "duration_ms": 227066,
+      "name": "Hell Is Round The Corner",
+      "url": "https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9"
     },
     {
       "added_at": "2021-07-14 17:36:34",

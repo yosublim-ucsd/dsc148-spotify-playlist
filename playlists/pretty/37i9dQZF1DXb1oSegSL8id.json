@@ -1,12 +1,12 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 827881,
+  "num_followers": 828030,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODNjNTEwNDcyZjVlNjkxYmY0Y2IyOWJhNzZiMTliMmJhNzcwYWE1",
+  "snapshot_id": "MCxkOGY5YWIwYzM4NjViNzZjZGVkMGY1ZTY0ZmY0MTQwZjZjNTFjODk4",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -183,6 +183,26 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Len\u00e7ol Dobrado",
+        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Analaga",
+          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
+        }
+      ],
+      "duration_ms": 179164,
+      "name": "Len\u00e7ol Dobrado",
+      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Vento Forte",
         "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
       },
@@ -203,22 +223,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Eu Tenho a Senha",
-        "url": "https://open.spotify.com/album/2Hc8dFekejzrTxsF7R9wxT"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        }
-      ],
-      "duration_ms": 157175,
-      "name": "Meu Peda\u00e7o de Pecado",
-      "url": "https://open.spotify.com/track/0KbGTtipoc4GnUiYEVzfQh"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Troca de Cal\u00e7ada",
         "url": "https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k"
       },
@@ -235,22 +239,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Len\u00e7ol Dobrado",
-        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
+        "name": "Eu Tenho a Senha",
+        "url": "https://open.spotify.com/album/2Hc8dFekejzrTxsF7R9wxT"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gustavo e Murilo",
-          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
-        },
-        {
-          "name": "Analaga",
-          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
         }
       ],
-      "duration_ms": 179164,
-      "name": "Len\u00e7ol Dobrado",
-      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
+      "duration_ms": 157175,
+      "name": "Meu Peda\u00e7o de Pecado",
+      "url": "https://open.spotify.com/track/0KbGTtipoc4GnUiYEVzfQh"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Pra Ouvir Tomando uma 3, Vol. 1",
-        "url": "https://open.spotify.com/album/3hJSkysKvEixdL54qbpj5m"
-      },
-      "artists": [
-        {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        }
-      ],
-      "duration_ms": 144401,
-      "name": "Esse Barulho",
-      "url": "https://open.spotify.com/track/67fTDdGkHk1G5IZokS4uML"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "100% Grupo Revela\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/20PI0BGshx4A5gz0Onl91a"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 246226,
       "name": "Deixa Acontecer",
       "url": "https://open.spotify.com/track/50mawjudhEofTcUIpRmGXr"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Pra Ouvir Tomando uma 3, Vol. 1",
+        "url": "https://open.spotify.com/album/3hJSkysKvEixdL54qbpj5m"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "duration_ms": 144401,
+      "name": "Esse Barulho",
+      "url": "https://open.spotify.com/track/67fTDdGkHk1G5IZokS4uML"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Bebe e Vem Me Procurar",
-        "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 154291,
-      "name": "Bebe e Vem Me Procurar",
-      "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Some que ele vem atr\u00e1s",
         "url": "https://open.spotify.com/album/1GjVoPUvfzc1b76xa0stUI"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 194771,
       "name": "Some que ele vem atr\u00e1s",
       "url": "https://open.spotify.com/track/2qD7VoDYcrAPY0cVEfpsR5"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Bebe e Vem Me Procurar",
+        "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 154291,
+      "name": "Bebe e Vem Me Procurar",
+      "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Ao Vivo No Ibirapuera",
+        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 162459,
+      "name": "Liga\u00e7\u00e3o Covarde - Ao Vivo",
+      "url": "https://open.spotify.com/track/3caI72WpQutpdgPMm1jgDb"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Made In Studio",
         "url": "https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 147990,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Ao Vivo No Ibirapuera",
-        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 162459,
-      "name": "Liga\u00e7\u00e3o Covarde - Ao Vivo",
-      "url": "https://open.spotify.com/track/3caI72WpQutpdgPMm1jgDb"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "De Volta Pro Amanh\u00e3, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 119304,
-      "name": "Assim Voc\u00ea Mata o Papai - Ao Vivo",
-      "url": "https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Pisadinha (Ao Vivo)",
         "url": "https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 158661,
       "name": "Pisadinha - Ao Vivo",
       "url": "https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "De Volta Pro Amanh\u00e3, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 119304,
+      "name": "Assim Voc\u00ea Mata o Papai - Ao Vivo",
+      "url": "https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB"
     },
     {
       "added_at": "2023-11-17 03:01:00",

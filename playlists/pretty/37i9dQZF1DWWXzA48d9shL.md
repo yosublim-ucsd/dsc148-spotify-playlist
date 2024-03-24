@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: 1nonly
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,419 likes - 100 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,490 likes - 100 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 4 | [WTF 2](https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [WTF 2](https://open.spotify.com/album/4cFGu2A51oQ1lezuK6O9Dn) | 2:07 |
 | 5 | [I DON'T GO TO HIGHSCHOOL](https://open.spotify.com/track/1LkVouG5VCmvA6Nf4klKMt) | [All But 6](https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [I DON'T GO TO HIGHSCHOOL](https://open.spotify.com/album/5DugO8A3mcSdepXCMoIZQq) | 2:55 |
 | 6 | [Son Gohan](https://open.spotify.com/track/13RtnlcO9A13AX6oaoRZLk) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Son Gohan](https://open.spotify.com/album/39EdvibZaks6Vi4ujEXHGA) | 1:40 |
-| 7 | [BLACK CUBE OF SATURN](https://open.spotify.com/track/5vd6ZfGlTNdx4ZpktmD2Xv) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [BLACK CUBE OF SATURN](https://open.spotify.com/album/3i1ssxKunPwW5Dc3UWiTzP) | 1:54 |
+| 7 | [CUBE](https://open.spotify.com/track/5vd6ZfGlTNdx4ZpktmD2Xv) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [CUBE](https://open.spotify.com/album/3i1ssxKunPwW5Dc3UWiTzP) | 1:54 |
 | 8 | [Not Even Ghosts Are This Empty](https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 3:00 |
 | 9 | [VANDAL](https://open.spotify.com/track/2LkLmsfSfYHcAOGY9TTvgX) | [Doe Slurp](https://open.spotify.com/artist/5zpttOqBXJ20cTZumJvN74), [Netuh](https://open.spotify.com/artist/2kppis5CDjgY0jeNIFgKUG) | [VANDAL](https://open.spotify.com/album/5gTPPFypRVHUn13Z3z17so) | 2:38 |
 | 10 | [PRELUDE](https://open.spotify.com/track/7Ab36lIzfV514EAWtjn8j6) | [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [PRELUDE](https://open.spotify.com/album/3Ty16jF85SL2KxP1kG5Dh7) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [GANJA GOBLIN](https://open.spotify.com/track/4QF5JIoChpdZZajgYHNT6a) | [Pranav.Wav](https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP) | [GANJA GOBLIN](https://open.spotify.com/album/503xD5jcJZEK7Ckf3vDpL2) | 2:30 |
 | 100 | [DESIRE](https://open.spotify.com/track/25sabs7iC9eESyOpf0b6CY) | [LITTLE 4N](https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd) | [DESIRE](https://open.spotify.com/album/4HRlH8H0ujyz46QqdEBI51) | 2:21 |
 
-Snapshot ID: `MCwzZTc5ZDY3NDU0OWFkY2FjMGI5NmFmYjU5MjJiYzI3MzgwY2M3ZjAx`
+Snapshot ID: `MCxiMGUzOWI3MDY4NDllZjBhMWM5NWRhMDliZjA2ZmJkMDdjMzExZWVj`

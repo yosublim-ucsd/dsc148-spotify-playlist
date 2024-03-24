@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 369518,
+  "2024-03-24": 369697,
   "date_first_scraped": "2023-09-07",
   "description": "All the stuff that will blow your speakers!",
   "name": "Bass Explosion",
@@ -3323,10 +3323,32 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 140526,
       "name": "Love Lies Bleeding",
       "url": "https://open.spotify.com/track/6MdCSpePTLagrBkUIkIxJ7"
+    },
+    {
+      "album": {
+        "name": "Love Lies Bleeding",
+        "url": "https://open.spotify.com/album/4oL72qIblVT6v4PqY53yyB"
+      },
+      "artists": [
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        },
+        {
+          "name": "Kazhi",
+          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140526,
+      "name": "Love Lies Bleeding",
+      "url": "https://open.spotify.com/track/6cDMgUFxcz6SOzSW5HjCxg"
     },
     {
       "album": {
@@ -3917,12 +3939,16 @@
           "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         },
         {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         },
         {
           "name": "Andromedik",
           "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
       "date_added": "2024-03-21",

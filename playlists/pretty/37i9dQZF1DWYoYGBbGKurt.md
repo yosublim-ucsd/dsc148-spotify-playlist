@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,715 likes - 400 songs - 15 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,050 likes - 400 songs - 15 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 93 | [Good Riddance](https://open.spotify.com/track/1TokDvDC322LNnDEUqL4uv) | [Bad Gherkin](https://open.spotify.com/artist/15UGYmHXzD3KwCDTE2Xa4B) | [Good Riddance](https://open.spotify.com/album/6U0FtCx12gkLnR4oD55oj9) | 2:20 |
 | 94 | [big buddha](https://open.spotify.com/track/3ctgxH0ZpE50qscnZYBY1H) | [Max Hayward](https://open.spotify.com/artist/7BYvlfn9FHd6YH5eTY93zP) | [big buddha](https://open.spotify.com/album/7o1tcY2UDb2b8ZxHQnSRN5) | 2:28 |
 | 95 | [smileyface](https://open.spotify.com/track/6oGk8aYZv1s28KeBrFGQax) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [smileyface](https://open.spotify.com/album/78DU2xHbAo9sss8dmbstyI) | 2:54 |
-| 96 | [reading](https://open.spotify.com/track/3w2Yi3R4KMv4XvYTbMDxgR) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/6PVQb5IcN1NBMA3dTMflEL) | 2:41 |
+| 96 | [reading](https://open.spotify.com/track/5cnwPn0MKDPnu2rUamIRgb) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/2YVst3ngUsry3PB4Gz3JWN) | 2:41 |
 | 97 | [Encounter](https://open.spotify.com/track/10Q6Zi067V35REvI9w40hm) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Encounter](https://open.spotify.com/album/1Y5GeinuQQrEwocF29Svy0) | 2:26 |
 | 98 | [New Perspectives](https://open.spotify.com/track/2nRGO4Qb7Bb3rpi2Zi3V6N) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [New Perspectives](https://open.spotify.com/album/57VVSKIXcymJqC8vUeEi4E) | 4:01 |
 | 99 | [Melted Sidewalk](https://open.spotify.com/track/0d4ZPBFr0vTDQcKj8sAVwt) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [Melted Sidewalk](https://open.spotify.com/album/1ELHePM6qlzvB0I5l9rDTL) | 3:20 |
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 399 | [Blue](https://open.spotify.com/track/4uiRSjpQc52RNyRdQFzJuO) | [Screwaholic](https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Blue](https://open.spotify.com/album/5Uk80jsZYcqs42Di1sOuyR) | 2:24 |
 | 400 | [Elephant Soul](https://open.spotify.com/track/2pP6NmXnV9JeOXuJKkp0EQ) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Elephant Soul](https://open.spotify.com/album/672sDweJIxHJ8hlvd7BwEz) | 2:19 |
 
-Snapshot ID: `MCxhMjBjM2E0ZmYxNzNkNzk5MzdjZGI3NmFlNzgwNDI1NjkwNzk2NWE5`
+Snapshot ID: `MCw4NmFmMTkyODNjNDEzYzNlMjMzZTAwYTcwOTZjMzk3NjM2ZWVkMmQ5`

@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 890097,
+  "2024-03-24": 890118,
   "date_first_scraped": "2021-12-21",
   "description": "The best of electronic trap. Cover: Fabian Mazur",
   "name": "Trap Mojito",
@@ -83,6 +83,28 @@
       "duration_ms": 182400,
       "name": "After You Left",
       "url": "https://open.spotify.com/track/4W5ROae1ZZBbTIbsBa6A7g"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/0VtuSewUBCcpeXBLtCJ2QC"
+      },
+      "artists": [
+        {
+          "name": "Pao",
+          "url": "https://open.spotify.com/artist/0BjwyQkvPnw7b6SE1Zz1xr"
+        },
+        {
+          "name": "Rahmaan",
+          "url": "https://open.spotify.com/artist/0sCFFGcv5tDVarsFoKU3UA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4E9i8721QcN2hHaBsvAirm"
     },
     {
       "album": {
@@ -773,7 +795,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 249090,
       "name": "Breach",
       "url": "https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn"
@@ -1472,6 +1494,24 @@
     },
     {
       "album": {
+        "name": "DARKNIGHT",
+        "url": "https://open.spotify.com/album/4tI48GKS9emyjStfM2qrnG"
+      },
+      "artists": [
+        {
+          "name": "Deadcrow",
+          "url": "https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252428,
+      "name": "DARKNIGHT",
+      "url": "https://open.spotify.com/track/16pAnGlcqWBpdL2PMZl9h1"
+    },
+    {
+      "album": {
         "name": "DDOKBOKKI",
         "url": "https://open.spotify.com/album/2T48nb1L3se9K1QZIPJNWq"
       },
@@ -1667,6 +1707,24 @@
       "duration_ms": 152000,
       "name": "Dojo (feat. TroyBoi)",
       "url": "https://open.spotify.com/track/4u4qWIezCZStrTvpQJGIBM"
+    },
+    {
+      "album": {
+        "name": "Don't Say",
+        "url": "https://open.spotify.com/album/7EW009mrBIywR5pBGivHM9"
+      },
+      "artists": [
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185008,
+      "name": "Don't Say",
+      "url": "https://open.spotify.com/track/3UIpvxI4rFMc4Ng3AMfycu"
     },
     {
       "album": {
@@ -1973,6 +2031,24 @@
       "duration_ms": 176761,
       "name": "Eden (feat. fussy)",
       "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
+    },
+    {
+      "album": {
+        "name": "Get Off The Internet",
+        "url": "https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV"
+      },
+      "artists": [
+        {
+          "name": "Eliminate",
+          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "EGOTRIP",
+      "url": "https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg"
     },
     {
       "album": {
@@ -2423,10 +2499,36 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 135000,
       "name": "Flip It",
       "url": "https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy"
+    },
+    {
+      "album": {
+        "name": "Flip It (Tape B Remix)",
+        "url": "https://open.spotify.com/album/2NAppK3N8QSMkm1xdVDSBF"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        },
+        {
+          "name": "Dem Jointz",
+          "url": "https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187916,
+      "name": "Flip It - Tape B Remix",
+      "url": "https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT"
     },
     {
       "album": {
@@ -2757,7 +2859,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 233600,
       "name": "Go My Way",
       "url": "https://open.spotify.com/track/15cRruaacYlZfimhJvxGuw"
@@ -4399,7 +4501,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 255882,
       "name": "LOYAL",
       "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
@@ -6627,7 +6729,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 121849,
       "name": "Spirits Pt. 2",
       "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
@@ -6901,7 +7003,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 200571,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/5XJeq3Et1eL0paiOhnxCpc"
@@ -7315,6 +7417,28 @@
       "duration_ms": 177658,
       "name": "Touch",
       "url": "https://open.spotify.com/track/2a7kFbxMwmmZWDvH0JbZFU"
+    },
+    {
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/5QjxQet8qQY2wgfRE2yDY3"
+      },
+      "artists": [
+        {
+          "name": "ZCR",
+          "url": "https://open.spotify.com/artist/3VxzuXHpnnrq7pbNnIYyLa"
+        },
+        {
+          "name": "QL1X",
+          "url": "https://open.spotify.com/artist/7JfBLRCufrhDarmWikEzEI"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170704,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/5ZtIpR2A1ebZTaYyQEtEc8"
     },
     {
       "album": {

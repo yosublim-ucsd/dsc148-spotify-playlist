@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 343840,
       "name": "Chalaban - Live",
       "url": "https://open.spotify.com/track/2kQIp8ezdvT75GnZyXpLpz"
@@ -722,6 +722,24 @@
       "duration_ms": 474333,
       "name": "El Ghaba",
       "url": "https://open.spotify.com/track/7ibGkbXkA1NEUGktfEgdwa"
+    },
+    {
+      "album": {
+        "name": "Sewary\u00e9 gnawa influences",
+        "url": "https://open.spotify.com/album/27PzrBG8lH8FmMZX5vYI3c"
+      },
+      "artists": [
+        {
+          "name": "Hassan Boussou",
+          "url": "https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358700,
+      "name": "Fangara",
+      "url": "https://open.spotify.com/track/3ZbOt3J5GlRhuIUcWxgMY1"
     },
     {
       "album": {

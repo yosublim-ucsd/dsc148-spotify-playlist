@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Brothers Osborne
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,225,712 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,060 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Purple Irises](https://open.spotify.com/track/2IaXPHkRHIwFU3VdWT8Y8Y) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Purple Irises](https://open.spotify.com/album/1PsZW1S9Qr6uZfLSgzfjea) | 3:41 |
 | 100 | [BETTER DAYS](https://open.spotify.com/track/2eCgRuEddwFVOKLC9uERD3) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [BETTER DAYS](https://open.spotify.com/album/36efke4P7aeYMDmKArAEBe) | 3:26 |
 
-Snapshot ID: `MCwyOTMzOGQ0NTYzOWUzYjdmYzc2ZGMzNzVkMjY1ZjU2NTM0OWQ4ODUw`
+Snapshot ID: `MCw4Yjg3ODA3MzdiZGJmYzExYjVlY2NmOTQwN2Y5MGJmMmZjODU3N2E2`

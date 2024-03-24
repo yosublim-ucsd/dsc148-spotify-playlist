@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 166866,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/5tFxXs6ECCZFM5HL5nmlJt"
@@ -780,6 +780,24 @@
       "duration_ms": 154884,
       "name": "Better Than the Boys",
       "url": "https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx"
+    },
+    {
+      "album": {
+        "name": "Pandoras Pinata",
+        "url": "https://open.spotify.com/album/35QqILuoqqywpmYbx3DfF1"
+      },
+      "artists": [
+        {
+          "name": "Diablo Swing Orchestra",
+          "url": "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177280,
+      "name": "Black Box Messiah",
+      "url": "https://open.spotify.com/track/3jMLV1tx7XJmpruB2u0tDB"
     },
     {
       "album": {
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 263906,
       "name": "Escape",
       "url": "https://open.spotify.com/track/2ik73mqDU1wIlgTriYTebt"
@@ -1902,7 +1920,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 213906,
       "name": "Everything Matters",
       "url": "https://open.spotify.com/track/1rMlnD8S0hX7IHZXZDt3gH"
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 180066,
       "name": "Fiend",
       "url": "https://open.spotify.com/track/4Jcz9DveYMyNgDxuspZv3r"
@@ -2468,7 +2486,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 271026,
       "name": "Here to Stay",
       "url": "https://open.spotify.com/track/1zSuTmG2vO4eRwoQUIFNCp"
@@ -2637,6 +2655,24 @@
     },
     {
       "album": {
+        "name": "Morseper",
+        "url": "https://open.spotify.com/album/68HUvr3eKqGMnNapK9fcny"
+      },
+      "artists": [
+        {
+          "name": "Roben Og Knud",
+          "url": "https://open.spotify.com/artist/7ALwTQBNt1NhTFu0u4pd2b"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213386,
+      "name": "H\u00e6ttem\u00e5ge",
+      "url": "https://open.spotify.com/track/59KfTG60N5wIxgcVAA2vh6"
+    },
+    {
+      "album": {
         "name": "Understanding What We've Grown to Be (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6QmepOn4v046xEUpYEcq1t"
       },
@@ -2648,7 +2684,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 225453,
       "name": "I Can't Make Your Decisions for You",
       "url": "https://open.spotify.com/track/6U1V1s0MHM56Zeh5cLgbpc"
@@ -3078,7 +3114,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 246933,
       "name": "It's The End Of The World As We Know It (And I Feel Fine)",
       "url": "https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku"
@@ -3262,6 +3298,24 @@
       "duration_ms": 200906,
       "name": "La Vida Que Yo He Pasado - Unplugged Version",
       "url": "https://open.spotify.com/track/2jqLB54yRp8SLNzBALhqyp"
+    },
+    {
+      "album": {
+        "name": "Ni por la Razon, Ni por la Fuerza - Antologia",
+        "url": "https://open.spotify.com/album/3lw3Fh1bzFCGQaDRE1AguX"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248800,
+      "name": "La Voz De Los '80",
+      "url": "https://open.spotify.com/track/3UWMYVLYo0QwaPw1OI8hDk"
     },
     {
       "album": {
@@ -3589,6 +3643,24 @@
     },
     {
       "album": {
+        "name": "Plays Metallica by Four Cellos",
+        "url": "https://open.spotify.com/album/22wMPgeOpzduo9VK5uZa7R"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436866,
+      "name": "Master of Puppets",
+      "url": "https://open.spotify.com/track/1c2FRiii9YxnFACFbJVZLg"
+    },
+    {
+      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/3t3owRZbkMZrjZOAseeMoY"
       },
@@ -3690,7 +3762,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 512106,
       "name": "Midwintertears",
       "url": "https://open.spotify.com/track/1Xg9lWAIPhPXa8MOScC7oa"
@@ -3942,7 +4014,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 268333,
       "name": "Never Meant",
       "url": "https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW"
@@ -4159,6 +4231,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits II (2011 Remaster)",
+        "url": "https://open.spotify.com/album/3enuKERSauyNFVTa2n0t7S"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245066,
+      "name": "One Vision - Remastered 2011",
+      "url": "https://open.spotify.com/track/3eRwrwFOamx1TxrMkXlHFb"
+    },
+    {
+      "album": {
         "name": "Californication (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
       },
@@ -4188,7 +4278,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 228073,
       "name": "OTRA VEZ CASUALIDAD",
       "url": "https://open.spotify.com/track/1aoTb7gh2k9Bi1mDGQbJq1"
@@ -4242,7 +4332,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 141714,
       "name": "PALOMINO",
       "url": "https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4"
@@ -4326,6 +4416,24 @@
       "duration_ms": 205080,
       "name": "Path Vol. 2",
       "url": "https://open.spotify.com/track/4fHCgEuOXbC5ILnQYq39fC"
+    },
+    {
+      "album": {
+        "name": "Dude Ranch",
+        "url": "https://open.spotify.com/album/5IlIcdN5FKmqkhZcWNAqoW"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148706,
+      "name": "Pathetic",
+      "url": "https://open.spotify.com/track/3m3hDVmDjdWY3fU77h7zQT"
     },
     {
       "album": {
@@ -4621,6 +4729,24 @@
     },
     {
       "album": {
+        "name": "Consign to Oblivion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0IUmtDZj4sNXkJzm8Pvske"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235563,
+      "name": "Quietus (Silent Reverie) [Single Version]",
+      "url": "https://open.spotify.com/track/4I0cllCqA15hqM5q6d2RdG"
+    },
+    {
+      "album": {
         "name": "The Boy Who Knew Too Much",
         "url": "https://open.spotify.com/album/0kWIUG0jqOsKQCcDJZQ9G0"
       },
@@ -4654,7 +4780,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 244826,
       "name": "Rain Fall Down - Will.I.am Remix",
       "url": "https://open.spotify.com/track/1XASWgO2SiqBBcjTNJd0W7"
@@ -5277,6 +5403,24 @@
     },
     {
       "album": {
+        "name": "Reckless And Relentless",
+        "url": "https://open.spotify.com/album/3aFx7UfKu9KkyPFRGkgyeD"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216640,
+      "name": "Someone, Somewhere",
+      "url": "https://open.spotify.com/track/5wzV35hpLeZCz9aBSAWBcY"
+    },
+    {
+      "album": {
         "name": "Monsters in the Closet (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3o8zZBlQNtvLjgaHU9pjiy"
       },
@@ -5812,6 +5956,24 @@
       "duration_ms": 198493,
       "name": "The Hell Song",
       "url": "https://open.spotify.com/track/6hqt1z34Oz0OZtSfy62OFD"
+    },
+    {
+      "album": {
+        "name": "The War Within",
+        "url": "https://open.spotify.com/album/5clRtvETDgoHUdnvz3ANZP"
+      },
+      "artists": [
+        {
+          "name": "Shadows Fall",
+          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298333,
+      "name": "The Light That Blinds",
+      "url": "https://open.spotify.com/track/2nrYeIMPUyGk19p3uZR4ql"
     },
     {
       "album": {
@@ -6501,6 +6663,24 @@
     },
     {
       "album": {
+        "name": "Want You to Know",
+        "url": "https://open.spotify.com/album/0SdZsJR51FbwCSzR61gXAk"
+      },
+      "artists": [
+        {
+          "name": "Backset",
+          "url": "https://open.spotify.com/artist/2scPtarNLto2VIiH3qqn7Q"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209073,
+      "name": "Want You to Know",
+      "url": "https://open.spotify.com/track/4Y3vcZJzevbTEq29vINtYj"
+    },
+    {
+      "album": {
         "name": "A Colour For Autumn",
         "url": "https://open.spotify.com/album/3m8WKUe7KimObwrr8VLsMn"
       },
@@ -6530,7 +6710,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 186530,
       "name": "We Both Know",
       "url": "https://open.spotify.com/track/3Ir8iKCv67pW100PDSgWtk"
@@ -6592,6 +6772,24 @@
       "duration_ms": 208156,
       "name": "What's Love Got to Do with It",
       "url": "https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW"
+    },
+    {
+      "album": {
+        "name": "Disco Music History, Vol. 3",
+        "url": "https://open.spotify.com/album/3xHTumHPprOZAAZfLmBaRg"
+      },
+      "artists": [
+        {
+          "name": "Andrea True Connection",
+          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395693,
+      "name": "What's Your Name What's Your Number",
+      "url": "https://open.spotify.com/track/3de2tPprWQcJywXosT7CfD"
     },
     {
       "album": {

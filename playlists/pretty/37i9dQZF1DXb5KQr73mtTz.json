@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 17421,
+  "num_followers": 17428,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWU2NjUyMGE5MzVmNzhmNDBhNGE4NTZhMzU2ZDEzOGYzYmUyZGU0",
+  "snapshot_id": "MCxhMDFlZjRjOTU2OWYwMDJjZjNlZTQ1ODRiYzQ5YjU0YjJlMjBjMjNm",
   "tracks": [
     {
       "added_at": "2024-03-20 08:24:11",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-03-20 08:24:11",
       "album": {
-        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq"
-      },
-      "artists": [
-        {
-          "name": "Aalia",
-          "url": "https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS"
-        }
-      ],
-      "duration_ms": 233317,
-      "name": "About loneliness",
-      "url": "https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf"
-    },
-    {
-      "added_at": "2024-03-20 08:24:11",
-      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
+    },
+    {
+      "added_at": "2024-03-20 08:24:11",
+      "album": {
+        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq"
+      },
+      "artists": [
+        {
+          "name": "Aalia",
+          "url": "https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS"
+        }
+      ],
+      "duration_ms": 233317,
+      "name": "About loneliness",
+      "url": "https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf"
     },
     {
       "added_at": "2024-03-20 08:24:11",
@@ -723,7 +723,7 @@
     {
       "added_at": "2024-03-20 08:24:11",
       "album": {
-        "name": "\uc601\uc6d0\ud68c\uadc0 Eternal return",
+        "name": "Eternal return",
         "url": "https://open.spotify.com/album/2Ja2kwTKcN1ANA6qk0TVbt"
       },
       "artists": [
@@ -733,7 +733,7 @@
         }
       ],
       "duration_ms": 223965,
-      "name": "\uc601\uc6d0\ud68c\uadc0 Eternal return",
+      "name": "Eternal return",
       "url": "https://open.spotify.com/track/7yORm0vTVACc8r2K7Z0G6w"
     },
     {

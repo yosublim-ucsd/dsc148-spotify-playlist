@@ -1,12 +1,12 @@
 {
   "description": "Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href=\"spotify:artist:3HRSdDvPAE54ocmaq0JRrJ\">Camilla Magli</a>",
-  "num_followers": 22650,
+  "num_followers": 22655,
   "original_name": "RADAR Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjRmZTIzMzAwMjU2YTYzZjEyMGZkZTNhNzY5ZTJlYzMzNGE4MzA3",
+  "snapshot_id": "MCw4ZDhjOGY0NjYyNmI1MjNlZmJhM2Y0MGY2NzgyYTM1MGRkODNlYjc2",
   "tracks": [
     {
       "added_at": "2024-02-19 16:46:16",
@@ -115,7 +115,7 @@
     {
       "added_at": "2024-02-19 16:46:16",
       "album": {
-        "name": "GENNAIO 24",
+        "name": "GENNAIO 24 (feat. Caffellatte)",
         "url": "https://open.spotify.com/album/5TNxlyrgY5qoyceHYAoAE9"
       },
       "artists": [
@@ -124,16 +124,16 @@
           "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
         },
         {
-          "name": "Caffellatte",
-          "url": "https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay"
-        },
-        {
           "name": "Gorbaciof",
           "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        },
+        {
+          "name": "Caffellatte",
+          "url": "https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay"
         }
       ],
       "duration_ms": 130039,
-      "name": "GENNAIO 24",
+      "name": "GENNAIO 24 (feat. Caffellatte)",
       "url": "https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd"
     },
     {

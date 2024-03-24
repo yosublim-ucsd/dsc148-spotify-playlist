@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,034,090 likes - 158 songs - 8 hr 7 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,034,147 likes - 160 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,5 +166,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 156 | [Past Lives](https://open.spotify.com/track/3oELxRDbAzyvOodhd5FQzB) | [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Past Lives](https://open.spotify.com/album/4jNIqI2lx1BbXDoBzqjqqI) | 2:33 |
 | 157 | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y) | 4:14 |
 | 158 | [TATAKI FUNK](https://open.spotify.com/track/7qb8RCy248VbMwyw8h2aX6) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo), [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF) | [TATAKI FUNK](https://open.spotify.com/album/3MyhCAbT3HAAXo57iDBmMe) | 1:42 |
+| 159 | [SAXO FUNK](https://open.spotify.com/track/3mX7vRytOrduB8IysTVvhO) | [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li), [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [SAXO FUNK](https://open.spotify.com/album/0ROadDFBk9rZyvNRMcLNuP) | 1:45 |
+| 160 | [SATANS SMILE](https://open.spotify.com/track/5HSNpr6gaEof5aeuF39yYg) | [ICHIRO](https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p) | [SATANS SMILE](https://open.spotify.com/album/5gecBZfK5LRcRYnyyI5xO8) | 1:30 |
 
-Snapshot ID: `MTQ1NTgsZGM2ODVjNDFkNjdkMWJjNTU3Nzg0MTFkZGJlZGEzNDMxNDZjNWI0NA==`
+Snapshot ID: `MTQ1NjAsMGRiNDYxNWU1YmI5YjlmYmNjNTdkMmZkOWY2NjA5NTVjNTQxNGUwOA==`

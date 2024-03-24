@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,729 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,770 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 72 | [Vanish](https://open.spotify.com/track/0HkxndKKtxlNJQzP45YKTM) | [Waxamilion](https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6), [Bormsen](https://open.spotify.com/artist/5epoZlpLXp6iEoOLPbgkNy) | [Vanish](https://open.spotify.com/album/2mD8Ppr3WZCmV1JeFMi9zB) | 3:51 |
 | 73 | [A Dragon's Tail](https://open.spotify.com/track/7MM90UlM1S9HxI4R23gn5Q) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Pure](https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB) | 4:53 |
 | 74 | [Spare Tire](https://open.spotify.com/track/2IQENbY9YbzpwKmexVJ1jq) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Spare Tire](https://open.spotify.com/album/2YUPATCVtrrTMw5kFRqdhk) | 2:48 |
-| 75 | [The Roaring Twenties](https://open.spotify.com/track/7jrR6S8gfJyVrWZ8K5FmsB) | [Maarten Ouweneel](https://open.spotify.com/artist/4tZfjyeyjqlORFxtCYJdjG) | [The Roaring Twenties](https://open.spotify.com/album/6Sy81CHsix5Idl3jkXs5sw) | 4:58 |
+| 75 | [The Roaring Twenties](https://open.spotify.com/track/59WxaLSXFGTh2WzNdPivDf) | [Maarten Ouweneel](https://open.spotify.com/artist/4tZfjyeyjqlORFxtCYJdjG) | [Ebb & Flow](https://open.spotify.com/album/5vcC3uWAui0WNr3P1HWhUx) | 4:58 |
 | 76 | [Headless Chicken](https://open.spotify.com/track/5rDXHvjM3oIlEpkq0iao8N) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [Headless Chicken](https://open.spotify.com/album/4dZ8oDnHYryYJ66VKiBjxD) | 8:39 |
 | 77 | [Fat Hair](https://open.spotify.com/track/7xtnntJ25E0IGT9fQny0IP) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Bird of Passage](https://open.spotify.com/album/1nrKhiNrFuverJiIo1zliu) | 3:42 |
 | 78 | [When She Leaves](https://open.spotify.com/track/2Z29IIOq6xaec3uwJj84Uq) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 1:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 99 | [Tumescent](https://open.spotify.com/track/47XVn2ciuhWqHorHdWn89D) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/37Ge505lCbErq9PAjkKEyd) | 4:02 |
 | 100 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 |
 
-Snapshot ID: `MCw4N2VhNWMzOWI0NDlhYzQ4ZWQyYjM2MGI0ZDNiNzkyM2JhODUyMzIz`
+Snapshot ID: `MCw4NjQ1ZTkzNDZmNWVkYjgwZjkxMWNjNmQ0Y2E1ZWM2MWViOTQyZTEx`

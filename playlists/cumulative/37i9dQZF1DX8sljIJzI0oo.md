@@ -4,7 +4,7 @@
 
 > Santa Fe Klan is bringing the heat to Fuego\. Listen to all mixtapes <a href="spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b">HERE</a>.
 
-1,641 songs - 3 day 18 hr 13 min
+1,642 songs - 3 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,8 +191,9 @@
 | [Bebo](https://open.spotify.com/track/7HsebNHZDGj8UhWIrZaMx6) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:55 | 2022-09-23 | 2022-10-01 |
 | [Bellacon](https://open.spotify.com/track/4Zj3K3UaUMC6ndSwl05Zyd) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Bellacon](https://open.spotify.com/album/6BkZqvJEJ9moiKKP0yXgce) | 3:32 | 2022-09-16 | 2022-09-24 |
 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2023-12-21 | 2024-01-11 |
+| [BELLAKITA](https://open.spotify.com/track/0rT7rchVaPauZBkxreFcEy) | [C Dobleta](https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE) | [BELLAKITA](https://open.spotify.com/album/3W0OEMGP4LGbJ1VlHntIhQ) | 3:02 | 2024-03-21 |  |
 | [Bellakita](https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ) | [C Dobleta](https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE) | [Bellakita](https://open.spotify.com/album/0xnUNAewtVl83rVHz9b8RS) | 3:02 | 2024-03-21 | 2024-03-23 |
-| [Bellakita](https://open.spotify.com/track/5pdaMvOqvNPxEOgyKnej38) | [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [Bellakita](https://open.spotify.com/album/6TQTbHsOuOqUW5CVlFhvPk) | 3:02 | 2024-03-21 |  |
+| [Bellakita](https://open.spotify.com/track/5pdaMvOqvNPxEOgyKnej38) | [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [Bellakita](https://open.spotify.com/album/6TQTbHsOuOqUW5CVlFhvPk) | 3:02 | 2024-03-21 | 2024-03-24 |
 | [Bellako Triste](https://open.spotify.com/track/2qhH0XlKiIYJpHkx1HzLmC) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Nekxum](https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c) | [Santuario](https://open.spotify.com/album/3uo1QU42J1TEctlj9EujvD) | 2:35 | 2023-04-20 | 2023-04-28 |
 | [BELLAQUE?](https://open.spotify.com/track/7gYblpRDCSmrnY39PJBPYE) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [BELLAQUE?](https://open.spotify.com/album/4nbY0nHvLnl73klr2ZOaNo) | 2:17 | 2023-03-02 | 2023-08-04 |
 | [Bellaquita \(Remix\)](https://open.spotify.com/track/3KMpwYKKBSNHQ2qn20BZpg) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [Bellaquita \(Remix\)](https://open.spotify.com/album/02ze9fYbGSTcyd5Ozn9mGg) | 2:40 | 2022-11-03 | 2022-11-11 |

@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 195033,
+  "num_followers": 195080,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzczYTllODkwZmM5OTg3NzA4YWZhZDljMTEyMTdhZjFmZWEzNmU2",
+  "snapshot_id": "MCw1YzRkMjQwM2MyZTM5NDBiOWNhY2QwNDBkY2Q0NDFlYmNhMDA5NjIy",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Bullet",
-        "url": "https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h"
-      },
-      "artists": [
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "Bullet - Single Version",
-      "url": "https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Crooked Shadows",
         "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 204613,
       "name": "We Fight",
       "url": "https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Bullet",
+        "url": "https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "Bullet - Single Version",
+      "url": "https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1099,34 +1099,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "We Won\u2019t Go Back",
-        "url": "https://open.spotify.com/album/1CUsQWiNWr3LmAfB56Kpmm"
-      },
-      "artists": [
-        {
-          "name": "MILCK",
-          "url": "https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8"
-        },
-        {
-          "name": "BIIANCO",
-          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
-        },
-        {
-          "name": "Autumn Rowe",
-          "url": "https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH"
-        },
-        {
-          "name": "Ani DiFranco",
-          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "We Won\u2019t Go Back",
-      "url": "https://open.spotify.com/track/1IdQoRuVaRyJlU5YwTLG3F"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Heart Afire",
         "url": "https://open.spotify.com/album/5p0C1yK4tbFdJXIeyHV1GK"
       },
@@ -1159,6 +1131,34 @@
       "duration_ms": 189742,
       "name": "(The First Stone) Changes [feat. Yelawolf]",
       "url": "https://open.spotify.com/track/1kc3xvHmhXqXg4le5uYqLM"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "We Won\u2019t Go Back",
+        "url": "https://open.spotify.com/album/1CUsQWiNWr3LmAfB56Kpmm"
+      },
+      "artists": [
+        {
+          "name": "MILCK",
+          "url": "https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8"
+        },
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        },
+        {
+          "name": "Autumn Rowe",
+          "url": "https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH"
+        },
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "duration_ms": 200080,
+      "name": "We Won\u2019t Go Back",
+      "url": "https://open.spotify.com/track/1IdQoRuVaRyJlU5YwTLG3F"
     },
     {
       "added_at": "2023-06-23 04:01:00",

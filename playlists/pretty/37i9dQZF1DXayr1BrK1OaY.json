@@ -1,12 +1,12 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 213918,
+  "num_followers": 214044,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGIwZGVjNDdmMDFhZGE2ZDdhZTJjY2EzYTc2Y2UzZTJmMzgxN2Fi",
+  "snapshot_id": "MCwxMTE5NWM4YzM3YzYzNDIwMGUwNzBkMzMxY2U4OGI3ZjhlNzMyMTA2",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Silver Linings",
+        "url": "https://open.spotify.com/album/0JPGUlvwYA8enb1XhaUIbh"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 223336,
+      "name": "Satisfied - Edit",
+      "url": "https://open.spotify.com/track/378c4bnvmnfAoMTSIOveDX"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 279692,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Silver Linings",
-        "url": "https://open.spotify.com/album/0JPGUlvwYA8enb1XhaUIbh"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 223336,
-      "name": "Satisfied - Edit",
-      "url": "https://open.spotify.com/track/378c4bnvmnfAoMTSIOveDX"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1587,6 +1587,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Forever In My Mind",
+        "url": "https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        {
+          "name": "LPW",
+          "url": "https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha"
+        }
+      ],
+      "duration_ms": 152610,
+      "name": "Forever In My Mind",
+      "url": "https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 205440,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Forever In My Mind",
-        "url": "https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW"
-      },
-      "artists": [
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        },
-        {
-          "name": "LPW",
-          "url": "https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha"
-        }
-      ],
-      "duration_ms": 152610,
-      "name": "Forever In My Mind",
-      "url": "https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 448800,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "About Us (feat. EMME)",
         "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
       },
@@ -1795,6 +1779,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 448800,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Hopeful",
         "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
       },
@@ -1807,26 +1807,6 @@
       "duration_ms": 248432,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Is It Love (goddard. Remix)",
-        "url": "https://open.spotify.com/album/2JSThj7pMIiCybV5lxWDYh"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        }
-      ],
-      "duration_ms": 158550,
-      "name": "Is It Love - goddard. Remix",
-      "url": "https://open.spotify.com/track/5kNaiGZicJkD7r1cwbzDcD"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1847,6 +1827,26 @@
       "duration_ms": 213546,
       "name": "You've Done Enough",
       "url": "https://open.spotify.com/track/3zPfyVThoCzQ6IB5CSGDTz"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Is It Love (goddard. Remix)",
+        "url": "https://open.spotify.com/album/2JSThj7pMIiCybV5lxWDYh"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 158550,
+      "name": "Is It Love - goddard. Remix",
+      "url": "https://open.spotify.com/track/5kNaiGZicJkD7r1cwbzDcD"
     },
     {
       "added_at": "2024-03-22 04:00:00",

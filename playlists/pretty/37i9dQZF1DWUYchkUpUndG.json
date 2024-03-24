@@ -1,12 +1,12 @@
 {
   "description": "For all the new African Gospel Releases this week. Cover:   <a href=https://open.spotify.com/artist/6uDsL3665JpJrYZUBih0HN?si=PXIfrLDVRFeEv27pPv3cTQ>Solomon Lange</a> ",
-  "num_followers": 20331,
+  "num_followers": 20363,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDFlNzMwNmUwMzJmNjM1ZTI2ZGVkNzhmODAwNjViNjc2NzRjNWQ2",
+  "snapshot_id": "MCw3ZWY0OTQ4ZTA2MWJkOThiOGRjMmIyOTNjODE5YmVhMzkwNDFiZWU0",
   "tracks": [
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1087,6 +1087,26 @@
       "duration_ms": 229407,
       "name": "All I need",
       "url": "https://open.spotify.com/track/3Orl4aazpoS2d4ysPEkOsa"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Forgive me",
+        "url": "https://open.spotify.com/album/5ZtDOC1CDgbAgLUi3kCCNl"
+      },
+      "artists": [
+        {
+          "name": "Tam D",
+          "url": "https://open.spotify.com/artist/3RjctV2yPW8EFZmckoV33X"
+        },
+        {
+          "name": "Chilu",
+          "url": "https://open.spotify.com/artist/4yajcBOS5sEgdeDUZrygf2"
+        }
+      ],
+      "duration_ms": 268486,
+      "name": "Forgive me",
+      "url": "https://open.spotify.com/track/5WGFaqNvvivqrB1AlFf86B"
     },
     {
       "added_at": "2024-03-22 00:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Thalles Roberto",
-  "num_followers": 136382,
+  "num_followers": 136431,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2JhYzg4YjgyMjJjYTIxMGUxMTFiYzllOWUzZjUwZDlhNDcwNGIz",
+  "snapshot_id": "MCwyZDY2NmNhMGIxZjNjZTVkYzExNDA5ZWU2ODQ2NzFmZGNiNGQ4ZjNh",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Cordeiro e Le\u00e3o",
+        "url": "https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 236295,
+      "name": "Cordeiro e Le\u00e3o",
+      "url": "https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "1000 Graus",
         "url": "https://open.spotify.com/album/1YNEyzlJYU2QCcYbkQNXIB"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 168866,
       "name": "1000 Graus",
       "url": "https://open.spotify.com/track/0eAq2bA89nCxLTDBt9T1b0"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Cordeiro e Le\u00e3o",
-        "url": "https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 236295,
-      "name": "Cordeiro e Le\u00e3o",
-      "url": "https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -239,26 +239,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Santificado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7cEtIbSLnL4SifJaxkm4E1"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vasques",
-          "url": "https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf"
-        },
-        {
-          "name": "Alessandro Vilas Boas",
-          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
-        }
-      ],
-      "duration_ms": 562285,
-      "name": "Que o Cordeiro Receba - Ao Vivo",
-      "url": "https://open.spotify.com/track/00mDRKZ5KvvW7cWalm1X75"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Tudo Fica Bem",
         "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 304240,
       "name": "Tudo Fica Bem",
       "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Santificado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7cEtIbSLnL4SifJaxkm4E1"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vasques",
+          "url": "https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf"
+        },
+        {
+          "name": "Alessandro Vilas Boas",
+          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
+        }
+      ],
+      "duration_ms": 562285,
+      "name": "Que o Cordeiro Receba - Ao Vivo",
+      "url": "https://open.spotify.com/track/00mDRKZ5KvvW7cWalm1X75"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -307,22 +307,6 @@
       "duration_ms": 232191,
       "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder",
       "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Te Seguirei",
-        "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
-      },
-      "artists": [
-        {
-          "name": "Tarik Mohallem",
-          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
-        }
-      ],
-      "duration_ms": 290232,
-      "name": "Te Seguirei",
-      "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -363,6 +347,22 @@
       "duration_ms": 594705,
       "name": "Onde Tem Lenha",
       "url": "https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Te Seguirei",
+        "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
+      },
+      "artists": [
+        {
+          "name": "Tarik Mohallem",
+          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
+        }
+      ],
+      "duration_ms": 290232,
+      "name": "Te Seguirei",
+      "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Nosso Deus \u00c9 Grande (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2JF2opWknYA7UFAHKrIOdW"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 254762,
-      "name": "Nosso Deus \u00c9 Grande - Ao Vivo",
-      "url": "https://open.spotify.com/track/3z3b7WjjcJ2Jp2yfIXkOjE"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Salazar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 380250,
       "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
       "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Nosso Deus \u00c9 Grande (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2JF2opWknYA7UFAHKrIOdW"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 254762,
+      "name": "Nosso Deus \u00c9 Grande - Ao Vivo",
+      "url": "https://open.spotify.com/track/3z3b7WjjcJ2Jp2yfIXkOjE"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Eu Vou Amanhecer (ao Vivo)",
-        "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 341789,
-      "name": "Eu Vou Amanhecer - Ao Vivo",
-      "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "ELE \u00c9 EXALTADO",
         "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 298342,
       "name": "ELE \u00c9 EXALTADO",
       "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Eu Vou Amanhecer (ao Vivo)",
+        "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 341789,
+      "name": "Eu Vou Amanhecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
-      },
-      "artists": [
-        {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
-        }
-      ],
-      "duration_ms": 251707,
-      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
-      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Columb\u00e1rio",
         "url": "https://open.spotify.com/album/4o6BATvOsC4vbHJySc5avV"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 215836,
       "name": "Vestido Azul",
       "url": "https://open.spotify.com/track/5hLjEIr4NmAsGarqTwm0mA"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
+      },
+      "artists": [
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        }
+      ],
+      "duration_ms": 251707,
+      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
+      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
     },
     {
       "added_at": "2024-03-08 03:01:00",

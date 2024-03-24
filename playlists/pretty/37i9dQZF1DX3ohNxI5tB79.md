@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,710 likes - 82 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,775 likes - 82 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 81 | [The Good Life](https://open.spotify.com/track/61sH4Kpbpz9arNiudx07Sf) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Under My Skin](https://open.spotify.com/album/3Y2oCc3jdG6ad114eUc8Ev) | 4:11 |
 | 82 | [Love Is Back](https://open.spotify.com/track/2xAffWASC4yddor8wW037Z) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Love Is Back](https://open.spotify.com/album/5SzPWTx8cNuBeIpuo21bPk) | 4:16 |
 
-Snapshot ID: `MCxjZjllMWJiODk2ZWYxMTEyYjBhMGY5NDU5NTA1Y2EyNDY4YTJlNTIz`
+Snapshot ID: `MCw1M2ZhZjAyNDg1MTljNWM1NzAwNDg3MmZlZWM5MzM4ZDU4MmYzODNl`

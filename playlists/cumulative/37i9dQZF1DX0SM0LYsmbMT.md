@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,059 songs - 6 day 11 hr 8 min
+4,060 songs - 6 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1474,6 +1474,7 @@
 | [Hidden Joys](https://open.spotify.com/track/6VtNtkzOnlcNgdUYyGBIRg) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Packed Rich](https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94) | [Hidden Joys](https://open.spotify.com/album/5vVKPP4aQv9ifi4FN8Tobt) | 3:09 | 2021-09-03 | 2022-05-27 |
 | [Hidden Structure](https://open.spotify.com/track/3KuUl1ZUQ9UksXrPOYRMI1) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Tales of a Flowing Forest](https://open.spotify.com/album/0WNSzOsnggk6bEFRR9p9CR) | 2:32 | 2020-11-13 | 2021-02-06 |
 | [Hidden Voice](https://open.spotify.com/track/77YuaYwDFxt5Cqce7ygYtg) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Gavin Lord](https://open.spotify.com/artist/5iCzPSq8V0rrIv0pAGqDY2) | [Lost Reflections](https://open.spotify.com/album/0ZUCKLPA6IJghNIRa2fliF) | 3:21 | 2019-05-26\* | 2019-06-15 |
+| [Hide and Seek](https://open.spotify.com/track/6xjE7ITglQMlZKyLQhNjKz) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM) | [Playing Outside EP](https://open.spotify.com/album/5Oh0xLPbFAh5uVIm330Wf9) | 2:46 | 2024-03-21 |  |
 | [Hidetoshi](https://open.spotify.com/track/0oXazD3jS2jrUZlcjT0eeE) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Hidetoshi](https://open.spotify.com/album/1cMk2llkvKi1BN7VB9cx4T) | 2:17 | 2021-07-09 | 2022-01-28 |
 | [High as Fuck](https://open.spotify.com/track/4q9OiG2pXGdP7xmcRRNFMt) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M), [Aestethic](https://open.spotify.com/artist/4Uy8FKTokru6zgxNguXRnW) | [High as Fuck](https://open.spotify.com/album/409QmUUoaMMvTDxqSiMTPW) | 3:09 | 2019-08-02 | 2020-02-21 |
 | [high hopes](https://open.spotify.com/track/1qPUdNxvJKlQ0yrZIsCAcY) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [high hopes](https://open.spotify.com/album/0AGNqClzLBPN7tynMPGTuZ) | 3:24 | 2019-06-08 | 2019-11-06 |
@@ -3094,7 +3095,7 @@
 | [Sittin' Around Smokin'](https://open.spotify.com/track/1qrLuxUFn0rAGErN92uqLH) | [sumishii](https://open.spotify.com/artist/7eXNSXnJu1Az7K9PxADwwq) | [Sittin' Around Smokin'](https://open.spotify.com/album/4JY3CkiBpInLcSg49yR34D) | 1:26 | 2020-05-01 | 2020-06-29 |
 | [Sitting in the Park with Her](https://open.spotify.com/track/12S2nJ3gOQCqeupjirQzxf) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Sitting in the Park with Her](https://open.spotify.com/album/0VgTS5ULWKGvVfRAA9MKkq) | 2:15 | 2023-10-19 |  |
 | [Sixsteps On The Rooftop](https://open.spotify.com/track/069s6ALDvl8NhI6557jzOU) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Sixsteps On The Rooftop](https://open.spotify.com/album/7BHKHWwz402KmLViGCPrO5) | 2:47 | 2023-01-20 | 2023-02-17 |
-| [Sixty Six](https://open.spotify.com/track/6oTm695WmLz5L5jxa6O0vJ) | [Flo Badabum](https://open.spotify.com/artist/4dMQdNx2YofJBiOfxRLcD0), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Sixty Six](https://open.spotify.com/album/5s4I1b0csbSR512Pp1poTv) | 2:38 | 2024-02-29 |  |
+| [Sixty Six](https://open.spotify.com/track/6oTm695WmLz5L5jxa6O0vJ) | [Flo Badabum](https://open.spotify.com/artist/4dMQdNx2YofJBiOfxRLcD0), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Sixty Six](https://open.spotify.com/album/5s4I1b0csbSR512Pp1poTv) | 2:38 | 2024-02-29 | 2024-03-24 |
 | [Sizedrum](https://open.spotify.com/track/3nuSxBQUTn7nidezkdcBf4) | [Leyze](https://open.spotify.com/artist/1qlTDCLkb8uV3TG7I8aLdo) | [Amnesie](https://open.spotify.com/album/3ud7MR6RnLOms34crGFRkl) | 2:56 | 2020-01-15 | 2020-05-01 |
 | [Skipping Stones](https://open.spotify.com/track/1IJOtn16CnU7N0N1nW60eX) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Skipping Stones](https://open.spotify.com/album/3k7BkPL1eVzVeB2jyip1eg) | 1:26 | 2024-01-04 | 2024-02-16 |
 | [Skittles](https://open.spotify.com/track/7msQzqb8unxrhXqlwDmg1R) | [Hank Doobie](https://open.spotify.com/artist/2sndt7cXfYKuGjy3OIhZDA) | [Skittles](https://open.spotify.com/album/2hZFApT95SLW7P38RZnrwP) | 2:25 | 2020-12-11 | 2021-01-04 |

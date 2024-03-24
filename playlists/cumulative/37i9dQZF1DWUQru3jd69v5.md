@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: ALDA
 
-1,008 songs - 1 day 19 hr 46 min
+1,009 songs - 1 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Dry e vai \(feat\. J Lord\)](https://open.spotify.com/track/0szEVOq5vpdhWIsIW4hGt7) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Dark Days](https://open.spotify.com/album/36H4jXrI54WGWALMp7nyIa) | 3:06 | 2022-11-10 | 2022-12-09 |
 | [Ds Ep.8](https://open.spotify.com/track/4lnWGDZzX2zj8GreOGNhV7) | [Drillout](https://open.spotify.com/artist/2vCtOs0qQegutXqIuYzZgc), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Ds Ep.8](https://open.spotify.com/album/2ZV10RrQnYRFVqFtslTJJS) | 1:58 | 2022-06-09 | 2022-07-15 |
 | [DÉSOLÉ](https://open.spotify.com/track/4xrBfdXHqenjwuCRvnlqRM) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [DÉSOLÉ](https://open.spotify.com/album/2dBduepbYIm9uQlADmUvdd) | 2:26 | 2023-03-09 | 2023-04-19 |
+| [E Io Gioco A Hockey](https://open.spotify.com/track/58sLGcshW6p5uzZSPVMLZb) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Così Ghiacciato Tony](https://open.spotify.com/album/3N93FlcPvFKrGhQx81K5Uh) | 3:05 | 2024-03-23 |  |
 | [Eddie Guerrero \(feat\. Side Baby\)](https://open.spotify.com/track/7e9GiSZmiY6LwNd3P2Tt4Z) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [Eddie Guerrero \(feat\. Side Baby\)](https://open.spotify.com/album/08tQCu8deb5VDYe5NkFOy3) | 3:15 | 2023-11-09 | 2023-12-08 |
 | [Educazione Siciliana](https://open.spotify.com/track/6ssRDaLdTHihmOFPPjKKKl) | [BLACK PRINCE](https://open.spotify.com/artist/2FDNkx2RMUJjWaMlj8sfew), [Shaka Muni](https://open.spotify.com/artist/7AnocrRYGg5OxqfZPjaQIY), [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [Educazione Siciliana](https://open.spotify.com/album/43by569mx7rYA70z3lPdX9) | 2:08 | 2024-03-07 |  |
 | [Effetto](https://open.spotify.com/track/6WaLjJvWJOKOvObkVYI9eK) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [Effetto](https://open.spotify.com/album/2cYxdi5eLmxnfqBCBNwxbV) | 3:16 | 2022-10-11 | 2022-12-16 |

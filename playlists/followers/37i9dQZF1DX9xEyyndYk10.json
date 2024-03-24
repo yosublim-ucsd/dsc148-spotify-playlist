@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 177703,
+  "2024-03-24": 177786,
   "date_first_scraped": "2023-06-14",
   "description": "Que la calle te acompa\u00f1e al conducir.",
   "name": "Maneja con Hip-Hop",
@@ -490,6 +490,32 @@
     },
     {
       "album": {
+        "name": "LA QUE PUEDE, PUEDE",
+        "url": "https://open.spotify.com/album/4DAzoHpj0GPwj05SWNGWgY"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154890,
+      "name": "LA QUE PUEDE, PUEDE",
+      "url": "https://open.spotify.com/track/3vqd0xW1QefjkRPuKSPtib"
+    },
+    {
+      "album": {
         "name": "Cora",
         "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
       },
@@ -705,7 +731,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 190000,
       "name": "Me Puse Pedo",
       "url": "https://open.spotify.com/track/3ixbxMZyybv4j4iLrwc7gx"

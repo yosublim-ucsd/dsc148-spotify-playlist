@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Eternal return",
+        "url": "https://open.spotify.com/album/2Ja2kwTKcN1ANA6qk0TVbt"
+      },
+      "artists": [
+        {
+          "name": "GYE0M",
+          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223965,
+      "name": "Eternal return",
+      "url": "https://open.spotify.com/track/7yORm0vTVACc8r2K7Z0G6w"
+    },
+    {
+      "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
@@ -813,6 +831,24 @@
     },
     {
       "album": {
+        "name": "The Lover",
+        "url": "https://open.spotify.com/album/3UioVSNzdRV1lxbzkIb0Il"
+      },
+      "artists": [
+        {
+          "name": "OKDAL",
+          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185644,
+      "name": "The Lover",
+      "url": "https://open.spotify.com/track/5sBDtoaGEzE7rotVDcEFLq"
+    },
+    {
+      "album": {
         "name": "Closet",
         "url": "https://open.spotify.com/album/0pguC5BCed8NAbhtHXTSOB"
       },
@@ -975,24 +1011,6 @@
     },
     {
       "album": {
-        "name": "\ub450 \uc0ac\ub78c The Lover",
-        "url": "https://open.spotify.com/album/3UioVSNzdRV1lxbzkIb0Il"
-      },
-      "artists": [
-        {
-          "name": "OKDAL",
-          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
-        }
-      ],
-      "date_added": "2023-11-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185644,
-      "name": "\ub450 \uc0ac\ub78c The Lover",
-      "url": "https://open.spotify.com/track/5sBDtoaGEzE7rotVDcEFLq"
-    },
-    {
-      "album": {
         "name": "\uc601\uc6d0\uc758 \uc21c\uac04 Eternal Moment",
         "url": "https://open.spotify.com/album/5DMyYZ4Q6THtNPM6gQckDr"
       },
@@ -1070,24 +1088,6 @@
       "duration_ms": 259367,
       "name": "\uc5ec\ub984\ubc24",
       "url": "https://open.spotify.com/track/3D2XzN5RUtogeIw7f9fTCS"
-    },
-    {
-      "album": {
-        "name": "\uc601\uc6d0\ud68c\uadc0 Eternal return",
-        "url": "https://open.spotify.com/album/2Ja2kwTKcN1ANA6qk0TVbt"
-      },
-      "artists": [
-        {
-          "name": "GYE0M",
-          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
-        }
-      ],
-      "date_added": "2023-11-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 223965,
-      "name": "\uc601\uc6d0\ud68c\uadc0 Eternal return",
-      "url": "https://open.spotify.com/track/7yORm0vTVACc8r2K7Z0G6w"
     },
     {
       "album": {

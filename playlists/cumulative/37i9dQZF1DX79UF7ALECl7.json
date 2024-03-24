@@ -906,7 +906,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 247933,
       "name": "Float",
       "url": "https://open.spotify.com/track/1LDUJjR8IZtd48eCTA3J2Q"
@@ -1630,6 +1630,28 @@
       "duration_ms": 277899,
       "name": "Lost in the Streets of NYC - 2020 Remaster",
       "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
+    },
+    {
+      "album": {
+        "name": "Loud Enough (Didier Armeni Remix)",
+        "url": "https://open.spotify.com/album/4Fh2mDMVslKby7dt0oO0sd"
+      },
+      "artists": [
+        {
+          "name": "Sonan",
+          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
+        },
+        {
+          "name": "Didier Armeni",
+          "url": "https://open.spotify.com/artist/0rAWzQbB0Qbw4P4vBfFpka"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173937,
+      "name": "Loud Enough - Didier Armeni Remix",
+      "url": "https://open.spotify.com/track/77PlfRB6KA0WAcBBt6IU9N"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mujeres mexicanas a todo volumen! ",
-  "num_followers": 103145,
+  "num_followers": 103297,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGFmOGZiZTRlNWU2YTQ3ZjlhMmY0Y2ZmYjIzYzE1ODRmNzU3ZDQ1",
+  "snapshot_id": "MCwwYjg5NGRlMTQzMTRhODZiOGM5MDdhNWVlNDNhYmEwYTJlNjVjNTMy",
   "tracks": [
     {
       "added_at": "2024-03-22 06:00:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "1TRAGO",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "1TRAGO",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "MILAMORES",
         "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 211791,
       "name": "MILAMORES",
       "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "1TRAGO",
-        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "1TRAGO",
-      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "la calle",
-        "url": "https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq"
+        "name": "Amandititita",
+        "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
       },
       "artists": [
         {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
         }
       ],
-      "duration_ms": 243999,
-      "name": "la calle",
-      "url": "https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc"
+      "duration_ms": 196706,
+      "name": "Metrosexual",
+      "url": "https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Amandititita",
-        "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
+        "name": "la calle",
+        "url": "https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq"
       },
       "artists": [
         {
-          "name": "Amandititita",
-          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
         }
       ],
-      "duration_ms": 196706,
-      "name": "Metrosexual",
-      "url": "https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb"
+      "duration_ms": 243999,
+      "name": "la calle",
+      "url": "https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "Come For Me",
+        "url": "https://open.spotify.com/album/3tE4Mi8vAhFSOolDqy1XS5"
+      },
+      "artists": [
+        {
+          "name": "Bu Cuaron",
+          "url": "https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj"
+        }
+      ],
+      "duration_ms": 217695,
+      "name": "Come For Me",
+      "url": "https://open.spotify.com/track/2I75NkTuPnHBHKzTrpnmPW"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "Habita",
         "url": "https://open.spotify.com/album/5il9keOHsr5SzWCkkw0OoE"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Vas de Salida",
-      "url": "https://open.spotify.com/track/1fAlzrqtkmH6GX9lJ5al9b"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "cada que...",
         "url": "https://open.spotify.com/album/0hggg1LVqaRvo98L25NXXk"
       },
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Vas de Salida",
+      "url": "https://open.spotify.com/track/1fAlzrqtkmH6GX9lJ5al9b"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "Armaggedon",
         "url": "https://open.spotify.com/album/2AP8H2csmGXSfUNov9ek6y"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 194148,
       "name": "M\u00e1scara de Ni\u00f1a",
       "url": "https://open.spotify.com/track/4i2Gvi7vMbrr1IGvSfUSYd"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "Come For Me",
-        "url": "https://open.spotify.com/album/3tE4Mi8vAhFSOolDqy1XS5"
-      },
-      "artists": [
-        {
-          "name": "Bu Cuaron",
-          "url": "https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj"
-        }
-      ],
-      "duration_ms": 217695,
-      "name": "Come For Me",
-      "url": "https://open.spotify.com/track/2I75NkTuPnHBHKzTrpnmPW"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1047,6 +1047,22 @@
       "duration_ms": 209237,
       "name": "Cypher 1: Ella (feat. Delfina Dib)",
       "url": "https://open.spotify.com/track/1syrgjPK0foTlggQJJ48GY"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Nada me cansa",
+        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 122553,
+      "name": "Nada me cansa",
+      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1263,6 +1279,22 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "OTM",
+        "url": "https://open.spotify.com/album/5bgM2zZ6BIezZgLGJP1s50"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 127208,
+      "name": "OTM",
+      "url": "https://open.spotify.com/track/7wnSvBYZF4YZbM92M6tyBy"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "De Luna a Sol",
         "url": "https://open.spotify.com/album/3R009DZzZgbpSzlLIZdc1Q"
       },
@@ -1291,38 +1323,6 @@
       "duration_ms": 182520,
       "name": "Deseo",
       "url": "https://open.spotify.com/track/4TDkLHGVGpkZI0D9MKnJuM"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "OTM",
-        "url": "https://open.spotify.com/album/5bgM2zZ6BIezZgLGJP1s50"
-      },
-      "artists": [
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 127208,
-      "name": "OTM",
-      "url": "https://open.spotify.com/track/7wnSvBYZF4YZbM92M6tyBy"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "Nada me cansa",
-        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "Nada me cansa",
-      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
     }
   ],
   "unique_name": "EQUAL M\u00e9xico",

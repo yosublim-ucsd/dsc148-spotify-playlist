@@ -4,7 +4,7 @@
 
 > 
 
-1,874 songs - 4 day 5 hr 11 min
+1,875 songs - 4 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1648,6 +1648,7 @@
 | [the sound of grieving](https://open.spotify.com/track/4Rhi4B1r0atZJn0skBjBAR) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Sounds of Grieving](https://open.spotify.com/album/1FyQOxFhikCtowjSciyMCq) | 5:08 | 2023-12-26 |  |
 | [The Technogaia Accelerates Technology And You!](https://open.spotify.com/track/3GgawMNjv4Oppa0XQ7FnmP) | [Kaizo Slumber](https://open.spotify.com/artist/2UUvyxJDBsg7jnRwMAxNND) | [The Kaizo Manifesto](https://open.spotify.com/album/2nrxw6vRiM5Lb0WIeCV48O) | 2:44 | 2023-06-01 |  |
 | [The Things You Do \(To Me\)](https://open.spotify.com/track/51H50p8CKpFxwmtUwOP8Rp) | [Mark Whalen](https://open.spotify.com/artist/190DHPJLNML45FthZiizQi) | [Someone to Be](https://open.spotify.com/album/5ZMwVSpdyVDHg5044cIUes) | 5:03 | 2021-08-05 |  |
+| [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft) | 2:37 | 2024-03-23 |  |
 | [The Way Things Change](https://open.spotify.com/track/1kLXQonNqsJxCPFkUet3pV) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [The Way Things Change](https://open.spotify.com/album/3SaySnFE2GUU02BsUcfTIx) | 4:08 | 2021-08-05 |  |
 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2023-01-14 |  |
 | [Them Changes](https://open.spotify.com/track/4u8031pTkTODbRaDCbx8Yv) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [The Beyond / Where the Giants Roam](https://open.spotify.com/album/1atZ1TiIPZZec0oiyY1mBl) | 3:07 | 2021-08-05 |  |

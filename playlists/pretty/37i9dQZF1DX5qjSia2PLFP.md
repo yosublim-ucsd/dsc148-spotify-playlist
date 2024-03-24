@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,995 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,135 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 74 | [100 MILLION \(feat\. Tiwa Savage\)](https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [100 MILLION](https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju) | 2:16 |
 | 75 | [Get Off The Wall](https://open.spotify.com/track/6SlztBVfIbknPYVxJBGATZ) | [Philly Goats](https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U) | [Philly Goats](https://open.spotify.com/album/5kXDgdgqs9gqqKfcxZ9wVz) | 2:58 |
 
-Snapshot ID: `MCw5YTBjM2M0ZTIxOWU4ZGVjMDQxYzRiNTI1M2YyNmJlNmUyNTcwODVi`
+Snapshot ID: `MCxmMDI5ZWU0YTk5MDM1OTk1ZmViODRiMmI2NTFjNDNmYjU1NTE1MTUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,827 likes - 91 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,847 likes - 91 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 90 | [Losing By A Landslide](https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Losing By A Landslide](https://open.spotify.com/album/16D48mNNTX9JtuKUuVMnKP) | 3:14 |
 | 91 | [Lief Hebt](https://open.spotify.com/track/6K8dKNXJDjcgGrMadsCpgX) | [Tomson](https://open.spotify.com/artist/4OcAOYzLAiGREe0stWTGXp) | [Lief Hebt](https://open.spotify.com/album/2dBO90DPLH5CiJR1lwoCDR) | 2:32 |
 
-Snapshot ID: `MCxiZWM0YzU4Zjc4N2Y0OGVhODY5NjI2Yjk0YTU3NzNkNDY3MmUwMTgz`
+Snapshot ID: `MCxjOGQ3NTMwZTNkOTkyNGJlOTdhODkyZmZiZGI3NmY0MDNjNGJkY2Qx`

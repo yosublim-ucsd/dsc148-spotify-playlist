@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Dehd
 
-634 songs - 1 day 10 hr 50 min
+636 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,8 @@
 | [Moments of Clarity](https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ) | 3:50 | 2022-11-21 | 2023-06-03 |
 | [Monkey Mind](https://open.spotify.com/track/0lM6yxZLvHvxqBdYhgr9uo) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Monkey Mind](https://open.spotify.com/album/2tGMS4nGHxcPvD3DEIeaLW) | 2:18 | 2022-08-16 | 2023-04-15 |
 | [Mood Ring](https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Mood Ring](https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS) | 2:57 | 2024-02-16 |  |
-| [Moonstruck](https://open.spotify.com/track/1kM0YPEPUmZfV7WAl6HH0i) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Moonstruck](https://open.spotify.com/album/03TpK5HO3kLKg7jSTsKjoD) | 3:05 | 2024-01-13 |  |
+| [Moonstruck](https://open.spotify.com/track/1kM0YPEPUmZfV7WAl6HH0i) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Moonstruck](https://open.spotify.com/album/03TpK5HO3kLKg7jSTsKjoD) | 3:05 | 2024-01-13 | 2024-03-24 |
+| [Moonstruck](https://open.spotify.com/track/4jKvi79CDhecACVRUVwOx3) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Playing Favorites](https://open.spotify.com/album/2R7crs7YbXoJrjzb7IOEEq) | 3:05 | 2024-03-01 |  |
 | [More Than It Hurts You](https://open.spotify.com/track/5DQtZx4cWbuNvHfsTQHcSL) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [More Than It Hurts You](https://open.spotify.com/album/6qtUvdJ3U9u2UYIn6WR4JS) | 3:54 | 2022-07-08 | 2022-10-15 |
 | [Morning View](https://open.spotify.com/track/7z0ZmNJLTyMKEziFzRTk1l) | [Sophisticated Dingo](https://open.spotify.com/artist/7jEdUHdu1pVw9IDiGTooUL) | [Morning View](https://open.spotify.com/album/5y6uzBy9o0NYH9aSy46jNX) | 3:15 | 2022-08-16 | 2023-07-15 |
 | [Motel \#27](https://open.spotify.com/track/1Y3ljpiOvGbiXRGo60DMLT) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:48 | 2022-07-08 | 2022-10-01 |
@@ -443,7 +444,8 @@
 | [Plastic Pyramid](https://open.spotify.com/track/06SgGRLn7xmwCz8wIxIx8U) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9), [Izzy Glaudini](https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x) | [Plastic Pyramid](https://open.spotify.com/album/6EwBOdpvB0ElEPN3Sbpgbv) | 3:25 | 2024-01-13 | 2024-02-23 |
 | [Plastic Pyramid](https://open.spotify.com/track/1nxVYkAMpRqLaNLJdggYWa) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9), [Izzy Glaudini](https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x) | [Souvenir](https://open.spotify.com/album/703bpbJhzptTx5GTGNQoS4) | 3:25 | 2024-02-16 |  |
 | [Plus One](https://open.spotify.com/track/6zi6Oa8jioqPbeqoCbZCkq) | [Speedy Ortiz](https://open.spotify.com/artist/6YHfq8Pg3lZPo1u0PaQ8ob) | [Plus One](https://open.spotify.com/album/3dqTJ8HgLAqqgHE0ou361D) | 3:16 | 2023-06-30 |  |
-| [Pod](https://open.spotify.com/track/4Pd4s9r2rVwxRq6PqkEAXr) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Pod](https://open.spotify.com/album/2GjYLE2ifHo7Dyo1sonejL) | 1:41 | 2023-04-14 |  |
+| [Pod](https://open.spotify.com/track/4Pd4s9r2rVwxRq6PqkEAXr) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Pod](https://open.spotify.com/album/2GjYLE2ifHo7Dyo1sonejL) | 1:41 | 2023-04-14 | 2024-03-24 |
+| [Pod](https://open.spotify.com/track/5ROwIm7XDygIgVH6hcGdPF) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Super Snõõper](https://open.spotify.com/album/2zgNt2Z61ZncG9IPbEiWQL) | 1:41 | 2024-03-01 |  |
 | [Post Ryan \- Edit](https://open.spotify.com/track/529CmaR7Fe7Fq2micbIkgs) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Post Ryan](https://open.spotify.com/album/5yymZcgXcokucqKrKdMqNW) | 4:16 | 2022-09-19 | 2023-06-03 |
 | [Pressure Cooker \[Feat\. Mannequin Pussy\] \- Remix](https://open.spotify.com/track/6kyQGUWTewUuT5dlINrdLP) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Pressure Cooker \(Remix\) \[Feat Mannequin Pussy\]](https://open.spotify.com/album/3lY3lCj482eRmJi5K3fXOP) | 3:15 | 2023-01-20 | 2023-06-13 |
 | [Pressure Pad](https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Down There!](https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi) | 3:28 | 2024-01-24 |  |

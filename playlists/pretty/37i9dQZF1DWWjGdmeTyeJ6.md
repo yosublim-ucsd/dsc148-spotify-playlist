@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Galdive\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,188,640 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,188,756 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Deadweight](https://open.spotify.com/track/1w1aj51V8JWJv3DbtSS8sp) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [Deadweight](https://open.spotify.com/album/150Iwj3k9W8N1YiZkETUVo) | 3:01 |
 | 100 | [City](https://open.spotify.com/track/67upU8uOiheMRpgYK6Ru8W) | [Tobias Defoe](https://open.spotify.com/artist/4UWYwl77CmLOHrz7Zehl2l) | [City](https://open.spotify.com/album/2kKVo48OHlMQdbhBK3ZHT1) | 2:43 |
 
-Snapshot ID: `MCwwMDgwYjA0OTdjNGFkMGMxNzQwNWY2MTMxNWIzZTJhNDllMjdlZTJk`
+Snapshot ID: `MCw0Mjk2NjM3NmFmMzM4NjNlNjI5Mzg2MmQ2ZGUzNzcyZWU1NTRhN2Iw`

@@ -1,12 +1,12 @@
 {
   "description": "\u795d\u30fb\u7d50\u62105\u5468\u5e74\uff016\u4eba\u7d44\u30a8\u30f3\u30bf\u30e1\u30e6\u30cb\u30c3\u30c8\u3001\u3059\u3068\u3077\u308a\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01 Music from Japanese entertainment group, Strawberry prince! \u00a9STPR Inc.",
-  "num_followers": 43528,
+  "num_followers": 43524,
   "original_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNThmMTA5NGMzNTA0MDI1OTRiNWNlMDJjYTY4Njg1ZmNlZGE3NWFk",
+  "snapshot_id": "MCw2ZTgwMTE4YjY3NWY4ZDE0YTI4MmE0OTFmOWIxNTQ0MGUzZTU1YmNl",
   "tracks": [
     {
       "added_at": "2023-09-26 18:40:45",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-09-26 18:40:45",
       "album": {
+        "name": "\u306d\u3047\u3088\u306a",
+        "url": "https://open.spotify.com/album/2VAHzJjvtuPrVEUoiQ79no"
+      },
+      "artists": [
+        {
+          "name": "\u308b\u3045\u3068",
+          "url": "https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa"
+        }
+      ],
+      "duration_ms": 135438,
+      "name": "\u306d\u3047\u3088\u306a",
+      "url": "https://open.spotify.com/track/12C4oYIdJTXb8EXapCVoqu"
+    },
+    {
+      "added_at": "2023-09-26 18:40:45",
+      "album": {
         "name": "Here We Go!!",
         "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 224826,
       "name": "\u5929\u4f7f\u306b\u53e3\u4ed8\u3051",
       "url": "https://open.spotify.com/track/1CS0s0kJXCzKldgyFOvyzG"
-    },
-    {
-      "added_at": "2023-09-26 18:40:45",
-      "album": {
-        "name": "\u306d\u3047\u3088\u306a",
-        "url": "https://open.spotify.com/album/2VAHzJjvtuPrVEUoiQ79no"
-      },
-      "artists": [
-        {
-          "name": "\u308b\u3045\u3068",
-          "url": "https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa"
-        }
-      ],
-      "duration_ms": 135438,
-      "name": "\u306d\u3047\u3088\u306a",
-      "url": "https://open.spotify.com/track/12C4oYIdJTXb8EXapCVoqu"
     },
     {
       "added_at": "2023-09-26 18:40:45",
@@ -963,26 +963,6 @@
     {
       "added_at": "2023-09-26 18:40:45",
       "album": {
-        "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u306d\u304f\u3059\u3068\u3063\uff01",
-        "url": "https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ"
-      },
-      "artists": [
-        {
-          "name": "\u8389\u72ac",
-          "url": "https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L"
-        },
-        {
-          "name": "\u308b\u3045\u3068",
-          "url": "https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "\u6eb6\u89e3\u30a6\u30a9\u30c3\u30c1",
-      "url": "https://open.spotify.com/track/1Ar4PDbZHNT2LckPNLgpGo"
-    },
-    {
-      "added_at": "2023-09-26 18:40:45",
-      "album": {
         "name": "Here We Go!!",
         "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
       },
@@ -999,18 +979,22 @@
     {
       "added_at": "2023-09-26 18:40:45",
       "album": {
-        "name": "Here We Go!!",
-        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
+        "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u306d\u304f\u3059\u3068\u3063\uff01",
+        "url": "https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ"
       },
       "artists": [
         {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+          "name": "\u8389\u72ac",
+          "url": "https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L"
+        },
+        {
+          "name": "\u308b\u3045\u3068",
+          "url": "https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa"
         }
       ],
-      "duration_ms": 208733,
-      "name": "\u9739\u9742",
-      "url": "https://open.spotify.com/track/71E8i4jYbgiYvEmj9zOAuX"
+      "duration_ms": 185760,
+      "name": "\u6eb6\u89e3\u30a6\u30a9\u30c3\u30c1",
+      "url": "https://open.spotify.com/track/1Ar4PDbZHNT2LckPNLgpGo"
     },
     {
       "added_at": "2023-09-26 18:40:45",
@@ -1035,6 +1019,22 @@
       "duration_ms": 275840,
       "name": "\u3058\u3083\u3080\u3058\u3083\u3080\u30b7\u30b0\u30ca\u30eb",
       "url": "https://open.spotify.com/track/2VG5lGbvYXqAHbK9PWydM9"
+    },
+    {
+      "added_at": "2023-09-26 18:40:45",
+      "album": {
+        "name": "Here We Go!!",
+        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "\u9739\u9742",
+      "url": "https://open.spotify.com/track/71E8i4jYbgiYvEmj9zOAuX"
     },
     {
       "added_at": "2023-09-26 18:40:45",

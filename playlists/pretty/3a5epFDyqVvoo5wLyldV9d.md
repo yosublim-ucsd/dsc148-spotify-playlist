@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 764 songs - 2 day 11 hr 48 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 765 songs - 2 day 11 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -772,5 +772,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 762 | [A Place Called Tarot \(Tarot Suite\)](https://open.spotify.com/track/6qunWG4X42q2LALYA9tdpp) | [Tantra](https://open.spotify.com/artist/6urc5hhviGE72zYtdNgbN3) | [Disco Recharge \(The Complete Expanded Collection\)](https://open.spotify.com/album/01AepugeEoimCqlJJl8eEW) | 15:41 |
 | 763 | [Hills Of Katmandu](https://open.spotify.com/track/5yM5RVlWC4JytzPyhqGRln) | [Tantra](https://open.spotify.com/artist/6urc5hhviGE72zYtdNgbN3) | [Disco Recharge \(The Complete Expanded Collection\)](https://open.spotify.com/album/01AepugeEoimCqlJJl8eEW) | 16:21 |
 | 764 | [Sharazan](https://open.spotify.com/track/3QykjIsOz7tAH4G1OrRDT7) | [Al Bano And Romina Power](https://open.spotify.com/artist/1c0wBsDBu0NqpvxBqjYjZS) | [Felicità](https://open.spotify.com/album/6rYKh2EVXdWs5Pe8MugvSM) | 4:24 |
+| 765 | [Mano Dayak](https://open.spotify.com/track/75rfPRAYaXRbHSSXHsUyQk) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman](https://open.spotify.com/album/5H1S9LkOFl1t9yaJFVVAek) | 5:43 |
 
-Snapshot ID: `ODU2LGQxNDkxNjRkNTZhZjkzOWMzMzQwYzc3MzNiZjE0NTVjMTlmNzYxOTM=`
+Snapshot ID: `ODU3LGVmMDgwYWFjNWUwZmZjMDliYmVhOWY4N2EzY2ZkNWViNjI4MTgwM2I=`

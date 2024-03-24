@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,147 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,227 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 6 | [I'll Tell Me Ma](https://open.spotify.com/track/4KXFnl9HQGZmY0khO5EuMh) | [The Dicey Rileys](https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD) | [The Craic Is Mighty](https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt) | 2:12 |
 | 7 | [Paddle Me Own Canoe](https://open.spotify.com/track/0AX7y4GEcZHOSaFp2vPdKM) | [Waxies Dargle](https://open.spotify.com/artist/6XyWSrfIUyLVu2htZ0w8VH) | [Irish Drinking Songs Vol 1](https://open.spotify.com/album/5dlpSuvg8hvJAgoeYnisp0) | 2:47 |
 | 8 | [Botany Bay \(arr\. N\. McLoughlin\)](https://open.spotify.com/track/2jn9b9n7pIPCctswaTrvDq) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Noel McLoughlin Group](https://open.spotify.com/artist/3X06t2DWR44EmCpR0AX8gx) | [20 Best Irish Pub Songs](https://open.spotify.com/album/1bse1I86JVJ2edZUa55xXl) | 2:41 |
-| 9 | [Wild Mountain Thyme](https://open.spotify.com/track/1Kue1YD3a8ANnrcS4o87Cc) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [The Orchard](https://open.spotify.com/album/7aUKDSAEpvc7b2SEnPAzX7) | 3:43 |
+| 9 | [The Bright Side of the Moon](https://open.spotify.com/track/4Mz9saLVP35oxyLpizLIq5) | [Cyril O Donoghue](https://open.spotify.com/artist/6WBavOkLualW4j6VU1orFR) | [Irish Folk At Its Best](https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz) | 3:47 |
 | 10 | [Molly Malone](https://open.spotify.com/track/6K5kPhYPbLNkkdyvyjzP3t) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Best Of The Dubliners](https://open.spotify.com/album/14p25ZN9xDdhJP5Vkn1NG1) | 2:58 |
 | 11 | [The Jolly Roving Tar](https://open.spotify.com/track/5HFTXdXOYdrTBTQzENl3Y6) | [The Irish Rovers](https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo) | [Another Round](https://open.spotify.com/album/7dUj8xwItvNidixaT4CIq8) | 2:28 |
 | 12 | [As I Roved Out](https://open.spotify.com/track/15oMf5nmBRkBNfSzxLyQ3f) | [The High Kings](https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0) | [Memory Lane](https://open.spotify.com/album/1qaEHYE8Li6SKfLF6m1XDo) | 3:31 |
 | 13 | [Merrily Kissed The Quaker](https://open.spotify.com/track/0PSXpbeWUPrxoUfZluO0CM) | [Planxty](https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c) | [The Planxty Collection](https://open.spotify.com/album/7EBGNTzxA5We3cdWqrj1Mf) | 2:39 |
-| 14 | [The Bright Side of the Moon](https://open.spotify.com/track/4Mz9saLVP35oxyLpizLIq5) | [Cyril O Donoghue](https://open.spotify.com/artist/6WBavOkLualW4j6VU1orFR) | [Irish Folk At Its Best](https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz) | 3:47 |
+| 14 | [Wild Mountain Thyme](https://open.spotify.com/track/1Kue1YD3a8ANnrcS4o87Cc) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [The Orchard](https://open.spotify.com/album/7aUKDSAEpvc7b2SEnPAzX7) | 3:43 |
 | 15 | [The Wild Rover](https://open.spotify.com/track/47Aj72P6zTD6UqkIN44IiM) | [Brogue](https://open.spotify.com/artist/5KHKWKrJziaGcg7LG7SNdL), [Paddy O'Gorman](https://open.spotify.com/artist/0KTaPPzzokXm78lUl6Bu1b) | [Irish Ballads and Songs](https://open.spotify.com/album/015erneqKmEPClgUAzqc1L) | 3:04 |
 | 16 | [The Craic Was 90 in the Isle of Man](https://open.spotify.com/track/18YgzC9PYPzCagclA5AlQ8) | [The Dicey Reillys](https://open.spotify.com/artist/5lRAgykmSF0P87fBzjsh0h) | [St\. Patrick's Day: Ultimate Irish Pub Songs](https://open.spotify.com/album/4VcdKePWLXjMgOVq59EJ4u) | 3:17 |
 | 17 | [Smoke and Strong Whiskey](https://open.spotify.com/track/7ok6fq3vNfyIqjSby1UbpV) | [Turlough](https://open.spotify.com/artist/7lGlBusQq3p9LjkdD9iF7R) | [Canyon Moonrise](https://open.spotify.com/album/7E003F3IUQEbMqNPs7GVWq) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 49 | [Road to Granard / Gallagher's Frolics / Out on the Ocean](https://open.spotify.com/track/7DyemM63ebf7A8Xr1XbDra) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Janet Sutton](https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:18 |
 | 50 | [The Month of January](https://open.spotify.com/track/5NLhEltFqmzlXx6erUdGyj) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:42 |
 
-Snapshot ID: `MCxjOTg0ZjdmYTNlMWQ5NTRhZGUyMjZlMDg1YzRjZjQ5MTkxM2FkZjdl`
+Snapshot ID: `MCxkMmVmYTg2MDA3YmVlNmU3ZTJiZmRiMTk3ZWE2OTM4ZWU4ZTQ3MDFm`

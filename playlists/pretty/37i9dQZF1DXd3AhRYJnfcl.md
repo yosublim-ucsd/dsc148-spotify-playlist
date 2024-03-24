@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\.  الغلاف: <a href="https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI?si=xSiV3LOvRJipiJq4EIO0xQ"> شيرين </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,243 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,349 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [Men Sokat](https://open.spotify.com/track/3fPOOQ7oYuHdZtwKtKtGEN) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Men Sokat](https://open.spotify.com/album/7jzjziJDLOejnGPgSwosfO) | 3:13 |
 | 50 | [Omour Basita](https://open.spotify.com/track/1nRCDjARnK6JnGZfo1Vq4t) | [Hisham Gamal](https://open.spotify.com/artist/5SyakrUvLtz9pk4zRDVf0N), [Laila Ahmed Zaher](https://open.spotify.com/artist/5MDRZSRZrKbToJMI4doVmj) | [Omour Basita](https://open.spotify.com/album/2cIrmQTRGdufySLVhHctqM) | 4:22 |
 
-Snapshot ID: `MCw3YTA1OTI0OGEzNzZlM2JiYWU2MDFlODNiNTk1OTIyYzE1MWJlNjdi`
+Snapshot ID: `MCw0YWRlN2Y5NTJjNDFhNDFkNmU4NzZmZDA2NGNhMTA5YWNhNDExZTFm`

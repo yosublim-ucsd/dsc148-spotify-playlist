@@ -4,7 +4,7 @@
 
 > 
 
-759 songs - 2 day 11 hr 26 min
+760 songs - 2 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [Mam Pe'ela Su'ure](https://open.spotify.com/track/6UONPrPGoFlTMm74cjBQkx) | [Florence Adooni](https://open.spotify.com/artist/4804FMh4N7pndfmQsS904u) | [Mam Pe'ela Su'ure](https://open.spotify.com/album/4aD1N49PqHfqVd7gCK7008) | 3:49 | 2021-06-16 |  |
 | [Mandinga](https://open.spotify.com/track/4NLWlxYCPrw2PhfJvfxRWI) | [Ruben Gonzalez](https://open.spotify.com/artist/00n4Vljc6N9pvJ26SKPphh) | [Introducing](https://open.spotify.com/album/0ZMTdzojG71NWrPevltSLq) | 8:27 | 2021-11-29 |  |
 | [Manhã](https://open.spotify.com/track/6Pr8fOfppj8C6qpkAYDDzE) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Azimüth](https://open.spotify.com/album/1q5loxqHL3JmsQ9zxBTw6f) | 3:45 | 2020-12-22 |  |
+| [Mano Dayak](https://open.spotify.com/track/75rfPRAYaXRbHSSXHsUyQk) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman](https://open.spotify.com/album/5H1S9LkOFl1t9yaJFVVAek) | 5:43 | 2024-03-23 |  |
 | [Maracatu Atômico](https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Nightingale](https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4) | 4:24 | 2021-01-16 |  |
 | [Maraka](https://open.spotify.com/track/5EPxW77cRAlHiDdDinpg4F) | [May East](https://open.spotify.com/artist/4tPADgxkTIWBBASUlhJG0V) | [Outro Tempo II](https://open.spotify.com/album/3TsqpDsx9fHKR2dk9Y26zg) | 4:18 | 2021-05-26 |  |
 | [Marechià](https://open.spotify.com/track/30HGhEfFlYMEyxS1VqDpbx) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 4:24 | 2022-12-27 |  |

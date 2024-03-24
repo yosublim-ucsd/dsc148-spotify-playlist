@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,040 songs - 2 day 6 hr 22 min
+1,042 songs - 2 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -780,11 +780,13 @@
 | [Salute](https://open.spotify.com/track/37XddbdpKKXfp2vbRDtGXG) | [Tyraz](https://open.spotify.com/artist/6nRbicEmpaqL0wjlbJBPAf) | [Salute](https://open.spotify.com/album/34mWwgsPRUqXNjE0Ubn1Sl) | 2:46 | 2022-10-07 | 2022-11-05 |
 | [Samurai \- The FifthGuys Remix](https://open.spotify.com/track/6YUOdQK3fXRAZIiP34GAJC) | [TH3 DARP](https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8), [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR) | [Samurai \(The FifthGuys Remix\)](https://open.spotify.com/album/1SUlHPKx6r7F77IJdOMJx2) | 2:41 | 2022-02-18 | 2022-04-30 |
 | [Sandman](https://open.spotify.com/track/2FlK5T7ULbQ55sbbXfy2Ac) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [IDK, Vol\. 2](https://open.spotify.com/album/2l7fX4vQC0CIHZVJ63aPYt) | 3:43 | 2022-01-14 | 2022-02-17 |
+| [SATANS SMILE](https://open.spotify.com/track/5HSNpr6gaEof5aeuF39yYg) | [ICHIRO](https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p) | [SATANS SMILE](https://open.spotify.com/album/5gecBZfK5LRcRYnyyI5xO8) | 1:30 | 2024-03-23 |  |
 | [SAVAGE](https://open.spotify.com/track/4JBRECHBQgv9NEfbM3L3Ze) | [37R](https://open.spotify.com/artist/0oXTmSgYfCqL4sbxxOwXDP), [FORBIDDEN](https://open.spotify.com/artist/38WHLDUHNVqfTTSYsz0hoO) | [SAVAGE](https://open.spotify.com/album/0uh3F7FWBO4dXDB1osclxE) | 2:04 | 2023-09-15 | 2023-10-14 |
 | [Savage \(feat\. Flux Pavilion & MAX\)](https://open.spotify.com/track/0kD586ste6xyDRqUYhVlCh) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Savage \(feat\. Flux Pavilion & MAX\)](https://open.spotify.com/album/1MWHKCowe1fS0A3LfRpEdK) | 3:25 | 2023-02-21 |  |
 | [Save My Life](https://open.spotify.com/track/2vhKNqxKDX50UsGwdMVoa6) | [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Save My Life](https://open.spotify.com/album/3NTBDYHESaWP27eZCzQHNL) | 4:08 | 2022-01-14 | 2022-09-15 |
 | [Save My Life \- if found Remix](https://open.spotify.com/track/7lXQ0UcmQGIuy5pD7XwLyW) | [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0), [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [Save My Life \(Remixes\)](https://open.spotify.com/album/6KFmkgyWbGUkXLQJspCg9W) | 4:04 | 2022-03-03 | 2022-05-18 |
 | [Save The Day](https://open.spotify.com/track/54FMo9RsAN5gsuMgSBECX5) | [REVOKE](https://open.spotify.com/artist/1jUWnDhXB6JyBLh1dyAOUc), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint](https://open.spotify.com/album/11vbM8Rflk8ZqMRJDrr8VZ) | 3:53 | 2022-09-22 | 2023-02-22 |
+| [SAXO FUNK](https://open.spotify.com/track/3mX7vRytOrduB8IysTVvhO) | [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li), [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [SAXO FUNK](https://open.spotify.com/album/0ROadDFBk9rZyvNRMcLNuP) | 1:45 | 2024-03-23 |  |
 | [Saxobeat](https://open.spotify.com/track/0tFWKeOPbfDfR4l1x4eh3O) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH), [Newmagick](https://open.spotify.com/artist/7A3r3evEOAHQHtdumIMG8M) | [Saxobeat](https://open.spotify.com/album/21jtCUwdB1ZdmjbLzNcH8p) | 2:11 | 2023-10-27 |  |
 | [SAY](https://open.spotify.com/track/7tTzohTWujqyqQmsLgD4Ye) | [LAUTRE.](https://open.spotify.com/artist/7wfx7Fc5L3L8uvXEv8pCm6) | [SAY / STREETS](https://open.spotify.com/album/6LTKWQiQdLNifDT5EZBbuA) | 3:18 | 2023-10-13 | 2023-11-10 |
 | [Say It \- Illenium Remix](https://open.spotify.com/track/1wfZdPy5FRWsdWaAEOG0Ml) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Skin: The Remixes](https://open.spotify.com/album/0dXzrOfFmSXgqqnSA9r3dN) | 4:27 | 2023-02-21 | 2023-09-23 |

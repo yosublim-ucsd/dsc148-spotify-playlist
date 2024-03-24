@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-583 songs - 1 day 8 hr 47 min
+584 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [New Beginnings](https://open.spotify.com/track/2npBw5KVoE0yvwauKcr5SP) | [Nightly Gatherings](https://open.spotify.com/artist/0e7vmFNTfVsnRr3Laaw4FI) | [New Beginnings](https://open.spotify.com/album/2yfsioyNrh9gQ2rYKM6cza) | 3:28 | 2022-11-07 | 2023-07-20 |
 | [Night Spot \(feat\. B Che\)](https://open.spotify.com/track/5n6ETg2Eeov0az6DLDPYfN) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [B Che](https://open.spotify.com/artist/0vnNVC4zb0oOJotPEU7gFN) | [Night Spot \(feat\. B Che\)](https://open.spotify.com/album/0piJif1CsqBq86iQiCxsFJ) | 3:00 | 2022-11-18 | 2023-01-20 |
 | [Nightmare](https://open.spotify.com/track/4NTVnhW1sP7N6GmnYPzK18) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8) | [Nightmare](https://open.spotify.com/album/2Z3uMCXliH7RDx4ab2oMlz) | 2:27 | 2022-10-26 |  |
+| [Nightmare \- Slow Magic Remix](https://open.spotify.com/track/4VIoiBMQpsIyGH79z1bTKo) | [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Nightmare \(Slow Magic Remix\)](https://open.spotify.com/album/4Tw8A51yCuX1Slnhs6BC75) | 3:09 | 2024-03-23 |  |
 | [Nightmares In NYC](https://open.spotify.com/track/3avSZvZd5Cvb2TDyS9yFbb) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Nightmares In NYC](https://open.spotify.com/album/5aOwEJun2fyoIIFpftCmph) | 2:57 | 2022-06-28 | 2022-09-19 |
 | [No Good Without U](https://open.spotify.com/track/5o4E8YFHl3ggOu1Sv6Y46M) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:07 | 2022-11-04 | 2023-06-23 |
 | [NO JOY](https://open.spotify.com/track/2lg0LnYXyclXEQA0ygfsop) | [Boski](https://open.spotify.com/artist/59cyz7Zo2B3ISbNUVnSIYp), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [NO JOY](https://open.spotify.com/album/5U3Qs2QlAepmJ38IrG5gJI) | 2:35 | 2022-02-28 | 2022-03-31 |

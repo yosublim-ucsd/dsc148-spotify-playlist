@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LTWvs1eqq4r0Qln13AssN">Phil Bentley</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21 likes - 132 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22 likes - 132 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,12 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 90 | [It's a Gift](https://open.spotify.com/track/6lLipZ945Kf1itBwqJH6Mz) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:59 |
 | 91 | [Who Needs to Win](https://open.spotify.com/track/5pBFrNWSRXXQEo9C0u021F) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:20 |
 | 92 | [The Fanciest Midnight](https://open.spotify.com/track/1IJSQLi50kg514yn6FtjgH) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:33 |
-| 93 | [Missing You This Christmas](https://open.spotify.com/track/69zAhHdAmxmNVrkCU4pjbR) | [Jordyn Jones](https://open.spotify.com/artist/4goZmMm5PJIE6kRz70xKdd) | [Missing You This Christmas](https://open.spotify.com/album/5orLRE7PlllY6pwMgG5TnL) | 3:17 |
-| 94 | [Frenchy Mon Amour](https://open.spotify.com/track/6T85zjJmZfeJ5Ryhkz0juJ) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:16 |
-| 95 | [Questions](https://open.spotify.com/track/7AkG582DnvLZcLKsVQfBeS) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Twisted](https://open.spotify.com/album/33TTMnPYZcFg1QB2DfqaMA) | 3:19 |
-| 96 | [Blink](https://open.spotify.com/track/0bzgyJPgcyDTZLNOzOvFy1) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [ONEDUO](https://open.spotify.com/artist/6snkU8m506AxtvyBGXPGrc) | [BLINK](https://open.spotify.com/album/5ERfHlQtcJ9uSwzIYWqpFw) | 2:58 |
-| 97 | [Steal The Show \- Radio Mix](https://open.spotify.com/track/0ZMgOwYmaG9Ph9JhVbcTwv) | [David Campoy](https://open.spotify.com/artist/7zQSea9t3QVdiYuNaICvde), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Steal The Show](https://open.spotify.com/album/0hflsCci66hpJf8TUCpIcE) | 3:45 |
-| 98 | [Somebody To You](https://open.spotify.com/track/1V1yRZA4w6D366wFXypWMb) | [CVBZ](https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q), [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD), [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe) | [Somebody To You](https://open.spotify.com/album/6TNHvHOMtvDrV03jzvWSS4) | 3:02 |
+| 93 | [Frenchy Mon Amour](https://open.spotify.com/track/6T85zjJmZfeJ5Ryhkz0juJ) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:16 |
+| 94 | [Missing You This Christmas](https://open.spotify.com/track/69zAhHdAmxmNVrkCU4pjbR) | [Jordyn Jones](https://open.spotify.com/artist/4goZmMm5PJIE6kRz70xKdd) | [Missing You This Christmas](https://open.spotify.com/album/5orLRE7PlllY6pwMgG5TnL) | 3:17 |
+| 95 | [Somebody To You](https://open.spotify.com/track/1V1yRZA4w6D366wFXypWMb) | [CVBZ](https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q), [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD), [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe) | [Somebody To You](https://open.spotify.com/album/6TNHvHOMtvDrV03jzvWSS4) | 3:02 |
+| 96 | [Questions](https://open.spotify.com/track/7AkG582DnvLZcLKsVQfBeS) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Twisted](https://open.spotify.com/album/33TTMnPYZcFg1QB2DfqaMA) | 3:19 |
+| 97 | [Blink](https://open.spotify.com/track/0bzgyJPgcyDTZLNOzOvFy1) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [ONEDUO](https://open.spotify.com/artist/6snkU8m506AxtvyBGXPGrc) | [BLINK](https://open.spotify.com/album/5ERfHlQtcJ9uSwzIYWqpFw) | 2:58 |
+| 98 | [Steal The Show \- Radio Mix](https://open.spotify.com/track/0ZMgOwYmaG9Ph9JhVbcTwv) | [David Campoy](https://open.spotify.com/artist/7zQSea9t3QVdiYuNaICvde), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Steal The Show](https://open.spotify.com/album/0hflsCci66hpJf8TUCpIcE) | 3:45 |
 | 99 | [The Love You Left Behind](https://open.spotify.com/track/3wK48lSPDdMLTlEFiwHQET) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 2:05 |
 | 100 | [NEVER ENOUGH](https://open.spotify.com/track/2AKZFDTtpPmER9xjWmHUky) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [AND](https://open.spotify.com/album/3yupMUt216GtqDC7RNXnrw) | 3:17 |
 | 101 | [Wasted \- Dave Aude Remix](https://open.spotify.com/track/1t1GMA0f3iiwo48NjXR4au) | [Majesty](https://open.spotify.com/artist/7wFryXeiMbqt0vDuoUwetX), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Wasted \(Dave Aude Remix\)](https://open.spotify.com/album/031JgbACqqEFo9St66G7Zf) | 4:05 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 131 | [Lion's Den](https://open.spotify.com/track/1E94YM2HPqbRdVP8gW7s42) | [Punch !nc](https://open.spotify.com/artist/0iRdgcSMVRBHPqEXWdqMkl) | [The High L!fe](https://open.spotify.com/album/6AkxONHcB8l41HvWInyF7q) | 3:52 |
 | 132 | [Earthquake](https://open.spotify.com/track/19h8d5HremCgEauVczVnRk) | [Tisno van Diemen](https://open.spotify.com/artist/10Uzu9lJidelQ1duiV8kvb) | [Dance Bangerz, Vol\. 4](https://open.spotify.com/album/50LlNy1XkPd4cymjIcuKH2) | 3:09 |
 
-Snapshot ID: `Mjg1MTkzMDAsMDAwMDAwMDAwZmYyNTA3NGQxZmUwM2VlODJlMzIzMzMyMTlmNWY3ZA==`
+Snapshot ID: `Mjg1MjA4MDAsMDAwMDAwMDAxYmU4ZmVmMjIwZjVmMjJjM2NkNzcyN2IxOTUxZjk5OA==`

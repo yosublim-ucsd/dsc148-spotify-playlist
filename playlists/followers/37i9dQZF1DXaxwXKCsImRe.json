@@ -1,9 +1,27 @@
 {
-  "2024-03-23": 6420,
+  "2024-03-24": 6421,
   "date_first_scraped": "2022-01-02",
   "description": "A Spotify program to promote exciting artists! RADAR BNLX:  The Indien (cover), Roxy Dekker, Kids With Buns en Siggy & D1ns.",
   "name": "RADAR BNLX",
   "tracks": [
+    {
+      "album": {
+        "name": "The Indien",
+        "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
+      },
+      "artists": [
+        {
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "16",
+      "url": "https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl"
+    },
     {
       "album": {
         "name": "180",

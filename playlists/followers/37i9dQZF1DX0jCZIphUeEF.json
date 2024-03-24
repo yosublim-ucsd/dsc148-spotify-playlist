@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 13355,
+  "2024-03-24": 13369,
   "date_first_scraped": "2022-08-02",
   "description": "<a href=\"spotify:artist:4Jh6PxSFH7CrZrQpDivlYf\">Amine K</a>'s favorite tracks. Updated regularly. Curated by Amine K. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Amine K's track IDs",
@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 215476,
       "name": "Banho de Folhas - Maz Remix",
       "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
@@ -259,6 +259,24 @@
       "duration_ms": 368191,
       "name": "Basari - Amine K Remix",
       "url": "https://open.spotify.com/track/1pUAMieBlYE5aOLpCvzGnG"
+    },
+    {
+      "album": {
+        "name": "Beatz In Peacez 01",
+        "url": "https://open.spotify.com/album/5WrVLSF0hdc3p0T3XvS6QS"
+      },
+      "artists": [
+        {
+          "name": "Peace Division",
+          "url": "https://open.spotify.com/artist/6ofiHLFFWoIhlWLTHKOFk9"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455773,
+      "name": "Beatz In Peacez 01",
+      "url": "https://open.spotify.com/track/3hd1XtEMeXtwCcQmLI7Eo9"
     },
     {
       "album": {
@@ -321,7 +339,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 383801,
       "name": "Besos",
       "url": "https://open.spotify.com/track/6NOJswDL08HluDGQPc8WXY"
@@ -687,7 +705,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 366141,
       "name": "Da Fonk (feat. Joni)",
       "url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b"
@@ -749,7 +767,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 391590,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW"
@@ -931,7 +949,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 322560,
       "name": "Enkama",
       "url": "https://open.spotify.com/track/4J7hX1VqoUlnQLaouqsPQg"
@@ -1146,6 +1164,32 @@
     },
     {
       "album": {
+        "name": "Get Your Thing Together (Earth n Days Rework)",
+        "url": "https://open.spotify.com/album/0Ac7kiSLOjUISEZckYDI9W"
+      },
+      "artists": [
+        {
+          "name": "Earth n Days",
+          "url": "https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj"
+        },
+        {
+          "name": "Ebony Soul",
+          "url": "https://open.spotify.com/artist/3656hzR8xSBR3tJcyFbIzT"
+        },
+        {
+          "name": "Ann Nesby",
+          "url": "https://open.spotify.com/artist/6hIILipyNOmswy0IdWHx7b"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186720,
+      "name": "Get Your Thing Together - Earth n Days Rework",
+      "url": "https://open.spotify.com/track/34mAnCpSlaOes4UfqukZsp"
+    },
+    {
+      "album": {
         "name": "We Rise By Lifting Others",
         "url": "https://open.spotify.com/album/7bHGruOG4gvKtOLzJq2eQO"
       },
@@ -1183,7 +1227,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 481533,
       "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
       "url": "https://open.spotify.com/track/5238avQlRSW9LeUN5sIGKI"
@@ -1373,7 +1417,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 167639,
       "name": "If Only You Knew (feat. Joy Farrukh)",
       "url": "https://open.spotify.com/track/1eVrJXGAisfB41oeubH3xK"
@@ -1421,7 +1465,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 375395,
       "name": "In My Mind - Amine K Remix",
       "url": "https://open.spotify.com/track/15Ce71ZMT8bqN72qjDuOLz"
@@ -1927,7 +1971,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 278044,
       "name": "Messiah - Edit",
       "url": "https://open.spotify.com/track/4BRPlCE7YYYlVzRzMwIesY"
@@ -2035,7 +2079,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 127680,
       "name": "Motivate",
       "url": "https://open.spotify.com/track/5J5ORcB3J61EgsVC2LADbc"
@@ -2075,7 +2119,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 308288,
       "name": "Mvinline - Extended Mix",
       "url": "https://open.spotify.com/track/7yRucK46dHsRRwNyuGM80j"
@@ -2093,7 +2137,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 362834,
       "name": "My Moment",
       "url": "https://open.spotify.com/track/72vKXsbMQAdlqvaMwFgEpw"
@@ -2133,7 +2177,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 417146,
       "name": "Necotronik - Original Mix",
       "url": "https://open.spotify.com/track/1TzpoqM6U1x4Wb5bEoK1lh"
@@ -2181,6 +2225,28 @@
       "duration_ms": 453875,
       "name": "Night @ The Black",
       "url": "https://open.spotify.com/track/6CH5Mx19zI1mrq4x38PASj"
+    },
+    {
+      "album": {
+        "name": "Groove You EP",
+        "url": "https://open.spotify.com/album/00dMUIYEjfWzbK19QK301E"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Ismaeel",
+          "url": "https://open.spotify.com/artist/4FnXFfnV6miSesny17PNpP"
+        },
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396097,
+      "name": "Nothingness",
+      "url": "https://open.spotify.com/track/3qVkFZ5WdPZpqyV9fVKt68"
     },
     {
       "album": {
@@ -2341,7 +2407,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 244570,
       "name": "Pliva",
       "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
@@ -2615,7 +2681,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 361974,
       "name": "Show Me Love - Emmaculate Remix",
       "url": "https://open.spotify.com/track/1Uh50JCkzmtXUZKBMAshYO"
@@ -2659,7 +2725,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 243757,
       "name": "Solid Sessions (ABGT484) - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/3GF3HQNa31ymMNucnSpork"
@@ -2813,7 +2879,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 359262,
       "name": "Strangely Enough - Amine K Stripped Down Remix",
       "url": "https://open.spotify.com/track/1WscS7OuSdPO1DxjCssTCB"
@@ -2831,7 +2897,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 296585,
       "name": "Switch",
       "url": "https://open.spotify.com/track/27OHNB09536noXha5o0M2b"
@@ -2893,7 +2959,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 249678,
       "name": "Tell Me Something Good",
       "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
@@ -3003,7 +3069,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 461281,
       "name": "The Brooklyn Gypsy",
       "url": "https://open.spotify.com/track/5d7jzy1RYtL85inxWGuTkv"
@@ -3047,7 +3113,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 538560,
       "name": "The Hustle Parisian",
       "url": "https://open.spotify.com/track/680VBUAyzb1iKQZFHrisAw"
@@ -3105,10 +3171,32 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 460985,
       "name": "The Story Continues - Extended Mix",
       "url": "https://open.spotify.com/track/7J7zVc023HlDs9aZBzpHDL"
+    },
+    {
+      "album": {
+        "name": "The Sun Can't Compare (My Life)",
+        "url": "https://open.spotify.com/album/3Jrv1FrKmiqCCLnTPkmlgv"
+      },
+      "artists": [
+        {
+          "name": "Francesco Poggi",
+          "url": "https://open.spotify.com/artist/0kLNTRYte4lXSc4deAGDVZ"
+        },
+        {
+          "name": "IDA fLO",
+          "url": "https://open.spotify.com/artist/1lnuLr8sTuDB4ghdZZ4uHV"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220974,
+      "name": "The Sun Can't Compare (My Life)",
+      "url": "https://open.spotify.com/track/1znM33q5b8JsG8wAE68SQ7"
     },
     {
       "album": {
@@ -3229,10 +3317,28 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 241920,
       "name": "Trumpets Are Back",
       "url": "https://open.spotify.com/track/6dm3dc3rvODxGrvHqPougj"
+    },
+    {
+      "album": {
+        "name": "Turn The Party Out",
+        "url": "https://open.spotify.com/album/3L8Ux6dhCqgRvE3IOJZ73g"
+      },
+      "artists": [
+        {
+          "name": "Cevin Fisher",
+          "url": "https://open.spotify.com/artist/2KKgW6x86NOhIJnMlxFD1u"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372480,
+      "name": "Turn The Party Out",
+      "url": "https://open.spotify.com/track/57xGWzqyf0qsl3IEwoVwYK"
     },
     {
       "album": {
@@ -3265,7 +3371,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 216393,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/5VkBNt0nUlQoPkg0APK5Ep"
@@ -3301,7 +3407,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 211653,
       "name": "Vader",
       "url": "https://open.spotify.com/track/3JligMCYcd31OhGD93doZy"

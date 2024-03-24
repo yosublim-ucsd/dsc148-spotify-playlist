@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Milena Pina",
-  "num_followers": 120249,
+  "num_followers": 120292,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODg5MjllYzcxMTY0YTZhNDQzNzNkZThmNzQ0OTI4N2Q2Nzc0OGY1",
+  "snapshot_id": "MCw1NDJiMTg0ZGVhOTMxZGFkOGRiNWE4MmM0ZmQ3YTlkMGU0OThhMmJk",
   "tracks": [
     {
       "added_at": "2023-12-21 22:17:17",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Eu Vou Mergulhar",
-        "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
-      },
-      "artists": [
-        {
-          "name": "Idma Brito",
-          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
-        }
-      ],
-      "duration_ms": 291967,
-      "name": "Eu Vou Mergulhar",
-      "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Anotando Pensamentos",
         "url": "https://open.spotify.com/album/1DkogmlF6GBfdTiT7pqNgT"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 271668,
       "name": "Anotando Pensamentos",
       "url": "https://open.spotify.com/track/6YwX2eJl3Q3vxORqqxGbRz"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Eu Vou Mergulhar",
+        "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
+      },
+      "artists": [
+        {
+          "name": "Idma Brito",
+          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
+        }
+      ],
+      "duration_ms": 291967,
+      "name": "Eu Vou Mergulhar",
+      "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "N\u00e3o Serei o Mesmo",
-        "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
-      },
-      "artists": [
-        {
-          "name": "Renata Reis",
-          "url": "https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS"
-        }
-      ],
-      "duration_ms": 397096,
-      "name": "N\u00e3o Serei o Mesmo - Ao Vivo",
-      "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Cora\u00e7\u00e3o Cansado de Partir",
         "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 273514,
       "name": "Minha can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "N\u00e3o Serei o Mesmo",
+        "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
+      },
+      "artists": [
+        {
+          "name": "Renata Reis",
+          "url": "https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS"
+        }
+      ],
+      "duration_ms": 397096,
+      "name": "N\u00e3o Serei o Mesmo - Ao Vivo",
+      "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
     }
   ],
   "unique_name": "Revela\u00e7\u00e3o Gospel",

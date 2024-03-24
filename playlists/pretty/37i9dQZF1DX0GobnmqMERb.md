@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GobnmqMERb.md) - [plain]
 
 > Los temas que los Cangrejeros de Santurce están escuchando.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,174 likes - 58 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,171 likes - 58 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GobnmqMERb.md) - [plain]
 | 57 | [Calor](https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Calor](https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8) | 3:20 |
 | 58 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
 
-Snapshot ID: `MCw1NzNmMGI3MWM4MjgzNDg3ZmM2ZTk4ODc5MzJiNTU4YWI5NjAyZDI3`
+Snapshot ID: `MCxlZmQ5N2FhMzA5OGQxYzY0MmFjMDk5Mjc0MGRjN2Y3ODBhZTY3ZWE2`

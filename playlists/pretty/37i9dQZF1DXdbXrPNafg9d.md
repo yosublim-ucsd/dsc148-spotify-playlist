@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Adrianne Lenker
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,532 likes - 170 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,602 likes - 170 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 169 | [Birdseye](https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Birdseye](https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7) | 2:31 |
 | 170 | [Get Numb To It! \- Single Version](https://open.spotify.com/track/3kPb7l4s1ANu4mPcNPznhb) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Get Numb To It!](https://open.spotify.com/album/37Pa9oKkwu6OEgNEmItCLC) | 3:13 |
 
-Snapshot ID: `MCwzZTg1OTg0ZWYzMzY5YTMxY2Y3Mjg3ZDFlNTkzMDc5YjEwZDM5YjFk`
+Snapshot ID: `MCw1YjdkOWYxMDllYjY2YjE0MDBjZjI0Y2NjOTVjZGEyNWNiNGYwNzhj`

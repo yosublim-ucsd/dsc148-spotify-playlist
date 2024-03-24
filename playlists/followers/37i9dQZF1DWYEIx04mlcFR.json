@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 79486,
+  "2024-03-24": 79493,
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con Elsa y Elmar en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Noa Sainz en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -355,7 +355,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 200339,
       "name": "Agua Caliente",
       "url": "https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 138285,
       "name": "ARCHIVO 1.wav",
       "url": "https://open.spotify.com/track/3t7n87HvJDzsJqadkISqUE"
@@ -1017,10 +1017,32 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 238000,
       "name": "Barco",
       "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
+    },
+    {
+      "album": {
+        "name": "ISABEL LP",
+        "url": "https://open.spotify.com/album/2wKUbvW4GLcdbvCYVoLnEX"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241812,
+      "name": "Barco",
+      "url": "https://open.spotify.com/track/3kCqWOMnlfZylvw76TAY5d"
     },
     {
       "album": {
@@ -1313,7 +1335,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 182222,
       "name": "Cambios",
       "url": "https://open.spotify.com/track/3IShiIaKrKZ7aOYXcvHLbQ"
@@ -1425,7 +1447,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 159765,
       "name": "cartulinas de colores",
       "url": "https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO"
@@ -1946,6 +1968,24 @@
     },
     {
       "album": {
+        "name": "Dame Chance (Rayuela)",
+        "url": "https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152560,
+      "name": "Dame Chance (Rayuela)",
+      "url": "https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe"
+    },
+    {
+      "album": {
         "name": "Dame Guerra",
         "url": "https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN"
       },
@@ -2285,7 +2325,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 179000,
       "name": "DIME X FAVOR",
       "url": "https://open.spotify.com/track/1D1QmWAL0havpDhu00y6Qr"
@@ -2387,6 +2427,28 @@
       "duration_ms": 282830,
       "name": "Du\u00e9rmete Clavel",
       "url": "https://open.spotify.com/track/6VZKzU8Gv14NXuSoEP404g"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jalo Ir",
+        "url": "https://open.spotify.com/album/0fxEdaqKtiWSSnVzdtZFZq"
+      },
+      "artists": [
+        {
+          "name": "Fer Altuzar",
+          "url": "https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL"
+        },
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225653,
+      "name": "D\u00e9jalo Ir",
+      "url": "https://open.spotify.com/track/1K0a8DT9cwPzZXr8V9m8Um"
     },
     {
       "album": {
@@ -3515,7 +3577,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 212151,
       "name": "Julietota",
       "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
@@ -5048,6 +5110,24 @@
     },
     {
       "album": {
+        "name": "Nada me cansa",
+        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122553,
+      "name": "Nada me cansa",
+      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
+    },
+    {
+      "album": {
         "name": "Nadie M\u00e1s",
         "url": "https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7"
       },
@@ -5455,6 +5535,24 @@
       "duration_ms": 144901,
       "name": "Not The One",
       "url": "https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ"
+    },
+    {
+      "album": {
+        "name": "NSQD",
+        "url": "https://open.spotify.com/album/0JL4oHOY2RHnPBLUoVqi2c"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "NSQD",
+      "url": "https://open.spotify.com/track/2M6cqvG7RlSswImTO5jX4B"
     },
     {
       "album": {
@@ -7453,7 +7551,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 240680,
       "name": "SUFICIENTEPUNTOWAV",
       "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
@@ -7689,6 +7787,24 @@
       "duration_ms": 170126,
       "name": "te odio",
       "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
+    },
+    {
+      "album": {
+        "name": "Te Perdono",
+        "url": "https://open.spotify.com/album/1dxvzNdRqY9OMFCyh5bWIE"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "Te Perdono",
+      "url": "https://open.spotify.com/track/7rQWY0VbmgKDVeQ1cqVlwp"
     },
     {
       "album": {
@@ -8958,6 +9074,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Normal De Lo Normal",
+        "url": "https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153904,
+      "name": "\u00bfQu\u00e9 Me Dices?",
+      "url": "https://open.spotify.com/track/3cnxEc8YNPt82RjqaUXPu8"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Normal De L... N... (67%)",
         "url": "https://open.spotify.com/album/6FUgY90LThOhYSrPTZHyqo"
       },
@@ -8969,7 +9103,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 153904,
       "name": "\u00bfQu\u00e9 Me Dices?",
       "url": "https://open.spotify.com/track/62xluQXvbzXCypORfjTU3X"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: SUPER JUNIOR\-D&E\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,174 likes - 263 songs - 14 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,226 likes - 263 songs - 14 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 89 | [The Reasons of My Smiles](https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [Queen of Tears \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF) | 3:33 |
 | 90 | [The Meal](https://open.spotify.com/track/1htNMKecrtf2NJIiAZUnCF) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [My Cosmos](https://open.spotify.com/album/5u41Rd7e74JYM83eLnJnIt) | 4:44 |
 | 91 | [봄을 기다리는 시간](https://open.spotify.com/track/0u5OUs4ovZXfEJs2lZP3UH) | [Osshun Gum](https://open.spotify.com/artist/4F4rHRjTw15zhEFKvnLs7q) | [봄을 기다리는 시간](https://open.spotify.com/album/3KPFrApqJ2YezHan31aLpi) | 3:04 |
-| 92 | [이제 정말 헤어지는거야 \(We're really breaking up now\)](https://open.spotify.com/track/7CBv0LE3VqY0YmcdsgG2Kj) | [이준호 Lee Junho](https://open.spotify.com/artist/0gZSJwPrA4KC8S9bVOwE9m) | [이제 정말 헤어지는거야 \(We're really breaking up now\)](https://open.spotify.com/album/0Er5c7U0fQiDSX3PYtnYG6) | 3:05 |
+| 92 | [이제 정말 헤어지는 거야 \(We're really breaking up now\)](https://open.spotify.com/track/7CBv0LE3VqY0YmcdsgG2Kj) | [이준호 Lee Junho](https://open.spotify.com/artist/0gZSJwPrA4KC8S9bVOwE9m) | [이제 정말 헤어지는 거야 \(We're really breaking up now\)](https://open.spotify.com/album/0Er5c7U0fQiDSX3PYtnYG6) | 3:05 |
 | 93 | [Love You](https://open.spotify.com/track/21ubFbEz8mUfQ4a65BPZ4F) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love You](https://open.spotify.com/album/1sVYdmKdh8Tn9wmFwfd8jL) | 2:31 |
 | 94 | [throw stones](https://open.spotify.com/track/1S2sUuKKWSjjxXeXn081eN) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [throw stones](https://open.spotify.com/album/4dsxfb1jkCRsmQiy8ExDXA) | 3:46 |
 | 95 | [At The City Hall Station](https://open.spotify.com/track/5Umldv4QLF5xApeJC3NvQ4) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [At The City Hall Station](https://open.spotify.com/album/3wUnNSdMTfelA8JZsgwb5S) | 5:06 |
@@ -272,4 +272,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 262 | [Summer](https://open.spotify.com/track/5vSoyvZo568CGDvdygsLXN) | [ffpp](https://open.spotify.com/artist/0cmwhNwoxr4KixoRbYwMox) | [Summer](https://open.spotify.com/album/4ZqvsRCEQvVrrI5GDxqpfh) | 3:37 |
 | 263 | [Baby it’s you](https://open.spotify.com/track/6NHnmWs8FNOdaWH3eq3mnx) | [NINE9](https://open.spotify.com/artist/06MGGkrdIi2KKfBdoAsAl9) | [9colors](https://open.spotify.com/album/69Xh5E4nygc7AqQyvPtf3T) | 3:40 |
 
-Snapshot ID: `MCw2Y2JhOWRmNmNkNDY0NGEyZWM1NDNjNjc2NjM2MTYwZGJiYWNhZDY0`
+Snapshot ID: `MCw2NGU4MTdiNmU2N2QwYmI5NjM3YjA3OWY1ZmU5ZWZiNDI0ZTdmMmEz`

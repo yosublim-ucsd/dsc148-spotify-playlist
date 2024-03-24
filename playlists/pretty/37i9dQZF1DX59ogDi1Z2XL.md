@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Akintoye
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,712 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,741 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Time Out](https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [PANIC](https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ) | 3:41 |
 | 100 | [Pack Mentality](https://open.spotify.com/track/7cxQxOw5qoHngj9n1uehLY) | [Dozie](https://open.spotify.com/artist/0BO6alk4Yiy0la7D5o4mcf) | [Pack Mentality](https://open.spotify.com/album/59eHDkIPAh6jg0ClaDbnGi) | 1:40 |
 
-Snapshot ID: `MCwzNjgzMTU1YWMxYjI3OGJlYzVjYWI5NjI5YjNkMTQ5NzkzMmJkMzhl`
+Snapshot ID: `MCw3ZTZhMmI3NjJiNzUyYmQ4MDUxYTk1NzhmYWFmNzI5YmQzZWZmYTEz`

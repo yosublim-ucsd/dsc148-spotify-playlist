@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Barth
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,671 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,707 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Plus jamais](https://open.spotify.com/track/6YFfWqhOFJLGFoFnVh9cD8) | [Dieson Samba](https://open.spotify.com/artist/4IJNkk3UY2TjVpL4T2z1ki) | [Plus jamais](https://open.spotify.com/album/7Ci1bhLCiQxurTW9S0JiKT) | 2:29 |
 | 40 | [Sorry](https://open.spotify.com/track/0rzy01OJW2dioLxXZKAyjY) | [DJ Eladji](https://open.spotify.com/artist/0n417By3ZUnFwtll0nx0kV), [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK) | [Sorry](https://open.spotify.com/album/4kzvsd7djGQxiyqv8uK3MG) | 3:12 |
 
-Snapshot ID: `MCxmYjA1NWQ4ZmVmM2RiZWQwZDAyODhkNGQwZjM2NmExZWIzOTJhMTYw`
+Snapshot ID: `MCw1MTBkZmI5YTYwMjU5MWE3YTkwNDg2MmIzNWIwNzk5ZmFjMmU0YmU5`

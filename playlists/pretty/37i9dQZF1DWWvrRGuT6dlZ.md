@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: rhyu\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,391 likes - 105 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,393 likes - 105 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 23 | [Hey There](https://open.spotify.com/track/7ndClLWzRfYIWsYUdYk8t7) | [Crystalmer](https://open.spotify.com/artist/3igdi0ifX14EvuqKqBccQA) | [Hey There](https://open.spotify.com/album/0k12X36CppzrEKFrlzirFb) | 3:26 |
 | 24 | [Unstable](https://open.spotify.com/track/2ovDKZx81JSPsijmdHEOo5) | [Danesh Leonadi](https://open.spotify.com/artist/1k0wAlKAGHhKN6W3QeC52J) | [I'm Just Being Human](https://open.spotify.com/album/4nje0CqNDwIdPbhfuNbogN) | 3:12 |
 | 25 | [Forever and More](https://open.spotify.com/track/4yOp22tLHBjgu866eAwJk8) | [Narysal](https://open.spotify.com/artist/26iQVSr3VdWWAzy7fiN908) | [Forever and More](https://open.spotify.com/album/3imXKtKFd4fobTrYWeRlDm) | 3:08 |
-| 26 | [what would it take?](https://open.spotify.com/track/42dN635ODJ8gaBbtXKONAN) | [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [what would it take?](https://open.spotify.com/album/4KhlJQ8lWDfuwOGvntAo7D) | 4:10 |
+| 26 | [what would it take?](https://open.spotify.com/track/3w9G8AoCPLnTnZtwDdz6Cv) | [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [what would it take?](https://open.spotify.com/album/0xatWe7k1sNqjoWT86T42e) | 4:10 |
 | 27 | [Bridges](https://open.spotify.com/track/15HQJ71B98hnwIj83kDhBz) | [CERATONE](https://open.spotify.com/artist/2qkHfIu5Ks7kpTL9BXkZkp), [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [Bridges](https://open.spotify.com/album/2AlEyUWdcW4McsFwGG7F8S) | 3:42 |
 | 28 | [Love You Now](https://open.spotify.com/track/1TEQ475VPj9HeXRLYG8Aio) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [Love You Now](https://open.spotify.com/album/1FpsiOsGodJMRDQjPXlbAW) | 3:18 |
 | 29 | [Is That Just Me?](https://open.spotify.com/track/2UDg7LiH5m2uLOC561LmWY) | [sleepy benjamin](https://open.spotify.com/artist/2Dpw5rzcRedRcJLH9eyVRc), [DSML](https://open.spotify.com/artist/7kZ5xFtlC9bPMPjWGYBpIu) | [Is That Just Me?](https://open.spotify.com/album/4fgQQRB7dHp6G4tC8dkhlw) | 3:17 |
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 58 | [Reverie](https://open.spotify.com/track/0EnUxHj1I1cBmRzSKzB4tK) | [Jilian Summers](https://open.spotify.com/artist/0NxMTmmuciwlzWWdFoSmYd) | [Reverie](https://open.spotify.com/album/7d8IYdG8eK9MQapqkh8chk) | 3:53 |
 | 59 | [Tired](https://open.spotify.com/track/2SzqIB76prOWeCztmlu9hi) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Tired](https://open.spotify.com/album/28j8ncaZLKane8IMKDRsFX) | 3:04 |
 | 60 | [Must Be Nice](https://open.spotify.com/track/7napoy64U99Dttc8YXQUv6) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt) | [Must Be Nice](https://open.spotify.com/album/0UFs6Suo1e8EVPDT6Uesbg) | 3:26 |
-| 61 | [Lessons](https://open.spotify.com/track/3mV5e0s5D7EXlA0dnc5w4q) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [Lessons](https://open.spotify.com/album/1z27FzbTQkuJedFVzXoIyV) | 4:28 |
+| 61 | [Lessons](https://open.spotify.com/track/3lyab0gwv0HqPJhwXR9Zqj) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [Lessons](https://open.spotify.com/album/1rsrvfYnB80WSPTRV5iCSx) | 4:28 |
 | 62 | [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi Moru](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 |
 | 63 | [Can't Find Me](https://open.spotify.com/track/1q6WBM2eCetMnrz6LMMM16) | [Shahrizal](https://open.spotify.com/artist/1QG9pJRvxU3zU3DBWlxhXe) | [Can't Find Me](https://open.spotify.com/album/1bZO1PXSiQmIPwcaJWQAqJ) | 2:30 |
 | 64 | [Kaleidoscope](https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Kaleidoscope](https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj) | 3:27 |
 | 65 | [In My Head \- Journal Sarahaeyo OST](https://open.spotify.com/track/3g71szrAvU2dj31nHh51Se) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [Arena Wan](https://open.spotify.com/artist/3Um1pus2tvJ9cOSti2nURR) | [In My Head \(Journal Sarahaeyo OST\)](https://open.spotify.com/album/0R1gxriO6uKGL4GIrFF6av) | 3:09 |
 | 66 | [Without You \(By Myself\)](https://open.spotify.com/track/6OokdIqA1Zi5t7GH2bUJDo) | [Qastalani](https://open.spotify.com/artist/66WdsOJqSYj93d2tDRygaj) | [Without You \(By Myself\)](https://open.spotify.com/album/1LIFo5YXgpk7w1bEQdfINa) | 3:21 |
-| 67 | [room](https://open.spotify.com/track/0apFaskFTjOtbJ2RquwMpZ) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [room](https://open.spotify.com/album/7dXf3mDlGxiS2jLc8KmqlO) | 2:47 |
+| 67 | [room](https://open.spotify.com/track/7LKtjtm4QW4wKmbOac3kY0) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [room](https://open.spotify.com/album/76mwzGhcFxiI69isYUCZyR) | 2:47 |
 | 68 | [ashes in the wind](https://open.spotify.com/track/1JVqrrKlbh3WJItt1ulLsb) | [Yongkytown](https://open.spotify.com/artist/0oLvq0E0XQT55lYZprrobg) | [ashes in the wind](https://open.spotify.com/album/33N9oTr3wYCUpteMMD1mWi) | 2:31 |
 | 69 | [Like You](https://open.spotify.com/track/5ouDX0ynSuadLgK1Ew9bGF) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Like You](https://open.spotify.com/album/1EWa7xGKLCvY4yxX36YvPP) | 2:16 |
 | 70 | [Encore](https://open.spotify.com/track/2zce4kfccaiZuJLzAB1hWq) | [Krunkle](https://open.spotify.com/artist/2i1PcYTSpRTEvgF5SbTlB3) | [Krunkle](https://open.spotify.com/album/51SUZ4JBAxh6iaXAi0D6rG) | 3:07 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 74 | [Lonely People](https://open.spotify.com/track/73jttJCbEqljrZewmisf7D) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [Lonely People](https://open.spotify.com/album/3FNvjChh58SNEviGimHWRd) | 3:25 |
 | 75 | [Ivory](https://open.spotify.com/track/4jXvHTFGDPqfWml9bAhPYg) | [Sio Lubis](https://open.spotify.com/artist/6fzB3myUVKUDnUriIReh26), [Danesh Leonadi](https://open.spotify.com/artist/1k0wAlKAGHhKN6W3QeC52J) | [Ivory](https://open.spotify.com/album/3JoAY9aRx1P6iEkFQdaIwT) | 3:01 |
 | 76 | [Overdue](https://open.spotify.com/track/4kVfVJeDATvSx3mFCWtBw0) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI), [Owen Li](https://open.spotify.com/artist/7xuejP4sf719tkfOOTrWqv) | [Overdue](https://open.spotify.com/album/2k8MJWQ1GDcNsqZ3bbsqda) | 3:43 |
-| 77 | [us being us](https://open.spotify.com/track/4FHE9B5Rbv4bKjeX2swwoE) | [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx), [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [us being us](https://open.spotify.com/album/0mxKiEZT7DrY3mKUzgeYbi) | 3:34 |
+| 77 | [us being us](https://open.spotify.com/track/4iZmZsFgvJqqmKtVnIrjlS) | [lovlaine](https://open.spotify.com/artist/2QIkDLNdxDBgcJV6Fho6XV), [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [us being us](https://open.spotify.com/album/5poydfb1GnLEeNNn9RIjqr) | 3:34 |
 | 78 | [IDNY](https://open.spotify.com/track/7tMhaLuIR8EgQtkhmPqZtv) | [KEAT](https://open.spotify.com/artist/5lzooGwfNsjMjk96wHkZJg) | [from me, to me, by me](https://open.spotify.com/album/6VZgwWua67u3WHImSkhzRf) | 3:10 |
 | 79 | [Call Me](https://open.spotify.com/track/3ubEtnB8eFSsmov0zKgDSZ) | [myraa](https://open.spotify.com/artist/1e0KI88UQfNVW2HNRwQE3U), [kid raw](https://open.spotify.com/artist/5OHFSQKADXkzvpuzqghEbO), [hohoman16](https://open.spotify.com/artist/7yV83KFDjcx1QREEzqPUKk) | [Call Me](https://open.spotify.com/album/6bInz2tQaU29mCGLBWsSbe) | 3:31 |
 | 80 | [Only A Dream](https://open.spotify.com/track/6hzd92DBZ6ffLPvsDwasqo) | [SENNA](https://open.spotify.com/artist/7y7JSh3skPdhrkXziDTTyL), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z), [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl) | [Only A Dream](https://open.spotify.com/album/3mvWSYa3oVzHVXOXXIj2Xr) | 3:18 |
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 101 | [RIDE OR DIE](https://open.spotify.com/track/4pTWRoH40R7TF41QLBTBYp) | [Gridlockd](https://open.spotify.com/artist/1HeXMzBedhYbQQhQ4Lc0bA), [Dani Twice](https://open.spotify.com/artist/7vvpWmy88nGlz6qtJpvB0e) | [RIDE OR DIE](https://open.spotify.com/album/3EcHByp8WNo2ulXJWWnMGC) | 3:11 |
 | 102 | [To Say](https://open.spotify.com/track/12UzAUFG89v7UAhceJVgpr) | [Golden Mammoth](https://open.spotify.com/artist/4ILzCq6Jt8Ykmth9ZuLSqb) | [GM](https://open.spotify.com/album/0w8tZUhpOeBKrk0ZIk6SiL) | 4:37 |
 | 103 | [Coastlines](https://open.spotify.com/track/72hL3dy9IJ3qwXu4TAZb7T) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [Coastlines](https://open.spotify.com/album/1FABOVYhMBRIA0LhlZnq5J) | 3:11 |
-| 104 | [New York](https://open.spotify.com/track/7ztAxczYXGDrmDhNP13qx3) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [New York](https://open.spotify.com/album/2v06Ht4ckCYytVybR6pOpY) | 3:20 |
+| 104 | [New York](https://open.spotify.com/track/7xKt7i4Erx0UbSz8hsTaGY) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [New York](https://open.spotify.com/album/7gLt0wcQfPDPIJdQfcMFob) | 3:20 |
 | 105 | [crash](https://open.spotify.com/track/1rrkI6crOZ3qEOuwGizymx) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [crash](https://open.spotify.com/album/2h4fJ50NqNXgFcCMwXEVlG) | 3:58 |
 
-Snapshot ID: `MCwwYTBkYmMyODg2OGI3MTkwNjIzNzI0OWE2NjEzNjdjMjkxNzRlOTZj`
+Snapshot ID: `MCw5ZTg1YzA1MTg3M2Y3MGYzOTMyNjNkODNkODE3YTY4N2RjNjIxNjVj`

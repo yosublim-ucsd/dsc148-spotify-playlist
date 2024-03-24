@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa con Los Pibes Chorros.
 
-236 songs - 12 hr 51 min
+237 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Sexy Soltera](https://open.spotify.com/track/3WZCUO10KxZp5XExAAmbd7) | [Los Nota Lokos](https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ) | [Rompelo Ahí](https://open.spotify.com/album/4J6M9C6Zs0Ae3GIhactWyt) | 2:33 | 2023-05-26 | 2024-03-06 |
 | [Si Me Vez Fumando una Seca por Vos](https://open.spotify.com/track/0YK6zUsPZyMIf5lhzu9dzV) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Volverás](https://open.spotify.com/album/46c1Anl2GJq3unG1KVDpWV) | 2:56 | 2023-05-26 | 2024-03-06 |
 | [Siempre Es la Misma Situación](https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv) | [Barrabox](https://open.spotify.com/artist/6z01XcnKo6MCOI3qhVEghp) | [Moviendo la Cola](https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O) | 3:20 | 2024-03-05 |  |
-| [Sigue bailando mi amor](https://open.spotify.com/track/5YMmXk3DlySsw2z5BS47Hq) | [Escucha!](https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp) | [Triste Palomita](https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7) | 3:50 | 2024-03-15 |  |
+| [Sigue bailando mi amor](https://open.spotify.com/track/5YMmXk3DlySsw2z5BS47Hq) | [Escucha!](https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp) | [Triste Palomita](https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7) | 3:50 | 2024-03-15 | 2024-03-24 |
 | [Siguiendo la Luna](https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [La Humildad Es Sinónimo de Grandeza](https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk) | 3:28 | 2024-03-08 |  |
 | [Sin Ayuda](https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Sin Ayuda](https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV) | 3:49 | 2023-05-26 | 2024-03-06 |
 | [Soltero Hasta la Tumba](https://open.spotify.com/track/6JtV50W4szsOD04QREQgXk) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [No Es Tan Fácil](https://open.spotify.com/album/1BtjQQmVRRs5m7AoBh81Xv) | 3:13 | 2023-05-26 |  |
@@ -216,6 +216,7 @@
 | [Toto Pago](https://open.spotify.com/track/7lDiqbdr75lTntS5MMyr8X) | [frankotirador](https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w), [Colny Flow](https://open.spotify.com/artist/5CKHozemkVTKIF8kg1v08C) | [Toto Pago](https://open.spotify.com/album/6oDx3WEDFC2lJs7Y6OPuRb) | 2:35 | 2023-10-20 | 2023-11-18 |
 | [Traigo Una Rosa](https://open.spotify.com/track/4CVezbl39jn7YIDcid9eXI) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [KaKa Nene](https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF) | 4:06 | 2024-03-05 |  |
 | [Tranka](https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Tranka](https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU) | 2:44 | 2023-05-26 |  |
+| [Triste palomita](https://open.spotify.com/track/1SX37vPJPxTVA9HLAw0Gm2) | [Escucha!](https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp) | [Triste Palomita](https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7) | 3:54 | 2024-03-15 |  |
 | [Triste y Solitario](https://open.spotify.com/track/1SCETKwDlQs1uzymfwjKKp) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Triste y Solitario](https://open.spotify.com/album/5hXFSBG6SAR974UC9p95zK) | 3:41 | 2023-09-22 | 2023-10-22 |
 | [TRUCHO](https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [TRUCHO](https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK) | 2:24 | 2023-05-26 |  |
 | [Tu Turrito](https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Tu Turrito](https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02) | 2:44 | 2023-05-26 |  |

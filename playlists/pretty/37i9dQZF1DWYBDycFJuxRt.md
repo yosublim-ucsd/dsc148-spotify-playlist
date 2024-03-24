@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 離婚伝説 \*👉 <a href="https://spice.eplus.jp/articles/327269?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,062 likes - 63 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,082 likes - 63 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 62 | [Loud Land](https://open.spotify.com/track/5V6v1a5W9AMUouu0UwHSf7) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [Loud Land](https://open.spotify.com/album/5NoTZDS0Z0bVsaQ6uGtmjz) | 3:02 |
 | 63 | [family](https://open.spotify.com/track/2PrSxo7E5pqBa9lFNJt1pz) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [family](https://open.spotify.com/album/633aHjnFz7OKOA1hPslzyo) | 2:45 |
 
-Snapshot ID: `MCw0YjNlZmE0NWQ4YTEwZTI3OWIwNTIxMjJkMDU1MDk3YmY1MjZiNTNk`
+Snapshot ID: `MCw5MDUxYWFlMzljMWU4ZmY0ZmZkM2FhMjY3OGUzMzJkYzRkMmE5Zjdk`

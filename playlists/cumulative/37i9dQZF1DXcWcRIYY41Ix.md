@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Elsa y Elmar.
 
-555 songs - 1 day 9 hr 27 min
+556 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Candor](https://open.spotify.com/track/7KERYWUNyuDcMhhfGhCbui) | [Sebastian Jantos](https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI), [Laura Chinelli](https://open.spotify.com/artist/5vtYPQtCS5vJwVJmXKKx71) | [Candor](https://open.spotify.com/album/4MCb4pGkHE5uQmIzSse1fX) | 4:52 | 2023-06-23 | 2024-01-27 |
 | [Canta, miña compañeira](https://open.spotify.com/track/7sEO7d6ToY5C2ObEkeJAVA) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Canta, miña compañeira](https://open.spotify.com/album/3oqLUn4jbB7olSampyHXfb) | 3:35 | 2022-10-15 | 2022-11-26 |
 | [Canto a la Imaginación](https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Canto a la Imaginación](https://open.spotify.com/album/3rR9YROCAzy8a7NzbNZt9H) | 3:01 | 2023-05-29 | 2023-06-03 |
+| [Capurganá](https://open.spotify.com/track/3r3nHyqS7oG7wsFrTh0gl9) | [Astola y Ratón](https://open.spotify.com/artist/0OvOwlouLX0fKgWCB7BzYp) | [Capurganá](https://open.spotify.com/album/56ccnlEOymFdVgPt8EP4hu) | 1:51 | 2024-03-22 |  |
 | [CARNAVALITO DEL DUENDE](https://open.spotify.com/track/6fsMd6rAjKzdLazlBvzfIR) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [LXS INFERNALES \(Del Valle Encantado\)](https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE) | 2:51 | 2023-06-30 | 2023-07-22 |
 | [Carta](https://open.spotify.com/track/2TiTcWEs1CldfTx7fOGfS4) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Carta](https://open.spotify.com/album/1ebHnnX7boUGSAD0YSAJyX) | 3:23 | 2021-12-24 | 2022-07-29 |
 | [Carta](https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:24 | 2022-09-09 | 2023-12-16 |
@@ -374,7 +375,7 @@
 | [Ojalá](https://open.spotify.com/track/1sEL2I1NRU2GZk5nS4ydxD) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo) | [Ojalá](https://open.spotify.com/album/119lk8kg6xyDPTvdlHXq9z) | 4:23 | 2022-11-25 | 2022-12-24 |
 | [Ojitos Grises](https://open.spotify.com/track/3Yd31UDuYwCMU5OFraFcS8) | [Gonzalete](https://open.spotify.com/artist/4SCQ36ne7NXrwaR1bX9yWl) | [Ojitos Míos](https://open.spotify.com/album/0V8a2v7Qq4CDgUoDPKQsSq) | 3:12 | 2023-06-30 | 2023-07-22 |
 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 | 2021-12-24 |  |
-| [Oye mi Voz](https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Deshielo](https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ) | 3:41 | 2024-02-16 |  |
+| [Oye mi Voz](https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Deshielo](https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ) | 3:41 | 2024-02-16 | 2024-03-24 |
 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 | 2021-12-24 | 2023-12-23 |
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2021-12-24 | 2022-07-17 |
 | [Palabras de Amor](https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM) | [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [No](https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro) | 3:31 | 2022-09-23 | 2022-10-22 |

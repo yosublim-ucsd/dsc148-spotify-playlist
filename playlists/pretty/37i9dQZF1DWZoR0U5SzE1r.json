@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 303056,
+  "num_followers": 303203,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmE2OTVlNzY2YjM3NjczOTZmZDc0MzU5MmE5Njk3OTVlMmRhYWE1",
+  "snapshot_id": "MCxjYjEzMTczN2RiZGVlZDE1YjlkYWQyNTk0ZTNiODRkMzI3YTA3YmVm",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 383293,
+      "name": "Exalted Over All - Live",
+      "url": "https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Abundantly More",
         "url": "https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 241684,
       "name": "Abundantly More (feat. Seth Condrey)",
       "url": "https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 383293,
-      "name": "Exalted Over All - Live",
-      "url": "https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6"
     },
     {
       "added_at": "2020-06-26 04:02:00",

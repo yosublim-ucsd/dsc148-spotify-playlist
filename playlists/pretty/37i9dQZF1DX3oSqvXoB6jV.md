@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oSqvXoB6jV.md) - [plain]
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama The Good Bad Mother\. \(JTBC 드라마 나쁜엄마의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들도 플레이리스트와 클립스를 통해 확인하실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,421 likes - 31 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,436 likes - 31 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oSqvXoB6jV.md) - [plain]
 | 17 | [Mom \- 2020 Ver.](https://open.spotify.com/track/2cZxa5tK7XEPwbJgbAEk38) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Ra.D](https://open.spotify.com/album/4iMLr53DXhEl63OkiUnRBQ) | 5:08 |
 | 18 | [Mother and daughter](https://open.spotify.com/track/5930Pdj3EUekuwTxMEzrFM) | [Saein](https://open.spotify.com/artist/4SkqKuSedO1rxJNyPRuifq), [Insooni](https://open.spotify.com/artist/5jGYA5Yz8Tt8UFx5jbtxTy) | [Mother and daughter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JLar6YZQaGbw6v1ZvRXCV) | 3:37 |
 | 19 | [Mother](https://open.spotify.com/track/6HXElLXqRMTfsUIgWWXYqO) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [LIKE](https://open.spotify.com/album/4uALCT7fTF4FFva8pB2i32) | 3:25 |
-| 20 | [달리기 Run](https://open.spotify.com/track/4knCGquFltgDzhO1VAbixL) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [달리기 Run](https://open.spotify.com/album/0H3i0ra42JzwEWdgYRWSSu) | 2:57 |
+| 20 | [Run](https://open.spotify.com/track/4knCGquFltgDzhO1VAbixL) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Run](https://open.spotify.com/album/0H3i0ra42JzwEWdgYRWSSu) | 2:57 |
 | 21 | [Don't worry](https://open.spotify.com/track/0P3w8D7NAJb5xYvSQBpHq9) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1xfxTZoewn33lWaXFOJky2) | 3:51 |
 | 22 | [Don't Cry](https://open.spotify.com/track/1CK3AXEftHvx26jG8a7vFa) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j) | [Graduation](https://open.spotify.com/album/0lVWUc9umG4kW4ZdClfj5l) | 4:29 |
 | 23 | [지금이 우리의 전부](https://open.spotify.com/track/0YRZJRVNOsiwAuAFkA6qq9) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [지금이 우리의 전부](https://open.spotify.com/album/4rMy2rJVLXBdlhnGvWyPMf) | 3:15 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oSqvXoB6jV.md) - [plain]
 | 30 | [Talk About Love \- Instrumental](https://open.spotify.com/track/4v8z7ug9egio7OMFhbxAog) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30) | 3:38 |
 | 31 | [Tell Me \- Instrumental](https://open.spotify.com/track/2IhjQ4UqQOvrX3nfBYT0ni) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/63gnEuPiYkgzX3l36tRw1e) | 3:46 |
 
-Snapshot ID: `MCxkZTE4ZmRlOGE0NjFiYjBlZmQyZWEyNWQ3MzBmZGZlNWQ5ZDIzNzU0`
+Snapshot ID: `MCw1NjY1ZWJlNjY2ZTc0ZWExZGYwZWJiNjJlMTUwMzFjYzhjM2Y1ZDY3`

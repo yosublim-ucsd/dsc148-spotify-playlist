@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: SiR
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,784 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,792 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 53 | [Turning Point](https://open.spotify.com/track/5pQR2DV8gHTVNJnXgrBDix) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW) | [Jaded](https://open.spotify.com/album/1TH2eZsAL864QvCL1o7xuv) | 3:09 |
 | 54 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 |
 | 55 | [Main One \(feat\. Tyga\)](https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Main One \(feat\. Tyga\)](https://open.spotify.com/album/3poW1IiF8t9MNcrk2CgJWF) | 3:19 |
-| 56 | [Nothing Else Feels The Same](https://open.spotify.com/track/7AEdIhy2GLcoJ3nqqEjmjT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Nothing Else Feels The Same](https://open.spotify.com/album/5qBY1K1C7QoXWlmZ2yvV5L) | 3:04 |
+| 56 | [Nothing Else Feels The Same](https://open.spotify.com/track/56iCLbDrPWYZ4nMkY8s1qj) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Nothing Else Feels The Same](https://open.spotify.com/album/5Y0aJrnGAdlWxvNzTTdyBH) | 3:03 |
 | 57 | [Make Up Your Mind](https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Make Up Your Mind](https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80) | 2:52 |
 | 58 | [HIGH](https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [FACETS](https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk) | 3:12 |
 | 59 | [Into You](https://open.spotify.com/track/6qbkhCaiIvU2fCEbUeZ4KW) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Cherri V](https://open.spotify.com/artist/1I8ac7F9m1rf0KT3l1iAiP) | [Into You](https://open.spotify.com/album/4ph7aQr7TBj4CHxSUf5sXj) | 4:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 79 | [White Snow](https://open.spotify.com/track/3VrvJqL0g4B2gfAvvzwJ2p) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [White Snow](https://open.spotify.com/album/3NZc71lQ5slVbiwfLmsd8N) | 3:35 |
 | 80 | [sir princess bad bitch](https://open.spotify.com/track/1TwbcQGYt9wwc7nbqVF9pL) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [sir princess bad bitch](https://open.spotify.com/album/5TLxrw1u2URpN6ayHrD3Nw) | 2:38 |
 
-Snapshot ID: `MCw0MTI4NGFjNWNkYzUzY2NkZjQ2NjJjNjEwZTllMzRmMGQzMDFhZjBk`
+Snapshot ID: `MCw0NDc0YTEyODQ0MmJjN2QwNTVkMGQyNWM4MGMwMjU0NDFiMjk1Nzhm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,912 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,904 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [WET DREAM](https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [WET DREAM](https://open.spotify.com/album/4m7bDTiTwfiJFotfmEyEkb) | 2:30 |
 | 40 | [All We Need \(Deep Inside\)](https://open.spotify.com/track/4QH1B0fYwxCmFkY8bxhocr) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [All We Need \(Deep Inside\)](https://open.spotify.com/album/18DfikKMks3PcTBfNIhBr9) | 3:50 |
 
-Snapshot ID: `MCxmMmQ5ZTNiMDIyN2ZjN2Y4Mzk3YjkxNDk2ODQ5YmRiZDMxZDc0NWI3`
+Snapshot ID: `MCw0YWVlN2Q3OWY5NmJhNGYxYjM2MzM2OWRmZjFhY2ZjMDAzNmQ5Yjkw`

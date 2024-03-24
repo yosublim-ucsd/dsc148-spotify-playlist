@@ -4,7 +4,7 @@
 
 > Sway your way through the evening.
 
-222 songs - 13 hr 36 min
+223 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Enough to Know You](https://open.spotify.com/track/4jFP1o8ceblBeeYY9E1cFr) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Enough to Know You](https://open.spotify.com/album/1qq20zCV0Pwtl8YZLCq5wN) | 3:25 | 2021-10-01 | 2022-10-13 |
 | [Enough to Know You](https://open.spotify.com/track/7uifjg1qHYgIoVvshqL2HU) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Enough to Know You](https://open.spotify.com/album/0Z8yOTqlSBDdHwkjBrSn00) | 3:25 | 2022-01-21 |  |
 | [Faithful \- Bonus Track](https://open.spotify.com/track/7wASIh9RQcfxKufxPDrJUU) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Radius \(Deluxe Edition\)](https://open.spotify.com/album/2sVa8Vc8jNp6vClhgljcrj) | 3:01 | 2021-10-01 |  |
-| [Fallen so Young](https://open.spotify.com/track/3y4uSQwxHckyRcvafEilkN) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Fallen so Young](https://open.spotify.com/album/7BlVUDoAnsDbZHwIYT2S74) | 3:52 | 2021-10-01 |  |
+| [Fallen So Young](https://open.spotify.com/track/3njxoyH24tVPnHvvbviHgJ) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Declan J Donovan](https://open.spotify.com/album/2Cs94ATEIzIciZdTaL5igc) | 3:52 | 2022-01-21 |  |
+| [Fallen so Young](https://open.spotify.com/track/3y4uSQwxHckyRcvafEilkN) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Fallen so Young](https://open.spotify.com/album/7BlVUDoAnsDbZHwIYT2S74) | 3:52 | 2021-10-01 | 2024-03-24 |
 | [Falling Like The Stars](https://open.spotify.com/track/395KzBy0bkb57dEvg6cfzJ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:31 | 2021-10-01 |  |
 | [Feel For Me \- Radio Edit](https://open.spotify.com/track/0E981mI4hPdAZFUFexdNkd) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Feel For Me](https://open.spotify.com/album/4Zk4BGwIPN4Gwi5IRK7m4G) | 3:42 | 2021-10-01 | 2022-07-29 |
 | [Feel for Me \- Radio Edit](https://open.spotify.com/track/4zipvCeXxglWwz9EixBo8L) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Feel for Me](https://open.spotify.com/album/1uNRaXTKaZAbIYMo1cJDyU) | 3:42 | 2022-01-21 | 2022-10-13 |

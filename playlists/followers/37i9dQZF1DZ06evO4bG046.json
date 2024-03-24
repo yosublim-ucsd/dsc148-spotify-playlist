@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 32607,
+  "2024-03-24": 32616,
   "date_first_scraped": "2022-09-17",
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
   "name": "This Is Los Jaivas",
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 261746,
       "name": "Ayer Cache (Remasterizado 2020)",
       "url": "https://open.spotify.com/track/5oGKw1Zl8WLYbcX1OBWhzV"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 309048,
       "name": "En la Cumbre de un Cerro",
       "url": "https://open.spotify.com/track/0QrnxnUcNNPwUwKZyIa0zS"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 255153,
       "name": "Ni\u00f1a Serrana (En Vivo)",
       "url": "https://open.spotify.com/track/1kqutTDOwYGSDilE2jfFdI"
@@ -1307,7 +1307,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 663000,
       "name": "Y Arriba Quemando el Sol",
       "url": "https://open.spotify.com/track/0qarO5TEf1JwiJMyV6GQ23"

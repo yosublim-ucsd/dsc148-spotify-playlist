@@ -1,12 +1,12 @@
 {
   "description": "As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.",
-  "num_followers": 264999,
+  "num_followers": 265033,
   "original_name": "Wine & Dine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGFhMzQ1ZjAyNDMwOWFlOGM1ZmMyYTdmMDViODlkMzUzMzBkMGY3",
+  "snapshot_id": "MCwxNmQ5ZDU3YjYzY2NjNGZkNGExMDJjMWJhYzNlZjEzOTQ0NTJiMjQ2",
   "tracks": [
     {
       "added_at": "2022-05-24 13:35:26",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Brian McKnight",
-        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
-      },
-      "artists": [
-        {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
-        }
-      ],
-      "duration_ms": 335906,
-      "name": "Never Felt This Way",
-      "url": "https://open.spotify.com/track/3ETM5bHqW8RtMsP9PauI6S"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
         "name": "Say So",
         "url": "https://open.spotify.com/album/7nc9NmxMiErW3UeeKeQ4Hq"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 212973,
       "name": "Say So",
       "url": "https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Brian McKnight",
+        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 335906,
+      "name": "Never Felt This Way",
+      "url": "https://open.spotify.com/track/3ETM5bHqW8RtMsP9PauI6S"
     },
     {
       "added_at": "2022-05-24 13:35:26",

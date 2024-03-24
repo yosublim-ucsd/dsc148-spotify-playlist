@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Co\-curated by: Philine Sonny
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,699 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,707 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 10 | [Our Moans Would Echo](https://open.spotify.com/track/6HBqgWRVO2MaXVoAjkaUJs) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [You Deserve Romance](https://open.spotify.com/album/3ccL08UCW2cUZweKKEKa3Q) | 3:44 |
 | 11 | [Weißes Kleid](https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Weißes Kleid](https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ) | 2:27 |
 | 12 | [Feuer](https://open.spotify.com/track/4vipRzDpYDtuRjWSL5UxO0) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Feuer](https://open.spotify.com/album/7GOJSTT1IGYEpbaNyNRRJF) | 2:37 |
-| 13 | [Simple Life](https://open.spotify.com/track/3AxfLI7PFjoe2voK0bmXjD) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Simple Life](https://open.spotify.com/album/7wwURNGmjYqXm1XRA4aIRf) | 2:33 |
-| 14 | [ALLES GLÄNZT](https://open.spotify.com/track/4i1Oyfgjzc1aEQHQv8fe4s) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Don't Trust Bitches](https://open.spotify.com/album/5oBI6pmDDwjThwbbqqztR7) | 2:41 |
+| 13 | [ALLES GLÄNZT](https://open.spotify.com/track/4i1Oyfgjzc1aEQHQv8fe4s) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Don't Trust Bitches](https://open.spotify.com/album/5oBI6pmDDwjThwbbqqztR7) | 2:41 |
+| 14 | [Simple Life](https://open.spotify.com/track/3AxfLI7PFjoe2voK0bmXjD) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Simple Life](https://open.spotify.com/album/7wwURNGmjYqXm1XRA4aIRf) | 2:33 |
 | 15 | [Nah Homie](https://open.spotify.com/track/60Zc1B4Dnnw80mjRbUW82y) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Nah Homie](https://open.spotify.com/album/4I2tqbzQouTe4RD8V2ERiI) | 2:36 |
-| 16 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 |
-| 17 | [Flashback 98](https://open.spotify.com/track/2jfIBEjBw8aaWKXbouaMeV) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Flashback 98](https://open.spotify.com/album/4qL2gku5i5jFNLfLO9NvRP) | 3:31 |
+| 16 | [Flashback 98](https://open.spotify.com/track/2jfIBEjBw8aaWKXbouaMeV) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Flashback 98](https://open.spotify.com/album/4qL2gku5i5jFNLfLO9NvRP) | 3:31 |
+| 17 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 |
 | 18 | [Gewinner/Verlierer](https://open.spotify.com/track/0vI6FSBe84ukpxPqxeJ3J7) | [Sandra](https://open.spotify.com/artist/3cnQzVpUDcSTevTmiDthJ7) | [Gewinner/Verlierer](https://open.spotify.com/album/3jnNB8BNnn1CbnXvTh2rYb) | 3:55 |
 | 19 | [notfallkontakt](https://open.spotify.com/track/109bR6XBcMXL8aDs3WCTXJ) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [notfallkontakt](https://open.spotify.com/album/3S3xMZu8K08zcNw9UGDCVA) | 2:16 |
 | 20 | [Hölle \(TW\)](https://open.spotify.com/track/12u7o9mLjgFOy7V2V2IGqg) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Hölle \(TW\)](https://open.spotify.com/album/0oo1trj26v7QHN1N3KkBqT) | 2:52 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 30 | [JUNGE](https://open.spotify.com/track/18vnN9Eb9RCB1T0BluoeyZ) | [Lary](https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo) | [JUNGE](https://open.spotify.com/album/13AwF3I30rKaf9qC9XY4sQ) | 2:35 |
 | 31 | [FÜHLE!!!](https://open.spotify.com/track/0Fcaxo7VTNztSttsfwAdeK) | [Liser](https://open.spotify.com/artist/0NnzZzkMDO3cliiJugNoFl) | [FÜHLE!!!](https://open.spotify.com/album/6ldirteev9LSdhej3cFpdr) | 2:27 |
 | 32 | [Sterne im Abgrund](https://open.spotify.com/track/6NhvoWfiTlymJHMMPPBlDY) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb) | [Sterne im Abgrund](https://open.spotify.com/album/3xFvCH1pwIi1RsdKFBCp82) | 2:37 |
-| 33 | [Heart's Desire](https://open.spotify.com/track/1FOIkPFmShdGvUR7JImeyZ) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Heart's Desire](https://open.spotify.com/album/6f5Aw8kUuEaLRlrk6nkccm) | 3:20 |
-| 34 | [Where's Smoke There's Fire](https://open.spotify.com/track/5SdDzXGqS2VukVESZzLTyz) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [Where's Smoke There's Fire](https://open.spotify.com/album/4WgzulcshF4eYgVlrfNkIs) | 3:03 |
+| 33 | [Where's Smoke There's Fire](https://open.spotify.com/track/5SdDzXGqS2VukVESZzLTyz) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [Where's Smoke There's Fire](https://open.spotify.com/album/4WgzulcshF4eYgVlrfNkIs) | 3:03 |
+| 34 | [Heart's Desire](https://open.spotify.com/track/1FOIkPFmShdGvUR7JImeyZ) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Heart's Desire](https://open.spotify.com/album/6f5Aw8kUuEaLRlrk6nkccm) | 3:20 |
 | 35 | [Peak der Männlichkeit](https://open.spotify.com/track/4FU2L3Oh34yyU8R8wDWDA1) | [Dea Bbz](https://open.spotify.com/artist/0Iu4geqSaPZ1orALyRr6MB) | [Peak der Männlichkeit](https://open.spotify.com/album/3ygNhKeVTA8i14iaY6Rdih) | 2:22 |
 | 36 | [Weisser Staub](https://open.spotify.com/track/2PiZe6jvv4nBVYRh8PzPUh) | [CARY](https://open.spotify.com/artist/0AHMHf89EpUmUPHY1dXBRv) | [Weisser Staub](https://open.spotify.com/album/3YY50i3nFEQw4io6tT3EXl) | 2:51 |
 | 37 | [Angst](https://open.spotify.com/track/6nZ79sRvJ3auF6vqocFVE8) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Angst](https://open.spotify.com/album/31KlZ623EYkLAaHUSEOvNN) | 2:35 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 43 | [grütze \- bist du gut im atmen](https://open.spotify.com/track/43pKbbLyLJZl47GxMtsGmy) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [grütze \- bist du gut im atmen](https://open.spotify.com/album/1TNb8ZZ30qT6FhnOFAtPEy) | 3:39 |
 | 44 | [Cleopatra](https://open.spotify.com/track/3a4JqVlVcCeey7FxJMMEyO) | [HONNY](https://open.spotify.com/artist/62aclYsGZKLP2kgEShQBx7) | [Straight Outta Tanger](https://open.spotify.com/album/5YAsunlDLu4XnwwgIiGyAq) | 2:19 |
 | 45 | [Bevor du gehst](https://open.spotify.com/track/2W0JVzy0rdVX9uX3n1I3LK) | [Elena Rud](https://open.spotify.com/artist/7H55j50FUEqEhAVqJbIBuE) | [Bevor du gehst](https://open.spotify.com/album/4VQYlBCywSBvIVsa7RPrwi) | 2:59 |
-| 46 | [Tell Me](https://open.spotify.com/track/52GXQHYHOW1etnRugP381I) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Tell Me](https://open.spotify.com/album/3SnuIssNUoUTmGrSaDvsPT) | 5:11 |
-| 47 | [Dynamo](https://open.spotify.com/track/7m9TviLYsDh1wbjXcYglzb) | [Magdalena](https://open.spotify.com/artist/4wlgF2WCCPNhQ0FpNwO3vc) | [The Sky Above / Dynamo](https://open.spotify.com/album/5SCfKJEHzs03qMqPuco8uP) | 6:21 |
+| 46 | [Dynamo](https://open.spotify.com/track/7m9TviLYsDh1wbjXcYglzb) | [Magdalena](https://open.spotify.com/artist/4wlgF2WCCPNhQ0FpNwO3vc) | [The Sky Above / Dynamo](https://open.spotify.com/album/5SCfKJEHzs03qMqPuco8uP) | 6:21 |
+| 47 | [Tell Me](https://open.spotify.com/track/52GXQHYHOW1etnRugP381I) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Tell Me](https://open.spotify.com/album/3SnuIssNUoUTmGrSaDvsPT) | 5:11 |
 | 48 | [everything but](https://open.spotify.com/track/1xZgQmXqsEC8R25JVyskhb) | [fraen](https://open.spotify.com/artist/0BmSxSKl373sqmoGAdHKTT) | [everything but](https://open.spotify.com/album/1mzDa80RbGVDz8N5unzqmZ) | 2:22 |
 | 49 | [Slumber Party](https://open.spotify.com/track/52dvoTzRkbAEFdURrRKPQw) | [Tigerhead](https://open.spotify.com/artist/53UMZDKX6Ddh8KV5MYDlcE), [HEISSS Berlin](https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK) | [Slumber Party](https://open.spotify.com/album/1ILkp7RlyLsgFwdBGKyV7N) | 5:54 |
 | 50 | [Sweatpants](https://open.spotify.com/track/4osqqu4H2Ts6muCYD94sCZ) | [Wonda](https://open.spotify.com/artist/5PMaM5VNkcijAx2PjszugR) | [Sweatpants](https://open.spotify.com/album/3GrSygb044hjoQZhpW8g1h) | 2:16 |
 
-Snapshot ID: `MCxiOGE3NzI3MzRmYjFiNzNjZWI0NDlhNzZjOTg0N2I3MDgyY2M5YmJh`
+Snapshot ID: `MCw3NGVhYTJiZWJmYmJiNjY1YWE1ZDAwZmQwMDhhOWIwZWQ2MzBhMGEx`

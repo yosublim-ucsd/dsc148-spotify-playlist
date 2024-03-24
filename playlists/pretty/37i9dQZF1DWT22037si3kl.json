@@ -1,12 +1,12 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Mc Luanna, Danzo",
-  "num_followers": 137050,
+  "num_followers": 137051,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjJlYjAwODc5NzYyMDE1Mjk1NzEyZjg4YTI2MzdlZDc1MjBjZTE1",
+  "snapshot_id": "MCw0MTk3NDZlYzRhYTJkYTJlYzg3MGFiNDQ0MGRhMjU3NTVjNWUyODM5",
   "tracks": [
     {
       "added_at": "2024-03-22 03:01:00",
@@ -355,6 +355,30 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 148525,
+      "name": "Cheiro de Sexo",
+      "url": "https://open.spotify.com/track/475L05BT8k102evS4F1vx6"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Vida Cara (Deluxe)",
         "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
@@ -387,30 +411,6 @@
       "duration_ms": 164571,
       "name": "Amor Eu T\u00f4 no Est\u00fadio",
       "url": "https://open.spotify.com/track/6WgbUmH1yKA2YJ5NY2upOA"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 148525,
-      "name": "Cheiro de Sexo",
-      "url": "https://open.spotify.com/track/475L05BT8k102evS4F1vx6"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -651,38 +651,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Amor e \u00d3dio",
-        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        },
-        {
-          "name": "Mindu",
-          "url": "https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB"
-        },
-        {
-          "name": "Neconbeat",
-          "url": "https://open.spotify.com/artist/0FbOZwBS2giL3NOXLUoLQu"
-        }
-      ],
-      "duration_ms": 157868,
-      "name": "Casa Bomba",
-      "url": "https://open.spotify.com/track/1o8OibQkhsMFXRc7xfJfN9"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Set Ajc 2",
         "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
       },
@@ -711,6 +679,38 @@
       "duration_ms": 265234,
       "name": "Set Ajc 2",
       "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Amor e \u00d3dio",
+        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        },
+        {
+          "name": "Mindu",
+          "url": "https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB"
+        },
+        {
+          "name": "Neconbeat",
+          "url": "https://open.spotify.com/artist/0FbOZwBS2giL3NOXLUoLQu"
+        }
+      ],
+      "duration_ms": 157868,
+      "name": "Casa Bomba",
+      "url": "https://open.spotify.com/track/1o8OibQkhsMFXRc7xfJfN9"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1239,6 +1239,30 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Escola De Trap",
+        "url": "https://open.spotify.com/album/3eW2UQ0NXO9uWmSjWS6dW8"
+      },
+      "artists": [
+        {
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+        },
+        {
+          "name": "Zubin",
+          "url": "https://open.spotify.com/artist/11cmGSkAlNCca1oymzGSj9"
+        },
+        {
+          "name": "UnoTheActivist",
+          "url": "https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb"
+        }
+      ],
+      "duration_ms": 134884,
+      "name": "Alexander McQueen (I'm Swaggin')",
+      "url": "https://open.spotify.com/track/6mcpaMPsQqBOJRIDctU7bv"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "EU VIM DE GR",
         "url": "https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn"
       },
@@ -1295,30 +1319,6 @@
       "duration_ms": 363145,
       "name": "TAMBOR",
       "url": "https://open.spotify.com/track/5I3fsOI8IJjOkmgqCyZVfY"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Escola De Trap",
-        "url": "https://open.spotify.com/album/3eW2UQ0NXO9uWmSjWS6dW8"
-      },
-      "artists": [
-        {
-          "name": "N.A.N.A.",
-          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
-        },
-        {
-          "name": "Zubin",
-          "url": "https://open.spotify.com/artist/11cmGSkAlNCca1oymzGSj9"
-        },
-        {
-          "name": "UnoTheActivist",
-          "url": "https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb"
-        }
-      ],
-      "duration_ms": 134884,
-      "name": "Alexander McQueen (I'm Swaggin')",
-      "url": "https://open.spotify.com/track/6mcpaMPsQqBOJRIDctU7bv"
     },
     {
       "added_at": "2024-03-22 03:01:00",

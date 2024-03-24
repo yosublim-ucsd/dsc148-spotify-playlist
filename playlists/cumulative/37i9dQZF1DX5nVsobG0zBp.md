@@ -4,7 +4,7 @@
 
 > Os maiores hits do rap português dos últimos anos\. Foto: T\-Rex.
 
-232 songs - 13 hr 30 min
+233 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [Tropa do Madruga](https://open.spotify.com/track/6UuUNiV7iYcUEoODAExbYS) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Tropa do Madruga](https://open.spotify.com/album/78PrWb2pWkarkKg1O8LFTY) | 3:00 | 2024-01-26 |  |
 | [Tu Não Sabes](https://open.spotify.com/track/3SCLg9qcpLlwP0D6GV8uIp) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Tu Não Sabes](https://open.spotify.com/album/3wcBnAfGTwOUbhOI4YTdlG) | 4:11 | 2022-07-05 | 2022-09-30 |
 | [Tóxico](https://open.spotify.com/track/7IrkYmj0PeJ887iBKanf17) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Tóxico](https://open.spotify.com/album/1QMPrLfFFl8MqGh2ZTlKSD) | 4:34 | 2024-03-01 |  |
-| [Vencedor](https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [M.a.D.H.P.](https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl) | 4:20 | 2022-07-05 |  |
+| [Vencedor](https://open.spotify.com/track/7h3rSYFzLQbQy241BVaiTX) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [M.a.D.H.P.](https://open.spotify.com/album/3gjC8dqA5LfTFOGOug5rUA) | 4:20 | 2024-03-08 |  |
+| [Vencedor](https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [M.a.D.H.P.](https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl) | 4:20 | 2022-07-05 | 2024-03-24 |
 | [VIAGEM](https://open.spotify.com/track/57IsFmdWNxR31Oo8Qj3dIc) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [VIAGEM](https://open.spotify.com/album/52KJ9GOimAqOvZFoKODi4p) | 2:43 | 2023-11-02 | 2023-11-17 |
 | [VIDA DE ARTISTA](https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [VIDA DE ARTISTA](https://open.spotify.com/album/2sPnAz4lY0WTYlpJyDNOpk) | 3:12 | 2023-04-21 | 2023-05-23 |
 | [Vivi Good](https://open.spotify.com/track/6MLQRF8D7LsOvZwkt1UcZP) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Vivi Good](https://open.spotify.com/album/2bqAN9XzrQnnspO2LBfMVp) | 3:34 | 2022-07-05 | 2023-01-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Kizz Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,320 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,388 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Quand tu mens](https://open.spotify.com/track/7apkabvZYZxVA8aZ1bnAh8) | [Lhiroyd](https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8) | [Quand tu mens](https://open.spotify.com/album/76zP1B61HmwYqCvhQP1PoR) | 2:49 |
 | 50 | [Today](https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [fred irie](https://open.spotify.com/artist/2FXTublmZxD7viKxbfSHAJ) | [Today](https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb) | 2:27 |
 
-Snapshot ID: `MCw5Yjk3OWRkMGY0ZmQzMDlkN2IyZGNlYTk2YjJkMjc3NmJlNzc2MTZh`
+Snapshot ID: `MCw3YjJhMTI3NGNhMmNjYWU4OGMyYWMzYTkyMjIwODdkODcyY2E3YzYx`

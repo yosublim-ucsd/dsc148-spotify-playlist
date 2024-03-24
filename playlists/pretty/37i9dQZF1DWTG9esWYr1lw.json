@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Ramadan with these songs.",
-  "num_followers": 10392,
+  "num_followers": 10400,
   "original_name": "Welcome Ramadan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWNlMmI5OTA4ZmZlMmUwNGQ2YWE0ZDgxZGE0NDc4MzliMTExNzgz",
+  "snapshot_id": "MCw0YzIxODA3ZWUzNTI4ZTFiYWM4OTBiZDEzNzc2MTg4MGY4MTkxNmI1",
   "tracks": [
     {
       "added_at": "2024-03-14 21:46:45",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-03-14 21:46:45",
       "album": {
-        "name": "\u0647\u0644 \u0647\u0644\u0627\u0644\u0643 \u064a\u0627 \u0631\u0645\u0636\u0627\u0646",
-        "url": "https://open.spotify.com/album/7Ezl1DqSaOvXKUkbdFcgP5"
-      },
-      "artists": [
-        {
-          "name": "Al Wasmi",
-          "url": "https://open.spotify.com/artist/1lJI9VB5GCD1uPQdyVl0Y9"
-        }
-      ],
-      "duration_ms": 88828,
-      "name": "\u0647\u0644 \u0647\u0644\u0627\u0644\u0643 \u064a\u0627 \u0631\u0645\u0636\u0627\u0646",
-      "url": "https://open.spotify.com/track/1QW644IFwYjUP46aS7Dik3"
-    },
-    {
-      "added_at": "2024-03-14 21:46:45",
-      "album": {
         "name": "\u0631\u0645\u0636\u0627\u0646 \u0639\u0644\u064a\u0646\u0627 \u0647\u0644",
         "url": "https://open.spotify.com/album/7tZDkgOHmKStrlluyfElhl"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 129390,
       "name": "\u0631\u0645\u0636\u0627\u0646 \u0639\u0644\u064a\u0646\u0627 \u0647\u0644",
       "url": "https://open.spotify.com/track/0M5kqjIQb6veuj93sUtLVE"
+    },
+    {
+      "added_at": "2024-03-14 21:46:45",
+      "album": {
+        "name": "\u0647\u0644 \u0647\u0644\u0627\u0644\u0643 \u064a\u0627 \u0631\u0645\u0636\u0627\u0646",
+        "url": "https://open.spotify.com/album/7Ezl1DqSaOvXKUkbdFcgP5"
+      },
+      "artists": [
+        {
+          "name": "Al Wasmi",
+          "url": "https://open.spotify.com/artist/1lJI9VB5GCD1uPQdyVl0Y9"
+        }
+      ],
+      "duration_ms": 88828,
+      "name": "\u0647\u0644 \u0647\u0644\u0627\u0644\u0643 \u064a\u0627 \u0631\u0645\u0636\u0627\u0646",
+      "url": "https://open.spotify.com/track/1QW644IFwYjUP46aS7Dik3"
     },
     {
       "added_at": "2024-03-14 21:46:45",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-03-14 21:46:45",
       "album": {
-        "name": "\u0639\u0646\u0627\u0642\u064a\u062f 2",
-        "url": "https://open.spotify.com/album/59NEa9mrUEzas2a54jsgyT"
+        "name": "Ahlan Ramadan",
+        "url": "https://open.spotify.com/album/1Xpw87zfp0wu6bxhpBzlC6"
       },
       "artists": [
         {
-          "name": "\u0645\u0634\u0627\u0631\u064a \u0628\u0646 \u0631\u0627\u0634\u062f \u0627\u0644\u0639\u0641\u0627\u0633\u064a",
-          "url": "https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi"
+          "name": "Ali Magrebi",
+          "url": "https://open.spotify.com/artist/4GSR6lcJZdCOlptrvPtLSN"
         }
       ],
-      "duration_ms": 222931,
-      "name": "\u0631\u0645\u0636\u0627\u0646",
-      "url": "https://open.spotify.com/track/7txV2KJuaV24jQDWDiWdBs"
+      "duration_ms": 214705,
+      "name": "Ahlan Ramadan",
+      "url": "https://open.spotify.com/track/79nSB35IGr3o4FdavxwOXm"
     },
     {
       "added_at": "2024-03-14 21:46:45",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-03-14 21:46:45",
       "album": {
-        "name": "Ahlan Ramadan",
-        "url": "https://open.spotify.com/album/1Xpw87zfp0wu6bxhpBzlC6"
+        "name": "\u0639\u0646\u0627\u0642\u064a\u062f 2",
+        "url": "https://open.spotify.com/album/59NEa9mrUEzas2a54jsgyT"
       },
       "artists": [
         {
-          "name": "Ali Magrebi",
-          "url": "https://open.spotify.com/artist/4GSR6lcJZdCOlptrvPtLSN"
+          "name": "\u0645\u0634\u0627\u0631\u064a \u0628\u0646 \u0631\u0627\u0634\u062f \u0627\u0644\u0639\u0641\u0627\u0633\u064a",
+          "url": "https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi"
         }
       ],
-      "duration_ms": 214705,
-      "name": "Ahlan Ramadan",
-      "url": "https://open.spotify.com/track/79nSB35IGr3o4FdavxwOXm"
+      "duration_ms": 222931,
+      "name": "\u0631\u0645\u0636\u0627\u0646",
+      "url": "https://open.spotify.com/track/7txV2KJuaV24jQDWDiWdBs"
     },
     {
       "added_at": "2024-03-14 21:46:45",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-14 21:46:45",
       "album": {
-        "name": "\u0627\u0644\u0645\u0631\u062a\u0644",
-        "url": "https://open.spotify.com/album/5xFH2vQ2HvYq6z4R1kcnKS"
-      },
-      "artists": [
-        {
-          "name": "\u0645\u0634\u0627\u0631\u064a \u0628\u0646 \u0631\u0627\u0634\u062f \u0627\u0644\u0639\u0641\u0627\u0633\u064a",
-          "url": "https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi"
-        }
-      ],
-      "duration_ms": 199412,
-      "name": "\u0641\u064a \u0631\u0645\u0636\u0627\u0646",
-      "url": "https://open.spotify.com/track/2aVE2DprFwstfzKfZSgGPh"
-    },
-    {
-      "added_at": "2024-03-14 21:46:45",
-      "album": {
         "name": "Ramadan Gannah",
         "url": "https://open.spotify.com/album/0pMr9lhGs2VemkQUfrty2P"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 338500,
       "name": "Aho Geh Ya Welad",
       "url": "https://open.spotify.com/track/5mXC7ZInp9tPJrPue3GbUx"
+    },
+    {
+      "added_at": "2024-03-14 21:46:45",
+      "album": {
+        "name": "\u0627\u0644\u0645\u0631\u062a\u0644",
+        "url": "https://open.spotify.com/album/5xFH2vQ2HvYq6z4R1kcnKS"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u0634\u0627\u0631\u064a \u0628\u0646 \u0631\u0627\u0634\u062f \u0627\u0644\u0639\u0641\u0627\u0633\u064a",
+          "url": "https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi"
+        }
+      ],
+      "duration_ms": 199412,
+      "name": "\u0641\u064a \u0631\u0645\u0636\u0627\u0646",
+      "url": "https://open.spotify.com/track/2aVE2DprFwstfzKfZSgGPh"
     },
     {
       "added_at": "2024-03-14 21:46:45",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-03-14 21:46:45",
       "album": {
-        "name": "Ramadaniat",
-        "url": "https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i"
-      },
-      "artists": [
-        {
-          "name": "El Tholathy El Mareh",
-          "url": "https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l"
-        }
-      ],
-      "duration_ms": 272144,
-      "name": "Efrahou Ya Banat",
-      "url": "https://open.spotify.com/track/0mE1z4WuQXZIwR1yRR4FqV"
-    },
-    {
-      "added_at": "2024-03-14 21:46:45",
-      "album": {
         "name": "Marhab Ramadan",
         "url": "https://open.spotify.com/album/347O47ySXVIo6F60UHxmkO"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 205329,
       "name": "Marhab Ramadan",
       "url": "https://open.spotify.com/track/4xsEFXIGJN0dB5KWkkXKBP"
+    },
+    {
+      "added_at": "2024-03-14 21:46:45",
+      "album": {
+        "name": "Ramadaniat",
+        "url": "https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i"
+      },
+      "artists": [
+        {
+          "name": "El Tholathy El Mareh",
+          "url": "https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l"
+        }
+      ],
+      "duration_ms": 272144,
+      "name": "Efrahou Ya Banat",
+      "url": "https://open.spotify.com/track/0mE1z4WuQXZIwR1yRR4FqV"
     },
     {
       "added_at": "2024-03-14 21:46:45",

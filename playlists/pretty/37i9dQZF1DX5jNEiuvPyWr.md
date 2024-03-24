@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : So La Lune
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,222 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,228 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [Huracán](https://open.spotify.com/track/4Ya7MdSv0pBinTTTYc8qgW) | [TRIPLEGO](https://open.spotify.com/artist/6cDxDe1MWGgUcNVVdxhCN2) | [Huracán](https://open.spotify.com/album/3QaBscX89yOeQckVdbEOX7) | 3:21 |
 | 40 | [Tranchées](https://open.spotify.com/track/3GbI95bOGncWZrb7rw3hd9) | [Giacomo](https://open.spotify.com/artist/7359RgrSfWHHVJIE0CuqVv), [AAMO](https://open.spotify.com/artist/5PQWIvBPwezhXhqnr4gpdm) | [Van Cleef](https://open.spotify.com/album/43zoP8neUAjDQRqtqver6C) | 2:23 |
 
-Snapshot ID: `MCxhNTYxODhlMDg4MmUyZTE5MDIyZDQ1MDA4ZmQ0YTgxZGJhNzY1MWU3`
+Snapshot ID: `MCw5MjUwYjJkYjE3Nzg2ZjU4OTQyMzk5NjRiZTcyNDY2YTY2ZWZmYmYz`

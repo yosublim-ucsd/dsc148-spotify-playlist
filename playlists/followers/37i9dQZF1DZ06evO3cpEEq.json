@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 347,
+  "2024-03-24": 347,
   "date_first_scraped": "2023-06-18",
   "description": "This is Felicity Urquhart. The essential tracks, all in one playlist.",
   "name": "This Is Felicity Urquhart",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 170560,
       "name": "As You Lay Sleeping",
       "url": "https://open.spotify.com/track/2uRYWpRboWnVCnyICEDXuO"
@@ -137,7 +137,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 241293,
       "name": "Bed and Breakfast",
       "url": "https://open.spotify.com/track/7bJugT9TUsQQnM0hQlgILq"
@@ -1333,7 +1333,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 254840,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/4J7jfVlt6A1GjDIW70B5FC"
@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 182306,
       "name": "Sugar Town",
       "url": "https://open.spotify.com/track/6kqwN65FEBCatSX3z38670"
@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 193213,
       "name": "Turn out the Light",
       "url": "https://open.spotify.com/track/2nPF1OqoEf149o7JKop0SX"
@@ -1803,7 +1803,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 126866,
       "name": "You Can't Break My Heart",
       "url": "https://open.spotify.com/track/4ONAoZUWmzDHrp3nLFpuxf"

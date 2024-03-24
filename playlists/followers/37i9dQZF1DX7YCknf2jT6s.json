@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 920098,
+  "2024-03-24": 920216,
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Charles Lloyd",
+  "description": "New jazz for open minds. Cover: Shabaka",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -611,7 +611,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 368018,
       "name": "A Story",
       "url": "https://open.spotify.com/track/0wFfXz9jDuWuw0jkStH5FE"
@@ -1097,6 +1097,28 @@
       "duration_ms": 324692,
       "name": "All The Memories That Objects Carry",
       "url": "https://open.spotify.com/track/0rdFlicMEENER7yTfqI6wu"
+    },
+    {
+      "album": {
+        "name": "All The Same",
+        "url": "https://open.spotify.com/album/0PJURdQhTdpGqgEJ60SZHq"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Ria Moran",
+          "url": "https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324920,
+      "name": "All The Same",
+      "url": "https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk"
     },
     {
       "album": {
@@ -2724,6 +2746,28 @@
     },
     {
       "album": {
+        "name": "But Who's Gonna Play the Melody?",
+        "url": "https://open.spotify.com/album/1wq4WlOpndhRd3nhjIFO38"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315533,
+      "name": "Bass Duo #1",
+      "url": "https://open.spotify.com/track/1SqfaarqpHcceW6eMc2luH"
+    },
+    {
+      "album": {
         "name": "Bass solo",
         "url": "https://open.spotify.com/album/2w7FHQsqxYEDL6lE8WhXQs"
       },
@@ -3087,7 +3131,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 292210,
       "name": "Beyond the Redemption",
       "url": "https://open.spotify.com/track/0NzOmzRINNMlZsIs2a7zni"
@@ -3149,7 +3193,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 361482,
       "name": "Big Brother",
       "url": "https://open.spotify.com/track/706lD4ZY9A3uWNLjPYSpaV"
@@ -7443,7 +7487,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 156933,
       "name": "End Of Innocence",
       "url": "https://open.spotify.com/track/3o9i2sgJhKv8HEFtJWsbxo"
@@ -8305,6 +8349,28 @@
       "duration_ms": 294888,
       "name": "First Impression",
       "url": "https://open.spotify.com/track/7eNo1j7YOW1yUL5CjZrAB9"
+    },
+    {
+      "album": {
+        "name": "First Lemonade",
+        "url": "https://open.spotify.com/album/54FufUN5eZagqdaM3Zc9xs"
+      },
+      "artists": [
+        {
+          "name": "ddddeeeellllaaa",
+          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
+        },
+        {
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "First Lemonade",
+      "url": "https://open.spotify.com/track/6qhHMnTIFQ5ZJbzXTP36tP"
     },
     {
       "album": {
@@ -10872,6 +10938,24 @@
     },
     {
       "album": {
+        "name": "Interdimensional",
+        "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245626,
+      "name": "I Stitched My Mind Back To My Body",
+      "url": "https://open.spotify.com/track/1ebC2PO3ZuZcnVZbY4jqVK"
+    },
+    {
+      "album": {
         "name": "New Blue Sun",
         "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
       },
@@ -11866,6 +11950,32 @@
     },
     {
       "album": {
+        "name": "I\u2019ll Do Whatever You Want",
+        "url": "https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463080,
+      "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
+      "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
+    },
+    {
+      "album": {
         "name": "Jagdish",
         "url": "https://open.spotify.com/album/3Wj5jDwhQmyzt7rjUJzKST"
       },
@@ -12496,6 +12606,24 @@
     },
     {
       "album": {
+        "name": "Precipice",
+        "url": "https://open.spotify.com/album/5XJM3GJwgesWDpSW0ZBQzg"
+      },
+      "artists": [
+        {
+          "name": "Ill Considered",
+          "url": "https://open.spotify.com/artist/2nSY0EIzz3eM6Y6Pc7VXkO"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140293,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/5Y3LPCsFsh9XbgS0iV0xyu"
+    },
+    {
+      "album": {
         "name": "Community Standards",
         "url": "https://open.spotify.com/album/6QFLSr6PlbvNpmTddSdTND"
       },
@@ -12917,7 +13045,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 349733,
       "name": "Leaving Paradise",
       "url": "https://open.spotify.com/track/4P12CbrGVGDVez4VMPKFrc"
@@ -13047,6 +13175,24 @@
       "duration_ms": 434896,
       "name": "Libera Me",
       "url": "https://open.spotify.com/track/0sPKdhJuJke18NRP4rlFbE"
+    },
+    {
+      "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/4FV6Mo4LSbN4YX6TSi8shV"
+      },
+      "artists": [
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314481,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/5SzCMMK5oo6PoiCSiii328"
     },
     {
       "album": {
@@ -15164,6 +15310,24 @@
     },
     {
       "album": {
+        "name": "MoonDial",
+        "url": "https://open.spotify.com/album/4aomKJKtVLDAcWojmg9fvA"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383851,
+      "name": "MoonDial",
+      "url": "https://open.spotify.com/track/3sn5gqosgrs0y1ljACKUCt"
+    },
+    {
+      "album": {
         "name": "SGJAZZ, Vol. 2",
         "url": "https://open.spotify.com/album/2qSb34RjtmkdUso3qcd0D3"
       },
@@ -15255,7 +15419,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 402665,
       "name": "Morning Of The Carnival",
       "url": "https://open.spotify.com/track/3MoLzbreunW3f0AfXUH8ki"
@@ -15787,6 +15951,36 @@
       "duration_ms": 171053,
       "name": "Never Ending",
       "url": "https://open.spotify.com/track/5XUoyLhnHj8PQVQWogLHv8"
+    },
+    {
+      "album": {
+        "name": "A Family Gathering Chapter 2",
+        "url": "https://open.spotify.com/album/5qgIub4YVbjs4JJMgDaDtQ"
+      },
+      "artists": [
+        {
+          "name": "Bread & Souls",
+          "url": "https://open.spotify.com/artist/1t2puEAa4DiYt7U7S20SN4"
+        },
+        {
+          "name": "Mark de Clive-Lowe",
+          "url": "https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P"
+        },
+        {
+          "name": "Bembe Segue",
+          "url": "https://open.spotify.com/artist/2ox6AU0eHDMkXfbcvmOQA4"
+        },
+        {
+          "name": "Teodross Avery",
+          "url": "https://open.spotify.com/artist/5h5pxPQmWGa9k57TtliR47"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247127,
+      "name": "Never Gonna Leave",
+      "url": "https://open.spotify.com/track/1unwiOTWvgRuUglEP0Uuso"
     },
     {
       "album": {
@@ -16870,6 +17064,24 @@
     },
     {
       "album": {
+        "name": "New Strategies For Modern Crime Volume 1",
+        "url": "https://open.spotify.com/album/4n6b9UirdvI5uWBaIddLOt"
+      },
+      "artists": [
+        {
+          "name": "Prefuse 73",
+          "url": "https://open.spotify.com/artist/0ZsnKPvBsvvycnET2GZMrG"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179219,
+      "name": "Onboard, Overboard",
+      "url": "https://open.spotify.com/track/4ANnEyLDnnsQutlhxSH1iz"
+    },
+    {
+      "album": {
         "name": "Ondes of chakras",
         "url": "https://open.spotify.com/album/23GxQ9FW6MJy2jeSOFuNSZ"
       },
@@ -17887,7 +18099,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 205897,
       "name": "Philly Slop",
       "url": "https://open.spotify.com/track/2L5jT0EqitmjEwVtmQssLp"
@@ -19575,6 +19787,24 @@
     {
       "album": {
         "name": "Ritual",
+        "url": "https://open.spotify.com/album/76N4BVMak5BIL1w3HvLZRX"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242106,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/5U36mzwyFUZYiDTdRc0dqb"
+    },
+    {
+      "album": {
+        "name": "Ritual",
         "url": "https://open.spotify.com/album/17JpNaZhaPQTCyEPJiZ7C7"
       },
       "artists": [
@@ -19731,6 +19961,28 @@
       "duration_ms": 410800,
       "name": "Romance Sans Paroles",
       "url": "https://open.spotify.com/track/7qjHkKwt8xJeKR0MCN0qHl"
+    },
+    {
+      "album": {
+        "name": "Rondostrut",
+        "url": "https://open.spotify.com/album/7pqFIJDyrLM2hNvsQWdcF5"
+      },
+      "artists": [
+        {
+          "name": "Andreas Rotevatn",
+          "url": "https://open.spotify.com/artist/7c1MJLpX1Vro7RomKzLy1j"
+        },
+        {
+          "name": "Lindstr\u00f8m",
+          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164696,
+      "name": "Rondostrut",
+      "url": "https://open.spotify.com/track/6yunr4fuhYQUGLRs2EXXb4"
     },
     {
       "album": {
@@ -21215,7 +21467,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 263160,
       "name": "So Mi Stay",
       "url": "https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ"
@@ -21733,7 +21985,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 338727,
       "name": "Speedball",
       "url": "https://open.spotify.com/track/4zi4lHM0rXngR2uRUVQ2yQ"
@@ -22246,6 +22498,40 @@
     },
     {
       "album": {
+        "name": "Strange Meeting (Live/Umbria Jazz Orchestra)",
+        "url": "https://open.spotify.com/album/5nzjLnjpBSkRvHlGOcH1Cz"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Manuele Morbidini",
+          "url": "https://open.spotify.com/artist/17WRWhk9rhWpgGqAmoj2yZ"
+        },
+        {
+          "name": "Rudy Royston",
+          "url": "https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY"
+        },
+        {
+          "name": "Thomas Morgan",
+          "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
+        },
+        {
+          "name": "Umbria Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/7vW6qlqqkDb4ntUwXmIgWT"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384733,
+      "name": "Strange Meeting - Live/Umbria Jazz Orchestra",
+      "url": "https://open.spotify.com/track/521ujwpa5eZZxaKSupjbvV"
+    },
+    {
+      "album": {
         "name": "Strange Times",
         "url": "https://open.spotify.com/album/7A8te8zdWaHSd2trq0OqWY"
       },
@@ -22323,7 +22609,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 424326,
       "name": "Street Cleaning",
       "url": "https://open.spotify.com/track/1vfIfF110veB4yE5R2QDKU"
@@ -23799,7 +24085,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 289702,
       "name": "The End Of Air",
       "url": "https://open.spotify.com/track/13WDwb7YmS4ZRsUoDs2Hmu"
@@ -25263,7 +25549,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 361293,
       "name": "Throughout - Live/Brussels Philharmonic",
       "url": "https://open.spotify.com/track/30l0UW1WS1zXnfKJwkX8rZ"
@@ -27231,7 +27517,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 181333,
       "name": "Whisperings",
       "url": "https://open.spotify.com/track/09pqREo7g64W1TmFF9EFSq"

@@ -1,12 +1,12 @@
 {
   "description": "Si la salsa se cruza con la chamba... \u00a1s\u00fabele a la bocina!",
-  "num_followers": 277,
+  "num_followers": 413,
   "original_name": "Chambeando con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzRmZGY2ODYwODEyMTAwMmZjNmY0ZTM1NGYxMGFiOGRkZTJhMzFj",
+  "snapshot_id": "MCw3MDA3YmQ0MDRkMjFmNzAzYjUwYTg3ODJmYWZlMmQ4ZjVhOTFhOGE4",
   "tracks": [
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
+        "name": "Mi Raz\u00f3n de Ser",
+        "url": "https://open.spotify.com/album/0CdhFwicPfGBbNQx7qdCx7"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Ricardo",
+          "url": "https://open.spotify.com/artist/0fbbEqifegSE79DPPgeg8f"
+        }
+      ],
+      "duration_ms": 261600,
+      "name": "Por Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
         "name": "Aut\u00e9ntico",
         "url": "https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 289706,
       "name": "Sombra Loca",
       "url": "https://open.spotify.com/track/7hqI73OXybfZ6FV9O4WrNs"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "Siempre Charanga",
-        "url": "https://open.spotify.com/album/5LRCh0vhclTfXIwnPaU7Az"
-      },
-      "artists": [
-        {
-          "name": "Hansel Y Raul",
-          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
-        }
-      ],
-      "duration_ms": 287626,
-      "name": "Maria Teresa y Danilo",
-      "url": "https://open.spotify.com/track/5D1P4P7IxymGprWdbaq8N4"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Mi Raz\u00f3n de Ser",
-        "url": "https://open.spotify.com/album/0CdhFwicPfGBbNQx7qdCx7"
+        "name": "Siempre Charanga",
+        "url": "https://open.spotify.com/album/5LRCh0vhclTfXIwnPaU7Az"
       },
       "artists": [
         {
-          "name": "Alvaro Ricardo",
-          "url": "https://open.spotify.com/artist/0fbbEqifegSE79DPPgeg8f"
+          "name": "Hansel Y Raul",
+          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
         }
       ],
-      "duration_ms": 261600,
-      "name": "Por Qu\u00e9 Ser\u00e1?",
-      "url": "https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z"
+      "duration_ms": 287626,
+      "name": "Maria Teresa y Danilo",
+      "url": "https://open.spotify.com/track/5D1P4P7IxymGprWdbaq8N4"
     },
     {
       "added_at": "2023-02-03 06:00:00",

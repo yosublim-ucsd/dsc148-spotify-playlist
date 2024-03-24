@@ -4,7 +4,7 @@
 
 > The stomping ground.
 
-855 songs - 2 day 17 hr 23 min
+855 songs - 2 day 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -819,7 +819,7 @@
 | [Waterfall](https://open.spotify.com/track/235jxG1CnfVAbUKfXXB4c8) | [SØNIN](https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Waterfall](https://open.spotify.com/album/4FbbeYYr24BGczYZBAGUqf) | 3:31 | 2022-12-27 | 2023-01-02 |
 | [We Are Built \- Jos & Eli Remix](https://open.spotify.com/track/5WGDvD7AaHa8bBC6FjYR5I) | [AÏA](https://open.spotify.com/artist/7hhj3fsLhjXBlv5fQpR78H), [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3) | [We Are Built \(Jos & Eli Remix\)](https://open.spotify.com/album/5KfqQ27072aHnMVYm5klWC) | 6:39 | 2022-12-27 | 2023-01-02 |
 | [We Don't Ever Stop](https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [We Don’t Ever Stop](https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV) | 2:40 | 2022-10-27 | 2023-01-27 |
-| [We Like To Party \- Rework](https://open.spotify.com/track/4SPFAQb1lkCOOcPsKdi80J) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [ForgiveMeTommy!](https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA) | [We Like To Party \(Rework\)](https://open.spotify.com/album/7gafiaoKORqaJ3VwYw8UAu) | 3:13 | 2024-03-21 |  |
+| [We Like To Party \- Rework](https://open.spotify.com/track/4SPFAQb1lkCOOcPsKdi80J) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [ForgiveMeTommy!](https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA) | [We Like To Party \(Rework\)](https://open.spotify.com/album/7gafiaoKORqaJ3VwYw8UAu) | 2:24 | 2024-03-21 |  |
 | [We You \- Adam Ten Remix](https://open.spotify.com/track/33ef6q1hDZ4Do1wm5gl2TZ) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [We You \(Adam Ten Remix\)](https://open.spotify.com/album/4yUrGfyUs5LW5n5y13zdmx) | 3:55 | 2024-02-29 |  |
 | [Weak \- Marco Lys Remix](https://open.spotify.com/track/08Iz2viTMqt57UbVwSQYmc) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Weak \(Marco Lys Remix\)](https://open.spotify.com/album/2Fv2EOiuICLlDDjpzvxM4n) | 2:58 | 2024-02-15 |  |
 | [Welcome The Night](https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK) | [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Welcome The Night](https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82) | 3:18 | 2023-11-09 |  |

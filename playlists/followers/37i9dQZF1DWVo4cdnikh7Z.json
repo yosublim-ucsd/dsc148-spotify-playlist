@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 661292,
+  "2024-03-24": 661336,
   "date_first_scraped": "2022-05-30",
   "description": "New Music from Kollywood.\nCover : Rathnam",
   "name": "Latest Tamil",
@@ -9603,6 +9603,32 @@
       "duration_ms": 306666,
       "name": "Kaattumalli",
       "url": "https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk"
+    },
+    {
+      "album": {
+        "name": "Kaatu Puli Uru Urumma (From \"Kaa - The Forest\")",
+        "url": "https://open.spotify.com/album/0KR87IAiajICdKpqtsLO5T"
+      },
+      "artists": [
+        {
+          "name": "Sundar C. Babu",
+          "url": "https://open.spotify.com/artist/2ZBMhU2xbBH3G4dEGGjsfo"
+        },
+        {
+          "name": "Kidakuzhi Mariyammal",
+          "url": "https://open.spotify.com/artist/1FcvyZdMkasVx0hbIc6WCg"
+        },
+        {
+          "name": "Gold Devaraj",
+          "url": "https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215990,
+      "name": "Kaatu Puli Uru Urumma (From \"Kaa - The Forest\")",
+      "url": "https://open.spotify.com/track/1Jgryr8cCeflPcCR8VsK2l"
     },
     {
       "album": {
@@ -20331,7 +20357,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 195800,
       "name": "Railai Thallum Meghame",
       "url": "https://open.spotify.com/track/6rmjW3seqPDgelt3rJHQKg"
@@ -22119,6 +22145,36 @@
       "duration_ms": 238923,
       "name": "Sippara Rippara - From \"Paramporul\"",
       "url": "https://open.spotify.com/track/4LH4s5TutFlFWqIrGuzrSi"
+    },
+    {
+      "album": {
+        "name": "Siragaatchi Poove (From \"Idi Minnal Kadhal\")",
+        "url": "https://open.spotify.com/album/6y28hurKe0XYA6hFfR712d"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Priyanka NK",
+          "url": "https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K"
+        },
+        {
+          "name": "Kabilan",
+          "url": "https://open.spotify.com/artist/2MxriAGmcX5lgQt3SFyru6"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151706,
+      "name": "Siragaatchi Poove - From \"Idi Minnal Kadhal\"",
+      "url": "https://open.spotify.com/track/5p8qLw4dmXCmRL9HYpHqGX"
     },
     {
       "album": {
@@ -26673,7 +26729,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 100909,
       "name": "Vaadi En Trip - From \"Lover\"",
       "url": "https://open.spotify.com/track/6WCDmJsS5UmW4nraqXJJCE"

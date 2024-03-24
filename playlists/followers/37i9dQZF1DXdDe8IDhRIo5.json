@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 274927,
+  "2024-03-24": 274972,
   "date_first_scraped": "2021-12-21",
   "description": "Django and beyond.",
   "name": "Hot Club Swing",
@@ -1553,12 +1553,16 @@
           "url": "https://open.spotify.com/artist/64oD1nmr26PzBAecbxdBzt"
         },
         {
+          "name": "Hot Club De Norvege",
+          "url": "https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8"
+        },
+        {
           "name": "Moreno",
           "url": "https://open.spotify.com/artist/2degWnXduSuO2G7PcQi6vO"
         },
         {
-          "name": "Hot Club De Norvege",
-          "url": "https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8"
+          "name": "Jon Larsen",
+          "url": "https://open.spotify.com/artist/78932qb8ldFSsXgDq2cltO"
         }
       ],
       "date_added": "2021-02-04",

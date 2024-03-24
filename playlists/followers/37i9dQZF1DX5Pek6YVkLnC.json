@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 231877,
+  "2024-03-24": 231896,
   "date_first_scraped": "2022-05-26",
-  "description": "P fkn R. Esto llega al choliiiii. Cover: paopao",
+  "description": "P fkn R. Esto llega al choliiiii. Cover: Remers",
   "name": "Rompiendo: Puerto Rico",
   "tracks": [
     {
@@ -103,6 +103,36 @@
       "duration_ms": 290053,
       "name": "1% - Remix",
       "url": "https://open.spotify.com/track/1F4Vm45mboD6k5VAx83pJu"
+    },
+    {
+      "album": {
+        "name": "100xCiento",
+        "url": "https://open.spotify.com/album/0ftjfi9ePDKKe3JI7IxqEy"
+      },
+      "artists": [
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219682,
+      "name": "100xCiento",
+      "url": "https://open.spotify.com/track/52qI65Ek66LV3evWVDf1ET"
     },
     {
       "album": {
@@ -231,6 +261,24 @@
       "duration_ms": 282037,
       "name": "24/7",
       "url": "https://open.spotify.com/track/5OXU3FmTNq8scG4SZ7bWap"
+    },
+    {
+      "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/7eWeQJPoi5K9AznEBcKUNJ"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156600,
+      "name": "31",
+      "url": "https://open.spotify.com/track/3wVpRDw177Q92oJQWkqELs"
     },
     {
       "album": {
@@ -539,6 +587,24 @@
       "duration_ms": 166700,
       "name": "AMG",
       "url": "https://open.spotify.com/track/1QrlvzgcZsGGimA84ccjmC"
+    },
+    {
+      "album": {
+        "name": "Amor Artificial",
+        "url": "https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219986,
+      "name": "Amor Artificial",
+      "url": "https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7"
     },
     {
       "album": {
@@ -942,6 +1008,24 @@
     },
     {
       "album": {
+        "name": "Balmain",
+        "url": "https://open.spotify.com/album/3KE1H9I83VTaI6eH4OuUTF"
+      },
+      "artists": [
+        {
+          "name": "Remers",
+          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127826,
+      "name": "Balmain",
+      "url": "https://open.spotify.com/track/6eLCtyK6VcTrcJy6MiWLzg"
+    },
+    {
+      "album": {
         "name": "WLGS",
         "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
       },
@@ -1015,10 +1099,28 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 182474,
       "name": "Bellakita",
       "url": "https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ"
+    },
+    {
+      "album": {
+        "name": "Bellakita",
+        "url": "https://open.spotify.com/album/6TQTbHsOuOqUW5CVlFhvPk"
+      },
+      "artists": [
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Bellakita",
+      "url": "https://open.spotify.com/track/5pdaMvOqvNPxEOgyKnej38"
     },
     {
       "album": {
@@ -2076,6 +2178,32 @@
     },
     {
       "album": {
+        "name": "De Gira",
+        "url": "https://open.spotify.com/album/1jWSLXjSlnY8miYbEwhspB"
+      },
+      "artists": [
+        {
+          "name": "787",
+          "url": "https://open.spotify.com/artist/1u5hcjZmajeJpVbrU9wxXA"
+        },
+        {
+          "name": "Remers",
+          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+        },
+        {
+          "name": "Laya Kalima",
+          "url": "https://open.spotify.com/artist/486wYu7oGhLQ5LjKPBcCMM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "De Gira",
+      "url": "https://open.spotify.com/track/4fI4D10M9c6eyFg6SFPbVH"
+    },
+    {
+      "album": {
         "name": "De Pasajero (feat. Kris Floyd, Chanell)",
         "url": "https://open.spotify.com/album/6zAamQyFkO3KAx0m9k2OZO"
       },
@@ -2132,6 +2260,24 @@
     },
     {
       "album": {
+        "name": "Deja V\u00f9",
+        "url": "https://open.spotify.com/album/0zrMR7X1sx6GEU8Jex0qSQ"
+      },
+      "artists": [
+        {
+          "name": "Chanell",
+          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187700,
+      "name": "Deja V\u00f9",
+      "url": "https://open.spotify.com/track/2covVW1XBozR4rj9YL6iZZ"
+    },
+    {
+      "album": {
         "name": "Dejalos que hablen",
         "url": "https://open.spotify.com/album/4l0UkrYml8m6aHv9V58bnv"
       },
@@ -2147,7 +2293,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 175407,
       "name": "Dejalos que hablen",
       "url": "https://open.spotify.com/track/4nvjh9eLeMhTuuVVhBjfYd"
@@ -2847,7 +2993,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 179200,
       "name": "Empty",
       "url": "https://open.spotify.com/track/5jxDo5QNrKLxOAtLsiaE27"
@@ -3019,6 +3165,24 @@
       "duration_ms": 189644,
       "name": "Estampa",
       "url": "https://open.spotify.com/track/2SVIMpOsrXwdVwVmMetVKS"
+    },
+    {
+      "album": {
+        "name": "Estas Pacas No Me Dan",
+        "url": "https://open.spotify.com/album/6vOcK3zgAqfbpdjMqUo6dh"
+      },
+      "artists": [
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136588,
+      "name": "Estas Pacas No Me Dan",
+      "url": "https://open.spotify.com/track/0akh8smnyX36OALzQFOdJ2"
     },
     {
       "album": {
@@ -3404,6 +3568,28 @@
     },
     {
       "album": {
+        "name": "FUNNY",
+        "url": "https://open.spotify.com/album/4ZFnbIO6RKOyBMZcecmDFQ"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "FUNNY",
+      "url": "https://open.spotify.com/track/72DYpX9rw0QPTalkJpvjMB"
+    },
+    {
+      "album": {
         "name": "FXCK Remix",
         "url": "https://open.spotify.com/album/4k6SCubTn9rspGzZeQjLss"
       },
@@ -3697,6 +3883,40 @@
       "duration_ms": 163663,
       "name": "Hablando Para No Olvidarnos",
       "url": "https://open.spotify.com/track/2dnAMzrmzJUqiAL7CDG1OJ"
+    },
+    {
+      "album": {
+        "name": "Hablarte Claro 2.0",
+        "url": "https://open.spotify.com/album/1ad9iQ4AWdH4ki7GekjZ3l"
+      },
+      "artists": [
+        {
+          "name": "JEYYFF",
+          "url": "https://open.spotify.com/artist/6aH9igPZf8ShUGL3ITPQhA"
+        },
+        {
+          "name": "Sahir",
+          "url": "https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh"
+        },
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        },
+        {
+          "name": "Jay PR",
+          "url": "https://open.spotify.com/artist/57D1lkvRfIcw4ewZyusZqB"
+        },
+        {
+          "name": "Anubiis",
+          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345920,
+      "name": "Hablarte Claro 2.0",
+      "url": "https://open.spotify.com/track/4Ss3QPfS26HEoH0RIqAMqG"
     },
     {
       "album": {
@@ -5055,7 +5275,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 202292,
       "name": "Maybach",
       "url": "https://open.spotify.com/track/3uDP8Rf3ddTO04d069A8pH"
@@ -5595,6 +5815,32 @@
       "duration_ms": 269306,
       "name": "Nada Formal",
       "url": "https://open.spotify.com/track/5kvlGR3K69Hk3a3DwfJQED"
+    },
+    {
+      "album": {
+        "name": "Transition",
+        "url": "https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX"
+      },
+      "artists": [
+        {
+          "name": "ULLO\u039b",
+          "url": "https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt"
+        },
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        },
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200760,
+      "name": "Nada Me Falta",
+      "url": "https://open.spotify.com/track/33hXUiCSd9O3fEqVMqPLND"
     },
     {
       "album": {
@@ -7572,6 +7818,24 @@
     },
     {
       "album": {
+        "name": "Sparta",
+        "url": "https://open.spotify.com/album/3WhKjg8HjKMvsbpImu0bEZ"
+      },
+      "artists": [
+        {
+          "name": "Papi Sousa",
+          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151724,
+      "name": "Sparta",
+      "url": "https://open.spotify.com/track/7EEKaGdamO34oYDAh61UeE"
+    },
+    {
+      "album": {
         "name": "Suelta",
         "url": "https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe"
       },
@@ -7649,7 +7913,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 214986,
       "name": "SUKI",
       "url": "https://open.spotify.com/track/3PVuGa5aJe03VwaljEHyDi"
@@ -8759,6 +9023,28 @@
       "duration_ms": 186477,
       "name": "Whiskey y Coco",
       "url": "https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK"
+    },
+    {
+      "album": {
+        "name": "Who Who",
+        "url": "https://open.spotify.com/album/5YwNXkTwhwBv1dZE5pbE11"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183653,
+      "name": "Who Who",
+      "url": "https://open.spotify.com/track/5chbw52W6N0FMq7hFsdQyU"
     },
     {
       "album": {

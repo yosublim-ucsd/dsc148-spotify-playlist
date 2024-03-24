@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD?si=wgwCtwNER4\-GZ0\-Ll20kVQ">Stefflon Don</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,071 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,095 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [Amsterdam](https://open.spotify.com/track/1hf69oGe91RtdLyqa02eb2) | [Ordio O2](https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok), [Kukzer wadi piano\_012](https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh), [Ross](https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y) | [Amsterdam](https://open.spotify.com/album/0uJmIR7ar4aEZL5piNEE1A) | 6:18 |
 | 50 | [Narcos \(feat\. J Slayz\)](https://open.spotify.com/track/3gbDq9fLBXr6GZS1rle02N) | [DJ Kwamzy](https://open.spotify.com/artist/3hiqYAXIosBBDG9Uqxt37h), [J Slayz](https://open.spotify.com/artist/0NV4GLGLjuLWL7Il9IOOdj) | [Narcos \(feat\. J Slayz\)](https://open.spotify.com/album/04S8TIvnPg34Sj4RXHA3Q6) | 8:00 |
 
-Snapshot ID: `MCwxNGYwMDgwMDUyYTc1Y2NiMzY3MmFkYWYzOTVhNTM5YjRlMWEyNzk2`
+Snapshot ID: `MCw2MjE4NjU1OGVjODUyZDgxOWE2NWRiMTdkNmFmODg4ZWU1YzkzOTIw`

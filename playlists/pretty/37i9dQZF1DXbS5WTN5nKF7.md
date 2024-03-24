@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Kygo x Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,437 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,757 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [Crois\-moi ! \(feat\. Adeline Lovo\)](https://open.spotify.com/track/118iujTJmTf7AuaPNMCXz0) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [Adeline Lovo](https://open.spotify.com/artist/7yhd0k8UToSYCkNq7HUBC6) | [Eclect!que](https://open.spotify.com/album/7ogypXLbHTYeSQtPzK2rKL) | 3:22 |
 | 50 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
 
-Snapshot ID: `MCw1OTAwZmQzMDc0ZDM4ZGFkYmZmMWQ1Mjg0ZTY1MmE3Y2RmOWUzMzFh`
+Snapshot ID: `MCwyZmMzNGM2ZmExMGM3MjE2YmJiMjViYmU4ZTYwYzVmNDA5YjY4ZWRk`

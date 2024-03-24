@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 125486,
+  "2024-03-24": 125499,
   "date_first_scraped": "2023-10-15",
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Mar\u00eda Escarmiento",
   "name": "helium",
@@ -21,6 +21,24 @@
       "duration_ms": 148375,
       "name": "''las cosas no salen tan bien en rosario''",
       "url": "https://open.spotify.com/track/7cWQJPHLzDbzx1TV4vVKCD"
+    },
+    {
+      "album": {
+        "name": "SoBlack / +Dti / AcidSuperstar",
+        "url": "https://open.spotify.com/album/6SJENbjHrI4Q82Iz31JiUM"
+      },
+      "artists": [
+        {
+          "name": "Hadren",
+          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159724,
+      "name": "+Dti",
+      "url": "https://open.spotify.com/track/1TFcz69v0KJ6QY1xznGoDL"
     },
     {
       "album": {
@@ -843,7 +861,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 123824,
       "name": "CUTE",
       "url": "https://open.spotify.com/track/0fUJ44OtRfKgiNQFdwE87o"

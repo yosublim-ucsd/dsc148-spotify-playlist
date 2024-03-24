@@ -4,7 +4,7 @@
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Jarina De Marco en portada.
 
-313 songs - 18 hr 51 min
+314 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [El Invento \- Sofia Kourtesis Remix](https://open.spotify.com/track/7HxxjXqKiVnwJescANPzHu) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [El Invento EP](https://open.spotify.com/album/3HjkmLd8nsxhBhQfgTKD1w) | 4:24 | 2022-03-11 | 2022-09-04 |
 | [El Muchacho De Los Ojos Tristes](https://open.spotify.com/track/5Enzqa7GHAbtYnZZLrflnr) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Tita](https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp) | [Boleros Psicodélicos](https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG) | 3:40 | 2022-06-08 | 2022-08-20 |
 | [El Peso](https://open.spotify.com/track/5VbRwZScBAxgrLoQ84ss8I) | [Yöels](https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL) | [UNO](https://open.spotify.com/album/1UwrDtLXLepWw9VRpfTlNE) | 3:35 | 2023-03-16 | 2023-05-09 |
-| [El Sol](https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m), [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN) | [El Sol](https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf) | 3:09 | 2021-10-05 |  |
+| [El Sol](https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m), [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN) | [El Sol](https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf) | 3:09 | 2021-10-05 | 2024-03-24 |
 | [El Tonto](https://open.spotify.com/track/1QbjXGsTITFUIxPauH3wJR) | [Radiotrónica](https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN) | [El Tonto](https://open.spotify.com/album/7zPK13GhWDQlCIebA48xxE) | 3:14 | 2023-12-07 | 2024-01-05 |
 | [El Traketeo](https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Traketeo](https://open.spotify.com/album/4agbz0mDBK5O5c5qoAVOsj) | 3:22 | 2021-10-05 | 2022-09-03 |
 | [El Vacile Del Tío](https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Vacile Del Tío](https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg) | 2:26 | 2021-10-05 | 2023-04-01 |
@@ -308,6 +308,7 @@
 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 | 2022-09-26 | 2023-12-07 |
 | [Voy a Hacer las Cosas Lento](https://open.spotify.com/track/2giVbMc5SuyJedv7JaWr9o) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Voy a Hacer las Cosas Lento](https://open.spotify.com/album/4is8Xi19Eijn9e16KgaipK) | 3:28 | 2021-10-05 | 2022-03-31 |
 | [Voy Por Ella](https://open.spotify.com/track/3kGLHoG47OkMxwzrxZGOeX) | [Tipa Tipo](https://open.spotify.com/artist/0xfUzLC0QSL3SQLrKoud24) | [Voy Por Ella](https://open.spotify.com/album/7mPcPYrGSlusx5TQYZyHzY) | 3:36 | 2023-02-17 | 2023-12-07 |
+| [Voy Por Ella](https://open.spotify.com/track/53E0EchJuqWr7eDLTeiIrw) | [Tipa Tipo](https://open.spotify.com/artist/0xfUzLC0QSL3SQLrKoud24) | [Voy Por Ella](https://open.spotify.com/album/7lOmrwEBJaJ0Agg5IIZBVY) | 3:36 | 2023-05-05 |  |
 | [wepa \(Eggglub Remix\)](https://open.spotify.com/track/6jVVQxzirfORNRNUhzsJjl) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [wepa \(Eggglub Remix\)](https://open.spotify.com/album/3X4m5g2WPBlQ3e1qzjCHub) | 2:44 | 2021-10-05 | 2023-04-01 |
 | [What U Want](https://open.spotify.com/track/165EgmoM47fAorPRNPijBu) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [What U Want](https://open.spotify.com/album/69kOKq7angZCP0l4tGDGuW) | 3:10 | 2023-05-26 | 2023-08-02 |
 | [Window Seat](https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Noestásaquí](https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY) | 3:22 | 2023-01-02 |  |

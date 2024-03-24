@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 
 > Presenting the queens of Coke Studio Pakistan\. Cover: Arooj Aftab
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,296 likes - 58 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,305 likes - 58 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 | 28 | [Manzil\-e\-Sufi](https://open.spotify.com/track/44Az6YaqJlqzt5CtW3OcJH) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 5:52 |
 | 29 | [Washmallay](https://open.spotify.com/track/7MnG9O1elO5CgovlcPFDha) | [Komal Rizvi](https://open.spotify.com/artist/4JEiuyNSHo0KbVS6sTFpL2), [Akhtar Chanal Zahri](https://open.spotify.com/artist/3ksxqQoPGgPNJOgUgJbYGm), [Momin Durrani](https://open.spotify.com/artist/0kEMc7jg4WgXyI0WleNP2i) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:14 |
 | 30 | [Phool Banro](https://open.spotify.com/track/2obmpv5y7Ny6fHwWv7fqxX) | [Humira Channa](https://open.spotify.com/artist/0ZOFWjgTzUWUFxjjd0g7dO), [Abbas Ali Khan](https://open.spotify.com/artist/2s0QNp9mi0mup8DHbTPs9l) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:20 |
-| 31 | [Man Aamadeh Am](https://open.spotify.com/track/3PMThMLdTuwWLvlFTeSsrO) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 8:58 |
+| 31 | [Man Aamadeh Am \- Coke Studio Season 8](https://open.spotify.com/track/5f9WiwgxW63K3qp1rqh3eZ) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Man Aamadeh Am \(Coke Studio Season 8\)](https://open.spotify.com/album/34HGhDM8pL5txbZh3XPUWG) | 8:58 |
 | 32 | [Ae Dil Kisi Ki Yaad Mein \- Coke Studio Season 8](https://open.spotify.com/track/1eyFwhnhUhLgJSHpxkOQ4q) | [Sara Haider](https://open.spotify.com/artist/6wbQXgl1sCmZncfcmdctDB), [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Ae Dil Kisi Ki Yaad Mein \(Coke Studio Season 8\)](https://open.spotify.com/album/41JZAZycEJOq01horKNToM) | 5:55 |
 | 33 | [Laage Re Nain](https://open.spotify.com/track/6XR4E5qlv0q4NhFavQEUe9) | [Ayesha Omar](https://open.spotify.com/artist/2Rei2afXDLDKuFipwUYMy4), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:26 |
 | 34 | [Jiya Karay \- Coke Studio Season 8](https://open.spotify.com/track/2EUGyZOMPy29Wzx3MFOQmK) | [Sara Raza](https://open.spotify.com/artist/3rdQR5do6o3piXTzXEdlOM), [Ali Haider](https://open.spotify.com/artist/2oKGNzsdWoQGH97EnK2P42) | [Jiya Karay \(Coke Studio Season 8\)](https://open.spotify.com/album/10YsH6UC9NpiCNkaDRLPbc) | 3:52 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 | 57 | [Daachi Waaliya](https://open.spotify.com/track/1uBcSRrHdMrTwLIoBYoUMi) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Daachi Waaliya](https://open.spotify.com/album/73YNgJro1GEHAzecBWrPs2) | 8:02 |
 | 58 | [Pardesiya](https://open.spotify.com/track/4yiPORt9JZGtYlsd22p8So) | [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Pardesiya](https://open.spotify.com/album/699uRjiyL8W2TssLjLzT4s) | 8:42 |
 
-Snapshot ID: `MCxkODY2ZjAzODg1M2M4OTZiZDc5ZDI5OTRkYTIyMWEyYTIyOGI0ZjM0`
+Snapshot ID: `MCw4YTdlMDg2MzAyMzU2MDUwMTFlMmMwMzQ2ZjFjMTFhOWZjZDE5YmRm`

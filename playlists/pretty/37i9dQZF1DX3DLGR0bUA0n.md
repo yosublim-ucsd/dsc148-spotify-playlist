@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,057 likes - 125 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,135 likes - 125 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 37 | [10 Km a Pie](https://open.spotify.com/track/24hljzYwVOWnYOxC98mPhW) | [Sagitario Musical](https://open.spotify.com/artist/2xKp5BJZnK4EsPX7nzaR4L) | [20 Éxitos de Ley](https://open.spotify.com/album/2fMXiDA8MFbC2Fi5klzmy1) | 2:38 |
 | 38 | [No Te Olvidare](https://open.spotify.com/track/0g8IOSkOPv8JUxbTojv6vI) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [Guiados por el Cielo](https://open.spotify.com/album/5se7VnLff9owqtOW1usbhN) | 4:01 |
 | 39 | [Con Mentiras No](https://open.spotify.com/track/0iGA2tFV2f5yjiHRijk9cL) | [La Nobleza De Aguililla](https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg) | [Corazon Michoacano](https://open.spotify.com/album/56dGWZj0MsID0YPwuXkdhS) | 3:03 |
-| 40 | [El Huizache](https://open.spotify.com/track/3jFYqAMAzNXU0Cn6PsgQyZ) | [El Cejas y Su Banda Fuego](https://open.spotify.com/artist/7dRwsxx0shzNa2PW47sqa2) | [Reyes Empresarios](https://open.spotify.com/album/70PQojBxoISRq1gOohSgRl) | 4:20 |
-| 41 | [No Traigo 45](https://open.spotify.com/track/49s3cWrgxpuH3gLPi8Pnrl) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [No Traigo 45](https://open.spotify.com/album/2mk0NunPByPvLKOppGX6Ut) | 3:01 |
+| 40 | [No Traigo 45](https://open.spotify.com/track/49s3cWrgxpuH3gLPi8Pnrl) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [No Traigo 45](https://open.spotify.com/album/2mk0NunPByPvLKOppGX6Ut) | 3:01 |
+| 41 | [El Huizache](https://open.spotify.com/track/3jFYqAMAzNXU0Cn6PsgQyZ) | [El Cejas y Su Banda Fuego](https://open.spotify.com/artist/7dRwsxx0shzNa2PW47sqa2) | [Reyes Empresarios](https://open.spotify.com/album/70PQojBxoISRq1gOohSgRl) | 4:20 |
 | 42 | [La Araña](https://open.spotify.com/track/2xYmyXiRZC5kw3p34ZZN05) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Porque Te Quiero Amor](https://open.spotify.com/album/0Mys0SoE9tjsqoI4viRcw5) | 3:06 |
 | 43 | [Jefe Fresa](https://open.spotify.com/track/5qYEfd1C9P6CmBEHKkzfKA) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Estoy Aquí](https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ) | 3:13 |
 | 44 | [Guachita Hermosa \- En Vivo](https://open.spotify.com/track/5tZCmrLpUk6qYp8YQawXsB) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k), [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Guachita Hermosa \(En Vivo\)](https://open.spotify.com/album/3OtYQGkengSgGkXaFVhvl8) | 3:29 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 124 | [Aguilar](https://open.spotify.com/track/6tHi4fd8R9248pT7w050Un) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Aguilar](https://open.spotify.com/album/4g8YPdnxDXOkpXXvrLyVhx) | 3:22 |
 | 125 | [El Pisto es Primero](https://open.spotify.com/track/5KRRfHOsVuiK8ZB9d9CLa9) | [Corazón Gitano](https://open.spotify.com/artist/2EXhLsjbYOxGiMh0pfRYhp) | [El Pisto es Primero](https://open.spotify.com/album/1qOHzqT4mFim7vPG6239yT) | 2:44 |
 
-Snapshot ID: `MCxlMDM1MTU0YzQyYmJiYTAzODEwMGEzNjYwMGE4YmMzOTRhNzk2NDQz`
+Snapshot ID: `MCw3Njg0MDMzZjc2OWU3YjExNTY0YzE5ZWE5NjY4Njc5YWZlN2E1ZmJh`

@@ -3320,7 +3320,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 281960,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/3BCayFOh2xF0AuYjcWgSVd"
@@ -4832,6 +4832,24 @@
       "duration_ms": 165350,
       "name": "Uno De Eses Gatos",
       "url": "https://open.spotify.com/track/2tkDf7W81NUS5EnZLHK93h"
+    },
+    {
+      "album": {
+        "name": "Cripta y Vida",
+        "url": "https://open.spotify.com/album/2NPjtiiEGnw8KLA9potJqH"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232560,
+      "name": "Vacaciones en el M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6UbAzavTNvySHWrETLFryF"
     },
     {
       "album": {

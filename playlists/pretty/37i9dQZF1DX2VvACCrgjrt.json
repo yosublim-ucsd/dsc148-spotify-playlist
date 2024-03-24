@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: CHYL",
-  "num_followers": 441883,
+  "num_followers": 441956,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2E5NDA3YjJlYTNjMjAxMjU4NDE2ODg4Y2NhNjNjM2I1Y2RkYjVj",
+  "snapshot_id": "MCw4NWZkZDY4NzM1NjZkYWY4Y2VhMmY1ZTJlZWE5NjA0MDUzNDY1YjA0",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "TEQUILA",
-        "url": "https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 183879,
-      "name": "TEQUILA",
-      "url": "https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Bumba Bass",
         "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 133125,
       "name": "Bumba Bass",
       "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "TEQUILA",
+        "url": "https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 183879,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "You Make Me",
+        "url": "https://open.spotify.com/album/1QqaEIieI5lIpor6Qt9twT"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        }
+      ],
+      "duration_ms": 246562,
+      "name": "You Make Me",
+      "url": "https://open.spotify.com/track/5VmYFi3GhfCbNY2kfR9VPL"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Leaving",
         "url": "https://open.spotify.com/album/1bXfdsuhUKLUyiHambDUFO"
       },
@@ -1611,42 +1627,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Hit It Back",
-        "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Gian Varela",
-          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
-        }
-      ],
-      "duration_ms": 138139,
-      "name": "Hit It Back",
-      "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "You Make Me",
-        "url": "https://open.spotify.com/album/1QqaEIieI5lIpor6Qt9twT"
-      },
-      "artists": [
-        {
-          "name": "Black V Neck",
-          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
-        }
-      ],
-      "duration_ms": 246562,
-      "name": "You Make Me",
-      "url": "https://open.spotify.com/track/5VmYFi3GhfCbNY2kfR9VPL"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Chain Gang",
         "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
       },
@@ -1663,22 +1643,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Turn Up The Volume",
-        "url": "https://open.spotify.com/album/1VZIx8VbOceGLo2snGw5im"
+        "name": "Hit It Back",
+        "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
       },
       "artists": [
         {
-          "name": "Stafford Brothers",
-          "url": "https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr"
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
         },
         {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
         }
       ],
-      "duration_ms": 142445,
-      "name": "Turn Up The Volume",
-      "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
+      "duration_ms": 138139,
+      "name": "Hit It Back",
+      "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1707,22 +1687,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "RUMBLE IN THE DISCO",
-        "url": "https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46"
+        "name": "Turn Up The Volume",
+        "url": "https://open.spotify.com/album/1VZIx8VbOceGLo2snGw5im"
       },
       "artists": [
         {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+          "name": "Stafford Brothers",
+          "url": "https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr"
         },
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
         }
       ],
-      "duration_ms": 185653,
-      "name": "HIGH AGAIN",
-      "url": "https://open.spotify.com/track/5q0HCtQ07Vw2PoQtki30sW"
+      "duration_ms": 142445,
+      "name": "Turn Up The Volume",
+      "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1743,6 +1723,26 @@
       "duration_ms": 155520,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "RUMBLE IN THE DISCO",
+        "url": "https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "HIGH AGAIN",
+      "url": "https://open.spotify.com/track/5q0HCtQ07Vw2PoQtki30sW"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2231,26 +2231,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "What Do You Want",
-        "url": "https://open.spotify.com/album/0TdUKu8MVbIYVykduz6CNc"
-      },
-      "artists": [
-        {
-          "name": "Honey & Badger",
-          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
-        },
-        {
-          "name": "Haylee Wood",
-          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "What Do You Want",
-      "url": "https://open.spotify.com/track/4FPJskFFWE4uYsK9rw7uFI"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
       },
@@ -2271,6 +2251,26 @@
       "duration_ms": 196000,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "What Do You Want",
+        "url": "https://open.spotify.com/album/0TdUKu8MVbIYVykduz6CNc"
+      },
+      "artists": [
+        {
+          "name": "Honey & Badger",
+          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "What Do You Want",
+      "url": "https://open.spotify.com/track/4FPJskFFWE4uYsK9rw7uFI"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2371,26 +2371,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "RESILIENCE",
-        "url": "https://open.spotify.com/album/71BuoDaGsISkwF6eNeylho"
-      },
-      "artists": [
-        {
-          "name": "Matteo Tura",
-          "url": "https://open.spotify.com/artist/4MDRNxNtr5Zwyhgk6TC0ur"
-        },
-        {
-          "name": "Mobiius",
-          "url": "https://open.spotify.com/artist/0jHnzOGooKPzt7qA3Q32mw"
-        }
-      ],
-      "duration_ms": 212100,
-      "name": "Immersion",
-      "url": "https://open.spotify.com/track/2DCH33PsYIGDDwl3BRYPrU"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Badman Riddim (feat. Sweetie Irie)",
         "url": "https://open.spotify.com/album/6oPO1krnnAWP9qhOgJb7WB"
       },
@@ -2411,6 +2391,26 @@
       "duration_ms": 137910,
       "name": "Badman Riddim (feat. Sweetie Irie)",
       "url": "https://open.spotify.com/track/5kbh3uExfnmUeFhEW8ABZE"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "RESILIENCE",
+        "url": "https://open.spotify.com/album/71BuoDaGsISkwF6eNeylho"
+      },
+      "artists": [
+        {
+          "name": "Matteo Tura",
+          "url": "https://open.spotify.com/artist/4MDRNxNtr5Zwyhgk6TC0ur"
+        },
+        {
+          "name": "Mobiius",
+          "url": "https://open.spotify.com/artist/0jHnzOGooKPzt7qA3Q32mw"
+        }
+      ],
+      "duration_ms": 212100,
+      "name": "Immersion",
+      "url": "https://open.spotify.com/track/2DCH33PsYIGDDwl3BRYPrU"
     }
   ],
   "unique_name": "Nasty Bits",

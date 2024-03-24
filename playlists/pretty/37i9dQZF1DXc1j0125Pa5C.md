@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Presença
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,553 likes - 75 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,611 likes - 75 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Porre / Trovão \- Ao Vivo](https://open.spotify.com/track/0dcErs8feFYweb9wTb2JSe) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Diferentão \(Ao Vivo\)](https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK) | 4:22 |
 | 75 | [Não Tem Hora, Nem Lugar / Por Favor / Amor a Três \- Ao Vivo](https://open.spotify.com/track/3x1mtKBzPRU8tc8Ld6ujVV) | [Pagode do Adame](https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Pagode do Adame Entre Amigos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4QnKMl7OAicnxWQh6qUyRY) | 4:24 |
 
-Snapshot ID: `MCwwM2NhNGNhYjhhZjE5Mzg1NTQzMjI1ZGZjOTViYjFiOTI4YWEzYWQ1`
+Snapshot ID: `MCw4OWMxNWQ5MmY5YjE2ZDg1Njc0OTA0ZGIyYjhhZTY1OGQ0MTg3ZmFl`

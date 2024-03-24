@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 130324,
+  "num_followers": 130364,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjNjZjlkYWE2NTVhYmRlMDM5NDRmYzQ0YmFjYjVlOTA5NGQ4Nzcy",
+  "snapshot_id": "MCxjNDZjZjA0MzUxZWJmNDVmMmMwNjQ5MGRmNzFiNzcwMDEwMmI4Nzk5",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Quiet Talk",
-        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Quiet Talk",
-      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Be Okay - EP",
         "url": "https://open.spotify.com/album/1nyPbs5sNmjvgJyqcm78EZ"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 194374,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/2kHntZREc5lLhN6jItWVut"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Quiet Talk",
+        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Quiet Talk",
+      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Better View",
-        "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 168853,
-      "name": "Better View",
-      "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Yes He Does",
         "url": "https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 206606,
       "name": "Yes He Does",
       "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Better View",
+        "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 168853,
+      "name": "Better View",
+      "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "All Glory (Live)",
-        "url": "https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR"
-      },
-      "artists": [
-        {
-          "name": "Equippers Worship",
-          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
-        },
-        {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Never Let You Go - Live",
-      "url": "https://open.spotify.com/track/4H2CQprlxfFnMvOyrZ0kRB"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "White Noise",
         "url": "https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP"
       },
@@ -1223,26 +1203,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
-        "url": "https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk"
+        "name": "All Glory (Live)",
+        "url": "https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+          "name": "Equippers Worship",
+          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
         },
         {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
-        },
-        {
-          "name": "Melodie Wagner",
-          "url": "https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd"
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
         }
       ],
-      "duration_ms": 205520,
-      "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
-      "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
+      "duration_ms": 233026,
+      "name": "Never Let You Go - Live",
+      "url": "https://open.spotify.com/track/4H2CQprlxfFnMvOyrZ0kRB"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1307,6 +1283,30 @@
       "duration_ms": 185226,
       "name": "We Shine",
       "url": "https://open.spotify.com/track/13OeoujtdpmyfhQLpq2lo1"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
+        "url": "https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        },
+        {
+          "name": "Melodie Wagner",
+          "url": "https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd"
+        }
+      ],
+      "duration_ms": 205520,
+      "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
+      "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
     }
   ],
   "unique_name": "Hits UP",

@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Hot Mulligan",
-  "num_followers": 568187,
+  "num_followers": 568249,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGM4NjlhZThiMDI3ZmE5ODU1YTQwMjFmYzkzYWQzYzNjZGU5YmEy",
+  "snapshot_id": "MCw3N2NkZGQ4YWFiM2FkZWQ3MmM2NmNlNjc4M2M4ODJlNDJkY2EyOWY5",
   "tracks": [
     {
       "added_at": "2024-03-22 19:30:48",
@@ -284,7 +284,7 @@
           "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
         }
       ],
-      "duration_ms": 144986,
+      "duration_ms": 147774,
       "name": "Big Blind",
       "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
     },
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "tragic love songs to study to [vol. 5]",
-        "url": "https://open.spotify.com/album/5t1WhjJFLi5avb8t68AHCf"
-      },
-      "artists": [
-        {
-          "name": "DUCKBOY",
-          "url": "https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu"
-        }
-      ],
-      "duration_ms": 202911,
-      "name": "ROUGAROU (i've become the monster)",
-      "url": "https://open.spotify.com/track/1GAXnQAb4GsTLBwszE0he4"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "GODDAMNITALL",
         "url": "https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 196301,
       "name": "GODDAMNITALL",
       "url": "https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "tragic love songs to study to [vol. 5]",
+        "url": "https://open.spotify.com/album/5t1WhjJFLi5avb8t68AHCf"
+      },
+      "artists": [
+        {
+          "name": "DUCKBOY",
+          "url": "https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu"
+        }
+      ],
+      "duration_ms": 202911,
+      "name": "ROUGAROU (i've become the monster)",
+      "url": "https://open.spotify.com/track/1GAXnQAb4GsTLBwszE0he4"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Take Me With You",
-        "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 197320,
-      "name": "Take Me With You",
-      "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "Losing What We Love",
         "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 214505,
       "name": "You & I",
       "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "Take Me With You",
+        "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 197320,
+      "name": "Take Me With You",
+      "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "The Best Part",
-        "url": "https://open.spotify.com/album/73iyohYCbdK5PhPfq4hgSS"
-      },
-      "artists": [
-        {
-          "name": "We The Kings",
-          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "The Best Part",
-      "url": "https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "Get A Job",
         "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 186581,
       "name": "Get A Job",
       "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "The Best Part",
+        "url": "https://open.spotify.com/album/73iyohYCbdK5PhPfq4hgSS"
+      },
+      "artists": [
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "The Best Part",
+      "url": "https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "cherry cigarettes",
-        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
-      },
-      "artists": [
-        {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "cherry cigarettes",
-      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "GROWING UP ON THE INTERNET",
         "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 199866,
       "name": "GROWING UP ON THE INTERNET",
       "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "cherry cigarettes",
+        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "cherry cigarettes",
+      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -903,6 +903,26 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
+        "name": "No Point Pretending (Song For Tour)",
+        "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        },
+        {
+          "name": "Bears In Trees",
+          "url": "https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "No Point Pretending (Song For Tour)",
+      "url": "https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
         "name": "Honda Civic",
         "url": "https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 195646,
       "name": "HORROR SHOW",
       "url": "https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
-        "name": "No Point Pretending (Song For Tour)",
-        "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        },
-        {
-          "name": "Bears In Trees",
-          "url": "https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "No Point Pretending (Song For Tour)",
-      "url": "https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Petty Enemy",
-        "url": "https://open.spotify.com/album/5uHsfC0uBHrCpGCTTH658f"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 199553,
-      "name": "Petty Enemy",
-      "url": "https://open.spotify.com/track/52H6QAbHUfJf2bMgRE6Ooa"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "Baku's Revenge (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv"
       },
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
+        "name": "Petty Enemy",
+        "url": "https://open.spotify.com/album/5uHsfC0uBHrCpGCTTH658f"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 199553,
+      "name": "Petty Enemy",
+      "url": "https://open.spotify.com/track/52H6QAbHUfJf2bMgRE6Ooa"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
         "name": "AUTUMNAL",
         "url": "https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe"
       },
@@ -1243,38 +1243,6 @@
       "duration_ms": 189583,
       "name": "Autumnal",
       "url": "https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
-        "name": "Arm's Length",
-        "url": "https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA"
-      },
-      "artists": [
-        {
-          "name": "Arm's Length",
-          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Arm's Length",
-      "url": "https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
-        "name": "Resolution/Revolution",
-        "url": "https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 202992,
-      "name": "Resolution/Revolution",
-      "url": "https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -1295,6 +1263,38 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
+        "name": "Resolution/Revolution",
+        "url": "https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 202992,
+      "name": "Resolution/Revolution",
+      "url": "https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "Arm's Length",
+        "url": "https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA"
+      },
+      "artists": [
+        {
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
         "name": "Six Feet",
         "url": "https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI"
       },
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "How To Live With Yourself / Smoke Screen",
-        "url": "https://open.spotify.com/album/2IvgPVP1I1BDZwsWe8EaZU"
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/6AvWDbrgKLZB5d5oJBVFw1"
       },
       "artists": [
         {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
         }
       ],
-      "duration_ms": 165173,
-      "name": "How To Live With Yourself",
-      "url": "https://open.spotify.com/track/2MfVLc5DOoOYxPhlvd7afG"
+      "duration_ms": 188328,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/7JTaDwKJ44levpruU6FZTP"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

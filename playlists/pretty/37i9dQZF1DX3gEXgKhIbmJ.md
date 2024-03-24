@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,017 likes - 54 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,039 likes - 54 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 8 | [É o paco ou berro?](https://open.spotify.com/track/18CtlrryJwqsvSOyd9GBim) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Elipe](https://open.spotify.com/artist/5DYNCxrEXydchmfndMzzku) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 3:04 |
 | 9 | [RUSH](https://open.spotify.com/track/6pcVh06f60yGr6PRI2ar34) | [Youngui](https://open.spotify.com/artist/4cYPESnLDYxvl3eqb6OPCT), [Marabá](https://open.spotify.com/artist/1OFNGjmUYfbEvwMFcqgJgB) | [RUSH](https://open.spotify.com/album/446Qzs6uDKjZ9eHauRmKly) | 1:53 |
 | 10 | [Acesso](https://open.spotify.com/track/50DJ7gzjb5ZoNfZyh6JQB7) | [Bauê](https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn) | [Acesso](https://open.spotify.com/album/5wDZ8w72zU0MKc5bgodoYx) | 3:08 |
-| 11 | [Tudo Que Pedir](https://open.spotify.com/track/3Vfm4zFtNB65PAnmYtRrNn) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Blackqueen, Vol\. 2](https://open.spotify.com/album/7yFXtYKtsckLK5oD1hhVGF) | 2:30 |
+| 11 | [Tudo Que Pedir](https://open.spotify.com/track/3Vfm4zFtNB65PAnmYtRrNn) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p), [Eliefe](https://open.spotify.com/artist/2VHOlZANAKceDEEKlzSf4U) | [Blackqueen, Vol\. 2](https://open.spotify.com/album/7yFXtYKtsckLK5oD1hhVGF) | 2:30 |
 | 12 | [5 da manhã](https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:53 |
 | 13 | [Uk Drill](https://open.spotify.com/track/46nlWdYZz0uf5rqi6zyE3S) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [DJ Game Beat](https://open.spotify.com/artist/4HKGfDTu7UZBgSsAgCaUCi) | [Uk Drill](https://open.spotify.com/album/7lfvKFpnyyIkabluqj6O0h) | 2:06 |
 | 14 | [Billie Jean](https://open.spotify.com/track/3UAf6wQDnoQqJZ7hrPIXR2) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 1:53 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 53 | [Desempenho](https://open.spotify.com/track/4mSw6eVj2owYdH1PHbOKeO) | [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Desempenho](https://open.spotify.com/album/1qpdXJLvdRT0jouxlCa2ic) | 2:42 |
 | 54 | [Malandro É o Gato](https://open.spotify.com/track/3pcg8dkjxgp79XwuhwkKbF) | [RCD](https://open.spotify.com/artist/48SoAdIVL1vF96IVd8Dv13), [Burn\-O](https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s) | [Malandro É o Gato](https://open.spotify.com/album/2k9Cvv8iSoNyKT38thDIpj) | 2:36 |
 
-Snapshot ID: `MCxiZjE5ZGVjOWI5MGIwZDg3YjI0OTE4YjJkZmFlNjg1ZTA5MDU3MGRk`
+Snapshot ID: `MCw2NDkxOTc2MDRiNTVjYTQxNTg5MjE3Y2JjMmY1MDZmYTkxMjdiMWUz`

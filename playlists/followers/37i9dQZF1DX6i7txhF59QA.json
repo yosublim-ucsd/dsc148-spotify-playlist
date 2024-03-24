@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 23000,
+  "2024-03-24": 23008,
   "date_first_scraped": "2022-04-20",
   "description": "Let's party with cheerful Korean trot medley. Cover: Son Tae Jin(\uc190\ud0dc\uc9c4) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K-Trot Stars",
@@ -463,7 +463,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 300786,
       "name": "A song of hope",
       "url": "https://open.spotify.com/track/6vAexcl1CdP94yBiN5F6Fq"
@@ -15913,7 +15913,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 157323,
       "name": "\ucc98\ub140 \ubc43\uc0ac\uacf5",
       "url": "https://open.spotify.com/track/0w6llwKhP9t8brMqqOlQBw"

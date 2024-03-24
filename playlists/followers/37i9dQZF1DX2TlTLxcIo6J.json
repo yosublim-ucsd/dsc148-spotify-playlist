@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 7925,
+  "2024-03-24": 7945,
   "date_first_scraped": "2022-09-17",
   "description": "New songwriters on the horizon from around the world. Cover: Em Walcott \ud83d\udc95",
   "name": "RADAR Songwriters",
@@ -617,7 +617,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 214302,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s"
@@ -1039,6 +1039,24 @@
       "duration_ms": 108650,
       "name": "Obsessed With You",
       "url": "https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z"
+    },
+    {
+      "album": {
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170026,
+      "name": "Only Have Eyes 42",
+      "url": "https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU"
     },
     {
       "album": {

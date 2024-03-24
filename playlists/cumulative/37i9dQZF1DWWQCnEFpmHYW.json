@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Chipi Chipi (Rain)",
+        "url": "https://open.spotify.com/album/7BOg6bK8x2Y8h5oG6e460z"
+      },
+      "artists": [
+        {
+          "name": "Scattered Sprinkle",
+          "url": "https://open.spotify.com/artist/4ed0GFW4G1Q71nNdtTl7S7"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Chipi Chipi (Rain)",
+      "url": "https://open.spotify.com/track/4AOcYN1cSFMZ6gZODPIOLZ"
+    },
+    {
+      "album": {
         "name": "lluvia y ruido",
         "url": "https://open.spotify.com/album/6H5JCrtbYUsGFcz1e5UpT3"
       },
@@ -308,6 +326,24 @@
       "duration_ms": 149500,
       "name": "Cosy Car Rain",
       "url": "https://open.spotify.com/track/6d4mT4J1RkeF60CTn6W9Fc"
+    },
+    {
+      "album": {
+        "name": "Cozy Cabin Rain",
+        "url": "https://open.spotify.com/album/15ZZWYfRL5OwShHctYyrDB"
+      },
+      "artists": [
+        {
+          "name": "Scandinavian Rain",
+          "url": "https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180871,
+      "name": "Cozy Cabin Rain",
+      "url": "https://open.spotify.com/track/4tR3AjcdyVP3yVLUrfACOk"
     },
     {
       "album": {
@@ -448,7 +484,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 164000,
       "name": "Deep Rain (Loopable)",
       "url": "https://open.spotify.com/track/2dsbpiqOxgFYSXvrojYgZA"
@@ -646,7 +682,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 181000,
       "name": "Elk Island Rains",
       "url": "https://open.spotify.com/track/6gZxdpFeJmK3sDLFiM7C46"
@@ -956,6 +992,24 @@
       "duration_ms": 155295,
       "name": "Horas de lluvia",
       "url": "https://open.spotify.com/track/5SU40Es6IskNv9LeHqztF1"
+    },
+    {
+      "album": {
+        "name": "H\u00e4llregn",
+        "url": "https://open.spotify.com/album/46f4NyBfm3D7y2P3NGsKCL"
+      },
+      "artists": [
+        {
+          "name": "Regnar Dahlberg",
+          "url": "https://open.spotify.com/artist/7D0QnmeTPHqm3PaKOAIUMs"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "H\u00e4llregn",
+      "url": "https://open.spotify.com/track/2HJfk9zFgpCy875kptvbaU"
     },
     {
       "album": {
@@ -1870,7 +1924,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 181000,
       "name": "Relaxing Rain Patter",
       "url": "https://open.spotify.com/track/2UrXYvVXb8Cn1FoGZpQdSI"

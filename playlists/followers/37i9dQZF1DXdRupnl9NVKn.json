@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 277989,
+  "2024-03-24": 278183,
   "date_first_scraped": "2022-05-30",
   "description": "Neverland, your queens are here!",
   "name": "This Is (G)I-DLE",
@@ -2149,6 +2149,24 @@
       "duration_ms": 171998,
       "name": "Wow Thing",
       "url": "https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS"
+    },
+    {
+      "album": {
+        "name": "My Sibling's Romance (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/7xKL7L439LwQxFw9XEojEl"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147893,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/5O5VwPoOqC4lV3Ffc8eRx3"
     },
     {
       "album": {

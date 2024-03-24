@@ -4,7 +4,7 @@
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 25 years.
 
-126 songs - 7 hr 21 min
+127 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Constructive Summer \- 2018 \- Remaster](https://open.spotify.com/track/5if6bRlufL1WxJESt3vZzt) | [The Hold Steady](https://open.spotify.com/artist/3qkZBMz5JgmRN9u5wwhRC6) | [Stay Positive \(Deluxe Edition\)](https://open.spotify.com/album/43vkSl8wNFKia9CeZWYYTu) | 2:55 | 2020-08-18 | 2023-11-05 |
 | [Country Girl](https://open.spotify.com/track/2k1ITEDrXY9QHHvyC5APqo) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Riot City Blues \(Expanded Edition\)](https://open.spotify.com/album/0KOb9PyzihUkHcoA9Xqx7c) | 4:31 | 2020-08-18 |  |
 | [Crazy Bitch](https://open.spotify.com/track/5XfQTbialQHn9PhDb0p85H) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [15](https://open.spotify.com/album/7JzpvpbhqCCS4f54rkU1yV) | 3:24 | 2020-08-18 | 2023-06-03 |
-| [Cruel Summer](https://open.spotify.com/track/2KZIFxPPqWsaDQLGTJGmhC) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Misfits & Mistakes: Singles, B\-sides & Strays 2007–2023](https://open.spotify.com/album/4x9b7TLR0LGq2nSBqMITI9) | 2:50 | 2023-08-17 |  |
+| [Cruel Summer](https://open.spotify.com/track/2KZIFxPPqWsaDQLGTJGmhC) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Misfits & Mistakes: Singles, B\-sides & Strays 2007–2023](https://open.spotify.com/album/4x9b7TLR0LGq2nSBqMITI9) | 2:50 | 2023-08-17 | 2024-03-24 |
+| [Cruel Summer](https://open.spotify.com/track/3y9h2C1BrBB5KscLwOze6J) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Misfits & Mistakes: Singles, B\-sides & Strays 2007–2023](https://open.spotify.com/album/61iBx6THhynzBrPFFZ5l8q) | 2:50 | 2023-08-17 |  |
 | [Cruel Summer \(Bananarama Cover\)](https://open.spotify.com/track/36CQeLoHzTh9QOc7yB0fs8) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | ["This Summer" B/W "Cruel Summer"](https://open.spotify.com/album/1Lr1MQ4BHb0gxZjC9gr8iK) | 2:50 | 2022-04-26 | 2023-10-31 |
 | [Cruel Summer \(Bananarama Cover\)](https://open.spotify.com/track/4jz9ju8mdBDhoYQRxSd72W) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | ["This Summer" B/W "Cruel Summer"](https://open.spotify.com/album/2QDF1e1678GgUhjDEQFVkI) | 2:50 | 2020-08-18 | 2022-07-29 |
 | [Dani California](https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 4:42 | 2020-08-18 |  |

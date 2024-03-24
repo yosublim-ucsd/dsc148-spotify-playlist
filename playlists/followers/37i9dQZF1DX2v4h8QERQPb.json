@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 200652,
+  "2024-03-24": 200813,
   "date_first_scraped": "2022-01-24",
   "description": "Rimas argentinas. Foto: Trueno.",
   "name": "Hip Hop Argento",
@@ -2163,7 +2163,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 241850,
       "name": "Fvck System",
       "url": "https://open.spotify.com/track/3RVvV3cuJbIM71mGA3IICB"
@@ -4591,6 +4591,32 @@
       "duration_ms": 205466,
       "name": "Solo Una Vez",
       "url": "https://open.spotify.com/track/1wUJbeagQnmOvjAyCvaDVh"
+    },
+    {
+      "album": {
+        "name": "Street credit",
+        "url": "https://open.spotify.com/album/6f84TXOqQSlhuRLH4iplK8"
+      },
+      "artists": [
+        {
+          "name": "Klan",
+          "url": "https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o"
+        },
+        {
+          "name": "Sweet Pain",
+          "url": "https://open.spotify.com/artist/2SRib7O0tWuMCXEMYmCRHc"
+        },
+        {
+          "name": "UANTI",
+          "url": "https://open.spotify.com/artist/0jo4N4Z4HUM6y0N19MApwQ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Street credit",
+      "url": "https://open.spotify.com/track/73Ds1ulKodyDtPQezFCszx"
     },
     {
       "album": {

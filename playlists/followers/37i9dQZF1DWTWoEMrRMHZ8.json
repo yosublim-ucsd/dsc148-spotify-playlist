@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 346606,
+  "2024-03-24": 346637,
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Castello Branco",
+  "description": "As belas novidades da MPB. Foto: C\u00e9u",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -181,7 +181,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 289000,
       "name": "A Lenda do Abaet\u00e9",
       "url": "https://open.spotify.com/track/3xGv2WGYRCpHPVj7aEUSXY"
@@ -777,7 +777,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 157118,
       "name": "Amor Todinho",
       "url": "https://open.spotify.com/track/2N4mZBmWI75yROTcGZwnux"
@@ -2053,7 +2053,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 173168,
       "name": "Caixas",
       "url": "https://open.spotify.com/track/0yJpjl50dWrBXFAM5PkHqZ"
@@ -3751,7 +3751,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 129444,
       "name": "Efeito Moral",
       "url": "https://open.spotify.com/track/5V5k3Ml3unt4bH4sIw9Gi4"
@@ -3925,7 +3925,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 235636,
       "name": "Essa Menina",
       "url": "https://open.spotify.com/track/3YOY3qnwbbAE4TH191Vs35"
@@ -4719,6 +4719,28 @@
       "duration_ms": 106658,
       "name": "Gente S\u00e9ria (Letra In\u00e9dita)",
       "url": "https://open.spotify.com/track/1ckmCrRl0uPRvRicggdf40"
+    },
+    {
+      "album": {
+        "name": "Gerando na Alta",
+        "url": "https://open.spotify.com/album/4BSFDWZXGcfjqteEakRbvb"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        },
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248485,
+      "name": "Gerando na Alta",
+      "url": "https://open.spotify.com/track/2VkyGDJt5GufPlriJfDkNJ"
     },
     {
       "album": {
@@ -7310,6 +7332,24 @@
     },
     {
       "album": {
+        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
+      },
+      "artists": [
+        {
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Sei De Mais Nada",
         "url": "https://open.spotify.com/album/2d5ZmARQBje78lIc9sTtut"
       },
@@ -8169,7 +8209,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 226240,
       "name": "Paci\u00eancia",
       "url": "https://open.spotify.com/track/0Mqz6vciorU81IDJf1Q7X9"
@@ -9353,7 +9393,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 165451,
       "name": "Prosa e Papo",
       "url": "https://open.spotify.com/track/2eIdyP8gTMCLzURZpPS90W"
@@ -10844,6 +10884,24 @@
     },
     {
       "album": {
+        "name": "SERENA",
+        "url": "https://open.spotify.com/album/73rAawCkZdweVXlMfHkB51"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189713,
+      "name": "SERENA",
+      "url": "https://open.spotify.com/track/4ZxM1fRBKH1IdiKWPE6eZc"
+    },
+    {
+      "album": {
         "name": "Meu Esquema",
         "url": "https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR"
       },
@@ -12120,6 +12178,32 @@
     },
     {
       "album": {
+        "name": "Tudo \u00e9 Carnaval",
+        "url": "https://open.spotify.com/album/6X4YSZrPQ5BRaKUXBNz0U3"
+      },
+      "artists": [
+        {
+          "name": "Cruvinel",
+          "url": "https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW"
+        },
+        {
+          "name": "B\u00e1rbara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/4JduGZ99yejLQKkve0LMUn"
+        },
+        {
+          "name": "s\u00f3dan.",
+          "url": "https://open.spotify.com/artist/496bSkfI4ViB2GrUpYXPu3"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177586,
+      "name": "Tudo \u00e9 Carnaval",
+      "url": "https://open.spotify.com/track/3X5hJ2EqdIKpmw5tagtAnK"
+    },
+    {
+      "album": {
         "name": "Xir\u00ea",
         "url": "https://open.spotify.com/album/0h1QwG04EnoVXSiFbgeELZ"
       },
@@ -12287,7 +12371,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 244682,
       "name": "Um Objeto no C\u00e9u",
       "url": "https://open.spotify.com/track/7KjKUsjJkHo5MGa0UxZkpT"
@@ -12727,7 +12811,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 480156,
       "name": "Viol\u00e3o de caba\u00e7a",
       "url": "https://open.spotify.com/track/62dWpYZtK9ymH3IxxhZYZW"

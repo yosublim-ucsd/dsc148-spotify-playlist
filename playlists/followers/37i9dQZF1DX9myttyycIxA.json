@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 294712,
+  "2024-03-24": 294723,
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Been Stellar",
+  "description": "Underground indie rock gems. Cover: Francis of Delirium",
   "name": "undercurrents",
   "tracks": [
     {
@@ -1701,6 +1701,24 @@
       "duration_ms": 218836,
       "name": "Bad Man",
       "url": "https://open.spotify.com/track/5jlechEPcQgjdHgr2t57w8"
+    },
+    {
+      "album": {
+        "name": "Baggage",
+        "url": "https://open.spotify.com/album/5Bf4XBYCI8Bo9GLHCaNoBR"
+      },
+      "artists": [
+        {
+          "name": "TTSSFU",
+          "url": "https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Baggage",
+      "url": "https://open.spotify.com/track/6sENeBQkymXyZDmwSXUVFS"
     },
     {
       "album": {
@@ -8295,7 +8313,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 188138,
       "name": "Greg Abbott's Maxi Pad",
       "url": "https://open.spotify.com/track/21JwaGcxPE1KuAWgoasLL1"
@@ -8493,7 +8511,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 160437,
       "name": "Hang Up The Lights",
       "url": "https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k"
@@ -8965,7 +8983,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 140278,
       "name": "Here Forever",
       "url": "https://open.spotify.com/track/5cfMeTRIX6feTG6JOMCd3V"
@@ -9355,6 +9373,24 @@
       "duration_ms": 262611,
       "name": "Home",
       "url": "https://open.spotify.com/track/1spaVEd0xNQTvWhfxd1e4s"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/4RLQovCB3cnnrVxGAGdpaO"
+      },
+      "artists": [
+        {
+          "name": "Alex Siegel",
+          "url": "https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148941,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/133l3HlaTfwwVagRZfSbbF"
     },
     {
       "album": {
@@ -12974,6 +13010,24 @@
     },
     {
       "album": {
+        "name": "Monday Monday Monday",
+        "url": "https://open.spotify.com/album/38ZNQkiwxrTaGOhqrUyOxO"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184233,
+      "name": "Monday Monday Monday",
+      "url": "https://open.spotify.com/track/7481d65jalWyqW7J42Q39k"
+    },
+    {
+      "album": {
         "name": "Monday's F\u00e1cil",
         "url": "https://open.spotify.com/album/4O5cQY3eatUzq7Kvx2Sei2"
       },
@@ -13367,7 +13421,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 192000,
       "name": "natural devotion 2",
       "url": "https://open.spotify.com/track/126S4GL29vBOGJBcgIIvBu"
@@ -14171,7 +14225,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 396000,
       "name": "oblique butterfly",
       "url": "https://open.spotify.com/track/5dd9ebFTVkmdf0QH5DA6i9"
@@ -16629,7 +16683,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 179780,
       "name": "shoelaces",
       "url": "https://open.spotify.com/track/2cPndAZPxgZgXHPAT20xUE"
@@ -21360,6 +21414,24 @@
     },
     {
       "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/386OkomCq7KFjusVqI1E78"
+      },
+      "artists": [
+        {
+          "name": "Francis of Delirium",
+          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/1aDt9pruckWVn6lllJtVgc"
+    },
+    {
+      "album": {
         "name": "Why Don't You Come Right Here",
         "url": "https://open.spotify.com/album/47AKvbtUHDa14JU26QiQHa"
       },
@@ -21999,6 +22071,24 @@
       "duration_ms": 311421,
       "name": "yrstruly - CFCF Scream Mix",
       "url": "https://open.spotify.com/track/6br2IoQARHVcYM4TsYMU0f"
+    },
+    {
+      "album": {
+        "name": "Zodiac 13",
+        "url": "https://open.spotify.com/album/5pnrPb0afNwHXXG78XeHWQ"
+      },
+      "artists": [
+        {
+          "name": "No Windows",
+          "url": "https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172565,
+      "name": "Zodiac 13",
+      "url": "https://open.spotify.com/track/79U8WWKFkPFaKhCk0VPkWE"
     },
     {
       "album": {

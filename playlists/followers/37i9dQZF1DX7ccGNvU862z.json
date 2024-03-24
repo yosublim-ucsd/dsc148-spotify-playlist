@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 146282,
+  "2024-03-24": 146340,
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e08\u0e31\u0e14\u0e43\u0e2b\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ZENTYARB",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e08\u0e31\u0e14\u0e43\u0e2b\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DIAMOND MQT",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b \u0e02\u0e2d\u0e07\u0e21\u0e31\u0e19\u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07",
   "tracks": [
     {
@@ -689,7 +689,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 186211,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5QDLCmTGgAfNPkTuqmebSo"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 164000,
       "name": "FALLIN",
       "url": "https://open.spotify.com/track/6DU2hUPl8llyWZ7DMcxxSP"
@@ -1033,6 +1033,28 @@
       "duration_ms": 192000,
       "name": "Gentlegang",
       "url": "https://open.spotify.com/track/2GSwjvPlPKlWYx8YuEqr7G"
+    },
+    {
+      "album": {
+        "name": "Go Home",
+        "url": "https://open.spotify.com/album/5RkyTqYXhlawlMaXMnyFHC"
+      },
+      "artists": [
+        {
+          "name": "OG-ANIC",
+          "url": "https://open.spotify.com/artist/1OXHqAK6r5mF0FV94nc0pD"
+        },
+        {
+          "name": "MIKESICKFLOW",
+          "url": "https://open.spotify.com/artist/74P4kb0I4LLKdz14jMpX2m"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265184,
+      "name": "Go Home",
+      "url": "https://open.spotify.com/track/6vjOFcgwXs18UeHwgyEGDi"
     },
     {
       "album": {
@@ -1455,6 +1477,24 @@
       "duration_ms": 327000,
       "name": "It's time to shine",
       "url": "https://open.spotify.com/track/1QFNQJ4kof6vgtwLvoO2oW"
+    },
+    {
+      "album": {
+        "name": "JUICY",
+        "url": "https://open.spotify.com/album/26H96kkFR8cbD12vXodbNF"
+      },
+      "artists": [
+        {
+          "name": "Smew",
+          "url": "https://open.spotify.com/artist/3H9OFh5F04b3SCFASMKfjj"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224819,
+      "name": "JUICY",
+      "url": "https://open.spotify.com/track/1wkmKqvTX4ZxMNs71QDKg7"
     },
     {
       "album": {
@@ -1988,6 +2028,32 @@
     },
     {
       "album": {
+        "name": "MR. LEGENDARY",
+        "url": "https://open.spotify.com/album/5TjatlKuCpkqQqIix9c83x"
+      },
+      "artists": [
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        },
+        {
+          "name": "Simon",
+          "url": "https://open.spotify.com/artist/7IH68lyucEsJF7q8ETZL3c"
+        },
+        {
+          "name": "BlackHeart",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223704,
+      "name": "MR. LEGENDARY",
+      "url": "https://open.spotify.com/track/3pmI4xzuXu3peTmSesNPse"
+    },
+    {
+      "album": {
         "name": "Mr.Lonely",
         "url": "https://open.spotify.com/album/1qmDFBgSCsWkeUSrWY9L2a"
       },
@@ -2061,7 +2127,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 208524,
       "name": "My bad",
       "url": "https://open.spotify.com/track/5zxTXnDC00AV7QDdcj1hIo"
@@ -2611,7 +2677,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 200192,
       "name": "Red Dot",
       "url": "https://open.spotify.com/track/5G3G65aqIPiZ17rGyUWyv9"
@@ -3025,6 +3091,32 @@
       "duration_ms": 178163,
       "name": "Take off your clothes",
       "url": "https://open.spotify.com/track/6vqugUpxITf3OqiJUjtiPD"
+    },
+    {
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/2sayXbL4F9MJblKsrxSn9V"
+      },
+      "artists": [
+        {
+          "name": "MIXSJAY",
+          "url": "https://open.spotify.com/artist/5TUXqFa1zqj9ZBsj6Vg2n9"
+        },
+        {
+          "name": "PY-1",
+          "url": "https://open.spotify.com/artist/1ZCpAWyRv4FdWf3Qwwbmoh"
+        },
+        {
+          "name": "Z TRIP",
+          "url": "https://open.spotify.com/artist/3dFcUOuySEWHdqOAJhsd3v"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236833,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/0FHRZ6I1YCes4WqY5AsaRF"
     },
     {
       "album": {
@@ -3597,7 +3689,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 237716,
       "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e25\u0e32",
       "url": "https://open.spotify.com/track/6xUpGqrtJqAl9ZfuH01xPI"
@@ -3627,6 +3719,24 @@
       "duration_ms": 228014,
       "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d",
       "url": "https://open.spotify.com/track/37cSBWqPCWTBgYSt70vSEp"
+    },
+    {
+      "album": {
+        "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d",
+        "url": "https://open.spotify.com/album/0JuY2nStqIEJnfouaPPy90"
+      },
+      "artists": [
+        {
+          "name": "SAMBLACK",
+          "url": "https://open.spotify.com/artist/39iFHReRQ9ZJnzbe3yhl4C"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212519,
+      "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d",
+      "url": "https://open.spotify.com/track/1WMhiDhSKg2VKUhpeUe4Io"
     },
     {
       "album": {
@@ -3939,7 +4049,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 236323,
       "name": "\u0e07\u0e32\u0e21\u0e27\u0e07\u0e28\u0e4c\u0e27\u0e32\u0e19",
       "url": "https://open.spotify.com/track/0AL9BL6xvi5QMTNAaKP4e8"
@@ -4279,7 +4389,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 199737,
       "name": "\u0e0b\u0e31\u0e07\u0e01\u0e30\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/35wosyBr2kavp4FLrWi4bX"
@@ -4750,6 +4860,24 @@
     },
     {
       "album": {
+        "name": "\u0e17\u0e32\u0e07\u0e0a\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/1PPs8UbsmKpo2GDxWYOyY7"
+      },
+      "artists": [
+        {
+          "name": "DIAMOND MQT",
+          "url": "https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191544,
+      "name": "\u0e17\u0e32\u0e07\u0e0a\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/24pDCzPUPoD3wYjpynpo2n"
+    },
+    {
+      "album": {
         "name": "\u0e17\u0e33\u0e15\u0e48\u0e2d\u0e44\u0e1b",
         "url": "https://open.spotify.com/album/0KmAzuklZ7BDnVTq319R9q"
       },
@@ -5166,6 +5294,24 @@
     },
     {
       "album": {
+        "name": "\u0e21\u0e2b\u0e32\u0e25\u0e31\u0e22 Thug Luv",
+        "url": "https://open.spotify.com/album/2n9ZVNwyjDv8mrzY67DXcX"
+      },
+      "artists": [
+        {
+          "name": "YUNGMUEK",
+          "url": "https://open.spotify.com/artist/67c3HfFuGdvbYumhS8zoG9"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151899,
+      "name": "\u0e21\u0e2b\u0e32\u0e25\u0e31\u0e22 Thug Luv",
+      "url": "https://open.spotify.com/track/3x44C8qnFqgTDAxueODeo8"
+    },
+    {
+      "album": {
         "name": "\u0e21\u0e32\u0e01\u0e1e\u0e2d\u0e41\u0e25\u0e49\u0e27",
         "url": "https://open.spotify.com/album/7sUN9IakVZhB376QxkJwbN"
       },
@@ -5319,7 +5465,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 214826,
       "name": "\u0e22\u0e2d\u0e21",
       "url": "https://open.spotify.com/track/5iRvRezhqYg1UxUaHG82jz"
@@ -5499,6 +5645,32 @@
       "duration_ms": 248355,
       "name": "\u0e23\u0e31\u0e01\u0e21\u0e31\u0e18\u0e22\u0e21",
       "url": "https://open.spotify.com/track/5fA8HBR3wO9cbHFr5ZPKDG"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e21\u0e48",
+        "url": "https://open.spotify.com/album/5Nw2QfpwTBIh0qPSVwn009"
+      },
+      "artists": [
+        {
+          "name": "Highhot",
+          "url": "https://open.spotify.com/artist/7clhNqbmk9enpeaBH9ACiZ"
+        },
+        {
+          "name": "KHUNNICK",
+          "url": "https://open.spotify.com/artist/1k40SYREer3BuDXVJj7nWE"
+        },
+        {
+          "name": "Vezeus",
+          "url": "https://open.spotify.com/artist/2hNuCmSo9knZO2YJQeTboH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162064,
+      "name": "\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e21\u0e48",
+      "url": "https://open.spotify.com/track/19ZDyPi4KdYAuCIhuipU0U"
     },
     {
       "album": {
@@ -5851,7 +6023,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 141101,
       "name": "\u0e2a\u0e27\u0e22",
       "url": "https://open.spotify.com/track/4Z1gRLdgSVFHx48alsWlJO"
@@ -6429,7 +6601,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 169000,
       "name": "\u0e40\u0e0a\u0e49\u0e32 5 \u0e40\u0e22\u0e47\u0e19 5",
       "url": "https://open.spotify.com/track/08WcvPwFMCEV15XtLwTIb2"
@@ -7028,6 +7200,36 @@
     },
     {
       "album": {
+        "name": "SAD PASSENGERS",
+        "url": "https://open.spotify.com/album/0jT2qMo9gwz1O14p2NV4TG"
+      },
+      "artists": [
+        {
+          "name": "SURIYA MQT",
+          "url": "https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P"
+        },
+        {
+          "name": "RIFLE",
+          "url": "https://open.spotify.com/artist/4hIIGlitHYepgaKi1aSKHn"
+        },
+        {
+          "name": "DAW",
+          "url": "https://open.spotify.com/artist/3GcRmAFjv0E4SaisYqJHyp"
+        },
+        {
+          "name": "FATBOII MQT",
+          "url": "https://open.spotify.com/artist/6zYoXxdjJH6n2DFQtr3i9O"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "\u0e41\u0e02\u0e01\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e40\u0e0a\u0e34\u0e0d",
+      "url": "https://open.spotify.com/track/43zAOwpvxOLah65nZfybxZ"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e04\u0e48\u0e40\u0e1c\u0e25\u0e2d",
         "url": "https://open.spotify.com/album/7hrgQSom5WddmNq4zIeQOJ"
       },
@@ -7235,6 +7437,24 @@
       "duration_ms": 249504,
       "name": "\u0e41\u0e25\u0e49\u0e27\u0e41\u0e15\u0e48\u0e08\u0e30\u0e04\u0e34\u0e14\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e04\u0e19\u0e25\u0e30\u0e41\u0e1a\u0e1a",
       "url": "https://open.spotify.com/track/5cSWl2ymvPXo5O9gxMziDq"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e27\u0e27\u0e15\u0e32 (PROD.33nimb)",
+        "url": "https://open.spotify.com/album/7k239UPhHJTlAjPTrtzLEr"
+      },
+      "artists": [
+        {
+          "name": "SDV SCARLET",
+          "url": "https://open.spotify.com/artist/67N3nOGjpjbDphEhDG2lCe"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158546,
+      "name": "\u0e41\u0e27\u0e27\u0e15\u0e32 (PROD.33nimb)",
+      "url": "https://open.spotify.com/track/39C9NNVmre7OKoCtoIHPLm"
     },
     {
       "album": {

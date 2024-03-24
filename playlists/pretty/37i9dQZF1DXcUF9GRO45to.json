@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 37589,
+  "num_followers": 37649,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTliZTNlOWJkMDFiNzZhZTQ3NWM3NTA3OTdiYTZlZDQ4ODc0ODE0",
+  "snapshot_id": "MCxmNTlmYjUzMmE5Y2ZiYTMwMjRkYmE2ZjUxODBjYzcyZjVhODk1NzU0",
   "tracks": [
     {
       "added_at": "2024-02-28 20:47:31",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Bodysick",
-        "url": "https://open.spotify.com/album/1Cx9PXN9WJIJEge4JXHknM"
-      },
-      "artists": [
-        {
-          "name": "Bison Bisou",
-          "url": "https://open.spotify.com/artist/5WMurQLtfM6V3t7Gbh1ix1"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "Hypersects",
-      "url": "https://open.spotify.com/track/1uyeiZXzeP2uDViqIDHoMl"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Take It or Leave It",
         "url": "https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 238947,
       "name": "Take It",
       "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Bodysick",
+        "url": "https://open.spotify.com/album/1Cx9PXN9WJIJEge4JXHknM"
+      },
+      "artists": [
+        {
+          "name": "Bison Bisou",
+          "url": "https://open.spotify.com/artist/5WMurQLtfM6V3t7Gbh1ix1"
+        }
+      ],
+      "duration_ms": 167280,
+      "name": "Hypersects",
+      "url": "https://open.spotify.com/track/1uyeiZXzeP2uDViqIDHoMl"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Houses Are Built The Same",
-        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
-      },
-      "artists": [
-        {
-          "name": "CATHEDRALE",
-          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
-        }
-      ],
-      "duration_ms": 190508,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Power Lines",
         "url": "https://open.spotify.com/album/1mIwSpOUpBdWloZoz96MTS"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 220812,
       "name": "Power Lines",
       "url": "https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Houses Are Built The Same",
+        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
+      },
+      "artists": [
+        {
+          "name": "CATHEDRALE",
+          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
+        }
+      ],
+      "duration_ms": 190508,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Nothing Belongs to Anything",
-        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
-      },
-      "artists": [
-        {
-          "name": "Cosse",
-          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
-        }
-      ],
-      "duration_ms": 308125,
-      "name": "Welcome Newcomers",
-      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "You Never Did Anything Wrong to Me",
         "url": "https://open.spotify.com/album/1Ko1UEiwHBr9AMXPi9xALP"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 259385,
       "name": "A Glorious Time",
       "url": "https://open.spotify.com/track/2lDKw5ftLPRDFjwSsCBA81"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Nothing Belongs to Anything",
+        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
+      },
+      "artists": [
+        {
+          "name": "Cosse",
+          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
+        }
+      ],
+      "duration_ms": 308125,
+      "name": "Welcome Newcomers",
+      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
+        "name": "Newspapers",
+        "url": "https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl"
+      },
+      "artists": [
+        {
+          "name": "A VOID",
+          "url": "https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI"
+        }
+      ],
+      "duration_ms": 188736,
+      "name": "Newspapers",
+      "url": "https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
         "name": "Guilty Species",
         "url": "https://open.spotify.com/album/3Dm0UMOKdtBKymE62q1Iau"
       },
@@ -995,18 +1011,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Newspapers",
-        "url": "https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl"
+        "name": "Chantal",
+        "url": "https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W"
       },
       "artists": [
         {
-          "name": "A VOID",
-          "url": "https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI"
+          "name": "Equipe de Foot",
+          "url": "https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836"
         }
       ],
-      "duration_ms": 188736,
-      "name": "Newspapers",
-      "url": "https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE"
+      "duration_ms": 253906,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Chantal",
-        "url": "https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W"
-      },
-      "artists": [
-        {
-          "name": "Equipe de Foot",
-          "url": "https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836"
-        }
-      ],
-      "duration_ms": 253906,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Freakenstein",
         "url": "https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4"
       },
@@ -1071,22 +1071,6 @@
       "duration_ms": 223421,
       "name": "Peeling the Onion",
       "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
-        "name": "Healing Is Not Linear",
-        "url": "https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0"
-      },
-      "artists": [
-        {
-          "name": "COLISION",
-          "url": "https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ"
-        }
-      ],
-      "duration_ms": 188440,
-      "name": "Knees",
-      "url": "https://open.spotify.com/track/49WaJosNna7DBveejaBjra"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
+        "name": "Healing Is Not Linear",
+        "url": "https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0"
+      },
+      "artists": [
+        {
+          "name": "COLISION",
+          "url": "https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ"
+        }
+      ],
+      "duration_ms": 188440,
+      "name": "Knees",
+      "url": "https://open.spotify.com/track/49WaJosNna7DBveejaBjra"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
         "name": "The Lair of Gods",
         "url": "https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf"
       },
@@ -1135,70 +1135,6 @@
       "duration_ms": 241812,
       "name": "Tree",
       "url": "https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
-        "name": "Centaur Desire",
-        "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
-      },
-      "artists": [
-        {
-          "name": "J.C. Sat\u00e0n",
-          "url": "https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "No Brain No Shame",
-      "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
-        "name": "AqME",
-        "url": "https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF"
-      },
-      "artists": [
-        {
-          "name": "AqME",
-          "url": "https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Tant d'ann\u00e9es",
-      "url": "https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
-        "name": "Sometimes I Wanna Fight",
-        "url": "https://open.spotify.com/album/45H1fFqhaQXwkz8ZNKU22I"
-      },
-      "artists": [
-        {
-          "name": "Caesaria",
-          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
-        }
-      ],
-      "duration_ms": 202719,
-      "name": "Sometimes I Wanna Fight",
-      "url": "https://open.spotify.com/track/1u0bagIS8x7BuGXnKm6aLr"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
-        "name": "Definitely Unfinished",
-        "url": "https://open.spotify.com/album/38KxKkRLgtGfnai9NZj5Hu"
-      },
-      "artists": [
-        {
-          "name": "W!ZARD",
-          "url": "https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd"
-        }
-      ],
-      "duration_ms": 273013,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/1UCm2EDxY8NOMfQJeIHDEv"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1219,18 +1155,66 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "SNAKES",
-        "url": "https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk"
+        "name": "Centaur Desire",
+        "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
       },
       "artists": [
         {
-          "name": "YAOUND\u00c9BOXINGCLUB",
-          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
+          "name": "J.C. Sat\u00e0n",
+          "url": "https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW"
         }
       ],
-      "duration_ms": 191250,
-      "name": "SNAKES",
-      "url": "https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY"
+      "duration_ms": 209426,
+      "name": "No Brain No Shame",
+      "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Sometimes I Wanna Fight",
+        "url": "https://open.spotify.com/album/45H1fFqhaQXwkz8ZNKU22I"
+      },
+      "artists": [
+        {
+          "name": "Caesaria",
+          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
+        }
+      ],
+      "duration_ms": 202719,
+      "name": "Sometimes I Wanna Fight",
+      "url": "https://open.spotify.com/track/1u0bagIS8x7BuGXnKm6aLr"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "AqME",
+        "url": "https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF"
+      },
+      "artists": [
+        {
+          "name": "AqME",
+          "url": "https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Tant d'ann\u00e9es",
+      "url": "https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Hara",
+        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
+      },
+      "artists": [
+        {
+          "name": "Datcha Mandala",
+          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Stick It Out",
+      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Hara",
-        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
+        "name": "Definitely Unfinished",
+        "url": "https://open.spotify.com/album/38KxKkRLgtGfnai9NZj5Hu"
       },
       "artists": [
         {
-          "name": "Datcha Mandala",
-          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
+          "name": "W!ZARD",
+          "url": "https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd"
         }
       ],
-      "duration_ms": 204106,
-      "name": "Stick It Out",
-      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
+      "duration_ms": 273013,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/1UCm2EDxY8NOMfQJeIHDEv"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "The West Is the Best",
-        "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
+        "name": "SNAKES",
+        "url": "https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk"
       },
       "artists": [
         {
-          "name": "Dead Horse One",
-          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
+          "name": "YAOUND\u00c9BOXINGCLUB",
+          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
         }
       ],
-      "duration_ms": 221322,
-      "name": "Echo Street",
-      "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
+      "duration_ms": 191250,
+      "name": "SNAKES",
+      "url": "https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1343,6 +1327,22 @@
       "duration_ms": 177040,
       "name": "Pop Pop Pop",
       "url": "https://open.spotify.com/track/68ySTFttrJJjrCD6U6Yeg3"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "The West Is the Best",
+        "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
+        }
+      ],
+      "duration_ms": 221322,
+      "name": "Echo Street",
+      "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "FRENCH FRIES",
-        "url": "https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm"
-      },
-      "artists": [
-        {
-          "name": "lya!",
-          "url": "https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH"
-        }
-      ],
-      "duration_ms": 215636,
-      "name": "SO TIRED",
-      "url": "https://open.spotify.com/track/7CiD9yJIfJshJEFwvgjPEq"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Night of the Loving Dead",
         "url": "https://open.spotify.com/album/7MgObAh6503Kapx3g6fYDh"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 203906,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/6x6pZm52ipZTVIM99Jwb1k"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "FRENCH FRIES",
+        "url": "https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm"
+      },
+      "artists": [
+        {
+          "name": "lya!",
+          "url": "https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH"
+        }
+      ],
+      "duration_ms": 215636,
+      "name": "SO TIRED",
+      "url": "https://open.spotify.com/track/7CiD9yJIfJshJEFwvgjPEq"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Billy Believe",
-        "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
-      },
-      "artists": [
-        {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
-        }
-      ],
-      "duration_ms": 286173,
-      "name": "Vegan Porn Food",
-      "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "The Cage & The Crown : Chapter I",
         "url": "https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK"
       },
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "The Second Take",
-        "url": "https://open.spotify.com/album/4xOhdwMBgMHJTODhsn4HSf"
+        "name": "Billy Believe",
+        "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
       },
       "artists": [
         {
-          "name": "Do Not Machine",
-          "url": "https://open.spotify.com/artist/76dbfnuKsRUbrChI7vlOXE"
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
         }
       ],
-      "duration_ms": 220971,
-      "name": "The Second Take",
-      "url": "https://open.spotify.com/track/27zUZ7wZnlkzv2WAvVFK9W"
+      "duration_ms": 286173,
+      "name": "Vegan Porn Food",
+      "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1523,22 +1507,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Your Great Deception",
-        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
-      },
-      "artists": [
-        {
-          "name": "Dirty Black Summer",
-          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Your Great Deception",
-      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Postmodern Blue",
         "url": "https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta"
       },
@@ -1551,6 +1519,22 @@
       "duration_ms": 170393,
       "name": "Vulgar",
       "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Your Great Deception",
+        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
+      },
+      "artists": [
+        {
+          "name": "Dirty Black Summer",
+          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Your Great Deception",
+      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Post-Post-",
-        "url": "https://open.spotify.com/album/3oJRM9GQn0PBap6MArxGXM"
+        "name": "The Second Take",
+        "url": "https://open.spotify.com/album/4xOhdwMBgMHJTODhsn4HSf"
       },
       "artists": [
         {
-          "name": "The Psychotic Monks",
-          "url": "https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy"
+          "name": "Do Not Machine",
+          "url": "https://open.spotify.com/artist/76dbfnuKsRUbrChI7vlOXE"
         }
       ],
-      "duration_ms": 454282,
-      "name": "Post-Post-",
-      "url": "https://open.spotify.com/track/3bKFfFz92jBe9ssm5NUmUi"
+      "duration_ms": 220971,
+      "name": "The Second Take",
+      "url": "https://open.spotify.com/track/27zUZ7wZnlkzv2WAvVFK9W"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1599,6 +1583,22 @@
       "duration_ms": 227426,
       "name": "Drift",
       "url": "https://open.spotify.com/track/367PCAccIOOMRfnaSKtFDG"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Post-Post-",
+        "url": "https://open.spotify.com/album/3oJRM9GQn0PBap6MArxGXM"
+      },
+      "artists": [
+        {
+          "name": "The Psychotic Monks",
+          "url": "https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy"
+        }
+      ],
+      "duration_ms": 454282,
+      "name": "Post-Post-",
+      "url": "https://open.spotify.com/track/3bKFfFz92jBe9ssm5NUmUi"
     },
     {
       "added_at": "2024-02-28 20:47:31",

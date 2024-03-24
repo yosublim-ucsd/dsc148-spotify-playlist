@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Matt Champion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,966 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,964 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Code Red](https://open.spotify.com/track/5TYo6eQvHe2AVIqskXxcss) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Mika's Laundry](https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq) | 2:12 |
-| 2 | [Wind](https://open.spotify.com/track/1nUQzkNDpCd4eNi2md8pHC) | [Jawnino](https://open.spotify.com/artist/0nnECIkl6LBEbZdov3nTEj), [Cold](https://open.spotify.com/artist/6bdtil1WyjiWONZQgfF5lu) | [Wind](https://open.spotify.com/album/5hkOTZ6DIF7ywDsXSnkI6H) | 3:06 |
+| 2 | [Wind](https://open.spotify.com/track/1nUQzkNDpCd4eNi2md8pHC) | [Jawnino](https://open.spotify.com/artist/0nnECIkl6LBEbZdov3nTEj), [Cold](https://open.spotify.com/artist/19M16Pbk613BUHKwOEilfv) | [Wind](https://open.spotify.com/album/5hkOTZ6DIF7ywDsXSnkI6H) | 3:06 |
 | 3 | [Hell of A Ride](https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Catching Chickens EP](https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH) | 3:43 |
 | 4 | [Talk To Me](https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Talk To Me](https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3) | 3:18 |
 | 5 | [Movie \(feat\. Az Chike\)](https://open.spotify.com/track/1X1EwijiXXOmEU5iMqhFT5) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 1:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 |
 | 100 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 |
 
-Snapshot ID: `MCxhZDcyYzVhMzNhNzE2MGJjMmQwMGUyMDc2YTU1OWNmYWMwMGE4NjIy`
+Snapshot ID: `MCxiNDgwZjJkYWU0MWZhYjA0NDhhYTI1ZTYwMGZmNTc1ODczZjk2MTg4`

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: ena mori \(Philippines\)
 
-1,216 songs - 3 day 1 hr 4 min
+1,217 songs - 3 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,7 +493,7 @@
 | [imposter syndrome](https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [befriending my tears](https://open.spotify.com/album/4pnIWjnhk1gg73KghffqGn) | 3:15 | 2023-08-10 | 2023-10-23 |
 | [In Another Life](https://open.spotify.com/track/1jpgacTEqXNNhTLTQTeUcl) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [In Another Life](https://open.spotify.com/album/4KDL14uRiNvUfIhVhkJfKx) | 2:27 | 2022-10-06 | 2022-12-02 |
 | [In Another Life](https://open.spotify.com/track/6ZG2g4sjqypmAguMMJLb43) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [F\(OOL\)](https://open.spotify.com/album/6kFvVCVMZJwxLHVEG7oEuf) | 4:07 | 2023-06-08 | 2023-07-21 |
-| [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 | 2023-08-31 | 2024-03-23 |
+| [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 | 2023-08-31 |  |
 | [in my white dress](https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 3:03 | 2022-10-06 | 2023-03-25 |
 | [In The Clouds](https://open.spotify.com/track/6Kg8KoSEacO0Y21pL0ZcDj) | [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [The Great Regression](https://open.spotify.com/album/2QgFxiPrjg4KSh0NkicjEG) | 2:55 | 2023-09-21 | 2024-01-19 |
 | [IN THE DOG HOUSE](https://open.spotify.com/track/4x9Yt0EnOEKRs2cdSJwSzN) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [IN THE DOG HOUSE](https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg) | 1:42 | 2022-08-04 | 2022-08-19 |
@@ -797,7 +797,8 @@
 | [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 | 2023-02-09 | 2023-02-17 |
 | [Rockstar](https://open.spotify.com/track/2OBm1U8uu9tq5w40QEIGAY) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Rockstar](https://open.spotify.com/album/6p6WyOh5Bd57KZiGNoY9Lx) | 3:02 | 2022-10-20 | 2022-12-09 |
 | [Rockstar \- TELEx TELEXs Remix](https://open.spotify.com/track/6eFnYnsZRq74oOEX46hb1J) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [Rockstar](https://open.spotify.com/album/2Meg43BBcqFj6CfjMNawcq) | 3:43 | 2023-04-07 | 2023-06-14 |
-| [room](https://open.spotify.com/track/0apFaskFTjOtbJ2RquwMpZ) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [room](https://open.spotify.com/album/7dXf3mDlGxiS2jLc8KmqlO) | 2:47 | 2023-11-16 |  |
+| [room](https://open.spotify.com/track/0apFaskFTjOtbJ2RquwMpZ) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [room](https://open.spotify.com/album/7dXf3mDlGxiS2jLc8KmqlO) | 2:47 | 2023-11-16 | 2024-03-24 |
+| [room](https://open.spotify.com/track/7LKtjtm4QW4wKmbOac3kY0) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [room](https://open.spotify.com/album/76mwzGhcFxiI69isYUCZyR) | 2:47 | 2024-03-21 |  |
 | [Room for You \(Feat\. 10CM\)](https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Blank](https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk) | 3:46 | 2022-08-11 | 2023-05-05 |
 | [Roses](https://open.spotify.com/track/3tWNpUIONNXnubu8Zmg74K) | [Sansette](https://open.spotify.com/artist/2QZgUdDucCesAV9xVpZHyI) | [Roses](https://open.spotify.com/album/4epwLmoCHvomYsTwtAPvfN) | 3:02 | 2023-08-31 | 2023-09-29 |
 | [Rude Awakening](https://open.spotify.com/track/7lwHFDcmB0z3yRzxfG2pJV) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Rude Awakening](https://open.spotify.com/album/1zWz2sQDloQECeaiszhPng) | 2:23 | 2023-06-29 | 2023-07-21 |
@@ -1023,7 +1024,7 @@
 | [Vast \- ANNA Remix](https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Vast \(ANNA Remix\)](https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD) | 3:26 | 2023-07-20 |  |
 | [VENTI GRANDE](https://open.spotify.com/track/0S2AAZbQRxcq6igNugWqaH) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [VENTI GRANDE](https://open.spotify.com/album/6bmM0W38LqKKWzueVmHIxG) | 2:38 | 2023-04-13 | 2023-07-15 |
 | [Venture \- For Tracy Hyde remix](https://open.spotify.com/track/06OcvQjbKdz7I7Y9LAApsq) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf), [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Floret](https://open.spotify.com/album/1SWWvEsN8m4cz9ScFOEEn5) | 3:19 | 2022-10-20 | 2023-01-27 |
-| [venus](https://open.spotify.com/track/1JpjEOAx8Kfce8574CRzZg) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [venus](https://open.spotify.com/album/59LzAegBLWcHhm5kAAfaza) | 4:10 | 2023-10-05 |  |
+| [venus](https://open.spotify.com/track/1JpjEOAx8Kfce8574CRzZg) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [venus](https://open.spotify.com/album/59LzAegBLWcHhm5kAAfaza) | 4:10 | 2023-10-05 | 2024-03-24 |
 | [Waiting For You](https://open.spotify.com/track/2ZaAW2MtlN9CNIU3XcPISD) | [The Kopycat](https://open.spotify.com/artist/7y4M1no7kXEEsCeIAZkeuR) | [SWIRL](https://open.spotify.com/album/00SqzcEovHnynRRQuV2AgE) | 3:00 | 2022-06-02 | 2022-07-22 |
 | [waiting game](https://open.spotify.com/track/49PybRHBfBnXXwJNuZsWO0) | [adoracion](https://open.spotify.com/artist/24t67LUda95ichX4Rz0Rlr) | [waiting game](https://open.spotify.com/album/2VzlrNdjwTkLzMocNcQwzE) | 3:09 | 2024-02-29 | 2024-03-15 |
 | [walk away](https://open.spotify.com/track/1efwGUw4z68vJLVEhR0WZi) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [walk away](https://open.spotify.com/album/2HxzENWnGfFlHRWjawrf6B) | 2:55 | 2022-08-18 | 2022-10-07 |

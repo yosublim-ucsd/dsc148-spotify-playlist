@@ -5966,6 +5966,24 @@
     {
       "album": {
         "name": "Lessons",
+        "url": "https://open.spotify.com/album/1rsrvfYnB80WSPTRV5iCSx"
+      },
+      "artists": [
+        {
+          "name": "ICEBOX",
+          "url": "https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Lessons",
+      "url": "https://open.spotify.com/track/3lyab0gwv0HqPJhwXR9Zqj"
+    },
+    {
+      "album": {
+        "name": "Lessons",
         "url": "https://open.spotify.com/album/1z27FzbTQkuJedFVzXoIyV"
       },
       "artists": [
@@ -5976,7 +5994,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 268800,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/3mV5e0s5D7EXlA0dnc5w4q"
@@ -7324,6 +7342,28 @@
     {
       "album": {
         "name": "New York",
+        "url": "https://open.spotify.com/album/7gLt0wcQfPDPIJdQfcMFob"
+      },
+      "artists": [
+        {
+          "name": "Amari Teague",
+          "url": "https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC"
+        },
+        {
+          "name": "ANN\u00c9",
+          "url": "https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200727,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/7xKt7i4Erx0UbSz8hsTaGY"
+    },
+    {
+      "album": {
+        "name": "New York",
         "url": "https://open.spotify.com/album/2v06Ht4ckCYytVybR6pOpY"
       },
       "artists": [
@@ -7338,7 +7378,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 200727,
       "name": "New York",
       "url": "https://open.spotify.com/track/7ztAxczYXGDrmDhNP13qx3"
@@ -8968,10 +9008,32 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 167710,
       "name": "room",
       "url": "https://open.spotify.com/track/0apFaskFTjOtbJ2RquwMpZ"
+    },
+    {
+      "album": {
+        "name": "room",
+        "url": "https://open.spotify.com/album/76mwzGhcFxiI69isYUCZyR"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        },
+        {
+          "name": "Adriel",
+          "url": "https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167710,
+      "name": "room",
+      "url": "https://open.spotify.com/track/7LKtjtm4QW4wKmbOac3kY0"
     },
     {
       "album": {
@@ -11612,10 +11674,32 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 214117,
       "name": "us being us",
       "url": "https://open.spotify.com/track/4FHE9B5Rbv4bKjeX2swwoE"
+    },
+    {
+      "album": {
+        "name": "us being us",
+        "url": "https://open.spotify.com/album/5poydfb1GnLEeNNn9RIjqr"
+      },
+      "artists": [
+        {
+          "name": "lovlaine",
+          "url": "https://open.spotify.com/artist/2QIkDLNdxDBgcJV6Fho6XV"
+        },
+        {
+          "name": "ICEBOX",
+          "url": "https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214117,
+      "name": "us being us",
+      "url": "https://open.spotify.com/track/4iZmZsFgvJqqmKtVnIrjlS"
     },
     {
       "album": {
@@ -12294,6 +12378,24 @@
     {
       "album": {
         "name": "what would it take?",
+        "url": "https://open.spotify.com/album/0xatWe7k1sNqjoWT86T42e"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250666,
+      "name": "what would it take?",
+      "url": "https://open.spotify.com/track/3w9G8AoCPLnTnZtwDdz6Cv"
+    },
+    {
+      "album": {
+        "name": "what would it take?",
         "url": "https://open.spotify.com/album/4KhlJQ8lWDfuwOGvntAo7D"
       },
       "artists": [
@@ -12304,7 +12406,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 250666,
       "name": "what would it take?",
       "url": "https://open.spotify.com/track/42dN635ODJ8gaBbtXKONAN"

@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 125664,
+  "2024-03-24": 125677,
   "date_first_scraped": "2022-06-09",
   "description": "The R&B and good vibe tracks for your current mood. Cover: LOONY",
   "name": "mood.",
@@ -11401,6 +11401,24 @@
       "duration_ms": 204467,
       "name": "THREE STRIKES (feat. Khalid)",
       "url": "https://open.spotify.com/track/5s0R5zybi2MKaJxf0og3hM"
+    },
+    {
+      "album": {
+        "name": "threeAM",
+        "url": "https://open.spotify.com/album/7GFpPOUyuojXgKVBJWWO4w"
+      },
+      "artists": [
+        {
+          "name": "NIVKOM",
+          "url": "https://open.spotify.com/artist/2BwqjjKkM8McmEUbzDTXpZ"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "threeAM",
+      "url": "https://open.spotify.com/track/7EIgAzIwV8FeYTcTOIGQgt"
     },
     {
       "album": {

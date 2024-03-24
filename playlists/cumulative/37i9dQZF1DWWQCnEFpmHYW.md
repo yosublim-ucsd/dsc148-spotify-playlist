@@ -4,7 +4,7 @@
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-147 songs - 6 hr 59 min
+150 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,9 +22,11 @@
 | [Calming Rain Forest](https://open.spotify.com/track/6w5nfQXceDxyzCSC90Vate) | [Mind & Body](https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz) | [Calming Rain Forest](https://open.spotify.com/album/3FONPWCDZuVg3n5izU4dXg) | 2:52 | 2023-10-11 |  |
 | [Calming Rain Harmony](https://open.spotify.com/track/6xKZISN8TVnIM0PRHs6Vqu) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Calming Rain Harmony](https://open.spotify.com/album/7DRdQShYrQikRl9Vyggemq) | 3:01 | 2023-10-11 |  |
 | [Chill Raindrops](https://open.spotify.com/track/3Z2WB90ojQshe0KTgykNWQ) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Spring Rain](https://open.spotify.com/album/2SLRx4y1nNLZ3eIn535nTA) | 3:01 | 2023-10-11 |  |
+| [Chipi Chipi \(Rain\)](https://open.spotify.com/track/4AOcYN1cSFMZ6gZODPIOLZ) | [Scattered Sprinkle](https://open.spotify.com/artist/4ed0GFW4G1Q71nNdtTl7S7) | [Chipi Chipi \(Rain\)](https://open.spotify.com/album/7BOg6bK8x2Y8h5oG6e460z) | 2:50 | 2024-03-11 |  |
 | [Cielo borroso](https://open.spotify.com/track/1eTLP3u8jLfIIVxW0cFDWr) | [Selective Sounds PTA](https://open.spotify.com/artist/7uPHiHePHskbxEyGu1HLZP) | [lluvia y ruido](https://open.spotify.com/album/6H5JCrtbYUsGFcz1e5UpT3) | 2:35 | 2022-11-21 |  |
 | [Cloud Nine \(Rain\)](https://open.spotify.com/track/4wEghUsf0cQHbm66QsPboI) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 | 2022-11-21 | 2022-12-17 |
 | [Cosy Car Rain](https://open.spotify.com/track/6d4mT4J1RkeF60CTn6W9Fc) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [On The Window](https://open.spotify.com/album/1EBrkQRMz8G8ATa62L5E2N) | 2:29 | 2023-10-11 |  |
+| [Cozy Cabin Rain](https://open.spotify.com/track/4tR3AjcdyVP3yVLUrfACOk) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Cozy Cabin Rain](https://open.spotify.com/album/15ZZWYfRL5OwShHctYyrDB) | 3:00 | 2024-03-11 |  |
 | [Cozy Rain](https://open.spotify.com/track/0N3S9OCA8PSqbzPhR8FmWu) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Relaxed Outdoor Recordings](https://open.spotify.com/album/4jTv3LXuYqblyFqiAyZsMK) | 3:01 | 2022-11-21 |  |
 | [Cozy Storm](https://open.spotify.com/track/2H09YrtzPnwOtTJwbHooV9) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 2:52 | 2022-11-21 |  |
 | [Crawl Under The Blanket\-Rain](https://open.spotify.com/track/6zBT3E0Liq13v2dv4uA0cE) | [Splish Splash](https://open.spotify.com/artist/0WC47WJPxV2Yd7JynjhaUR) | [Monstrous Thunder](https://open.spotify.com/album/6n1OCuil9C9lwUjKa3GERV) | 2:32 | 2023-10-11 |  |
@@ -32,7 +34,7 @@
 | [Daybreak Rain](https://open.spotify.com/track/6DNUn0G3eihQbE9RvlgJiL) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Gentle Rainfall](https://open.spotify.com/album/7t3EAck5pBqcys8naib91U) | 3:01 | 2022-11-21 |  |
 | [Deciduous Forest Rain](https://open.spotify.com/track/7EjYp81XPWKHiTC2sBuDcb) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Rain for Soothing Souls](https://open.spotify.com/album/23kglUYmApubc91wqBaE58) | 3:00 | 2023-02-13 |  |
 | [Deep Forest Rain](https://open.spotify.com/track/0K7dSsd2DxYsaj2B6vs1LN) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Nordic Drops](https://open.spotify.com/album/4tL02ie3DznKXsLffUJR7y) | 2:27 | 2022-11-21 | 2022-12-17 |
-| [Deep Rain \(Loopable\)](https://open.spotify.com/track/2dsbpiqOxgFYSXvrojYgZA) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Deep Rain](https://open.spotify.com/album/6I72COq4uCyEcoJ0g7ViJX) | 2:44 | 2023-10-11 |  |
+| [Deep Rain \(Loopable\)](https://open.spotify.com/track/2dsbpiqOxgFYSXvrojYgZA) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Deep Rain](https://open.spotify.com/album/6I72COq4uCyEcoJ0g7ViJX) | 2:44 | 2023-10-11 | 2024-03-24 |
 | [Deep Sleep Peaceful Rain](https://open.spotify.com/track/4w1U8pTcgBDRqsX9W8FgQB) | [Stormy Dreams \(Rain\)](https://open.spotify.com/artist/6jBF6u1RN8CYqvGxveYII2) | [Even More Stormy Rain](https://open.spotify.com/album/6uPV9B8X0fGhYtF6O695ve) | 3:07 | 2022-12-16 |  |
 | [Delicate Rain](https://open.spotify.com/track/5yj0oLWldSqf7XPydYMuOQ) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Clouds Above](https://open.spotify.com/album/4v4IoTTglfe37UVhnULrhE) | 2:46 | 2022-11-21 |  |
 | [Dragonflies](https://open.spotify.com/track/0rCLlfy2i0eMLmtVfiWXsd) | [Tom D\. Waters](https://open.spotify.com/artist/4zZDLZEKVgScOJcWnWXeOh) | [Dragonflies](https://open.spotify.com/album/3idhIrh3mt0jFMq4aegMIS) | 2:32 | 2023-02-13 |  |
@@ -43,7 +45,7 @@
 | [Drizzling](https://open.spotify.com/track/2czlzoPXzidrNnJ1vLdqV8) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Lightrise \(Rain\)](https://open.spotify.com/album/7JosAVi4UAQ2LT0Bjoyex6) | 3:00 | 2022-11-21 |  |
 | [Drop By Drop](https://open.spotify.com/track/4yrGzEFy7YYNyoSsKe1tRQ) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Rain over Cornwall](https://open.spotify.com/album/2UdIfBZWnq0uNMvkPEirzy) | 3:28 | 2022-11-21 | 2022-12-17 |
 | [Droplet Town](https://open.spotify.com/track/0bh2pEC2JtYLTRvFfk6Y1H) | [Nimbostratus](https://open.spotify.com/artist/5BvEMjeBwQ9W4CLqZPue8Q) | [Rainy Lake](https://open.spotify.com/album/5EUqSpKY5X9WIOlIM29gxo) | 2:48 | 2023-10-11 |  |
-| [Elk Island Rains](https://open.spotify.com/track/6gZxdpFeJmK3sDLFiM7C46) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Calming Rain Harmony](https://open.spotify.com/album/7DRdQShYrQikRl9Vyggemq) | 3:01 | 2023-10-11 |  |
+| [Elk Island Rains](https://open.spotify.com/track/6gZxdpFeJmK3sDLFiM7C46) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Calming Rain Harmony](https://open.spotify.com/album/7DRdQShYrQikRl9Vyggemq) | 3:01 | 2023-10-11 | 2024-03-24 |
 | [En Paz](https://open.spotify.com/track/0LFxvRcHo2foS0n1zeFQvR) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Sereno](https://open.spotify.com/album/5KLu6QHGCznPcCB9GJvyMM) | 2:35 | 2022-11-21 |  |
 | [Entre Plantas](https://open.spotify.com/track/4it4eEguD6Uh0y2AfuwpNa) | [Radio Pluvialis](https://open.spotify.com/artist/55ZWeI199GqB3xiSig23pa) | [Entre Plantas](https://open.spotify.com/album/2oJzIUJEKI2hj9iUwCvuyE) | 2:40 | 2023-10-11 |  |
 | [Escapar bajo la lluvia](https://open.spotify.com/track/0LKw5lPlg5dSyxAmZQVZU1) | [Mighty Nature X](https://open.spotify.com/artist/2WjBhauzTBxo4K0DzDfWUL) | [Sonidos suaves de lluvia](https://open.spotify.com/album/0fwnwGqpazvV5yC6fwlavG) | 2:26 | 2022-11-21 |  |
@@ -61,6 +63,7 @@
 | [Hard Drops](https://open.spotify.com/track/7ajQAfXxIO6mYtSEZKDTTM) | [The Rain Guru](https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF) | [Gentle Drops](https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7) | 3:22 | 2022-11-21 |  |
 | [Hometown Thunders](https://open.spotify.com/track/6bgUoT7qJnDPKZi6uopxwR) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Hometown](https://open.spotify.com/album/2oJvTwCJsPFgAJPci0XKGR) | 1:55 | 2022-11-21 | 2023-06-17 |
 | [Horas de lluvia](https://open.spotify.com/track/5SU40Es6IskNv9LeHqztF1) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Horas de lluvia](https://open.spotify.com/album/3GsVGNCWCXpyLSLOYkBvK8) | 2:35 | 2022-11-21 |  |
+| [Hällregn](https://open.spotify.com/track/2HJfk9zFgpCy875kptvbaU) | [Regnar Dahlberg](https://open.spotify.com/artist/7D0QnmeTPHqm3PaKOAIUMs) | [Hällregn](https://open.spotify.com/album/46f4NyBfm3D7y2P3NGsKCL) | 3:14 | 2024-03-11 |  |
 | [I Drought It](https://open.spotify.com/track/0raPf1kMjMpkOhOTRdngXV) | [Ella Umbrella](https://open.spotify.com/artist/6NRQi72X6MHKbfaNJC8AIT) | [I Drought It](https://open.spotify.com/album/4jmmlR4bwckp9SpcN1oiyp) | 2:56 | 2023-06-16 |  |
 | [It will Rain](https://open.spotify.com/track/72iHmaMToTZBdTo1WBlVXg) | [Bioacoustics](https://open.spotify.com/artist/3SrtzVz0yqFXRzvx1DE8Dg) | [Rain of Light](https://open.spotify.com/album/0ic7KecrheqM82ji6jqQEE) | 2:50 | 2023-10-11 |  |
 | [It's Raining Outside](https://open.spotify.com/track/4CcbIRfzdRKxRt6gsWHnuq) | [Rain Gems](https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq) | [It's Raining Outside](https://open.spotify.com/album/71LxwD6SF5hs54209gftku) | 4:58 | 2023-10-11 |  |
@@ -111,7 +114,7 @@
 | [Rainy Village](https://open.spotify.com/track/73FyKzJoLaYr5FIimh3Puz) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Kindred Forest](https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY) | 3:01 | 2022-11-21 |  |
 | [Rainy Window](https://open.spotify.com/track/48Kg51amgURPSM2gEVaKCS) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Nature's Green Noise](https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6) | 2:10 | 2023-10-11 |  |
 | [Regnerischer Tag](https://open.spotify.com/track/4JygmIxvY2CWmJGvgBe00J) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen über Hamburg](https://open.spotify.com/album/5gJA1OBF1KRxBbu2mfYN0s) | 3:28 | 2022-11-21 |  |
-| [Relaxing Rain Patter](https://open.spotify.com/track/2UrXYvVXb8Cn1FoGZpQdSI) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Dreamy Rainfall Sanctuary](https://open.spotify.com/album/7b4PM1EEftuYszBXYpFvNw) | 3:01 | 2023-10-11 |  |
+| [Relaxing Rain Patter](https://open.spotify.com/track/2UrXYvVXb8Cn1FoGZpQdSI) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Dreamy Rainfall Sanctuary](https://open.spotify.com/album/7b4PM1EEftuYszBXYpFvNw) | 3:01 | 2023-10-11 | 2024-03-24 |
 | [Rest In A Rainforest](https://open.spotify.com/track/3irHoiM1C9EUMbUhsXmcGe) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Rest In A Rainforest](https://open.spotify.com/album/6qaL64xAGf4ya89P94G97H) | 3:15 | 2023-06-16 |  |
 | [Revitalize \(Rain\)](https://open.spotify.com/track/6MFRZu5jUhJZeUJVl2kcri) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 | 2022-11-21 | 2024-02-08 |
 | [Roofers Holiday](https://open.spotify.com/track/1ELNo2aa79L5lcBGB6GIDq) | [Weather Bureau](https://open.spotify.com/artist/1aHHKWIy2Twf2ssw0SirYO) | [Roofers Holiday](https://open.spotify.com/album/0hE9xP8wHCU89LyoI2oP95) | 2:56 | 2023-06-16 |  |

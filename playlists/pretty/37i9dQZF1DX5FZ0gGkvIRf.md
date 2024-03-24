@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 
 > Our editor’s picks for best metal and hard rock songs of the year\. Cover: Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,724 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,779 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 58 | [Like Humans](https://open.spotify.com/track/1Ihk3DPLfci15MfQtVJtCk) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Spine](https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK) | 4:46 |
 | 59 | [Hellions](https://open.spotify.com/track/2ifhuqHixRseGujnENtfbl) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Hellions](https://open.spotify.com/album/59J4vXs3evRbjxhtSBiztl) | 4:13 |
 | 60 | [Please End Me](https://open.spotify.com/track/6TlZSSNZd397eYRzbu5SaT) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Please End Me](https://open.spotify.com/album/4IHL9ClOQoD6bT0IipDgPi) | 3:11 |
-| 61 | [Goddamn White Trash](https://open.spotify.com/track/1sU2FDD8Wk3woT3w5COU7p) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Just Stop Oil](https://open.spotify.com/album/0Y7PJRNMEeBGKF5pBkRPlx) | 4:43 |
+| 61 | [Goddamn White Trash](https://open.spotify.com/track/5Pw0WYcFMkMnnQsII5nMOe) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [HOPIUMFORTHEMASSES](https://open.spotify.com/album/04Z322o7T5mwSnFVtUGAaV) | 4:43 |
 | 62 | [Z0mbie](https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Z0mbie](https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE) | 3:11 |
 | 63 | [Merchant of the Void](https://open.spotify.com/track/6DuDPhr4r1GwaCUv55p6CZ) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [EndEx](https://open.spotify.com/album/7wHoOSWfxWuHcZrLeZHj1B) | 3:32 |
 | 64 | [CHAIN \(feat\. Jacob Lilly\)](https://open.spotify.com/track/0tWAwVdhIgLTWiaAbcjwYF) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Jacob Lilly](https://open.spotify.com/artist/3liqJR5I9qc7zYvhrM0tUx) | [Step Into The Light](https://open.spotify.com/album/61G3s23PmUvfgZMBJ7EGu3) | 1:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 99 | [Harvest](https://open.spotify.com/track/50oQWJ18RA54OEftbo7Ss2) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Rivers Of Heresy](https://open.spotify.com/album/6ro94rJ539uMG9hDwDtICk) | 2:50 |
 | 100 | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 |
 
-Snapshot ID: `MCxhMjRjOWYzN2U2YjZhN2E2MmEwNjVmZDg2YzRlMzQwOGI0Y2VlYTU0`
+Snapshot ID: `MCw5YTk3YjUwMjgyOGZhZWY5M2JkY2FkYjY1MmEyOGRkNTA2YWU2YTU5`

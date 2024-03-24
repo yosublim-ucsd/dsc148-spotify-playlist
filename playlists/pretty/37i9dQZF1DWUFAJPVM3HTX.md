@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh?si=rRDfEgn\-TceuQnjuKCD8Kw"> Odeal </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,903 likes - 200 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,025 likes - 200 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gaslight 101](https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl) | 2:59 |
+| 1 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 |
 | 2 | [JAI'S SONG \(FALLING\)](https://open.spotify.com/track/1iHTOugH78NYT5RUNGG0wn) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL: SIDE A](https://open.spotify.com/album/7lDhFYEScJqHq9UUEoxoct) | 3:10 |
 | 3 | [Move](https://open.spotify.com/track/5g6Oon5f65EzBXHpIM3quE) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Move](https://open.spotify.com/album/00f6VPIgwapHjGZWxkAeKq) | 3:39 |
 | 4 | [Risk \(feat\. Moliy\)](https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Risk \(feat\. Moliy\)](https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh) | 2:47 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 54 | [Therapist](https://open.spotify.com/track/5uXOqaBXKDrYXjnA9tPMZp) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Therapist](https://open.spotify.com/album/0gAaCRhfT7ALD6OR4ddmcz) | 3:05 |
 | 55 | [Security](https://open.spotify.com/track/2FioyTDEXF7s30TLf9UXHg) | [Myke Grizzly](https://open.spotify.com/artist/3l4XY26vL0FKhljOFmnMny) | [Direction](https://open.spotify.com/album/5ATAP8EwWp7qonbbYefSzP) | 3:17 |
 | 56 | [Glass](https://open.spotify.com/track/0dr3jcy2n0tN73QYHqH2W6) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Glass](https://open.spotify.com/album/7w6g5LNPLsrxi4C3Foc3C4) | 3:50 |
-| 57 | [Intergalactic Janet](https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/3vS1oa8XAK2I4BLsMPEsK2) | 2:40 |
+| 57 | [Intergalactic Janet](https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj) | 2:40 |
 | 58 | [FUL](https://open.spotify.com/track/60Rfi324rJBiPfoRZKNKtF) | [Lee Lewis](https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D) | [FUL](https://open.spotify.com/album/19NSr68RCY69TRGpMYJQYG) | 4:27 |
 | 59 | [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 |
 | 60 | [Little Nothings](https://open.spotify.com/track/5JseEHJMBE2kRk2vXAaAMv) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Little Nothings](https://open.spotify.com/album/0FID2WHAhfMQ2vxcTU1C3B) | 3:42 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 199 | [palisades](https://open.spotify.com/track/0PLzy8TCh6YQ48WsPbtecP) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [palisades](https://open.spotify.com/album/7K9SJdOpY6C4QuvxmJ5jh6) | 3:57 |
 | 200 | [This Is What You're Gonna Get \(Intro\)](https://open.spotify.com/track/3zeIPaQMP64eIM0rI9KyEq) | [Blue Nightmare](https://open.spotify.com/artist/7KjinB2wGyb4N3zvfdOJqX) | [I Don't Think You Know Me That Well](https://open.spotify.com/album/3I2rg6r3sOA7qYEsLdH2NK) | 1:10 |
 
-Snapshot ID: `MCxjY2YxMzRmZWExYmE3ZWE2NDUyYWFiODNhODA2MzkyOGMxMmE3OTUy`
+Snapshot ID: `MCw4ODdmNjNlNGYxMzQ2YjhiYTBlMGUzNmE3NjU3OWU1MGVhYjgxN2I2`

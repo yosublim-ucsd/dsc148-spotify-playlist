@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Pereira com MC Daniel, Anitta, Mc IG e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,920,634 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921,138 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 52 | [Tudo Meu](https://open.spotify.com/track/4R7e0VeGP4ouYYd3fJIsH9) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Tudo Meu](https://open.spotify.com/album/0JdAzfGhlWWcF3za66uSLK) | 2:25 |
 | 53 | [ex](https://open.spotify.com/track/2NkhMPRrtc8tIadBLmXs4h) | [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP), [CASITA](https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv) | [ex](https://open.spotify.com/album/4Y2OEEkFBNTdLK7iDg7o7n) | 3:18 |
 | 54 | [Baile](https://open.spotify.com/track/4LiBPCO4pfk9waJIla2u2Z) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Di Paiva](https://open.spotify.com/artist/6VgzwK3rGqvD6bkug6XYk6), [PS](https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68) | [Baile](https://open.spotify.com/album/18JgtpVVMNHlm0QwYMT5Cq) | 2:51 |
-| 55 | [Tudo Que Pedir](https://open.spotify.com/track/3Vfm4zFtNB65PAnmYtRrNn) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Blackqueen, Vol\. 2](https://open.spotify.com/album/7yFXtYKtsckLK5oD1hhVGF) | 2:30 |
+| 55 | [Tudo Que Pedir](https://open.spotify.com/track/3Vfm4zFtNB65PAnmYtRrNn) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p), [Eliefe](https://open.spotify.com/artist/2VHOlZANAKceDEEKlzSf4U) | [Blackqueen, Vol\. 2](https://open.spotify.com/album/7yFXtYKtsckLK5oD1hhVGF) | 2:30 |
 | 56 | [Bellingham](https://open.spotify.com/track/3GTpSnNTSh4QOKE9aM8gmI) | [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Bellingham](https://open.spotify.com/album/77tDGgpRLeX6TSXjtgRZOs) | 1:53 |
 | 57 | [DJ Do Baile](https://open.spotify.com/track/3XBzkhOKknT5ZNRckkd7Ss) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [DJ Do Baile](https://open.spotify.com/album/4QOWUDSQxL5eNxVLjXQTcf) | 3:19 |
 | 58 | [Better Together](https://open.spotify.com/track/4l3oc6geC2DGxqt4G1KvQQ) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [RICCI](https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL) | [Better Together](https://open.spotify.com/album/6FbJYgs69DIOjy0rGFHnI6) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 74 | [Conselho de Bobo](https://open.spotify.com/track/6J29RYRBNiAJjXWgNCa7bf) | [Marcelinho De Lima](https://open.spotify.com/artist/7DRrTGEGV943S1FXmGfMsT) | [Conselho de Bobo](https://open.spotify.com/album/2FqfkdgijP6q8LE1z8goTN) | 2:58 |
 | 75 | [Suspiro](https://open.spotify.com/track/2yLWBGLSkMvbttYVO7BBWU) | [Almério](https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Suspiro](https://open.spotify.com/album/5HGRlYyad7meOnp93Q3aDQ) | 2:38 |
 
-Snapshot ID: `MCw1YzY0ZmJiMWFhYWMxZmVlYmUwNjJhOTVlN2EyZWE5MjI1ODZhNzlk`
+Snapshot ID: `MCw1OWNkN2Q5MzY0MmU1MzE4MTFlN2YxZDcwYmNiZWZiZGU3NDIxOTlj`

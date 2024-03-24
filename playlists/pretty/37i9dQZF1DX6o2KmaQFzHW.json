@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 184927,
+  "num_followers": 184984,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjA5Y2ZjMWQ5MmZkZGU2OGQ1YTQyZDEyNWQ5MjBiMmY0YTliOTYz",
+  "snapshot_id": "MCwzMDg5MjA4ZmIxNTNkMmExZWIyNzVkYjNlYjY4Y2Y1MWQ2MTJhODY1",
   "tracks": [
     {
       "added_at": "2024-03-07 18:46:47",
@@ -743,22 +743,18 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Chamame",
-        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
+        "name": "Desde Adentro",
+        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
       },
       "artists": [
         {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
-        },
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
         }
       ],
-      "duration_ms": 171399,
-      "name": "Km. 11",
-      "url": "https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN"
+      "duration_ms": 162093,
+      "name": "La Flor Azul",
+      "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -779,18 +775,22 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Desde Adentro",
-        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
+        "name": "Chamame",
+        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
       },
       "artists": [
         {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        },
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 162093,
-      "name": "La Flor Azul",
-      "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
+      "duration_ms": 171399,
+      "name": "Km. 11",
+      "url": "https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
+        "name": "Paisaje",
+        "url": "https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Agitando Pa\u00f1uelos",
+      "url": "https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 191653,
       "name": "Canci\u00f3n Para Una Mentira",
       "url": "https://open.spotify.com/track/4ZchCWefhpCY7Tr8CcNsFv"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
-        "name": "Paisaje",
-        "url": "https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Agitando Pa\u00f1uelos",
-      "url": "https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Sole y Horacio juntos por \u00danica Vez (Grabado en Vivo en el Luna Park)",
-        "url": "https://open.spotify.com/album/3H8CgdJTlIrZ5QIJFssYVc"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        },
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
-        }
-      ],
-      "duration_ms": 511746,
-      "name": "Bloque Romantico: Nada Tengo de Ti / Quiero Tu Voz / No Quisiera Quererte / Amar Amando - En Vivo",
-      "url": "https://open.spotify.com/track/4DP2160LC4dW6RTNeYQvMB"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
         "name": "Los 3 del R\u00edo",
         "url": "https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 118773,
       "name": "Maric\u00f3n",
       "url": "https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
+        "name": "Sole y Horacio juntos por \u00danica Vez (Grabado en Vivo en el Luna Park)",
+        "url": "https://open.spotify.com/album/3H8CgdJTlIrZ5QIJFssYVc"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 511746,
+      "name": "Bloque Romantico: Nada Tengo de Ti / Quiero Tu Voz / No Quisiera Quererte / Amar Amando - En Vivo",
+      "url": "https://open.spotify.com/track/4DP2160LC4dW6RTNeYQvMB"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Romance De Luna Y Flor",
-        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
-      },
-      "artists": [
-        {
-          "name": "Los Fronterizos",
-          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Zamba Del Negro Alegre",
-      "url": "https://open.spotify.com/track/7surOH29RMSvRAdInzGhLU"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
         "name": "Ando Cant\u00e1ndole al Viento y No S\u00f3lo por Cantar ...",
         "url": "https://open.spotify.com/album/2hayB5nl5ejc40RZQvzznm"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 182080,
       "name": "No Te Puedo Olvidar",
       "url": "https://open.spotify.com/track/79hua0r80o37LqICjNIY85"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
+        "name": "Romance De Luna Y Flor",
+        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
+      },
+      "artists": [
+        {
+          "name": "Los Fronterizos",
+          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Zamba Del Negro Alegre",
+      "url": "https://open.spotify.com/track/7surOH29RMSvRAdInzGhLU"
     },
     {
       "added_at": "2024-03-07 18:46:47",
@@ -1327,54 +1327,6 @@
     {
       "added_at": "2024-03-07 18:46:47",
       "album": {
-        "name": "Principio y Destino",
-        "url": "https://open.spotify.com/album/7HS2KYPywBrmG6FXupQm36"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 163906,
-      "name": "El tesoro de mi alma",
-      "url": "https://open.spotify.com/track/6LweRJCnlnrAB21WQjUupg"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
-        "name": "Romance De Luna Y Flor",
-        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
-      },
-      "artists": [
-        {
-          "name": "Los Fronterizos",
-          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "L\u00f3pez Pereyra",
-      "url": "https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
-        "name": "El Estilo Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2"
-      },
-      "artists": [
-        {
-          "name": "Los Del Suqu\u00eda",
-          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Y Va Pasando la Vida",
-      "url": "https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0"
-    },
-    {
-      "added_at": "2024-03-07 18:46:47",
-      "album": {
         "name": "Concierto del Alma",
         "url": "https://open.spotify.com/album/2x35VXSZW6xfQQSvSnYIVW"
       },
@@ -1395,6 +1347,54 @@
       "duration_ms": 213733,
       "name": "Purmamarca",
       "url": "https://open.spotify.com/track/1x7hWGwMKKLGTxPueCbuPV"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
+        "name": "Romance De Luna Y Flor",
+        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
+      },
+      "artists": [
+        {
+          "name": "Los Fronterizos",
+          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "L\u00f3pez Pereyra",
+      "url": "https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
+        "name": "Principio y Destino",
+        "url": "https://open.spotify.com/album/7HS2KYPywBrmG6FXupQm36"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 163906,
+      "name": "El tesoro de mi alma",
+      "url": "https://open.spotify.com/track/6LweRJCnlnrAB21WQjUupg"
+    },
+    {
+      "added_at": "2024-03-07 18:46:47",
+      "album": {
+        "name": "El Estilo Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2"
+      },
+      "artists": [
+        {
+          "name": "Los Del Suqu\u00eda",
+          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "Y Va Pasando la Vida",
+      "url": "https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0"
     },
     {
       "added_at": "2024-03-07 18:46:47",

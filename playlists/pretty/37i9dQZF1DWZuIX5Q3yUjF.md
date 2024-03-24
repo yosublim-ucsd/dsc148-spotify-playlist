@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Sarah Toscano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,379 likes - 65 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,387 likes - 65 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 64 | [Candeline \(feat\. Ghemon\)](https://open.spotify.com/track/6novc9o6iBbWRCSaU6b1XB) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY), [Alessandro Rase](https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Candeline \(feat\. Ghemon\)](https://open.spotify.com/album/2Fdum39Jz7ypweYX7WbJ09) | 2:33 |
 | 65 | [fantasia](https://open.spotify.com/track/0yN25EpN0006BUnUEdO01L) | [petra](https://open.spotify.com/artist/3yzgT3hMTtjPZ9GgmeFnCt) | [fantasia](https://open.spotify.com/album/5kPW3P97lIDEzoajnkRV3P) | 3:15 |
 
-Snapshot ID: `MCxmMTI5NmM2NTA3MWVmMDhmMjZjMTdiNjZkZWRkNzY1ZDgwOWE3NWUy`
+Snapshot ID: `MCwyMmFkOGFiMDVkZjYzMTIxZjY1MGNiZjEwNTJmZmNjYmYyN2QwYWNh`

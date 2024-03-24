@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 309039,
+  "2024-03-24": 309065,
   "date_first_scraped": "2022-09-18",
   "description": "This is The Beach Boys. The essential tracks, all in one playlist.",
   "name": "This Is The Beach Boys",
@@ -197,7 +197,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 47786,
       "name": "Barnyard",
       "url": "https://open.spotify.com/track/0qV9G76eiyQOUtbzem02Bp"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 134386,
       "name": "I Get Around (Mono)",
       "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 141226,
       "name": "Let's Go Away For A While - Mono",
       "url": "https://open.spotify.com/track/3GsgJI1aBrvUtqX8f3MhKT"
@@ -1441,7 +1441,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 114333,
       "name": "Little Honda (Stereo)",
       "url": "https://open.spotify.com/track/1QL2yb3tD2zF5I1NAYH3mD"
@@ -1495,7 +1495,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 118826,
       "name": "Lookin' At Tomorrow (A Welfare Song) - Remastered 2009",
       "url": "https://open.spotify.com/track/2lkwyf1LLKLyWP0kVmxf5e"
@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 167266,
       "name": "Please Let Me Wonder - Remastered",
       "url": "https://open.spotify.com/track/0rttThNJX5cZLtQUASghA7"
@@ -1819,7 +1819,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 148533,
       "name": "Surfer Girl - Remastered 2001",
       "url": "https://open.spotify.com/track/1AJ5F0FMTC3yFU3ocjy1gE"
@@ -1855,7 +1855,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 126640,
       "name": "Surfin' Safari - Mono/Remastered 2001",
       "url": "https://open.spotify.com/track/4kIYRtgbZyPzAWSFLdlajW"
@@ -1891,7 +1891,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 149373,
       "name": "Surfin' U.S.A. - Remastered 2001",
       "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
@@ -2035,7 +2035,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 125413,
       "name": "When I Grow Up (To Be a Man)",
       "url": "https://open.spotify.com/track/2ulPFs59dOCrd6JLkvNIJR"

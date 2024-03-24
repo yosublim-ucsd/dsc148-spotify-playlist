@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:3HRSdDvPAE54ocmaq0JRrJ">Camilla Magli</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,650 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,655 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 4 | [VENERE](https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [VENERE](https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql) | 2:48 |
 | 5 | [Moovitè](https://open.spotify.com/track/2ya6KqFdBgwy3So1Qis3qQ) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Gipsy chic // ɔıɥɔ ʎsdıƃ](https://open.spotify.com/album/67SNETlm4OzX9tryXgu3bi) | 2:44 |
 | 6 | [1 MESSAGGIO](https://open.spotify.com/track/3GsSmGgMELKhaYSj3QTShu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [1 MESSAGGIO](https://open.spotify.com/album/4ckePFG01HSFnIDOtG9ZjS) | 2:34 |
-| 7 | [GENNAIO 24](https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [GENNAIO 24](https://open.spotify.com/album/5TNxlyrgY5qoyceHYAoAE9) | 2:10 |
+| 7 | [GENNAIO 24 \(feat\. Caffellatte\)](https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF), [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [GENNAIO 24 \(feat\. Caffellatte\)](https://open.spotify.com/album/5TNxlyrgY5qoyceHYAoAE9) | 2:10 |
 | 8 | [Cuore in Gola](https://open.spotify.com/track/6t4dhFqiP2W05yqPX4ebI4) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Cuore in Gola](https://open.spotify.com/album/6YOAAMsWhRujHGP7rPdG4G) | 3:02 |
 | 9 | [Tranquillo mai](https://open.spotify.com/track/0fhTCQPc8uFQGQY3iWb0sU) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 2:39 |
 | 10 | [PETARDI](https://open.spotify.com/track/6aBkkxEVmDGC1o0DpxQcjM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PETARDI](https://open.spotify.com/album/0KFD7ttxVpwUGGHws8HKod) | 2:28 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 39 | [Flora](https://open.spotify.com/track/1JoU93qhttHC3wBXWAdPLR) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Flora](https://open.spotify.com/album/2GJ2PdGfXMM1w4Y68djdGt) | 3:16 |
 | 40 | [KANYE WEST \(feat\. Bresh\)](https://open.spotify.com/track/76V4fmBYiVqpOJB6GC3SHA) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [KANYE WEST \(feat\. Bresh\)](https://open.spotify.com/album/599Ef02IOqtzkVBd1sFlfo) | 3:08 |
 
-Snapshot ID: `MCwzNjRmZTIzMzAwMjU2YTYzZjEyMGZkZTNhNzY5ZTJlYzMzNGE4MzA3`
+Snapshot ID: `MCw4ZDhjOGY0NjYyNmI1MjNlZmJhM2Y0MGY2NzgyYTM1MGRkODNlYjc2`

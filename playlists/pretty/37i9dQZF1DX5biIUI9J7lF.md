@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > I'm just a girl
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,809 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,852 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 33 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 |
 | 34 | [No Wahala](https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [No Wahala](https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY) | 2:42 |
 | 35 | [Bite Size](https://open.spotify.com/track/12DYaQNNZCyDe6mmfMNA2e) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Bite Size](https://open.spotify.com/album/1a4OD0R6DKPBhIayWKArTT) | 2:03 |
-| 36 | [Silly Nigga 2](https://open.spotify.com/track/5UnZUMR2DZ5h2bgYlP9zEw) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [Steph](https://open.spotify.com/artist/6UPkSQN7knaKxLngLB4wIE) | [Silly Nigga](https://open.spotify.com/album/705KvjIMj0OvDjb0skxNKa) | 2:55 |
+| 36 | [Silly Nigga 2](https://open.spotify.com/track/5UnZUMR2DZ5h2bgYlP9zEw) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [Steph](https://open.spotify.com/artist/7noY4JrCn1YjpKEobbIo6C) | [Silly Nigga](https://open.spotify.com/album/705KvjIMj0OvDjb0skxNKa) | 2:55 |
 | 37 | [Toast \- Remix](https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU) | [J Star](https://open.spotify.com/artist/4XoVFXRNNMzxuEpxRt2lqp) | [Toast \(Remix\)](https://open.spotify.com/album/24oZPmdzVJ7X5agJbGpK8d) | 3:07 |
 | 38 | [Enjoyment](https://open.spotify.com/track/6JLATH1pX3C4YOoZrjffxQ) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Enjoyment](https://open.spotify.com/album/42bt55qWJCFcSMp0D1ysfl) | 3:24 |
 | 39 | [Soft Vibez](https://open.spotify.com/track/2YRKNDgSjfGNZJgP0xXfXY) | [Mishasha](https://open.spotify.com/artist/2X8BDJoWGo3VkrzPy2fN7W) | [Soft Vibez](https://open.spotify.com/album/4b44eL5sGIOEFAe6GEyfI8) | 2:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 79 | [Proper Enjoyment](https://open.spotify.com/track/4QkjkDGed9G61Ondbtg5ON) | [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju) | [Proper Enjoyment](https://open.spotify.com/album/6Zud8nl3jWGp7M80X3zJMY) | 3:45 |
 | 80 | [9 to 5](https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Mahogany St](https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d) | 2:55 |
 
-Snapshot ID: `MCxkMTc5YzI5ODgwZDMwNjBiZTc5ZWVjZWRlY2E4Yzg5NzRhMTBkZjI2`
+Snapshot ID: `MCw4OGMyNjU4YjFjZTcwNTM1ZjQ4ZTk0YjY5ZTk2ODBiYzM0NDRkZjBl`

@@ -1,5 +1,5 @@
 {
-  "2024-03-23": 383317,
+  "2024-03-24": 383548,
   "date_first_scraped": "2022-05-26",
   "description": "Este Flow tiene otro Flow. Foto: FloyyMenor & Lucky Brown.",
   "name": "Reggaet\u00f3n Chileno",
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 221657,
       "name": "Atiendase",
       "url": "https://open.spotify.com/track/5C0XLseJTiYRJV64VrLAQH"
@@ -5441,7 +5441,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 144014,
       "name": "HOLA",
       "url": "https://open.spotify.com/track/48YrG6XwgHNoFVwFN9VzWB"
@@ -5671,6 +5671,36 @@
       "duration_ms": 139206,
       "name": "Jeke Arabe",
       "url": "https://open.spotify.com/track/52z4xEr2mdBfIcMYYb0MKH"
+    },
+    {
+      "album": {
+        "name": "JERICHO",
+        "url": "https://open.spotify.com/album/7I8GLTLdHbUPIGl9TGhG6t"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Izahn",
+          "url": "https://open.spotify.com/artist/0kqEGkfZl82GmTSR6jVCSk"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192006,
+      "name": "JERICHO",
+      "url": "https://open.spotify.com/track/2G41rxsPYJqFL3HYbgTviF"
     },
     {
       "album": {
@@ -7083,6 +7113,28 @@
       "duration_ms": 163500,
       "name": "Luz Verde",
       "url": "https://open.spotify.com/track/3DB1bl2tkKYTCOt90Y5gIM"
+    },
+    {
+      "album": {
+        "name": "MA DIAMANTE",
+        "url": "https://open.spotify.com/album/0OTV5gYngPkIeYAcFs9Ytw"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148602,
+      "name": "MA DIAMANTE",
+      "url": "https://open.spotify.com/track/3seBr5Cm5NSEO8CKKR8sYw"
     },
     {
       "album": {
@@ -12321,7 +12373,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 204276,
       "name": "Sentimiento Real G",
       "url": "https://open.spotify.com/track/4F8Ey7mqO9ELVgJY9saaEk"
@@ -15219,6 +15271,28 @@
       "duration_ms": 193835,
       "name": "X ESO BB",
       "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"
+    },
+    {
+      "album": {
+        "name": "Xinga",
+        "url": "https://open.spotify.com/album/3d49Hxy3EFMewUUIVBInOj"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Xinga",
+      "url": "https://open.spotify.com/track/17LoyD06c7hSZAGfj3Mybp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,721 likes - 30 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,724 likes - 30 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 29 | [女だから](https://open.spotify.com/track/7CHiHRLcVqNpyaSNRJqxPu) | [Laughing Hick](https://open.spotify.com/artist/17DWzzd6Ap8umcfYBYHJ3W) | [女だから](https://open.spotify.com/album/6YvlAjkhEdHZnYu99KcNXe) | 3:55 |
 | 30 | [Avocado](https://open.spotify.com/track/3zqsiBNnHLIxqEZf7MzKvj) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [Coming Spring](https://open.spotify.com/album/7wKx0MpkCsftgQeEZ2a789) | 3:32 |
 
-Snapshot ID: `MCw5ZTU4YWRjNGY5M2I2NjY1ZTI2NmViOWY0MDFiMTFjNjJhNmMwYmYw`
+Snapshot ID: `MCw4OGZiYTNiOWYyNzM5OGVhY2U3YjUwMzc0ZmU0MTc2YTIwY2YzODQz`

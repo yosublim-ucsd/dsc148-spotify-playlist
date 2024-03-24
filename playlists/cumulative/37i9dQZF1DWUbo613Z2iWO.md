@@ -4,7 +4,7 @@
 
 > R&B of the moment by the artists of the future\. Cover: Kenya Vaun
 
-832 songs - 1 day 18 hr 43 min
+833 songs - 1 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,8 @@
 | [INFINITY PLUS INFINITY](https://open.spotify.com/track/3W2SA9K6Ap5wk06SNvD63C) | [Ctrlgang](https://open.spotify.com/artist/4bMX90q14BwLcwOZPe9hZV) | [INFINITY PLUS INFINITY](https://open.spotify.com/album/5BYeL15D2j66yBx5xDnFYv) | 2:01 | 2022-06-17 | 2022-08-06 |
 | [Insanity \(feat\. Tone Stith\)](https://open.spotify.com/track/5Pm7c0omSn7WEezUtIqnK4) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Didn't Start With You](https://open.spotify.com/album/27RhvUoZNhFtggwX1pVSgr) | 3:26 | 2022-10-07 | 2023-02-25 |
 | [INSIDE](https://open.spotify.com/track/1j1KbCOTYAGdfDJ0hsuLhc) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [INSIDE](https://open.spotify.com/album/3K1RiDgcaxkA2NctK2jdID) | 3:54 | 2022-01-28 | 2022-03-18 |
-| [Intergalactic Janet](https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/3vS1oa8XAK2I4BLsMPEsK2) | 2:40 | 2024-03-22 |  |
+| [Intergalactic Janet](https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/3vS1oa8XAK2I4BLsMPEsK2) | 2:40 | 2024-03-22 | 2024-03-24 |
+| [Intergalactic Janet](https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj) | 2:40 | 2024-03-22 |  |
 | [Into U](https://open.spotify.com/track/5g4KLM2NfniEg0beTTrZtW) | [Dxvn.](https://open.spotify.com/artist/3UzhllIYKcLay5xslYF85U) | [Into U](https://open.spotify.com/album/0nLdXVXDhqaoEH3iJwtKRt) | 3:03 | 2022-04-08 | 2022-05-14 |
 | [Introvert Hotline](https://open.spotify.com/track/5SQxSIapsaziYnZRLwfPSU) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Introvert Hotline](https://open.spotify.com/album/0HxAmiI6pF4ZRaLGv63HnX) | 3:17 | 2022-03-11 | 2022-04-02 |
 | [Is It A Crime?](https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Is It A Crime? EP](https://open.spotify.com/album/3kxoRW2ZtrlfMOmiBrvSq7) | 2:22 | 2023-06-02 |  |

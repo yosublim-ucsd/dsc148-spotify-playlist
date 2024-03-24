@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1486006,
+  "num_followers": 1486032,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2U1MTE5YWJhMTg5YTFlNjNiMjk1ZmRlYzlmZTNjYzU4ZDIzYTFl",
+  "snapshot_id": "MCw4YzFjNTIyNjAxYmJlMzVkNjgxNTE4OThhMjMyYzQzMDE0YzIwOTU0",
   "tracks": [
     {
       "added_at": "2024-02-22 15:54:10",
@@ -243,22 +243,22 @@
     {
       "added_at": "2024-02-22 15:54:10",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/6KXQNOaRTvCbQxz96cbeRl"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
       },
       "artists": [
         {
-          "name": "soho",
-          "url": "https://open.spotify.com/artist/5rCxM6JMlwyQ3tuds8DqPR"
+          "name": "Allgood",
+          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
         },
         {
-          "name": "G Mills",
-          "url": "https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N"
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
         }
       ],
-      "duration_ms": 74285,
-      "name": "3rd Times a Charm",
-      "url": "https://open.spotify.com/track/5vZ765J8ZmT05irwA9udHT"
+      "duration_ms": 128000,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
     },
     {
       "added_at": "2024-02-22 15:54:10",
@@ -283,6 +283,42 @@
       "duration_ms": 146823,
       "name": "3:30pm - Jam'addict Remix",
       "url": "https://open.spotify.com/track/2BrW5gipvs2hSQsQowp8Gy"
+    },
+    {
+      "added_at": "2024-02-22 15:54:10",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/6KXQNOaRTvCbQxz96cbeRl"
+      },
+      "artists": [
+        {
+          "name": "soho",
+          "url": "https://open.spotify.com/artist/5rCxM6JMlwyQ3tuds8DqPR"
+        },
+        {
+          "name": "G Mills",
+          "url": "https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N"
+        }
+      ],
+      "duration_ms": 74285,
+      "name": "3rd Times a Charm",
+      "url": "https://open.spotify.com/track/5vZ765J8ZmT05irwA9udHT"
+    },
+    {
+      "added_at": "2024-02-22 15:54:10",
+      "album": {
+        "name": "Arigato Mama",
+        "url": "https://open.spotify.com/album/70gkTjKai4oN4fEtDXL8Ce"
+      },
+      "artists": [
+        {
+          "name": "Dj Yutaka",
+          "url": "https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn"
+        }
+      ],
+      "duration_ms": 189058,
+      "name": "Arigato Mama",
+      "url": "https://open.spotify.com/track/2yxnnVeeS0s4hUqhFiDEdi"
     },
     {
       "added_at": "2024-02-22 15:54:10",
@@ -315,22 +351,6 @@
     {
       "added_at": "2024-02-22 15:54:10",
       "album": {
-        "name": "Arigato Mama",
-        "url": "https://open.spotify.com/album/70gkTjKai4oN4fEtDXL8Ce"
-      },
-      "artists": [
-        {
-          "name": "Dj Yutaka",
-          "url": "https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn"
-        }
-      ],
-      "duration_ms": 189058,
-      "name": "Arigato Mama",
-      "url": "https://open.spotify.com/track/2yxnnVeeS0s4hUqhFiDEdi"
-    },
-    {
-      "added_at": "2024-02-22 15:54:10",
-      "album": {
         "name": "Warmer Together",
         "url": "https://open.spotify.com/album/6NDSwfpx4J4bZfFi27L9JB"
       },
@@ -347,6 +367,22 @@
       "duration_ms": 157500,
       "name": "Warmer Together",
       "url": "https://open.spotify.com/track/610xaw9Y51TEforwMGyTKK"
+    },
+    {
+      "added_at": "2024-02-22 15:54:10",
+      "album": {
+        "name": "Paris Nights",
+        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
+      },
+      "artists": [
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Paris Nights",
+      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
     },
     {
       "added_at": "2024-02-22 15:54:10",
@@ -375,38 +411,6 @@
     {
       "added_at": "2024-02-22 15:54:10",
       "album": {
-        "name": "Paris Nights",
-        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
-      },
-      "artists": [
-        {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Paris Nights",
-      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
-    },
-    {
-      "added_at": "2024-02-22 15:54:10",
-      "album": {
-        "name": "Daybreaks",
-        "url": "https://open.spotify.com/album/5qJ3nTrX2X0OvggMXsXPpd"
-      },
-      "artists": [
-        {
-          "name": "Ol' Burger Beats",
-          "url": "https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz"
-        }
-      ],
-      "duration_ms": 138040,
-      "name": "So They Say",
-      "url": "https://open.spotify.com/track/0GSKfSgXpt1T8hbLk7ZMId"
-    },
-    {
-      "added_at": "2024-02-22 15:54:10",
-      "album": {
         "name": "A Kid From Yerevan (Instrumental)",
         "url": "https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ"
       },
@@ -423,18 +427,18 @@
     {
       "added_at": "2024-02-22 15:54:10",
       "album": {
-        "name": "Easy Feet",
-        "url": "https://open.spotify.com/album/47PLWKaHsza5rCUmSw4Rqh"
+        "name": "Daybreaks",
+        "url": "https://open.spotify.com/album/5qJ3nTrX2X0OvggMXsXPpd"
       },
       "artists": [
         {
-          "name": "Smartface",
-          "url": "https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym"
+          "name": "Ol' Burger Beats",
+          "url": "https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz"
         }
       ],
-      "duration_ms": 116893,
-      "name": "Too Tired",
-      "url": "https://open.spotify.com/track/30ksReCEcSpnfAm8XCC4G7"
+      "duration_ms": 138040,
+      "name": "So They Say",
+      "url": "https://open.spotify.com/track/0GSKfSgXpt1T8hbLk7ZMId"
     },
     {
       "added_at": "2024-02-22 15:54:10",
@@ -459,18 +463,18 @@
     {
       "added_at": "2024-02-22 15:54:10",
       "album": {
-        "name": "Cadillac Mountain",
-        "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
+        "name": "Easy Feet",
+        "url": "https://open.spotify.com/album/47PLWKaHsza5rCUmSw4Rqh"
       },
       "artists": [
         {
-          "name": "Brock Berrigan",
-          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
+          "name": "Smartface",
+          "url": "https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym"
         }
       ],
-      "duration_ms": 103255,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
+      "duration_ms": 116893,
+      "name": "Too Tired",
+      "url": "https://open.spotify.com/track/30ksReCEcSpnfAm8XCC4G7"
     },
     {
       "added_at": "2024-02-22 15:54:10",
@@ -491,18 +495,18 @@
     {
       "added_at": "2024-02-22 15:54:10",
       "album": {
-        "name": "Between Days",
-        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
+        "name": "Cadillac Mountain",
+        "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
       },
       "artists": [
         {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+          "name": "Brock Berrigan",
+          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
         }
       ],
-      "duration_ms": 166448,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD"
+      "duration_ms": 103255,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
     },
     {
       "added_at": "2024-02-22 15:54:10",
@@ -519,6 +523,22 @@
       "duration_ms": 130920,
       "name": "oak",
       "url": "https://open.spotify.com/track/2GhvTizbLq8G138Mw9Fhdm"
+    },
+    {
+      "added_at": "2024-02-22 15:54:10",
+      "album": {
+        "name": "Between Days",
+        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 166448,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD"
     },
     {
       "added_at": "2024-02-22 15:54:10",
@@ -559,30 +579,6 @@
     {
       "added_at": "2024-02-22 15:54:10",
       "album": {
-        "name": "Cosmic",
-        "url": "https://open.spotify.com/album/0Q413u4gUUGs8EKDe13hzs"
-      },
-      "artists": [
-        {
-          "name": "Strehlow",
-          "url": "https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm"
-        },
-        {
-          "name": "Ian Ewing",
-          "url": "https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh"
-        },
-        {
-          "name": "TyLuv.",
-          "url": "https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx"
-        }
-      ],
-      "duration_ms": 94468,
-      "name": "Cosmic",
-      "url": "https://open.spotify.com/track/3ESJIVVpwOAK9fK5sktDl7"
-    },
-    {
-      "added_at": "2024-02-22 15:54:10",
-      "album": {
         "name": "GOLDRUSH",
         "url": "https://open.spotify.com/album/5GFs9h5XRszs1Q768Aagsz"
       },
@@ -607,18 +603,26 @@
     {
       "added_at": "2024-02-22 15:54:10",
       "album": {
-        "name": "Boardwalk Bumps 3",
-        "url": "https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts"
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/0Q413u4gUUGs8EKDe13hzs"
       },
       "artists": [
         {
-          "name": "Engelwood",
-          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+          "name": "Strehlow",
+          "url": "https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm"
+        },
+        {
+          "name": "Ian Ewing",
+          "url": "https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh"
+        },
+        {
+          "name": "TyLuv.",
+          "url": "https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx"
         }
       ],
-      "duration_ms": 121097,
-      "name": "Good Evening",
-      "url": "https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG"
+      "duration_ms": 94468,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/3ESJIVVpwOAK9fK5sktDl7"
     },
     {
       "added_at": "2024-02-22 15:54:10",
@@ -635,6 +639,22 @@
       "duration_ms": 132187,
       "name": "Love Vibe and Learn",
       "url": "https://open.spotify.com/track/5TdBSyit6udNnTqJhbgiFT"
+    },
+    {
+      "added_at": "2024-02-22 15:54:10",
+      "album": {
+        "name": "Boardwalk Bumps 3",
+        "url": "https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        }
+      ],
+      "duration_ms": 121097,
+      "name": "Good Evening",
+      "url": "https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG"
     },
     {
       "added_at": "2024-02-22 15:54:10",
@@ -687,22 +707,6 @@
     {
       "added_at": "2024-02-22 15:54:10",
       "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/4tqNta7RhK5B5uhizhQ077"
-      },
-      "artists": [
-        {
-          "name": "Stan Forebee",
-          "url": "https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez"
-        }
-      ],
-      "duration_ms": 149373,
-      "name": "Cargo Rhodes",
-      "url": "https://open.spotify.com/track/0IDEOKzwG6towimLfr8DrX"
-    },
-    {
-      "added_at": "2024-02-22 15:54:10",
-      "album": {
         "name": "Life in the Wild Garden",
         "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
       },
@@ -715,6 +719,22 @@
       "duration_ms": 95000,
       "name": "Viva la Vida",
       "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
+    },
+    {
+      "added_at": "2024-02-22 15:54:10",
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/4tqNta7RhK5B5uhizhQ077"
+      },
+      "artists": [
+        {
+          "name": "Stan Forebee",
+          "url": "https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez"
+        }
+      ],
+      "duration_ms": 149373,
+      "name": "Cargo Rhodes",
+      "url": "https://open.spotify.com/track/0IDEOKzwG6towimLfr8DrX"
     },
     {
       "added_at": "2024-02-22 15:54:10",
@@ -931,26 +951,6 @@
     {
       "added_at": "2024-02-22 15:54:10",
       "album": {
-        "name": "Night Vision",
-        "url": "https://open.spotify.com/album/6GblXcxt5814Mq4kIT7ZII"
-      },
-      "artists": [
-        {
-          "name": "Bayek",
-          "url": "https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
-        }
-      ],
-      "duration_ms": 90464,
-      "name": "Night Vision",
-      "url": "https://open.spotify.com/track/62TWSulSg6OuPEwEdmIMQL"
-    },
-    {
-      "added_at": "2024-02-22 15:54:10",
-      "album": {
         "name": "Rock",
         "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
       },
@@ -987,6 +987,26 @@
       "duration_ms": 106400,
       "name": "night sky",
       "url": "https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4"
+    },
+    {
+      "added_at": "2024-02-22 15:54:10",
+      "album": {
+        "name": "Night Vision",
+        "url": "https://open.spotify.com/album/6GblXcxt5814Mq4kIT7ZII"
+      },
+      "artists": [
+        {
+          "name": "Bayek",
+          "url": "https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 90464,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/62TWSulSg6OuPEwEdmIMQL"
     },
     {
       "added_at": "2024-02-22 15:54:10",
@@ -1067,26 +1087,6 @@
       "duration_ms": 191361,
       "name": "SMiLE",
       "url": "https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY"
-    },
-    {
-      "added_at": "2024-02-22 15:54:10",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
-      },
-      "artists": [
-        {
-          "name": "Allgood",
-          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
-        },
-        {
-          "name": "Kanimayo",
-          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
     },
     {
       "added_at": "2024-02-22 15:54:10",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-02-22 15:54:10",
       "album": {
-        "name": "Evening Drive",
-        "url": "https://open.spotify.com/album/4ryZ34XY94W7KOS5nxLCsR"
-      },
-      "artists": [
-        {
-          "name": "Milo Who",
-          "url": "https://open.spotify.com/artist/2AvtPNQ7qZnLcBxC6kPvZ6"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Evening Drive",
-      "url": "https://open.spotify.com/track/5lPlwvq6YORDItfF5xUb7j"
-    },
-    {
-      "added_at": "2024-02-22 15:54:10",
-      "album": {
         "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
         "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 243693,
       "name": "Sometimes - Remix Instrumental",
       "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
+    },
+    {
+      "added_at": "2024-02-22 15:54:10",
+      "album": {
+        "name": "Evening Drive",
+        "url": "https://open.spotify.com/album/4ryZ34XY94W7KOS5nxLCsR"
+      },
+      "artists": [
+        {
+          "name": "Milo Who",
+          "url": "https://open.spotify.com/artist/2AvtPNQ7qZnLcBxC6kPvZ6"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Evening Drive",
+      "url": "https://open.spotify.com/track/5lPlwvq6YORDItfF5xUb7j"
     },
     {
       "added_at": "2024-02-22 15:54:10",

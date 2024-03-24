@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-380 songs - 1 day 3 hr 34 min
+382 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,8 +229,10 @@
 | [えがお・シング・あ・ソング](https://open.spotify.com/track/7tjr6flf3J84xAWMVioGPX) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [えがお・シング・あ・ソング](https://open.spotify.com/album/3Wv3E9CGqGqSCIf4Fpn6jf) | 4:09 | 2022-05-17 | 2022-07-22 |
 | [えがお･シング･あ･ソング](https://open.spotify.com/track/19ejmhBUzhgVoX8W9bMK8S) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと！](https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK) | 4:09 | 2022-09-20 |  |
 | [おもいでイルミネーション](https://open.spotify.com/track/7qwcN9x7L6ZhkqstCXIpjK) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこ×にこ=ハイパースマイルパワー!](https://open.spotify.com/album/5UenLEIt08bBiAFzwL9Yk3) | 4:14 | 2022-06-23 | 2022-07-12 |
+| [かくれんぼ \- Cover](https://open.spotify.com/track/74KEa2YphxxbDhOOjCG7O8) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [かくれんぼ \(Cover\)](https://open.spotify.com/album/2sOL3Skidcw9TXJeM3chRi) | 4:58 | 2024-03-23 |  |
 | [きゅ\~まい\*flower](https://open.spotify.com/track/659EbdMtrJVXdQN13bgVRt) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/40dDOmQivDb9fIraBn82i5) | 3:39 | 2022-08-30 | 2022-10-02 |
 | [きゅ〜まい\*flower](https://open.spotify.com/track/09VlBUV2bN1Hk8KtXD59HS) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [きゅ〜まい\*flower](https://open.spotify.com/album/0hHVUOsumXqR5YJ9ueTcgx) | 3:39 | 2022-06-23 | 2022-07-28 |
+| [きゅうくらりん \- Cover](https://open.spotify.com/track/5a1c3xsbunuS8ybfIdu1Io) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [きゅうくらりん \(Cover\)](https://open.spotify.com/album/7696xeXqso99cXbV3CfgZV) | 3:34 | 2024-03-23 |  |
 | [きゅ～まい＊flower](https://open.spotify.com/track/2fJThhwR3Y4kGXIFRGtGtt) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB) | 3:40 | 2022-09-20 |  |
 | [きらっ☆と キミフェス!](https://open.spotify.com/track/2iiluETgWgme5fGx5OhXFq) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [きらっ☆と キミフェス!](https://open.spotify.com/album/5RgYvLQbOe6akYE244N6mk) | 3:50 | 2022-06-23 | 2022-07-29 |
 | [きらっ☆と キミフェス!](https://open.spotify.com/track/3hRX4ZDtIkhmnXOwH5fKnC) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [きらっ☆と キミフェス!](https://open.spotify.com/album/6D88Xy9TraFcANYAOxZWb2) | 3:51 | 2022-09-20 | 2023-06-28 |
@@ -278,7 +280,7 @@
 | [キズナミュージック♪](https://open.spotify.com/track/4zq1vsR7fPqbP4YfDomFSI) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [キズナミュージック♪](https://open.spotify.com/album/4mYniR7vYFUoalkROKInK8) | 5:17 | 2022-05-17 | 2022-07-27 |
 | [キミがいなくちゃっ!](https://open.spotify.com/track/3cOWBAxUo6w2kCEHLvKNlr) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/0BOnW22OXPOoZzTq4nNfoF) | 4:02 | 2022-05-17 | 2022-07-28 |
 | [キミがいなくちゃっ!](https://open.spotify.com/track/5VHNQC58J2b2XGziQZUdFx) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミがいなくちゃっ!](https://open.spotify.com/album/19s8qe8u31NWdy8uadZp1T) | 4:02 | 2022-05-17 | 2022-07-28 |
-| [キミがいなくちゃっ！](https://open.spotify.com/track/3EoWSf3jmiMPN1h5V1X9IJ) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと！](https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK) | 4:03 | 2022-09-20 |  |
+| [キミがいなくちゃっ！](https://open.spotify.com/track/3EoWSf3jmiMPN1h5V1X9IJ) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと！](https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK) | 4:03 | 2022-09-20 | 2024-03-24 |
 | [キミにもらったもの](https://open.spotify.com/track/6cKlNgYeJXz94KNfV5t6YB) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [クリスマスのうた](https://open.spotify.com/album/5FsEglOG4BOtUmXoVZ7sKb) | 3:54 | 2022-06-23 | 2022-07-20 |
 | [キミを れっつ・はぶ・ふぁん♪](https://open.spotify.com/track/6UvgtXRglHbv8TMZs12DCK) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミを れっつ・はぶ・ふぁん♪](https://open.spotify.com/album/25kdZKiHYjFDfnzQUEheQH) | 3:55 | 2023-06-27 |  |
 | [キラキラだとか夢だとか 〜Sing Girls〜](https://open.spotify.com/track/0V1DIariXWpmS20mpaC7bn) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [TVアニメ「BanG Dream!」ED主題歌「キラキラだとか夢だとか 〜Sing Girls〜」](https://open.spotify.com/album/3AFkgSh1JVkEujfHxItEpy) | 5:05 | 2022-06-23 | 2022-07-29 |
@@ -367,7 +369,7 @@
 | [絆色のアンサンブル](https://open.spotify.com/track/1g8uyFFDuiYsgbDirSkB0R) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6), [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg), [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs](https://open.spotify.com/album/6E9PhFn4SWpwlNSDJ4JDo1) | 5:12 | 2022-05-17 | 2022-07-26 |
 | [花園電気ギター!!!](https://open.spotify.com/track/5ycmMZBbaKAISsDxA4iCE7) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P) | 3:17 | 2022-05-17 | 2022-07-24 |
 | [花園電気ギター！！！](https://open.spotify.com/track/0GRDxtvxmz51U425YzSQnn) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング　花園たえ「花園電気ギター！！！」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 3:19 | 2022-09-20 |  |
-| [誓いのWingbeat](https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:15 | 2023-03-14 |  |
+| [誓いのWingbeat](https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:15 | 2023-03-14 | 2024-03-24 |
 | [走り始めたばかりのキミに](https://open.spotify.com/track/3Ts1xBEZBVIO6YpedhDy6h) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ!「走り始めたばかりのキミに/ティアドロップス」](https://open.spotify.com/album/5naHriVgqbOAwQXqG6g7bD) | 4:19 | 2022-05-17 | 2022-07-08 |
 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/58lkLLrXOHfhP0FMfnRpqM) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P) | 4:53 | 2022-05-17 | 2022-07-27 |
 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング　花園たえ「花園電気ギター！！！」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 4:55 | 2022-09-20 |  |

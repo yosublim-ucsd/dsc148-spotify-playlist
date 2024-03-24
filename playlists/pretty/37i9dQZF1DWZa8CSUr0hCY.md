@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,164 likes - 115 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,176 likes - 115 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 114 | [Letdown](https://open.spotify.com/track/27Yu59D18hcYTp03CAo3vY) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [Tea box records](https://open.spotify.com/artist/0WFElMoec6Fv9lifejuv0r) | [Letdown](https://open.spotify.com/album/36rlZHCSOIgwDvQSjXa282) | 2:40 |
 | 115 | [Kodama Hour](https://open.spotify.com/track/4KA3tl17zoh2mpRSmvXCZL) | [azula](https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [INKY!](https://open.spotify.com/artist/4jlY0hmEPAg8KTa4KVe4R4) | [Spirits](https://open.spotify.com/album/1NZNlyf6Pgr1LbdyUwBVZ9) | 2:00 |
 
-Snapshot ID: `MCxmNDEwMjBkNjk0ZDIxYjA4YzBiMjdkOTBmYWQyMTBiYTgwNTkzNDVi`
+Snapshot ID: `MCxjMjI5OGU5ZTA1MTg2YmJlMmYzZTI2YjA1OWUxMjZiNDRiOTA1MWY0`

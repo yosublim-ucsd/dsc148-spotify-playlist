@@ -4,7 +4,7 @@
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 松原みき◾️松田聖子、デビュー◾️山口百恵、引退　◾️ジョン・レノン死去 ◾️日本の自動車生産数がアメリカを抜いて1位に。◾️「ぶりっこ」「竹の子族」「テクノ」
 
-101 songs - 7 hr 3 min
+102 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [I'm in the Mood for Dancing](https://open.spotify.com/track/4aGVpNl4csfQ2W1i4Ao40q) | [The Nolans](https://open.spotify.com/artist/2H32fphWQj9hhVuCOKkchM) | [Altogether](https://open.spotify.com/album/4ht5RbpnT3PA1rk2M8P0OS) | 3:18 | 2023-06-28 |  |
 | [Ima no Kimi wa Pikapika ni Hikatte](https://open.spotify.com/track/1u1t8MgiXEpwbaoBkrI0EQ) | [Tetsuo Saito](https://open.spotify.com/artist/18AxqHLLl6oNFv3jQQwRC6) | [Itsumo Music](https://open.spotify.com/album/1boWpjgrbF4cwEumK43U2Y) | 3:33 | 2023-06-28 |  |
 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/7LbOQt7isddrw3Bs3Czl7E) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 2:57 | 2023-06-28 |  |
-| [Jenie wa Gokigen Naname](https://open.spotify.com/track/0nIkiy76OXe90SlI7h4MzY) | [ジューシィ・フルーツ](https://open.spotify.com/artist/0ggP1vmcErj5IVYW7GrTVg) | [Nick Luscombe Presents Tokyo Dreaming](https://open.spotify.com/album/5jgGYPlj2o8KhO8bgR5SW7) | 3:46 | 2023-06-28 |  |
+| [Jenie wa Gokigen Naname](https://open.spotify.com/track/0nIkiy76OXe90SlI7h4MzY) | [ジューシィ・フルーツ](https://open.spotify.com/artist/0ggP1vmcErj5IVYW7GrTVg) | [Nick Luscombe Presents Tokyo Dreaming](https://open.spotify.com/album/5jgGYPlj2o8KhO8bgR5SW7) | 3:46 | 2023-06-28 | 2024-03-24 |
 | [Lady](https://open.spotify.com/track/5Pj5zrq2nbKcAekH1AxbrO) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Daytime Friends: The Very Best Of Kenny Rogers](https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ) | 3:51 | 2023-06-28 |  |
 | [Little Jeannie](https://open.spotify.com/track/19Kf8FxBJ5a1Bb8uKCrIIe) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 5:13 | 2023-06-28 |  |
 | [Love Song\-Please listen to my song\-](https://open.spotify.com/track/0Wrsd0WvsXtJfQdGeWTiY8) | [ツイスト](https://open.spotify.com/artist/4hZPOAxi6owjlwhmiAovMc) | [The Heart Rock Party](https://open.spotify.com/album/4JmTOjHeproci0e5GRQG30) | 5:30 | 2023-06-28 |  |
@@ -70,6 +70,7 @@
 | [アンジェリーナ](https://open.spotify.com/track/3wytnIRvzHNwvYpIodyO7D) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb) | [BACK TO THE STREET](https://open.spotify.com/album/6fITdLIZrwkLeQarCMBfmU) | 4:03 | 2023-06-28 |  |
 | [ガラスのジェネレーション \(LPヴァージョン\)](https://open.spotify.com/track/7pZKEU5bOOaj1bkKYHfvdU) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb) | [Heart Beat](https://open.spotify.com/album/6kQ6P2P8W5a5kUrbuH0lSd) | 3:34 | 2023-06-28 |  |
 | [クルージング・オン](https://open.spotify.com/track/2MQUTZtyF7azClmtcbQwFB) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Monday Morning](https://open.spotify.com/album/3AXCgA9qtAcTM3zatEKkje) | 4:25 | 2023-06-28 |  |
+| [ジェニーはご機嫌ななめ](https://open.spotify.com/track/3fFWQGjLBSdV0vZIl1ZAs6) | [ジューシィ・フルーツ](https://open.spotify.com/artist/0ggP1vmcErj5IVYW7GrTVg) | [ジューシィ・フルーツ ゴールデン☆ベスト－多汁果実 品質特撰－](https://open.spotify.com/album/20wO3oEd8w51HRmRwWenPM) | 3:44 | 2023-06-28 |  |
 | [セクシー・ユー \(モンロー・ウォーク\)](https://open.spotify.com/track/3V0qL15FiMlhaPPwaJDSoF) | [Hiromi Go](https://open.spotify.com/artist/0MYnDCY3ae0nSzoCmQiKzh) | [郷ひろみ全集/'72～'85 DANDYISM](https://open.spotify.com/album/6XNgAXrJWe4ySXl2GDVV7y) | 3:41 | 2023-06-28 |  |
 | [ダンシング・オールナイト](https://open.spotify.com/track/1UrnsiaBHgqoYWKs2b4kti) | [Monta & Brothers](https://open.spotify.com/artist/0ZB0ohfKwDJBZL8XdQbfw6) | [ゴールデン☆ベスト もんた＆ブラザーズ シングルス・プラス](https://open.spotify.com/album/1boYwdMUOTjSc7H79FXEuh) | 3:58 | 2023-06-28 |  |
 | [トゥナイト](https://open.spotify.com/track/7zXOJdGYeXsalfN6xHKkv2) | [Shanels](https://open.spotify.com/artist/11B3d9x2J59NnHRsyoo4xA) | [BACK TO THE BASIC](https://open.spotify.com/album/5qoFqpqBs0PggBwiEt98j9) | 2:27 | 2023-06-28 |  |

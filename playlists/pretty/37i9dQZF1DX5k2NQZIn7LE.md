@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 
 > Fusion hits of Coke Studio Pakistan\. Cover: Justin Bibis
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,964 likes - 66 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,988 likes - 66 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 | 29 | [Rung Jindri \- Coke Studio Season 8](https://open.spotify.com/track/0rgdSKxrgi1xUVZ8MI89kV) | [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4) | [Rung Jindri \(Coke Studio Season 8\)](https://open.spotify.com/album/1tSwsJ64Kh6lg6Ejo74h5j) | 6:00 |
 | 30 | [Neun La Leya \- Coke Studio Season 8](https://open.spotify.com/track/03We3hIYal3nbit50UWi1o) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Neun La Leya \(Coke Studio Season 8\)](https://open.spotify.com/album/5DS2vMT0HKcMFRyCAbvJqj) | 7:16 |
 | 31 | [Umran Langiyaan \- Coke Studio Season 8](https://open.spotify.com/track/13ku97oiMKs8x01FIj2067) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Umran Langiyaan \(Coke Studio Season 8\)](https://open.spotify.com/album/4ibe0e62SlJoOu1HFLxEVr) | 8:02 |
-| 32 | [Man Aamadeh Am](https://open.spotify.com/track/3PMThMLdTuwWLvlFTeSsrO) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 8:58 |
+| 32 | [Man Aamadeh Am \- Coke Studio Season 8](https://open.spotify.com/track/5f9WiwgxW63K3qp1rqh3eZ) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Man Aamadeh Am \(Coke Studio Season 8\)](https://open.spotify.com/album/34HGhDM8pL5txbZh3XPUWG) | 8:58 |
 | 33 | [Chiryan Da Chamba \- Coke Studio Season 8](https://open.spotify.com/track/1TfeIvCSLIVPpxCqCI5Etq) | [Suraiya Khanum](https://open.spotify.com/artist/49yBIp5OY8bpgKUrxEhnM0), [Anwar Maqsood](https://open.spotify.com/artist/5EUd6JP2GsBheJtbuXQ5c1) | [Chiryan Da Chamba \(Coke Studio Season 8\)](https://open.spotify.com/album/5QkwDolPCG71ph5xcLNVEr) | 8:50 |
 | 34 | [Sammi Meri Waar \- Coke Studio Season 8](https://open.spotify.com/track/7xHM9QdQHm8MFFTj3WWzjZ) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Umair Jaswal](https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u) | [Sammi Meri Waar \(Coke Studio Season 8\)](https://open.spotify.com/album/0syR4wByDKQmZyZWfKoABN) | 6:32 |
 | 35 | [Sakal Ban \- Coke Studio Season 8](https://open.spotify.com/track/3R5Isr6sd3mAsXJG3iFS0Z) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf) | [Sakal Ban \(Coke Studio Season 8\)](https://open.spotify.com/album/622ZfxfKuZ9AUQ0RuhF0Ro) | 6:46 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 | 65 | [Laila O Laila](https://open.spotify.com/track/65GexggyAOfTLMWLKQS4eb) | [Rostam Mirlashari](https://open.spotify.com/artist/5zlHJ38vwLDvO6sf1lneZz), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:29 |
 | 66 | [Charkha Nolakha](https://open.spotify.com/track/0GKo5LtZM9SvqxZvnxz8hk) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Qayaas](https://open.spotify.com/artist/070AvN8e3WycppehEutQao), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 6:42 |
 
-Snapshot ID: `MCw5YmNjNmEzYzc5NjVmZjIxZmMxNDUwY2I5NmViOTU4ODA2ZmQ0ZmUz`
+Snapshot ID: `MCwzMWY4OTllMGJlMDhjYTU0ZjBlMDMyYmFmY2FiMDc2ZDlmMDljZmE1`

@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 22878,
+  "num_followers": 22897,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWIzNmM2Y2JkOWIyOTkxNWJlZDRkNmIxZjQ1YWUzYjE2YzgwNTAy",
+  "snapshot_id": "MCxiODQ0MGE1ZjRiNWYwODc3N2RmMzgzMTI2YjViYzk2Y2NmZDM2Y2Zl",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -79,6 +79,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "duration_ms": 275520,
+      "name": "Te Miro Para Ver Si Me Ves Mirarte",
+      "url": "https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Bah\u00eda Santiago",
         "url": "https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 192027,
       "name": "Fuma",
       "url": "https://open.spotify.com/track/1AYFgqbN7PuAFQ9gBf6DFx"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P"
-      },
-      "artists": [
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
-        }
-      ],
-      "duration_ms": 275520,
-      "name": "Te Miro Para Ver Si Me Ves Mirarte",
-      "url": "https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+        "name": "\u00d3yeme Bien",
+        "url": "https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Golden Choice",
-      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
+      "duration_ms": 229997,
+      "name": "\u00d3yeme Bien",
+      "url": "https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "\u00d3yeme Bien",
-        "url": "https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2"
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
       "artists": [
         {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 229997,
-      "name": "\u00d3yeme Bien",
-      "url": "https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e"
+      "duration_ms": 228466,
+      "name": "Golden Choice",
+      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Blockbuster (90's R&B)",
-        "url": "https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 207204,
-      "name": "Blockbuster (90's R&B)",
-      "url": "https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "The New Sound of the Venezuelan Gozadera",
         "url": "https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh"
       },
@@ -647,18 +631,34 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+        "name": "Blockbuster (90's R&B)",
+        "url": "https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
         }
       ],
-      "duration_ms": 326040,
-      "name": "Tr\u00e1game Tierra",
-      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
+      "duration_ms": 207204,
+      "name": "Blockbuster (90's R&B)",
+      "url": "https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "NQP (No Quiero Parar)",
+        "url": "https://open.spotify.com/album/6JL4UdmqdPZXFh5RlEHVgW"
+      },
+      "artists": [
+        {
+          "name": "Danco",
+          "url": "https://open.spotify.com/artist/1XrvBYbWw1e7xyoBC0bp5X"
+        }
+      ],
+      "duration_ms": 182324,
+      "name": "NQP (No Quiero Parar)",
+      "url": "https://open.spotify.com/track/73WvgO2o37roOx4QPjmYM2"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "NQP (No Quiero Parar)",
-        "url": "https://open.spotify.com/album/6JL4UdmqdPZXFh5RlEHVgW"
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
       "artists": [
         {
-          "name": "Danco",
-          "url": "https://open.spotify.com/artist/1XrvBYbWw1e7xyoBC0bp5X"
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 182324,
-      "name": "NQP (No Quiero Parar)",
-      "url": "https://open.spotify.com/track/73WvgO2o37roOx4QPjmYM2"
+      "duration_ms": 326040,
+      "name": "Tr\u00e1game Tierra",
+      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Terciopelo",
-        "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Terciopelo",
-      "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Cool Love",
         "url": "https://open.spotify.com/album/3u5uYLbUjSKqK9y3DDFwAe"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 204172,
       "name": "Tuyonama (feat. Charles Ans)",
       "url": "https://open.spotify.com/track/74AMpBBqy0JOJaWHF0r7cR"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Terciopelo",
+        "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Terciopelo",
+      "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
     },
     {
       "added_at": "2024-02-23 05:00:00",

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-459 songs - 1 day 3 hr 50 min
+460 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [614](https://open.spotify.com/track/0rvSQxrzazqTD4zyiiuCXp) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [614](https://open.spotify.com/album/2uf8Of0BwZtWUA9GMAjszQ) | 3:19 | 2024-03-08 |  |
 | [A Change Is Gonna Come](https://open.spotify.com/track/6cFjFN3jw2IoZqY3GO27s6) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [One Night In Miami..\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1i3pkaGXNV3kdn54InaVHF) | 3:01 | 2021-12-03 | 2022-07-24 |
 | [Addicted \(Acoustic\)](https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Addicted \(Acoustic\)](https://open.spotify.com/album/0qPYyDTTx74B8sfEGOYZyh) | 3:05 | 2021-12-03 | 2022-10-01 |
-| [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 | 2022-11-18 |  |
+| [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 | 2022-11-18 | 2024-03-24 |
 | [Aged Eyes](https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 4:06 | 2023-03-03 | 2023-10-07 |
 | [Aged Eyes](https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Aged Eyes](https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG) | 4:06 | 2023-03-03 | 2023-05-01 |
 | [All About You](https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [All About You](https://open.spotify.com/album/36Lr1Ipl7w3gn0NdZbRcge) | 3:00 | 2021-12-03 | 2023-08-05 |
@@ -361,6 +361,7 @@
 | [Sign And Signal](https://open.spotify.com/track/1QpPefY7AVM2Y67CGROj39) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 4:22 | 2023-03-03 | 2023-09-17 |
 | [Simple Man](https://open.spotify.com/track/7ENWxXOW7VsdcrI5AHgM0u) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Simple Man](https://open.spotify.com/album/5RleA8tUjdpG5vdwCP3j86) | 3:42 | 2024-02-09 | 2024-03-20 |
 | [Since You've Been Gone](https://open.spotify.com/track/0xm6AATpiaDaVQce6DecIZ) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Since You've Been Gone](https://open.spotify.com/album/1SC9B04nmP42O8ckTuelR8) | 3:46 | 2023-04-28 | 2024-01-30 |
+| [SIX WHOLE DAYS](https://open.spotify.com/track/3DWdx4fp6JG4Rh2yNae9xa) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:07 | 2024-03-22 |  |
 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 | 2023-10-20 |  |
 | [Slow Down \- Acoustic](https://open.spotify.com/track/3ugCSRkkewHctDELil9Ixq) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Slow Down \(Acoustic\)](https://open.spotify.com/album/6oucPVEBijDE1a4Ef2vEU4) | 4:11 | 2021-12-03 | 2022-09-12 |
 | [Smile](https://open.spotify.com/track/5fnOfJ4Gm43UQzYpfZuAaZ) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Smile](https://open.spotify.com/album/5rXfcrwzK7aozli0g8ARif) | 2:39 | 2023-07-28 |  |

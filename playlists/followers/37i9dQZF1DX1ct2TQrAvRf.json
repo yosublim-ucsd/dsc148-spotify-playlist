@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 307989,
+  "2024-03-24": 308119,
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover- MC STAN",
+  "description": "India's Rap Scene. Cover- BADSHAH",
   "name": "RAP 91",
   "tracks": [
     {
@@ -320,6 +320,28 @@
     },
     {
       "album": {
+        "name": "Ek Tha Raja",
+        "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220137,
+      "name": "Bajenge",
+      "url": "https://open.spotify.com/track/4I2txOHJ5QRpJvG0nQpBKL"
+    },
+    {
+      "album": {
         "name": "Baller",
         "url": "https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p"
       },
@@ -611,7 +633,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 175624,
       "name": "Chora Baba Ka",
       "url": "https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf"
@@ -858,6 +880,28 @@
     },
     {
       "album": {
+        "name": "Ek Tha Raja",
+        "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "MC STAN",
+          "url": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176587,
+      "name": "Drinks On Me",
+      "url": "https://open.spotify.com/track/6mt8Bt9aHHCfbTBJMAcceJ"
+    },
+    {
+      "album": {
         "name": "Droptop",
         "url": "https://open.spotify.com/album/2rKEiYOlxGLQHbw1ZzFdXD"
       },
@@ -1001,6 +1045,28 @@
       "duration_ms": 162206,
       "name": "Free Smoke",
       "url": "https://open.spotify.com/track/3b1Gq1KcPR45uepbK0N8tA"
+    },
+    {
+      "album": {
+        "name": "Ek Tha Raja",
+        "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142444,
+      "name": "G-Yaan",
+      "url": "https://open.spotify.com/track/3wGz2eHyWekq06k6LdqYiG"
     },
     {
       "album": {
@@ -1183,7 +1249,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 157714,
       "name": "Gurjari",
       "url": "https://open.spotify.com/track/2G6xSLWVj94AwzwdsbLJ29"
@@ -1223,7 +1289,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 182540,
       "name": "Haseena",
       "url": "https://open.spotify.com/track/0Q37Ax4ON1mIANcQvqfbOl"
@@ -1842,6 +1908,32 @@
     },
     {
       "album": {
+        "name": "Ek Tha Raja",
+        "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        },
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181379,
+      "name": "Like A Snake",
+      "url": "https://open.spotify.com/track/1pCyNu4mgeZP0qqHNMTjWJ"
+    },
+    {
+      "album": {
         "name": "Machayenge 4",
         "url": "https://open.spotify.com/album/75500cJSqQKQafI8VAKxO2"
       },
@@ -2005,7 +2097,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 151066,
       "name": "Meri Zindagi Rap Se Pan Deep Hai",
       "url": "https://open.spotify.com/track/0zJRZiwA3OcNKjCqjTUepL"
@@ -2718,6 +2810,24 @@
     },
     {
       "album": {
+        "name": "Thehra",
+        "url": "https://open.spotify.com/album/511wcTtnR6shsUf6CFiwOd"
+      },
+      "artists": [
+        {
+          "name": "Chaar Diwaari",
+          "url": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142272,
+      "name": "Thehra",
+      "url": "https://open.spotify.com/track/5OwAx0hZV7rNGYRR7ILQvh"
+    },
+    {
+      "album": {
         "name": "Street Dreams",
         "url": "https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y"
       },
@@ -2733,7 +2843,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-23",
       "duration_ms": 288000,
       "name": "Top Class / Overseas",
       "url": "https://open.spotify.com/track/4BDOA9pV0yLClbR3v37ekI"

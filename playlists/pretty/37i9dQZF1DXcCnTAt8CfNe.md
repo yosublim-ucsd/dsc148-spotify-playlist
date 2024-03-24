@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,470 likes - 202 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,535 likes - 202 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 11 | [Stillness](https://open.spotify.com/track/1BQxGhCmtTfvpkNcZ3Lp8G) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Stillness](https://open.spotify.com/album/5cAyA5mlUDMuQ89JHasPkg) | 3:03 |
 | 12 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 |
 | 13 | [Jasper](https://open.spotify.com/track/2AG8ZJpqCZBAGYJKuWEXUr) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Jasper](https://open.spotify.com/album/0rklMojfiPjGxBSRVOGLrw) | 3:10 |
-| 14 | [Understand](https://open.spotify.com/track/1F4rNGWLawZYYGhOWAYcAH) | [Aaron Azure](https://open.spotify.com/artist/4yztbdN4i63WuDiztHgvve) | [Understand](https://open.spotify.com/album/2BF7gHzMCrhVS7ZPdHAdq1) | 2:57 |
+| 14 | [Understand](https://open.spotify.com/track/1F4rNGWLawZYYGhOWAYcAH) | [Aaron Azure](https://open.spotify.com/artist/4yztbdN4i63WuDiztHgvve) | [Understand](https://open.spotify.com/album/2BF7gHzMCrhVS7ZPdHAdq1) | 2:45 |
 | 15 | [Drifting Clouds](https://open.spotify.com/track/6hoPDZRDYnh2RSy5tfGwoi) | [Stella Aurao](https://open.spotify.com/artist/5H5AamxoCVgL2GCosgZcXt) | [Drifting Clouds](https://open.spotify.com/album/2A2yjK8olCf5dBRGKU9jlr) | 3:07 |
 | 16 | [Millennia](https://open.spotify.com/track/06If8v7VsGn7QUNfexa0pt) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Millennia](https://open.spotify.com/album/3grpeb6MJWAXGMoS3FgHxN) | 3:29 |
 | 17 | [Birds at the Beach](https://open.spotify.com/track/4cMp6K32HYgoahuRZ8uSL0) | [Dream Factory](https://open.spotify.com/artist/61XHF5ib8R2zyqIwLzaQE9) | [Birds at the Beach](https://open.spotify.com/album/2FfQM1xUCrRVJj4zuGlPgJ) | 2:44 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 201 | [Harmonious](https://open.spotify.com/track/0w1kQy9x8W7yA299gFLhLn) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Harmonious](https://open.spotify.com/album/5ag8H1bxJUJbGBHb1IXu8T) | 3:56 |
 | 202 | [Zhenya](https://open.spotify.com/track/09z4NnaPxtbPsMoKHDaoIy) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Zhenya](https://open.spotify.com/album/3uNqo97i4YJVzvo9r25Smo) | 3:22 |
 
-Snapshot ID: `MCw4NzllYTgxYWZhOThlMjM2NjBmZWEyNjcyMGQ3NzM1YWY0MjQyYjg2`
+Snapshot ID: `MCxiYjM5ODUzNWI1NTA5YTJkN2U1Y2Y1YTI1MDRhNGRhNWViY2UwY2Qz`

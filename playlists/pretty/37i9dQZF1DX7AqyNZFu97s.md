@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: MRCY\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,291 likes - 85 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,307 likes - 85 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 61 | [Blood Moon](https://open.spotify.com/track/55mvlhDU0EXnOpzngEWBJk) | [WineMom](https://open.spotify.com/artist/5GTLWbVEr4R6zk5pVZOQGo) | [Blood Moon](https://open.spotify.com/album/6209out2XGRbB5ZBFe0FKP) | 3:50 |
 | 62 | [Unfair](https://open.spotify.com/track/05a2IG0NiwQYvQC2XwGF9z) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Unfair](https://open.spotify.com/album/0y4NuCLb8GcRV6bANgcHts) | 2:13 |
 | 63 | [Last Impression](https://open.spotify.com/track/2Csuu6a5cp3UBjS3JD6WQR) | [Eiza Murphy](https://open.spotify.com/artist/0A7bgQaXKKxFsvurGyFMn9) | [Last Impression](https://open.spotify.com/album/4g8K0OE7R8aTWhoItCw61v) | 2:04 |
-| 64 | [lie down](https://open.spotify.com/track/4SMrhVPulBAbqeisqqI0HY) | [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk) | [lie down](https://open.spotify.com/album/0v2d0noo2t5U53IlKFnWg1) | 4:31 |
+| 64 | [lie down](https://open.spotify.com/track/4SMrhVPulBAbqeisqqI0HY) | [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk), [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [lie down](https://open.spotify.com/album/0v2d0noo2t5U53IlKFnWg1) | 4:31 |
 | 65 | [Night & Day](https://open.spotify.com/track/5j041p2jGJrjPNm8k94Ngn) | [Margo Raats](https://open.spotify.com/artist/52XA4Ccc0k7wMeLkdEsju9) | [Night & Day](https://open.spotify.com/album/0bHfEkKRZTYDu2kaLzNcA0) | 3:29 |
 | 66 | [All I See](https://open.spotify.com/track/3Fp0iuKCGpi6sp4vRXXeGz) | [Luke Targett](https://open.spotify.com/artist/4oQMjJ0E5RnF670Yx2PERx) | [All I See](https://open.spotify.com/album/78gwxtGiRiTA9OHJKm53av) | 2:18 |
 | 67 | [The Gate](https://open.spotify.com/track/38tAqCiAvZJU1hHAF5YTyq) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [The Gate](https://open.spotify.com/album/668S0urcn4vGgRdbKAhkFv) | 2:56 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 84 | [Outside](https://open.spotify.com/track/1ozbAvJ5hZmycQbh4GQGjI) | [Jordan Nash](https://open.spotify.com/artist/3FdBkTRuQog4cyBE1FRR7A) | [Outside](https://open.spotify.com/album/0baK4pePflG8hjaOPxiyiJ) | 2:36 |
 | 85 | [He Don't](https://open.spotify.com/track/4AFJ1Wr1pee9bpWT5PgKN0) | [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [He Don't](https://open.spotify.com/album/6L7wHBVw78HrnYxxZuZzlm) | 2:28 |
 
-Snapshot ID: `MCwzM2EzMmRjYmMwYWMyMmQ3M2E1ODcwMTA5ZGQ4YzQ4ZDAzYzcyYzU3`
+Snapshot ID: `MCxjYmZhOGIzYzgzYTdjYmRiZjZjYWI2ODVmNjNmOTM3MzAxMGM2Mzc4`

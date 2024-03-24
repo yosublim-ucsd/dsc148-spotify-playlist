@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: Jaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,590 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,608 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 58 | [Tu y Yo](https://open.spotify.com/track/1B0Zjjx06mkqWPUZi07Q5z) | [Lil Chompa](https://open.spotify.com/artist/3R1qy1HfPAL98qtz3oPOrM), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [López en el Lápiz](https://open.spotify.com/album/6gOqgoiSvUbvYzSvNJDWI1) | 2:55 |
 | 59 | [Descarga](https://open.spotify.com/track/3nro2uKUcU08zHBiYJ4Ah7) | [Dj Deportado](https://open.spotify.com/artist/1mQKVFOK2SnXWTouBSs9Ul), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Descarga](https://open.spotify.com/album/4zk0jpwfhT2495NViI1rId) | 3:05 |
 | 60 | [Estoy Bien](https://open.spotify.com/track/42e8NZUQvgxiirRcVEjbOz) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6) | [A Veces Es Bueno Estar Triste](https://open.spotify.com/album/2AGlNJbOjLzn0o7wSEWegz) | 3:14 |
-| 61 | [El Sonido de la Calle](https://open.spotify.com/track/7zfNW06BiZzXSPS8KdgM5u) | [Hip Hop Peruano Mas Na](https://open.spotify.com/artist/2Tr0mJ3E4bL4CqVb4lHoUH) | [Mixtape, Vol\. 1: Inca Music](https://open.spotify.com/album/6GU4yF1zVfjko8z38SKkFv) | 3:43 |
+| 61 | [El Sonido de la Calle](https://open.spotify.com/track/2eqXh2ldu5pBXE6frpjOvB) | [Hip Hop Peruano Mas Na](https://open.spotify.com/artist/2Tr0mJ3E4bL4CqVb4lHoUH) | [Hip Hop Peruano Mas Na: Mixtape, Vol\. 1](https://open.spotify.com/album/5IHB1Z4X0usji9yXplMSgA) | 3:43 |
 | 62 | [Avestruces](https://open.spotify.com/track/5ttollOIImxDDshFRJ8p8v) | [Pleito](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS), [Reies](https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx) | [El Rap Es un Regalo](https://open.spotify.com/album/6c7Sbn1n3hsQgOAedEwJBy) | 2:46 |
 | 63 | [Te Ves Ahí](https://open.spotify.com/track/03ZuLojgeZ6avs74BqxIZR) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Te Ves Ahí](https://open.spotify.com/album/1iUYZLyXdasHal6E8khTZo) | 3:02 |
 | 64 | [Barrio Bendito](https://open.spotify.com/track/53uMaGjlUaE30fD2vM0Pyj) | [Inkas Mob](https://open.spotify.com/artist/3pl31iTKhYPQIkQUHaqJcw), [Jhony Welker](https://open.spotify.com/artist/6X9EFNYXbv9ViyeBmOOD13), [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx) | [Imperio Inka](https://open.spotify.com/album/4Os888G0hBDVmSPRnT0Tem) | 2:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 79 | [Kaykunapi](https://open.spotify.com/track/5GPMzrfc5U7kU7qCB0kzt2) | [Hip Hop Peruano Mas Na](https://open.spotify.com/artist/2Tr0mJ3E4bL4CqVb4lHoUH), [Liberato Kani](https://open.spotify.com/artist/36gANGyQxxQagGCqYlQnqb) | [Hip Hop Peruano Mas Na : Mixtape, Vol\. 2](https://open.spotify.com/album/2mFYlXBO09xr1f14S4XZUn) | 2:42 |
 | 80 | [Tranqui](https://open.spotify.com/track/3x8wYCHXsuCiDrlBynclp1) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Tranqui](https://open.spotify.com/album/6P9dhAgXWrEgMQbwHxJUFZ) | 3:51 |
 
-Snapshot ID: `MCw5YzIxNjBlYjVkOTY4YWI4M2VkOWEyYmVhODlhMzRjMWQwZGM3ZmE5`
+Snapshot ID: `MCwzYjI0YmViMTEwMTAzNTMzM2U2YWU2ZGM3MGU1YjY1NzRkY2VhNTEz`

@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 199520,
+  "num_followers": 199779,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmNhYWUwMTdjOGNjZTI0Nzk0OWU3YzYzNDk2YmVmZjRiMWU0NjZm",
+  "snapshot_id": "MCxkYTUzMGI4ODhhOWQ1ODhmODQ3ZTdhODU2ZDU5YTk5ZTBiN2VkNWQ0",
   "tracks": [
     {
       "added_at": "2024-03-07 23:01:00",
@@ -27,18 +27,18 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Better Than Heaven",
-        "url": "https://open.spotify.com/album/71st36nPTXAgWnEaNg9AZa"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
       },
       "artists": [
         {
-          "name": "Stacey Q",
-          "url": "https://open.spotify.com/artist/3q8tRS0hCMVCylgKAoA0ya"
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
         }
       ],
-      "duration_ms": 239693,
-      "name": "Two of Hearts",
-      "url": "https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1"
+      "duration_ms": 272147,
+      "name": "Ride on Time",
+      "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
     },
     {
       "added_at": "2024-03-07 23:01:00",
@@ -59,18 +59,18 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+        "name": "Better Than Heaven",
+        "url": "https://open.spotify.com/album/71st36nPTXAgWnEaNg9AZa"
       },
       "artists": [
         {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+          "name": "Stacey Q",
+          "url": "https://open.spotify.com/artist/3q8tRS0hCMVCylgKAoA0ya"
         }
       ],
-      "duration_ms": 272147,
-      "name": "Ride on Time",
-      "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
+      "duration_ms": 239693,
+      "name": "Two of Hearts",
+      "url": "https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1"
     },
     {
       "added_at": "2024-03-07 23:01:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "duration_ms": 247001,
+      "name": "Everybody Everybody",
+      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
         "name": "Melanch\u00f3lia",
         "url": "https://open.spotify.com/album/7fK9JzCaIIIWehaWd7IoUE"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 264929,
       "name": "Marechi\u00e0",
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
-    },
-    {
-      "added_at": "2024-03-07 23:01:00",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
-      },
-      "artists": [
-        {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
-        }
-      ],
-      "duration_ms": 247001,
-      "name": "Everybody Everybody",
-      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
     },
     {
       "added_at": "2024-03-07 23:01:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Gary Low: The Best of",
-        "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
-      },
-      "artists": [
-        {
-          "name": "Gary Low",
-          "url": "https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b"
-        }
-      ],
-      "duration_ms": 509240,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x"
-    },
-    {
-      "added_at": "2024-03-07 23:01:00",
-      "album": {
         "name": "Volevi Una Hit",
         "url": "https://open.spotify.com/album/1SSY7LphnEe6gy8VZ9BTgg"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 328248,
       "name": "Volevi Una Hit - Extended Version",
       "url": "https://open.spotify.com/track/1cqMaulAZAoUZfRZlOR29V"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Gary Low: The Best of",
+        "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
+      },
+      "artists": [
+        {
+          "name": "Gary Low",
+          "url": "https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b"
+        }
+      ],
+      "duration_ms": 509240,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x"
     },
     {
       "added_at": "2024-03-07 23:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Tac..!",
-        "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
-      },
-      "artists": [
-        {
-          "name": "Franco Califano",
-          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Balla Ba",
-      "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
-    },
-    {
-      "added_at": "2024-03-07 23:01:00",
-      "album": {
         "name": "The Voice of Q",
         "url": "https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 316118,
       "name": "The Voice of Q - 12\" Mix",
       "url": "https://open.spotify.com/track/4DoxBUKSlnZwe30Y23mGbH"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Tac..!",
+        "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
+      },
+      "artists": [
+        {
+          "name": "Franco Califano",
+          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Balla Ba",
+      "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
     },
     {
       "added_at": "2024-03-07 23:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "The UK's biggest rock playlist. Cover: Nothing But Thieves",
-  "num_followers": 800253,
+  "num_followers": 800227,
   "original_name": "The Rock List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGI4OTZhNjY0YTcxMmNhMDdkYTc0ZTY4ZDM0NDEzYjIxMTViNGZi",
+  "snapshot_id": "MCxiYzVkZmY2MGY2OTc1NDU2NDg2NjYxYTFhNGE5ZjIzYjhlYjJlMzc0",
   "tracks": [
     {
       "added_at": "2024-03-22 00:00:00",
@@ -615,6 +615,22 @@
       "duration_ms": 201233,
       "name": "Neon Pill",
       "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
+    },
+    {
+      "added_at": "2024-03-23 18:18:34",
+      "album": {
+        "name": "Grief Chapter",
+        "url": "https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 151027,
+      "name": "Explode!",
+      "url": "https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf"
     },
     {
       "added_at": "2024-03-22 00:00:00",

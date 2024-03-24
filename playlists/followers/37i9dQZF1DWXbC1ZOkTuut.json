@@ -1,7 +1,7 @@
 {
-  "2024-03-23": 11270,
+  "2024-03-24": 11280,
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: Leonardo Aguilar ",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: Enigma Norte\u00f1o",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
     {
@@ -498,6 +498,28 @@
     },
     {
       "album": {
+        "name": "Arriba Las Manos",
+        "url": "https://open.spotify.com/album/2SdiLZLXiB5vsRiQKn06T8"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135960,
+      "name": "Arriba Las Manos",
+      "url": "https://open.spotify.com/track/3mcXM4NI0gkRDKWcSwGCp5"
+    },
+    {
+      "album": {
         "name": "El Mu\u00f1econ",
         "url": "https://open.spotify.com/album/67aPJP3TsIhlvRP1cIzcFV"
       },
@@ -673,6 +695,28 @@
       "duration_ms": 167706,
       "name": "BEBESOTA",
       "url": "https://open.spotify.com/track/0c4AVHFhU7c1tiIe1aTa0v"
+    },
+    {
+      "album": {
+        "name": "La Casa Siempre Gana",
+        "url": "https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Miranda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200030,
+      "name": "Beli Beli",
+      "url": "https://open.spotify.com/track/4nNDaNTVo990NAM9PDmFiA"
     },
     {
       "album": {
@@ -1189,6 +1233,24 @@
       "duration_ms": 196790,
       "name": "Compa",
       "url": "https://open.spotify.com/track/73VAb42zt6A09pHrJtL46s"
+    },
+    {
+      "album": {
+        "name": "La Casa Siempre Gana",
+        "url": "https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195961,
+      "name": "Complexi\u00f3n Delgada",
+      "url": "https://open.spotify.com/track/3LLjpyC6kuX0e3iD4FFbGp"
     },
     {
       "album": {
@@ -2158,6 +2220,24 @@
     },
     {
       "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/5NDAZXmSAgG7g9oeysYAZJ"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "El Pato Zambada",
+      "url": "https://open.spotify.com/track/3wWKhNMl5QOaZGV2eQO53G"
+    },
+    {
+      "album": {
         "name": "El Pilot\u00f3n",
         "url": "https://open.spotify.com/album/6X8FcbMWe7sh12T07RyXYY"
       },
@@ -2417,6 +2497,24 @@
       "duration_ms": 166570,
       "name": "EN ALTAVOZ",
       "url": "https://open.spotify.com/track/6L2wWlVVD6R2bczNdnSqKr"
+    },
+    {
+      "album": {
+        "name": "En Chino Iba A Estar (En Vivo)",
+        "url": "https://open.spotify.com/album/4IibUoD3WlT5h69Lgq5nAN"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Estrategia",
+          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224733,
+      "name": "En Chino Iba A Estar - En Vivo",
+      "url": "https://open.spotify.com/track/2SCQTIlIZTPrlRVJo0iAE0"
     },
     {
       "album": {
@@ -3278,6 +3376,24 @@
     },
     {
       "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/5NDAZXmSAgG7g9oeysYAZJ"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183866,
+      "name": "La Mami Rica",
+      "url": "https://open.spotify.com/track/74gB5FhqYIGphCnVZWqO6a"
+    },
+    {
+      "album": {
         "name": "M\u00e9xico en Mi Voz",
         "url": "https://open.spotify.com/album/3K6llo2F2tGmc8d2dww0xE"
       },
@@ -3315,6 +3431,28 @@
       "duration_ms": 254932,
       "name": "La Mera Mera (Tijuana, Baja California Norte)",
       "url": "https://open.spotify.com/track/2XsoiYV8Rd8kduladPPKuk"
+    },
+    {
+      "album": {
+        "name": "Parrandeando Con La Nueva Estrategia (En Vivo)",
+        "url": "https://open.spotify.com/album/4LObS1CzsB8rOzlIdWyvFR"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Estrategia",
+          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
+        },
+        {
+          "name": "El Flaco Elizalde",
+          "url": "https://open.spotify.com/artist/0cqLn5qlLKHRSueujVMJyr"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "La M\u00e1s Deseada - En Vivo",
+      "url": "https://open.spotify.com/track/1gNFmW398YlioyPnu4ll1c"
     },
     {
       "album": {
@@ -6958,6 +7096,24 @@
     },
     {
       "album": {
+        "name": "La Casa Siempre Gana",
+        "url": "https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212709,
+      "name": "Vida de Magnate",
+      "url": "https://open.spotify.com/track/7clJPuGLQe4RzbXxycwlMq"
+    },
+    {
+      "album": {
         "name": "PRESENTE",
         "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
@@ -7155,6 +7311,28 @@
       "duration_ms": 201600,
       "name": "Ya No Me Llames",
       "url": "https://open.spotify.com/track/6GHSzctdhWmIay8QV2QAsQ"
+    },
+    {
+      "album": {
+        "name": "Parrandeando Con La Nueva Estrategia (En Vivo)",
+        "url": "https://open.spotify.com/album/4LObS1CzsB8rOzlIdWyvFR"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Estrategia",
+          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
+        },
+        {
+          "name": "Elio Vega",
+          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185066,
+      "name": "Ya No Me Preguntes - En Vivo",
+      "url": "https://open.spotify.com/track/5xUXAUbRZB2aPFapukx7E1"
     },
     {
       "album": {

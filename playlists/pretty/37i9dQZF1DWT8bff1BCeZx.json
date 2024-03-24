@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 14152,
+  "num_followers": 14184,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTc5NmQ1OWNlMWE5ZGFjYjg3OTkwNzI0OTg3MDA2YjI0ZTczMDcx",
+  "snapshot_id": "MCxlMmJiOWZhNmEzMjk3MWU0N2ZlOTU3OTA0NTRhZDJkMWMzNjZmNTdi",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -937,6 +937,22 @@
       "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
     },
     {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Joyous Celebration 13: Live At The Mosaeik Theatre JHB",
@@ -975,22 +991,6 @@
       "duration_ms": 156196,
       "name": "Yeshua (Extended)",
       "url": "https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Bianule",
-        "url": "https://open.spotify.com/album/5YZUj5SrZhgZqV9ORYHqPR"
-      },
-      "artists": [
-        {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
-        }
-      ],
-      "duration_ms": 285022,
-      "name": "Bianule",
-      "url": "https://open.spotify.com/track/7iwRsEzkfIEEjPeKnviXBG"
     }
   ],
   "unique_name": "Higher",

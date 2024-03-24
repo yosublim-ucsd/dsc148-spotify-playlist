@@ -4,7 +4,7 @@
 
 > Ancient North African rhythms.
 
-81 songs - 8 hr 33 min
+82 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,11 +39,12 @@
 | [Bouri Bouri Manandabo](https://open.spotify.com/track/4tEPVARoc88ff4zLuYDWEB) | [Hasna el Becharia](https://open.spotify.com/artist/2Y2LaK65xm8j2wQMtEII8f) | [Djazaïr Johara](https://open.spotify.com/album/6aMI4N8bNjlmyf5nLaRgAG) | 5:18 | 2021-08-25 |  |
 | [Chabakro](https://open.spotify.com/track/4f96sQDzteyArqY1bBMCi6) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa), [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 3:04 | 2023-05-08 | 2023-08-11 |
 | [Chalaba](https://open.spotify.com/track/3nHrBe0EYJtIPZJkMKlT0E) | [Gnawa de Marrakech](https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj), [Maalem Mahjoub](https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp) | [Lila](https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq) | 6:37 | 2021-08-25 |  |
-| [Chalaban \- Live](https://open.spotify.com/track/2kQIp8ezdvT75GnZyXpLpz) | [Chalaban](https://open.spotify.com/artist/7wy6H1DoR6ORojXiehTmbG) | [Moroccan Spring \(Live\)](https://open.spotify.com/album/4Oj9M6TMJTIsxIXXhEVJYX) | 5:43 | 2023-05-08 |  |
+| [Chalaban \- Live](https://open.spotify.com/track/2kQIp8ezdvT75GnZyXpLpz) | [Chalaban](https://open.spotify.com/artist/7wy6H1DoR6ORojXiehTmbG) | [Moroccan Spring \(Live\)](https://open.spotify.com/album/4Oj9M6TMJTIsxIXXhEVJYX) | 5:43 | 2023-05-08 | 2024-03-24 |
 | [Chalaban \- Live](https://open.spotify.com/track/7eBSPitHLvqS4y6Ik7dD8f) | [Chalaban](https://open.spotify.com/artist/7wy6H1DoR6ORojXiehTmbG) | [Moroccan Spring \(Live\)](https://open.spotify.com/album/29xpcwtYHON3dbSKInrTzl) | 5:43 | 2021-08-25 | 2023-05-24 |
 | [Chorfa](https://open.spotify.com/track/0nmDCBvIy4gDP1fyDInu1I) | [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [El Ghaba](https://open.spotify.com/album/6lSSJcyIWmBpdw2VqKn3ci) | 13:52 | 2021-08-25 | 2022-07-29 |
 | [El Ghaba](https://open.spotify.com/track/1nY3pSoPw1OisHDjoPGXNa) | [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [El Ghaba](https://open.spotify.com/album/6lSSJcyIWmBpdw2VqKn3ci) | 7:54 | 2021-08-25 | 2023-04-30 |
 | [El Ghaba](https://open.spotify.com/track/7ibGkbXkA1NEUGktfEgdwa) | [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [Lila](https://open.spotify.com/album/0MD1I51gcst768Xt38R2kG) | 7:54 | 2023-05-08 |  |
+| [Fangara](https://open.spotify.com/track/3ZbOt3J5GlRhuIUcWxgMY1) | [Hassan Boussou](https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI) | [Sewaryé gnawa influences](https://open.spotify.com/album/27PzrBG8lH8FmMZX5vYI3c) | 5:58 | 2023-08-10 |  |
 | [Fangara](https://open.spotify.com/track/5oSPmtyuSkHVFJwXFTUazC) | [Hassan Boussou](https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI) | [Sewarye gnawa influences](https://open.spotify.com/album/2qxTnxIo0aPJBLSGfmP1Ib) | 5:58 | 2021-08-25 | 2022-07-26 |
 | [Fangara Fangarié \- Ouled Bambara](https://open.spotify.com/track/7toYPMNjEZ1JmR5TKEfhG9) | [Maalem Si Mohamed Chaouqi](https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr) | [Les Gnawa du Maroc \(Ouled El' Abdi\)](https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK) | 3:21 | 2021-08-25 |  |
 | [Finkoum Ya Albouhala](https://open.spotify.com/track/3tasYylFyl52FR6Py5lPAB) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Soirées Gnawa Neurasys Remaster, Vol\. 5](https://open.spotify.com/album/1yADz9TsbPu4nrlIPOwL02) | 6:40 | 2021-08-25 | 2022-03-11 |

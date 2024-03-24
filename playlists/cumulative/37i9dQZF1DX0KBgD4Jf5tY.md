@@ -4,7 +4,7 @@
 
 > Il meglio della musica indipendente italiana, aggiornata il terzo mercoledì di ogni mese\. Cover: <a href="spotify:artist:1ByonnOisC5Owt0tfsyzGc">Coca Puma</a>
 
-1,170 songs - 2 day 10 hr 12 min
+1,171 songs - 2 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,8 @@
 | [Fiammifero \(feat\. Saint Abel\)](https://open.spotify.com/track/2fOIBo7mFG0bKNUMnGE8kU) | [fear](https://open.spotify.com/artist/7uYz8KI7EFdecCYUPADrVF), [Cherry Ills](https://open.spotify.com/artist/2xltT1bsHxP4ogBIoaqIS3), [noom](https://open.spotify.com/artist/0I3l2AGOa1OXzZWL5Pm3D7), [Saint Abel](https://open.spotify.com/artist/6xCih2NWSmPw4o1MJ1qnIt) | [Fiammifero \(feat\. Saint Abel\)](https://open.spotify.com/album/5djlcgNK2Vpb48vuWE3D40) | 2:28 | 2022-06-23 | 2022-07-23 |
 | [Fight](https://open.spotify.com/track/0xYh8xbqilx355Rtj60VIZ) | [Clio M](https://open.spotify.com/artist/330V7FBZ8TJl8SbquZARTo) | [Fight](https://open.spotify.com/album/5Uj0wHo6mwoDl0xJOg1NXJ) | 2:29 | 2023-10-31 | 2023-11-16 |
 | [Figli dei fiori](https://open.spotify.com/track/6ajwCssUxPBAZzRAgdtpPf) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Figli dei fiori](https://open.spotify.com/album/4wnRiqccVwW5iXc1z6GnWs) | 2:43 | 2023-03-02 | 2023-03-25 |
-| [figliafutura](https://open.spotify.com/track/52terdOzRx9GKRzsGybrns) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [figliafutura](https://open.spotify.com/album/5ic1uVI97CBuguXfwtVgen) | 2:54 | 2024-03-20 |  |
+| [figliafutura](https://open.spotify.com/track/52terdOzRx9GKRzsGybrns) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [figliafutura](https://open.spotify.com/album/5ic1uVI97CBuguXfwtVgen) | 2:54 | 2024-03-20 | 2024-03-24 |
+| [figliafutura](https://open.spotify.com/track/7zICTxRBg8BF1JsuHvpGfk) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [figliafutura](https://open.spotify.com/album/5tVGZVMIH8xNqPmwhoLgp5) | 2:54 | 2024-03-22 |  |
 | [Figlio d'Arte](https://open.spotify.com/track/4Ah0my37c8Aj6RVucNF4c5) | [Documentiprego](https://open.spotify.com/artist/5KIxHLuHz5ihRan6er38lu), [Pep](https://open.spotify.com/artist/7FB7shWJzqQMKcNgGiFmpz) | [Poteva Andare Peggio](https://open.spotify.com/album/7jIhHEuRCIY6zb8GSmiirM) | 2:48 | 2022-08-26 | 2022-10-14 |
 | [FILM](https://open.spotify.com/track/5nPOa1NCVgZ55VmVoYYL6E) | [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [Dalu](https://open.spotify.com/artist/4oIQqm101EnDn0FjhreaIi), [Draw Ice](https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG) | [FILM](https://open.spotify.com/album/2immDl2yt5w1PfvL0Cqwr4) | 2:44 | 2023-03-23 | 2023-04-19 |
 | [FILM AMERICANI](https://open.spotify.com/track/3D6INHioHKzzzL8wdIJ963) | [Piazza](https://open.spotify.com/artist/1sWHILK0UhZBC0GsT6Wy9H) | [FILM AMERICANI](https://open.spotify.com/album/7FcApNMMQVhwRluJTLGNiR) | 2:38 | 2022-02-17 | 2022-03-25 |

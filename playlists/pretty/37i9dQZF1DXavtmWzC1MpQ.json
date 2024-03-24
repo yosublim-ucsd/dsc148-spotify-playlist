@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 131378,
+  "num_followers": 131415,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzlkYzgwYjY3NDg1MGZjMTNkZGVmY2Y2ZWZmZDhiOTc5NjQ3NTFj",
+  "snapshot_id": "MCwyZjE4MzA5MjcxMTUxMmE1MDhhYzQ3NDlkZjA1OGU4YzQ0YTkwY2Fk",
   "tracks": [
     {
       "added_at": "2023-06-19 13:01:14",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Rainforest Soundscapes",
-        "url": "https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w"
-      },
-      "artists": [
-        {
-          "name": "Rain Gems",
-          "url": "https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq"
-        }
-      ],
-      "duration_ms": 162679,
-      "name": "Rainforest",
-      "url": "https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Rain White Noise",
         "url": "https://open.spotify.com/album/2UzN5SOcvTY7B9bu1bg84I"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 120083,
       "name": "Quiet Rain in River",
       "url": "https://open.spotify.com/track/2dz9Mx1pZKF2OLAPCr3AcC"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Rainforest Soundscapes",
+        "url": "https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w"
+      },
+      "artists": [
+        {
+          "name": "Rain Gems",
+          "url": "https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq"
+        }
+      ],
+      "duration_ms": 162679,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Thunderstorms vol II",
-        "url": "https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg"
+        "name": "The Rain",
+        "url": "https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4"
       },
       "artists": [
         {
-          "name": "Wonderful Escape",
-          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+          "name": "Naturalis",
+          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
         }
       ],
-      "duration_ms": 228500,
-      "name": "Dripping Wet Leaves and Thunder",
-      "url": "https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ"
+      "duration_ms": 183028,
+      "name": "Distant Thunder in the East of the City",
+      "url": "https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "The Rain",
-        "url": "https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4"
+        "name": "Thunderstorms vol II",
+        "url": "https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg"
       },
       "artists": [
         {
-          "name": "Naturalis",
-          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
         }
       ],
-      "duration_ms": 183028,
-      "name": "Distant Thunder in the East of the City",
-      "url": "https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At"
+      "duration_ms": 228500,
+      "name": "Dripping Wet Leaves and Thunder",
+      "url": "https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Seawaves",
-        "url": "https://open.spotify.com/album/2i7LfUCCCko8PQpqsiwcB4"
-      },
-      "artists": [
-        {
-          "name": "Wonderful Escape",
-          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
-        }
-      ],
-      "duration_ms": 277714,
-      "name": "Small Waves Hitting Beach",
-      "url": "https://open.spotify.com/track/0qLbSqEgFtyLOp1epIw1fa"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Ocean Noises",
         "url": "https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 185276,
       "name": "Forest of Calamity",
       "url": "https://open.spotify.com/track/1ZOWaxy3FBZd10a2YTqIYD"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Seawaves",
+        "url": "https://open.spotify.com/album/2i7LfUCCCko8PQpqsiwcB4"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "Small Waves Hitting Beach",
+      "url": "https://open.spotify.com/track/0qLbSqEgFtyLOp1epIw1fa"
     },
     {
       "added_at": "2023-06-19 13:01:14",
