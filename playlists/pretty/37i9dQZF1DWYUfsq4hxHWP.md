@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Sheyna Gee, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,592 likes - 110 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,640 likes - 110 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 109 | [Wish You Back](https://open.spotify.com/track/16URet9mbYzRbBGaWuR4KG) | [Clayton Johnson](https://open.spotify.com/artist/4cybx8xQKafXgZFGGHdJN9) | [Wish You Back](https://open.spotify.com/album/6yKAiysoQNviwoDrNv5r6x) | 2:58 |
 | 110 | [Red Lights](https://open.spotify.com/track/1dWp477RoKn2vMxH6ViioG) | [Lane Smith](https://open.spotify.com/artist/2NAFBYpHLQhucaNUoUI3g2) | [Red Lights](https://open.spotify.com/album/5K6JrQiBb48ThLudkCRpQl) | 3:10 |
 
-Snapshot ID: `MCwzOTA5OTBjZWY0NTZkNzA2MmJkMTMzM2Q2NTBjN2MxZWZiYmNiNWZi`
+Snapshot ID: `MCxhOGNhYWI3N2M0MDMyMTIyYThjNDE4ZDMxYTE0MDkxYWUxMWU3Y2Ex`

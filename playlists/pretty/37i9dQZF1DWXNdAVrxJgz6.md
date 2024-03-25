@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,139 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,205 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 75 | [Llévame](https://open.spotify.com/track/67g1jCRgOH1jiEqpZ97dXv) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Freddo Lucky Bossi](https://open.spotify.com/artist/0Xo0oBux0dHBchnwne2ajY) | [Llévame](https://open.spotify.com/album/1ih7jR55Jr0U5UHmV1SDPk) | 3:45 |
 | 76 | [Ojalá Que Me Olvides](https://open.spotify.com/track/25B8AVCusrV45NJU0pOcyw) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Libre Otra Vez](https://open.spotify.com/album/1JXt3Es9CECo7PuQv11Qja) | 3:24 |
 | 77 | [A Veces \(En Vivo\)](https://open.spotify.com/track/0JNZeC9GSNQGsVJFNj5oH2) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [A Veces](https://open.spotify.com/album/12SgOJuYwKoWE7LnxnhgYF) | 4:07 |
-| 78 | [Remodelación Facial](https://open.spotify.com/track/0RAq5oqXMfGqSsJkWv4A8Z) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/4NTwdElpRaOrPOJbImPwGn) | 3:46 |
-| 79 | [Rasgos De Inocencia](https://open.spotify.com/track/7faQDP2ZiMBhrPnly6wpCH) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 4:10 |
+| 78 | [Rasgos De Inocencia](https://open.spotify.com/track/7faQDP2ZiMBhrPnly6wpCH) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 4:10 |
+| 79 | [Remodelación Facial](https://open.spotify.com/track/0RAq5oqXMfGqSsJkWv4A8Z) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/4NTwdElpRaOrPOJbImPwGn) | 3:46 |
 | 80 | [Tomando Ando](https://open.spotify.com/track/00cPZxfcPWW97LKhn8YYU7) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:18 |
 | 81 | [Solo Un Día](https://open.spotify.com/track/0bpsiH7FNdX74qFdzaBdxl) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Escuela De Rancho](https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T) | 3:06 |
 | 82 | [He Bebido](https://open.spotify.com/track/6gLVwXlxgygLPre6PTsKYT) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Hombre](https://open.spotify.com/album/0JgQOB2Xr0s6qa9i0hN7my) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 99 | [Era Creyente](https://open.spotify.com/track/5UDspydEAzAkdwC6wLcxTi) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:14 |
 | 100 | [Mazatlán Carnaval](https://open.spotify.com/track/0e9LfWGbRtNazKK7Kmby6A) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/4NTwdElpRaOrPOJbImPwGn) | 4:04 |
 
-Snapshot ID: `MCw2ZDA1ZDhmNjM4MzQ4NjkxZjZjZTFkNzkzNTQ0Y2I3MTg0OThkNTYz`
+Snapshot ID: `MCw1ZTJhYzg1Yjg4MTZjYzQzYzIwYTM2NjIxYWNkMzQyNWQwNmM0OWZk`

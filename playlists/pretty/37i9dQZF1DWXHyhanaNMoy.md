@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Frenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,672 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,712 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 59 | [Sweet Melanin \(Valentine’s Edition\)](https://open.spotify.com/track/3yZzxgXgdUjJwhaeTZsXpP) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [MELL](https://open.spotify.com/artist/0oU4JPyGHFpmq8oNyfkrk7) | [Sweet Melanin \(Valentine’s Edition\)](https://open.spotify.com/album/1Yo9IOy3vA4koBYYNlZrwp) | 3:03 |
 | 60 | [Ring Di Alarm](https://open.spotify.com/track/1D0pdbZyGTIDt6ynWP3JLM) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [Ring Di Alarm](https://open.spotify.com/album/3l7r1yJn2LOle1ClOKkIMo) | 2:27 |
 
-Snapshot ID: `MCw4ZjFmOTAyM2Q0NWE0YmIyYWE2MjYxNjI3Njk2ZGNjMjQxZDk4Yjky`
+Snapshot ID: `MCw0ZDY5NmZmMDYxOGVlYzgwNTllZjQ5OWNmMGIzMDMyNTUxMjY3YWIy`

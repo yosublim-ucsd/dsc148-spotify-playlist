@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-428 songs - 1 day 0 hr 31 min
+429 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Astatine](https://open.spotify.com/track/666PI2ou8H5MI98weRgnXI) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Astatine](https://open.spotify.com/album/1PTdPcuA4PZOFiqCA4h4iR) | 5:48 | 2022-12-02 |  |
 | [Astral Flows](https://open.spotify.com/track/5hx4AzqBLrtghO78FyU4Nm) | [Felix Johansson Carne](https://open.spotify.com/artist/5tb6pZdgWLr5oHOlSgtiqk) | [Astral Flows](https://open.spotify.com/album/4dTIaCbAYi6fguXYQQkYqF) | 3:53 | 2023-10-25 |  |
 | [Astrogirl](https://open.spotify.com/track/4fu7kFgKu4UazLx7gxCg3B) | [九十九佐命](https://open.spotify.com/artist/0aNjNaUhrnoPHoTiA2U4I0), [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Astrogirl](https://open.spotify.com/album/3nkaNTXZeS1W3ljVn8jAFK) | 3:10 | 2022-06-17 |  |
+| [Atrophies](https://open.spotify.com/track/5xgM9AY0lgeMmOPG63zk89) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL), [mykel online](https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6) | [Couch Fever](https://open.spotify.com/album/27j94RzNEPRwY6hNftJNA9) | 4:21 | 2024-03-22 |  |
 | [Aurora](https://open.spotify.com/track/5XND8aufA4UvtqAgARcjfN) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Aurora](https://open.spotify.com/album/25DMpXc3h4lBPIwBRvCEiI) | 2:44 | 2022-01-28 |  |
 | [AUTO](https://open.spotify.com/track/2VMcZUFSApHIFGfKA8lZl6) | [Wave Racer](https://open.spotify.com/artist/147jymD5t0TCXW0DbaXry0) | [AUTO](https://open.spotify.com/album/3x3WIiyf6xAHQjaqqxioNp) | 2:59 | 2022-07-14 | 2022-08-06 |
 | [Away With Me](https://open.spotify.com/track/5N0KyNZkYbA3wCgs09cVMm) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [raychel jay](https://open.spotify.com/artist/7zjhhasa5SAMXbDcbmhkoj) | [Away With Me](https://open.spotify.com/album/4IWjUSyoKFPiFgEPyFDmNi) | 2:41 | 2022-01-07 | 2024-02-18 |
@@ -70,7 +71,7 @@
 | [Channel 43 \- Radio Edit](https://open.spotify.com/track/32BKtTFLWpi73DwLWWEswe) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Channel 43](https://open.spotify.com/album/2JRRLpd3O6xb6gITipeQGr) | 3:04 | 2022-10-07 |  |
 | [Charisma](https://open.spotify.com/track/1pAbqGUiV6lQwofu1m31b3) | [Elliot Hsu](https://open.spotify.com/artist/1gnHg0HnaetLp2GKkX7dSi) | [Charisma](https://open.spotify.com/album/7JjMRGDRuV6agLLK9owiz4) | 3:53 | 2022-01-07 |  |
 | [Cheerleader](https://open.spotify.com/track/779mhz1mAry946r91qzR1r) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Cheerleader](https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI) | 3:57 | 2024-03-22 |  |
-| [Cherry](https://open.spotify.com/track/0zxAdvhHnewHweDFMquQd1) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Cherry](https://open.spotify.com/album/0HSosI2SBkR4dMq5iCqJNr) | 3:49 | 2022-12-16 |  |
+| [Cherry](https://open.spotify.com/track/0zxAdvhHnewHweDFMquQd1) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Cherry](https://open.spotify.com/album/0HSosI2SBkR4dMq5iCqJNr) | 3:49 | 2022-12-16 | 2024-03-25 |
 | [Chicago Loop](https://open.spotify.com/track/0HOiRqWcSwa1QSiLlZCVvJ) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Chicago Loop](https://open.spotify.com/album/2oW6MbxLGHzh8WhuEhGdKS) | 3:16 | 2022-07-14 | 2022-08-06 |
 | [Chocolate Parfait](https://open.spotify.com/track/5p5pPuUueY58wD20cMxGge) | [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Chocolate Parfait](https://open.spotify.com/album/7vQ6C0NU6ReWNqbxMt7tvc) | 2:44 | 2022-01-07 | 2022-07-19 |
 | [CHROMA](https://open.spotify.com/track/7xiOCdvjjZ1t4NZk3SjEwN) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [CHROMA](https://open.spotify.com/album/6r3pmW6cdtmzg7eikOKS15) | 4:33 | 2022-01-07 | 2022-07-29 |

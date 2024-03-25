@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Chita.",
-  "num_followers": 760209,
+  "num_followers": 760208,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzM1OTA2ZjNkNGQ3NjU3ZjdjOWY2ZTU0NTFkNzkzZGE1ZjU2ODcz",
+  "snapshot_id": "MCw1NDMwOGQyYmQ2MjU5MzU5Y2Y3OGQ1NDJkNjQ2NWM2ZjFlNzlhNTEy",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "aguardiente",
+        "url": "https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch"
+      },
+      "artists": [
+        {
+          "name": "Miranda del Sol",
+          "url": "https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7"
+        }
+      ],
+      "duration_ms": 171279,
+      "name": "aguardiente",
+      "url": "https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "PAINFUL PARADISE",
         "url": "https://open.spotify.com/album/54nuF8VIzj6ZoW5yYFHt9M"
       },
@@ -847,30 +863,6 @@
       "duration_ms": 175995,
       "name": "PAINFUL PARADISE",
       "url": "https://open.spotify.com/track/3PUMFgRmBuKqGDtNKLBPt6"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "OTRA BOSSA",
-        "url": "https://open.spotify.com/album/5Pg1i15k9DDMb40Mwqa6Zx"
-      },
-      "artists": [
-        {
-          "name": "Izan Llunas",
-          "url": "https://open.spotify.com/artist/2ul9EYAgD5oc3ipp34QzMl"
-        },
-        {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        },
-        {
-          "name": "Deivvbb",
-          "url": "https://open.spotify.com/artist/41CFEd48bGmJKWs8PVpGpu"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "OTRA BOSSA",
-      "url": "https://open.spotify.com/track/4HLXfrsYOXi8ncZJbHaX6e"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -895,18 +887,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "aguardiente",
-        "url": "https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch"
+        "name": "OTRA BOSSA",
+        "url": "https://open.spotify.com/album/5Pg1i15k9DDMb40Mwqa6Zx"
       },
       "artists": [
         {
-          "name": "Miranda del Sol",
-          "url": "https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7"
+          "name": "Izan Llunas",
+          "url": "https://open.spotify.com/artist/2ul9EYAgD5oc3ipp34QzMl"
+        },
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        },
+        {
+          "name": "Deivvbb",
+          "url": "https://open.spotify.com/artist/41CFEd48bGmJKWs8PVpGpu"
         }
       ],
-      "duration_ms": 171279,
-      "name": "aguardiente",
-      "url": "https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd"
+      "duration_ms": 144000,
+      "name": "OTRA BOSSA",
+      "url": "https://open.spotify.com/track/4HLXfrsYOXi8ncZJbHaX6e"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "lo q necesitabas",
-        "url": "https://open.spotify.com/album/0lGBsRZiB4F8WaUadCirqT"
-      },
-      "artists": [
-        {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        }
-      ],
-      "duration_ms": 103058,
-      "name": "lo q necesitabas",
-      "url": "https://open.spotify.com/track/3o4pKdMkldtuzgQC0axUNm"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Lindo Lindo",
         "url": "https://open.spotify.com/album/2SDuXDfdmj1HNuiovoCOdZ"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 223481,
       "name": "Lindo Lindo",
       "url": "https://open.spotify.com/track/3Hvva8vE6RffJZRozTBJ9r"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "lo q necesitabas",
+        "url": "https://open.spotify.com/album/0lGBsRZiB4F8WaUadCirqT"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "duration_ms": 103058,
+      "name": "lo q necesitabas",
+      "url": "https://open.spotify.com/track/3o4pKdMkldtuzgQC0axUNm"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Tu Camisa",
+        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Shantty",
+          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+        }
+      ],
+      "duration_ms": 188139,
+      "name": "Tu Camisa",
+      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "NICE GUY BAD GUY",
         "url": "https://open.spotify.com/album/6r4Ddc1uUj6ddQtmVYFSK2"
       },
@@ -1103,22 +1123,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Blockbuster (90's R&B)",
-        "url": "https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 207204,
-      "name": "Blockbuster (90's R&B)",
-      "url": "https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Nervios de Acero",
         "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
       },
@@ -1135,18 +1139,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Kafka",
-        "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
+        "name": "Blockbuster (90's R&B)",
+        "url": "https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk"
       },
       "artists": [
         {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Kafka",
-      "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
+      "duration_ms": 207204,
+      "name": "Blockbuster (90's R&B)",
+      "url": "https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1167,22 +1171,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Tu Camisa",
-        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
+        "name": "Kafka",
+        "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
       },
       "artists": [
         {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        },
-        {
-          "name": "Shantty",
-          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
         }
       ],
-      "duration_ms": 188139,
-      "name": "Tu Camisa",
-      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
+      "duration_ms": 153600,
+      "name": "Kafka",
+      "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "VUELTIANDO",
-        "url": "https://open.spotify.com/album/0ROCZQoKTnW6IcVw1vgmIh"
-      },
-      "artists": [
-        {
-          "name": "OMGisNEFF",
-          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
-        },
-        {
-          "name": "Neverknwn",
-          "url": "https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa"
-        }
-      ],
-      "duration_ms": 174085,
-      "name": "VUELTIANDO",
-      "url": "https://open.spotify.com/track/6P7pVqYGeMPmH7EjRFO7Un"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Esta vida que eleg\u00ed",
         "url": "https://open.spotify.com/album/0alnRc5CatL1is7bUqJ1j9"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 183000,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/75ApJOCeGeraJfxIl4qAlI"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "VUELTIANDO",
+        "url": "https://open.spotify.com/album/0ROCZQoKTnW6IcVw1vgmIh"
+      },
+      "artists": [
+        {
+          "name": "OMGisNEFF",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        },
+        {
+          "name": "Neverknwn",
+          "url": "https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa"
+        }
+      ],
+      "duration_ms": 174085,
+      "name": "VUELTIANDO",
+      "url": "https://open.spotify.com/track/6P7pVqYGeMPmH7EjRFO7Un"
     },
     {
       "added_at": "2024-03-22 04:00:00",

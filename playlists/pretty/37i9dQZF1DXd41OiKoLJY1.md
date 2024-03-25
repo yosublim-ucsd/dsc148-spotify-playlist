@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Tamara\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,442 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,446 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Invidia](https://open.spotify.com/track/6eBwnqYEWwzop6CSO3FA37) | [Psycho Silver](https://open.spotify.com/artist/224DNZA7tA5jja0VQJrCA2) | [Invidia](https://open.spotify.com/album/7bXyJReeRkndxM0a42oUQo) | 5:01 |
 | 100 | [Blacked Out!](https://open.spotify.com/track/4Hv3dxwmMo6Ticy22hDAW3) | [KONSTANT](https://open.spotify.com/artist/2bkT5O6LfxfaPq829lVdZH) | [Blacked Out!](https://open.spotify.com/album/02tcprC9h8MJU4dhHHs2cU) | 2:47 |
 
-Snapshot ID: `MCw5MzFhZmJmYzM2MTUyZTlmOTg2N2JkY2Y2MzExM2RlODY0YmRiZjU3`
+Snapshot ID: `MCw4ZWE3YjY1ZjlhOGMwZjMzZWQzNzdkZmI1MGQzMDBjN2VhNTNlYTRl`

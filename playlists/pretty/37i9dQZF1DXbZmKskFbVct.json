@@ -1,12 +1,12 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 33896,
+  "num_followers": 33893,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGVkYjhiMjcyMGY2ZDZjNzgwNjhmOGNkYzM4YjM0ZjkyMTgwODJi",
+  "snapshot_id": "MCxlM2QzOTM3NDc0YWYzYWFjMTczNGEzOGMyYzM5YTEzMjg1MWU3NGNh",
   "tracks": [
     {
       "added_at": "2023-09-08 12:24:34",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Uplifting Mantras",
-        "url": "https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g"
-      },
-      "artists": [
-        {
-          "name": "Asmr Brain Tingle",
-          "url": "https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m"
-        }
-      ],
-      "duration_ms": 293571,
-      "name": "Uplifting Mantra Pt One",
-      "url": "https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "ASMR - The Invisible Man - Unintelligible/Inaudible Whispered Reading (WITHOUT ambient sounds)",
         "url": "https://open.spotify.com/album/22STdU6oFRzb7wDQAJqKZ3"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 359356,
       "name": "The Invisible Man - Unintelligible Inaudible Whispered Reading, Pt. 6",
       "url": "https://open.spotify.com/track/2WYFQOEtY5Y61kGj9g5KfW"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "Uplifting Mantras",
+        "url": "https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g"
+      },
+      "artists": [
+        {
+          "name": "Asmr Brain Tingle",
+          "url": "https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m"
+        }
+      ],
+      "duration_ms": 293571,
+      "name": "Uplifting Mantra Pt One",
+      "url": "https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
+        "name": "Shh it's Ok, Relax and Ramble (Personal Attention/Affirmation)",
+        "url": "https://open.spotify.com/album/2IcaGhcQOeJi10AjiuJGJy"
+      },
+      "artists": [
+        {
+          "name": "ASMR Leedah",
+          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
+        }
+      ],
+      "duration_ms": 642000,
+      "name": "Audio on Spotify, Surfshark",
+      "url": "https://open.spotify.com/track/2bPdgFLnWeynj5RQKdj4Gd"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
         "name": "ROLEPLAY VENDEUSE DE CHAUSSURES",
         "url": "https://open.spotify.com/album/4HFd8jrnnZ7OUYXWGWggUU"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Shh it's Ok, Relax and Ramble (Personal Attention/Affirmation)",
-        "url": "https://open.spotify.com/album/2IcaGhcQOeJi10AjiuJGJy"
+        "name": "Sorting Fantasy & Medieval Coins | ASMR Cozy Basics",
+        "url": "https://open.spotify.com/album/7Amaypzgbs3yueIMb6AeYF"
       },
       "artists": [
         {
-          "name": "ASMR Leedah",
-          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
+          "name": "Moonlight Cottage ASMR",
+          "url": "https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn"
         }
       ],
-      "duration_ms": 642000,
-      "name": "Audio on Spotify, Surfshark",
-      "url": "https://open.spotify.com/track/2bPdgFLnWeynj5RQKdj4Gd"
+      "duration_ms": 303000,
+      "name": "Identifying the Different Fantasy Coins",
+      "url": "https://open.spotify.com/track/2hZ9Oix00VixG6xLnQBoeW"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -631,22 +647,6 @@
       "duration_ms": 361000,
       "name": "Going Over Your Notes / Writing Sounds",
       "url": "https://open.spotify.com/track/3YxyDSG1HgIjVQOIt1sENb"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
-        "name": "Sorting Fantasy & Medieval Coins | ASMR Cozy Basics",
-        "url": "https://open.spotify.com/album/7Amaypzgbs3yueIMb6AeYF"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Cottage ASMR",
-          "url": "https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "Identifying the Different Fantasy Coins",
-      "url": "https://open.spotify.com/track/2hZ9Oix00VixG6xLnQBoeW"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "10 Triggers To Help Relax Your Brain At Night",
-        "url": "https://open.spotify.com/album/4f3eL2qfREaFIBo6uwreba"
-      },
-      "artists": [
-        {
-          "name": "ASMR LillyVinnily",
-          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
-        }
-      ],
-      "duration_ms": 584000,
-      "name": "Whispers and Dry Ear Massage",
-      "url": "https://open.spotify.com/track/7M2eaTwjc4tnuvfnrd8df6"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "Checking Up On You (Scratch, Tapping, Ramble)",
         "url": "https://open.spotify.com/album/1Do1eNmYnpBrXSbjXCI57Z"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "ASMR Egyptian Spa | Bathing You, Skin Treatment, Makeup, Pampering - ASMR Roleplay Soft Spoken",
-        "url": "https://open.spotify.com/album/0IHfyUsgLNwuSHP7gTxd2F"
+        "name": "10 Triggers To Help Relax Your Brain At Night",
+        "url": "https://open.spotify.com/album/4f3eL2qfREaFIBo6uwreba"
       },
       "artists": [
         {
-          "name": "The Healing Room ASMR",
-          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
         }
       ],
-      "duration_ms": 404000,
-      "name": "Milk Bath",
-      "url": "https://open.spotify.com/track/2WwA9o1ZQWu9W2JGAg42OG"
+      "duration_ms": 584000,
+      "name": "Whispers and Dry Ear Massage",
+      "url": "https://open.spotify.com/track/7M2eaTwjc4tnuvfnrd8df6"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -775,6 +759,22 @@
       "duration_ms": 470619,
       "name": "Cozy Low-Light Pt.4",
       "url": "https://open.spotify.com/track/16hoz3j0hMPDMJYv659kPq"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "ASMR Egyptian Spa | Bathing You, Skin Treatment, Makeup, Pampering - ASMR Roleplay Soft Spoken",
+        "url": "https://open.spotify.com/album/0IHfyUsgLNwuSHP7gTxd2F"
+      },
+      "artists": [
+        {
+          "name": "The Healing Room ASMR",
+          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
+        }
+      ],
+      "duration_ms": 404000,
+      "name": "Milk Bath",
+      "url": "https://open.spotify.com/track/2WwA9o1ZQWu9W2JGAg42OG"
     },
     {
       "added_at": "2023-09-08 12:24:34",

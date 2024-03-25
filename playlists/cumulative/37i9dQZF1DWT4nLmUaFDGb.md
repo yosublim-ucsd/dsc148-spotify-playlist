@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-250 songs - 16 hr 9 min
+251 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 | 2023-08-18 |  |
 | [I Only Want To Be With You](https://open.spotify.com/track/1oAs44xVvu4QaZpX9033S5) | [Shelby Lynne](https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4) | [Just A Little Lovin'](https://open.spotify.com/album/1Qp047VBGL9d1PkHWKuqG5) | 3:50 | 2022-08-19 |  |
 | [I Try](https://open.spotify.com/track/1TQZRpTbH3aWDqmr5mBo2z) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt) | 4:17 | 2022-07-14 | 2023-10-20 |
-| [I Try](https://open.spotify.com/track/4LwUtuvie7JhcBFhUKnVv1) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/4qOu8iLW8LyrX1MVm393P6) | 4:17 | 2024-02-09 |  |
+| [I Try](https://open.spotify.com/track/4LwUtuvie7JhcBFhUKnVv1) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/4qOu8iLW8LyrX1MVm393P6) | 4:17 | 2024-02-09 | 2024-03-25 |
 | [I Try](https://open.spotify.com/track/1ynhiM8AOkAFbK4BGBiYQg) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/4mWblXjBpl7QjsjcVGq0hT) | 4:17 | 2022-03-30 | 2022-07-29 |
 | [I Will Wait for You](https://open.spotify.com/track/12SjdWu7R9pDvQieJA68v8) | [Lisa Lovbrand](https://open.spotify.com/artist/0dcpb2NumxoK75LauEbfOc) | [Let Me Love You](https://open.spotify.com/album/0TsCxKSmji1bgovGqizJII) | 3:39 | 2022-08-19 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/0sGzxxnh6MTgrfP8zQjW01) | [Lauren Coleman](https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek) | [I'll Be Seeing You](https://open.spotify.com/album/2OsdUvKFnHmZcPE0aSH6Fy) | 2:30 | 2023-05-18 |  |
@@ -165,6 +165,7 @@
 | [My Kind of Girl](https://open.spotify.com/track/13QWQQW83ZMO1k8EDucqgZ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Nobody but Me \(Deluxe\)](https://open.spotify.com/album/2OXZJLXxM8jrY3gBoVNfmz) | 4:06 | 2021-12-21 | 2022-10-26 |
 | [My Way](https://open.spotify.com/track/29wGQwGblvBlUbKuS79f25) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh), [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif) | [Classic Songs, My Way](https://open.spotify.com/album/6Wnovhi56DG9BpxufQLSER) | 5:19 | 2021-12-21 | 2022-09-27 |
 | [Next Time](https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Next Time](https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL) | 5:18 | 2024-02-09 |  |
+| [Nice Girls Don't Stay for Breakfast](https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Nice Girls Don't Stay for Breakfast](https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO) | 3:37 | 2024-03-20 |  |
 | [Oh My Love](https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [The Big Picture](https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56) | 2:46 | 2022-08-19 |  |
 | [once in a moon](https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [once in a moon](https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963) | 4:05 | 2022-03-15 | 2022-12-06 |
 | [One At A Time](https://open.spotify.com/track/6M00o3MqNCShYRPND1UBEN) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [On My Way to You](https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX) | 2:56 | 2021-12-21 |  |

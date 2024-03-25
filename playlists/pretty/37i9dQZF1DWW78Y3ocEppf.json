@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Inayah",
-  "num_followers": 43223,
+  "num_followers": 43224,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGQ0ZDRiNTNmYmM2ZTljNWEyNDA5MWY5Nzc2YzZkN2M4ODRjNjFk",
+  "snapshot_id": "MCwyODhmMTcwZmM2ZDY3YmZmMWQ1YmFkMjliM2ZiN2UyM2RjYWM5NDA4",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "NEGLIGENT",
+        "url": "https://open.spotify.com/album/1PnBzRz589IzGfNYcoKAwU"
+      },
+      "artists": [
+        {
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+        }
+      ],
+      "duration_ms": 204144,
+      "name": "NEGLIGENT",
+      "url": "https://open.spotify.com/track/38rL1N6TYmh1UFPKYHKjeA"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Send Your Loving",
         "url": "https://open.spotify.com/album/6mosxW2MvsBVCa8dpxDhyB"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 174545,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "NEGLIGENT",
-        "url": "https://open.spotify.com/album/1PnBzRz589IzGfNYcoKAwU"
-      },
-      "artists": [
-        {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
-        }
-      ],
-      "duration_ms": 204144,
-      "name": "NEGLIGENT",
-      "url": "https://open.spotify.com/track/38rL1N6TYmh1UFPKYHKjeA"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -869,22 +869,6 @@
       "url": "https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Grudges",
-        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 213736,
-      "name": "LMK",
-      "url": "https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Full Circle: Sonic Book Two",
@@ -903,6 +887,22 @@
       "duration_ms": 229838,
       "name": "Taking Off",
       "url": "https://open.spotify.com/track/6UpQnWMqluVLTdCyk3qFJ4"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "Grudges",
+        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 213736,
+      "name": "LMK",
+      "url": "https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Love Hate",
-        "url": "https://open.spotify.com/album/6ReX2Hg53ItFexiCXSemhy"
-      },
-      "artists": [
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 156309,
-      "name": "Love Hate",
-      "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/42ZpyhNWUTOm5J9ex6I7yF"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 159313,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/0PtzMsYtataAxl7UP9Q2HF"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Love Hate",
+        "url": "https://open.spotify.com/album/6ReX2Hg53ItFexiCXSemhy"
+      },
+      "artists": [
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+        }
+      ],
+      "duration_ms": 156309,
+      "name": "Love Hate",
+      "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Before We Crash",
-        "url": "https://open.spotify.com/album/2c8uHecoqDsOG1Exs7W9TC"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        }
-      ],
-      "duration_ms": 229447,
-      "name": "Better Than Him",
-      "url": "https://open.spotify.com/track/6vucaejrSd21jHkXo3tHUu"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Addiction",
@@ -1239,6 +1223,22 @@
       "duration_ms": 163720,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/6dEHTCK6SyciGXCStYmoJb"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Before We Crash",
+        "url": "https://open.spotify.com/album/2c8uHecoqDsOG1Exs7W9TC"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "duration_ms": 229447,
+      "name": "Better Than Him",
+      "url": "https://open.spotify.com/track/6vucaejrSd21jHkXo3tHUu"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1293,6 +1293,22 @@
       "url": "https://open.spotify.com/track/2YMBu5oURKQ0uSKW8x80o3"
     },
     {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/5Sero7LzJaM1Pxp51FW2wY"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Luv To A Fck Song",
+      "url": "https://open.spotify.com/track/6qDNh0axas6ZxjnMraUasM"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Ye Ali & Chill 3",
@@ -1317,22 +1333,6 @@
       "url": "https://open.spotify.com/track/6PZRy35ohzFTVfrpAEzmHf"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/5Sero7LzJaM1Pxp51FW2wY"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Luv To A Fck Song",
-      "url": "https://open.spotify.com/track/6qDNh0axas6ZxjnMraUasM"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Fkn Him Too",
@@ -1347,22 +1347,6 @@
       "duration_ms": 170079,
       "name": "Fkn Him Too",
       "url": "https://open.spotify.com/track/1PQ3QK3tTsknvnw1LppFv1"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Meet Me Upstrz",
-        "url": "https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY"
-      },
-      "artists": [
-        {
-          "name": "Upstrz",
-          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
-        }
-      ],
-      "duration_ms": 156107,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1383,6 +1367,22 @@
       "duration_ms": 199563,
       "name": "Swerve",
       "url": "https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Meet Me Upstrz",
+        "url": "https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY"
+      },
+      "artists": [
+        {
+          "name": "Upstrz",
+          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
+        }
+      ],
+      "duration_ms": 156107,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1461,22 +1461,6 @@
       "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Needs & Wants",
-        "url": "https://open.spotify.com/album/0zkjSOELuXwL9w41jcf2WA"
-      },
-      "artists": [
-        {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        }
-      ],
-      "duration_ms": 185719,
-      "name": "Needs & Wants",
-      "url": "https://open.spotify.com/track/0X0bYJxGG2NBLH93PQvOi3"
-    },
-    {
       "added_at": "2023-07-28 08:00:10",
       "album": {
         "name": "Just Like Me",
@@ -1497,20 +1481,20 @@
       "url": "https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/5v5tNGmRVNvkDgyc6ATBNC"
+        "name": "Needs & Wants",
+        "url": "https://open.spotify.com/album/0zkjSOELuXwL9w41jcf2WA"
       },
       "artists": [
         {
-          "name": "451",
-          "url": "https://open.spotify.com/artist/0x2owJPJ7tQZaSSKJq6GXA"
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
         }
       ],
-      "duration_ms": 198367,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/4M3Dm3KwX3nfXQ0w82w3da"
+      "duration_ms": 185719,
+      "name": "Needs & Wants",
+      "url": "https://open.spotify.com/track/0X0bYJxGG2NBLH93PQvOi3"
     },
     {
       "added_at": "2022-09-30 04:04:59",
@@ -1533,6 +1517,22 @@
       "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/5v5tNGmRVNvkDgyc6ATBNC"
+      },
+      "artists": [
+        {
+          "name": "451",
+          "url": "https://open.spotify.com/artist/0x2owJPJ7tQZaSSKJq6GXA"
+        }
+      ],
+      "duration_ms": 198367,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/4M3Dm3KwX3nfXQ0w82w3da"
+    },
+    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "T.B.D.",
@@ -1549,22 +1549,6 @@
       "url": "https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "How Many",
-        "url": "https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm"
-      },
-      "artists": [
-        {
-          "name": "Ryan Destiny",
-          "url": "https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf"
-        }
-      ],
-      "duration_ms": 198888,
-      "name": "How Many",
-      "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Speak Your Mine",
@@ -1579,6 +1563,22 @@
       "duration_ms": 207175,
       "name": "Speak Your Mine",
       "url": "https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "How Many",
+        "url": "https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm"
+      },
+      "artists": [
+        {
+          "name": "Ryan Destiny",
+          "url": "https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf"
+        }
+      ],
+      "duration_ms": 198888,
+      "name": "How Many",
+      "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1733,22 +1733,6 @@
       "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "who's loving you?",
-        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 219662,
-      "name": "PT. II (DRAKE & DRIVE)",
-      "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Cold Toronto",
@@ -1779,6 +1763,22 @@
       "duration_ms": 153599,
       "name": "Kissing On Your Tattoos",
       "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "who's loving you?",
+        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 219662,
+      "name": "PT. II (DRAKE & DRIVE)",
+      "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
     }
   ],
   "unique_name": "Some Kinda Way",

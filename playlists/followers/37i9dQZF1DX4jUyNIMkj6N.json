@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 200382,
+  "2024-03-25": 200413,
   "date_first_scraped": "2021-12-21",
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
   "name": "Nordic Folk",
@@ -3407,7 +3407,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 172007,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
@@ -4011,6 +4011,24 @@
       "duration_ms": 221682,
       "name": "The Sky Is Painted Gray Today",
       "url": "https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA"
+    },
+    {
+      "album": {
+        "name": "The State of the World",
+        "url": "https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39"
+      },
+      "artists": [
+        {
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258880,
+      "name": "The State of the World",
+      "url": "https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N"
     },
     {
       "album": {

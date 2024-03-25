@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "A Wondrous Day at Sea",
+        "url": "https://open.spotify.com/album/5pgUveuZNbekDjIK3DXx3k"
+      },
+      "artists": [
+        {
+          "name": "Nelly Vernon",
+          "url": "https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202769,
+      "name": "A Wondrous Day at Sea",
+      "url": "https://open.spotify.com/track/1qe1tA11dGRosaBxbKutUr"
+    },
+    {
+      "album": {
         "name": "Above All",
         "url": "https://open.spotify.com/album/4yHKNMO6qCHvJlj43fHGGQ"
       },
@@ -1463,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "April Calling",
+        "url": "https://open.spotify.com/album/62YhZZOAgwAMrsXundbQRo"
+      },
+      "artists": [
+        {
+          "name": "Sand Quartet",
+          "url": "https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230547,
+      "name": "April Calling",
+      "url": "https://open.spotify.com/track/4siGt6JIeTl3GgFynMaybU"
+    },
+    {
+      "album": {
         "name": "April In Paris",
         "url": "https://open.spotify.com/album/0vPYfucQhycMD6htX9rvyl"
       },
@@ -2052,7 +2088,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 198273,
       "name": "Beautiful Friendship",
       "url": "https://open.spotify.com/track/5gNyYlp835GvqvIl0Vp4xV"
@@ -2912,7 +2948,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 246061,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/52LmAJCy3r74r5Ce64aYZJ"
@@ -5868,7 +5904,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 388040,
       "name": "For Wee Folks",
       "url": "https://open.spotify.com/track/7kFpCWoKe2iqZSsBe9xwm5"
@@ -19908,6 +19944,24 @@
       "duration_ms": 265692,
       "name": "Whispers of jazz in the Wind",
       "url": "https://open.spotify.com/track/1MaPPNPwSHNoEraAbmhsrp"
+    },
+    {
+      "album": {
+        "name": "Whispers of the Evening",
+        "url": "https://open.spotify.com/album/1MEo1GRTrJ0RIg1jM1mxXs"
+      },
+      "artists": [
+        {
+          "name": "Sodermalm Strand",
+          "url": "https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195058,
+      "name": "Whispers of the Evening",
+      "url": "https://open.spotify.com/track/3JnzwIwPo8dBlf3YCeJIrK"
     },
     {
       "album": {

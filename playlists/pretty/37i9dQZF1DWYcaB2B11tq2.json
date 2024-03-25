@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 407741,
+  "num_followers": 407854,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDcyZWRlZjM5ODE1NWVjZmJjNWFhOWJkZDdmMTExYjA3NjdkN2Uy",
+  "snapshot_id": "MCwzZWUzOGYwMTA2OTVlNWZkY2Y0NzBhNWIxODJiNDZjNzBhYjBmNDI3",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -863,18 +863,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Jes\u00fas en el Centro (En Vivo)",
-        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
+        "name": "Unidos Somos M\u00e1s Fuertes",
+        "url": "https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8"
       },
       "artists": [
         {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 402626,
-      "name": "Jesus En El Centro - Live",
-      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
+      "duration_ms": 256305,
+      "name": "Unidos Somos M\u00e1s Fuertes",
+      "url": "https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -899,22 +903,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Unidos Somos M\u00e1s Fuertes",
-        "url": "https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8"
+        "name": "Jes\u00fas en el Centro (En Vivo)",
+        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
       },
       "artists": [
         {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
         }
       ],
-      "duration_ms": 256305,
-      "name": "Unidos Somos M\u00e1s Fuertes",
-      "url": "https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF"
+      "duration_ms": 402626,
+      "name": "Jesus En El Centro - Live",
+      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
     },
     {
       "added_at": "2021-05-21 19:19:27",

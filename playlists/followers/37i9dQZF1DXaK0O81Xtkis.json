@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 211898,
+  "2024-03-25": 211907,
   "date_first_scraped": "2021-12-21",
   "description": "make it pop! cover: Wallows",
   "name": "soda",
@@ -16629,10 +16629,28 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 216733,
       "name": "Wild Things",
       "url": "https://open.spotify.com/track/24HWZczGAczojNdUnupoo4"
+    },
+    {
+      "album": {
+        "name": "Wild Things",
+        "url": "https://open.spotify.com/album/2bcXBtpp2hrgJrCqbi06PA"
+      },
+      "artists": [
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216733,
+      "name": "Wild Things",
+      "url": "https://open.spotify.com/track/5zSblOkvmMVYmaXbDRXbFg"
     },
     {
       "album": {

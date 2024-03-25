@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 70791,
+  "num_followers": 70809,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmQxOWNhYjQ4ZjQzZjg3NTM5YWExNTI3ZDNkODdmODdiMjA0Zjg0",
+  "snapshot_id": "MCw0NGMzNGRlZmY5YTMxYmFlNjQ2OTE0NWIwOTc3MzNmYWNiODVhNWE3",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
+        "name": "Idealism",
+        "url": "https://open.spotify.com/album/7uzG4xCD4Vw4PfgoHFhFmM"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Idealistic",
+      "url": "https://open.spotify.com/track/14KzbcceJMYy3U8Zid1VWD"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
         "name": "Lucky Girl",
         "url": "https://open.spotify.com/album/4nPSFdPtaZwp7oyy5bTumn"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 379226,
       "name": "Signatune - Thomas Bangalter Edit",
       "url": "https://open.spotify.com/track/0mbN6sStNZ9yb2twaffP20"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
-        "name": "Idealism",
-        "url": "https://open.spotify.com/album/7uzG4xCD4Vw4PfgoHFhFmM"
-      },
-      "artists": [
-        {
-          "name": "Digitalism",
-          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
-        }
-      ],
-      "duration_ms": 250693,
-      "name": "Idealistic",
-      "url": "https://open.spotify.com/track/14KzbcceJMYy3U8Zid1VWD"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
+        "name": "Soundboy Rock",
+        "url": "https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 275080,
+      "name": "Love Sweet Sound",
+      "url": "https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
         "name": "Pedrophilia",
         "url": "https://open.spotify.com/album/0J5P7uBgt2rh6HZD3lZG4b"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 306801,
       "name": "To Protect and Entertain - Crookers Remix",
       "url": "https://open.spotify.com/track/7qoS2OjXf3mE2q23Y1D9EC"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
-        "name": "Bongo Song",
-        "url": "https://open.spotify.com/album/5Ys062wL4Hzm11mpaKnk4u"
-      },
-      "artists": [
-        {
-          "name": "Zongamin",
-          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
-        }
-      ],
-      "duration_ms": 314653,
-      "name": "Bongo Song",
-      "url": "https://open.spotify.com/track/7LYkRnxddh6BTp3CrXmofK"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Soundboy Rock",
-        "url": "https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9"
+        "name": "Bongo Song",
+        "url": "https://open.spotify.com/album/5Ys062wL4Hzm11mpaKnk4u"
       },
       "artists": [
         {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+          "name": "Zongamin",
+          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
         }
       ],
-      "duration_ms": 275080,
-      "name": "Love Sweet Sound",
-      "url": "https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7"
+      "duration_ms": 314653,
+      "name": "Bongo Song",
+      "url": "https://open.spotify.com/track/7LYkRnxddh6BTp3CrXmofK"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Hands: Bonus Disc",
-        "url": "https://open.spotify.com/album/7yxVBOqeXa8cIFwPLsxS7c"
+        "name": "II",
+        "url": "https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf"
       },
       "artists": [
         {
-          "name": "Little Boots",
-          "url": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
-        },
-        {
-          "name": "Fake Blood",
-          "url": "https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z"
+          "name": "Knightlife",
+          "url": "https://open.spotify.com/artist/5NteBfpzjcVerc1OK9XelJ"
         }
       ],
-      "duration_ms": 386149,
-      "name": "Stuck On Repeat - Fake Blood Mix",
-      "url": "https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K"
+      "duration_ms": 257613,
+      "name": "Discotirso",
+      "url": "https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B"
     }
   ],
   "unique_name": "Bloghouse",

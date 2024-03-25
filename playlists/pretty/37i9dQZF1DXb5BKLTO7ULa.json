@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: Benson Boone",
-  "num_followers": 259847,
+  "num_followers": 259848,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGQ3NTMwZTNkOTkyNGJlOTdhODkyZmZiZGI3NmY0MDNjNGJkY2Qx",
+  "snapshot_id": "MCxiZWM0YzU4Zjc4N2Y0OGVhODY5NjI2Yjk0YTU3NzNkNDY3MmUwMTgz",
   "tracks": [
     {
       "added_at": "2024-03-22 09:16:48",
@@ -114,6 +114,14 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 228266,

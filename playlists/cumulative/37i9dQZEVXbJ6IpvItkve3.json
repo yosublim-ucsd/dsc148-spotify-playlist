@@ -4722,6 +4722,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "date_added": "2024-03-23",
@@ -6440,7 +6444,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 178408,
       "name": "Red and Yellow",
       "url": "https://open.spotify.com/track/31uCcHsU1IaUXHIfborGJ7"
@@ -7640,7 +7644,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 235636,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq"
@@ -10864,7 +10868,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 187179,
       "name": "\u05d2\u05d9\u05d1\u05d5\u05e8\u05d9 \u05e2\u05dc",
       "url": "https://open.spotify.com/track/6Xg2Ir8Go9giAzRxW4Jaze"
@@ -12922,7 +12926,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 161208,
       "name": "\u05db\u05dc \u05d4\u05db\u05d5\u05db\u05d1\u05d9\u05dd",
       "url": "https://open.spotify.com/track/6xtqda5h0wlcFn3WdI4pb6"
@@ -13570,7 +13574,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 56720,
       "name": "\u05dc\u05d9\u05e6\u05df \u05e7\u05d8\u05df \u05e0\u05d7\u05de\u05d3",
       "url": "https://open.spotify.com/track/4IFQD1thQ2rgSgt5rXXqqp"
@@ -14931,6 +14935,28 @@
     },
     {
       "album": {
+        "name": "\u05de\u05e9\u05e0\u05db\u05e0\u05e1 \u05d0\u05d3\u05e8 2023",
+        "url": "https://open.spotify.com/album/1IFVnF0yZOBzRKa4ikZCH8"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05e1\u05d5\u05e1\u05e0\u05d4 \u05d5\u05ea\u05d6\u05de\u05d5\u05e8\u05ea\u05d5",
+          "url": "https://open.spotify.com/artist/7jNbN2QEbFNb1yc2X2YGqx"
+        },
+        {
+          "name": "DJ \u05d9\u05d4\u05d5\u05d3\u05d4 \u05de\u05d5\u05e8",
+          "url": "https://open.spotify.com/artist/220BgM72mxm5sR2yGJSrN8"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234275,
+      "name": "\u05de\u05e9\u05e0\u05db\u05e0\u05e1 \u05d0\u05d3\u05e8 2023",
+      "url": "https://open.spotify.com/track/2tdu3ZAQuS6TF1SCaokpGG"
+    },
+    {
+      "album": {
         "name": "2023",
         "url": "https://open.spotify.com/album/1rK9oII8KSQLi5WRYhVaVk"
       },
@@ -15412,7 +15438,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 237967,
       "name": "\u05e1\u05d8\u05dc\u05d5\u05ea",
       "url": "https://open.spotify.com/track/2KBtuxA73fMKyj37wr1XKM"
@@ -17662,7 +17688,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 173913,
       "name": "\u05ea\u05d9\u05e7 \u05e7\u05d8\u05df",
       "url": "https://open.spotify.com/track/3mCCFs2hdDM2mObzARzxOg"

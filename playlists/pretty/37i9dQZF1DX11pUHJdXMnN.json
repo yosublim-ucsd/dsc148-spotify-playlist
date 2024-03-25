@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 2585,
+  "num_followers": 566,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGJkMGUzY2MzOTc1MDE1ZDQ4NTdkMDBkYTE5Y2IzYjM2YWJlNjVl",
+  "snapshot_id": "MCw0MDQ1MzczNzA1ZGVmYWEzYzhhZWNjNmQwMjMxZDYzYWUxMzg4YTg1",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -591,6 +591,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Enter Castillo",
+        "url": "https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE"
+      },
+      "artists": [
+        {
+          "name": "Dorothys Fortress",
+          "url": "https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN"
+        }
+      ],
+      "duration_ms": 316097,
+      "name": "Curb Dog '88",
+      "url": "https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Inglorious Express EP",
         "url": "https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 376271,
       "name": "Listen to the Band - Club Mix",
       "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Enter Castillo",
-        "url": "https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE"
-      },
-      "artists": [
-        {
-          "name": "Dorothys Fortress",
-          "url": "https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN"
-        }
-      ],
-      "duration_ms": 316097,
-      "name": "Curb Dog '88",
-      "url": "https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -739,6 +739,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "duration_ms": 393973,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Sununguka (feat. Zeke Manyika)",
         "url": "https://open.spotify.com/album/76Lws0FxWfj2TRHvpvGf98"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 393973,
-      "name": "Fantasia",
-      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Hymnotic",
         "url": "https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk"
       },
@@ -791,26 +791,6 @@
       "duration_ms": 262677,
       "name": "Hymnotic",
       "url": "https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Never Let You Go (Skream Remix)",
-        "url": "https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        },
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        }
-      ],
-      "duration_ms": 220451,
-      "name": "Never Let You Go - Skream Remix (Edit)",
-      "url": "https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -831,6 +811,26 @@
       "duration_ms": 409961,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/11DRarpv190YnCAXt85uFA"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Never Let You Go (Skream Remix)",
+        "url": "https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "duration_ms": 220451,
+      "name": "Never Let You Go - Skream Remix (Edit)",
+      "url": "https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8"
     }
   ],
   "unique_name": "Laser Disco",

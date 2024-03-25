@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/6uDsL3665JpJrYZUBih0HN?si=PXIfrLDVRFeEv27pPv3cTQ>Solomon Lange</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,363 likes - 104 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,393 likes - 104 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 103 | [Locked In](https://open.spotify.com/track/1aNUhtKQUXurSFLRA9SKL1) | [Megan Tossi](https://open.spotify.com/artist/0HIS9IUNYWbIZi9vaqSerc), [Josh D.](https://open.spotify.com/artist/7lBcVs6juFurCpUTl8jrGZ), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Locked In](https://open.spotify.com/album/2ugfXsaHfqsMOZeKg7WPSP) | 2:12 |
 | 104 | [Oh Jesus](https://open.spotify.com/track/4V4XijJv0Oc48xJedDlFKv) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn) | [Oh Jesus](https://open.spotify.com/album/4pLHvPS7Nzh15k9WcHCLhe) | 2:17 |
 
-Snapshot ID: `MCw3ZWY0OTQ4ZTA2MWJkOThiOGRjMmIyOTNjODE5YmVhMzkwNDFiZWU0`
+Snapshot ID: `MCxkZDFlNzMwNmUwMzJmNjM1ZTI2ZGVkNzhmODAwNjViNjc2NzRjNWQ2`

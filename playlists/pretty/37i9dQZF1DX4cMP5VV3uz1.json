@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 150828,
+  "num_followers": 150889,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGQyY2U0NjA4NmU3MzE5Y2RiZTE5OGVhOWVmN2RmY2I0YjExOWRi",
+  "snapshot_id": "MCw1Y2YwNGUwMGE0ZDdiOTkzMGVkNWRjZjE0ZDU2NzU2NzkwN2ZjMTk1",
   "tracks": [
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Nobody Likes The Records That I Play",
-        "url": "https://open.spotify.com/album/2DL0N74UxejnfXoxZL5FDj"
-      },
-      "artists": [
-        {
-          "name": "Netsky",
-          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Nobody Likes The Records That I Play",
-      "url": "https://open.spotify.com/track/2qpfRinMEix4FG8q45XroG"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
         "name": "where's my head at _",
         "url": "https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60"
       },
@@ -1075,22 +1055,38 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb"
+        "name": "Nobody Likes The Records That I Play",
+        "url": "https://open.spotify.com/album/2DL0N74UxejnfXoxZL5FDj"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
         },
         {
-          "name": "INDI",
-          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         }
       ],
-      "duration_ms": 216551,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
+      "duration_ms": 193103,
+      "name": "Nobody Likes The Records That I Play",
+      "url": "https://open.spotify.com/track/2qpfRinMEix4FG8q45XroG"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
+        "name": "Baddest",
+        "url": "https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "duration_ms": 223008,
+      "name": "Baddest",
+      "url": "https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1115,22 +1111,6 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Baddest",
-        "url": "https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        }
-      ],
-      "duration_ms": 223008,
-      "name": "Baddest",
-      "url": "https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
         "name": "Mash up the Dance (Kings of the Rollers Remix)",
         "url": "https://open.spotify.com/album/6FS0y1f1pL45RPIWr6kYl0"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 177882,
       "name": "Mash up the Dance - Kings of the Rollers Remix",
       "url": "https://open.spotify.com/track/3hHgU7QO5ev5R6FZVsPsJZ"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "INDI",
+          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
+        }
+      ],
+      "duration_ms": 216551,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1301,6 +1301,22 @@
       "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
     },
     {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3itZ3OkLhQwzwxvSwKBtOw"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/69RnaDZLYLZq8ZFBExlvAl"
+    },
+    {
       "added_at": "2024-03-01 11:54:01",
       "album": {
         "name": "Supersonic (Basstripper Remix)",
@@ -1355,22 +1371,6 @@
       "duration_ms": 134305,
       "name": "Loca",
       "url": "https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/3itZ3OkLhQwzwxvSwKBtOw"
-      },
-      "artists": [
-        {
-          "name": "Culture Shock",
-          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/69RnaDZLYLZq8ZFBExlvAl"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/3L4Meb0nRGrUulc4Xp9esu"
-      },
-      "artists": [
-        {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/3HeOOjms1LHV4U91lKcbwd"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
         "name": "Take You Higher (VIP)",
         "url": "https://open.spotify.com/album/1lrE7AKDDM0Co1GPObbp26"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 215321,
       "name": "Take You Higher - VIP",
       "url": "https://open.spotify.com/track/23j0RW9sGbxoU6VOhERe0t"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/3L4Meb0nRGrUulc4Xp9esu"
+      },
+      "artists": [
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/3HeOOjms1LHV4U91lKcbwd"
     },
     {
       "added_at": "2024-03-01 11:54:01",

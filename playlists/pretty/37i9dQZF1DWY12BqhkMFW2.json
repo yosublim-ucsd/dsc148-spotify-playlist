@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 364365,
+  "num_followers": 364457,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTRjYTZmM2JkNmEzNzI3MWU0Zjg0ZWFhYTBiMTA0NzVkZjYxOWM4",
+  "snapshot_id": "MCxlYWU0Yzc2NjU3NzI0NzYyNmY2OTlmZGVjODdlZjJhZGI0ZjNkZTFm",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -199,6 +199,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "What's The 411?",
+        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 283093,
       "name": "Slow Jam (feat. Monica)",
       "url": "https://open.spotify.com/track/0VdSyCb1n7F5G0XkePzAlf"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "What's The 411?",
-        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa"
     },
     {
       "added_at": "2021-01-15 05:01:00",

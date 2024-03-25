@@ -1641,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "La Venganza",
+        "url": "https://open.spotify.com/album/6jpC8oHw1UC0MZLQVdnQPN"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170706,
+      "name": "La Venganza",
+      "url": "https://open.spotify.com/track/6b8rE8DorNNvfaEyBmcWlv"
+    },
+    {
+      "album": {
         "name": "Leyenda",
         "url": "https://open.spotify.com/album/69EwBY59m5ReVz9WXWGEol"
       },

@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 72014,
       "name": "AUTOMOTIVO EMPURRA",
       "url": "https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 125600,
       "name": "Pedro (Techno)",
       "url": "https://open.spotify.com/track/6tddFTSktVXmhwEOYt4KpH"
@@ -2137,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "lottery pick",
+        "url": "https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123547,
+      "name": "soak city (do it)",
+      "url": "https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD"
+    },
+    {
+      "album": {
         "name": "Soaked",
         "url": "https://open.spotify.com/album/3KlEcBtJhRhsqC13wbASjd"
       },
@@ -2188,6 +2206,24 @@
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
+    },
+    {
+      "album": {
+        "name": "SPEED IS LIFE",
+        "url": "https://open.spotify.com/album/6uuRDbClnDrChvBAxl7VtJ"
+      },
+      "artists": [
+        {
+          "name": "lykia",
+          "url": "https://open.spotify.com/artist/4ZIERQTvWH2EbE5kyQmQTy"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83076,
+      "name": "SPEED IS LIFE",
+      "url": "https://open.spotify.com/track/3YmhbpVrcl3mhVPOQWNJU8"
     },
     {
       "album": {
@@ -2620,7 +2656,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 201293,
       "name": "Who Can It Be Now?",
       "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
@@ -2788,6 +2824,24 @@
       "duration_ms": 188677,
       "name": "You Didn\u2019t Know",
       "url": "https://open.spotify.com/track/1EXcVTWW9vciHp4hzQHqAG"
+    },
+    {
+      "album": {
+        "name": "Softic",
+        "url": "https://open.spotify.com/album/4NbqAiI9p6BzEvkGdSDcgI"
+      },
+      "artists": [
+        {
+          "name": "Soft Blade",
+          "url": "https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Yugoslavskiy Groove",
+      "url": "https://open.spotify.com/track/0ouHWeg6AZtp5Gevot8B4m"
     },
     {
       "album": {
@@ -3232,6 +3286,32 @@
       "duration_ms": 237508,
       "name": "\u041a\u043e\u0448\u043a\u0430",
       "url": "https://open.spotify.com/track/13vscAQgMt58wgaoSH5Gpr"
+    },
+    {
+      "album": {
+        "name": "\u041b\u0415\u0416\u0410\u0422\u042c!",
+        "url": "https://open.spotify.com/album/3hrnStfkDwDIwqaaqQV9VC"
+      },
+      "artists": [
+        {
+          "name": "\u0416\u042d\u041a\u0410 \u0420\u0410\u0419\u0417",
+          "url": "https://open.spotify.com/artist/6PtpVO2SHCLqX2bN5PRXBw"
+        },
+        {
+          "name": "DONK",
+          "url": "https://open.spotify.com/artist/7tkpe7Yr9NUnVFwypZKSvq"
+        },
+        {
+          "name": "PEREPOLOH",
+          "url": "https://open.spotify.com/artist/0WGJTjlRMYlGhmPYo0vFDa"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61304,
+      "name": "\u041b\u0415\u0416\u0410\u0422\u042c!",
+      "url": "https://open.spotify.com/track/1FVAdh3JHNRPOp0gNltSOM"
     },
     {
       "album": {
@@ -3836,7 +3916,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 149297,
       "name": "\u0421\u043a\u0430\u0437\u043a\u0438",
       "url": "https://open.spotify.com/track/2axhadiWTdbV5NATnj5sWD"
@@ -3894,7 +3974,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 122000,
       "name": "\u0421\u0440\u0435\u0434\u0441\u0442\u0432\u043e \u043e\u0442 \u0441\u0442\u0440\u0435\u0441\u0441\u0430",
       "url": "https://open.spotify.com/track/4zCFYDpbmXsA7ATaIhL7wF"
@@ -4242,7 +4322,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 112500,
       "name": "\u042d\u0420\u041e\u041d\u0414\u041e\u041d\u0414\u041e\u041d",
       "url": "https://open.spotify.com/track/1oPJQeTPcdCT5DNdVGa1Vn"
@@ -4260,7 +4340,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 128764,
       "name": "\u042e\u0440\u0430, \u042e\u0440\u0430",
       "url": "https://open.spotify.com/track/1VdZa83wmycr1fi86O8vh7"

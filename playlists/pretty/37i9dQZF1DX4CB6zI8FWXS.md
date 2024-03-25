@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: SiR
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,792 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,805 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 79 | [White Snow](https://open.spotify.com/track/3VrvJqL0g4B2gfAvvzwJ2p) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [White Snow](https://open.spotify.com/album/3NZc71lQ5slVbiwfLmsd8N) | 3:35 |
 | 80 | [sir princess bad bitch](https://open.spotify.com/track/1TwbcQGYt9wwc7nbqVF9pL) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [sir princess bad bitch](https://open.spotify.com/album/5TLxrw1u2URpN6ayHrD3Nw) | 2:38 |
 
-Snapshot ID: `MCw0NDc0YTEyODQ0MmJjN2QwNTVkMGQyNWM4MGMwMjU0NDFiMjk1Nzhm`
+Snapshot ID: `MCw0MTI4NGFjNWNkYzUzY2NkZjQ2NjJjNjEwZTllMzRmMGQzMDFhZjBk`

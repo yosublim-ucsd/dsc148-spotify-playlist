@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Blanke
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,367 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,371 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 99 | [Pocket Change](https://open.spotify.com/track/2Y5SakTfLyezs5dBElmc78) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [Pocket Change](https://open.spotify.com/album/3gBf9Qk0FqcaDeRxxL1iYC) | 2:27 |
 | 100 | [DUST](https://open.spotify.com/track/2wLZwbz7jsZcUMC6wV4Mf4) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [DUST](https://open.spotify.com/album/0uN2BI1IXYXmWpa2W1fbb9) | 2:31 |
 
-Snapshot ID: `MCw4ZjQyMjhjZDUxYzE3MjZmOTJmZTZmY2U3MDA1N2Y3MzJiNjI2YmE3`
+Snapshot ID: `MCxjZjRjY2QyY2ViNjA4NTdhODQ4ZDEyMDU1N2Q1NzllODcyZGM0ZTg0`

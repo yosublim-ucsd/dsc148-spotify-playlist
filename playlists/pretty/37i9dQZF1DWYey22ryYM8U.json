@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 600612,
+  "num_followers": 600626,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTI1YTFiZmUwMjA2MTY4Y2Y2OGY1YjliM2I1ZTc5MDVlMTU0ZmZh",
+  "snapshot_id": "MCxhNGVhNWQ1ZmE0NDJmNWFkZGE5ZTQxNjA4YzU4OWZjM2E2MjJkNjEz",
   "tracks": [
     {
       "added_at": "2024-03-14 22:18:46",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-03-14 22:18:46",
       "album": {
-        "name": "Religi\u00f3n",
-        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
-      },
-      "artists": [
-        {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
-        }
-      ],
-      "duration_ms": 220903,
-      "name": "Religi\u00f3n",
-      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
-    },
-    {
-      "added_at": "2024-03-14 22:18:46",
-      "album": {
         "name": "FOREVER KING",
         "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 185575,
       "name": "Sincero (Salsa)",
       "url": "https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb"
+    },
+    {
+      "added_at": "2024-03-14 22:18:46",
+      "album": {
+        "name": "Religi\u00f3n",
+        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
+      },
+      "artists": [
+        {
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+        }
+      ],
+      "duration_ms": 220903,
+      "name": "Religi\u00f3n",
+      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
     },
     {
       "added_at": "2024-03-14 22:18:46",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-03-14 22:18:46",
       "album": {
-        "name": "En Cuarentena",
-        "url": "https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 259586,
-      "name": "El Combo del Mundo",
-      "url": "https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6"
-    },
-    {
-      "added_at": "2024-03-14 22:18:46",
-      "album": {
         "name": "Ziriguidum",
         "url": "https://open.spotify.com/album/6nTUpThOpMeB9eDIdWcITB"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 201250,
       "name": "Ziriguidum",
       "url": "https://open.spotify.com/track/3IlSiEt3LZHvGiaOwC1RAi"
+    },
+    {
+      "added_at": "2024-03-14 22:18:46",
+      "album": {
+        "name": "En Cuarentena",
+        "url": "https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 259586,
+      "name": "El Combo del Mundo",
+      "url": "https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6"
     },
     {
       "added_at": "2024-03-14 22:18:46",

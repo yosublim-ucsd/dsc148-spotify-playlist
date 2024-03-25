@@ -578,7 +578,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 135620,
       "name": "Brighter Than The Sun",
       "url": "https://open.spotify.com/track/3WHu4o2jxoeIZq7YqyojhM"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 127868,
       "name": "Chemical - Rammor Remix",
       "url": "https://open.spotify.com/track/7mBIV4RLul35ZcBwfa8wK9"
@@ -1412,6 +1412,32 @@
       "duration_ms": 141669,
       "name": "Enjoy the silence",
       "url": "https://open.spotify.com/track/4mLyWPmO0BBvpdid64ynNe"
+    },
+    {
+      "album": {
+        "name": "Every Minute",
+        "url": "https://open.spotify.com/album/5IaGC0RoTWiWsFy23YH0i1"
+      },
+      "artists": [
+        {
+          "name": "Yann Muller",
+          "url": "https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti"
+        },
+        {
+          "name": "SEM",
+          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+        },
+        {
+          "name": "Dela Utca",
+          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183442,
+      "name": "Every Minute",
+      "url": "https://open.spotify.com/track/5jj1uG2x72AYUzERFamx6U"
     },
     {
       "album": {
@@ -3145,6 +3171,32 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/41WKklZLaFVYxVwdNI83Da"
+      },
+      "artists": [
+        {
+          "name": "Jay Mason",
+          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
+        },
+        {
+          "name": "Horizon Blue",
+          "url": "https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb"
+        },
+        {
+          "name": "Edwardo Atlas",
+          "url": "https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145589,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5m6g1yfcVCoR1TTkwQm0iQ"
+    },
+    {
+      "album": {
         "name": "Long Island",
         "url": "https://open.spotify.com/album/7abIIrnjL0Q71hCv5v9ZLq"
       },
@@ -3310,7 +3362,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 160645,
       "name": "Lost In The Sky",
       "url": "https://open.spotify.com/track/5ZeGvfbXQC7WqEqnNoZMTQ"
@@ -5834,7 +5886,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 128500,
       "name": "What I Hope",
       "url": "https://open.spotify.com/track/5RbOuBKXy5FF4ogE9WsAK3"
@@ -5982,6 +6034,24 @@
       "duration_ms": 133000,
       "name": "Wish You All the Best",
       "url": "https://open.spotify.com/track/4TII4nhhzE28nrQRGI77QX"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/6QWXR95ARSK49Jo1YZvMny"
+      },
+      "artists": [
+        {
+          "name": "Hokima",
+          "url": "https://open.spotify.com/artist/5oUG50CyujwLgloGYBjdTc"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174665,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/3GgHToWEiAi0fkfi5RqSXD"
     },
     {
       "album": {

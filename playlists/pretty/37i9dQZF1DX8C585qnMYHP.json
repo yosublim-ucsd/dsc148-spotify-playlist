@@ -1,12 +1,12 @@
 {
   "description": "The best new music by Experimental independent artists and labels. STEMLINES on cover. Artwork by Thami Nabil",
-  "num_followers": 155600,
+  "num_followers": 155684,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTQxZTE5Mjg3YTRjNTIzNzY2Nzc3MTlhZDkwNThjMWRhNzdkMTBl",
+  "snapshot_id": "MCxlZWI1YTkxMDI5NWYyNTRiMmViZTU1Mjg5Y2ZkMmU4OWM5YTFjNWEy",
   "tracks": [
     {
       "added_at": "2024-03-06 06:00:00",
@@ -265,22 +265,6 @@
       "url": "https://open.spotify.com/track/4mknLyEc2cUmxYTQbpwlYl"
     },
     {
-      "added_at": "2024-01-24 03:58:32",
-      "album": {
-        "name": "Soy Sauce",
-        "url": "https://open.spotify.com/album/35URROxXIrHUFscytU8FKa"
-      },
-      "artists": [
-        {
-          "name": "Josef Akin",
-          "url": "https://open.spotify.com/artist/6EdShJCWbCFI4VQb3aKdkg"
-        }
-      ],
-      "duration_ms": 144478,
-      "name": "Soy Sauce",
-      "url": "https://open.spotify.com/track/60WeDI4n7vpT9Xe3oBQuYK"
-    },
-    {
       "added_at": "2023-09-13 15:55:38",
       "album": {
         "name": "Familiar Flavours",
@@ -295,6 +279,22 @@
       "duration_ms": 260202,
       "name": "Familiar Flavours",
       "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+    },
+    {
+      "added_at": "2024-01-24 03:58:32",
+      "album": {
+        "name": "Soy Sauce",
+        "url": "https://open.spotify.com/album/35URROxXIrHUFscytU8FKa"
+      },
+      "artists": [
+        {
+          "name": "Josef Akin",
+          "url": "https://open.spotify.com/artist/6EdShJCWbCFI4VQb3aKdkg"
+        }
+      ],
+      "duration_ms": 144478,
+      "name": "Soy Sauce",
+      "url": "https://open.spotify.com/track/60WeDI4n7vpT9Xe3oBQuYK"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -377,6 +377,22 @@
       "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
     },
     {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Boeckner!",
+        "url": "https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW"
+      },
+      "artists": [
+        {
+          "name": "Boeckner",
+          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
+        }
+      ],
+      "duration_ms": 291037,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
+    },
+    {
       "added_at": "2023-09-15 05:54:20",
       "album": {
         "name": "Figura de Cristal",
@@ -407,22 +423,6 @@
       "duration_ms": 160000,
       "name": "lavender's love",
       "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Boeckner!",
-        "url": "https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW"
-      },
-      "artists": [
-        {
-          "name": "Boeckner",
-          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
-        }
-      ],
-      "duration_ms": 291037,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
     },
     {
       "added_at": "2023-08-02 14:55:57",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/6L3tXaAI7sceFnhTA0wRFQ"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Processional",
-      "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
-    },
-    {
       "added_at": "2024-01-10 04:07:01",
       "album": {
         "name": "The Witness",
@@ -545,36 +529,20 @@
       "url": "https://open.spotify.com/track/5dna0ShfmtsCcgZfi8pEjl"
     },
     {
-      "added_at": "2024-01-24 03:58:32",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Me she said",
-        "url": "https://open.spotify.com/album/5aqxaHuCa2twoBbAql8ZSe"
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
       },
       "artists": [
         {
-          "name": "toechter",
-          "url": "https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL"
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
         }
       ],
-      "duration_ms": 176170,
-      "name": "Me she said",
-      "url": "https://open.spotify.com/track/2aX2Zojj2dhYdusf2hGRhN"
-    },
-    {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Demon Muppy",
-        "url": "https://open.spotify.com/album/1fDOFgGZtEyXDIT3FMQtA4"
-      },
-      "artists": [
-        {
-          "name": "Niontay",
-          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
-        }
-      ],
-      "duration_ms": 123692,
-      "name": "YATKAMAN3000",
-      "url": "https://open.spotify.com/track/3hsMgDto5riKNTHnrlTGLd"
+      "duration_ms": 194200,
+      "name": "Processional",
+      "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -593,20 +561,52 @@
       "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
+      "added_at": "2024-01-10 04:24:05",
       "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+        "name": "Demon Muppy",
+        "url": "https://open.spotify.com/album/1fDOFgGZtEyXDIT3FMQtA4"
       },
       "artists": [
         {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+          "name": "Niontay",
+          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
         }
       ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
+      "duration_ms": 123692,
+      "name": "YATKAMAN3000",
+      "url": "https://open.spotify.com/track/3hsMgDto5riKNTHnrlTGLd"
+    },
+    {
+      "added_at": "2024-01-24 03:58:32",
+      "album": {
+        "name": "Me she said",
+        "url": "https://open.spotify.com/album/5aqxaHuCa2twoBbAql8ZSe"
+      },
+      "artists": [
+        {
+          "name": "toechter",
+          "url": "https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL"
+        }
+      ],
+      "duration_ms": 176170,
+      "name": "Me she said",
+      "url": "https://open.spotify.com/track/2aX2Zojj2dhYdusf2hGRhN"
+    },
+    {
+      "added_at": "2024-03-13 03:47:45",
+      "album": {
+        "name": "Daddy Vaquero",
+        "url": "https://open.spotify.com/album/6EoyMk8z51wYOSjr43DqNp"
+      },
+      "artists": [
+        {
+          "name": "SoFTT",
+          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
+        }
+      ],
+      "duration_ms": 160519,
+      "name": "Daddy Vaquero",
+      "url": "https://open.spotify.com/track/79z81agD3MP8c8wxVlNoS0"
     },
     {
       "added_at": "2024-03-13 03:47:45",
@@ -625,20 +625,20 @@
       "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
     },
     {
-      "added_at": "2024-03-13 03:47:45",
+      "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Daddy Vaquero",
-        "url": "https://open.spotify.com/album/6EoyMk8z51wYOSjr43DqNp"
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
       },
       "artists": [
         {
-          "name": "SoFTT",
-          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
         }
       ],
-      "duration_ms": 160519,
-      "name": "Daddy Vaquero",
-      "url": "https://open.spotify.com/track/79z81agD3MP8c8wxVlNoS0"
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/3hJyVn1GKQthsNbg7rTwKx"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Tusi Ojos",
-        "url": "https://open.spotify.com/album/29XPHrDgT2OCW38k0CAdtj"
-      },
-      "artists": [
-        {
-          "name": "SoFTT",
-          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
-        }
-      ],
-      "duration_ms": 272112,
-      "name": "Tusi Ojos",
-      "url": "https://open.spotify.com/track/5E32NyBpHy9VAiOAeF0qSX"
-    },
-    {
       "added_at": "2024-03-13 03:47:45",
       "album": {
         "name": "Sleepless",
@@ -785,20 +769,20 @@
       "url": "https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+        "name": "Tusi Ojos",
+        "url": "https://open.spotify.com/album/29XPHrDgT2OCW38k0CAdtj"
       },
       "artists": [
         {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+          "name": "SoFTT",
+          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
         }
       ],
-      "duration_ms": 517362,
-      "name": "Inori",
-      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
+      "duration_ms": 272112,
+      "name": "Tusi Ojos",
+      "url": "https://open.spotify.com/track/5E32NyBpHy9VAiOAeF0qSX"
     },
     {
       "added_at": "2024-03-13 03:47:45",
@@ -823,6 +807,22 @@
       "duration_ms": 164083,
       "name": "Sweety Chant",
       "url": "https://open.spotify.com/track/4wBR6PSc3xnqdAQzpcCHzY"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 517362,
+      "name": "Inori",
+      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
       "added_at": "2024-01-24 03:58:32",
@@ -909,6 +909,22 @@
       "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
     },
     {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Ulaan",
+        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 321671,
+      "name": "Picture / Three Shadows",
+      "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
+    },
+    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Ferris Parade",
@@ -931,22 +947,6 @@
       "duration_ms": 166764,
       "name": "Ferris Parade",
       "url": "https://open.spotify.com/track/3VXnOLGKahjTbkiulsFjox"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Ulaan",
-        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 321671,
-      "name": "Picture / Three Shadows",
-      "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
     },
     {
       "added_at": "2024-03-13 03:47:45",
@@ -1249,22 +1249,6 @@
       "url": "https://open.spotify.com/track/6fgq7eXGRDQY5ZI0sQN6sD"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Scorpion Deathlock",
-        "url": "https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF"
-      },
-      "artists": [
-        {
-          "name": "The Golden Age of Wrestling",
-          "url": "https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Ferrari Rocher",
-      "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Moriah Plaza",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
+        "name": "Scorpion Deathlock",
+        "url": "https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF"
+      },
+      "artists": [
+        {
+          "name": "The Golden Age of Wrestling",
+          "url": "https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Ferrari Rocher",
+      "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
         "name": "Z",
         "url": "https://open.spotify.com/album/1V3eYXwUbFiGsdLrFp8efN"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 235140,
       "name": "Z",
       "url": "https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb"
-    },
-    {
-      "added_at": "2024-01-10 20:04:58",
-      "album": {
-        "name": "Anthem For Those Who Know",
-        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Anthem For Those Who Know",
-      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
     },
     {
       "added_at": "2023-07-19 01:03:01",
@@ -1327,6 +1311,22 @@
       "duration_ms": 205000,
       "name": "Real World",
       "url": "https://open.spotify.com/track/6OQoynBENCLciCInK8T3YH"
+    },
+    {
+      "added_at": "2024-01-10 20:04:58",
+      "album": {
+        "name": "Anthem For Those Who Know",
+        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Anthem For Those Who Know",
+      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "the REAL",
-        "url": "https://open.spotify.com/album/7tFgoX5GpCYo4EsApcsGsB"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 258293,
-      "name": "the REAL",
-      "url": "https://open.spotify.com/track/0dLylgjJzquDJ8Q3urbUZy"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
         "name": "Break Bandits",
         "url": "https://open.spotify.com/album/6enkyO7QGXRjQF86rEACcw"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 252108,
       "name": "Break Bandits",
       "url": "https://open.spotify.com/track/6Xmm7xYQZBdI1gIVZGIYnq"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "the REAL",
+        "url": "https://open.spotify.com/album/7tFgoX5GpCYo4EsApcsGsB"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "the REAL",
+      "url": "https://open.spotify.com/track/0dLylgjJzquDJ8Q3urbUZy"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -1473,22 +1473,6 @@
       "url": "https://open.spotify.com/track/1VrZ1GXJ7ung4o9uLMnqzU"
     },
     {
-      "added_at": "2024-01-10 04:07:01",
-      "album": {
-        "name": "The Quanta Series",
-        "url": "https://open.spotify.com/album/4VEBWwVc7dIuWkOKe0dTK4"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 290430,
-      "name": "BINARY",
-      "url": "https://open.spotify.com/track/0RgdLC8jJiLywYJckMa5JP"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "\u3042\u306a\u305f\u306e\u9aa8\u304c\u3001\u30aa\u30d1\u30fc\u30eb\u306b\u304b\u308f\u308b\u9803",
@@ -1517,6 +1501,22 @@
       "url": "https://open.spotify.com/track/3T42zYzfImtTxNdep9QS06"
     },
     {
+      "added_at": "2023-08-23 14:01:12",
+      "album": {
+        "name": "Pt. I",
+        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 220819,
+      "name": "Couversets",
+      "url": "https://open.spotify.com/track/406Z9mgMQDId0lMSUoPKxG"
+    },
+    {
       "added_at": "2024-03-13 03:47:45",
       "album": {
         "name": "cyanotype memories (joe goddard remix)",
@@ -1537,6 +1537,22 @@
       "url": "https://open.spotify.com/track/5OjiA2QAxv0YX9qFaveApH"
     },
     {
+      "added_at": "2024-01-10 04:07:01",
+      "album": {
+        "name": "The Quanta Series",
+        "url": "https://open.spotify.com/album/4VEBWwVc7dIuWkOKe0dTK4"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 290430,
+      "name": "BINARY",
+      "url": "https://open.spotify.com/track/0RgdLC8jJiLywYJckMa5JP"
+    },
+    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "METROPOLIS N",
@@ -1551,22 +1567,6 @@
       "duration_ms": 291680,
       "name": "ROAD2RAILS",
       "url": "https://open.spotify.com/track/78J3e3c0GWy3Crw8jzaqwy"
-    },
-    {
-      "added_at": "2023-08-23 14:01:12",
-      "album": {
-        "name": "Pt. I",
-        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 220819,
-      "name": "Couversets",
-      "url": "https://open.spotify.com/track/406Z9mgMQDId0lMSUoPKxG"
     },
     {
       "added_at": "2024-03-06 06:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 143571,
+  "num_followers": 143591,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmM5MDc3OTY3YWYyOTJkNDZiOThkYmVhNmNiNDA5Nzk1ZDgzYzJi",
+  "snapshot_id": "MCxmZmUyZTI1MjQ4ZWNlM2M2MmY3ZmZmZWRkYTk0MDlmNzQzNWE2MTgy",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Can We Kiss Forever?",
         "url": "https://open.spotify.com/album/0MGcjBIFcL2qaCrgGjIGFb"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 187931,
       "name": "Can We Kiss Forever?",
       "url": "https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 216734,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "PINK PLANET",
         "url": "https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 169127,
       "name": "At My Worst (feat. Kehlani)",
       "url": "https://open.spotify.com/track/306ediRjbmuizOLWtjDG3Z"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 216734,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Maula",
-        "url": "https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Maula",
-      "url": "https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 176586,
       "name": "Use Somebody - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Maula",
+        "url": "https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Maula",
+      "url": "https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "What If I Told You That I Love You",
-        "url": "https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M"
-      },
-      "artists": [
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 193667,
-      "name": "What If I Told You That I Love You",
-      "url": "https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Mi Vida (Edition de No\u00ebl)",
         "url": "https://open.spotify.com/album/6Rq5fjFsMh2iF4RCNo2PFk"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 237653,
       "name": "Evidemment",
       "url": "https://open.spotify.com/track/7yaAqQhgUFkcI9ap1qjqEy"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "What If I Told You That I Love You",
+        "url": "https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 193667,
+      "name": "What If I Told You That I Love You",
+      "url": "https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sumpah",
-        "url": "https://open.spotify.com/album/0xv6KpP2RPfHd7Y1VTMxBL"
-      },
-      "artists": [
-        {
-          "name": "Aina Abdul",
-          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "Sumpah",
-      "url": "https://open.spotify.com/track/7si2OcSkjkmTwuJu18b3NX"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Tum Na Ho",
         "url": "https://open.spotify.com/album/6472XqZVt7gHSO4K40Pqk7"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 210857,
       "name": "Tum Na Ho",
       "url": "https://open.spotify.com/track/65QRFvzB2ZLJ1BygWPxxVj"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sumpah",
+        "url": "https://open.spotify.com/album/0xv6KpP2RPfHd7Y1VTMxBL"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "Sumpah",
+      "url": "https://open.spotify.com/track/7si2OcSkjkmTwuJu18b3NX"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "From Midnight To Sunrise",
-        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 264666,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/7wmCFmugk0Qj6xLlvg2ot4"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Tilak",
         "url": "https://open.spotify.com/album/2FKe9pZM0QQ2ynzPOHIwoj"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 359290,
       "name": "Tilak",
       "url": "https://open.spotify.com/track/3snujKMl0rkHSdwOLxWrFv"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "From Midnight To Sunrise",
+        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 264666,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7wmCFmugk0Qj6xLlvg2ot4"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Night Within You",
-        "url": "https://open.spotify.com/album/42fnXlrZaKXIc9lzWI6B1V"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "Night Within You",
-      "url": "https://open.spotify.com/track/5aFiyx6DOsrvOUnsrcFb84"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Flourishing",
         "url": "https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 241093,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Night Within You",
+        "url": "https://open.spotify.com/album/42fnXlrZaKXIc9lzWI6B1V"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 254360,
+      "name": "Night Within You",
+      "url": "https://open.spotify.com/track/5aFiyx6DOsrvOUnsrcFb84"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Yumemiru Kodomo",
-        "url": "https://open.spotify.com/album/3txMmUiBxYmkF81B1g8bqt"
-      },
-      "artists": [
-        {
-          "name": "Yoh kamiyama",
-          "url": "https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv"
-        }
-      ],
-      "duration_ms": 223410,
-      "name": "Oyasumi Kamisama",
-      "url": "https://open.spotify.com/track/2z0Ui7sLju5TXHiaUTTUpO"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Right There",
         "url": "https://open.spotify.com/album/4xGFzLizscpyGNhPmK7vZK"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 239946,
       "name": "Right There",
       "url": "https://open.spotify.com/track/1LJlfMCNcVuIRTUJY3BmTX"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Yumemiru Kodomo",
+        "url": "https://open.spotify.com/album/3txMmUiBxYmkF81B1g8bqt"
+      },
+      "artists": [
+        {
+          "name": "Yoh kamiyama",
+          "url": "https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv"
+        }
+      ],
+      "duration_ms": 223410,
+      "name": "Oyasumi Kamisama",
+      "url": "https://open.spotify.com/track/2z0Ui7sLju5TXHiaUTTUpO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2215,8 +2215,8 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU"
+        "name": "How Is This Love ?",
+        "url": "https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T"
       },
       "artists": [
         {
@@ -2224,17 +2224,13 @@
           "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
         },
         {
-          "name": "Red Farrow",
-          "url": "https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8"
-        },
-        {
-          "name": "Lead Major",
-          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
+          "name": "Dylan Longworth",
+          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
         }
       ],
-      "duration_ms": 230000,
-      "name": "111",
-      "url": "https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9"
+      "duration_ms": 195273,
+      "name": "How Is This Love ?",
+      "url": "https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2367,8 +2363,8 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "How Is This Love ?",
-        "url": "https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T"
+        "name": "111",
+        "url": "https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU"
       },
       "artists": [
         {
@@ -2376,13 +2372,17 @@
           "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
         },
         {
-          "name": "Dylan Longworth",
-          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
+          "name": "Red Farrow",
+          "url": "https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8"
+        },
+        {
+          "name": "Lead Major",
+          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
         }
       ],
-      "duration_ms": 195273,
-      "name": "How Is This Love ?",
-      "url": "https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO"
+      "duration_ms": 230000,
+      "name": "111",
+      "url": "https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9"
     },
     {
       "added_at": "2022-10-17 15:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u9234\u6728\u611b\u7406",
-  "num_followers": 110862,
+  "num_followers": 110925,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTY5OTFjZTI4ZjIzM2Y2ODIyZDAxNDZhYjM3MGUwMmYzMzAyMTli",
+  "snapshot_id": "MCw1NjA4N2U2MWY2MTI4ZDdlMTQ4MDdiMTY4MzdlZWUyMGU2MTFhMmE1",
   "tracks": [
     {
       "added_at": "2024-03-19 15:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "HEART BEAT",
-        "url": "https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 335465,
-      "name": "HEART BEAT",
-      "url": "https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "Anytime Anywhere",
         "url": "https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 230449,
       "name": "Anytime Anywhere",
       "url": "https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "HEART BEAT",
+        "url": "https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 335465,
+      "name": "HEART BEAT",
+      "url": "https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "HELLO WORLD",
-        "url": "https://open.spotify.com/album/710djdFa2qcgDZvp8UzqLB"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 293013,
-      "name": "HELLO WORLD",
-      "url": "https://open.spotify.com/track/4Fc2uEp6DsKCxWB7day331"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "tears",
         "url": "https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 210138,
       "name": "tears",
       "url": "https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "HELLO WORLD",
+        "url": "https://open.spotify.com/album/710djdFa2qcgDZvp8UzqLB"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 293013,
+      "name": "HELLO WORLD",
+      "url": "https://open.spotify.com/track/4Fc2uEp6DsKCxWB7day331"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "duration_ms": 181479,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
         "name": "Biscuit",
         "url": "https://open.spotify.com/album/6P68HkiZanv6UJSSklu4jg"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 215033,
       "name": "\u7d05",
       "url": "https://open.spotify.com/track/2cAC6QYecHHj6T0RS5ejOQ"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK"
-      },
-      "artists": [
-        {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
-        }
-      ],
-      "duration_ms": 181479,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN"
     },
     {
       "added_at": "2024-03-19 15:00:00",

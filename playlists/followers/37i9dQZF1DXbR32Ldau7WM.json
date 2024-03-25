@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 281346,
+  "2024-03-25": 281434,
   "date_first_scraped": "2022-05-11",
   "description": "The biggest rock bands/artists in Japan right now!  Cover: AJICO",
   "name": "Big in Japan",
@@ -2493,6 +2493,24 @@
     {
       "album": {
         "name": "ETERNAL",
+        "url": "https://open.spotify.com/album/2RoIU7aELUTrkGnN77W4Ns"
+      },
+      "artists": [
+        {
+          "name": "Kiyoharu",
+          "url": "https://open.spotify.com/artist/1Jt0plJvCjpJ956Y8p1E7A"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287312,
+      "name": "ETERNAL",
+      "url": "https://open.spotify.com/track/3HE753A8uCfdNBPFCRRbmY"
+    },
+    {
+      "album": {
+        "name": "ETERNAL",
         "url": "https://open.spotify.com/album/2YIeAJSBcMSFPrgGW88nnu"
       },
       "artists": [
@@ -2503,7 +2521,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 287312,
       "name": "ETERNAL",
       "url": "https://open.spotify.com/track/4MLsKopLnvzWwAwDWnR2op"

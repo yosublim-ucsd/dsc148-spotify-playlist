@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: CHYL",
-  "num_followers": 441956,
+  "num_followers": 441996,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWZkZDY4NzM1NjZkYWY4Y2VhMmY1ZTJlZWE5NjA0MDUzNDY1YjA0",
+  "snapshot_id": "MCxhN2E5NDA3YjJlYTNjMjAxMjU4NDE2ODg4Y2NhNjNjM2I1Y2RkYjVj",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Seismic",
         "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 208125,
       "name": "Seismic",
       "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "TEQUILA",
+        "url": "https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 183879,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Bumba Bass",
         "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 133125,
       "name": "Bumba Bass",
       "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "TEQUILA",
-        "url": "https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 183879,
-      "name": "TEQUILA",
-      "url": "https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "HABANERO",
-        "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
-      },
-      "artists": [
-        {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "HABANERO",
-      "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Lockdown",
         "url": "https://open.spotify.com/album/6C2ezhjaFoS7V1GdHD3gbK"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 185624,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/6EdnmlpuR9O7ZpUwonIih4"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "HABANERO",
+        "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
+      },
+      "artists": [
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "HABANERO",
+      "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Dare (Gimme 5)",
+        "url": "https://open.spotify.com/album/4xBgCf4Pb5unNHHgHdWeAw"
+      },
+      "artists": [
+        {
+          "name": "Tim Hox",
+          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Dare (Gimme 5)",
+      "url": "https://open.spotify.com/track/4mbwuwUDEo7xfiietsqNhA"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Tudum",
         "url": "https://open.spotify.com/album/1wnOlrxHzAER2yIrhBO0ag"
       },
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Dare (Gimme 5)",
-        "url": "https://open.spotify.com/album/4xBgCf4Pb5unNHHgHdWeAw"
-      },
-      "artists": [
-        {
-          "name": "Tim Hox",
-          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Dare (Gimme 5)",
-      "url": "https://open.spotify.com/track/4mbwuwUDEo7xfiietsqNhA"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "You Make Me",
         "url": "https://open.spotify.com/album/1QqaEIieI5lIpor6Qt9twT"
       },
@@ -1603,6 +1603,22 @@
       "duration_ms": 246562,
       "name": "You Make Me",
       "url": "https://open.spotify.com/track/5VmYFi3GhfCbNY2kfR9VPL"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Chain Gang",
+        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 107536,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1623,22 +1639,6 @@
       "duration_ms": 142080,
       "name": "Leaving",
       "url": "https://open.spotify.com/track/1jMYyomHmE32xaSifYDego"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Chain Gang",
-        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 107536,
-      "name": "Chain Gang",
-      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "CC",
+        "url": "https://open.spotify.com/album/60ocrHUXevlcHluOIwKHn2"
+      },
+      "artists": [
+        {
+          "name": "Cherry Tooth",
+          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "CC",
+      "url": "https://open.spotify.com/track/7H8WpimtnwN9LB0vmBt3LG"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/5VhMBWzcMUppdo3UYpSTEP"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 156960,
       "name": "Juice",
       "url": "https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "CC",
-        "url": "https://open.spotify.com/album/60ocrHUXevlcHluOIwKHn2"
-      },
-      "artists": [
-        {
-          "name": "Cherry Tooth",
-          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "CC",
-      "url": "https://open.spotify.com/track/7H8WpimtnwN9LB0vmBt3LG"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Star City",
-        "url": "https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "DEV",
-          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
-        }
-      ],
-      "duration_ms": 192879,
-      "name": "Real Girls",
-      "url": "https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Down Like That",
         "url": "https://open.spotify.com/album/4ermKFbOeOj62lqCimalr9"
       },
@@ -1923,6 +1903,26 @@
       "duration_ms": 140000,
       "name": "Down Like That",
       "url": "https://open.spotify.com/track/37V9nZfjftC0vRgc16lbKs"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Star City",
+        "url": "https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ],
+      "duration_ms": 192879,
+      "name": "Real Girls",
+      "url": "https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1959,42 +1959,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "By Myself",
-        "url": "https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7"
-      },
-      "artists": [
-        {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Supah Fly",
-        "url": "https://open.spotify.com/album/2wmk33OnnDzrrPPydJcpsd"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Michael Sparks",
-          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "Supah Fly",
-      "url": "https://open.spotify.com/track/4zndIOEwqNne000JFuaGoD"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Stereo Function",
         "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
       },
@@ -2011,6 +1975,22 @@
       "duration_ms": 206904,
       "name": "Stereo Function",
       "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "By Myself",
+        "url": "https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2035,22 +2015,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/6Whrzsfp9mpfZR7cdovjpp"
+        "name": "Supah Fly",
+        "url": "https://open.spotify.com/album/2wmk33OnnDzrrPPydJcpsd"
       },
       "artists": [
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
         },
         {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
         }
       ],
-      "duration_ms": 201904,
-      "name": "Chit Chat",
-      "url": "https://open.spotify.com/track/78BxIcKiPHrAHTKW74Pnw1"
+      "duration_ms": 181874,
+      "name": "Supah Fly",
+      "url": "https://open.spotify.com/track/4zndIOEwqNne000JFuaGoD"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2075,6 +2055,26 @@
       "duration_ms": 220898,
       "name": "NRG",
       "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/6Whrzsfp9mpfZR7cdovjpp"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Chit Chat",
+      "url": "https://open.spotify.com/track/78BxIcKiPHrAHTKW74Pnw1"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2191,22 +2191,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Quaestio (i've got a question babe)",
-        "url": "https://open.spotify.com/album/4DRVa48Tl9faBrsvTGhcmR"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
       },
       "artists": [
         {
-          "name": "Tim Hox",
-          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "Manuals",
-          "url": "https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo"
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
         }
       ],
-      "duration_ms": 213750,
-      "name": "Quaestio (i've got a question babe)",
-      "url": "https://open.spotify.com/track/5HwSjHt2FnTTLONBx5Rx5p"
+      "duration_ms": 196000,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2231,26 +2235,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
+        "name": "Quaestio (i've got a question babe)",
+        "url": "https://open.spotify.com/album/4DRVa48Tl9faBrsvTGhcmR"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+          "name": "Tim Hox",
+          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
         },
         {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        },
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+          "name": "Manuals",
+          "url": "https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU"
+      "duration_ms": 213750,
+      "name": "Quaestio (i've got a question babe)",
+      "url": "https://open.spotify.com/track/5HwSjHt2FnTTLONBx5Rx5p"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2371,6 +2371,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "RESILIENCE",
+        "url": "https://open.spotify.com/album/71BuoDaGsISkwF6eNeylho"
+      },
+      "artists": [
+        {
+          "name": "Matteo Tura",
+          "url": "https://open.spotify.com/artist/4MDRNxNtr5Zwyhgk6TC0ur"
+        },
+        {
+          "name": "Mobiius",
+          "url": "https://open.spotify.com/artist/0jHnzOGooKPzt7qA3Q32mw"
+        }
+      ],
+      "duration_ms": 212100,
+      "name": "Immersion",
+      "url": "https://open.spotify.com/track/2DCH33PsYIGDDwl3BRYPrU"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Badman Riddim (feat. Sweetie Irie)",
         "url": "https://open.spotify.com/album/6oPO1krnnAWP9qhOgJb7WB"
       },
@@ -2391,26 +2411,6 @@
       "duration_ms": 137910,
       "name": "Badman Riddim (feat. Sweetie Irie)",
       "url": "https://open.spotify.com/track/5kbh3uExfnmUeFhEW8ABZE"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "RESILIENCE",
-        "url": "https://open.spotify.com/album/71BuoDaGsISkwF6eNeylho"
-      },
-      "artists": [
-        {
-          "name": "Matteo Tura",
-          "url": "https://open.spotify.com/artist/4MDRNxNtr5Zwyhgk6TC0ur"
-        },
-        {
-          "name": "Mobiius",
-          "url": "https://open.spotify.com/artist/0jHnzOGooKPzt7qA3Q32mw"
-        }
-      ],
-      "duration_ms": 212100,
-      "name": "Immersion",
-      "url": "https://open.spotify.com/track/2DCH33PsYIGDDwl3BRYPrU"
     }
   ],
   "unique_name": "Nasty Bits",

@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Cor Veleno e Fabri Fibra in cover.",
-  "num_followers": 40068,
+  "num_followers": 40089,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWYxZTU5MzMwYWRlZDFkOGVmZDc3MmI0MjcyNzM0OWM2ZTAxZGQz",
+  "snapshot_id": "MCxkODFkNDk3ODBkMjI0YjgzY2QyMWUwNGE4ZTJhYWViOWY2MWFkNDcw",
   "tracks": [
     {
       "added_at": "2024-03-21 23:01:00",
@@ -591,30 +591,22 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
-        "name": "TOTEM (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/524xUYS5ydBPaiHA2R3GeD"
+        "name": "Fuoco Sacro",
+        "url": "https://open.spotify.com/album/4gCsyBvpyCGQ0ScO6eHXUD"
       },
       "artists": [
         {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
         },
         {
-          "name": "Kaiz\u00e9n",
-          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
-        },
-        {
-          "name": "Macaboro",
-          "url": "https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9"
-        },
-        {
-          "name": "Silent Bob",
-          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
         }
       ],
-      "duration_ms": 233363,
-      "name": "Un Bacio sulla Fronte",
-      "url": "https://open.spotify.com/track/5GBfDgJCZ2RdZw3U0C8d7g"
+      "duration_ms": 193122,
+      "name": "Quante Notti (feat. Franco126)",
+      "url": "https://open.spotify.com/track/1BgewDwAKOBUQBBhm772V6"
     },
     {
       "added_at": "2024-03-21 23:01:00",
@@ -663,22 +655,30 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
-        "name": "Fuoco Sacro",
-        "url": "https://open.spotify.com/album/4gCsyBvpyCGQ0ScO6eHXUD"
+        "name": "TOTEM (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/524xUYS5ydBPaiHA2R3GeD"
       },
       "artists": [
         {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
         },
         {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+          "name": "Kaiz\u00e9n",
+          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
+        },
+        {
+          "name": "Macaboro",
+          "url": "https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
         }
       ],
-      "duration_ms": 193122,
-      "name": "Quante Notti (feat. Franco126)",
-      "url": "https://open.spotify.com/track/1BgewDwAKOBUQBBhm772V6"
+      "duration_ms": 233363,
+      "name": "Un Bacio sulla Fronte",
+      "url": "https://open.spotify.com/track/5GBfDgJCZ2RdZw3U0C8d7g"
     },
     {
       "added_at": "2024-03-21 23:01:00",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
+        "name": "OVERT",
+        "url": "https://open.spotify.com/album/7e1amGATlniJcenSxANnYZ"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        }
+      ],
+      "duration_ms": 214914,
+      "name": "SOLIPS\u00ccA (feat. Silent Bob)",
+      "url": "https://open.spotify.com/track/10brFkH6YLGZnhj0qHpFzm"
+    },
+    {
+      "added_at": "2024-03-21 23:01:00",
+      "album": {
         "name": "CRISTI E DIAVOLI",
         "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 189531,
       "name": "Giorni migliori (feat. Mystic One)",
       "url": "https://open.spotify.com/track/3wltO9TZ6j1gfyDsjzH7QY"
-    },
-    {
-      "added_at": "2024-03-21 23:01:00",
-      "album": {
-        "name": "OVERT",
-        "url": "https://open.spotify.com/album/7e1amGATlniJcenSxANnYZ"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Silent Bob",
-          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
-        }
-      ],
-      "duration_ms": 214914,
-      "name": "SOLIPS\u00ccA (feat. Silent Bob)",
-      "url": "https://open.spotify.com/track/10brFkH6YLGZnhj0qHpFzm"
     },
     {
       "added_at": "2024-03-21 23:01:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 251133,
-      "name": "Lo straniero",
-      "url": "https://open.spotify.com/track/3Wxf52YtQYemd9ySvBh3Z2"
-    },
-    {
-      "added_at": "2024-03-21 23:01:00",
-      "album": {
         "name": "L'avventura di due sposi",
         "url": "https://open.spotify.com/album/2NGRzTmycSnDlKqTVh4OVd"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 233760,
       "name": "L'avventura di due sposi",
       "url": "https://open.spotify.com/track/5GoPBAe0vccUACENH46cvT"
+    },
+    {
+      "added_at": "2024-03-21 23:01:00",
+      "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 251133,
+      "name": "Lo straniero",
+      "url": "https://open.spotify.com/track/3Wxf52YtQYemd9ySvBh3Z2"
     },
     {
       "added_at": "2024-03-21 23:01:00",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
-        "name": "Fuoco Sacro (feat. Colle Der Fomento)",
-        "url": "https://open.spotify.com/album/3XvdjncaFFf6vTMcb35Gtj"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        }
-      ],
-      "duration_ms": 287895,
-      "name": "Fuoco Sacro (feat. Colle Der Fomento)",
-      "url": "https://open.spotify.com/track/2fTBUYU6YJVbfHGTm56coQ"
-    },
-    {
-      "added_at": "2024-03-21 23:01:00",
-      "album": {
         "name": "Figli del fuoco",
         "url": "https://open.spotify.com/album/3jw5BLYzm1nIwQyostzZXr"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 159000,
       "name": "Figli del fuoco",
       "url": "https://open.spotify.com/track/1H1F5cklwcrKrFEcVZ98QM"
+    },
+    {
+      "added_at": "2024-03-21 23:01:00",
+      "album": {
+        "name": "Fuoco Sacro (feat. Colle Der Fomento)",
+        "url": "https://open.spotify.com/album/3XvdjncaFFf6vTMcb35Gtj"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        }
+      ],
+      "duration_ms": 287895,
+      "name": "Fuoco Sacro (feat. Colle Der Fomento)",
+      "url": "https://open.spotify.com/track/2fTBUYU6YJVbfHGTm56coQ"
     },
     {
       "added_at": "2024-03-21 23:01:00",
@@ -2019,22 +2019,22 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
-        "name": "Lo Spirito Che Suona",
-        "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
+        "name": "Schiena Contro Schiena",
+        "url": "https://open.spotify.com/album/4NcjifTOGFk6FGRo1tTDQF"
       },
       "artists": [
         {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+          "name": "Duplici",
+          "url": "https://open.spotify.com/artist/26LUOCEFlhNl9RjCPDruPT"
         },
         {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+          "name": "Dj Double S",
+          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
         }
       ],
-      "duration_ms": 269760,
-      "name": "Citt\u00e0 di vetro",
-      "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
+      "duration_ms": 259557,
+      "name": "21 Grammi",
+      "url": "https://open.spotify.com/track/4aWXxvLhKcflsocyTWAt32"
     },
     {
       "added_at": "2024-03-21 23:01:00",
@@ -2083,6 +2083,26 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
+        "name": "Lo Spirito Che Suona",
+        "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Citt\u00e0 di vetro",
+      "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
+    },
+    {
+      "added_at": "2024-03-21 23:01:00",
+      "album": {
         "name": "Treddepomeriggio",
         "url": "https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF"
       },
@@ -2099,50 +2119,26 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
-        "name": "Schiena Contro Schiena",
-        "url": "https://open.spotify.com/album/4NcjifTOGFk6FGRo1tTDQF"
+        "name": "TRUENO",
+        "url": "https://open.spotify.com/album/6hzqMbs19My506LAgKl8Ld"
       },
       "artists": [
         {
-          "name": "Duplici",
-          "url": "https://open.spotify.com/artist/26LUOCEFlhNl9RjCPDruPT"
+          "name": "STABBER",
+          "url": "https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g"
         },
         {
-          "name": "Dj Double S",
-          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
         }
       ],
-      "duration_ms": 259557,
-      "name": "21 Grammi",
-      "url": "https://open.spotify.com/track/4aWXxvLhKcflsocyTWAt32"
-    },
-    {
-      "added_at": "2024-03-21 23:01:00",
-      "album": {
-        "name": "Luigi XVI",
-        "url": "https://open.spotify.com/album/6JmnCNmmC7HGsIAdWxptvs"
-      },
-      "artists": [
-        {
-          "name": "Lanz Khan",
-          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
-        },
-        {
-          "name": "Weirdo",
-          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
-        },
-        {
-          "name": "DJ Lil Cut",
-          "url": "https://open.spotify.com/artist/239ssUhwi2I11zknlfybGJ"
-        },
-        {
-          "name": "Axos",
-          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "Hashishin",
-      "url": "https://open.spotify.com/track/4GaQdMWDuFyIA5puUPGadp"
+      "duration_ms": 167625,
+      "name": "il profumo delle rose (feat. Danno, Dj Craim)",
+      "url": "https://open.spotify.com/track/7FijVHPAkDn7ZMFhD72sHO"
     },
     {
       "added_at": "2024-03-21 23:01:00",
@@ -2187,6 +2183,34 @@
       "duration_ms": 253361,
       "name": "Signor prefetto",
       "url": "https://open.spotify.com/track/6woEXf6azgHVYVj43nlyJc"
+    },
+    {
+      "added_at": "2024-03-21 23:01:00",
+      "album": {
+        "name": "Luigi XVI",
+        "url": "https://open.spotify.com/album/6JmnCNmmC7HGsIAdWxptvs"
+      },
+      "artists": [
+        {
+          "name": "Lanz Khan",
+          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
+        },
+        {
+          "name": "Weirdo",
+          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
+        },
+        {
+          "name": "DJ Lil Cut",
+          "url": "https://open.spotify.com/artist/239ssUhwi2I11zknlfybGJ"
+        },
+        {
+          "name": "Axos",
+          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "Hashishin",
+      "url": "https://open.spotify.com/track/4GaQdMWDuFyIA5puUPGadp"
     },
     {
       "added_at": "2024-03-21 23:01:00",
@@ -2291,6 +2315,26 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
+        "name": "CHIODI",
+        "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        },
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        }
+      ],
+      "duration_ms": 248791,
+      "name": "L'uomo dei sogni",
+      "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
+    },
+    {
+      "added_at": "2024-03-21 23:01:00",
+      "album": {
         "name": "King Kong vs Godzilla",
         "url": "https://open.spotify.com/album/5LZDZMhsqQYhVESJJ1dB5F"
       },
@@ -2311,26 +2355,6 @@
       "duration_ms": 164820,
       "name": "King Kong vs Godzilla",
       "url": "https://open.spotify.com/track/1stKHp4y6JQCtBzvbON9x5"
-    },
-    {
-      "added_at": "2024-03-21 23:01:00",
-      "album": {
-        "name": "CHIODI",
-        "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
-      },
-      "artists": [
-        {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
-        },
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        }
-      ],
-      "duration_ms": 248791,
-      "name": "L'uomo dei sogni",
-      "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
     },
     {
       "added_at": "2024-03-21 23:01:00",
@@ -2371,22 +2395,6 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
-        "name": "Max",
-        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
-      },
-      "artists": [
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        }
-      ],
-      "duration_ms": 260800,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
-    },
-    {
-      "added_at": "2024-03-21 23:01:00",
-      "album": {
         "name": "Still From The '90s (The Manifesto) [Reloaded Version]",
         "url": "https://open.spotify.com/album/4fxxXPJbmqqDc82MZdGHYf"
       },
@@ -2411,6 +2419,22 @@
       "duration_ms": 162151,
       "name": "Still From The '90s (The Manifesto) - Reloaded Version",
       "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
+    },
+    {
+      "added_at": "2024-03-21 23:01:00",
+      "album": {
+        "name": "Max",
+        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        }
+      ],
+      "duration_ms": 260800,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
     },
     {
       "added_at": "2024-03-21 23:01:00",
@@ -2515,34 +2539,6 @@
       "duration_ms": 194786,
       "name": "Solo hardcore",
       "url": "https://open.spotify.com/track/134Ntz0aFWx3ddGBNV09Ks"
-    },
-    {
-      "added_at": "2024-03-21 23:01:00",
-      "album": {
-        "name": "Candeline (feat. Ghemon)",
-        "url": "https://open.spotify.com/album/2Fdum39Jz7ypweYX7WbJ09"
-      },
-      "artists": [
-        {
-          "name": "Ugo Crepa",
-          "url": "https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS"
-        },
-        {
-          "name": "foolviho",
-          "url": "https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY"
-        },
-        {
-          "name": "Alessandro Rase",
-          "url": "https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit"
-        },
-        {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
-        }
-      ],
-      "duration_ms": 153028,
-      "name": "Candeline (feat. Ghemon)",
-      "url": "https://open.spotify.com/track/6novc9o6iBbWRCSaU6b1XB"
     }
   ],
   "unique_name": "Radici Hip-Hop",

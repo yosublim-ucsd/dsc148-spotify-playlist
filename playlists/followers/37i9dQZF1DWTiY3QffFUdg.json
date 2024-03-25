@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 62072,
+  "2024-03-25": 62277,
   "date_first_scraped": "2023-08-12",
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
   "name": "techno party",
@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 142700,
       "name": "Lost My Way",
       "url": "https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX"
@@ -3125,6 +3125,28 @@
       "duration_ms": 157714,
       "name": "Trust - VIP Mix",
       "url": "https://open.spotify.com/track/5Kwy6gGIkpAyBDqmSokJOx"
+    },
+    {
+      "album": {
+        "name": "Universal Nation (Charlotte de Witte Rework)",
+        "url": "https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        },
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Universal Nation - Charlotte de Witte Rework - Edit",
+      "url": "https://open.spotify.com/track/1NhCSHNxAyFb00yI1Am68e"
     },
     {
       "album": {

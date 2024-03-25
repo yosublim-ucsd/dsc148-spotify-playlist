@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 279289,
+  "num_followers": 279316,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTgyZDk0YTZmYjc0NTdiNWM1M2M1ZjlkOTI5YjI0OWE5OGYzZTE1",
+  "snapshot_id": "MCxjZWM4NjI4NDJmZjU4YjZkNDkxNTkyYmMxMGU0ODA0Yzg3OTMxZWE5",
   "tracks": [
     {
       "added_at": "2024-03-22 11:52:59",
@@ -703,38 +703,26 @@
     {
       "added_at": "2024-03-22 11:52:59",
       "album": {
-        "name": "Alive (It Feels Like)",
-        "url": "https://open.spotify.com/album/4pXpgHjsecO9r9f22UB1Rk"
+        "name": "Party On My Own (feat. FAULHABER)",
+        "url": "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
       },
       "artists": [
         {
           "name": "Alok",
           "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Alive (It Feels Like)",
-      "url": "https://open.spotify.com/track/4fB85IhVASxXMWgoke5WVJ"
-    },
-    {
-      "added_at": "2024-03-22 11:52:59",
-      "album": {
-        "name": "Bad Cop",
-        "url": "https://open.spotify.com/album/7wgqGkRiaGOuFue6eM03tj"
-      },
-      "artists": [
-        {
-          "name": "VINNE",
-          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
         },
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
         }
       ],
-      "duration_ms": 140575,
-      "name": "Bad Cop",
-      "url": "https://open.spotify.com/track/2n4YYAXNgrIiLzdTfld9Rv"
+      "duration_ms": 146500,
+      "name": "Party On My Own (feat. FAULHABER)",
+      "url": "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
     },
     {
       "added_at": "2024-03-22 11:52:59",
@@ -759,6 +747,26 @@
       "duration_ms": 152131,
       "name": "Devotion - 2020 Remix",
       "url": "https://open.spotify.com/track/039VxfSo5FErqE65169VZL"
+    },
+    {
+      "added_at": "2024-03-22 11:52:59",
+      "album": {
+        "name": "Bad Cop",
+        "url": "https://open.spotify.com/album/7wgqGkRiaGOuFue6eM03tj"
+      },
+      "artists": [
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 140575,
+      "name": "Bad Cop",
+      "url": "https://open.spotify.com/track/2n4YYAXNgrIiLzdTfld9Rv"
     },
     {
       "added_at": "2024-03-22 11:52:59",
@@ -879,6 +887,26 @@
     {
       "added_at": "2024-03-22 11:52:59",
       "album": {
+        "name": "One Million",
+        "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "LOTTEN",
+          "url": "https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D"
+        }
+      ],
+      "duration_ms": 187741,
+      "name": "One Million",
+      "url": "https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A"
+    },
+    {
+      "added_at": "2024-03-22 11:52:59",
+      "album": {
         "name": "Rhythm of the Night",
         "url": "https://open.spotify.com/album/6BgupXtbUerk3l7hLOjxf1"
       },
@@ -899,26 +927,6 @@
       "duration_ms": 197276,
       "name": "Rhythm of the Night",
       "url": "https://open.spotify.com/track/7ilFvm0mQy8WFsi67e3flq"
-    },
-    {
-      "added_at": "2024-03-22 11:52:59",
-      "album": {
-        "name": "One Million",
-        "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "LOTTEN",
-          "url": "https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D"
-        }
-      ],
-      "duration_ms": 187741,
-      "name": "One Million",
-      "url": "https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A"
     },
     {
       "added_at": "2024-03-22 11:52:59",

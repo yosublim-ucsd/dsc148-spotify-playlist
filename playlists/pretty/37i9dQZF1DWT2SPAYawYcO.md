@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: PNAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,112 likes - 87 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,136 likes - 87 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 4 | [Savage \(feat\. Kerser\)](https://open.spotify.com/track/3fr2OSg9CQPoMOTsILdJ6N) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln), [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Gothic Summer](https://open.spotify.com/album/2INYN4ZTJJk3DvxdODiYu8) | 3:13 |
 | 5 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 |
 | 6 | [Zodiac](https://open.spotify.com/track/5IsJtIM3On4BNkSujt4A2c) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Young In Love](https://open.spotify.com/album/12XZSKFp45paJp1t0faWg3) | 3:13 |
-| 7 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 |
+| 7 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 |
 | 8 | [Through The Trees](https://open.spotify.com/track/0bmuiRqdjPBtFmCIcb4uCR) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Through The Trees](https://open.spotify.com/album/2rP1TqqHpwQZE8WqFONuDF) | 3:08 |
 | 9 | [Saturnine](https://open.spotify.com/track/0czIop1Wsllu6wCktR633R) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Saturnine](https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE) | 3:21 |
 | 10 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 86 | [The Summer That Got Away](https://open.spotify.com/track/1Obt0ahEG2Avv4KAOHM7qm) | [Lily Grace](https://open.spotify.com/artist/36C2hXqhxu8S68awyDaGQD) | [The Summer That Got Away](https://open.spotify.com/album/44YdEhnz623Oy7gCXI8mSq) | 2:58 |
 | 87 | [Back 2 U](https://open.spotify.com/track/0jg2jlPCcVVG8ZSVH5PTMx) | [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [I'm That Girl](https://open.spotify.com/album/4Ce9q2a8qAvbgIXX0tuTsW) | 2:48 |
 
-Snapshot ID: `MCwwYjRjYzk2MGIzZWVlNWY5MmEzOTRiNTNiYjM2YTg5YWZjZDlmYmFm`
+Snapshot ID: `MCw2ZWNkMDVkNGU0ZjRkYjI0MzkzZmEwY2Y0MWI5NWYzZjM4OTI0Njk3`

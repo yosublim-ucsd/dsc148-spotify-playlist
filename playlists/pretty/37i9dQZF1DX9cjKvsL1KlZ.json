@@ -1,12 +1,12 @@
 {
   "description": "Sounds of New York curated by <a href=\"https://www.instagram.com/sidetalknyc/\">Sidetalk</a>, New York\u2019s one-minute street show.",
-  "num_followers": 110255,
+  "num_followers": 110270,
   "original_name": "Sidetalk Sound",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODkxZWFiNjdmNzAyM2U3MzE5YjU0OWVlMTY5MWRiOWI4ODc4NjQ5",
+  "snapshot_id": "MCwzZWFmMjRjYWY3YmQ0ZmJmMDgxNzI5MDA1ZDVkNTcwMzhkMzI1ZjI2",
   "tracks": [
     {
       "added_at": "2024-03-22 21:54:28",
@@ -494,6 +494,14 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 228266,

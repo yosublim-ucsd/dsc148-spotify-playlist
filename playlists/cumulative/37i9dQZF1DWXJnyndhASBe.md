@@ -4,7 +4,7 @@
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kubi Producent, bambi, Fukaj, stickxr
 
-246 songs - 11 hr 41 min
+247 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [nóż motylkowy](https://open.spotify.com/track/2xCSrx8a1gZllp0jSFzsP2) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [nóż motylkowy](https://open.spotify.com/album/2rAT9XqHZFhEWgLfQeN50j) | 2:54 | 2023-09-21 | 2023-10-27 |
 | [NÓŻ WE KRWI](https://open.spotify.com/track/1FOhQka75hmmlcznLcb8nk) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0), [Trueman](https://open.spotify.com/artist/5r3nEhUe1taXeT8hZ5BVmK), [typo g](https://open.spotify.com/artist/3Cl0LSa06vEUmbuapubmPh), [prod\. adi](https://open.spotify.com/artist/3ybpQvzJq66CzSXDzmnB8u) | [NÓŻ WE KRWI](https://open.spotify.com/album/38rtVPhbhBrrIEhM4u7fXj) | 3:06 | 2024-02-29 | 2024-03-22 |
 | [OPIUM!](https://open.spotify.com/track/7ip4YylQWTrnvazpkii4RW) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [OPIUM!](https://open.spotify.com/album/2EgwS6mpTUMqkMBB3PxQg8) | 3:03 | 2023-11-30 | 2023-12-30 |
-| [Osobowości Dwie](https://open.spotify.com/track/7aOlTkaPvU28uIfq12QPWG) | [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8) | [Osobowości Dwie](https://open.spotify.com/album/0fLTEd864o6kivzzDVpLFz) | 2:00 | 2024-02-29 |  |
+| [Osobowości Dwie](https://open.spotify.com/track/3T49zcFvZaEgJK8bAOJwCb) | [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8) | [Osobowości Dwie](https://open.spotify.com/album/2SVlS4bupwamLaoeEig71t) | 2:00 | 2024-03-21 |  |
+| [Osobowości Dwie](https://open.spotify.com/track/7aOlTkaPvU28uIfq12QPWG) | [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8) | [Osobowości Dwie](https://open.spotify.com/album/0fLTEd864o6kivzzDVpLFz) | 2:00 | 2024-02-29 | 2024-03-25 |
 | [Ostatni kieliszek](https://open.spotify.com/track/5CEYkx8yKy3jqHdgyxTx8F) | [Sarius](https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S), [Sokół](https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot), [Faded Dollars](https://open.spotify.com/artist/7d16c3NgSNVAKr6ADZVSX6) | [Ostatni kieliszek](https://open.spotify.com/album/1BUd8Njzd7v31CXkeM3Tjc) | 3:52 | 2024-03-14 |  |
 | [Ostatnia prosta](https://open.spotify.com/track/6ItSElxz7augDffJSl8hHX) | [Opał](https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak), [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [Ostatnia prosta](https://open.spotify.com/album/02lJqxm5r3y5M2hnJgsTNa) | 2:46 | 2023-12-14 | 2023-12-30 |
 | [OSTATNIE DNI WAKACJI](https://open.spotify.com/track/3SfSjHnPaYIVxVIsVb7pZV) | [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [Przemek.pro](https://open.spotify.com/artist/0c5F4dAWCo7429DSHz0IhE), [Bartek Kubicki](https://open.spotify.com/artist/02Yk29Tllx7M1saf5PiAPo), [Trzech Króli](https://open.spotify.com/artist/12RbToPJopBHcXGKez6EDQ) | [OSTATNIE DNI WAKACJI](https://open.spotify.com/album/1Wp5YjQxj45NyE0swmTRQq) | 2:43 | 2023-10-05 | 2023-10-20 |

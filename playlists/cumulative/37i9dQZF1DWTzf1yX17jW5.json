@@ -766,6 +766,28 @@
     {
       "album": {
         "name": "Leave",
+        "url": "https://open.spotify.com/album/6AeZAE9S0GDtkKpxSxsHae"
+      },
+      "artists": [
+        {
+          "name": "The Szns",
+          "url": "https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU"
+        },
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174623,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/7jRVGR6xzoiBkY51gEla0L"
+    },
+    {
+      "album": {
+        "name": "Leave",
         "url": "https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs"
       },
       "artists": [
@@ -780,7 +802,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 174635,
       "name": "Leave",
       "url": "https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo"

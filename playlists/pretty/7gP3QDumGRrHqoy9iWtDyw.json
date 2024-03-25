@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 22529,
+  "num_followers": 22530,
   "original_name": "Malaa Selection ",
   "owner": {
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "MjI4MSwxZGJiMDU2MTBhYTA2NGVmMWQxYzUyNGIxZjFmMjYyOWJhNjJiMjBl",
+  "snapshot_id": "MjI4OSw3NWY4MmNjMGQ5ZDdiODBhNGE5NjJmMzFmNzhlNDRmMzM0ZGU4Yjdi",
   "tracks": [
     {
       "added_at": "2024-03-08 08:14:27",
@@ -31,6 +31,90 @@
       "duration_ms": 195692,
       "name": "Giving Me Life",
       "url": "https://open.spotify.com/track/2Je7t8J1MrumV3ClyIRm9N"
+    },
+    {
+      "added_at": "2024-03-24 22:01:51",
+      "album": {
+        "name": "Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/0y5X3mEY5gtzpMATESTlp8"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Nineteen 84",
+      "url": "https://open.spotify.com/track/2AJ8OYa9kLdieL7oOZCy4b"
+    },
+    {
+      "added_at": "2024-03-24 22:03:14",
+      "album": {
+        "name": "Sneaky Link (feat. Barney Bones)",
+        "url": "https://open.spotify.com/album/3MkfK7Sq6nDfiJdaOYphsg"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "duration_ms": 164115,
+      "name": "Sneaky Link (feat. Barney Bones)",
+      "url": "https://open.spotify.com/track/3zULmVC0d9EUr3pofDgZGJ"
+    },
+    {
+      "added_at": "2024-03-24 22:04:47",
+      "album": {
+        "name": "Nothing But... House Party, Vol. 09",
+        "url": "https://open.spotify.com/album/66VRBA6YI1SpnQ9ixYfSs8"
+      },
+      "artists": [
+        {
+          "name": "Nick Morgan",
+          "url": "https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8"
+        }
+      ],
+      "duration_ms": 281904,
+      "name": "Shook Pt. 3 - Radio Edit",
+      "url": "https://open.spotify.com/track/2VcQUEGgTGfJLLjAM8iqLj"
+    },
+    {
+      "added_at": "2024-03-24 22:02:13",
+      "album": {
+        "name": "Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/0y5X3mEY5gtzpMATESTlp8"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Koos",
+          "url": "https://open.spotify.com/artist/3A8Fbum6y0H2ijJSRaDNtB"
+        }
+      ],
+      "duration_ms": 219090,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/2rp9iwQwf3Xjkc3KSnvnOX"
     },
     {
       "added_at": "2024-03-19 11:04:06",

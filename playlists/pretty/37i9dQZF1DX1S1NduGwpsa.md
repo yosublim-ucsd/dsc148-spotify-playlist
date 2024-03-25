@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Monsieur MÂLÂ
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,192 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,285 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Retreat](https://open.spotify.com/track/3diGyW1Q9dHoE9Qk1u4hXe) | [Isaiah Collier](https://open.spotify.com/artist/7LxYxXTbSSkx480oIp3EYU) | [Parallel Universe](https://open.spotify.com/album/4ZEbUlAx8WKxp7pDlKQLeL) | 8:01 |
 | 50 | [Les Invisibles Part 2](https://open.spotify.com/track/7AlhYT03kRkweZINvY8hQ8) | [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Leonardo Montana](https://open.spotify.com/artist/3gDlpPLEXHWNlCZ3CO0Sx7) | [Les Invisibles Part 2](https://open.spotify.com/album/206p3aNz4hcQPHgyBuUxCi) | 3:29 |
 
-Snapshot ID: `MCwxMzY2ZDFjMGUwN2UyMjJlY2E3OTEwMzA2ZDlmM2M4YjAwN2ExZjFj`
+Snapshot ID: `MCxjMDg2YTczMGQyZmNkY2RjMzA0Y2U5ZDI4MTNhY2IwOTZjMGQxMGVl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Queen of Tears\(눈물의 여왕\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,524,125 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,524,374 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [I'll Always Be With You](https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr) | 3:36 |
 | 100 | [Never be the same](https://open.spotify.com/track/1LxglG5Z0infyxVRO79riu) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Behind you touch OST Part 6](https://open.spotify.com/album/5O7jNK8ybG0C1Gf2Bmwyvc) | 3:18 |
 
-Snapshot ID: `MCxhZDFmOTkyYTg2MTAzNmIwNWJmNGZjODEyODE5Y2I4NTQ1MDQyNTQw`
+Snapshot ID: `MCw0MWJkYjQ4YzhkY2E0MjZlZGI1YTE2YTYyN2M2ODEwMDJjYWE5ODBh`

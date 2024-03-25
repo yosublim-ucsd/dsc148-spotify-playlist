@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Ege Can Sal.
 
-1,276 songs - 2 day 22 hr 25 min
+1,277 songs - 2 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Dis\-moi](https://open.spotify.com/track/5MMkgucRpQfKulEXrNk9Yc) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Dis\-moi](https://open.spotify.com/album/3M5NoWmlCmualCFWxRxm84) | 2:55 | 2022-06-29 | 2022-08-02 |
 | [Discord\-disco](https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [Discord\-disco](https://open.spotify.com/album/6GdulvAtvSJiXDJjtHenzk) | 3:17 | 2024-01-12 |  |
 | [Discothèque](https://open.spotify.com/track/4yf1vbwYCGWzmtc132NQG0) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Discothèque](https://open.spotify.com/album/59kHLYLwV4ler6eee45BXq) | 2:57 | 2022-03-24 | 2022-08-02 |
+| [Disposition](https://open.spotify.com/track/0i0vwerF4OY1DCdzu57nLf) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Disposition](https://open.spotify.com/album/7Hp6sdzf7aLweRbHCdqj6t) | 2:57 | 2024-03-22 |  |
 | [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 | 2023-05-22 | 2024-01-13 |
 | [Dito, Sa Ilalim Ng Buwan](https://open.spotify.com/track/3FuZUeJbuejOfpbvuqp8QL) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Dito, Sa Ilalim Ng Buwan](https://open.spotify.com/album/3fUtcIhaW5dA1hlpn4Wv2M) | 4:05 | 2022-06-29 | 2023-05-31 |
 | [Dito, Sa Ilalim Ng Buwan](https://open.spotify.com/track/6Jsk4XzMSOK21Ubxx5YjVx) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Dito, Sa Ilalim Ng Buwan](https://open.spotify.com/album/4e9ffkSrcY2ryZP296dPWe) | 4:05 | 2022-03-24 | 2022-07-29 |
@@ -338,7 +339,7 @@
 | [Fantasy](https://open.spotify.com/track/59fIYH3h8H8ilm9ALt2NUl) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Fantasy](https://open.spotify.com/album/7ylSy5FAToYyzkH36QBHSQ) | 3:54 | 2022-03-24 | 2022-08-02 |
 | [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 | 2022-06-29 | 2022-11-19 |
 | [Feel](https://open.spotify.com/track/2K57EzR21M2VTV1qCEeCa7) | [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [Feel](https://open.spotify.com/album/4v5QB3bRarNaYvTcGzjvpN) | 3:08 | 2022-03-24 | 2023-04-18 |
-| [FEEL IT](https://open.spotify.com/track/4k5IKgB1P1K1TR8jIlLJmJ) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [FEEL IT](https://open.spotify.com/album/4f8377OKEletMkhE7hyIZR) | 3:31 | 2024-03-01 |  |
+| [FEEL IT](https://open.spotify.com/track/4k5IKgB1P1K1TR8jIlLJmJ) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [FEEL IT](https://open.spotify.com/album/4f8377OKEletMkhE7hyIZR) | 3:31 | 2024-03-01 | 2024-03-25 |
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 | 2022-03-24 | 2022-12-15 |
 | [FEVER](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 2:52 | 2022-02-03 | 2022-03-18 |
 | [Fill Me Up](https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Fill Me Up](https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14) | 2:34 | 2022-06-29 | 2023-05-09 |

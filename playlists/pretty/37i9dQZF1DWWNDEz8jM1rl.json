@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 122632,
+  "num_followers": 122662,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGRkYjNlMWNiMDQ1MzU0NGU5ZDQ0YmFlNGNlYTk4YmY4MjliMDQ1",
+  "snapshot_id": "MCw0N2NmZjNlZGZjNzcyNjVlZmY4MjJhYWE1ODRiNDNlMTkxZDljYjRk",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Soldados",
-        "url": "https://open.spotify.com/album/408HP6kZX2afGve443MAyu"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 224817,
-      "name": "Yo Tierra, T\u00fa Semilla",
-      "url": "https://open.spotify.com/track/0S79RX2oFmRsD1gjbwdXVC"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Armon\u00eda",
         "url": "https://open.spotify.com/album/7F5gP0i2p3IpsJcXBap4Nn"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 175455,
       "name": "Armon\u00eda",
       "url": "https://open.spotify.com/track/2y4Hu4zHZIvdfuRd5zdnRM"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Soldados",
+        "url": "https://open.spotify.com/album/408HP6kZX2afGve443MAyu"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 224817,
+      "name": "Yo Tierra, T\u00fa Semilla",
+      "url": "https://open.spotify.com/track/0S79RX2oFmRsD1gjbwdXVC"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Deluxe",
+        "url": "https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "duration_ms": 223516,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Party Love",
         "url": "https://open.spotify.com/album/7yiznDGtQNJPDxsiQZVY0X"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 196800,
       "name": "Party Love",
       "url": "https://open.spotify.com/track/0SXNLVcim7labm8IkyyyrI"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Deluxe",
-        "url": "https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        }
-      ],
-      "duration_ms": 223516,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
-      },
-      "artists": [
-        {
-          "name": "Jhonny Rafael",
-          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
-        }
-      ],
-      "duration_ms": 274200,
-      "name": "La Biblia",
-      "url": "https://open.spotify.com/track/6Xno9DkR19S7hsPqBn4zlO"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Dios Est\u00e1 en Control",
         "url": "https://open.spotify.com/album/1mOugK66Bd9AXwzsTuZI1y"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 258500,
       "name": "Dios Est\u00e1 en Control",
       "url": "https://open.spotify.com/track/65X1pjaVF89MNtR59GRMWW"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rafael",
+          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
+        }
+      ],
+      "duration_ms": 274200,
+      "name": "La Biblia",
+      "url": "https://open.spotify.com/track/6Xno9DkR19S7hsPqBn4zlO"
     },
     {
       "added_at": "2020-09-18 05:02:00",

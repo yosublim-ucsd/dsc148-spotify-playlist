@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 59560,
+  "2024-03-25": 59587,
   "date_first_scraped": "2022-02-06",
   "description": "Meet the future. New artists on the horizon. Cover: Ege Can Sal.",
   "name": "RADAR Global ",
@@ -6946,7 +6946,7 @@
     },
     {
       "album": {
-        "name": "GENNAIO 24",
+        "name": "GENNAIO 24 (feat. Caffellatte)",
         "url": "https://open.spotify.com/album/5TNxlyrgY5qoyceHYAoAE9"
       },
       "artists": [
@@ -6955,19 +6955,19 @@
           "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
         },
         {
-          "name": "Caffellatte",
-          "url": "https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay"
-        },
-        {
           "name": "Gorbaciof",
           "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        },
+        {
+          "name": "Caffellatte",
+          "url": "https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay"
         }
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 130039,
-      "name": "GENNAIO 24",
+      "name": "GENNAIO 24 (feat. Caffellatte)",
       "url": "https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd"
     },
     {
@@ -7951,7 +7951,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 183998,
       "name": "Highways",
       "url": "https://open.spotify.com/track/6SGkkODfeLLZu3NI0BdFh6"
@@ -9403,6 +9403,24 @@
       "duration_ms": 174893,
       "name": "it takes two",
       "url": "https://open.spotify.com/track/0c8PbjfgiHKk1V0e8lgjvP"
+    },
+    {
+      "album": {
+        "name": "it's all good, kid",
+        "url": "https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq"
+      },
+      "artists": [
+        {
+          "name": "DellaXOZ",
+          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "it's all good, kid",
+      "url": "https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA"
     },
     {
       "album": {
@@ -12791,7 +12809,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 162353,
       "name": "MY I ONI",
       "url": "https://open.spotify.com/track/0SUsodImdu1cqFd12GwVcc"
@@ -20813,6 +20831,24 @@
       "duration_ms": 270192,
       "name": "What?",
       "url": "https://open.spotify.com/track/1evZendZnEe8a8eXjd1Bcn"
+    },
+    {
+      "album": {
+        "name": "When It's Over",
+        "url": "https://open.spotify.com/album/2irzSmx5N2QvP3YLJXkRHD"
+      },
+      "artists": [
+        {
+          "name": "evi",
+          "url": "https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184005,
+      "name": "When It's Over",
+      "url": "https://open.spotify.com/track/2EcsBI9PipH9K8cikqZixI"
     },
     {
       "album": {

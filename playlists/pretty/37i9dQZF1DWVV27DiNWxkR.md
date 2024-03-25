@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 
 > The premier alternative melancholia playlist, featuring Billie Eilish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,741,671 likes - 120 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,742,216 likes - 120 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 | 119 | [Used To Be Lonely](https://open.spotify.com/track/2ya75bvL17SgjKvytJrBAm) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Forever Turned Around](https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ) | 3:48 |
 | 120 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 |
 
-Snapshot ID: `MCxhMTRiMzk4ZGM4NjE5NjFmY2U0ZWJlOTA1MDYwMGRhNjQ1NDk3NDFj`
+Snapshot ID: `MCw2OTMwYjk5ZTM4YWVkMjljNzE5OTc4ZDIwNTA4NWMzYTk5NDJhODQ0`

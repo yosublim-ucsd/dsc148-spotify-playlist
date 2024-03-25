@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 539586,
+  "num_followers": 539603,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDNlMGVhNjc0Njg2NDU0YjFkZTZkNDAyZjliYWFlZGE0NTk1M2Ji",
+  "snapshot_id": "MCxmNmZlNjc5YWEzMTc2YjU1NmM2MzEwNjFhZGMyYmUzNzhjMTA5YWY5",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Through The Eyes Of Heathens",
-        "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
-      },
-      "artists": [
-        {
-          "name": "Dozer",
-          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
-        }
-      ],
-      "duration_ms": 508293,
-      "name": "Big Sky Theory",
-      "url": "https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Macho Libre",
         "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 230653,
       "name": "Leftovers",
       "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Through The Eyes Of Heathens",
+        "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
+      },
+      "artists": [
+        {
+          "name": "Dozer",
+          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
+        }
+      ],
+      "duration_ms": 508293,
+      "name": "Big Sky Theory",
+      "url": "https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Love Like Machines",
-        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Eyes",
-          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Old Gods",
         "url": "https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Love Like Machines",
+        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Eyes",
+          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "King of Cowards",
         "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 349330,
       "name": "GNT",
       "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Thornwyck Hymn",
-        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
-      },
-      "artists": [
-        {
-          "name": "My Dying Bride",
-          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
-        }
-      ],
-      "duration_ms": 407783,
-      "name": "Thornwyck Hymn",
-      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1143,6 +1127,22 @@
       "duration_ms": 214600,
       "name": "Mississippi King",
       "url": "https://open.spotify.com/track/2lDpCH1LL5QSX6PXi3E8F2"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Thornwyck Hymn",
+        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
+      },
+      "artists": [
+        {
+          "name": "My Dying Bride",
+          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+        }
+      ],
+      "duration_ms": 407783,
+      "name": "Thornwyck Hymn",
+      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Trance States in Tongues",
+        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
+      },
+      "artists": [
+        {
+          "name": "Zen Guerrilla",
+          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
+        }
+      ],
+      "duration_ms": 301973,
+      "name": "Moonage Daydream",
+      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Acid Roulette",
         "url": "https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn"
       },
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Trance States in Tongues",
-        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
-      },
-      "artists": [
-        {
-          "name": "Zen Guerrilla",
-          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
-        }
-      ],
-      "duration_ms": 301973,
-      "name": "Moonage Daydream",
-      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Samsara",
         "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
       },
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Damned by Fate",
-        "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
-      },
-      "artists": [
-        {
-          "name": "Red Desert",
-          "url": "https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9"
-        }
-      ],
-      "duration_ms": 312746,
-      "name": "Lust Queen",
-      "url": "https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/3PmIQlefjUIPlp6bnZgCfH"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 316777,
       "name": "Desert God",
       "url": "https://open.spotify.com/track/021lCeWeMoHwvthf8pPHr6"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Damned by Fate",
+        "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
+      },
+      "artists": [
+        {
+          "name": "Red Desert",
+          "url": "https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9"
+        }
+      ],
+      "duration_ms": 312746,
+      "name": "Lust Queen",
+      "url": "https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd"
     },
     {
       "added_at": "2024-02-09 05:00:00",

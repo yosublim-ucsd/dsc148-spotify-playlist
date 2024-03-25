@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: rhyu\. Artwork: Isu Kim.
 
-682 songs - 1 day 13 hr 26 min
+683 songs - 1 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [confetti](https://open.spotify.com/track/0gH7FwKIMs6v9sM3s6RA3K) | [Stephanie Tay](https://open.spotify.com/artist/4CpuhhOxqqit4PIKng15m0), [Jodi Tan](https://open.spotify.com/artist/6YhrHJxtfv9Bv6oNt27tv3) | [confetti](https://open.spotify.com/album/3m9Q8vL6UxYx1RtIgDc3Kp) | 3:11 | 2022-01-20 | 2022-03-11 |
 | [Constantly \(Falling in Love\)](https://open.spotify.com/track/3AUBmGDppUI1BKbbAVl13F) | [Michael Noah](https://open.spotify.com/artist/2ojD8pNHaaxw4dJJ0ab38g) | [Constantly \(Falling in Love\)](https://open.spotify.com/album/5aH9sixHiydlT3NjCMPIpl) | 4:18 | 2022-01-13 | 2022-06-17 |
 | [Counterpart](https://open.spotify.com/track/5IDxT7F5fFeqJ6t6V88QfV) | [Hijack Hayley](https://open.spotify.com/artist/0yXoiuY9ZVzJRNu15X6eCU) | [Counterpart](https://open.spotify.com/album/32kZbnPUa3a6fUAcCaYvdy) | 3:31 | 2023-10-19 | 2024-01-19 |
-| [crash](https://open.spotify.com/track/1rrkI6crOZ3qEOuwGizymx) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [crash](https://open.spotify.com/album/2h4fJ50NqNXgFcCMwXEVlG) | 3:58 | 2023-11-02 |  |
+| [crash](https://open.spotify.com/track/1rrkI6crOZ3qEOuwGizymx) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [crash](https://open.spotify.com/album/2h4fJ50NqNXgFcCMwXEVlG) | 3:58 | 2023-11-02 | 2024-03-25 |
+| [crash](https://open.spotify.com/track/4gfWiAAXM73PQaORRWd3dZ) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [crash](https://open.spotify.com/album/2DQDpAr42xvWoio41HvGPB) | 3:58 | 2024-03-21 |  |
 | [Creep It Real](https://open.spotify.com/track/1kK6PvjW6HVt8mhQrQEU5R) | [Amanda Ong](https://open.spotify.com/artist/0XaKTTVvegITqWH3AW1DeD), [Sean Sundaran](https://open.spotify.com/artist/7hjLHLwbEBu8PPyUr51uHG), [joli](https://open.spotify.com/artist/4fjezzU86XH96yLUqwbFzr), [megu](https://open.spotify.com/artist/2IXYAYaox06h53F9CLtqlf) | [Creep It Real](https://open.spotify.com/album/0horb0QeTVnrUF5tJK6tBC) | 2:42 | 2023-11-02 | 2024-01-19 |
 | [Crimson Lies](https://open.spotify.com/track/6aSD3CBRKoUlQhnkAJhrzd) | [We the Villains](https://open.spotify.com/artist/07DdTSeIau4SVJGWuILaE1) | [From Ashes, We Rise](https://open.spotify.com/album/3X3WJCf04YHwnkusSn7OCi) | 3:22 | 2022-01-13 | 2022-06-17 |
 | [Cross The Line](https://open.spotify.com/track/2TmoiudjLpYhqtAyRUTBBu) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Cross The Line](https://open.spotify.com/album/0DXGBQT0czeVAhYpzIkve0) | 3:53 | 2022-01-13 | 2022-03-25 |

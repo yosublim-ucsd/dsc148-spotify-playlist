@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Kany García & Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,937,822 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,937,947 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 64 | [Clavada En Mi Cuerpo](https://open.spotify.com/track/2r8f3ojwoRpnz6Aszufnrt) | [Daniel Simo](https://open.spotify.com/artist/4HZGfCiVVgfmaKlvyIF65k) | [Clavada En Mi Cuerpo](https://open.spotify.com/album/5k3fW7bHYsk7dSDD89FZiJ) | 3:20 |
 | 65 | [HASTA QUE LA MUERTE NOS SEPARE](https://open.spotify.com/track/0t40u904M4HGa3vCcrttUP) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 3:27 |
 
-Snapshot ID: `MCw1ZDAxODU2NmE0OTRjZjM4ZTk5Yzc4ZDU5NjdmMThiYmU1NzY4MTRk`
+Snapshot ID: `MCxhNjZmYzYyNTRmNTZlN2FjYWM0MmI0MzkwODBkMzNiNWY2OWVmOTcz`

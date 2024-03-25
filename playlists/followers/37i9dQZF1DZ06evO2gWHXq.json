@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 219246,
+  "2024-03-25": 219268,
   "date_first_scraped": "2023-11-11",
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
   "name": "This Is MC Davo",
@@ -705,7 +705,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 173975,
       "name": "No Saben",
       "url": "https://open.spotify.com/track/03PKEI1s1HIfpy8XDkKabt"
@@ -1315,6 +1315,28 @@
       "duration_ms": 192592,
       "name": "Tremenda",
       "url": "https://open.spotify.com/track/3tbVojOpYBUQFDPDoITdZg"
+    },
+    {
+      "album": {
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Tumbao",
+      "url": "https://open.spotify.com/track/6ztcwuxPlPOXoo9PG5ZhWE"
     },
     {
       "album": {

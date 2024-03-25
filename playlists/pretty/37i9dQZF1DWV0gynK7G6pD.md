@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Alexis Ffrench
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,218 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,311 likes - 75 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 74 | [Cançó i dansa No\. 13: II\. Dansa\. El bon caçador](https://open.spotify.com/track/2rPEE8Bld74RHOUP6jeg4X) | [Federico Mompou](https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M), [Eugenio Della Chiara](https://open.spotify.com/artist/4IFHpgM4jJ7jjXVzr652DC) | [Cassadó & Mompou: Complete Guitar Works](https://open.spotify.com/album/5a28UTpRc60t5X3iPOGi8H) | 1:55 |
 | 75 | [Orchestral Suite No\. 2 in B Minor, BWV 1067: V\. Polonaise & Double](https://open.spotify.com/track/0AiL5eAJNtJTsrYv6TNCxA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Frank Theuns](https://open.spotify.com/artist/41tE997sDDez51t2QvAaA6), [Les Muffatti](https://open.spotify.com/artist/4zxl6e19r08PjqW0p7eKje) | [Bach Triple](https://open.spotify.com/album/0CPBXUuh296Om0lcdSBNYv) | 3:21 |
 
-Snapshot ID: `MCw4NTQ5MmQ0MWM4ZjQ5YTk5OWIyMGQ3YTUyOWVmOWVjNDUwOWFlNThj`
+Snapshot ID: `MCwzNGE2YzdkY2E2OWY1MTUzZWQyMjE2MWNjZWNlZTMxMWNlMzE2NzQx`

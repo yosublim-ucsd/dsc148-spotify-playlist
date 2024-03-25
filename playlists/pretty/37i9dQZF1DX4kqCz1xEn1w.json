@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73138,
+  "num_followers": 73181,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjU5N2IxNzczOGMzMWQ1MTYwMzNmZThmOWFkMzYwNzQ2M2ZiYzk1",
+  "snapshot_id": "MCxmNjlkZjQ3MTczZjVmMzY4Mzk3YTdhMDE0YWE1NDEzYTlkODM2MmMz",
   "tracks": [
     {
       "added_at": "2024-03-20 11:39:23",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
+        "name": "Kari Jobe",
+        "url": "https://open.spotify.com/album/0aJECiCK8ZgWkxYM95rwYf"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/1hTN6YhI5Tb9dSTpRQZqDC"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
         "name": "Passion Collection",
         "url": "https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 239628,
       "name": "One Thing Remains - Radio Version",
       "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
-        "name": "Kari Jobe",
-        "url": "https://open.spotify.com/album/0aJECiCK8ZgWkxYM95rwYf"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 361386,
-      "name": "Revelation Song",
-      "url": "https://open.spotify.com/track/1hTN6YhI5Tb9dSTpRQZqDC"
     },
     {
       "added_at": "2024-03-20 11:39:23",

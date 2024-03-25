@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Raissa Ramadhani
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,672 likes - 99 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,713 likes - 99 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 98 | [Be There for You](https://open.spotify.com/track/1FK4AGndttnVCBQKBgj0AK) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Be There for You](https://open.spotify.com/album/1dfzuM1P1PzBdJMxGXmz12) | 3:27 |
 | 99 | [Shallow Water](https://open.spotify.com/track/3Uf7CHxUovGESEK2YvcGAY) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Shallow Water](https://open.spotify.com/album/6vxwXV8w20fsU50YID7cKI) | 2:43 |
 
-Snapshot ID: `MCw0Y2Y3MzNjOTI3OGZmNWIyZGYwZTQ5Y2VjMmY5MWE4MmUzNjcyODg1`
+Snapshot ID: `MCwxOGIxNzgwYzEyYTE4MmIzZmNhYjExZGI1NzkxOWRjYTA2NTcyMTYz`

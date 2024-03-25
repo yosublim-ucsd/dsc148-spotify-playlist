@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 490950,
+  "2024-03-25": 490960,
   "date_first_scraped": "2021-12-21",
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
   "name": "Folk Rock Favorites",
@@ -1271,7 +1271,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 270853,
       "name": "Gamble for a Rose",
       "url": "https://open.spotify.com/track/2zqSMjsmbqtm80YwQaPgmY"
@@ -1657,7 +1657,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 233533,
       "name": "Hear It Again",
       "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
@@ -3344,6 +3344,24 @@
     },
     {
       "album": {
+        "name": "reason to live",
+        "url": "https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150577,
+      "name": "reason to live",
+      "url": "https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9"
+    },
+    {
+      "album": {
         "name": "Holy Smokes Future Jokes",
         "url": "https://open.spotify.com/album/10D5ke3EYdoFD89zQZjjVc"
       },
@@ -3863,6 +3881,24 @@
       "duration_ms": 157040,
       "name": "Stronger Than That",
       "url": "https://open.spotify.com/track/5u2vHAmFT6hU6TaZkSGLnY"
+    },
+    {
+      "album": {
+        "name": "Suffering",
+        "url": "https://open.spotify.com/album/14eVN7m47S442flao2wtFa"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200133,
+      "name": "Suffering",
+      "url": "https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H"
     },
     {
       "album": {

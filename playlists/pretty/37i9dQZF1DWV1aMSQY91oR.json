@@ -1,12 +1,12 @@
 {
   "description": "The newest Hip-Hop, refreshed weekly. Cover: Mac Miller",
-  "num_followers": 7602,
+  "num_followers": 7617,
   "original_name": "All New Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjI5OTBkN2M5YmQxYzU1MTQ5ODBhZjE5YTBlMzAzNGI2M2ZlODcz",
+  "snapshot_id": "MCw3MTUxZDU0N2IyODc5YzEzNzRjNzUxMDI1NmYzMzJkYTA5YTcyOTQ5",
   "tracks": [
     {
       "added_at": "2024-03-22 17:20:53",
@@ -38,6 +38,14 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 228266,
@@ -94,6 +102,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "duration_ms": 267706,

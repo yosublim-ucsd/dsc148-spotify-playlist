@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 
 > Los éxitos del pop suenan mejor en vivo\. Foto: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,623 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,841 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 | 49 | [Rosas \- Directo Primera Fila](https://open.spotify.com/track/4Evx9DFFSCMJnUevhy4w7a) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Primera Fila](https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh) | 4:45 |
 | 50 | [Confieso \- En Vivo](https://open.spotify.com/track/7LdnlQjKYxFJ1Ar7sM3sN4) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [OV7 Primera Fila](https://open.spotify.com/album/2xFC6CVueT0H9MqW8RkySa) | 3:43 |
 
-Snapshot ID: `MCxjZDU1NjA2ZjJjZTVkMjYyYjBmYzcwMGNkMTBjYmIxODgxYmQ4NDgw`
+Snapshot ID: `MCxmOTgxMzQ0NmQ4NmUxNTUyMWM1YTBkZDcyZTg0MGQ4YmFhOWY1MjMz`

@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Ananda",
-  "num_followers": 363834,
+  "num_followers": 363833,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzFiOWYzNmY3ODY3ZTdhNTE0ODIxZTFlYTFjNWJlNmIwMzVmMDU5",
+  "snapshot_id": "MCxjNjk5MTg2YTNiNTkwMzNlMDYxZWY1ZDcwZDkzMjNjYzI0ZDVlYmNl",
   "tracks": [
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Flor da Idade",
-        "url": "https://open.spotify.com/album/3EaofuMgRgID0QiWKbtj9X"
+        "name": "Meu Mel",
+        "url": "https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v"
       },
       "artists": [
         {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+          "name": "Bella Angel",
+          "url": "https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk"
         }
       ],
-      "duration_ms": 216118,
-      "name": "Flor da Idade",
-      "url": "https://open.spotify.com/track/7byqYK458bCwphyDg66d6G"
+      "duration_ms": 124615,
+      "name": "Meu Mel",
+      "url": "https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Meu Mel",
-        "url": "https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v"
+        "name": "Flor da Idade",
+        "url": "https://open.spotify.com/album/3EaofuMgRgID0QiWKbtj9X"
       },
       "artists": [
         {
-          "name": "Bella Angel",
-          "url": "https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk"
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
         }
       ],
-      "duration_ms": 124615,
-      "name": "Meu Mel",
-      "url": "https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina"
+      "duration_ms": 216118,
+      "name": "Flor da Idade",
+      "url": "https://open.spotify.com/track/7byqYK458bCwphyDg66d6G"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Boa de Beber",
-        "url": "https://open.spotify.com/album/31VUUoX7xVUM8yZgEGMRH5"
-      },
-      "artists": [
-        {
-          "name": "Anaju Oliveira",
-          "url": "https://open.spotify.com/artist/7JPwRrClIcgOfAMB6FFfT0"
-        }
-      ],
-      "duration_ms": 128507,
-      "name": "Boa de Beber",
-      "url": "https://open.spotify.com/track/1lWQQaQZQAFKG0HYxspHXI"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "Caio em Ti",
         "url": "https://open.spotify.com/album/6CjknY8eSPQA7ByDbzzyag"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 203625,
       "name": "Sem Demandas",
       "url": "https://open.spotify.com/track/73PJMlUkA6WyeEZtEYweq7"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Boa de Beber",
+        "url": "https://open.spotify.com/album/31VUUoX7xVUM8yZgEGMRH5"
+      },
+      "artists": [
+        {
+          "name": "Anaju Oliveira",
+          "url": "https://open.spotify.com/artist/7JPwRrClIcgOfAMB6FFfT0"
+        }
+      ],
+      "duration_ms": 128507,
+      "name": "Boa de Beber",
+      "url": "https://open.spotify.com/track/1lWQQaQZQAFKG0HYxspHXI"
     },
     {
       "added_at": "2024-03-22 03:00:00",

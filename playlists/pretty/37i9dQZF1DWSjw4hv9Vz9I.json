@@ -1,12 +1,12 @@
 {
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
-  "num_followers": 132021,
+  "num_followers": 132075,
   "original_name": "Retro Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjY0Y2RiYzMyMDFhZWM3MGFiZDFlOWVkNmMwMDM4NjlkNmY1MTRh",
+  "snapshot_id": "MCw0ODFjZDI1NTIzYTdhMDZlMzk4Yjc4ZGEyZGIzMWZlM2RkYmRhZDI2",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/0loJyuSFr6vVPBQSmLLrrQ"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Queen Alone",
-        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
-    },
-    {
       "added_at": "2023-07-11 18:58:28",
       "album": {
         "name": "Highroad",
@@ -267,6 +251,22 @@
       "duration_ms": 230656,
       "name": "Highroad",
       "url": "https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Spreadin' Honey",
@@ -659,6 +643,22 @@
       "duration_ms": 272573,
       "name": "When It Was Wrong",
       "url": "https://open.spotify.com/track/0dUb6kyjmx1XlkTw37g3tN"
+    },
+    {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -801,20 +801,20 @@
       "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
     },
     {
-      "added_at": "2023-12-13 17:43:50",
+      "added_at": "2022-12-13 18:45:33",
       "album": {
-        "name": "Love Lines",
-        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
+        "name": "Call It Home, Vol. 1",
+        "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
       },
       "artists": [
         {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
         }
       ],
-      "duration_ms": 263297,
-      "name": "Long Goodbye",
-      "url": "https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K"
+      "duration_ms": 275346,
+      "name": "Live Learn",
+      "url": "https://open.spotify.com/track/1pRjwKEEx9ddfevbXNyJdi"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -833,20 +833,20 @@
       "url": "https://open.spotify.com/track/3wZqS73n0ivz3o6yPZPjxI"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
+      "added_at": "2023-12-13 17:43:50",
       "album": {
-        "name": "Call It Home, Vol. 1",
-        "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
+        "name": "Love Lines",
+        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
       },
       "artists": [
         {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
         }
       ],
-      "duration_ms": 275346,
-      "name": "Live Learn",
-      "url": "https://open.spotify.com/track/1pRjwKEEx9ddfevbXNyJdi"
+      "duration_ms": 263297,
+      "name": "Long Goodbye",
+      "url": "https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
-      "added_at": "2021-10-29 04:01:00",
-      "album": {
-        "name": "Starchild",
-        "url": "https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 231853,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
-    },
-    {
       "added_at": "2023-07-11 18:58:28",
       "album": {
         "name": "Look Closer",
@@ -1087,6 +1071,22 @@
       "duration_ms": 211413,
       "name": "Hot Shot",
       "url": "https://open.spotify.com/track/39DKVXSa1NaJXo9Ud4G4Io"
+    },
+    {
+      "added_at": "2021-10-29 04:01:00",
+      "album": {
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx"
+      },
+      "artists": [
+        {
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+        }
+      ],
+      "duration_ms": 231853,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1277,26 +1277,6 @@
       "url": "https://open.spotify.com/track/02uuyfMVDPh81EirCFoyhi"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Schvitz",
-        "url": "https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        },
-        {
-          "name": "Theo Katzman",
-          "url": "https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya"
-        }
-      ],
-      "duration_ms": 172607,
-      "name": "All That\u2019s Left of Me Is You",
-      "url": "https://open.spotify.com/track/54Aa3U7MwohGZz56LMi0Ng"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Inside Voice",
@@ -1315,6 +1295,22 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "Sonny Cleveland",
+        "url": "https://open.spotify.com/album/5Slt4CVhQJmKAeTuBrpNwe"
+      },
+      "artists": [
+        {
+          "name": "Sonny Cleveland",
+          "url": "https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA"
+        }
+      ],
+      "duration_ms": 207524,
+      "name": "If It Ain't Broke",
+      "url": "https://open.spotify.com/track/1j0HKSgtePIKdk8HNFlmkX"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "Face Your Fear",
         "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
       },
@@ -1329,20 +1325,24 @@
       "url": "https://open.spotify.com/track/2NwwdNPSlvoRBqomWa4S2N"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Sonny Cleveland",
-        "url": "https://open.spotify.com/album/5Slt4CVhQJmKAeTuBrpNwe"
+        "name": "Schvitz",
+        "url": "https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI"
       },
       "artists": [
         {
-          "name": "Sonny Cleveland",
-          "url": "https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA"
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Theo Katzman",
+          "url": "https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya"
         }
       ],
-      "duration_ms": 207524,
-      "name": "If It Ain't Broke",
-      "url": "https://open.spotify.com/track/1j0HKSgtePIKdk8HNFlmkX"
+      "duration_ms": 172607,
+      "name": "All That\u2019s Left of Me Is You",
+      "url": "https://open.spotify.com/track/54Aa3U7MwohGZz56LMi0Ng"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Queen Alone",
-        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 137320,
-      "name": "In Love (Don't Mess Things Up)",
-      "url": "https://open.spotify.com/track/4SgWwPLqJ08Y1HuoIpFJX4"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "A Change Is Gonna Come",
         "url": "https://open.spotify.com/album/5sP7f67CACltHoODXenmhw"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 276609,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/2RONhC3MSnfZx3P7b3csF5"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 137320,
+      "name": "In Love (Don't Mess Things Up)",
+      "url": "https://open.spotify.com/track/4SgWwPLqJ08Y1HuoIpFJX4"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1633,22 +1633,6 @@
       "url": "https://open.spotify.com/track/7BYaW4xBFqsReDyV3KUfDU"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Sound & Color (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/41xg3SjdwFyAp0kao72944"
-    },
-    {
       "added_at": "2022-12-13 18:45:33",
       "album": {
         "name": "Piece of Me",
@@ -1663,6 +1647,22 @@
       "duration_ms": 204747,
       "name": "Through It All",
       "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
+    },
+    {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "Sound & Color (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/41xg3SjdwFyAp0kao72944"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1857,22 +1857,6 @@
       "url": "https://open.spotify.com/track/6wZ0dZ5ZAb0Ufl70Ft0fzg"
     },
     {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Wait Til I Get Over",
-        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 204024,
-      "name": "See It Through",
-      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Queen Alone",
@@ -1887,6 +1871,22 @@
       "duration_ms": 239346,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/0JEL0mNhB89bnkvPAuffd4"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Wait Til I Get Over",
+        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 204024,
+      "name": "See It Through",
+      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
     },
     {
       "added_at": "2021-07-13 21:11:09",

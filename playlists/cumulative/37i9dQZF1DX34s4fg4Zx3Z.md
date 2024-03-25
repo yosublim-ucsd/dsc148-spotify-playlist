@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: KIMLONG
 
-1,557 songs - 3 day 19 hr 2 min
+1,558 songs - 3 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -728,6 +728,7 @@
 | [Là Một Người Tốt](https://open.spotify.com/track/2hXwAUTGhEcLYPaNwf2czD) | [Bon Ma](https://open.spotify.com/artist/7Am0uM7zd9oMI8Qyo5qmZd), [Vũ Thanh Vân](https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN) | [Là Một Người Tốt](https://open.spotify.com/album/7GTMKtVMdzV3zlbYGiLRto) | 2:54 | 2023-09-14 | 2023-11-30 |
 | [Là Như Một Chú Gấu Mùa Xuân](https://open.spotify.com/track/4D2Fixu37oe7SyoJe7YSdE) | [Hoàng Minh Châu](https://open.spotify.com/artist/5392HdKV4myTd5QuOED77C) | [Hoàng Minh Châu \- The First Album](https://open.spotify.com/album/7I3D2BIe4S7JcwYv0dl5mv) | 3:17 | 2024-01-25 | 2024-03-19 |
 | [Là thờ ích thích là thờ ương thương](https://open.spotify.com/track/4WQRt4T3OJ7AghHSIJcP43) | [NaaiG](https://open.spotify.com/artist/65e379P1CmEi8cZABbLyaP) | [Là thờ ích thích là thờ ương thương](https://open.spotify.com/album/5Xgm9iy81Upe1zm5Hjto6R) | 3:23 | 2022-02-10 | 2022-02-19 |
+| [Là Từ Lúc](https://open.spotify.com/track/1fgzQI6AtswiR0JMXulldH) | [Nguyễn Minh Xuân Ái](https://open.spotify.com/artist/6q7zgDxCtOdvzKnTK6Er4x) | [Là Từ Lúc](https://open.spotify.com/album/75y35MEEKSOd8tSS8T6am0) | 4:26 | 2024-03-25 |  |
 | [làm bạn thui](https://open.spotify.com/track/7A7yMVFkgoM0bILawd5Mgh) | [bobby](https://open.spotify.com/artist/2XpRyIgJngzgR8Owck9ixm) | [làm bạn thui](https://open.spotify.com/album/5rqyAltp3dNW4Y0uYG25M7) | 3:42 | 2022-08-23 | 2022-11-11 |
 | [Làm Liền Cho Nóng](https://open.spotify.com/track/1kdG0LaSWfzwYoFkgfMhwi) | [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh), [Xám](https://open.spotify.com/artist/0OzWJ833Wac4o3SAh38s7i), [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P) | [Làm Liền Cho Nóng](https://open.spotify.com/album/5fuyWjQZEEiu1wEoOcqjA3) | 3:31 | 2023-08-01 | 2023-09-22 |
 | [Làm Nó](https://open.spotify.com/track/7BK7gjVd06wY2IEC60py6a) | [Key V](https://open.spotify.com/artist/1k1nO8ue7WFIjT4hX1zuAF), [Koo](https://open.spotify.com/artist/19JOXyTbKnSp1QxnKEeXtq), [Khoa Wzzzy](https://open.spotify.com/artist/7f3vs7IeQScnYHmehKrAuv) | [Làm Nó](https://open.spotify.com/album/4UEjQpX7Xv4cJCt7lgJisE) | 4:06 | 2022-06-16 | 2022-06-27 |

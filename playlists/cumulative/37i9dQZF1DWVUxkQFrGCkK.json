@@ -1225,6 +1225,28 @@
     },
     {
       "album": {
+        "name": "Born In Blue",
+        "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
+      },
+      "artists": [
+        {
+          "name": "Chambord",
+          "url": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
+        },
+        {
+          "name": "Jaguar Jaguar",
+          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290737,
+      "name": "Born In Blue",
+      "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
+    },
+    {
+      "album": {
         "name": "Bosca Bosca / Bosco Bosco",
         "url": "https://open.spotify.com/album/14oZCnvUrYSb3umn8hLndu"
       },

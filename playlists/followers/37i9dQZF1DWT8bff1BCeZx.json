@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 14184,
+  "2024-03-25": 14237,
   "date_first_scraped": "2023-04-07",
   "description": "African Praise music taking you all the way up!",
   "name": "Higher",
@@ -309,7 +309,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 285022,
       "name": "Bianule",
       "url": "https://open.spotify.com/track/7iwRsEzkfIEEjPeKnviXBG"
@@ -2191,6 +2191,24 @@
       "duration_ms": 417533,
       "name": "Tambira Jehova",
       "url": "https://open.spotify.com/track/7vMK0yMrE3I8KIaEgaAq2r"
+    },
+    {
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177255,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
     },
     {
       "album": {

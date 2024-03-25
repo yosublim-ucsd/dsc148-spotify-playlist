@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1863,
+  "num_followers": 1864,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODI4N2JmYmFkYjllOGQyMWRmY2Y0MGQwNjkyYTM4ZTZlMTNkNmFl",
+  "snapshot_id": "MCxmNzdhY2U3OTBjMGRmNmM1YWViNjZiM2MzZmNiNmNiNGI3ZTY4NmE0",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb"
-      },
-      "artists": [
-        {
-          "name": "The King Sisters",
-          "url": "https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "Early Autumn",
-      "url": "https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Teach Me Tonight",
         "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 159666,
       "name": "Give Me Time",
       "url": "https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb"
+      },
+      "artists": [
+        {
+          "name": "The King Sisters",
+          "url": "https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "Early Autumn",
+      "url": "https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll"
     },
     {
       "added_at": "2020-08-17 22:49:59",

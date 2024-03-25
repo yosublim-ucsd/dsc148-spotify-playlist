@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 54436,
+  "2024-03-25": 54932,
   "date_first_scraped": "2023-09-29",
   "description": "Laissez-moi plonger je suis m\u00e9decin !",
   "name": "Balec !",
@@ -1610,6 +1610,24 @@
     },
     {
       "album": {
+        "name": "Stickers of Brian",
+        "url": "https://open.spotify.com/album/1VIMKqBLNwr7MOJennpzwW"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161642,
+      "name": "Stickers of Brian",
+      "url": "https://open.spotify.com/track/7M0A43aUdp5VDqUq39SJhV"
+    },
+    {
+      "album": {
         "name": "Permanent Damage",
         "url": "https://open.spotify.com/album/5E6FcPHKasgaGjcVXtlOfl"
       },
@@ -1873,7 +1891,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 364133,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6zbHSDJjgrNdfIxPyGfPBt"

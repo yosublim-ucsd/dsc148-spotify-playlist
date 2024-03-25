@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Nitefreak x Laureano x Bambo Cissokho
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,891 likes - 14 songs - 39 min 56 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,883 likes - 14 songs - 39 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

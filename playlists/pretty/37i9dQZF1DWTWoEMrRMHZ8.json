@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: C\u00e9u",
-  "num_followers": 346637,
+  "num_followers": 346660,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjllNjIzNTVkYjQ0ZDY2NWEwMzBhN2YxOTVkNmUwNTEwY2FhYjk5",
+  "snapshot_id": "MCxhYTNkYWM2YjM4MTlhM2JlMThkNGYxYmU0MWZhYjViYjBiZGZmZjkw",
   "tracks": [
     {
       "added_at": "2024-03-22 03:00:00",
@@ -351,26 +351,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Codinome Beija-Flor",
-        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Codinome Beija-Flor",
-      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 203810,
       "name": "A Morte de um Deus de Sal",
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Codinome Beija-Flor",
+        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Qual \u00c9 a Sua?",
-        "url": "https://open.spotify.com/album/018b2Donln67BGiwNP7XjS"
-      },
-      "artists": [
-        {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
-        }
-      ],
-      "duration_ms": 172623,
-      "name": "Qual \u00c9 a Sua?",
-      "url": "https://open.spotify.com/track/2bPBUYlwhiKP3diP15zM33"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "N\u00e3o vejo a hora",
         "url": "https://open.spotify.com/album/4iuOtGlTt5485mrjYelXSA"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 196602,
       "name": "N\u00e3o vejo a hora",
       "url": "https://open.spotify.com/track/6Wn7IS6IfsbhmmhZJmurKf"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Qual \u00c9 a Sua?",
+        "url": "https://open.spotify.com/album/018b2Donln67BGiwNP7XjS"
+      },
+      "artists": [
+        {
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        }
+      ],
+      "duration_ms": 172623,
+      "name": "Qual \u00c9 a Sua?",
+      "url": "https://open.spotify.com/track/2bPBUYlwhiKP3diP15zM33"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
+        "name": "O Meu Guri (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "O Meu Guri",
+      "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
         "name": "N\u00f3s e o Mar",
         "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 233273,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
-        "name": "O Meu Guri (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "O Meu Guri",
-      "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Sonho de Rainha Rei",
-        "url": "https://open.spotify.com/album/3snZBvOcbyhRfwOzbVxjmQ"
-      },
-      "artists": [
-        {
-          "name": "Jair Oliveira",
-          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
-        }
-      ],
-      "duration_ms": 251686,
-      "name": "Sonho de Rainha Rei",
-      "url": "https://open.spotify.com/track/0kOtSOUyumKGiN21NTF30l"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "V\u00e1 Com Deus",
         "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 172268,
       "name": "V\u00e1 Com Deus",
       "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Sonho de Rainha Rei",
+        "url": "https://open.spotify.com/album/3snZBvOcbyhRfwOzbVxjmQ"
+      },
+      "artists": [
+        {
+          "name": "Jair Oliveira",
+          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
+        }
+      ],
+      "duration_ms": 251686,
+      "name": "Sonho de Rainha Rei",
+      "url": "https://open.spotify.com/track/0kOtSOUyumKGiN21NTF30l"
     },
     {
       "added_at": "2024-03-22 03:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-03-22 03:00:00",
       "album": {
-        "name": "Acabou, mas tem...",
-        "url": "https://open.spotify.com/album/3xhjxB13uDwnFf2kh59wxQ"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 235586,
-      "name": "Acabou, mas tem...",
-      "url": "https://open.spotify.com/track/2fXKPSSyVCJDXyd8konNLO"
-    },
-    {
-      "added_at": "2024-03-22 03:00:00",
-      "album": {
         "name": "a trilha do carro dos meus pais (ac\u00fastico)",
         "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 144000,
       "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
       "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+    },
+    {
+      "added_at": "2024-03-22 03:00:00",
+      "album": {
+        "name": "Acabou, mas tem...",
+        "url": "https://open.spotify.com/album/3xhjxB13uDwnFf2kh59wxQ"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "Acabou, mas tem...",
+      "url": "https://open.spotify.com/track/2fXKPSSyVCJDXyd8konNLO"
     }
   ],
   "unique_name": "Divina MPB",

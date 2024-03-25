@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Conociendo Rusia",
-  "num_followers": 493800,
+  "num_followers": 493801,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWQ2Mjk2MTEyYzdmYmUzMTVlM2ZkNjcyYTU1MzM0OTYyNzM2YTVk",
+  "snapshot_id": "MCxiNjg5ZTE1NjA3NjU3ZWM1YjMzNDdiNjBkYzNmMjIwZDA5NWIzZTFh",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Perd\u00f3name",
+        "url": "https://open.spotify.com/album/0cBmNrY7sXXQRE1REBcJvF"
+      },
+      "artists": [
+        {
+          "name": "Jay de la Cueva",
+          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4B8nYFNBkksyZiiiT9PfwP"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "No Te Vayas",
         "url": "https://open.spotify.com/album/0k4dSQx0YRgv43KFpxNWTb"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 206818,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/6wz2a7hZNgLoPzSJyx9Ms9"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Perd\u00f3name",
-        "url": "https://open.spotify.com/album/0cBmNrY7sXXQRE1REBcJvF"
-      },
-      "artists": [
-        {
-          "name": "Jay de la Cueva",
-          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4B8nYFNBkksyZiiiT9PfwP"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/7pFnghxBLJx78ZDRUSkEYy"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 175175,
+      "name": "DIAMANTE",
+      "url": "https://open.spotify.com/track/5HZH0Rbz2mRnqgBkBeTsOf"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Los Chicos Tristes [Feat. Jensine Benitez] (El Michels Affair Remix)",
         "url": "https://open.spotify.com/album/0UQ4Se7ofqNnYlemid3D4b"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 161255,
       "name": "Los Chicos Tristes [Feat. Jensine Benitez] - El Michels Affair Remix",
       "url": "https://open.spotify.com/track/0rn2hYyqGKK7wwpwsrXcc8"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/7pFnghxBLJx78ZDRUSkEYy"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 175175,
-      "name": "DIAMANTE",
-      "url": "https://open.spotify.com/track/5HZH0Rbz2mRnqgBkBeTsOf"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Autom\u00f3vil",
+        "url": "https://open.spotify.com/album/0J1njNNsv2a5PWoZaAoUnu"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        }
+      ],
+      "duration_ms": 159916,
+      "name": "Autom\u00f3vil",
+      "url": "https://open.spotify.com/track/4unjiYzweEhOqxR2t7VUv0"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "NO HAY SE\u00d1AL",
         "url": "https://open.spotify.com/album/35LB7HQ4RWhvJnRdq8Coph"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 151386,
       "name": "Piritu",
       "url": "https://open.spotify.com/track/37ihmKT7uzbtbEK2jPzeQd"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Autom\u00f3vil",
-        "url": "https://open.spotify.com/album/0J1njNNsv2a5PWoZaAoUnu"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        }
-      ],
-      "duration_ms": 159916,
-      "name": "Autom\u00f3vil",
-      "url": "https://open.spotify.com/track/4unjiYzweEhOqxR2t7VUv0"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "El Sol De Las 3",
+        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "duration_ms": 152869,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/3Jege5i2BBYLvsTPiHANja"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "t quiero baby",
         "url": "https://open.spotify.com/album/560daVWObPmtxsOvhWsIQU"
       },
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "El Sol De Las 3",
-        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
+        "name": "road 2 neverland",
+        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
       },
       "artists": [
         {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
         }
       ],
-      "duration_ms": 152869,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/3Jege5i2BBYLvsTPiHANja"
+      "duration_ms": 209000,
+      "name": "falco",
+      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "road 2 neverland",
-        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
+        "name": "aqu\u00ed andamos",
+        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
       },
       "artists": [
         {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
         }
       ],
-      "duration_ms": 209000,
-      "name": "falco",
-      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
+      "duration_ms": 135133,
+      "name": "aqu\u00ed andamos",
+      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1307,22 +1323,6 @@
       "duration_ms": 188500,
       "name": "Sol",
       "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "aqu\u00ed andamos",
-        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "aqu\u00ed andamos",
-      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "me da miedo que escuches esto",
-        "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "te acuerdas de mi?",
-      "url": "https://open.spotify.com/track/1eYAhTrgoJVF8hi1j4n1lq"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "a media funci\u00f3n",
         "url": "https://open.spotify.com/album/3jKfkXI40BZdFB83JUHaRh"
       },
@@ -1447,22 +1431,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "oggy",
-        "url": "https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 128618,
-      "name": "oggy",
-      "url": "https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "M\u00e1s Normal De Lo Normal",
         "url": "https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh"
       },
@@ -1475,6 +1443,38 @@
       "duration_ms": 262593,
       "name": "En Vez de Huir",
       "url": "https://open.spotify.com/track/1YfiV2Ufi6GbzgdgbRHiVM"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "me da miedo que escuches esto",
+        "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "te acuerdas de mi?",
+      "url": "https://open.spotify.com/track/1eYAhTrgoJVF8hi1j4n1lq"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "oggy",
+        "url": "https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 128618,
+      "name": "oggy",
+      "url": "https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "NO ME QUIERO PEGAR",
+        "url": "https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 142349,
+      "name": "NO ME QUIERO PEGAR",
+      "url": "https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Profugos del tiempo",
         "url": "https://open.spotify.com/album/7Ln1X59GCd2Jaokf3CiTcL"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 175023,
       "name": "Profugos del tiempo",
       "url": "https://open.spotify.com/track/6T8sxv2RHncb1sft7hNZUF"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "NO ME QUIERO PEGAR",
-        "url": "https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 142349,
-      "name": "NO ME QUIERO PEGAR",
-      "url": "https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "M\u00e1s Normal De Lo Normal",
+        "url": "https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 192165,
+      "name": "Hora de Comer",
+      "url": "https://open.spotify.com/track/01SnokcbraoP4BYxznl6bq"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "no es culpa m\u00eda",
         "url": "https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq"
       },
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Quemar La Casa",
-        "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Siladi",
-          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
-        }
-      ],
-      "duration_ms": 243356,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Ac\u00e1",
         "url": "https://open.spotify.com/album/3qUG8qKETKEmmZqhcRbGcX"
       },
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Cuadriculado",
-        "url": "https://open.spotify.com/album/5lOF69vy9TfGYX6E8C8LgX"
+        "name": "Quemar La Casa",
+        "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
       },
       "artists": [
         {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+          "name": "Giorgio Siladi",
+          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
         }
       ],
-      "duration_ms": 169307,
-      "name": "Cuadriculado",
-      "url": "https://open.spotify.com/track/2DCUiwZcxvT5VrpUyCITAh"
+      "duration_ms": 243356,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
     }
   ],
   "unique_name": "el nuevo indie",

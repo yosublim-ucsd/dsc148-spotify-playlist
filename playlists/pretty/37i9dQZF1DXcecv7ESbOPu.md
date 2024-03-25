@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,919 likes - 128 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,073 likes - 128 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 21 | [Inside Out](https://open.spotify.com/track/6Z9nNatxC7Nbm4VY15A3ij) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Inside Out](https://open.spotify.com/album/67iY4D5SSaw1eRfExYzWh3) | 2:58 |
 | 22 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 |
 | 23 | [Övertramp](https://open.spotify.com/track/0zihCT6mFDwiyi9oM6pZ1R) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [Övertramp](https://open.spotify.com/album/7jwlYCv68I4dKrXsurASEJ) | 3:00 |
-| 24 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 |
+| 24 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 |
 | 25 | [Pretending](https://open.spotify.com/track/57mgEbIR86es2FBvQmxZ7t) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 3:02 |
 | 26 | [Ljusen \(feat\. Joakim Berg & Opera: 1\)](https://open.spotify.com/track/1pU4uBk9ASlKLHLx98QoiQ) | [Sakarias](https://open.spotify.com/artist/1yUcWPpu3UbKZFMmC5W3ZR), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Opera: 1](https://open.spotify.com/artist/4LEQ0IpTqQ1GuvezjIGZCW) | [Ljusen \(feat\. Joakim Berg & Opera: 1\)](https://open.spotify.com/album/6crZwLY8uqxlDQ2evd9cL7) | 3:42 |
 | 27 | [Nostalgia](https://open.spotify.com/track/3AgHs7svu3fb2d5NguwfXY) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt) | 2:44 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 127 | [DREAMING](https://open.spotify.com/track/401gRMsxqq2I1sbVMfj0FM) | [CHRIS LYNN](https://open.spotify.com/artist/6ZVcRPWf6D8PmUH2uFpcWp) | [DREAMING](https://open.spotify.com/album/115wQuGSLSvvpP1HPzGY3I) | 2:36 |
 | 128 | [Double Team](https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Double Team](https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V) | 3:51 |
 
-Snapshot ID: `MCw1YWM5NTBkMzBmYTg0YWI3MWJjNDJhYjJiMTFlN2ZmNDVjODc1ODg4`
+Snapshot ID: `MCxjM2Y4MjkyY2ZlNTJjNjZjYjcyMThhODU1YzQ5ZmRkYmM2ZmMxY2Zk`

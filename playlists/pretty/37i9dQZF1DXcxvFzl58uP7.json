@@ -1,12 +1,12 @@
 {
   "description": "Dreamy melodies and hushed vocals.  Cover: Clairo",
-  "num_followers": 1106862,
+  "num_followers": 1106912,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2ZkMGIzMjEzYWRlNzM2MjMwOThmNmZlNzRjZjcwYjdkZTE4NzRk",
+  "snapshot_id": "MCw0N2IzOGRlNDVkOGMyYjIyOGM0NWU2ZTc5YzNmMzAzMmZkMjIwYTc5",
   "tracks": [
     {
       "added_at": "2024-01-12 16:54:40",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "Where Do I Go",
-        "url": "https://open.spotify.com/album/4nFKRPl8NBisqDFKIFZVqg"
-      },
-      "artists": [
-        {
-          "name": "MINOVA",
-          "url": "https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC"
-        }
-      ],
-      "duration_ms": 190147,
-      "name": "Where Do I Go",
-      "url": "https://open.spotify.com/track/0HvbFmfFlcsAJ6hydqflNk"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "In My Room",
         "url": "https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 162013,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "Where Do I Go",
+        "url": "https://open.spotify.com/album/4nFKRPl8NBisqDFKIFZVqg"
+      },
+      "artists": [
+        {
+          "name": "MINOVA",
+          "url": "https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC"
+        }
+      ],
+      "duration_ms": 190147,
+      "name": "Where Do I Go",
+      "url": "https://open.spotify.com/track/0HvbFmfFlcsAJ6hydqflNk"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL"
-      },
-      "artists": [
-        {
-          "name": "dyl dion",
-          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "Uneasy - Metronomy x spill tab",
         "url": "https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 203262,
       "name": "Uneasy - Metronomy x spill tab",
       "url": "https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL"
+      },
+      "artists": [
+        {
+          "name": "dyl dion",
+          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "You Make Me Feel",
-        "url": "https://open.spotify.com/album/5x6rupJeZv1BxbNGVcxNDL"
-      },
-      "artists": [
-        {
-          "name": "EASHA",
-          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
-        }
-      ],
-      "duration_ms": 186562,
-      "name": "You Make Me Feel",
-      "url": "https://open.spotify.com/track/34nlIUkkDybtZAyEnvcpLL"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "TECHNICOLOR",
         "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 188143,
       "name": "FEEL LIKE",
       "url": "https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/5x6rupJeZv1BxbNGVcxNDL"
+      },
+      "artists": [
+        {
+          "name": "EASHA",
+          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
+        }
+      ],
+      "duration_ms": 186562,
+      "name": "You Make Me Feel",
+      "url": "https://open.spotify.com/track/34nlIUkkDybtZAyEnvcpLL"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "PLEASURES",
-        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
-      },
-      "artists": [
-        {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "Her and All of My Friends",
         "url": "https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 179748,
       "name": "Wormwood",
       "url": "https://open.spotify.com/track/3W89enABhR4P2BFYvARctH"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "PLEASURES",
+        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1399,6 +1399,30 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/14FyGmDdmCZy7Bb4eNa9XS"
+      },
+      "artists": [
+        {
+          "name": "oh caroline",
+          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+        },
+        {
+          "name": "Lhasa Petik",
+          "url": "https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja"
+        },
+        {
+          "name": "Towerz",
+          "url": "https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG"
+        }
+      ],
+      "duration_ms": 173856,
+      "name": "Letters",
+      "url": "https://open.spotify.com/track/6YQcXeLou3k4rpubfxZ1s6"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
         "name": "Eternal Slowdown",
         "url": "https://open.spotify.com/album/0ZHd1Jd0l3pc7t6DfVlDbd"
       },
@@ -1443,30 +1467,6 @@
       "duration_ms": 219682,
       "name": "Do U Mind? (Leave the Light On)",
       "url": "https://open.spotify.com/track/5b08M71kwPxYVixYCPGnnJ"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "Letters",
-        "url": "https://open.spotify.com/album/14FyGmDdmCZy7Bb4eNa9XS"
-      },
-      "artists": [
-        {
-          "name": "oh caroline",
-          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
-        },
-        {
-          "name": "Lhasa Petik",
-          "url": "https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja"
-        },
-        {
-          "name": "Towerz",
-          "url": "https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG"
-        }
-      ],
-      "duration_ms": 173856,
-      "name": "Letters",
-      "url": "https://open.spotify.com/track/6YQcXeLou3k4rpubfxZ1s6"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "1000 Summers",
-        "url": "https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw"
-      },
-      "artists": [
-        {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "25MPH",
-      "url": "https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "cirrostratus",
         "url": "https://open.spotify.com/album/6KoqPWFxw1UWqYWMEbw3Al"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 152600,
       "name": "cirrostratus",
       "url": "https://open.spotify.com/track/6bYMqPOoKowrOAUlboVcEi"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "1000 Summers",
+        "url": "https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "25MPH",
+      "url": "https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd"
     }
   ],
   "unique_name": "Bedroom Pop",

@@ -2198,10 +2198,32 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 238545,
       "name": "crash",
       "url": "https://open.spotify.com/track/1rrkI6crOZ3qEOuwGizymx"
+    },
+    {
+      "album": {
+        "name": "crash",
+        "url": "https://open.spotify.com/album/2DQDpAr42xvWoio41HvGPB"
+      },
+      "artists": [
+        {
+          "name": "Jeyes",
+          "url": "https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x"
+        },
+        {
+          "name": "shazza",
+          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238545,
+      "name": "crash",
+      "url": "https://open.spotify.com/track/4gfWiAAXM73PQaORRWd3dZ"
     },
     {
       "album": {

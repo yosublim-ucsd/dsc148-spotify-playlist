@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: jigitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,191 likes - 99 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,217 likes - 99 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 98 | [Sunsleeper](https://open.spotify.com/track/35lxsi9U65JKT03Voj2Dl5) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 3:42 |
 | 99 | [JOY \(I Did You Wrong\)](https://open.spotify.com/track/31ZBEAVjrABh1eSSDYPnRc) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(I Did You Wrong\)](https://open.spotify.com/album/5a929ZHQr9ctGnhlnfWjra) | 3:08 |
 
-Snapshot ID: `MCxkZDVkOGFkM2NiNDdlOGMyZDM4NTIxMWUxYWMzNmUzMWIzMmY1MTBk`
+Snapshot ID: `MCxkODJlZmI5Yjc1YTIwMDYzZDk4YjEyMjhhZDYxM2UyMDI3ZjFjZjAz`

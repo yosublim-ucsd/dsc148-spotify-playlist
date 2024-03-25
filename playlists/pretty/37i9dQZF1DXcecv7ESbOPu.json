@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 207919,
+  "num_followers": 208073,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWM5NTBkMzBmYTg0YWI3MWJjNDJhYjJiMTFlN2ZmNDVjODc1ODg4",
+  "snapshot_id": "MCxjM2Y4MjkyY2ZlNTJjNjZjYjcyMThhODU1YzQ5ZmRkYmM2ZmMxY2Zk",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -414,6 +414,14 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 228266,

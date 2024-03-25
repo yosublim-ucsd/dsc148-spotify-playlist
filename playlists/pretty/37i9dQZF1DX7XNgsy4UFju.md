@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Francis of Delirium
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,991 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,005 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Modern Woman](https://open.spotify.com/track/3OUjbRqPyGKp0IVb68nrWQ) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Modern Woman](https://open.spotify.com/album/3yr6yMwfok0uo07Nf94Qvu) | 4:09 |
 | 100 | [All The Same](https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [All The Same](https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt) | 2:55 |
 
-Snapshot ID: `MCw3YWI2YTE0OGQxZjBiOTMwMDMwOWQyOTZlZDdkY2M3YTAwNjk0OGIy`
+Snapshot ID: `MCwyOTNkZTY5ZWVkNmE4YzljODU4MzY5ZjlkMDQ1YmM5MzA3Yjc1ZGEx`

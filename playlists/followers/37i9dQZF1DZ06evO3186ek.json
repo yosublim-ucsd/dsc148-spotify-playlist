@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 136247,
+  "2024-03-25": 136335,
   "date_first_scraped": "2022-09-15",
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
   "name": "This Is Maverick City Music",
@@ -1441,23 +1441,23 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
           "name": "Naomi Raine",
           "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         },
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 556673,
-      "name": "More Than Able (feat. Tasha Cobbs Leonard)",
+      "name": "More Than Able (feat. Tasha Cobbs Leonard & Chandler Moore)",
       "url": "https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV"
     },
     {
@@ -1771,7 +1771,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 255566,
       "name": "Pull Me Close (feat. Rosie Mac)",
       "url": "https://open.spotify.com/track/7mQlQBxcTSJITsqcHK3s0n"

@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers and big streamers of 2015.",
-  "num_followers": 155942,
+  "num_followers": 156001,
   "original_name": "Dance Hits of 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmU4NmQ2NjRkZWMwOTg0NWQzZWZlYTIzYjgwYjNmOTQ2NTZjNzFi",
+  "snapshot_id": "MCxjNjNkMjg3ZGUxNGFiOGNiNzdjMDkxOTM3MDNiNTI3YmMzZDc4MmQx",
   "tracks": [
     {
       "added_at": "2021-04-30 05:37:41",
@@ -163,26 +163,6 @@
     {
       "added_at": "2021-04-30 05:37:41",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Stole the Show",
-      "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
-    },
-    {
-      "added_at": "2021-04-30 05:37:41",
-      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 220573,
       "name": "Middle",
       "url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK"
+    },
+    {
+      "added_at": "2021-04-30 05:37:41",
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Stole the Show",
+      "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
     },
     {
       "added_at": "2021-04-30 05:37:41",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-04-30 05:37:41",
       "album": {
-        "name": "The Original High (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3kaQUt8Mp906u1fI0LDqO6"
-      },
-      "artists": [
-        {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
-        }
-      ],
-      "duration_ms": 208330,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/44aN5xKL3kGHvQ5bXVk6B8"
-    },
-    {
-      "added_at": "2021-04-30 05:37:41",
-      "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 206066,
       "name": "For A Better Day",
       "url": "https://open.spotify.com/track/7kbTZWt7DnzIzbkyzFE1PW"
+    },
+    {
+      "added_at": "2021-04-30 05:37:41",
+      "album": {
+        "name": "The Original High (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3kaQUt8Mp906u1fI0LDqO6"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 208330,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/44aN5xKL3kGHvQ5bXVk6B8"
     },
     {
       "added_at": "2021-04-30 05:37:41",
@@ -743,6 +743,22 @@
     {
       "added_at": "2021-04-30 05:37:41",
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Broken Arrows",
+      "url": "https://open.spotify.com/track/260jSxvzkFt71ksvkcy2ke"
+    },
+    {
+      "added_at": "2021-04-30 05:37:41",
+      "album": {
         "name": "GENERATIONWHY",
         "url": "https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 162461,
       "name": "L'amour toujours (feat. Delaney Jane) - Ti\u00ebsto Edit",
       "url": "https://open.spotify.com/track/4UutBLYMby6whu2bMYh9Oa"
-    },
-    {
-      "added_at": "2021-04-30 05:37:41",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Broken Arrows",
-      "url": "https://open.spotify.com/track/260jSxvzkFt71ksvkcy2ke"
     },
     {
       "added_at": "2021-04-30 05:37:41",
@@ -1879,6 +1879,26 @@
     {
       "added_at": "2021-04-30 05:37:41",
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/3BmeUHlhxADpdkVVk2IDYM"
+      },
+      "artists": [
+        {
+          "name": "Klingande",
+          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+        },
+        {
+          "name": "Broken Back",
+          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
+        }
+      ],
+      "duration_ms": 180861,
+      "name": "RIVA (Restart the Game) - Radio Edit",
+      "url": "https://open.spotify.com/track/2nHkcMeJ81Ew6iBFJsEeyr"
+    },
+    {
+      "added_at": "2021-04-30 05:37:41",
+      "album": {
         "name": "Russian Roulette",
         "url": "https://open.spotify.com/album/2yEQWQCLmcDcWJJ6m95ufZ"
       },
@@ -1899,26 +1919,6 @@
       "duration_ms": 211884,
       "name": "Samsara (feat. Emila)",
       "url": "https://open.spotify.com/track/04xLp87480JkyiHIiWgj8I"
-    },
-    {
-      "added_at": "2021-04-30 05:37:41",
-      "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/3BmeUHlhxADpdkVVk2IDYM"
-      },
-      "artists": [
-        {
-          "name": "Klingande",
-          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
-        },
-        {
-          "name": "Broken Back",
-          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
-        }
-      ],
-      "duration_ms": 180861,
-      "name": "RIVA (Restart the Game) - Radio Edit",
-      "url": "https://open.spotify.com/track/2nHkcMeJ81Ew6iBFJsEeyr"
     },
     {
       "added_at": "2021-04-30 05:37:41",

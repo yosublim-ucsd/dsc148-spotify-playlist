@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Nathan Galante en portada. ",
-  "num_followers": 805174,
+  "num_followers": 805252,
   "original_name": "Sierre\u00f1o 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmY1NzYxOTAxMjVmNmJjN2U3ZmI1ZGFhMDY2MWQ3M2JiN2VlMDJl",
+  "snapshot_id": "MCwxYWU2MWU3NzFiYTZjNjZkMjJjMTM0OGQzYzU0MThiNjkwNzFkZDMz",
   "tracks": [
     {
       "added_at": "2024-03-19 14:54:31",
@@ -1175,8 +1175,8 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
-        "name": "Andamos Mejor",
-        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
       },
       "artists": [
         {
@@ -1184,9 +1184,9 @@
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 137183,
-      "name": "Andamos Mejor",
-      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
+      "duration_ms": 174432,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
       "added_at": "2024-03-19 14:54:31",
@@ -1271,8 +1271,8 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
+        "name": "Andamos Mejor",
+        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
       },
       "artists": [
         {
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 174432,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
+      "duration_ms": 137183,
+      "name": "Andamos Mejor",
+      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
     },
     {
       "added_at": "2024-03-19 14:54:31",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
+        "name": "Dijeron Que No La Iba Lograr",
+        "url": "https://open.spotify.com/album/4YT0dtOM9IDdAfFONKmazN"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 113019,
+      "name": "Dijeron Que No La Iba Lograr",
+      "url": "https://open.spotify.com/track/2VhYFNgH2oNn4N92YGwLnu"
+    },
+    {
+      "added_at": "2024-03-19 14:54:31",
+      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/1cbZXUpP2kswCktpR1hnTa"
       },
@@ -1595,22 +1615,6 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
-        "name": "Quiero Presumirte",
-        "url": "https://open.spotify.com/album/3X7xLaoYlXGMViA8dpa9DJ"
-      },
-      "artists": [
-        {
-          "name": "Picasso",
-          "url": "https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja"
-        }
-      ],
-      "duration_ms": 242227,
-      "name": "Quiero Presumirte",
-      "url": "https://open.spotify.com/track/6soqRrsiWygH5gSzTCHbDl"
-    },
-    {
-      "added_at": "2024-03-19 14:54:31",
-      "album": {
         "name": "B\u00e9lico y Cholo",
         "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
@@ -1631,18 +1635,18 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
-        "name": "No Te Detengas (Banda Sonora Original de la serie \"Zorro\")",
-        "url": "https://open.spotify.com/album/0XQA4roB8OS3Z08gs0T1xi"
+        "name": "Quiero Presumirte",
+        "url": "https://open.spotify.com/album/3X7xLaoYlXGMViA8dpa9DJ"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Picasso",
+          "url": "https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja"
         }
       ],
-      "duration_ms": 133933,
-      "name": "No Te Detengas - Banda Sonora Original de la serie \"Zorro\"",
-      "url": "https://open.spotify.com/track/3qWtrDiFyTCwAJ3aSV4bG9"
+      "duration_ms": 242227,
+      "name": "Quiero Presumirte",
+      "url": "https://open.spotify.com/track/6soqRrsiWygH5gSzTCHbDl"
     },
     {
       "added_at": "2024-03-19 14:54:31",
@@ -1663,22 +1667,18 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
-        "name": "Dijeron Que No La Iba Lograr",
-        "url": "https://open.spotify.com/album/4YT0dtOM9IDdAfFONKmazN"
+        "name": "No Te Detengas (Banda Sonora Original de la serie \"Zorro\")",
+        "url": "https://open.spotify.com/album/0XQA4roB8OS3Z08gs0T1xi"
       },
       "artists": [
         {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 113019,
-      "name": "Dijeron Que No La Iba Lograr",
-      "url": "https://open.spotify.com/track/2VhYFNgH2oNn4N92YGwLnu"
+      "duration_ms": 133933,
+      "name": "No Te Detengas - Banda Sonora Original de la serie \"Zorro\"",
+      "url": "https://open.spotify.com/track/3qWtrDiFyTCwAJ3aSV4bG9"
     },
     {
       "added_at": "2024-03-19 14:54:31",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
-        "name": "Modo Cherry",
-        "url": "https://open.spotify.com/album/1HtYRBV05f66fx89bQbSaO"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 171328,
-      "name": "Modo Cherry",
-      "url": "https://open.spotify.com/track/2NFeRpqiuM24sqMCSCvbDK"
-    },
-    {
-      "added_at": "2024-03-19 14:54:31",
-      "album": {
         "name": "Las Preferidas, Vol. 2 (En vivo)",
         "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 219264,
       "name": "El Baleado",
       "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
+    },
+    {
+      "added_at": "2024-03-19 14:54:31",
+      "album": {
+        "name": "Modo Cherry",
+        "url": "https://open.spotify.com/album/1HtYRBV05f66fx89bQbSaO"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 171328,
+      "name": "Modo Cherry",
+      "url": "https://open.spotify.com/track/2NFeRpqiuM24sqMCSCvbDK"
     },
     {
       "added_at": "2024-03-19 14:54:31",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
-        "name": "Como Voy A Ser Feliz",
-        "url": "https://open.spotify.com/album/4MHiwcjO1vjEwQ8yVpEQId"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 173963,
-      "name": "Como Voy A Ser Feliz",
-      "url": "https://open.spotify.com/track/6W4Ucfw40WxD7aalcP3jzA"
-    },
-    {
-      "added_at": "2024-03-19 14:54:31",
-      "album": {
         "name": "Corridos Alternativos",
         "url": "https://open.spotify.com/album/6XATE16MzC571kcQ66D6te"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 172164,
       "name": "Por la Ciudad",
       "url": "https://open.spotify.com/track/4Qs1ZU59JCbzEhW0UCb8Xg"
+    },
+    {
+      "added_at": "2024-03-19 14:54:31",
+      "album": {
+        "name": "Como Voy A Ser Feliz",
+        "url": "https://open.spotify.com/album/4MHiwcjO1vjEwQ8yVpEQId"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 173963,
+      "name": "Como Voy A Ser Feliz",
+      "url": "https://open.spotify.com/track/6W4Ucfw40WxD7aalcP3jzA"
     },
     {
       "added_at": "2024-03-19 14:54:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: rhyu\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,393 likes - 105 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,392 likes - 105 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,6 +112,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 102 | [To Say](https://open.spotify.com/track/12UzAUFG89v7UAhceJVgpr) | [Golden Mammoth](https://open.spotify.com/artist/4ILzCq6Jt8Ykmth9ZuLSqb) | [GM](https://open.spotify.com/album/0w8tZUhpOeBKrk0ZIk6SiL) | 4:37 |
 | 103 | [Coastlines](https://open.spotify.com/track/72hL3dy9IJ3qwXu4TAZb7T) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [Coastlines](https://open.spotify.com/album/1FABOVYhMBRIA0LhlZnq5J) | 3:11 |
 | 104 | [New York](https://open.spotify.com/track/7xKt7i4Erx0UbSz8hsTaGY) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [New York](https://open.spotify.com/album/7gLt0wcQfPDPIJdQfcMFob) | 3:20 |
-| 105 | [crash](https://open.spotify.com/track/1rrkI6crOZ3qEOuwGizymx) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [crash](https://open.spotify.com/album/2h4fJ50NqNXgFcCMwXEVlG) | 3:58 |
+| 105 | [crash](https://open.spotify.com/track/4gfWiAAXM73PQaORRWd3dZ) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [crash](https://open.spotify.com/album/2DQDpAr42xvWoio41HvGPB) | 3:58 |
 
-Snapshot ID: `MCw5ZTg1YzA1MTg3M2Y3MGYzOTMyNjNkODNkODE3YTY4N2RjNjIxNjVj`
+Snapshot ID: `MCwwYTBkYmMyODg2OGI3MTkwNjIzNzI0OWE2NjEzNjdjMjkxNzRlOTZj`

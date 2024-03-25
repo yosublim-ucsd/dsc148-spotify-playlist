@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: Zior Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,033 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,026 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [RSVP](https://open.spotify.com/track/6XPVbbIYNhJ4N0C9npE876) | [코알라 KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [RSVP](https://open.spotify.com/album/5mJzVwaJ4ecUO1aSkpeKJM) | 2:57 |
 | 50 | [Talk Saxy](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Talk Saxy](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) | 3:10 |
 
-Snapshot ID: `MCxmNDJiY2NiNjFkMTgzN2UxYjVmNTdiNTI4NDA2YmM5OGZhMzhlNTIz`
+Snapshot ID: `MCw3MWM1NDMzNDI3MTkzYjBkZjZhMDliZTZiZmJkYzBmZmFmNmVmZmYz`

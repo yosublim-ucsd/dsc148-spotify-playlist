@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 718396,
+  "num_followers": 718492,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDdlNzA2ZTdlZjA3ODJhYTkyNzBhYzg3YmUzZjY1ZWRlYWQ0MGRk",
+  "snapshot_id": "MCxlYTJiN2VkNTFjYjM5YmQwYTc1N2M1NjYyMjM3MThmMjhjN2Y3MzE5",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Continua",
+        "url": "https://open.spotify.com/album/5MApIKrwbZby8tMOND098R"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
+        }
+      ],
+      "duration_ms": 193680,
+      "name": "Maus Bocados",
+      "url": "https://open.spotify.com/track/1Tditr5KyzStSK3GiO6Xlj"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Ao Cubo, Ao Vivo, Em Cores",
         "url": "https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 184107,
       "name": "50 Vezes - Ao Vivo",
       "url": "https://open.spotify.com/track/01wavOnjFBNgdMWBFYIAP4"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Continua",
-        "url": "https://open.spotify.com/album/5MApIKrwbZby8tMOND098R"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
-        }
-      ],
-      "duration_ms": 193680,
-      "name": "Maus Bocados",
-      "url": "https://open.spotify.com/track/1Tditr5KyzStSK3GiO6Xlj"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "O Embaixador (Ao Vivo)",
+        "url": "https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 203739,
+      "name": "Cem Mil - Ao Vivo",
+      "url": "https://open.spotify.com/track/5pCyG634N2cC2aPgO5Oepf"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Terra do Nunca (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 189335,
       "name": "Santo Forte (Ao Vivo) (feat. Luan Santana)",
       "url": "https://open.spotify.com/track/1ekX8JX7LF3AyxI0nyOzvB"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "O Embaixador (Ao Vivo)",
-        "url": "https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 203739,
-      "name": "Cem Mil - Ao Vivo",
-      "url": "https://open.spotify.com/track/5pCyG634N2cC2aPgO5Oepf"
     },
     {
       "added_at": "2023-11-17 03:01:00",

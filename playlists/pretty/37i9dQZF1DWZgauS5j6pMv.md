@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: TWRP
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,518 likes - 102 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,747 likes - 102 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 101 | [Bullseye](https://open.spotify.com/track/0nxkE2MFVrm7UpdzgQ0CJO) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Bullseye](https://open.spotify.com/album/5Xl95STYauCnKb1qvbt1mm) | 2:17 |
 | 102 | [Come and Get It \- A COLORS SHOW](https://open.spotify.com/track/4exwQETG1yC3KPp8t57C9q) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Come and Get It \- A COLORS SHOW](https://open.spotify.com/album/6ESzAJ6LlsxURRRiDpJRsb) | 2:25 |
 
-Snapshot ID: `MCxkMGZjZjg3MmZjYmY4NDQ0NDAyYzMzMGM2Zjk1ZTJkYjVmMTI4ZWIx`
+Snapshot ID: `MCxlY2QxOTIwMWE4NDQ5NWYwMjY3ZWMyMWU1ZmQ3ZDVjOTMyZmFlOGJk`

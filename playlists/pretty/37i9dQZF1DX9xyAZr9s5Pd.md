@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 
 > ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Adrian Bello
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,711 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,718 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 | 59 | [Tutorial Para Olvidarme de Ti](https://open.spotify.com/track/0S5tLL40N5MtaxbYLEfjkT) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp) | [Tutorial Para Olvidarme de Ti](https://open.spotify.com/album/0rFXbUb5ZLQs4xPBNKUprC) | 3:16 |
 | 60 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
 
-Snapshot ID: `MCwxOTBlMjQ3NDc2Y2U2MTkzY2MzODk0NmNjYWY5MjIyNTI0MjkxNWRl`
+Snapshot ID: `MCxiNzlkYzAyYWQ1NmVkYjkxNjY0YThkOWVjNThlZWY4NzkzODY0M2M4`

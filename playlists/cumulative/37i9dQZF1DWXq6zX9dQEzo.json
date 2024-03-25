@@ -3200,7 +3200,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 161872,
       "name": "For A Reason",
       "url": "https://open.spotify.com/track/4F1jcSm2zz4hAXUsR1UgIX"
@@ -5188,6 +5188,24 @@
       "duration_ms": 115526,
       "name": "I See Lights",
       "url": "https://open.spotify.com/track/1mNj0r1ucdoF7uiCSvrCr6"
+    },
+    {
+      "album": {
+        "name": "We Already Won",
+        "url": "https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115526,
+      "name": "I See Lights",
+      "url": "https://open.spotify.com/track/2tevNriyzWHKDEIKw5UtAe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kubi Producent, bambi, Fukaj, stickxr
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,445 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,661 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 37 | [Vanitas](https://open.spotify.com/track/2stWwxi8C6L1TESgCw9ANY) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [Vanitas](https://open.spotify.com/album/6d7MSutLjG62hZLhhObdx9) | 3:36 |
 | 38 | [New York Freestyle](https://open.spotify.com/track/0Q0sBnoTWkeswHbvvpQyK6) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF), [Kusha](https://open.spotify.com/artist/2a3CjKMScCbYiM3XTay0zf), [Suwal](https://open.spotify.com/artist/5ySH1SGdybbpB07zl03goY) | [New York Freestyle](https://open.spotify.com/album/4ZpDOqonkjeH4angMDZJFm) | 2:15 |
 | 39 | [nie jestem romantyczny](https://open.spotify.com/track/3kUY4HIXepmVlxJ4vZGjlA) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [nie jestem romantyczny](https://open.spotify.com/album/0YOOJVUTl08owfwGLe7lHQ) | 2:01 |
-| 40 | [Osobowości Dwie](https://open.spotify.com/track/7aOlTkaPvU28uIfq12QPWG) | [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8) | [Osobowości Dwie](https://open.spotify.com/album/0fLTEd864o6kivzzDVpLFz) | 2:00 |
+| 40 | [Osobowości Dwie](https://open.spotify.com/track/3T49zcFvZaEgJK8bAOJwCb) | [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8) | [Osobowości Dwie](https://open.spotify.com/album/2SVlS4bupwamLaoeEig71t) | 2:00 |
 | 41 | [120 WERSÓW ŻEBY ZAJE\*AĆ CO WASZE](https://open.spotify.com/track/1VqT8aWuxRigiZILLcSlEM) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [120 WERSÓW ŻEBY ZAJE\*AĆ CO WASZE](https://open.spotify.com/album/2cdCiu1JfdjhuuWUEc2FOd) | 4:52 |
 | 42 | [Fluid](https://open.spotify.com/track/30r5RN2yGoKzanggEzqrzM) | [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [Fluid](https://open.spotify.com/album/0CEYo45beHwBmzkLHCmOwI) | 2:22 |
 | 43 | [TYLE SŁOŃCA](https://open.spotify.com/track/2oILgeSykGjl0N9m0VvAjO) | [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0), [BAHsick](https://open.spotify.com/artist/0TuA7E5H4nlEtWvpXSr7uv) | [TYLE SŁOŃCA](https://open.spotify.com/album/34pnuaLEiWt0Cs4JQv2MM2) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Must Have](https://open.spotify.com/track/5mUOcI1Ev8fYx6epZrstxz) | [Słoń](https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV), [Devv](https://open.spotify.com/artist/0uihSUoQ89CEHeTbue4h0A) | [Must Have](https://open.spotify.com/album/6dSTOhZcfMtEVCNoOIHT05) | 2:54 |
 | 50 | [Ostatni kieliszek](https://open.spotify.com/track/5CEYkx8yKy3jqHdgyxTx8F) | [Sarius](https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S), [Sokół](https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot), [Faded Dollars](https://open.spotify.com/artist/7d16c3NgSNVAKr6ADZVSX6) | [Ostatni kieliszek](https://open.spotify.com/album/1BUd8Njzd7v31CXkeM3Tjc) | 3:52 |
 
-Snapshot ID: `MCxhODczZTcwNDVjNGU5NmFlNTVjZTAzZTVlODQ3MzU2MGZmNTA2NDE0`
+Snapshot ID: `MCw1ZTE1MGRjMWRiZjEwMGQzZTYxNTJmMmYxMDQ0YzA5YWVjNjhjYjMz`

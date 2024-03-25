@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 4420,
+  "2024-03-25": 4487,
   "date_first_scraped": "2022-09-17",
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
   "name": "This Is Adrianne Lenker",
@@ -82,6 +82,24 @@
     },
     {
       "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207822,
+      "name": "Already Lost",
+      "url": "https://open.spotify.com/track/2BSnnyfltzvOkM1hJrsZfj"
+    },
+    {
+      "album": {
         "name": "b-sides",
         "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
@@ -158,6 +176,24 @@
     },
     {
       "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154777,
+      "name": "Candleflame",
+      "url": "https://open.spotify.com/track/7lX3MvcB1Rnecn53Z3FTfA"
+    },
+    {
+      "album": {
         "name": "b-sides",
         "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
@@ -177,6 +213,24 @@
       "duration_ms": 150266,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/2wEFuTCFRBvUTet1gomQGa"
+    },
+    {
+      "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158065,
+      "name": "Cell Phone Says",
+      "url": "https://open.spotify.com/track/2qUoLYCGQGJPlEM99tKd3t"
     },
     {
       "album": {
@@ -216,6 +270,24 @@
     },
     {
       "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145738,
+      "name": "Donut Seam",
+      "url": "https://open.spotify.com/track/789Uf6zgvPqwbCcpw6zSiI"
+    },
+    {
+      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -231,6 +303,24 @@
       "duration_ms": 206433,
       "name": "dragon eyes",
       "url": "https://open.spotify.com/track/2u0vK4Gf1IaEdcI7MtRWP5"
+    },
+    {
+      "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254263,
+      "name": "Evol",
+      "url": "https://open.spotify.com/track/1GRLxWFbZZZGF8mQw2BKSY"
     },
     {
       "album": {
@@ -270,6 +360,24 @@
     },
     {
       "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/3zGhR60NOVSgtzNEQNcHav"
+    },
+    {
+      "album": {
         "name": "Free Treasure",
         "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
       },
@@ -281,7 +389,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 215514,
       "name": "Free Treasure",
       "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
@@ -539,7 +647,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 972007,
       "name": "mostly chimes",
       "url": "https://open.spotify.com/track/26YdNW3yMLfA5NpTB8wzQy"
@@ -557,7 +665,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 1272830,
       "name": "music for indigo",
       "url": "https://open.spotify.com/track/1OzuAHfmr8Vg3eVvEbAR0p"
@@ -583,6 +691,24 @@
       "duration_ms": 228640,
       "name": "New York City",
       "url": "https://open.spotify.com/track/5McZ3LHgxlz8Fpea1oo8Ad"
+    },
+    {
+      "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180495,
+      "name": "No Machine",
+      "url": "https://open.spotify.com/track/07LZPF6LzXu19GhVyqWF81"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,695 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,708 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,18 +52,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 42 | [Si una Vez](https://open.spotify.com/track/00bZhYk9fm4ZL5wNfRXocn) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Si una Vez](https://open.spotify.com/album/15911pYbJmbTWdRAbKeujH) | 2:33 |
 | 43 | [Lloviendo Estrellas](https://open.spotify.com/track/21YzxJr5n5ljqXkOh2Rewy) | [Tachame la Doble](https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p) | [Lloviendo Estrellas](https://open.spotify.com/album/4ZQc6ZZUXLRs5A0a2mOMpw) | 2:32 |
 | 44 | [El Efecto](https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Max Fernandez](https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51) | [El Efecto](https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb) | 1:43 |
-| 45 | [Ya Me Enteré](https://open.spotify.com/track/4SAdpJMNj4JQanV3hD7JTn) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Ya Me Enteré](https://open.spotify.com/album/6A9vvGqlmgw8UZMnrzfxpb) | 2:38 |
-| 46 | [La Incondicional \- Version Cumbia](https://open.spotify.com/track/0AuHkLADfPOZ7OVkPaczoa) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Nicki Luis](https://open.spotify.com/artist/2mmVmtJNyml9x36wM2Br3D) | [La Incondicional \(Version Cumbia\)](https://open.spotify.com/album/5JYUEfb6wEMPL0Aixmjpkr) | 2:36 |
-| 47 | [Que No Quede Huella](https://open.spotify.com/track/130fvcSaaPEqqwVAvaHfQK) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Que No Quede Huella](https://open.spotify.com/album/2okjeW5I1Bsox3nHC8hXtb) | 3:49 |
-| 48 | [Fuiste Tu](https://open.spotify.com/track/0knrusP1Su928CMA9dMoIZ) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [La Sonora Gigante](https://open.spotify.com/artist/3Ky0xtfzwZFKcZ5Zs1U8tn) | [Fuiste Tu](https://open.spotify.com/album/13qausPX6sj70dDe4lugZ9) | 3:50 |
-| 49 | [La Chica de Humo](https://open.spotify.com/track/48LOg8Yk0glezVTk4xiAss) | [Los Siete Latinos](https://open.spotify.com/artist/5au5rwkZfDh9KsdtZGd860) | [Las Más Escuchadas de los Siete Latinos](https://open.spotify.com/album/6Lu5BXVMEhQNH7b8PtlGhz) | 4:05 |
+| 45 | [La Chica de Humo](https://open.spotify.com/track/48LOg8Yk0glezVTk4xiAss) | [Los Siete Latinos](https://open.spotify.com/artist/5au5rwkZfDh9KsdtZGd860) | [Las Más Escuchadas de los Siete Latinos](https://open.spotify.com/album/6Lu5BXVMEhQNH7b8PtlGhz) | 4:05 |
+| 46 | [Ya Me Enteré](https://open.spotify.com/track/4SAdpJMNj4JQanV3hD7JTn) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Ya Me Enteré](https://open.spotify.com/album/6A9vvGqlmgw8UZMnrzfxpb) | 2:38 |
+| 47 | [La Incondicional \- Version Cumbia](https://open.spotify.com/track/0AuHkLADfPOZ7OVkPaczoa) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Nicki Luis](https://open.spotify.com/artist/2mmVmtJNyml9x36wM2Br3D) | [La Incondicional \(Version Cumbia\)](https://open.spotify.com/album/5JYUEfb6wEMPL0Aixmjpkr) | 2:36 |
+| 48 | [Que No Quede Huella](https://open.spotify.com/track/130fvcSaaPEqqwVAvaHfQK) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Que No Quede Huella](https://open.spotify.com/album/2okjeW5I1Bsox3nHC8hXtb) | 3:49 |
+| 49 | [Fuiste Tu](https://open.spotify.com/track/0knrusP1Su928CMA9dMoIZ) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [La Sonora Gigante](https://open.spotify.com/artist/3Ky0xtfzwZFKcZ5Zs1U8tn) | [Fuiste Tu](https://open.spotify.com/album/13qausPX6sj70dDe4lugZ9) | 3:50 |
 | 50 | [Ya Me Enteré](https://open.spotify.com/track/4G79YmEkyEbAzo5NsDRhC4) | [Grupo Los Kiero de Edgar Zacary](https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF) | [Ya Me Enteré](https://open.spotify.com/album/7klSaA9WznpL3G4xvmLjPk) | 3:06 |
 | 51 | [El Pájaro Vio El Cielo y Se Voló](https://open.spotify.com/track/2aJcujrPc21lVka5bvV6n5) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [El Pájaro Vio El Cielo y Se Voló](https://open.spotify.com/album/5SWpyLFGaGUkL83v1i4Ysr) | 3:08 |
 | 52 | [Escapate Conmigo](https://open.spotify.com/track/6wklxdTR8NZGE0hsvQPKbV) | [Cumbias Para Bailar](https://open.spotify.com/artist/3RG133b54fN5qW6soMSN0Q) | [Escapate Conmigo](https://open.spotify.com/album/3YARinPkMU6eepOcuKnuEJ) | 2:19 |
 | 53 | [Felices los 4](https://open.spotify.com/track/1RXpYeI6ZhERfW4yWtYwno) | [Version Cumbia La Plata](https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv) | [Version Cumbia la Plata 2017](https://open.spotify.com/album/4uBqzE4puJZbntAjY3EWR2) | 3:00 |
 | 54 | [Mil Horas](https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Mil Horas](https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy) | 3:47 |
-| 55 | [Te Robare](https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP), [Megablock](https://open.spotify.com/artist/6Ppb2INRLdfhQFab7XNANw) | [Te Robaré](https://open.spotify.com/album/4art0k5sZUSkdS1aKaKJ5C) | 3:30 |
-| 56 | [Come As You Are](https://open.spotify.com/track/4HYoMVI4mBbMsfXStbTPYX) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Smells Like Cumbia](https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9) | 2:57 |
+| 55 | [Come As You Are](https://open.spotify.com/track/4HYoMVI4mBbMsfXStbTPYX) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Smells Like Cumbia](https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9) | 2:57 |
+| 56 | [Te Robare](https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP), [Megablock](https://open.spotify.com/artist/6Ppb2INRLdfhQFab7XNANw) | [Te Robaré](https://open.spotify.com/album/4art0k5sZUSkdS1aKaKJ5C) | 3:30 |
 | 57 | [Me Rehúso](https://open.spotify.com/track/4qgIw4wn24ZDVHSUs4a8J8) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Lemonchamp](https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T) | 2:07 |
 | 58 | [Otro Muerde el Polvo \(Another One Bites the Dust\)](https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 3:32 |
 | 59 | [Jurabas Tu](https://open.spotify.com/track/7avxvCxt3xnxmksUckksIr) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Jurabas Tu](https://open.spotify.com/album/6dhWNg8zugr2KLiqwcMwn1) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 74 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO) | [Musicalísimo Fuego Indio](https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN) | [Retro Con](https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt) | 3:25 |
 | 75 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
 
-Snapshot ID: `MCxkMGYyN2JiYmY5MDE5ODY2YzUyNjQyYWRiYWNhYTRlODdlOTQ5MTY5`
+Snapshot ID: `MCw4YzM0MDE5OWY0MTY0NGJlMWIyYjEzNjZlNGU0N2UzNDc3ODI3MjUw`

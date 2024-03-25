@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-163 songs - 10 hr 6 min
+164 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [La Manuela](https://open.spotify.com/track/3T5KzHZ6azcHvwyTabOgCg) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 1:59 | 2023-03-09 |  |
 | [La Mosquita Muerta](https://open.spotify.com/track/4c2zFtuFx2XeNLke7xFrgM) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 3:31 | 2023-03-09 |  |
 | [La Pasión Tiene Memoria](https://open.spotify.com/track/72bB7XLsKN2B6EzMzNJILE) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Desnuda](https://open.spotify.com/album/0x1njlKQdxOQD1HtcQsOd3) | 3:32 | 2023-03-09 |  |
+| [La Venganza](https://open.spotify.com/track/6b8rE8DorNNvfaEyBmcWlv) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Venganza](https://open.spotify.com/album/6jpC8oHw1UC0MZLQVdnQPN) | 2:50 | 2024-03-24 |  |
 | [Leyenda](https://open.spotify.com/track/4WD5qhphbuOYEBCAbhepUM) | [Patricia Manterola](https://open.spotify.com/artist/7qGVAYNNMun6Qf3jTkTGmf) | [Leyenda](https://open.spotify.com/album/69EwBY59m5ReVz9WXWGEol) | 3:36 | 2023-03-09 |  |
 | [Luna Nueva](https://open.spotify.com/track/0n2WdWPe5mGO8uUFfBJQ7h) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:04 | 2023-03-09 |  |
 | [Mal Negocio](https://open.spotify.com/track/029npo2kAVAA4wEBqXGUSb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:25 | 2023-03-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: (G)I-DLE) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 957728,
+  "num_followers": 957855,
   "original_name": "EQUAL K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWYxMjg1N2UyZDEwODEzZWZkMTBlOGQ2ZTFkOTgxODNiZGFlMDVm",
+  "snapshot_id": "MCwyMDU3ZTY1YzM1YTYyMjhiMjY0NWJjZDFkNmIwNmZjNmQyZTc2ZjI5",
   "tracks": [
     {
       "added_at": "2024-03-21 06:22:49",
@@ -723,8 +723,8 @@
     {
       "added_at": "2024-03-21 06:22:49",
       "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+        "name": "YES or YES",
+        "url": "https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 180320,
-      "name": "MOONLIGHT SUNRISE",
-      "url": "https://open.spotify.com/track/5IN9W6eUfk3014My9awagX"
+      "duration_ms": 237680,
+      "name": "YES or YES",
+      "url": "https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9"
     },
     {
       "added_at": "2024-03-21 06:22:49",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-03-21 06:22:49",
       "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/2Abu3BsKcVE3bSdXk6Cukx"
+      },
+      "artists": [
+        {
+          "name": "Kim NamJoo",
+          "url": "https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/2TAK1QNGElbN2fIy6UOu4J"
+    },
+    {
+      "added_at": "2024-03-21 06:22:49",
+      "album": {
         "name": "FLASH",
         "url": "https://open.spotify.com/album/3oEJDNtdlHeHJL2l0hAaTA"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 194453,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4"
-    },
-    {
-      "added_at": "2024-03-21 06:22:49",
-      "album": {
-        "name": "The day was beautiful",
-        "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 235392,
-      "name": "The day was beautiful",
-      "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
     }
   ],
   "unique_name": "EQUAL K-Pop",

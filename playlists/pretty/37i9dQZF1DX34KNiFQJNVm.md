@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Pereira com MC Daniel, Anitta, Mc IG e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921,138 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921,643 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 35 | [Concorrência](https://open.spotify.com/track/4zG5OH0xaYmB5M2uNV3tAO) | [Grupo Exquece](https://open.spotify.com/artist/4iiDKi0p3MmtlsEbUukukj), [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs) | [Concorrência](https://open.spotify.com/album/4fYbIaBnIo9Nqm8e7YZvp6) | 2:45 |
 | 36 | [Sustento](https://open.spotify.com/track/6PSkA8e5st6LiXShHkknxm) | [Arlindinho](https://open.spotify.com/artist/1rn3KQS1oYAHFdQbL5APYq), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Sustento](https://open.spotify.com/album/615CWewNh786Pi0w7m2Rlb) | 3:38 |
 | 37 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 |
-| 38 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 |
+| 38 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 |
 | 39 | [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 |
 | 40 | [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 |
 | 41 | [AGRIDOCE](https://open.spotify.com/track/5paz7s1c2X4P3sYAotEiPW) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE \(PARTE 1\)](https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn) | 3:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 74 | [Conselho de Bobo](https://open.spotify.com/track/6J29RYRBNiAJjXWgNCa7bf) | [Marcelinho De Lima](https://open.spotify.com/artist/7DRrTGEGV943S1FXmGfMsT) | [Conselho de Bobo](https://open.spotify.com/album/2FqfkdgijP6q8LE1z8goTN) | 2:58 |
 | 75 | [Suspiro](https://open.spotify.com/track/2yLWBGLSkMvbttYVO7BBWU) | [Almério](https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Suspiro](https://open.spotify.com/album/5HGRlYyad7meOnp93Q3aDQ) | 2:38 |
 
-Snapshot ID: `MCw1OWNkN2Q5MzY0MmU1MzE4MTFlN2YxZDcwYmNiZWZiZGU3NDIxOTlj`
+Snapshot ID: `MCw1YzY0ZmJiMWFhYWMxZmVlYmUwNjJhOTVlN2EyZWE5MjI1ODZhNzlk`

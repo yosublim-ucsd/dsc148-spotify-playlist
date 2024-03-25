@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 75810,
+  "2024-03-25": 75896,
   "date_first_scraped": "2022-05-26",
   "description": "Cool down with these chill beats",
   "name": "lofi cool down",
@@ -1899,7 +1899,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 134250,
       "name": "Fresh Breeze",
       "url": "https://open.spotify.com/track/3o1DqWwSOUp4GRvsYiB22N"
@@ -1925,6 +1925,24 @@
       "duration_ms": 130370,
       "name": "Gin",
       "url": "https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u"
+    },
+    {
+      "album": {
+        "name": "gloaming atmospheres",
+        "url": "https://open.spotify.com/album/08Q4qGs9OFRlryVRedjgeI"
+      },
+      "artists": [
+        {
+          "name": "Harry G's Beats",
+          "url": "https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149166,
+      "name": "gloaming atmospheres",
+      "url": "https://open.spotify.com/track/5D0r1uBb8jOBH4djqq6weE"
     },
     {
       "album": {
@@ -2599,6 +2617,24 @@
       "duration_ms": 168813,
       "name": "Ji-Eun's Sunset",
       "url": "https://open.spotify.com/track/0DvqAXyoA7zRB8wgH0DjRO"
+    },
+    {
+      "album": {
+        "name": "keep it rollin'",
+        "url": "https://open.spotify.com/album/3QuGLBlxAYYfhtp52kKH8H"
+      },
+      "artists": [
+        {
+          "name": "Cereal Party",
+          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "keep it rollin'",
+      "url": "https://open.spotify.com/track/3P1JkE4mXTXZyua1mIKBWf"
     },
     {
       "album": {
@@ -3355,7 +3391,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 163764,
       "name": "night.owls",
       "url": "https://open.spotify.com/track/2bFnRt6WKhNw4maKOxLyj3"
@@ -3427,7 +3463,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 184615,
       "name": "NightSky",
       "url": "https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV"
@@ -3647,6 +3683,24 @@
       "duration_ms": 123319,
       "name": "Pillow",
       "url": "https://open.spotify.com/track/5oCP76iSvjGdnMXJik0Cy3"
+    },
+    {
+      "album": {
+        "name": "pillow dreams",
+        "url": "https://open.spotify.com/album/5vaW6YNNd77zXYVrAAVTpL"
+      },
+      "artists": [
+        {
+          "name": "evelina mist",
+          "url": "https://open.spotify.com/artist/0AUIG5gLgUZhMGeCNBLfcr"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121967,
+      "name": "pillow dreams",
+      "url": "https://open.spotify.com/track/3VolXPYyNr222J89OHl8u0"
     },
     {
       "album": {
@@ -4090,6 +4144,24 @@
     },
     {
       "album": {
+        "name": "settling in",
+        "url": "https://open.spotify.com/album/6lUBBLyl2Hi1dXuuEqzTWH"
+      },
+      "artists": [
+        {
+          "name": "nora haze",
+          "url": "https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145203,
+      "name": "settling in",
+      "url": "https://open.spotify.com/track/14gPU8EWhOfT1QHweRwCvY"
+    },
+    {
+      "album": {
         "name": "Seven Hundred Fourteen \u4e03\u767e\u5341\u56db",
         "url": "https://open.spotify.com/album/1NUA3c1HKGNj9Bl5uWh7x7"
       },
@@ -4455,7 +4527,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 153549,
       "name": "Somewhere Else",
       "url": "https://open.spotify.com/track/5djyaDp1Antker31qnLCiv"

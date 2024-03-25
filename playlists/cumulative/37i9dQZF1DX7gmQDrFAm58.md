@@ -4,7 +4,7 @@
 
 > Sons para seu bebê dormir e relaxar / Sonidos para relajar a tu bebé
 
-415 songs - 12 hr 7 min
+417 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Bedside Lamp](https://open.spotify.com/track/3XSiZolukB6iiNITmWLKbK) | [Isabella Kent](https://open.spotify.com/artist/1GDviCQQnLpKaPdLBYkIgB) | [Bedside Lamp](https://open.spotify.com/album/6JxxZ2GZVyaUVRRXxuEsS7) | 1:15 | 2023-12-08 |  |
 | [Bedtime](https://open.spotify.com/track/2pTOkVFHOtcXvN9qxV1Q2K) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [My Best Friend](https://open.spotify.com/album/5oU1L1vPpJwwYRxVPw86gX) | 2:23 | 2023-12-08 |  |
 | [Bedtime Serenade](https://open.spotify.com/track/6dUV7BamznIH4XkQvhpqZh) | [Eijah Nilson](https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs) | [To The Moon And Back](https://open.spotify.com/album/7lSHuUiyH5oRdbmJ096zlz) | 1:55 | 2023-12-08 |  |
-| [Bedtime Stories](https://open.spotify.com/track/5bepHaIOiNwvZMrbd9PoSq) | [Alva Klarström](https://open.spotify.com/artist/50id9oYraGr4qm3XfTKMfO) | [Bedtime Stories](https://open.spotify.com/album/0jJALitDC5dHQYpMPIpbXj) | 1:48 | 2023-12-08 |  |
+| [Bedtime Stories](https://open.spotify.com/track/5bepHaIOiNwvZMrbd9PoSq) | [Alva Klarström](https://open.spotify.com/artist/50id9oYraGr4qm3XfTKMfO) | [Bedtime Stories](https://open.spotify.com/album/0jJALitDC5dHQYpMPIpbXj) | 1:48 | 2023-12-08 | 2024-03-25 |
 | [Bee & Boo's Lullaby](https://open.spotify.com/track/50BHMMVvZaVCQVnZ3n6JxQ) | [Leanne Haughey](https://open.spotify.com/artist/1ohrmBFOBxEUhhC7URdjap) | [Bee & Boo's Lullaby](https://open.spotify.com/album/6CoKj62iTUoFAWWvY4fF16) | 1:43 | 2024-01-05 |  |
 | [Before I Go To Sleep](https://open.spotify.com/track/5Y4ng1a6gsHCt55hDWIi9O) | [Kay Lozano](https://open.spotify.com/artist/4aneGgQXJW7ufSTcjHLXDw) | [Before I Go To Sleep](https://open.spotify.com/album/4RFKhar3rtwEXtKWGV44pi) | 1:20 | 2023-12-08 |  |
 | [Bella the Blue Whale](https://open.spotify.com/track/5K4TmtOxMSmxl3FIPfhnZD) | [Danielle Rogard](https://open.spotify.com/artist/7oH6mUa9mfdEz5EbouH8uu) | [Bella the Blue Whale](https://open.spotify.com/album/0P78U0tvLiM5wlVl7eAP2I) | 1:35 | 2023-12-08 |  |
@@ -84,7 +84,7 @@
 | [Daisy Bell](https://open.spotify.com/track/7xi61nBse03WExOIo8Wlxp) | [Ani Ander](https://open.spotify.com/artist/4tgweMpFuTmUl1mXLTgb4W) | [Daisy Bell](https://open.spotify.com/album/1vnzTXBCpj9y0Ndd5lX3PM) | 2:26 | 2023-12-08 |  |
 | [Danny Boy](https://open.spotify.com/track/4v4cmtWklW1EREUezxJJJk) | [Luca Spencer](https://open.spotify.com/artist/0hkJB3BXR3zHTu6JXW80zS) | [Danny Boy](https://open.spotify.com/album/1gaOnkyL1xZ42VizHM5tdb) | 1:46 | 2023-12-08 |  |
 | [Dark night, Sleep tight](https://open.spotify.com/track/5NQTqGE9upCz2B5cb8PFxy) | [Roly Lucian](https://open.spotify.com/artist/6lEfvybWRACgFS0gXlZbUM) | [Dark night, Sleep tight](https://open.spotify.com/album/47LuR7HVDs4kOuyodKhSNH) | 1:05 | 2023-12-08 |  |
-| [Dawn of Erithrian](https://open.spotify.com/track/1x1NDDOhAz0s7AcHBADNG0) | [Aiden Kendal](https://open.spotify.com/artist/4sYmi0xVWyHLgYA0ur7NYt) | [Dawn of Erithrian](https://open.spotify.com/album/6jjQRYUcnzJnYvRvLJVa2y) | 1:33 | 2023-12-08 |  |
+| [Dawn of Erithrian](https://open.spotify.com/track/1x1NDDOhAz0s7AcHBADNG0) | [Aiden Kendal](https://open.spotify.com/artist/4sYmi0xVWyHLgYA0ur7NYt) | [Dawn of Erithrian](https://open.spotify.com/album/6jjQRYUcnzJnYvRvLJVa2y) | 1:33 | 2023-12-08 | 2024-03-25 |
 | [Daydreaming](https://open.spotify.com/track/1VlnAbsdShC6D0Gnp6glBn) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Man In The Moon](https://open.spotify.com/album/2qvSAdDXgr3sk7gKy6m0cy) | 3:33 | 2023-12-08 |  |
 | [Dear friend](https://open.spotify.com/track/6OlAeouZ2LpqWm0xfIuIla) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [Dear friend](https://open.spotify.com/album/3xLQqYtb1EzWLigJTIjpI7) | 1:39 | 2023-12-08 |  |
 | [Deerling](https://open.spotify.com/track/31UeN68d7ptFRmYkiuMGPc) | [Angela Simone](https://open.spotify.com/artist/57tm8rfEJMqvodKLqeoJpW) | [Wonderous](https://open.spotify.com/album/3mOYLczPc895azDE6q21AB) | 2:26 | 2023-12-08 |  |
@@ -117,6 +117,7 @@
 | [Forever](https://open.spotify.com/track/0P5eOC4fHKzKpVg6oDU3JK) | [Dolores Finn](https://open.spotify.com/artist/3slQ6NWSfwYudvdPzV77QV) | [Forever](https://open.spotify.com/album/5rG6Ec9GClUCGNZHJqB9wh) | 3:45 | 2023-12-08 |  |
 | [Forty Winks](https://open.spotify.com/track/12hsUtXbw42EW5J31xlyWS) | [Layla Heighway](https://open.spotify.com/artist/49OhQZeKEzJ7lg9wy3r7XH) | [Forty Winks](https://open.spotify.com/album/02Nt429fqotbeN3OUb0xxr) | 1:30 | 2023-12-08 |  |
 | [Frances My Furry Friend](https://open.spotify.com/track/0w2QlM4SIRqCUfiwNOGPQ0) | [Joanna Carlton](https://open.spotify.com/artist/7dXo2q3715N1By7UKzdBkN) | [Frances My Furry Friend](https://open.spotify.com/album/4RsU57LZ5ncHr7DfxagMvd) | 1:56 | 2023-12-08 |  |
+| [Free Like A Bird](https://open.spotify.com/track/5isCRIO6O1YwJ0tDg2RRxM) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [Free Like A Bird](https://open.spotify.com/album/4gs7itVM92J52UHqILnbIJ) | 2:16 | 2024-03-22 |  |
 | [Frog On A Leaf](https://open.spotify.com/track/1ljnxWnU5FnfBGS7JNtRut) | [Anita Nightingale](https://open.spotify.com/artist/2k7EJjhofUBtbOosFYuiCQ) | [Frog On A Leaf](https://open.spotify.com/album/4NrH1RwY1aQWPxBMrqHxI5) | 1:05 | 2023-12-08 |  |
 | [From Head to Toe](https://open.spotify.com/track/6Qd9yQDg4SSaijJsJYk3dh) | [Bente Schultz](https://open.spotify.com/artist/0Ylc8FsQMFHOfc65S2ykPJ) | [From Head to Toe](https://open.spotify.com/album/6ySkCcqM4M8BCqJFSnmIoD) | 2:05 | 2023-12-08 |  |
 | [Fun Adventure](https://open.spotify.com/track/3LwAe77XnL0B49uC6jDVTh) | [Daisy Day](https://open.spotify.com/artist/2zqel9OQCR3eMNSOXMj0Mb) | [Fun Adventure](https://open.spotify.com/album/4r7cP73njueNrU9a95TVhT) | 2:26 | 2023-12-08 |  |
@@ -173,6 +174,7 @@
 | [If You´re Happy and You Know it](https://open.spotify.com/track/6ByGlcJpT4G6FlDgQvKhKp) | [Bella Wilkinsson](https://open.spotify.com/artist/5u3pk5iGYX6qKIIVcyohZp) | [If You´re Happy and You Know it](https://open.spotify.com/album/7MIC5ZCyu3Pf2B61Q7n48T) | 1:31 | 2023-12-08 |  |
 | [In Every Single Way](https://open.spotify.com/track/0sngOPuxK8Y39dKvJ8k6Ap) | [Natalie Gillman](https://open.spotify.com/artist/6d7LO8Ouv0KFEQ3VLwdeQ1) | [In Every Single Way](https://open.spotify.com/album/50HBZFTCWhJfjdJu2YtByu) | 1:40 | 2023-12-08 |  |
 | [In My Arms](https://open.spotify.com/track/7hbKBlNmTJDD1VG5jhThWZ) | [Jim Fauer](https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG) | [Hush Little Baby](https://open.spotify.com/album/6HbLEgO2wXiT0fqxAh7Ohd) | 1:34 | 2023-12-08 |  |
+| [Isolde’s dream](https://open.spotify.com/track/3EbKqMFaqKVt1pSgper4xm) | [Juno Erikson](https://open.spotify.com/artist/7I6yDSz0uj0fzj28dGELNC) | [Isolde’s dream](https://open.spotify.com/album/7fybKYONWHdx5KLUViY3oQ) | 1:29 | 2024-03-22 |  |
 | [It's a Small World](https://open.spotify.com/track/5r33lzWTF5mUOaL0ydVdVG) | [Callum Waterford](https://open.spotify.com/artist/6TdZZLY5iTYyvZfPbGkame) | [It's a Small World](https://open.spotify.com/album/3CKHyzgaKJilIAS8l3458l) | 1:35 | 2023-12-08 |  |
 | [Itsy bitsy spider](https://open.spotify.com/track/1oMUYmXy85ZOQGZ2fylBiN) | [Mingmei Hsueh](https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq) | [Lullabies](https://open.spotify.com/album/6v9K3CTqFHLK5SMavLKn5U) | 1:22 | 2023-12-08 |  |
 | [Jabberwocky](https://open.spotify.com/track/3gtSkSSSZj6hgdWkS8dFkg) | [Tinnie Ramone](https://open.spotify.com/artist/69VAc4NZE3mNUtPVw3GHCA) | [Jabberwocky](https://open.spotify.com/album/7zchITsKU6EayGSZOSD5Qf) | 1:42 | 2023-12-08 |  |

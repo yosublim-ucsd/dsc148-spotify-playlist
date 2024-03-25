@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Mirella, Mc Gabzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,708 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,744 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 49 | [Surtada](https://open.spotify.com/track/3gZXNwLzMQdlpDsfHC9PPz) | [CARTE](https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89), [Dona Lanôr](https://open.spotify.com/artist/78D1YLx2ttGLPXOLCceWMP) | [Surtada](https://open.spotify.com/album/3NYNo4VJJXOSpKMh0AAjMN) | 2:23 |
 | 50 | [Tom de Pele](https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2) | [Tom de Pele](https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY) | 2:45 |
 
-Snapshot ID: `MCwyN2I0NWVhZTlhZjU5YWRhZGVmNmZiZWMzNTdjMzcyYTdiZDk4NGE4`
+Snapshot ID: `MCwzNmRmNmFlOWRiZWRkNzdiNTJiNjRhM2E4NjFiYzdmMzQxZmQ0NzMx`

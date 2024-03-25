@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 2199105,
+  "2024-03-25": 2199332,
   "date_first_scraped": "2019-05-26",
   "description": "The original chill instrumental beats playlist.",
   "name": "Jazz Vibes",
@@ -29515,6 +29515,28 @@
       "duration_ms": 201626,
       "name": "Hidden Voice",
       "url": "https://open.spotify.com/track/77YuaYwDFxt5Cqce7ygYtg"
+    },
+    {
+      "album": {
+        "name": "Playing Outside EP",
+        "url": "https://open.spotify.com/album/5Oh0xLPbFAh5uVIm330Wf9"
+      },
+      "artists": [
+        {
+          "name": "C4C",
+          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
+        },
+        {
+          "name": "Youthology",
+          "url": "https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166374,
+      "name": "Hide and Seek",
+      "url": "https://open.spotify.com/track/6xjE7ITglQMlZKyLQhNjKz"
     },
     {
       "album": {
@@ -62241,7 +62263,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 158481,
       "name": "Sixty Six",
       "url": "https://open.spotify.com/track/6oTm695WmLz5L5jxa6O0vJ"

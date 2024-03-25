@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 70846,
+  "2024-03-25": 70844,
   "date_first_scraped": "2022-04-16",
   "description": "Your daily update of the most viral tracks right now - Chile.",
   "name": "Viral 50 - Chile",
@@ -411,6 +411,28 @@
       "duration_ms": 266727,
       "name": "3 D\u00edas - Remix",
       "url": "https://open.spotify.com/track/0wSL1Z7ubNgzxxa0kauDjL"
+    },
+    {
+      "album": {
+        "name": "30 Grados",
+        "url": "https://open.spotify.com/album/1gH4rdxJyj8q8fakRAvQHg"
+      },
+      "artists": [
+        {
+          "name": "El Turko",
+          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
+        },
+        {
+          "name": "Mandale Flow",
+          "url": "https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151441,
+      "name": "30 GRADOS",
+      "url": "https://open.spotify.com/track/0GVPemmAwkXhFlYimhdDr3"
     },
     {
       "album": {
@@ -3037,7 +3059,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
@@ -7961,7 +7983,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 173785,
       "name": "Daytona",
       "url": "https://open.spotify.com/track/2kvpHbQHp9QmcG9WhyLwco"
@@ -28887,7 +28909,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 292909,
       "name": "SATIROS",
       "url": "https://open.spotify.com/track/4yvTAGLY2MnZDTo7tFkkmu"
@@ -30250,6 +30272,24 @@
     },
     {
       "album": {
+        "name": "Smart (Remixes)",
+        "url": "https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166384,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
+    },
+    {
+      "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
       },
@@ -30261,7 +30301,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 166384,
       "name": "Smart",
       "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
@@ -31961,6 +32001,24 @@
       "duration_ms": 110053,
       "name": "Te Miro la Cara y Me Da Sed",
       "url": "https://open.spotify.com/track/11fJouJwR4m6A48CC40qHi"
+    },
+    {
+      "album": {
+        "name": "Te Pertenezco",
+        "url": "https://open.spotify.com/album/0kxLuBRfXnyLNuyJLRhSiM"
+      },
+      "artists": [
+        {
+          "name": "Ambra Angiolini",
+          "url": "https://open.spotify.com/artist/4tXAwRjj2QRMsEImebS2vG"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Te Pertenezco",
+      "url": "https://open.spotify.com/track/1fP2hJ8xNFP53nKHTNr9AI"
     },
     {
       "album": {
@@ -36437,7 +36495,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 208133,
       "name": "X'CLUSIVO - REMIX",
       "url": "https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p"

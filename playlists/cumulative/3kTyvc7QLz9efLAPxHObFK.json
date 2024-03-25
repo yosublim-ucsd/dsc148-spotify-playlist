@@ -7877,6 +7877,24 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5IYtVh4tZSH6kjY1FLdMAd"
+      },
+      "artists": [
+        {
+          "name": "Sghenny",
+          "url": "https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148059,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/540O477K9lmsOHCf5r2c6e"
+    },
+    {
+      "album": {
         "name": "Force Of Will",
         "url": "https://open.spotify.com/album/6SuMWuLyuBbZmgArJRtcP6"
       },

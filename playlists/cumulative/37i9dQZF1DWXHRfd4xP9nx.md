@@ -4,7 +4,7 @@
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-332 songs - 15 hr 34 min
+333 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Aint No Sunshine When There's Rain](https://open.spotify.com/track/6SZvCnStgcYX3Rlj5ttODW) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [London Days](https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq) | 3:12 | 2022-10-27 |  |
 | [Always Raining](https://open.spotify.com/track/0WpKvgOUCpKowejZgeO5W0) | [Tono](https://open.spotify.com/artist/4TBU1LUldUubb3RaqmLLN7) | [Always Raining](https://open.spotify.com/album/5CAI53hmKfuMEiDuWIUg2F) | 3:36 | 2023-12-20 |  |
 | [Ambience: Forest Rain](https://open.spotify.com/track/4qeovMaYuZLdxH8SFS5GLm) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Ambience: Forest Rain](https://open.spotify.com/album/02VU8nz7IrQdiheKviqRL9) | 2:48 | 2022-10-27 | 2023-12-21 |
-| [August Rain](https://open.spotify.com/track/5h12gkfNl3Sh3tEsQNYjnb) | [Pacific Soundscapes](https://open.spotify.com/artist/7lfs7TkGNBX0j3VO4pK70s) | [August Rain](https://open.spotify.com/album/1Lu6iBVPYzH4JM54UBpJk5) | 2:50 | 2024-03-21 |  |
+| [August Rain](https://open.spotify.com/track/5h12gkfNl3Sh3tEsQNYjnb) | [Pacific Soundscapes](https://open.spotify.com/artist/7lfs7TkGNBX0j3VO4pK70s) | [August Rain](https://open.spotify.com/album/1Lu6iBVPYzH4JM54UBpJk5) | 2:50 | 2024-03-21 | 2024-03-25 |
 | [Backyard Drops](https://open.spotify.com/track/7kLuFSEW5zwkIG3UJTv1Oz) | [The Rainy Jungle](https://open.spotify.com/artist/4iBwOwjKNuOB8vlwQ3EAKC) | [Backyard Drops](https://open.spotify.com/album/04N16a2eIMoSJuVUTrnZtZ) | 2:24 | 2023-12-20 |  |
 | [Backyard Rains](https://open.spotify.com/track/5v6qXVmMn68GxCPF9XGZVH) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Relaxing Rainstorms](https://open.spotify.com/album/3jg3BUq18aQaSGD07MQxOa) | 2:31 | 2022-10-27 |  |
 | [Bajo el paraguas](https://open.spotify.com/track/03LAJ7B7jCiLthiT3higCE) | [Weather Modifier](https://open.spotify.com/artist/3K7OgYrxkpevhaJugrGYSN) | [Bajo el paraguas](https://open.spotify.com/album/3Ic7NfvpRKX8lpksj0pqiQ) | 2:03 | 2023-12-20 |  |
@@ -302,6 +302,7 @@
 | [Steady Rural Rain](https://open.spotify.com/track/2M9dMZm19VVwBpJyi2vbSl) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Mind Calming Rainstorms](https://open.spotify.com/album/3Qx3DrWXvBGpnzxHoJqH9k) | 3:01 | 2023-12-20 |  |
 | [Stetiger Regen](https://open.spotify.com/track/3vwZ7YcQ24GtvvuWQTRcXO) | [Die ganze Nacht](https://open.spotify.com/artist/1OcoltzN3WhJYzAoAtf0Xl) | [Regen die ganze Nacht](https://open.spotify.com/album/1lzDK9FfV0KxJgAbOvYm1s) | 2:11 | 2022-10-27 |  |
 | [Stormy Road](https://open.spotify.com/track/5LOUGQmqx2GCTUt0oaQcFc) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Countryside Storm](https://open.spotify.com/album/3sQS3qy5lYAOuzuBoxw2eY) | 3:28 | 2022-10-27 |  |
+| [Stratiform](https://open.spotify.com/track/1a1j4XJ0X3aufKhrcjmBbX) | [Hydrometry](https://open.spotify.com/artist/6zyjNEfUOGjqpWNy4ZXt5Z) | [Stratiform](https://open.spotify.com/album/28cSMWlIc6gkITXtBLCfrd) | 2:16 | 2024-03-21 |  |
 | [Strawberry Rain](https://open.spotify.com/track/06EYu330c8GVTs3fDGJ0pD) | [DreamDrops](https://open.spotify.com/artist/20XfshUALsTbm05gj6Ea5M) | [Strawberry Rain](https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1) | 3:32 | 2023-12-20 |  |
 | [Sturm am Abend](https://open.spotify.com/track/6YgWoAIFPLjOiSo0iilhdA) | [Stormy Zeus](https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r) | [Sturm am Abend](https://open.spotify.com/album/0FkSeQJQw7teDYQyOROUDl) | 2:21 | 2023-12-20 |  |
 | [Sturm und Donner](https://open.spotify.com/track/0GdhZriQakFwHQZTrgoWKd) | [Superystorm](https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4) | [Wilder Regen](https://open.spotify.com/album/0cNgvFON65mdd39nfornb9) | 2:56 | 2023-12-20 |  |

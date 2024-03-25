@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,463 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,481 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,17 +22,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 12 | [Medley De La Calle San Sebastian](https://open.spotify.com/track/2TuyfsOZ7hwxI2Hfv84MPz) | [Plena Libre](https://open.spotify.com/artist/7jZRvnCRPh2cJZ4DW5WrD9) | [Estamos Gozando](https://open.spotify.com/album/3U8wcmgDMXJeLGiu6ikRsZ) | 6:21 |
 | 13 | [Bomba para Afincar](https://open.spotify.com/track/3QyIqnidIGIQYUatcIZ7Or) | [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO) | [Otro Formato de Música](https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD) | 3:34 |
 | 14 | [Yerba Bruja](https://open.spotify.com/track/5FssMqu4T5DOip6W4kdUWS) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX) | 4:17 |
-| 15 | [El Tumbe](https://open.spotify.com/track/0sq6x0JCaqJylE0yGQXCoH) | [Plena Combativa](https://open.spotify.com/artist/3JBCcEZu6NeT0CxMAiBG4d) | [Plena Combativa](https://open.spotify.com/album/0hueG0Ly9bLV4qkJQ43iuD) | 4:59 |
-| 16 | [Candela](https://open.spotify.com/track/7MSYsu14IUjgJ555rKPoTv) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 2:43 |
-| 17 | [Bombale](https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5) | [Bomba & Plena](https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB) | [Pal' Mundo](https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH) | 3:49 |
+| 15 | [Bombale](https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5) | [Bomba & Plena](https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB) | [Pal' Mundo](https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH) | 3:49 |
+| 16 | [El Tumbe](https://open.spotify.com/track/0sq6x0JCaqJylE0yGQXCoH) | [Plena Combativa](https://open.spotify.com/artist/3JBCcEZu6NeT0CxMAiBG4d) | [Plena Combativa](https://open.spotify.com/album/0hueG0Ly9bLV4qkJQ43iuD) | 4:59 |
+| 17 | [Candela](https://open.spotify.com/track/7MSYsu14IUjgJ555rKPoTv) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 2:43 |
 | 18 | [Mi Maria Luisa](https://open.spotify.com/track/1wvm0RlbYsW3FZWtmnHg2c) | [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO) | [Otro Formato de Música](https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD) | 4:49 |
 | 19 | [El Hijo de Boriken](https://open.spotify.com/track/0Yrhhd8QFsVNvukduMMH0X) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Betances Suena Asi \(\#Bandasonoraelantillano\)](https://open.spotify.com/album/0f0dDxJkIezZTNqcC235aB) | 5:32 |
 | 20 | [El Conde De Loiza](https://open.spotify.com/track/5Pt8ozofQZg1dVdLSvWO4R) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 2:15 |
 | 21 | [Campo](https://open.spotify.com/track/15HmdlLczXj5jlqUlmUNS8) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy), [Cojunto Melodia](https://open.spotify.com/artist/0Pc2l1icFRWh3iI9uPoudM) | [Puerto Rico, Puerto Rico Mi Tierra Natal](https://open.spotify.com/album/28nERzqmaa2n4hve9UxlnQ) | 4:58 |
 | 22 | [Inyere](https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe) | [Yuba Ire](https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr) | [¡Ya está! ¡Se formó!](https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR) | 3:09 |
-| 23 | [Ola de la Mar](https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8) | [Félix Alduén](https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9) | [Candela!](https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1) | 4:20 |
-| 24 | [Palo'e bandera](https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:14 |
-| 25 | [Bomba y Plena](https://open.spotify.com/track/2yyFQflmCZXog3ZDJ33hNc) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 3:56 |
+| 23 | [Bomba y Plena](https://open.spotify.com/track/2yyFQflmCZXog3ZDJ33hNc) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 3:56 |
+| 24 | [Ola de la Mar](https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8) | [Félix Alduén](https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9) | [Candela!](https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1) | 4:20 |
+| 25 | [Palo'e bandera](https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:14 |
 | 26 | [Meli Ton Ton Be](https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:37 |
 | 27 | [Afro Boricua](https://open.spotify.com/track/7feVDHYgNORokGJQqLgytd) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 5:38 |
 | 28 | [A La Buena Sí](https://open.spotify.com/track/1wbjlLVtfqlX6jyCpRbwdH) | [Chamir Bonano](https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0) | [A La Buena Sí](https://open.spotify.com/album/3ZT00YYCEhmE1eTi5LVwqT) | 2:54 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 43 | [Timba Timbo](https://open.spotify.com/track/6zTWnfEH3I7LZaMZTqSUYA) | [Plena Adentro](https://open.spotify.com/artist/1Plz2KFX2pg7ctp6OWjQIg) | [Rompecabezas](https://open.spotify.com/album/5WOxmuWOvEtqfdovqzngsp) | 3:08 |
 | 44 | [Sirenas, Sangueo y San Millán](https://open.spotify.com/track/1Jx54hvwf8rtDb1VmzfFBh) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 5:50 |
 | 45 | [Si te preguntaran](https://open.spotify.com/track/4NbNwSJakq5ArlNsQwdqZQ) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:45 |
-| 46 | [Plena De San Anton](https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy) | [Somos Boricuas: Bomba Y Plena En Nueva York](https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB) | 3:43 |
-| 47 | [La Marejá de los Muertos](https://open.spotify.com/track/0bObIC8XTOqsOdEoo7A3ys) | [Viento De Agua](https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE) | [Opus IV](https://open.spotify.com/album/5RD5NmumoA8pStfZpQcHb7) | 5:10 |
-| 48 | [La Novia Nueva](https://open.spotify.com/track/5Vupj8e4AJaAhRiJaZaEmU) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Soy Yo](https://open.spotify.com/album/7nUSFQ1J57De7mOlgMB7nW) | 4:32 |
-| 49 | [Madame Calalú](https://open.spotify.com/track/7rgzOhmb0GFWDgAOqhk8ah) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy) | [Para Todos Ustedes](https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5) | 3:43 |
+| 46 | [La Novia Nueva](https://open.spotify.com/track/5Vupj8e4AJaAhRiJaZaEmU) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Soy Yo](https://open.spotify.com/album/7nUSFQ1J57De7mOlgMB7nW) | 4:32 |
+| 47 | [Madame Calalú](https://open.spotify.com/track/7rgzOhmb0GFWDgAOqhk8ah) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy) | [Para Todos Ustedes](https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5) | 3:43 |
+| 48 | [La Marejá de los Muertos](https://open.spotify.com/track/0bObIC8XTOqsOdEoo7A3ys) | [Viento De Agua](https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE) | [Opus IV](https://open.spotify.com/album/5RD5NmumoA8pStfZpQcHb7) | 5:10 |
+| 49 | [Plena De San Anton](https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy) | [Somos Boricuas: Bomba Y Plena En Nueva York](https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB) | 3:43 |
 | 50 | [Plenazo Callejero 1](https://open.spotify.com/track/2sKuQbRejG9hxdDfPXVJ0Y) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Distinto Y Diferente](https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W) | 5:31 |
 
-Snapshot ID: `MCwyZmFiZWVjNGMzMDc0YmQxNjM3ZTI1YzQ1MWVkYzRhYzRkOGJhNDU3`
+Snapshot ID: `MCxiZDk4Mzg4M2E3NjU5ODM2ZDAwZThhZTVhYTgwNWEyOGY2ZDJiYWM1`

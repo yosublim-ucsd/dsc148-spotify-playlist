@@ -546,10 +546,28 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 193733,
       "name": "Favorite Peeps",
       "url": "https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ"
+    },
+    {
+      "album": {
+        "name": "Ghar - Single",
+        "url": "https://open.spotify.com/album/1IWgxOEkVLc5EztYFzkIXZ"
+      },
+      "artists": [
+        {
+          "name": "Bharat Chauhan",
+          "url": "https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Ghar",
+      "url": "https://open.spotify.com/track/3zZ4VnqnGURgm5fYRLy4JV"
     },
     {
       "album": {

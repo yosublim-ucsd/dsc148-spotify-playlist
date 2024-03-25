@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-558 songs - 1 day 11 hr 28 min
+560 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [All The Things You Are](https://open.spotify.com/track/2VsKgS4OlZ7DvfRUqDGFhg) | [David Fitzpatrick Trio](https://open.spotify.com/artist/4enAEqBK3yfMjEWDBjtat3) | [Standards Volume 1](https://open.spotify.com/album/0jnrF5LE85YLF87HCDaea0) | 2:28 | 2020-10-20\* | 2021-01-21 |
 | [All The Things You Are](https://open.spotify.com/track/11Bap5k9jpMjBbqQA9gSez) | [Leslie North](https://open.spotify.com/artist/5szgdDciMINkEQk9KbWkGj) | [My Favorite Things](https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R) | 3:12 | 2020-10-20\* | 2021-01-21 |
 | [All Your Love](https://open.spotify.com/track/5yeAueY8i94ZgDhYrrtqAy) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [All Your Love](https://open.spotify.com/album/1ue4TwX3fJ4SoaD9BuXaID) | 2:44 | 2024-03-08 |  |
+| [Almost Home](https://open.spotify.com/track/6o2FVcJk7m0eY4AYIuf2hK) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Almost Home](https://open.spotify.com/album/3YxHVhhbU5dIUmkIiXwKQc) | 2:38 | 2024-03-22 |  |
 | [Almost Like Being in Love](https://open.spotify.com/track/4kJiHS82dfbCtJUbZjp0kL) | [110th Street Jazz Trio](https://open.spotify.com/artist/2iTyqgOU23gOA8FmtoqZhl) | [All Alone](https://open.spotify.com/album/5IULrSSu2oXE0tI1vQvDZY) | 4:53 | 2020-10-20\* | 2020-11-05 |
 | [Alone Together](https://open.spotify.com/track/699oSU2O1DFNj7TLHXONll) | [Ollie Reiss Trio](https://open.spotify.com/artist/5wzTGmtiNrS8PsSpkPac9D) | [Alone Together](https://open.spotify.com/album/1MIIX2y8kcImWXeypeevlv) | 3:52 | 2020-10-20\* | 2020-12-09 |
 | [Always a Lady](https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:03 | 2023-02-23 |  |
@@ -54,7 +55,7 @@
 | [As Time Goes By](https://open.spotify.com/track/2FgLhm6EwB0Ix8XLHABFkC) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [As Time Goes By](https://open.spotify.com/album/43blKT5tNQotndvCtQGMhg) | 4:10 | 2022-09-29 | 2023-02-17 |
 | [As Times Goes By](https://open.spotify.com/track/3S7gPyRE9cjd5IXCh1WAWK) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Standard Collections Vol\. 1](https://open.spotify.com/album/0Z3WWNniSo85Zutv5lelLF) | 7:18 | 2021-02-14 | 2024-03-24 |
 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 | 2021-01-21 |  |
-| [Ask Me Again](https://open.spotify.com/track/6e47Pg5J7YtKJwGyvoDQjd) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Ask Me Again](https://open.spotify.com/album/0FuL5flOIZiQjYWEyPh6r4) | 4:10 | 2020-10-20\* |  |
+| [Ask Me Again](https://open.spotify.com/track/6e47Pg5J7YtKJwGyvoDQjd) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Ask Me Again](https://open.spotify.com/album/0FuL5flOIZiQjYWEyPh6r4) | 4:10 | 2020-10-20\* | 2024-03-25 |
 | [Ask Me Now](https://open.spotify.com/track/04ICJKheRrWvKTXcQQN8FM) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Ask Me Now](https://open.spotify.com/album/2M7mD8tcjef75sXOfQg2Q4) | 4:41 | 2023-11-17 |  |
 | [Asleep/Awake](https://open.spotify.com/track/4BqS4zhSeORs7b3OnyVkxs) | [South On South Jazz Trio](https://open.spotify.com/artist/2S3UDGktnF1yMyPODluKqM) | [Asleep/Awake](https://open.spotify.com/album/15OGxyH4CRFWlLcALvCBGG) | 2:40 | 2021-02-11 | 2024-03-24 |
 | [Att angöra en brygga](https://open.spotify.com/track/09sDx67modID6sTeMZIJNt) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [Songs by the bay](https://open.spotify.com/album/1dhYnd1atGKlPshAx7n4Kg) | 3:36 | 2020-10-20\* | 2021-01-21 |
@@ -243,7 +244,7 @@
 | [In the Mood for Romance](https://open.spotify.com/track/3hGuzdYTPih41oH3L2m1fu) | [Sidney Hatfield Trio](https://open.spotify.com/artist/6H3KpzoFcsyiizhxJDboDB) | [In the Mood for Romance](https://open.spotify.com/album/51WtIwzbjyyTsiGXwdiwUR) | 3:39 | 2023-12-22 |  |
 | [In the Rain](https://open.spotify.com/track/3cT3PwSMVB7wKkeiLvfYez) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [In the Rain](https://open.spotify.com/album/5Oa3uJhlz8F0wjNe41IvPX) | 3:58 | 2023-08-10 |  |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/6GqdOl9kasXJdzfcUboF1a) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/7cxKG7mTCE6hmI3t1SsJvk) | 4:30 | 2020-10-20\* | 2024-01-19 |
-| [In Thoughtful](https://open.spotify.com/track/4xaWsmSgkCOXOaxEF0ofjy) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [Newselves](https://open.spotify.com/album/3HJTUfUEzmkCHyGqSPEf24) | 4:02 | 2020-10-20\* |  |
+| [In Thoughtful](https://open.spotify.com/track/4xaWsmSgkCOXOaxEF0ofjy) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [Newselves](https://open.spotify.com/album/3HJTUfUEzmkCHyGqSPEf24) | 4:02 | 2020-10-20\* | 2024-03-25 |
 | [In Your Arms](https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [In Your Arms](https://open.spotify.com/album/7vkvgxXf1y12Y3eejsMU49) | 3:33 | 2023-12-08 |  |
 | [Infant Eyes](https://open.spotify.com/track/4PEO2xAMctCKn1D7ocUR8S) | [Alexis Cohen](https://open.spotify.com/artist/6oEEfYQspfp3tgt5X20ok1) | [It Might as Well Be Spring](https://open.spotify.com/album/5QhyU13nEI1rWgjXfuQEmW) | 4:33 | 2020-10-20\* |  |
 | [Isfahan](https://open.spotify.com/track/3qHkojTMHvL6CduADwqsLk) | [Francis Frost Duo](https://open.spotify.com/artist/5fDbSIxXEyyfVMYMq3fIur) | [Isfahan](https://open.spotify.com/album/6c2oXnuik7GmOD1TIRwyS2) | 4:08 | 2021-01-07 | 2022-09-03 |
@@ -463,6 +464,7 @@
 | [The First Step](https://open.spotify.com/track/2CFUoit9OLr6gHZ2WUz7P1) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [The First Step](https://open.spotify.com/album/0npCvOirIl3qBkbtpkAufa) | 3:02 | 2023-11-24 |  |
 | [The Fool That Fell For You](https://open.spotify.com/track/6I55pPROwwFjd5rPTwMHlH) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [The Fool That Fell For You](https://open.spotify.com/album/5uY11ROa2tDY8XYnD4cj2R) | 4:30 | 2023-08-17 |  |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2021-04-23 |  |
+| [The Lights](https://open.spotify.com/track/2UmLEYGqKbIjahx7v1EFIa) | [Anthony Hide Trio](https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av) | [The Lights](https://open.spotify.com/album/51rjVgDAsjL0BFbhnbo7a4) | 3:35 | 2024-03-22 |  |
 | [The Longing for You](https://open.spotify.com/track/2rqmp9sBeJyhJhpOuabjax) | [Bill Swindon](https://open.spotify.com/artist/7C4qb62TIDk7IbyMORyqTs) | [The Longing for You](https://open.spotify.com/album/6sUORQKRmdqINREz80FmA2) | 3:39 | 2020-10-20\* | 2020-12-09 |
 | [The Masquerade Is Over](https://open.spotify.com/track/3Sg76cvYesfYDtHcMQ2fxn) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [The Masquerade Is Over](https://open.spotify.com/album/0A7QiAU3NJBMHzlZliGrKp) | 4:05 | 2022-03-17 |  |
 | [The Masquerade Is Over](https://open.spotify.com/track/6ifkMfpjxGakTjtOWngjYw) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:59 | 2020-10-20\* | 2021-01-21 |

@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Black Spygo, C4 Pedro & Bruna Amado.
 
-355 songs - 21 hr 11 min
+356 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 | 2021-12-10 |  |
 | [AVÉ](https://open.spotify.com/track/6D9rsde59fT5cHjTqyWz6c) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [AVÉ](https://open.spotify.com/album/4Yqrh5FabMU4qXPf4161BA) | 2:52 | 2022-11-18 |  |
 | [Ayah](https://open.spotify.com/track/5LaVfWrjLovRtGzrzvJN9a) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj), [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Ayah](https://open.spotify.com/album/5QLgF0BFmcrhgIwDeNJemY) | 2:43 | 2023-03-30 |  |
+| [Babe](https://open.spotify.com/track/0yRWRVOjrrAvxOQ9ykRjM5) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Babe](https://open.spotify.com/album/2bkpENCLszFR5ZFu86zZEo) | 2:59 | 2024-03-15 |  |
 | [Bai](https://open.spotify.com/track/3ooG7GI5gSSROggAE2pnji) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Bai](https://open.spotify.com/album/76HqC9jwLHzsx5OEWFjQbK) | 3:23 | 2021-12-10 |  |
 | [Baile](https://open.spotify.com/track/20pd0IMbN7KC9y0FNOVQK0) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Baile](https://open.spotify.com/album/0aVJrJFseq4WFmCqAEWhZo) | 3:47 | 2022-03-25 | 2022-04-21 |
 | [Batom](https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Batom](https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7) | 3:32 | 2022-10-13 |  |
@@ -136,7 +137,7 @@
 | [Homem Que É Homem](https://open.spotify.com/track/5HEow9A4pAs7dle5zDXnfb) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Homem Que É Homem](https://open.spotify.com/album/0zs00lhtRYNtvzWDaC3NeQ) | 3:36 | 2024-03-15 |  |
 | [Homem Que É Homem](https://open.spotify.com/track/7KeFg6QHNBmANqLu3N0kYh) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Homem Que É Homem](https://open.spotify.com/album/3da7ZdV8PajvULvHWlVCYU) | 3:36 | 2021-12-10 | 2024-03-17 |
 | [If You Don't Know](https://open.spotify.com/track/6pYBjiuWk8coTvo3shvcWw) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Lisa Lopes](https://open.spotify.com/artist/4jZJ7wqkCF6ldDLzgWASKI) | [If You Don't Know](https://open.spotify.com/album/5dzWo4oakpXNQ6NOZOAjI7) | 3:15 | 2021-12-10 | 2022-07-21 |
-| [Infinito](https://open.spotify.com/track/2e3KTRfz4appswSpkawQid) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [INFINITO](https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3) | 3:19 | 2022-04-22 |  |
+| [Infinito](https://open.spotify.com/track/2e3KTRfz4appswSpkawQid) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [INFINITO](https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3) | 3:19 | 2022-04-22 | 2024-03-25 |
 | [Insistir Porquê \- Saxo\-Kizomba Remix](https://open.spotify.com/track/1T6FLxnygwAYRqBq02fZO0) | [P\. Lowe](https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa), [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Saxo\-Kizomba](https://open.spotify.com/artist/76LGsqPHM3DIvCD6mXgK5M) | [Insistir Porquê \(Saxo\-Kizomba Remix\)](https://open.spotify.com/album/6iXf5JCkr024vX0W8HpSwj) | 3:48 | 2021-12-10 | 2022-07-29 |
 | [Início do Fim](https://open.spotify.com/track/5HPczsgqYZb0Ux7v3JWXGT) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Início do Fim](https://open.spotify.com/album/7dqjUyl7pKYDWuqRHL1olI) | 3:11 | 2024-03-08 |  |
 | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I) | [Master Jake](https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX), [Eddy Flow](https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi) | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN) | 4:08 | 2021-12-10 |  |

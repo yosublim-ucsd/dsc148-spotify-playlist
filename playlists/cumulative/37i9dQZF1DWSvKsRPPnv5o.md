@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Saweetie
 
-728 songs - 1 day 9 hr 42 min
+729 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Blueprint](https://open.spotify.com/track/1t1OFWl4MpfiIJhZe1t6I4) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape 3](https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX) | 2:22 | 2023-09-01 | 2023-10-28 |
 | [Blueslides](https://open.spotify.com/track/7u1P36qRqrSNrXAp98cyp1) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 3:55 | 2024-03-08 |  |
 | [Bogus \(feat\. BlueBucksClan\)](https://open.spotify.com/track/1YF9HlEpL0cXLIewgQHdZt) | [Kyle Banks](https://open.spotify.com/artist/7fCkVWEYTo1f7hLsAyVaWE), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Bogus \(feat\. BlueBucksClan\)](https://open.spotify.com/album/6WwSmNmwiq8f1VKEor6hUz) | 3:19 | 2021-10-08 | 2022-02-12 |
-| [Boom Boom Not Boom Bap](https://open.spotify.com/track/4ga3ftDobCJ4JsTplnRHCP) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Hokage Simon](https://open.spotify.com/artist/3q3akfy0rGjfblBk4GvWKx), [Swaggy B](https://open.spotify.com/artist/4GPGkQeosIHeqqdx6upjdT) | [Boom Boom Not Boom Bap](https://open.spotify.com/album/3bNjCyeog7yUYkHIn0668L) | 1:44 | 2024-03-22 |  |
+| [Boom Boom Not Boom Bap](https://open.spotify.com/track/4ga3ftDobCJ4JsTplnRHCP) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Hokage Simon](https://open.spotify.com/artist/3q3akfy0rGjfblBk4GvWKx), [Swaggy B](https://open.spotify.com/artist/4GPGkQeosIHeqqdx6upjdT) | [Boom Boom Not Boom Bap](https://open.spotify.com/album/3bNjCyeog7yUYkHIn0668L) | 1:44 | 2024-03-22 | 2024-03-25 |
 | [booted](https://open.spotify.com/track/74RmSldi1mEwYY6mnHBHk6) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [booted](https://open.spotify.com/album/3k6sGgGBxqBV1THjRKgBtD) | 2:18 | 2023-10-06 | 2024-02-17 |
 | [Booty Dancer](https://open.spotify.com/track/4qdHoLbbIDaaWytfsBK62p) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Booty Dancer](https://open.spotify.com/album/5fG5ECAPTouiAMqHiIjHrP) | 2:20 | 2022-10-07 | 2022-11-12 |
 | [Bop Slide \(feat\. Blueface, OHGEESY & Maxo Kream\)](https://open.spotify.com/track/1H8ZNpGyZybtxzK5JgeFGc) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Bop Slide \(feat\. Blueface, OHGEESY & Maxo Kream\)](https://open.spotify.com/album/64OP2SCE7jhZP9h8T4GYgW) | 3:46 | 2023-03-03 | 2023-08-05 |
@@ -411,6 +411,7 @@
 | [Low Temp](https://open.spotify.com/track/3rsAFeBj4RrNyN5aZ8ECLz) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI) | [From Seed To Sale](https://open.spotify.com/album/4rSVFdP5rkYdeLDGWD4dMa) | 3:03 | 2022-10-28 | 2022-11-05 |
 | [LSG](https://open.spotify.com/track/1cPT4wyiE3w8VNfpHPEa0k) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs) | [LA Summers 3](https://open.spotify.com/album/64rtlOuiSsbSBJ3Qo1cdRA) | 2:57 | 2023-10-20 | 2023-11-04 |
 | [Lye](https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [SICK!](https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd) | 1:52 | 2022-01-14 | 2022-03-26 |
+| [Made For The Pole](https://open.spotify.com/track/3AJgqiWoralG9vlx0H3OI8) | [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Made For The Pole](https://open.spotify.com/album/1wPUoPKo90X0blW307lHLi) | 3:23 | 2024-03-24 |  |
 | [MAGIC](https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC](https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u) | 3:46 | 2022-02-18 | 2022-05-14 |
 | [Main Line](https://open.spotify.com/track/28tm5peRtid0jX6eYqGstU) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [BSG](https://open.spotify.com/album/0TI6jFxQXiuspIZuoB6dF3) | 3:40 | 2022-01-24 | 2022-02-26 |
 | [Mainline](https://open.spotify.com/track/5pdN5KBRpkowHngLmeBEDe) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt) | [Mainline](https://open.spotify.com/album/0dHJydcIeqGlNLBTuUQwEN) | 3:36 | 2022-02-25 | 2022-04-29 |

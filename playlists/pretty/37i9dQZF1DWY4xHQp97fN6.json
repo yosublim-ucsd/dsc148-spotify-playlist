@@ -1,12 +1,12 @@
 {
   "description": "Mood: Turnt",
-  "num_followers": 6693902,
+  "num_followers": 6694190,
   "original_name": "Get Turnt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmVhMmMwNzFmZjBjY2I3NTMwZTI1OTVlOWFlZDdiYzQ5MzMzNDQ1",
+  "snapshot_id": "MCw5NzZmZjk5YjhlOTgzODE3OGE0MjlkMjA4N2Y2MzYwMDViODMxNWEy",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -54,6 +54,14 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 228266,
@@ -158,6 +166,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
       "duration_ms": 169840,

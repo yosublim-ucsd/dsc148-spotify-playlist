@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235880,
+      "name": "Blues for Mama",
+      "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
+    },
+    {
+      "album": {
         "name": "Hooker",
         "url": "https://open.spotify.com/album/3QSRtkfas8Gr0vDByhFvkE"
       },
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 259760,
       "name": "Two Bugs and a Roach",
       "url": "https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw"

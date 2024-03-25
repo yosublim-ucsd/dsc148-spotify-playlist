@@ -144,7 +144,7 @@
 | [Floating Forest](https://open.spotify.com/track/6VnjI1HG4vrnkqf8BdCwN1) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Ancient Analogue](https://open.spotify.com/album/7M37zkkLECmNsbpSh0gWHR) | 3:51 | 2022-12-30 |  |
 | [Floating Time](https://open.spotify.com/track/5rSogWGLs158gr5NodSxDo) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Floating Time](https://open.spotify.com/album/3lcJGoXkij70Op2NhALEdm) | 2:50 | 2023-07-28 |  |
 | [Fresh Sky](https://open.spotify.com/track/20SlQNNjADqbjAfzlCL1xg) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Fresh Sky](https://open.spotify.com/album/2eXKhTlcj0iQO5CrUxpjDy) | 3:03 | 2024-01-17 | 2024-02-08 |
-| [Frozen In Time](https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP) | [Jin Eun\-Kyung](https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y) | [Obelus](https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b) | 3:23 | 2023-02-25 | 2024-03-23 |
+| [Frozen In Time](https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP) | [Jin Eun\-Kyung](https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y) | [Obelus](https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b) | 3:23 | 2023-02-25 |  |
 | [Further Into Something](https://open.spotify.com/track/21mLKJKteB3RL3t3NUM8Jw) | [Vilhelm Brandt](https://open.spotify.com/artist/4k5hcVGerX1LVQ79iXD52S) | [Nordic Calmness](https://open.spotify.com/album/0fQT7eDWuxAuw7IxcdHsnk) | 2:31 | 2022-01-12 | 2023-07-29 |
 | [Gamma Sinus 80 Hz \- 120 Hz](https://open.spotify.com/track/4uoKvNOS3juPZeI1rqvWmR) | [Delta Hz](https://open.spotify.com/artist/5DeI5zDGqIRRmW5o1TrYD0) | [Delta Hz](https://open.spotify.com/album/27AWjUaOfAFqukeJGgV119) | 3:24 | 2022-01-12 | 2023-04-22 |
 | [Gateway](https://open.spotify.com/track/6Js6EnpszmefcsVLQpai8R) | [Simon Sebastienne](https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG) | [Gateway](https://open.spotify.com/album/33d61WIwA3YlHAcW4sXVjl) | 2:51 | 2024-01-17 |  |
@@ -347,6 +347,6 @@
 | [Zenith](https://open.spotify.com/track/5ewt0YJYj6aDSurpOEdc9i) | [Midnight Mind](https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf) | [Zenith](https://open.spotify.com/album/63Jrpo23ArGvLOU0CnJykQ) | 3:01 | 2023-03-10 |  |
 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 | 2022-03-18 |  |
 | [Zolpidem in Sky](https://open.spotify.com/track/7BSpoY4Xf0UkOOIWGWxl2c) | [Dragon Wind](https://open.spotify.com/artist/282sN96UnlBm6hhQdpGHMG) | [Zolpidem in Sky](https://open.spotify.com/album/4wyDwEPKktarrOZK28hoJI) | 2:50 | 2024-01-17 |  |
-| [Σούρουπο](https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB) | [Hana Maldonado](https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK) | [Σούρουπο](https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb) | 3:37 | 2022-01-12 |  |
+| [Σούρουπο](https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB) | [Hana Maldonado](https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK) | [Σούρουπο](https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb) | 3:37 | 2022-01-12 | 2024-03-25 |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

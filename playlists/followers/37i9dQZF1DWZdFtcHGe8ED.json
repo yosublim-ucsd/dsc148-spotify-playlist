@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 542613,
+  "2024-03-25": 542753,
   "date_first_scraped": "2021-12-21",
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
   "name": "Thrashers",
@@ -2441,10 +2441,28 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 182573,
       "name": "Forever and Beyond Despair",
       "url": "https://open.spotify.com/track/06JTEv291uEs4VcUVcuy3S"
+    },
+    {
+      "album": {
+        "name": "Defectum Omnium",
+        "url": "https://open.spotify.com/album/6DdMUdrcN1y5IjJ6P71R7B"
+      },
+      "artists": [
+        {
+          "name": "Exhorder",
+          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182573,
+      "name": "Forever and Beyond Despair",
+      "url": "https://open.spotify.com/track/22wCXpyHaTQDM5odduUeIJ"
     },
     {
       "album": {

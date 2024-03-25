@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 31120,
+  "2024-03-25": 31142,
   "date_first_scraped": "2022-06-02",
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
   "name": "This Is Carlos Y Jose",
@@ -143,7 +143,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 129080,
       "name": "Betillo Araujo",
       "url": "https://open.spotify.com/track/3JrJ5eReaNEUrhdNLC7KAk"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 183706,
       "name": "Modesta Ayala",
       "url": "https://open.spotify.com/track/4StR1lNQoe9ngAUFjbi2dk"

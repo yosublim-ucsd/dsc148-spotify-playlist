@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 304001,
+  "num_followers": 304037,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmYwYTFkMjBmMjg5MDVjMTc1ZjNmYTQ3MWQ4OTkzNWFkZDZjODc1",
+  "snapshot_id": "MCwwOTBkYTNiYzY1ODY5ZTgzMDI3MDkyODM5NmVjZWIyZTc2NDhmZjYx",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -393,6 +393,22 @@
       "url": "https://open.spotify.com/track/2ngVZZGrIYAxyxaA2QcWTB"
     },
     {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 217149,
+      "name": "High",
+      "url": "https://open.spotify.com/track/3ZphrQX0N2mg16cwCYj7tM"
+    },
+    {
       "added_at": "2024-01-26 00:52:30",
       "album": {
         "name": "The Dream",
@@ -411,18 +427,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
+        "name": "Anak Ko",
+        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
       },
       "artists": [
         {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
         }
       ],
-      "duration_ms": 217149,
-      "name": "High",
-      "url": "https://open.spotify.com/track/3ZphrQX0N2mg16cwCYj7tM"
+      "duration_ms": 241097,
+      "name": "Tenderness",
+      "url": "https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -439,22 +455,6 @@
       "duration_ms": 180033,
       "name": "2016",
       "url": "https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Anak Ko",
-        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 241097,
-      "name": "Tenderness",
-      "url": "https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Morningside",
-        "url": "https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 240736,
-      "name": "Jennifer",
-      "url": "https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "French Movie",
         "url": "https://open.spotify.com/album/3hw3rAKNU6a22R3qxxMQip"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 199680,
       "name": "French Movie",
       "url": "https://open.spotify.com/track/0C2CSeNBBss4JSFG0xHy7z"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Morningside",
+        "url": "https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 240736,
+      "name": "Jennifer",
+      "url": "https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1009,22 +1009,6 @@
       "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
     },
     {
-      "added_at": "2024-02-21 11:35:46",
-      "album": {
-        "name": "baby's out of luck again",
-        "url": "https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs"
-      },
-      "artists": [
-        {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
-        }
-      ],
-      "duration_ms": 149443,
-      "name": "baby\u2019s out of luck again",
-      "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
-    },
-    {
       "added_at": "2024-01-26 00:52:30",
       "album": {
         "name": "Quite Like You",
@@ -1055,6 +1039,22 @@
       "duration_ms": 214137,
       "name": "27 Club",
       "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
+    },
+    {
+      "added_at": "2024-02-21 11:35:46",
+      "album": {
+        "name": "baby's out of luck again",
+        "url": "https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "baby\u2019s out of luck again",
+      "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Cellar",
-        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
-      },
-      "artists": [
-        {
-          "name": "Sea Lemon",
-          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
-        }
-      ],
-      "duration_ms": 245998,
-      "name": "Cellar",
-      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Stay And Rest For A While",
         "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 173259,
       "name": "Stay And Rest For A While",
       "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Cellar",
+        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
+      },
+      "artists": [
+        {
+          "name": "Sea Lemon",
+          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
+        }
+      ],
+      "duration_ms": 245998,
+      "name": "Cellar",
+      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1303,18 +1303,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "rest up",
-        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
       },
       "artists": [
         {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        },
+        {
+          "name": "Bat For Lashes",
+          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
         }
       ],
-      "duration_ms": 204464,
-      "name": "rest up",
-      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
+      "duration_ms": 340000,
+      "name": "Near",
+      "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
     }
   ],
   "unique_name": "Dreampop",

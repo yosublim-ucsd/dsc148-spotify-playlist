@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,486,032 likes - 80 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,486,078 likes - 80 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 22 | [Sinking Ship \- Instrumental](https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [A Kid From Yerevan \(Instrumental\)](https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ) | 2:44 |
 | 23 | [So They Say](https://open.spotify.com/track/0GSKfSgXpt1T8hbLk7ZMId) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Daybreaks](https://open.spotify.com/album/5qJ3nTrX2X0OvggMXsXPpd) | 2:18 |
 | 24 | [Napping](https://open.spotify.com/track/1E7VlV1Stul9E9UCasIPD7) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Napping](https://open.spotify.com/album/7jH1JHG94gRMNicnluBVT1) | 1:55 |
-| 25 | [Too Tired](https://open.spotify.com/track/30ksReCEcSpnfAm8XCC4G7) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Easy Feet](https://open.spotify.com/album/47PLWKaHsza5rCUmSw4Rqh) | 1:56 |
+| 25 | [Secret](https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Cadillac Mountain](https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul) | 1:43 |
 | 26 | [still in ....](https://open.spotify.com/track/3QZtoMYK4wJaLxXdtTEdrr) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [implosion](https://open.spotify.com/album/28gUQdla0Mu1xi3Y5UJWWv) | 3:22 |
-| 27 | [Secret](https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Cadillac Mountain](https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul) | 1:43 |
+| 27 | [Too Tired](https://open.spotify.com/track/30ksReCEcSpnfAm8XCC4G7) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Easy Feet](https://open.spotify.com/album/47PLWKaHsza5rCUmSw4Rqh) | 1:56 |
 | 28 | [oak](https://open.spotify.com/track/2GhvTizbLq8G138Mw9Fhdm) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [oak](https://open.spotify.com/album/2INwNrU7hvsLxjtrKo2UXg) | 2:10 |
 | 29 | [Superhero](https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:46 |
 | 30 | [Nature & Me](https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Vinyl And Me](https://open.spotify.com/album/6zqjZBp8aFKhHJF3QmhCPp) | 2:05 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 34 | [Love Vibe and Learn](https://open.spotify.com/track/5TdBSyit6udNnTqJhbgiFT) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Noflik \- Love Vibe and Learn](https://open.spotify.com/album/2ZJ7gLKBBlKmL0kgTWmPj3) | 2:12 |
 | 35 | [Good Evening](https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Boardwalk Bumps 3](https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts) | 2:01 |
 | 36 | [Mental Acupuncture](https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Mental Acupuncture](https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn) | 2:32 |
-| 37 | [UH OH](https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [UH OH](https://open.spotify.com/album/2DbeT39Hbj8CLOssoeQBZB) | 1:50 |
-| 38 | [Paddling pool](https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Paddling pool](https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ) | 2:47 |
-| 39 | [Viva la Vida](https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO) | [Savages](https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS) | [Life in the Wild Garden](https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb) | 1:35 |
+| 37 | [Viva la Vida](https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO) | [Savages](https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS) | [Life in the Wild Garden](https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb) | 1:35 |
+| 38 | [UH OH](https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [UH OH](https://open.spotify.com/album/2DbeT39Hbj8CLOssoeQBZB) | 1:50 |
+| 39 | [Paddling pool](https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Paddling pool](https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ) | 2:47 |
 | 40 | [Cargo Rhodes](https://open.spotify.com/track/0IDEOKzwG6towimLfr8DrX) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Orange](https://open.spotify.com/album/4tqNta7RhK5B5uhizhQ077) | 2:29 |
 | 41 | [Malibu](https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9) | [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul), [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Malibu](https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1) | 2:22 |
 | 42 | [Undercurrent](https://open.spotify.com/track/7vg8AtIAyXzJK1fKKK8CZO) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Whitecaps](https://open.spotify.com/album/5wVxz4mhomoVmStrjnt4F0) | 2:07 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 64 | [Restless Minds](https://open.spotify.com/track/6eMBHbovGi1RhRrViEtvaV) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Restless Minds](https://open.spotify.com/album/0WldfGjBHGC793Dr3AMwmP) | 2:09 |
 | 65 | [Whenever](https://open.spotify.com/track/4zH1IA6sy4kU4CXavEvOqi) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Whenever](https://open.spotify.com/album/1lQ6jOdtPJXrVAit9k7UzZ) | 2:00 |
 | 66 | [Sometimes \- Remix Instrumental](https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Jay Deelicious 95\-98 \- The Delicious Vinyl Years \(Originals, Remixes & Rarities\)](https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc) | 4:03 |
-| 67 | [Evening Drive](https://open.spotify.com/track/5lPlwvq6YORDItfF5xUb7j) | [Milo Who](https://open.spotify.com/artist/2AvtPNQ7qZnLcBxC6kPvZ6) | [Evening Drive](https://open.spotify.com/album/4ryZ34XY94W7KOS5nxLCsR) | 2:08 |
-| 68 | [Best Regards](https://open.spotify.com/track/5jJWPAn20sxi5UiHBLWEai) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:36 |
+| 67 | [Best Regards](https://open.spotify.com/track/5jJWPAn20sxi5UiHBLWEai) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:36 |
+| 68 | [Evening Drive](https://open.spotify.com/track/5lPlwvq6YORDItfF5xUb7j) | [Milo Who](https://open.spotify.com/artist/2AvtPNQ7qZnLcBxC6kPvZ6) | [Evening Drive](https://open.spotify.com/album/4ryZ34XY94W7KOS5nxLCsR) | 2:08 |
 | 69 | [Mixed Emotions](https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC) | [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [The Valley](https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS) | 2:46 |
 | 70 | [Bopatron](https://open.spotify.com/track/3VYPsUPZMaf6lYOFoYwoB6) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/2Ghoxbvga4VuaGzBTcEVHg) | 3:16 |
 | 71 | [Caffeine](https://open.spotify.com/track/4Yo8RVWFknM4TVEKG9UvGB) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Caffeine](https://open.spotify.com/album/2ecH0HoRUKmTvthO302pFd) | 1:28 |
-| 72 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 |
-| 73 | [Its Rainy](https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI) | [Eric Lau](https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n) | [Examples](https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD) | 2:08 |
-| 74 | [White Tea](https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ) | [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [White Tea](https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ) | 1:28 |
+| 72 | [Its Rainy](https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI) | [Eric Lau](https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n) | [Examples](https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD) | 2:08 |
+| 73 | [White Tea](https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ) | [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [White Tea](https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ) | 1:28 |
+| 74 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 |
 | 75 | [Tangerine Hues](https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P), [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77) | [Tangerine Hues](https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5) | 3:04 |
 | 76 | [Forever](https://open.spotify.com/track/53cGF33DzLDkkEd3miPsXb) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Forever](https://open.spotify.com/album/1usxVaF7JxC8feu6ppND24) | 1:14 |
 | 77 | [ginza](https://open.spotify.com/track/5vm51ZokW3p5Mc0WG015QD) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/5H7eKaI7Dj0Hv7U9X00yWt) | 2:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [piece of you](https://open.spotify.com/track/19L7jhJgZFKBq2nVVtPHAO) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [ripple room](https://open.spotify.com/album/1PKYM3W11OpTtq6bdlwoF8) | 2:49 |
 | 80 | [That's Just Me](https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P) | [That's Just Me](https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq) | 1:30 |
 
-Snapshot ID: `MCw4YzFjNTIyNjAxYmJlMzVkNjgxNTE4OThhMjMyYzQzMDE0YzIwOTU0`
+Snapshot ID: `MCxiM2U1MTE5YWJhMTg5YTFlNjNiMjk1ZmRlYzlmZTNjYzU4ZDIzYTFl`

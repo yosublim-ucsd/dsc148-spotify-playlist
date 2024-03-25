@@ -6,7 +6,7 @@
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "NDA2Niw0YWQ5YTBmYzJkZjY1MjhhMDFhYzA0YjU0ZGNmM2M2ZWY4NzkyOGI0",
+  "snapshot_id": "NDEwNiw3MGUzOGE2OGYyOGYzMjJhM2IxYjk5MmYxYjAxN2MwMmUzNDIzZmVj",
   "tracks": [
     {
       "added_at": "2024-03-08 19:27:05",
@@ -23,6 +23,74 @@
       "duration_ms": 180610,
       "name": "Mind Eraser",
       "url": "https://open.spotify.com/track/5QIPbGl0nRVoaLYrrbsNy5"
+    },
+    {
+      "added_at": "2024-03-24 15:40:49",
+      "album": {
+        "name": "Mik Jak",
+        "url": "https://open.spotify.com/album/433l4WD8ARq9fGTd5CiO3g"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Agostino",
+          "url": "https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Mik Jak",
+      "url": "https://open.spotify.com/track/0k0JC6kqbr0VXOuYwpaP8t"
+    },
+    {
+      "added_at": "2024-03-24 15:40:52",
+      "album": {
+        "name": "BUSTED",
+        "url": "https://open.spotify.com/album/68sWUPHuB7dnHKwG39Qxv9"
+      },
+      "artists": [
+        {
+          "name": "Jhojho",
+          "url": "https://open.spotify.com/artist/17a3EtrBd0MdaZ609KMIHR"
+        }
+      ],
+      "duration_ms": 344175,
+      "name": "BUSTED",
+      "url": "https://open.spotify.com/track/2tTDfmzFRufXl6ePmFvD51"
+    },
+    {
+      "added_at": "2024-03-24 15:40:57",
+      "album": {
+        "name": "MI.BARRIO VOL. I - Lucha Libre",
+        "url": "https://open.spotify.com/album/5oC1pXVWVbRpgKqEjtnYbd"
+      },
+      "artists": [
+        {
+          "name": "MI.BARRIO",
+          "url": "https://open.spotify.com/artist/0EbzxaJq1KS6ALwcoSiMu1"
+        },
+        {
+          "name": "Simon Ray",
+          "url": "https://open.spotify.com/artist/0Lv8Fe6PuOVjqAk7lUdlTU"
+        }
+      ],
+      "duration_ms": 198754,
+      "name": "Swinged",
+      "url": "https://open.spotify.com/track/7DRssGNUYjhpz1S8sCuReV"
+    },
+    {
+      "added_at": "2024-03-08 19:27:08",
+      "album": {
+        "name": "Mind Mirage",
+        "url": "https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 192113,
+      "name": "Fog Clear",
+      "url": "https://open.spotify.com/track/5yC9BZ9FaWuPOQmvzKm7b2"
     },
     {
       "added_at": "2024-03-10 16:18:10",
@@ -57,6 +125,54 @@
       "url": "https://open.spotify.com/track/0oa5iPL8Y9Vad48UA3AQJi"
     },
     {
+      "added_at": "2024-03-24 15:41:01",
+      "album": {
+        "name": "Ur Soul",
+        "url": "https://open.spotify.com/album/2neMSzeB6NODYQ65h6jrx9"
+      },
+      "artists": [
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "duration_ms": 209538,
+      "name": "Ur Soul",
+      "url": "https://open.spotify.com/track/6Wo1JXT5HBSDwbuMwXboh1"
+    },
+    {
+      "added_at": "2024-03-24 15:39:33",
+      "album": {
+        "name": "Last Ones",
+        "url": "https://open.spotify.com/album/4w2G9uZVP65BQcpN4k0rLn"
+      },
+      "artists": [
+        {
+          "name": "Aaron Klugg",
+          "url": "https://open.spotify.com/artist/2wmuwPAXRhL4Xi0cWis1zG"
+        }
+      ],
+      "duration_ms": 378750,
+      "name": "Last Ones",
+      "url": "https://open.spotify.com/track/1DLf5cSy5FMiILI0z9acya"
+    },
+    {
+      "added_at": "2023-06-30 04:57:30",
+      "album": {
+        "name": "Safety First",
+        "url": "https://open.spotify.com/album/7gaahTlMBg1Ul0AhZyoVDp"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 185570,
+      "name": "Calling Through The Fire",
+      "url": "https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d"
+    },
+    {
       "added_at": "2024-03-10 16:17:51",
       "album": {
         "name": "Some More",
@@ -71,38 +187,6 @@
       "duration_ms": 180461,
       "name": "Some More",
       "url": "https://open.spotify.com/track/5nKoXD5R3PN5KwmxrkoCHb"
-    },
-    {
-      "added_at": "2024-03-08 19:27:08",
-      "album": {
-        "name": "Mind Mirage",
-        "url": "https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 192113,
-      "name": "Fog Clear",
-      "url": "https://open.spotify.com/track/5yC9BZ9FaWuPOQmvzKm7b2"
-    },
-    {
-      "added_at": "2024-02-18 14:53:59",
-      "album": {
-        "name": "Pick Ya Poison",
-        "url": "https://open.spotify.com/album/26P5uusBZB47RKNRjfSDjW"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 178299,
-      "name": "Pick Ya Poison",
-      "url": "https://open.spotify.com/track/5hamqNFbifQSTPOd1zE64S"
     },
     {
       "added_at": "2024-02-18 14:53:54",
@@ -137,104 +221,20 @@
       "url": "https://open.spotify.com/track/4g46R8Fz2YR77jXZjw8PJA"
     },
     {
-      "added_at": "2024-02-18 14:53:47",
+      "added_at": "2024-02-18 14:53:59",
       "album": {
-        "name": "To The Beat",
-        "url": "https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4"
+        "name": "Pick Ya Poison",
+        "url": "https://open.spotify.com/album/26P5uusBZB47RKNRjfSDjW"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Dances",
-          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 236987,
-      "name": "To The Beat",
-      "url": "https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO"
-    },
-    {
-      "added_at": "2023-06-30 04:57:30",
-      "album": {
-        "name": "Safety First",
-        "url": "https://open.spotify.com/album/7gaahTlMBg1Ul0AhZyoVDp"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 185570,
-      "name": "Calling Through The Fire",
-      "url": "https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d"
-    },
-    {
-      "added_at": "2024-03-10 16:18:28",
-      "album": {
-        "name": "Amused EP",
-        "url": "https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js"
-      },
-      "artists": [
-        {
-          "name": "Havoc & Lawn",
-          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Amused",
-      "url": "https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G"
-    },
-    {
-      "added_at": "2024-02-04 14:38:02",
-      "album": {
-        "name": "Body Chalk",
-        "url": "https://open.spotify.com/album/12EVz1TFhTPxEr7QRFQsZq"
-      },
-      "artists": [
-        {
-          "name": "Toyzz",
-          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Body Chalk",
-      "url": "https://open.spotify.com/track/0QE8eb7vXTb4WHbVBwu4Ql"
-    },
-    {
-      "added_at": "2024-03-10 16:18:17",
-      "album": {
-        "name": "I'm Ready EP",
-        "url": "https://open.spotify.com/album/66h6uOgDSkRrTD0eG0PE4W"
-      },
-      "artists": [
-        {
-          "name": "Arnold & Lane",
-          "url": "https://open.spotify.com/artist/1lOq8MFrqfYB486L9xycj2"
-        }
-      ],
-      "duration_ms": 187559,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/2AsEtnstQ2rOThdttbqTbL"
-    },
-    {
-      "added_at": "2024-02-18 14:53:52",
-      "album": {
-        "name": "Put 'em Up",
-        "url": "https://open.spotify.com/album/5dTy34LWAXl75Vy2bI40UE"
-      },
-      "artists": [
-        {
-          "name": "TECHTIC",
-          "url": "https://open.spotify.com/artist/4MW2k6VEU8RltTQFyEixYt"
-        }
-      ],
-      "duration_ms": 229523,
-      "name": "Put 'em Up",
-      "url": "https://open.spotify.com/track/7cej2MfSORhrheKAa3DEOe"
+      "duration_ms": 178299,
+      "name": "Pick Ya Poison",
+      "url": "https://open.spotify.com/track/5hamqNFbifQSTPOd1zE64S"
     },
     {
       "added_at": "2023-05-12 16:24:04",
@@ -253,84 +253,72 @@
       "url": "https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0"
     },
     {
-      "added_at": "2024-02-04 14:36:57",
+      "added_at": "2024-03-24 15:40:09",
       "album": {
-        "name": "Roll Deep",
-        "url": "https://open.spotify.com/album/6vTSZuSEzAauBKX1A6rH7c"
+        "name": "Bitches Get Money",
+        "url": "https://open.spotify.com/album/26PQOXmdKvnqUC6AieDQCS"
       },
       "artists": [
         {
-          "name": "Nightlapse",
-          "url": "https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX"
+          "name": "Jordan Moxey",
+          "url": "https://open.spotify.com/artist/3eyf6wCeHEptQJjG2pPlV2"
         },
         {
-          "name": "JSED",
-          "url": "https://open.spotify.com/artist/2cmDOnKaD2t6yi7uMc9CCq"
+          "name": "Micah Baxter",
+          "url": "https://open.spotify.com/artist/1IHY1bbjZvKR7QSjUAjCje"
         }
       ],
-      "duration_ms": 160250,
-      "name": "Roll Deep",
-      "url": "https://open.spotify.com/track/0aM9pyp7B9aCcuhac1Rmov"
+      "duration_ms": 390000,
+      "name": "Bitches Get Money",
+      "url": "https://open.spotify.com/track/6VAMEtST4LEJ1fKUISBVRQ"
     },
     {
-      "added_at": "2024-02-04 14:37:25",
+      "added_at": "2024-03-10 16:18:28",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
+        "name": "Amused EP",
+        "url": "https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js"
       },
       "artists": [
         {
-          "name": "THYKIER",
-          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
         }
       ],
-      "duration_ms": 140160,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
+      "duration_ms": 195000,
+      "name": "Amused",
+      "url": "https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G"
     },
     {
-      "added_at": "2024-02-04 14:37:47",
+      "added_at": "2024-03-10 16:18:17",
       "album": {
-        "name": "Let's Go Dancing (Matroda Remix)",
-        "url": "https://open.spotify.com/album/4bNMns2prUJi3cJwEF7dKc"
+        "name": "I'm Ready EP",
+        "url": "https://open.spotify.com/album/66h6uOgDSkRrTD0eG0PE4W"
       },
       "artists": [
         {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Audion",
-          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
-        },
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+          "name": "Arnold & Lane",
+          "url": "https://open.spotify.com/artist/1lOq8MFrqfYB486L9xycj2"
         }
       ],
-      "duration_ms": 195473,
-      "name": "Let's Go Dancing - Matroda Remix",
-      "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
+      "duration_ms": 187559,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/2AsEtnstQ2rOThdttbqTbL"
     },
     {
-      "added_at": "2024-02-18 14:53:49",
+      "added_at": "2024-03-24 15:40:55",
       "album": {
-        "name": "Sneaky Link (feat. Barney Bones)",
-        "url": "https://open.spotify.com/album/3MkfK7Sq6nDfiJdaOYphsg"
+        "name": "Come Rewind",
+        "url": "https://open.spotify.com/album/7HkLCS51r4jEUCEuKqDXet"
       },
       "artists": [
         {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+          "name": "Local Singles",
+          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
         }
       ],
-      "duration_ms": 164115,
-      "name": "Sneaky Link (feat. Barney Bones)",
-      "url": "https://open.spotify.com/track/3zULmVC0d9EUr3pofDgZGJ"
+      "duration_ms": 211451,
+      "name": "Come Rewind",
+      "url": "https://open.spotify.com/track/7e9HZORJeoSsGdr7V0576n"
     },
     {
       "added_at": "2023-03-17 19:24:07",
@@ -347,6 +335,42 @@
       "duration_ms": 197416,
       "name": "WTF",
       "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
+    },
+    {
+      "added_at": "2024-02-18 14:53:52",
+      "album": {
+        "name": "Put 'em Up",
+        "url": "https://open.spotify.com/album/5dTy34LWAXl75Vy2bI40UE"
+      },
+      "artists": [
+        {
+          "name": "TECHTIC",
+          "url": "https://open.spotify.com/artist/4MW2k6VEU8RltTQFyEixYt"
+        }
+      ],
+      "duration_ms": 229523,
+      "name": "Put 'em Up",
+      "url": "https://open.spotify.com/track/7cej2MfSORhrheKAa3DEOe"
+    },
+    {
+      "added_at": "2024-03-24 15:43:55",
+      "album": {
+        "name": "MI.BARRIO VOL. I - Lucha Libre",
+        "url": "https://open.spotify.com/album/5oC1pXVWVbRpgKqEjtnYbd"
+      },
+      "artists": [
+        {
+          "name": "MI.BARRIO",
+          "url": "https://open.spotify.com/artist/0EbzxaJq1KS6ALwcoSiMu1"
+        },
+        {
+          "name": "Shok\u00eb",
+          "url": "https://open.spotify.com/artist/3F0pGF36o08n2NE7vIEHyk"
+        }
+      ],
+      "duration_ms": 192366,
+      "name": "Don't overthink",
+      "url": "https://open.spotify.com/track/1v7JfjmjTrRGwB5N31vRSm"
     },
     {
       "added_at": "2024-03-10 16:18:24",
@@ -389,42 +413,6 @@
       "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
-      "added_at": "2024-02-04 14:37:59",
-      "album": {
-        "name": "Check Yo' Self EP",
-        "url": "https://open.spotify.com/album/6VBnFCDKS5hYgNJRjlmgjD"
-      },
-      "artists": [
-        {
-          "name": "MAYO (US)",
-          "url": "https://open.spotify.com/artist/4d1ukhuuIDLUI7sIWrah7G"
-        },
-        {
-          "name": "Jhojho",
-          "url": "https://open.spotify.com/artist/17a3EtrBd0MdaZ609KMIHR"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "Protect Ya Neck - Jhojho Edit",
-      "url": "https://open.spotify.com/track/4rp9ZFa6OhRxGjJm8hYDnd"
-    },
-    {
-      "added_at": "2024-02-18 14:54:02",
-      "album": {
-        "name": "GUNZ.OUT",
-        "url": "https://open.spotify.com/album/5BlsT6kGQG0gXscybrFdsQ"
-      },
-      "artists": [
-        {
-          "name": "Blackchild (ITA)",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "GUNZ.OUT",
-      "url": "https://open.spotify.com/track/1iS1TDkqPMN7eLRMGuKGqe"
-    },
-    {
       "added_at": "2023-01-20 06:39:56",
       "album": {
         "name": "Don't Wanna Be",
@@ -441,20 +429,20 @@
       "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
     },
     {
-      "added_at": "2024-02-04 14:37:51",
+      "added_at": "2024-02-18 14:54:02",
       "album": {
-        "name": "Jump In",
-        "url": "https://open.spotify.com/album/07BxOVzzyMBEkff8GEczSG"
+        "name": "GUNZ.OUT",
+        "url": "https://open.spotify.com/album/5BlsT6kGQG0gXscybrFdsQ"
       },
       "artists": [
         {
-          "name": "POLOVICH",
-          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Jump In",
-      "url": "https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX"
+      "duration_ms": 186000,
+      "name": "GUNZ.OUT",
+      "url": "https://open.spotify.com/track/1iS1TDkqPMN7eLRMGuKGqe"
     },
     {
       "added_at": "2024-03-10 16:18:19",

@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-106 songs - 6 hr 35 min
+107 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/track/4QMipGuTpebExVmTOA2s3C) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/album/2y9tOyJh8EMvPBnzfsGuUZ) | 3:15 | 2022-10-21 | 2023-05-27 |
 | [Le Parapluie](https://open.spotify.com/track/08KYx5dQxdD33irLEt8WQH) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Le Parapluie](https://open.spotify.com/album/65DVyR9E39jseLEfXe1gaR) | 4:07 | 2023-04-28 |  |
 | [Madison](https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Madison](https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo) | 3:42 | 2022-10-21 | 2023-04-09 |
-| [Mango](https://open.spotify.com/track/5xeseiR8s2ZdnC2WL4HsSE) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Mango](https://open.spotify.com/album/4JSKi6XBwkQ8CGTO8Ndk3Q) | 3:15 | 2024-03-15 |  |
+| [Mango](https://open.spotify.com/track/4teEHZgbLfOIHJ3jrgzPlT) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Loneliness Confetti](https://open.spotify.com/album/0Cinqm0u7kj6hQc1CIFjxu) | 3:15 | 2024-03-15 |  |
+| [Mango](https://open.spotify.com/track/5xeseiR8s2ZdnC2WL4HsSE) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Mango](https://open.spotify.com/album/4JSKi6XBwkQ8CGTO8Ndk3Q) | 3:15 | 2024-03-15 | 2024-03-25 |
 | [Ms\. Marigold](https://open.spotify.com/track/5J8g7kCSf0jiH16sNMeZo3) | [superGOODthings](https://open.spotify.com/artist/7twKK7krUtniPlYv9i92vp) | [Yachty Rock Feelings, Vol\. 1](https://open.spotify.com/album/6nfTINfvFH6VZb81AYTxFP) | 4:16 | 2022-10-21 | 2023-04-15 |
 | [New Fascination](https://open.spotify.com/track/4wugx5UcJaefwqsrqfRmDK) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/2lJ4mGexbTGxmkF2OEejmE) | 3:20 | 2022-10-28 |  |
 | [New Fascination](https://open.spotify.com/track/52iCnjPavObHl20sQ4t2Z6) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:20 | 2022-10-28 | 2023-04-30 |

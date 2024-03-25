@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,414 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,432 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [lonely](https://open.spotify.com/track/3w2SbYo8eSKB7UNfEMCzOR) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [lonely](https://open.spotify.com/album/64CsI8o99iRKE1TPEfFAK3) | 3:48 |
 | 125 | [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 |
 
-Snapshot ID: `MCxkOGVjYTI0ZTk3MzliYTE0NmM0Nzc1YTEyNDM1ZWIxNWNhYTAxMDRk`
+Snapshot ID: `MCw0ZTZlZTQ0NTJmZmYyZjcwNzBmZTkyNDczNjVmMDg3MTdjMDNhMTMx`

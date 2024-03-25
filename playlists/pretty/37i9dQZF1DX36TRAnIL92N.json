@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 300508,
+  "num_followers": 300944,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjU1NzljN2NjOGQ5YzY3Njc5NDg0NWMxNjBjYmVkNDMzZDhhZTgy",
+  "snapshot_id": "MCxiZGNlMjVjNzg2ZGUyN2M3MjI2MjI2NDcxNmNkOWI0MjExMDg3NTRm",
   "tracks": [
     {
       "added_at": "2024-03-20 20:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-03-20 20:00:00",
       "album": {
-        "name": "Traffic",
-        "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "Traffic",
-      "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
-    },
-    {
-      "added_at": "2024-03-20 20:00:00",
-      "album": {
         "name": "Mirazh",
         "url": "https://open.spotify.com/album/1VYbRdW8QFMRuaLsmf0H1A"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 205217,
       "name": "Mirazh",
       "url": "https://open.spotify.com/track/2lIifZIxqYF0lOuBnqJ5qH"
+    },
+    {
+      "added_at": "2024-03-20 20:00:00",
+      "album": {
+        "name": "Traffic",
+        "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
     },
     {
       "added_at": "2024-03-20 20:00:00",
@@ -643,6 +643,26 @@
     {
       "added_at": "2024-03-20 20:00:00",
       "album": {
+        "name": "Universal Nation (Charlotte de Witte Rework)",
+        "url": "https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        },
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 452317,
+      "name": "Universal Nation - Charlotte de Witte Rework",
+      "url": "https://open.spotify.com/track/4OrY514bfwTTtykP7s049a"
+    },
+    {
+      "added_at": "2024-03-20 20:00:00",
+      "album": {
         "name": "Flying Octopus",
         "url": "https://open.spotify.com/album/5My1BEqn9HJ2ig4pDlsZ0m"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 211617,
       "name": "Flying Octopus",
       "url": "https://open.spotify.com/track/0n2jPpNThUiLaf39k1Jfz7"
-    },
-    {
-      "added_at": "2024-03-20 20:00:00",
-      "album": {
-        "name": "Universal Nation (Charlotte de Witte Rework)",
-        "url": "https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq"
-      },
-      "artists": [
-        {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
-        },
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 452317,
-      "name": "Universal Nation - Charlotte de Witte Rework",
-      "url": "https://open.spotify.com/track/4OrY514bfwTTtykP7s049a"
     },
     {
       "added_at": "2024-03-20 20:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-03-20 20:00:00",
       "album": {
-        "name": "Dark Room",
-        "url": "https://open.spotify.com/album/6fDBWo1qT0GlL9myaWu9fi"
-      },
-      "artists": [
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 243639,
-      "name": "Dark Room",
-      "url": "https://open.spotify.com/track/3JcUf6mSuB4FMUvjyhCMRP"
-    },
-    {
-      "added_at": "2024-03-20 20:00:00",
-      "album": {
         "name": "Choir Of Spirits",
         "url": "https://open.spotify.com/album/2lC45D73TicbOMEI1a8Fk7"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2024-03-20 20:00:00",
       "album": {
+        "name": "Dark Room",
+        "url": "https://open.spotify.com/album/6fDBWo1qT0GlL9myaWu9fi"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "duration_ms": 243639,
+      "name": "Dark Room",
+      "url": "https://open.spotify.com/track/3JcUf6mSuB4FMUvjyhCMRP"
+    },
+    {
+      "added_at": "2024-03-20 20:00:00",
+      "album": {
         "name": "Silence EP",
         "url": "https://open.spotify.com/album/1yEygTNMJpqohn7MATAnSc"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-03-20 20:00:00",
       "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 220488,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW"
-    },
-    {
-      "added_at": "2024-03-20 20:00:00",
-      "album": {
         "name": "Robot",
         "url": "https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 205652,
       "name": "Robot",
       "url": "https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW"
+    },
+    {
+      "added_at": "2024-03-20 20:00:00",
+      "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 220488,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW"
     },
     {
       "added_at": "2024-03-20 20:00:00",

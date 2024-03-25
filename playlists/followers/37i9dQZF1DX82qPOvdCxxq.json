@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 40979,
+  "2024-03-25": 40975,
   "date_first_scraped": "2021-12-28",
   "description": "Go deep in discovery for great new songs of faith and inspiration. Cover:  Abby Robertson",
   "name": "Faith Finds",
@@ -1053,10 +1053,44 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 192873,
       "name": "Together (Soundtrack from Year in Search)",
       "url": "https://open.spotify.com/track/0HOPZn0IFpZS142x0uClQ0"
+    },
+    {
+      "album": {
+        "name": "Together (Soundtrack from Year in Search)",
+        "url": "https://open.spotify.com/album/1lBWCio6Lq0FcZTkyV7GWy"
+      },
+      "artists": [
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Chicago Children's Choir",
+          "url": "https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg"
+        },
+        {
+          "name": "Matt Jones (Re-Collective Orchestra)",
+          "url": "https://open.spotify.com/artist/5aIudIa5jdxKBDLH1qVPWC"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192873,
+      "name": "Together (Soundtrack from Year in Search)",
+      "url": "https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat"
     },
     {
       "album": {

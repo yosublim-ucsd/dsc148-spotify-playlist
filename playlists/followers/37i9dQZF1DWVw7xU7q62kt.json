@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 47366,
+  "2024-03-25": 47463,
   "date_first_scraped": "2023-08-25",
   "description": "Beats with a flavour of Jazz. Cover: Blue Lab Beats",
   "name": "Jazzy Beats",
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 299758,
       "name": "Fire In Detroit",
       "url": "https://open.spotify.com/track/2bfElfcCkUD7CyGqd36sd3"
@@ -1335,6 +1335,24 @@
       "duration_ms": 138795,
       "name": "Hypnagogia Wakefull Dreams",
       "url": "https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh"
+    },
+    {
+      "album": {
+        "name": "When There's Love Around",
+        "url": "https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213811,
+      "name": "i remember this picture",
+      "url": "https://open.spotify.com/track/1D6MrZJjz705F8MlE277Hh"
     },
     {
       "album": {

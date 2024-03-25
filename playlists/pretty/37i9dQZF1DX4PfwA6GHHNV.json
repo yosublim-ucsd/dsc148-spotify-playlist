@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 16368,
+  "num_followers": 16378,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmYwODYwYTM2M2ZmNmQwNDhkOGNkN2U1ZDczZTgyYjEyMTY1OTJh",
+  "snapshot_id": "MCw5NDJjNWQ3MzJiMDQ2NGYzMmY3MjI4YzYxMGJmMDVjOTEzYTRmYjkx",
   "tracks": [
     {
       "added_at": "2024-03-22 03:01:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Xona",
-        "url": "https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p"
-      },
-      "artists": [
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        }
-      ],
-      "duration_ms": 205431,
-      "name": "Xona",
-      "url": "https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "VxRxS",
         "url": "https://open.spotify.com/album/4pRtgWxHewubCRQPaQnhe6"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 90618,
       "name": "Andarilho",
       "url": "https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Xona",
+        "url": "https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p"
+      },
+      "artists": [
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "duration_ms": 205431,
+      "name": "Xona",
+      "url": "https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -591,6 +591,30 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/2mlddzWgsslOC8nyUsNaLH"
+      },
+      "artists": [
+        {
+          "name": "NATH",
+          "url": "https://open.spotify.com/artist/6dAUWqdIfuQKFV9i2kMiFx"
+        },
+        {
+          "name": "Malaca",
+          "url": "https://open.spotify.com/artist/3pHKREKpBSNUJ9KAgwXAHg"
+        },
+        {
+          "name": "Fomo Jagun",
+          "url": "https://open.spotify.com/artist/1ckaQGnfErMhzrL2RrQXIZ"
+        }
+      ],
+      "duration_ms": 158399,
+      "name": "Me Leva Pra Salvador",
+      "url": "https://open.spotify.com/track/15kvE9e86WFN8ax2wEXbGo"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Lembra?",
         "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
       },
@@ -627,26 +651,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Anel da Pandora",
-        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
-      },
-      "artists": [
-        {
-          "name": "greg mc",
-          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
-        },
-        {
-          "name": "ESCOB4R",
-          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
-        }
-      ],
-      "duration_ms": 199012,
-      "name": "Anel da Pandora",
-      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Do Nada",
         "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
       },
@@ -667,6 +671,26 @@
       "duration_ms": 205531,
       "name": "Do Nada",
       "url": "https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+      },
+      "artists": [
+        {
+          "name": "greg mc",
+          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
+        },
+        {
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+        }
+      ],
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -719,30 +743,6 @@
       "duration_ms": 160000,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/5hFhHT6WwgT6u7uiX3zlFQ"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/2mlddzWgsslOC8nyUsNaLH"
-      },
-      "artists": [
-        {
-          "name": "NATH",
-          "url": "https://open.spotify.com/artist/6dAUWqdIfuQKFV9i2kMiFx"
-        },
-        {
-          "name": "Malaca",
-          "url": "https://open.spotify.com/artist/3pHKREKpBSNUJ9KAgwXAHg"
-        },
-        {
-          "name": "Fomo Jagun",
-          "url": "https://open.spotify.com/artist/1ckaQGnfErMhzrL2RrQXIZ"
-        }
-      ],
-      "duration_ms": 158399,
-      "name": "Me Leva Pra Salvador",
-      "url": "https://open.spotify.com/track/15kvE9e86WFN8ax2wEXbGo"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Fatoss\u00edntese",
-        "url": "https://open.spotify.com/album/48Oq95WI5z99HaqpFv6hS3"
-      },
-      "artists": [
-        {
-          "name": "Cleiton Oliveira",
-          "url": "https://open.spotify.com/artist/4d8by4oOSOmGSeDgcz1BYs"
-        },
-        {
-          "name": "Jovem Ralph",
-          "url": "https://open.spotify.com/artist/3BqCREDFLYfJiX8yZrKtrR"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "N\u00e3o Me Ligue Mais",
-      "url": "https://open.spotify.com/track/2tpRMFNcz07zf1EPUomzHV"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Afasta",
         "url": "https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 175578,
       "name": "Afasta",
       "url": "https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Fatoss\u00edntese",
+        "url": "https://open.spotify.com/album/48Oq95WI5z99HaqpFv6hS3"
+      },
+      "artists": [
+        {
+          "name": "Cleiton Oliveira",
+          "url": "https://open.spotify.com/artist/4d8by4oOSOmGSeDgcz1BYs"
+        },
+        {
+          "name": "Jovem Ralph",
+          "url": "https://open.spotify.com/artist/3BqCREDFLYfJiX8yZrKtrR"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "N\u00e3o Me Ligue Mais",
+      "url": "https://open.spotify.com/track/2tpRMFNcz07zf1EPUomzHV"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "\u00c1guas Passadas",
-        "url": "https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "\u00c1guas Passadas",
-      "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Enquanto o tempo passa",
         "url": "https://open.spotify.com/album/3Z25lZgzdpM0Zd1LE3g6u0"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 131320,
       "name": "Enquanto o tempo passa",
       "url": "https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "\u00c1guas Passadas",
+        "url": "https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "\u00c1guas Passadas",
+      "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
     },
     {
       "added_at": "2024-03-22 03:01:00",

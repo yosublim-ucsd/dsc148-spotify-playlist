@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 342850,
+  "2024-03-25": 343103,
   "date_first_scraped": "2022-03-01",
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
   "name": "Top Christian Contemporary",
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 281080,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/4reyRIw1xIeMAa5lylm6ow"
@@ -3551,6 +3551,24 @@
       "duration_ms": 214920,
       "name": "Left It In The Water - Edit",
       "url": "https://open.spotify.com/track/60uRJX8t222gQYqiv3FgRn"
+    },
+    {
+      "album": {
+        "name": "Let It Begin",
+        "url": "https://open.spotify.com/album/5uaE6PEmXaM9qkEknV2qFj"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252567,
+      "name": "Let It Begin",
+      "url": "https://open.spotify.com/track/5GRk64fuIMFDUY6MJ5HpeO"
     },
     {
       "album": {

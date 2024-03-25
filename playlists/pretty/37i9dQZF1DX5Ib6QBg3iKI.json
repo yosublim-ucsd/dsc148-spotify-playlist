@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 131792,
+  "num_followers": 131787,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDQ4MjNlNWFmNjc0YzIxMzdhM2Y0NWExZTI2MzA3YWU0NmJmOGQ1",
+  "snapshot_id": "MCwzNGNmODcyZmNjYWI0YmM1Y2NiZTBjMTQwNmNhMjMwMmUzYTU4ZTAz",
   "tracks": [
     {
       "added_at": "2023-11-28 17:00:03",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Christmas Portrait (Special Edition/Reissue)",
-        "url": "https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 159440,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/07RmHXaYqBdUyfAESPZkRO"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "A Very Laufey Holiday",
         "url": "https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 167666,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "Christmas Portrait (Special Edition/Reissue)",
+        "url": "https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 159440,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/07RmHXaYqBdUyfAESPZkRO"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -611,38 +611,18 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Christmas Greetings",
-        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
+        "name": "Bing's Gold Records - The Original Decca Recordings",
+        "url": "https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW"
       },
       "artists": [
         {
           "name": "Bing Crosby",
           "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
         }
       ],
-      "duration_ms": 183412,
-      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
-      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "I Need You Christmas",
-        "url": "https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "I Need You Christmas",
-      "url": "https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz"
+      "duration_ms": 183000,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -659,6 +639,22 @@
       "duration_ms": 241821,
       "name": "All You're Dreaming Of",
       "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "I Need You Christmas",
+        "url": "https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "I Need You Christmas",
+      "url": "https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -779,18 +775,22 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Bing's Gold Records - The Original Decca Recordings",
-        "url": "https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW"
+        "name": "Christmas Greetings",
+        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
       },
       "artists": [
         {
           "name": "Bing Crosby",
           "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
         }
       ],
-      "duration_ms": 183000,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI"
+      "duration_ms": 183412,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "The Very Best Of Mud",
-        "url": "https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4"
-      },
-      "artists": [
-        {
-          "name": "Mud",
-          "url": "https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf"
-        }
-      ],
-      "duration_ms": 213160,
-      "name": "Lonely This Christmas",
-      "url": "https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "Barry White - The Collection",
         "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 187733,
       "name": "It May Be Winter Outside (But In My Heart It's Spring)",
       "url": "https://open.spotify.com/track/4tHGsplffm1rxS33yrL59b"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "The Very Best Of Mud",
+        "url": "https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4"
+      },
+      "artists": [
+        {
+          "name": "Mud",
+          "url": "https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf"
+        }
+      ],
+      "duration_ms": 213160,
+      "name": "Lonely This Christmas",
+      "url": "https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1217,6 +1217,22 @@
       "url": "https://open.spotify.com/track/4OycJbuzBOCAl7SDH0U2MO"
     },
     {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "My Favorite Things",
+        "url": "https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 191378,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
+    },
+    {
       "added_at": "2023-12-20 11:32:39",
       "album": {
         "name": "The Little Drummer Boy",
@@ -1239,34 +1255,18 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "My Favorite Things",
-        "url": "https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt"
+        "name": "The Magic Of Christmas",
+        "url": "https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "LYRA",
+          "url": "https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x"
         }
       ],
-      "duration_ms": 191378,
-      "name": "My Favorite Things",
-      "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "2000 Miles",
-        "url": "https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 166801,
-      "name": "2000 Miles",
-      "url": "https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1"
+      "duration_ms": 207946,
+      "name": "The Magic Of Christmas",
+      "url": "https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "The Magic Of Christmas",
-        "url": "https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08"
+        "name": "2000 Miles",
+        "url": "https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4"
       },
       "artists": [
         {
-          "name": "LYRA",
-          "url": "https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x"
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
         }
       ],
-      "duration_ms": 207946,
-      "name": "The Magic Of Christmas",
-      "url": "https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr"
+      "duration_ms": 166801,
+      "name": "2000 Miles",
+      "url": "https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1"
     },
     {
       "added_at": "2023-11-28 17:00:03",

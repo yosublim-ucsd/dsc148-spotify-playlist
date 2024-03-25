@@ -604,7 +604,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 157777,
       "name": "Confuse",
       "url": "https://open.spotify.com/track/5DVfZpo2EUQ9ZdpBDx4w5H"
@@ -3944,6 +3944,28 @@
       "duration_ms": 158548,
       "name": "will you and me fall in love (feat. Gawon)",
       "url": "https://open.spotify.com/track/1NR4zjXtuxMvwGIh8i5XqC"
+    },
+    {
+      "album": {
+        "name": "HESITATING",
+        "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "Roh Yun Ha",
+          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189413,
+      "name": "YESMAN (feat. Roh Yun Ha)",
+      "url": "https://open.spotify.com/track/31Mq4iNnukk3wngb6ePLgD"
     },
     {
       "album": {

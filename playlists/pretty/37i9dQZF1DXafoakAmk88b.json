@@ -1,12 +1,12 @@
 {
   "description": "New indie driving the current. Cover: hemlocke springs",
-  "num_followers": 44227,
+  "num_followers": 44244,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGNiZDhmYzlhZThlZjM1ZjlkOWEzNjUyM2RmYjMwMzBiY2Q2MWM3",
+  "snapshot_id": "MCxmOGE4NzEzYTUwN2QyY2I4YWQyMzIwY2RkNzY2MWE0YWY4MzQwMGJl",
   "tracks": [
     {
       "added_at": "2024-02-10 01:44:05",
@@ -563,18 +563,22 @@
     {
       "added_at": "2024-02-10 01:44:05",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Julia Pratt",
+          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
+        },
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 293979,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
+      "duration_ms": 201893,
+      "name": "A Little Love",
+      "url": "https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au"
     },
     {
       "added_at": "2024-02-28 19:34:23",
@@ -611,22 +615,18 @@
     {
       "added_at": "2024-02-10 01:44:05",
       "album": {
-        "name": "A Little Love",
-        "url": "https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
       },
       "artists": [
         {
-          "name": "Julia Pratt",
-          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
-        },
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 201893,
-      "name": "A Little Love",
-      "url": "https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au"
+      "duration_ms": 293979,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
     },
     {
       "added_at": "2024-02-10 01:44:05",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-02-10 01:44:05",
       "album": {
-        "name": "The End of the World",
-        "url": "https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i"
-      },
-      "artists": [
-        {
-          "name": "Black Hibiscus",
-          "url": "https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Basquiat",
-      "url": "https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI"
-    },
-    {
-      "added_at": "2024-02-10 01:44:05",
-      "album": {
         "name": "no way out",
         "url": "https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 113624,
       "name": "no way out",
       "url": "https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX"
+    },
+    {
+      "added_at": "2024-02-10 01:44:05",
+      "album": {
+        "name": "The End of the World",
+        "url": "https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i"
+      },
+      "artists": [
+        {
+          "name": "Black Hibiscus",
+          "url": "https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Basquiat",
+      "url": "https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI"
     }
   ],
   "unique_name": "Indie Frequency",

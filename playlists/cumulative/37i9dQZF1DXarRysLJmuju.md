@@ -4,7 +4,7 @@
 
 > The latest pop hits in one playlist\. Cover: Faouzia
 
-1,380 songs - 2 day 21 hr 56 min
+1,381 songs - 2 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -778,7 +778,8 @@
 | [Man I Am \(From Barbie The Album\)](https://open.spotify.com/track/2C3Gsy6HgWQAEm4qaqhgVQ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Man I Am \(From Barbie The Album\)](https://open.spotify.com/album/5ra7esHOt8nyFcIFwGJ7wh) | 3:07 | 2023-07-21 | 2023-08-05 |
 | [Man I Used To Be](https://open.spotify.com/track/6xRy0ENY1cZnkcU1EqaTsg) | [Coleman Hell](https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c) | [Man I Used To Be](https://open.spotify.com/album/5MObgMcXj9f7Q7mfVrOfm3) | 2:31 | 2022-02-25 | 2022-05-07 |
 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 | 2021-12-31 | 2022-01-15 |
-| [Mango](https://open.spotify.com/track/5xeseiR8s2ZdnC2WL4HsSE) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Mango](https://open.spotify.com/album/4JSKi6XBwkQ8CGTO8Ndk3Q) | 3:15 | 2024-03-15 |  |
+| [Mango](https://open.spotify.com/track/4teEHZgbLfOIHJ3jrgzPlT) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Loneliness Confetti](https://open.spotify.com/album/0Cinqm0u7kj6hQc1CIFjxu) | 3:15 | 2024-03-22 |  |
+| [Mango](https://open.spotify.com/track/5xeseiR8s2ZdnC2WL4HsSE) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Mango](https://open.spotify.com/album/4JSKi6XBwkQ8CGTO8Ndk3Q) | 3:15 | 2024-03-15 | 2024-03-25 |
 | [Maniac](https://open.spotify.com/track/61SPkGGIpSq6b7en0A6Bim) | [Shawn Desman](https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV) | [Maniac](https://open.spotify.com/album/6S2bemTohQ0Wbvkn8FUgNu) | 2:42 | 2022-10-21 | 2023-02-18 |
 | [MANIAC \(feat\. Windser\)](https://open.spotify.com/track/4Dmav01B2Fra0U4VYPPq4d) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [MANIAC \(feat\. Windser\)](https://open.spotify.com/album/7KjUZhvlYVBcSxUR8bqR91) | 3:00 | 2022-08-19 | 2022-10-29 |
 | [Manic Pixie Dream Girl](https://open.spotify.com/track/1zCdV5mHCIbG513weaqgAw) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Manic Pixie Dream Girl](https://open.spotify.com/album/1nyDgnM4HsSKfVhwfl0oAg) | 3:05 | 2022-08-05 | 2022-08-27 |

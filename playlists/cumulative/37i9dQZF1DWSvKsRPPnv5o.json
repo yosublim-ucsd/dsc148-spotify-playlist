@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 104042,
       "name": "Boom Boom Not Boom Bap",
       "url": "https://open.spotify.com/track/4ga3ftDobCJ4JsTplnRHCP"
@@ -8612,6 +8612,32 @@
       "duration_ms": 112787,
       "name": "Lye",
       "url": "https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS"
+    },
+    {
+      "album": {
+        "name": "Made For The Pole",
+        "url": "https://open.spotify.com/album/1wPUoPKo90X0blW307lHLi"
+      },
+      "artists": [
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203213,
+      "name": "Made For The Pole",
+      "url": "https://open.spotify.com/track/3AJgqiWoralG9vlx0H3OI8"
     },
     {
       "album": {

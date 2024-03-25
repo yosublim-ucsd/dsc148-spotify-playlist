@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 64709,
+  "num_followers": 64705,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2ZmZWNkMmE4OTY2ZDljMDljZGU2NGFlNTE4NzQ5ZWQwNzllNDlh",
+  "snapshot_id": "MCxiNTgzZWYzZjA1ZWY1MmViMGM0OWVjMzU5YjZmZTJkMmEwMjUzYzg1",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -981,6 +981,22 @@
       "url": "https://open.spotify.com/track/0c8aqUb7e0K9uNhxejfV23"
     },
     {
+      "added_at": "2022-06-07 14:45:28",
+      "album": {
+        "name": "Ao vivo",
+        "url": "https://open.spotify.com/album/3InSZxw9rH0JDmiEy9zxnA"
+      },
+      "artists": [
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        }
+      ],
+      "duration_ms": 323373,
+      "name": "Do fundo do nosso quintal - Ao vivo",
+      "url": "https://open.spotify.com/track/2ypG5kEdrAHSOVXhSkJfxe"
+    },
+    {
       "added_at": "2021-08-18 22:14:03",
       "album": {
         "name": "Gal Costa",
@@ -999,22 +1015,6 @@
       "duration_ms": 212933,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
-    },
-    {
-      "added_at": "2022-06-07 14:45:28",
-      "album": {
-        "name": "Ao vivo",
-        "url": "https://open.spotify.com/album/3InSZxw9rH0JDmiEy9zxnA"
-      },
-      "artists": [
-        {
-          "name": "Jorge Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
-        }
-      ],
-      "duration_ms": 323373,
-      "name": "Do fundo do nosso quintal - Ao vivo",
-      "url": "https://open.spotify.com/track/2ypG5kEdrAHSOVXhSkJfxe"
     },
     {
       "added_at": "2021-08-18 22:14:03",

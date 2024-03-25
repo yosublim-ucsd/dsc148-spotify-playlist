@@ -9727,6 +9727,24 @@
     },
     {
       "album": {
+        "name": "3 (tuy\u1ec3n t\u1eadp nh\u1ea1c Ng\u1ecdt m\u1edbi tr\u1ebb s\u00f4i \u0111\u1ed9ng 2019)",
+        "url": "https://open.spotify.com/album/2dZsaSnVn5i5uBg6FnhUVV"
+      },
+      "artists": [
+        {
+          "name": "Ng\u1ecdt",
+          "url": "https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222846,
+      "name": "L\u1ea6N CU\u1ed0I (\u0111i b\u00ean em x\u00f3t xa ng\u01b0\u1eddi \u01a1i)",
+      "url": "https://open.spotify.com/track/0AJi38NumMDXqo8pRw6zdh"
+    },
+    {
+      "album": {
         "name": "L\u1ec7 L\u01b0u Ly",
         "url": "https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34"
       },
@@ -18378,7 +18396,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 227076,
       "name": "Y\u00eau N\u1eafm",
       "url": "https://open.spotify.com/track/5f4u0kPnU21qNe6fXgAUiV"

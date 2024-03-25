@@ -4,13 +4,13 @@
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-150 songs - 7 hr 8 min
+152 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Moment Of Peace \(Rainy Green Noise\)](https://open.spotify.com/track/6fFR0PmP2feAJubtu2iG0s) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Nature's Green Noise](https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6) | 2:42 | 2023-06-16 |  |
 | [Always Raining](https://open.spotify.com/track/1q2KP0U1lQ7MzCTNwC1zpb) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Rain over Cornwall](https://open.spotify.com/album/2UdIfBZWnq0uNMvkPEirzy) | 3:28 | 2022-11-21 |  |
-| [Amber Leaves \(Rain\)](https://open.spotify.com/track/4fCsvCujFVP1AEcO9Yp24d) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 2:59 | 2022-11-21 |  |
+| [Amber Leaves \(Rain\)](https://open.spotify.com/track/4fCsvCujFVP1AEcO9Yp24d) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 2:59 | 2022-11-21 | 2024-03-25 |
 | [August Rain \- Green Noise](https://open.spotify.com/track/1Ll6DbRDeyQTkNdW0AbnmL) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Green Noise Vol\. 1](https://open.spotify.com/album/5ZSsHlWLo7Zginr7ig47Pw) | 2:27 | 2023-10-11 |  |
 | [Bajo el paraguas](https://open.spotify.com/track/03LAJ7B7jCiLthiT3higCE) | [Weather Modifier](https://open.spotify.com/artist/3K7OgYrxkpevhaJugrGYSN) | [Bajo el paraguas](https://open.spotify.com/album/3Ic7NfvpRKX8lpksj0pqiQ) | 2:03 | 2022-11-21 |  |
 | [Beautiful Rain \- 3.15 kHz](https://open.spotify.com/track/780Nf8Vlcagyf1SAzMrJE5) | [Lissabon Spring Rain](https://open.spotify.com/artist/6Yw7xTCv06irrYjEXsX4F3) | [More Algarve Rain Sounds](https://open.spotify.com/album/3NKXyOKPVvzmvNU31o9QgU) | 2:21 | 2022-11-21 |  |
@@ -96,6 +96,7 @@
 | [Pond Cabin \(Rain\)](https://open.spotify.com/track/6KpmZVFsjuU9295Wff25Io) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 | 2022-11-21 |  |
 | [Portugal Forest Rain](https://open.spotify.com/track/2mup6xXi5Y8N1m1JL2puSJ) | [Lissabon Spring Rain](https://open.spotify.com/artist/6Yw7xTCv06irrYjEXsX4F3) | [More Algarve Rain Sounds](https://open.spotify.com/album/3NKXyOKPVvzmvNU31o9QgU) | 2:50 | 2022-11-21 |  |
 | [Prado la Paz](https://open.spotify.com/track/34o6NtWfKIR45JAIdh1sr1) | [Temporada](https://open.spotify.com/artist/22rf1VlDhMhNYo8ppftNLR) | [Prado La Paz](https://open.spotify.com/album/33Z3RlFM5GBQoNHIRduBFJ) | 2:48 | 2023-06-16 |  |
+| [Rain Chatter](https://open.spotify.com/track/5ICtYJwGeJrmBX4AX8nXpq) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain Chatter](https://open.spotify.com/album/3Rjzg5Rllf3BrHOjEnxdzQ) | 2:56 | 2024-03-11 |  |
 | [Rain Coming Down](https://open.spotify.com/track/34f5y8LWDL5sSJKkSHqMr5) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Nordic Drops](https://open.spotify.com/album/4tL02ie3DznKXsLffUJR7y) | 2:12 | 2022-11-21 |  |
 | [Rain Distant Thunder Samos](https://open.spotify.com/track/11tPKEkyvvguwJcghHEqhW) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Rain & Thunder Samos](https://open.spotify.com/album/6xmwcrMZbAxNsnuCrbbfsC) | 2:25 | 2024-03-11 |  |
 | [Rain Drops](https://open.spotify.com/track/5SP27iVBdW42lMZph6ceNR) | [Peter Graham](https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv) | [Heavy Rain](https://open.spotify.com/album/5wHrCh7SaGM0CqL0rLg1xY) | 3:21 | 2022-11-21 |  |
@@ -118,7 +119,7 @@
 | [Rest In A Rainforest](https://open.spotify.com/track/3irHoiM1C9EUMbUhsXmcGe) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Rest In A Rainforest](https://open.spotify.com/album/6qaL64xAGf4ya89P94G97H) | 3:15 | 2023-06-16 |  |
 | [Revitalize \(Rain\)](https://open.spotify.com/track/6MFRZu5jUhJZeUJVl2kcri) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 | 2022-11-21 | 2024-02-08 |
 | [Roofers Holiday](https://open.spotify.com/track/1ELNo2aa79L5lcBGB6GIDq) | [Weather Bureau](https://open.spotify.com/artist/1aHHKWIy2Twf2ssw0SirYO) | [Roofers Holiday](https://open.spotify.com/album/0hE9xP8wHCU89LyoI2oP95) | 2:56 | 2023-06-16 |  |
-| [Rooftop Raindrops](https://open.spotify.com/track/0iVy9Oa25s0KcUwzJ1fxPn) | [Pax Natura](https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ) | [Rooftop Raindrops](https://open.spotify.com/album/0oZtOaygEmGM7975D2J6Gc) | 2:30 | 2024-03-11 |  |
+| [Rooftop Raindrops](https://open.spotify.com/track/0iVy9Oa25s0KcUwzJ1fxPn) | [Pax Natura](https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ) | [Rooftop Raindrops](https://open.spotify.com/album/0oZtOaygEmGM7975D2J6Gc) | 2:30 | 2024-03-11 | 2024-03-25 |
 | [Sanur \(Rain\)](https://open.spotify.com/track/7kULnoSgYN5pv86XwmKmiA) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Yugen \(Nature\)](https://open.spotify.com/album/1jcqwtMzGwHCGRD2BzfNXa) | 2:50 | 2022-11-21 |  |
 | [Schläfriger Donner](https://open.spotify.com/track/28KswoQztifTUjKJxujGWV) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen über Hamburg](https://open.spotify.com/album/5gJA1OBF1KRxBbu2mfYN0s) | 3:28 | 2022-11-21 |  |
 | [School Rain](https://open.spotify.com/track/6yAYt0yK49AJl9Q5k39Bqq) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Summer Nap](https://open.spotify.com/album/1jbHyvifnMfdEka86g83Kt) | 2:25 | 2022-11-21 | 2022-12-17 |
@@ -157,6 +158,7 @@
 | [Wind Through the Trees on a Rainy Night on a Field](https://open.spotify.com/track/7kz4OkjwVcSHiiJuYrr2DJ) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:15 | 2022-11-21 |  |
 | [Window Siesta](https://open.spotify.com/track/3HGocuIF3wICVSbN3WC0NM) | [Raindog](https://open.spotify.com/artist/51pC69EE18vJkW3g4FrUiu) | [Peaceful Weekend](https://open.spotify.com/album/4FGn0wRLgoqt4OXPkvMywa) | 2:42 | 2023-06-16 |  |
 | [Wisby Way Rain](https://open.spotify.com/track/1Zf7zOrFr0HC0pbcAvxqbj) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:33 | 2022-11-21 |  |
+| [Woodshed Rain](https://open.spotify.com/track/6kfiOzzsv9bPBsuh1Abl32) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [Woodshed Rain](https://open.spotify.com/album/7n08BfUqHKJWYe6w5TzkdL) | 3:23 | 2024-03-11 |  |
 | [Zen Drops](https://open.spotify.com/track/7mq9wDIgw3sjJvCd89BSPU) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [Zen Drops](https://open.spotify.com/album/1qMAKKaFFshtUgg43sYNwn) | 2:49 | 2023-10-11 |  |
 
 \*This playlist was first scraped on 2022-12-08. Prior content cannot be recovered.

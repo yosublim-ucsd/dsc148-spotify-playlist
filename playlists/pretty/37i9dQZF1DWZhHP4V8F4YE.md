@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,203 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,295 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 |
 | 50 | [FOU DE TOi](https://open.spotify.com/track/7DhruOVt2cgzOzwNLwM18E) | [ELEMENT EleéeH](https://open.spotify.com/artist/1YtfiLJ8nbB9hKlD4QpPMU), [Ross Kana](https://open.spotify.com/artist/20k1olYrrwKk6vYxqdTBIE), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [FOU DE TOi](https://open.spotify.com/album/2L0LHGMMygz3CEAirJ1I3x) | 3:57 |
 
-Snapshot ID: `MCwwYjY3NDZmZDMzMGIxN2YzODFmMzlkNWQ2NWZiYWM5MjdhN2YyNTA0`
+Snapshot ID: `MCxkNjdlNjYxMGM2NjM3NTkxNzQ2MjhhZTc5Y2QyMDVlZDc5MjI3Mjc4`

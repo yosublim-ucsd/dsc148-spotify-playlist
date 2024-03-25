@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 573490,
+  "2024-03-25": 573516,
   "date_first_scraped": "2022-01-10",
   "description": "Rap from hell. Cover: 1nonly",
   "name": "TIRADE",
@@ -1401,24 +1401,6 @@
       "duration_ms": 199731,
       "name": "Bitch Again",
       "url": "https://open.spotify.com/track/0sm3gJGMnyY22jt0UokKTx"
-    },
-    {
-      "album": {
-        "name": "BLACK CUBE OF SATURN",
-        "url": "https://open.spotify.com/album/3i1ssxKunPwW5Dc3UWiTzP"
-      },
-      "artists": [
-        {
-          "name": "HAARPER",
-          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
-        }
-      ],
-      "date_added": "2024-03-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 114177,
-      "name": "BLACK CUBE OF SATURN",
-      "url": "https://open.spotify.com/track/5vd6ZfGlTNdx4ZpktmD2Xv"
     },
     {
       "album": {
@@ -2845,6 +2827,24 @@
       "duration_ms": 82000,
       "name": "crystal ball",
       "url": "https://open.spotify.com/track/5o71saqMHEJTneWr8cWwRU"
+    },
+    {
+      "album": {
+        "name": "CUBE",
+        "url": "https://open.spotify.com/album/3i1ssxKunPwW5Dc3UWiTzP"
+      },
+      "artists": [
+        {
+          "name": "HAARPER",
+          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114177,
+      "name": "CUBE",
+      "url": "https://open.spotify.com/track/5vd6ZfGlTNdx4ZpktmD2Xv"
     },
     {
       "album": {

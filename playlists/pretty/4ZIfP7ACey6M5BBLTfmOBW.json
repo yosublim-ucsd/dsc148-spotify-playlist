@@ -1,6 +1,6 @@
 {
   "description": "All the freshest hip-hop heaters in one list! Cover: Travis Scott.",
-  "num_followers": 29830,
+  "num_followers": 29829,
   "original_name": "Fresh Hip Hop",
   "owner": {
     "name": "Filtr Canada\t",
@@ -22,6 +22,14 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 228266,

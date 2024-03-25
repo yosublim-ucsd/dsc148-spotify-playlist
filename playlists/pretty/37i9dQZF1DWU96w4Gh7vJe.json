@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 583872,
+  "num_followers": 583949,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yjg4MDc3YmU4YmU0ZmQ0MDkzZTRiMzYxZmVkZTJhZDNiY2ZiZjk3",
+  "snapshot_id": "MCw0MTZiMjIyNTI2MjRhNjFkMzE5Yjk5MGUwNjQ5MWQzNTk5YzAxMmZk",
   "tracks": [
     {
       "added_at": "2024-02-27 03:02:56",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
-    },
-    {
-      "added_at": "2024-02-27 03:02:56",
-      "album": {
         "name": "Langit. Luha.",
         "url": "https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 241029,
       "name": "Pasensya Ka Na",
       "url": "https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g"
+    },
+    {
+      "added_at": "2024-02-27 03:02:56",
+      "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2024-02-27 03:02:56",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "Monodramatic",
-        "url": "https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib"
-      },
-      "artists": [
-        {
-          "name": "Silent Sanctuary",
-          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
-        }
-      ],
-      "duration_ms": 253360,
-      "name": "Sa'yo",
-      "url": "https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e"
-    },
-    {
-      "added_at": "2024-02-27 03:02:56",
-      "album": {
         "name": "HARANASA",
         "url": "https://open.spotify.com/album/1m5UTDEtgN3wGvr6huasDE"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 269250,
       "name": "Pulso",
       "url": "https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ"
+    },
+    {
+      "added_at": "2024-02-27 03:02:56",
+      "album": {
+        "name": "Monodramatic",
+        "url": "https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "duration_ms": 253360,
+      "name": "Sa'yo",
+      "url": "https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e"
     },
     {
       "added_at": "2024-02-27 03:02:56",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "Don't Know What To Do (Don't Know What To Say)",
-        "url": "https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc"
+        "name": "Dramachine",
+        "url": "https://open.spotify.com/album/6eQSE3asJwkxro63orNwjk"
       },
       "artists": [
         {
-          "name": "Mark Carpio",
-          "url": "https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5"
+          "name": "Sugarfree",
+          "url": "https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy"
         }
       ],
-      "duration_ms": 167086,
-      "name": "Don't Know What To Do (Don't Know What To Say)",
-      "url": "https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt"
+      "duration_ms": 240320,
+      "name": "Tulog Na",
+      "url": "https://open.spotify.com/track/5ZPlhCh8KnB0bEnElxm1Et"
     },
     {
       "added_at": "2024-02-27 03:02:56",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "Dramachine",
-        "url": "https://open.spotify.com/album/6eQSE3asJwkxro63orNwjk"
+        "name": "Don't Know What To Do (Don't Know What To Say)",
+        "url": "https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc"
       },
       "artists": [
         {
-          "name": "Sugarfree",
-          "url": "https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy"
+          "name": "Mark Carpio",
+          "url": "https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5"
         }
       ],
-      "duration_ms": 240320,
-      "name": "Tulog Na",
-      "url": "https://open.spotify.com/track/5ZPlhCh8KnB0bEnElxm1Et"
+      "duration_ms": 167086,
+      "name": "Don't Know What To Do (Don't Know What To Say)",
+      "url": "https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt"
     },
     {
       "added_at": "2024-02-27 03:02:56",

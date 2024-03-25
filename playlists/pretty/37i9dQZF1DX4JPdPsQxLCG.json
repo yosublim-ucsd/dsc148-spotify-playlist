@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road. ",
-  "num_followers": 82251,
+  "num_followers": 82311,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjFkYzM5MmQwNDcxMWVhNTMxZTdhOGEwM2ZhMGM2YjgwNWY4MDQ4",
+  "snapshot_id": "MCxlMmY0YWZiZjQ1OWUyZTU1NjQyN2Y3MzczOTk3MDJiNDBlZDE0ZTMz",
   "tracks": [
     {
       "added_at": "2024-03-22 04:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "All I Really Want - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Up To Here",
         "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 257440,
       "name": "New Orleans Is Sinking",
       "url": "https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "All I Really Want - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Phantom Power",
-        "url": "https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 295357,
-      "name": "Bobcaygeon",
-      "url": "https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "In Loving Memory Of - 20th Anniversary Special Edition",
         "url": "https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 200251,
       "name": "Sweet Sublime",
       "url": "https://open.spotify.com/track/7hUnSCUQDknVpKAnnhejlP"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Phantom Power",
+        "url": "https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 295357,
+      "name": "Bobcaygeon",
+      "url": "https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1015,38 +1015,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Driving",
-        "url": "https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e"
-      },
-      "artists": [
-        {
-          "name": "Tyler Shaw",
-          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Trouble At The Henhouse",
-        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Ahead By A Century",
-      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Naveed",
         "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
       },
@@ -1075,6 +1043,38 @@
       "duration_ms": 190133,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Trouble At The Henhouse",
+        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Ahead By A Century",
+      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Driving",
+        "url": "https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "TRIPtych",
-        "url": "https://open.spotify.com/album/1q1DoRb0McqviO1JCwJ7mQ"
-      },
-      "artists": [
-        {
-          "name": "The Tea Party",
-          "url": "https://open.spotify.com/artist/6O5Xi2xT3bICu1ZLXqLYRE"
-        }
-      ],
-      "duration_ms": 241293,
-      "name": "Heaven Coming Down",
-      "url": "https://open.spotify.com/track/6lOvhkSYAU6xde5BvtWNbB"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Dreams, Dreams, Dreams",
         "url": "https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 293970,
       "name": "Fly At Night (In The Morning We Land)",
       "url": "https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "TRIPtych",
+        "url": "https://open.spotify.com/album/1q1DoRb0McqviO1JCwJ7mQ"
+      },
+      "artists": [
+        {
+          "name": "The Tea Party",
+          "url": "https://open.spotify.com/artist/6O5Xi2xT3bICu1ZLXqLYRE"
+        }
+      ],
+      "duration_ms": 241293,
+      "name": "Heaven Coming Down",
+      "url": "https://open.spotify.com/track/6lOvhkSYAU6xde5BvtWNbB"
     },
     {
       "added_at": "2024-03-22 04:01:00",

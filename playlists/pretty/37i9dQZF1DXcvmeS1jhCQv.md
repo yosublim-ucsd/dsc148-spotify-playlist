@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Pillow Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,071 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,079 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [i shouldn’t be here](https://open.spotify.com/track/20GibSptxBlsWlJRwWOsrB) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [i shouldn’t be here](https://open.spotify.com/album/2LywM7oEuEHwX5wofh6Gg7) | 3:06 |
 | 80 | [INFINITY](https://open.spotify.com/track/2cBpwQbzk3MdkoaPNKpUN9) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [INFINITY](https://open.spotify.com/album/078rjfb2B2LNh1FwQdngoT) | 3:05 |
 
-Snapshot ID: `MCxhYzdiMTdmMjQ2MzZjZWM0OGE2ZDg2ZTJmMWFmNDE0ODllZjg4MzRi`
+Snapshot ID: `MCw2OTBhM2JmNDMzNjUzNjVlZTkzYTRlNzI4YjFiZDU0OGZlNjQzN2M4`

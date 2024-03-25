@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 159087,
+  "num_followers": 159149,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmJlZDhhMjEzMmQyMGNmZTAwNjM3ZWY0MDkwNjYyYzQ2Nzk0MzBm",
+  "snapshot_id": "MCxhOGY5NWZhMjQyYWIyOGNmNGRhYTU1MTYwY2EyMjdhMmY0YWEwNGUx",
   "tracks": [
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1075,6 +1075,42 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
+        "name": "Smoky Valley",
+        "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
+      },
+      "artists": [
+        {
+          "name": "I love you Orchestra Swing Style",
+          "url": "https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls"
+        },
+        {
+          "name": "mahina",
+          "url": "https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Night Distance",
+      "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
+        "url": "https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 248924,
+      "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
         "name": "Moonshine",
         "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
       },
@@ -1107,42 +1143,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
-        "url": "https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 248924,
-      "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
-      "url": "https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
-        "name": "Smoky Valley",
-        "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
-      },
-      "artists": [
-        {
-          "name": "I love you Orchestra Swing Style",
-          "url": "https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls"
-        },
-        {
-          "name": "mahina",
-          "url": "https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Night Distance",
-      "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "Zurukunai?",
         "url": "https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 208981,
       "name": "Zurukunai?",
       "url": "https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "\u96e2\u5a5a\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/1s4jmPayW30yQFFOjehEFB"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1251,26 +1267,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "\u3069\u3046\u3057\u3066\u9aed\u3092\uff1f",
-        "url": "https://open.spotify.com/album/5fkSBMSaT3TGGdQohMGaX2"
-      },
-      "artists": [
-        {
-          "name": "LAGHEADS",
-          "url": "https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN"
-        },
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 198025,
-      "name": "\u3069\u3046\u3057\u3066\u9aed\u3092\uff1f",
-      "url": "https://open.spotify.com/track/41QfKjANF6fiDll3MN6yxS"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "tonun 2",
         "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
       },
@@ -1303,6 +1299,26 @@
       "duration_ms": 225369,
       "name": "Venus Flytrap feat. Chiaki Sato",
       "url": "https://open.spotify.com/track/51tgAkF9HE14FIR4iYN8K3"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "\u3069\u3046\u3057\u3066\u9aed\u3092\uff1f",
+        "url": "https://open.spotify.com/album/5fkSBMSaT3TGGdQohMGaX2"
+      },
+      "artists": [
+        {
+          "name": "LAGHEADS",
+          "url": "https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN"
+        },
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 198025,
+      "name": "\u3069\u3046\u3057\u3066\u9aed\u3092\uff1f",
+      "url": "https://open.spotify.com/track/41QfKjANF6fiDll3MN6yxS"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1359,6 +1375,22 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
+        "name": "\u697d\u5712",
+        "url": "https://open.spotify.com/album/6JHfw2HoDjuWQiL5sRpavT"
+      },
+      "artists": [
+        {
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+        }
+      ],
+      "duration_ms": 247941,
+      "name": "\u697d\u5712",
+      "url": "https://open.spotify.com/track/0XwEnnsW5Z46jIweSj2MzB"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
         "name": "Regrets",
         "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
       },
@@ -1375,18 +1407,22 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "\u697d\u5712",
-        "url": "https://open.spotify.com/album/6JHfw2HoDjuWQiL5sRpavT"
+        "name": "IMAGINE",
+        "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
       "artists": [
         {
-          "name": "Emerald",
-          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
         }
       ],
-      "duration_ms": 247941,
-      "name": "\u697d\u5712",
-      "url": "https://open.spotify.com/track/0XwEnnsW5Z46jIweSj2MzB"
+      "duration_ms": 231440,
+      "name": "ENDLESS",
+      "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1427,26 +1463,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "IMAGINE",
-        "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
-      },
-      "artists": [
-        {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        }
-      ],
-      "duration_ms": 231440,
-      "name": "ENDLESS",
-      "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "NOTE",
         "url": "https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "fab",
-        "url": "https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT"
-      },
-      "artists": [
-        {
-          "name": "androp",
-          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
-        }
-      ],
-      "duration_ms": 219033,
-      "name": "Ravel",
-      "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "Indoor Newtown Collective",
         "url": "https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 196913,
       "name": "\u3060\u308a\u3043",
       "url": "https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "fab",
+        "url": "https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT"
+      },
+      "artists": [
+        {
+          "name": "androp",
+          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
+        }
+      ],
+      "duration_ms": 219033,
+      "name": "Ravel",
+      "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1551,38 +1567,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "\u96e2\u5a5a\u4f1d\u8aac",
-        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
-      "url": "https://open.spotify.com/track/1s4jmPayW30yQFFOjehEFB"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
-        "name": "Circularity",
-        "url": "https://open.spotify.com/album/73jgPZgJBUlZV91SADu1Nk"
-      },
-      "artists": [
-        {
-          "name": "Blu-Swing",
-          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
-        }
-      ],
-      "duration_ms": 243675,
-      "name": "Circularity",
-      "url": "https://open.spotify.com/track/5MXnwkHAitmmXBR0pBKtoP"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "Million Miles Away (Edit)",
         "url": "https://open.spotify.com/album/7lMcEyaYZeeI4DBC3d8bRq"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 211995,
       "name": "Million Miles Away - Edit",
       "url": "https://open.spotify.com/track/3bVVmBBPPQ47Go4NkGC3XW"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "Circularity",
+        "url": "https://open.spotify.com/album/73jgPZgJBUlZV91SADu1Nk"
+      },
+      "artists": [
+        {
+          "name": "Blu-Swing",
+          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
+        }
+      ],
+      "duration_ms": 243675,
+      "name": "Circularity",
+      "url": "https://open.spotify.com/track/5MXnwkHAitmmXBR0pBKtoP"
     },
     {
       "added_at": "2024-03-19 15:00:00",

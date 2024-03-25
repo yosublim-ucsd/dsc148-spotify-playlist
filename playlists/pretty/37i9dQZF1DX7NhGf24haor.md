@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Nico Moreno & Warface
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,166 likes - 97 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,285 likes - 97 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 96 | [We Won't Stop \(For Eternity\)](https://open.spotify.com/track/3VpHxjjTRdyFH8MMSPR5Ws) | [Odium](https://open.spotify.com/artist/6J2T1atTrazMhACALYdA5Q) | [We Won't Stop \(For Eternity\)](https://open.spotify.com/album/4OXThgRK0LJLpSPnPokYko) | 2:32 |
 | 97 | [One Day Left](https://open.spotify.com/track/6j7c7qxP1BXBzbF6B9uxSz) | [Tweekacore](https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [One Day Left](https://open.spotify.com/album/6Gcq9YBTwpOsZxKXtZosrG) | 3:26 |
 
-Snapshot ID: `MCxkMTVkNzE1YTcxNjZmNjhjZjRhMmM4OTUyYjA1NzM2YmRjZjg3Zjkw`
+Snapshot ID: `MCw1N2IxMTQyZTczYTM2ZjRiNDkxMzc4ZDk1ZGQ5M2Q0NDMzODNmZTI4`

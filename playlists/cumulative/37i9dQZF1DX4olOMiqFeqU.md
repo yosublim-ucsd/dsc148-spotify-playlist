@@ -2,7 +2,7 @@
 
 ### [OPM Favorites](https://open.spotify.com/playlist/37i9dQZF1DX4olOMiqFeqU)
 
-> 100% Pinoy hits from your favorite artists! Cover: KZ Tandingan
+> 100% Pinoy hits from your favorite artists! Cover: SUD
 
 144 songs - 10 hr 27 min
 

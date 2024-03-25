@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "A prediction for 24, plus some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions &amp; bonus tracks.",
+  "description": "Which is going to be the song of Summer? This is a prediction for 24, plus some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions &amp; bonus tracks.",
   "name": "Obama\u2019s Summer Playlist 2024",
   "tracks": [
     {
@@ -1648,7 +1648,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 170000,
       "name": "Afraid Of Love",
       "url": "https://open.spotify.com/track/3bAw3BSH1bEiQkKDI7PrMe"
@@ -5920,7 +5920,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 167496,
       "name": "Better Sides of You",
       "url": "https://open.spotify.com/track/1wbXPTiCZst95aXfw0seN7"
@@ -7372,7 +7372,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 210709,
       "name": "Breaking through",
       "url": "https://open.spotify.com/track/3U2nb36CbCFxT9AURBwLDj"
@@ -11937,6 +11937,24 @@
     },
     {
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "album": {
         "name": "Take Care",
         "url": "https://open.spotify.com/album/6hQcfoz14uxwpdcUQFQHLf"
       },
@@ -14800,7 +14818,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 208676,
       "name": "Down That Road",
       "url": "https://open.spotify.com/track/2zsZpL5pcDuQfmhHqMNWRw"
@@ -26005,6 +26023,28 @@
     },
     {
       "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "album": {
         "name": "Mingus Mingus Mingus Mingus Mingus",
         "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH"
       },
@@ -29034,6 +29074,24 @@
       "duration_ms": 196415,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/1CdLBMtqP3zlGkDu7hmVKs"
+    },
+    {
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270066,
+      "name": "Last Train to London",
+      "url": "https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz"
     },
     {
       "album": {
@@ -32117,6 +32175,28 @@
     },
     {
       "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213400,
+      "name": "LOVE. FEAT. ZACARI.",
+      "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
+    },
+    {
+      "album": {
         "name": "Lovely News",
         "url": "https://open.spotify.com/album/6uOZQjuqWO9aUN8dhwnBXj"
       },
@@ -32172,7 +32252,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -33911,6 +33991,24 @@
     },
     {
       "album": {
+        "name": "Broken Hearts In July",
+        "url": "https://open.spotify.com/album/406S9FqZntN36Zoa3vESrJ"
+      },
+      "artists": [
+        {
+          "name": "TacomaTowers",
+          "url": "https://open.spotify.com/artist/524pObtOC0bqsQrRn40LZj"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205840,
+      "name": "Midnight Escapade",
+      "url": "https://open.spotify.com/track/4blk7HAlfiyNRIOZs45Pit"
+    },
+    {
+      "album": {
         "name": "in visions",
         "url": "https://open.spotify.com/album/1ZzWmedX56EuXfdaJxPZX6"
       },
@@ -34282,7 +34380,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 154285,
       "name": "Mira (Frikitona)",
       "url": "https://open.spotify.com/track/0mXp3KqWNGwLKfDu4YCqU4"
@@ -39622,7 +39720,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 202320,
       "name": "Oxbow Shower",
       "url": "https://open.spotify.com/track/6x7raSSPAeGs3SVTrzP5JB"
@@ -39698,6 +39796,24 @@
       "duration_ms": 147757,
       "name": "PAINLESS",
       "url": "https://open.spotify.com/track/2DBzFlduaVzw2EHdP1ZnbG"
+    },
+    {
+      "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
       "album": {
@@ -40096,6 +40212,24 @@
       "duration_ms": 182479,
       "name": "Pathetic",
       "url": "https://open.spotify.com/track/2jYS10MplyTqldMnvXjROC"
+    },
+    {
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/240tdkJqWdtxRkRKgcTE1E"
+      },
+      "artists": [
+        {
+          "name": "E'Lanah",
+          "url": "https://open.spotify.com/artist/2DMHbLQHNaBVpFoIQWAAZJ"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128640,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/11Y8QdmR0stxwNVKUY6amJ"
     },
     {
       "album": {
@@ -50561,6 +50695,28 @@
     },
     {
       "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198437,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX"
+    },
+    {
+      "album": {
         "name": "FAVORITE & TALK2ME!",
         "url": "https://open.spotify.com/album/6IRbzW5EOpn5uX3bhSejiV"
       },
@@ -53877,6 +54033,24 @@
     },
     {
       "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "album": {
         "name": "Tramp Like You",
         "url": "https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df"
       },
@@ -54040,7 +54214,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 175067,
       "name": "Tricks",
       "url": "https://open.spotify.com/track/7BDCfEQMw62mQDAZBrzh9n"
@@ -57088,6 +57262,28 @@
       "duration_ms": 152076,
       "name": "We Dey",
       "url": "https://open.spotify.com/track/5KryeTvG0C02vF9cpgZrYA"
+    },
+    {
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226213,
+      "name": "We Don't Trust You",
+      "url": "https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1"
     },
     {
       "album": {

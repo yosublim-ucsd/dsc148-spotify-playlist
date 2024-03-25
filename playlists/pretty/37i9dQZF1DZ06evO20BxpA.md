@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 20 | [Baby Blue \- From "Our Planet"](https://open.spotify.com/track/27dFvWT96WZcLjpLmJ9WnK) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 4:51 |
 | 21 | [The Age of Giants](https://open.spotify.com/track/5cFaQ1UlmXa4UHYctK7hpT) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 4:00 |
 | 22 | [This Road is a Suicide Mission](https://open.spotify.com/track/15Vk6UHrHlpCpgwqhSQN7d) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 1:38 |
-| 23 | [Soyuz](https://open.spotify.com/track/1k6X3Rug5zeeKBXxIg8prc) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 1:42 |
+| 23 | [This Is My Home](https://open.spotify.com/track/3idWon2PSx8X7LE31Lzagp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 3:43 |
 | 24 | [The Next Twenty Years \- From "Our Planet"](https://open.spotify.com/track/2GWv7nrW3EYNclXKi5jOhA) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 1:41 |
-| 25 | [This Is My Home](https://open.spotify.com/track/3idWon2PSx8X7LE31Lzagp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 3:43 |
+| 25 | [Soyuz](https://open.spotify.com/track/1k6X3Rug5zeeKBXxIg8prc) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 1:42 |
 | 26 | [Moon Phases](https://open.spotify.com/track/0a5P31i4G47JQOVYiTnC8j) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 2:12 |
 | 27 | [My Beloved Spake](https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 3:10 |
 | 28 | [The Process of Extinctions](https://open.spotify.com/track/0CGFoSLihWAehdjHM8mttL) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 49 | [Remember When We Said Goodbye \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/3ZTy9uTIcCgld86aVuuHe4) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Remember When We Said Goodbye \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/album/07eHCynOTkf1K3FocJLxP2) | 3:27 |
 | 50 | [To Lose Himself in Vengeance](https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 7:01 |
 
-Snapshot ID: `Mjg1MTk5NTcsMDAwMDAwMDBiMWFlM2YyMjJkMjRlYzdkYTYyODk4NWM2ZTBkMTAxYw==`
+Snapshot ID: `Mjg1MjEzNzAsMDAwMDAwMDAzOGQ2YTBlZTM2NzZkMTljMjM1NTNhNzc0NTlkYmU1Yw==`

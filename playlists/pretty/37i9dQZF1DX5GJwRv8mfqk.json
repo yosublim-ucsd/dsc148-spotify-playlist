@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A la antig\u00fcita, chiquitita! Las canciones escritas e interpretadas por Ed\u00e9n Mu\u00f1oz \ud83e\udd20",
-  "num_followers": 114244,
+  "num_followers": 114328,
   "original_name": "Cancionero Ed\u00e9n Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWMzODU0N2VhYjJhODJmZWRlMzhmMzRhYzVlMzZlYjI5ZjExNzZk",
+  "snapshot_id": "MCw1NDY3NDcxNDg0MjE3Y2U1MWIwNDkzN2M3NzkzY2U0NDdiZDE5ODA2",
   "tracks": [
     {
       "added_at": "2022-05-25 16:50:02",
@@ -231,18 +231,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
+        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX"
       },
       "artists": [
         {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Coloso",
+          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
         }
       ],
-      "duration_ms": 149812,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
+      "duration_ms": 226815,
+      "name": "El Amor No Fue Pa\u00b4 M\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -263,22 +267,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX"
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda Coloso",
-          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
         }
       ],
-      "duration_ms": 226815,
-      "name": "El Amor No Fue Pa\u00b4 M\u00ed - En Vivo",
-      "url": "https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi"
+      "duration_ms": 149812,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -311,22 +311,6 @@
       "duration_ms": 281400,
       "name": "Tu Postura",
       "url": "https://open.spotify.com/track/4RNzKQEzmlvVHca4t6Txkj"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 177625,
-      "name": "El Quijote De Don Chuy",
-      "url": "https://open.spotify.com/track/26zCUlNao14hL4HmfgmRTp"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -367,6 +351,22 @@
       "duration_ms": 144773,
       "name": "Bien Servida",
       "url": "https://open.spotify.com/track/3p6proGvaIQ3pv1aAcLQvb"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 177625,
+      "name": "El Quijote De Don Chuy",
+      "url": "https://open.spotify.com/track/26zCUlNao14hL4HmfgmRTp"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
+        "name": "Borracho de Cochera",
+        "url": "https://open.spotify.com/album/1q7DcJHh8ZPTGssEgjgLky"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 214253,
-      "name": "T\u00fa Me Ca\u00edste del Cielo",
-      "url": "https://open.spotify.com/track/4mOWg68kBBDgyUqP0mgGh0"
+      "duration_ms": 186408,
+      "name": "Borracho de Cochera",
+      "url": "https://open.spotify.com/track/1CSAJGvCFUh7jC1bj1oUbT"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Borracho de Cochera",
-        "url": "https://open.spotify.com/album/1q7DcJHh8ZPTGssEgjgLky"
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
         }
       ],
-      "duration_ms": 186408,
-      "name": "Borracho de Cochera",
-      "url": "https://open.spotify.com/track/1CSAJGvCFUh7jC1bj1oUbT"
+      "duration_ms": 214253,
+      "name": "T\u00fa Me Ca\u00edste del Cielo",
+      "url": "https://open.spotify.com/track/4mOWg68kBBDgyUqP0mgGh0"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
         }
       ],
-      "duration_ms": 150506,
-      "name": "Empiernada Con la Soledad",
-      "url": "https://open.spotify.com/track/1eI4aei3n9oAo3pgsOvVKC"
+      "duration_ms": 226125,
+      "name": "Y Com\u00f3 Te Olvido",
+      "url": "https://open.spotify.com/track/5w82rZqavReI9SCNUHufi6"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -675,18 +675,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
       },
       "artists": [
         {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 226125,
-      "name": "Y Com\u00f3 Te Olvido",
-      "url": "https://open.spotify.com/track/5w82rZqavReI9SCNUHufi6"
+      "duration_ms": 150506,
+      "name": "Empiernada Con la Soledad",
+      "url": "https://open.spotify.com/track/1eI4aei3n9oAo3pgsOvVKC"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Con Ganas",
-        "url": "https://open.spotify.com/album/7cmbCznHxkaTG8DdsXxmep"
+        "name": "Queri\u00e9ndote M\u00e1s",
+        "url": "https://open.spotify.com/album/0QuH4KokzaCQO8QREhJ7y2"
       },
       "artists": [
         {
-          "name": "Revolver Cannabis",
-          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
+          "name": "Los Canarios De Michoacan",
+          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
         }
       ],
-      "duration_ms": 155307,
-      "name": "Con Ganas",
-      "url": "https://open.spotify.com/track/0WlWIOn3ENBteSRbySOwMH"
+      "duration_ms": 194253,
+      "name": "Pero Que Te Esta Pasando Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5Mjog2lFqO5BEFHjCPk8PN"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Queri\u00e9ndote M\u00e1s",
-        "url": "https://open.spotify.com/album/0QuH4KokzaCQO8QREhJ7y2"
+        "name": "Con Ganas",
+        "url": "https://open.spotify.com/album/7cmbCznHxkaTG8DdsXxmep"
       },
       "artists": [
         {
-          "name": "Los Canarios De Michoacan",
-          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
+          "name": "Revolver Cannabis",
+          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
         }
       ],
-      "duration_ms": 194253,
-      "name": "Pero Que Te Esta Pasando Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5Mjog2lFqO5BEFHjCPk8PN"
+      "duration_ms": 155307,
+      "name": "Con Ganas",
+      "url": "https://open.spotify.com/track/0WlWIOn3ENBteSRbySOwMH"
     },
     {
       "added_at": "2022-05-25 16:50:02",

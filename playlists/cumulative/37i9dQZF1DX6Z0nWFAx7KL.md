@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-198 songs - 9 hr 58 min
+199 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Easy To Love](https://open.spotify.com/track/36fFojPImg5YSuktc7ph3j) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Easy To Love](https://open.spotify.com/album/5yFZxRJaW7Vrc7lV8cXl7s) | 2:31 | 2023-03-18 | 2023-04-03 |
 | [Echo \[Chaël Remix\]](https://open.spotify.com/track/0tYWJ4GvHzNvcbh9hLRFAX) | [MKJ](https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0), [YOTO](https://open.spotify.com/artist/1oFSLlpB3eM6V7Ka71a8Lx), [AVY X](https://open.spotify.com/artist/6CfEqFJScEOoO0meiW88px), [Chaël](https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk) | [Echo \[Chaël Remix\]](https://open.spotify.com/album/1QjzaTNqb5lC73XzhfG1Lv) | 2:33 | 2022-12-29 | 2023-03-18 |
 | [Elenore](https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Forever, Now](https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE) | 4:34 | 2023-02-16 |  |
-| [Elsewhere](https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Reconnect](https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG) | 3:13 | 2024-03-19 |  |
+| [Elsewhere](https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Reconnect](https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG) | 3:13 | 2024-03-19 | 2024-03-25 |
 | [Escaping](https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Urban Love](https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7) | [Escaping](https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn) | 2:44 | 2022-09-15 |  |
 | [Even If You Don't](https://open.spotify.com/track/5XSjmXj79UdVdT5ndQHM2x) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh) | [Even If You Don't](https://open.spotify.com/album/21uycqDEGwq19UBzFrmqlh) | 2:36 | 2022-09-15 | 2022-09-30 |
 | [Eye Of The Storm](https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Eye Of The Storm](https://open.spotify.com/album/0vsRGsVo9fxGyuCOYiIvey) | 2:27 | 2022-09-15 | 2023-05-13 |
@@ -101,6 +101,7 @@
 | [ilomilo](https://open.spotify.com/track/5zZaxeRo4e09KUJ5sbEC7Q) | [MBNN](https://open.spotify.com/artist/0ZXntjSej6WUvpEMkRgwKJ), [Rowald Steyn](https://open.spotify.com/artist/4IPKNc0sHqlSECkJNX7moj) | [ilomilo](https://open.spotify.com/album/2OcIdyZT6qespG0S1MuxYY) | 3:01 | 2022-09-15 | 2022-11-17 |
 | [In The Sun](https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [In The Sun](https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy) | 2:32 | 2022-09-15 | 2024-03-21 |
 | [Inner Light](https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Inner Light](https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z) | 3:28 | 2022-10-21 |  |
+| [Inside My Love](https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Inside My Love](https://open.spotify.com/album/1Q0eIT8icImeOZOFv2hggZ) | 2:28 | 2024-03-21 |  |
 | [Is It All](https://open.spotify.com/track/010l3mhzEoYzVy1XuOJSPK) | [PLVTO](https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Is It All](https://open.spotify.com/album/3mS24Mj9B2t4VekyKjko2c) | 2:55 | 2023-05-18 | 2023-06-28 |
 | [Is It All](https://open.spotify.com/track/1x1x0iaQx8peMU7wYVxfXH) | [PLVTO](https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Is It All](https://open.spotify.com/album/4fc5iBGvs6R2JP7JHZddS5) | 2:55 | 2023-05-18 | 2023-05-20 |
 | [Juno Love](https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy) | [Nico Morano](https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz), [Mewhy](https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31) | [Juno Love](https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38) | 7:26 | 2023-04-06 | 2024-02-08 |

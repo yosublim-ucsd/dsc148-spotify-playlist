@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 68725,
+  "2024-03-25": 68724,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Australia.",
   "name": "Viral 50 - Australia",
@@ -838,6 +838,28 @@
     },
     {
       "album": {
+        "name": "Disco Cone (Take It High) [ft. WENZL]",
+        "url": "https://open.spotify.com/album/60S00zDlfsP8UPGjMmTSH2"
+      },
+      "artists": [
+        {
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+        },
+        {
+          "name": "WENZL",
+          "url": "https://open.spotify.com/artist/20TzJXkB1BHRDiazEqsf8r"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131367,
+      "name": "Disco Cone (Take It High) [ft. WENZL]",
+      "url": "https://open.spotify.com/track/59IA01UnxFiJhxWXpG24mM"
+    },
+    {
+      "album": {
         "name": "Don't Let the Old Man In",
         "url": "https://open.spotify.com/album/1lsOkbVF2Wk8U1IrF3FWLa"
       },
@@ -1459,7 +1481,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 179999,
       "name": "If U Need It",
       "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
@@ -1539,6 +1561,24 @@
       "duration_ms": 257798,
       "name": "iluv",
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
+    },
+    {
+      "album": {
+        "name": "Intergalactic Janet",
+        "url": "https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj"
+      },
+      "artists": [
+        {
+          "name": "Ley Soul",
+          "url": "https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160440,
+      "name": "Intergalactic Janet",
+      "url": "https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87"
     },
     {
       "album": {
@@ -2998,6 +3038,24 @@
     },
     {
       "album": {
+        "name": "Smart (Remixes)",
+        "url": "https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166384,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
+    },
+    {
+      "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
       },
@@ -3009,7 +3067,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 166384,
       "name": "Smart",
       "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
@@ -3827,7 +3885,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 164284,
       "name": "Von dutch",
       "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"

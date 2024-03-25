@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-577 songs - 1 day 4 hr 25 min
+578 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Fo' Rilly Flow](https://open.spotify.com/track/0h9O7fUWZFuVZLbec9f1Qz) | [Scribe Music](https://open.spotify.com/artist/6Sje0vb62lzeO204N9yh0n), [Marc Stevens](https://open.spotify.com/artist/1fmn2V2H1bqmwk9SCdnuCd), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav) | [Fo' Rilly Flow](https://open.spotify.com/album/4NYHAo56V6kokxfU2w80VF) | 2:54 | 2022-02-04 | 2023-12-02 |
 | [Follow God](https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 1:44 | 2022-03-23 | 2022-04-21 |
 | [Fomo](https://open.spotify.com/track/5Ja76bp5YMG6VueTslLKY1) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi), [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM) | [Fomo](https://open.spotify.com/album/6nxKmkJaErcYxUifCLY4Kv) | 2:30 | 2022-04-30 | 2023-09-02 |
-| [For A Reason](https://open.spotify.com/track/4F1jcSm2zz4hAXUsR1UgIX) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [For A Reason](https://open.spotify.com/album/7nAaP5Pj1OIdl8Zwl0oDVV) | 2:41 | 2024-02-02 |  |
+| [For A Reason](https://open.spotify.com/track/4F1jcSm2zz4hAXUsR1UgIX) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [For A Reason](https://open.spotify.com/album/7nAaP5Pj1OIdl8Zwl0oDVV) | 2:41 | 2024-02-02 | 2024-03-25 |
 | [Forever](https://open.spotify.com/track/5hgv7WVjHPUjPBxY4M9fHB) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk) | [Forever](https://open.spotify.com/album/6Y3FWXwfalkRuK7lU73dmC) | 2:29 | 2022-07-17 | 2023-09-24 |
 | [Free Indeed](https://open.spotify.com/track/5pNmR0MvE9gIgUtSRztigH) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Free Indeed](https://open.spotify.com/album/1KZqdnvhw3QTDTSXQFgR13) | 3:07 | 2023-08-11 |  |
 | [Freedom](https://open.spotify.com/track/3z6e2jZFuNrLFE6nXrSPTa) | [A\-Eazy](https://open.spotify.com/artist/1XhOpjLTSElOphEUHoCdO2), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [Message Muzik](https://open.spotify.com/artist/2Zb6NqJgw5gvlXuW9Ww0i0) | [Freedom](https://open.spotify.com/album/0CgRpgsbDEV7uiiZBsdrqp) | 2:27 | 2024-02-02 |  |
@@ -255,6 +255,7 @@
 | [I Need Peace](https://open.spotify.com/track/1b9yRZtZfHemIdpHYtpckC) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [I Need Peace](https://open.spotify.com/album/11EUwsiZq5KFq5uTf94neJ) | 3:21 | 2022-10-01 | 2023-08-12 |
 | [I REMEMBER](https://open.spotify.com/track/7y0EHJhDC5ZOxA6Nx6the1) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [I REMEMBER](https://open.spotify.com/album/0Iy7mzJgjUgLxR5kRnc8KA) | 1:49 | 2024-02-02 |  |
 | [I See Lights](https://open.spotify.com/track/1mNj0r1ucdoF7uiCSvrCr6) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [I See Lights](https://open.spotify.com/album/2NA9BImAH2XGChG1HBVbYc) | 1:55 | 2024-01-12 | 2024-03-22 |
+| [I See Lights](https://open.spotify.com/track/2tevNriyzWHKDEIKw5UtAe) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [We Already Won](https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx) | 1:55 | 2024-03-20 |  |
 | [I Will Not](https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh) | [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4), [Bryann T](https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0), [Dax Hamma](https://open.spotify.com/artist/413WzacllGaX7jg4EzFxiY) | [I Will Not](https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw) | 3:36 | 2022-07-17 | 2024-01-13 |
 | [I'll Fight for You](https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [I'll Fight for You](https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy) | 2:47 | 2022-02-04 | 2022-05-29 |
 | [ICE COLD](https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [JUDAS](https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE) | 1:40 | 2022-11-04 | 2024-01-13 |

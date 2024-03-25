@@ -1,12 +1,12 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Sotam",
-  "num_followers": 129469,
+  "num_followers": 129491,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWJhY2YxMDJmMDliNzA3YWFhM2E2YzQ1ZjZmOTA0OTRjNzU5Njli",
+  "snapshot_id": "MCw1OTE4Y2FkOTlhNzcwYTFjY2Q2YmIzNTRhOWE2MzY4N2FkZjY5NmE5",
   "tracks": [
     {
       "added_at": "2024-03-22 14:40:52",
@@ -1127,6 +1127,38 @@
     {
       "added_at": "2024-03-22 14:40:52",
       "album": {
+        "name": "Darma",
+        "url": "https://open.spotify.com/album/5O0eyzHsfXfRQuHRV0X1tL"
+      },
+      "artists": [
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Ribb",
+          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "duration_ms": 176633,
+      "name": "Nosso Momento",
+      "url": "https://open.spotify.com/track/0Veziue3ma20ib0JUzARrV"
+    },
+    {
+      "added_at": "2024-03-22 14:40:52",
+      "album": {
         "name": "A Moda Antiga",
         "url": "https://open.spotify.com/album/5FEknIpgVG1BDUdR7oZwgA"
       },
@@ -1199,6 +1231,22 @@
     {
       "added_at": "2024-03-22 14:40:52",
       "album": {
+        "name": "Ent\u00e3o Fala",
+        "url": "https://open.spotify.com/album/09y2EY8F8K2TL0vw9aW6B1"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/1cgvca5ZA1r3sB0cUyY4sM"
+        }
+      ],
+      "duration_ms": 129317,
+      "name": "Ent\u00e3o Fala",
+      "url": "https://open.spotify.com/track/1OPbTsylCpBg0GtrJkKzVs"
+    },
+    {
+      "added_at": "2024-03-22 14:40:52",
+      "album": {
         "name": "Os Irm\u00e3o Metralha",
         "url": "https://open.spotify.com/album/5CNVRlJD0CosQCBdoVkpyv"
       },
@@ -1219,54 +1267,6 @@
       "duration_ms": 140800,
       "name": "Bebeto & Rom\u00e1rio",
       "url": "https://open.spotify.com/track/1UHfOlHWNVRK4jDnTZ4NeO"
-    },
-    {
-      "added_at": "2024-03-22 14:40:52",
-      "album": {
-        "name": "Ent\u00e3o Fala",
-        "url": "https://open.spotify.com/album/09y2EY8F8K2TL0vw9aW6B1"
-      },
-      "artists": [
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/1cgvca5ZA1r3sB0cUyY4sM"
-        }
-      ],
-      "duration_ms": 129317,
-      "name": "Ent\u00e3o Fala",
-      "url": "https://open.spotify.com/track/1OPbTsylCpBg0GtrJkKzVs"
-    },
-    {
-      "added_at": "2024-03-22 14:40:52",
-      "album": {
-        "name": "Darma",
-        "url": "https://open.spotify.com/album/5O0eyzHsfXfRQuHRV0X1tL"
-      },
-      "artists": [
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Ribb",
-          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
-        },
-        {
-          "name": "2050",
-          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
-        }
-      ],
-      "duration_ms": 176633,
-      "name": "Nosso Momento",
-      "url": "https://open.spotify.com/track/0Veziue3ma20ib0JUzARrV"
     },
     {
       "added_at": "2024-03-22 14:40:52",

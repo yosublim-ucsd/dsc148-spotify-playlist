@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 73294,
+  "num_followers": 73283,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjkzNDc0ZDRkYWVhMzk5OTEyN2M0MjVmZWJjZDZjYTNlMTI0Mjc3",
+  "snapshot_id": "MCw2ZGM0MTI5MjFhMGI4ZDMxODk3YTRkYTVlMWEzZTg5ZTNhYWUyMDFk",
   "tracks": [
     {
       "added_at": "2023-12-19 12:10:20",
@@ -99,22 +99,18 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
-        "name": "Christmas Greetings",
-        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
+        "name": "Bing's Gold Records - The Original Decca Recordings",
+        "url": "https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW"
       },
       "artists": [
         {
           "name": "Bing Crosby",
           "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
         }
       ],
-      "duration_ms": 183412,
-      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
-      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
+      "duration_ms": 183000,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI"
     },
     {
       "added_at": "2023-12-19 12:10:20",
@@ -199,18 +195,22 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
-        "name": "Bing's Gold Records - The Original Decca Recordings",
-        "url": "https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW"
+        "name": "Christmas Greetings",
+        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
       },
       "artists": [
         {
           "name": "Bing Crosby",
           "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
         }
       ],
-      "duration_ms": 183000,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI"
+      "duration_ms": 183412,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
     },
     {
       "added_at": "2023-12-19 12:10:20",

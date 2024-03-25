@@ -1,12 +1,12 @@
 {
   "description": "The very best in new music from around the world. Cover: Shakira",
-  "num_followers": 390265,
+  "num_followers": 390683,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzRkNmUwOWQ2MGY4OTY3ZGViOWUxZDkzODc5OWNkMWMyOThmMDEx",
+  "snapshot_id": "MCw1MDIxODNlNWY0NWU4NjY5NjIzYTM4ODhhMTM3NTIxNDk2ZTRhMWIy",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -58,6 +58,14 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 228266,
@@ -514,6 +522,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "duration_ms": 267706,

@@ -14785,6 +14785,24 @@
     },
     {
       "album": {
+        "name": "L\u00e0 T\u1eeb L\u00fac",
+        "url": "https://open.spotify.com/album/75y35MEEKSOd8tSS8T6am0"
+      },
+      "artists": [
+        {
+          "name": "Nguy\u1ec5n Minh Xu\u00e2n \u00c1i",
+          "url": "https://open.spotify.com/artist/6q7zgDxCtOdvzKnTK6Er4x"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266657,
+      "name": "L\u00e0 T\u1eeb L\u00fac",
+      "url": "https://open.spotify.com/track/1fgzQI6AtswiR0JMXulldH"
+    },
+    {
+      "album": {
         "name": "l\u00e0m b\u1ea1n thui",
         "url": "https://open.spotify.com/album/5rqyAltp3dNW4Y0uYG25M7"
       },

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 366374,
+  "num_followers": 366454,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDMyYmJhMjgzOGFhM2VhMzAzZWRiODFiZWRiYWViYTZmNDlmZmI0",
+  "snapshot_id": "MCwzYjUxNGE1Zjc4MjBkMmE0OGE1YmEyYWFiNjAxNjBhNTg4NmU3ZmY1",
   "tracks": [
     {
       "added_at": "2023-08-23 14:56:37",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Ten Thousand Fists",
-        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 287066,
-      "name": "Land of Confusion",
-      "url": "https://open.spotify.com/track/4ClGNWLK9vZMBtO0CpnyOE"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "ReAniMate: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2fwH1QL0wgnbbXiHWCYs1D"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 248400,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/0n3sHHfdOq6Awix3JPe3xl"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Ten Thousand Fists",
+        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 287066,
+      "name": "Land of Confusion",
+      "url": "https://open.spotify.com/track/4ClGNWLK9vZMBtO0CpnyOE"
     },
     {
       "added_at": "2023-08-23 14:56:37",

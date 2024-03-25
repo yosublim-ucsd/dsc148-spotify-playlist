@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain]
 
 > Did you hear that?
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,191 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,237 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain]
 | 21 | [Beat the Devil's Tattoo](https://open.spotify.com/track/61OOEzfcJvTLHhFiLZOGRN) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII) | 3:45 |
 | 22 | [Deranged for Rock & Roll](https://open.spotify.com/track/0Fs7jajFWWfBcC4Mox3m7p) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Birth of Violence](https://open.spotify.com/album/6bpgmfwTWBLxT7VuS1phjL) | 3:31 |
 | 23 | [Jupiter 4](https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 5:14 |
-| 24 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
+| 24 | [Spellbound](https://open.spotify.com/track/28rmYerSDjX81r5KCevY7G) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Best Of...](https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX) | 3:17 |
 | 25 | [Widow's Peak](https://open.spotify.com/track/7HZXCvX14bnNOW0o8AbAmA) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/32Qe8dNUwWqPzsXn9efgz8) | 3:51 |
 | 26 | [Uninvited](https://open.spotify.com/track/7c1iI6dwdCpHGYT8DGEfab) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 4:36 |
 | 27 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain]
 | 74 | [The Hunger](https://open.spotify.com/track/7l9yrvHssOAcOUcrV39lQX) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 4:59 |
 | 75 | [Easy \(Switch Screens\) \[feat\. Lorde\]](https://open.spotify.com/track/2mKply9i2G0MVrkNSY0m5x) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Alternate Worlds](https://open.spotify.com/album/7fRSmnWeRIFZCZ1Ng2m5m7) | 4:22 |
 
-Snapshot ID: `MCw2Y2NkYjQzMzczNmEwYmVlMTZkM2NiMzFjMjdhMzQ1ZjhiMjcyY2Ew`
+Snapshot ID: `MCwzMDEwNWEzODNlZDkwZTExNGM3OWNmOTc1OGI2Njk2N2QzMWM2OWZh`

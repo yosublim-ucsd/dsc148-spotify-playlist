@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Sevek
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,496 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,532 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 59 | [Out of Time](https://open.spotify.com/track/5ePXQ8wBycFbweVtBsqTjB) | [Pic Schmitz](https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl) | [Out of Time](https://open.spotify.com/album/3e8PYgcrCI6sDOQKXXhhRq) | 2:47 |
 | 60 | [Dance Is The Answer \(feat\. Raja Ram\)](https://open.spotify.com/track/56rqKeuhAVv2E6RK5BifIS) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1), [Raja Ram](https://open.spotify.com/artist/5jBTxtjj3Y3cDgoqWbFJxy) | [Dance Is The Answer \(feat\. Raja Ram\)](https://open.spotify.com/album/0mdXH0pJA8KKW8abGrS3o8) | 5:29 |
 
-Snapshot ID: `MCw3NWYxZGFiMDQ4ZTU2M2ZlM2JjNDM2OTg3ZTU1NTZhNjJmOGRlY2Rm`
+Snapshot ID: `MCw5OWRkMzQwYWY2MzMwMzU3YmRiOTU0YzdjZTk1ZjMyOTk1MTUwMWMy`

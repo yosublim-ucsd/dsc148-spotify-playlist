@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 
 > Colourful songs to kickstart your Holi party! Cover \- Yeh Jawaani Hai Deewani
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,229 likes - 74 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,224 likes - 74 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 | 73 | [High Rated Gabru](https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Nawabzaade](https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk) | 2:59 |
 | 74 | [Aaj Ki Party](https://open.spotify.com/track/1vmQPVE7vbgSZ12C8MlKX8) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 4:40 |
 
-Snapshot ID: `MCxjNTAzYzNlYTVmYWI4ZDBmNGNlZWRmY2U0ZGMxZGYxNWI5MDA4OWEx`
+Snapshot ID: `MCwxMzRiZmRlZGEyYzYwYjkyZGMwZjFlZjE3NzU2NGFjNjkxYzJkNzE4`

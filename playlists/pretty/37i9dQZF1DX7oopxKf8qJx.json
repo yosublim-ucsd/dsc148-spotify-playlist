@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 86133,
+  "num_followers": 86210,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzczODBkYmQzODVmMDRkZDcxZDcxYzhkY2Y5NDcxMzkyZmJjZjE3",
+  "snapshot_id": "MCw2OTk0Nzk0ZWFjYWI4OGM5YWU5ZDdmZmY1M2E1M2IwNGVlM2EzMDNm",
   "tracks": [
     {
       "added_at": "2024-03-20 13:27:06",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
+        "name": "With Compliments",
+        "url": "https://open.spotify.com/album/71SySWPySOQJiMsyQgmn1d"
+      },
+      "artists": [
+        {
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+        }
+      ],
+      "duration_ms": 184520,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/3n4x97RfPCjiGy9KoWCKZ2"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
         "name": "The Third Man - Cinema Gala",
         "url": "https://open.spotify.com/album/3IHT3DgvdFtEwScd0d60Qn"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 160000,
       "name": "Moon River - From \"Breakfast At Tiffanys\"",
       "url": "https://open.spotify.com/track/2BpyzY3nIhoqF37Xh5TMr8"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
-        "name": "With Compliments",
-        "url": "https://open.spotify.com/album/71SySWPySOQJiMsyQgmn1d"
-      },
-      "artists": [
-        {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
-        }
-      ],
-      "duration_ms": 184520,
-      "name": "El Condor Pasa",
-      "url": "https://open.spotify.com/track/3n4x97RfPCjiGy9KoWCKZ2"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -159,18 +159,18 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "I Only Have Eyes for You",
-        "url": "https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE"
+        "name": "As Time Goes By",
+        "url": "https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS"
       },
       "artists": [
         {
-          "name": "Hugo Winterhalter And His Orchestra",
-          "url": "https://open.spotify.com/artist/0I8ekdWabNnWyuOtVuW2DL"
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         }
       ],
-      "duration_ms": 160320,
-      "name": "You'll Never Know - Instrumental",
-      "url": "https://open.spotify.com/track/0sQ0BzLHZfX9TLXvNROcjh"
+      "duration_ms": 207640,
+      "name": "The Summer Knows (From \"Summer of '42\")",
+      "url": "https://open.spotify.com/track/4852V4r33kQtMIWscamrac"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -191,18 +191,18 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "As Time Goes By",
-        "url": "https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS"
+        "name": "I Only Have Eyes for You",
+        "url": "https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE"
       },
       "artists": [
         {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+          "name": "Hugo Winterhalter And His Orchestra",
+          "url": "https://open.spotify.com/artist/0I8ekdWabNnWyuOtVuW2DL"
         }
       ],
-      "duration_ms": 207640,
-      "name": "The Summer Knows (From \"Summer of '42\")",
-      "url": "https://open.spotify.com/track/4852V4r33kQtMIWscamrac"
+      "duration_ms": 160320,
+      "name": "You'll Never Know - Instrumental",
+      "url": "https://open.spotify.com/track/0sQ0BzLHZfX9TLXvNROcjh"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -275,24 +275,8 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "A Warm Shade of Ivory",
-        "url": "https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 185680,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
-        "name": "Music, Martinis And Memories",
-        "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
+        "name": "Music For Lovers Only",
+        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
       },
       "artists": [
         {
@@ -300,9 +284,29 @@
           "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 194880,
-      "name": "Once In A While",
-      "url": "https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm"
+      "duration_ms": 185400,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
+        "name": "The Pops Goes Country (with Boston Pops Orchestra)",
+        "url": "https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq"
+      },
+      "artists": [
+        {
+          "name": "Chet Atkins",
+          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "Tennessee Waltz (with Boston Pops Orchestra)",
+      "url": "https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -335,38 +339,18 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "The Pops Goes Country (with Boston Pops Orchestra)",
-        "url": "https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq"
+        "name": "A Warm Shade of Ivory",
+        "url": "https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8"
       },
       "artists": [
         {
-          "name": "Chet Atkins",
-          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
-        },
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         }
       ],
-      "duration_ms": 163893,
-      "name": "Tennessee Waltz (with Boston Pops Orchestra)",
-      "url": "https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
-        "name": "The Best Of Nelson Riddle",
-        "url": "https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl"
-      },
-      "artists": [
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "The Green Leaves Of Summer",
-      "url": "https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv"
+      "duration_ms": 185680,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -383,6 +367,38 @@
       "duration_ms": 148106,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
+        "name": "Music, Martinis And Memories",
+        "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
+        "name": "The Best Of Nelson Riddle",
+        "url": "https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "The Green Leaves Of Summer",
+      "url": "https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -435,22 +451,6 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Music For Lovers Only",
-        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
         "name": "Two Pianos Today",
         "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
       },
@@ -487,30 +487,6 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Beyond The Sea",
-        "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
-      },
-      "artists": [
-        {
-          "name": "Robert Maxwell",
-          "url": "https://open.spotify.com/artist/61nzGtKcJqf1IpkvIOjAyB"
-        },
-        {
-          "name": "Carl Sigman",
-          "url": "https://open.spotify.com/artist/5ZbBu38Ltmu0G9xsRUKmZ2"
-        },
-        {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
-        }
-      ],
-      "duration_ms": 217266,
-      "name": "Ebb Tide",
-      "url": "https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
         "name": "American Serenade",
         "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
       },
@@ -543,6 +519,30 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
+        "name": "Beyond The Sea",
+        "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
+      },
+      "artists": [
+        {
+          "name": "Robert Maxwell",
+          "url": "https://open.spotify.com/artist/61nzGtKcJqf1IpkvIOjAyB"
+        },
+        {
+          "name": "Carl Sigman",
+          "url": "https://open.spotify.com/artist/5ZbBu38Ltmu0G9xsRUKmZ2"
+        },
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+        }
+      ],
+      "duration_ms": 217266,
+      "name": "Ebb Tide",
+      "url": "https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
         "name": "The Many Moods Of Murry Wilson",
         "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 168573,
       "name": "The Warmth Of The Sun",
       "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
-        "name": "Blue Midnight (Remastered)",
-        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Lonely Nightingale",
-      "url": "https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -591,6 +575,22 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
+        "name": "Blue Midnight (Remastered)",
+        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Lonely Nightingale",
+      "url": "https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
         "name": "I Wish You Love",
         "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 168666,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
+        "name": "American Serenade",
+        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Moon over Miami",
+      "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -651,22 +667,6 @@
       "duration_ms": 142066,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/2Rcv5YxzQkPokABVJeuQoy"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
-        "name": "American Serenade",
-        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Moon over Miami",
-      "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Champagne, Candlelight And Kisses",
-        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "Theme From \"Bus Stop\"",
-      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
         "name": "Plays Latin Themes For Young Lovers",
         "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 158373,
       "name": "How Insensitive",
       "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
+        "name": "Champagne, Candlelight And Kisses",
+        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 222786,
+      "name": "Theme From \"Bus Stop\"",
+      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -903,18 +903,22 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Charade",
-        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
+        "name": "28 Big Ones",
+        "url": "https://open.spotify.com/album/5KH8TO4JRHnxhpxSsxDKoQ"
       },
       "artists": [
         {
           "name": "Henry Mancini",
           "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "name": "Hugo Winterhalter",
+          "url": "https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53"
         }
       ],
-      "duration_ms": 179066,
-      "name": "Megeve",
-      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
+      "duration_ms": 156546,
+      "name": "The Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/4XD9xETG2OuWta7mXyUVVe"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -1163,22 +1167,18 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "28 Big Ones",
-        "url": "https://open.spotify.com/album/5KH8TO4JRHnxhpxSsxDKoQ"
+        "name": "Charade",
+        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
       },
       "artists": [
         {
           "name": "Henry Mancini",
           "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        },
-        {
-          "name": "Hugo Winterhalter",
-          "url": "https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53"
         }
       ],
-      "duration_ms": 156546,
-      "name": "The Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/4XD9xETG2OuWta7mXyUVVe"
+      "duration_ms": 179066,
+      "name": "Megeve",
+      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
     }
   ],
   "unique_name": "Classic Easy Listening",

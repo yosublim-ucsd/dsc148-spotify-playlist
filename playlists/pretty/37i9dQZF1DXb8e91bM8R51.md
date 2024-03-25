@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,581 likes - 120 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,588 likes - 120 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 81 | [MAGIC](https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC](https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u) | 3:46 |
 | 82 | [I Won](https://open.spotify.com/track/1viUV5EGlKGCiSveBfFeQg) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [I Won \[From F9 The Fast Saga Original Motion Picture Soundtrack\]](https://open.spotify.com/album/01RtA0qCjfGy0FY4ON23nD) | 2:55 |
 | 83 | [Walkin](https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Walkin](https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO) | 4:40 |
-| 84 | [luvu222](https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [luvu222](https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5) | 1:50 |
-| 85 | [All Good?](https://open.spotify.com/track/6Epbp3MOBM6UnFHyJokEAI) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Art Official Intelligence: Mosaic Thump](https://open.spotify.com/album/4SdFt1Q5HSQIk4lxPgjaPM) | 4:59 |
+| 84 | [All Good?](https://open.spotify.com/track/6Epbp3MOBM6UnFHyJokEAI) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Art Official Intelligence: Mosaic Thump](https://open.spotify.com/album/4SdFt1Q5HSQIk4lxPgjaPM) | 4:59 |
+| 85 | [luvu222](https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [luvu222](https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5) | 1:50 |
 | 86 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 |
 | 87 | [Insomniak \(feat\. Rick Ross\)](https://open.spotify.com/track/0qdSK9Nr5OAvWzPA5OHxw7) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:59 |
 | 88 | [EPMD 2 \(feat\. Eminem & EPMD\)](https://open.spotify.com/track/4bRPecD9suGW8CfNZhzjS1) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [King's Disease II](https://open.spotify.com/album/6CM5qhYBvpgYNek5kYwuOJ) | 3:34 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 119 | [Outlawz \(feat\. Jazmine Sullivan & 21 Savage\)](https://open.spotify.com/track/6rdKv5xmdOs3zsg6mpBK53) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Outlawz \(feat\. Jazmine Sullivan & 21 Savage\)](https://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY) | 4:49 |
 | 120 | [Zipcodes](https://open.spotify.com/track/2S3PBAzoPAxnmdOtdEuaLW) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 4:27 |
 
-Snapshot ID: `MCw0YmJlY2RlYzc2YmFlYjUxZWI2NmUyZjcwZDBhN2YxYzhhMDAzNmI4`
+Snapshot ID: `MCxlM2JlZWMwOTg2NzU2OGU3NGU0NWQ2MTI2ZjcxOGI2NTVmZWFmNDFi`

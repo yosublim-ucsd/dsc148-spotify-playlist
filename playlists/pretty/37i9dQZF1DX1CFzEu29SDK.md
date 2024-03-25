@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 
 > <a href="spotify:artist:7kNqXtgeIwFtelmRjWv205">John Summit</a>'s favorite tracks\. Curated by John Summit\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,000 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,045 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 | 49 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 |
 | 50 | [Fearing Love \- Club Mix](https://open.spotify.com/track/2fxUxJf0mVv7SENsdletUc) | [Damiano C](https://open.spotify.com/artist/1megb3uOaIwwINCguucNbY), [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP), [Camille Safiya](https://open.spotify.com/artist/0njiJOJRIXjXanWDLd586D) | [Fearing Love](https://open.spotify.com/album/6C40PL4H8Mn4pWadW4ZA6u) | 7:28 |
 
-Snapshot ID: `MCxmMTM3MTAwNjRjNGUwZDc3ZGI3NGU2NzNmMjMxNTA2N2Y3MzA0ZThj`
+Snapshot ID: `MCw4OGEyZWFiNDZjOTA4YThkYzgwNzg1NTc3MWE3YjQwOTUyNmU2OWM0`

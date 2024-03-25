@@ -206,7 +206,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 251034,
       "name": "Bad To Me (feat. Grace Grundy)",
       "url": "https://open.spotify.com/track/6UNESFieJ7rXvEKO1V2Fw8"
@@ -3222,6 +3222,28 @@
       "duration_ms": 244151,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3dJ6Nq35hCel0helAg8TR8"
+    },
+    {
+      "album": {
+        "name": "Pachamama",
+        "url": "https://open.spotify.com/album/4pyp9BJdIT2rqRiavNpiWL"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Pachamama",
+      "url": "https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"
     },
     {
       "album": {

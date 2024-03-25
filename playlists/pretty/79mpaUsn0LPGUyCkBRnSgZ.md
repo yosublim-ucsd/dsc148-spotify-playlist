@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 474 songs - 1 day 6 hr 54 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 478 songs - 1 day 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -477,10 +477,14 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 467 | [Safe and Sound \(WWW\)](https://open.spotify.com/track/2OPmeyf31LlcIpYcJ4aegt) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Woman Worldwide](https://open.spotify.com/album/7E3c9dmZ1KnZOQLZTgRqWx) | 7:32 |
 | 468 | [Tarkus \(i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus\) \( 2012 \- Remaster\)](https://open.spotify.com/track/7fLEJNwcW60W74XehVmR5p) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus](https://open.spotify.com/album/5yByhxbOs8FOU2UutO7AGO) | 20:43 |
 | 469 | [I'm Always Saying Sorry](https://open.spotify.com/track/4EIM8gF1NKSIXR2QqRHMuW) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Some Things Break](https://open.spotify.com/album/1QGVFDfyPCVEfKli1J0OSz) | 3:30 |
-| 470 | [Poem \(1\)](https://open.spotify.com/track/0GWFbxN3SyghTvvFu84rTW) | [Bruno Pernadas](https://open.spotify.com/artist/5LEK1kaklDfReP092sVvGd) | [Those Who Throw Objects at the Crocodiles Will Be Asked to Retrieve Them](https://open.spotify.com/album/2NYnAb4TkXGHrY8wZ9uZwT) | 0:27 |
-| 471 | [3 Sisters](https://open.spotify.com/track/0AO3ejChi1gRBWvUDMH2kg) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:10 |
-| 472 | [Sun Girl](https://open.spotify.com/track/4CFHldOcqUuepVyObZXfSb) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 5:52 |
-| 473 | [Real House](https://open.spotify.com/track/62R903SYfJm79xxLhjEhyW) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 5:58 |
-| 474 | [Powderfinger \- 2016 Remaster](https://open.spotify.com/track/5F1CxsOXX6altKaKlEPuox) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Rust Never Sleeps](https://open.spotify.com/album/2QqocFdpBkxOBLcIRo6UuJ) | 5:30 |
+| 470 | [3 Sisters](https://open.spotify.com/track/0AO3ejChi1gRBWvUDMH2kg) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:10 |
+| 471 | [Sun Girl](https://open.spotify.com/track/4CFHldOcqUuepVyObZXfSb) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 5:52 |
+| 472 | [Real House](https://open.spotify.com/track/62R903SYfJm79xxLhjEhyW) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 5:58 |
+| 473 | [Powderfinger \- 2016 Remaster](https://open.spotify.com/track/5F1CxsOXX6altKaKlEPuox) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Rust Never Sleeps](https://open.spotify.com/album/2QqocFdpBkxOBLcIRo6UuJ) | 5:30 |
+| 474 | [Girl U Want](https://open.spotify.com/track/7aLqagsvH0UhwElKSR8rAj) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:57 |
+| 475 | [War at the Door](https://open.spotify.com/track/3CK3oybt0KITkdz6F4yAMd) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 2:07 |
+| 476 | [Metronomic Underground](https://open.spotify.com/track/0n9D5BLKdwCbSOLWZISiZN) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup](https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs) | 7:54 |
+| 477 | [For Your Consideration](https://open.spotify.com/track/7cQ4rqHX5LBC8fDbxxwK6e) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:00 |
+| 478 | [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 |
 
-Snapshot ID: `MTQ1MCwzNDU3ODk3ZGQ1ZDZlNzE1YzM3MjlhMGJhN2QwYmU3NDAxYzBiYjcw`
+Snapshot ID: `MTQ1Nyw4ZTMzN2QzNTM5NGQ3OGQ2YTMzZThiOThjOGZmMDBlNjVjNDE3NGVk`

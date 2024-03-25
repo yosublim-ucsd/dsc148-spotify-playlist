@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Babyface Ray, Money Man &amp; Young Dolph x Key Glock.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 43,560 likes - 64 songs - 2 hr 43 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 43,558 likes - 64 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

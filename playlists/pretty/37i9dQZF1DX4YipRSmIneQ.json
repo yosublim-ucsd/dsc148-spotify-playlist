@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 758,
+  "num_followers": 838,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWRkZjhkZjc3NGZlNDY5MzlkOTY2MGVlZTEzMjRiMTdjMzUzMDRi",
+  "snapshot_id": "MCxmMzE0ZTRiYjllMDNkZTQ4NTIxYzRkYzUyNmQ0MWFhNjUxMjgxZmIz",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "h4msterb0y",
-        "url": "https://open.spotify.com/album/0L8iijCEhXwOddl3vU1UFR"
-      },
-      "artists": [
-        {
-          "name": "Virgin Miri",
-          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
-        }
-      ],
-      "duration_ms": 168236,
-      "name": "h4msterb0y",
-      "url": "https://open.spotify.com/track/52eXUalvQnezqTPhqzkbbV"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
         "name": "Pop That",
         "url": "https://open.spotify.com/album/1Lr2J72KaKx1RinFIQoiEX"
       },
@@ -735,18 +719,42 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Flip Phone",
-        "url": "https://open.spotify.com/album/5aDvo88fakKfXfZ42frgX4"
+        "name": "h4msterb0y",
+        "url": "https://open.spotify.com/album/0L8iijCEhXwOddl3vU1UFR"
+      },
+      "artists": [
+        {
+          "name": "Virgin Miri",
+          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
+        }
+      ],
+      "duration_ms": 168236,
+      "name": "h4msterb0y",
+      "url": "https://open.spotify.com/track/52eXUalvQnezqTPhqzkbbV"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
+        "name": "SEXORCISM",
+        "url": "https://open.spotify.com/album/0CvWFH9MMcWphYqwBNOUYv"
       },
       "artists": [
         {
           "name": "Brooke Candy",
           "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 195621,
-      "name": "Flip Phone",
-      "url": "https://open.spotify.com/track/6OXN9vB93VDyD4TYAkbH1U"
+      "duration_ms": 178203,
+      "name": "FMU",
+      "url": "https://open.spotify.com/track/5iAWOgjcEbgUgBz2MziBXh"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -823,26 +831,18 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "SEXORCISM",
-        "url": "https://open.spotify.com/album/0CvWFH9MMcWphYqwBNOUYv"
+        "name": "Flip Phone",
+        "url": "https://open.spotify.com/album/5aDvo88fakKfXfZ42frgX4"
       },
       "artists": [
         {
           "name": "Brooke Candy",
           "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 178203,
-      "name": "FMU",
-      "url": "https://open.spotify.com/track/5iAWOgjcEbgUgBz2MziBXh"
+      "duration_ms": 195621,
+      "name": "Flip Phone",
+      "url": "https://open.spotify.com/track/6OXN9vB93VDyD4TYAkbH1U"
     },
     {
       "added_at": "2023-07-24 14:56:33",

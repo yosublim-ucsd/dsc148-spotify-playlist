@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > Shotgun Willy, born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,398,588 likes - 100 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,398,592 likes - 100 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [GREEN GOBLIN \- Spotify Singles](https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Spotify Singles](https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp) | 2:09 |
 | 100 | [BUBBLE GREEN](https://open.spotify.com/track/3geCHoatBHgpCbLmittPye) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [GHOST \(DELUXE EDITION\)](https://open.spotify.com/album/5Yte8LPU5DI49QYBiMmI4E) | 1:49 |
 
-Snapshot ID: `MCxhNDFkYTY1NjM0OTgxNTg1ZTkxNjRmMDkxY2QzYWM1MDVmODIzOGI4`
+Snapshot ID: `MCxjZTk3MTAyNWI4MmI0NGMzYjJkZTA1NGZhZDg3YjU5MDQyOWE4MTVk`

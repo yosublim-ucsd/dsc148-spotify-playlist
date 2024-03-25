@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Sal Priadi
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,052 likes - 101 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,063 likes - 101 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 100 | [Ingkar Janji](https://open.spotify.com/track/599gm6M2EdYeGpV4TVpjin) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Ingkar Janji](https://open.spotify.com/album/5uq9r6KWHVzTcrOUCkjxGq) | 3:17 |
 | 101 | [My House Is Not A Home](https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [My House Is Not A Home](https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1) | 3:59 |
 
-Snapshot ID: `MCxmZmMwMzVmYzE5NmE4MDliMmQwOWVlYWRkY2NlYjMyYjk2YTc0MDgx`
+Snapshot ID: `MCxkNmQ2MjdjNjU4ZDJlNGE4YTRmYWFjZWUyY2VkOTc1NmZmZGRkZjFk`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico!",
-  "num_followers": 155181,
+  "num_followers": 155208,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzdhZTE0YmRhNDY4NDdhNjJmNzZmZTJlM2NiNjg5OGU1YzdmMWM2",
+  "snapshot_id": "MCwxZTU2OTY1MmI4ZjMzNzU5ODZjNDNjZWFjNzM3NjIwZWYwNWY0ZmFl",
   "tracks": [
     {
       "added_at": "2020-03-18 04:18:26",
@@ -279,6 +279,22 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
+        "name": "Idolos del Rock & Roll",
+        "url": "https://open.spotify.com/album/7BI6FgfgfYaWaOZo6phWBC"
+      },
+      "artists": [
+        {
+          "name": "Los Rockin' Devils",
+          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
+        }
+      ],
+      "duration_ms": 142576,
+      "name": "Bule Bule",
+      "url": "https://open.spotify.com/track/0eMMc5pZJifAsXSaEViY3E"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
         "name": "Los Grandes \u00c9xitos Del Rock & Roll (En Espa\u00f1ol) Vol. 2",
         "url": "https://open.spotify.com/album/0tM7TEe6JjVrrbEOLYXh7j"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 127525,
       "name": "Chica Alborotada",
       "url": "https://open.spotify.com/track/3b9ICYLGk3brPCarHbih8a"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
-      },
-      "artists": [
-        {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "Corina, Corina",
-      "url": "https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -343,6 +343,22 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
+      },
+      "artists": [
+        {
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+        }
+      ],
+      "duration_ms": 155533,
+      "name": "Corina, Corina",
+      "url": "https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 140026,
       "name": "Al Ritmo De La Lluvia",
       "url": "https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
-        "name": "Idolos del Rock & Roll",
-        "url": "https://open.spotify.com/album/7BI6FgfgfYaWaOZo6phWBC"
-      },
-      "artists": [
-        {
-          "name": "Los Rockin' Devils",
-          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
-        }
-      ],
-      "duration_ms": 142576,
-      "name": "Bule Bule",
-      "url": "https://open.spotify.com/track/0eMMc5pZJifAsXSaEViY3E"
     },
     {
       "added_at": "2020-03-18 04:18:26",

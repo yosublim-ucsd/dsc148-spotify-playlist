@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157364,
+  "num_followers": 157382,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjNmMTJiMDVhMzBhMmQ0MWMzZjZmZmQzNDY5MTU3M2EwMmNjNGI1",
+  "snapshot_id": "MCxhZDdlOTFmMTljZTgxZDQxOThhNTMwOGRkMTNmNGZmMTFmNzA2ZTAz",
   "tracks": [
     {
       "added_at": "2024-03-22 03:01:00",
@@ -431,6 +431,26 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Carolina / Levemente",
+        "url": "https://open.spotify.com/album/2LUEj94O0nQX7sHm2bSJm1"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/10f31lUtjFtbbOH01HT3ja"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 133000,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Carolina / Levemente",
-        "url": "https://open.spotify.com/album/2LUEj94O0nQX7sHm2bSJm1"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/10f31lUtjFtbbOH01HT3ja"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1151,22 +1151,18 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Santa Catarina",
-        "url": "https://open.spotify.com/album/4DFsz1To8t0Bwu29ExBBJX"
+        "name": "Noites & Noites",
+        "url": "https://open.spotify.com/album/4BKUKunzocQdmgtz1EKW1D"
       },
       "artists": [
         {
-          "name": "PK Delas",
-          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
-        },
-        {
-          "name": "Ti\u00e9l",
-          "url": "https://open.spotify.com/artist/6KyHLY2nxKSNDugeKpldQ4"
+          "name": "CARTE",
+          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
         }
       ],
-      "duration_ms": 95483,
-      "name": "Santa Catarina",
-      "url": "https://open.spotify.com/track/0AQWxcKYGsjuarEkpeiYwR"
+      "duration_ms": 180618,
+      "name": "Noites & Noites",
+      "url": "https://open.spotify.com/track/6DiJUiJiryuNDoxIj1L6nw"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1195,18 +1191,22 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Noites & Noites",
-        "url": "https://open.spotify.com/album/4BKUKunzocQdmgtz1EKW1D"
+        "name": "Santa Catarina",
+        "url": "https://open.spotify.com/album/4DFsz1To8t0Bwu29ExBBJX"
       },
       "artists": [
         {
-          "name": "CARTE",
-          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
+          "name": "PK Delas",
+          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
+        },
+        {
+          "name": "Ti\u00e9l",
+          "url": "https://open.spotify.com/artist/6KyHLY2nxKSNDugeKpldQ4"
         }
       ],
-      "duration_ms": 180618,
-      "name": "Noites & Noites",
-      "url": "https://open.spotify.com/track/6DiJUiJiryuNDoxIj1L6nw"
+      "duration_ms": 95483,
+      "name": "Santa Catarina",
+      "url": "https://open.spotify.com/track/0AQWxcKYGsjuarEkpeiYwR"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
+        "name": "Perto do Sol",
+        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
+      },
+      "artists": [
+        {
+          "name": "RNT",
+          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Perto do Sol",
+      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
         "name": "Ir Embora",
         "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 125932,
       "name": "Ir Embora",
       "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
-        "name": "Perto do Sol",
-        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
-      },
-      "artists": [
-        {
-          "name": "RNT",
-          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Perto do Sol",
-      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
     },
     {
       "added_at": "2024-03-22 03:01:00",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2024-03-22 03:01:00",
       "album": {
-        "name": "Mais uma Chance",
-        "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
-      },
-      "artists": [
-        {
-          "name": "Buia Kalunga",
-          "url": "https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3"
-        },
-        {
-          "name": "Macaia",
-          "url": "https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV"
-        }
-      ],
-      "duration_ms": 183700,
-      "name": "Mais uma Chance",
-      "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
-    },
-    {
-      "added_at": "2024-03-22 03:01:00",
-      "album": {
         "name": "Guts Sessions #1: Menina Linda",
         "url": "https://open.spotify.com/album/1ehOwpQPu30AqcIIZU5SCB"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 252367,
       "name": "Guts Sessions #1: Menina Linda",
       "url": "https://open.spotify.com/track/1Mh5FuKoe5I0UvfzjYYkMQ"
+    },
+    {
+      "added_at": "2024-03-22 03:01:00",
+      "album": {
+        "name": "Mais uma Chance",
+        "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
+      },
+      "artists": [
+        {
+          "name": "Buia Kalunga",
+          "url": "https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3"
+        },
+        {
+          "name": "Macaia",
+          "url": "https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV"
+        }
+      ],
+      "duration_ms": 183700,
+      "name": "Mais uma Chance",
+      "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
     },
     {
       "added_at": "2024-03-22 03:01:00",

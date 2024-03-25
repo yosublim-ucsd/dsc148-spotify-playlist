@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-458 songs - 1 day 6 hr 2 min
+459 songs - 1 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Burgundy \(feat\. Vince Staples\)](https://open.spotify.com/track/43tVqovviXhkmOV5LOkTn7) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Doris](https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE) | 2:07 | 2024-01-29 |  |
 | [Buss It](https://open.spotify.com/track/25j0Sape7qZbq6ZPLFefTT) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Erica Banks](https://open.spotify.com/album/5d0diKuXWPHNxon86lnjOJ) | 3:07 | 2024-01-29 |  |
 | [By Design](https://open.spotify.com/track/5FxVTEpoBress37MmlMhbZ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [André Benjamin](https://open.spotify.com/artist/5lTANVMk0mGnsErXBAutfM) | [Passion, Pain & Demon Slayin'](https://open.spotify.com/album/5bCk3kWAy2JbbTfHqzZCII) | 4:17 | 2024-01-29 |  |
+| [BYOB](https://open.spotify.com/track/5DDUcpsmDzDUdFLeOaPW3l) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 1:00 | 2024-03-24 |  |
 | [California Roll](https://open.spotify.com/track/6SpilLnQpsuDQ1zFOips4C) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [California Roll \(Video\)](https://open.spotify.com/album/3xlLIB5BJvsP7bZ6JUD96K) | 5:47 | 2024-01-29 | 2024-02-01 |
 | [California Roll \(feat\. Stevie Wonder\)](https://open.spotify.com/track/3wO19rAQ7aya5YFPQ6Ts0A) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [BUSH](https://open.spotify.com/album/3UesepjW7Scwi8DV62Qqyn) | 4:12 | 2024-01-31 |  |
 | [Can I Have It Like That](https://open.spotify.com/track/73Ijn0pKw1YJVP4OO4jUl7) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 3:55 | 2024-01-29 |  |
@@ -322,7 +323,7 @@
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2024-01-29 |  |
 | [Pomegranate](https://open.spotify.com/track/4fuCjmRIxbmGHnplGymd9c) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Pomegranate](https://open.spotify.com/album/6R1039pv3LJlHZfdwmVWcZ) | 3:27 | 2024-01-29 |  |
 | [Pop Ya Shit](https://open.spotify.com/track/5JnfZUiS7GdCLrr8Qem6Gs) | [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Pop Ya Shit](https://open.spotify.com/album/3F8FN7M1wCP9ZsMpG5c4Hh) | 1:38 | 2024-01-29 |  |
-| [Popular Demand \(Popeyes\) \(feat\. Cam'ron & Pharrell Williams\)](https://open.spotify.com/track/2h8qcBOJA5rwykIXBck24Z) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Til The Casket Drops](https://open.spotify.com/album/3fFlGU0k3z7wle0gp4wNrU) | 4:20 | 2024-01-29 |  |
+| [Popular Demand \(Popeyes\) \(feat\. Cam'ron & Pharrell Williams\)](https://open.spotify.com/track/2h8qcBOJA5rwykIXBck24Z) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Til The Casket Drops](https://open.spotify.com/album/3fFlGU0k3z7wle0gp4wNrU) | 4:20 | 2024-01-29 | 2024-03-25 |
 | [Preservation](https://open.spotify.com/track/124DjfCOxrqEXpHD04Hk8i) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl), [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [Preservation](https://open.spotify.com/album/3rtivE127HwnoeDg1UtMde) | 2:26 | 2024-01-29 |  |
 | [Pretty Flacko](https://open.spotify.com/track/5b68zlaqXPBTuSW3oBNdrJ) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Gangster Party Chronicals, Vol\. 18](https://open.spotify.com/album/0LcYRUiiA3ulGaRVbgJnOo) | 3:14 | 2024-01-29 |  |
 | [Projects](https://open.spotify.com/track/0iknSgwfDslqMT5pr6j5zi) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:48 | 2024-01-29 |  |

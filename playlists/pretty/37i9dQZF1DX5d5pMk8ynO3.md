@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5d5pMk8ynO3.md) - [plain]
 
 > Canciones que marcaron época en nuestro rock\. ¡Para cantar a los gritos! Foto: Soda Stereo
 
-[Spotify](https://open.spotify.com/user/spotify) - 910,240 likes - 93 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 910,845 likes - 93 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5d5pMk8ynO3.md) - [plain]
 | 92 | [Se Viene](https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 3:25 |
 | 93 | [Eu Vi Chegar](https://open.spotify.com/track/1S94TWlp1uA0QI310XLCEH) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Lo Esencial De...](https://open.spotify.com/album/7IdzGdw8v69nFlZqzrQCcd) | 4:38 |
 
-Snapshot ID: `MCxhZjdiODY3MWU5M2I2MDY3ZWRjNjM2MWNlN2Y1ZmUxNjcwZjEwYzli`
+Snapshot ID: `MCw2MzVjNWM1ZDZhNWE4NDAyMTQ1YWFlNjNiMmJkMDhhNTE4OThmNjAw`

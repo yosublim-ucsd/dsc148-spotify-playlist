@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks in the United States. Cover: Ariana Grande",
-  "num_followers": 1417383,
+  "num_followers": 1418295,
   "original_name": "Hot Hits USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODc4NDdmNGNiOTE3YzNlNTVkZTQyMTcwNTRjNDk1ODY0M2RkNzlh",
+  "snapshot_id": "MCxkOTYzOGE1MTgzMDE1ZTBhYTA2MzAwNWNkYmE3OTc1NmY5MGMwOTc0",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -86,6 +86,14 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 228266,

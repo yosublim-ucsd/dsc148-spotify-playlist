@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > co\-curadoria com IZA em celebração ao Mês Internacional da Mulher!
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,223 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,200 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Todo Todo](https://open.spotify.com/track/5Jzo0zaXPQM7Zo6Dld3yip) | [Bia Maia](https://open.spotify.com/artist/3JWRPvTKuPzGYNjELUvQ5S) | [Todo Todo](https://open.spotify.com/album/534Fl2g5FpAPlJYhkhvTpH) | 3:09 |
 | 50 | [Me Leva Pra Casa](https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Me Leva Pra Casa](https://open.spotify.com/album/4Vf8NtFMlx2Ftw7iyymGZs) | 2:44 |
 
-Snapshot ID: `MCxkM2Y2YTgzNTI0ZTFiNWNkOGU2Yjg1N2FlMjYwNGFkYTQyMmE4Yzc0`
+Snapshot ID: `MCwwMWFkZDEwZTZjNTYxNjlkN2E3NjcyNzIyODRkZDIyYTBhNzcyMjIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Lhast e Chaylan entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,546 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,573 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Basta](https://open.spotify.com/track/4EHWvN8Flghia7UHyJL4T8) | [Estraca](https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq) | [Basta](https://open.spotify.com/album/23HBUml02THqdDUhAYSO3M) | 3:20 |
 | 75 | [UHTRED](https://open.spotify.com/track/34g7Rwoc29fVlzXH4e1ccj) | [Remedy DON Dadda](https://open.spotify.com/artist/4Pk4SkoJXaM7GCpRHKK8yL), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [UHTRED](https://open.spotify.com/album/2SDvzHEdud2DYF1sHeOaf6) | 2:53 |
 
-Snapshot ID: `MCw4NTZmMDE5NjE3NmRkOTZjMzM3MGQ4NWVmNjJkMGQwZWI2M2VmMWU3`
+Snapshot ID: `MCw4OTEwNTA5YjhmNzRjMThkMTMwNjQ5YWMyN2JlNzI5YTg1MzBkNTll`

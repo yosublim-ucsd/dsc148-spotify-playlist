@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,939 likes - 39 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,943 likes - 39 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 4 | [Gothic Submarine](https://open.spotify.com/track/4IpQr5HGDqqxJfjqg0hqID) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Standard Music Library](https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS) | [Electronic](https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS) | 1:54 |
 | 5 | [Liquid Energy \- Underscore Version](https://open.spotify.com/track/12nkGYRuBT6ewgn1w7Ygxr) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 1:04 |
 | 6 | [Doctor Who \- Closing Theme](https://open.spotify.com/track/0E6vubyhXDzrjFkYu1wNP3) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [The BBC Radiophonic Workshop](https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa) | [Doctor Who: The Caves of Androzani \(Original Television Soundtrack\)](https://open.spotify.com/album/4NLQXqPZVsmji1N72QViic) | 1:20 |
-| 7 | [Doctor Who Closing Title Theme \- 53" Version](https://open.spotify.com/track/2HEsZRIwaCvCamxJMi8yaJ) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- The Sun Makers \(Original Television Soundtrack\)](https://open.spotify.com/album/5Cgh8Q4lVz54tmJt6DHLOU) | 0:55 |
-| 8 | [About Bridges Polyphonic Theme \(From The Hooykaas / Stansfield Film\)](https://open.spotify.com/track/130jTQ1Ce0St3eJtRjqgvn) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Do What You Love](https://open.spotify.com/album/1EG1jnmCsnfO0ME81y4mMj) | 0:54 |
+| 7 | [About Bridges Polyphonic Theme \(From The Hooykaas / Stansfield Film\)](https://open.spotify.com/track/130jTQ1Ce0St3eJtRjqgvn) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Do What You Love](https://open.spotify.com/album/1EG1jnmCsnfO0ME81y4mMj) | 0:54 |
+| 8 | [Doctor Who Closing Title Theme \- 53" Version](https://open.spotify.com/track/2HEsZRIwaCvCamxJMi8yaJ) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- The Sun Makers \(Original Television Soundtrack\)](https://open.spotify.com/album/5Cgh8Q4lVz54tmJt6DHLOU) | 0:55 |
 | 9 | [Quest](https://open.spotify.com/track/4flhWFm1w51Rm3dwQneAyW) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 1:45 |
 | 10 | [Time on Our Hands](https://open.spotify.com/track/0dDAu6FlLjQxSlE9NcvWmS) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 1:13 |
 | 11 | [Delia's Theme](https://open.spotify.com/track/1HSpoFHUmphpjU0RwqbnJz) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Standard Music Library](https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS) | [Electronic](https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS) | 1:20 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 38 | [Science and Health](https://open.spotify.com/track/3CsSFQJyWG9gYqP6mwkqAj) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:57 |
 | 39 | [Hannett and Delia synth exchanges track 12](https://open.spotify.com/track/30ZtkLIsr5pYliZEodAeb5) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 3:16 |
 
-Snapshot ID: `Mjg1MTk5NTYsMDAwMDAwMDA3NmQwMGYwYzY1NzFiNTcwZDgxOTkzMzBlODgyNTg0ZA==`
+Snapshot ID: `Mjg1MjEzNzAsMDAwMDAwMDBkN2I2ZDI2MGM0OGJjODU0NDg0MjU0ODJkMThiNzgwZQ==`

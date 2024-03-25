@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 24941,
+  "2024-03-25": 24999,
   "date_first_scraped": "2023-06-13",
   "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Young Miko en portada.",
   "name": "\u00c9xitos Puerto Rico",
@@ -222,6 +222,24 @@
     },
     {
       "album": {
+        "name": "BELLAKITA",
+        "url": "https://open.spotify.com/album/3W0OEMGP4LGbJ1VlHntIhQ"
+      },
+      "artists": [
+        {
+          "name": "C Dobleta",
+          "url": "https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182474,
+      "name": "BELLAKITA",
+      "url": "https://open.spotify.com/track/0rT7rchVaPauZBkxreFcEy"
+    },
+    {
+      "album": {
         "name": "Bellakita",
         "url": "https://open.spotify.com/album/6TQTbHsOuOqUW5CVlFhvPk"
       },
@@ -233,7 +251,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 182500,
       "name": "Bellakita",
       "url": "https://open.spotify.com/track/5pdaMvOqvNPxEOgyKnej38"

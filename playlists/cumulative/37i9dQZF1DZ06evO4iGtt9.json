@@ -454,7 +454,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 216574,
       "name": "Bum Bum (Remix)",
       "url": "https://open.spotify.com/track/3popcfrtGgytx4Urp2OTUQ"
@@ -1280,6 +1280,24 @@
       "duration_ms": 194718,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/3qRm4AxGiDz8IUR8ciXpt6"
+    },
+    {
+      "album": {
+        "name": "M.O.N.E.Y",
+        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2024-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231106,
+      "name": "M.O.N.E.Y",
+      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
     },
     {
       "album": {

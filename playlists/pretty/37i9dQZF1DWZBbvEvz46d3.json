@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 65641,
+  "num_followers": 65663,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTNlOTkxMDkzMjlmZWM5YjU1Y2ZhNjg3MGRjNDBiY2E1ZjYyZTZi",
+  "snapshot_id": "MCwzNjNlOGQ0ZjQ3NWVlYzYxMjIwOGZjZGM1MWY5MzhhYjhhYjAwYjY1",
   "tracks": [
     {
       "added_at": "2024-02-09 12:36:46",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
+        "name": "Moje piosenki edycja zwykla",
+        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
+      },
+      "artists": [
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "duration_ms": 203480,
+      "name": "Znam cie na pamiec",
+      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
         "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
         "url": "https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 249046,
       "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
       "url": "https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
-        "name": "Moje piosenki edycja zwykla",
-        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
-      },
-      "artists": [
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        }
-      ],
-      "duration_ms": 203480,
-      "name": "Znam cie na pamiec",
-      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
     },
     {
       "added_at": "2024-02-09 12:36:46",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-02-09 12:36:46",
       "album": {
+        "name": "Oddycham",
+        "url": "https://open.spotify.com/album/5WZh3xSvUB8c16EAm4a5NT"
+      },
+      "artists": [
+        {
+          "name": "Kamil Bednarek",
+          "url": "https://open.spotify.com/artist/5UUsQ38YTugFjdLX82IDAE"
+        }
+      ],
+      "duration_ms": 290481,
+      "name": "List",
+      "url": "https://open.spotify.com/track/43npy0Y0oKKfkTvafdGcQC"
+    },
+    {
+      "added_at": "2024-02-09 12:36:46",
+      "album": {
         "name": "Kontrast",
         "url": "https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 185714,
       "name": "Ka\u017cdego Dnia",
       "url": "https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx"
-    },
-    {
-      "added_at": "2024-02-09 12:36:46",
-      "album": {
-        "name": "Oddycham",
-        "url": "https://open.spotify.com/album/5WZh3xSvUB8c16EAm4a5NT"
-      },
-      "artists": [
-        {
-          "name": "Kamil Bednarek",
-          "url": "https://open.spotify.com/artist/5UUsQ38YTugFjdLX82IDAE"
-        }
-      ],
-      "duration_ms": 290481,
-      "name": "List",
-      "url": "https://open.spotify.com/track/43npy0Y0oKKfkTvafdGcQC"
     },
     {
       "added_at": "2024-02-09 12:36:46",

@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Jaido P",
-  "num_followers": 45131,
+  "num_followers": 45165,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDk5MGNmMzE3YTg1NTA3YTg1Zjc0ZjFhOTY0ZDkxOWI1MGY4ZGVk",
+  "snapshot_id": "MCxlZWNmZjBjZTI1ZTEwOTk2YWIyNTYyZDVkYjM2NDdlODEwMTk5ZjEx",
   "tracks": [
     {
       "added_at": "2024-03-22 00:01:00",
@@ -687,6 +687,26 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 153174,
+      "name": "Account Balance",
+      "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "NDI IKE",
         "url": "https://open.spotify.com/album/7c5jgET8u1LYjNp7JEFeO4"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 155644,
       "name": "NDI IKE",
       "url": "https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 153174,
-      "name": "Account Balance",
-      "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Jowo",
-        "url": "https://open.spotify.com/album/5sXgkD3qm5z4QKznPlGJNT"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Jowo",
-      "url": "https://open.spotify.com/track/3JMPFxoSzCeLD9n5JumZFb"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Belong to You",
         "url": "https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 182000,
       "name": "Belong to You",
       "url": "https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Jowo",
+        "url": "https://open.spotify.com/album/5sXgkD3qm5z4QKznPlGJNT"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Jowo",
+      "url": "https://open.spotify.com/track/3JMPFxoSzCeLD9n5JumZFb"
     },
     {
       "added_at": "2024-03-22 00:01:00",

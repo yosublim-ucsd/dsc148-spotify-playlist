@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Tyla (pictured), Kenya Grace, Benson Boone and more!",
-  "num_followers": 848906,
+  "num_followers": 848948,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTY5MjQyYTNkMDI0YzQ2N2Y4OWM2ZmUyZTE5NzI2MmMwY2MyOTI2",
+  "snapshot_id": "MCxiMjI2ZjU0YThiYWU4MWY0NTk2MjhhNWFhZmYwNTE4MjRhM2Q5N2E3",
   "tracks": [
     {
       "added_at": "2024-03-22 00:00:00",
@@ -198,6 +198,14 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 228266,

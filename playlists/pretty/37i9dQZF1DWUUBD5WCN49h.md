@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Boistory
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,536 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,547 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [MY EX](https://open.spotify.com/track/6s4xvKwFL4x5gueZUtE2Cp) | [Tobi Adu](https://open.spotify.com/artist/16o16zAhWJZGxny53h8TaU) | [MY EX + DELILAH](https://open.spotify.com/album/7geTCSDldvSXv9VhNypsnm) | 2:41 |
 | 80 | [Proverbs 31 Woman](https://open.spotify.com/track/4fi5eKXzsVMDo5lSxqWx6X) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Proverbs 31 Woman](https://open.spotify.com/album/4ZFXhqhJQ01oYZiMk8pC63) | 2:47 |
 
-Snapshot ID: `MCxjYTdjYTY2NGQ2ZDFmMmQ4NDZjYzdjMmVlNTNiMjIzOTc1NjgxYjky`
+Snapshot ID: `MCwwNDUwZDkyMWQ3OGQ5ZDI3NmZjZTJlOWI0OWRjZDY2NTZkMzU4YjYw`

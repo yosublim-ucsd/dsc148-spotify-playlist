@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 
 > 01101110 01100101 01110010 01100100
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,871 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,874 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 99 | [Knives](https://open.spotify.com/track/00Po3m9Jz0m5uNedPBw4ma) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 2:20 |
 | 100 | [Grrrrls](https://open.spotify.com/track/49ysUwJ6bPCpI74dI9aGbQ) | [Ricky Eat Acid](https://open.spotify.com/artist/4BO8wK4OAaFsi6PSzs366S) | [Haunt U Forever](https://open.spotify.com/album/0g2PJbscS69UolD4QyS3wp) | 2:01 |
 
-Snapshot ID: `MCxjMjliNWY0OTQ4Njg5ZjhiYmRmZjNiNWY3MDQ4YTg1ODkwOTU3Yzgz`
+Snapshot ID: `MCw2NDQ5MWE1NTFmMjI4NWUzNTZhYzA4MDA5MTVlY2RmY2RmMTAxNWIx`

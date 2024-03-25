@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 12502,
+  "num_followers": 12505,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTAyYzRmZDg1ZTQxNmM2NjI0ZDNkZGMxZjEyY2E2OGUyZWQyZGUz",
+  "snapshot_id": "MCxmYWU0M2ZiZjc0NDRkMTU4NTAxNDgzZmUwYWJlYWQwZGJlNjdhZDcz",
   "tracks": [
     {
       "added_at": "2020-10-27 12:12:52",
@@ -471,22 +471,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "JoJo",
-        "url": "https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp"
-      },
-      "artists": [
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Leave (Get Out)",
-      "url": "https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Meteora",
         "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 196906,
       "name": "Breaking the Habit",
       "url": "https://open.spotify.com/track/6n8TMVyFKoUmDc4apxceRD"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "JoJo",
+        "url": "https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp"
+      },
+      "artists": [
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Leave (Get Out)",
+      "url": "https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -835,22 +835,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Brother Bear",
-        "url": "https://open.spotify.com/album/0aJ2SqX6w8pJsaFaTiBUgJ"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "On My Way - From \"Brother Bear\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/7wjiMdiSgsL9Vkrwb10Num"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Suit",
         "url": "https://open.spotify.com/album/7xt2MWlSFHNP2NcHWE4W3b"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 336506,
       "name": "My Place",
       "url": "https://open.spotify.com/track/1NAyvpW70a9lxY0YlLWFV4"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Brother Bear",
+        "url": "https://open.spotify.com/album/0aJ2SqX6w8pJsaFaTiBUgJ"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "On My Way - From \"Brother Bear\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/7wjiMdiSgsL9Vkrwb10Num"
     },
     {
       "added_at": "2020-10-27 12:12:52",

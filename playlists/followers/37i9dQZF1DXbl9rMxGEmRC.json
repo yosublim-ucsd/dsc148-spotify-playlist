@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 466150,
+  "2024-03-25": 466143,
   "date_first_scraped": "2021-12-21",
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Immortal",
   "name": "Extreme Metal",
@@ -2027,7 +2027,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 205856,
       "name": "Culture of Violence",
       "url": "https://open.spotify.com/track/6001jTk0jdao1oVV4vanVB"
@@ -5247,6 +5247,24 @@
       "duration_ms": 172057,
       "name": "Invocation (Chthonic Merge) X",
       "url": "https://open.spotify.com/track/2rh3w5SIH0wg5AcuS83y28"
+    },
+    {
+      "album": {
+        "name": "Nocturnal Will",
+        "url": "https://open.spotify.com/album/1J50ixIRSqfoKckOoxK8EO"
+      },
+      "artists": [
+        {
+          "name": "D\u00f6dsrit",
+          "url": "https://open.spotify.com/artist/1ZR1y4fCztcaoliwAIbEAb"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 637338,
+      "name": "Irjala",
+      "url": "https://open.spotify.com/track/4BPwtlhUzUnUhBnt5rMbcC"
     },
     {
       "album": {

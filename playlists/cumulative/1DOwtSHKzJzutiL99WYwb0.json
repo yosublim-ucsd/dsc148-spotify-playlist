@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 199327,
       "name": "1 of 9",
       "url": "https://open.spotify.com/track/6DB6p1dVSNWJbmrbF34icS"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 194040,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/5SbVAjEbm6YS9qF8m8EYGD"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 186240,
       "name": "ALIVE",
       "url": "https://open.spotify.com/track/1tjDKrtdCKtVCGEG35jqdI"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 147853,
       "name": "ARIA",
       "url": "https://open.spotify.com/track/2ImbyerPmaYvCAijEsXtoD"
@@ -186,6 +186,24 @@
       "duration_ms": 168053,
       "name": "Back Down",
       "url": "https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv"
+    },
+    {
+      "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/2Abu3BsKcVE3bSdXk6Cukx"
+      },
+      "artists": [
+        {
+          "name": "Kim NamJoo",
+          "url": "https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158066,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/2TAK1QNGElbN2fIy6UOu4J"
     },
     {
       "album": {
@@ -416,7 +434,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 204493,
       "name": "Bring it on",
       "url": "https://open.spotify.com/track/6w4nlTYyrzB5kYhiABzBsQ"
@@ -456,7 +474,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 204146,
       "name": "Business (Feat. BE'O)",
       "url": "https://open.spotify.com/track/1mWyVj0quMfOcwFSDPkQuD"
@@ -474,7 +492,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 177400,
       "name": "C.I.T.T (Cheese in the Trap)",
       "url": "https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY"
@@ -492,7 +510,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 169253,
       "name": "Candy Sugar Pop",
       "url": "https://open.spotify.com/track/767gRjedAWnbUer6ARRS8d"
@@ -654,7 +672,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 193880,
       "name": "DAYDREAM",
       "url": "https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ"
@@ -726,7 +744,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 201613,
       "name": "Drive",
       "url": "https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP"
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 224837,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN"
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 215613,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/6M0njKf2lLXtFwB6XhFUgc"
@@ -1238,7 +1256,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 177186,
       "name": "LOVE DIVE",
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
@@ -1418,7 +1436,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 172066,
       "name": "memeM",
       "url": "https://open.spotify.com/track/0qr3qIT7OrhzT33sW1syLI"
@@ -1440,6 +1458,24 @@
       "duration_ms": 227693,
       "name": "Monochrome (Color)",
       "url": "https://open.spotify.com/track/2M1kWKx9G2MlVPtwKQjpHp"
+    },
+    {
+      "album": {
+        "name": "THE BOYZ 2ND ALBUM [PHANTASY] Pt.3 Love Letter",
+        "url": "https://open.spotify.com/album/2DcHBijnoFP2tjuRGJ1L6F"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184373,
+      "name": "Nectar",
+      "url": "https://open.spotify.com/track/6MEtGumgTXWquxH35osvEC"
     },
     {
       "album": {
@@ -1544,7 +1580,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 195893,
       "name": "O",
       "url": "https://open.spotify.com/track/7nsquDHI132iE793dXYNeW"
@@ -1814,7 +1850,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 183346,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/6Y8iUOQbIwQaYzEYs0r9ZV"
@@ -1940,7 +1976,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 185093,
       "name": "Stupid O'clock",
       "url": "https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb"
@@ -2012,7 +2048,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 186293,
       "name": "Today's Weather",
       "url": "https://open.spotify.com/track/5qFmtbxP5KjekiXwv0axsh"
@@ -2030,7 +2066,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 174386,
       "name": "TOMBOY",
       "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
@@ -2084,7 +2120,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 187520,
       "name": "Undercover",
       "url": "https://open.spotify.com/track/25hPY8NCwcvXr21YdWmPns"
@@ -2361,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "XXL EP",
+        "url": "https://open.spotify.com/album/0EbH9upNSg6zsdFZ8g11Yl"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152865,
+      "name": "XXL",
+      "url": "https://open.spotify.com/track/05QXjyZgsAq6J84J6SlbyV"
+    },
+    {
+      "album": {
         "name": "YOUR CITY",
         "url": "https://open.spotify.com/album/2ey8EdjglcK5i167dwLCLp"
       },
@@ -2390,7 +2444,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 218840,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/4XkeWqW7ogSSvFY6MpR6eP"

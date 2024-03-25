@@ -1,12 +1,12 @@
 {
   "description": "New music from Tyla, Olivia Rodrigo, Future & Metro Boomin, LOONY and more. ",
-  "num_followers": 354202,
+  "num_followers": 354271,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmJjZTViMGQ0OWY2M2NlMjhlNjExOTExZTkzMGFhZmU2OGZiNGQ3",
+  "snapshot_id": "MCwxNDIyNWVhN2RkYmIxYjZmNzhkMTM1YTM4OGQzYjQ1ZmYxOTIxZjQy",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -74,6 +74,14 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 228266,

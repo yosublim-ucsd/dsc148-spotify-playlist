@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 70529,
+  "2024-03-25": 70566,
   "date_first_scraped": "2022-02-25",
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"spotify:artist:03qM4LmPCrR7CuHTE0WAIW\">Koryn Hawthorne</a> ",
   "name": "Lifted Frequency",
@@ -21,6 +21,24 @@
       "duration_ms": 236785,
       "name": "1000 Names",
       "url": "https://open.spotify.com/track/740a4rwTRLEUTRP0Z1iwVL"
+    },
+    {
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/6Yj082yvPaZh6Zut0es12f"
+      },
+      "artists": [
+        {
+          "name": "Angeloh",
+          "url": "https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196859,
+      "name": "365",
+      "url": "https://open.spotify.com/track/6jXGfwxPCXDzKa4JS9ySR1"
     },
     {
       "album": {
@@ -5273,7 +5291,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 190295,
       "name": "Safe",
       "url": "https://open.spotify.com/track/1mkANYnNwWgdBhC81QQdZz"

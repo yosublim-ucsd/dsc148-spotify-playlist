@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MTgwMDAsMDAwMDAwMDA4ODVlY2EwY2MxYTU3Mzc4ZjgzYjdhZDljZjY4NzI3ZA==",
+  "snapshot_id": "Mjg1MTgwNjAsMDAwMDAwMDBiZjYxZGM5ZmNhMjQ1OGI0ZjRkMGUwNzdkODY2ZDVjMA==",
   "tracks": [
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "Looping",
         "url": "https://open.spotify.com/album/0Gpwr1GdgmGj4q1MR08mtz"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0XI4TtnEMm4ICXpCjEXYSw"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "Two Drink Minimum",
         "url": "https://open.spotify.com/album/6sPVj8IMDPBYXq10hL53GJ"
@@ -40,28 +40,12 @@
           "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Straight No Chaser",
-      "url": "https://open.spotify.com/track/2dPo9buiY2Vx1q7zKMCuFE"
+      "duration_ms": 502271,
+      "name": "Nardis",
+      "url": "https://open.spotify.com/track/1X0fDxUEsfkaOzfztuBCCN"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Bulls On Parade (Leo Version)",
-        "url": "https://open.spotify.com/album/0AtTBAtCo2iuBwVoEKlEz8"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 224704,
-      "name": "Bulls On Parade (Leo Version)",
-      "url": "https://open.spotify.com/track/1CBsrQuZndub00LTocecoV"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "HEAVY",
         "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
@@ -81,7 +65,39 @@
       "url": "https://open.spotify.com/track/6vZRq9JIOGTl3b9dmEgeZV"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
+      "album": {
+        "name": "Headless Cross / Anno Mundi (2024 Remaster)",
+        "url": "https://open.spotify.com/album/4ri3S5WAarFrFhVR5f5SF7"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 389226,
+      "name": "Headless Cross - 2024 Remaster",
+      "url": "https://open.spotify.com/track/3mp8KmEd9pESHnXmSXDwwp"
+    },
+    {
+      "added_at": "2024-03-22 05:00:00",
+      "album": {
+        "name": "Bulls On Parade (Leo Version)",
+        "url": "https://open.spotify.com/album/0AtTBAtCo2iuBwVoEKlEz8"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 224704,
+      "name": "Bulls On Parade (Leo Version)",
+      "url": "https://open.spotify.com/track/1CBsrQuZndub00LTocecoV"
+    },
+    {
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "dark days",
         "url": "https://open.spotify.com/album/4QKdPcQKtrwW8Zhw5LrFps"
@@ -101,47 +117,31 @@
       "url": "https://open.spotify.com/track/5D1uzv1oRRfkzeilJAwSbO"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
-        "name": "Full Court Press",
-        "url": "https://open.spotify.com/album/2l5PCZpAVSv3KUkz7l2yXW"
+        "name": "Born Wit It",
+        "url": "https://open.spotify.com/album/76w9Z6mFSUJvxHBUJaSxgY"
       },
       "artists": [
         {
-          "name": "Flee Lord",
-          "url": "https://open.spotify.com/artist/3I6neO2jiyMa8arh6JBe7e"
-        },
-        {
-          "name": "Crisis",
-          "url": "https://open.spotify.com/artist/0MizqfgKIzEwHSlEHcJwpu"
+          "name": "Messy the Man",
+          "url": "https://open.spotify.com/artist/1RwQN4SNw6anJpkbknEenD"
         },
         {
           "name": "Inspectah Deck",
           "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 213420,
-      "name": "Play Amongst The Stars (feat. Inspectah Deck)",
-      "url": "https://open.spotify.com/track/072PlgG7bdxMIzVNk44UQ6"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Headless Cross / Anno Mundi (2024 Remaster)",
-        "url": "https://open.spotify.com/album/4ri3S5WAarFrFhVR5f5SF7"
-      },
-      "artists": [
+        },
         {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+          "name": "Hydrosphere",
+          "url": "https://open.spotify.com/artist/0CocOr8XturC447CUmgwTL"
         }
       ],
-      "duration_ms": 389226,
-      "name": "Headless Cross - 2024 Remaster",
-      "url": "https://open.spotify.com/track/3mp8KmEd9pESHnXmSXDwwp"
+      "duration_ms": 215248,
+      "name": "Born Wit It",
+      "url": "https://open.spotify.com/track/4cSFJrQW0MYAQLE7AgW9x1"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "Mad-Mixes",
         "url": "https://open.spotify.com/album/5a5QWfbt3p2r2bl5l06A0p"
@@ -161,51 +161,7 @@
       "url": "https://open.spotify.com/track/1lywnyKRe9rRB4wQUyIGtX"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Philip Glass: A Musical Portrait of Chuck Close",
-        "url": "https://open.spotify.com/album/6arbA8usOFGxf5i414NXqQ"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Feico Deutekom",
-          "url": "https://open.spotify.com/artist/3CA6hPrl7Gjs8Kmjvani8r"
-        }
-      ],
-      "duration_ms": 467344,
-      "name": "A Musical Portrait of Chuck Close: Movement II",
-      "url": "https://open.spotify.com/track/3kPHj5AxAP6ilNJiSCN30u"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "I\u2019ll Do Whatever You Want",
-        "url": "https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd"
-      },
-      "artists": [
-        {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        },
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        },
-        {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
-        }
-      ],
-      "duration_ms": 463080,
-      "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
-      "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "My Foolish Heart",
         "url": "https://open.spotify.com/album/235h5mYqTlpoUnTkzykYgj"
@@ -229,7 +185,51 @@
       "url": "https://open.spotify.com/track/0l9D5O982Szj4C7cqflMBT"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
+      "album": {
+        "name": "I\u2019ll Do Whatever You Want",
+        "url": "https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "duration_ms": 463080,
+      "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
+      "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
+    },
+    {
+      "added_at": "2024-03-22 05:00:00",
+      "album": {
+        "name": "Philip Glass: A Musical Portrait of Chuck Close",
+        "url": "https://open.spotify.com/album/6arbA8usOFGxf5i414NXqQ"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Feico Deutekom",
+          "url": "https://open.spotify.com/artist/3CA6hPrl7Gjs8Kmjvani8r"
+        }
+      ],
+      "duration_ms": 467344,
+      "name": "A Musical Portrait of Chuck Close: Movement II",
+      "url": "https://open.spotify.com/track/3kPHj5AxAP6ilNJiSCN30u"
+    },
+    {
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "Burning Heart",
         "url": "https://open.spotify.com/album/57kFdGMmAXq9Rt8X1cRx9J"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/1edMU2lM1Lp8mgGjfZTXzg"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "LEAVE IT ALL BEHIND",
         "url": "https://open.spotify.com/album/1MIXnmRStAxYzf7qufHpLR"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/6OuMeKOWACC0acKVleXvTC"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "One Last Dance",
         "url": "https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe"
@@ -289,7 +289,27 @@
       "url": "https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5T9ojHZBjPkgrJlCqLKwzz"
+      },
+      "artists": [
+        {
+          "name": "Killah K",
+          "url": "https://open.spotify.com/artist/5hquJTG7LMp0YkI6Alu3oX"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6y3UpZmkWxVw89PAN9My0s"
+    },
+    {
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "Stand Tall",
         "url": "https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8"
@@ -305,31 +325,7 @@
       "url": "https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Mobster Moves",
-        "url": "https://open.spotify.com/album/0zuShgrNpB6uzhLifdd4L4"
-      },
-      "artists": [
-        {
-          "name": "JesterTheRyda",
-          "url": "https://open.spotify.com/artist/6jhbqdv4AAOMIHio8uyO5b"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Poltergyst",
-          "url": "https://open.spotify.com/artist/6FXLttmvYjoUwnzUfDbfVn"
-        }
-      ],
-      "duration_ms": 242860,
-      "name": "Pop A Toast",
-      "url": "https://open.spotify.com/track/55ElQ1otzm88Nx5QyfCk3O"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "Girls5eva Season 3 (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/0lOoFKyv1oX6wUp6Jqi5pS"
@@ -357,7 +353,7 @@
       "url": "https://open.spotify.com/track/7eSQr7gAkqiGhwK7vnoNNA"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "Worldwide Saga",
         "url": "https://open.spotify.com/album/5L7IuGGJcEa4FYnq3ybwps"
@@ -389,7 +385,7 @@
       "url": "https://open.spotify.com/track/78nD8XwzxoykJY7IQWio2E"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "Triptyque : Lueurs c\u00e9lestes",
         "url": "https://open.spotify.com/album/3Y4Fve4mKlaHzrDfnZ6XFo"
@@ -405,7 +401,7 @@
       "url": "https://open.spotify.com/track/5GFO0iaogNFFKm5a3Acb7j"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "Beethoven for Three: Symphony No. 4 and Op. 97 \"Archduke\"",
         "url": "https://open.spotify.com/album/66A95B2hOyckzsR5sZ4FrK"
@@ -433,7 +429,7 @@
       "url": "https://open.spotify.com/track/30AQolUR7mQXh2kDM51hKv"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "Invincible Shield (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
@@ -444,12 +440,12 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 278067,
-      "name": "Gates of Hell",
-      "url": "https://open.spotify.com/track/2XGcAtlohzN8uDENnWT9k1"
+      "duration_ms": 286507,
+      "name": "Devil in Disguise",
+      "url": "https://open.spotify.com/track/4dRPv5zarv9iZ3exYT739x"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "Pinball",
         "url": "https://open.spotify.com/album/5gHqM8u3IclJ1ZV6q309OW"
@@ -477,7 +473,7 @@
       "url": "https://open.spotify.com/track/4j25WxLITRGhkYNmdezE8s"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "You Know Where You Can Go",
         "url": "https://open.spotify.com/album/7iDWFBtacfbocn7mWCnRWK"
@@ -497,7 +493,7 @@
       "url": "https://open.spotify.com/track/0RwL2Cj7Ap2tsLmCEKYsMB"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "Cadillac",
         "url": "https://open.spotify.com/album/72UrPH8cxQPS7rDei8SV0Q"
@@ -517,7 +513,7 @@
       "url": "https://open.spotify.com/track/5xzyCrwITp40jAf6FrHEbF"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "The Gereg (Instrumentals)",
         "url": "https://open.spotify.com/album/5DTdVA7UF8xSwbDFiSOZni"
@@ -533,7 +529,7 @@
       "url": "https://open.spotify.com/track/26AU00MfWNYKRKOl24wwfG"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "The Storm",
         "url": "https://open.spotify.com/album/61w0SxDVRXWxOdsHUt2uBf"
@@ -549,7 +545,7 @@
       "url": "https://open.spotify.com/track/0GrQ3TWmLvKlUEWhm19eSB"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "Odd Sketches, Vol. 1",
         "url": "https://open.spotify.com/album/2P0y5zLv9AxKoQXQQrlMq2"
@@ -565,27 +561,7 @@
       "url": "https://open.spotify.com/track/6abXBXeqMIrdSDMap0W1Qg"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Real Good Day (with Wax)",
-        "url": "https://open.spotify.com/album/4TLebqBQrKVQFsO6fjpnd2"
-      },
-      "artists": [
-        {
-          "name": "Mihali",
-          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 165653,
-      "name": "Real Good Day (with Wax)",
-      "url": "https://open.spotify.com/track/1g8D5yBx8sPoojlzah8xXa"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "Years Roll By",
         "url": "https://open.spotify.com/album/6mJGloUq4jFTEoEaThnh6i"
@@ -609,7 +585,27 @@
       "url": "https://open.spotify.com/track/0pVG9Vj40uY2Z7D4afDEPT"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
+      "album": {
+        "name": "Real Good Day (with Wax)",
+        "url": "https://open.spotify.com/album/4TLebqBQrKVQFsO6fjpnd2"
+      },
+      "artists": [
+        {
+          "name": "Mihali",
+          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "Real Good Day (with Wax)",
+      "url": "https://open.spotify.com/track/1g8D5yBx8sPoojlzah8xXa"
+    },
+    {
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "Feel Away",
         "url": "https://open.spotify.com/album/1OrjH2n61qz2EaWsQZXmsL"
@@ -641,7 +637,7 @@
       "url": "https://open.spotify.com/track/6rfaBlrGPy8t790jZBCIgK"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-22 05:00:00",
       "album": {
         "name": "We Bang",
         "url": "https://open.spotify.com/album/2kOfw3YBg6zpwcY1NHNoBB"

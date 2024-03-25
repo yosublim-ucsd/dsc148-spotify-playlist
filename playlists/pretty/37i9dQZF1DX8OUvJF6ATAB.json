@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 192052,
+  "num_followers": 192084,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmZjN2YzYWUzN2JmMzU3ZDc0MjY2MzNkNmUxNjZjMzhiZDkyZWEy",
+  "snapshot_id": "MCw1ZDJkNTNhNGFkMDM2YmNkMjY1OTFiNGEwNjJiYmIzNjNhNWJhZjg5",
   "tracks": [
     {
       "added_at": "2023-04-21 14:41:23",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Them Is Us",
+        "url": "https://open.spotify.com/album/0A5tpZdGyDhKBGt5XYgVaM"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 346171,
+      "name": "Them Is Us",
+      "url": "https://open.spotify.com/track/7sRMepOClh09cgoSE0Qhts"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Angel's Flight",
         "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 277673,
       "name": "And, We Disappear",
       "url": "https://open.spotify.com/track/5SvK0HVz3EW2x06xE9uVGo"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Them Is Us",
-        "url": "https://open.spotify.com/album/0A5tpZdGyDhKBGt5XYgVaM"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 346171,
-      "name": "Them Is Us",
-      "url": "https://open.spotify.com/track/7sRMepOClh09cgoSE0Qhts"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Forest Dreams",
-        "url": "https://open.spotify.com/album/1FEt78mhUImIJ7UAVD2CsO"
-      },
-      "artists": [
-        {
-          "name": "Glacier Wave",
-          "url": "https://open.spotify.com/artist/4oUckuGBldRcLfLmZcMdBN"
-        }
-      ],
-      "duration_ms": 222511,
-      "name": "Forest Dreams",
-      "url": "https://open.spotify.com/track/70zia32aU9S7zvTdymWhCP"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Long Stories",
         "url": "https://open.spotify.com/album/0X9PhyGtg7jJ6Ry4uOfkFa"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 249534,
       "name": "Saccade",
       "url": "https://open.spotify.com/track/4FY4aLVlOZbOs5y9W5LnEh"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Forest Dreams",
+        "url": "https://open.spotify.com/album/1FEt78mhUImIJ7UAVD2CsO"
+      },
+      "artists": [
+        {
+          "name": "Glacier Wave",
+          "url": "https://open.spotify.com/artist/4oUckuGBldRcLfLmZcMdBN"
+        }
+      ],
+      "duration_ms": 222511,
+      "name": "Forest Dreams",
+      "url": "https://open.spotify.com/track/70zia32aU9S7zvTdymWhCP"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Nonlin",
+        "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
+      },
+      "artists": [
+        {
+          "name": "Steve Hauschildt",
+          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
+        }
+      ],
+      "duration_ms": 406856,
+      "name": "Subtractive Skies",
+      "url": "https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "outside of your lifetime",
         "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 274333,
       "name": "Freedom at the 45th Floor",
       "url": "https://open.spotify.com/track/3FhTy63b1pmm5FSEUtpCPR"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Nonlin",
-        "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
-      },
-      "artists": [
-        {
-          "name": "Steve Hauschildt",
-          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
-        }
-      ],
-      "duration_ms": 406856,
-      "name": "Subtractive Skies",
-      "url": "https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Whities 029",
+        "url": "https://open.spotify.com/album/6IYhvItVOh2C31auIJpsxA"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Isles",
+          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
+        }
+      ],
+      "duration_ms": 403694,
+      "name": "Waiting in Arisaig",
+      "url": "https://open.spotify.com/track/6bkgvx2YMCC2tjZA61YTKG"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "The Alias Sessions",
         "url": "https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 283493,
       "name": "Quino-Phec",
       "url": "https://open.spotify.com/track/1vMitMDq7PVpzmHF1bpKLY"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Whities 029",
-        "url": "https://open.spotify.com/album/6IYhvItVOh2C31auIJpsxA"
-      },
-      "artists": [
-        {
-          "name": "Lord Of The Isles",
-          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
-        }
-      ],
-      "duration_ms": 403694,
-      "name": "Waiting in Arisaig",
-      "url": "https://open.spotify.com/track/6bkgvx2YMCC2tjZA61YTKG"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Grial",
+        "url": "https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X"
+      },
+      "artists": [
+        {
+          "name": "Verraco",
+          "url": "https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1"
+        }
+      ],
+      "duration_ms": 299892,
+      "name": "Our New Order",
+      "url": "https://open.spotify.com/track/71kdBwFjBFIMn4ZBsFOlYa"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Repair Techniques",
         "url": "https://open.spotify.com/album/43Ut1iwUFTz52uVQPh8BIJ"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Grial",
-        "url": "https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X"
-      },
-      "artists": [
-        {
-          "name": "Verraco",
-          "url": "https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1"
-        }
-      ],
-      "duration_ms": 299892,
-      "name": "Our New Order",
-      "url": "https://open.spotify.com/track/71kdBwFjBFIMn4ZBsFOlYa"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "The Alias Sessions",
         "url": "https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Kwaidan",
-        "url": "https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO"
-      },
-      "artists": [
-        {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Sankai",
-      "url": "https://open.spotify.com/track/6IQoOFscOOZqWTy6Hn6QnC"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Comma",
         "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 309448,
       "name": "September Remember",
       "url": "https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Kwaidan",
+        "url": "https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO"
+      },
+      "artists": [
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Sankai",
+      "url": "https://open.spotify.com/track/6IQoOFscOOZqWTy6Hn6QnC"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7gv0Nr7L0yZ8s0GM0gfDbO"
-      },
-      "artists": [
-        {
-          "name": "X.Y.R.",
-          "url": "https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz"
-        }
-      ],
-      "duration_ms": 386000,
-      "name": "Labyrinth (Exit)",
-      "url": "https://open.spotify.com/track/1uWdXliELcLPxbgLAXiTQL"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Fungipedia",
         "url": "https://open.spotify.com/album/0PxR7nUAhAVcaMLfbshIBO"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7gv0Nr7L0yZ8s0GM0gfDbO"
+      },
+      "artists": [
+        {
+          "name": "X.Y.R.",
+          "url": "https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz"
+        }
+      ],
+      "duration_ms": 386000,
+      "name": "Labyrinth (Exit)",
+      "url": "https://open.spotify.com/track/1uWdXliELcLPxbgLAXiTQL"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Flying to America",
         "url": "https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji"
       },
@@ -1355,6 +1355,42 @@
       "duration_ms": 468500,
       "name": "Flying to America",
       "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "You Were Always an Island",
+        "url": "https://open.spotify.com/album/6QYUNnviiZt0saWnQVN6uM"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 354853,
+      "name": "You Were Always an Island",
+      "url": "https://open.spotify.com/track/7lwRmnv3T5ECX3lCsCvK9v"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Just Before Silence",
+        "url": "https://open.spotify.com/album/5t2haO57gh05cN1oO1ZQAn"
+      },
+      "artists": [
+        {
+          "name": "Suso Saiz",
+          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
+        },
+        {
+          "name": "Menhir",
+          "url": "https://open.spotify.com/artist/1XGNW7AotFO4oSHxZC09OL"
+        }
+      ],
+      "duration_ms": 231494,
+      "name": "The Cage",
+      "url": "https://open.spotify.com/track/5PhKqxHWmlpygmNOIQuAL7"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1379,22 +1415,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "You Were Always an Island",
-        "url": "https://open.spotify.com/album/6QYUNnviiZt0saWnQVN6uM"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 354853,
-      "name": "You Were Always an Island",
-      "url": "https://open.spotify.com/track/7lwRmnv3T5ECX3lCsCvK9v"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/725lNa4TQ4kMUOphWG0iCl"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 250040,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/1yy59D7L2Ym3wYLQct8dHR"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Just Before Silence",
-        "url": "https://open.spotify.com/album/5t2haO57gh05cN1oO1ZQAn"
-      },
-      "artists": [
-        {
-          "name": "Suso Saiz",
-          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
-        },
-        {
-          "name": "Menhir",
-          "url": "https://open.spotify.com/artist/1XGNW7AotFO4oSHxZC09OL"
-        }
-      ],
-      "duration_ms": 231494,
-      "name": "The Cage",
-      "url": "https://open.spotify.com/track/5PhKqxHWmlpygmNOIQuAL7"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Plays Bee Mask",
-        "url": "https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc"
-      },
-      "artists": [
-        {
-          "name": "Donato Dozzy",
-          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
-        }
-      ],
-      "duration_ms": 363380,
-      "name": "Vaporware 05",
-      "url": "https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Hilja",
         "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 321000,
       "name": "Demetra",
       "url": "https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Plays Bee Mask",
+        "url": "https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc"
+      },
+      "artists": [
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        }
+      ],
+      "duration_ms": 363380,
+      "name": "Vaporware 05",
+      "url": "https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Yes! Come Parade With Us",
-        "url": "https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz"
-      },
-      "artists": [
-        {
-          "name": "Leafcutter John",
-          "url": "https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r"
-        }
-      ],
-      "duration_ms": 294600,
-      "name": "Yes! Come Parade With Us",
-      "url": "https://open.spotify.com/track/1r6ydnQKC9Ukvh87ANT0Hh"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Ground Groove",
         "url": "https://open.spotify.com/album/02Lf34RloqjwBGi2lPMtUN"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 126030,
       "name": "Heart Shimmer",
       "url": "https://open.spotify.com/track/0FrvlXmxPAw4IieVlrUXWb"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Yes! Come Parade With Us",
+        "url": "https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz"
+      },
+      "artists": [
+        {
+          "name": "Leafcutter John",
+          "url": "https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r"
+        }
+      ],
+      "duration_ms": 294600,
+      "name": "Yes! Come Parade With Us",
+      "url": "https://open.spotify.com/track/1r6ydnQKC9Ukvh87ANT0Hh"
     },
     {
       "added_at": "2023-04-21 14:41:23",

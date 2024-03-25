@@ -1,12 +1,12 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 145422,
+  "num_followers": 145429,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmY2N2VjYmY3OWYyMjViMzUyNmM4ZWRkMDBmNWZkZjEwOTVhYTc1",
+  "snapshot_id": "MCw5MTFlMGE3ZTM5MTkyMjVmOTUwMWE2NzE4MzM1OTNhM2ZiYTZkMzA1",
   "tracks": [
     {
       "added_at": "2023-03-06 22:48:04",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Gal Tropical",
-        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Balanc\u00ea",
-      "url": "https://open.spotify.com/track/2m1G38M0gJuE4aVPh0tmIP"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Nightingale",
         "url": "https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 264306,
       "name": "Maracatu At\u00f4mico",
       "url": "https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Balanc\u00ea",
+      "url": "https://open.spotify.com/track/2m1G38M0gJuE4aVPh0tmIP"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "FESTA DE ADEUS",
-        "url": "https://open.spotify.com/album/7DU9frP5BFaBmA3RpJOInK"
-      },
-      "artists": [
-        {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        }
-      ],
-      "duration_ms": 220206,
-      "name": "QUERO UM CARNAVAL",
-      "url": "https://open.spotify.com/track/2ooeiOnpx96CJfOegfjwA3"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/7CnmrVFElrgMKUSuIvYqgE"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 194866,
       "name": "Festa Do Interior",
       "url": "https://open.spotify.com/track/1T3fc0CRPnVBWWiW9BAiw3"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "FESTA DE ADEUS",
+        "url": "https://open.spotify.com/album/7DU9frP5BFaBmA3RpJOInK"
+      },
+      "artists": [
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        }
+      ],
+      "duration_ms": 220206,
+      "name": "QUERO UM CARNAVAL",
+      "url": "https://open.spotify.com/track/2ooeiOnpx96CJfOegfjwA3"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Muitos Carnavais",
-        "url": "https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv"
+        "name": "Mangueira - a Menina Dos Meus Olhos",
+        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         }
       ],
-      "duration_ms": 162973,
-      "name": "Atr\u00e1s Do Trio El\u00e9trico",
-      "url": "https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX"
+      "duration_ms": 63141,
+      "name": "Maria Beth\u00e2nia, a Menina Dos Olhos de Oy\u00e1 (Samba Enredo 2016)",
+      "url": "https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4"
     }
   ],
   "unique_name": "carnavalizar",

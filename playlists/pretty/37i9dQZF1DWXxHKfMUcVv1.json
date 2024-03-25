@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 114813,
+  "num_followers": 114881,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjRiNTYxZjUzYWE1YTQ2MzM0MDJkNGVmNGJkNDg2OGJmYmQ0Njg3",
+  "snapshot_id": "MCxiYzNiMGMxYjc3MTZlNmVjNjQyNDRiNGViNTU5YTQ1MjZjNWYzOTlm",
   "tracks": [
     {
       "added_at": "2024-01-12 16:17:07",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Armando Camale\u00f3n",
-        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "Campanas en la Noche",
-      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Lenguaje Universal",
         "url": "https://open.spotify.com/album/1HXorJHIRNwFXQzV2GLC5k"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 246046,
       "name": "Busca Un Confidente",
       "url": "https://open.spotify.com/track/63kq9VZGTYhBELP0jX3qsq"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Campanas en la Noche",
+      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
-      },
-      "artists": [
-        {
-          "name": "Cumbia Juan",
-          "url": "https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7gt6pwqf6YuDT1zeuiSuSU"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Amigos Con Derecho",
         "url": "https://open.spotify.com/album/0WlUBg6W43IB3Wp6vY9YuK"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 186960,
       "name": "Amigos Con Derecho",
       "url": "https://open.spotify.com/track/0s20N1FV0QZ5Stp5GXH2cj"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Juan",
+          "url": "https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7gt6pwqf6YuDT1zeuiSuSU"
     },
     {
       "added_at": "2024-01-12 16:17:07",

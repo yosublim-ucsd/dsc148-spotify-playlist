@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Tierra Whack
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,967 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,069 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [For Free?](https://open.spotify.com/track/0rg7DxTa08fGuIONC3mDU3) | [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ) | [For Free?](https://open.spotify.com/album/3uamA6EQVoQzupXpke900F) | 3:13 |
 | 100 | [SHAKIN IT \(feat\. Cash Cobain\)](https://open.spotify.com/track/6fciDfvusfex0xul6qjNjW) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [LVL5 P2](https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm) | 2:54 |
 
-Snapshot ID: `MCw5NTQ2ZTk3MDE5NTI2MTYwZDk4NGZhZWFkN2MxOTgyZmM5Mjk1N2Y2`
+Snapshot ID: `MCxjN2I2ZmY4MjY5NjkyYjg1YjBmNjU5NGQ2ZGE2M2FlZjBkMWE1Mzdi`

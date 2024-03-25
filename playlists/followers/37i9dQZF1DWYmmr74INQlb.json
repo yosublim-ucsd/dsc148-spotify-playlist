@@ -1,7 +1,7 @@
 {
-  "2024-03-24": 4653713,
+  "2024-03-25": 4653860,
   "date_first_scraped": "2021-12-21",
-  "description": "The most essential R&B songs from the '00s. Cover: Keyshia Cole",
+  "description": "Celebrating 20 years of Usher's \"Confessions\". Cover: Usher",
   "name": "I Love My '00s R&B",
   "tracks": [
     {
@@ -1877,7 +1877,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 304666,
       "name": "Love",
       "url": "https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b"
@@ -1913,7 +1913,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 271386,
       "name": "Makin' Good Love",
       "url": "https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1"
@@ -2029,6 +2029,28 @@
       "duration_ms": 231173,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD"
+    },
+    {
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223440,
+      "name": "My Boo",
+      "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
     },
     {
       "album": {
@@ -2899,7 +2921,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 266893,
       "name": "U Remind Me",
       "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"

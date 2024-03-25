@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,366 songs - 3 day 11 hr 31 min
+1,367 songs - 3 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -940,9 +940,10 @@
 | [The Swallow \(feat\. Midories\)](https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [The Swallow \(feat\. Midories\)](https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq) | 3:37 | 2022-11-04 | 2023-10-13 |
 | [THE UNION](https://open.spotify.com/track/1qlcGHhGLtcSYqtHFtDIoC) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 3:39 | 2023-10-24 | 2023-11-16 |
 | [the wire](https://open.spotify.com/track/1YcIUoRRC2gtPa5HN87idh) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:38 | 2022-08-11 | 2022-10-01 |
+| [The Yonder](https://open.spotify.com/track/3IRdpIbyz1HriL6M3bAnb8) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87) | 2:33 | 2024-03-12 |  |
 | [The Yonder](https://open.spotify.com/track/3vxcTeFdHXeBzBq59sovEj) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/7IiryjEryXiL3wRNWItITE) | 2:33 | 2024-02-13 | 2024-02-28 |
 | [Them Us You Me](https://open.spotify.com/track/3KHBNhUmAoyb3AEbWgVYjd) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Them Us You Me](https://open.spotify.com/album/2Hvm2ruIBqU7Hkc6NANCkC) | 2:43 | 2024-01-23 | 2024-02-14 |
-| [Think Twice](https://open.spotify.com/track/287GfoUeiVLiSN2ehJ740d) | [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [Think Twice](https://open.spotify.com/album/4xTdNoSXzygD6vzyHw5Tlu) | 3:12 | 2024-01-16 |  |
+| [Think Twice](https://open.spotify.com/track/287GfoUeiVLiSN2ehJ740d) | [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [Think Twice](https://open.spotify.com/album/4xTdNoSXzygD6vzyHw5Tlu) | 3:12 | 2024-01-16 | 2024-03-25 |
 | [Thinking](https://open.spotify.com/track/5ZuVfW3iyz4AUA7aSDwNtp) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Thinking](https://open.spotify.com/album/3DpicBvCX079m21wMy9cMt) | 4:02 | 2022-08-03 | 2023-01-25 |
 | [This Hell](https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:56 | 2022-10-04 |  |
 | [This Is The Night](https://open.spotify.com/track/6malMRVfOTA9bGs3BVVbu9) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG), [Gagle](https://open.spotify.com/artist/7EEGSEHvuzEc2x4dhZPb50) | [curtain call](https://open.spotify.com/album/7D4cMYPY6OmOt9ZEJg4kiC) | 4:14 | 2023-01-17 | 2023-03-10 |

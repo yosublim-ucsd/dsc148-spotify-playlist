@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 388061,
+  "2024-03-25": 388088,
   "date_first_scraped": "2022-12-10",
   "description": "Tune in, bliss out",
   "name": "Just Chill",
@@ -2123,7 +2123,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 271025,
       "name": "Making Time",
       "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
@@ -3033,6 +3033,24 @@
       "duration_ms": 242847,
       "name": "Straight Up Relaxin' (feat. Cosmo's Midnight)",
       "url": "https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy"
+    },
+    {
+      "album": {
+        "name": "Sunset With You",
+        "url": "https://open.spotify.com/album/1DFuNmBPD6jrncXV7ksHbS"
+      },
+      "artists": [
+        {
+          "name": "Klub Rider",
+          "url": "https://open.spotify.com/artist/16qQcoH29BgfLJtFqSPT2f"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126869,
+      "name": "Sunset With You",
+      "url": "https://open.spotify.com/track/0nL6CQenIqkfhXuANgWiCw"
     },
     {
       "album": {

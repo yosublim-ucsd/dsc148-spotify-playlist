@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 447173,
+  "2024-03-25": 447191,
   "date_first_scraped": "2021-12-30",
   "description": "indie tunes to make you shine bby :)",
   "name": "indie feliz",
@@ -2449,10 +2449,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 208748,
       "name": "Nada Que Me Guste M\u00e1s",
       "url": "https://open.spotify.com/track/24ZdWvvNirs87VDxSMDU9u"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Normal De Lo Normal",
+        "url": "https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208748,
+      "name": "Nada Que Me Guste M\u00e1s",
+      "url": "https://open.spotify.com/track/3V3xs6NMWRxy958Gd23Lsp"
     },
     {
       "album": {

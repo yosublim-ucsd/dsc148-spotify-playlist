@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,330 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,348 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 49 | [Paradise Baile](https://open.spotify.com/track/5Uws8XBtHJXvK50BxJAqJD) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [CORE VA: Brasil 23](https://open.spotify.com/album/0BtpYcEdSsYTyXvflFQAaP) | 3:31 |
 | 50 | [Hustla](https://open.spotify.com/track/1UnZUwKsQsmwSdsvKm2QRm) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Hustla](https://open.spotify.com/album/4oofnyX49L9k555nOKILFI) | 2:41 |
 
-Snapshot ID: `MCxmYWVlNjEyZTQ0ZmFlN2M3MzViZTc2YzI4MzI5Y2QyODFhZjkxODUz`
+Snapshot ID: `MCxhNTRmZmViOWIwZGMwMTc3NWE1ZThmZDkyM2ZhNjY0Y2VjNDc5OGQ4`

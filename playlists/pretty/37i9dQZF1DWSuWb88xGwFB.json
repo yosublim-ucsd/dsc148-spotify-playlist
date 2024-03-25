@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 33546,
+  "num_followers": 33557,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjRlZGZlNDYzYWVjNjdjNDJiNWUxNjdlY2EwMDU2YWU4Mjg3NjAy",
+  "snapshot_id": "MCw0YzI5YTk5ZjU3NzgxODY3MzJmYzU5NjRmMWUyMzA2YzU2MjJmNzIz",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Keep On Groovin'",
+        "url": "https://open.spotify.com/album/3AYF0SeOzm9runBziVjooE"
+      },
+      "artists": [
+        {
+          "name": "DJ Sneak",
+          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
+        }
+      ],
+      "duration_ms": 463571,
+      "name": "Keep On Groovin' (Pitch Disco Mix)",
+      "url": "https://open.spotify.com/track/5hxBQdYP2DbrPNJ2zGByXk"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Strictly Hardrive",
         "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 350066,
       "name": "Sindae (feat. L.G.) (Masters At Work Club Mix)",
       "url": "https://open.spotify.com/track/0aTZHaKTK9htjALc7afCi5"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Keep On Groovin'",
-        "url": "https://open.spotify.com/album/3AYF0SeOzm9runBziVjooE"
-      },
-      "artists": [
-        {
-          "name": "DJ Sneak",
-          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
-        }
-      ],
-      "duration_ms": 463571,
-      "name": "Keep On Groovin' (Pitch Disco Mix)",
-      "url": "https://open.spotify.com/track/5hxBQdYP2DbrPNJ2zGByXk"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Blues for You",
-        "url": "https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Blues for You (Vocal Mix #1)",
-      "url": "https://open.spotify.com/track/6o96U40oTGxjZXGt8dcQis"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Jazz It Up",
         "url": "https://open.spotify.com/album/3Nm4uP8Qb9TLcaLiqRtyJr"
       },
@@ -543,6 +527,26 @@
       "duration_ms": 311760,
       "name": "Jazz it Up (Extended Jazz)",
       "url": "https://open.spotify.com/track/3IGALj2BWgLobfde5ybccP"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Generate Power (feat. Paula Brion) [2010 Mixes]",
+        "url": "https://open.spotify.com/album/2gO7YHUxRWuNaYKYBDJ3SB"
+      },
+      "artists": [
+        {
+          "name": "Photon Inc.",
+          "url": "https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP"
+        },
+        {
+          "name": "Paula Brion",
+          "url": "https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4"
+        }
+      ],
+      "duration_ms": 523906,
+      "name": "Generate Power (feat. Paula Brion) (Wild Pitch Mix)",
+      "url": "https://open.spotify.com/track/1FJZ5ut6DOWiDwyUV7jWL6"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -579,22 +583,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Generate Power (feat. Paula Brion) [2010 Mixes]",
-        "url": "https://open.spotify.com/album/2gO7YHUxRWuNaYKYBDJ3SB"
+        "name": "Blues for You",
+        "url": "https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA"
       },
       "artists": [
         {
-          "name": "Photon Inc.",
-          "url": "https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP"
-        },
-        {
-          "name": "Paula Brion",
-          "url": "https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
         }
       ],
-      "duration_ms": 523906,
-      "name": "Generate Power (feat. Paula Brion) (Wild Pitch Mix)",
-      "url": "https://open.spotify.com/track/1FJZ5ut6DOWiDwyUV7jWL6"
+      "duration_ms": 377093,
+      "name": "Blues for You (Vocal Mix #1)",
+      "url": "https://open.spotify.com/track/6o96U40oTGxjZXGt8dcQis"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
+      },
+      "artists": [
+        {
+          "name": "Krimp",
+          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
+        }
+      ],
+      "duration_ms": 410967,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Love Trax",
         "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 468520,
       "name": "Set My Spirit Free (feat. Sandy Rivera)",
       "url": "https://open.spotify.com/track/1Atpos1RTfmnpMzeSTkMHx"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
-      },
-      "artists": [
-        {
-          "name": "Krimp",
-          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
-        }
-      ],
-      "duration_ms": 410967,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "This Way / Boy",
-        "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
-      },
-      "artists": [
-        {
-          "name": "K.E.L.S.E.Y.",
-          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
-        }
-      ],
-      "duration_ms": 428757,
-      "name": "Boy (MK Deep Dub)",
-      "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Boom / I Need Your Love",
         "url": "https://open.spotify.com/album/1G7KXTJydP5w5UIQCQBL2t"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 358546,
       "name": "Boom (Radio Mix)",
       "url": "https://open.spotify.com/track/2Mnqeirws7LI60BXCKRA3S"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "This Way / Boy",
+        "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
+      },
+      "artists": [
+        {
+          "name": "K.E.L.S.E.Y.",
+          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
+        }
+      ],
+      "duration_ms": 428757,
+      "name": "Boy (MK Deep Dub)",
+      "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Jump & Sing / Work Me",
+        "url": "https://open.spotify.com/album/1o2QtNuAMWhMDnOeEvfal6"
+      },
+      "artists": [
+        {
+          "name": "Scram",
+          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
+        }
+      ],
+      "duration_ms": 341200,
+      "name": "Jump & Sing (Hard Metro Mix)",
+      "url": "https://open.spotify.com/track/0a47CdRlKFkKTMX6ZSH2nL"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Move Your Body (feat. LaVette) [Mixes]",
         "url": "https://open.spotify.com/album/73qB0bVff6GfAOZabkcTOC"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 228238,
       "name": "Move Your Body (feat. LaVette) (Radio Mix)",
       "url": "https://open.spotify.com/track/26KSmfr8x8Zo2HFAvyceIB"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Jump & Sing / Work Me",
-        "url": "https://open.spotify.com/album/1o2QtNuAMWhMDnOeEvfal6"
-      },
-      "artists": [
-        {
-          "name": "Scram",
-          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
-        }
-      ],
-      "duration_ms": 341200,
-      "name": "Jump & Sing (Hard Metro Mix)",
-      "url": "https://open.spotify.com/track/0a47CdRlKFkKTMX6ZSH2nL"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1291,18 +1291,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+        "name": "The Beat That Makes U Move",
+        "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
       },
       "artists": [
         {
-          "name": "Mon\u00e9",
-          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+        },
+        {
+          "name": "Dreamgirl Vee",
+          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
         }
       ],
-      "duration_ms": 334220,
-      "name": "We Can Make It (The \u2018I Believe' Dub)",
-      "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
+      "duration_ms": 458306,
+      "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
+      "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

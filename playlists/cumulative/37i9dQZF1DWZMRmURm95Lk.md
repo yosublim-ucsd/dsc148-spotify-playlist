@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Cor Veleno e Fabri Fibra in cover.
 
-370 songs - 21 hr 25 min
+371 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Bugie Bianche](https://open.spotify.com/track/5YG4c1oIu9vOr8Wqoa05iH) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX) | [Rebus](https://open.spotify.com/album/2w8DyIVdzfGyoKxWzNTgYz) | 3:13 | 2023-03-02 |  |
 | [By Myself](https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l) | [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn) | [Max](https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5) | 4:20 | 2022-07-28 |  |
 | [Camera mia](https://open.spotify.com/track/3nEwS4kH1G9QookCdI3W3w) | [Don Diegoh](https://open.spotify.com/artist/4EUJtRvapSIJrhtLlsrcIh), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Addio, a domani.](https://open.spotify.com/album/2wEopDdUpTn4Z7yBEzK0gu) | 4:22 | 2022-06-16 | 2022-07-27 |
-| [Candeline \(feat\. Ghemon\)](https://open.spotify.com/track/6novc9o6iBbWRCSaU6b1XB) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY), [Alessandro Rase](https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Candeline \(feat\. Ghemon\)](https://open.spotify.com/album/2Fdum39Jz7ypweYX7WbJ09) | 2:33 | 2024-01-18 |  |
+| [Candeline \(feat\. Ghemon\)](https://open.spotify.com/track/6novc9o6iBbWRCSaU6b1XB) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY), [Alessandro Rase](https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Candeline \(feat\. Ghemon\)](https://open.spotify.com/album/2Fdum39Jz7ypweYX7WbJ09) | 2:33 | 2024-01-18 | 2024-03-25 |
 | [Cani sciolti](https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0) | [Sangue Misto](https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL) | [SXM](https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E) | 4:55 | 2022-05-05 |  |
 | [Cani Sciolti \- 2006](https://open.spotify.com/track/5g4Umkk6CRSrixdPzeqIBr) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Penna Capitale](https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL) | 3:38 | 2024-01-02 | 2024-01-12 |
 | [Caramelle da uno sconosciuto](https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Ferro del mestiere](https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL) | 2:23 | 2022-06-16 |  |
@@ -143,6 +143,7 @@
 | [Il Mio Giorno Migliore](https://open.spotify.com/track/18Mm631s6Vr11mYyAJYL9A) | [Al Castellana](https://open.spotify.com/artist/6UVCwrEMPsmydH3KKffz4Z), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [Il Mio Giorno Migliore](https://open.spotify.com/album/6ALhJ6zXjLDaiuy4OU2TjW) | 4:49 | 2022-09-09 | 2022-10-29 |
 | [il profumo delle rose \(feat\. Danno, Dj Craim\)](https://open.spotify.com/track/0NkjKhplGqGny5oQTYdk9s) | [STABBER](https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Dj Craim](https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ) | [TRUENO](https://open.spotify.com/album/2wk8kCqquBbU4taQ5kzSOq) | 2:47 | 2024-03-14 | 2024-03-24 |
 | [il profumo delle rose \(feat\. Danno, Dj Craim\)](https://open.spotify.com/track/4ggxeEirkrqdpDsTWoQB8j) | [STABBER](https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Dj Craim](https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ) | [TRUENO](https://open.spotify.com/album/0rONrHzPeWE8cFpo5REOSa) | 2:47 | 2024-03-14 | 2024-03-20 |
+| [il profumo delle rose \(feat\. Danno, Dj Craim\)](https://open.spotify.com/track/7FijVHPAkDn7ZMFhD72sHO) | [STABBER](https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Dj Craim](https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ) | [TRUENO](https://open.spotify.com/album/6hzqMbs19My506LAgKl8Ld) | 2:47 | 2024-03-21 |  |
 | [In Sbatti](https://open.spotify.com/track/0WKVClYF08eMEStJBTgq7C) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 2:49 | 2024-01-11 |  |
 | [Incubi](https://open.spotify.com/track/70bR9llwrqj7jAeAYtNAsq) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4) | [Incubi](https://open.spotify.com/album/3fZ7dqVr0vlpMBC9wR64pD) | 9:59 | 2022-05-05 | 2022-07-29 |
 | [Indelebili](https://open.spotify.com/track/75Yzvfpj7uGrT9c39u4pvq) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:18 | 2024-01-11 |  |

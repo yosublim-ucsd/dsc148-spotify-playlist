@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 309765,
+  "2024-03-25": 309787,
   "date_first_scraped": "2023-09-18",
   "description": "Apaga a luz e deixa rolar.",
   "name": "Rala e Rola",
@@ -149,7 +149,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 137333,
       "name": "Apela\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "C\u00ea T\u00e1 Bem",
       "url": "https://open.spotify.com/track/0LdNETSAKTnzZ64JoOSMiv"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 200000,
       "name": "C\u00ea T\u00e1 Bem",
       "url": "https://open.spotify.com/track/1DLwaIqLEMrKz5czGKlI8B"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 185099,
       "name": "Meia Noite",
       "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"

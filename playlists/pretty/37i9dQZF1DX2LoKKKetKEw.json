@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:7EHtFdWeBK26GJ5lKt02SV\">Reblah</a>",
-  "num_followers": 81449,
+  "num_followers": 81524,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjkzNzkxOThjZDk2MzRhM2JmNDc4ODU5MTc0MjNlNmNiNmY1MDI0",
+  "snapshot_id": "MCxkOTcxZWFkMTQ5YzkxMDhkODY0YWM5NjBiYmY0YWZlYmU4YTQ4MzIz",
   "tracks": [
     {
       "added_at": "2024-02-23 09:40:22",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 187428,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Kumama Papa",
         "url": "https://open.spotify.com/album/20GdacZdfLiQbve9FF8Xqu"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 157161,
       "name": "Kumama Papa",
       "url": "https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 187428,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Blessed Year",
-        "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Vin Mokay",
-          "url": "https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz"
-        }
-      ],
-      "duration_ms": 184337,
-      "name": "Blessed Year",
-      "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "I No Send",
         "url": "https://open.spotify.com/album/2u4uQpsUizbdl7KQTmnjGS"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 233128,
       "name": "I No Send",
       "url": "https://open.spotify.com/track/7DObo84GS9cTcf25Z5XMd0"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "Blessed Year",
+        "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Vin Mokay",
+          "url": "https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz"
+        }
+      ],
+      "duration_ms": 184337,
+      "name": "Blessed Year",
+      "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "My Dey",
+        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "My Dey",
+      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Baba Mi",
         "url": "https://open.spotify.com/album/7pin5EpD8uZx8vsXR82A1f"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 181782,
       "name": "Baba Mi",
       "url": "https://open.spotify.com/track/5K823Dh3DwBeP60vn0PYmn"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "My Dey",
-        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "My Dey",
-      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1003,6 +1003,30 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "The Word",
+        "url": "https://open.spotify.com/album/4yntsBzEnFsAgRU5mektA9"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Aigbeh D'gong",
+          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
+        }
+      ],
+      "duration_ms": 172208,
+      "name": "The Word",
+      "url": "https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Loved",
         "url": "https://open.spotify.com/album/7HYm3t0UoKBFI2n0xRIrUE"
       },
@@ -1027,30 +1051,6 @@
       "duration_ms": 188628,
       "name": "Loved",
       "url": "https://open.spotify.com/track/6MG67vKhgT79hSKS9PHPuY"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "The Word",
-        "url": "https://open.spotify.com/album/4yntsBzEnFsAgRU5mektA9"
-      },
-      "artists": [
-        {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Aigbeh D'gong",
-          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
-        }
-      ],
-      "duration_ms": 172208,
-      "name": "The Word",
-      "url": "https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "miles away",
+        "url": "https://open.spotify.com/album/4JNcuAGKN20Ei77IvelMEA"
+      },
+      "artists": [
+        {
+          "name": "LLC Flame",
+          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
+        },
+        {
+          "name": "Tevic Loni",
+          "url": "https://open.spotify.com/artist/51DmWtVcGb8W2EF0QOhJqS"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "miles away",
+      "url": "https://open.spotify.com/track/6dzITKGh7Rf1J2njERXcmw"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "NOMO (Never On My Own)",
         "url": "https://open.spotify.com/album/6ce2fkYBmX7GizmHK007La"
       },
@@ -1219,22 +1239,62 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "miles away",
-        "url": "https://open.spotify.com/album/4JNcuAGKN20Ei77IvelMEA"
+        "name": "Already Won",
+        "url": "https://open.spotify.com/album/6wJQFqrxl6EkCY9PyVFeHY"
       },
       "artists": [
         {
-          "name": "LLC Flame",
-          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
+          "name": "Mo'Lola",
+          "url": "https://open.spotify.com/artist/2ejOctEUrvGWrMuTwZPdaO"
         },
         {
-          "name": "Tevic Loni",
-          "url": "https://open.spotify.com/artist/51DmWtVcGb8W2EF0QOhJqS"
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
         }
       ],
-      "duration_ms": 160714,
-      "name": "miles away",
-      "url": "https://open.spotify.com/track/6dzITKGh7Rf1J2njERXcmw"
+      "duration_ms": 228979,
+      "name": "Already Won",
+      "url": "https://open.spotify.com/track/6iMeVb83BHP9IetgCLaf2q"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "Trip of the Faith",
+        "url": "https://open.spotify.com/album/6RO1J4ULw7wSCXVfvEAbTF"
+      },
+      "artists": [
+        {
+          "name": "Grace Lokwa",
+          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Promesse",
+      "url": "https://open.spotify.com/track/3KtzWPaxaJEinXDnGCK30B"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "Your Mind",
+        "url": "https://open.spotify.com/album/6Hz8dBX8nHEjlyEF8Fg2na"
+      },
+      "artists": [
+        {
+          "name": "Ealle",
+          "url": "https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        },
+        {
+          "name": "Renzo BA",
+          "url": "https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn"
+        }
+      ],
+      "duration_ms": 205195,
+      "name": "Your Mind",
+      "url": "https://open.spotify.com/track/4bruz4SVwYjjcIBtuBEN3n"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1279,66 +1339,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Already Won",
-        "url": "https://open.spotify.com/album/6wJQFqrxl6EkCY9PyVFeHY"
-      },
-      "artists": [
-        {
-          "name": "Mo'Lola",
-          "url": "https://open.spotify.com/artist/2ejOctEUrvGWrMuTwZPdaO"
-        },
-        {
-          "name": "Mike Abdul",
-          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
-        }
-      ],
-      "duration_ms": 228979,
-      "name": "Already Won",
-      "url": "https://open.spotify.com/track/6iMeVb83BHP9IetgCLaf2q"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "Your Mind",
-        "url": "https://open.spotify.com/album/6Hz8dBX8nHEjlyEF8Fg2na"
-      },
-      "artists": [
-        {
-          "name": "Ealle",
-          "url": "https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5"
-        },
-        {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
-        },
-        {
-          "name": "Renzo BA",
-          "url": "https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn"
-        }
-      ],
-      "duration_ms": 205195,
-      "name": "Your Mind",
-      "url": "https://open.spotify.com/track/4bruz4SVwYjjcIBtuBEN3n"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "Trip of the Faith",
-        "url": "https://open.spotify.com/album/6RO1J4ULw7wSCXVfvEAbTF"
-      },
-      "artists": [
-        {
-          "name": "Grace Lokwa",
-          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Promesse",
-      "url": "https://open.spotify.com/track/3KtzWPaxaJEinXDnGCK30B"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "Jesuferanmi",
         "url": "https://open.spotify.com/album/6xYsSaliEGAUM6d3bioeNi"
       },
@@ -1355,6 +1355,30 @@
       "duration_ms": 166735,
       "name": "Jesuferanmi",
       "url": "https://open.spotify.com/track/2vNFO83pPzGWCUesCnGePr"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "Right Here (It Must Be)",
+        "url": "https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        },
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        }
+      ],
+      "duration_ms": 189382,
+      "name": "Right Here (It Must Be)",
+      "url": "https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1451,50 +1475,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Right Here (It Must Be)",
-        "url": "https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        },
-        {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
-        }
-      ],
-      "duration_ms": 189382,
-      "name": "Right Here (It Must Be)",
-      "url": "https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "Afurum Gi Nanya",
-        "url": "https://open.spotify.com/album/5MoKsBnpO108u2NAtwXTae"
-      },
-      "artists": [
-        {
-          "name": "Okey Sokay",
-          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
-        },
-        {
-          "name": "Tryphena",
-          "url": "https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub"
-        }
-      ],
-      "duration_ms": 139320,
-      "name": "Afurum Gi Nanya",
-      "url": "https://open.spotify.com/track/55hhlxMF4pUKCzQzSaOSai"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "PRAISE YOUR NAME",
         "url": "https://open.spotify.com/album/14AVnCZS82Y9Nsxqc4wwE4"
       },
@@ -1519,6 +1499,42 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "Afurum Gi Nanya",
+        "url": "https://open.spotify.com/album/5MoKsBnpO108u2NAtwXTae"
+      },
+      "artists": [
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        },
+        {
+          "name": "Tryphena",
+          "url": "https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub"
+        }
+      ],
+      "duration_ms": 139320,
+      "name": "Afurum Gi Nanya",
+      "url": "https://open.spotify.com/track/55hhlxMF4pUKCzQzSaOSai"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "Legacy (Remix)",
+        "url": "https://open.spotify.com/album/2h0tdeNppdVe1PajAQZX7M"
+      },
+      "artists": [
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "duration_ms": 179513,
+      "name": "Legacy - Remix",
+      "url": "https://open.spotify.com/track/0Zbcsc8fJEeabelPgUzx8T"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "CONFIDENCE (Part 1)",
         "url": "https://open.spotify.com/album/5xRpwUmnqamMVJErrTYZuj"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 148800,
       "name": "CONFIDENCE (Part 1)",
       "url": "https://open.spotify.com/track/7upI55mhDKvTglOMQ5Wj5N"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "Legacy (Remix)",
-        "url": "https://open.spotify.com/album/2h0tdeNppdVe1PajAQZX7M"
-      },
-      "artists": [
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
-        }
-      ],
-      "duration_ms": 179513,
-      "name": "Legacy - Remix",
-      "url": "https://open.spotify.com/track/0Zbcsc8fJEeabelPgUzx8T"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Blow My Mind",
-        "url": "https://open.spotify.com/album/54Kx9glG1kj3iH8mmqgDFl"
-      },
-      "artists": [
-        {
-          "name": "Amichael Genre",
-          "url": "https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW"
-        },
-        {
-          "name": "Dj Horphuray",
-          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
-        }
-      ],
-      "duration_ms": 152520,
-      "name": "Blow My Mind",
-      "url": "https://open.spotify.com/track/10RuroVXArDIANiXftdakT"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "Keep it To Myself",
         "url": "https://open.spotify.com/album/1wcravxON0Ag9e3lset1gQ"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 178180,
       "name": "Keep it To Myself",
       "url": "https://open.spotify.com/track/1igORpjnhIfzd8w9XX0Zxt"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/54Kx9glG1kj3iH8mmqgDFl"
+      },
+      "artists": [
+        {
+          "name": "Amichael Genre",
+          "url": "https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW"
+        },
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        }
+      ],
+      "duration_ms": 152520,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/10RuroVXArDIANiXftdakT"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        },
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/1qhTnZDA67hssvx5HQ2O77"
       },
@@ -1927,6 +1907,26 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "For Sure",
         "url": "https://open.spotify.com/album/3HRHoRu4p6fZ6pms3uC8oC"
       },
@@ -1939,22 +1939,6 @@
       "duration_ms": 388675,
       "name": "For Sure",
       "url": "https://open.spotify.com/track/2UyiKKnsU8R3ESFeFlBm78"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/0ePR0y17gor7Gcl6exVz5z"
-      },
-      "artists": [
-        {
-          "name": "Tidez",
-          "url": "https://open.spotify.com/artist/12eUUHfSG9IGizOvLcvuq4"
-        }
-      ],
-      "duration_ms": 202268,
-      "name": "Foreigner",
-      "url": "https://open.spotify.com/track/6J3zjGHvujZobCvPDLUBBk"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1975,6 +1959,22 @@
       "duration_ms": 549421,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/6A8RrYAg9aG0BLTcrBt3k5"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/0ePR0y17gor7Gcl6exVz5z"
+      },
+      "artists": [
+        {
+          "name": "Tidez",
+          "url": "https://open.spotify.com/artist/12eUUHfSG9IGizOvLcvuq4"
+        }
+      ],
+      "duration_ms": 202268,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/6J3zjGHvujZobCvPDLUBBk"
     },
     {
       "added_at": "2024-02-23 09:40:22",

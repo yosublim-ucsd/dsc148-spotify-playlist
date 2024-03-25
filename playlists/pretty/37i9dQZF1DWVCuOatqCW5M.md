@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- KSHMR, King & Zaeden
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,719 likes - 65 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,765 likes - 65 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 64 | [Tu Meri Hai](https://open.spotify.com/track/0oVSs2wz74lm9YPwHbcdZl) | [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Tu Meri Hai](https://open.spotify.com/album/4Xqjk0emJHJCWaX0g9NqqC) | 3:55 |
 | 65 | [Dil Kya Kare](https://open.spotify.com/track/05cPakbRjt3D3Zsn8HqXDS) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh) | [Dil Kya Kare](https://open.spotify.com/album/23mkzLZ198waE7RzeA14m5) | 3:17 |
 
-Snapshot ID: `MCxhMmEyYjljNjljNDNhNDYwMjc2NjVhZTE2MDM3M2U3ZmRkNjUxMWNk`
+Snapshot ID: `MCw3NTYyOThkMDlhZjQ3Nzc2YmQ1MWEyZjFhMDI5NTEyODNkYjg4YjFj`

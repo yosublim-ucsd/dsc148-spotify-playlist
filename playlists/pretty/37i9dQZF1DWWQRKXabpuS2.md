@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف:شما حمدان
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,971 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,979 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Khatftni](https://open.spotify.com/track/1ZRtIeGiOwFBWDckCWaame) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Khatftni](https://open.spotify.com/album/3wxQX2Gzc7oh5AlziRmRRa) | 3:22 |
 | 50 | [زينة أيامي](https://open.spotify.com/track/77F0ZkjCzh3B2ASgfu9okX) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [الأرض](https://open.spotify.com/album/0S1DgCMQc8vbiPA210cc8X) | 3:37 |
 
-Snapshot ID: `MCxkNDA0YTEzOTI1ZTgxZWEwZmUwYmI5MzEyYzdkYTAyNGQ4YTdhMjI3`
+Snapshot ID: `MCw3ZTJhNjRhZjExYTI1OGI1NGFkODdiNTc0YTg4NDAxZDA3YWFjNTk2`

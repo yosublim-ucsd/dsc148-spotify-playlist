@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Waxahatchee
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,784 likes - 151 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,911 likes - 151 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 150 | [Upcountry Lemonade](https://open.spotify.com/track/6oe2fxqV3DzlJabXcTem1n) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Upcountry Lemonade](https://open.spotify.com/album/0T14xe1cObe3UCCzeGIS8U) | 3:14 |
 | 151 | [Slow Decay](https://open.spotify.com/track/5dQ6k002CdfiBXVtjA93ra) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Slow Decay](https://open.spotify.com/album/3WcOJPn6pzdftLyzrmpOCK) | 3:19 |
 
-Snapshot ID: `MCwzYzUxODJkNWFhYjY3ZGMxNmEzMzMzMGExYTQ1OGVmYTFiMWFmNTZk`
+Snapshot ID: `MCxmOWU4NzM2YTZhMjIwYTMxMGM5M2VkZjYyYTVjZDU1MDhkNzRkZjBm`

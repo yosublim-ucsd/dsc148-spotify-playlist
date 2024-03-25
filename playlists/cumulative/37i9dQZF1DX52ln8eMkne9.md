@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-330 songs - 1 day 0 hr 41 min
+331 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Never Let Me Go](https://open.spotify.com/track/4TIU2oX0NLrGUyqP0JDM6R) | [Siril Malmedal Hauge](https://open.spotify.com/artist/6rzVr8BQsgQEpzrH0Pv1Yn), [Kjetil Mulelid](https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy) | [Never Let Me Go](https://open.spotify.com/album/2Mji2KTTzRiYqViOCeu3Hn) | 4:26 | 2023-05-30 |  |
 | [Never Let Me Go](https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 4:39 | 2021-12-17 | 2023-09-14 |
 | [Next Time](https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Next Time](https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL) | 5:18 | 2024-02-02 |  |
+| [Nice Girls Don't Stay for Breakfast](https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Nice Girls Don't Stay for Breakfast](https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO) | 3:37 | 2024-03-20 |  |
 | [Night And Day](https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:38 | 2021-12-17 | 2022-12-07 |
 | [Night and Day](https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Daniel Karlsson](https://open.spotify.com/artist/133ujfci80J2umYb3Oas89) | [The Night and the Music](https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k) | 4:09 | 2022-02-18 |  |
 | [Nightjar in the Northern Sky](https://open.spotify.com/track/3Lm4Il6xzIbfZ0XmneRCRA) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Nightjar in the Northern Sky](https://open.spotify.com/album/0r36MHOZz9hrzGQF6m6Ylr) | 4:47 | 2022-02-18 | 2022-07-29 |
@@ -262,7 +263,7 @@
 | [Surrey With The Fringe On Top](https://open.spotify.com/track/43bBYODzZFd9nOfBaBRrr6) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:20 | 2021-12-17 | 2023-02-16 |
 | [Suzanne \(feat\. Gregory Porter\)](https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Suzanne](https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ) | 4:33 | 2022-09-22 |  |
 | [Sway](https://open.spotify.com/track/4ubyfFKXBVBFZD145I6XPX) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 6:12 | 2021-12-17 | 2023-08-11 |
-| [Sweet Kentucky Ham](https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz) | [Louise Bøttern](https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D) | [Listen Here](https://open.spotify.com/album/6HxEtUKHed375P0sYGEHBD) | 5:41 | 2022-09-13 |  |
+| [Sweet Kentucky Ham](https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz) | [Louise Bøttern](https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D) | [Listen Here](https://open.spotify.com/album/6HxEtUKHed375P0sYGEHBD) | 5:41 | 2022-09-13 | 2024-03-25 |
 | [Sweet Lorraine](https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:22 | 2021-12-17 |  |
 | [Take My Breath Away](https://open.spotify.com/track/3B0gvjxlqRgY7stPPl3qoQ) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Take My Breath Away](https://open.spotify.com/album/6nBmfhB1ioNyyUlpb9AmMQ) | 3:30 | 2021-12-17 | 2022-02-19 |
 | [Tenderly](https://open.spotify.com/track/2zcovmEg4YesrC3F88cpfa) | [Vincent Herring](https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL) | [The Uptown Shuffle](https://open.spotify.com/album/4vC9hAFFswlA2MeIq7DF7A) | 10:18 | 2021-12-17 |  |

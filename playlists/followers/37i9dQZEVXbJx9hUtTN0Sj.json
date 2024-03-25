@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 23049,
+  "2024-03-25": 23047,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belgium.",
   "name": "Viral 50 - Belgium",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 170440,
       "name": "act iii: on god? (she like)",
       "url": "https://open.spotify.com/track/30uO152on2tYWoE99VaEL5"
@@ -870,6 +870,28 @@
     },
     {
       "album": {
+        "name": "Carnival x Fein",
+        "url": "https://open.spotify.com/album/1YCnrW19PcbQ6hMrkXwi01"
+      },
+      "artists": [
+        {
+          "name": "offtopic",
+          "url": "https://open.spotify.com/artist/6fhVncKweuRwp1oucBCjj9"
+        },
+        {
+          "name": "afex",
+          "url": "https://open.spotify.com/artist/5qsOlAmrk4gDtJYlDzEbuG"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127640,
+      "name": "Carnival x Fein",
+      "url": "https://open.spotify.com/track/6ebisdLbW0S0nFTxY0LO0X"
+    },
+    {
+      "album": {
         "name": "Ceux qu'on \u00e9tait",
         "url": "https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD"
       },
@@ -881,7 +903,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 174106,
       "name": "Ceux qu'on \u00e9tait",
       "url": "https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr"
@@ -1071,6 +1093,24 @@
       "duration_ms": 202508,
       "name": "Dance You Outta My Head",
       "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
+    },
+    {
+      "album": {
+        "name": "dans tes bras II (Lady Killers II)",
+        "url": "https://open.spotify.com/album/2QnJ9NX757hPrTwmfu3TxH"
+      },
+      "artists": [
+        {
+          "name": "kobzx2z",
+          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171124,
+      "name": "dans tes bras II (Lady Killers II)",
+      "url": "https://open.spotify.com/track/7oXkxS9f50ZKBQvzftseXE"
     },
     {
       "album": {
@@ -1951,6 +1991,24 @@
       "duration_ms": 257798,
       "name": "iluv",
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
+    },
+    {
+      "album": {
+        "name": "Intergalactic Janet",
+        "url": "https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj"
+      },
+      "artists": [
+        {
+          "name": "Ley Soul",
+          "url": "https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160440,
+      "name": "Intergalactic Janet",
+      "url": "https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87"
     },
     {
       "album": {
@@ -3073,7 +3131,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 179314,
       "name": "Piccolo",
       "url": "https://open.spotify.com/track/6ZHzSxjBVMBn2d6RTlAEDN"
@@ -3801,7 +3859,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 225720,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/250dcPo8DV0Iz0CkrFZDop"
@@ -4231,6 +4289,28 @@
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
+        "name": "Volvo",
+        "url": "https://open.spotify.com/album/0JFH1gP8PLJFkK8ucGduZt"
+      },
+      "artists": [
+        {
+          "name": "Bob uit Zuid",
+          "url": "https://open.spotify.com/artist/4L0tWcECUNXMKnUWNQ1bNv"
+        },
+        {
+          "name": "Personal Trainer",
+          "url": "https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc"
+        }
+      ],
+      "date_added": "2024-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157702,
+      "name": "Volvo",
+      "url": "https://open.spotify.com/track/5CFzAwKtXBFOdgucbe1gb1"
     },
     {
       "album": {

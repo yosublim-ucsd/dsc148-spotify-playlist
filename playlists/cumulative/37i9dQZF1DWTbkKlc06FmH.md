@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-701 songs - 1 day 18 hr 14 min
+702 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [Maze](https://open.spotify.com/track/7dO0DWNctendV8W3XbRBux) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Time Won't Stop](https://open.spotify.com/album/0rQDHxRhpolHbzQYcB510w) | 5:08 | 2022-12-20 | 2023-02-22 |
 | [Me Today](https://open.spotify.com/track/0NFUUAKVL0d6SpqJVwwGNx) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw) | [Me Today](https://open.spotify.com/album/2v2LNb7ZDI1jVJc90P1NvQ) | 2:30 | 2022-11-29 | 2022-12-16 |
 | [Memories](https://open.spotify.com/track/7vDvrWD0b8Ff5BF4zU00Pl) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Memories](https://open.spotify.com/album/6W69O0ITYeU5NJfmMgq6Q9) | 2:51 | 2023-05-23 | 2023-05-31 |
-| [Mi Corazón \(feat\. Camilo\)](https://open.spotify.com/track/421IxIwggbLYx9XUSUJpZN) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mi Corazón \(feat\. Camilo\)](https://open.spotify.com/album/6Lmp3WKfNvIKLJuyED6gqJ) | 3:05 | 2024-01-18 |  |
+| [Mi Corazón \(feat\. Camilo\)](https://open.spotify.com/track/421IxIwggbLYx9XUSUJpZN) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mi Corazón \(feat\. Camilo\)](https://open.spotify.com/album/6Lmp3WKfNvIKLJuyED6gqJ) | 3:05 | 2024-01-18 | 2024-03-25 |
 | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/track/4hsEFcCA7AL5hlKG4PRp2Z) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/album/06qRSgIo9l4Gf7ACV6JZQq) | 5:10 | 2024-03-15 |  |
 | [Midnight Train](https://open.spotify.com/track/3jaZ0zYnnidsLD9qlDMPRp) | [Murakami Keisuke](https://open.spotify.com/artist/34EzrWHspo4wT6YmLjE0IH) | [Midnight Train](https://open.spotify.com/album/7AH6O5WhlOlODKPvlHaurH) | 3:39 | 2022-10-25 | 2022-10-27 |
 | [Midnight Train](https://open.spotify.com/track/7HNzutKeiNnnBvW2GJbner) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [Midnight Train](https://open.spotify.com/album/6YuddXfc7Sthy3IZnshpmC) | 3:39 | 2022-10-25 | 2023-03-03 |
@@ -433,6 +433,7 @@
 | [pure](https://open.spotify.com/track/2Ghs8zDKCFcrGIOUw6sF6n) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [pure](https://open.spotify.com/album/7yHEymRjZe5RVDm84rp3XW) | 3:25 | 2023-11-21 | 2023-12-01 |
 | [pure](https://open.spotify.com/track/63TFuwZlCpaK4Y5BTqJFFP) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [pure](https://open.spotify.com/album/69PIhKhUSBwZkJRTP4MSkj) | 3:25 | 2023-11-21 | 2023-11-23 |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2023-03-16 | 2023-06-28 |
+| [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/3Q8SnMp3lhGGoIJBDmYRPa) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Young Hearts](https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J) | 2:48 | 2024-03-19 |  |
 | [páː](https://open.spotify.com/track/5TwzuauV7SjD00bUeMbWlB) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [páː](https://open.spotify.com/album/4u2bc1tj84eBXr6XPe5zOh) | 3:28 | 2022-10-20 | 2022-11-30 |
 | [Rain Or Shine](https://open.spotify.com/track/2s69VvXfqCJ1WqOQC4eBxG) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Rain Or Shine](https://open.spotify.com/album/5WRcfuQa3pWJrwpijJpFg7) | 3:07 | 2024-03-19 |  |
 | [RainRain](https://open.spotify.com/track/30bOjGU8xpB1zvccSN9udZ) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Hold You Again](https://open.spotify.com/album/1ffToXM1wZRTerYmAiIu5g) | 4:50 | 2024-02-01 | 2024-02-07 |

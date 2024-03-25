@@ -1,12 +1,12 @@
 {
   "description": "remember when we were dark and brooding. Cover: CHVRCHES\n",
-  "num_followers": 29969,
+  "num_followers": 30004,
   "original_name": "bitter/sweet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTAwNzEwOWRmMWY0ZWJlOWE5YzIyMjM2NjNiNjYxYzk4NDg2NWFk",
+  "snapshot_id": "MCxiMzg3NzkxOWU5MjMwZTUxM2FiMGQ2ZGU2MjI5NDc5NWQxMTE0NTJl",
   "tracks": [
     {
       "added_at": "2024-03-04 16:08:51",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-04 16:08:51",
       "album": {
-        "name": "Fingertips",
-        "url": "https://open.spotify.com/album/0V6P8zzga41xlAM7YWF7pO"
-      },
-      "artists": [
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 246147,
-      "name": "Hold",
-      "url": "https://open.spotify.com/track/6vITFXjXN3i1VwWI1iv3fc"
-    },
-    {
-      "added_at": "2024-03-04 16:08:51",
-      "album": {
         "name": "Pretend",
         "url": "https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 213968,
       "name": "Younger",
       "url": "https://open.spotify.com/track/1Ujt4hi9SHiMAxyCjJd1Kk"
+    },
+    {
+      "added_at": "2024-03-04 16:08:51",
+      "album": {
+        "name": "Fingertips",
+        "url": "https://open.spotify.com/album/0V6P8zzga41xlAM7YWF7pO"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 246147,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/6vITFXjXN3i1VwWI1iv3fc"
     },
     {
       "added_at": "2024-03-04 16:08:51",

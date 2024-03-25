@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Luma Elpidio
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,858 likes - 85 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,940 likes - 85 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 36 | [Caminhada](https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Leif Bessa \- Acústico](https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb) | 4:40 |
 | 37 | [Só o Começo](https://open.spotify.com/track/3XyG8qQQB0QzxPJd51n4bK) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS), [Gustavo Barrinovo](https://open.spotify.com/artist/2EFtQmnZjBUhu3YQJJaElL) | [Só o Começo](https://open.spotify.com/album/6CkdcKnXPn3LPfZ5R7SvgO) | 4:44 |
 | 38 | [Teu Vôo](https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD) | [Felipe Vinii](https://open.spotify.com/artist/0ebx928glrq2QKhGJblaTP), [diaszin](https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Teu Vôo](https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1) | 3:12 |
-| 39 | [Dia de Festa](https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Dia de Festa](https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs) | 4:58 |
-| 40 | [SOCORRO](https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [SOCORRO](https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU) | 4:05 |
+| 39 | [SOCORRO](https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [SOCORRO](https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU) | 4:05 |
+| 40 | [Dia de Festa](https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Dia de Festa](https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs) | 4:58 |
 | 41 | [Plano B](https://open.spotify.com/track/4gjFM2XEKr0UnqwssxCVvm) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Acoustic Sessions, Vol\. 6](https://open.spotify.com/album/0RuvdzSlbLAd2NC4dbhF2z) | 2:45 |
 | 42 | [Esperarei Com Paciência](https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [André Leono](https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Esperarei com Paciência](https://open.spotify.com/album/53C192EeqK9cTA0dohXePM) | 5:29 |
 | 43 | [Vida Leve](https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Acústico Talita Barreto](https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K) | 2:16 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 53 | [Pra Sempre](https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Pra Sempre](https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN) | 3:39 |
 | 54 | [Levanto um Aleluia](https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS) | [Anna Fernandes](https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Levanto um Aleluia](https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U) | 3:53 |
 | 55 | [Teu Amor Me Consome](https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw) | [Guerreiros da Fé](https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL) | [Teu Amor Me Consome](https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr) | 3:46 |
-| 56 | [Não É Só um Rolê](https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo) | [Gabriel Vilhena](https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc), [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [Não É Só um Rolê](https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc) | 4:09 |
-| 57 | [A Melhor História](https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr) | [Coral Teen Cap](https://open.spotify.com/artist/3AgYtiBlqddSzuTny26Vwl), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Victoria Niza](https://open.spotify.com/artist/3iymnXB3f8cSOUrfk9CAZ6) | [A Melhor História](https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b) | 3:50 |
+| 56 | [A Melhor História](https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr) | [Coral Teen Cap](https://open.spotify.com/artist/3AgYtiBlqddSzuTny26Vwl), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Victoria Niza](https://open.spotify.com/artist/3iymnXB3f8cSOUrfk9CAZ6) | [A Melhor História](https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b) | 3:50 |
+| 57 | [Não É Só um Rolê](https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo) | [Gabriel Vilhena](https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc), [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [Não É Só um Rolê](https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc) | 4:09 |
 | 58 | [Teus Rios](https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv) | [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF) | [Teus Rios](https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL) | 3:14 |
 | 59 | [Pense Bem](https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Pense Bem](https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ) | 4:00 |
 | 60 | [A Chave](https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 3:27 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 84 | [Luz do Mundo](https://open.spotify.com/track/7srf8dPKNtroCHcUoer47G) | [Idma Brito](https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Luz do Mundo](https://open.spotify.com/album/3LoeSZMGFSQANRNBSuAJzL) | 3:13 |
 | 85 | [Contigo](https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Contigo](https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0) | 3:19 |
 
-Snapshot ID: `MCwwNWMwODg3NmVkYjlhYWY1YzNhNjRiYTBjNzE1MTVhNWZlNjVjMWZl`
+Snapshot ID: `MCxkY2I4Yjc5M2Q5ZWJhNzZkNTFhNDc4MGU0ZTU1OThlYzY4YjM3YzFl`

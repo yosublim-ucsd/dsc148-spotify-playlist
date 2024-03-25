@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 23414,
+  "num_followers": 23436,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDUyNDJiOWNjYTRhMWY4YTY0N2IwNGZhNGU5ZjE1MWIyZTM4NTYy",
+  "snapshot_id": "MCxiNTZlZDg3Y2QxZjk4ZGZkNjA4Y2MyNDNjMWNhMTU5NzRhM2FmNzQw",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -451,8 +451,8 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 10",
-        "url": "https://open.spotify.com/album/4vH68G4MKGfdcs49bPpNUF"
+        "name": "Va Ca\u00f1on!",
+        "url": "https://open.spotify.com/album/5RPlUSC5OJHeOuag7HTWUe"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
         }
       ],
-      "duration_ms": 230800,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/4yCeZVmXYQwCSdvck8zFqg"
+      "duration_ms": 238184,
+      "name": "Otro Amor Llego",
+      "url": "https://open.spotify.com/track/759uPQuPn0hm8ZclHOVRn9"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -551,8 +551,8 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Va Ca\u00f1on!",
-        "url": "https://open.spotify.com/album/5RPlUSC5OJHeOuag7HTWUe"
+        "name": "Batalla de las Puntas, Vol. 10",
+        "url": "https://open.spotify.com/album/4vH68G4MKGfdcs49bPpNUF"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
         }
       ],
-      "duration_ms": 238184,
-      "name": "Otro Amor Llego",
-      "url": "https://open.spotify.com/track/759uPQuPn0hm8ZclHOVRn9"
+      "duration_ms": 230800,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/4yCeZVmXYQwCSdvck8zFqg"
     },
     {
       "added_at": "2020-05-26 15:53:13",

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-600 songs - 2 day 8 hr 38 min
+601 songs - 2 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [Loss Of Hope](https://open.spotify.com/track/5QRhs05R9MOXHQC2OOn5bq) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Distorted Youth EP](https://open.spotify.com/album/65OPNarZvRrfJM2BDyHAVi) | 7:19 | 2022-04-19 | 2023-09-30 |
 | [Lost Tales](https://open.spotify.com/track/3UB5dEBt70jOj7xNDARvar) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Facets](https://open.spotify.com/album/5hw2DVYE662RU72H2Fy4kM) | 4:46 | 2023-06-02 | 2023-09-30 |
 | [Louna](https://open.spotify.com/track/2Ms9rXvqIqCzn9BYkhVoYA) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Laconia](https://open.spotify.com/album/5KzPSUu9nrd53wZqESbx6w) | 8:35 | 2021-04-21 | 2023-04-29 |
-| [Love and Hate \- Nandu Remix](https://open.spotify.com/track/4UX4lVdixYSjR1gBeIyjs3) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Temple Of Dreams \(Remixes Part 5\)](https://open.spotify.com/album/6rjJTD1FWGbijpXLIoz001) | 3:31 | 2024-02-02 |  |
+| [Love and Hate \- Nandu Remix](https://open.spotify.com/track/4UX4lVdixYSjR1gBeIyjs3) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Temple Of Dreams \(Remixes Part 5\)](https://open.spotify.com/album/6rjJTD1FWGbijpXLIoz001) | 3:31 | 2024-02-02 | 2024-03-25 |
 | [Lovers Game](https://open.spotify.com/track/5L3kJPnAMEORynAJrBHMbx) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU), [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [Lovers Game / Game Over](https://open.spotify.com/album/0t46ilYLPi2Oihzojq537f) | 3:33 | 2024-02-16 |  |
 | [Luciernagas](https://open.spotify.com/track/2SHbl5MEmDxbXsG0QdDlc0) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Fulgor](https://open.spotify.com/album/3dTBQ3DeErJkq1m1M64aCz) | 5:56 | 2021-04-21 | 2022-07-27 |
 | [Luma \- Tim Engelhardt Remix](https://open.spotify.com/track/5FxwIddNBkGhTTCGpkwJMr) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Luma EP \- Reimagined](https://open.spotify.com/album/2RjSKeDGxZsk8mZvQqPfqr) | 7:37 | 2022-07-08 | 2022-07-12 |
@@ -416,6 +416,7 @@
 | [Palo Santo](https://open.spotify.com/track/6SFGnnxX5VUgpZJiGSKjx7) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Palo Santo](https://open.spotify.com/album/5S2BwJuzdryUUs6sCUuvwC) | 4:36 | 2021-05-07 | 2022-04-23 |
 | [Palomita](https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e) | [Endup](https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6) | 8:03 | 2022-07-01 | 2023-09-30 |
 | [Pamparis](https://open.spotify.com/track/7irDOF7IcDhfoQ14kFdpOu) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Pampa EP](https://open.spotify.com/album/10LQNgzRkFqvJwFhKOxTjB) | 8:11 | 2022-02-25 | 2022-07-27 |
+| [Pangea \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Pangea](https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o) | 4:01 | 2024-03-22 |  |
 | [Pastel](https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr) | [Theo Gramal](https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc) | [Pastel](https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v) | 6:11 | 2024-01-19 | 2024-01-27 |
 | [Patika](https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5) | [Hezarfen](https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx) | [Patika](https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ) | 5:33 | 2022-03-11 | 2022-07-19 |
 | [Peacock Revisit \(feat\. Ice Beats Slide & Sbuda Maleather\)](https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [SOLACE](https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik) | 5:26 | 2023-08-11 | 2023-09-02 |

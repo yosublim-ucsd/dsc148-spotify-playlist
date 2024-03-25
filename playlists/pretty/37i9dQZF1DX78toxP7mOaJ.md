@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Thank You, I'm Sorry
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,740 likes - 101 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,807 likes - 101 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 100 | [Double Vision](https://open.spotify.com/track/5WMHKJaKkfVI1BRzrbgWgs) | [Night Talks](https://open.spotify.com/artist/2AtastUSfbudzZmPKQTsvz) | [Double Vision](https://open.spotify.com/album/666J67UocOsTEOsbiIGfrq) | 4:28 |
 | 101 | [Wind Up Merchant](https://open.spotify.com/track/4Op4RqAgY4FE1GotwYLw4x) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Wind Up Merchant](https://open.spotify.com/album/0UHMSyyN0zZVcq7HBbXIsp) | 2:35 |
 
-Snapshot ID: `MCw2MzFlYzNkMGRlMTE3ZjRiYmU5ZWEyZTExY2U5OGVkYjkwY2ZiN2Y0`
+Snapshot ID: `MCxhMTNhNjI3YTJhZDY4MWVmZDBmZjVmYmJmYjVmYjgzZDkxNzg0ZjAx`

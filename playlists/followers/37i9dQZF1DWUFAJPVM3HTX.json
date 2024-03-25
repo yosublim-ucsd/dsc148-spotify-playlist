@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 234025,
+  "2024-03-25": 234128,
   "date_first_scraped": "2022-01-09",
   "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh?si=rRDfEgn-TceuQnjuKCD8Kw\"> Odeal </a>. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
@@ -13191,7 +13191,7 @@
     {
       "album": {
         "name": "Gaslight 101",
-        "url": "https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl"
+        "url": "https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G"
       },
       "artists": [
         {
@@ -13202,6 +13202,24 @@
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179036,
+      "name": "Gaslight 101",
+      "url": "https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs"
+    },
+    {
+      "album": {
+        "name": "Gaslight 101",
+        "url": "https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-24",
       "duration_ms": 179500,
       "name": "Gaslight 101",
       "url": "https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs"
@@ -17925,10 +17943,28 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 160440,
       "name": "Intergalactic Janet",
       "url": "https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9"
+    },
+    {
+      "album": {
+        "name": "Intergalactic Janet",
+        "url": "https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj"
+      },
+      "artists": [
+        {
+          "name": "Ley Soul",
+          "url": "https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160440,
+      "name": "Intergalactic Janet",
+      "url": "https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-414 songs - 22 hr 50 min
+415 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Get Out Of My Head](https://open.spotify.com/track/3wtP6999cOPF4OrUpBuOCM) | [Kin Crew](https://open.spotify.com/artist/5U2bKwyGTsdlkYQtKLETRA) | [Get Out Of My Head](https://open.spotify.com/album/5VykmMHLPSfh5zFSGssr7u) | 2:08 | 2023-04-28 |  |
 | [Get Out Of My Head](https://open.spotify.com/track/4HeMLD2QxHLf5NFq6oRmFw) | [Kin Crew](https://open.spotify.com/artist/5U2bKwyGTsdlkYQtKLETRA) | [Get Out Of My Head](https://open.spotify.com/album/3rykHBjW6lyquYjnl0jS0D) | 2:08 | 2022-12-15 | 2023-04-29 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2021-12-27 |  |
-| [Ghost Town](https://open.spotify.com/track/3psN2n0AqdpDY2pyY3P6uW) | [David Michael Ross](https://open.spotify.com/artist/2irkthky57ha2MXa6Owuwu) | [Guitaro](https://open.spotify.com/album/1AmQN4zcNgNBlSaSYWa3QC) | 4:07 | 2023-12-13 |  |
+| [Ghost Town](https://open.spotify.com/track/3psN2n0AqdpDY2pyY3P6uW) | [David Michael Ross](https://open.spotify.com/artist/2irkthky57ha2MXa6Owuwu) | [Guitaro](https://open.spotify.com/album/1AmQN4zcNgNBlSaSYWa3QC) | 4:07 | 2023-12-13 | 2024-03-25 |
 | [Gone](https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Gone](https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B) | 2:59 | 2023-04-21 |  |
 | [Happy Sad Song \(feat\. Symon\)](https://open.spotify.com/track/1mOuCPWI181DXmEy50CKzf) | [ChampionsLeak](https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4), [Symon](https://open.spotify.com/artist/0Yi8b2U9AemQbI0dj0jtRE) | [Happy Sad Song \(feat\. Symon\)](https://open.spotify.com/album/7sX0J1Xxms0zq5fHANdGkl) | 3:06 | 2022-09-16 |  |
 | [Happy Sad Song Feat\. Symon](https://open.spotify.com/track/1IiWTBrfSe9oDbZvnLEavH) | [ChampionsLeak](https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4), [Symon](https://open.spotify.com/artist/0Yi8b2U9AemQbI0dj0jtRE) | [Championsleak \- Happy Sad Song](https://open.spotify.com/album/4n5vtJ81nC2br4fPmVRSwY) | 3:06 | 2021-12-27 | 2022-09-17 |
@@ -203,7 +203,8 @@
 | [Just Another Sunset](https://open.spotify.com/track/2NWo9thdl4q6gyHD9t4Tdz) | [Jfx Sound](https://open.spotify.com/artist/6qb9w31WPKfVVfpAYEY126) | [Out of Stress Zone with Yoga & Meditation: Ambient Streams, New Age Electronic Sounds](https://open.spotify.com/album/38YitoGriO1yHp5lP2hpER) | 9:59 | 2023-12-13 |  |
 | [king of the world, pt\. 1](https://open.spotify.com/track/3gKYW1rcm3jgAtDPSUChEl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 1:06 | 2023-06-22 |  |
 | [king of the world, pt\. 3](https://open.spotify.com/track/6fh9K3SyISdYR5DSs0BGwc) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 1:30 | 2023-06-22 | 2023-12-14 |
-| [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 | 2024-01-31 |  |
+| [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 | 2024-01-31 | 2024-03-25 |
+| [Lead Me On](https://open.spotify.com/track/4627b0SeGkBoYKejSG6XXJ) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:53 | 2024-03-24 |  |
 | [Leave Me Alone](https://open.spotify.com/track/2ZJapIiYXKyTiy82xCn6x0) | [Without Shelter](https://open.spotify.com/artist/2HNpxWTZNdh0lkSTquhmie) | [Leave Me Alone](https://open.spotify.com/album/7CtqQG5hfqtjh1MjF81WV5) | 3:32 | 2022-07-09 |  |
 | [leave my mind](https://open.spotify.com/track/1Z5nR7epPPmldWTOcUF8Iz) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:18 | 2021-12-27 |  |
 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2021-12-27 |  |

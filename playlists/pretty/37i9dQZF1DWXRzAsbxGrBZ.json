@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 48776,
+  "num_followers": 48898,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjI4NTJjOWY3NzhmOWQ5NWZiYmUwMmI4ZWI0ZDJkZDVhODdhNjYz",
+  "snapshot_id": "MCwyMzI3MzliMzc1ZjRmNDJjMmNmMTFjMDExMTNiODZjYjg2NjQ3MWIz",
   "tracks": [
     {
       "added_at": "2024-03-15 05:25:16",
@@ -187,6 +187,30 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
+        "name": "The Gospel According To Artwork Sounds Chapter II",
+        "url": "https://open.spotify.com/album/1HWMPbbketx6SyJJ81dZV0"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "Beebar",
+          "url": "https://open.spotify.com/artist/05tqZLNSU1rOOxsquPHNkV"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "duration_ms": 438000,
+      "name": "Awesome God (feat. Kabza De Small)",
+      "url": "https://open.spotify.com/track/6Sl97d6xi1FgBarJViL72d"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
         "name": "TARU",
         "url": "https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL"
       },
@@ -251,30 +275,6 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "The Gospel According To Artwork Sounds Chapter II",
-        "url": "https://open.spotify.com/album/1HWMPbbketx6SyJJ81dZV0"
-      },
-      "artists": [
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        },
-        {
-          "name": "Beebar",
-          "url": "https://open.spotify.com/artist/05tqZLNSU1rOOxsquPHNkV"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        }
-      ],
-      "duration_ms": 438000,
-      "name": "Awesome God (feat. Kabza De Small)",
-      "url": "https://open.spotify.com/track/6Sl97d6xi1FgBarJViL72d"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
       },
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "Skies Showers EP",
-        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        }
-      ],
-      "duration_ms": 530086,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
         "name": "Good Vibes Only E.P",
         "url": "https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN"
       },
@@ -391,6 +375,22 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
+        "name": "Skies Showers EP",
+        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        }
+      ],
+      "duration_ms": 530086,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
         "name": "My Heartbeat For You",
         "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
       },
@@ -407,30 +407,6 @@
       "duration_ms": 332000,
       "name": "My Heartbeat For You",
       "url": "https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
-        "name": "Ingoma",
-        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Mr.Cantata",
-          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
-        },
-        {
-          "name": "Bikie",
-          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
-        }
-      ],
-      "duration_ms": 430538,
-      "name": "Ingoma - Original Mix",
-      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -507,6 +483,54 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
+        "name": "Oh Mdali (feat. PlayMaster & Smallistic, Malungelo)",
+        "url": "https://open.spotify.com/album/0N93xeV4Ed2JTYy83gySqr"
+      },
+      "artists": [
+        {
+          "name": "Kaylow",
+          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
+        },
+        {
+          "name": "Malungelo",
+          "url": "https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4"
+        },
+        {
+          "name": "Playmaster & Smallistic",
+          "url": "https://open.spotify.com/artist/7m3YBqfwRPB1Ys5h3fMbEC"
+        }
+      ],
+      "duration_ms": 361078,
+      "name": "Oh Mdali (feat. PlayMaster & Smallistic, Malungelo)",
+      "url": "https://open.spotify.com/track/1DW5ZAmJrdvOIrIGTvBwhz"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
+        "name": "Ingoma",
+        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Mr.Cantata",
+          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
+        },
+        {
+          "name": "Bikie",
+          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
+        }
+      ],
+      "duration_ms": 430538,
+      "name": "Ingoma - Original Mix",
+      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
         "name": "From Blak With Love",
         "url": "https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X"
       },
@@ -547,26 +571,6 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "To The World",
-        "url": "https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v"
-      },
-      "artists": [
-        {
-          "name": "Brazo Wa Afrika",
-          "url": "https://open.spotify.com/artist/6uGuuIkpLIWdUYVJit1dvP"
-        },
-        {
-          "name": "Chymamusique",
-          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
-        }
-      ],
-      "duration_ms": 387494,
-      "name": "To The World",
-      "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
         "name": "Next Generation",
         "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
       },
@@ -587,26 +591,22 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "Oh Mdali (feat. PlayMaster & Smallistic, Malungelo)",
-        "url": "https://open.spotify.com/album/0N93xeV4Ed2JTYy83gySqr"
+        "name": "To The World",
+        "url": "https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v"
       },
       "artists": [
         {
-          "name": "Kaylow",
-          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
+          "name": "Brazo Wa Afrika",
+          "url": "https://open.spotify.com/artist/6uGuuIkpLIWdUYVJit1dvP"
         },
         {
-          "name": "Malungelo",
-          "url": "https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4"
-        },
-        {
-          "name": "Playmaster & Smallistic",
-          "url": "https://open.spotify.com/artist/7m3YBqfwRPB1Ys5h3fMbEC"
+          "name": "Chymamusique",
+          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
         }
       ],
-      "duration_ms": 361078,
-      "name": "Oh Mdali (feat. PlayMaster & Smallistic, Malungelo)",
-      "url": "https://open.spotify.com/track/1DW5ZAmJrdvOIrIGTvBwhz"
+      "duration_ms": 387494,
+      "name": "To The World",
+      "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
+        "name": "Deep Within",
+        "url": "https://open.spotify.com/album/6OcILwpGGNkbvXlzB6KECP"
+      },
+      "artists": [
+        {
+          "name": "Tebza De SouL",
+          "url": "https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG"
+        }
+      ],
+      "duration_ms": 436981,
+      "name": "Deep Within",
+      "url": "https://open.spotify.com/track/0voE1Kh5SUOiTUiSq4XbYS"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
         "name": "Mend It / Your Eyes Remixes",
         "url": "https://open.spotify.com/album/12AR6R2HH1hFw6sMtCL1aL"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 482979,
       "name": "BAUHAUS",
       "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
-        "name": "Deep Within",
-        "url": "https://open.spotify.com/album/6OcILwpGGNkbvXlzB6KECP"
-      },
-      "artists": [
-        {
-          "name": "Tebza De SouL",
-          "url": "https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG"
-        }
-      ],
-      "duration_ms": 436981,
-      "name": "Deep Within",
-      "url": "https://open.spotify.com/track/0voE1Kh5SUOiTUiSq4XbYS"
     },
     {
       "added_at": "2024-03-15 05:25:16",

@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-571 songs - 21 hr 48 min
+572 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Filter FFP4](https://open.spotify.com/track/16eop82y32gTrd2j1MaNpQ) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Filter FFP4](https://open.spotify.com/album/4MkKgGIsJONe4nsXWnbEEf) | 1:55 | 2024-01-05 |  |
 | [first things first](https://open.spotify.com/track/1wEpA0CBRytqdJQcNT4UZB) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [first things first](https://open.spotify.com/album/1eox4CtQHP36x9RuByM2kW) | 2:11 | 2024-01-05 |  |
 | [Flattery](https://open.spotify.com/track/0EZzvnbBEDGBjaQRseSrbf) | [The Modern Zolo](https://open.spotify.com/artist/566dcTwvUwHWNp2bThMR3f) | [After Life](https://open.spotify.com/album/1pyFsXsMNGOaRzBPQtZLdQ) | 2:00 | 2024-01-05 |  |
-| [Flexible Funk](https://open.spotify.com/track/70hHzMEeNshCpPdLKJQZPj) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Flexible Funk](https://open.spotify.com/album/4WF3YNB4hocJ2aw04TeyGj) | 1:34 | 2024-01-05 |  |
+| [Flexible Funk](https://open.spotify.com/track/70hHzMEeNshCpPdLKJQZPj) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Flexible Funk](https://open.spotify.com/album/4WF3YNB4hocJ2aw04TeyGj) | 1:34 | 2024-01-05 | 2024-03-25 |
 | [fliff](https://open.spotify.com/track/4WuNnBS0bhE9WuXky2VBCl) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [fliff](https://open.spotify.com/album/6Y8uumptLHbhwhDbFWcX3M) | 1:35 | 2024-01-05 |  |
 | [Flow State](https://open.spotify.com/track/71XyPCA7lYpu2IH6OVGlvr) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Flow State](https://open.spotify.com/album/1yvMQPDOZUWcojv5pk8133) | 2:38 | 2024-01-05 |  |
 | [Flower Kingdom](https://open.spotify.com/track/1s8hwjA2u5dOpU0SEoxDxz) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Flower Kingdom](https://open.spotify.com/album/0ZyDmjkemTFFIGrlenJiiV) | 2:08 | 2024-01-05 |  |
@@ -564,6 +564,7 @@
 | [Where Were You](https://open.spotify.com/track/1vGQOxqFAlGJdyGRhcN8y9) | [Jonny Where How](https://open.spotify.com/artist/1ZpSXCUCMP3E5GPFmI1VMc) | [Where Were You](https://open.spotify.com/album/2DcEZpW2pWgy2T5EaHMIg4) | 2:37 | 2024-03-01 | 2024-03-10 |
 | [Who's Driving?](https://open.spotify.com/track/6ilctnbVwEWTURCfY6kCWH) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Who's Driving?](https://open.spotify.com/album/1ftpbsY9HCoSpUOq7RVUEs) | 2:19 | 2024-01-05 |  |
 | [Winter Artifacts](https://open.spotify.com/track/3J82z7LudT4vCsgj7GfPVV) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Winter Artifacts](https://open.spotify.com/album/0SFPkBCpXGMR5QshHhvnOI) | 2:39 | 2024-03-01 |  |
+| [wishing for what i already have](https://open.spotify.com/track/0SDNOThhHE9nwuuqrGqhV0) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [wishing for what i already have](https://open.spotify.com/album/15eXKngn7aMaFqHeBHOZpd) | 2:46 | 2024-03-20 |  |
 | [Wistful Silhouettes](https://open.spotify.com/track/5Ltgq6XMTilOXhNiSQZrVT) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Wistful Silhouettes](https://open.spotify.com/album/7bnbpre7jCyEwHu1hT9ngt) | 2:16 | 2024-01-05 |  |
 | [With your eyes!](https://open.spotify.com/track/1USmYJcOKa94oA58sRnOXJ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [With your eyes!](https://open.spotify.com/album/2WomwpHMSA6E2yrMSEJxCI) | 2:29 | 2024-01-05 |  |
 | [Woke](https://open.spotify.com/track/5EGp4crErFOKGNAr7bGtU6) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Woke](https://open.spotify.com/album/23iKhQwfBkYI5FOwrnMjar) | 1:42 | 2024-01-05 |  |

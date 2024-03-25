@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 446619,
+  "num_followers": 446800,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmQ1NTZiMDZjY2VlMTQ4MjJkNTQwY2U2YjkwOGYyZDNlYmM4OTEx",
+  "snapshot_id": "MCxlMTI1YmYzYmQ5ZjNiNGUxZTdiZTczOWQ4YjIyYzU1YmEyMDVlNTU1",
   "tracks": [
     {
       "added_at": "2023-09-25 02:25:33",
@@ -371,6 +371,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 156293,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 156293,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
     },
     {
       "added_at": "2023-04-14 00:36:48",
@@ -725,6 +725,22 @@
       "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Origin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/0pPpkAXqt8UDVXBvSYI5pn"
+    },
+    {
       "added_at": "2022-09-03 03:24:16",
       "album": {
         "name": "Continua",
@@ -743,22 +759,6 @@
       "duration_ms": 211845,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Origin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/0pPpkAXqt8UDVXBvSYI5pn"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -961,6 +961,22 @@
       "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Aliso",
+        "url": "https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U"
+      },
+      "artists": [
+        {
+          "name": "Malena Zavala",
+          "url": "https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "If It Goes",
+      "url": "https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO"
+    },
+    {
       "added_at": "2021-10-28 19:01:32",
       "album": {
         "name": "Time to Melt",
@@ -979,22 +995,6 @@
       "duration_ms": 258026,
       "name": "Dream Free",
       "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Aliso",
-        "url": "https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U"
-      },
-      "artists": [
-        {
-          "name": "Malena Zavala",
-          "url": "https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "If It Goes",
-      "url": "https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1027,6 +1027,26 @@
       "duration_ms": 207680,
       "name": "Live Inside",
       "url": "https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT"
+    },
+    {
+      "added_at": "2023-06-02 02:31:02",
+      "album": {
+        "name": "You Knew",
+        "url": "https://open.spotify.com/album/26QAdfI4TGJ3eyOoDfs4sS"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/77v3whD60OC0g4RePlHDhT"
     },
     {
       "added_at": "2023-06-02 01:45:44",
@@ -1083,26 +1103,6 @@
       "duration_ms": 200596,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
-    },
-    {
-      "added_at": "2023-06-02 02:31:02",
-      "album": {
-        "name": "You Knew",
-        "url": "https://open.spotify.com/album/26QAdfI4TGJ3eyOoDfs4sS"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 271112,
-      "name": "CooCool",
-      "url": "https://open.spotify.com/track/77v3whD60OC0g4RePlHDhT"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
     },
     {
-      "added_at": "2024-01-03 18:42:32",
-      "album": {
-        "name": "So Pacific",
-        "url": "https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh"
-      },
-      "artists": [
-        {
-          "name": "Memory Of Jane",
-          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
-        }
-      ],
-      "duration_ms": 213956,
-      "name": "So Pacific",
-      "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
-    },
-    {
       "added_at": "2023-03-30 03:13:10",
       "album": {
         "name": "Mormor",
@@ -1241,6 +1225,22 @@
       "url": "https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o"
     },
     {
+      "added_at": "2024-01-03 18:42:32",
+      "album": {
+        "name": "So Pacific",
+        "url": "https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh"
+      },
+      "artists": [
+        {
+          "name": "Memory Of Jane",
+          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
+        }
+      ],
+      "duration_ms": 213956,
+      "name": "So Pacific",
+      "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "((( 2 )))",
@@ -1259,22 +1259,6 @@
       "duration_ms": 133377,
       "name": "Bayou",
       "url": "https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5"
-    },
-    {
-      "added_at": "2023-09-25 02:40:58",
-      "album": {
-        "name": "Sorry I Haven't Called",
-        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Lexicon",
-      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1311,6 +1295,22 @@
       "duration_ms": 189004,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/2gjrOwSGTDKpzoDdMCLr5s"
+    },
+    {
+      "added_at": "2023-09-25 02:40:58",
+      "album": {
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Lexicon",
+      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
       "added_at": "2023-05-24 02:01:11",
@@ -1617,22 +1617,6 @@
       "url": "https://open.spotify.com/track/38N4yGHfwByW1BjKBp6FMk"
     },
     {
-      "added_at": "2023-12-20 03:28:07",
-      "album": {
-        "name": "If You Could See Me Now",
-        "url": "https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0"
-      },
-      "artists": [
-        {
-          "name": "Quinn Oulton",
-          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
-        }
-      ],
-      "duration_ms": 161229,
-      "name": "If You Could See Me Now",
-      "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Sounds Of Blue",
@@ -1649,36 +1633,20 @@
       "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
     },
     {
-      "added_at": "2024-01-11 02:15:10",
+      "added_at": "2023-12-20 03:28:07",
       "album": {
-        "name": "SCARY WORLD",
-        "url": "https://open.spotify.com/album/1Mb4Aw36sc4h1TanDJ1Eek"
+        "name": "If You Could See Me Now",
+        "url": "https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0"
       },
       "artists": [
         {
-          "name": "Could Ever",
-          "url": "https://open.spotify.com/artist/7GhVDVH1jcgi1M7U0kwOck"
+          "name": "Quinn Oulton",
+          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
         }
       ],
-      "duration_ms": 104072,
-      "name": "NOBODY WANTS TO BE MY FRIEND",
-      "url": "https://open.spotify.com/track/6zLMERxKUjIwQcQwt0bACM"
-    },
-    {
-      "added_at": "2022-04-08 19:23:51",
-      "album": {
-        "name": "Home for Now",
-        "url": "https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN"
-      },
-      "artists": [
-        {
-          "name": "Babeheaven",
-          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
-        }
-      ],
-      "duration_ms": 222994,
-      "name": "Jalisco",
-      "url": "https://open.spotify.com/track/7gEvMdJjKAlvW68yG4ASSX"
+      "duration_ms": 161229,
+      "name": "If You Could See Me Now",
+      "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
     },
     {
       "added_at": "2022-01-26 18:13:44",
@@ -1697,20 +1665,36 @@
       "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2022-04-08 19:23:51",
       "album": {
-        "name": "Tru Love",
-        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
+        "name": "Home for Now",
+        "url": "https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Babeheaven",
+          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
         }
       ],
-      "duration_ms": 198084,
-      "name": "Tru Love",
-      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
+      "duration_ms": 222994,
+      "name": "Jalisco",
+      "url": "https://open.spotify.com/track/7gEvMdJjKAlvW68yG4ASSX"
+    },
+    {
+      "added_at": "2024-01-11 02:15:10",
+      "album": {
+        "name": "SCARY WORLD",
+        "url": "https://open.spotify.com/album/1Mb4Aw36sc4h1TanDJ1Eek"
+      },
+      "artists": [
+        {
+          "name": "Could Ever",
+          "url": "https://open.spotify.com/artist/7GhVDVH1jcgi1M7U0kwOck"
+        }
+      ],
+      "duration_ms": 104072,
+      "name": "NOBODY WANTS TO BE MY FRIEND",
+      "url": "https://open.spotify.com/track/6zLMERxKUjIwQcQwt0bACM"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1727,6 +1711,22 @@
       "duration_ms": 261614,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Tru Love",
+        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 198084,
+      "name": "Tru Love",
+      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
     }
   ],
   "unique_name": "Soft Office",

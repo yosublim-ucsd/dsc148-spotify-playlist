@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 21608,
+  "2024-03-25": 21624,
   "date_first_scraped": "2023-04-03",
   "description": "Desde la Sierra hasta el mar, Per\u00fa es una tierra de rimas y rap. Foto: Jaze",
   "name": "RAP\u00fablica Inca",
@@ -433,10 +433,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 223556,
       "name": "El Sonido de la Calle",
       "url": "https://open.spotify.com/track/7zfNW06BiZzXSPS8KdgM5u"
+    },
+    {
+      "album": {
+        "name": "Hip Hop Peruano Mas Na: Mixtape, Vol. 1",
+        "url": "https://open.spotify.com/album/5IHB1Z4X0usji9yXplMSgA"
+      },
+      "artists": [
+        {
+          "name": "Hip Hop Peruano Mas Na",
+          "url": "https://open.spotify.com/artist/2Tr0mJ3E4bL4CqVb4lHoUH"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223570,
+      "name": "El Sonido de la Calle",
+      "url": "https://open.spotify.com/track/2eqXh2ldu5pBXE6frpjOvB"
     },
     {
       "album": {

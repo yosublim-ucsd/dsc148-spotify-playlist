@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-658 songs - 1 day 12 hr 8 min
+659 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,7 +483,7 @@
 | [Relax](https://open.spotify.com/track/2WFLsBTMjMMWBLOiTGvFFq) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Baw Baw Black Sheep](https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k) | 3:51 | 2021-12-15 | 2023-01-28 |
 | [Remember Me](https://open.spotify.com/track/630Ug0XtmhhFvAKo0PNuEI) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Remember Me](https://open.spotify.com/album/4iLi0ZWdcYtCZvsXZHTRLx) | 3:19 | 2021-12-15 | 2022-09-17 |
 | [Repercussions](https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Repercussions](https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu) | 3:00 | 2023-08-04 |  |
-| [Requiem](https://open.spotify.com/track/2JydmjbQ7nGdVI6HbumkLA) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 4:44 | 2023-05-26 |  |
+| [Requiem](https://open.spotify.com/track/2JydmjbQ7nGdVI6HbumkLA) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 4:44 | 2023-05-26 | 2024-03-25 |
 | [Risk](https://open.spotify.com/track/2QDFsehUg5Fui2LOVpCw3Q) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Risk](https://open.spotify.com/album/2yCpdo20DhxBEPsyt8RUz6) | 3:58 | 2021-12-15 | 2022-05-09 |
 | [ROAD RAGE \(feat\. Wakai\)](https://open.spotify.com/track/6VxLtT1zcFnQ9BnTXQqFo5) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT), [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx) | [PINS & NEEDLES](https://open.spotify.com/album/5j2Q1mmOJY7LOfDJvcWS2u) | 2:29 | 2024-03-01 | 2024-03-23 |
 | [Rodeo Clown](https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Rodeo Clown](https://open.spotify.com/album/53EOHuMzRCZOaN62bzwQ4i) | 3:30 | 2023-02-16 | 2023-12-09 |
@@ -633,6 +633,7 @@
 | [We Keep On](https://open.spotify.com/track/1DLuBahdUB9VX7DJRtYl1v) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE) | 3:00 | 2023-05-19 | 2024-01-28 |
 | [We Keep On](https://open.spotify.com/track/3cWwh46djB72qVMRmTpaMS) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/10brv7YGXfM12BcquAQ1Aj) | 3:00 | 2023-05-19 |  |
 | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG) | 1:30 | 2023-02-14 | 2023-08-12 |
+| [Weak \- Mav's Version](https://open.spotify.com/track/3j6Zfk3H6v9IO6r48YdKVo) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak \(Mav's Version\)](https://open.spotify.com/album/56v6sdACC0SuLiSvtsilLN) | 2:44 | 2024-03-22 |  |
 | [West Coast Love](https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 | 2022-02-11 | 2022-04-08 |
 | [Westside](https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Westside](https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo) | 2:35 | 2023-05-19 |  |
 | [what do ya miss?](https://open.spotify.com/track/6TMhaUV5u3LIHzcTGSpEom) | [Matt Storm](https://open.spotify.com/artist/5dWiBOsD2jLvYWUSR9XdaZ) | [what do ya miss?](https://open.spotify.com/album/1jeYMiSSwERFGeqQWUkKfi) | 2:39 | 2023-03-31 | 2024-02-22 |

@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-266 songs - 21 hr 59 min
+267 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Ten Days Of Silence](https://open.spotify.com/track/6btH0bYdGH6JAzK4T2XW1y) | [Voice Of Art](https://open.spotify.com/artist/43uNO2fINUuRLZLgqo9Fwk), [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Troels Hammer](https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR) | [Sleeping Sculptures](https://open.spotify.com/album/5ih2VXZzQpPUmCNeC8v5iq) | 4:01 | 2023-04-21 |  |
 | [Ten Days Of Silence](https://open.spotify.com/track/7MKDDopU4Sc64SORGL3qY5) | [Voice Of Art](https://open.spotify.com/artist/43uNO2fINUuRLZLgqo9Fwk), [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Troels Hammer](https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR) | [Ten Days of Silence](https://open.spotify.com/album/1gqCn9PPhEg5FCx0luN0uu) | 4:01 | 2022-03-25 | 2022-04-20 |
 | [Thaw](https://open.spotify.com/track/6B37IfOOUpVWjxYXkW5Fir) | [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [Evighet](https://open.spotify.com/album/7Cd5dCtulmThozmYAv1I9s) | 7:54 | 2022-01-21 | 2022-07-28 |
-| [The Arrival](https://open.spotify.com/track/43hoTnsjs3Vsx8P1SCQLlP) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [Soundtracks for Winter Departures](https://open.spotify.com/album/4ktjEssT9GeVlNhhliA269) | 4:48 | 2023-10-06 |  |
+| [The Arrival](https://open.spotify.com/track/43hoTnsjs3Vsx8P1SCQLlP) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [Soundtracks for Winter Departures](https://open.spotify.com/album/4ktjEssT9GeVlNhhliA269) | 4:48 | 2023-10-06 | 2024-03-25 |
 | [The Aurae Loops](https://open.spotify.com/track/19dF9aQX9Kn5lTt5VJv7pF) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 5:42 | 2022-01-21 | 2024-03-19 |
 | [The Canonization](https://open.spotify.com/track/0qnPb51JWtWmUdNt97ODnO) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:10 | 2022-12-30 | 2023-02-13 |
 | [The Church](https://open.spotify.com/track/4F7ezw5Lid54Yo7xQ5v4U0) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Men \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EoXQyNGzvmUFgVkIMnidn) | 4:25 | 2023-10-06 | 2023-10-26 |
@@ -240,6 +240,7 @@
 | [The Walk \- Piano Noir Rework](https://open.spotify.com/track/52oDFJBhX0QMwUiPUFIl1p) | [Sylvain Texier](https://open.spotify.com/artist/2a7kVqWOzTGVmZH28HZauf), [Ô Lake](https://open.spotify.com/artist/6811GEOzZlD8ILi15xUpbN), [Piano Noir](https://open.spotify.com/artist/3pNLseBzEa0hRjLqzI32KB) | [The Walk \(Piano Noir Rework\)](https://open.spotify.com/album/3bXyE5FNCRHuHwWT6Vx4OL) | 4:34 | 2022-01-28 |  |
 | [the water rushing over my skin](https://open.spotify.com/track/3XV3UzNtzopyJAgLh5TqtF) | [Go Outside](https://open.spotify.com/artist/1OPG6NXv9amCirudpuShcD) | [Kinesthesia](https://open.spotify.com/album/2ZdAP7EYlFz4iH89riAGx1) | 3:48 | 2023-12-01 |  |
 | [The Weavers](https://open.spotify.com/track/34dBNgalCO1L56XU5xYndy) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [The Weavers](https://open.spotify.com/album/7A65Zvm39UKY1t1DCVpjPs) | 2:32 | 2023-01-27 | 2024-03-08 |
+| [The Weavers](https://open.spotify.com/track/369o29dUikcL6KRlBgQ56k) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [The Weavers](https://open.spotify.com/album/4hJezLZQ5FelLjspQcIhJI) | 2:32 | 2023-12-01 |  |
 | [The World Until Yesterday](https://open.spotify.com/track/7Jz9HikD4AWe2WoUIQLnBs) | [Paul Haslinger](https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE) | [The World Until Yesterday](https://open.spotify.com/album/3qiijbyweVFxZ6qcEKRSbX) | 2:56 | 2022-01-21 |  |
 | [this feeling \(Slowed + Reverb\)](https://open.spotify.com/track/1PEKGePNN1XrdKG2QQDUCv) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [this feeling \(Slowed + Reverb\)](https://open.spotify.com/album/6yGOt8ZXsdPcKNybC7aOX7) | 1:54 | 2022-05-06 | 2023-10-06 |
 | [this feels like the beginning](https://open.spotify.com/track/2SslDUGBv2etZLquEm0OIX) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [this feels like the beginning](https://open.spotify.com/album/5SOdDcqDqIjugvKJcMdztD) | 4:24 | 2023-09-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,289 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,295 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 44 | [Molly](https://open.spotify.com/track/7mUc6lgV0QBDriecrOHAQ0) | [Pauwel](https://open.spotify.com/artist/38V9jML2xuaNlknJUhoLQG) | [Molly](https://open.spotify.com/album/7JN3FZdAdd9b0z6JjecOJs) | 2:01 |
 | 45 | [Can't Hold Out on Love](https://open.spotify.com/track/5mZEmChvCko8MIEP5lLcqP) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Can't Hold Out on Love](https://open.spotify.com/album/5wEpdISZjxVZ4VoPIxmWmm) | 3:03 |
 | 46 | [Goodnight](https://open.spotify.com/track/4dp4W8NhrA19psRyzpj0rN) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Goodnight](https://open.spotify.com/album/0l1EpYy3NKI02dnVSlbW5Z) | 4:21 |
-| 47 | [Teach Me How to Dance with You](https://open.spotify.com/track/2RvVimZp4g2LGMF4q9OlQO) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/05DW2Nhy7weLFZutIO7GCp) | 3:36 |
+| 47 | [Teach Me How to Dance With You](https://open.spotify.com/track/7aYwpbYXKVvQtEXqZrqHIh) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/73EyE4D0ijagZHApIY7B2a) | 3:24 |
 | 48 | [Sacrifice](https://open.spotify.com/track/3XuIsQe0Z00LlyMLul6h8r) | [Gyo Kretz](https://open.spotify.com/artist/0JvKdVXySsrLWA3TO4uSnE) | [Sacrifice](https://open.spotify.com/album/7xkRFlCoYQe8bXgwFuFIqt) | 3:35 |
 | 49 | [pass you by](https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 4:05 |
 | 50 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 99 | [October, Halfway July](https://open.spotify.com/track/2eD56lWTL92klRLfmgjP9h) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [October, Halfway July](https://open.spotify.com/album/2zQmazQRssxqwdUe198gqn) | 3:22 |
 | 100 | [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 |
 
-Snapshot ID: `MCw0ZjA5YTM1NjMxNDZkNTA0OGE2NTlkODBkNGQzYTczZjViMDVkNGFi`
+Snapshot ID: `MCxkNDBiY2QyYWY5ZTkxYzdiODU0NzhiZjg3MWQ2YjUzM2NjOWM3NDg3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Lali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,306 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,298 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 11 | [Tengo](https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:21 |
 | 12 | [Glock](https://open.spotify.com/track/1N6VDChBSHkitVoaJlU42T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Nena Trampa \(Deluxe Edition\)](https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM) | 2:58 |
 | 13 | [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 |
-| 14 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 |
-| 15 | [NOCHE DE SATEO](https://open.spotify.com/track/0OkrRSwJYVXQi7EKtjVO5m) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 2:53 |
+| 14 | [NOCHE DE SATEO](https://open.spotify.com/track/0OkrRSwJYVXQi7EKtjVO5m) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 2:53 |
+| 15 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 |
 | 16 | [Fiebre](https://open.spotify.com/track/3pNi7px9XVXGlwqr0fZHXo) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Fiebre](https://open.spotify.com/album/5sMP31RiHju3dGZ5tPdPWj) | 2:20 |
 | 17 | [Anochecemos](https://open.spotify.com/track/2ka5Ij6Nasvr5krBY93TgM) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [MAL APRENDIDA](https://open.spotify.com/album/2Zb3Aq1Z1eUkAEIvmaZknJ) | 3:24 |
 | 18 | [Corazón de Cartón](https://open.spotify.com/track/4HN5GxtdVFUcTZDnatS6gQ) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Corazón de Cartón](https://open.spotify.com/album/0OLguIez727yBx8oLrDtus) | 2:29 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 50 | [tribu urbana](https://open.spotify.com/track/2Ch6Q8JCBEguf4HCOpfCBj) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [tribu urbana](https://open.spotify.com/album/5WaHflJ1zw8Camclfo8E2s) | 2:53 |
 | 51 | [Ay, Mala Mia](https://open.spotify.com/track/2uqwY40y5eaRd2sJIzGq4L) | [Chulimane](https://open.spotify.com/artist/3oogb5aH7871QFPtE14bO6), [Ramiro VCA](https://open.spotify.com/artist/1rSWEMnmi7dQuTdtGrFyXU) | [Mas Kara Ke Nunka](https://open.spotify.com/album/5rqvOpyUzASDjY4luh1P2l) | 2:26 |
 
-Snapshot ID: `MCxiMTE2ZTg0YTc2MTU3OGU0ZDk2ZDNjYzlmMDk2MDEwY2ViNDFhNDcy`
+Snapshot ID: `MCw4MDE2ZWYwYWFlNTE0ZTZkMGExYjYwM2Y2MjJlOTI2Yzc1MThkYzk3`

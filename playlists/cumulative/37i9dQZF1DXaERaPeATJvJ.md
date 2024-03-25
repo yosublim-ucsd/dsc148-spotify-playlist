@@ -4,7 +4,7 @@
 
 > Mengenang Ade Paloh \(1976 \- 2024\) melalui rangkaian karya dan suaranya
 
-160 songs - 11 hr 5 min
+164 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,12 +42,16 @@
 | [Di Sayidan](https://open.spotify.com/track/5lTnUb4IgWgsEiJseldpkM) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Di Sayidan](https://open.spotify.com/album/1UYpybR1fl9rAxK89RbCEH) | 5:14 | 2021-11-25 | 2024-03-22 |
 | [Dis\-Allowed](https://open.spotify.com/track/2uPLiOmSs4YDJdxFskuQ1Z) | [Drs\. F\. Achmar](https://open.spotify.com/artist/58bjKFsimBsOP8JxPLI0JP) | [Dis\-Allowed](https://open.spotify.com/album/4mEmDc4S00ih3CRYHChXkB) | 4:00 | 2024-03-22 |  |
 | [Elusif](https://open.spotify.com/track/3c17kkq4HSyJheHur70gnU) | [Shadowplay](https://open.spotify.com/artist/2kvN7s4MbzDIYY0aqqHEwB), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Hyaline](https://open.spotify.com/album/34Hnw3Er0BPxiUtTxIOjBy) | 4:17 | 2024-03-22 |  |
+| [Ernestito](https://open.spotify.com/track/6KJMo4cHIDuuzw3cgfaDYM) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Ports Of Lima](https://open.spotify.com/album/6egRSbA1aglow6mdAqEAQE) | 4:53 | 2024-03-24 |  |
+| [Essensimo](https://open.spotify.com/track/5bnaKO2Z9mDRLGjqK7RXDl) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Ports Of Lima](https://open.spotify.com/album/6egRSbA1aglow6mdAqEAQE) | 4:12 | 2024-03-24 |  |
 | [Etalase](https://open.spotify.com/track/5TmBVcWadjsHGgAqxYZDwn) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Centralismo](https://open.spotify.com/album/4cgfCWFWpaUsbNouFsKdsr) | 6:55 | 2024-03-22 |  |
 | [Fallen Japanese](https://open.spotify.com/track/2b5zeSMZrwA9ygkrG5Kc5E) | [Sajama Cut](https://open.spotify.com/artist/33lCWREMjKEXJHUMbSkZle) | [The Osaka Journals](https://open.spotify.com/album/43Prz8VTzCcSjELmqhoLUZ) | 2:40 | 2021-11-25 | 2024-03-22 |
 | [Firefiles](https://open.spotify.com/track/4Vg4wDdSihxcGQhXHSEzMj) | [risky summerbee & the honeythief](https://open.spotify.com/artist/08nbcEsElBbqPXrXnPVYdy) | [The Place I Wanna Go](https://open.spotify.com/album/1EtoolKNgWx0OoIJNDtZWt) | 3:44 | 2022-04-14 | 2024-03-22 |
 | [Funny Little Dream](https://open.spotify.com/track/2W3Oq3vWsxCD7qGuy9jLTU) | [Funny Little Dream](https://open.spotify.com/artist/40L6hP5vs4ZXKmfU80mBaJ) | [Funny Little Dream](https://open.spotify.com/album/3kCSZ4uIMazjsWt8zz46eM) | 3:10 | 2023-03-02 | 2024-03-22 |
 | [Funny Little Dream](https://open.spotify.com/track/6c9Migc6BSfWp1pMIr7DuM) | [Funny Little Dream](https://open.spotify.com/artist/40L6hP5vs4ZXKmfU80mBaJ) | [Funny Little Dream](https://open.spotify.com/album/29AM4873XavAXXXvr446D0) | 3:10 | 2022-07-30 | 2023-03-26 |
+| [Gesneriana](https://open.spotify.com/track/4jazdSJh7enogGmipPHYDA) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Los Skut Leboys](https://open.spotify.com/album/2y7GNu8un0dk53CP4jnV4U) | 4:10 | 2024-03-24 |  |
 | [Hanya Kau](https://open.spotify.com/track/3UfR1fCPSLK4AXyl5QtKqN) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [V2.05](https://open.spotify.com/album/72g5NvgwUJDA45iqYPltFG) | 4:17 | 2021-11-25 | 2024-03-22 |
+| [Hayya The Great](https://open.spotify.com/track/2yJOF7LndHE56BhPaO0Djm) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Quo Vadis, SORE?](https://open.spotify.com/album/53TkUEJhzjqYY6ljR3XoKS) | 3:27 | 2024-03-24 |  |
 | [Hilang](https://open.spotify.com/track/59be0zIdpIlGnpGBq17JB2) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [rumahsakit](https://open.spotify.com/album/6UGe4giZjoyqAku6wQaxdw) | 3:56 | 2021-11-25 | 2024-03-22 |
 | [Hitam](https://open.spotify.com/track/49MPpSfJ3E3om0kMIIEq5c) | [Barefood](https://open.spotify.com/artist/6UZs7JW1FeeIoYIBAUsLfM) | [Milkbox](https://open.spotify.com/album/0sw7BNUNlQBHNR5TrJbGwe) | 4:03 | 2023-11-24 | 2024-03-22 |
 | [Hook Up](https://open.spotify.com/track/7MiiJTXScerKHs4TkqXX1e) | [Holy City Rollers](https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v) | [First Chapter of Allordia](https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff) | 4:20 | 2022-01-06 | 2024-03-22 |

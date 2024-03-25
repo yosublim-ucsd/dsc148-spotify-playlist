@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 709972,
+  "2024-03-25": 710348,
   "date_first_scraped": "2021-12-28",
   "description": "Groovy sounds from around the world.",
   "name": "Global Groove",
@@ -10074,6 +10074,24 @@
     },
     {
       "album": {
+        "name": "Enter J's Chamber",
+        "url": "https://open.spotify.com/album/0SYCOHLxNJksWTbAtP9PYo"
+      },
+      "artists": [
+        {
+          "name": "Takeshi's Cashew",
+          "url": "https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287026,
+      "name": "Serpentines (to Nik\u0161i\u0107)",
+      "url": "https://open.spotify.com/track/3qOF9KosQNYRlyoWQF5eAY"
+    },
+    {
+      "album": {
         "name": "Serpentines (to Nik\u0161i\u0107)",
         "url": "https://open.spotify.com/album/08BlKbdWhzZpClKQnFIX9s"
       },
@@ -10461,7 +10479,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 269696,
       "name": "Smells Like You",
       "url": "https://open.spotify.com/track/3knO1ek0smFqqsQNR5HaU6"

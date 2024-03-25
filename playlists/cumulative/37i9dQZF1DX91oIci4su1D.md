@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-864 songs - 2 day 4 hr 27 min
+865 songs - 2 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Dark Space](https://open.spotify.com/track/6rhOHHZEI2HYeX0ITWyKsg) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Dark Space](https://open.spotify.com/album/0bDnGw5zMrfCED5vtPGcWB) | 3:32 | 2024-02-16 |  |
 | [Darker Days](https://open.spotify.com/track/6nLRlcRKSTYzcGzCZyZVuI) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [Darker Days](https://open.spotify.com/album/0VwKfzQt7vMGJUhADRyUye) | 2:57 | 2023-07-07 | 2023-12-09 |
 | [Darkstate \(A Dreamstate Anthem\)](https://open.spotify.com/track/6UOw9DxwNWBVpbuYshKzIl) | [Joint Operations Centre](https://open.spotify.com/artist/1yBLCDLlLunLE5pBDt2da7) | [Darkstate \(A Dreamstate Anthem\)](https://open.spotify.com/album/4fV05qypGMoHz5BR0FMXkt) | 3:23 | 2023-04-07 | 2023-06-10 |
-| [Dawn](https://open.spotify.com/track/4OkpB4tHyv7YmkOyiRGYij) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb) | [Dawn](https://open.spotify.com/album/4NnWjmwfrlQluFAwql0euW) | 3:57 | 2023-07-21 |  |
+| [Dawn](https://open.spotify.com/track/4OkpB4tHyv7YmkOyiRGYij) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb) | [Dawn](https://open.spotify.com/album/4NnWjmwfrlQluFAwql0euW) | 3:57 | 2023-07-21 | 2024-03-25 |
 | [Deceiver](https://open.spotify.com/track/0i9bVXTlNguVWgseEFhCsB) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Deceiver](https://open.spotify.com/album/3dk6hdeNu9qUKY0cXJlVpq) | 3:31 | 2024-03-15 |  |
 | [Defector](https://open.spotify.com/track/1qVD7zeYA21VPi6agPRAlv) | [Will Rees](https://open.spotify.com/artist/1dlEz2w0VlP9NSzM6YA1Cm), [Rhys Elliott](https://open.spotify.com/artist/0ejSFSeeaw2uQYdL8enRmd) | [Defector](https://open.spotify.com/album/3rHa5xUSY4yxNCjgceAVnn) | 3:46 | 2024-02-16 | 2024-02-27 |
 | [Deja Vu](https://open.spotify.com/track/4hpCaW3UntoXmsgTbl5FVV) | [Tensteps](https://open.spotify.com/artist/7gIEIIwEUPxZmScP2JCkPU), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Deja Vu](https://open.spotify.com/album/5rF0AAKnkVnlYaAYXF0eng) | 3:46 | 2023-06-09 | 2024-03-22 |
@@ -713,6 +713,7 @@
 | [Strangers](https://open.spotify.com/track/6Dy2lZsVHAsj9G0YfLLb12) | [Cubicore](https://open.spotify.com/artist/44APJiQpJhK4CWuLC9gGrx), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX) | [Strangers](https://open.spotify.com/album/5zyd35cUz8pkMfYBAZu9Af) | 4:14 | 2023-07-14 | 2023-09-07 |
 | [Street Rave](https://open.spotify.com/track/4xKMBTaOK1rjHYSCVYjvmV) | [Maria Healy](https://open.spotify.com/artist/2BFFr1SrdrJwXm1Y1Wr4F3) | [Street Rave](https://open.spotify.com/album/3cNJqnL1Bk06BjXDMgvjw7) | 3:35 | 2024-02-16 |  |
 | [Stubborn](https://open.spotify.com/track/3jbKvKGHfcRzt41WZPS90G) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Somna](https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K) | [Stubborn](https://open.spotify.com/album/2P0KEaYwBePZufWGPkGl3i) | 3:40 | 2022-07-22 | 2023-06-10 |
+| [Sublimity](https://open.spotify.com/track/0uVxg9G8CwOt5n616PyNHr) | [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96), [Dim3nsion](https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL), [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY) | [Sublimity](https://open.spotify.com/album/71gvScDXVDD1Qd4Xt1IEM0) | 3:31 | 2024-03-22 |  |
 | [Submerged](https://open.spotify.com/track/5CNvkdpdPfFqHCD4pvj8vZ) | [Bjorn Akesson](https://open.spotify.com/artist/3htrZBhzS3ZS9on1Yjh8LH) | [Submerged](https://open.spotify.com/album/7AEmsOqKSlLZ3gAC8SvLbR) | 3:17 | 2023-02-24 | 2024-02-17 |
 | [Such is Life \- XiJaro & Pitch Remix](https://open.spotify.com/track/3c6XaNCfe0Ah4DOUnCaVjL) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ), [Shanokee](https://open.spotify.com/artist/0SuZYJCD5R9px8LwKkcblh), [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [Such is Life \(XiJaro & Pitch Remix\)](https://open.spotify.com/album/51xqHvSzyZ4gMfdFQylzJo) | 4:06 | 2023-03-03 | 2023-06-10 |
 | [Summer Nights](https://open.spotify.com/track/4u3qSnUgcvwLngzJjKJCCo) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL), [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Believe In Magic](https://open.spotify.com/album/0JcJNBvig3TgsUNJsM3YIY) | 3:27 | 2022-06-10 | 2022-08-27 |

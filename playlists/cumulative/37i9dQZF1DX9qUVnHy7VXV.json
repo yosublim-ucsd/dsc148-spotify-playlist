@@ -1984,7 +1984,7 @@
     {
       "album": {
         "name": "Senza Una Donna (Without A Woman)",
-        "url": "https://open.spotify.com/album/5YILct85gYO8nZhDSxij0D"
+        "url": "https://open.spotify.com/album/7vE7rZEMbc4ijngDR9SJRe"
       },
       "artists": [
         {
@@ -1999,6 +1999,28 @@
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 243399,
+      "name": "Senza Una Donna (Without A Woman)",
+      "url": "https://open.spotify.com/track/6UEyaakYmmxEFQoaKNBjqT"
+    },
+    {
+      "album": {
+        "name": "Senza Una Donna (Without A Woman)",
+        "url": "https://open.spotify.com/album/5YILct85gYO8nZhDSxij0D"
+      },
+      "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        },
+        {
+          "name": "Jack Savoretti",
+          "url": "https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-25",
       "duration_ms": 243399,
       "name": "Senza Una Donna (Without A Woman)",
       "url": "https://open.spotify.com/track/6s3FTb0f3M8MpOqBBhCJ8W"

@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest Hip Hop from Lucas Raps (pictured), Future & Metro Boomin', Big Sean and more...",
-  "num_followers": 72558,
+  "num_followers": 72587,
   "original_name": "Hip Hop Circle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjQ0N2RhZDQ1YTg2ZjcwMGQ0YzRiZGZkYzJhZWUwODViNTk4Y2Y2",
+  "snapshot_id": "MCxkMmY5YTI3OWQxMWJkMWZhOTc0ZGViNjY0ODgyNzM1MDhiNTFlN2Zi",
   "tracks": [
     {
       "added_at": "2024-03-21 23:00:00",
@@ -22,6 +22,14 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 228266,

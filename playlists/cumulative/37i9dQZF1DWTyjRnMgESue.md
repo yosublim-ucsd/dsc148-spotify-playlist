@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Adrianne Lenker
 
-462 songs - 1 day 2 hr 30 min
+463 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,9 +340,10 @@
 | [rains](https://open.spotify.com/track/4GNk8J7ApnCVax7dKvLRnE) | [Solomon Crook](https://open.spotify.com/artist/5B5cUiibtKjZKaXgQdV3G1) | [rains](https://open.spotify.com/album/26iiPtEXta6wX8yBQ0O7OZ) | 2:23 | 2021-11-19 | 2022-02-16 |
 | [Rainy Days](https://open.spotify.com/track/5AydJNGl43FVl1aYcvg0jk) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Rainy Days](https://open.spotify.com/album/1nknqYFKG9Nfqz4cruHXjB) | 1:58 | 2022-02-21 | 2022-07-09 |
 | [Range Rover](https://open.spotify.com/track/1hcI2TWBGj9bRLhP1kvCmM) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Range Rover](https://open.spotify.com/album/5ruW2vzzdx8PN3MOZNtmcx) | 3:20 | 2021-11-19 | 2022-02-05 |
+| [Rare Disease](https://open.spotify.com/track/677s1ukItuq66rf0yiQ1Hw) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Rare Disease](https://open.spotify.com/album/4P2NQ1wYESDt51NGx9ZbW2) | 2:32 | 2024-03-22 |  |
 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 | 2021-11-19 |  |
 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 | 2022-05-20 | 2024-01-14 |
-| [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 | 2023-03-17 |  |
+| [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 | 2023-03-17 | 2024-03-25 |
 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 | 2021-11-19 |  |
 | [RIP](https://open.spotify.com/track/6sy5XzSPzBB5JuJ9berpu3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:17 | 2021-11-19 | 2022-07-29 |
 | [River](https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa) | [Soll](https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1) | [River](https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux) | 4:03 | 2021-11-19 | 2023-03-18 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 22655,
+  "2024-03-25": 22663,
   "date_first_scraped": "2022-09-17",
   "description": "Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href=\"spotify:artist:3HRSdDvPAE54ocmaq0JRrJ\">Camilla Magli</a>",
   "name": "RADAR Italia",
@@ -992,7 +992,7 @@
     },
     {
       "album": {
-        "name": "GENNAIO 24",
+        "name": "GENNAIO 24 (feat. Caffellatte)",
         "url": "https://open.spotify.com/album/5TNxlyrgY5qoyceHYAoAE9"
       },
       "artists": [
@@ -1001,19 +1001,19 @@
           "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
         },
         {
-          "name": "Caffellatte",
-          "url": "https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay"
-        },
-        {
           "name": "Gorbaciof",
           "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        },
+        {
+          "name": "Caffellatte",
+          "url": "https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay"
         }
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 130039,
-      "name": "GENNAIO 24",
+      "name": "GENNAIO 24 (feat. Caffellatte)",
       "url": "https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd"
     },
     {

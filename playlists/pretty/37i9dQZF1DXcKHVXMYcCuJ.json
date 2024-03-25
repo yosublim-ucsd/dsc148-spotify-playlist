@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 144619,
+  "num_followers": 144632,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2E5OGQ4M2NiMGI5YjI5ZjY4MjM4ODE4NmJmZTg5NDNmMmVmOWVi",
+  "snapshot_id": "MCwwYzhjMWRmNzcwMTg1YmY1YjUxNTA3N2M2MjU2Njg1MTU0NWE4MzFh",
   "tracks": [
     {
       "added_at": "2024-01-18 09:41:12",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "No Name No Color",
-        "url": "https://open.spotify.com/album/75ffrFVb8rQLovdDANnEAw"
-      },
-      "artists": [
-        {
-          "name": "Middle Class Rut",
-          "url": "https://open.spotify.com/artist/1jl7jCbWw8fQApXAgP7vQN"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "New Low",
-      "url": "https://open.spotify.com/track/01TgrylmgyEAgsdxiqEOpL"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Placebo",
         "url": "https://open.spotify.com/album/7Jyg6ic5h9BDJ3WuYWYA6K"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 162466,
       "name": "Teenage Angst",
       "url": "https://open.spotify.com/track/3GKEh2H15w9ZECfi1BtQ20"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "No Name No Color",
+        "url": "https://open.spotify.com/album/75ffrFVb8rQLovdDANnEAw"
+      },
+      "artists": [
+        {
+          "name": "Middle Class Rut",
+          "url": "https://open.spotify.com/artist/1jl7jCbWw8fQApXAgP7vQN"
+        }
+      ],
+      "duration_ms": 256506,
+      "name": "New Low",
+      "url": "https://open.spotify.com/track/01TgrylmgyEAgsdxiqEOpL"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
+        "name": "They Liked You Better When You Were Dead",
+        "url": "https://open.spotify.com/album/5ZbCUHOohVzwi7A6yrSJtj"
+      },
+      "artists": [
+        {
+          "name": "Fightstar",
+          "url": "https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn"
+        }
+      ],
+      "duration_ms": 255720,
+      "name": "Palahniuk's Laughter",
+      "url": "https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
         "name": "Holy Ghost",
         "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "They Liked You Better When You Were Dead",
-        "url": "https://open.spotify.com/album/5ZbCUHOohVzwi7A6yrSJtj"
+        "name": "Word Gets Around",
+        "url": "https://open.spotify.com/album/6aQ9eJe8CzynjbiD0oXIvx"
       },
       "artists": [
         {
-          "name": "Fightstar",
-          "url": "https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn"
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
         }
       ],
-      "duration_ms": 255720,
-      "name": "Palahniuk's Laughter",
-      "url": "https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3"
+      "duration_ms": 275960,
+      "name": "Not Up To You",
+      "url": "https://open.spotify.com/track/1NOhzFmTzPYMJ8vjEVxjAE"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1323,22 +1339,6 @@
       "duration_ms": 201933,
       "name": "57",
       "url": "https://open.spotify.com/track/3ywDupHAH1dCdL5J6UZmWX"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
-        "name": "Word Gets Around",
-        "url": "https://open.spotify.com/album/6aQ9eJe8CzynjbiD0oXIvx"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 275960,
-      "name": "Not Up To You",
-      "url": "https://open.spotify.com/track/1NOhzFmTzPYMJ8vjEVxjAE"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "Handwritten",
+      "url": "https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
         "name": "The Remote Part",
         "url": "https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q"
       },
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "Handwritten",
-      "url": "https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "The Difference In Good And Bad Dreams",
-        "url": "https://open.spotify.com/album/1QGtBydGsro5sLeruIAmUt"
-      },
-      "artists": [
-        {
-          "name": "Daylight",
-          "url": "https://open.spotify.com/artist/2YBfAy7PwhFaLNqIo99uTv"
-        }
-      ],
-      "duration_ms": 162721,
-      "name": "Damp",
-      "url": "https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "My Friends",
         "url": "https://open.spotify.com/album/3UoQ5r0Vm1dznLfNdgQzxG"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 175648,
       "name": "My Friends",
       "url": "https://open.spotify.com/track/2Tv9dXLcMgOy1nx72qET0d"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "The Difference In Good And Bad Dreams",
+        "url": "https://open.spotify.com/album/1QGtBydGsro5sLeruIAmUt"
+      },
+      "artists": [
+        {
+          "name": "Daylight",
+          "url": "https://open.spotify.com/artist/2YBfAy7PwhFaLNqIo99uTv"
+        }
+      ],
+      "duration_ms": 162721,
+      "name": "Damp",
+      "url": "https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Tune in, Drop Out",
-        "url": "https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX"
+        "name": "Gaslight",
+        "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
       },
       "artists": [
         {
-          "name": "Beach Riot",
-          "url": "https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 170161,
-      "name": "Tune in, Drop Out",
-      "url": "https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB"
+      "duration_ms": 173314,
+      "name": "Gaslight",
+      "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

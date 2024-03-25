@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 276549,
+  "num_followers": 276550,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzBmZThiNjFhZjMxZTgzOWMxM2EwZGJmZGM5NzkxYTkzY2QzYjA1",
+  "snapshot_id": "MCxmYzVlNWViZWRiOGUxNDQ5NGQ3YTY5YTNjNjQ2MzZhMThlNjg2NmFj",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Glorious",
-        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        }
-      ],
-      "duration_ms": 165653,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Perfect Strangers",
         "url": "https://open.spotify.com/album/0qFyB887vUrt0HJPRKsNDW"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 191206,
       "name": "Perfect Strangers - Acoustic",
       "url": "https://open.spotify.com/track/1UToeULiroxGaVUHyAb7J2"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -511,26 +511,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Happier (Stripped)",
-        "url": "https://open.spotify.com/album/45mLpZJlL5jNHxK2hk0BS8"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "Happier - Stripped",
-      "url": "https://open.spotify.com/track/0Gz1nOeTeNoMnKzb9vflds"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Better EP (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/6XTuLXNcNIzDaLzI6EwKXy"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 150652,
       "name": "Better (feat. Teddy Swims) - Acoustic Version",
       "url": "https://open.spotify.com/track/24MoOLc4izxq0E0lzRxxJn"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Happier (Stripped)",
+        "url": "https://open.spotify.com/album/45mLpZJlL5jNHxK2hk0BS8"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 250506,
+      "name": "Happier - Stripped",
+      "url": "https://open.spotify.com/track/0Gz1nOeTeNoMnKzb9vflds"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Hurricane (Acoustic Version)",
-        "url": "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 170882,
-      "name": "Hurricane - Acoustic Version",
-      "url": "https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Shed a Light (The Remixes Part 2)",
         "url": "https://open.spotify.com/album/65h91TpH6k56OdninmMeov"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 199120,
       "name": "Shed a Light - Acoustic Version",
       "url": "https://open.spotify.com/track/0GGVNLSXv3uaN0GrXvDsOC"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Hurricane (Acoustic Version)",
+        "url": "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 170882,
+      "name": "Hurricane - Acoustic Version",
+      "url": "https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Violin Covers Pt. II",
-        "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
-      },
-      "artists": [
-        {
-          "name": "Daniel Jang",
-          "url": "https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN"
-        }
-      ],
-      "duration_ms": 186754,
-      "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
-      "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Moon Faces",
         "url": "https://open.spotify.com/album/3OWD8bRfIM1uY2AyijHaEV"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 209000,
       "name": "Lost - Acoustic",
       "url": "https://open.spotify.com/track/64rwYWim5lPgFRzn2DBOEa"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Violin Covers Pt. II",
+        "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
+      },
+      "artists": [
+        {
+          "name": "Daniel Jang",
+          "url": "https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN"
+        }
+      ],
+      "duration_ms": 186754,
+      "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
+      "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Acoustic Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "ABIR",
-          "url": "https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "Finest Hour (feat. Abir) - Acoustic Version",
-      "url": "https://open.spotify.com/track/6ZMTQIeV5IZMTOFmVhDziW"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "I Could Be The One [Avicii vs Nicky Romero] (Remixes)",
         "url": "https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 231426,
       "name": "I Could Be The One [Avicii vs Nicky Romero] - Noonie Bao Acoustic Mix",
       "url": "https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Acoustic Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "ABIR",
+          "url": "https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "Finest Hour (feat. Abir) - Acoustic Version",
+      "url": "https://open.spotify.com/track/6ZMTQIeV5IZMTOFmVhDziW"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1959,22 +1959,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Hear Me Say (Acoustic)",
-        "url": "https://open.spotify.com/album/3mZ3lgRGgKJ1osqqH39vH0"
+        "name": "Starting Fires",
+        "url": "https://open.spotify.com/album/33e8xGrwbkjnpR4w43dIsM"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
         },
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Emma Hewitt",
+          "url": "https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8"
         }
       ],
-      "duration_ms": 149525,
-      "name": "Hear Me Say - Acoustic",
-      "url": "https://open.spotify.com/track/2lUB3DmQbrQrYeGWc3PfcY"
+      "duration_ms": 229701,
+      "name": "Waiting - Strings & Vocals Mix",
+      "url": "https://open.spotify.com/track/6ctvgLJJZQkdzch0L1dj7X"
     }
   ],
   "unique_name": "mint Acoustic",

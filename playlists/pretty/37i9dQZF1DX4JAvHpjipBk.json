@@ -1,12 +1,12 @@
 {
   "description": "New music from Shakira, Metro Boomin & Future, Tyla, Olivia Rodrigo, and more!",
-  "num_followers": 4171876,
+  "num_followers": 4172913,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2RhN2FiNzEzZjc0MTZhZGI3NzVlYjE3NjEyMDVlMzhlNDhlZWI0",
+  "snapshot_id": "MCxkOTE0OTBmZTcwZDU2MzRjZTYxMzNmOTgxYzg3YWJkZTI3MjU2NmVh",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -58,6 +58,14 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 228266,
@@ -514,6 +522,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "duration_ms": 267706,

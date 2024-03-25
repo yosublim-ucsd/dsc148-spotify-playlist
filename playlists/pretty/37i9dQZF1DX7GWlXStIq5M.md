@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Ananda
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,834 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,833 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 69 | [Serena](https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [Serena](https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1) | 2:45 |
 | 70 | [Pro Dia Nascer Feliz](https://open.spotify.com/track/0pciCbK80mgjXTYeVxbIru) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Pro Dia Nascer Feliz](https://open.spotify.com/album/5dePvauWlTrFFIwPsA3EHB) | 3:15 |
 | 71 | [Tbt](https://open.spotify.com/track/39ykOzUNFjg3lFNzDIOcVL) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo) | [Tbt](https://open.spotify.com/album/0gne4ChhTLG9gUvLSssiyr) | 3:15 |
-| 72 | [Flor da Idade](https://open.spotify.com/track/7byqYK458bCwphyDg66d6G) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Flor da Idade](https://open.spotify.com/album/3EaofuMgRgID0QiWKbtj9X) | 3:36 |
+| 72 | [Meu Mel](https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina) | [Bella Angel](https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk) | [Meu Mel](https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v) | 2:04 |
 | 73 | [Tudo Meu](https://open.spotify.com/track/4R7e0VeGP4ouYYd3fJIsH9) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Tudo Meu](https://open.spotify.com/album/0JdAzfGhlWWcF3za66uSLK) | 2:25 |
-| 74 | [Meu Mel](https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina) | [Bella Angel](https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk) | [Meu Mel](https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v) | 2:04 |
+| 74 | [Flor da Idade](https://open.spotify.com/track/7byqYK458bCwphyDg66d6G) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Flor da Idade](https://open.spotify.com/album/3EaofuMgRgID0QiWKbtj9X) | 3:36 |
 | 75 | [Patipapa](https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Patipapa](https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5) | 2:20 |
-| 76 | [Boa de Beber](https://open.spotify.com/track/1lWQQaQZQAFKG0HYxspHXI) | [Anaju Oliveira](https://open.spotify.com/artist/7JPwRrClIcgOfAMB6FFfT0) | [Boa de Beber](https://open.spotify.com/album/31VUUoX7xVUM8yZgEGMRH5) | 2:08 |
-| 77 | [Sem Demandas](https://open.spotify.com/track/73PJMlUkA6WyeEZtEYweq7) | [Caio Prado](https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Caio em Ti](https://open.spotify.com/album/6CjknY8eSPQA7ByDbzzyag) | 3:23 |
+| 76 | [Sem Demandas](https://open.spotify.com/track/73PJMlUkA6WyeEZtEYweq7) | [Caio Prado](https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Caio em Ti](https://open.spotify.com/album/6CjknY8eSPQA7ByDbzzyag) | 3:23 |
+| 77 | [Boa de Beber](https://open.spotify.com/track/1lWQQaQZQAFKG0HYxspHXI) | [Anaju Oliveira](https://open.spotify.com/artist/7JPwRrClIcgOfAMB6FFfT0) | [Boa de Beber](https://open.spotify.com/album/31VUUoX7xVUM8yZgEGMRH5) | 2:08 |
 | 78 | [Amanhã](https://open.spotify.com/track/5NymnW8GUo8rbcpjnATBM1) | [Ralk](https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC), [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [Amanhã](https://open.spotify.com/album/4fAOx1ZdilrOoeOl0D0d0l) | 2:09 |
 | 79 | [Afropaty](https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Afropaty](https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7) | 2:22 |
 | 80 | [Casi Casi](https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:13 |
 
-Snapshot ID: `MCw5NzFiOWYzNmY3ODY3ZTdhNTE0ODIxZTFlYTFjNWJlNmIwMzVmMDU5`
+Snapshot ID: `MCxjNjk5MTg2YTNiNTkwMzNlMDYxZWY1ZDcwZDkzMjNjYzI0ZDVlYmNl`

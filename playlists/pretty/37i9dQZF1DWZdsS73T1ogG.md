@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Pressure 9X19
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,623 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,671 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [Bandida](https://open.spotify.com/track/2gCm8iun5geZCA2PBC4J4J) | [Aron Luix](https://open.spotify.com/artist/0g8PbULxKIoYGWwYtpaVqv) | [Bandida](https://open.spotify.com/album/1RdBD1eIIiTwVlfUxba1vS) | 2:35 |
 | 100 | [Al Otro Nivel](https://open.spotify.com/track/2WJXba0CALXqWk8ghw2RiR) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Al Otro Nivel](https://open.spotify.com/album/2RS3obBX5SSEQE1e2TEdtZ) | 4:46 |
 
-Snapshot ID: `MCwzMGVhNGUzMzZjOWMzZTUyMjUwNTdiOWFmNDhkZjJiMTZjNjdiY2E3`
+Snapshot ID: `MCxmYTYxOWIzMTk1OWQ0ZTQ1MTdjOWEzMzIwNjVhMjBjOTg5ZDZkYjc3`

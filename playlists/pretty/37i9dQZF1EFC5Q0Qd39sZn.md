@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,629 likes - 508 songs - 1 day 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,633 likes - 508 songs - 1 day 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 78 | [When I'm Back On My Feet Again](https://open.spotify.com/track/47SOobTLWvyZpUfpmuUARJ) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 3:48 |
 | 79 | [Please Remember](https://open.spotify.com/track/1rB4HmjMpfGKDc53vsVzOY) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Please Remember \(Dave Audé Mix\)](https://open.spotify.com/album/7KDMaaPtQ7uEOHmQhngd6O) | 4:34 |
 | 80 | [Reach \(NBC Olympic Version\)](https://open.spotify.com/track/0i00AL9toLfJeb4VlWLvSi) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [DESTINY](https://open.spotify.com/album/6D7RaPGKDvgn2s6uairNRI) | 3:50 |
-| 81 | [From the Heart](https://open.spotify.com/track/5lg3WRgq89Bpa2vcqRg752) | [Another Level](https://open.spotify.com/artist/3kcqSqWEss8JZtHBE5IJzZ) | [Freak Me: The Collection](https://open.spotify.com/album/07uutXwmC4nbwV4mXwOY7z) | 4:55 |
-| 82 | [I'm Getting Used To You](https://open.spotify.com/track/1OxqCSTvWrCwoS413r9xel) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:03 |
+| 81 | [I'm Getting Used To You](https://open.spotify.com/track/1OxqCSTvWrCwoS413r9xel) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:03 |
+| 82 | [From the Heart](https://open.spotify.com/track/5lg3WRgq89Bpa2vcqRg752) | [Another Level](https://open.spotify.com/artist/3kcqSqWEss8JZtHBE5IJzZ) | [Freak Me: The Collection](https://open.spotify.com/album/07uutXwmC4nbwV4mXwOY7z) | 4:55 |
 | 83 | [Some Hearts](https://open.spotify.com/track/4VsMvUldyABTPUodYRI6uX) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:48 |
 | 84 | [By the Time This Night Is Over \(with Peabo Bryson\)](https://open.spotify.com/track/0dbx8qCvWgnlTZoj8a5gC7) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:20 |
 | 85 | [That's When I'll Stop Loving You](https://open.spotify.com/track/3TnT4ULnE2bzJG40gUtZh6) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 4:51 |
@@ -258,8 +258,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 248 | [Cry Over Me](https://open.spotify.com/track/1XUcDN732D3YOYtZjAEq02) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell 3](https://open.spotify.com/album/3Az1FmmreuG2fS7uCU6VPJ) | 4:38 |
 | 249 | [Not Enough Hours In The Night](https://open.spotify.com/track/79xgC6Q1Itp5JDkW6fsZvs) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:27 |
 | 250 | [Careless Heart](https://open.spotify.com/track/3LQFJ4XfUy8SqSM7vQgFqM) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Mystery Girl](https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU) | 4:08 |
-| 251 | [I Bring You To My Senses](https://open.spotify.com/track/0hNwpx4xQSsA4F7By1ZvlQ) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [We Are Love \(Deluxe\)](https://open.spotify.com/album/5CzzuE9XUREa6PyHGgucmC) | 4:04 |
-| 252 | [Give A Little Love](https://open.spotify.com/track/20TTWmID7y6Bq7r6UnE5iW) | [Hammond & West](https://open.spotify.com/artist/5uMo9yQCfd9Fws49UlzgqJ) | [Hammond & West](https://open.spotify.com/album/6KVXPZQLVnlF8bt9iV5oDe) | 3:28 |
+| 251 | [Give A Little Love](https://open.spotify.com/track/20TTWmID7y6Bq7r6UnE5iW) | [Hammond & West](https://open.spotify.com/artist/5uMo9yQCfd9Fws49UlzgqJ) | [Hammond & West](https://open.spotify.com/album/6KVXPZQLVnlF8bt9iV5oDe) | 3:28 |
+| 252 | [I Bring You To My Senses](https://open.spotify.com/track/0hNwpx4xQSsA4F7By1ZvlQ) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [We Are Love \(Deluxe\)](https://open.spotify.com/album/5CzzuE9XUREa6PyHGgucmC) | 4:04 |
 | 253 | [Borrowed Angels](https://open.spotify.com/track/4uaQpLvejMjjW5ve8JbAXl) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Some Lessons Learned](https://open.spotify.com/album/563p0cCXffZYFVHOYRFLK5) | 4:03 |
 | 254 | [I'll Get There \(The Other Side\)](https://open.spotify.com/track/3Kpj2yYjpc86WrkifbiuDz) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [I’ll Get There \(The Other Side\)](https://open.spotify.com/album/5qQ0VD5av5UFSZrfIcgXbA) | 3:28 |
 | 255 | [Love Is The Power](https://open.spotify.com/track/7LtxFSHMxHYZGDea3fVZaD) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [This Is The Time \- The Christmas Album](https://open.spotify.com/album/0yoeDitbqfgUDBDZ5J93V8) | 5:34 |
@@ -409,8 +409,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 399 | [More Than Forever](https://open.spotify.com/track/540HEQbY9Zc7Y3B0SpGweo) | [Kru](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [The Way We Jam](https://open.spotify.com/album/4XLALu8f0eqEUEmivyqqZZ) | 4:57 |
 | 400 | [My Heart's With You](https://open.spotify.com/track/1sRu5lflEcRB3Xi9EuQnxA) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Hearts In Motion](https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J) | 4:30 |
 | 401 | [I'm Not the Only One](https://open.spotify.com/track/3xZGfL0rWt7zFTzp6Xg7Sf) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Branigan 2](https://open.spotify.com/album/7KYSQrbIraNspxKXbXoJ8e) | 3:23 |
-| 402 | [I Miss U Missing Me](https://open.spotify.com/track/2F4LgGTiUPzdUcdxYnTcPg) | [Bibi Zhou](https://open.spotify.com/artist/3WHsy1Rq4vPEdRyo9P3a48) | [I, 魚, 光, 鏡](https://open.spotify.com/album/40j9k1XSwTJzxJI0DKc1qO) | 3:19 |
-| 403 | [Kiss The Tears Away](https://open.spotify.com/track/4T1jx2xp7eMhHs5goliNrG) | [Stevie B](https://open.spotify.com/artist/6V7pNWhlJpD0s0bMdB1PU9) | [Healing](https://open.spotify.com/album/0sPRYfrksFvUr6eq4jdgSe) | 4:02 |
+| 402 | [Kiss The Tears Away](https://open.spotify.com/track/4T1jx2xp7eMhHs5goliNrG) | [Stevie B](https://open.spotify.com/artist/6V7pNWhlJpD0s0bMdB1PU9) | [Healing](https://open.spotify.com/album/0sPRYfrksFvUr6eq4jdgSe) | 4:02 |
+| 403 | [I Miss U Missing Me](https://open.spotify.com/track/2F4LgGTiUPzdUcdxYnTcPg) | [Bibi Zhou](https://open.spotify.com/artist/3WHsy1Rq4vPEdRyo9P3a48) | [I, 魚, 光, 鏡](https://open.spotify.com/album/40j9k1XSwTJzxJI0DKc1qO) | 3:19 |
 | 404 | [Call Me Crazy](https://open.spotify.com/track/0juYo9rDBAi3egwH9OVdmV) | [Patricia Kelly](https://open.spotify.com/artist/1kJJf3Y5B4VatTp5CRhic7) | [One More Year](https://open.spotify.com/album/1X3YuXpeC9M2OZQ4Xn0u8P) | 4:36 |
 | 405 | [If I Ever See Heaven Again](https://open.spotify.com/track/16dv6e38orR41IbHdzMqzO) | [Jessica Folcker](https://open.spotify.com/artist/3T785XgAciwkJGoPt1nMEU) | [Jessica](https://open.spotify.com/album/3pU2AEckDWc4rW1Ekwuuos) | 4:22 |
 | 406 | [Wreck You](https://open.spotify.com/track/7fdyO2uOxnVTF9tvJMxRfC) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Some Lessons Learned](https://open.spotify.com/album/563p0cCXffZYFVHOYRFLK5) | 3:48 |
@@ -517,4 +517,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 507 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 508 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `Mjg1MjA3NzAsMDAwMDAwMDA1OWU5N2FmMjNlZTFmOTNhYWQ5ZmYxZGNmZTI1ODRkZg==`
+Snapshot ID: `Mjg1MjIyMTAsMDAwMDAwMDAxMzI4MWZkZTYzNWY3NDc5OGUwMGYzNTk1ZmMzNmNhZQ==`

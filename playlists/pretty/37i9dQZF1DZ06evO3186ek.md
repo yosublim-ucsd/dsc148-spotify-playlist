@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,247 likes - 50 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,335 likes - 50 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Heal Our Land / Come & Move \(feat\. Joe L Barnes, Maryanne J\. George & Mav City Gospel Choir\)](https://open.spotify.com/track/1TVlOcTf8nR0epxgHxaPt3) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Breathe \- EP](https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA) | 6:41 |
 | 50 | [More Than Able \(feat\. Tasha Cobbs Leonard & Chandler Moore\)](https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [The Maverick Way \- EP](https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz) | 9:16 |
 
-Snapshot ID: `Mjg1MTk5NTcsMDAwMDAwMDBmZmY3OTg3OGI2ZGU4ZDRkNWFjMWM2NWFhYzljNmFhOA==`
+Snapshot ID: `Mjg1MjEzNzEsMDAwMDAwMDA2ODY5NjlmZDYwZDUzY2M3ZjFiZjYxZDBhODcyZjU3YQ==`

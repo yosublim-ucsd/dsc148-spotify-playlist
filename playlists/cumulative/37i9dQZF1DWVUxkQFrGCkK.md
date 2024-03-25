@@ -4,7 +4,7 @@
 
 > warming up for ibz szn
 
-466 songs - 1 day 10 hr 23 min
+467 songs - 1 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Body Language](https://open.spotify.com/track/4F37VC3DflPXQcwbrnoi0Y) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Body Language](https://open.spotify.com/album/2kjZNNrlthQ6IYg7wTFwRJ) | 4:45 | 2023-06-01 | 2023-08-25 |
 | [Body Talk feat\. D13 \- Edit](https://open.spotify.com/track/5PH0kWx7dK6XMjxDJJzEVX) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3), [Mike Agent X Clark](https://open.spotify.com/artist/2khZmUiKOYCIIjniMfair6), [D13](https://open.spotify.com/artist/5zP8WS8lSDfUBZrEwAoWBN) | [Body Talk feat\. D13](https://open.spotify.com/album/7feGTiic0vabGd7DbgdxOk) | 3:50 | 2023-06-29 | 2023-08-02 |
 | [Bololo \- SLAVKO Remix](https://open.spotify.com/track/5vllZpTZkgrjTP6nwms20p) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0), [SLAVKO](https://open.spotify.com/artist/1S2pMWhmMJi0dmN0zFfwcS) | [Bololo \(Remixes\)](https://open.spotify.com/album/3bC1j0lxI66MJl2T3anvF2) | 2:05 | 2024-01-11 | 2024-03-15 |
+| [Born In Blue](https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9) | [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [Born In Blue](https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v) | 4:50 | 2024-03-24 |  |
 | [Bosco Bosco \(Drums For Life\)](https://open.spotify.com/track/4EQ3FEAFDB7NHhjGXGrVnm) | [Talaboman](https://open.spotify.com/artist/0w1RQjkLFHpokbFNikYbPN), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD) | [Bosca Bosca / Bosco Bosco](https://open.spotify.com/album/14oZCnvUrYSb3umn8hLndu) | 8:06 | 2023-04-27 | 2023-08-02 |
 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 | 2023-04-13 | 2023-08-25 |
 | [Boy, Empty](https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be) | 2:49 | 2024-02-15 |  |

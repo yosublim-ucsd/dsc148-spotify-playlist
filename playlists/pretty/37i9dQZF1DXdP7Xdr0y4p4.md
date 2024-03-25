@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,340 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,357 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,15 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 51 | [Overcome \- Radio Edit](https://open.spotify.com/track/0VAnfdHYy86E0TWJBfN6JP) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Overcome \(Radio Edit\)](https://open.spotify.com/album/6HYHgxwMcknXcdvWHCojqM) | 4:07 |
 | 52 | [Grace Ain't Fair \- Acoustic Version](https://open.spotify.com/track/2CEBwToSll6HnKr0op8WQH) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Grace Ain't Fair \(Acoustic Version\)](https://open.spotify.com/album/45ijAsVgyLl4kDnTAUeh17) | 3:34 |
 | 53 | [Thief in the Night](https://open.spotify.com/track/4oScvPoK3ryJ1uzpt4Giw7) | [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be) | [Thief In The Night](https://open.spotify.com/album/7AfTSlpi35PwEvxGY0otef) | 4:07 |
-| 54 | [Bring That Giant Down](https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Bring That Giant Down](https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE) | 3:28 |
-| 55 | [King of Kings](https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [I Am Not Alone](https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA) | 2:58 |
+| 54 | [King of Kings](https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [I Am Not Alone](https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA) | 2:58 |
+| 55 | [Bring That Giant Down](https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Bring That Giant Down](https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE) | 3:28 |
 | 56 | [I Have God to Thank for Everything](https://open.spotify.com/track/0ecJwqxF2KxcYHiwzi23Tk) | [The Inspirations](https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3) | [I Have God to Thank for Everything](https://open.spotify.com/album/2GCDQ5nQ3FIhaQnGfzlpgJ) | 2:48 |
 | 57 | [How Great Thou Art](https://open.spotify.com/track/3otLzyxTwe5JoBKFA5K1r3) | [Kendra Kay](https://open.spotify.com/artist/55wvuImkFMHjZ1nYmhdXYJ), [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [How Great Thou Art](https://open.spotify.com/album/4Uok3QayvnnQUB8ob4J95S) | 3:28 |
 | 58 | [Lift up His Name](https://open.spotify.com/track/23a025gnBl8S0b7Cb9Bz0S) | [The Browders](https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW) | [Time Machine](https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP) | 3:25 |
 | 59 | [Something Bigger Than Me](https://open.spotify.com/track/59G9uFtqPCrqiZ9rfETjM8) | [John Berry](https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6) | [Find My Joy](https://open.spotify.com/album/0dM55Mul4BUtsZ6zDBEhWN) | 4:09 |
 | 60 | [Glorious Appearing](https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Glorious Appearing](https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W) | 3:48 |
-| 61 | [The Spirit and the Bride](https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M) | [The Wilbanks](https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r) | [My Name Is Victory](https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl) | 3:22 |
-| 62 | [Welcome to Your Life](https://open.spotify.com/track/5NiZESfwDHW1gRgrZr1wGY) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [Something New](https://open.spotify.com/album/60vvK9ecxcFAaHEr0yqI24) | 3:19 |
+| 61 | [Welcome to Your Life](https://open.spotify.com/track/5NiZESfwDHW1gRgrZr1wGY) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [Something New](https://open.spotify.com/album/60vvK9ecxcFAaHEr0yqI24) | 3:19 |
+| 62 | [The Spirit and the Bride](https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M) | [The Wilbanks](https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r) | [My Name Is Victory](https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl) | 3:22 |
 | 63 | [Rock My Soul](https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Front Porch Singin'](https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY) | 1:48 |
 | 64 | [God is Still Good](https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7) | [McKamey Legacy](https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI) | [McKamey Legacy](https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS) | 2:37 |
 | 65 | [These Are The Days](https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [These Are The Days](https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6) | 3:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 79 | [How Good the Good News Feels](https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [How Good the Good News Feels](https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq) | 3:22 |
 | 80 | [The World Needs a Song](https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T) | [The Lore Family](https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94) | [The World Needs a Song](https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ) | 3:11 |
 
-Snapshot ID: `MCxjMzRmZGJjNGZkNDJhYzkwM2JkYjU3NmRkNWIyMmQ2MTcxM2U2NWQw`
+Snapshot ID: `MCxjOWEyOWY3OGUyMjRmNGQwMzlhOWMwYWVlMjBjZjNkYThhMjRhYjkz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > Rest in peace Cola Boyy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,927 likes - 103 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,875 likes - 103 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 102 | [Sirens](https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:28 |
 | 103 | [Original](https://open.spotify.com/track/4jHDe4YjUYb68wgTWe37Fw) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [Original](https://open.spotify.com/album/7E9tuLXiihUprUwNjpYqbT) | 2:56 |
 
-Snapshot ID: `MCw0MmJjNjMzYWRmYTVlZWU3OGE4MmQ1ZTY1Yzk2NmU0YWVhN2EzMzFk`
+Snapshot ID: `MCw5ZWJhYzI2Zjc2Y2RlZGUwMmFhNzFhN2VjMjEwOWYzNWZhODhiZDgy`

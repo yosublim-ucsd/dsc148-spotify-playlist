@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 320734,
+  "num_followers": 320828,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmJiM2QzMzcyZTc4NzdmOGVjMjBhNjI5ZGZmYTEyYzg3YThhYTAw",
+  "snapshot_id": "MCw4NWFjOTg5ZjBmZTZiYmY1YmE2NzUwMjdlOWJiMTgwMWIyZjM1YTdj",
   "tracks": [
     {
       "added_at": "2024-01-30 16:12:12",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "Yggdrasil",
-        "url": "https://open.spotify.com/album/7vQ4OHJ5VSq6M4M3bLKoAa"
-      },
-      "artists": [
-        {
-          "name": "Erdling",
-          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Blizzard",
-      "url": "https://open.spotify.com/track/2n0lbf90sDwDXqLiZP1j2j"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 314720,
       "name": "ISN\u2019T EVERYONE",
       "url": "https://open.spotify.com/track/7Kx1m2vb4QPgHKVKvpvrFv"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
+        "name": "Yggdrasil",
+        "url": "https://open.spotify.com/album/7vQ4OHJ5VSq6M4M3bLKoAa"
+      },
+      "artists": [
+        {
+          "name": "Erdling",
+          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Blizzard",
+      "url": "https://open.spotify.com/track/2n0lbf90sDwDXqLiZP1j2j"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "Killer Quinn",
-        "url": "https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd"
-      },
-      "artists": [
-        {
-          "name": "SCARLET",
-          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
-        }
-      ],
-      "duration_ms": 179178,
-      "name": "Killer Quinn",
-      "url": "https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
         "name": "Darkest Days",
         "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 216840,
       "name": "The Thing I Hate",
       "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
+        "name": "Killer Quinn",
+        "url": "https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd"
+      },
+      "artists": [
+        {
+          "name": "SCARLET",
+          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
+        }
+      ],
+      "duration_ms": 179178,
+      "name": "Killer Quinn",
+      "url": "https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf"
     },
     {
       "added_at": "2024-01-30 16:12:12",

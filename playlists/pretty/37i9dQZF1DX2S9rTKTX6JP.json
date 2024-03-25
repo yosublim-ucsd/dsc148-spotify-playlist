@@ -1,12 +1,12 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 673480,
+  "num_followers": 673572,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjJiZDhjNjViYWYwMWYxYzQ1MzNmN2ZlMGFhYTRjZjg2MWVkYzk0",
+  "snapshot_id": "MCxiYmYwNzZiMGMyZWExZGFmOWRkZmVhZDdjNzEyNTIwZWEwOTBjMDQx",
   "tracks": [
     {
       "added_at": "2024-02-12 05:08:07",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "So Long, Astoria",
-        "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
-      },
-      "artists": [
-        {
-          "name": "The Ataris",
-          "url": "https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "The Boys of Summer",
-      "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 109900,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "So Long, Astoria",
+        "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
+      },
+      "artists": [
+        {
+          "name": "The Ataris",
+          "url": "https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "The Boys of Summer",
+      "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 199386,
-      "name": "Addicted To Love",
-      "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Age Of Ignorance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 249411,
       "name": "Skyfall",
       "url": "https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Addicted To Love",
+      "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "The Curse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
+        "name": "The Dirt Soundtrack",
+        "url": "https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 206133,
-      "name": "You Give Love A Bad Name",
-      "url": "https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe"
+      "duration_ms": 188133,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/7zmEtA2x8zcMDiDBr9kT2p"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "The Dirt Soundtrack",
-        "url": "https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO"
+        "name": "The Curse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 188133,
-      "name": "Like a Virgin",
-      "url": "https://open.spotify.com/track/7zmEtA2x8zcMDiDBr9kT2p"
+      "duration_ms": 206133,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "The Chain (from Gears 5)",
-        "url": "https://open.spotify.com/album/0oP07JNydHXvXKegHE675I"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 252170,
-      "name": "The Chain (from Gears 5)",
-      "url": "https://open.spotify.com/track/1Wnh6j4MzTyYIjDH1NmGIT"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 302736,
       "name": "Creep - Spotify Singles",
       "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "The Chain (from Gears 5)",
+        "url": "https://open.spotify.com/album/0oP07JNydHXvXKegHE675I"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 252170,
+      "name": "The Chain (from Gears 5)",
+      "url": "https://open.spotify.com/track/1Wnh6j4MzTyYIjDH1NmGIT"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
-      },
-      "artists": [
-        {
-          "name": "The Polyphonic Spree",
-          "url": "https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk"
-        }
-      ],
-      "duration_ms": 323666,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version)",
         "url": "https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 263733,
       "name": "Working Class Hero",
       "url": "https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
+      },
+      "artists": [
+        {
+          "name": "The Polyphonic Spree",
+          "url": "https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk"
+        }
+      ],
+      "duration_ms": 323666,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
     },
     {
       "added_at": "2024-02-12 05:08:07",

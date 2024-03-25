@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 291749,
+  "2024-03-25": 291871,
   "date_first_scraped": "2021-12-21",
   "description": "Women who rock our world. Cover: The Last Dinner Party",
   "name": "Fierce Femmes",
@@ -4607,10 +4607,28 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 185914,
       "name": "Moonstruck",
       "url": "https://open.spotify.com/track/1kM0YPEPUmZfV7WAl6HH0i"
+    },
+    {
+      "album": {
+        "name": "Playing Favorites",
+        "url": "https://open.spotify.com/album/2R7crs7YbXoJrjzb7IOEEq"
+      },
+      "artists": [
+        {
+          "name": "Sheer Mag",
+          "url": "https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185914,
+      "name": "Moonstruck",
+      "url": "https://open.spotify.com/track/4jKvi79CDhecACVRUVwOx3"
     },
     {
       "album": {

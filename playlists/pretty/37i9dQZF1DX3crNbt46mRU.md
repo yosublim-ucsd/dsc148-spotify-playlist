@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,582 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,578 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 18 | [Tagträumen](https://open.spotify.com/track/5hwj0UHWIQCOXbw8Uvv3c1) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Tagträumen](https://open.spotify.com/album/6dG6Ky2PmiDvui0JIBLOsF) | 3:41 |
 | 19 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 |
 | 20 | [Schietwetter & Korn](https://open.spotify.com/track/6FF0UToBUXyZcrhjtLCIkH) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schietwetter & Korn](https://open.spotify.com/album/2JqbZYnhpF2OeKtiyPhCdd) | 3:08 |
-| 21 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 |
+| 21 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 |
 | 22 | [Forever Young](https://open.spotify.com/track/2cFmyMZTrlHUIdt5npW4bu) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Forever Young](https://open.spotify.com/album/48mjxxCDQ7KuJdu8dXdRmp) | 2:37 |
 | 23 | [Bucketlist](https://open.spotify.com/track/0xCja9GzcoWZDO9pOBrKwn) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Bucketlist](https://open.spotify.com/album/1KIEwazfpCBsGDaMHqFStt) | 1:54 |
 | 24 | [Stern](https://open.spotify.com/track/2gA7ac42FTDwufnEA5zePg) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Lovescars](https://open.spotify.com/album/3tKnGUPdSHWbFGm88hWtQo) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 99 | [Love Me In The Morning](https://open.spotify.com/track/5fV9MjZZ6DwHZUABZzIy2l) | [SOFIIA](https://open.spotify.com/artist/55EPKpLXwOAvgT7Xya8ROI) | [Love Me In The Morning](https://open.spotify.com/album/7DPJ6utT5RpQt7tCP05ORd) | 2:27 |
 | 100 | [Guide Me Home](https://open.spotify.com/track/3mi8t9JLEASpg8od6loHu8) | [Stanfour](https://open.spotify.com/artist/0Ku9jFTJvPANO4LBOyJoWv) | [Guide Me Home](https://open.spotify.com/album/0NMPWDJSBIEDAXlahaJqKa) | 2:16 |
 
-Snapshot ID: `MCxiNTU1Yzc1MzkzYTMzOTk0NDdkN2E4YTZjNGRhYmRmNTBlM2U3MWUz`
+Snapshot ID: `MCw1Mzc3YzhlNjUyZjY1YjE4ZmY1YjUwMjZiYTg1ODAzOTMyODc2NzY2`

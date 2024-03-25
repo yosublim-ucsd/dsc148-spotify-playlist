@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-252 songs - 17 hr 5 min
+253 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Actually](https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 3:47 | 2023-05-19 |  |
 | [Alfa](https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa](https://open.spotify.com/album/4uO8oJ4NuITPSvTnP33EfY) | 4:45 | 2022-06-20 |  |
 | [Alfa \- Original Mix](https://open.spotify.com/track/1UabDxiLk78adOCYuQzhpu) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa EP](https://open.spotify.com/album/6nHbGBXnZxCP0PAq2Wt4rd) | 4:45 | 2021-07-24 | 2023-03-09 |
-| [Alive](https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Alive](https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW) | 3:50 | 2023-06-09 |  |
+| [Alive](https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Alive](https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW) | 3:50 | 2023-06-09 | 2024-03-25 |
 | [All Day](https://open.spotify.com/track/49S2zEVuoV3BcA2mdyowiA) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9), [Eren Cannata](https://open.spotify.com/artist/41RREi0dkr25wYIjgL6O69), [Aaron Janik](https://open.spotify.com/artist/29HcxjpgVWYBjERb3VGmmL) | [Made 4 U](https://open.spotify.com/album/7MtJoa3DKfwRls9963YtqX) | 3:06 | 2023-05-19 | 2023-05-27 |
 | [All for You](https://open.spotify.com/track/1aHiADbmDJi1ukmZghtvIn) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [All for You](https://open.spotify.com/album/7Ckd5Akndk0AC2HAhbQgdT) | 4:13 | 2024-02-02 |  |
 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 | 2023-05-19 |  |
@@ -42,6 +42,7 @@
 | [Cabo Player](https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Cabo Player](https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO) | 2:19 | 2023-10-13 |  |
 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7s47cTLl4j1JKawu308yId) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Forward](https://open.spotify.com/album/1pDgEvP1r2JI9HZl39clKx) | 3:17 | 2023-05-19 | 2023-11-30 |
 | [CAN'T GO HOME](https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR) | [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [CAN'T GO HOME](https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc) | 2:52 | 2023-05-19 |  |
+| [Can't Let Go](https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Let Go](https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS) | 3:59 | 2024-03-22 |  |
 | [Can't Let Go](https://open.spotify.com/track/3BOPpN9AKSP7bMB1C5IPI2) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [The Godfather](https://open.spotify.com/artist/4cwes8iJ00ShgVaEX7yKZb), [Tony Sherman](https://open.spotify.com/artist/5PGrx2urmHR1xmOvSMAK3l) | [Can't Let Go](https://open.spotify.com/album/7GkzL6dZQiXLuveDeOKY7h) | 3:14 | 2023-05-19 | 2023-07-26 |
 | [Catching Eyes](https://open.spotify.com/track/22Vsz6sIdD97KROSX7oAyq) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/3rR9PxHvLdjXtOsBGUwWHD) | 4:09 | 2022-06-20 |  |
 | [Catching Eyes](https://open.spotify.com/track/2aUYt0CwHeJLrlgi0akUGp) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/3vyUE4IyiLM471hbKVQ9i2) | 4:09 | 2022-06-20 | 2023-02-15 |

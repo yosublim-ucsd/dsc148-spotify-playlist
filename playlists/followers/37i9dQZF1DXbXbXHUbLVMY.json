@@ -1,5 +1,5 @@
 {
-  "2024-03-24": 27748,
+  "2024-03-25": 27757,
   "date_first_scraped": "2023-09-23",
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
   "name": "100 (2)",
@@ -197,6 +197,28 @@
       "duration_ms": 160634,
       "name": "Aktiv",
       "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
+    },
+    {
+      "album": {
+        "name": "Amok",
+        "url": "https://open.spotify.com/album/5ttbRoMLEEuYmx7UFkzHAy"
+      },
+      "artists": [
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        },
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125878,
+      "name": "Amok",
+      "url": "https://open.spotify.com/track/0k3MPCBFxebrct6NxH3kCY"
     },
     {
       "album": {
@@ -1213,7 +1235,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-24",
       "duration_ms": 165040,
       "name": "Har du glemt meg?",
       "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"

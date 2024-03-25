@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 29493,
+  "num_followers": 29518,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjY2NjQ5NWU0ZDdiZTNiMDkyYzE2Y2I0YjRlZTMzZTIyZDg2OGE5",
+  "snapshot_id": "MCwxOTNiNTY5OWM3ODk1NDNjMGU5ZjY5YzI1ODYzMmM0YTc5OWNhZWQ3",
   "tracks": [
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1407,18 +1407,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.36",
-        "url": "https://open.spotify.com/album/405tMm63Ou53fIs0BmdeH9"
+        "name": "Star",
+        "url": "https://open.spotify.com/album/4mVaOQu6qOjGpSlNjwf0n4"
       },
       "artists": [
         {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+          "name": "BYUL",
+          "url": "https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp"
+        },
+        {
+          "name": "Na Yoon Kwon",
+          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
         }
       ],
-      "duration_ms": 226998,
-      "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
-      "url": "https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9"
+      "duration_ms": 239933,
+      "name": "\uc548\ubd80",
+      "url": "https://open.spotify.com/track/7J630PtbTxF2cg0WQ0BhZF"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1439,22 +1443,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/4mVaOQu6qOjGpSlNjwf0n4"
+        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.36",
+        "url": "https://open.spotify.com/album/405tMm63Ou53fIs0BmdeH9"
       },
       "artists": [
         {
-          "name": "BYUL",
-          "url": "https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp"
-        },
-        {
-          "name": "Na Yoon Kwon",
-          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
         }
       ],
-      "duration_ms": 239933,
-      "name": "\uc548\ubd80",
-      "url": "https://open.spotify.com/track/7J630PtbTxF2cg0WQ0BhZF"
+      "duration_ms": 226998,
+      "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
+      "url": "https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9"
     },
     {
       "added_at": "2022-06-13 13:22:46",

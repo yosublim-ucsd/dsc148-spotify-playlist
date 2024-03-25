@@ -3780,10 +3780,28 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 149647,
       "name": "discord",
       "url": "https://open.spotify.com/track/3zOCTPLMXH0fGP3gw5VM5v"
+    },
+    {
+      "album": {
+        "name": "discord",
+        "url": "https://open.spotify.com/album/35a8Ha0jY3G6M5Gjncm7Jr"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149647,
+      "name": "discord",
+      "url": "https://open.spotify.com/track/6CoWj9Ord9aAKzRQfEtiNq"
     },
     {
       "album": {
@@ -5910,10 +5928,28 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 174462,
       "name": "high school boy",
       "url": "https://open.spotify.com/track/2ytvzrBgcha4GxJVtuCcIy"
+    },
+    {
+      "album": {
+        "name": "high school boy",
+        "url": "https://open.spotify.com/album/2ORcCijIfVbm8mfSzhHhRB"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174462,
+      "name": "high school boy",
+      "url": "https://open.spotify.com/track/44P8V1OgBQH1l54gY5Buck"
     },
     {
       "album": {

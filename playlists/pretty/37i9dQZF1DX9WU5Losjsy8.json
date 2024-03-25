@@ -1,12 +1,12 @@
 {
   "description": "Skifoan und H\u00fcttenabriss.",
-  "num_followers": 399302,
+  "num_followers": 399419,
   "original_name": "Apr\u00e8s Ski Party 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWZlZDc1NzM3YjU2ZWRjNTlhOTdlNGE4NGJmYTgwNGE3ZjlhMDNk",
+  "snapshot_id": "MCxmNTQ3MjBjYjlkOTc5YTRjNGJiOTJiMzMxMmQyOTdkNDliNzBmMjQ4",
   "tracks": [
     {
       "added_at": "2024-03-22 00:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-03-22 00:00:00",
       "album": {
-        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 246433,
-      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
-    },
-    {
-      "added_at": "2024-03-22 00:00:00",
-      "album": {
         "name": "Herzfrequenz",
         "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 227040,
       "name": "Herz an Herz",
       "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
+    },
+    {
+      "added_at": "2024-03-22 00:00:00",
+      "album": {
+        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 246433,
+      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
     },
     {
       "added_at": "2024-03-22 00:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-03-22 00:00:00",
       "album": {
-        "name": "Johnny D\u00e4pp (Ich Will Mallorca Zur\u00fcck)",
-        "url": "https://open.spotify.com/album/6TEyDsyMfoXrcLCHJl7HOw"
-      },
-      "artists": [
-        {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
-        }
-      ],
-      "duration_ms": 223671,
-      "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
-      "url": "https://open.spotify.com/track/014Jl3WPQF9AT3kQRWVmku"
-    },
-    {
-      "added_at": "2024-03-22 00:00:00",
-      "album": {
         "name": "Eine Woche wach",
         "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 235899,
       "name": "Eine Woche wach",
       "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
+    },
+    {
+      "added_at": "2024-03-22 00:00:00",
+      "album": {
+        "name": "Johnny D\u00e4pp (Ich Will Mallorca Zur\u00fcck)",
+        "url": "https://open.spotify.com/album/6TEyDsyMfoXrcLCHJl7HOw"
+      },
+      "artists": [
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        }
+      ],
+      "duration_ms": 223671,
+      "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
+      "url": "https://open.spotify.com/track/014Jl3WPQF9AT3kQRWVmku"
     },
     {
       "added_at": "2024-03-22 00:00:00",
@@ -983,6 +983,26 @@
     {
       "added_at": "2024-03-22 00:00:00",
       "album": {
+        "name": "Midnight Lady",
+        "url": "https://open.spotify.com/album/68DOa8MyHEElxIOhatDQJN"
+      },
+      "artists": [
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        },
+        {
+          "name": "Knossi",
+          "url": "https://open.spotify.com/artist/7H8EE2uf8SstFY9lUyid0T"
+        }
+      ],
+      "duration_ms": 207554,
+      "name": "Midnight Lady",
+      "url": "https://open.spotify.com/track/0CbNz8F2OUOfxOnZyV6pDJ"
+    },
+    {
+      "added_at": "2024-03-22 00:00:00",
+      "album": {
         "name": "Oh Baby",
         "url": "https://open.spotify.com/album/5xZubDsUa9davo8N2LOFy6"
       },
@@ -1015,22 +1035,6 @@
     {
       "added_at": "2024-03-22 00:00:00",
       "album": {
-        "name": "Neverland",
-        "url": "https://open.spotify.com/album/2bDZ4TekRc3saVb0O1G7ik"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 212957,
-      "name": "Neverland",
-      "url": "https://open.spotify.com/track/7HJ7K2RacfpaX2DTEvwYpS"
-    },
-    {
-      "added_at": "2024-03-22 00:00:00",
-      "album": {
         "name": "Zum Greifen nah",
         "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
       },
@@ -1051,18 +1055,18 @@
     {
       "added_at": "2024-03-22 00:00:00",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/2bDZ4TekRc3saVb0O1G7ik"
       },
       "artists": [
         {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
         }
       ],
-      "duration_ms": 144533,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
+      "duration_ms": 212957,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/7HJ7K2RacfpaX2DTEvwYpS"
     },
     {
       "added_at": "2024-03-22 00:00:00",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2024-03-22 00:00:00",
       "album": {
-        "name": "Midnight Lady",
-        "url": "https://open.spotify.com/album/68DOa8MyHEElxIOhatDQJN"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
       },
       "artists": [
         {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
-        },
-        {
-          "name": "Knossi",
-          "url": "https://open.spotify.com/artist/7H8EE2uf8SstFY9lUyid0T"
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
         }
       ],
-      "duration_ms": 207554,
-      "name": "Midnight Lady",
-      "url": "https://open.spotify.com/track/0CbNz8F2OUOfxOnZyV6pDJ"
+      "duration_ms": 144533,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
     },
     {
       "added_at": "2024-03-22 00:00:00",
@@ -1155,30 +1155,6 @@
     {
       "added_at": "2024-03-22 00:00:00",
       "album": {
-        "name": "Kabinenparty",
-        "url": "https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5"
-      },
-      "artists": [
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        },
-        {
-          "name": "Nils_Gucki",
-          "url": "https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF"
-        },
-        {
-          "name": "MAKZ 38",
-          "url": "https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF"
-        }
-      ],
-      "duration_ms": 142750,
-      "name": "Kabinenparty",
-      "url": "https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn"
-    },
-    {
-      "added_at": "2024-03-22 00:00:00",
-      "album": {
         "name": "Saufen aufm Spielplatz",
         "url": "https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67"
       },
@@ -1215,22 +1191,26 @@
     {
       "added_at": "2024-03-22 00:00:00",
       "album": {
-        "name": "Ich bleib hier",
-        "url": "https://open.spotify.com/album/2whxURNncAj78xYqErLbFP"
+        "name": "Kabinenparty",
+        "url": "https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5"
       },
       "artists": [
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
         },
         {
-          "name": "M\u00fctze Katze",
-          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
+          "name": "Nils_Gucki",
+          "url": "https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF"
+        },
+        {
+          "name": "MAKZ 38",
+          "url": "https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF"
         }
       ],
-      "duration_ms": 162947,
-      "name": "Ich bleib hier",
-      "url": "https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj"
+      "duration_ms": 142750,
+      "name": "Kabinenparty",
+      "url": "https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn"
     },
     {
       "added_at": "2024-03-22 00:00:00",
@@ -1255,6 +1235,42 @@
     {
       "added_at": "2024-03-22 00:00:00",
       "album": {
+        "name": "Ich bleib hier",
+        "url": "https://open.spotify.com/album/2whxURNncAj78xYqErLbFP"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        },
+        {
+          "name": "M\u00fctze Katze",
+          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
+        }
+      ],
+      "duration_ms": 162947,
+      "name": "Ich bleib hier",
+      "url": "https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj"
+    },
+    {
+      "added_at": "2024-03-22 00:00:00",
+      "album": {
+        "name": "Oben ohne",
+        "url": "https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 179565,
+      "name": "Oben ohne",
+      "url": "https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3"
+    },
+    {
+      "added_at": "2024-03-22 00:00:00",
+      "album": {
         "name": "Klempner Klaus",
         "url": "https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL"
       },
@@ -1271,6 +1287,22 @@
       "duration_ms": 155820,
       "name": "Klempner Klaus",
       "url": "https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY"
+    },
+    {
+      "added_at": "2024-03-22 00:00:00",
+      "album": {
+        "name": "Sweet Caroline (Party Remix)",
+        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "Sweet Caroline - Party Remix",
+      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
     },
     {
       "added_at": "2024-03-22 00:00:00",
@@ -1295,18 +1327,22 @@
     {
       "added_at": "2024-03-22 00:00:00",
       "album": {
-        "name": "Sweet Caroline (Party Remix)",
-        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
+        "name": "Nimm mich mit ins Paradies",
+        "url": "https://open.spotify.com/album/3MS34bdsyJSrdMnbEac3pn"
       },
       "artists": [
         {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
         }
       ],
-      "duration_ms": 206613,
-      "name": "Sweet Caroline - Party Remix",
-      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
+      "duration_ms": 164078,
+      "name": "Nimm mich mit ins Paradies",
+      "url": "https://open.spotify.com/track/2ZqVzQrbA3FuXKOUBBqpRy"
     },
     {
       "added_at": "2024-03-22 00:00:00",
@@ -1335,26 +1371,6 @@
       "duration_ms": 142750,
       "name": "Kabinenparty (feat. MAKZ 38) - Kreisliga Mix",
       "url": "https://open.spotify.com/track/4tL82MSbNxW9aMexbmnXS2"
-    },
-    {
-      "added_at": "2024-03-22 00:00:00",
-      "album": {
-        "name": "Nimm mich mit ins Paradies",
-        "url": "https://open.spotify.com/album/3MS34bdsyJSrdMnbEac3pn"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        },
-        {
-          "name": "Julian Benz",
-          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
-        }
-      ],
-      "duration_ms": 164078,
-      "name": "Nimm mich mit ins Paradies",
-      "url": "https://open.spotify.com/track/2ZqVzQrbA3FuXKOUBBqpRy"
     },
     {
       "added_at": "2024-03-22 00:00:00",
@@ -1403,30 +1419,6 @@
     {
       "added_at": "2024-03-22 00:00:00",
       "album": {
-        "name": "Grapefruit",
-        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
-      },
-      "artists": [
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        },
-        {
-          "name": "Julia Engelmann",
-          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
-        },
-        {
-          "name": "Raket One",
-          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "Grapefruit",
-      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
-    },
-    {
-      "added_at": "2024-03-22 00:00:00",
-      "album": {
         "name": "Hoch die H\u00e4nde Wochenende",
         "url": "https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ"
       },
@@ -1451,22 +1443,26 @@
     {
       "added_at": "2024-03-22 00:00:00",
       "album": {
-        "name": "Holterdiepolter",
-        "url": "https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J"
+        "name": "Grapefruit",
+        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
       "artists": [
         {
-          "name": "Anstandslos & Durchgeknallt",
-          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
         },
         {
-          "name": "Georg Stengel",
-          "url": "https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU"
+          "name": "Julia Engelmann",
+          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
+        },
+        {
+          "name": "Raket One",
+          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Holterdiepolter",
-      "url": "https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ"
+      "duration_ms": 184160,
+      "name": "Grapefruit",
+      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
     },
     {
       "added_at": "2024-03-22 00:00:00",
@@ -1491,18 +1487,22 @@
     {
       "added_at": "2024-03-22 00:00:00",
       "album": {
-        "name": "Bierkapit\u00e4n",
-        "url": "https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC"
+        "name": "Holterdiepolter",
+        "url": "https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J"
       },
       "artists": [
         {
-          "name": "Bierkapit\u00e4n",
-          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+        },
+        {
+          "name": "Georg Stengel",
+          "url": "https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU"
         }
       ],
-      "duration_ms": 210857,
-      "name": "Bierkapit\u00e4n",
-      "url": "https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv"
+      "duration_ms": 192600,
+      "name": "Holterdiepolter",
+      "url": "https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ"
     }
   ],
   "unique_name": "Apr\u00e8s Ski Party 2024",

@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-315 songs - 1 day 3 hr 14 min
+316 songs - 1 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 | 2022-04-04 | 2024-02-17 |
 | [Beyond Beliefs](https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Beyond Beliefs](https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru) | 5:13 | 2021-12-23 |  |
 | [Birth](https://open.spotify.com/track/1rLy27e43WOwySy7U8JaRb) | [PALLADIAN](https://open.spotify.com/artist/6XZx83KcYOarkuCd6fZBm3) | [Surfaces](https://open.spotify.com/album/1PeartN69EcDi0Vf5kVImq) | 5:19 | 2021-12-23 | 2022-02-19 |
-| [Blissda](https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Blissda](https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9) | 5:43 | 2023-03-23 |  |
+| [Blissda](https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Blissda](https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9) | 5:43 | 2023-03-23 | 2024-03-25 |
 | [Bloom](https://open.spotify.com/track/2r4Xr6SX8m8KhqQuKFyUmG) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Bloom](https://open.spotify.com/album/0TSx6t9ZxdVmH4r0kXHLbq) | 4:44 | 2022-10-07 | 2022-11-14 |
 | [Blóð](https://open.spotify.com/track/5XLPGis2GkyXNtTRzpFuWQ) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Blóð](https://open.spotify.com/album/6pB1TTndHh2TUYZuiySCNA) | 4:55 | 2021-12-23 | 2022-07-25 |
 | [Blurred Mind](https://open.spotify.com/track/6pfGL6jUXO00ogAsTxr5C4) | [Feinheitsbrei](https://open.spotify.com/artist/5kSE2CEyHc2XC9lQCAH1ET) | [From Mind To Set](https://open.spotify.com/album/7mX4xS9kuoLJe9B9gnMCsm) | 7:55 | 2022-04-04 | 2022-04-21 |
@@ -111,6 +111,7 @@
 | [Goodbye](https://open.spotify.com/track/6bM8DrDD0hOuU0e06LKehN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 6:03 | 2022-11-16 |  |
 | [Graf Zahl](https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Graf Zahl](https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW) | 5:32 | 2021-12-23 |  |
 | [Gypsy Woman \(She's Homeless\) \- Atmos Blaq Remix](https://open.spotify.com/track/0OIkGLJOrJtrQ9pm805I5m) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Gypsy Woman \(She's Homeless\) \[Atmos Blaq & Chymamusique Remixes\]](https://open.spotify.com/album/1iML6kYmw5LThCd4ONdgtZ) | 6:25 | 2023-03-23 | 2024-03-21 |
+| [Gypsy Woman \(She's Homeless\) \[feat\. Kali Mija\] \- Atmos Blaq Remix](https://open.spotify.com/track/5U1X2YwvpAqfzyszaoc1R1) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Gypsy Woman \(She’s Homeless\) \[feat\. Kali Mija\] \[Remixes\]](https://open.spotify.com/album/7GfuSzPL6vOWkcWzc3xFwf) | 6:25 | 2024-02-23 |  |
 | [Halt Plea](https://open.spotify.com/track/4RDbet8bxl0MPQMG9BLEDJ) | [Entele](https://open.spotify.com/artist/5S4KGrV1TY9Dqi8dS5LbPo) | [Halt Plea](https://open.spotify.com/album/2etuLjhlcEMvpjIKm76wSm) | 2:29 | 2024-02-23 |  |
 | [Harlem River](https://open.spotify.com/track/4xv8NEU2gJ0Ud3PZZJgh59) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/3YCZyxDxBnFt4x3eYGYHFv) | 4:37 | 2024-02-16 |  |
 | [Harlem River](https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Harlem River / Falling](https://open.spotify.com/album/2McNZimRxQr0n7tpOVQYu7) | 4:37 | 2021-12-23 | 2022-07-29 |

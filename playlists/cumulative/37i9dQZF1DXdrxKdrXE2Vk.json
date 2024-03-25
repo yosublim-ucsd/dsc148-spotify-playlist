@@ -2421,6 +2421,36 @@
     },
     {
       "album": {
+        "name": "Here Is Our Hallelujah (Live)",
+        "url": "https://open.spotify.com/album/6jtQa95XthgzYaVCOTHSKS"
+      },
+      "artists": [
+        {
+          "name": "Village Lights",
+          "url": "https://open.spotify.com/artist/63Hnq5ylvVEXWaw07FWrp1"
+        },
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        },
+        {
+          "name": "Ike Ndolo",
+          "url": "https://open.spotify.com/artist/7GybhnbNqgYBkIIU7zE90W"
+        },
+        {
+          "name": "Ricky Vazquez",
+          "url": "https://open.spotify.com/artist/1JNFZ2QcDKJbAPYwgCvgRb"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300138,
+      "name": "Here Is Our Hallelujah - Live",
+      "url": "https://open.spotify.com/track/6oSxwAZN0ce6iDYI891eL7"
+    },
+    {
+      "album": {
         "name": "Highest Hallelujah",
         "url": "https://open.spotify.com/album/25BOqHoxTTibHK5BDqwERr"
       },
@@ -6080,7 +6110,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-25",
       "duration_ms": 376541,
       "name": "Thin Place - Live",
       "url": "https://open.spotify.com/track/6Kt5xALwAfnGDGdZWq3XDu"

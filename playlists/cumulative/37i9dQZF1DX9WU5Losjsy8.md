@@ -4,7 +4,7 @@
 
 > Skifoan und Hüttenabriss.
 
-123 songs - 6 hr 14 min
+124 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Auf zum Après Ski](https://open.spotify.com/track/0VZwMxEWzsB1cwuZmBOdUj) | [Der Partycrasher](https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf) | [Auf zum Après Ski](https://open.spotify.com/album/477vKzPQAO1fCKl7k1TPto) | 2:57 | 2024-02-15 |  |
 | [Auffe aufn Berg](https://open.spotify.com/track/4jNkEyCYTfCavAOHgtBsCz) | [Jägermeister DJ Alex](https://open.spotify.com/artist/1Ob4fbwSOaJu4rbx79jJMk), [Matty Valentino](https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h) | [Auffe aufn Berg](https://open.spotify.com/album/1MsuuxBavwmlg23A2KapAr) | 3:51 | 2024-02-08 |  |
 | [BIER](https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA) | [Drunken Masters](https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q), [Maxim K.I.Z](https://open.spotify.com/artist/4ol4AQkp02j1FQuQ4uGH1k), [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [BIER](https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC) | 2:09 | 2023-07-14 |  |
-| [Bierkapitän](https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD) | [Bierkapitän](https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC) | 3:30 | 2023-08-28 |  |
+| [Bierkapitän](https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD) | [Bierkapitän](https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC) | 3:30 | 2023-08-28 | 2024-03-25 |
 | [Bleib in der Schule](https://open.spotify.com/track/14ZdGRgEojosST783o66CX) | [Trailerpark](https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB) | [Crackstreet Boys 3 \(Bonus Tracks Version\)](https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK) | 4:25 | 2023-07-14 |  |
 | [Blockflötenunterricht](https://open.spotify.com/track/6wWF5ahS0ebMhgOk6JbrcB) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Pottsau](https://open.spotify.com/artist/0XRGK8re2VVOL05DsNnsu6) | [Blockflötenunterricht](https://open.spotify.com/album/1SmbclDf51xHvmCnWocak8) | 2:35 | 2023-08-10 | 2023-10-22 |
 | [Bring mich nach Hause](https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Bring mich nach Hause](https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4) | 2:29 | 2023-07-14 | 2024-02-15 |
@@ -100,6 +100,7 @@
 | [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y) | 3:24 | 2023-07-14 |  |
 | [Nimm mich mit ins Paradies](https://open.spotify.com/track/2ZqVzQrbA3FuXKOUBBqpRy) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp) | [Nimm mich mit ins Paradies](https://open.spotify.com/album/3MS34bdsyJSrdMnbEac3pn) | 2:44 | 2024-02-15 |  |
 | [Nimm mich mit ins Paradies](https://open.spotify.com/track/6nOWw1hXnr3FB5F8VKDqzu) | [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Nimm mich mit ins Paradies](https://open.spotify.com/album/3ol2K9AiuZqrl0Yar8CEHm) | 2:44 | 2023-07-14 | 2024-01-19 |
+| [Oben ohne](https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Oben ohne](https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M) | 2:59 | 2024-03-22 |  |
 | [Oh Baby](https://open.spotify.com/track/59HKKV0eD3UPJ3RCG5qFcc) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Oh Baby](https://open.spotify.com/album/5xZubDsUa9davo8N2LOFy6) | 3:11 | 2024-01-26 |  |
 | [Olivia](https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I) | [Die Zipfelbuben](https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U), [Der Zipfelbube](https://open.spotify.com/artist/6J8iPd5dkgJWgxqe4Fn2Az), [DJ Cashi](https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo) | [Olivia](https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx) | 3:00 | 2023-07-14 |  |
 | [Ouzo](https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp) | [Vincent Gross](https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy) | [Ouzo](https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K) | 4:34 | 2023-11-14 |  |
